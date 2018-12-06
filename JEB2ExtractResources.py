@@ -80,9 +80,9 @@ class JEB2ExtractResources(IScript):
         #print("-> %s" %filepath)
       elif not unit.getChildren():
         filepath = os.path.join(outdir, unit.getName())
-        print("-> %s : %d bytes" %(filepath, unitsize))
+        print("-> %s : %d bytes" %(filepath,  unitsize))
         srcfile = unitinput.getStream()
-        length = srcfile.available();
+        length = srcfile.available()
         buff = zeros(length, 'b')
         f = open(filepath, 'wb')
         srcfile.read(buff)
