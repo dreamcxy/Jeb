@@ -7,7 +7,7 @@ class JEB2ListAllStrings(IScript):
     def run(self, ctx):
         enginesContext = ctx.getEnginesContext()
         project = enginesContext.getProject(0)
-        # print project.getName()           得到当前打开的apk的名字
+        # print project.getName()           得到当前打开的工程的名字
         artifact = project.getLiveArtifact(0)
         unit = artifact.getUnits()[0]
         for child in unit.getChildren():

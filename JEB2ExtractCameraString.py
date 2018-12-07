@@ -21,10 +21,11 @@ class JEB2ExtractCameraString(IScript):
         engineContext = ctx.getEnginesContext()
         project = engineContext.getProject(0)
         artifact = Artifact("Place", FileInput(
-            File("D:\DetectApksSecond\\adult.dating.secret 3.11.45 45 .apk")))
+            File("D:/DetectApksSecond/adult.dating.secret 3.11.45 45 .apk")))
         project.processArtifact(artifact)
 
-    def loadArtifact(self):
+    def loadArtifacts(self):
+        pass
 
 
 def main():
