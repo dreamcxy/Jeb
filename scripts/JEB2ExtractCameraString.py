@@ -1,6 +1,7 @@
 # encoding=utf-8
 
 import os
+import platform
 from com.pnfsoftware.jeb.client.api import IScript
 from com.pnfsoftware.jeb.core import Artifact
 from com.pnfsoftware.jeb.core.input import FileInput
@@ -8,8 +9,10 @@ from com.pnfsoftware.jeb.core.output.text import ITextDocument
 from java.io import File
 
 
-APKDIR = "/Users/chenxiaoyu/Desktop/Project/Jeb/apks/"
-STRINGSDIR = "/Users/chenxiaoyu/Desktop/Project/Jeb/strings/"
+APKDIR = "C:/Users/dreamcxy/Desktop/Security/SilentCamera/codes/Jeb/apks/" if platform.system(
+) != 'Windows' else "/Users/chenxiaoyu/Desktop/Project/Jeb/apks/"
+STRINGSDIR = "C:/Users/dreamcxy/Desktop/Security/SilentCamera/codes/Jeb/strings/" if platform.system(
+) != 'Windows' else "/Users/chenxiaoyu/Desktop/Project/Jeb/strings/"
 
 
 class JEB2ExtractCameraString(IScript):
@@ -28,19 +31,20 @@ class JEB2ExtractCameraString(IScript):
         apkFiles = os.listdir(APKDIR)
         for apkFile in apkFiles:
             print apkFile
-            artifact = self.loadArtifacts(APKDIR + apkFile)
-            project.processArtifact(artifact)
+            artifact = self.loadArtifacts(project, APKDIR + apkFile)
             self.extractStringsXmlFromArtifact(artifact)
 
 #   将apk转为artifact文件
-    def loadArtifacts(self, artifactFilePath):
+    def loadArtifacts(self, project, artifactFilePath):
         artifactFile = File(artifactFilePath)
-        return Artifact(artifactFile.getName(), FileInput(artifactFile))
-
+        return project.processArtifact(Artifact(artifactFile.getName(), FileInput(artifactFile)))
 
 #   将artifact中Resources下的strings.xml录入到文件中
+
+
     def extractStringsXmlFromArtifact(self, artifact):
-        stringFilePath = STRINGSDIR + artifact.getName() + ".txt"
+        stringFilePath = STRINGSDIR + artifact.getArtifact().getName() + ".txt"
+        print stringFilePath
         units = artifact.getUnits()
         if not units:
             print "artifact loaded fail"
@@ -58,7 +62,7 @@ class JEB2ExtractCameraString(IScript):
                             if value_child.getName() == "strings.xml":
                                 doc = self.getTextDocument(value_child)
                                 text = self.formatTextDocument(doc)
-                                with open(stringFilePath) as stringFile:
+                                with open(stringFilePath, 'w') as stringFile:
                                     stringFile.write(text.encode("utf-8"))
                                 return
 
