@@ -30,14 +30,16 @@ class JEB2ExtractCameraString(IScript):
 
         apkFiles = os.listdir(APKDIR)
         for apkFile in apkFiles:
-            print apkFile
-            artifact = self.loadArtifacts(project, APKDIR + apkFile)
-            self.extractStringsXmlFromArtifact(artifact)
+            # print apkFile
+            artifact = self.loadArtifacts(APKDIR + apkFile)
+            active_artifact = project.processArtifact(artifact)
+            self.extractStringsXmlFromArtifact(active_artifact)
 
 #   将apk转为artifact文件
-    def loadArtifacts(self, project, artifactFilePath):
+    def loadArtifacts(self, artifactFilePath):
         artifactFile = File(artifactFilePath)
-        return project.processArtifact(Artifact(artifactFile.getName(), FileInput(artifactFile)))
+        return Artifact(artifactFile.getName(), FileInput(artifactFile))
+        # return project.processArtifact(Artifact(artifactFile.getName(), FileInput(artifactFile)))
 
 #   将artifact中Resources下的strings.xml录入到文件中
 
