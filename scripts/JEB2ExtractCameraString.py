@@ -39,7 +39,7 @@ class JEB2ExtractCameraString(IScript):
     def loadArtifacts(self, artifactFilePath):
         artifactFile = File(artifactFilePath)
         return Artifact(artifactFile.getName(), FileInput(artifactFile))
-        # return project.processArtifact(Artifact(artifactFile.getName(), FileInput(artifactFile)))
+  
 
 #   将artifact中Resources下的strings.xml录入到文件中
 
