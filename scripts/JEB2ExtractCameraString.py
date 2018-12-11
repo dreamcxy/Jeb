@@ -10,9 +10,10 @@ from java.io import File
 
 
 APKDIR = "C:/Users/dreamcxy/Desktop/Security/SilentCamera/codes/Jeb/apks/" if platform.system(
-) != 'Windows' else "/Users/chenxiaoyu/Desktop/Project/Jeb/apks/"
+) == 'Windows' else "/Users/chenxiaoyu/Desktop/Project/Jeb/apks/"
 STRINGSDIR = "C:/Users/dreamcxy/Desktop/Security/SilentCamera/codes/Jeb/strings/" if platform.system(
-) != 'Windows' else "/Users/chenxiaoyu/Desktop/Project/Jeb/strings/"
+) == 'Windows' else "/Users/chenxiaoyu/Desktop/Project/Jeb/strings/"
+WINDOWSIZE = 2
 
 
 class JEB2ExtractCameraString(IScript):
@@ -29,25 +30,36 @@ class JEB2ExtractCameraString(IScript):
         project = projects[0]
 
         apkFiles = os.listdir(APKDIR)
-        for apkFile in apkFiles:
-            # print apkFile
-            artifact = self.loadArtifacts(APKDIR + apkFile)
-            active_artifact = project.processArtifact(artifact)
-            self.extractStringsXmlFromArtifact(active_artifact)
+        apkFileDealList = []
+        while apkFiles:
+            for i in range(0, WINDOWSIZE):
+                if apkFiles:
+                    apkFileDealList.append(apkFiles.pop())
+            while apkFileDealList:
+                artifact = self.loadArtifacts(APKDIR + apkFileDealList.pop())
+                liveArtifact = project.processArtifact(artifact)
+                self.extractStringsXmlFromArtifact(liveArtifact)
+                self.destroyUnitsOnlyRemainApkName(project, liveArtifact)
+
+        # for apkFile in apkFiles:
+        #     # print apkFile
+        #     artifact = self.loadArtifacts(APKDIR + apkFile)
+        #     liveArtifact = project.processArtifact(artifact)
+        #     self.extractStringsXmlFromArtifact(liveArtifact)
+        #     self.destroyUnitsOnlyRemainApkName(project, liveArtifact)
+
 
 #   将apk转为artifact文件
     def loadArtifacts(self, artifactFilePath):
         artifactFile = File(artifactFilePath)
         return Artifact(artifactFile.getName(), FileInput(artifactFile))
-  
+
 
 #   将artifact中Resources下的strings.xml录入到文件中
-
-
-    def extractStringsXmlFromArtifact(self, artifact):
-        stringFilePath = STRINGSDIR + artifact.getArtifact().getName() + ".txt"
+    def extractStringsXmlFromArtifact(self, liveArtifact):
+        stringFilePath = STRINGSDIR + liveArtifact.getArtifact().getName() + ".txt"
         print stringFilePath
-        units = artifact.getUnits()
+        units = liveArtifact.getUnits()
         if not units:
             print "artifact loaded fail"
             return
@@ -84,3 +96,9 @@ class JEB2ExtractCameraString(IScript):
         for line in alldoc.getLines():
             s += line.getText().toString() + '\n'
         return s
+
+#   删除载入的artifact下的所有unit，只保留artifact的名字也就是apk名
+    def destroyUnitsOnlyRemainApkName(self, project, liveArtifact):
+        units = liveArtifact.getUnits()
+        for unit in units:
+            project.destroyUnit(unit)
