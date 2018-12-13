@@ -16,10 +16,11 @@ def load_strings_suitable():
     while strings_files:
         strings_file = STRINGSDIR + strings_files.pop()
         print strings_file
-        strings_list += extractSuitableStringFromFile(strings_file)
+        strings_list += extract_suitable_string_from_file(strings_file)
     return strings_list
 
-def extractSuitableStringFromFile(string_file):
+
+def extract_suitable_string_from_file(string_file):
     strings_list = []
     with open(string_file) as strings:
         content = strings.read()
@@ -29,8 +30,12 @@ def extractSuitableStringFromFile(string_file):
         print len(root)
         for i in range(0, len(root)):
             if root[i].text:
+                strings_list.append(root[i].text)
                 if distinguish_cn(root[i].text):
-                    strings_list.append(root[i].text)
+                    extract_to_file(root[i].text, "")
+                else:
+                    extract_to_file(root[i].text, "")
+                    pass
                 # stringList.append(root[i].text.encoding("utf-8"))
         return strings_list
     except et.ParseError:
@@ -40,21 +45,12 @@ def extractSuitableStringFromFile(string_file):
 def extract_to_file(strings, output_filename):
     with open(output_filename, "w") as output_file:
         output_file.write(strings)
-    
 
 
 def distinguish_cn(string_text):
     cn_pattern = re.compile(u'[\u4e00-\u9fa5]')
     match = cn_pattern.search(string_text)
     return match
-
-
-def dealStrings(args):
-    pass
-
-
-def classifyStrings(args):
-    pass
 
 
 def main():
@@ -65,7 +61,6 @@ def main():
             print stringList.pop()
         except IOError:
             continue
-    
 
 
 if __name__ == '__main__':
