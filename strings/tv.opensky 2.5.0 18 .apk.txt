@@ -1,0 +1,2779 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">
+        Navigate home</string>
+    <string name="abc_action_bar_home_description_format">
+        %1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">
+        %1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">
+        Navigate up</string>
+    <string name="abc_action_menu_overflow_description">
+        More options</string>
+    <string name="abc_action_mode_done">
+        Done</string>
+    <string name="abc_activity_chooser_view_see_all">
+        See all</string>
+    <string name="abc_activitychooserview_choose_application">
+        Choose an app</string>
+    <string name="abc_capital_off">
+        OFF</string>
+    <string name="abc_capital_on">
+        ON</string>
+    <string name="abc_search_hint">
+        Search…</string>
+    <string name="abc_searchview_description_clear">
+        Clear query</string>
+    <string name="abc_searchview_description_query">
+        Search query</string>
+    <string name="abc_searchview_description_search">
+        Search</string>
+    <string name="abc_searchview_description_submit">
+        Submit query</string>
+    <string name="abc_searchview_description_voice">
+        Voice search</string>
+    <string name="abc_shareactionprovider_share_with">
+        Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">
+        Share with %s</string>
+    <string name="abc_toolbar_collapse_description">
+        Collapse</string>
+    <string name="cast_notification_connected_message">
+        Connected to %1$s</string>
+    <string name="cast_notification_connecting_message">
+        Connecting to %1$s</string>
+    <string name="cast_notification_disconnect">
+        Disconnect</string>
+    <string name="com_facebook_device_auth_instructions">
+        Visit <b>facebook.com/device</b><br />on your smartphone or computer<br />and enter this code</string>
+    <string name="com_facebook_image_download_unknown_error">
+        Unexpected error while downloading an image.</string>
+    <string name="com_facebook_internet_permission_error_message">
+        WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">
+        AndroidManifest Error</string>
+    <string name="com_facebook_like_button_liked">
+        Liked</string>
+    <string name="com_facebook_like_button_not_liked">
+        Like</string>
+    <string name="com_facebook_loading">
+        Loading...</string>
+    <string name="com_facebook_loginview_cancel_action">
+        Cancel</string>
+    <string name="com_facebook_loginview_log_in_button">
+        Log in</string>
+    <string name="com_facebook_loginview_log_in_button_long">
+        Log in with Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">
+        Log out</string>
+    <string name="com_facebook_loginview_log_out_button">
+        Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">
+        Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">
+        Logged in using Facebook</string>
+    <string name="com_facebook_send_button_text">
+        Send</string>
+    <string name="com_facebook_share_button_text">
+        Share</string>
+    <string name="com_facebook_tooltip_default">
+        "New! You're in control - choose what info you want to share with apps."</string>
+    <string name="common_google_play_services_enable_button">
+        Enable</string>
+    <string name="common_google_play_services_enable_text">
+        "%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">
+        Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">
+        Get Google Play services</string>
+    <string name="common_google_play_services_install_text_phone">
+        "%1$s won't run without Google Play services, which are missing from your phone."</string>
+    <string name="common_google_play_services_install_text_tablet">
+        "%1$s won't run without Google Play services, which are missing from your tablet."</string>
+    <string name="common_google_play_services_install_title">
+        Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">
+        Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">
+        %1$s is having trouble with Google Play services. If the problem persists, please contact the developer for assistance.</string>
+    <string name="common_google_play_services_unsupported_text">
+        %1$s relies on Google Play services, which is not supported by your device. Contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_title">
+        Google Play services</string>
+    <string name="common_google_play_services_update_button">
+        Update</string>
+    <string name="common_google_play_services_update_text">
+        "%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">
+        Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">
+        "%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_updating_title">
+        Google Play services are updating</string>
+    <string name="common_google_play_services_wear_update_text">
+        New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">
+        Open on phone</string>
+    <string name="common_signin_button_text">
+        Sign in</string>
+    <string name="common_signin_button_text_long">
+        Sign in with Google</string>
+    <string name="exo_controls_fastforward_description">
+        Fast forward</string>
+    <string name="exo_controls_next_description">
+        Next track</string>
+    <string name="exo_controls_pause_description">
+        Pause</string>
+    <string name="exo_controls_play_description">
+        Play</string>
+    <string name="exo_controls_previous_description">
+        Previous track</string>
+    <string name="exo_controls_rewind_description">
+        Rewind</string>
+    <string name="exo_controls_stop_description">
+        Stop</string>
+    <string name="messenger_send_button_text">
+        Send</string>
+    <string name="mr_button_content_description">
+        Cast button</string>
+    <string name="mr_cast_button_connected">
+        Cast button. Connected</string>
+    <string name="mr_cast_button_connecting">
+        Cast button. Connecting</string>
+    <string name="mr_cast_button_disconnected">
+        Cast button. Disconnected</string>
+    <string name="mr_chooser_searching">
+        Finding devices</string>
+    <string name="mr_chooser_title">
+        Cast to</string>
+    <string name="mr_controller_album_art">
+        Album art</string>
+    <string name="mr_controller_casting_screen">
+        Casting screen</string>
+    <string name="mr_controller_close_description">
+        Close</string>
+    <string name="mr_controller_collapse_group">
+        Collapse</string>
+    <string name="mr_controller_disconnect">
+        Disconnect</string>
+    <string name="mr_controller_expand_group">
+        Expand</string>
+    <string name="mr_controller_no_info_available">
+        No info available</string>
+    <string name="mr_controller_no_media_selected">
+        No media selected</string>
+    <string name="mr_controller_pause">
+        Pause</string>
+    <string name="mr_controller_play">
+        Play</string>
+    <string name="mr_controller_stop_casting">
+        Stop casting</string>
+    <string name="mr_controller_volume_slider">
+        Volume slider</string>
+    <string name="mr_system_route_name">
+        System</string>
+    <string name="mr_user_route_category_name">
+        Devices</string>
+    <string name="search_menu_title">
+        Search</string>
+    <string name="status_bar_notification_info_overflow">
+        999+</string>
+    <string name="wallet_buy_button_place_holder">
+        Buy with Google</string>
+    <string name="about_desc">
+        Based in Hong Kong, OpenSky.tv is an exciting new video platform focused in Asia (Hong Kong, Taiwan, Singapore, Malaysia, Thailand, Philippines, Vietnam, Myanmar and Indonesia ). We join forces with talented video content providers around the world to offer premium videos through an innovative watching experience.</string>
+    <string name="about_title">
+        About OpenSky.tv</string>
+    <string name="account_birthday">
+        Year of Birth</string>
+    <string name="account_confirm_password">
+        Confirm Password</string>
+    <string name="account_email">
+        Email</string>
+    <string name="account_gender">
+        Gender</string>
+    <string name="account_gender_female">
+        Female</string>
+    <string name="account_gender_male">
+        Male</string>
+    <string name="account_gender_notToSay">
+        Prefer Not To Say</string>
+    <string name="account_password">
+        Password</string>
+    <string name="action_settings">
+        Setting</string>
+    <string name="action_share">
+        Share</string>
+    <string name="bottomsheet_add_to_up_next">
+        Add to Up Next</string>
+    <string name="bottomsheet_remove_save">
+        Remove Save</string>
+    <string name="bottomsheet_save">
+        Save</string>
+    <string name="bottomsheet_share">
+        Share</string>
+    <string name="categorydetails_title_channel">
+        Related Channels</string>
+    <string name="categorydetails_title_topic">
+        Related Topics</string>
+    <string name="content_love">
+        Love</string>
+    <string name="content_loves">
+        Loves</string>
+    <string name="content_published_on">
+        Published on</string>
+    <string name="content_views">
+        Views</string>
+    <string name="count_video">
+        {0,choice,0#No video|1#1 video|1<{0} videos}</string>
+    <string name="digest_content_empty">
+        No related content</string>
+    <string name="digest_tag_list_empty">
+        "You haven't watched any videos yet. Watch some videos then explore more on your interested topics here."</string>
+    <string name="digest_tag_list_title">
+        Tags you recently digested</string>
+    <string name="discover_daily_discover">
+        Daily Discover</string>
+    <string name="discover_fir">
+        Friday</string>
+    <string name="discover_mon">
+        Monday</string>
+    <string name="discover_on_air">
+        On Air</string>
+    <string name="discover_program_list">
+        Program List</string>
+    <string name="discover_sat">
+        Saturday</string>
+    <string name="discover_sun">
+        Sunday</string>
+    <string name="discover_thu">
+        Thursday</string>
+    <string name="discover_today">
+        Today</string>
+    <string name="discover_tue">
+        Tuesday</string>
+    <string name="discover_wed">
+        Wednesday</string>
+    <string name="error_account_invalid_format_email">
+        Invalid email address.</string>
+    <string name="error_account_invalid_format_password">
+        Password must contain at least 8 alpha-numeric characters.</string>
+    <string name="error_account_passwords_not_match">
+        "Passwords don't match."</string>
+    <string name="error_account_please_accept_tnc">
+        Please read and agree to our Terms of Service and Privacy Policy.</string>
+    <string name="error_initialization">
+        System is busy, please try again.</string>
+    <string name="error_invalid_date">
+        Please input a correct date.</string>
+    <string name="error_live_offshelf">
+        The live video has ended</string>
+    <string name="error_no_network">
+        No Internet connection.</string>
+    <string name="error_out_of_country_invalid_country">
+        Please select a country</string>
+    <string name="error_subscribe_please_accept_tnc">
+        Please read and agree to our Terms of Service and Privacy Policy.</string>
+    <string name="error_title">
+        Error</string>
+    <string name="error_unplug_hdmi">
+        "Restricted by copyright, playback is only allowed on this device's display."</string>
+    <string name="explore_title_category">
+        Browse Category</string>
+    <string name="explore_title_channel">
+        Featured Channels</string>
+    <string name="explore_title_digest">
+        Your Digest</string>
+    <string name="explore_title_topic">
+        Featured Topics</string>
+    <string name="first_time_start_watching">
+        Start Watching</string>
+    <string name="first_time_suggested_channels">
+        Suggested Channels</string>
+    <string name="forgotpassword_reset_password">
+        Please input your registered Email address</string>
+    <string name="forgotpassword_send">
+        Submit</string>
+    <string name="forgotpassword_success_text">
+        Please check your email for instruction to reset your password.</string>
+    <string name="forgotpassword_title">
+        Forgot Password</string>
+    <string name="general_agree">
+        Agree</string>
+    <string name="general_and">
+        and</string>
+    <string name="general_back">
+        @string/movie_detail_back</string>
+    <string name="general_cancel">
+        Cancel</string>
+    <string name="general_close">
+        Close</string>
+    <string name="general_comma">
+        ,</string>
+    <string name="general_company_copyright" />
+    <string name="general_done">
+        Done</string>
+    <string name="general_leave">
+        Leave now</string>
+    <string name="general_live">
+        LIVE</string>
+    <string name="general_no">
+        No</string>
+    <string name="general_ok">
+        OK</string>
+    <string name="general_privacy_policy">
+        Privacy Policy</string>
+    <string name="general_retry">
+        Retry</string>
+    <string name="general_terms_of_service">
+        Terms of Service</string>
+    <string name="general_yes">
+        Yes</string>
+    <string name="home_recommended">
+        Recommended</string>
+    <string name="home_trending">
+        Popular</string>
+    <string name="labe_setting_clear_search_history_content">
+        Remove searches you have performed from this device</string>
+    <string name="label_account">
+        Account</string>
+    <string name="label_account_fill_in_email">
+        Fill in data</string>
+    <string name="label_account_guest">
+        Guest</string>
+    <string name="label_account_sign_out">
+        Logout</string>
+    <string name="label_article">
+        Article</string>
+    <string name="label_base_setting">
+        Base</string>
+    <string name="label_birthday_tip">
+        If you opt to not provide your date of birth, you will not be able to view Cat. III videos.</string>
+    <string name="label_common_app_version">
+        Version</string>
+    <string name="label_common_google_play_services_not_available">
+        Google Play Services is required, please install it.</string>
+    <string name="label_common_no_network">
+        No internet connection. Please try again.</string>
+    <string name="label_date_of_birth">
+        Date of birth</string>
+    <string name="label_editor_choice">
+        Staff Pick</string>
+    <string name="label_genre">
+        Genre</string>
+    <string name="label_genre_list">
+        Explore</string>
+    <string name="label_geo_block_error_text">
+        "Sorry, since this service is not available in your current location (IP: %1$s), we cannot process your request. Should you have any questions, please do not hesitate to contact us." </string>
+    <string name="label_language_setting">
+        Language</string>
+    <string name="label_map_content">
+        MAP</string>
+    <string name="label_movie">
+        Movie</string>
+    <string name="label_movie_detail_duration_unit">
+        mins</string>
+    <string name="label_movie_detail_hosts">
+        Hosts</string>
+    <string name="label_offshelf_button">
+        Confirm</string>
+    <string name="label_offshelf_error_title">
+        Error</string>
+    <string name="label_others">
+        Others</string>
+    <string name="label_player">
+        Watching Mode</string>
+    <string name="label_progress_dialog_loading">
+        Loading...</string>
+    <string name="label_recommended">
+        Recommended</string>
+    <string name="label_related_article">
+        Related Article</string>
+    <string name="label_related_series">
+        Related Series</string>
+    <string name="label_restricted_back">
+        Leave now</string>
+    <string name="label_restricted_caution_over_18">
+        If you are under the age of 18, please stop viewing now. If you continue viewing this video hence causes us legal liabilities or fines, we reserve the right to claim back our damages from you.</string>
+    <string name="label_resume_playback_position">
+        Resume last playback position?</string>
+    <string name="label_retry">
+        retry</string>
+    <string name="label_search">
+        Search</string>
+    <string name="label_series">
+        Series</string>
+    <string name="label_series_actor">
+        Actor</string>
+    <string name="label_series_episode">
+        Episode</string>
+    <string name="label_series_guest">
+        Guest</string>
+    <string name="label_series_host">
+        Host</string>
+    <string name="label_series_language">
+        Language</string>
+    <string name="label_series_metadata">
+        Series Details</string>
+    <string name="label_series_provider">
+        Content Provider</string>
+    <string name="label_series_storyline">
+        Synopsis</string>
+    <string name="label_series_subtitle">
+        Subtitle</string>
+    <string name="label_setting_clear_seach_history_title">
+        Clear Search History</string>
+    <string name="label_topic">
+        Topic</string>
+    <string name="label_wait">
+        wait</string>
+    <string name="landing_back_for_a_film_edition">
+        BACK IT</string>
+    <string name="landing_coming_soon">
+        COMING SOON</string>
+    <string name="landing_film_edition_available">
+        FULL PROGRAMME</string>
+    <string name="landing_you_have_saved_videos">
+        Videos you have recently saved</string>
+    <string name="list_pages_similar">
+        Similar to</string>
+    <string name="list_pages_sort_option">
+        Everything</string>
+    <string name="list_pages_sort_options_1">
+        All results</string>
+    <string name="list_pages_watch_next_video">
+        Watch</string>
+    <string name="login_facebook_login_error">
+        Facebook login Error.</string>
+    <string name="login_forgot_password">
+        Forgot Password</string>
+    <string name="login_login">
+        Login</string>
+    <string name="login_register_new_account">
+        Sign Up</string>
+    <string name="login_title">
+        Login</string>
+    <string name="member_content_empty">
+        No related content</string>
+    <string name="member_follow_button">
+        + FOLLOW</string>
+    <string name="member_followed_button">
+        FOLLOWING</string>
+    <string name="member_followers">
+        %d FOLLOWERS</string>
+    <string name="menu_account">
+        Account</string>
+    <string name="menu_followed_channels">
+        Followed Channels</string>
+    <string name="menu_followed_topics">
+        Followed Topics</string>
+    <string name="menu_home">
+        Home</string>
+    <string name="menu_login">
+        Login</string>
+    <string name="menu_logout">
+        Logout</string>
+    <string name="menu_logout_success">
+        Logout success!</string>
+    <string name="menu_profile">
+        My Profile</string>
+    <string name="menu_saved_items">
+        Saved Items</string>
+    <string name="menu_settings">
+        Settings</string>
+    <string name="menu_sign_up">
+        Sign Up</string>
+    <string name="menu_subscribe">
+        Subscribe</string>
+    <string name="menu_topics">
+        Topics</string>
+    <string name="menu_viewing_history">
+        Viewing Journal</string>
+    <string name="movie_detail_back">
+        Back</string>
+    <string name="moviedetail_audio">
+        Audio</string>
+    <string name="moviedetail_duration">
+        Duration</string>
+    <string name="moviedetail_genre">
+        Genre</string>
+    <string name="moviedetail_hosts">
+        Hosts</string>
+    <string name="moviedetail_less">
+        Less</string>
+    <string name="moviedetail_more">
+        More</string>
+    <string name="moviedetail_owner">
+        Owner</string>
+    <string name="moviedetail_series">
+        Series</string>
+    <string name="moviedetail_title_topic">
+        Related Topics</string>
+    <string name="moviedetail_topic">
+        Topic</string>
+    <string name="moviedetail_video_mentioned">
+        Video Mentioned</string>
+    <string name="out_of_country_select_country">
+        Select a country</string>
+    <string name="out_of_country_share_app">
+        Share our app with your friends in Asia</string>
+    <string name="out_of_country_submit">
+        Submit</string>
+    <string name="out_of_country_title">
+        "We can't provide service in your zone yet."</string>
+    <string name="out_of_zone_next_video">
+        Play next video</string>
+    <string name="out_of_zone_out_of_zone_msg">
+        Sorry, this content is not available in your location.</string>
+    <string name="out_of_zone_out_of_zone_title">
+        Geographic Restriction</string>
+    <string name="player_account_info">
+        Account Info</string>
+    <string name="player_audio_list_title">
+        Audio Language</string>
+    <string name="player_audio_not_found">
+        no audio return</string>
+    <string name="player_back_this_video_msg">
+        Show us your interest in watching the full programme.</string>
+    <string name="player_back_this_video_title">
+        Back IT</string>
+    <string name="player_buffering_timeout">
+        Connection timeout</string>
+    <string name="player_coming_soon_desc">
+        Want us to notify you when it is available?</string>
+    <string name="player_coming_soon_notify">
+        Notify</string>
+    <string name="player_coming_soon_title">
+        Coming Soon!</string>
+    <string name="player_full_video">
+        Play the first video in this playlist</string>
+    <string name="player_general_error">
+        An error occurred.</string>
+    <string name="player_loading">
+        Loading...</string>
+    <string name="player_minimized_watch_tv_now">
+        Start Watching</string>
+    <string name="player_offshelf_message">
+        "This content is no longer available. If you have any question, please contact customer service"</string>
+    <string name="player_or_other_video">
+        Next video will play in %d seconds</string>
+    <string name="player_other_video">
+        Next video will play in %d seconds</string>
+    <string name="player_other_video_without_second">
+        Play next video</string>
+    <string name="player_overlay_full_programme">
+        Full Programme</string>
+    <string name="player_preparing">
+        Player is busy, please try again later</string>
+    <string name="player_programme_guide">
+        Programme Guide</string>
+    <string name="player_require_subscription">
+        Subscribe our premium service to enjoy all videos</string>
+    <string name="player_require_subscription_title">
+        Be our Skymate</string>
+    <string name="player_restricted_below_18">
+        "This video may contain content that is inappropriate for users under 18. Let's watch something else ;)"</string>
+    <string name="player_restricted_birthday_is_empty">
+        This video may contain content that is inappropriate for some users. To view this video please verify you are 18 or older by editing your account information.</string>
+    <string name="player_restricted_over_18">
+        This video may contain content that is inappropriate for some users.</string>
+    <string name="player_restricted_restricted_title" />
+    <string name="player_restricted_sign_in">
+        Login</string>
+    <string name="player_restricted_to_18_app">
+        This video may contain content that is inappropriate for some users. To view this video please download OpenSky.tv+</string>
+    <string name="player_restricted_understand">
+        Understand</string>
+    <string name="player_restricted_warning">
+        WARNING:</string>
+    <string name="player_restricted_without_login">
+        This video may contain content that is inappropriate for some users. To view this video please login and verify you are 18 or older.</string>
+    <string name="player_subscribe_now">
+        Upgrade</string>
+    <string name="player_subtitle_list_title">
+        Subtitle Language</string>
+    <string name="player_subtitle_off">
+        Off</string>
+    <string name="player_trailer">
+        Trailer</string>
+    <string name="player_up_next_title">
+        Up Next</string>
+    <string name="playlist_detail_subscribe_to_watch">
+        Subscribe to OpenSky.tv!</string>
+    <string name="playlist_playing">
+        Playing</string>
+    <string name="playlist_videos_count">
+        %d videos</string>
+    <string name="playlist_viewed">
+        Watched</string>
+    <string name="profile_about">
+        About</string>
+    <string name="profile_birth_year">
+        Birth Year</string>
+    <string name="profile_change">
+        Change</string>
+    <string name="profile_change_birth_year">
+        Change Birth Year</string>
+    <string name="profile_change_email">
+        Change Email</string>
+    <string name="profile_change_gender">
+        Change Gender</string>
+    <string name="profile_change_newsletter">
+        Change subscription</string>
+    <string name="profile_change_newsletter_desc" />
+    <string name="profile_change_password">
+        Change Password</string>
+    <string name="profile_change_username">
+        Change User Name</string>
+    <string name="profile_edit_profile">
+        Edit Profile</string>
+    <string name="profile_expiring_on">
+        Expiring on</string>
+    <string name="profile_following_items">
+        Following</string>
+    <string name="profile_following_list_content_empty">
+        You are not following any channels</string>
+    <string name="profile_free">
+        Free</string>
+    <string name="profile_gender">
+        Gender</string>
+    <string name="profile_have_subscribe">
+        Yes</string>
+    <string name="profile_joined">
+        Joined</string>
+    <string name="profile_login_or_signup">
+        Login or Sign Up</string>
+    <string name="profile_love_list_content_empty">
+        No related content</string>
+    <string name="profile_new_password">
+        New Password</string>
+    <string name="profile_newsletter">
+        Subscribe to Newsletters</string>
+    <string name="profile_not_subscribe">
+        No</string>
+    <string name="profile_old_password">
+        Current Password</string>
+    <string name="profile_saved_items">
+        Saved</string>
+    <string name="profile_saved_list_content_empty">
+        You have not saved any items yet</string>
+    <string name="profile_see_all_my_interests">
+        See all my interests</string>
+    <string name="profile_setting_join_date">
+        dd MMM yyyy</string>
+    <string name="profile_sign_up_with_email">
+        Sign up with email</string>
+    <string name="profile_smarttv">
+        Smart TV</string>
+    <string name="profile_subscription">
+        Subscription</string>
+    <string name="profile_thing_you_loves">
+        Things You Love</string>
+    <string name="profile_title">
+        My Profile</string>
+    <string name="profile_upgrade">
+        Upgrade</string>
+    <string name="profile_user_name">
+        User Name</string>
+    <string name="profile_videos_viewed">
+        Watched</string>
+    <string name="profile_watched_list_content_empty">
+        You have not watched any videos yet</string>
+    <string name="register_already_reg">
+        Already Registered?</string>
+    <string name="register_facebook_login">
+        Log in with Facebook</string>
+    <string name="register_facebook_login_bold">
+        Facebook</string>
+    <string name="register_login_immediately">
+        Login</string>
+    <string name="register_login_tnc">
+        Terms of Service and Privacy Policy</string>
+    <string name="register_main_title">
+        Please register, it will only take 2 minutes.</string>
+    <string name="register_reg_new_account">
+        Sign up</string>
+    <string name="register_register">
+        Sign up</string>
+    <string name="register_register_success">
+        Sign up completed</string>
+    <string name="register_subscribe_newsletter">
+        Subscribe to Newsletters</string>
+    <string name="register_tnc">
+        By clicking sign up, you are agreeing to the Terms of Service and Privacy Policy</string>
+    <string name="saved_items_remove">
+        Clear all</string>
+    <string name="saved_items_remove_all_alert">
+        "Are you sure you want to clear your saved items? You can't undo this."</string>
+    <string name="saved_items_tips">
+        "Add video to Saved Items helps you quickly access to the videos later! Simply click the save icon [bookmark_icon] on the video. You may interest in this video:" </string>
+    <string name="saved_items_title">
+        Saved Items</string>
+    <string name="search_channels">
+        Channels</string>
+    <string name="search_clear_search_history">
+        Clear all search history</string>
+    <string name="search_clips">
+        Trailers</string>
+    <string name="search_no_result_for">
+        No results for \"%s\".</string>
+    <string name="search_placeholder">
+        %s, 日本, #Travel</string>
+    <string name="search_results_for">
+        Search results for \"%s \"</string>
+    <string name="search_videos">
+        Programmes</string>
+    <string name="settings_about">
+        About OpenSky.tv</string>
+    <string name="settings_app">
+        App</string>
+    <string name="settings_auto_play">
+        Auto-Play</string>
+    <string name="settings_data">
+        On Mobile Data</string>
+    <string name="settings_data_wifi">
+        On Mobile Data + Wi-Fi</string>
+    <string name="settings_language">
+        Language</string>
+    <string name="settings_language_locale">
+        @string/splashscreen_lang_en_us</string>
+    <string name="settings_newsletter">
+        Newsletter</string>
+    <string name="settings_next_video">
+        Next Video</string>
+    <string name="settings_none">
+        Off</string>
+    <string name="settings_on_app_launch">
+        On App Launch</string>
+    <string name="settings_push_notification">
+        Push Notification</string>
+    <string name="settings_subscribe_newsletter">
+        Subscribe to Newsletters</string>
+    <string name="settings_title">
+        Settings</string>
+    <string name="settings_version">
+        Version</string>
+    <string name="settings_wifi">
+        Wi-Fi</string>
+    <string name="smarttv_settings_camera_permission_denied">
+        Camera permission denied, please grant permission to access Camera</string>
+    <string name="smarttv_settings_dialog_go_to_settings">
+        Go to Settings</string>
+    <string name="smarttv_settings_row_scan_qr_code">
+        Scan QR Code</string>
+    <string name="smarttv_settings_scan_qr_code_desc_1_all">
+        "Go to Add User page on your OpenSky Smart TV app and scan the QR code to login" </string>
+    <string name="smarttv_settings_scan_qr_code_desc_2_highlight">
+        Add User</string>
+    <string name="smarttv_settings_scan_qr_code_success">
+        You have successfully login to OpenSky Smart TV. Welcome !</string>
+    <string name="smarttv_settings_section_header_login">
+        Smart TV Login</string>
+    <string name="smarttv_settings_title">
+        Smart TV</string>
+    <string name="splashscreen_lang_en_us">
+        English</string>
+    <string name="splashscreen_lang_zh_cn">
+        简体中文</string>
+    <string name="splashscreen_lang_zh_hk">
+        繁體中文</string>
+    <string name="splashscreen_language_hint">
+        Please select your preferred language</string>
+    <string name="splashscreen_welcome_message">
+        Welcome</string>
+    <string name="subscribe_already_subscribed">
+        Already subscribed.</string>
+    <string name="subscribe_billing_not_support">
+        Please update Google Play.</string>
+    <string name="subscribe_content">
+        Subscribe our premium service to enjoy all videos</string>
+    <string name="subscribe_free">
+        Free</string>
+    <string name="subscribe_get_subscription_plan_list_failed">
+        Failed to get subscription plan list.</string>
+    <string name="subscribe_image_title">
+        Be our Skymate</string>
+    <string name="subscribe_payment_failed">
+        Subscribe failed.</string>
+    <string name="subscribe_payment_success">
+        Subscribed!</string>
+    <string name="subscribe_per_month">
+        /month</string>
+    <string name="subscribe_redeem_already_subscribed">
+        Sorry, your account had already subscribed to our service hence we cannot redeem this code for you. Thanks for supporting us!</string>
+    <string name="subscribe_redeem_apply">
+        Apply</string>
+    <string name="subscribe_redeem_placeholder">
+        Redemption code</string>
+    <string name="subscribe_redeem_success">
+        Redeem success!</string>
+    <string name="subscribe_subscribe_button">
+        Subscribe</string>
+    <string name="subscribe_tnc">
+        By clicking subscribe, you are agreeing to the Terms of Service and Privacy Policy</string>
+    <string name="subscribe_total">
+        Total</string>
+    <string name="subscription_history_change_subscription">
+        Change Subscription</string>
+    <string name="subscription_history_title">
+        Subscription History</string>
+    <string name="tag_list_content_empty">
+        There is no content for this tag.</string>
+    <string name="title_about_us">
+        About OpenSky</string>
+    <string name="title_festival_calendar">
+        Festival Calendar</string>
+    <string name="title_privacy">
+        Privacy</string>
+    <string name="title_setting">
+        Setting</string>
+    <string name="title_terms">
+        Terms</string>
+    <string name="txt_common_no_record">
+        No Record</string>
+    <string name="txt_common_system_error">
+        System is busy. Please try again later.</string>
+    <string name="txt_dummy_image">
+        Image</string>
+    <string name="txt_fb_force_login">
+        Current account info would be lose. Continue login as Facebook account?</string>
+    <string name="txt_player_subtitle_not_found">
+        no subtitle return</string>
+    <string name="txt_show_register_email">
+        Please fill in missing email address</string>
+    <string name="update_force_update">
+        Please update to new version.</string>
+    <string name="video_mentioned_title">
+        Video Mentioned</string>
+    <string name="view_history_no_result">
+        Videos will be added to this list as you watch them for you re-watch later!</string>
+    <string name="view_history_offshelf">
+        Removed</string>
+    <string name="language_code_zh_hk_subtitle">
+        繁體中文 (香港)</string>
+    <string name="language_code_zh_tw_subtitle">
+        繁體中文 (台灣)</string>
+    <string name="button_cancel_download">
+        Cancel</string>
+    <string name="button_queue_for_wifi">
+        Queue</string>
+    <string name="button_start_now">
+        Start now</string>
+    <string name="cancel_running_download">
+        Cancel</string>
+    <string name="delete_download">
+        Delete</string>
+    <string name="deselect_all">
+        Clear selection</string>
+    <string name="dialog_cannot_resume">
+        Download interrupted. It cannot be resumed.</string>
+    <string name="dialog_failed_body">
+        Do you want to retry downloading the file later or delete it from the queue?</string>
+    <string name="dialog_file_already_exists">
+        annot download. The destination file already exists.</string>
+    <string name="dialog_file_missing_body">
+        The downloaded file cannot be found.</string>
+    <string name="dialog_insufficient_space_on_cache">
+        Cannot finish download. There is not enough space on internal download storage.</string>
+    <string name="dialog_insufficient_space_on_external">
+        Cannot finish download. There is not enough space on external storage.</string>
+    <string name="dialog_media_not_found">
+        annot download. The external media is not available.</string>
+    <string name="dialog_paused_body">
+        Do you want to resume downloading the file or delete it from the queue?</string>
+    <string name="dialog_queued_body">
+        This file is queued for future download.</string>
+    <string name="dialog_running_body">
+        Do you want to pause downloading the file or cancel it from the queue?</string>
+    <string name="dialog_title_not_available">
+        Download Failed</string>
+    <string name="dialog_title_queued_body">
+        File not yet available</string>
+    <string name="download_error">
+        Failed</string>
+    <string name="download_menu_sort_by_date">
+        Sort by time</string>
+    <string name="download_menu_sort_by_size">
+        Sort by size</string>
+    <string name="download_no_application_title">
+        Cannot open file</string>
+    <string name="download_paused">
+        Paused</string>
+    <string name="download_percent">
+        %d%%</string>
+    <string name="download_queued">
+        Queued</string>
+    <string name="download_running">
+        In progress</string>
+    <string name="download_success">
+        Complete</string>
+    <string name="download_title">
+        Downloads</string>
+    <string name="download_unknown_title">
+        <Untitled></string>
+    <string name="keep_queued_download">
+        Keep</string>
+    <string name="missing_title">
+        <Unknown></string>
+    <string name="no_downloads">
+        No downloads.</string>
+    <string name="notification_download_complete">
+        Download complete</string>
+    <string name="notification_download_failed">
+        Download unsuccessful</string>
+    <string name="notification_filename_extras">
+        " and %d more"</string>
+    <string name="notification_filename_separator">
+        ", "</string>
+    <string name="notification_need_wifi_for_size">
+        Download size requires Wi-Fi</string>
+    <string name="pause_download">
+        暫停下載</string>
+    <string name="permdesc_accessAllDownloads">
+        Allows the application to view and modify all initiated by any application on the system.</string>
+    <string name="permdesc_downloadCacheNonPurgeable">
+        Allows the application to download files to the download cache which cannot be automatically deleted when the download manager needs more space.</string>
+    <string name="permdesc_downloadCompletedIntent">
+        Allows the application to send notifications about completed downloads. Malicious applications can use this to confuse other applications that download files.</string>
+    <string name="permdesc_downloadManager">
+        Allows the application to access the download manager and to use it to download files. Malicious applications can use this to disrupt downloads and access private information.</string>
+    <string name="permdesc_downloadManagerAdvanced">
+        "Allows the application to access the download manager's advanced functions. Malicious applications can use this to disrupt downloads and access private information."</string>
+    <string name="permlab_accessAllDownloads">
+        Access all system downloads</string>
+    <string name="permlab_downloadCacheNonPurgeable">
+        Reserve space in the download cache</string>
+    <string name="permlab_downloadCompletedIntent">
+        Send download notifications.</string>
+    <string name="permlab_downloadManager">
+        Access download manager.</string>
+    <string name="permlab_downloadManagerAdvanced">
+        Advanced download manager functions.</string>
+    <string name="remove_download">
+        Remove</string>
+    <string name="resume_download">
+        Resume</string>
+    <string name="retry_download">
+        Retry</string>
+    <string formatted="false" name="wifi_recommended_body">
+        "Starting this %s download now may shorten your battery life and/or result in excessive usage of your mobile data connection, which can lead to charges by your mobile operator depending on your data plan. Click %s below to begin this download the next time you are connected to a WiFi network." </string>
+    <string name="wifi_recommended_title">
+        Queue for download later?</string>
+    <string formatted="false" name="wifi_required_body">
+        "You must use WiFi to complete this %s download. Click %s to begin this download the next time you are connected to a WiFi network." </string>
+    <string name="wifi_required_title">
+        Download too large for operator network</string>
+    <string name="BBC_corner">
+        BBC專區</string>
+    <string name="HKID">
+        身份證字號</string>
+    <string name="Mbps">
+        Mbps</string>
+    <string name="abc_font_family_body_1_material">
+        sans-serif</string>
+    <string name="abc_font_family_body_2_material">
+        sans-serif-medium</string>
+    <string name="abc_font_family_button_material">
+        sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">
+        sans-serif</string>
+    <string name="abc_font_family_display_1_material">
+        sans-serif</string>
+    <string name="abc_font_family_display_2_material">
+        sans-serif</string>
+    <string name="abc_font_family_display_3_material">
+        sans-serif</string>
+    <string name="abc_font_family_display_4_material">
+        sans-serif-light</string>
+    <string name="abc_font_family_headline_material">
+        sans-serif</string>
+    <string name="abc_font_family_menu_material">
+        sans-serif</string>
+    <string name="abc_font_family_subhead_material">
+        sans-serif</string>
+    <string name="abc_font_family_title_material">
+        sans-serif-medium</string>
+    <string name="about">
+        關於go movie</string>
+    <string name="about_app">
+        About DemoCast Player</string>
+    <string name="about_us">
+        關於我們</string>
+    <string name="accept">
+        Accept</string>
+    <string name="account">
+        帳戶</string>
+    <string name="account_basic_information">
+        基本資料</string>
+    <string name="account_information">
+        帳戶信息</string>
+    <string name="account_login">
+        登入</string>
+    <string name="account_sign_in_information">
+        帳戶登入資料</string>
+    <string name="account_sign_in_message">
+        登入帳號</string>
+    <string name="action_apt_page">
+        APT_PAGE</string>
+    <string name="action_buy_credit">
+        CREDIT_PACKAGE</string>
+    <string name="action_buy_tvod">
+        TVOD</string>
+    <string name="action_clear_queue">
+        Clear Queue</string>
+    <string name="action_example">
+        Example action</string>
+    <string name="action_forgot_password">
+        取回密碼</string>
+    <string name="action_scifi">
+        動作科幻</string>
+    <string name="action_search">
+        search</string>
+    <string name="action_sign_in_register">
+        <b>
+            登入</b>
+        或 註冊</string>
+    <string name="activated">
+        已啟動</string>
+    <string name="actor">
+        演員</string>
+    <string name="ad_ui_lang">
+        en</string>
+    <string name="add_to_favourite">
+        加至我的最愛</string>
+    <string name="add_to_queue">
+        Add to Queue</string>
+    <string name="address">
+        地址</string>
+    <string name="agreement" />
+    <string name="all_movie_genres">
+        所有影片類型</string>
+    <string name="all_platforms">
+        手機、平板、電腦、Smart TV</string>
+    <string name="all_studios">
+        所有發行片商</string>
+    <string name="all_transaction_record">
+        所有交易紀錄</string>
+    <string name="already_purchased">
+        已購買</string>
+    <string name="already_subscribe">
+        已訂購</string>
+    <string name="also_buy_movie">
+        購買此部電影的用戶也購買了</string>
+    <string name="amount">
+        金額</string>
+    <string name="anime_comedy">
+        動畫卡通</string>
+    <string name="app_language">
+        語言</string>
+    <string name="app_name">
+        OpenSky.tv</string>
+    <string name="app_notification">
+        App通知</string>
+    <string name="app_platform">
+        GoogleAndroid</string>
+    <string name="app_version">
+        版本信息</string>
+    <string name="appbar_scrolling_view_behavior">
+        android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="applied_svod">
+        您已訂購</string>
+    <string name="apply_svod">
+        月租訂購</string>
+    <string name="apply_svod_corner">
+        申裝月租會員</string>
+    <string name="apply_svod_date_yymmdd">
+        訂購日期: %1$d - %2$d - %3$d</string>
+    <string name="apt_id">
+        APT MIN:</string>
+    <string name="apt_link">
+        亞太電信用戶認證</string>
+    <string name="apt_link2">
+        亞太電信用戶</string>
+    <string name="apt_link_date">
+        綁定日期:</string>
+    <string name="apt_unlink_notice1">
+        確認取消綁定?</string>
+    <string name="apt_unlink_notice2">
+        注意事項:您已訂購的月租方案會同時取消</string>
+    <string name="apt_unsubscribe_svod_notice1">
+        確認取消月租?</string>
+    <string name="apt_unsubscribe_svod_notice2">
+        注意事項:取消後仍將收取訂購時所產生之費用</string>
+    <string name="associate_facebook">
+        Facebook 帳號連結指令已接納! 請查閱您的電子郵箱的確認郵件, 按下連結以完成連結帳戶</string>
+    <string name="audio">
+        發音</string>
+    <string name="auto_substract">
+        自動扣款</string>
+    <string name="banner_ad_unit_id">
+        /112605325/android_calendar_list</string>
+    <string name="banner_editor_unit_id">
+        /112605325/android_editor_list</string>
+    <string name="banner_recommendation_unit_id">
+        /112605325/android_recommendation_article</string>
+    <string name="banner_search_unit_id">
+        /112605325/android_search_list</string>
+    <string name="basic_information">
+        基本資料</string>
+    <string name="birthday">
+        生日</string>
+    <string name="birthday_example">
+        %1$d-%2$d-%3$d</string>
+    <string name="birthday_hint">
+        Select</string>
+    <string name="book_movie">
+        預訂影片</string>
+    <string name="bottom_sheet_behavior">
+        android.support.design.widget.BottomSheetBehavior</string>
+    <string name="brightness">
+        Brightness</string>
+    <string name="btn_cancel">
+        取消</string>
+    <string name="btn_confirm">
+        確定</string>
+    <string name="build_config_package">
+        world.onetv</string>
+    <string name="buy_bd">
+        購買BD</string>
+    <string name="buy_credits">
+        購買點數</string>
+    <string name="buy_dvd">
+        購買DVD</string>
+    <string name="buy_dvd_bd">
+        購買DVD / BD</string>
+    <string name="cancel">
+        取消</string>
+    <string name="cancel_svod_plan">
+        取消月租</string>
+    <string name="cast_app_id">
+        FD0EFDE9</string>
+    <string name="caution">
+        注意:</string>
+    <string name="ccl_cancel">
+        Cancel</string>
+    <string name="ccl_caption">
+        Caption</string>
+    <string name="ccl_caption_audio">
+        Audio</string>
+    <string name="ccl_caption_no_audio_tracks">
+        No Audio Tracks Available</string>
+    <string name="ccl_caption_no_text_tracks">
+        No Text Tracks Available</string>
+    <string name="ccl_caption_no_tracks_available">
+        No tracks available</string>
+    <string name="ccl_caption_subtitles">
+        Subtitles</string>
+    <string name="ccl_casting_to_device">
+        Casting to %1$s</string>
+    <string name="ccl_disconnect">
+        Disconnect</string>
+    <string name="ccl_error">
+        Error</string>
+    <string name="ccl_failed_app_launch_timeout">
+        The request to launch the application has timed out!</string>
+    <string name="ccl_failed_authorization_timeout">
+        Authorization timed out</string>
+    <string name="ccl_failed_no_connection">
+        No connection to the cast device is present</string>
+    <string name="ccl_failed_no_connection_short">
+        No connection</string>
+    <string name="ccl_failed_no_connection_trans">
+        Connection to the cast device has been lost. Application is trying to re-establish the connection, if possible. Please wait for a few seconds and try again.</string>
+    <string name="ccl_failed_perform_action">
+        Failed to perform the action</string>
+    <string name="ccl_failed_receiver_player_error">
+        Receiver player has encountered a severe error</string>
+    <string name="ccl_failed_seek">
+        Failed to seek to the new position on the cast device</string>
+    <string name="ccl_failed_setting_volume">
+        Failed to set the volume</string>
+    <string name="ccl_failed_status_request">
+        Failed to sync up with the cast device</string>
+    <string name="ccl_failed_to_connect">
+        Could not connect to the device</string>
+    <string name="ccl_failed_to_find_app">
+        The application you are trying to launch is not available on your Cast device</string>
+    <string name="ccl_failed_to_launch_app">
+        Failed to launch application</string>
+    <string name="ccl_failed_to_load_media">
+        Failed to load the media</string>
+    <string name="ccl_failed_to_pause">
+        Failed to pause the playback of media</string>
+    <string name="ccl_failed_to_play">
+        Failed to start the playback of media</string>
+    <string name="ccl_failed_to_set_track_style">
+        Failed to update the captions style.</string>
+    <string name="ccl_failed_to_stop">
+        Failed to stop the playback of media</string>
+    <string name="ccl_forward">
+        Forward</string>
+    <string name="ccl_info_na">
+        Information Not Available</string>
+    <string name="ccl_intro_overlay_button_text">
+        @android:string/ok</string>
+    <string name="ccl_key_caption_background_color">
+        ccl_caption_background_color</string>
+    <string name="ccl_key_caption_background_opacity">
+        ccl_caption_font_background_opacity</string>
+    <string name="ccl_key_caption_edge_type">
+        ccl_caption_edge_type</string>
+    <string name="ccl_key_caption_enabled">
+        ccl_caption_enabled</string>
+    <string name="ccl_key_caption_font_family">
+        ccl_caption_font_family</string>
+    <string name="ccl_key_caption_font_scale">
+        ccl_caption_font_scale</string>
+    <string name="ccl_key_caption_text_color">
+        ccl_caption_text_color</string>
+    <string name="ccl_key_caption_text_opacity">
+        ccl_caption_text_opacity</string>
+    <string name="ccl_live">
+        Live</string>
+    <string name="ccl_loading">
+        Loading…</string>
+    <string name="ccl_media_route_menu_title">
+        Play on…</string>
+    <string name="ccl_mini_upnext">
+        Up Next</string>
+    <string name="ccl_no_media_info">
+        No media information available</string>
+    <string name="ccl_none">
+        None</string>
+    <string name="ccl_off">
+        Off</string>
+    <string name="ccl_ok">
+        OK</string>
+    <string name="ccl_on">
+        On</string>
+    <string name="ccl_pause">
+        Pause</string>
+    <string name="ccl_pick_tracks">
+        Tracks</string>
+    <string name="ccl_play">
+        Play</string>
+    <string name="ccl_prefs_caption_background_color_title">
+        Background Color</string>
+    <string name="ccl_prefs_caption_background_color_value_default">
+        \#000000</string>
+    <string name="ccl_prefs_caption_background_opacity_title">
+        Background Opacity</string>
+    <string name="ccl_prefs_caption_background_opacity_value_default">
+        FF</string>
+    <string name="ccl_prefs_caption_disabled">
+        Disabled</string>
+    <string name="ccl_prefs_caption_edge_color_title">
+        Edge Color</string>
+    <string name="ccl_prefs_caption_edge_type_title">
+        Edge Type</string>
+    <string name="ccl_prefs_caption_edge_type_value_default">
+        EDGE_TYPE_NONE</string>
+    <string name="ccl_prefs_caption_enabled">
+        Enabled</string>
+    <string name="ccl_prefs_caption_enabled_title">
+        Caption Availability</string>
+    <string name="ccl_prefs_caption_font_family_title">
+        Font Family</string>
+    <string name="ccl_prefs_caption_font_family_value_default">
+        FONT_FAMILY_SERIF</string>
+    <string name="ccl_prefs_caption_font_scale_title">
+        Text Size</string>
+    <string name="ccl_prefs_caption_font_scale_value_default">
+        1.0</string>
+    <string name="ccl_prefs_caption_text_color_title">
+        Text Color</string>
+    <string name="ccl_prefs_caption_text_color_value_default">
+        \#FFFFFF</string>
+    <string name="ccl_prefs_caption_text_opacity_title">
+        Text Opacity</string>
+    <string name="ccl_prefs_caption_text_opacity_value_default">
+        FF</string>
+    <string name="ccl_rewind">
+        Rewind</string>
+    <string name="ccl_skip_next">
+        Skip Next</string>
+    <string name="ccl_skip_previous">
+        Skip Previous</string>
+    <string name="ccl_version">
+        2.8.3</string>
+    <string name="censorship">
+        級別</string>
+    <string name="censorship_18_up">
+        18+</string>
+    <string name="censorship_guidance">
+        輔導</string>
+    <string name="censorship_i">
+        I</string>
+    <string name="censorship_ii">
+        II</string>
+    <string name="censorship_iii">
+        III</string>
+    <string name="censorship_normal">
+        普遍</string>
+    <string name="censorship_protected">
+        保護</string>
+    <string name="censorship_restricted">
+        限制</string>
+    <string name="change">
+        更改</string>
+    <string name="change_address">
+        更改地址</string>
+    <string name="change_password">
+        更改密碼</string>
+    <string name="change_phone_number">
+        更改電話號碼</string>
+    <string name="character_counter_pattern">
+        %1$d / %2$d</string>
+    <string name="check_question">
+        常見問題</string>
+    <string name="city">
+        縣</string>
+    <string name="code_example">
+        例: ABC65RUC99E</string>
+    <string name="com.crashlytics.android.build_id">
+        09ee915f-2bdf-464d-8065-af8dc8d63278</string>
+    <string name="companionPlaceholder">
+        Companion Ad Slot</string>
+    <string name="confirm">
+        確認</string>
+    <string name="confirm_new_password">
+        確認新密碼</string>
+    <string name="confirm_password">
+        確認密碼</string>
+    <string name="congratulations" />
+    <string name="connected_facebook">
+        已連接面書</string>
+    <string name="connected_to_facebook">
+        您正在使用Facebook帳戶登錄</string>
+    <string name="connection_compromised_result">
+        您的連線速度似乎緩慢或不穩定，不適合觀賞go movie影片播放服務，請以Wi-Fi連線後再次測試。</string>
+    <string name="connection_excellent_result">
+        連線速度適合觀賞go movie影片服務。</string>
+    <string name="connection_good_result">
+        連線速度適合觀賞go movie影片服務。</string>
+    <string name="connection_lost">
+        No connection to the cast device exist</string>
+    <string name="connection_lost_retry">
+        Connection to the cast device has been temporarily lost. Application is trying to recover connection, please try again later</string>
+    <string name="connection_recovered">
+        Connection to the cast device is recovered</string>
+    <string name="connection_speed">
+        您現在的連線速度是： %s</string>
+    <string name="connection_temp_lost">
+        Connection to the cast device is temporarily lost</string>
+    <string name="contact_address">
+        聯絡地址</string>
+    <string name="contact_customer_service">
+        請聯絡客戶服務</string>
+    <string name="contact_method_list">
+        如果需要協助, 您可透過以下方式:</string>
+    <string name="contact_telephone">
+        聯絡電話</string>
+    <string name="contact_us">
+        聯絡我們</string>
+    <string name="contact_us_and_reply">
+        請聯絡我們的服務團隊, 我們會盡快為您服務。</string>
+    <string name="contact_us_btn">
+        聯絡客服</string>
+    <string name="continue_redeem" />
+    <string name="create_calendar_message">
+        Allow Ad to create a calendar event?</string>
+    <string name="create_calendar_title">
+        Create calendar event</string>
+    <string name="credit_check">
+        餘額查詢</string>
+    <string name="credits_count">
+        點數小計</string>
+    <string name="current_version">
+        當前版本</string>
+    <string name="customer_service">
+        會員服務</string>
+    <string name="customer_service_tel">
+        電話: (852) 2418 8868</string>
+    <string name="customize">
+        自訂義</string>
+    <string name="data_usage_warning">
+        數據流量警告</string>
+    <string name="date_default_without_year">
+        -01-01</string>
+    <string name="date_format">
+        yyyy-MM-dd</string>
+    <string name="date_yymmdd">
+        %1$d - %2$d - %3$d</string>
+    <string name="day">
+        日</string>
+    <string name="decline">
+        Decline</string>
+    <string name="deep_link_scheme">
+        opensky.tv</string>
+    <string name="default_date_format">
+        yyyy-MM-dd</string>
+    <string name="default_web_client_id">
+        197830296164-mheum859cd3fnjibbimckp969uj9ftqp.apps.googleusercontent.com</string>
+    <string name="delete">
+        刪除</string>
+    <string name="delete_content">
+        刪除下載</string>
+    <string name="deleting_download_content">
+        刪除中</string>
+    <string name="delivery_method">
+        傳送方式</string>
+    <string name="detail">
+        詳情</string>
+    <string name="detail_date_format">
+        dd MMMM yyyy</string>
+    <string name="detail_promotion_campaign">
+        好康活動詳情</string>
+    <string name="device_memory">
+        裝置記憶體</string>
+    <string name="device_not_found">
+        請確認已連接儲存裝置.</string>
+    <string name="dialog_transaction_amount">
+        總額</string>
+    <string name="dialog_transaction_close">
+        查看 我的電影庫</string>
+    <string name="dialog_transaction_confirm">
+        確定</string>
+    <string name="dialog_transaction_failed_title">
+        購買失敗!</string>
+    <string name="dialog_transaction_gift" />
+    <string name="dialog_transaction_go_movie_lib">
+        GO TO MY MOVIE LIBRARY</string>
+    <string name="dialog_transaction_item">
+        商品名</string>
+    <string name="dialog_transaction_item2">
+        商品名</string>
+    <string name="dialog_transaction_order_reference">
+        帳單號</string>
+    <string name="dialog_transaction_payment_fail">
+        交易失敗</string>
+    <string name="dialog_transaction_payment_method">
+        付款方式</string>
+    <string name="dialog_transaction_success_title">
+        購買成功!</string>
+    <string name="dialog_transaction_transaction_time">
+        購買時間</string>
+    <string name="dialog_transaction_view_purchased_movie">
+        VIEW MY PURCHASED MOVIE</string>
+    <string name="director">
+        導演</string>
+    <string name="disconnected">
+        無法連接網路。請檢查有否開啟WIFI或數據連線。</string>
+    <string name="display_date_nothing">
+        無使用期限</string>
+    <string name="display_redemption_code">
+        序號: %1$s</string>
+    <string name="display_redemption_expiry_date">
+        到期日: %1$s</string>
+    <string name="district">
+        區</string>
+    <string name="donate_einvoice">
+        發票捐贈</string>
+    <string name="download_complete">
+        下載完成</string>
+    <string name="download_fail">
+        下載失敗</string>
+    <string formatted="false" name="download_file_index">
+        %d of %d</string>
+    <string name="download_movie">
+        下載影片</string>
+    <string name="downloaded_content_incomplete">
+        檔案不齊全 , 無法播放</string>
+    <string name="downloading">
+        下載中</string>
+    <string name="drama_lovestory">
+        劇情愛情</string>
+    <string name="dummy_button">
+        Dummy Button</string>
+    <string name="dummy_content">
+        "DUMMY CONTENT"</string>
+    <string name="duration">
+        片長</string>
+    <string name="dvd_bd_area">
+        BD| DVD</string>
+    <string name="edit">
+        編輯</string>
+    <string name="email">
+        郵箱</string>
+    <string name="email_chinese">
+        電子郵件</string>
+    <string name="email_example">
+        abc@abc.com</string>
+    <string name="email_hint">
+        Email Address</string>
+    <string name="email_post">
+        電子信箱</string>
+    <string name="email_post_list">
+        gomovie.tw@tfidm.com</string>
+    <string name="email_sign_in">
+        電郵地址</string>
+    <string name="empty_string">
+        -</string>
+    <string name="enter_redemption_code" />
+    <string name="error">
+        Error</string>
+    <string name="error_incorrect_password">
+        密碼不正確</string>
+    <string name="error_invalid_email">
+        無效的電子郵件</string>
+    <string name="error_invalid_password">
+        密碼過短</string>
+    <string name="error_same_password">
+        新舊密碼一致</string>
+    <string name="est_platform">
+        電腦</string>
+    <string name="est_tab">
+        @string/download_movie</string>
+    <string name="event_credit">
+        活動點數</string>
+    <string name="exceed_date">
+        到期日</string>
+    <string name="exceed_date_yymmdd">
+        到期日: %1$d - %2$d - %3$d</string>
+    <string name="expire">
+        到期</string>
+    <string name="expire_within_one_hour">
+        1小時內到期</string>
+    <string name="extract_complete">
+        解壓完成</string>
+    <string name="extract_error">
+        解壓失敗</string>
+    <string name="extract_pending">
+        未解壓</string>
+    <string name="extracting">
+        解壓中</string>
+    <string name="facebook_date_format">
+        MM/dd/yyyy</string>
+    <string name="fail">
+        失敗</string>
+    <string name="failed_app_launch_timeout">
+        The request to launch the application has timed out!</string>
+    <string name="failed_to_connect">
+        Could not connect to the device</string>
+    <string name="failed_to_find_app">
+        The application you are trying to launch is not available on your Chromecast device</string>
+    <string name="failed_to_launch_app">
+        Failed to launch application</string>
+    <string name="failed_to_pause">
+        Failed to pause the playback of media</string>
+    <string name="failed_to_perform_action">
+        Sorry, ran into issues performing the task you wanted</string>
+    <string name="failed_to_play">
+        Failed to start the playback of media</string>
+    <string name="failed_to_seek">
+        Failed to seek to the specified position on the remote device</string>
+    <string name="failed_to_set_mute">
+        Failed to adjust the volume mute</string>
+    <string name="failed_to_set_volume">
+        Failed to set the volume</string>
+    <string name="family_comedy">
+        家庭喜劇</string>
+    <string name="fantasy_adventure">
+        奇幻冒險</string>
+    <string name="faq">
+        常見問題</string>
+    <string name="favorite_movie">
+        我的最愛</string>
+    <string name="favourite">
+        favourite</string>
+    <string name="fb_app_id">
+        828970770565243</string>
+    <string name="female">
+        女</string>
+    <string name="fill_in_redeem_serial">
+        填入您的兌換序號</string>
+    <string name="film_information">
+        影片資訊</string>
+    <string name="find_password">
+        找回密碼</string>
+    <string name="find_your_password" />
+    <string name="firebase_database_url">
+        https://openskytv-9efa8.firebaseio.com</string>
+    <string name="first_name">
+        名</string>
+    <string name="forget_password">
+        忘記密碼，無法登入?</string>
+    <string name="forget_password_or_cannot_sign_in">
+        忘記密碼 or 忘記帳戶，無法登入？</string>
+    <string name="form_confirm_password_invalid">
+        密碼要最少8個字元, 登入密碼與確認密碼必須一致</string>
+    <string name="form_confirm_password_mismatch">
+        密碼不匹配</string>
+    <string name="form_email_invalid">
+        無效的電子郵件</string>
+    <string name="form_field_cannot_be_empty">
+        此項必須填寫</string>
+    <string name="form_phone_number_invalid">
+        無效的電話號碼</string>
+    <string name="free_movie">
+        免費電影</string>
+    <string name="free_movie_rental" />
+    <string name="free_rental" />
+    <string name="full_hd_definition">
+        1080p</string>
+    <string name="ga_event_action_auto_play_setting">
+        Autoplay setting</string>
+    <string name="ga_event_action_cancel_button_click">
+        Cancel button Click</string>
+    <string name="ga_event_action_change_subtitle">
+        Change Subtitle</string>
+    <string name="ga_event_action_click">
+        Click</string>
+    <string name="ga_event_action_fail">
+        Fail</string>
+    <string name="ga_event_action_full_screen_no">
+        FullScreen–No</string>
+    <string name="ga_event_action_full_screen_yes">
+        FullScreen–Yes</string>
+    <string name="ga_event_action_language_change">
+        Language Change</string>
+    <string name="ga_event_action_login">
+        Login</string>
+    <string name="ga_event_action_logout">
+        Logout</string>
+    <string name="ga_event_action_pause">
+        Pause</string>
+    <string name="ga_event_action_play_after_pause">
+        Play after pause</string>
+    <string name="ga_event_action_play_after_stop">
+        Play after stop</string>
+    <string name="ga_event_action_scroll">
+        Scroll</string>
+    <string name="ga_event_action_show">
+        Show</string>
+    <string name="ga_event_action_success">
+        Success</string>
+    <string name="ga_event_action_tag_click">
+        Tag click</string>
+    <string name="ga_event_action_to_fullscreen_player">
+        To Fullscreen Player</string>
+    <string name="ga_event_action_to_minimize_player">
+        To Minimize Player</string>
+    <string name="ga_event_action_to_overlay_player">
+        To Overlay Player</string>
+    <string name="ga_event_action_to_preview_player">
+        To Preview Player</string>
+    <string name="ga_event_action_upgrade_button_click">
+        Upgrade button click</string>
+    <string name="ga_event_bookmark">
+        Bookmark</string>
+    <string name="ga_event_category_account">
+        Account</string>
+    <string name="ga_event_category_add_to_up_next">
+        Add to up next</string>
+    <string name="ga_event_category_daily_discover">
+        Daily Discover</string>
+    <string name="ga_event_category_digest">
+        Digest</string>
+    <string name="ga_event_category_digest_page">
+        Digest page</string>
+    <string name="ga_event_category_explore">
+        Explore</string>
+    <string name="ga_event_category_full_screen_player">
+        Fullscreen Player</string>
+    <string name="ga_event_category_home">
+        Home</string>
+    <string name="ga_event_category_login">
+        Login</string>
+    <string name="ga_event_category_logout">
+        Logout</string>
+    <string name="ga_event_category_menu">
+        Menu</string>
+    <string name="ga_event_category_minimize_player">
+        Minimize Player</string>
+    <string name="ga_event_category_out_of_country">
+        Out of Country</string>
+    <string name="ga_event_category_overlay_player">
+        Overlay player</string>
+    <string name="ga_event_category_player">
+        Player</string>
+    <string name="ga_event_category_playlist">
+        Playlist</string>
+    <string name="ga_event_category_preview_player">
+        Preview Player</string>
+    <string name="ga_event_category_register_popup">
+        Register popup</string>
+    <string name="ga_event_category_setting">
+        Setting</string>
+    <string name="ga_event_category_subscription_popup">
+        Subscription popup</string>
+    <string name="ga_event_category_tab_navigation">
+        Tab Navigation</string>
+    <string name="ga_event_category_video_detail">
+        Video Detail</string>
+    <string name="ga_event_category_video_mentioned">
+        Video Mentioned</string>
+    <string name="ga_event_label_account">
+        Account</string>
+    <string name="ga_event_label_add">
+        Add</string>
+    <string name="ga_event_label_digest">
+        2-Digest</string>
+    <string name="ga_event_label_facebook_login">
+        Facebook-Login</string>
+    <string name="ga_event_label_false">
+        FALSE</string>
+    <string name="ga_event_label_landing">
+        1-Landing</string>
+    <string name="ga_event_label_login">
+        Login</string>
+    <string name="ga_event_label_next_video">
+        Next Video</string>
+    <string name="ga_event_label_off">
+        off</string>
+    <string name="ga_event_label_on_app_launch">
+        On App Launch</string>
+    <string name="ga_event_label_profile">
+        4-Profile</string>
+    <string name="ga_event_label_remove">
+        Remove</string>
+    <string name="ga_event_label_search">
+        3-Search</string>
+    <string name="ga_event_label_topic">
+        Topic</string>
+    <string name="ga_event_label_true">
+        TRUE</string>
+    <string name="ga_event_share_to_social_media">
+        Share to Social Media</string>
+    <string name="ga_event_subscription">
+        Subscription</string>
+    <string name="ga_page_about_opensky">
+        About OpenSky</string>
+    <string name="ga_page_account_following_page">
+        Account Following Page</string>
+    <string name="ga_page_article_detail">
+        ArticleDetail</string>
+    <string name="ga_page_calender">
+        Calender</string>
+    <string name="ga_page_category_detail">
+        Category Detail</string>
+    <string name="ga_page_cdv_avod">
+        AVOD</string>
+    <string name="ga_page_cdv_svod">
+        SVOD</string>
+    <string name="ga_page_channel_page">
+        Channel Page</string>
+    <string name="ga_page_collection_detail">
+        Collection Detail</string>
+    <string name="ga_page_digest">
+        Digest</string>
+    <string name="ga_page_digest_article_detail">
+        Digest Article Detail</string>
+    <string name="ga_page_editor_choice">
+        EditorChoice</string>
+    <string name="ga_page_explore">
+        Explore</string>
+    <string name="ga_page_external_program_detail">
+        External Program Detail</string>
+    <string name="ga_page_external_program_from_daily_discover">
+        Daily Discover</string>
+    <string name="ga_page_external_program_from_deep_link">
+        Deep link</string>
+    <string name="ga_page_external_program_from_epg">
+        EPG</string>
+    <string name="ga_page_external_program_from_others">
+        Others</string>
+    <string name="ga_page_external_program_from_video_mentioned">
+        Video Mentioned</string>
+    <string name="ga_page_external_program_linear">
+        Linear</string>
+    <string name="ga_page_external_program_vod">
+        VOD</string>
+    <string name="ga_page_genre_list">
+        GenreList</string>
+    <string name="ga_page_hashtag_page">
+        Hashtag Page</string>
+    <string name="ga_page_home">
+        Home</string>
+    <string name="ga_page_language">
+        Language</string>
+    <string name="ga_page_live">
+        LIVE</string>
+    <string name="ga_page_login">
+        Login</string>
+    <string name="ga_page_movie_detail">
+        MovieDetail</string>
+    <string name="ga_page_movie_list">
+        MovieList</string>
+    <string name="ga_page_movie_player">
+        MoviePlayer</string>
+    <string name="ga_page_my_profile">
+        My Profile</string>
+    <string name="ga_page_overlay_player">
+        OverlayPlayer</string>
+    <string name="ga_page_playlist">
+        Playlist</string>
+    <string name="ga_page_playlist_video_detail">
+        Playlist Video Detail</string>
+    <string name="ga_page_privacy_policy">
+        Privacy Policy</string>
+    <string name="ga_page_recommendation">
+        Recommendation</string>
+    <string name="ga_page_register">
+        Register</string>
+    <string name="ga_page_save_items">
+        Saved Items</string>
+    <string name="ga_page_search">
+        Search</string>
+    <string name="ga_page_search_result">
+        SearchResult</string>
+    <string name="ga_page_select_language">
+        Select Language</string>
+    <string name="ga_page_series_detail">
+        Series Detail</string>
+    <string name="ga_page_series_movie_list">
+        Series Movie List</string>
+    <string name="ga_page_settings">
+        Settings</string>
+    <string name="ga_page_settings_language">
+        Settings – Language</string>
+    <string name="ga_page_sign_in">
+        SignIn</string>
+    <string name="ga_page_smarttv_login">
+        SmartTV Login</string>
+    <string name="ga_page_smarttv_settings">
+        SmartTV Settings</string>
+    <string name="ga_page_splash">
+        Splash</string>
+    <string name="ga_page_subscribe">
+        Subscribe</string>
+    <string name="ga_page_tag_detail">
+        Tag Detail</string>
+    <string name="ga_page_terms_and_condition">
+        Terms and Condition</string>
+    <string name="ga_page_things_you_love">
+        Things you love</string>
+    <string name="ga_page_topic">
+        Topic</string>
+    <string name="ga_page_topic_list">
+        TopicList</string>
+    <string name="ga_page_topic_page">
+        Topic Page</string>
+    <string name="ga_page_topics">
+        Topics</string>
+    <string name="ga_page_user_account">
+        UserAccount</string>
+    <string name="ga_page_video_detail">
+        Video Detail</string>
+    <string name="ga_page_viewing_history">
+        Viewing History</string>
+    <string name="gcm_defaultSenderId">
+        197830296164</string>
+    <string name="gender">
+        性別</string>
+    <string name="genre">
+        類別</string>
+    <string name="gift_redemption_record">
+        兌換紀錄</string>
+    <string name="go">
+        GO</string>
+    <string name="go_to_est">
+        可於我的電影庫觀看已下載的電影。</string>
+    <string name="google_api_key">
+        AIzaSyAvJiq_465m2Rlo-dqjNIx_kOKwHOHdq8c</string>
+    <string name="google_app_id">
+        1:197830296164:android:a627c7944f9635cf</string>
+    <string name="google_crash_reporting_api_key">
+        AIzaSyAvJiq_465m2Rlo-dqjNIx_kOKwHOHdq8c</string>
+    <string name="google_storage_bucket">
+        openskytv-9efa8.appspot.com</string>
+    <string name="goto_svod_plan">
+        前往月租方案</string>
+    <string name="hd">
+        HD</string>
+    <string name="hd_definition">
+        720p</string>
+    <string name="hd_platform">
+        Smart TV</string>
+    <string name="hello_blank_fragment">
+        Hello blank fragment</string>
+    <string name="hello_member">
+        你好, 會員</string>
+    <string name="hello_world">
+        Hello world!</string>
+    <string name="hit_movie">
+        熱門影片</string>
+    <string name="home_page">
+        首頁</string>
+    <string name="horror_thriller">
+        恐怖驚悚</string>
+    <string name="illustrate">
+        儲值點數%1$d點即%2$d元，儲值點數可自帳戶內＂儲值點數記錄＂查詢</string>
+    <string name="image">
+        image</string>
+    <string name="immediately_subscribe">
+        立即訂購</string>
+    <string name="info_update_success">
+        更新個人資料成功</string>
+    <string name="information_security">
+        資訊安全性</string>
+    <string name="input_date_and_time_format">
+        yyyy-MM-dd HH:mm:ss</string>
+    <string name="input_new_address">
+        輸入新地址</string>
+    <string name="input_new_password">
+        輸入新密碼</string>
+    <string name="input_new_phone_number">
+        輸入新的電話號碼</string>
+    <string name="input_old_password">
+        輸入舊密碼</string>
+    <string name="inquiry_credit">
+        餘額查詢</string>
+    <string name="instructions">
+        登入以獲取帳戶資料</string>
+    <string name="interstitial_ad_unit_id">
+        /112605325/android_index_splash</string>
+    <string name="invalid">
+        無效</string>
+    <string name="invalid_location">
+        The location %1$s cannot be played</string>
+    <string name="invalid_redemption_code">
+        兌換碼無效</string>
+    <string name="kbps">
+        kbps</string>
+    <string name="label_due_date">
+        到期日</string>
+    <string name="label_festival_calendar">
+        Festival Calendar</string>
+    <string name="label_loading">
+        載入中</string>
+    <string name="label_redeem_sent">
+        GO</string>
+    <string name="label_unlink_apt">
+        確認解除綁定</string>
+    <string name="label_unsubscribe">
+        確認取消月租</string>
+    <string name="language_code_da_dk">
+        dansk</string>
+    <string name="language_code_de_de">
+        Deutsch</string>
+    <string name="language_code_en">
+        English</string>
+    <string name="language_code_en_ph">
+        Pilipino</string>
+    <string name="language_code_en_us">
+        English</string>
+    <string name="language_code_es_es">
+        español</string>
+    <string name="language_code_fr_fr">
+        français</string>
+    <string name="language_code_id_id">
+        इंडोनेशियाई</string>
+    <string name="language_code_it_it">
+        italiano</string>
+    <string name="language_code_ja_jp">
+        日語</string>
+    <string name="language_code_ko_kr">
+        한국어</string>
+    <string name="language_code_ms_my">
+        Malaysia</string>
+    <string name="language_code_no_no">
+        norsk</string>
+    <string name="language_code_ot_ot">
+        Others</string>
+    <string name="language_code_pt_pt">
+        português</string>
+    <string name="language_code_ru_ru">
+        русский</string>
+    <string name="language_code_sv_se">
+        svenska</string>
+    <string name="language_code_th_th">
+        ประเทศไทย</string>
+    <string name="language_code_vi_vn">
+        tiếng Việt</string>
+    <string name="language_code_zh_cn">
+        普通话</string>
+    <string name="language_code_zh_cn_subtitle">
+        简体中文</string>
+    <string name="language_code_zh_hk">
+        廣東話</string>
+    <string name="language_code_zh_tw">
+        國語</string>
+    <string name="last_name">
+        姓</string>
+    <string name="lg_event_credit">
+        LG活動點數</string>
+    <string name="list">
+        隨選隨看</string>
+    <string name="locale_cn">
+        cn</string>
+    <string name="locale_en">
+        en</string>
+    <string name="locale_en_us">
+        en-us</string>
+    <string name="locale_zh">
+        zh</string>
+    <string name="locale_zh_cn">
+        zh-cn</string>
+    <string name="locale_zh_hk">
+        zh-hk</string>
+    <string name="login">
+        登入 iScreen</string>
+    <string name="login_facebook">
+        登入 Facebook 帳戶</string>
+    <string name="login_information">
+        登入資料</string>
+    <string name="logout">
+        登出</string>
+    <string name="logout_dialog_button">
+        離開</string>
+    <string name="logout_dialog_title">
+        你已經登出</string>
+    <string name="logout_facebook">
+        登出 Facebook</string>
+    <string name="logout_interrupted">
+        Logout Interrupted</string>
+    <string name="male">
+        男</string>
+    <string name="masked_password">
+        **********</string>
+    <string name="may_favorite">
+        您可能會喜歡的影片</string>
+    <string name="media_route_menu_title">
+        Play on…</string>
+    <string name="memory_usuage">
+        已用 %1$s , 剩餘可用 %2$s</string>
+    <string name="merchandise">
+        相關商品</string>
+    <string name="message_no_record">
+        沒有記錄</string>
+    <string name="message_please_wait">
+        請稍候</string>
+    <string name="mobile">
+        手機</string>
+    <string name="mobile_phone">
+        行動電話</string>
+    <string name="money">
+        現金</string>
+    <string name="month">
+        月</string>
+    <string name="more">
+        更多</string>
+    <string name="more_comment">
+        更多評論</string>
+    <string name="movie">
+        影片庫</string>
+    <string name="movie_belongs">
+        此影片屬於</string>
+    <string name="movie_detail">
+        電影詳情</string>
+    <string name="movie_detail_date_format">
+        yyyy-MM-dd</string>
+    <string name="movie_expired">
+        已過期</string>
+    <string name="movie_genre">
+        電影類別</string>
+    <string name="movie_information">
+        電影資訊</string>
+    <string name="movie_name">
+        片名</string>
+    <string name="movie_offshelf_date">
+        影片下架日</string>
+    <string name="movie_rights">
+        版權所有</string>
+    <string name="movie_svod_n_plan">
+        此影片屬於%1$d月租方案/%2$d月租方案</string>
+    <string name="mr_controller_stop">
+        Stop</string>
+    <string name="must_check_agreement_notice">
+        需同意服務條款</string>
+    <string name="my_movie_library">
+        我的電影庫</string>
+    <string name="my_movie_library_store">
+        我的電影庫</string>
+    <string name="n_free_mins">
+        %d分鐘免費看</string>
+    <string name="name">
+        姓名</string>
+    <string name="name_hint">
+        Name</string>
+    <string name="navigation_drawer_close">
+        Close navigation drawer</string>
+    <string name="navigation_drawer_open">
+        Open navigation drawer</string>
+    <string name="new_movie">
+        強檔新片</string>
+    <string name="new_rented_movie">
+        新租影片</string>
+    <string name="no_record">
+        沒有記錄</string>
+    <string name="normal">
+        普遍級</string>
+    <string name="not_activated">
+        未啟動</string>
+    <string name="not_downlaod_yet">
+        未下載</string>
+    <string name="not_enought_memory">
+        下載失敗， 容量不足 3GB.</string>
+    <string name="note">
+        備註</string>
+    <string name="notification">
+        通知</string>
+    <string name="off">
+        關閉</string>
+    <string name="offshelf_date">
+        下架日期</string>
+    <string name="ok">
+        確定</string>
+    <string name="on">
+        開啟</string>
+    <string name="onshelf_date">
+        上架日期</string>
+    <string name="oops">
+        Oops</string>
+    <string name="option_setting_dl_external_storage">
+        外置記憶體</string>
+    <string name="option_setting_dl_internal_storage">
+        內置記憶體</string>
+    <string name="or_fill_in">
+        或自行輸入儲值額度:</string>
+    <string name="other_information">
+        其他信息</string>
+    <string name="others">
+        其他</string>
+    <string name="others_gerne">
+        其他</string>
+    <string name="over_concurrent_download_limit">
+        Over concurrent download limit</string>
+    <string name="password">
+        密碼</string>
+    <string name="password_at_least_n_characters">
+        密碼最少%1$d個字元</string>
+    <string name="password_hint">
+        Password</string>
+    <string name="password_toggle_content_description">
+        Toggle password visibility</string>
+    <string name="path_password_eye">
+        M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">
+        M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">
+        M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">
+        M3.27,4.27 L19.74,20.74</string>
+    <string name="pausing">
+        已暫停</string>
+    <string name="pay_status">
+        繳費狀態</string>
+    <string name="payment_Episode">
+        Episode</string>
+    <string name="payment_Format">
+        詳情</string>
+    <string name="payment_Item">
+        Item</string>
+    <string name="payment_Movie_Title">
+        購買項目</string>
+    <string name="payment_Reminder">
+        注意事項</string>
+    <string name="payment_Series_Title">
+        Series Title</string>
+    <string name="payment_Ship">
+        Ship to</string>
+    <string name="payment_agreement">
+        我已詳細閱讀、了解go movie服務條款，並同意遵守服務條款之約定。</string>
+    <string name="payment_confirm">
+        確認購買</string>
+    <string name="payment_discount">
+        Discount</string>
+    <string name="payment_failed">
+        交易失敗</string>
+    <string name="payment_method">
+        付款方式</string>
+    <string name="payment_modify_account">
+        Modify Mailing Address</string>
+    <string name="payment_purchase_details_title">
+        消費明細</string>
+    <string name="payment_purchase_total">
+        總額</string>
+    <string name="payment_server_error_cannot_purchase">
+        伺服器發生問題，請稍後再嘗試</string>
+    <string name="payment_server_error_null_payment_method_return">
+        伺服器錯誤：沒有資料傳回</string>
+    <string name="payment_server_error_null_transaction_return">
+        伺服器錯誤，未能完成交易</string>
+    <string name="payment_success">
+        交易成功</string>
+    <string name="payment_term">
+        "請於交易後的7天內觀賞你所租借的影片。 開始觀賞後, 你可以在48小時內無限次觀賞該影片。"</string>
+    <string name="payment_title">
+        付費詳情</string>
+    <string name="payment_user_no_enough_credit">
+        你並沒有足夠的點數</string>
+    <string name="payment_viewing_period">
+        Viewing Period</string>
+    <string name="phone_hint">
+        Phone Number</string>
+    <string name="pick_date">
+        選擇出生日期</string>
+    <string name="play" />
+    <string name="play_movie">
+        播放</string>
+    <string name="play_next">
+        Play Next</string>
+    <string name="play_now">
+        Play Now</string>
+    <string name="player_adaptive_select">
+        自動</string>
+    <string name="player_back">
+        返回前頁</string>
+    <string name="player_concurrent_fail_msg">
+        很抱歉！您的帳號已在其他裝置登入，暫不能為您播放影片。如要繼續播放影片，請您先於其他裝置登出。</string>
+    <string name="player_defaultMovie_title">
+        go movie</string>
+    <string name="player_dialog_cancel">
+        取消</string>
+    <string name="player_dialog_ok">
+        確定</string>
+    <string name="player_download">
+        電腦播放器程式下載</string>
+    <string name="player_lauguage_en_us">
+        English</string>
+    <string name="player_lauguage_zh_tw">
+        中文</string>
+    <string name="player_on_error_fail_msg">
+        很抱歉！讀取影片時出錯。</string>
+    <string name="player_reg_device_fail_msg">
+        很抱歉！影片已經授權了3部裝置。</string>
+    <string name="please_fill_in_redeem_code">
+        請輸入您的兌換序號</string>
+    <string name="popularity">
+        人氣</string>
+    <string name="pre_sell_movie">
+        預售電影</string>
+    <string name="precautions">
+        注意事項</string>
+    <string name="pref_settings">
+        設定</string>
+    <string name="prefecture">
+        專區</string>
+    <string name="prefs_header_application">
+        Application Behavior</string>
+    <string name="prefs_header_application_summary">
+        Control how the application behaves on the TV</string>
+    <string name="prefs_termination_policy_default">
+        0</string>
+    <string name="prefs_termination_policy_dialog_title">
+        When Disconnecting</string>
+    <string name="prefs_volume_default">
+        device</string>
+    <string name="prefs_volume_dialog_title">
+        Volume Assignment</string>
+    <string name="prefs_volume_title">
+        Volume Assignment</string>
+    <string name="prefs_volume_title_summary">
+        Controls %1$s</string>
+    <string name="preloaded_movie">
+        預載影片</string>
+    <string name="prepaid_credit">
+        儲值點數</string>
+    <string name="privacy_policy">
+        隱私政策</string>
+    <string name="privacy_policy_for_reg">
+        隱私權政策</string>
+    <string name="processing">
+        正在執行中，請放慢點擊頻率</string>
+    <string name="product_type_AVOD_Charge">
+        租借廣告版</string>
+    <string name="product_type_TVOD">
+        租借影片</string>
+    <string name="product_type_adv">
+        廣告</string>
+    <string name="product_type_bonus">
+        花絮</string>
+    <string name="product_type_bouns_AVOD_Charge">
+        花絮 - 租借廣告版</string>
+    <string name="product_type_bouns_TVOD">
+        花絮 - 租借影片</string>
+    <string name="product_type_est">
+        購買</string>
+    <string name="product_type_tvod">
+        租借</string>
+    <string name="profile_picture">
+        頭像</string>
+    <string name="promotion_campaign">
+        好康活動</string>
+    <string name="promotion_campaign_date_format">
+        yyyy年MM月dd日</string>
+    <string name="promotion_campaign_n">
+        好康活動 %s</string>
+    <string name="promotion_detail">
+        活動詳情</string>
+    <string name="promotion_period">
+        活動時間: %1$s 至 %2$s</string>
+    <string name="purchase_now">
+        馬上購買</string>
+    <string name="purchased_content">
+        消費內容</string>
+    <string name="purchased_date">
+        消費日期</string>
+    <string name="queue_empty">
+        Queue is empty!</string>
+    <string name="queue_item_added_to_play_next">
+        An item was added to play next</string>
+    <string name="queue_item_added_to_queue">
+        An item was added to the queue</string>
+    <string name="queue_list">
+        Queue</string>
+    <string name="queue_tag_item">
+        queue-tag-item</string>
+    <string name="quick_tutorial">
+        快速教學</string>
+    <string name="rating">
+        影片評分</string>
+    <string name="read_privacy_policy">
+        "When clicking Regiter, you'v read and agreed with the go movie"</string>
+    <string name="read_terms">
+        我已詳細閱讀了解%s服務條款，並同意服務條款之約定</string>
+    <string name="recommend_movie">
+        推薦影片</string>
+    <string name="recommend_search">
+        建議搜尋關鍵字</string>
+    <string name="redeem" />
+    <string name="redeem_code">
+        序號兌換</string>
+    <string name="redeem_credit">
+        序號兌換</string>
+    <string name="redeem_date">
+        兌換日</string>
+    <string name="redeem_now" />
+    <string name="redeem_serial">
+        兌換序號</string>
+    <string name="redemptiom_confirm_btn">
+        確定</string>
+    <string name="redemption">
+        兌換</string>
+    <string name="redemption_history_datetime">
+        兌換時間</string>
+    <string name="redemption_history_details">
+        兌換項目</string>
+    <string name="redemption_success" />
+    <string name="register">
+        註冊</string>
+    <string name="register_device_notification">
+        *每個帳戶最多註冊%1$d個裝置， 如閣下需要更改有關內容，請聯絡%2$s</string>
+    <string name="register_device_qty">
+        註冊裝置數量</string>
+    <string name="register_for_free">
+        免費註冊帳戶</string>
+    <string name="register_new_account">
+        註冊新帳戶</string>
+    <string name="register_now">
+        立即註冊</string>
+    <string name="register_platform">
+        註冊裝置</string>
+    <string name="registration_completed_please_check_email">
+        註冊成功！請檢查郵箱。</string>
+    <string name="related_product">
+        相關產品</string>
+    <string name="related_search">
+        相關搜尋</string>
+    <string name="release_year">
+        發行年份</string>
+    <string name="remain_credit">
+        帳戶餘額</string>
+    <string name="remain_credit_with_unit">
+        餘額</string>
+    <string name="remain_credit_with_unit_in_total">
+        總計餘額</string>
+    <string name="remember_account">
+        記住帳戶</string>
+    <string name="remember_password">
+        記住密碼</string>
+    <string name="remove_from_favourite">
+        從最愛中移除</string>
+    <string name="rent_caution">
+        每部影片請於購買%1$d天內開啟播放。在開啟播放後的%2$d小時內，最多在三個裝置﹝非同時登入﹞無限次觀賞。按下﹝立即播放﹞，即可開始觀賞；超過%3$d小時後，您必須重新購買才可繼續觀賞。</string>
+    <string name="rent_movie" />
+    <string name="rented_movie">
+        已租電影</string>
+    <string name="rented_tvseries">
+        已租影集</string>
+    <string name="required_field">
+        必填內容</string>
+    <string name="resend_associate_facebook_verification_email">
+        重新發送 Facebook帳號連結 go movie 帳號驗證信</string>
+    <string name="resend_verification_email">
+        重新發送驗證信息</string>
+    <string name="reset_password_message">
+        重置密碼，請輸入您的註冊郵箱。</string>
+    <string name="reset_password_success">
+        更新密碼成功</string>
+    <string name="restricted">
+        限制級</string>
+    <string name="restricted_back">
+        離開</string>
+    <string name="restricted_caution">
+        聲明條款:</string>
+    <string name="restricted_ok">
+        同意</string>
+    <string name="restricted_rent_caution_1">
+        以下內容列為限制級, 僅提供十八歲之使用者瀏覽、租買。</string>
+    <string name="restricted_rent_caution_2">
+        在您點選前, 請先確認您已年滿十八歲, 並遵守我國法令及接受本網站使用規則與各項條款。 如您未達法定年齡而逕自瀏覽, 該觸法行為由虛報年齡者自承擔法律責任。</string>
+    <string name="restricted_title_1">
+        本片列為限制級</string>
+    <string name="restricted_title_2">
+        未滿十八歲</string>
+    <string name="restricted_title_2b">
+        未滿十八歲之人不得觀賞</string>
+    <string name="restricted_title_3">
+        之人不得觀賞</string>
+    <string name="result_error">
+        錯誤</string>
+    <string name="rights">
+        2014 得利影視版權所有。</string>
+    <string name="samsung_event_credit">
+        Samsung活動點數</string>
+    <string name="sd">
+        SD</string>
+    <string name="sd_card">
+        SD卡</string>
+    <string name="sd_definition">
+        480p</string>
+    <string name="sd_platform">
+        手機、平板、電腦</string>
+    <string name="sdcard_tab">
+        @string/preloaded_movie</string>
+    <string name="search">
+        搜尋</string>
+    <string name="search_authorities">
+        tv.opensky.history.search.provider</string>
+    <string name="search_result">
+        搜尋結果</string>
+    <string name="section_format">
+        Hello World from section: %1$d</string>
+    <string name="see_trailer">
+        觀看預告片</string>
+    <string name="select_action">
+        動作</string>
+    <string name="select_date">
+        選擇出生日期</string>
+    <string name="select_plan">
+        選擇以下方案:</string>
+    <string name="send">
+        發送</string>
+    <string name="send_password_to_account" />
+    <string name="send_password_to_email">
+        請輸入您註冊時所使用的Email</string>
+    <string name="send_reset_password">
+        已寄送重設密碼指示至您的信箱</string>
+    <string name="send_to">
+        分享到</string>
+    <string name="send_verification_letter">
+        已寄送帳號驗證信到您的信箱</string>
+    <string name="service_phone_line">
+        客服專線</string>
+    <string name="service_phone_time_list">
+        %1$d-%2$d-%3$d</string>
+    <string name="service_phone_time_n_to_m">
+        （服務時間: 星期一至五 %1$d:%2$d 至 %3$d:%4$d 例假日除外)</string>
+    <string name="service_terms">
+        服務條款</string>
+    <string name="service_terms_for_reg">
+        服務條款</string>
+    <string name="settings">
+        設置</string>
+    <string name="share">
+        Share</string>
+    <string name="share_comment">
+        評論分享</string>
+    <string name="shelf_ststus">
+        已下架</string>
+    <string name="show_queue">
+        Show Queue</string>
+    <string name="sign_in">
+        登入</string>
+    <string name="sign_in_if_applied_svod">
+        您已經訂購? 請登入觀看</string>
+    <string name="sign_in_or_register">
+        登入 / 註冊</string>
+    <string name="sign_in_success">
+        登入成功</string>
+    <string name="sign_out">
+        登出</string>
+    <string name="signin">
+        帳號登入</string>
+    <string name="signin_failed">
+        登入失敗</string>
+    <string name="signin_password">
+        密碼</string>
+    <string name="signin_with_facebook">
+        臉書帳號快速登入</string>
+    <string name="smart_tv">
+        Smart TV</string>
+    <string name="smartphone">
+        智慧型手機</string>
+    <string name="speed_hd">
+        2.5Mbps</string>
+    <string name="speed_sd">
+        1.5Mbps</string>
+    <string name="speed_test">
+        連線速度</string>
+    <string name="speed_test_result">
+        測試結果:</string>
+    <string name="speed_test_result_speed">
+        速度: %s</string>
+    <string name="start">
+        開始</string>
+    <string name="start_download">
+        開始下載</string>
+    <string name="start_speed_test">
+        開始測試</string>
+    <string name="status">
+        狀態</string>
+    <string name="stop">
+        停止</string>
+    <string name="store_picture_message">
+        Allow Ad to store image in Picture gallery?</string>
+    <string name="store_picture_title">
+        Save image</string>
+    <string name="studio">
+        發行公司</string>
+    <string name="submit_raing">
+        給予評分</string>
+    <string name="subscribe">
+        訂購</string>
+    <string name="subscribe_dialog_button">
+        關閉</string>
+    <string name="subscribe_dialog_title">
+        更新成功!</string>
+    <string name="subscribe_newsletter">
+        訂閱Newsletter/ 優惠資訊</string>
+    <string name="subscrible_btn">
+        未訂閱</string>
+    <string name="subscription_date">
+        訂購日期:</string>
+    <string name="subscription_date_format">
+        dd MMM yyyy</string>
+    <string name="subscription_expire_date">
+        下期扣款日:</string>
+    <string name="subtitle">
+        字幕</string>
+    <string name="support_cross_platform">
+        支持跨平臺</string>
+    <string name="supported_device">
+        支援機種</string>
+    <string name="supported_platform">
+        支援</string>
+    <string name="surface_best_fit">
+        Best fit</string>
+    <string name="surface_fill">
+        Fill</string>
+    <string name="surface_fit_horizontal">
+        Fit horizontal</string>
+    <string name="surface_fit_vertical">
+        Fit vertical</string>
+    <string name="surface_original">
+        Center</string>
+    <string name="svod_plan">
+        月租計劃</string>
+    <string name="svod_proposal">
+        月租方案</string>
+    <string name="svod_zone">
+        月租專區</string>
+    <string name="synopsis">
+        劇情簡介</string>
+    <string name="tablet">
+        平板</string>
+    <string name="telephone">
+        電話</string>
+    <string name="ten_free_mins">
+        十分鐘免費看</string>
+    <string name="test_again">
+        再測試</string>
+    <string name="test_do_nothing">
+        Test-Do-nothing</string>
+    <string name="testing_url_google">
+        http://www.google.com.hk</string>
+    <string name="text_en">
+        Android</string>
+    <string name="text_fr">
+        androïde</string>
+    <string name="text_jp">
+        アンドロイド</string>
+    <string name="text_kr">
+        안드로이드</string>
+    <string name="text_ru">
+        андроид</string>
+    <string name="text_th">
+        หุ่นยนต์</string>
+    <string name="text_zh">
+        安卓</string>
+    <string name="time_0">
+        0:00</string>
+    <string name="title">
+        Title</string>
+    <string name="title_activity_editor_choice">
+        @string/label_editor_choice</string>
+    <string name="title_activity_festival_calendar">
+        @string/label_festival_calendar</string>
+    <string name="title_activity_fullscreen">
+        FullscreenActivity</string>
+    <string name="title_activity_genre">
+        @string/label_genre</string>
+    <string name="title_activity_movie_detail_main">
+        MovieDetailMainActivity</string>
+    <string name="title_activity_one_tv_settings">
+        OneTvSettingsActivity</string>
+    <string name="title_activity_player_full_screen">
+        PlayerFullScreenActivity</string>
+    <string name="title_activity_player_testing">
+        PlayerTestingActivity</string>
+    <string name="title_activity_recommended_main">
+        RecommendedMainActivity</string>
+    <string name="title_activity_register">
+        @string/login_register_new_account</string>
+    <string name="title_activity_series_main">
+        SeriesMainActivity</string>
+    <string name="title_activity_settings">
+        Settings</string>
+    <string name="title_activity_test">
+        TestActivity</string>
+    <string name="title_activity_topic_list">
+        @string/label_topic</string>
+    <string name="title_activity_web_view">
+        @string/web_view</string>
+    <string name="title_external_storage">
+        外置存儲區</string>
+    <string name="title_section1">
+        Section 1</string>
+    <string name="title_section2">
+        Section 2</string>
+    <string name="title_section3">
+        Section 3</string>
+    <string name="title_setting_dl_storage">
+        下載影片儲存裝置</string>
+    <string name="top_n_movie">
+        TOP %d</string>
+    <string name="total_amount">
+        總金額</string>
+    <string name="total_rating">
+        人對此評分</string>
+    <string name="touch_to_cast">
+        Touch to cast videos to your TV</string>
+    <string name="track_audio">
+        Audio track</string>
+    <string name="track_text">
+        Subtitles track</string>
+    <string name="transaction_history_datetime_n_amount">
+        交易時間及金額</string>
+    <string name="transaction_history_details">
+        交易項目及詳情</string>
+    <string name="transaction_record">
+        交易紀錄</string>
+    <string name="transition_image">
+        transition-image</string>
+    <string name="tv_inquiry">
+        支援互動電視機種請查詢 常見問題</string>
+    <string name="tv_series">
+        影集分類</string>
+    <string name="tvod_tab">
+        @string/web_rent</string>
+    <string name="unlink_apt">
+        取消綁定</string>
+    <string name="unlink_apt_failed">
+        未能取消綁定亞太電信帳單付款</string>
+    <string name="unlink_apt_locked">
+        服務綁約中無法取消，若有需要請洽亞太客服999詢問，謝謝</string>
+    <string name="unlink_apt_success">
+        已取消綁定亞太電信帳單付款</string>
+    <string name="unplug_hdmi">
+        很抱歉！受版權所限，您不能使用手機或平板以外的顯示屏播放影片。</string>
+    <string name="unseekable_stream">
+        Unseekable stream</string>
+    <string name="unsubscrbile_svod_failed">
+        未能取消月租方案</string>
+    <string name="unsubscrbile_svod_locked">
+        服務綁約中無法取消，若有需要請洽亞太客服999詢問，謝謝</string>
+    <string name="unsubscrbile_svod_success">
+        已成功取消月租方案</string>
+    <string name="unsubscribe_svod">
+        取消月租</string>
+    <string name="unsubscrible_btn">
+        已訂閱</string>
+    <string name="unsupported_device">
+        不支持的設備</string>
+    <string name="update_member_address_title">
+        住址更改</string>
+    <string name="update_member_birthday_title">
+        生日更改</string>
+    <string name="update_member_gender_title">
+        性別更改</string>
+    <string name="update_member_info_field">
+        請輸入更新資料</string>
+    <string name="update_member_name_title">
+        姓名更改</string>
+    <string name="update_member_phone_title">
+        電話號碼更改</string>
+    <string name="upper_case">
+        英文請填大寫</string>
+    <string name="url_movie_detail" />
+    <string name="url_suffix_about_us">
+        web-view/about</string>
+    <string name="url_suffix_privacy_policy">
+        web-view/privacy-policy</string>
+    <string name="url_suffix_terms_and_conditions">
+        web-view/terms-and-conditions</string>
+    <string name="user_greetings">
+        您好, %s!</string>
+    <string name="user_not_logged_in">
+        你尚未登入</string>
+    <string name="v7_preference_off">
+        OFF</string>
+    <string name="v7_preference_on">
+        ON</string>
+    <string name="version">
+        CastVideos: %1$s, CCL: %2$s</string>
+    <string name="video_error_media_load_timeout">
+        Media loading timed out</string>
+    <string name="video_error_server_unaccessible">
+        Media server was not reachable</string>
+    <string name="video_error_unknown_error">
+        Failed to load video</string>
+    <string name="view_redemption_record" />
+    <string name="volume">
+        Volume</string>
+    <string name="waiting_for_download">
+        等待下載</string>
+    <string name="watch_all">
+        觀看所有</string>
+    <string name="watch_now">
+        立即觀看</string>
+    <string name="watch_via_wifi_only">
+        只通過wifi觀看影片</string>
+    <string name="watched_svod_proposal_movie">
+        已觀看的月租方案影片</string>
+    <string name="webView_aboutUs">
+        https://m.gomovie.com.tw/app/about-us</string>
+    <string name="webView_aboutUs_uat">
+        https://m-uat.gomovie.com.tw/app/about-us</string>
+    <string name="webView_contactUs">
+        https://m.gomovie.com.tw/app/contact-us</string>
+    <string name="webView_contactUs_uat">
+        https://m-uat.gomovie.com.tw/app/contact-us</string>
+    <string name="webView_payment" />
+    <string name="webView_policy">
+        https://m.gomovie.com.tw/app/policy</string>
+    <string name="webView_policy_uat">
+        https://m-uat.gomovie.com.tw/app/policy</string>
+    <string name="webView_terms_and_condition">
+        https://m.gomovie.com.tw/app/terms/</string>
+    <string name="webView_terms_and_condition_uat">
+        https://m-uat.gomovie.com.tw/app/terms/</string>
+    <string name="web_rent">
+        線上租片</string>
+    <string name="web_rent_end">
+        起</string>
+    <string name="web_view">
+        WebView</string>
+    <string name="web_view_payment_uat" />
+    <string name="web_view_signin" />
+    <string name="web_view_signin_uat" />
+    <string name="widget_name">
+        MPMediaPlayer</string>
+    <string name="year">
+        年</string>
+    <string name="your_subscription_remains" />
+    <string name="zh_tw">
+        繁體中文</string>
+</resources>

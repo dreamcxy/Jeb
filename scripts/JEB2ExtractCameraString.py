@@ -2,6 +2,7 @@
 
 import os
 import platform
+import shutil
 from com.pnfsoftware.jeb.client.api import IScript
 from com.pnfsoftware.jeb.core import Artifact
 from com.pnfsoftware.jeb.core.input import FileInput
@@ -9,10 +10,12 @@ from com.pnfsoftware.jeb.core.output.text import ITextDocument
 from java.io import File
 
 
-APKDIR = "C:/Users/dreamcxy/Desktop/Security/SilentCamera/codes/Jeb/apks/" if platform.system(
-) == 'Windows' else "/Users/chenxiaoyu/Desktop/Project/Jeb/apks/"
+APKDIR = "D:/DetectApksSecond/" if platform.system(
+) != 'Windows' else "/Users/chenxiaoyu/Desktop/Project/Jeb/apks/"
 STRINGSDIR = "C:/Users/dreamcxy/Desktop/Security/SilentCamera/codes/Jeb/strings/" if platform.system(
-) == 'Windows' else "/Users/chenxiaoyu/Desktop/Project/Jeb/strings/"
+) != 'Windows' else "/Users/chenxiaoyu/Desktop/Project/Jeb/strings/"
+APKLOADEDDIR = "D:/DetectApksSecondLoaded/"
+
 WINDOWSIZE = 2
 
 
@@ -28,7 +31,7 @@ class JEB2ExtractCameraString(IScript):
             print "there is no opened project"
             return
         project = projects[0]
-
+        print "start to load apkfile....."
         apkFiles = os.listdir(APKDIR)
         apkFileDealList = []
         while apkFiles:
@@ -36,11 +39,13 @@ class JEB2ExtractCameraString(IScript):
                 if apkFiles:
                     apkFileDealList.append(apkFiles.pop())
             while apkFileDealList:
-                artifact = self.loadArtifacts(APKDIR + apkFileDealList.pop())
+                apkName = apkFileDealList.pop()
+                artifact = self.loadArtifacts(APKDIR + apkName)
                 liveArtifact = project.processArtifact(artifact)
+                print "now in artiface: " + artifact.getName()
                 self.extractStringsXmlFromArtifact(liveArtifact)
                 self.destroyUnitsOnlyRemainApkName(project, liveArtifact)
-
+                self.moveFile(APKDIR+apkName, APKLOADEDDIR+apkName)
         # for apkFile in apkFiles:
         #     # print apkFile
         #     artifact = self.loadArtifacts(APKDIR + apkFile)
@@ -50,12 +55,14 @@ class JEB2ExtractCameraString(IScript):
 
 
 #   将apk转为artifact文件
+
     def loadArtifacts(self, artifactFilePath):
         artifactFile = File(artifactFilePath)
         return Artifact(artifactFile.getName(), FileInput(artifactFile))
 
 
 #   将artifact中Resources下的strings.xml录入到文件中
+
     def extractStringsXmlFromArtifact(self, liveArtifact):
         stringFilePath = STRINGSDIR + liveArtifact.getArtifact().getName() + ".txt"
         print stringFilePath
@@ -102,3 +109,7 @@ class JEB2ExtractCameraString(IScript):
         units = liveArtifact.getUnits()
         for unit in units:
             project.destroyUnit(unit)
+
+#   将已经载入过的apkfile 移动到另外的文件夹中
+    def moveFile(self, nowPos, targetPos):
+        shutil.move(nowPos, targetPos)

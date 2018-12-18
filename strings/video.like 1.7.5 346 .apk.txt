@@ -1,0 +1,3361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="abc_action_bar_home_description">
+    Navigate home</string>
+  <string name="abc_action_bar_home_description_format">
+    %1$s, %2$s</string>
+  <string name="abc_action_bar_home_subtitle_description_format">
+    %1$s, %2$s, %3$s</string>
+  <string name="abc_action_bar_up_description">
+    Navigate up</string>
+  <string name="abc_action_menu_overflow_description">
+    More options</string>
+  <string name="abc_action_mode_done">
+    Done</string>
+  <string name="abc_activity_chooser_view_see_all">
+    See all</string>
+  <string name="abc_activitychooserview_choose_application">
+    Choose an app</string>
+  <string name="abc_capital_off">
+    OFF</string>
+  <string name="abc_capital_on">
+    ON</string>
+  <string name="abc_search_hint">
+    Search…</string>
+  <string name="abc_searchview_description_clear">
+    Clear query</string>
+  <string name="abc_searchview_description_query">
+    Search query</string>
+  <string name="abc_searchview_description_search">
+    Search</string>
+  <string name="abc_searchview_description_submit">
+    Submit query</string>
+  <string name="abc_searchview_description_voice">
+    Voice search</string>
+  <string name="abc_shareactionprovider_share_with">
+    Share with</string>
+  <string name="abc_shareactionprovider_share_with_application">
+    Share with %s</string>
+  <string name="abc_toolbar_collapse_description">
+    Collapse</string>
+  <string name="com_facebook_device_auth_instructions">
+    Visit <b>facebook.com/device</b> and enter your code.</string>
+  <string name="com_facebook_image_download_unknown_error">
+    Unexpected error while downloading an image.</string>
+  <string name="com_facebook_internet_permission_error_message">
+    WebView login requires INTERNET permission</string>
+  <string name="com_facebook_internet_permission_error_title">
+    AndroidManifest Error</string>
+  <string name="com_facebook_like_button_liked">
+    Liked</string>
+  <string name="com_facebook_like_button_not_liked">
+    Like</string>
+  <string name="com_facebook_loading">
+    Loading…</string>
+  <string name="com_facebook_loginview_cancel_action">
+    Cancel</string>
+  <string name="com_facebook_loginview_log_in_button">
+    Log in</string>
+  <string name="com_facebook_loginview_log_in_button_continue">
+    Continue with Facebook</string>
+  <string name="com_facebook_loginview_log_in_button_long">
+    Log in with Facebook</string>
+  <string name="com_facebook_loginview_log_out_action">
+    Log out</string>
+  <string name="com_facebook_loginview_log_out_button">
+    Log out</string>
+  <string name="com_facebook_loginview_logged_in_as">
+    Logged in as: %1$s</string>
+  <string name="com_facebook_loginview_logged_in_using_facebook">
+    Logged in using Facebook</string>
+  <string name="com_facebook_send_button_text">
+    Send</string>
+  <string name="com_facebook_share_button_text">
+    Share</string>
+  <string name="com_facebook_tooltip_default">
+    You're in control - choose what info you want to share with apps.</string>
+  <string name="common_google_play_services_enable_button">
+    Enable</string>
+  <string name="common_google_play_services_enable_text">
+    %1$s won't work unless you enable Google Play services.</string>
+  <string name="common_google_play_services_enable_title">
+    Enable Google Play services</string>
+  <string name="common_google_play_services_install_button">
+    Install</string>
+  <string name="common_google_play_services_install_text_phone">
+    %1$s won't run without Google Play services, which are missing from your phone.</string>
+  <string name="common_google_play_services_install_text_tablet">
+    %1$s won't run without Google Play services, which are missing from your tablet.</string>
+  <string name="common_google_play_services_install_title">
+    Get Google Play services</string>
+  <string name="common_google_play_services_notification_ticker">
+    Google Play services error</string>
+  <string name="common_google_play_services_unknown_issue">
+    %1$s is having trouble with Google Play services. If the problem persists, please contact the developer for assistance.</string>
+  <string name="common_google_play_services_unsupported_text">
+    %1$s relies on Google Play services, which is not supported by your device. Contact the manufacturer for assistance.</string>
+  <string name="common_google_play_services_unsupported_title">
+    Google Play services</string>
+  <string name="common_google_play_services_update_button">
+    Update</string>
+  <string name="common_google_play_services_update_text">
+    %1$s won't run unless you update Google Play services.</string>
+  <string name="common_google_play_services_update_title">
+    Update Google Play services</string>
+  <string name="common_google_play_services_updating_text">
+    %1$s won't run without Google Play services, which are currently updating.</string>
+  <string name="common_google_play_services_updating_title">
+    Google Play services are updating</string>
+  <string name="common_google_play_services_wear_update_text">
+    New version of Google Play services needed. It will update itself shortly.</string>
+  <string name="common_open_on_phone">
+    Open on phone</string>
+  <string name="common_signin_button_text">
+    Sign in</string>
+  <string name="common_signin_button_text_long">
+    Sign in with Google</string>
+  <string name="messenger_send_button_text">
+    Send</string>
+  <string name="search_menu_title">
+    Search</string>
+  <string name="status_bar_notification_info_overflow">
+    999+</string>
+  <string name="hms_abort">
+    Stop</string>
+  <string name="hms_abort_message">
+    Stop downloading?</string>
+  <string name="hms_bindfaildlg_message">
+    %1$s is unable to use Huawei Mobile Services. Please launch Phone Manager or go to Settings, enable all permissions for %2$s (including auto-launch and secondary launch), and try again.</string>
+  <string name="hms_cancel">
+    Cancel</string>
+  <string name="hms_check_failure">
+    Failed to check for updates.</string>
+  <string name="hms_check_no_update">
+    You are already using the latest version.</string>
+  <string name="hms_checking">
+    Checking for updates…</string>
+  <string name="hms_confirm">
+    OK</string>
+  <string name="hms_download_failure">
+    Failed to download Huawei Mobile Services package.</string>
+  <string name="hms_download_no_space">
+    Not enough free space. Download cannot be completed.</string>
+  <string name="hms_download_retry">
+    Download failed. Try again?</string>
+  <string name="hms_downloading">
+    Downloading Huawei Mobile Services progress: %d%%</string>
+  <string name="hms_downloading_new">
+    Downloading HMS</string>
+  <string name="hms_install">
+    Install</string>
+  <string name="hms_install_message">
+    Huawei Mobile Services must be installed to use this feature. Install?</string>
+  <string name="hms_retry">
+    Retry</string>
+  <string name="hms_update">
+    Update</string>
+  <string name="hms_update_message">
+    Update to the latest version of Huawei Mobile Services to use this feature. Update now?</string>
+  <string name="hms_update_message_new">
+    This service requires the latest version of the following app: %1$s </string>
+  <string name="hms_update_title">
+    Huawei Mobile Services</string>
+  <string name="tw__composer_hint">
+    What's Happening?</string>
+  <string name="tw__login_btn_txt">
+    Log in with Twitter</string>
+  <string name="tw__max_tweet_chars">
+    140</string>
+  <string name="tw__post_tweet">
+    Tweet</string>
+  <string name="AD">
+    Andorra</string>
+  <string name="AE">
+    United Arab Emirates</string>
+  <string name="AF">
+    Afghanistan</string>
+  <string name="AG">
+    Antigua and Barbuda</string>
+  <string name="AI">
+    Anguilla</string>
+  <string name="AL">
+    Albania</string>
+  <string name="AM">
+    Armenia</string>
+  <string name="AN">
+    Netherlands Antilles</string>
+  <string name="AO">
+    Angola</string>
+  <string name="AQ">
+    Antarctica</string>
+  <string name="AR">
+    Argentina</string>
+  <string name="AS">
+    American Samoa</string>
+  <string name="AT">
+    Austria</string>
+  <string name="AU">
+    Australia</string>
+  <string name="AW">
+    Aruba</string>
+  <string name="AX">
+    Aland Islands</string>
+  <string name="AZ">
+    Azerbaijan</string>
+  <string name="BA">
+    Bosnia and Herzegovina</string>
+  <string name="BB">
+    Barbados</string>
+  <string name="BD">
+    Bangladesh</string>
+  <string name="BE">
+    Belgium</string>
+  <string name="BF">
+    Burkina Faso</string>
+  <string name="BG">
+    Bulgaria</string>
+  <string name="BH">
+    Bahrain</string>
+  <string name="BI">
+    Burundi</string>
+  <string name="BJ">
+    Benin</string>
+  <string name="BL">
+    Saint Barthelemy</string>
+  <string name="BM">
+    Bermuda</string>
+  <string name="BN">
+    Brunei</string>
+  <string name="BO">
+    Bolivia</string>
+  <string name="BR">
+    Brazil</string>
+  <string name="BS">
+    Bahamas</string>
+  <string name="BT">
+    Bhutan</string>
+  <string name="BU">
+    Burma (no longer exists)</string>
+  <string name="BV">
+    Bouvet Island</string>
+  <string name="BW">
+    Botswana</string>
+  <string name="BY">
+    Belarus</string>
+  <string name="BZ">
+    Belize</string>
+  <string name="CA">
+    Canada</string>
+  <string name="CC">
+    Cocos (Keeling) Islands</string>
+  <string name="CD">
+    Democratic Republic of the Congo</string>
+  <string name="CF">
+    Central African Republic</string>
+  <string name="CG">
+    Congo (Brazzaville)</string>
+  <string name="CH">
+    Switzerland</string>
+  <string name="CI">
+    Ivory Coast</string>
+  <string name="CK">
+    Cook Islands</string>
+  <string name="CL">
+    Chile</string>
+  <string name="CM">
+    Cameroon</string>
+  <string name="CN">
+    China</string>
+  <string name="CO">
+    Colombia</string>
+  <string name="CR">
+    Costa Rica</string>
+  <string name="CS">
+    Czechoslovakia (no longer exists)</string>
+  <string name="CU">
+    Cuba</string>
+  <string name="CV">
+    Cape Verde Island</string>
+  <string name="CX">
+    The Territory of Christmas Island</string>
+  <string name="CY">
+    Cyprus</string>
+  <string name="CZ">
+    Czech Republic</string>
+  <string name="DD">
+    German Democratic Republic (no longer exists)</string>
+  <string name="DE">
+    Germany</string>
+  <string name="DG">
+    Diego Garcia</string>
+  <string name="DJ">
+    Djibouti</string>
+  <string name="DK">
+    Denmark</string>
+  <string name="DM">
+    Dominica</string>
+  <string name="DO">
+    Dominican Republic</string>
+  <string name="DZ">
+    Algeria</string>
+  <string name="EC">
+    Ecuador</string>
+  <string name="EE">
+    Estonia</string>
+  <string name="EG">
+    Egypt</string>
+  <string name="EH">
+    Western Sahara</string>
+  <string name="ER">
+    Eritrea</string>
+  <string name="ES">
+    Spain</string>
+  <string name="ET">
+    Ethiopia</string>
+  <string name="FI">
+    Finland</string>
+  <string name="FJ">
+    Fiji</string>
+  <string name="FK">
+    Falkland Islands</string>
+  <string name="FM">
+    Micronesia</string>
+  <string name="FO">
+    Faroe Islands</string>
+  <string name="FR">
+    France</string>
+  <string name="FX">
+    France, Metropolitan</string>
+  <string name="GA">
+    Gabon</string>
+  <string name="GB">
+    United Kingdom</string>
+  <string name="GD">
+    Grenada</string>
+  <string name="GE">
+    Georgia</string>
+  <string name="GF">
+    French Guiana</string>
+  <string name="GG">
+    Guernsey</string>
+  <string name="GH">
+    Ghana</string>
+  <string name="GI">
+    Gibraltar</string>
+  <string name="GL">
+    Greenland</string>
+  <string name="GM">
+    Gambia</string>
+  <string name="GN">
+    Guinea</string>
+  <string name="GP">
+    Guadeloupe</string>
+  <string name="GQ">
+    Equatorial Guinea</string>
+  <string name="GR">
+    Greece</string>
+  <string name="GS">
+    South Georgia and the South Sandwich Islands</string>
+  <string name="GT">
+    Guatemala</string>
+  <string name="GU">
+    Guam</string>
+  <string name="GW">
+    Guinea - Bissau</string>
+  <string name="GY">
+    Guyana</string>
+  <string name="HK">
+    Hongkong</string>
+  <string name="HM">
+    Heard and McDonald Islands</string>
+  <string name="HN">
+    Honduras</string>
+  <string name="HR">
+    Croatia</string>
+  <string name="HT">
+    Haiti</string>
+  <string name="HU">
+    Hungary</string>
+  <string name="ID">
+    Indonesia</string>
+  <string name="IE">
+    Ireland</string>
+  <string name="IL">
+    Israel</string>
+  <string name="IM">
+    Isle of Man</string>
+  <string name="IN">
+    India</string>
+  <string name="IO">
+    British Indian Ocean Territory</string>
+  <string name="IQ">
+    Iraq</string>
+  <string name="IR">
+    Iran</string>
+  <string name="IS">
+    Iceland</string>
+  <string name="IT">
+    Italy</string>
+  <string name="JE">
+    Jersey</string>
+  <string name="JM">
+    Jamaica</string>
+  <string name="JO">
+    Jordan</string>
+  <string name="JP">
+    Japan</string>
+  <string name="KE">
+    Kenya</string>
+  <string name="KG">
+    Kyrgyzstan</string>
+  <string name="KH">
+    Cambodia</string>
+  <string name="KI">
+    Kiribati</string>
+  <string name="KM">
+    Comoros</string>
+  <string name="KN">
+    Saint Kitts and Nevis</string>
+  <string name="KP">
+    North Korea</string>
+  <string name="KR">
+    South Korea</string>
+  <string name="KW">
+    Kuwait</string>
+  <string name="KY">
+    Cayman Islands</string>
+  <string name="KZ">
+    Kazakhstan</string>
+  <string name="LA">
+    Laos</string>
+  <string name="LB">
+    Lebanon</string>
+  <string name="LC">
+    Saint Lucia</string>
+  <string name="LI">
+    Liechtenstein</string>
+  <string name="LK">
+    Sri Lanka</string>
+  <string name="LR">
+    Liberia</string>
+  <string name="LS">
+    Lesotho</string>
+  <string name="LT">
+    Lithuania</string>
+  <string name="LU">
+    Luxembourg</string>
+  <string name="LV">
+    Latvia</string>
+  <string name="LY">
+    Libya</string>
+  <string name="MA">
+    Morocco</string>
+  <string name="MC">
+    Monaco</string>
+  <string name="MD">
+    Moldova</string>
+  <string name="ME">
+    Montenegro</string>
+  <string name="MF">
+    Saint Martin</string>
+  <string name="MG">
+    Madagascar</string>
+  <string name="MH">
+    Marshall Islands</string>
+  <string name="MK">
+    Macedonia</string>
+  <string name="ML">
+    Mali</string>
+  <string name="MM">
+    Myanmar</string>
+  <string name="MN">
+    Mongolia</string>
+  <string name="MO">
+    Macau</string>
+  <string name="MP">
+    Northern Mariana Islands</string>
+  <string name="MQ">
+    Martinique</string>
+  <string name="MR">
+    Mauritania</string>
+  <string name="MS">
+    Montserrat</string>
+  <string name="MT">
+    Malta</string>
+  <string name="MU">
+    Mauritius</string>
+  <string name="MV">
+    Maldives</string>
+  <string name="MW">
+    Malawi</string>
+  <string name="MX">
+    Mexico</string>
+  <string name="MY">
+    Malaysia</string>
+  <string name="MZ">
+    Mozambique</string>
+  <string name="NA">
+    Namibia</string>
+  <string name="NC">
+    New Caledonia</string>
+  <string name="NE">
+    Niger</string>
+  <string name="NF">
+    Norfolk Island</string>
+  <string name="NG">
+    Nigeria</string>
+  <string name="NI">
+    Nicaragua</string>
+  <string name="NL">
+    Netherlands</string>
+  <string name="NO">
+    Norway</string>
+  <string name="NP">
+    Nepal</string>
+  <string name="NR">
+    Nauru</string>
+  <string name="NT">
+    Neutral Zone (no longer exists)</string>
+  <string name="NU">
+    Niue Island</string>
+  <string name="NZ">
+    New Zealand</string>
+  <string name="OM">
+    Oman</string>
+  <string name="PA">
+    Panama</string>
+  <string name="PE">
+    Peru</string>
+  <string name="PF">
+    French Polynesia</string>
+  <string name="PG">
+    Papua New Guinea</string>
+  <string name="PH">
+    Philippines</string>
+  <string name="PK">
+    Pakistan</string>
+  <string name="PL">
+    Poland</string>
+  <string name="PM">
+    Saint Pierre and Miquelon Island</string>
+  <string name="PN">
+    Pitcairn Islands</string>
+  <string name="PR">
+    Puerto Rico</string>
+  <string name="PS">
+    Palestine</string>
+  <string name="PT">
+    Portugal</string>
+  <string name="PW">
+    Palau</string>
+  <string name="PY">
+    Paraguay</string>
+  <string name="QA">
+    Qatar</string>
+  <string name="RE">
+    Réunion and Mayotte</string>
+  <string name="RO">
+    Romania</string>
+  <string name="RS">
+    Serbia</string>
+  <string name="RU">
+    Russia</string>
+  <string name="RUB">
+    Ascension</string>
+  <string name="RW">
+    Rwanda</string>
+  <string name="SA">
+    Saudi Arabia</string>
+  <string name="SB">
+    Solomon Islands</string>
+  <string name="SC">
+    Seychelles</string>
+  <string name="SD">
+    Sudan</string>
+  <string name="SE">
+    Sweden</string>
+  <string name="SG">
+    Singapore</string>
+  <string name="SH">
+    St. Helena</string>
+  <string name="SI">
+    Slovenia</string>
+  <string name="SJ">
+    Svalbard and Jan Mayen Islands</string>
+  <string name="SK">
+    Slovakia</string>
+  <string name="SL">
+    Sierra Leone</string>
+  <string name="SM">
+    San Marino</string>
+  <string name="SN">
+    Senegal</string>
+  <string name="SO">
+    Somalia</string>
+  <string name="SR">
+    Suriname</string>
+  <string name="SS">
+    South Sudan</string>
+  <string name="ST">
+    Sao Tome and Principe</string>
+  <string name="SU">
+    Union of Soviet Socialist Republics (no longer exists)</string>
+  <string name="SV">
+    El Salvador</string>
+  <string name="SY">
+    Syria</string>
+  <string name="SZ">
+    Swaziland</string>
+  <string name="TC">
+    Turks and Caicos Islands</string>
+  <string name="TD">
+    Chad</string>
+  <string name="TF">
+    French Southern Territories</string>
+  <string name="TG">
+    Togo</string>
+  <string name="TH">
+    Thailand</string>
+  <string name="TJ">
+    Tajikistan</string>
+  <string name="TK">
+    Tokelau</string>
+  <string name="TL">
+    Timor-Leste (East Timor)</string>
+  <string name="TM">
+    Turkmenistan</string>
+  <string name="TN">
+    Tunisia</string>
+  <string name="TO">
+    Tonga Islands</string>
+  <string name="TP">
+    East Timor</string>
+  <string name="TR">
+    Turkey</string>
+  <string name="TT">
+    Trinidad and Tobago</string>
+  <string name="TV">
+    Tuvalu</string>
+  <string name="TW">
+    Taiwan</string>
+  <string name="TZ">
+    Tanzania</string>
+  <string name="UA">
+    Ukraine</string>
+  <string name="UG">
+    Uganda</string>
+  <string name="UM">
+    United States Minor Outlying Islands</string>
+  <string name="US">
+    United States</string>
+  <string name="UY">
+    Uruguay</string>
+  <string name="UZ">
+    Uzbekistan</string>
+  <string name="VA">
+    Vatican City State</string>
+  <string name="VC">
+    Saint Vincent and The Grenadines</string>
+  <string name="VE">
+    Venezuela</string>
+  <string name="VG">
+    British Virgin Islands</string>
+  <string name="VI">
+    United States Virgin Islands</string>
+  <string name="VN">
+    Vietnam</string>
+  <string name="VU">
+    Vanuatu</string>
+  <string name="WF">
+    Wallis and Futuna Islands</string>
+  <string name="WS">
+    Western Samoa</string>
+  <string name="YD">
+    Democratic Yemen (no longer exists)</string>
+  <string name="YE">
+    Yemen</string>
+  <string name="YT">
+    Reunion Island</string>
+  <string name="YU">
+    Yugoslavia</string>
+  <string name="ZA">
+    South Africa</string>
+  <string name="ZM">
+    Zambia</string>
+  <string name="ZR">
+    Zaire</string>
+  <string name="ZW">
+    Zimbabwe</string>
+  <string name="ZZ">
+    Unknown or unspecified country</string>
+  <string name="about_us">
+    About Us</string>
+  <string name="album_not_upload_notice">
+    Pictures not uploaded will be deleted. Sure to continue?</string>
+  <string name="alter_msg_during_too_short">
+    "BOOM!" is only available to videos no less than 5 seconds</string>
+  <string name="analyzing_music">
+    Analyzing music...</string>
+  <string name="any_problem">
+    Any problems during last usage？</string>
+  <string name="app_black">
+    This version is blacklisted, please check if you are using the official version</string>
+  <string name="ask_enjoy">
+    Enjoy using LIKE?</string>
+  <string name="before_yesterday">
+    3 days ago</string>
+  <string name="bigo_id_check_availability_fail">
+    Failed to verify, please try again</string>
+  <string name="bigolive_office_team">
+    LIKE Team</string>
+  <string name="bind_account_tips_content1">
+    ・Connect to Phone is recommended to protect your LIKE account</string>
+  <string name="bind_account_tips_content2">
+    ・Your connected phone will be used to receive verification code when account setting changed</string>
+  <string name="bind_account_tips_content3">
+    ・Once connected, you can easily to log in LIKE with any Connected Account from anywhere</string>
+  <string name="bind_account_tips_content4">
+    ・You can set to show your social account to your profile.</string>
+  <string name="bind_account_tips_title">
+    Why to Connect Account?</string>
+  <string name="bind_phone_tips">
+    Once connected, you can easily log in LIKE with your phone number and enhance your account security.</string>
+  <string name="bind_phone_tips_with_number">
+    Please verify your phone number %1$s. Once connected, you can easily log in LIKE with your phone number and enhance your account security.</string>
+  <string name="blacklist_empty_txt">
+    No people blocked</string>
+  <string name="blacklist_manager">
+    Blocked List</string>
+  <string name="blacklist_manager_title">
+    Blocked list</string>
+  <string name="block_request_popup">
+    Are you sure you want to <font color=#ff7d83>block</font> <b>%1$s</b>?</string>
+  <string name="block_request_popup_hint">
+    Block means he/she can't send you message ever,and you can't follow each other.You can cancel it in "Settings-Blocked List".</string>
+  <string name="block_success">
+    Blocked</string>
+  <string name="boom_boom">
+    Preview</string>
+  <string name="boom_download_failed">
+    Failed, tap to retry</string>
+  <string name="boom_edit">
+    Re-edit</string>
+  <string name="boom_edit_guide">
+    Drag to choose the bomb target</string>
+  <string name="boom_oom">
+    oh,you should clear your memory</string>
+  <string name="boom_resource_error">
+    Resource load error,please exit and reload</string>
+  <string name="boom_storage_too_small">
+    BOOM! effects download failed,storage space is not enough</string>
+  <string name="boom_zip_download_failed">
+    "%s" download fail</string>
+  <string name="call_pin_already_sent">
+    Calling %1$s, please wait.</string>
+  <string name="camera_occupied">
+    The camera is occupied, please turn off the camera or other applications that may use the camera</string>
+  <string name="camera_permission_introduce">
+    Go to Settings>LIKE>Enable access to camera</string>
+  <string name="camera_permission_required">
+    Camera Permission Required</string>
+  <string name="can_not_disconnet_tips">
+    You can't disconnect unless you have your Phone connected</string>
+  <string name="cancel">
+    Cancel</string>
+  <string name="cancel_crop">
+    Cancel</string>
+  <string name="cannot_change_music">
+    You have used music when recording, so you can not change it</string>
+  <string name="cannot_open_camera">
+    Unable to open camera</string>
+  <string name="change_password_success">
+    Changed</string>
+  <string name="change_phone_number_success">
+    Changed</string>
+  <string name="chat_dialog_block">
+    <font color=#ff0000>Block</font></string>
+  <string name="chat_dialog_report">
+    <font color=#ff0000>Report</font></string>
+  <string name="chat_dialog_unblock">
+    <font color=#ff0000>Unblock</font></string>
+  <string name="chat_his_load_fail_retry">
+    Retry</string>
+  <string name="chat_history">
+    Messages</string>
+  <string name="chat_send_pic_beyong_limit">
+    Select a maximum of %1$d photos</string>
+  <string name="chat_send_pic_go_settings">
+    Go Settings</string>
+  <string name="chat_send_pic_no_network">
+    Poor network. Please try later~</string>
+  <string name="chat_send_pic_open_album_failed_content">
+    Go to Settings > LIKE > Enable access to photos</string>
+  <string name="chat_send_pic_open_album_failed_title">
+    Allow Photo Access</string>
+  <string name="chat_send_pic_open_camera_failed_content">
+    Go to "Settings > LIKE" and allow Camera</string>
+  <string name="chat_send_pic_open_camera_failed_title">
+    Allow Camera Access</string>
+  <string name="chat_send_pic_photo_expired">
+    The photo is expired</string>
+  <string name="chat_send_pic_send">
+    Send</string>
+  <string name="chat_send_pic_send_placeholder">
+    Send(%1$d)</string>
+  <string name="chat_send_pic_unselected">
+    Please select at least one photo</string>
+  <string name="chat_timeline_get_msg_no_network">
+    Network unavailable, please check</string>
+  <string name="chat_timeline_get_msg_timeout">
+    Invalid response from server</string>
+  <string name="chat_timeline_in_baned_txt">
+    The account is baned</string>
+  <string name="chat_timeline_intimacy">
+    Intimity</string>
+  <string name="chat_timeline_intimacy_guide">
+    How to improve your intimity?</string>
+  <string name="chat_timeline_intimacy_guide_tip">
+    Follow each other</string>
+  <string name="chat_timeline_intimacy_hint">
+    Enhancing intimity can better attract the attention of each other</string>
+  <string name="chat_timeline_intimacy_story">
+    Our story</string>
+  <string name="chat_timeline_intimacy_tutorial">
+    Tutorial</string>
+  <string name="chat_timeline_official_tips">
+    Please be patient, LIKE will reply to you as soon as possible!</string>
+  <string name="chat_timeline_prefer_sending">
+    Reply then your chat will be moved to "message"</string>
+  <string name="chat_timeline_remove_blacklist_txt">
+    %1$s has been removed from Block List</string>
+  <string name="choose_country">
+    Select Country/Region</string>
+  <string name="choose_from_album">
+    Choose from album</string>
+  <string name="choose_language">
+    Choose Language</string>
+  <string name="clean_cache">
+    Clean Cache</string>
+  <string name="clean_cache_toast">
+    Release cache size:</string>
+  <string name="cloud_music">
+    Cloud Music</string>
+  <string name="commnunity_mediashare_comment_hint">
+    Add a comment</string>
+  <string name="commnunity_mediashare_cut">
+    Cut</string>
+  <string name="commnunity_mediashare_details__comment_hint">
+    Take a look at my share</string>
+  <string name="commnunity_mediashare_edit_set_failed">
+    Failed to set</string>
+  <string name="commnunity_mediashare_edit_tab_3d">
+    4D Magic</string>
+  <string name="commnunity_mediashare_edit_tab_4d_background">
+    Background</string>
+  <string name="commnunity_mediashare_edit_tab_boom">
+    BOOM!</string>
+  <string name="commnunity_mediashare_edit_tab_effect">
+    Effect Mix</string>
+  <string name="commnunity_mediashare_edit_tab_magic">
+    Touch Magic</string>
+  <string name="commnunity_mediashare_edit_tab_resize">
+    Resize</string>
+  <string name="commnunity_mediashare_edit_tab_text">
+    Text</string>
+  <string name="commnunity_mediashare_edit_title">
+    Edit</string>
+  <string name="commnunity_mediashare_edit_unpack_file_failed">
+    Failed to unpack files</string>
+  <string name="commnunity_mediashare_input_hint">
+    Add a caption</string>
+  <string name="commnunity_mediashare_not_exist">
+    The video is not exist</string>
+  <string name="commnunity_mediashare_record_count_now">
+    Start Shooting</string>
+  <string name="commnunity_mediashare_record_count_title">
+    Countdown</string>
+  <string name="commnunity_mediashare_record_dialogue_acting">
+    Dialogue Acting</string>
+  <string name="commnunity_mediashare_record_fail">
+    Not enough memory available to record a video</string>
+  <string name="commnunity_mediashare_record_fail_for_music_magic_loading">
+    Loading music magic, please try again later</string>
+  <string name="commnunity_mediashare_record_music_magic">
+    4D Magic</string>
+  <string name="commnunity_mediashare_record_music_magic_guide">
+    Choose music magic</string>
+  <string name="commnunity_mediashare_record_no_adjust_music_magic">
+    You can not add or adjust music magic when recording</string>
+  <string name="commnunity_mediashare_record_normal">
+    Normal</string>
+  <string name="commnunity_mediashare_record_stickers">
+    Sticker</string>
+  <string name="commnunity_mediashare_video_hidden_feature_60s_tips">
+    60-second video is enabled.</string>
+  <string name="commnunity_mediashare_video_hidden_feature_confirm">
+    OK</string>
+  <string name="commnunity_mediashare_video_hidden_feature_title">
+    Hidden Feature</string>
+  <string name="commnunity_mediashare_video_not_enough_cache">
+    There is not enough memory. It is unable to execute video synthesis.</string>
+  <string name="commnunity_mediashare_video_not_ready">
+    Video processing service is not ready.</string>
+  <string name="commnunity_mediashare_video_please_wait">
+    Video is processing, please try again later</string>
+  <string name="community_comment_failed_contain_sensitive_word">
+    Comments contain illegal words, please observe the community Convention of LIKE</string>
+  <string name="community_datetime_just_now">
+    Just now</string>
+  <string name="community_datetime_n_days">
+    %d days</string>
+  <string name="community_datetime_n_days_ago">
+    %d days ago</string>
+  <string name="community_datetime_n_hours">
+    %d hrs</string>
+  <string name="community_datetime_n_hours_ago">
+    %d hrs ago</string>
+  <string name="community_datetime_n_mins">
+    %d mins</string>
+  <string name="community_datetime_n_mins_ago">
+    %d mins ago</string>
+  <string name="community_datetime_n_months">
+    %d months</string>
+  <string name="community_datetime_n_months_ago">
+    %d months ago</string>
+  <string name="community_datetime_n_years">
+    %d years</string>
+  <string name="community_datetime_n_years_ago">
+    %d years ago</string>
+  <string name="community_datetime_one_day">
+    1 day</string>
+  <string name="community_datetime_one_day_ago">
+    1 day ago</string>
+  <string name="community_datetime_one_hour">
+    1 hr</string>
+  <string name="community_datetime_one_hour_ago">
+    1 hr ago</string>
+  <string name="community_datetime_one_min">
+    1 min</string>
+  <string name="community_datetime_one_min_ago">
+    1 min ago</string>
+  <string name="community_datetime_one_month">
+    1 month</string>
+  <string name="community_datetime_one_month_ago">
+    1 month ago</string>
+  <string name="community_datetime_one_year">
+    1 year</string>
+  <string name="community_datetime_one_year_ago">
+    1 year ago</string>
+  <string name="community_datetime_yesterday">
+    Yesterday</string>
+  <string name="community_dialog_please_wait">
+    Please wait</string>
+  <string name="community_download_no_network">
+    Download failed, please try again</string>
+  <string name="community_follow">
+    Follow</string>
+  <string name="community_hot_vlog_title">
+    Popular</string>
+  <string name="community_impeach_before">
+    Reported, thanks</string>
+  <string name="community_latest_tab_str">
+    Latest</string>
+  <string name="community_load_vlog_failed_connect">
+    Failed to connect. Please try again.</string>
+  <string name="community_mediashare_camera_roll">
+    Camera Roll</string>
+  <string name="community_mediashare_cloud_music_empty_tips">
+    No music for now…</string>
+  <string name="community_mediashare_comment_num">
+    %s Comments</string>
+  <string name="community_mediashare_delete_btn_hint">
+    After deleting, you can continue recording</string>
+  <string name="community_mediashare_effect_press_and_hold">
+    press and hold</string>
+  <string name="community_mediashare_fan_num_plural">
+    %1$d Fans</string>
+  <string name="community_mediashare_fan_num_plural_str">
+    %1$s Fans</string>
+  <string name="community_mediashare_focus_video_empty_tips">
+    Slide right to discover interesting people to follow</string>
+  <string name="community_mediashare_indicator_focus">
+    Follow</string>
+  <string name="community_mediashare_indicator_found">
+    Popular</string>
+  <string name="community_mediashare_like_num">
+    Like</string>
+  <string name="community_mediashare_like_num_one">
+    1 Like</string>
+  <string name="community_mediashare_like_num_plural">
+    %1$d Likes</string>
+  <string name="community_mediashare_like_num_plural_str">
+    %1$s Likes</string>
+  <string name="community_mediashare_local_music_empty_tips">
+    No music found…</string>
+  <string name="community_mediashare_local_video_empty_tips">
+    No video found</string>
+  <string name="community_mediashare_m4dlocalbg_bubble">
+    Tap to change, press and hold to use</string>
+  <string name="community_mediashare_magic_edit_guide">
+    Press and slide to add magic</string>
+  <string name="community_mediashare_near_by_noMore">
+    No more videos nearby</string>
+  <string name="community_mediashare_notify_comment_deleted">
+    Your comment "%1$s" was %2$s due to breaking LIKE community convention.</string>
+  <string name="community_mediashare_notify_follow_you">
+    Follow you</string>
+  <string name="community_mediashare_notify_following_leaderboard">
+    Your following %1$s's ranking is skyrocketing</string>
+  <string name="community_mediashare_notify_liked_your_comment">
+    Liked your comment</string>
+  <string name="community_mediashare_notify_liked_your_post">
+    Liked your post</string>
+  <string name="community_mediashare_notify_mention_inspire_follow_post">
+    that you're following posted a video</string>
+  <string name="community_mediashare_notify_mention_you_in_comment">
+    Mention you in comment</string>
+  <string name="community_mediashare_notify_mention_you_in_post">
+    Mentioned you in post</string>
+  <string name="community_mediashare_notify_replied">
+    Replied:</string>
+  <string name="community_mediashare_notify_video_banned">
+    Your Video was %1$s due to breaking LIKE community convention.</string>
+  <string name="community_mediashare_notify_video_shared">
+    Shared your post</string>
+  <string name="community_mediashare_notify_video_viewed">
+    Your post has been viewed more than %1$d times</string>
+  <string name="community_mediashare_other_like_empty">
+    No likes yet</string>
+  <string name="community_mediashare_other_male_video_empty">
+    He has not released video yet</string>
+  <string name="community_mediashare_other_video_empty">
+    She has not released video yet</string>
+  <string name="community_mediashare_publish_fail_contain_sensitive_word">
+    Failed to submit since sensitive words were involved</string>
+  <string name="community_mediashare_publish_fail_msg">
+    Upload failed, please check your network.</string>
+  <string name="community_mediashare_publish_fail_no_permission">
+    You have violated the video upload rules, so you can not post video within 24 hours</string>
+  <string name="community_mediashare_publish_retry_msg">
+    Upload failed, please try again.</string>
+  <string name="community_mediashare_publish_success">
+    Succeeded in publishing</string>
+  <string name="community_mediashare_quit_edit_msg">
+    Edited status will be lost. Sure to continue?</string>
+  <string name="community_mediashare_quit_publish_msg">
+    Your video will be discarded. Sure to continue?</string>
+  <string name="community_mediashare_quit_record_msg">
+    Your video will be discarded. Sure to continue?</string>
+  <string name="community_mediashare_record">
+    Get Started</string>
+  <string name="community_mediashare_record_empty">
+    Take a video to show your wonderful life!</string>
+  <string name="community_mediashare_record_speed_fast">
+    fast</string>
+  <string name="community_mediashare_record_speed_lapse">
+    lapse</string>
+  <string name="community_mediashare_record_speed_normal">
+    norm</string>
+  <string name="community_mediashare_record_speed_slow">
+    slow</string>
+  <string name="community_mediashare_record_speed_x_slow">
+    xslow</string>
+  <string name="community_mediashare_sample_num">
+    Post</string>
+  <string name="community_mediashare_sample_num_one">
+    1 Post</string>
+  <string name="community_mediashare_sample_num_plural">
+    %1$d Posts</string>
+  <string name="community_mediashare_sample_num_plural_str">
+    %1$s Posts</string>
+  <string name="community_mediashare_screen_shot_hint">
+    You look nice, let's take a photo</string>
+  <string name="community_mediashare_sense_ar_auth_fail">
+    Please connect to the network to get permission</string>
+  <string name="community_mediashare_sense_ar_auth_other">
+    Permission failed, please try again later</string>
+  <string name="community_mediashare_sense_ar_license_fail">
+    License expired, please update to the latest version of LIKE</string>
+  <string name="community_mediashare_storage_full">
+    Storage limited, fail to build the video.</string>
+  <string name="community_mediashare_str_likes">
+    Likes</string>
+  <string name="community_mediashare_tag_activity">
+    Activity</string>
+  <string name="community_mediashare_tag_explore">
+    Explore</string>
+  <string name="community_mediashare_tag_home">
+    Home</string>
+  <string name="community_mediashare_tag_hot">
+    Hot</string>
+  <string name="community_mediashare_tag_input_hint">
+    Type your tag or select a hot official topic</string>
+  <string name="community_mediashare_tag_reward">
+    Reward</string>
+  <string name="community_mediashare_tag_topic">
+    Topic</string>
+  <string name="community_mediashare_tag_views">
+    %d views</string>
+  <string name="community_mediashare_thumb_fail_msg">
+    Fail to build the thumb, please try again.</string>
+  <string name="community_mediashare_video_banned">
+    BANNED</string>
+  <string name="community_mediashare_video_banned_action">
+    DELETE THE VIDEO</string>
+  <string name="community_mediashare_video_banned_tip">
+    Your Video was Banned due to breaking %1$s, you must delete this video immediately.</string>
+  <string name="community_mediashare_video_comment_deleted">
+    DELETED</string>
+  <string name="community_mediashare_video_deleted">
+    This video has been deleted</string>
+  <string name="community_mediashare_video_fail_msg">
+    Fail to build the video, please try again.</string>
+  <string name="community_mediashare_video_let_down">
+    This video has been removed</string>
+  <string name="community_mediashare_video_not_passed">
+    This video failed the review</string>
+  <string name="community_mediashare_video_rejected">
+    This video has been rejected</string>
+  <string name="community_mediashare_video_rule_name">
+    LIKE community convention</string>
+  <string name="community_mediashare_your_like_empty">
+    The video that you like will be displayed here.</string>
+  <string name="community_my_follows">
+    Follow</string>
+  <string name="community_my_video">
+    My Video</string>
+  <string name="community_nearby_str">
+    NearBy</string>
+  <string name="community_nearby_tab_str">
+    Nearby</string>
+  <string name="community_no_input">
+    Please input text</string>
+  <string name="community_no_network">
+    No network connection. Please check your network.</string>
+  <string name="community_op_failed">
+    Operation failed</string>
+  <string name="community_other_video">
+    %1$s's Video</string>
+  <string name="community_profile_no_video">
+    Upload your first Video</string>
+  <string name="community_reply">
+    Reply to</string>
+  <string name="community_reply_comment">
+    Reply to %1$s</string>
+  <string name="community_text_length_limit">
+    The length of the text shall not be longer than 140 characters</string>
+  <string name="community_unknown_video">
+    Video</string>
+  <string name="community_video_msg_view_detail">
+    View Details</string>
+  <string name="community_vlog_str">
+    VIDEO</string>
+  <string name="company">
+    Company</string>
+  <string name="connect_account">
+    Connected Account</string>
+  <string name="connect_phone_button">
+    Connect Now</string>
+  <string name="constellation_aquarius">
+    Aquarius</string>
+  <string name="constellation_aries">
+    Aries</string>
+  <string name="constellation_cancer">
+    Cancer</string>
+  <string name="constellation_capricorn">
+    Capricorn</string>
+  <string name="constellation_gemini">
+    Gemini</string>
+  <string name="constellation_leo">
+    Leo</string>
+  <string name="constellation_libra">
+    Libra</string>
+  <string name="constellation_pisces">
+    Pisces</string>
+  <string name="constellation_sagittarius">
+    Sagittarius</string>
+  <string name="constellation_scorpio">
+    Scorpio</string>
+  <string name="constellation_taurus">
+    Taurus</string>
+  <string name="constellation_virgo">
+    Virgo</string>
+  <string name="count_new_msg">
+    (%1$d messages)</string>
+  <string name="countrycode_input_hint">
+    Country/Region</string>
+  <string name="cover_will_be_lost">
+    Cover will be reset, sure to continue?</string>
+  <string name="crop_avatar_failure">
+    Failed to crop picture, please try again</string>
+  <string name="cutting_video">
+    Cutting video…</string>
+  <string name="day_ago">
+    %1$dd ago</string>
+  <string name="default_location">
+    In Space</string>
+  <string name="delete">
+    Delete</string>
+  <string name="delete_tips">
+    Are you sure you want to delete?</string>
+  <string name="dialog_call_sms_call">
+    Call me instead</string>
+  <string name="dialog_call_sms_content">
+    Since you haven't received a verification code, you may choose another way to verify.</string>
+  <string name="dialog_call_sms_sms">
+    Send via SMS</string>
+  <string name="dialog_call_sms_title">
+    Resend Verification Code</string>
+  <string name="dialog_coming_content">
+    Turn your life and talent into Video & discover all the Video you love.</string>
+  <string name="dialog_coming_title_pre">
+    Video </string>
+  <string name="dialog_coming_title_sub">
+    is Coming</string>
+  <string name="dialog_comment_comments">
+    Comments</string>
+  <string name="dialog_comment_nocomments">
+    Be the first to comment</string>
+  <string name="dialog_login_by_third_party">
+    Did not receive the verification code for a long time, you can try the following ways to sign up</string>
+  <string name="dialogue_music_cannot_change">
+    You have used music with captions，so you can not change it</string>
+  <string name="discard">
+    Discard</string>
+  <string name="discover_friend">
+    Discover Friends</string>
+  <string name="done_set_password">
+    Done</string>
+  <string name="download_mode">
+    Video Download Mode</string>
+  <string name="download_new_version">
+    Download New Version</string>
+  <string name="download_on_back">
+    Downloading in background. Please follow the instruction to install</string>
+  <string name="downloading">
+    Downloading…</string>
+  <string name="drag_to_set_a_cover">
+    Drag to select a cover for the video</string>
+  <string name="drag_up_down_to_switch">
+    Drag up and down to switch video</string>
+  <string name="edit_base_info">
+    Edit</string>
+  <string name="edit_profile_notify">
+    Now you can add more photos.</string>
+  <string name="empty_chat">
+    Once you start chatting, all your messages will be here</string>
+  <string name="empty_msg_get_it">
+    Got it</string>
+  <string name="empty_msg_tips">
+    Do not allow to send blank message</string>
+  <string name="empty_msg_title">
+    Blank Message</string>
+  <string name="error_cancelled">
+    Operation cancelled</string>
+  <string name="error_clip_head_ico_failed">
+    Failed to crop photo, please try again.</string>
+  <string name="error_connect_fail">
+    Failed to connect to server</string>
+  <string name="error_connected">
+    Connected to server.</string>
+  <string name="error_connecting">
+    Connecting to server, please try again later.</string>
+  <string name="error_disconnected">
+    Disconnected from server.</string>
+  <string name="error_failed">
+    Operation failed, please try again.</string>
+  <string name="error_invalid_arg">
+    Invalid input</string>
+  <string name="error_invalid_data">
+    Invalid response from server</string>
+  <string name="error_invalid_pin">
+    Invalid verification code</string>
+  <string name="error_network">
+    Network error</string>
+  <string name="error_network_op">
+    Network error, please try again later</string>
+  <string name="error_no_network">
+    Network unavailable, please check and try again.</string>
+  <string name="error_null_data">
+    No response from server</string>
+  <string name="error_over_times">
+    Too many attempts, please try again later.</string>
+  <string name="error_phone_number">
+    Please enter correct phone number</string>
+  <string name="error_server_disconnect">
+    Disconnected by server</string>
+  <string name="error_server_kick">
+    Kicked out by server</string>
+  <string name="error_server_reject">
+    Operation rejected by server</string>
+  <string name="error_set_head_ico_failed">
+    Corrupted photo, please select another one.</string>
+  <string name="error_signup_over_times">
+    The phone is signed up with a LIKE account this month and cannot be signed up repeatedly</string>
+  <string name="error_success">
+    Operation completed</string>
+  <string name="error_timeout">
+    Operation time out, please try again.</string>
+  <string name="existed_file_already">
+    File already exist.</string>
+  <string name="existed_video_already">
+    Video already exist.</string>
+  <string name="exit_edit_tips">
+    Your changes will not be saved. Sure to discard?</string>
+  <string name="expire_dialog_title">
+    Connected Account is expired, please login to reconnect</string>
+  <string name="fans_empty_tips">
+    Not followed by anybody</string>
+  <string name="fast_signup_step1_new">
+    Sign Up (1/2)</string>
+  <string name="fast_signup_step2_new">
+    Sign Up (2/2)</string>
+  <string name="file_too_big">
+    Music is too large to upload</string>
+  <string name="find_fb_friends">
+    Connect to Facebook</string>
+  <string name="finish2">
+    DONE</string>
+  <string name="five_star">
+    Yes, Rate 5 Stars</string>
+  <string name="foget_password_title">
+    Forgot Password</string>
+  <string name="follow">
+    Follow</string>
+  <string name="follow_back">
+    Follow Back</string>
+  <string name="follow_discover_contact_friends">
+    Discover Contacts</string>
+  <string name="follow_discover_facebook_friends">
+    Discover Facebook friends</string>
+  <string name="follow_discover_friends_on_bigolive">
+    Find out your friends on LIKE</string>
+  <string name="follow_discover_friends_title">
+    Friends here, not alone</string>
+  <string name="follow_empty_tips">
+    Not following anybody</string>
+  <string name="follow_failed">
+    Failed to follow</string>
+  <string name="follow_failed_in_blacklist">
+    Failed to follow,he/she is in your blocklist.</string>
+  <string name="follow_recommended_contacts">
+    Contacts</string>
+  <string name="follow_recommended_facebook_friend">
+    Facebook friend</string>
+  <string name="follow_recommended_item_hide">
+    Hide</string>
+  <string name="follow_recommended_item_privacy_setting">
+    Privacy Setting</string>
+  <string name="follow_recommended_user_title">
+    Discover Friends</string>
+  <string name="follow_recommended_vlog_title">
+    You may be interested in</string>
+  <string name="follow_str_view_more">
+    View All</string>
+  <string name="follow_topic_message1">
+    You can follow the hashtags you are interested in.</string>
+  <string name="follow_topic_message2">
+    See the popular posts of following hashtags from the Follow page.</string>
+  <string name="follow_topic_message3">
+    Check out the hashtags people are following in their profiles.</string>
+  <string name="follow_update">
+    New Post</string>
+  <string name="follow_updates">
+    New Posts</string>
+  <string name="following">
+    Following</string>
+  <string name="forget_password">
+    Forgot Password</string>
+  <string name="four_background_storage_too_small">
+    Background download failed, storage space is not enough</string>
+  <string name="friend_unbound_phone">
+    Disconnect phone number</string>
+  <string name="friends_notification_master_tip">
+    Videos from Facebook friends/Contacts</string>
+  <string name="friends_notification_tip">
+    After turning this on, you will get notification of videos posted by your Facebook friends/Contacts</string>
+  <string name="from">
+    From</string>
+  <string name="from_empty_tips">
+    'From' can not be blank</string>
+  <string name="from_must_earlier_to">
+    'From' must be earlier than 'To'</string>
+  <string name="get_auth_token_fail">
+    Failed to authorize, please try again</string>
+  <string name="get_user_info_fail">
+    Failed to load user's Profile</string>
+  <string name="getting_token_failed_net">
+    Network unavailable, please check</string>
+  <string name="getting_token_failed_server">
+    Invalid response from server, please try again later</string>
+  <string name="gift_msg_content">
+    send you a %1$s gift</string>
+  <string name="gift_msg_title_with_count">
+    %1$s x %2$d</string>
+  <string name="gift_select_hint_2">
+    Selecting a gift may improve the reply rate from <font color=#fffc00>20%</font> to <font color=#00ffee>80%</font></string>
+  <string name="give_five_star">
+    To give 5 Stars</string>
+  <string name="has_send_call">
+    Calling %1$s, please remember the verification code that you will hear.</string>
+  <string name="has_send_pin">
+    A verification code is sent to you via SMS:%1$s</string>
+  <string name="has_send_pin_num">
+    %1$s</string>
+  <string name="has_send_pin_tips">
+    A verification code is sent to you</string>
+  <string name="hashtag_search_empty_hint">
+    Enter a hashtag name to search</string>
+  <string name="hashtag_search_hint">
+    Search hashtag</string>
+  <string name="have_used_music_magic">
+    You have used music magic when recording, so you can not change it</string>
+  <string name="hd_picture_not_loaded_tip">
+    Failed to load Avatar</string>
+  <string name="help_us_translate">
+    Help Us Translate</string>
+  <string name="hint_fill_phone">
+    Phone Number</string>
+  <string name="hint_input_nickname_new2">
+    Username</string>
+  <string name="hint_input_password_new">
+    Password</string>
+  <string name="hint_input_password_new2">
+    Password</string>
+  <string name="hint_signature">
+    A good Bio makes you stand out</string>
+  <string name="hint_username">
+    Username</string>
+  <string name="hint_verify_code">
+    Verification Code</string>
+  <string name="hour_ago">
+    %1$dh ago</string>
+  <string name="illegal_login_hint_ban_level">
+    First time: Warnings Second time: Block for 1 Day Third time: Block permanently</string>
+  <string name="illegal_login_hint_ban_reason">
+    Reason: Report by users for sending overtly sexual content</string>
+  <string name="illegal_login_hint_ban_rule_content">
+    If you have sent videos with pornographic or other improper content, we will take actions based on the report frequency:</string>
+  <string name="illegal_login_hint_ban_time_forever">
+    Blocking Time: Permanent</string>
+  <string name="illegal_login_hint_ban_time_oneday">
+    Blocking Time: 1 Day</string>
+  <string name="illegal_login_hint_detail_rule_label">
+    Detail Rules</string>
+  <string name="illegal_uid_reported_tips">
+    You have already reported</string>
+  <string name="illegal_video_alert_content">
+    Due to you have sent <font color=#f44336>pornographic videos </font>and been reported. You are warned now. Please keep your manner in LIKE. <p><p><font color=#000000>Detail Rules:<br></br></font><br>If you send videos include <font color=#ff0000>pornographic, violence and improper content, </font>We will take actions based on the reporting frequency as followed:<p><font color=#ff0000>First time: Warning</font><br><font color=#ff0000>Second time: Block for 1 Day</font><br><font color=#ff0000>Third time: Block permanently</font></string>
+  <string name="illegal_video_alert_result_title">
+    Alert</string>
+  <string name="illegal_video_ban_suggest">
+    This video is banned due to illegal content</string>
+  <string name="illegal_video_login">
+    Login</string>
+  <string name="illegal_video_login_baned">
+    Blocking Message</string>
+  <string name="illegal_video_play_cancel">
+    No</string>
+  <string name="illegal_video_play_continue">
+    Watch it</string>
+  <string name="illegal_video_report">
+    Report</string>
+  <string name="illegal_video_report_alert_result_content">
+    Due to <font color=#f44336>%1$s</font>sent videos include improper content, break our community guidelines, We have <font color=#f44336>warn the user.</font>. Thanks for helping LIKE safe and open.</string>
+  <string name="illegal_video_report_ban_result_content">
+    Due to<font color=#f44336>%1$s</font> sent videos include improper content and break our community guidelines. We have<font color=#f44336> banned this user. </font>, Thanks for helping LIKE safe and open.</string>
+  <string name="illegal_video_report_continue">
+    Report</string>
+  <string name="illegal_video_report_got_it">
+    Got it</string>
+  <string name="illegal_video_report_result_title">
+    Report Result</string>
+  <string name="illegal_video_report_success_tips_with_unlike">
+    You have 'Unlike' <font color=#6ef3f4>%1$s</font> , messages from this user is blocked.</string>
+  <string name="illegal_video_report_success_tips_without_unlike">
+    Thanks for your report. We will handle <font color=#6ef3f4>%1$s</font> soon based on LIKE Community Guidelines.</string>
+  <string name="illegal_video_report_success_title">
+    Report successfully</string>
+  <string name="illegal_video_report_tips">
+    Please tell us why to report</string>
+  <string name="illegal_video_report_unlike_at_the_same_time">
+    Unlike at the same time</string>
+  <string name="illegal_video_suggest_before_play">
+    This video may have <font color=#ff0000>illegal content</font>, sure to watch this video?</string>
+  <string name="im_friend_empty">
+    All your LIKE friends will be here.</string>
+  <string name="im_friend_empty_tips">
+    Find friends</string>
+  <string name="impeach_abusement">
+    Abusement</string>
+  <string name="impeach_illegal_avatar">
+    Illegal avatar</string>
+  <string name="impeach_illegality_or_discriminatory">
+    Illegal or Violence</string>
+  <string name="impeach_others">
+    Others</string>
+  <string name="impeach_profile_avatar_name_bio">
+    Avatar/Name/Bio</string>
+  <string name="impeach_profile_plagiarism">
+    Plagiarism</string>
+  <string name="impeach_video_erotic_or_violence">
+    Erotic or violence</string>
+  <string name="impeach_video_erotic_or_vulgar">
+    Erotic or vulgar</string>
+  <string name="impeach_video_extortion">
+    Extortion</string>
+  <string name="impeach_video_fraud_or_spam">
+    Fraud or spam</string>
+  <string name="impeach_video_personal_attack">
+    Personal attack</string>
+  <string name="impeach_video_political">
+    Political speech</string>
+  <string name="impeach_vulgarity_or_pornographic">
+    Pornographic</string>
+  <string name="import_ct_empty">
+    Sorry, no contacts discovered on LIKE</string>
+  <string name="import_ct_friends">
+    Discover Contacts</string>
+  <string name="import_ct_friends_sub">
+    %1$s friends on LIKE, follow them</string>
+  <string name="import_ct_notalone">
+    Friends here, not alone</string>
+  <string name="import_ct_privacy">
+    Accessing Contacts is only for discovering friends, we won’t disclose your privacy.</string>
+  <string name="import_ct_ready">
+    Find out your friends on LIKE</string>
+  <string name="import_fb_friends">
+    Discover Facebook Friends</string>
+  <string name="import_fb_friends_sub">
+    %1$s friends on LIKE, follow them</string>
+  <string name="info">
+    Tips</string>
+  <string name="input_company">
+    Enter company name</string>
+  <string name="input_dialog_msg_name">
+    Input your name:</string>
+  <string name="input_dialog_msg_signature">
+    Input bio:</string>
+  <string name="input_hometown">
+    Enter your hometown</string>
+  <string name="input_limit">
+    The number of input words has reached the upper limit</string>
+  <string name="input_phone_no">
+    Please enter your phone number</string>
+  <string name="input_position">
+    Enter your position</string>
+  <string name="input_school_hint">
+    Enter your school name</string>
+  <string name="input_school_title">
+    School</string>
+  <string name="input_wrong_pin">
+    Invalid code, please check and try again</string>
+  <string name="install_new_version">
+    Install New Version</string>
+  <string name="intimacy_tips_not_familiar_with_each_other">
+    You are not familiar with each other</string>
+  <string name="invalid_appsecret">
+    Your version is too old. Please update to get the latest version</string>
+  <string name="invalid_phone_no">
+    The phone number %1$s is invalid</string>
+  <string name="invite_contacts">
+    Invite Contacts</string>
+  <string name="invite_facebook_friends">
+    Invite Facebook Friends</string>
+  <string name="item_music_too_short">
+    Music duration can not be less than one second</string>
+  <string name="item_music_use">
+    Use</string>
+  <string name="item_music_use2">
+    Cut and use</string>
+  <string name="item_music_use_and_shooting">
+    Use and start shooting</string>
+  <string name="just_now">
+    Just now</string>
+  <string name="kickoff_msg">
+    You are forced to logged out. As we found your account logged in from another device.</string>
+  <string name="last_install_unfinish">
+    Previous installation was not completed, continue?</string>
+  <string name="later_set_password">
+    Set up later</string>
+  <string name="leaderboard_global">
+    Global</string>
+  <string name="like_result_popup_btn_chat">
+    Chat</string>
+  <string name="like_result_popup_btn_edit">
+    Improve Profile</string>
+  <string name="like_result_popup_btn_got_it">
+    Got it</string>
+  <string name="like_result_popup_btn_no">
+    Not Now</string>
+  <string name="like_result_popup_chat_hint">
+    You can chat privately in message now.</string>
+  <string name="like_result_popup_improve_hint">
+    Improve your profile to attract him/her to accept your friend request</string>
+  <string name="like_result_popup_like_you">
+    %1$s and you are friends now!</string>
+  <string name="like_result_popup_matched">
+    New Match!</string>
+  <string name="linkd_disconnected">
+    Disconnected. Tap to Reconnect.</string>
+  <string name="linkd_disconnected_tips">
+    Disconnected from server</string>
+  <string name="live_helper_admin_remove">
+    Remove</string>
+  <string name="live_room_popup_impeach">
+    REPORT</string>
+  <string name="live_room_popup_impeach_done">
+    Reported. Thanks!</string>
+  <string name="live_room_popup_impeach_failed">
+    Failed to Report.</string>
+  <string name="load_version_fail">
+    Failed to load the updated version</string>
+  <string name="loading">
+    Loading…</string>
+  <string name="location_setting_hide_profile_sub">
+    After turning this on,your location won't appear in Profile</string>
+  <string name="location_setting_hide_profile_title">
+    Hide location in Profile</string>
+  <string name="location_setting_hide_vlog_sub">
+    After turning this on,your videos won't appear in Nearby</string>
+  <string name="location_setting_hide_vlog_title">
+    Hide my videos in Nearby</string>
+  <string name="location_setting_stop_recommend_friends_to_me_sub">
+    After turning this on, your Facebook friends/Contacts and their Videos won't be recommended to you</string>
+  <string name="location_setting_stop_recommend_friends_to_me_title">
+    Don't recommend friends to me</string>
+  <string name="location_setting_stop_vlog_push_sub">
+    After turning this on, you won't be recommended to your Facebook friends/Contacts</string>
+  <string name="location_setting_stop_vlog_push_title">
+    Don't recommend me to my friends</string>
+  <string name="logging_out">
+    Logging Out</string>
+  <string name="login">
+    Log In</string>
+  <string name="login_authing">
+    Verifying, please wait</string>
+  <string name="login_btn">
+    LOG IN</string>
+  <string name="login_by_phonenumber">
+    MORE</string>
+  <string name="login_by_pincode_title">
+    Enter Verification Code</string>
+  <string name="login_hint_passwd">
+    Password</string>
+  <string name="login_login_phone">
+    Log In with Phone</string>
+  <string name="login_login_twitter">
+    Log In with Twitter</string>
+  <string name="login_login_vk">
+    Log In with VK</string>
+  <string name="login_problems_tips">
+    Is there any unsolvable problem?</string>
+  <string name="login_sign_phone">
+    Sign Up with Phone</string>
+  <string name="login_user_no_exist">
+    User does not exist</string>
+  <string name="logining">
+    Logging in</string>
+  <string name="logout_fail">
+    Failed to log out, please try later</string>
+  <string name="magic_angle">
+    Rotation</string>
+  <string name="magic_color">
+    Color</string>
+  <string name="magic_size">
+    Size</string>
+  <string name="magic_storage_too_small">
+    Load failed,storage space is not enough</string>
+  <string name="magic_to_end">
+    Reach the end of the video</string>
+  <string name="magic_undo">
+    Undo</string>
+  <string name="market_choose_title">
+    Update Choice</string>
+  <string name="meet_new_friends_entry_hint_gray">
+    Greetings from strangers will be here</string>
+  <string name="meet_new_friends_first_chat_greeting_content">
+    Nice to meet you. Let's chat here~</string>
+  <string name="meet_new_friends_friend_request_receive_video">
+    send you 1 video</string>
+  <string name="meet_new_friends_move_to_recent_chat_tip">
+    The chat has been moved to 'Recent Chat'</string>
+  <string name="meet_new_friends_recent_chat_empty">
+    All your chats with strangers will be here</string>
+  <string name="meet_new_friends_send_request_limit">
+    Sorry, you've run out of friend requests today</string>
+  <string name="meet_new_friends_we_are_friends">
+    We are friends</string>
+  <string name="meet_new_friends_we_are_friends_notify">
+    We are friends~</string>
+  <string name="message_to_stranger_limit">
+    You have ran out of your chances to greet strangers, take a break</string>
+  <string name="min_ago">
+    %1$dm ago</string>
+  <string name="mins_ago">
+    %1$dm ago</string>
+  <string name="miui_permission_guide_ok_btn">
+    OK</string>
+  <string name="more_country">
+    More countries…</string>
+  <string name="more_str">
+    more</string>
+  <string name="msg_clear_unread">
+    Ignore all unread messages but messages won't be deleted</string>
+  <string name="msg_error_ssl_cert_invalid">
+    ssl certificate invalid</string>
+  <string name="msg_failed">
+    Failed</string>
+  <string name="msg_no_posts_yet">
+    No posts yet</string>
+  <string name="msg_notice_become_buddy">
+    You have followed each other and become friends now</string>
+  <string name="msg_notice_peer_not_support_video_im">
+    %1$s's version is too old to receive video messages. <font color=#14ded1><b>We have told him/her</b></font> to update to the latest version.</string>
+  <string name="msg_notice_video_im_not_buddy">
+    %1$s haven't followed you, so the message will be showed in %1$s Fans Messages list and be deleted after 7 days.</string>
+  <string name="msg_profile_bio_updated">
+    <font color=#585858>%1$s</font> has updated bio:</string>
+  <string name="msg_profile_photos_updated">
+    <font color=#585858>%1$s</font> has updated photo(s):</string>
+  <string name="msg_send_default_text">
+    Type a message…</string>
+  <string name="msg_send_fail_low_version">
+    %1$s hasn't updated to the newest version and cannot receive your messages</string>
+  <string name="msg_send_fail_not_friend">
+    You are not friends yet, so you can't send messages to %1$s</string>
+  <string name="msg_send_status_blacklist">
+    The message is successfully sent but rejected by receiver</string>
+  <string name="msg_send_status_read">
+    Viewed</string>
+  <string name="msg_send_status_sending">
+    Sending…</string>
+  <string name="msg_send_status_sent">
+    Delivered</string>
+  <string name="msg_type_gift_pre">
+    [Gift]</string>
+  <string name="msg_type_notice_pre">
+    [Notice]</string>
+  <string name="msg_type_picture_pre">
+    [photo]</string>
+  <string name="msg_type_unknown_pre">
+    [UnKnown Message]</string>
+  <string name="msg_type_video_pre">
+    [video]</string>
+  <string name="msg_unread_over_99">
+    99+</string>
+  <string name="music_fun_is_moved">
+    Music function is moved to the next step</string>
+  <string name="music_list_mine">
+    Mine</string>
+  <string name="music_list_online">
+    Online</string>
+  <string name="music_magic_load_fail">
+    Music magic loading failed</string>
+  <string name="music_storage">
+    Music magic download failed, storage space is not enough</string>
+  <string name="music_storage_too_small">
+    Music download failed,storage space is not enough</string>
+  <string name="music_waveform_load_fail">
+    Music waveform loading failed</string>
+  <string name="myhashtag">
+    My Hashtag</string>
+  <string name="need_relogin">
+    Login session expired. Please login again</string>
+  <string name="network_not_available">
+    Network unavailable, please try again later</string>
+  <string name="new_chat_title">
+    Send to</string>
+  <string name="new_fans_chat_entrance">
+    Choose from Fans</string>
+  <string name="new_fans_chat_title">
+    New Message</string>
+  <string name="new_feature_description">
+    3D Magic upgrades to 4D Magic, you can create fantastic videos like space switch, microworld</string>
+  <string name="new_msg_content">
+    sent you %1$d message(s)</string>
+  <string name="new_one_msg_content">
+    sent you %1$d message</string>
+  <string name="new_one_video_content">
+    sent you 1 video</string>
+  <string name="new_over_one_msg_content">
+    sent you %1$d messages</string>
+  <string name="new_stranger_messages">
+    %d new message(s)</string>
+  <string name="new_version">
+    Check New Version</string>
+  <string name="new_version_detected">
+    New Version is Available</string>
+  <string name="new_version_update_now">
+    UPDATE NOW</string>
+  <string name="next">
+    Next</string>
+  <string name="next2">
+    NEXT</string>
+  <string name="no_external_storage_tip">
+    Unable to update, SD card not detected, please check.</string>
+  <string name="no_issue">
+    No issue</string>
+  <string name="no_network_connection">
+    Network unavailable, please check.</string>
+  <string name="no_sdcard_to_take_photo">
+    Unable to take photo. Please check your SD card</string>
+  <string name="nonetwork">
+    Network unavailable, please check.</string>
+  <string name="not_host_yet">
+    Not hosted yet</string>
+  <string name="not_really">
+    Not really</string>
+  <string name="notification_download_complete">
+    Download Complete. Tap to install</string>
+  <string name="notification_download_failed">
+    Failed to download</string>
+  <string name="notification_download_failed_for_music">
+    Download failed</string>
+  <string name="notify_tab_video_title">
+    VIDEO</string>
+  <string name="now">
+    Now</string>
+  <string name="ok">
+    Confirm</string>
+  <string name="op_copy_msg">
+    Copy</string>
+  <string name="op_del_msg">
+    Delete</string>
+  <string name="out_of_max_length">
+    Exceed the word limit. Please shorten to continue.</string>
+  <string name="patch_download_tip">
+    *Only %1$s needed</string>
+  <string name="personal_my_profit">
+    Income</string>
+  <string name="personal_no_signature">
+    No Bio yet.</string>
+  <string name="personal_search">
+    Search</string>
+  <string name="personal_video_clips">
+    My Video</string>
+  <string name="personal_video_logs">
+    Vlogger</string>
+  <string name="phone_unbind_msg">
+    This phone number is already signed up on another phone. If it's not operated by you, please login again</string>
+  <string name="phone_unbind_msg_extra">
+    %1$s is signed up on another phone. If it's not operated by you, please login again</string>
+  <string name="photo_no_space">
+    Failed to save photo, storage space is not enough</string>
+  <string name="photo_save_successful">
+    Photo saved</string>
+  <string name="photo_saving_fail">
+    Failed to save photo</string>
+  <string name="pic_all_pics">
+    All Photos</string>
+  <string name="pin_already_sent">
+    A verification code has been sent to: %1$s </string>
+  <string name="pin_code_resend">
+    Resend(%1$s)</string>
+  <string name="pin_code_timeout">
+    This verification code is expired, please resend</string>
+  <string name="pin_input_hint">
+    Please enter the verification code</string>
+  <string name="pincode_error">
+    Illegal verification code</string>
+  <string name="please_choose">
+    Please Select</string>
+  <string name="position">
+    Position</string>
+  <string name="position_empty_tips">
+    'Position' can not be blank</string>
+  <string name="post_private_video_tips">
+    Other people in LIKE cannot see your private videos.</string>
+  <string name="privacy_policy_title">
+    Privacy Policy</string>
+  <string name="private_location">
+    Privacy</string>
+  <string name="profile_create_hashtag">
+    Create a new hashtag</string>
+  <string name="prohibit_msg">
+    Overtly sexual content, violent or graphic content and other improper behaviors are strictly prohibited here. You've been kicked out by breaking our community guidelines. Please take rules seriously and honor them.</string>
+  <string name="prompt_of_usage_of_hashtag">
+    We will stress your first hashtag, in order to increase exposure of your post.</string>
+  <string name="protect_your_account">
+    Protect your account</string>
+  <string name="publish_music">
+    Music</string>
+  <string name="publish_save_to_phone">
+    Save to Phone</string>
+  <string name="publish_share_tip">
+    You can share your private video via the link below.</string>
+  <string name="publish_sound">
+    Sound</string>
+  <string name="publish_volume">
+    Volume</string>
+  <string name="pull_push_setting_fail">
+    Failed</string>
+  <string name="push_manager">
+    Notifications</string>
+  <string name="pwd_no_set">
+    Please set password</string>
+  <string name="rateus">
+    Rate us</string>
+  <string name="read_contact_detail">
+    When you tap OK, we will upload your address book so that we can help you find users of LIKE that you know or help other users of LIKE find you.</string>
+  <string name="record_clip_image_title">
+    Crop</string>
+  <string name="record_entrance_boom_effect">
+    BOOM!</string>
+  <string name="record_entrance_boom_effect_2">
+    Shoot a BOOM! video</string>
+  <string name="record_entrance_dialogue">
+    Music Magic</string>
+  <string name="record_entrance_from_album">
+    From Album</string>
+  <string name="record_entrance_new_tips">
+    Tap me to make a BOOM! video</string>
+  <string name="record_entrance_pick_music">
+    Select Music</string>
+  <string name="record_entrance_shoot_first">
+    Shoot First</string>
+  <string name="record_face_recognition_failed">
+    Face recognition failed</string>
+  <string name="record_magic_background_shot">
+    Background shot</string>
+  <string name="record_magic_checking">
+    Checking…</string>
+  <string name="record_magic_get_ready">
+    Get ready</string>
+  <string name="record_magic_got_it">
+    Got it</string>
+  <string name="record_magic_im_done">
+    I'm done</string>
+  <string name="record_magic_leave_camera">
+    Move yourself out of camera range</string>
+  <string name="record_magic_m4d_guide_title">
+    Operating Instructions</string>
+  <string name="record_magic_permission_sport">
+    Allow motion data</string>
+  <string name="record_magic_permission_sport_msg">
+    Go to Settings > LIKE > Enable access motion data</string>
+  <string name="record_magic_retry">
+    Retry</string>
+  <string name="record_magic_shoot_the_background">
+    Shoot the background</string>
+  <string name="record_magic_shooting">
+    Shooting…</string>
+  <string name="record_magic_shot">
+    Shot</string>
+  <string name="record_magic_start">
+    Start</string>
+  <string name="record_magic_step0">
+    Create Now</string>
+  <string name="record_magic_step1">
+    STEP 1</string>
+  <string name="record_magic_step1_msg">
+    Set device on table and don't move it anymore</string>
+  <string name="record_magic_step2">
+    STEP 2</string>
+  <string name="record_magic_step2_msg">
+    Tap the button and then move yourself out of camera range</string>
+  <string name="record_magic_step3">
+    STEP 3</string>
+  <string name="record_magic_step3_msg">
+    Enter the camera range, tap the button to record</string>
+  <string name="record_magic_tips_move">
+    Please don't move your device. Now we have to start all over again.</string>
+  <string name="record_magic_tips_record_bg1">
+    1. You need to be out of the camera range</string>
+  <string name="record_magic_tips_record_bg2">
+    2. Make sure everything in the picture is still</string>
+  <string name="record_photo_permission_tips">
+    Please go to 'Setting' > Find LIKE to enable Photos Permission</string>
+  <string name="record_photo_permission_title">
+    Photos Permission Required</string>
+  <string name="record_photo_permission_warn">
+    You need to enable photos permission, but it will cause the App to restart and the video to be lost. Go to enable it now?</string>
+  <string name="record_show_demo_title">
+    Create videos like these with 4D Magic</string>
+  <string name="record_step0_showdemo_type_4d">
+    4D</string>
+  <string name="record_step0_showdemo_type_bg">
+    BG</string>
+  <string name="reminder">
+    Reminder</string>
+  <string name="request_contact_permission_reason">
+    To help people connect on LIKE, your contacts are periodically synced and securely stored on our servers.You choose which contacts to follow. Disconnect any time to remove them</string>
+  <string name="resize_again">
+    Resize again</string>
+  <string name="resize_confirm">
+    Confirm</string>
+  <string name="resize_edit">
+    Resize</string>
+  <string name="resize_go_resize">
+    Go now</string>
+  <string name="resize_need_resize_first">
+    You need to resize video first</string>
+  <string name="resize_press_and_hold_to_use">
+    Press and hold to use</string>
+  <string name="resize_title">
+    Resize</string>
+  <string name="retry">
+    Retry</string>
+  <string name="save">
+    Save</string>
+  <string name="save_picture_fail_tip">
+    Fail to save, please ensure SD Card is inserted.</string>
+  <string name="save_picture_succ_tip">
+    Photo saved to: %1$s</string>
+  <string name="save_to_album">
+    Save to Phone</string>
+  <string name="save_to_album_done">
+    Video saved to your album</string>
+  <string name="saved">
+    Saved</string>
+  <string name="saved_album_success">
+    Video saved to your album</string>
+  <string name="saving">
+    Saving</string>
+  <string name="school_empty_tips">
+    'School' can not be blank</string>
+  <string name="search">
+    Search</string>
+  <string name="search_empty_tips">
+    No matched result found</string>
+  <string name="search_hint">
+    Search username/ID</string>
+  <string name="search_in_contact">
+    Search</string>
+  <string name="section_hash_tag_fans">
+    Hashtag Fans</string>
+  <string name="section_hash_tag_owner">
+    Hashtag Host</string>
+  <string name="select_graduation_year">
+    Tell us when you graduate</string>
+  <string name="select_graduation_year_title">
+    Time</string>
+  <string name="select_music">
+    Upload music</string>
+  <string name="select_music_for_music_magic">
+    To create a music magic video, please select music first </string>
+  <string name="select_your_departure_time">
+    Tell us when you leave</string>
+  <string name="select_your_entry_time">
+    Tell us when you join</string>
+  <string name="send_out_with_number">
+    Send:%1$d</string>
+  <string name="sensear_init_wait">
+    Initializing stickers, please try again later</string>
+  <string name="sensitive_words">
+    Saving failed, your recording with inappropriate content</string>
+  <string name="set_password_fail">
+    Setting password failed</string>
+  <string name="set_password_fail_eauth">
+    Please enter correct password</string>
+  <string name="set_password_tips">
+    Set a login password for faster login, especially when you use other devices.</string>
+  <string name="set_public_failed">
+    Fail to set public , please check your network</string>
+  <string name="set_public_no_network">
+    Fail to set public , please check your network</string>
+  <string name="set_public_succeed">
+    The video is public now</string>
+  <string name="set_public_tips">
+    Public video cannot be set as private again ,sure to continue?</string>
+  <string name="setting">
+    Settings</string>
+  <string name="setting_about_update_downloading">
+    Downloading latest version, please wait.</string>
+  <string name="setting_about_update_toast_latest">
+    Your version is the latest.</string>
+  <string name="setting_account_phone_change_phone">
+    Change Phone Number</string>
+  <string name="setting_account_phone_tips">
+    Connect to Phone to protect your LIKE account</string>
+  <string name="setting_career">
+    Career</string>
+  <string name="setting_change_pw">
+    Change Password</string>
+  <string name="setting_change_pw_show_text">
+    Show</string>
+  <string name="setting_education">
+    Education</string>
+  <string name="setting_item_about_get_latest">
+    Checking new versions…</string>
+  <string name="setting_language">
+    Language</string>
+  <string name="setting_like_us">
+    Like us</string>
+  <string name="setting_logout">
+    Log Out</string>
+  <string name="setting_logout_tip">
+    Are you sure you want to log out?</string>
+  <string name="setting_modify_fail">
+    Profile update failed, please try again</string>
+  <string name="setting_nicemeet_for_debug_mode">
+    Debug Mode enabled</string>
+  <string name="setting_nicemeet_for_release_mode">
+    Release Mode enabled</string>
+  <string name="setting_nicemeet_for_switch_to_debug_mode">
+    Switch to Debug Mode?</string>
+  <string name="setting_nicemeet_for_switch_to_release_mode">
+    Switch to Release Mode?</string>
+  <string name="setting_password">
+    Setting Password</string>
+  <string name="setting_phone_bind_finished">
+    Connected</string>
+  <string name="setting_phone_rebind_reget_cookie_failed">
+    Failed to retrieve cookies, please log in again</string>
+  <string name="setting_phone_rebind_self_used">
+    This phone number is already connected to your LIKE account</string>
+  <string name="setting_phone_title">
+    Connect Phone Number</string>
+  <string name="setting_phone_title2">
+    Connect Phone</string>
+  <string name="setting_profile_add">
+    Add</string>
+  <string name="setting_profile_bigo_id">
+    LIKE ID</string>
+  <string name="setting_profile_birthday">
+    Birthday</string>
+  <string name="setting_profile_cannot_open_gallery">
+    Failed to load Album</string>
+  <string name="setting_profile_career">
+    Career</string>
+  <string name="setting_profile_education">
+    Education</string>
+  <string name="setting_profile_hometown">
+    Hometown</string>
+  <string name="setting_profile_input_bio">
+    Input your bio</string>
+  <string name="setting_profile_input_gender">
+    Select your gender</string>
+  <string name="setting_profile_input_hometown">
+    Input your hometown</string>
+  <string name="setting_profile_select_birthday">
+    Select your birthday</string>
+  <string name="setting_profile_sexy">
+    Gender</string>
+  <string name="setting_profile_share_dialog_title">
+    Share profile to</string>
+  <string name="setting_profile_signature">
+    Bio</string>
+  <string name="setting_pw_hint_current">
+    Old Password</string>
+  <string name="setting_pw_hint_new_pw">
+    New Password</string>
+  <string name="setting_pw_hint_pw">
+    Please enter password</string>
+  <string name="setting_set_pw">
+    Set Password</string>
+  <string name="setting_set_pw_tips">
+    Password should contain at least 6 characters</string>
+  <string name="setting_set_pw_tips2">
+    Please enter the verification code and password</string>
+  <string name="setting_set_pw_tips3">
+    The password should contain at least 6 characters</string>
+  <string name="share">
+    Share</string>
+  <string name="share_with_friends">
+    Share with friends</string>
+  <string name="sign_pw_create">
+    Create a Password</string>
+  <string name="sign_sending">
+    Sending…</string>
+  <string name="sign_up_4word">
+    Sign Up</string>
+  <string name="sign_up_4word2">
+    SIGN UP</string>
+  <string name="sign_with_bigo">
+    Sign with us</string>
+  <string name="signup_birth">
+    Birthday</string>
+  <string name="signup_no_phone">
+    Please enter phone number</string>
+  <string name="signup_step1_new">
+    Sign up</string>
+  <string name="signup_step2_new">
+    Set password</string>
+  <string name="signup_tips_new">
+    Signing up, please wait.</string>
+  <string name="signup_welcome">
+    Welcome to LIKE</string>
+  <string name="signup_welcome2">
+    Improve the profile to win more attention</string>
+  <string name="skip">
+    Skip</string>
+  <string name="sms_verify_title">
+    Verify via SMS</string>
+  <string name="sociality">
+    Social</string>
+  <string name="stay">
+    Cancel</string>
+  <string name="str_3dmagic_tips">
+    Record cool 4D Magic videos here!</string>
+  <string name="str_Google">
+    Google</string>
+  <string name="str_Instagram">
+    Instagram</string>
+  <string name="str_Phone">
+    Phone</string>
+  <string name="str_Twitter">
+    Twitter</string>
+  <string name="str_accept">
+    Accept</string>
+  <string name="str_account_not_safe">
+    Unprotected</string>
+  <string name="str_ads_time">
+    %d s</string>
+  <string name="str_album_describe">
+    Click to change or delete photo. Drag photo to change order.</string>
+  <string name="str_align_qr_code">
+    Align QR Code</string>
+  <string name="str_app_sound">
+    Sound</string>
+  <string name="str_at_warning">
+    You've already @ this user.</string>
+  <string name="str_avatar">
+    Avatar</string>
+  <string name="str_bbm">
+    BBM</string>
+  <string name="str_bbm_uninstall">
+    Please install BBM</string>
+  <string name="str_be_a_topic_owner">
+    Be a hashtag host</string>
+  <string name="str_bigo_id_cannot_contain_only_numbers">
+    At least to have letters in your LIKE ID</string>
+  <string name="str_bigo_id_cannot_start_with_period">
+    You can't start your LIKE ID with a period</string>
+  <string name="str_bigo_id_contains_four_at_least">
+    Use 4 characters or more for LIKE ID</string>
+  <string name="str_bigo_id_contains_sixteen_at_most">
+    Use 16 characters or fewer for LIKE ID</string>
+  <string name="str_bigo_id_fail_cause_taken">
+    This ID is already taken</string>
+  <string name="str_bigo_id_not_available">
+    Can't register ID contains our brand name "LIKE"</string>
+  <string name="str_bigo_id_not_match_tip">
+    LIKE ID can only contain letters, numbers, underscores and periods</string>
+  <string name="str_bigo_id_taken">
+    Sorry, this LIKE ID is already taken</string>
+  <string name="str_bind_error_conflict">
+    This account has been connected to another LIKE account</string>
+  <string name="str_bind_fail">
+    Failed to connect</string>
+  <string name="str_bind_success">
+    Connected</string>
+  <string name="str_biu_matched_before">
+    <font color=#00ffee>%1$s</font> is already your friend</string>
+  <string name="str_block">
+    Block</string>
+  <string name="str_btn_send_gift">
+    Send</string>
+  <string name="str_cancel">
+    Cancel</string>
+  <string name="str_change_music">
+    Change Music</string>
+  <string name="str_change_phone">
+    Change phone number</string>
+  <string name="str_click_again_to_exit_tip">
+    Press Back again to quit</string>
+  <string name="str_comment_get_liked">
+    Comment get liked</string>
+  <string name="str_comment_plane_like_with_others">
+    Liked by %1$s and %2$s</string>
+  <string name="str_comment_plane_like_without_others">
+    Liked by %s</string>
+  <string name="str_comment_plane_others">
+    %s Others</string>
+  <string name="str_confirm">
+    Confirm</string>
+  <string name="str_connect_now">
+    Connect now</string>
+  <string name="str_connect_phone_tips">
+    Connect Phone to protect your LIKE account</string>
+  <string name="str_connected">
+    Connected</string>
+  <string name="str_contacts">
+    Contacts</string>
+  <string name="str_continue">
+    Continue</string>
+  <string name="str_coomentplane_producer_like">
+    The producer likes this comment</string>
+  <string name="str_copied">
+    LIKE ID copied</string>
+  <string name="str_copy_link">
+    Copy link</string>
+  <string name="str_cover">
+    Cover</string>
+  <string name="str_debug">
+    DEBUG</string>
+  <string name="str_dialog_title_tip">
+    Tips</string>
+  <string name="str_disconnect">
+    Disconnect</string>
+  <string name="str_discover_contact_permission_open">
+    To help people connect on LIKE,your contacts are periodically synced and securely stored on your servers.Your choose which contacts to follow.Disconnect any time to remove them</string>
+  <string name="str_discover_find_next">
+    Discover Now</string>
+  <string name="str_discover_find_tips">
+    Check out which contacts are using LIKE</string>
+  <string name="str_discover_find_title">
+    Have more fun with friends</string>
+  <string name="str_discover_no_contact">
+    Sorry, no contacts discovered on LIKE</string>
+  <string name="str_done">
+    Done</string>
+  <string name="str_edit_profile">
+    Edit Profile</string>
+  <string name="str_error_connecting_failed">
+    Failed to connect. Please try again later</string>
+  <string name="str_expire">
+    (expire)</string>
+  <string name="str_explore_topic_dialog_content">
+    New 4D Magic Experience! Upload videos to split $5000 everyday!</string>
+  <string name="str_explore_topic_dialog_join">
+    Join Now</string>
+  <string name="str_explore_topic_dialog_title">
+    4D Magic Wars!</string>
+  <string name="str_export_prepare">
+    Preparing...</string>
+  <string name="str_face_unusable">
+    To adjust facial features , please remove the sticker first</string>
+  <string name="str_facebook">
+    Facebook</string>
+  <string name="str_facebook_friends">
+    Facebook Friends</string>
+  <string name="str_facebook_uninstall">
+    Please install Facebook</string>
+  <string name="str_failed_becauseof_insending">
+    Outputing, please wait a moment and try again.</string>
+  <string name="str_failed_to_get_video_output_dir">
+    Failed to get the video output directory.</string>
+  <string name="str_failed_to_open_mic">
+    Failed to open the microphone.</string>
+  <string name="str_failed_to_open_video">
+    Failed to open camera.</string>
+  <string name="str_failed_to_output_thumb">
+    Failed to output the cover image.</string>
+  <string name="str_failed_to_output_video">
+    Failed to output the video file.</string>
+  <string name="str_failed_to_send_message_for_need_end_call">
+    Please finish your call before send message.</string>
+  <string name="str_fans">
+    Fans</string>
+  <string name="str_fans_message">
+    Fan Message Notification</string>
+  <string name="str_fb_publish_share_fail">
+    Facebook share failed</string>
+  <string name="str_fb_publish_share_success">
+    Facebook share successfully</string>
+  <string name="str_fb_share_fail">
+    Facebook post failed</string>
+  <string name="str_fb_uninstall">
+    Fail to share as Facebook is not installed</string>
+  <string name="str_female">
+    Female</string>
+  <string name="str_first_follow_chat_tips">
+    You can say hi to %s</string>
+  <string name="str_follow">
+    Follow</string>
+  <string name="str_follow_count_limit">
+    You have reached the maximum amount of people you can follow, you can unfollow some people and follow new ones</string>
+  <string name="str_follow_count_limit_day">
+    You have reached the maximum amount you can follow today</string>
+  <string name="str_follow_each_other">
+    Friends(Following each other)</string>
+  <string name="str_follow_following_hashtag">
+    Following Hashtag</string>
+  <string name="str_follow_following_people">
+    Following People</string>
+  <string name="str_follow_got_it">
+    Got it</string>
+  <string name="str_follow_hashtag">
+    +Follow Hashtag</string>
+  <string name="str_follow_not_support_emulator">
+    Failed to follow, The Android emulator is not supported.</string>
+  <string name="str_follow_private">
+    Private Video</string>
+  <string name="str_follow_topic_count_limit">
+    You have reached the maximum amount of hashtag you can follow, you can unfollow old hashtags and follow new ones</string>
+  <string name="str_followed2">
+    Followed</string>
+  <string name="str_friend">
+    Friends</string>
+  <string name="str_friend_on_bigo_live">
+    Friends on LIKE</string>
+  <string name="str_friend_recommend_next">
+    Got it</string>
+  <string name="str_friend_recommend_title">
+    %s friends on your contacts are also on LIKE and have been followed</string>
+  <string name="str_friends_message">
+    Friend Message Notification</string>
+  <string name="str_friends_message_notification_tips">
+    Turn on to receive message notification</string>
+  <string name="str_gallery">
+    Gallery</string>
+  <string name="str_go_to_other_room">
+    Go to %1$s</string>
+  <string name="str_google_wallet">
+    Google Wallet</string>
+  <string name="str_got_it">
+    Got it</string>
+  <string name="str_hashtag">
+    Hashtag</string>
+  <string name="str_hashtag_trending">
+    Hashtag trending</string>
+  <string name="str_her">
+    her</string>
+  <string name="str_hike">
+    hike</string>
+  <string name="str_hike_uninstall">
+    Please install Hike</string>
+  <string name="str_him">
+    him</string>
+  <string name="str_history">
+    History</string>
+  <string name="str_hold_to_say_hi">
+    Hold to record</string>
+  <string name="str_host">
+    Host</string>
+  <string name="str_ignore">
+    Ignore</string>
+  <string name="str_im_video_beauty_off">
+    "Beauty Mode" is off</string>
+  <string name="str_im_video_beauty_on">
+    "Beauty Mode" is on</string>
+  <string name="str_im_video_chat_now">
+    Chat Now</string>
+  <string name="str_im_video_count_down_off">
+    "Count down" is off</string>
+  <string name="str_im_video_count_down_on">
+    "Count down" is on</string>
+  <string name="str_im_video_drag_gift_tip">
+    Try to select a gift now</string>
+  <string name="str_im_video_drag_tip">
+    You can hold to move to left or right like this </string>
+  <string name="str_im_video_expire">
+    The video is expired or not exist</string>
+  <string name="str_im_video_record_canceled">
+    Canceled</string>
+  <string name="str_imo">
+    imo</string>
+  <string name="str_imo_uninstall">
+    Please install Imo</string>
+  <string name="str_instagram_uninstall">
+    Please install Instagram</string>
+  <string name="str_invalid_qc_conn">
+    You can scan the QR Code to use PC Connector when you are broadcasting.</string>
+  <string name="str_invalid_qr_code">
+    Invalid QR Code</string>
+  <string name="str_invite_friends">
+    Invite Friends</string>
+  <string name="str_invite_friends_fetch_url_timeout">
+    Request time out. Please try again!</string>
+  <string name="str_invite_friends_from">
+    Invite friends from</string>
+  <string name="str_invite_your_friend">
+    Invite your friend</string>
+  <string name="str_leaderboard">
+    Leaderboard</string>
+  <string name="str_like">
+    Like</string>
+  <string name="str_like_list_title">
+    Likes</string>
+  <string name="str_like_recommend_next">
+    Follow All</string>
+  <string name="str_like_recommend_title">
+    10 talents on LIKE you might interested, follow all of them and won’t miss their awesome videos</string>
+  <string name="str_link_copied">
+    Video's link has copied, please paste to any social media to share</string>
+  <string name="str_live_enter_no_network">
+    Network unavailable, please check.</string>
+  <string name="str_live_open_camera_failed">
+    Camera Permission Required. Please go to "Settings", find LIKE and enable Camera permission. </string>
+  <string name="str_live_permissions_camera">
+    Camera</string>
+  <string name="str_live_permissions_mic">
+    Microphone</string>
+  <string name="str_loading_sticker">
+    Loading sticker...</string>
+  <string name="str_location_permission_guide_allow_now">
+    Allow now</string>
+  <string name="str_location_permission_guide_describe">
+    You can <font color=#ce46ec>find vloggers nearby</font></string>
+  <string name="str_location_permission_guide_nearby_describe">
+    You can <font color=#ce46ec>find videos nearby</font></string>
+  <string name="str_location_permission_guide_title">
+    Allow Location</string>
+  <string name="str_login_fail_count_tips_content">
+    It seems that you're having trouble with your password. Do you want to reset it?</string>
+  <string name="str_login_fail_count_tips_title">
+    Incorrect Password</string>
+  <string name="str_login_have_account">
+    Already have an account?Log in></string>
+  <string name="str_login_msg_fail">
+    Login Failed</string>
+  <string name="str_login_or_sign_up">
+    Sign Up/Login With Phone</string>
+  <string name="str_login_slogan">
+    Join us with</string>
+  <string name="str_login_tips_msg1">
+    Login means you agree to</string>
+  <string name="str_login_tips_powered_by">
+    powered by like.video</string>
+  <string name="str_login_tips_privacy">
+    Privacy Policy</string>
+  <string name="str_login_tips_terms">
+    Terms of Use</string>
+  <string name="str_lrc_load_fail">
+    Captions loading failed</string>
+  <string name="str_mainpage_first_video_guide">
+    Record your first video</string>
+  <string name="str_male">
+    Male</string>
+  <string name="str_me">
+    Me</string>
+  <string name="str_message_like_greeting_notice">
+    Hey, try to make an interesting self-introduction. Let <font color=#CE46EC>%1$s</font> know you better!</string>
+  <string name="str_messages">
+    Messages</string>
+  <string name="str_messages_notification">
+    Message Notification</string>
+  <string name="str_messenger">
+    Messenger</string>
+  <string name="str_messenger_uninstall">
+    Please install Messenger</string>
+  <string name="str_musically">
+    Musical.ly</string>
+  <string name="str_musically_uninstall">
+    Please install Musical.ly</string>
+  <string name="str_name_video">
+    Video</string>
+  <string name="str_nearby_dialog_no_location_permission">
+    Please turn on Location Service to find more Nearby Videos accurately</string>
+  <string name="str_nearby_empty_no_location_permission">
+    Please turn on Location Service to get Nearby Videos</string>
+  <string name="str_nearby_empty_no_vlog">
+    No video found nearby, just record and share the first video</string>
+  <string name="str_nearby_location_setting">
+    Go Setting</string>
+  <string name="str_nearby_no_video">
+    No more videos nearby</string>
+  <string name="str_nearby_record_vlog">
+    Record Video</string>
+  <string name="str_never_remind">
+    Never remind</string>
+  <string name="str_new">
+    %s New</string>
+  <string name="str_new_feature">
+    New Feature!</string>
+  <string name="str_new_feature_mm">
+    New Feature</string>
+  <string name="str_no_following_hash_tag">
+    Not following any hashtag, find hashtags in Explore</string>
+  <string name="str_no_follows">
+    No following</string>
+  <string name="str_no_follows_describe">
+    After you follow user,you can interactive with them by @. User you @ will receive you message </string>
+  <string name="str_no_friends">
+    No Friends</string>
+  <string name="str_no_like">
+    No one likes</string>
+  <string name="str_no_loc_tip">
+    In Space</string>
+  <string name="str_no_more_hashtags">
+    No more hashtags</string>
+  <string name="str_no_network">
+    No Network</string>
+  <string name="str_no_notify_video">
+    No notification about the video yet.</string>
+  <string name="str_no_share">
+    Be the first to share</string>
+  <string name="str_no_signature_tip">
+    Hey, I am a LIKE member.</string>
+  <string name="str_no_user_search_result">
+    No results in your following</string>
+  <string name="str_not_now">
+    Later</string>
+  <string name="str_ok">
+    OK</string>
+  <string name="str_or">
+    Or</string>
+  <string name="str_order_processing">
+    Processing your order…</string>
+  <string name="str_original_sound">
+    original sound - %1$s</string>
+  <string name="str_others">
+    Others</string>
+  <string name="str_phonenumber_bind_error_conflict">
+    This phone number has been connected to another LIKE account</string>
+  <string name="str_photo">
+    Photo</string>
+  <string name="str_popular">
+    Popular</string>
+  <string name="str_post">
+    Post</string>
+  <string name="str_post_private_video">
+    As a private video</string>
+  <string name="str_powerd_by">
+    powered by like.video</string>
+  <string name="str_powered_by_bigo">
+    powered by like.video</string>
+  <string name="str_producer">
+    Producer</string>
+  <string name="str_profile">
+    Profile</string>
+  <string name="str_publish_filter_disable_tips">
+    You have used filter when recording, so you can not add it again</string>
+  <string name="str_publish_posted">
+    Posted</string>
+  <string name="str_publish_prepare">
+    Preparing…</string>
+  <string name="str_publish_step">
+    Step</string>
+  <string name="str_publish_upload">
+    Uploading…</string>
+  <string name="str_qq">
+    QQ</string>
+  <string name="str_qq_uninstall">
+    Please install QQ</string>
+  <string name="str_qr_code">
+    QR Code</string>
+  <string name="str_recent_contact">
+    Recent Contacts</string>
+  <string name="str_recommended">
+    Recommended</string>
+  <string name="str_reconnect">
+    Reconnect</string>
+  <string name="str_record_permissions_tip_pattern1">
+    To video chat, LIKE needs permission to access %1$s.</string>
+  <string name="str_record_permissions_tip_pattern2">
+    To video chat, LIKE needs permission to access %1$s and %2$s.</string>
+  <string name="str_refresh">
+    Refresh</string>
+  <string name="str_release_to_cancel">
+    Release to cancel</string>
+  <string name="str_release_to_select_a_gift">
+    Release to select a gift</string>
+  <string name="str_release_to_send">
+    Release to send</string>
+  <string name="str_remove_red">
+    <font color=#ff0000>Remove</font></string>
+  <string name="str_remove_suc">
+    Removed</string>
+  <string name="str_replay">
+    Replay</string>
+  <string name="str_reply">
+    Reply</string>
+  <string name="str_reselect">
+    Reselect</string>
+  <string name="str_reset">
+    Reset</string>
+  <string name="str_return">
+    Return</string>
+  <string name="str_risingstars">
+    Risingstars</string>
+  <string name="str_scan_camera_permission">
+    To scan QR code, LIKE needs permission to access the Camera</string>
+  <string name="str_scan_qr_code">
+    Scan QR Code</string>
+  <string name="str_search_following">
+    Search Following</string>
+  <string name="str_search_music_content_null_toast">
+    Enter song name / artist name</string>
+  <string name="str_search_music_empty_tip">
+    No results,try another word</string>
+  <string name="str_search_music_hint">
+    Search Music</string>
+  <string name="str_select_music">
+    Select Music</string>
+  <string name="str_sending">
+    Sending</string>
+  <string name="str_set_it_now">
+    Set it now</string>
+  <string name="str_setting_notification_commentlike">
+    Comment get liked</string>
+  <string name="str_setting_notification_commentlike_tips">
+    Your comment was liked by Allen</string>
+  <string name="str_setting_notification_comments">
+    Comments</string>
+  <string name="str_setting_notification_comments_tip">
+    Neha commented:"You video is very funny"</string>
+  <string name="str_setting_notification_hashtag">
+    New post from hashtag I followed</string>
+  <string name="str_setting_notification_hashtag_tips">
+    #BestLIKE you followed is updated</string>
+  <string name="str_setting_notification_likes">
+    Likes</string>
+  <string name="str_setting_notification_likes_tip">
+    Your post got 10 new likes</string>
+  <string name="str_setting_notification_mentioned_you">
+    @Me</string>
+  <string name="str_setting_notification_mentioned_you_tips">
+    @Allen mentioned you</string>
+  <string name="str_setting_notification_new_followers">
+    New fan</string>
+  <string name="str_setting_notification_new_followers_tip">
+    Neha started following you.</string>
+  <string name="str_setting_notification_posts">
+    Videos from people I follow</string>
+  <string name="str_setting_notification_posts_tip">
+    Neha that you're following posted a new video</string>
+  <string name="str_setting_notification_shares">
+    Shares</string>
+  <string name="str_setting_notification_shares_tips">
+    Your post has been shared more than 10 times</string>
+  <string name="str_setting_notification_tip">
+    Interactive notifications</string>
+  <string name="str_setting_notification_views">
+    Views</string>
+  <string name="str_setting_notification_views_tips">
+    Your post has been viewed more than 20 times</string>
+  <string name="str_share_fail">
+    Fail to Share</string>
+  <string name="str_share_list_title">
+    Shares</string>
+  <string name="str_share_success">
+    Shared</string>
+  <string name="str_share_text_copied">
+    Video's link has copied,please pasted to %s to share</string>
+  <string name="str_share_to">
+    Share to</string>
+  <string name="str_share_video_shared">
+    LIKE video save,please upload it from your album inside %s</string>
+  <string name="str_shared_by">
+    Shared by</string>
+  <string name="str_sharing">
+    Sharing</string>
+  <string name="str_show_personal_page">
+    Show on my personal page</string>
+  <string name="str_show_personal_page_tips">
+    Turn on to get more fans on LIKE.</string>
+  <string name="str_silent_dialog_post">
+    POST TO %1$s</string>
+  <string name="str_sms_invite_content">
+    I found LIKE pretty cool, you can get it from %1$s</string>
+  <string name="str_state_tip_processing">
+    Processing…</string>
+  <string name="str_storage_full">
+    Phone storage is full, please check</string>
+  <string name="str_success">
+    success</string>
+  <string name="str_sure">
+    Sure</string>
+  <string name="str_swipe_left_to_cancel">
+    Swipe left to cancel</string>
+  <string name="str_swipe_right_to_gift">
+    Swipe right to select gifts</string>
+  <string name="str_swipe_up">
+    Swipe Up</string>
+  <string name="str_swipe_up_hint">
+    Swipe up to view next video</string>
+  <string name="str_swipe_up_introduction">
+    to enjoy more videos in LIKE</string>
+  <string name="str_tab_face">
+    Face</string>
+  <string name="str_tab_filter">
+    Filter</string>
+  <string name="str_tab_skin">
+    Skin</string>
+  <string name="str_tag_name">
+    #%1$s</string>
+  <string name="str_tap_to_join">
+    Tap to Join</string>
+  <string name="str_tap_to_view_more">
+    Tap to view more content</string>
+  <string name="str_topic_host">
+    %1$s Host</string>
+  <string name="str_topic_link_copied">
+    Link has copied, please paste to any social media to share</string>
+  <string name="str_trending">
+    Trending</string>
+  <string name="str_tw_share_fail">
+    Twitter post failed</string>
+  <string name="str_tw_uninstall">
+    Fail to share as Twitter is not installed</string>
+  <string name="str_twitter_uninstall">
+    Please install Twitter</string>
+  <string name="str_un_cancel">
+    Cancel</string>
+  <string name="str_un_follow">
+    Unfollow</string>
+  <string name="str_unbind_confirm_tips">
+    Are you sure you want to disconnect %1$s account?</string>
+  <string name="str_unbind_error_confict">
+    You have to connect at least one account</string>
+  <string name="str_unbind_fail">
+    Failed to disconnect</string>
+  <string name="str_unbind_success">
+    Disconnected</string>
+  <string name="str_unbind_time_limit">
+    In order to protect your account，it can't be disconnected within 24 hours after your account first associated with mobile phone.</string>
+  <string name="str_unblock_tips">
+    Are you sure to remove he/she from your blacklist?</string>
+  <string name="str_unknown">
+    Keep Secret</string>
+  <string name="str_unknown2">
+    Secret</string>
+  <string name="str_unknown_position">
+    Unknown Position</string>
+  <string name="str_user_name">
+    Name</string>
+  <string name="str_user_no_following_hash_tag">
+    Not following any hashtag</string>
+  <string name="str_users">
+    Users</string>
+  <string name="str_verify">
+    (Verified)</string>
+  <string name="str_verify_fail_tips">
+    Possible error reasons :</string>
+  <string name="str_verify_fail_tips1">
+    1. Phone number is too long or too short.</string>
+  <string name="str_verify_fail_tips2">
+    2. Country code or other numbers (0–9) has been added at the front of phone number.</string>
+  <string name="str_verify_fail_tips3">
+    3. Phone number is invalid, please change another and try again.</string>
+  <string name="str_vibrate">
+    Vibrate</string>
+  <string name="str_video">
+    Video</string>
+  <string name="str_video_detail_follow_guide">
+    Follow me and Watch more videos</string>
+  <string name="str_video_record_allow_microphone_tips">
+    Go to "Settings > LIKE" and allow Microphone</string>
+  <string name="str_video_record_allow_microphone_title">
+    Allow Microphone Access</string>
+  <string name="str_video_record_allow_video_access_confirm">
+    Go Settings</string>
+  <string name="str_video_record_allow_video_access_tips">
+    Go to Setting > LIKE > Enable access to Storage</string>
+  <string name="str_video_record_allow_video_access_title">
+    Allow Storage Access</string>
+  <string name="str_video_record_permissions_tip_pattern4">
+    To record video, LIKE needs permission to access %1$s and %2$s.</string>
+  <string name="str_video_record_time_too_short">
+    Video is too short</string>
+  <string name="str_video_saving">
+    Saving</string>
+  <string name="str_video_sharing">
+    Preparing</string>
+  <string name="str_video_text_limit_num_tips">
+    Text can be no longer than 150 characters</string>
+  <string name="str_view_fb_profile">
+    View FaceBook Profile</string>
+  <string name="str_view_instagram_profile">
+    View Instagram Profile</string>
+  <string name="str_view_tw_profile">
+    View Twitter Profile</string>
+  <string name="str_view_youtube_profile">
+    View Youtube Profile</string>
+  <string name="str_vk">
+    VK</string>
+  <string name="str_vk_uninstall">
+    Please install VK</string>
+  <string name="str_vs_comment_limit_tip">
+    Sending too frequently,please try later</string>
+  <string name="str_wait">
+    Wait</string>
+  <string name="str_web_invalid_qr_code">
+    Invalid attempt Scan QR Code to log in again</string>
+  <string name="str_web_login_confirm_login_describe">
+    Confirm Login to Web LIKE</string>
+  <string name="str_web_login_have_signed_computer">
+    You have signed onto your computer</string>
+  <string name="str_web_login_login_app">
+    Log in your phone</string>
+  <string name="str_web_login_phone_notice_describe">
+    When login in your phone, will log out of computer</string>
+  <string name="str_web_login_scan_again">
+    Scan QR Code again</string>
+  <string name="str_web_login_sure_log_out">
+    Log out of computer LIKE now?</string>
+  <string name="str_web_login_title">
+    Scan Code To Login</string>
+  <string name="str_wechat">
+    WeChat</string>
+  <string name="str_wechat_uninstall">
+    Please install Wechat</string>
+  <string name="str_whatsApp">
+    WhatsApp</string>
+  <string name="str_whatsapp_uninstall">
+    Please install WhatsApp</string>
+  <string name="str_youtube">
+    Youtube</string>
+  <string name="str_yt_share_fail">
+    Youtube share failed</string>
+  <string name="stragers_messages">
+    Stranger's messages</string>
+  <string name="stranger_messages_desc">
+    Greetings from strangers will be here</string>
+  <string name="submit">
+    Submit</string>
+  <string name="swipe_give_star">
+    Swipe up to give 5 stars</string>
+  <string name="sync_contact_desc">
+    Upload & continuously sync contacts to see who you know on LIKE</string>
+  <string name="take_photo">
+    Take a photo</string>
+  <string name="three_magic_storage_too_small">
+    4D Magic download failed,storage space is not enough</string>
+  <string name="time_empty_tips">
+    'Time' can not be blank</string>
+  <string name="timeline_msg_expand_sigimgtext_readmore">
+    Read More</string>
+  <string name="tip_area">
+    Please enter your phone number</string>
+  <string name="tip_area2">
+    Please verify your phone number</string>
+  <string name="tip_area_rebind">
+    Tell us which new number you are changing to</string>
+  <string name="tip_area_verify_phone">
+    Please verify your phone number so we know you are a real person before joining the Party.</string>
+  <string name="tip_confirm_login_directly">
+    Login</string>
+  <string name="tip_confirm_password">
+    Please confirm your password</string>
+  <string name="tip_confirm_register_again">
+    Sign Up</string>
+  <string name="tip_connect_phone">
+    Once connected, you can easily log in LIKE with your phone number and enhance your account security.</string>
+  <string name="tip_later_set_password">
+    You can set up password later in Settings > Connected Account > Phone</string>
+  <string name="tip_login_or_register_again2">
+    The phone number has been signed up. You can login directly</string>
+  <string name="tip_login_or_register_again2_nickname">
+    The phone number has been signed by <font color=#CE46EC>%1$s</font>. If you continue to sign up, current account will be deactivated</string>
+  <string name="tip_no_input_new">
+    Please enter new password</string>
+  <string name="tip_no_input_old">
+    Please enter old password</string>
+  <string name="tip_not_receive_pincode">
+    Did not receive verfication code? <font color=#CE46EC>Try another way></font></string>
+  <string name="tip_password_too_short">
+    Your password is too short</string>
+  <string name="tip_same_input">
+    You have entered an old password</string>
+  <string name="tip_set_bigo_id">
+    Users can search for you easily by your ID. Once set, your ID cannot be changed</string>
+  <string name="tip_signup_save">
+    Do you want to save the profile you have filled out?</string>
+  <string name="tip_wrong_password">
+    Password should only contain letters, numbers and symbols</string>
+  <string name="tips_has_send_pin">
+    The verification code has been sent to %1$s </string>
+  <string name="tips_leave_set_password">
+    Are you sure want to quit?</string>
+  <string name="tips_of_followed_topic_tab">
+    Find hashtags to follow</string>
+  <string name="title_fans_of_hash_tag">
+    Fans of #%1$s</string>
+  <string name="title_following_hash_tag">
+    Hashtag</string>
+  <string name="title_following_people">
+    People</string>
+  <string name="to">
+    To</string>
+  <string name="to_empty_tips">
+    'To' can not be blank</string>
+  <string name="today">
+    today </string>
+  <string name="top_private">
+    Private</string>
+  <string name="topic_fans_num_plural">
+    %1$s Fans</string>
+  <string name="topic_info_example">
+    Example</string>
+  <string name="topic_info_join">
+    JOIN</string>
+  <string name="topic_info_official">
+    Official</string>
+  <string name="topic_latest">
+    Latest</string>
+  <string name="topic_no_more">
+    No more videos</string>
+  <string name="topic_no_yet">
+    No video yet</string>
+  <string name="topic_popular">
+    Popular</string>
+  <string name="topic_post_default">
+    %d post</string>
+  <string name="topic_posts_default">
+    %d posts</string>
+  <string name="topic_ranking">
+    Ranking</string>
+  <string name="topic_share_content">
+    I'm taking part in a very interesting topic #%1$s from #LIKEapp, check it out!</string>
+  <string name="topic_str_dialogue">
+    Dialogue</string>
+  <string name="touch_magic_storage_too_small">
+    Touch Magic download failed,storage space is not enough</string>
+  <string name="un_follow_hint">
+    Are you sure you want to <br/> <font color=#ff7d83>Unfollow %1$s?</font></string>
+  <string name="un_friend_request_popup">
+    Are you sure you want to <font color=#ff7d83>unfriend</font> and remove all chat with <b>%1$s</b>?</string>
+  <string name="unblock_request_popup">
+    <b>Unblock %1$s?</b></string>
+  <string name="unblock_request_popup_hint">
+    Unblocking means you and %1$s can chat with each other again</string>
+  <string name="unblock_success">
+    Unblocked</string>
+  <string name="unknown_msg">
+    You received a message with new type，please upgrade your LIKE App</string>
+  <string name="unsupport_google_pay">
+    Your device do not work properly with Google Wallet</string>
+  <string name="update_download">
+    Download Now</string>
+  <string name="update_failed_tips">
+    Failed. Please check your network and try again.</string>
+  <string name="update_illegal_photo_tips">
+    You are under punishment for having uploaded illegal photos. Editing photos is banned for the present. Please try later.</string>
+  <string name="update_later">
+    Later</string>
+  <string name="update_now">
+    Update Now</string>
+  <string name="upload_avatar_failed">
+    Avatar uploading failed, please check the network</string>
+  <string name="upload_failed">
+    Upload failed</string>
+  <string name="upload_ok">
+    Music is uploaded and under review</string>
+  <string name="uploading">
+    Uploading…</string>
+  <string name="uploading_avatar">
+    Uploading… Please wait</string>
+  <string name="uploading_avatar_failure">
+    Failed to upload avatar, please check your network and try again.</string>
+  <string name="uploading_avatar_forbidden_one_hour">
+    Your avatar is removed for containing violations.Please upload 1 hour later</string>
+  <string name="user_agreement_title">
+    User Agreement</string>
+  <string name="user_auth_fail">
+    User authorization failed</string>
+  <string name="user_feedback">
+    Feedback</string>
+  <string name="user_login_kickoff_content">
+    Forced log out! This account was logged in on another device.</string>
+  <string name="user_login_kickoff_title">
+    Notification</string>
+  <string name="user_not_active">
+    Invalid Account</string>
+  <string name="user_or_pwd_err">
+    Incorrect number or password</string>
+  <string name="user_upload_music">
+    Upload music</string>
+  <string name="v_del_video">
+    Delete</string>
+  <string name="v_del_video_confirm">
+    Delete</string>
+  <string name="v_del_video_suc">
+    Deleted</string>
+  <string name="v_set_public">
+    Set public</string>
+  <string name="verify">
+    VERIFIED</string>
+  <string name="verify2">
+    VERIFY</string>
+  <string name="verify_error">
+    Verify error</string>
+  <string name="verify_ing_new">
+    Verifying</string>
+  <string name="verify_ing_new2">
+    Verifying…</string>
+  <string name="verify_pincode_has_send">
+    Verification code sent</string>
+  <string name="verify_resend">
+    Resend</string>
+  <string name="verify_send">
+    Send</string>
+  <string name="verify_succed">
+    Verified</string>
+  <string name="video_country_area">
+    Video Country Area</string>
+  <string name="video_quality">
+    Video Quality</string>
+  <string name="video_quality_hardware_decoding_disable_toast">
+    Hardware decoding disabled</string>
+  <string name="video_quality_hardware_decoding_enable_toast">
+    Hardware decoding enabled</string>
+  <string name="video_quality_hardware_decoding_tip">
+    We recommend you to enable this setting to have better watching experience. If you have troubles, try to turn it off.</string>
+  <string name="video_quality_hardware_decoding_title">
+    Enable Hardware Decoding</string>
+  <string name="video_quality_hardware_encoding_disable_toast">
+    Hardware encoding disabled</string>
+  <string name="video_quality_hardware_encoding_enable_toast">
+    Hardware encoding enabled</string>
+  <string name="video_quality_hardware_encoding_tip">
+    This setting brings better streaming experience. If you have trouble when start LIVE, try to turn it off.</string>
+  <string name="video_quality_hardware_encoding_title">
+    Enable Hardware Encoding</string>
+  <string name="video_user_like_total">
+    %s likes</string>
+  <string name="view_all_comments">
+    View all Comments</string>
+  <string name="vlog_notify_inspire_follower_post">
+    <font color=#CE46EC>%1$s</font> that you're following posted a video</string>
+  <string name="vlog_notify_recommended_contact_post">
+    Contacts <font color=#CE46EC>%1$s</font>%2$s posted a video</string>
+  <string name="vlog_notify_recommended_fb_post">
+    Facebook friend <font color=#CE46EC>%1$s</font>%2$s posted a video</string>
+  <string name="vlog_notify_recommended_post">
+    Your friend <font color=#CE46EC>%1$s</font> posted a video</string>
+  <string name="vs_comment_copy_suc">
+    Copied</string>
+  <string name="vs_comment_delect_fail">
+    Failed to delete</string>
+  <string name="vs_comment_delect_suc">
+    Deleted</string>
+  <string name="vs_comment_resend">
+    Resend</string>
+  <string name="vs_comment_resend_tips">
+    Sending comment failed, resend now?</string>
+  <string name="vs_detail_view">
+     view</string>
+  <string name="vs_detail_views">
+     views</string>
+  <string name="wanna_report">
+    Yes, I wanna report</string>
+  <string name="warning_quit_when_forget_password">
+    Message will be sent to your phone later. Are you sure you want to return?</string>
+  <string name="warning_quit_when_registering">
+    Are you sure you want to quit signing up?</string>
+  <string name="web_title_income">
+    Income</string>
+  <string name="yesterday">
+    yesterday</string>
+  <string name="you_can_set_a_cover">
+    You can set a cover for the video now</string>
+  <string name="vk_enter_captcha_text">
+    Enter captcha text here</string>
+  <string name="vk_name">
+    VK</string>
+  <string name="vk_new_message_text">
+    Enter your message..</string>
+  <string name="vk_new_post_settings">
+    Post settings</string>
+  <string name="vk_retry">
+    Retry</string>
+  <string name="vk_send">
+    SEND</string>
+  <string name="vk_share">
+    Share</string>
+  <string name="app_name">
+    LIKE</string>
+  <string name="DATE_FORMAT_MMdd">
+    MM/dd</string>
+  <string name="DATE_FORMAT_MMdd_HHmm">
+    MM/dd HH:mm</string>
+  <string name="DATE_FORMAT_Md">
+    M/d</string>
+  <string name="DATE_FORMAT_yyyyMMdd">
+    yyyy/MM/dd</string>
+  <string name="DATE_FORMAT_yyyyMMdd_HHmm">
+    yyyy/MM/dd HH:mm</string>
+  <string name="abc_font_family_body_1_material">
+    sans-serif</string>
+  <string name="abc_font_family_body_2_material">
+    sans-serif-medium</string>
+  <string name="abc_font_family_button_material">
+    sans-serif-medium</string>
+  <string name="abc_font_family_caption_material">
+    sans-serif</string>
+  <string name="abc_font_family_display_1_material">
+    sans-serif</string>
+  <string name="abc_font_family_display_2_material">
+    sans-serif</string>
+  <string name="abc_font_family_display_3_material">
+    sans-serif</string>
+  <string name="abc_font_family_display_4_material">
+    sans-serif-light</string>
+  <string name="abc_font_family_headline_material">
+    sans-serif</string>
+  <string name="abc_font_family_menu_material">
+    sans-serif</string>
+  <string name="abc_font_family_subhead_material">
+    sans-serif</string>
+  <string name="abc_font_family_title_material">
+    sans-serif-medium</string>
+  <string name="appbar_scrolling_view_behavior">
+    android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+  <string name="bottom_sheet_behavior">
+    android.support.design.widget.BottomSheetBehavior</string>
+  <string name="channelname">
+    official</string>
+  <string name="character_counter_pattern">
+    %1$d / %2$d</string>
+  <string name="com_facebook_smart_device_instructions_0">
+    Confirm your code on Facebook.</string>
+  <string name="com_facebook_smart_device_instructions_1">
+    1.	Go to the Menu</string>
+  <string name="com_facebook_smart_device_instructions_2">
+    2.	Select Device Requests</string>
+  <string name="com_facebook_smart_device_instructions_3">
+    3.	Confirm code.</string>
+  <string name="com_facebook_smart_device_instructions_or">
+    - OR -</string>
+  <string name="com_facebook_smart_login_confirmation_cancel">
+    Not you?</string>
+  <string name="com_facebook_smart_login_confirmation_continue_as">
+    Continue as %1$s</string>
+  <string name="com_facebook_smart_login_confirmation_title">
+    Confirm Login</string>
+  <string name="commnunity_mediashare_record_3d">
+    @video.like:string/commnunity_mediashare_edit_tab_3d</string>
+  <string name="default_web_client_id">
+    539847557655-lee70ussrlubjhm2u7pq3jsg2351q29c.apps.googleusercontent.com</string>
+  <string name="firebase_database_url">
+    https://like-d10b8.firebaseio.com</string>
+  <string name="ga_trackingId">
+    UA-88841927-4</string>
+  <string name="gcm_defaultSenderId">
+    539847557655</string>
+  <string name="give_gift">
+    Send</string>
+  <string name="google_api_key">
+    AIzaSyBpOzm-vlP8ExgRVFs2u6gBawBTKt9pC5o</string>
+  <string name="google_app_id">
+    1:539847557655:android:a5df03e86a634305</string>
+  <string name="google_crash_reporting_api_key">
+    AIzaSyBpOzm-vlP8ExgRVFs2u6gBawBTKt9pC5o</string>
+  <string name="google_storage_bucket">
+    like-d10b8.appspot.com</string>
+  <string name="hms_bindfaildlg_title">
+    @video.like:string/hms_update_title</string>
+  <string name="hw_push_app_id">
+    100056177</string>
+  <string name="intimacy_detail_tips_your_address_list_friend">
+    You are friends in contacts</string>
+  <string name="intimacy_detail_tips_your_facebook_friend">
+    You are friends in Facebook</string>
+  <string name="intimacy_genitive_he">
+    his</string>
+  <string name="intimacy_genitive_she">
+    her</string>
+  <string name="intimacy_object_he">
+    him</string>
+  <string name="intimacy_object_she">
+    her</string>
+  <string name="intimacy_subject_he">
+    He</string>
+  <string name="intimacy_subject_she">
+    She</string>
+  <string name="intimacy_tips_chat_with_mic_this_week">
+    You have video chat in LIVE this week</string>
+  <string name="intimacy_tips_follow_each_other">
+    You have followed each other</string>
+  <string name="intimacy_tips_have_common_friend">
+    You have [mutual_friends] mutual friends</string>
+  <string name="intimacy_tips_is_nearby">
+    [sex] is nearby</string>
+  <string name="intimacy_tips_none_of_above">
+    You are not familiar with each other</string>
+  <string name="intimacy_tips_she_are_your_top_fans">
+    [sex] is your top [topN] fan</string>
+  <string name="intimacy_tips_she_follow_you">
+    [sex] is your fans</string>
+  <string name="intimacy_tips_she_is_generous_in_send_gift">
+    [sex] is very generous in sending gifts</string>
+  <string name="intimacy_tips_she_rank_top_fan">
+    [sex] rank your top [topN] fans today.</string>
+  <string name="intimacy_tips_she_send_bean_to_you">
+    [sex] has sent you [beans] beans</string>
+  <string name="intimacy_tips_she_send_beans_to_you">
+    [sex] sent you [beans] beans</string>
+  <string name="intimacy_tips_she_send_gift_to_you">
+    [sex] has sent you [gift_name]</string>
+  <string name="intimacy_tips_she_watch_live_hour">
+    [sex] watched your live for more than [watch_hours] hours this week.</string>
+  <string name="intimacy_tips_she_watched_your_live">
+    [sex] has watched your LIVE</string>
+  <string name="intimacy_tips_you_are_her_top_fans">
+    You are [sex] top [topN] fan</string>
+  <string name="intimacy_tips_you_follow_her">
+    You have followed [sex]</string>
+  <string name="intimacy_tips_you_rank_top_fan">
+    You rank [sex] top [topN] fans today.</string>
+  <string name="intimacy_tips_you_send_bean_to_her">
+    You have sent [sex] [beans] beans</string>
+  <string name="intimacy_tips_you_send_beans_to_her">
+    You sent [sex] [beans] beans.</string>
+  <string name="intimacy_tips_you_send_gift_to_her">
+    You have sent [sex] [gift_name]</string>
+  <string name="intimacy_tips_you_watch_live_hour">
+    You watched [sex] live for more than [watch_hours] hours this week.</string>
+  <string name="intimacy_tips_you_watched_her_live">
+    You have watched [sex] LIVE</string>
+  <string name="intimacy_tips_your_address_list_friend">
+    [sex] is a friend from your contacts</string>
+  <string name="intimacy_tips_your_facebook_friend">
+    [sex] is your Facebook friend</string>
+  <string name="md_back_label">
+    Back</string>
+  <string name="md_cancel_label">
+    Cancel</string>
+  <string name="md_choose_label">
+    Choose</string>
+  <string name="md_custom_label">
+    Custom</string>
+  <string name="md_done_label">
+    Done</string>
+  <string name="md_error_label">
+    Error</string>
+  <string name="md_presets_label">
+    Presets</string>
+  <string name="md_storage_perm_error">
+    Your app has not been granted the READ_EXTERNAL_STORAGE permission.</string>
+  <string name="msg_live_share_myself">
+    I'm streaming. Click to join with me now!</string>
+  <string name="msg_live_share_other">
+    Invite you to join %1$s's streaming. Click to join now!</string>
+  <string name="msg_type_live_share_pre">
+    [LIVE share]</string>
+  <string name="new_fans_count_format">
+    +%1$d</string>
+  <string name="official_welcome_back_suggest">
+    Welcom back to Like</string>
+  <string name="official_welcome_suggest">
+    Welcome to Like</string>
+  <string name="password_toggle_content_description">
+    Toggle password visibility</string>
+  <string name="path_password_eye">
+    M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+  <string name="path_password_eye_mask_strike_through">
+    M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+  <string name="path_password_eye_mask_visible">
+    M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+  <string name="path_password_strike_through">
+    M3.27,4.27 L19.74,20.74</string>
+  <string name="privacy_policy_url">
+    https://mobile.like.video/live/about/policy</string>
+  <string name="setting_app_start_monitor_switch">
+    setting_app_start_monitor_switch</string>
+  <string name="setting_io_monitor_switch">
+    setting_io_monitor_switch</string>
+  <string name="setting_leak_canary_monitor_enabled">
+    setting_leak_canary_monitor_enabled</string>
+  <string name="setting_leak_monitor_switch">
+    setting_default_memory_leak_monitor_enabled</string>
+  <string name="setting_thread_monitor_switch">
+    setting_thread_monitor_switch</string>
+  <string name="setting_ui_block_switch">
+    setting_ui_block_switch</string>
+  <string name="setting_ui_block_threshold">
+    setting_ui_block_threshold</string>
+  <string name="setting_wakelock_monitor_switch">
+    setting_wakelock_monitor_switch</string>
+  <string name="setting_wifi_scan_switch">
+    setting_wifi_scan_switch</string>
+  <string name="str_category_food">
+    Food</string>
+  <string name="str_category_landscape">
+    Landscape</string>
+  <string name="str_category_person">
+    Portrait</string>
+  <string name="str_category_stilllife">
+    Still Life</string>
+  <string name="str_facebook_app_id">
+    655018784691173</string>
+  <string name="str_no_filter">
+    None</string>
+  <string name="str_video_trim_to_short">
+    The length of the video can not be shorter than 30 sec</string>
+  <string name="user_agreement_url">
+    https://mobile.like.video/live/about/userAgreement</string>
+</resources>
