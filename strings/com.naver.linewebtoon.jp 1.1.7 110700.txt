@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="about_creator">作者紹介 &lt;font color=\"#05f269\">%1$s&lt;/font></string>
+    <string name="ace_app_name">LineWebtoon_Japan</string>
+    <string name="ace_host">ace.naver.com</string>
+    <string name="action_edit">編集</string>
+    <string name="action_favorite">お気に入り</string>
+    <string name="action_favorited">登録済み</string>
+    <string name="action_info">案内</string>
+    <string name="action_order_by_cheer">応援順</string>
+    <string name="action_order_by_date">新しい順</string>
+    <string name="action_order_by_interest">よく見る順</string>
+    <string name="action_order_by_like">Like順</string>
+    <string name="action_order_by_popularity">人気順</string>
+    <string name="action_settings">設定</string>
+    <string name="action_sortby_asc">Sort by alphabet(A-Z)</string>
+    <string name="action_sortby_desc">Sort by alphabet(Z-A)</string>
+    <string name="action_sorting">並べ替え</string>
+    <string name="add_comment">コメントを書く</string>
+    <string name="add_comment_hint">コメントを書く</string>
+    <string name="add_favorite">"お気に入りに
+登録しました。"</string>
+    <string name="add_subscribe_home">お気に入り</string>
+    <string name="add_subscribe_text_home">お気に入りの作品を読みながら夜更かし！</string>
+    <string name="ads_by">XOYによる広告</string>
+    <string name="ads_by_highlight_1">XOY</string>
+    <string name="age_degree_block">このコンテンツはお住まいの国ではご利用になれません。</string>
+    <string name="age_degree_warning">この作品は成人向けです。未成年が閲覧するにふさわしくない表現が含まれています。</string>
+    <string name="agree_link_privacy">プライバシーポリシー</string>
+    <string name="agree_link_privacy_policy">プライバシーポリシー</string>
+    <string name="agree_link_privacy_policy_th">นโยบายความเป็นส่วนตัว</string>
+    <string name="agree_link_terms">利用規約</string>
+    <string name="agree_link_terms_of_use">利用規約</string>
+    <string name="agree_link_terms_of_use_th">ข้อตกลงการใช้งาน</string>
+    <string name="agree_to_line_terms_of_use">XOYの利用規約及びプライバシーポリシーに同意します。</string>
+    <string name="alert_delete_all">すべての作品を削除しますか？</string>
+    <string name="alert_delete_need_select">削除するエピソードを選択してください。</string>
+    <string name="alert_delete_selection">選択した作品を削除しますか？</string>
+    <string name="alert_download_background">ダウンロードしています。前のページに移動してもダウンロードは継続されます。</string>
+    <string name="alert_download_cancelled">ダウンロードがキャンセルされました。</string>
+    <string name="alert_download_cancelled_partial">ダウンロードがキャンセルされました。（ダウンロード完了：第%1$d話～第%2$d話）</string>
+    <string name="alert_expired_download">一時保存期間が終了しました</string>
+    <string name="alert_not_enough_space">"ダウンロードすることができません。
+容量を確認してください。"</string>
+    <string name="all">すべて</string>
+    <string name="all_languages">All Languages</string>
+    <string name="already_rated">"すでに評価しています。
+もう一度評価しますか？"</string>
+    <string name="already_reported">"すでに
+このエピソードを
+報告しました。"</string>
+    <string name="api_url_prefix">global.apis.naver.com/lineWebtoon</string>
+    <string name="apigw_key">gUtPzJFZch4ZyAGviiyH94P99lQ3pFdRTwpJWDlSGFfwgpr6ses5ALOxWHOIT7R1</string>
+    <string name="app_exit">"前のページに戻るには'戻る'ボタンを押してください"</string>
+    <string name="app_indexing_episode_list">%1$s ㅣ LINE Webtoon</string>
+    <string name="app_indexing_home">LINE Webtoon - Enjoy free comics, updated everyday</string>
+    <string name="app_indexing_viewer">%1$s ㅣ %2$s/%3$s | LINE Webtoon</string>
+    <string name="app_name">XOY</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="application_id">com.naver.linewebtoon.jp</string>
+    <string name="auth_finish">http://m.webtoons.com/app/member/finish</string>
+    <string name="avaliable_translations">Available fan translations</string>
+    <string name="become_patreon">サポーターになる</string>
+    <string name="blind_webtoon_msg">この作品は現在削除されたか、もしくはご利用になれない作品です。</string>
+    <string name="bookmark">ブックマーク</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="cache_remove_done">削除完了</string>
+    <string name="cancel">キャンセル</string>
+    <string name="cant_load_info_msg">情報を読み取ることができません。しばらくしてからもう一度お試しください。</string>
+    <string name="cant_load_local_img">"データの保存期限が終了しています。
+保存期限が過ぎたデータは再ダウンロードできませんが、
+オンラインではいつでも読むことができます。"</string>
+    <string name="card_home_epiosde_list" />
+    <string name="card_home_notice_title" />
+    <string name="card_loading_action" />
+    <string name="card_loading_comedy" />
+    <string name="card_loading_default" />
+    <string name="card_loading_drama" />
+    <string name="card_loading_fantasy" />
+    <string name="card_loading_heartwarming" />
+    <string name="card_loading_romance" />
+    <string name="card_loading_slice_of_life" />
+    <string name="card_loading_thriller" />
+    <string name="card_subscribe" />
+    <string name="card_subscribed" />
+    <string name="category_about">紹介</string>
+    <string name="category_account">アカウント</string>
+    <string name="category_email">メールアドレス</string>
+    <string name="category_nickname">ニックネーム</string>
+    <string name="category_notification">通知</string>
+    <string name="category_notificion_sleep_mode">おやすみモード設定</string>
+    <string name="category_option">オプション</string>
+    <string name="challenge_cheer_up_motion_message">応援ありがとう！</string>
+    <string name="challenge_home_popular_genre">ジャンル別人気作品</string>
+    <string name="challenge_home_promoted">おすすめ作品</string>
+    <string name="challenge_home_recommend_title">おすすめ作品</string>
+    <string name="challenge_home_rising_star">話題</string>
+    <string name="challenge_home_weekly_hot">今週の人気作</string>
+    <string name="challenge_icon_url" formatted="false">http://webtoons.static.naver.net/image/app/tournament/%s_%s_android.png</string>
+    <string name="challenge_league">XOYリーグ</string>
+    <string name="challenge_league_title">"あなたのオリジナル作品を
+XOYリーグに投稿しましょう！"</string>
+    <string name="challenge_promotion_need_signin">SFマンガコンテスト</string>
+    <string name="challenge_promotion_point">&lt;font color=\"#11cf00\">今週 &lt;b>%1$d&lt;/b>&lt;/font></string>
+    <string name="challenge_promotion_point_thai">คุณมี &lt;font color=\"#59fc1c\">%1$d&lt;/font> คะแนนในสัปดาห์นี้</string>
+    <string name="challenge_promotion_total_point">合計 &lt;b>%1$d&lt;/b>点</string>
+    <string name="challenge_promotion_total_point_thai">(คะแนนสะสมทั้งหมด %1$d คะแนน)</string>
+    <string name="challenge_title_cheer_up">応援する %s</string>
+    <string name="challenge_title_cheer_up_complete">応援完了 %s</string>
+    <string name="challenge_title_cheer_up_no_count">応援する</string>
+    <string name="challenge_title_detail_cheer_count">今月&lt;font color=\"#05f269\">%1$s名様&lt;/font>が応援しています。</string>
+    <string name="challenge_title_detail_cheer_count_title">応援</string>
+    <string name="challenge_title_vote_completed">投票済み</string>
+    <string name="challenge_title_vote_disable">投票</string>
+    <string name="challenge_title_vote_enable">投票</string>
+    <string name="challenge_viewer_cheer_message">"応援ボタンをタップしましょう！
+ 気に入った作品を応援できます！"</string>
+    <string name="challenge_viewer_cheer_message_complete">"応援ありがとうございます！
+ 毎月1作品つき1回応援ができます！"</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="check_box">チェックボックスにチェックを入れてください。</string>
+    <string name="close">閉じる</string>
+    <string name="close_replies">返信リストを閉じる</string>
+    <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
+    <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_like_button_liked">Liked</string>
+    <string name="com_facebook_like_button_not_liked">Like</string>
+    <string name="com_facebook_loading">Loading…</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_loginview_log_in_button">Log in</string>
+    <string name="com_facebook_loginview_log_in_button_continue">Continue with Facebook</string>
+    <string name="com_facebook_loginview_log_in_button_long">Log in with Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="com_facebook_send_button_text">Send</string>
+    <string name="com_facebook_share_button_text">Share</string>
+    <string name="com_facebook_smart_device_instructions">To connect your account, open the Facebook app on your mobile device and check for notifications.</string>
+    <string name="com_facebook_smart_device_instructions_or">- OR -</string>
+    <string name="com_facebook_smart_login_confirmation_cancel">Not you?</string>
+    <string name="com_facebook_smart_login_confirmation_continue_as">Continue as %1$s</string>
+    <string name="com_facebook_smart_login_confirmation_title">Confirm Login</string>
+    <string name="com_facebook_tooltip_default">"You're in control - choose what info you want to share with apps."</string>
+    <string name="comment_already_dislike">"すでにこのコメントを
+「そう思わない！」
+しました。"</string>
+    <string name="comment_already_like">"すでにこのコメントを
+「そう思う！」
+しました。"</string>
+    <string name="comment_blind">このコメントは一時的に削除されました。</string>
+    <string name="comment_delete">削除</string>
+    <string name="comment_delete_confirm">このコメントを削除しますか？</string>
+    <string name="comment_deleted">このコメントは削除されました。</string>
+    <string name="comment_dislike">"このコメントを
+「そう思わない！」
+しました。"</string>
+    <string name="comment_dislike_cancel">"「そう思わない！」を
+取り消しました。"</string>
+    <string name="comment_edit">編集</string>
+    <string name="comment_empty_msg">コメントはまだありません</string>
+    <string name="comment_like">"このコメントを
+「そう思う！」
+しました。"</string>
+    <string name="comment_like_cancel">"「そう思う！」を
+取り消しました。　"</string>
+    <string name="comment_order_by_new">新しい順</string>
+    <string name="comment_order_by_top">人気順</string>
+    <string name="comment_post">投稿</string>
+    <string name="comment_replies">返信(%1$d件)</string>
+    <string name="comment_reply">返信</string>
+    <string name="comment_report_complete">報告が完了しました。</string>
+    <string name="comment_report_confirm">このコメントを報告しますか？</string>
+    <string name="comment_title">コメント</string>
+    <string name="comment_title_with_count">コメント(%1$s)</string>
+    <string name="comment_top_sort_coach">コメントを人気順で見る機能が追加されました。</string>
+    <string name="comment_top_sort_coach_highlight">人気順</string>
+    <string name="comment_unable_dislike_for_mine">"ご自身の投稿には
+「そう思わない！」
+できません。"</string>
+    <string name="comment_unable_like_for_mine">"ご自身の投稿には
+「そう思う！」
+できません。"</string>
+    <string name="comment_webtoon_not_available">ご利用できません。</string>
+    <string name="comment_webtoon_not_available_language">設定した言語ではご利用できません。</string>
+    <string name="comments">コメント</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="completed_badge">完結</string>
+    <string name="confirm_language_change">コンテンツ言語を変更するとマイリスト、履歴、お気に入りおよび一時保存のリストが削除されます。継続しますか？</string>
+    <string name="confirm_language_change_highlight_1">履歷</string>
+    <string name="confirm_language_change_highlight_2">一時保存作品</string>
+    <string name="content_change_ok">はい</string>
+    <string name="content_lang_en">English</string>
+    <string name="content_lang_id">Bahasa Indonesia</string>
+    <string name="content_lang_th">ไทย</string>
+    <string name="content_lang_zh_hans">中文(简体)</string>
+    <string name="content_lang_zh_hant">中文(繁體)</string>
+    <string name="content_language">言語</string>
+    <string name="content_language_guide_summary">"コンテンツをご覧になる際に使用する言語を選択してください。
+作品内の言語のみを変更します。"</string>
+    <string name="content_language_guide_title">コンテンツ言語を選択してください。</string>
+    <string name="content_quality_prefer_summery">円滑なローディングご希望の場合は低い解像度を、高画質でのコンテンツ閲覧をご希望の場合は、高い解像度を選択してください。</string>
+    <string name="content_quality_prefer_title">ご希望の解像度を選択してください。</string>
+    <string name="cookie_domain">.webtoons.com</string>
+    <string name="copied_to_clipboard">URLをコピーしました。</string>
+    <string name="copy_url">コピーする</string>
+    <string name="copyright_corp">NAVER WEBTOON CORP.</string>
+    <string name="copyright_corp_appversion">© NAVER WEBTOON CORP.</string>
+    <string name="creator">作者</string>
+    <string name="creators_webtoon">&lt;font color=\"#05f269\">%1$s&lt;/font> のその他の作品</string>
+    <string name="current_version">利用中のバージョン%1$s</string>
+    <string name="cut_indicator">%1$d / %2$d</string>
+    <string name="cut_share_title">"このコマをSNSで
+シェアする"</string>
+    <string name="cut_view_all">すべて見る</string>
+    <string name="daily">デイリー</string>
+    <string name="date_days_ago">%1$d日前</string>
+    <string name="date_today">今日</string>
+    <string name="day_completed">完結</string>
+    <string name="daysAgo">%1$d日前</string>
+    <string name="default_content_language">ja</string>
+    <string name="default_image_server">https://webtoon-phinf.pstatic.net</string>
+    <string name="default_image_server_sns">http://swebtoon.phinf.naver.net</string>
+    <string name="default_mobile_web_url">http://m.webtoons.com/</string>
+    <string name="default_web_client_id">300235649223-lm1up8igmad8a7u72msbjg8s5ib747n8.apps.googleusercontent.com</string>
+    <string name="details">詳細を見る</string>
+    <string name="discover_featured_fresh_picks">人気の新作</string>
+    <string name="discover_featured_recommended_titles">おすすめ作品</string>
+    <string name="discover_featured_rising_star" />
+    <string name="discover_genre_short_cut">ジャンル一覧</string>
+    <string name="discover_genre_top">XOYリーグTop30</string>
+    <string name="discover_items">作品</string>
+    <string name="discover_menu_browse">ジャンル</string>
+    <string name="discover_menu_featured">ホーム</string>
+    <string name="display_name">XOY</string>
+    <string name="download">ダウンロード</string>
+    <string name="download_alert_data_network">データ通信をオンにした状態で引き続きサービスを利用になりますか？</string>
+    <string name="download_ep_range">第%1$d話%2$s~第%3$d話%4$s</string>
+    <string name="download_expired">保存期間終了</string>
+    <string name="download_fail_already_exist">選択したマンガは既に一時保存しています。もう一度選択してください。</string>
+    <string name="download_fail_error_partial">ダウンロードに失敗しました。（ダウンロード完了：第%1$d話～第%2$d話）</string>
+    <string name="download_fail_network">ネットワークエラーの為、ダウンロードを完了できませんでした。</string>
+    <string name="download_fail_network_partial">ネットワークエラーの為、ダウンロードを完了できませんでした。（ダウンロード完了：第%1$d話～第%2$d話）</string>
+    <string name="download_info">コンテンツは著作権保護のため、(マイリスト>一時保存作品)に最長30日間保存されます。ネットワークの接続状況によって、コンテンツが保存できない場合がございます。</string>
+    <string name="download_info_highlight_1">30日</string>
+    <string name="download_info_highlight_2">(マイリスト>一時保存作品)</string>
+    <string name="download_info_highlight_3">\##</string>
+    <string name="download_noti_complete">ダウンロード</string>
+    <string name="download_noti_complete_sub">タップして%1$sを読むことができます。</string>
+    <string name="download_noti_fail">ダウンロードに失敗しました。</string>
+    <string name="download_noti_start">ダウンロードしています</string>
+    <string name="download_noti_title">%1$s (第%2$d話~第%3$d話)</string>
+    <string name="download_noti_wait">ダウンロード準備中</string>
+    <string name="download_remain_date">あと%1$d日で保存期間が終了します。</string>
+    <string name="download_waiting">残り%1$d話分のダウンロードが終わるまで お待ちください。</string>
+    <string name="downloaded_date">%1$s 一時保存</string>
+    <string name="downloaded_state">一時保存</string>
+    <string name="edit_menu_select_all">すべて選択</string>
+    <string name="edit_menu_select_none">選択しない</string>
+    <string name="email_add">追加</string>
+    <string name="email_edit">編集</string>
+    <string name="email_hint">メールアドレスを入力してください。</string>
+    <string name="email_holder">通知用メールアドレス</string>
+    <string name="email_join">会員登録</string>
+    <string name="email_join_agree">アカウントを登録する時点でXOYの利用規約とプライバシーポリシーに同意されたものとします。</string>
+    <string name="email_join_agree_policy">プライバシーポリシー</string>
+    <string name="email_join_agree_terms">利用規約</string>
+    <string name="email_join_dialog_confirm">認証</string>
+    <string name="email_join_dialog_error_title">システムエラー</string>
+    <string name="email_join_dialog_ip_blocked_title">ブロックされたIP</string>
+    <string name="email_join_dialog_send">送信</string>
+    <string name="email_join_dialog_send_confirm_message">"入力したメールアドレスに
+認証メールを送信します。
+60分以内に認証を完了して下さい。"</string>
+    <string name="email_join_dialog_send_confirm_title">認証メールを送信</string>
+    <string name="email_join_email_address">メールアドレス*</string>
+    <string name="email_join_email_hint">メールアドレスを入力してください。</string>
+    <string name="email_join_error_check_email">メールアドレスをもう一度確認してください。</string>
+    <string name="email_join_error_duplicate_email">このメールアドレスはすでに使用されています。メールアドレスをもう一度–入力してください。</string>
+    <string name="email_join_error_password_email_same">入力したメールアドレスはパスワードとしてご利用頂けません。</string>
+    <string name="email_join_error_password_not_match">"入力されたパスワードは正しくありません。
+もう一度入力してください。"</string>
+    <string name="email_join_error_password_strength_weak">パスワードが安全性が低いです。アカウントの安全の為、パスワードを変更してください。</string>
+    <string name="email_join_message_security">"アカウントの安全のためパスワードは文字・数字・記号の全てを含み6-16文字で入力してください。
+入力したメールアドレスはパスワードとしてご利用頂けません。"</string>
+    <string name="email_join_nickname">ニックネーム*</string>
+    <string name="email_join_nickname_hint">ニックネームを入力（20文字以内）</string>
+    <string name="email_join_password">パスワード*</string>
+    <string name="email_join_password_hint">パスワードを入力（6~16文字）</string>
+    <string name="email_join_password_not_allowed">利用不可</string>
+    <string name="email_join_password_strong">パスワードの強度:高</string>
+    <string name="email_join_password_weak">パスワードの強度:低</string>
+    <string name="email_join_retype_password">パスワ–ド再入力*</string>
+    <string name="email_join_retype_password_hint">パスワードを再入力（6~16文字）</string>
+    <string name="email_login_email_hint">メールアドレス</string>
+    <string name="email_login_error_check">"メールアドレスまたはパスワードを
+もう一度ご確認ください。"</string>
+    <string name="email_login_error_invalid">"入力したメールアドレスは
+無効なメールアドレスです。"</string>
+    <string name="email_login_error_ip_block">ブロックされたIPアドレスです。</string>
+    <string name="email_login_error_not_registered">"入力したメールアドレスは
+登録されていません。"</string>
+    <string name="email_login_error_password_incorrect">"パスワードが間違っています。
+再度入力して下さい。"</string>
+    <string name="email_login_error_unconfirmed">メールアドレスが認証されていません。メールアドレスの認証を完了してください。</string>
+    <string name="email_login_error_unknown">"システムエラーが発生しました。
+しばらくしてからもう一度お試しください。"</string>
+    <string name="email_login_forgot_password">パスワードをお忘れですか？</string>
+    <string name="email_login_log_in">ログイン</string>
+    <string name="email_login_password_hint">パスワード</string>
+    <string name="email_login_sign_up">会員登録</string>
+    <string name="email_message_verify_etc_fail">"認証メールを送信できませんでした。
+メールアドレスを確認してください。"</string>
+    <string name="email_message_verify_network_fail">"認証メールを送信できませんでした。
+ネットワーク状況をご確認の上、もう一度お試しください。"</string>
+    <string name="email_message_verify_success">"認証メールを送信しました。
+リンクをクリックして60分以内に認証を完了してください。
+リンクの期限は60分です。"</string>
+    <string name="email_reset_password">パスワード変更</string>
+    <string name="email_reset_password_message">パスワードをお忘れですか？</string>
+    <string name="email_reset_password_message_detail">"パスワードを再設定するためのリンクを送信します。
+XOYに登録する際に使用したメールアドレスを入力してください。"</string>
+    <string name="email_reset_password_more_help">何かお困りですか？</string>
+    <string name="email_reset_sent_mail">メールを送信しました。</string>
+    <string name="email_verify">認証</string>
+    <string name="empty_comments">投稿したコメントがありません。</string>
+    <string name="empty_downloads">"一時保存された作品が
+ありません"</string>
+    <string name="empty_favorites">お気に入りに登録された作品がありません。お気に入りに登録すると作品の更新情報が届きます。</string>
+    <string name="empty_recents">履歴がありません。</string>
+    <string name="empty_string" />
+    <string name="empty_subscribe_download_list">"お気に入りした作品の中で追加ダウンロードできるエピソードがありません。ダウンロードできない作品または既にダウンロードしている可能性があります。ご確認ください。 
+他の作品もお気に入りしましょう!"</string>
+    <string name="end_ep">～まで</string>
+    <string name="episodelist_sharepromotion_list_unlock_remain">"%1$d日後読める
+シェアすると先読み可能"</string>
+    <string name="episodelist_sharepromotion_list_unlocked">先読み可能</string>
+    <string name="episodelist_sharepromotion_share_dialog">シェアすると先読み可能</string>
+    <string name="episodelist_sharepromotion_tooltip">シェアして先読み</string>
+    <string name="episodes_translation_status">"Translated Episodes : 
+%1$d out of %2$d"</string>
+    <string name="error_camera_connection">"エラーが発生しました。
+カメラ機能が一時的に使用できません。しばらくしてからもう一度お試しください。"</string>
+    <string name="error_social_login">"ログインに失敗しました。
+%1$s アカウントでのログインに失敗しました。"</string>
+    <string name="exo_controls_fastforward_description">Fast forward</string>
+    <string name="exo_controls_next_description">Next track</string>
+    <string name="exo_controls_pause_description">Pause</string>
+    <string name="exo_controls_play_description">Play</string>
+    <string name="exo_controls_previous_description">Previous track</string>
+    <string name="exo_controls_rewind_description">Rewind</string>
+    <string name="exo_controls_stop_description">Stop</string>
+    <string name="facebook_app_id">1754111344847799</string>
+    <string name="facebook_authorities">com.facebook.app.FacebookContentProvider1754111344847799</string>
+    <string name="fan_trans_header">These are translated BY webtoon readers FOR webtoon readers!</string>
+    <string name="fan_trans_highlight_1">BY</string>
+    <string name="fan_trans_highlight_2">FOR</string>
+    <string name="fan_trans_image_server">https://webtoon-phinf.pstatic.net</string>
+    <string name="fan_translation">Fan Translation</string>
+    <string name="favorite_exceed_count_challenge">XOYリーグ作品は最大100作品までお気に入り登録できます。</string>
+    <string name="favorite_exceed_count_fan_trans">ファン翻訳作品は最大100件までお気に入り登録できます。</string>
+    <string name="favorite_exceed_count_webtoon">作品は最大100件までお気に入りに登録できます。</string>
+    <string name="favorites">お気に入り</string>
+    <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
+    <string name="findout_more">詳しく見る</string>
+    <string name="first_episode">一話から読む</string>
+    <string name="flavorScheme">xoy</string>
+    <string name="flurry_api_key">2ZNC9HPSTX3RV7MD6P4S</string>
+    <string name="ga_trackingId">UA-83539016-4</string>
+    <string name="gak_api_path">/v1/api</string>
+    <string name="gak_host_default">gak.webtoons.com</string>
+    <string name="gcm_app_number">300235649223</string>
+    <string name="gcm_defaultSenderId">300235649223</string>
+    <string name="genres">ジャンル</string>
+    <string name="go_to_promoted_webtoon">おすすめ作品を見る</string>
+    <string name="google_api_key">AIzaSyBn8db9uQdj2T-qlJe8X4EB2PbEWmfAwto</string>
+    <string name="google_app_id">1:300235649223:android:82de70e52e6c1eea</string>
+    <string name="google_crash_reporting_api_key">AIzaSyBn8db9uQdj2T-qlJe8X4EB2PbEWmfAwto</string>
+    <string name="google_server_app_id">300235649223-he9neckugksoun8hugc967n2peeq9ioh.apps.googleusercontent.com</string>
+    <string name="google_server_app_secret">TSurcPMdUoMuUvcTZrE6v1R3</string>
+    <string name="google_storage_bucket">xoywebtoon-142208.appspot.com</string>
+    <string name="home">ホーム</string>
+    <string name="home_section_best_comment">ベストコメント</string>
+    <string name="home_section_best_cut">ベストコマ</string>
+    <string name="home_section_challenge">XOYリーグ話題作</string>
+    <string name="home_section_genres">ジャンル</string>
+    <string name="home_section_go_to_mywebtoon">マイリストへ</string>
+    <string name="home_section_legendary_for_new">ようこそ！</string>
+    <string name="home_section_login_slogan">ログインするともっと楽しくなる！</string>
+    <string name="home_section_my">マイリスト</string>
+    <string name="home_section_my_favorite_genre">好きなジャンル</string>
+    <string name="home_section_my_loading">少々お待ちください。マイリストを読み込んでいます。</string>
+    <string name="home_section_new">新作</string>
+    <string name="home_section_new_more" />
+    <string name="home_section_personal_recommend">あなたにピッタリ!</string>
+    <string name="home_section_short_ranking">ランキング</string>
+    <string name="home_section_today">今日のマンガ</string>
+    <string name="home_section_webtoons_count">%1$d 作品</string>
+    <string name="home_section_webtoons_pick">運営のおすすめ作品!</string>
+    <string name="horror_type3_calling">ビデオ通話の着信</string>
+    <string name="horror_type3_ghost">小林</string>
+    <string name="hot_and_new">新作</string>
+    <string name="hoursAgo">%1$d時間前</string>
+    <string name="interest_sort_coach">"お気に入りした作品や
+最近読んだ作品が上に表示されます!"</string>
+    <string name="just_now">ちょうど今</string>
+    <string name="label_continue">続ける</string>
+    <string name="lan_app_name">LINE_WEBTOON_JP</string>
+    <string name="language_en">英語</string>
+    <string name="language_id">インドネシア語</string>
+    <string name="language_not_matching_contents">このコンテンツは%1$sでお楽しみ頂けます。続けて読むにはメニュー > 設定 > オプション > コンテンツ言語で設定を変更してください。</string>
+    <string name="language_th">タイ語</string>
+    <string name="language_zh_hans">中国語(簡体)</string>
+    <string name="language_zh_hant">中国語(繁体)</string>
+    <string name="latest_version">最新バージョン%1$s</string>
+    <string name="line_auth_scheme">line.1478570638</string>
+    <string name="line_incorrect_account">"ログインに失敗しました。
+メールアドレスまたはパスワードをもう一度ご確認ください。"</string>
+    <string name="login">ログイン</string>
+    <string name="login_or">またはSNSアカウントでログイン</string>
+    <string name="login_recommend_msg_on_line_th">หากต้องการเล่นกิจกรรมต่างๆ เข้าสู่ระบบด้วย LINE เลย!</string>
+    <string name="login_skip">スキップ</string>
+    <string name="login_to_email">使用邮箱登录</string>
+    <string name="login_to_phone">使用手机号登录</string>
+    <string name="login_type_email">Email</string>
+    <string name="login_type_facebook">Facebook</string>
+    <string name="login_type_google">Google</string>
+    <string name="login_type_line">LINE</string>
+    <string name="login_type_phone">Phone</string>
+    <string name="login_type_qq">QQ</string>
+    <string name="login_type_twitter">Twitter</string>
+    <string name="login_type_wechat">微信</string>
+    <string name="login_type_weibo">Weibo</string>
+    <string name="login_with_facebook_th">เข้าสู่ระบบด้วย Facebook</string>
+    <string name="login_with_line_id">Masuk dengan LINE</string>
+    <string name="login_with_line_th">เข้าสู่ระบบด้วย LINE</string>
+    <string name="login_with_twitter_th">เข้าสู่ระบบด้วย Twitter</string>
+    <string name="logout_caution">"お気に入りに登録した作品はアカウントに保存されます。
+最近チェックした作品および一時保存した作品はデバイスに保存されます。"</string>
+    <string name="logout_caution_title">ログアウトについて</string>
+    <string name="mat_advertiser_id">189983</string>
+    <string name="mat_conversion_key">b15eb4989b3c1e869867b725d800d43c</string>
+    <string name="messenger_send_button_text">Send</string>
+    <string name="minsAgo">%1$d分前</string>
+    <string name="more">その他</string>
+    <string name="more_login_info">ログインするともっと楽しくなる！</string>
+    <string name="move_top">トップ</string>
+    <string name="my_comments_require_login">"コメントを見るには
+ログインが必要です。"</string>
+    <string name="my_download">一時保存作品</string>
+    <string name="my_favorite_require_login">"お気に入りに登録した作品を
+見るにはログインが必要です。"</string>
+    <string name="my_recents">履歴</string>
+    <string name="my_tutorial_comment_desc">投稿した&lt;br>&lt;font color=\"#00d92d\">すべてのコメント&lt;/font>を&lt;br>確認することが&lt;br>できます。</string>
+    <string name="my_tutorial_download_desc">&lt;font color=\"#00d92d\">一時保存作品&lt;/font>は&lt;br>&lt;font color=\"#00d92d\">オフライン&lt;/font>でも&lt;br>読むことが&lt;br>できます。</string>
+    <string name="my_tutorial_recents_desc">&lt;font color=\"#00d92d\">最近チェック&lt;/font>した&lt;br>&lt;font color=\"#00d92d\">エピソード&lt;/font>を&lt;br>見ることが&lt;br>できます。</string>
+    <string name="my_tutorial_subscribe_desc">&lt;font color=\"#00d92d\">お気に入り作品&lt;/font>と&lt;br>&lt;font color=\"#00d92d\">更新通知&lt;/font>を&lt;br>&lt;font color=\"#00d92d\">管理することが&lt;/font>&lt;br>できます。</string>
+    <string name="my_webtoons">マイリスト</string>
+    <string name="need_permission_camera">カメラ機能を使用するエピソードです。</string>
+    <string name="nelo2_app_id">LINEWEBTOON_ANDROID_JP</string>
+    <string name="nelo2_server_ndk_port">80</string>
+    <string name="nelo2_server_port">10006</string>
+    <string name="nelo2_server_url">nelo2-col.nhncorp.com</string>
+    <string name="neoid_client_id">Pmf4vrzXXugwVbW1WYIw</string>
+    <string name="next_episode_tool_tip">"次のエピソードを
+読むには
+ここをタップしてください。"</string>
+    <string name="nick_check_availability">IDチェック</string>
+    <string name="nick_error_duplicated">指定されたニックネームは既に使用されています。</string>
+    <string name="nick_error_include_word">使用できない文字・記号が含まれています。</string>
+    <string name="nick_error_maxlength">20文字以下で入力して下さい。</string>
+    <string name="nick_guide_msg">"XOYで使用するニックネームを入力して下さい.
+- 半角英数字・記号を組み合わせて、20文字以内で入力してください。"</string>
+    <string name="nick_save">保存</string>
+    <string name="nni_app_id">xoywebtoon</string>
+    <string name="no">いいえ</string>
+    <string name="no_available_apps">利用可能なアプリがありません。</string>
+    <string name="no_internet_connection">ネットワークに接続できません。</string>
+    <string name="no_internet_connection_msg">ネットワークの接続状況を確認してください。</string>
+    <string name="no_thanks">あとで</string>
+    <string name="not_available_content">ダウンロードできない作品です。</string>
+    <string name="not_found_challenge_title">"エラーが発生しました。
+しばらくしてからもう一度お試しください。"</string>
+    <string name="not_yet_translated">Not yet translated</string>
+    <string name="noti_remind_content_0">%1$sをもう一度読みにいこう！</string>
+    <string name="noti_remind_content_1">新しいエピソードが続々と更新されています！</string>
+    <string name="noti_remind_title">XOYリマインダー</string>
+    <string name="noti_subscribed_download">ダウンロード</string>
+    <string name="notice">お知らせ</string>
+    <string name="number_of_fans">%1$d fans</string>
+    <string name="ok">OK</string>
+    <string name="on_hiatus_badge">休載中</string>
+    <string name="password_toggle_content_description">Toggle password visibility</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="patreon">Become a Patron</string>
+    <string name="patreon_ask_msg">"気に入りましたか？
+サポーターになって作家を応援しよう！"</string>
+    <string name="patreon_information">Patreon Information</string>
+    <string name="patreon_loading_failed">Failed to load data, Please try again later</string>
+    <string name="patreon_people">%1$d Patrons</string>
+    <string name="permission_deny_alert">ご利用には許可が必要です。</string>
+    <string name="permission_deny_dont_ask_again_guide">ご利用いただくには許可が必要です。アプリ情報> 許可> %1$s をオンにしてください。</string>
+    <string name="pn_input_verification_code">输入收到的验证码（6位）</string>
+    <string name="pn_join_dialog_send_confirm_title">注册成功</string>
+    <string name="pn_join_error_check_pn">请再次确认手机号码</string>
+    <string name="pn_join_error_check_verification">验证码错误</string>
+    <string name="pn_join_error_duplicate_pn">此号码已被注册</string>
+    <string name="pn_join_error_password_email_same">已输入的手机号码不能作为密码使用。</string>
+    <string name="pn_join_message_security">"为安全起见，请输入包含英文字母、数字、特殊符号在内的 6~16位密码
+已输入的手机号码不能作为密码使用。"</string>
+    <string name="pn_join_nickname_hint">请输入昵称（20位）</string>
+    <string name="pn_join_password_hint">请输入密码（6~16位）</string>
+    <string name="pn_join_pn">手机号码 *</string>
+    <string name="pn_join_success_dialog_message">注册成功，可立即登录</string>
+    <string name="pn_join_vn">验证码 *</string>
+    <string name="pn_login_error_invalid">此号码被限制登录</string>
+    <string name="pn_login_error_not_registered">此号码尚未注册</string>
+    <string name="pn_login_error_password_incorrect">请再次确认手机号码和密码</string>
+    <string name="pn_login_pn_hint">输入手机号码</string>
+    <string name="pn_reset_password_message">"重新设置密码吗？
+这次别忘记哦！"</string>
+    <string name="pn_verification_button_request">获取验证码</string>
+    <string name="pn_verification_button_request_again">重新发送</string>
+    <string name="pn_verification_code_time_left">剩余时间：%1$s</string>
+    <string name="preference_app_version">アプリバージョン%1$s</string>
+    <string name="preference_cache_title">キャッシュ削除</string>
+    <string name="preference_content_language">言語</string>
+    <string name="preference_content_quality">画面解像度</string>
+    <string name="preference_email_best_comments">ベストコメント/コメント</string>
+    <string name="preference_email_news_events">お知らせ/イベント</string>
+    <string name="preference_email_notifications">メール通知</string>
+    <string name="preference_email_subscription_updates">お気に入り</string>
+    <string name="preference_help">ヘルプ</string>
+    <string name="preference_noti_best_comment">ベストコメント</string>
+    <string name="preference_noti_challenge_update">XOYリーグ作品更新</string>
+    <string name="preference_noti_event">お知らせ＆イベント</string>
+    <string name="preference_noti_favorites_update">作品更新</string>
+    <string name="preference_noti_notice">お知らせ</string>
+    <string name="preference_noti_release">新作</string>
+    <string name="preference_noti_reminder">リマインダー</string>
+    <string name="preference_noti_replies">返信</string>
+    <string name="preference_noti_sleep_end">終了</string>
+    <string name="preference_noti_sleep_mode">おやすみモード</string>
+    <string name="preference_noti_sleep_mode_desc">通知をオフにする。</string>
+    <string name="preference_noti_sleep_mode_time">時間指定</string>
+    <string name="preference_noti_sleep_start">開始</string>
+    <string name="preference_opensource">オープンソースライセンス</string>
+    <string name="preference_share_timeline">タイムラインでシェア</string>
+    <string name="preference_terms_of_use">利用規約</string>
+    <string name="preference_version">アプリバージョン</string>
+    <string name="project_id">xoywebtoon-142208</string>
+    <string name="promotion_preview_event">EVENT</string>
+    <string name="pull_to_next_ep">次のエピソードを見るにはスクロールしてください。</string>
+    <string name="qq_app_id">1102070195</string>
+    <string name="qq_app_secret">KVhm0XFyXzgjFNF6</string>
+    <string name="quality_high">高い</string>
+    <string name="quality_low">低い</string>
+    <string name="qzone">QQ空间</string>
+    <string name="rate">評価する</string>
+    <string name="remove_favorite">"お気に入りを
+解除しました。"</string>
+    <string name="report">報告</string>
+    <string name="report_completed">"報告が
+完了しました。
+ありがとう
+ございました。"</string>
+    <string name="report_confirm">"この作品を不適切なコンテンツ
+として報告しますか"</string>
+    <string name="report_copy_infringement">［報告］機能について</string>
+    <string name="report_help_click">詳細はこちら</string>
+    <string name="retry">リトライ</string>
+    <string name="rising_vote">投票する</string>
+    <string name="rising_vote_disable">投票できません。</string>
+    <string name="rising_vote_done">投票しました</string>
+    <string name="rising_vote_enable">投票できます。</string>
+    <string name="s1">Save image</string>
+    <string name="s2">Allow Ad to store image in Picture gallery?</string>
+    <string name="s3">Accept</string>
+    <string name="s4">Decline</string>
+    <string name="s5">Create calendar event</string>
+    <string name="s6">Allow Ad to create a calendar event?</string>
+    <string name="search">検索</string>
+    <string name="search_challenge_result">&lt;font color=\"#000000\">%1$d&lt;/font> &lt;font color=\"#ff848484\">件のXOYリーグ作品&lt;/font></string>
+    <string name="search_hint">作品名・作者名で検索</string>
+    <string name="search_menu_title">Search</string>
+    <string name="search_no_results_found">検索結果が見つかりませんでした。</string>
+    <string name="search_tab_names_1">@string/all</string>
+    <string name="search_tab_names_2">オフィシャル作品</string>
+    <string name="search_tab_names_3">@string/challenge_league</string>
+    <string name="search_webtoon_result">&lt;font color=\"#000000\">%1$d&lt;/font> &lt;font color=\"#ff848484\">件の作品&lt;/font></string>
+    <string name="send">送信</string>
+    <string name="set_star_score_comment">左から右にスワイプしてください</string>
+    <string name="setting">設定</string>
+    <string name="setting_license_url">file:///android_asset/License_GlobalWebtoon_Android.html</string>
+    <string name="setting_log_in_account">ログインアカウント</string>
+    <string name="setting_log_out">ログアウト</string>
+    <string name="setting_user_name">ニックネーム</string>
+    <string name="share">シェアする</string>
+    <string name="share_app_download">XOY Appをシェアする</string>
+    <string name="share_app_download_link">http://m.xoy.webtoons.com/appDownload</string>
+    <string name="share_app_message">毎日更新される豊富なジャンルのマンガが読み放題！</string>
+    <string name="share_app_message_detail">"毎日更新される豊富なジャンルのマンガが読み放題！
+1.オフラインでも作品が読める！
+2.更新通知を受け取れる！そのほかにも便利な機能が盛りだくさん！
+ http://m.xoy.webtoons.com/appDownload"</string>
+    <string name="share_episode">エピソードをシェアする</string>
+    <string name="share_like_confirm_message">Likeした作品を%1$sで自動シェアしますか？ [XOY>その他＞設定]から設定を変更することができます。</string>
+    <string name="share_like_confirm_title">%1$sのタイムラインでシェアする</string>
+    <string name="share_like_on_sns_timeline">%1$sのタイムラインでシェアする</string>
+    <string name="share_like_to_timeline">Likeをタイムラインでシェアする</string>
+    <string name="share_line_slogan_episode">今すぐXOYで%1$sを読もう！</string>
+    <string name="share_line_slogan_title">XOYで%1$sを読みました！</string>
+    <string name="share_message_etc_episode">"%1$s 刚看到更新激动了半天！
+%2$s"</string>
+    <string name="share_message_etc_title">"%1$s 来来来我安利你一部超好看的漫画！
+%2$s"</string>
+    <string name="share_message_line_episode">"今すぐ XOYで&lt;%1$s> %2$sを読もう！
+%3$s"</string>
+    <string name="share_message_line_title">"XOYで &lt;%1$s> を読みました！
+%2$s"</string>
+    <string name="share_message_twitter_episode">"\#%1$s %2$sお見逃しなく！
+%3$s #XOY"</string>
+    <string name="share_message_twitter_title">"\#%1$s 毎日がもっと楽しくなるマンガ！
+%2$s #XOY"</string>
+    <string name="share_message_weibo_episode">"%1$s - %2$s 刚看到更新激动了半天！@WEBTOON每日漫画 
+%3$s"</string>
+    <string name="share_message_weibo_title">"%1$s 来来来我安利你一部超好看的漫画@WEBTOON每日漫画 
+%2$s"</string>
+    <string name="share_timeline_guide">「Like」を友達にシェアしよう</string>
+    <string name="share_wechat_instance_msg">微信好友</string>
+    <string name="sign_in">サインイン</string>
+    <string name="skip_already_exist">すでに一時保存したエピソードを除き、ダウンロードしています。</string>
+    <string name="sns_post_limit_exceed">Post制限を超過しました。少々お待ちください。</string>
+    <string name="social_login_recommend_msg">LINEアカウントでログインすると、Likeした作品をLINEのタイムラインでシェアすることができます。</string>
+    <string name="spinner_edit_count">%1$d 選択済み</string>
+    <string name="spinner_edit_title">項目を選択</string>
+    <string name="start_ep">～から</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="storage">ストレージ</string>
+    <string name="submit">送信</string>
+    <string name="subscribe_induce">"お気に入りに登録して、
+作品の更新情報を
+逃さずチェックしよう！"</string>
+    <string name="subscribed_download_age_degree_warning">"選択された作品の中に成人向けコンテンツが含まれているため、19歳未満の方は利用できません。
+あなたは19歳以上ですか？"</string>
+    <string name="subscribed_download_download">ダウンロード</string>
+    <string name="subscribed_download_download_all">すべてダウンロード</string>
+    <string name="subscribed_download_noti_complete">%1$d ダウンロード完了</string>
+    <string name="subscribed_download_noti_fail">%1$d ダウンロード未完了</string>
+    <string name="subscribed_download_noti_title">%1$s (エピソード%2$d)</string>
+    <string name="subscribed_download_noti_titles_and_more">%1$s 他 %2$d 作品</string>
+    <string name="subscribed_download_select_all">すべて選択</string>
+    <string name="subscribed_download_selected">&lt;font color=\"#00DA2E\">%1$d&lt;/font> 選択したエピソード数</string>
+    <string name="subscribed_download_selected_nothing_toast">ダウンロードするエピソードを選択してください。</string>
+    <string name="subscribed_download_starting">"選択された%1$d 個のエピソードをダウンロードします。
+ ダウンロードアラームをご確認ください。"</string>
+    <string name="subscribed_download_title">ダウンロードする作品を選択</string>
+    <string name="subscribed_download_wifi_off">Wi-Fiネットワークに接続していません。モバイルデータ通信を使用してダウンロードしますか？</string>
+    <string name="subscribed_ticker_download_complete">ダウンロード完了: %1$s (エピソード%2$d)</string>
+    <string name="subscribed_ticker_download_fail">ダウンロード失敗: %1$s (エピソード%2$d)</string>
+    <string name="subscribed_ticker_downloading">ダウンロード中: %1$s (エピソード%2$d)</string>
+    <string name="suggest_add_favorite">この作品が気に入ったらお気に入りに登録してみよう！</string>
+    <string name="suggest_effecttoon_update_msg">この作品はさまざまな効果が適用されています。さらに作品を楽しむためにアプリを最新バージョンにアップデートしますか？</string>
+    <string name="suggest_my_download">[マイリスト > 一時保存作品]で作品をオフラインで読むことができます。</string>
+    <string name="suggest_my_download_highlight">[マイリスト > 一時保存作品]</string>
+    <string name="suggest_viewer_download">"一時保存するとオフラインでも
+作品を楽しむことができます！"</string>
+    <string name="sure">登録する</string>
+    <string name="tab_menu_challenge">XOYリーグ</string>
+    <string name="tab_menu_daily">マンガ</string>
+    <string name="tab_menu_home">ホーム</string>
+    <string name="tab_menu_more">その他</string>
+    <string name="tab_menu_my">マイリスト</string>
+    <string name="test_login_id_email">dev.linewebtoon@gmail.com</string>
+    <string name="test_login_id_pn">0101231234</string>
+    <string name="test_login_pw_email">dnpqxns12!@</string>
+    <string name="test_login_pw_pn">asdf123</string>
+    <string name="ticker_download_complete">ダウンロードが完了しました:%1$s(%2$d話～%3$d話）</string>
+    <string name="ticker_download_fail">ダウンロードに失敗しました:%1$s(%2$d話～%3$d話）</string>
+    <string name="ticker_download_wait">待機中:%1$s（第%2$d話～第%3$d話）</string>
+    <string name="ticker_downloading">ダウンロードしています:%1$s(%2$d話～%3$d話）</string>
+    <string name="tip">Tips.</string>
+    <string name="title_like">Like</string>
+    <string name="title_related">おすすめ作品</string>
+    <string name="title_summary">あらすじ</string>
+    <string name="title_type_webtoon">マンガ</string>
+    <string name="title_webtoon_daily">デイリー</string>
+    <string name="title_webtoon_genre">ジャンル</string>
+    <string name="top_rated">ランキング</string>
+    <string name="translated_episodes">%1$d episodes</string>
+    <string name="translation_language_icon_url">http://webtoons.static.naver.net/image/mobile/translate/%s_phone.png</string>
+    <string name="translation_make_report">報告する</string>
+    <string name="translation_report_correction">正しくない翻訳または自動翻訳</string>
+    <string name="translation_report_disable">これ以上の訂正は必要ありません。追加の編集を無効にしてください。</string>
+    <string name="translation_report_error">表示エラー</string>
+    <string name="translation_report_error_description">（例:セリフが表示されない、テキストが重複している、画質が悪いなど）</string>
+    <string name="translation_report_failed">失敗しました。もう一度お試しください。</string>
+    <string name="translation_report_guide">項目を選択するか、もしくはコメントを入力してください。</string>
+    <string name="turn_on">オン</string>
+    <string name="tutorial_download">アイコンをクリックするとダウンロードページに移動します。</string>
+    <string name="twitter_api_key">c8toxE1LlJWj8vhatrVuOYtws</string>
+    <string name="twitter_api_secret">0LI18QQ9XpH0QKKiHc9rtKzFuQ6bdyr4wK5yiC9ZPM6nnnisgo</string>
+    <string name="unavailable_challenge_title_alert">この作品は現在削除されたか、もしくはご利用になれない作品です。</string>
+    <string name="unavailable_webtoon_msg">このマンガは現在翻訳版でお楽しみ頂けません。</string>
+    <string name="unknown_error">エラーが発生しました。</string>
+    <string name="up">UP</string>
+    <string name="update">アップデート</string>
+    <string name="update_everyday">更新曜日：毎日</string>
+    <string name="updated_date">更新</string>
+    <string name="url_facebook_share">https://www.facebook.com/sharer/sharer.php?u=%s</string>
+    <string name="url_neoid_check_token">http://global.apis.naver.com/lineWebtoon/webtoon/checkSession.json</string>
+    <string name="url_neoid_email_login">http://global.apis.naver.com/app/member/emailLogin</string>
+    <string name="url_neoid_finish">http://global.apis.naver.com/app/member/finish</string>
+    <string name="url_neoid_get_profile">http://global.apis.naver.com/app/member/getProfile</string>
+    <string name="url_neoid_idpw_login">https://global.apis.naver.com/lineWebtoon/webtoon/loginById.json</string>
+    <string name="url_neoid_revoke_token">https://global.apis.naver.com/lineWebtoon/webtoon/logout.json</string>
+    <string name="url_neoid_token_login">https://global.apis.naver.com/lineWebtoon/webtoon/login.json</string>
+    <string name="url_neoid_webview_permitted">http://global.apis.naver.com</string>
+    <string name="url_scheme_line_market">market://details?id=jp.naver.line.android</string>
+    <string name="url_scheme_line_share">line://msg/text/</string>
+    <string name="url_scheme_qq_market">market://details?id=com.qzone</string>
+    <string name="url_scheme_renren_market">market://details?id=com.renren.mobile.android</string>
+    <string name="url_scheme_twitter_share">twitter://post?message=%s</string>
+    <string name="url_scheme_wechat_market">market://details?id=com.tencent.mm</string>
+    <string name="url_scheme_weibo_market">market://details?id=com.sina.weibo</string>
+    <string name="url_twitter_share">https://twitter.com/intent/tweet?source=webclient&amp;text=%s</string>
+    <string name="veiwer_fan_trans_ask_estimate">"This is an unofficial translation by fans. 
+ Did you like it?"</string>
+    <string name="veiwer_fan_trans_ask_try_translate">Would you like to be the first one to try? Visit Webtoon Translate via Web!</string>
+    <string name="veiwer_fan_trans_caution_msg">This is translated into %1$s by fans.</string>
+    <string name="veiwer_fan_trans_contributors_info">Participated Contributors %1$s</string>
+    <string name="veiwer_fan_trans_good">Good!</string>
+    <string name="veiwer_fan_trans_link">http://translate.webtoons.com</string>
+    <string name="veiwer_fan_trans_no_translation_msg">Sorry! There is currently no translation available for this episode.</string>
+    <string name="verification_mailing_fail" />
+    <string name="verification_mailing_fail_desc" />
+    <string name="verification_mailing_fail_desc_title" />
+    <string name="verification_mailing_go_home" />
+    <string name="verification_mailing_go_settings" />
+    <string name="verification_mailing_loading" />
+    <string name="verification_mailing_success" />
+    <string name="viewer_best_comments_title">ベストコメント</string>
+    <string name="viewer_share_slogan">"作品をシェアして
+みんなに広めよう！"</string>
+    <string name="viewer_share_slogan_fear">恐怖の世界へ友達を招待しよう。</string>
+    <string name="viewer_share_slogan_rcn">"好心塞…说好的分享呢？
+ 宝宝心里苦"</string>
+    <string name="viewer_suggest_add_favorite">"お気に入りに登録すると
+更新通知を受け取ることができます。"</string>
+    <string name="viewer_suggest_add_favorite_fear">恐怖体験、まだまだ続くよ</string>
+    <string name="viewer_update_day">更新曜日：毎週 %1$s</string>
+    <string name="webtoon_genre_ranking">ランキング</string>
+    <string name="webtoons">マンガ</string>
+    <string name="wechat_app_id">wx44a8e8e80989d2fa</string>
+    <string name="wechat_app_not_found">手机上没有安装微信App。要安装微信App吗？</string>
+    <string name="wechat_app_secret">ce4ae33dfc9befaded6012a7b14d23da</string>
+    <string name="weekday_delimiter">, </string>
+    <string name="weekday_fri" />
+    <string name="weekday_mon" />
+    <string name="weekday_sat" />
+    <string name="weekday_sun" />
+    <string name="weekday_thu" />
+    <string name="weekday_tue" />
+    <string name="weekday_wed" />
+    <string name="weibo_app_id">4238129788</string>
+    <string name="weibo_app_not_found">请安装微博应用</string>
+    <string name="weibo_app_secret">6700e7b07a643e02a6a65ed30dd97eec</string>
+    <string name="weibo_redirect_url">http://m.webtoons.com/oauth/weiboCallback</string>
+    <string name="yes">はい</string>
+</resources>

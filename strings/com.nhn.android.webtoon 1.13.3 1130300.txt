@@ -1,0 +1,1615 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter your code.</string>
+    <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_like_button_liked">Liked</string>
+    <string name="com_facebook_like_button_not_liked">Like</string>
+    <string name="com_facebook_loading">Loading…</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_loginview_log_in_button">Log in</string>
+    <string name="com_facebook_loginview_log_in_button_long">Log in with Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="com_facebook_send_button_text">Send</string>
+    <string name="com_facebook_share_button_text">Share</string>
+    <string name="com_facebook_tooltip_default">"New! You're in control - choose what info you want to share with apps."</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="exo_controls_fastforward_description">Fast forward</string>
+    <string name="exo_controls_next_description">Next track</string>
+    <string name="exo_controls_pause_description">Pause</string>
+    <string name="exo_controls_play_description">Play</string>
+    <string name="exo_controls_previous_description">Previous track</string>
+    <string name="exo_controls_rewind_description">Rewind</string>
+    <string name="exo_controls_stop_description">Stop</string>
+    <string name="messenger_send_button_text">Send</string>
+    <string name="search_menu_title">Search</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="appcore_dialog_btn_agree">Agree</string>
+    <string name="appcore_dialog_btn_cancel">Cancel</string>
+    <string name="appcore_dialog_btn_ok">OK</string>
+    <string name="appcore_dialog_btn_retry">Retry</string>
+    <string name="appcore_dialog_msg_3g_notsupport">This device does not support 3G service. Calls, messages and other similar features are unavailable.</string>
+    <string name="appcore_dialog_msg_address_error">"Cannot open page
+as the URL address is either incorrect,
+changed, or deleted."</string>
+    <string name="appcore_dialog_msg_auth_error">"Error in authentication information or certification.
+Please check your credential details."</string>
+    <string name="appcore_dialog_msg_location_info_agree">[%s] requests to use your current location info. Do you agree?</string>
+    <string name="appcore_dialog_msg_network">"Cannot connect to network.
+After checking the network connection,
+please try again."</string>
+    <string name="appcore_dialog_msg_normal_error">An error has occurred on the web service.</string>
+    <string name="appcore_dialog_msg_server_error">"Cannot open page due to an error in the server.
+Please check with the server manager."</string>
+    <string name="appcore_dialog_msg_temp_network_error">"A temporary error has occurred on the network.
+Please try again later."</string>
+    <string name="appcore_dialog_title_3g_notsupport">3G unsupported alert</string>
+    <string name="appcore_dialog_title_address_error">Address error</string>
+    <string name="appcore_dialog_title_auth_error">Authentication error</string>
+    <string name="appcore_dialog_title_location_info_agree">Confirm to use location info</string>
+    <string name="appcore_dialog_title_network">Connect to network</string>
+    <string name="appcore_dialog_title_normal_error">General Error</string>
+    <string name="appcore_dialog_title_server_error">Server error</string>
+    <string name="appcore_msg_error_upload_file_failed">Error! Failed to upload file.</string>
+    <string name="appcore_msg_no_app_for_uri">This action cannot be executed as the app to process the URI does not exist.</string>
+    <string name="appcore_msg_progress">Progress..</string>
+    <string name="appcore_msg_wrong_uri_scheme_format">The URI scheme format is invalid.</string>
+    <string name="appcore_perm_btn_allow">Allow</string>
+    <string name="appcore_perm_btn_deny">Deny</string>
+    <string name="appcore_perm_msg_request_allow" formatted="false">"From '%s' the user's '%s' is requested to be accessed. Do you allow this?"</string>
+    <string name="appcore_perm_name_camera">Camera</string>
+    <string name="appcore_perm_name_mic">Michrophone</string>
+    <string name="appcore_perm_name_midi_device">MIDI devices</string>
+    <string name="appcore_perm_name_protected_media">Protected media</string>
+    <string name="appcore_perm_title_request">Request Permissions</string>
+    <string name="appcore_toast_deny_camera">You cannot use this feature as you have not granted permission to access the camera.</string>
+    <string name="appcore_toast_deny_file_attach">You cannot use this file attachment feature as you have not granted permission to access some parts of the device.</string>
+    <string name="appcore_toast_deny_location">Your current location info cannot be brought as the permission to access your location info has been denied.</string>
+    <string name="appcore_toast_deny_mic">You cannot use this feature as you have not granted permission to access the microphone.</string>
+    <string name="appcore_toast_deny_perm">You are not authorized to access the device.</string>
+    <string name="appcore_toast_deny_storage">File information cannot be used as the permission to access your external memory has been denied.</string>
+    <string name="minibrowser_loading_video">Video Loading...</string>
+    <string name="minibrowser_toast_msg_cannot_show_on_other_browser">Contents within this app are not available to be viewed in other browsers.</string>
+    <string name="minibrowser_toast_msg_not_exist_other_browser">No other browsers that can display the content exist.</string>
+    <string name="notice_close">Close</string>
+    <string name="notice_dont_show_agin_text">Do Not Show Again</string>
+    <string name="notice_list_check_details_by_button">Please check the details of the event by clicking this link below!</string>
+    <string name="notice_list_show_details">More</string>
+    <string name="notice_list_upadte_latest_version">Update Latest Version</string>
+    <string name="notice_list_using_latest_version">Latest Version</string>
+    <string name="notice_msg_no_items">No Notices.</string>
+    <string name="notice_msg_please_wait">Please wait.</string>
+    <string name="notice_name">Notices</string>
+    <string name="notice_popup_cancel">Cancel</string>
+    <string name="notice_popup_error_network">"Could not check notice.
+Please check your network."</string>
+    <string name="notice_popup_error_server_api">"Could not check notice.
+Please try again after a while."</string>
+    <string name="notice_popup_event_go">Move Now</string>
+    <string name="notice_popup_go">Move Now</string>
+    <string name="notice_popup_later">Update Later</string>
+    <string name="notice_popup_ok">OK</string>
+    <string name="notice_popup_update_now">Update Now</string>
+    <string name="notice_promotion_text">Do Not Show for %1$s days</string>
+    <string name="notice_type_event">event</string>
+    <string name="notice_type_normal">notice</string>
+    <string name="notice_type_update">update</string>
+    <string name="nloginresource_dpi">default</string>
+    <string name="nloginresource_signin_keyboard_switch_ko">Korean ></string>
+    <string name="nloginresource_signin_keyboard_switch_sp">Symbols ></string>
+    <string name="nloginglobal_otp_description_1">Please enter this One Time Password if prompted.</string>
+    <string name="app_name">Naver Webtoon</string>
+    <string name="com_kakao_account_cancel">Cancel</string>
+    <string name="com_kakao_account_cancel_tts">Cancel, Button</string>
+    <string name="com_kakao_alert_appKey">need to declare com.kakao.sdk.AppKey in your AndroidManifest.xml</string>
+    <string name="com_kakao_alert_install_kakaotalk">Please update KakaoTalk to the latest version.</string>
+    <string name="com_kakao_alert_uri_too_long">Failed to send message because it exceeds the message size limit. Please contact the app administrator.</string>
+    <string name="com_kakao_cancel_button">Cancel</string>
+    <string name="com_kakao_confirm_logout">Are you sure to log out from this app?</string>
+    <string name="com_kakao_confirm_unlink">Are you sure to unlink from this app?</string>
+    <string name="com_kakao_kakaostory_account">with KakaoStory</string>
+    <string name="com_kakao_kakaostory_account_tts">with KakaoStory, Button</string>
+    <string name="com_kakao_kakaotalk_account">with KakaoTalk</string>
+    <string name="com_kakao_kakaotalk_account_tts">with KakaoTalk, Button</string>
+    <string name="com_kakao_login_button">Log in with KakaoAccount</string>
+    <string name="com_kakao_login_button_tts">Log in with KakaoAccount, Button</string>
+    <string name="com_kakao_login_image_tts">Login with KakaoAccount, Image</string>
+    <string name="com_kakao_logout_button">Log out</string>
+    <string name="com_kakao_ok_button">OK</string>
+    <string name="com_kakao_other_kakaoaccount">with another KakaoAccount</string>
+    <string name="com_kakao_other_kakaoaccount_tts">with another KakaoAccount, Button</string>
+    <string name="com_kakao_profile_userId">Kakao User ID</string>
+    <string name="com_kakao_talk_chooser_text">Which version of KakaoTalk would you like to use?</string>
+    <string name="com_kakao_tokeninfo_button">Token Info</string>
+    <string name="com_kakao_unlink_button">Unlink</string>
+    <string name="language_code">ko</string>
+    <string name="naveroauthlogin_activity_name">Sign in with Naver</string>
+    <string name="naveroauthlogin_simpleid_add_str_desc">"Sign in faster and easier with
+Quick Sign-in account saved from
+other Naver Apps"</string>
+    <string name="naveroauthlogin_str_login_desc">Sign in &lt;font color=#08a600>%1$s&lt;/font> with Naver.</string>
+    <string name="naveroauthlogin_string_getting_token">Sign in with the account signed in to %1$s</string>
+    <string name="nloginglobal_adding_token">Adding a Quick Sign-in account.</string>
+    <string name="nloginglobal_common_cancel">Cancel</string>
+    <string name="nloginglobal_common_delete">Delete</string>
+    <string name="nloginglobal_common_just_login">No, not this time</string>
+    <string name="nloginglobal_common_ok">OK</string>
+    <string name="nloginglobal_common_signin">Sign in</string>
+    <string name="nloginglobal_deleting_token">Removing the Quick Sign-in account.</string>
+    <string name="nloginglobal_logout_id_deleted">The account has been removed. All the apps signed in with the account are going to sign out.</string>
+    <string name="nloginglobal_logout_toast_id_delete_fail">Failed to remove the account. Please try again.</string>
+    <string name="nloginglobal_logoutpopup_check_delete_all_id">Remove all</string>
+    <string name="nloginglobal_logoutpopup_check_delete_id">Remove this Quick Sign-in account</string>
+    <string name="nloginglobal_logoutpopup_ok">@string/nloginglobal_common_ok</string>
+    <string name="nloginglobal_otn_fail_dialog_cancel_str">Cancel</string>
+    <string name="nloginglobal_otn_fail_dialog_confirm_str">Retry</string>
+    <string name="nloginglobal_otn_fail_dialog_msg">Unable to connect. Would you like to retry?</string>
+    <string name="nloginglobal_otn_fail_dialog_msg_error">Error occurs. Would you like to retry?</string>
+    <string name="nloginglobal_otn_login_description_1">To sign in as the following username :</string>
+    <string name="nloginglobal_otn_login_description_2">--------</string>
+    <string name="nloginglobal_otn_login_description_3">please enter the code above onto the One-time Sign-in page.</string>
+    <string name="nloginglobal_otn_login_number_centent_1">----</string>
+    <string name="nloginglobal_otn_login_number_centent_2">----</string>
+    <string name="nloginglobal_otn_login_number_time_1">Remaining time</string>
+    <string name="nloginglobal_otn_login_number_time_2">--</string>
+    <string name="nloginglobal_otn_login_number_time_3">sec.</string>
+    <string name="nloginglobal_otn_login_number_title">One-time Sign-in Number</string>
+    <string name="nloginglobal_otn_progress_dialog_msg">loading One-time Login Number</string>
+    <string name="nloginglobal_otndesc_description_1">Just use the code generated from your smart phone to sign in Naver.</string>
+    <string name="nloginglobal_otndesc_description_2">Since there is no need to enter username and password, your sign-in information is safe and secure.</string>
+    <string name="nloginglobal_otndesc_description_title">What is a One-Time Sign-in Number?</string>
+    <string name="nloginglobal_otndesc_dontshow_anymore">Do not show again</string>
+    <string name="nloginglobal_otp_centent_1">----</string>
+    <string name="nloginglobal_otp_centent_2">----</string>
+    <string name="nloginglobal_otp_desc_description1">"With OTP, you can build an extra layer of security to your account with both your password and smart phone. After you enter your username and password correctly, you'll be asked for a code generated by Naver App registered so that you can protect your account from someone else having your password."</string>
+    <string name="nloginglobal_otp_desc_description2">Get started on your &lt;font color=#08a600>Naver Account&lt;/font> page.</string>
+    <string name="nloginglobal_otp_desc_description_title">What is Naver OTP (One-time Password) Sign-in?</string>
+    <string name="nloginglobal_otp_desc_dontshow_anymore">Do not show again</string>
+    <string name="nloginglobal_otp_device_id">--------------</string>
+    <string name="nloginglobal_otp_device_id_title">Device Serial Number</string>
+    <string name="nloginglobal_otp_fail_dialog_cancel_str">Cancel</string>
+    <string name="nloginglobal_otp_fail_dialog_confirm_str">Retry</string>
+    <string name="nloginglobal_otp_fail_dialog_msg">Unable to connect. Do you want retry?</string>
+    <string name="nloginglobal_otp_fail_dialog_msg_error">Error occurs. Do you want retry?</string>
+    <string name="nloginglobal_otp_progress_dialog_msg">loading OTP Number</string>
+    <string name="nloginglobal_otp_time_1">Remaining time</string>
+    <string name="nloginglobal_otp_time_2">--</string>
+    <string name="nloginglobal_otp_time_3">sec.</string>
+    <string name="nloginglobal_otp_title">Verification Code</string>
+    <string name="nloginglobal_signin_group_id_not_available_msg">This service is not available to Group ID. Please try again with personal accounts.</string>
+    <string name="nloginglobal_signin_hint_id">Username</string>
+    <string name="nloginglobal_signin_hint_pw">Password</string>
+    <string name="nloginglobal_signin_info_otn">One-time Sign-in Number</string>
+    <string name="nloginglobal_signin_info_signout">Sign Out</string>
+    <string name="nloginglobal_signin_logging_out">Signing out</string>
+    <string name="nloginglobal_signin_need_login">Please sign in.</string>
+    <string name="nloginglobal_signin_not_support_otn">One-time Number sign-in is not supported in Apps.</string>
+    <string name="nloginglobal_signin_signing_in">Signing in</string>
+    <string name="nloginglobal_signin_simple_security_exceptioin">Please remove the malicious app (\"%1$s\") disturbing quick signing-in process before.</string>
+    <string name="nloginglobal_signin_sound_captchar_notavilable">Service is temporarily unavailable. Please try again later.</string>
+    <string name="nloginglobal_signin_upgrade_to_simple_id_failed">Adding NaverID to Android Account Manager failed.</string>
+    <string name="nloginglobal_simple_add_id_limited_max_num">Up to %1$s accounts are addible. Please remove one first.</string>
+    <string name="nloginglobal_simple_change_id_str_desc">Would you like to sign in with this account?</string>
+    <string name="nloginglobal_simple_delete_id_str_desc_logout">Removing the account will delete all of data from the device and all the apps signed in with this account will be sign out. Continue?</string>
+    <string name="nloginglobal_simple_id_add_already_added">The account is already exist.</string>
+    <string name="nloginglobal_simple_id_disappeared_when_reboot">"Since this app is installed on the external storage, 'Quick Sign-in' is not available.
+Would you like to move this app to the internal memory?"</string>
+    <string name="nloginglobal_simple_id_disappeared_when_reboot_for_sdk_under_14">"Since the app(\"%1$s\") is installed on the external storage, 'Quick Sign-in' is not available.
+Would you like to move the app to the internal memory?"</string>
+    <string name="nloginglobal_simple_id_str_btn_done">Done</string>
+    <string name="nloginglobal_simple_id_str_desc1">On the Quick Sign in button, your original Naver ID is being displayed instead of Secure ID to increase security.</string>
+    <string name="nloginglobal_simple_id_str_desc2">Up to &lt;font color=#08a600>3 accounts &lt;/font>are addible.</string>
+    <string name="nloginglobal_simple_id_str_noid_desc">Sign in faster and easier with Quick Sign-in account saved from other Naver Apps.</string>
+    <string name="nloginglobal_simple_signin_group_id_not_available_msg">Quick Sign-in is not available to Group ID. Please try again with normal accounts.</string>
+    <string name="nloginglobal_simple_use_simple_signin">Yes</string>
+    <string name="nloginglobal_token_added">The account has been added.</string>
+    <string name="nloginresource_common_help">Help</string>
+    <string name="nloginresource_common_myinfo">My Account</string>
+    <string name="nloginresource_common_retry">Retry</string>
+    <string name="nloginresource_connection_error_connection_fail">Temporary error has occurred. Please try again [connection delayed]</string>
+    <string name="nloginresource_connection_error_connection_timeout">Temporary error has occurred. Please try again [response timeout]</string>
+    <string name="nloginresource_connection_error_error_none">Error occurred.</string>
+    <string name="nloginresource_connection_error_exceptional">Unexpected error has occurred. Please try again</string>
+    <string name="nloginresource_connection_error_no_peer_certificate">Invalid certificate. Please check the date and time setting on your device or back to factory settings when rooted/jailbroken.</string>
+    <string name="nloginresource_connection_error_session_error">Temporary error has occurred. Please try again [duplicated sign-in request]</string>
+    <string name="nloginresource_connection_error_user_cancel">Sign-in cancelled.</string>
+    <string name="nloginresource_connection_error_xml_parsing">Temporary error has occurred. Please try again [response error]</string>
+    <string name="nloginresource_description_textview_copyright" />
+    <string name="nloginresource_description_textview_delete_id">Delete NAVER Account %1$s</string>
+    <string name="nloginresource_description_textview_simple_login">Sign-in with your NAVER Account %1$s</string>
+    <string name="nloginresource_img_description_back_btn">Back</string>
+    <string name="nloginresource_img_description_bullet" />
+    <string name="nloginresource_img_description_check_btn" />
+    <string name="nloginresource_img_description_close_btn">Close</string>
+    <string name="nloginresource_img_description_delete_btn">Delete</string>
+    <string name="nloginresource_img_description_id_add_btn" />
+    <string name="nloginresource_img_description_keyboard_ko_img">Keyboard image (korean char)</string>
+    <string name="nloginresource_img_description_keyboard_sp_img">Keyboard image (special char)</string>
+    <string name="nloginresource_img_description_line_img" />
+    <string name="nloginresource_img_description_naver_logo">NAVER</string>
+    <string name="nloginresource_img_description_otn_question_btn">About One-time number</string>
+    <string name="nloginresource_img_description_otp_question_btn">About OTP</string>
+    <string name="nloginresource_img_description_reg_otp_btn">Register OTP</string>
+    <string name="nloginresource_img_description_show_keyboard_btn">Show keyboard</string>
+    <string name="nloginresource_img_description_title_img" />
+    <string name="nloginresource_login2regotp_btn_loginandreg">Register and Sign-in</string>
+    <string name="nloginresource_login2regotp_btn_otherid">Register with another ID</string>
+    <string name="nloginresource_login2regotp_btn_reg">Register</string>
+    <string name="nloginresource_login2regotp_normal_login_desc">Please sign in with the ID you will use for 2-Step Verification.&lt;br/> You will also be sign in the NAVER app.</string>
+    <string name="nloginresource_login2regotp_simple_login_desc">Select the ID you wish to use for 2-Step Verification.&lt;br/> Select &lt;b>[Register with another ID]&lt;/b> if your desired ID is not available.</string>
+    <string name="nloginresource_login2regotp_simpleid_add_desc">2단계 인증을 사용할 아이디를 등록해주세요.&lt;br/>지금 네이버앱의 로그인 상태는 유지 됩니다.</string>
+    <string name="nloginresource_logoutpopup_confirm_msg_desc">"Quick Sign-in account is still available. If you won't sign in anymore, please remove it."</string>
+    <string name="nloginresource_logoutpopup_confirm_msg_detail_id">&lt;font color=#08a600>&lt;b>%1$s&lt;/b>&lt;/font> will be signed out.</string>
+    <string name="nloginresource_logoutpopup_confirm_msg_title">Signing out.</string>
+    <string name="nloginresource_network_state_not_available">Network is not available. Please check your network connection and try again.</string>
+    <string name="nloginresource_otn_error_wrong_auth">Please sign-in again, Probably wrong certification used.</string>
+    <string name="nloginresource_otn_need_session">Please, sign-in to see One-time number.</string>
+    <string name="nloginresource_otntop_description_title1">Simple and Safe</string>
+    <string name="nloginresource_otntop_description_title2">One-Time Sign-in Number</string>
+    <string name="nloginresource_otp_btn_register_otp">Register ID</string>
+    <string name="nloginresource_otp_dialog_auth_2ndfactor_cancel">Verification has been cancelled. Please try again verified.</string>
+    <string name="nloginresource_otp_dialog_auth_2ndfactor_desc">[Naver] Are you sure you want to permit sign in?</string>
+    <string name="nloginresource_otp_dialog_auth_2ndfactor_ok">Verification has been completed.</string>
+    <string name="nloginresource_otp_dialog_progress">Registering ID (TODO)</string>
+    <string name="nloginresource_otp_fail_dailog_errormsg_remove_otp_file">Generate OTP number and device serial number again.</string>
+    <string name="nloginresource_otp_top_description_title1">Keep your account safer!</string>
+    <string name="nloginresource_otp_top_description_title2">Naver OTP Sign-in</string>
+    <string name="nloginresource_signin_error_input_password">Enter your password!</string>
+    <string name="nloginresource_signin_error_input_username">Enter your username!</string>
+    <string name="nloginresource_signin_groupid_login">Group ID Sign in</string>
+    <string name="nloginresource_signin_id_forgot">Forgot your &lt;u>Username&lt;/u></string>
+    <string name="nloginresource_signin_info_default_id">--------</string>
+    <string name="nloginresource_signin_info_is_onlyloginid">(Signed-in with Secure ID)</string>
+    <string name="nloginresource_signin_keyboard_close">PC Keyboard</string>
+    <string name="nloginresource_signin_keyboard_open">PC Keyboard</string>
+    <string name="nloginresource_signin_pw_forgot">&lt;u>Password?&lt;/u></string>
+    <string name="nloginresource_signin_signup">&lt;u>Sign up&lt;/u></string>
+    <string name="nloginresource_signin_simple_desc_bottom">You can sign in with another Quick Sign-in account.</string>
+    <string name="nloginresource_signin_simple_login_other">Sign in with another account</string>
+    <string name="nloginresource_string_snslogin_cancel">@string/nloginresource_connection_error_user_cancel</string>
+    <string name="nloginresource_string_snslogin_error">The social sign-in account provider is not reponding. Please try again later.</string>
+    <string name="nloginresource_string_snslogin_nodata">Social sign-in failed. (no data)</string>
+    <string name="nloginresource_string_snslogin_noresult">Social sign-in failed. (no result code)</string>
+    <string name="nloginresource_string_snslogin_retry">The social sign-in account provider is not reponding. Trying again.</string>
+    <string name="nloginresource_string_snslogin_token_empty">Social sign-in failed.(idp token is empty)</string>
+    <string name="Completeday">완결</string>
+    <string name="NotLogin">로그인하세요</string>
+    <string name="OK">확인</string>
+    <string name="RangeSetting">범위설정</string>
+    <string name="Setting">설정</string>
+    <string name="Setting_auto_play_movie_ad">동영상 자동 재생</string>
+    <string name="Setting_auto_rotate">자동 회전</string>
+    <string name="Setting_mylibrary_auto_remove_title">이용기간만료 30일 후</string>
+    <string name="Setting_notice">공지사항</string>
+    <string name="Setting_separator00">로그인</string>
+    <string name="Setting_separator01">부가기능</string>
+    <string name="Setting_separator03">고객 도움말</string>
+    <string name="Setting_separator04">정보</string>
+    <string name="Setting_separator_my_store_content_auto_remove">MY웹툰플러스 콘텐츠 자동삭제</string>
+    <string name="Setting_service_report">오류신고</string>
+    <string name="Setting_use_double_tab">더블탭 확대/축소</string>
+    <string name="Setting_webtoon_help">웹툰 고객센터</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="action_bar_menu_auto_rotation_off">자동회전 끄기</string>
+    <string name="action_bar_menu_auto_rotation_on">자동회전 켜기</string>
+    <string name="action_bar_menu_comment_write">등록</string>
+    <string name="action_bar_menu_continue">계속감상</string>
+    <string name="action_bar_menu_copy_link">링크 복사</string>
+    <string name="action_bar_menu_cut_edit">컷 편집</string>
+    <string name="action_bar_menu_done">완료</string>
+    <string name="action_bar_menu_edit">편집</string>
+    <string name="action_bar_menu_edit_cancel">취소</string>
+    <string name="action_bar_menu_episode_cut_share">컷공유</string>
+    <string name="action_bar_menu_episode_shrare">회차 공유하기</string>
+    <string name="action_bar_menu_more">더보기</string>
+    <string name="action_bar_menu_next">다음</string>
+    <string name="action_bar_menu_open_browser">브라우저에서 열기</string>
+    <string name="action_bar_menu_range_setting">범위설정</string>
+    <string name="action_bar_menu_share_link">링크 공유</string>
+    <string name="action_bar_menu_temporary_save">임시저장</string>
+    <string name="action_bar_title_crop_image">컷 자르기</string>
+    <string name="action_bar_title_cut_edit">텍스트 추가하기</string>
+    <string name="actionbar_cut_title_format">컷댓글 %,d</string>
+    <string name="actionbar_title_format">댓글 %,d</string>
+    <string name="actionbar_title_refresh_btn">갱신</string>
+    <string name="ad_alarm_dialog_date_format">yyyy년 MM월 dd일</string>
+    <string name="ad_alarm_dialog_question_description">"알림 동의는 이 기기에 한해 유효하며,
+로그인 이후에도 권한은 유지됩니다."</string>
+    <string name="ad_alarm_dialog_question_title">"네이버웹툰에서 보내는
+추천/이벤트 알림을 받으시겠습니까?"</string>
+    <string name="ad_alarm_dialog_reject">동의하지 않음</string>
+    <string name="ad_alarm_dialog_renew_description">"설정 > 푸시 알림 > 추천/이벤트 알림에서
+수신 여부를 변경 하실 수 있습니다."</string>
+    <string name="ad_alarm_dialog_renew_message">추천/이벤트 알림수신을 %s에 동의하셨습니다.</string>
+    <string name="ad_alarm_dialog_renew_title">알림 수신 동의 확인</string>
+    <string name="ad_alarm_dialog_result_description">"설정 > 푸시 알림 > 추천/이벤트에서 변경 가능하며,
+앱을 재설치 하여도 권한은 유지됩니다."</string>
+    <string name="ad_alarm_dialog_result_title_reject">추천/이벤트 알림 수신 거부</string>
+    <string name="ad_alarm_dialog_result_title_set">추천/이벤트 알림 수신 동의</string>
+    <string name="after_purchase_ok">확인</string>
+    <string name="agree">동의</string>
+    <string name="agree_term_of_using_cookie_info_msg">"쿠키를 사용 또는 구매하기 위해서는
+아래 이용약관에 동의하셔야 합니다"</string>
+    <string name="agree_term_of_using_cookie_title">쿠키 이용 동의</string>
+    <string name="agreement">동의</string>
+    <string name="alert_webtoonizer_align_face">카메라 정면을 향해 주세요</string>
+    <string name="alert_webtoonizer_close">얼굴이 너무 가까워요</string>
+    <string name="alert_webtoonizer_far">얼굴이 너무 멀어요</string>
+    <string name="alert_webtoonizer_invisible_face">얼굴이 잘 보이지 않아요</string>
+    <string name="alert_webtoonizer_no_face">얼굴이 인식이 안돼요!</string>
+    <string name="alert_webtoonizer_ok">좋아요! 지금 찍어요!</string>
+    <string name="alert_webtoonizer_out_face">얼굴을 가이드 중앙에 위치해주세요</string>
+    <string name="all_comment">전체 댓글</string>
+    <string name="already_registed">이미 등록되어 있는 글입니다.</string>
+    <string name="already_saved">이미 임시저장 되었습니다.</string>
+    <string name="api_ad_flex_banner">http://m.veta.naver.com/fxshow?su=SU10133</string>
+    <string name="api_agree_base">https://apis.naver.com/mobiletoon/nwid/</string>
+    <string name="api_books_base">http://apis.naver.com/mobiletoon/nbooks/</string>
+    <string name="api_comment_base">http://apis.naver.com/mobiletoon/cbox3/</string>
+    <string name="api_comment_count">http://apis.naver.com/mobiletoon/cbox3/v2_naver_count_json.json</string>
+    <string name="api_comment_delete">http://apis.naver.com/mobiletoon/cbox3/v2_naver_delete_json.json</string>
+    <string name="api_comment_list">http://apis.naver.com/mobiletoon/cbox3/v2_naver_list_json.json</string>
+    <string name="api_comment_report">http://apis.naver.com/mobiletoon/cbox3/v2_naver_report_json.json</string>
+    <string name="api_comment_set">http://apis.naver.com/mobiletoon/cbox3/v2_naver_create_json.json</string>
+    <string name="api_comment_vote">http://apis.naver.com/mobiletoon/cbox3/v2_naver_recommend_json.json</string>
+    <string name="api_face_webtoonize_base">http://apis.naver.com/mobiletoon/comic/</string>
+    <string name="api_gateway_currenttime">http://apis.naver.com/mobiletoon/apigw/getCurrentTime.json</string>
+    <string name="api_message_cloud">http://apis.naver.com/mobiletoon/messagecloud/</string>
+    <string name="api_naver_likeit_base">http://apis.naver.com/mobiletoon/likeit/</string>
+    <string name="api_pocket_reader_addStarScore">addStarScore.xml</string>
+    <string name="api_pocket_reader_base">http://apis.naver.com/mobiletoon/nbooks/</string>
+    <string name="api_pocket_reader_contentsDetail">contentsDetail.xml</string>
+    <string name="api_pocket_reader_contentsView">contentsView.xml</string>
+    <string name="api_pocket_reader_currentTime">currentTime.xml</string>
+    <string name="api_pocket_reader_deviceList">deviceList.xml</string>
+    <string name="api_pocket_reader_deviceRegistrationStatus">deviceRegistrationStatus.xml</string>
+    <string name="api_pocket_reader_downloadCountAdd">downloadCountAdd.xml</string>
+    <string name="api_pocket_reader_favoriteContentList">favoriteContentList.xml</string>
+    <string name="api_pocket_reader_favoriteContentRemove">favoriteContentRemove.xml</string>
+    <string name="api_pocket_reader_freeTicketInfo">http://apis.naver.com/mobiletoon/nbooks/freeticketInfo.xml</string>
+    <string name="api_pocket_reader_get_charge_payment_url">http://apis.naver.com/mobiletoon/nbooks/webtoonDynamicUrl.json</string>
+    <string name="api_pocket_reader_get_purchase_history">http://apis.naver.com/mobiletoon/nbooks/webtoonCheckPaymentHistory.json</string>
+    <string name="api_pocket_reader_licenseChecke">licenseCheck.xml</string>
+    <string name="api_pocket_reader_myLibraryRemove">myLibraryRemove.xml</string>
+    <string name="api_pocket_reader_myLibraryVolumeList">myLibraryVolumeList.json</string>
+    <string name="api_pocket_reader_pass_agree">http://apis.naver.com/mobiletoon/nbooks/passJoinAgree.json</string>
+    <string name="api_pocket_reader_pass_agree_contract">http://apis.naver.com/mobiletoon/nbooks/passJoinAgreeContract.json</string>
+    <string name="api_pocket_reader_pass_use">http://apis.naver.com/mobiletoon/nbooks/webtoonContentsPassUse.json</string>
+    <string name="api_pocket_reader_pass_use_validation">http://apis.naver.com/mobiletoon/nbooks/webtoonContentsPassUseValidation.json</string>
+    <string name="api_pocket_reader_paypoint_payment">http://apis.naver.com/mobiletoon/nbooks/webtoonContentsPaypointPayment.json</string>
+    <string name="api_pocket_reader_paypoint_payment_validation">http://apis.naver.com/mobiletoon/nbooks/webtoonContentsPaypointPaymentValidation.json</string>
+    <string name="api_pocket_reader_recentPageInfo">recentPageInfo.xml</string>
+    <string name="api_pocket_reader_recentPageSave">recentPageSave.xml</string>
+    <string name="api_pocket_reader_registerDevice">registerDevice.xml</string>
+    <string name="api_pocket_reader_scrapLastUpdate">scrapLastUpdate.xml</string>
+    <string name="api_pocket_reader_scrapSync">scrapDataSync.xml</string>
+    <string name="api_pocket_reader_shortURL">shortURL.xml</string>
+    <string name="api_rtdrm">https://rtdrm.webtoon.naver.com/api/</string>
+    <string name="api_store_contentsPayment">http://m.comic.naver.com/store/comic/api/contentsPayment.nhn</string>
+    <string name="api_store_contents_free_Payment">http://apis.naver.com/mobiletoon/nbooks/webtoonContentsFreePayment.json</string>
+    <string name="api_video_log_base">http://serviceapi.rmcnmv.naver.com/etc/</string>
+    <string name="api_video_platform">http://play.rmcnmv.naver.com/vod/play/</string>
+    <string name="api_video_play_count_default_url">http://serviceapi.rmcnmv.naver.com/etc/pc.nhn</string>
+    <string name="api_video_play_time_default_url">http://videost.nmv.naver.com/pt.html</string>
+    <string name="api_webtoon_article">http://apis.naver.com/mobiletoon/comic/article.nhn</string>
+    <string name="api_webtoon_articleImageList">http://apis.naver.com/mobiletoon/comic/articleImageList.json</string>
+    <string name="api_webtoon_banner">http://m.ad.naver.com/adshow?unit=949B</string>
+    <string name="api_webtoon_base">http://apis.naver.com/mobiletoon/comic/</string>
+    <string name="api_webtoon_cutEditFontList">http://apis.naver.com/mobiletoon/comic/cutEditFontList.json</string>
+    <string name="api_webtoon_getAlarm">http://apis.naver.com/mobiletoon/comic/getAlarm.json</string>
+    <string name="api_webtoon_getMannerTime">http://apis.naver.com/mobiletoon/comic/getMannerTime.json</string>
+    <string name="api_webtoon_setAlarm">http://apis.naver.com/mobiletoon/comic/setAlarm.json</string>
+    <string name="api_webtoon_setDevice">http://apis.naver.com/mobiletoon/comic/setDevice.json</string>
+    <string name="api_webtoon_setFavorite">http://apis.naver.com/mobiletoon/comic/setFavorite.json</string>
+    <string name="api_webtoon_setMannerTime">http://apis.naver.com/mobiletoon/comic/setMannerTime.json</string>
+    <string name="api_zzal_v2_addDownloadCount">http://apis.naver.com/mobiletoon/comic/increaseGetZzalDownloadCount.json</string>
+    <string name="api_zzal_v2_addShareCount">http://apis.naver.com/mobiletoon/comic/increaseGetZzalShareCount.json</string>
+    <string name="api_zzal_v2_banner">http://apis.naver.com/mobiletoon/comic/bannerGetZzal.json</string>
+    <string name="api_zzal_v2_delete">http://apis.naver.com/mobiletoon/comic/deleteGetZzal.json</string>
+    <string name="api_zzal_v2_hot">https://apis.naver.com/mobiletoon/comic/hotZzalMain.json</string>
+    <string name="api_zzal_v2_hotTitleZzalList">https://apis.naver.com/mobiletoon/comic/hotTitleZzalList.json</string>
+    <string name="api_zzal_v2_legend">https://apis.naver.com/mobiletoon/comic/legendZzalList.json</string>
+    <string name="api_zzal_v2_modify">http://apis.naver.com/mobiletoon/comic/modifyGetZzal.json</string>
+    <string name="api_zzal_v2_myZzalList">https://apis.naver.com/mobiletoon/comic/myZzalList.json</string>
+    <string name="api_zzal_v2_new">https://apis.naver.com/mobiletoon/comic/newZzalList.json</string>
+    <string name="api_zzal_v2_previousRecommendedZzalList">https://apis.naver.com/mobiletoon/comic/previousRecommendedZzalList.json</string>
+    <string name="api_zzal_v2_register">http://apis.naver.com/mobiletoon/comic/registerGetZzal.json</string>
+    <string name="api_zzal_v2_systemTagZzalList">https://apis.naver.com/mobiletoon/comic/systemTagZzalList.json</string>
+    <string name="api_zzal_v2_todayTopLikeZzalList">https://apis.naver.com/mobiletoon/comic/todayToplikeZzalList.json</string>
+    <string name="api_zzal_v2_userZzalList">https://apis.naver.com/mobiletoon/comic/userZzalUserList.json</string>
+    <string name="api_zzal_v2_zzalDetail">https://apis.naver.com/mobiletoon/comic/getzzalDetail.json</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="apply">적용</string>
+    <string name="ar_error_network_error">이런.. 인터넷에 문제가 있는것 같아</string>
+    <string name="ar_meet_blowing_error_already_used">이런.. 마이크를 누가 쓰고 있는것 같아</string>
+    <string name="ar_meet_blowing_error_cannot_feature">이런.. 내 핸드폰으로 안되는 기능이라니</string>
+    <string name="ar_meet_blowing_error_close">확인</string>
+    <string name="ar_meet_blowing_tip_blowing">바람을 불어주자</string>
+    <string name="ar_meet_dialog_later">나중에</string>
+    <string name="ar_meet_dialog_message_1">"또 보는거지?
+잊지 않게 메시지 보낼게"</string>
+    <string name="ar_meet_dialog_message_2">"다쳤니? 괜찮아?
+내 메시지를 받아줘"</string>
+    <string name="ar_meet_dialog_ok">좋아</string>
+    <string name="ar_meet_dialog_sub_mesasge_1">관심웹툰으로 등록해 주세요</string>
+    <string name="ar_meet_dialog_sub_mesasge_2">알림을 켜주세요</string>
+    <string name="ar_meet_grab_tip">영희 손을 잡고 웹툰 밖으로 나가자</string>
+    <string name="ar_meet_icecream_tip">아이스크림을 닦아주자</string>
+    <string name="ar_meet_notify_button_text">보기</string>
+    <string name="ar_meet_notify_sender">김영희</string>
+    <string name="ar_meet_notify_sender_unknown">\???</string>
+    <string name="ar_meet_notify_text_1">"%s!! 너 어디갔어?
+갑자기 없어졌어"</string>
+    <string name="ar_meet_notify_text_2" formatted="false">"%s… %s…
+%s…!"</string>
+    <string name="ar_meet_notify_text_3" formatted="false">"..%s..
+%s.. %s!!"</string>
+    <string name="ar_meet_notify_text_4">"..차려.. %s..
+정신차려!!"</string>
+    <string name="ar_meet_notify_text_5">"..%s..
+여기 조금 이상한 것 같아.."</string>
+    <string name="ar_meet_notify_text_6" formatted="false">%s.. %s..!!</string>
+    <string name="ar_meet_panorama_tip">앞뒤로 애들이 있네</string>
+    <string name="ar_meet_reward_download_text">저장</string>
+    <string name="ar_meet_reward_downloaded">저장했습니다</string>
+    <string name="ar_meet_reward_tip_text">"시스템의 숨겨진 틈을 또 찾아냈군
+그래.. 추억 정도는 허용해 줄게"</string>
+    <string name="ar_meet_space_tip">영희야 어딨어?!!</string>
+    <string name="attend">참여완료</string>
+    <string name="back_mylibrary">보관함 가기</string>
+    <string name="back_online_store">웹툰플러스 홈으로 가기</string>
+    <string name="base_url_play_comment">http://comic.admin.navercorp.com/play/preview/contents.nhn?contentsId=%s</string>
+    <string name="base_url_webtoon_comment" formatted="false">http://m.comic.naver.com/webtoon/detail.nhn?titleId=%d&amp;no=%d</string>
+    <string name="base_web_view_alert_title">알림</string>
+    <string name="best_challenge">베스트도전</string>
+    <string name="best_comment">BEST 댓글</string>
+    <string name="best_comment_empty">"이번 화의 BEST댓글이 아직 없습니다.
+전체댓글에서 '좋아요'를 눌러
+BEST댓글을 만들어주세요."</string>
+    <string name="best_comment_list_empty_text">"이번 화의 BEST 댓글이 아직 없습니다.
+전체 댓글에서 좋아요를 눌러 BEST 댓글을 만들어주세요."</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="btn_favorite_toon">관심</string>
+    <string name="btn_picture_ok">좋아!</string>
+    <string name="btn_picture_retry">다시 찍자</string>
+    <string name="btn_picture_right_now">지금 좋아!</string>
+    <string name="btn_picture_save">저장</string>
+    <string name="btn_view_first_content">첫회보기</string>
+    <string name="btn_webtoonizer_agree">OK 준비 끝!</string>
+    <string name="btn_webtoonizer_disagree">셀카 싫어! 그냥 볼래</string>
+    <string name="build_type">real</string>
+    <string name="buy">구매</string>
+    <string name="buy_lend">구매/대여</string>
+    <string name="cancel">취소</string>
+    <string name="cancel_download_all">전체취소</string>
+    <string name="cancel_download_all_title">"진행 및 대기중인 다운로드를
+모두 취소하시겠습니까?"</string>
+    <string name="cancel_download_title">다운로드를 취소하시겠습니까?</string>
+    <string name="cancel_payment">구매취소</string>
+    <string name="caution_delete">유의사항</string>
+    <string name="caution_of_delete_1">삭제시, 아래 두 가지 옵션을 제공합니다.</string>
+    <string name="caution_of_delete_2">1. 이 기기에서 파일만 삭제</string>
+    <string name="caution_of_delete_3">보관함에 목록은 유지하고, 다운로드 된 파일만 삭제됩니다.</string>
+    <string name="caution_of_delete_4">2. 모든 기기에서 파일, 목록 삭제</string>
+    <string name="caution_of_delete_5">목록과 파일이 모두 삭제되고, 같은 ID로 사용중인 다른 기기에서도 해당 항목이 삭제됩니다.</string>
+    <string name="caution_of_delete_6">(네이버 N스토어, 네이버 북스앱 포함)</string>
+    <string name="caution_of_delete_title">삭제 유의 사항</string>
+    <string name="challenge_toon">도전만화</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="charge_info_footer_businessman_info">사업자 등록정보</string>
+    <string name="charge_info_footer_customer_center_text">고객센터</string>
+    <string name="charge_info_footer_detail_1">유료 미리보기 및 더보기는 쿠키로만 대여할 수 있으며, 영구소장을 희망하시는 경우 웹툰플러스에서 구매하실 수 있습니다.</string>
+    <string name="charge_info_footer_detail_2">"내 보유 쿠키 정보 및 판매 중인 쿠키는 MY > 쿠키샵에서 확인하실 수 있습니다.
+대여한 콘텐츠는 결제 시점부터 열람기간 동안 이용가능 합니다."</string>
+    <string name="charge_info_footer_detail_3">대여한 콘텐츠는 네이버 북스앱과 네이버 N스토어에서도 이용 가능하며, 웹툰플러스에서도 동일 작품을 이용하실 수 있습니다.</string>
+    <string name="charge_info_footer_detail_4">"결제 후 열람하지 않은 경우 7일 이내 MY > 결제내역에서 구매취소 가능합니다.
+단, 사용하신 쿠키의 유효기간이 이미 지난 경우 해당 쿠키는 환불되지 않습니다.
+쿠키 구매 또는 사용시에 이용약관 동의가 필요합니다."</string>
+    <string name="charge_info_footer_detail_5">웹툰 유료보기 및 웹툰플러스, 네이버 북스앱은 ID당 총 5대의 모바일 기기에서 동시 이용하실 수 있습니다.</string>
+    <string name="charge_info_footer_detail_6">이용 기기는 한 달에 2번 변경 가능합니다.</string>
+    <string name="charge_info_footer_detail_7">상세한 이용안내 및 문의는 설정 메뉴의 고객 도움말 항목을 이용해주시기 바랍니다.</string>
+    <string name="charge_info_footer_info">유료 이용안내</string>
+    <string name="charge_info_footer_legality">웹툰 및 웹툰플러스에서 제공되는 콘텐츠의 저작권은 저자 또는 제공처에 있으며 이를 무단 이용하는 경우 저작권법 등에 따라 법적책임을 질 수 있습니다.</string>
+    <string name="charge_info_footer_legality_info">"사업자 등록번호 : 125-86-31062
+통신판매업 신고번호 : 2017-성남분당-0565
+대표이사 : 김준구
+주소 : 경기도 성남시 분당구 불정로 6 네이버 그린팩토리
+고객센터 : 1588-3820
+​이메일 : helpcustomer@naver.com"</string>
+    <string name="charge_info_footer_link_cooky_shop">MY > 쿠키샵</string>
+    <string name="charge_info_footer_link_cooky_terms_of_use">쿠키 이용약관</string>
+    <string name="charge_info_footer_link_payment_info">MY > 결제내역</string>
+    <string name="charge_info_footer_privacy_policy_text">개인정보 처리방침</string>
+    <string name="charge_info_footer_report_error_text">오류신고</string>
+    <string name="charge_info_footer_terms_of_use_text">이용약관</string>
+    <string name="charge_info_header_folding_preview">미리보기 접기</string>
+    <string name="check_network_connection_title">"네트워크 연결이 필요합니다.
+네트워크 연결 상태를 확인해주세요."</string>
+    <string name="com_facebook_smart_device_instructions_0">Confirm your code on Facebook.</string>
+    <string name="com_facebook_smart_device_instructions_1">1.\u0009Go to the Menu</string>
+    <string name="com_facebook_smart_device_instructions_2">2.\u0009Select Device Requests</string>
+    <string name="com_facebook_smart_device_instructions_3">3.\u0009Confirm code.</string>
+    <string name="com_facebook_smart_device_instructions_or">- OR -</string>
+    <string name="com_facebook_smart_login_confirmation_cancel">Not you?</string>
+    <string name="com_facebook_smart_login_confirmation_continue_as">Continue as %1$s</string>
+    <string name="com_facebook_smart_login_confirmation_title">Confirm Login</string>
+    <string name="com_kakao_profile_nickname">Nickname</string>
+    <string name="comment_limit_alert">댓글은 최대 500자까지 입력 가능합니다.</string>
+    <string name="comment_write">댓글을 입력해주세요 :)</string>
+    <string name="comment_write_hint">주제와 무관한 댓글, 악플은 삭제될 수 있습니다.</string>
+    <string name="comment_write_max_check">%d / 500</string>
+    <string name="common_dialog_inner_error_message">"내부 오류가 발생하였습니다.
+잠시 후 다시 이용해주세요."</string>
+    <string name="complete_temp_save">임시저장 완료</string>
+    <string name="confirm_apply">맞아</string>
+    <string name="confirm_deny">아니야</string>
+    <string name="content">서문 : 현경과 탈마 무공을 크게 두 가지로 구분한다면 정(正)과 사(邪)로 나눌 수 있다. 어느 사이엔가 무공의 원류는 이렇게 둘로 나뉘더니 서로가 피를 피로 씻는 복수와 반목을 거듭해, 서로 왜 싸웠는지 그 시초조차 아리송해졌다. 정파는 사파를, 사파는 정파를 원수 보듯 하며 수단과 방법을 가리지 않고 상대방을 죽였다. 정파는 달마가 중원에 보급한 역근(易筋)과 세수(洗髓)의 두 진경(眞經)을 기반으로 성장한 무공으로, 대부분이 불가(佛家)나 도가(道家) 계통의 무술들이 주종을 이뤘다. 이른바 5대세가의 경우도 원류를 따지면 9파1방(九派一幇)의 속가제자 중 뛰어난 자가 세운 것이다. 그리고 그 문파에서 뛰어난 자들이 튀어나와 새로운 문파를 만들다 보니 근래에 이르러서는 그 갈래조차 희미해질 정도였다. 고대의 무술은 들짐승이나 날짐승의 행동을 흉내 내고 모방하는 데서 시작되었다. 유명한 소림오권(小林五拳)은 호랑이, 표범, 뱀, 원숭이, 학의 움직임을 따라 이루어졌으며, 도가(道家)로부터 전수된 검법(劍法)도 동물들을 흉내 내어 시작되었다. 이러한 검법(劍法), 도법(刀法), 창법(槍法), 봉법(棒法), 권법(拳法), 장법(掌法) 등의 무술을 통틀어 외가무공(外家武功)이라 한다. 반면에 내가무공(內家武功)은 단전호흡(丹田呼吸)이나 숨을 뱉고 쉬는 법을 일컫는 토납술(吐納術)에서 비롯되었다. 어린 시절부터 오랜 기간을 두고 토납을 반복하면 몸속에 보이지 않는 무형의 힘인 내공이 쌓이게 되는데, 그 내공을 권이나 장, 또는 검에 실어 내보내는 무술을 내가무공이라 한다. 내공이 어느 정도 쌓이면 몸 안을 일주천시키며 더욱 그 힘을 증폭시켜 내공이 쌓이는 속도를 증가시킨다. 이때 그 힘을 어떤 순서로 어떤 혈도에 보내느냐에 따라 다양한 운기조식의 기법들이 생겨났다. 정파는 내공을 익힐 때 그 공력이 천천히 쌓여 나간다. 그렇기에 다른 사람의 진신내공(眞身內功)을 얻거나 영약을 복용하지 않고서는 통상의 경우 밤낮을 가리지 않고 수련을 해도 40세가 넘어야 절정고수에 이를 수 있고, 초절정의 고수가 되려면 60세가 넘어야 했다. 물론 타고난 신력(神力)으로 외공(外功)을 사용하는 자들도 있지만, 내공이 받쳐 주지 않는다면 절정고수의 대열에 들어가기는 어려웠다. 이렇듯 정파 내에서도 무공을 쌓는 방법에는 여러 가지가 있으나 마교에서처럼 파격적인 방법을 써서 속성으로 내공을 쌓지는 않는다. 정파에는 명문(名門)이라 불리는 많은 방파가 있다. 그들은 대부분 도가나 불가 계통이며 뛰어난 고수들을 많이 배출했기에 명가의 칭호가 주어졌다. 그리고 명가의 제자들이 방문외도(傍門外道 : 명가가 아닌 다른 다수의 군소방파들을 낮추어 부르는 말)라 칭하며 깔보는 경향도 있지만 실질적인 정파의 저력은 소수의 명문에 있는 것이 아니라 엄청난 숫자를 자랑하는 군소방파들에 있었다. 대부분의 경우 군소방파들은 내가무공보다는 외가무공을 익히고 가르친다. 명가들과는 달리 그들에게는 우수한 내공 심법이 거의 없기 때문에 궁여지책으로 외가무공을 익히고 가르치는 것이다. 명가(名家)에서는 후계자에게 진신내공(眞身內功)을 전수하거나 영약을 먹여 빠른 속도로 내공이 쌓이게 만든다. 그들에게는 각 문파의 정통 무공들이 교육되었고 그들은 적전제자(適傳弟子)라고 불린다. 적전이 아닌 제자들은 내공이 상당히 취약하기 때문에 같은 초식(招式)을 써도 그 위력은 최소 열 배 이상 차이가 난다고 한다. 상대에게 진신내공을 전수할 때는 내공을 전수하는 쪽이 엄청난 고통을 겪기 때문에 일가 피붙이라도 잘 전수해 주지 않는다. 그리고 진신내공을 전수받는 데도 한 가지 위험이 따른다. 같은 수련을 한 사람의 진신내공이라면 성질이 같기에 전수받아도 상관없지만, 다른 종류의 수련을 하여 얻은 내공을 전수받으면 아예 무공을 익히지 않은 경우를 제외하고는 자신의 진신내공과 새로 얻은 진신내공이 합쳐지지 않고 서로 충돌하여 더 안 좋은 결과를 가져온다. 치료나 공격 등의 목적으로 상대방에게 내공을 불어넣기도 하는데, 그때의 내공은 진신내공이 아니기 때문에 일정 시간이 지나면 내공을 받은 사람의 내부에서 이종(異種)의 내력은 소멸되며, 또 내공을 집어넣은 사람도 곧 내력을 회복할 수 있다. 내공을 특출한 경지까지 연마한 정파의 고수들을 일컬어 사람들은 삼경(三境)의 고수라 한다. 초절정고수가 되면 내공의 정도와 무술 실력이 거의 비례하기 때문에 삼경의 고수에 들어가면 거의 적수를 찾기 어렵다. 제1경(第一境)은 조화경(造化境), 즉 화경(化境)이다. 이것은 천지인(天地人)의 삼화(三化)와 수목금화토(水木金火土)의 오기(五氣)를 고루 몸 안에 이루어 낸 삼화취정(三化聚頂) 오기조원(五氣造元)의 고수를 말한다. 이 수준에 이르면 환골탈태(換骨奪胎)를 통해 온몸이 무예를 시전하기에 최적의 상태로 바뀌는 반로환동(反老換童)을 경험한다. 이때는 능히 소리로 사람을 죽이고 손가락을 들어 작은 산을 무너뜨릴 수 있다고 한다. 화경에 오른 현존하는 고수는 여덟 명인데 그들을 3황5제(三皇五帝)라고 불렀다. 거의 비슷한 무공 수준을 가지고 있지만, 그들을 3황과 5제로 구분하는 이유는 서로 간의 나이 차 때문이기도 하며, 5제보다는 3황의 무공이 좀 높았다. 또 정파의 고수들은 마교가 배출한 가장 뛰어난 네 명의 고수를 4천왕(四天王)이라고 했는데, 그 칭호에서 정파고수들의 은근한 자존심을 엿볼 수 있었다. 과거 현경의 고수가 한 명 있기는 했지만 그 이후 최강의 고수들인 이들은 모든 정도무림인들의 존경을 받고 있다. 제2경(第二境)은 신(神)으로의 입문이라 할 수 있는 현묘(玄妙)한 경지(境地), 즉 현경(玄境)이라 한다. 현경의 경지에 이르면 더욱 뛰어난 육체로 변하게 되고, 그 결과 몸에 만독이 침범하지 못하는 만독불침(萬毒不侵)이 되며 겉으로 전혀 정기가 드러나지 않는 반박귀진(返縛歸眞)의 상태가 된다. 또한 나이가 많은 사람이 이 경지를 이루면 머리가 다시 검어지고 치아(齒牙)까지 새로 나오기에, 그야말로 완벽한 젊음을 되찾는다고 한다. 그들은 능히 몸에서 뿜어 나오는 예기만으로 사람을 죽일 수 있는 경지에 이르는데, 현경의 경지에 이른 고수는 수천 년 무림사에 과거 천하제일문(天下第一門)을 창설한 조사인 신검대협(神劍大俠) 구휘(區揮) 단 한 명뿐이었다. 무림에서 인간이 달성해 낸 최고의 경지가 이 현경이었다. 마지막 제3경(第三境)은 불노불사(不老不死)의 진정한 신의 경지, 즉 생사경(生死境)이다. 인간의 생과 사를 초월하고 우주만물의 법칙을 한눈에 꿰뚫어 내는 무예의 최고 경지로 추측되지만, 단 한 명도 그 근처까지 접근조차 하지 못했기에 생사경은 완전한 미지의 세계다. 수천 년 무림사에 단 한 명도 탄생하지 않았던 지고무상(至高無常)의 경지가 바로 생사경이다. 혹자는 이 생사경은 있지도 않은 것을 말하기 좋아하는 사람들이 지어냈다고 질책할 정도다. 어쨌든 정파의 무공이 이상과 같다면 사파의 무공은 정파의 무공과는 완전히 다른 길을 가고 있다. 사파는 달마가 전래한 무공과는 달리 중원에서 자연스럽게 발생한 무술이다. 그렇기에 토납술에서 정파와는 다른 방법을 택한다. 사파의 대부분을 차지하는 녹림(綠林 : 산적이나 해적 등 남을 등쳐 먹는 것을 천직으로 알고 사는 사람들의 집단. 창부 등도 여기에 속함)이나 사파 무공을 익히는, 역사가 짧은 작은 군소방파들은 내공의 기술이 정파보다는 떨어지므로 그것을 만회하기 위해 상대 무공에 대한 파해식이나 기괴한 초식 등을 개발해 냈다. 따라서 사파에서는 기교에서 앞서가는 외가무공이 주류를 이루고 있다. 그 때문에 약간의 기술과 그에 대한 숙련도만 있으면 되므로 빠른 시일 안에 절정고수의 경지까지는 이르지 못하더라도 상당한 고수가 될 수 있다. 하지만 대부분의 정파고수들이 미숙한 상태기 때문에 이들의 무공은 상당히 위협적이다. 사파에서는 검뿐 아니라 실리적인 싸움을 하기 위해 다양한 무기를 개발하여 사용하며, 각종 암기도 많이 애용하고 있다. 하지만 일반 사파들과는 또 다른 길을 가고 있는 방파가 있으니 바로 마교(魔敎)다. 마교에서는 오랜 역사와 전통에 따라 각종 체계적인 토납술이 개발되었고, 그들이 택한 것은 속성으로 내공을 쌓는 기술 중에서 가장 빠른 성취도를 이룰 수 있는 역혈기공(逆穴氣功)이었다. 운기조식을 할 때 일상적인 방향과는 반대로 내공을 몸에서 일주천시킨다면 대단히 빠른 속도로 내공을 쌓게 된다는 것을 알아낸 이후, 마교는 이 기공을 통해서 수많은 고수들을 배출했다. 세월이 흐르면서 다양한 역혈기공의 기법들이 개발되었고, 또 그에 따른 패도적인 마공들이 많이 개발되어 정파인들의 숨통을 끊어 놨다. 속성으로 내공을 쌓는 것은 좋은 점도 많았지만 몇 가지 문제점이 있었다. 첫째로 주화입마(走火入魔)에 빠질 가능성이 대단히 높았다. 내공을 쌓는 속도가 빠른 기술일수록 그 확률은 더욱 올라간다. 그 때문에 마교에 처음 입문한 무사들은 가장 빠르게 내공을 쌓는 기술을 사용하지만, 일정 수준 이상의 고수가 되면 좀 더 안전한 방법으로 바꾸어 수련한다. 따라서 마교에는 각 단계별 고수들에게 맞는 체계적인 심법들이 있었다. 잘못하면 지금까지 고생해서 쌓은 내공을 잃는 것은 물론이고 목숨까지 바쳐야 될 것이 뻔하기 때문이었다. 하지만 거기에서 생기는 이점은 주화입마의 위험도를 잊어버릴 만큼 대단하다. 마교에서는 20대에 절정고수가 될 수 있을뿐더러 30대에 초절정고수로 올라설 수 있었다. 그래서 마교의 고수들은 외가의 무공보다는 장풍(掌風), 지풍(指風), 검풍(劍風), 검기(劍氣) 등을 이용하여 적을 공격하는 내가의 무공을 사용했고, 특히나 패도적인 장풍을 쏘아 내는 기법들이 발달해 있었다. 두 번째 문제점은 산공(散功)의 위험이다. 엄청난 고통과 함께 자신이 여태까지 쌓아 놓은 내공이 일순간에 사라지는 것이다. 그 고통의 시간은 내공을 얼마나 쌓았느냐에 따라 다르며 절정의 고수일수록 고통의 시간은 증가한다. 하지만 마교에서 그것이 크게 문제되지 않는 것은 대부분의 경우 산공은 늙거나 병들어서 죽기 일보 직전에 벌어지기 때문이다. 그래서 마교의 고수들은 정파의 고수들처럼 편안한 죽음을 맞이하게 되기를 염원했다. 또 하나의 문제점은 일정 수준 이상 무공을 쌓고 나면 벽에 막힌 것처럼 더 이상 진보하지 않는다는 점이다. 마교의 고수들은 이것을 ‘보이지 않는 벽’이라고 불렀는데, 그 벽을 뚫으면 마(魔)의 정점(頂点)이라고 불리는 극마(極魔)의 경지로 들어설 수 있다. 정파에서 삼경의 고수가 있듯이 마교에서도 그들이 익히기를 염원하는 경지가 있다. 그 첫째가 마인(魔人)의 정점인 극마(極魔)의 경지다. 이 경우 역시 온몸이 무예를 시전하기에 최적의 상태로 바뀌는 환골탈태(換骨奪胎)를 경험하며, 그를 통해 반로환동한다. 극마의 고수는 마기(魔氣)를 몸 안에 고루 갈무리하여 자연스럽게 뻗어 나오는 마기만으로 사람들을 전율시키는데, 내력이 약한 사람들은 그것만으로도 투지를 잃고, 보통 사람들은 생명을 잃기도 한다. 또 마음먹기에 따라 완벽하게 마기를 몸 안에 갈무리하여 밖에 드러나지 않게 할 수도 있었다. 뿜어낸 마기만으로 능히 주변의 사람들을 죽일 수 있고, 손가락을 들어 작은 산을 무너뜨릴 수 있는 극마의 경지는 정파의 화경과 거의 비슷한 수준으로, 현존하는 극마의 경지에 이른 고수는 네 명이며 사람들은 이들을 4마제(四魔帝) 또는 4천왕(四天王)이라 부르며 두려워한다. 그들은 보통 때는 마기를 거의 밖으로 드러내지 않지만 기분이 나쁠 때면 자신도 모르게 살인적인 마기를 밖으로 흘린다. 그렇기에 그것을 보는 수하들은 피가 얼어붙는 공포를 느끼게 되는 것이다. 둘째는 탈마(脫魔)의 경지로, 마인들이 오를 수 있는 최고의 경지다. 탈마의 경지에 이르면 만독불침(萬毒不侵)의 상태가 된다. 아직 탈마에 이른 고수는 단 한 명도 배출되지 않았기에 극마의 경지가 화경과 비슷한 점에 착안하여 탈마의 경지를 현경과 비슷하지 않을까 추측하고 있다. 이 경지가 탈마로 불리는 이유는 모든 마인이 두려워하는 산공을 겪지 않는 수준일 것이라고 보는 의견이 지배적이기 때문이다. 어쨌든 마의 최고 경지라고 볼 수 있다. 그 윗단계는 없는데, 일부 마인들은 극마와 화경이 비슷함에 착안하여 만든 경지가 탈마인 만큼, 탈마의 위는 아마도 정파의 생사경과 같을 것이라고 조심스럽게 추측한다. 그들은 무공의 시작은 다르지만 마지막은 같은 것으로 종결지어질 것이라고 주장한다. 그러나 사실 탈마의 경지에 이른 사람도 없는 형편이었으니 그 추측은 어디까지나 일부 마인들의 망상일 뿐이라고 정파에서는 일축하고 있다. 『묵향 2권에서 계속』</string>
+    <string name="content_download_cancel">다운로드가 취소 되었습니다.</string>
+    <string name="content_download_error">다운로드 중 에러가 발생하였습니다.</string>
+    <string name="content_list_store_work">스토어에서 전체 이야기를 만나보세요</string>
+    <string name="contents_available_left">%s 남음</string>
+    <string name="contents_buy_success_msg">구매 완료되었습니다.</string>
+    <string name="contents_download_left">%s 남음</string>
+    <string name="contents_expired">대여 기간 만료</string>
+    <string name="contents_lend_success_msg">대여 완료되었습니다.</string>
+    <string name="contents_total_count" formatted="false">총 %d%s 보유</string>
+    <string name="cookie_shop">쿠키샵</string>
+    <string name="cookies_use_info">사용 가능 쿠키:&lt;font color=#27b1e4>&lt;b>%1$d개&lt;/b>&lt;/font>&lt;br/>&lt;br/>&lt;font color=#27b1e4>쿠키 %2$d개를 사용&lt;/font>하여&lt;br/>%3$s %4$d%5$s을(를) %6$s합니다.</string>
+    <string name="cooky_purchase_success_msg">쿠키 구매 완료되었습니다.</string>
+    <string name="cooky_terms_agree_request_toast">약관에 동의해주세요.</string>
+    <string name="copy_to_clipboard">클립보드로 복사했습니다.</string>
+    <string name="crop_image_notify_finish">자르기를 종료하시겠습니까?</string>
+    <string name="current_version">현재버전</string>
+    <string name="cut_edit_can_not_add_text_msg">더 이상 텍스트 상자를 추가할 수 없습니다.</string>
+    <string name="cut_edit_font_download_message">"%1$s
+
+용량 : %2$s
+제공 : %3$s
+
+글꼴을 다운로드 하시겠습니까?"</string>
+    <string name="cut_edit_font_downloading">다운로드 중</string>
+    <string name="cut_edit_font_not_found_msg">폰트 정보를 받아오지 못하였습니다. 네트워크 상태를 확인해주세요.</string>
+    <string name="cut_edit_image_save_error_msg">일시적인 에러가 발생하였습니다.</string>
+    <string name="cut_edit_notify_finish">"편집 내용이 저장되지 않았습니다.
+이전으로 돌아가시겠습니까?"</string>
+    <string name="cut_edit_text_hint">더블탭하여 글쓰기</string>
+    <string name="cuttoon_display_title">컷 이미지 공유하기</string>
+    <string name="daily_sort_last_update">업데이트순</string>
+    <string name="daily_sort_registered_date">오픈순</string>
+    <string name="daily_sort_star_score">별점순</string>
+    <string name="daily_sort_title">제목순</string>
+    <string name="daily_sort_view_count">조회순</string>
+    <string name="default_etiquette_time">오전 00:00</string>
+    <string name="default_firstname">길동</string>
+    <string name="default_lastname">홍</string>
+    <string name="default_web_client_id">969487732800-hqrrfr5oqcfh2659amo55bqk46re50g5.apps.googleusercontent.com</string>
+    <string name="delete">삭제</string>
+    <string name="deleteAll">전체삭제</string>
+    <string name="deleteAll_msg_read">"내가 본 웹툰을
+모두 삭제하시겠습니까?"</string>
+    <string name="deleteAll_msg_subscribe">"관심웹툰을
+모두 삭제하시겠습니까?"</string>
+    <string name="deleteAll_msg_tempsave">"저장된 웹툰을
+모두 삭제하시겠습니까?"</string>
+    <string name="deleteExpiredAll">만료 전체삭제</string>
+    <string name="delete_checked_items_all">모든 기기에서 파일, 목록 삭제</string>
+    <string name="delete_checked_items_device_only">이 기기에서 파일만 삭제</string>
+    <string name="delete_checked_items_error_because_login">"비로그인 상태에서는,
+목록을 삭제할 수 없습니다."</string>
+    <string name="delete_checked_items_error_because_network">네트워크가 연결되지 않은 경우, 목록을 삭제할 수 없습니다.</string>
+    <string name="delete_checked_items_just_file_because_login">"비로그인 상태에서는,
+파일 삭제만 가능합니다."</string>
+    <string name="delete_checked_items_just_file_because_network">네트워크가 연결되지 않은 경우, 파일 삭제만 가능합니다.</string>
+    <string name="delete_checked_items_subtitle">"선택된 항목은 보관함 > 휴지통에서
+복원할 수 있습니다."</string>
+    <string name="delete_checked_items_subtitle_just_files">기기 내 파일만 삭제 가능합니다.</string>
+    <string name="delete_checked_items_subtitle_list_maintained">보관함 목록은 유지됩니다.</string>
+    <string name="delete_checked_items_title">선택 항목을 삭제하시겠습니까?</string>
+    <string name="delete_msg_read">최근 본 웹툰에서 삭제하시겠습니까?</string>
+    <string name="delete_msg_subscribe">관심웹툰에서 삭제하시겠습니까?</string>
+    <string name="delete_msg_tempsave">저장된 웹툰을 삭제하시겠습니까?</string>
+    <string name="delete_selected_item">선택삭제</string>
+    <string name="delete_text">이전 버전의 임시저장 목록을 초기화 중입니다. 해당 작업이 완료되기까지 시간이 다소 소요될 수 있습니다.</string>
+    <string name="dereg_subscribe_dlg_text">관심웹툰에서 해제되었습니다.</string>
+    <string name="detail_total_count" formatted="false"> (총 %d%s)</string>
+    <string name="device_registe_app_name_books">네이버북스앱</string>
+    <string name="device_registe_app_name_webtoon">네이버웹툰앱</string>
+    <string name="dialog_comment_recommend_alread_antipathy">"이미 '싫어요'를 누르셨습니다."</string>
+    <string name="dialog_comment_recommend_alread_sympathy">"이미 '좋아요'를 누르셨습니다."</string>
+    <string name="dialog_comment_recommend_antipathy">이 댓글을 싫어합니다.</string>
+    <string name="dialog_comment_recommend_antipathy_cancel">싫어요를 취소합니다.</string>
+    <string name="dialog_comment_recommend_antipathy_my_comment">"자신의 글은 '싫어요'를 하실 수 없습니다."</string>
+    <string name="dialog_comment_recommend_sympathy">이 댓글을 좋아합니다.</string>
+    <string name="dialog_comment_recommend_sympathy_cancel">좋아요를 취소합니다.</string>
+    <string name="dialog_comment_recommend_sympathy_my_comment">"자신의 글은 '좋아요'를 하실 수 없습니다."</string>
+    <string name="dialog_confirm_device_change_message">"로그인하신 아이디에 이미 5대의 기기가 등록되어 있습니다.
+본 기기를 신규로 등록하시겠습니까?
+
+* ID당 5대까지 등록 가능
+기기 변경은 30일에 2회 가능."</string>
+    <string name="dialog_confirm_device_change_negative">취소</string>
+    <string name="dialog_confirm_device_change_positive">변경</string>
+    <string name="dialog_device_positive">확인</string>
+    <string name="dialog_device_select_message">"신규 등록을 위해 보유중인 휴대폰 중 해제할 기기를 선택해주세요.
+(최대 5대까지만 등록 가능합니다.)"</string>
+    <string name="dialog_device_select_title">해제기기 선택</string>
+    <string name="dialog_msg_age_restrict">이 콘텐츠는 만 19세 이상만 이용할 수 있습니다.</string>
+    <string name="dialog_msg_high_capacity_scrap_sync">책갈피 동기화 대상 목록이 %d개를 초과합니다. 네트워크 환경에 따라 최대 1분이상 소요될 수 있습니다. 지금 진행하시겠습니까?</string>
+    <string name="dialog_msg_login_another_id">웹툰앱에 다른 아이디로 로그인되어 있습니다. 현재 이용중인 아이디로 다시 로그인 하시겠습니까?</string>
+    <string name="dialog_msg_need_login">"로그인이 필요한 서비스입니다
+로그인 후 이용해 주세요."</string>
+    <string name="dialog_mystore_interest_confirm_to_delete_message">관심 만화를 삭제하시겠습니까?</string>
+    <string name="dialog_mystore_interest_confirm_to_delete_negative">취소</string>
+    <string name="dialog_mystore_interest_confirm_to_delete_positive">확인</string>
+    <string name="dialog_need_to_upgrade_effecttoon_negative">취소</string>
+    <string name="dialog_need_to_upgrade_effecttoon_positive">확인</string>
+    <string name="dialog_need_to_upgrade_effecttoon_title">이 웹툰은 다양한 효과가 적용되어 있습니다. 더욱 실감나는 감상을 위해 최신버전으로 업데이트하시겠습니까?</string>
+    <string name="dialog_need_to_upgrade_negative">취소</string>
+    <string name="dialog_need_to_upgrade_positive">확인</string>
+    <string name="dialog_need_to_upgrade_title">네이버 웹툰 최신 버전에서 지원하는 기능입니다. 지금 업데이트 하시겠습니까?</string>
+    <string name="dialog_registe_device_not_available_message">"로그인하신 아이디에 이미 5대의 기기가 등록되어 있으며, 30일 이내 변경 가능한 횟수를 모두 사용하였습니다.
+
+* ID당 5대까지 등록가능
+*기기 변경은 30일에 2회 가능"</string>
+    <string name="dialog_registe_device_not_available_positive">확인</string>
+    <string name="dialog_title_age_restriction">연령 제한 안내</string>
+    <string name="dialog_unit_not_serial">권을</string>
+    <string name="dialog_unit_serial">화를</string>
+    <string name="dialog_uri_scheme_update_negative">나중에</string>
+    <string name="dialog_uri_scheme_update_positive">업데이트</string>
+    <string name="dialog_uri_scheme_update_title">최신 버전의 네이버 웹툰에서 지원하는 기능입니다. 지금 업데이트 하시겠습니까?</string>
+    <string name="dlgmsg_expired_download_authority">다운로드 권한이 만료되었습니다.</string>
+    <string name="dlgmsg_move_market">마켓으로 이동하시겠습니까?</string>
+    <string name="dlgmsg_viewer_open_failed">"문서를 가져오는데 실패했습니다.[%1$d, %2$s]
+네이버 고객센터(1588–3820)로 문의해 주세요."</string>
+    <string name="download">다운로드</string>
+    <string name="download_all_subtitle">"현재 목록에서 총 %d개의 다운로드
+가능한 항목이 있습니다."</string>
+    <string name="download_all_title">모두 다운로드 하시겠습니까?</string>
+    <string name="download_running_notice">다운로드 진행중입니다. 잠시 후에 시도해주세요.</string>
+    <string name="download_saved_range_fmt">(%1$d회 - %2$d회 %3$s)</string>
+    <string name="download_unavailable">다운로드 가능한 항목이 없습니다.</string>
+    <string name="drag_star_rating">좌우로 드래그하세요.</string>
+    <string name="dust_off_tip">"머리에 뭐가 묻었네
+좀 털어줄까?"</string>
+    <string name="ebook_group_detail_sort_buy">구매순</string>
+    <string name="ebook_group_detail_sort_newest">최신발행순</string>
+    <string name="ebook_group_detail_sort_publication">발행일순</string>
+    <string name="edit_clear_all">전체해제</string>
+    <string name="edit_delete_all">전체삭제</string>
+    <string name="edit_select_all">전체선택</string>
+    <string name="effect_camera_reshot">다시찍기</string>
+    <string name="effect_camera_shot">사진찍기</string>
+    <string name="end_btn_preview">미리보기</string>
+    <string name="end_pop_up_default_negative">취소</string>
+    <string name="end_pop_up_default_positive">확인</string>
+    <string name="end_pop_up_default_title">알림</string>
+    <string name="end_pop_up_do_buy">구매하기</string>
+    <string name="end_pop_up_do_lend">대여하기</string>
+    <string name="end_pop_up_next_content">다음화</string>
+    <string name="episode_charge_confirm_alert_message">"유료로 볼 수 있는 회차입니다.
+결제하시겠습니까?"</string>
+    <string name="episode_charge_header_count">&lt;font color=\"#00d564\">%1$d개&lt;/font>의 미리보기가 있습니다</string>
+    <string name="episode_charge_info_help">웹툰 유료보기 이용안내</string>
+    <string name="episode_charge_info_lend">대여</string>
+    <string name="episode_charge_info_price">가격 정보</string>
+    <string name="episode_charge_info_use">결제 및 이용방법</string>
+    <string name="episode_charge_info_value">쿠키 %1$d개 / 열람기간 %2$d일</string>
+    <string name="episode_charge_invalid_pass_count">"정상 처리되지 않았습니다.
+새로고침 후 다시 이용해주세요."</string>
+    <string name="episode_charge_lend_complete">대여완료 되었습니다.</string>
+    <string name="episode_charge_menu_help">유료보기 이용안내</string>
+    <string name="episode_charge_menu_save">소장하기</string>
+    <string name="episode_charge_menu_share">공유하기</string>
+    <string name="episode_charge_menu_temp_save">임시저장</string>
+    <string name="episode_charge_today_open">오늘밤 무료</string>
+    <string name="episode_charge_vote_bad">"미리보기 기간에는
+‘싫어요’를 하실 수 없습니다."</string>
+    <string name="episode_charge_vote_good">"미리보기 기간에는
+‘좋아요’를 하실 수 없습니다."</string>
+    <string name="episode_cooky_shop_data">contentsNo=%1$d&amp;autoUsePassCount=%2$d</string>
+    <string name="episode_dialog_asset_download_error_cancel_message">다운로드가 취소 되었습니다.</string>
+    <string name="episode_dialog_asset_download_error_message">"디바이스 저장 공간이 부족하여
+작품을 감상할 수 없습니다."</string>
+    <string name="episode_dialog_asset_download_network_error_message">"다운로드에 실패했습니다.
+다시 시도해 주세요."</string>
+    <string name="episode_free">무료 제공중</string>
+    <string name="episode_free_count">무료</string>
+    <string name="episode_item_store_type_message">&lt;font color=#fe4e31>스토어&lt;/font>&lt;font color=#999999>에서 만나보세요&lt;/font></string>
+    <string name="episode_item_try_download_paid_type">유료 콘텐츠는 다운로드할 수 없습니다.</string>
+    <string name="episode_list_cooky_count">쿠키%1$d개</string>
+    <string name="episode_list_range_setting_select_count_zero">선택 가능한 콘텐츠가 없습니다.</string>
+    <string name="episode_list_range_setting_title">임시저장 범위설정</string>
+    <string name="episode_list_temp_select_bottom_location">"저장된 웹툰은 'MY 웹툰>임시저장 웹툰'에서 확인하세요."</string>
+    <string name="episode_list_temp_select_bottom_temp_save">임시저장</string>
+    <string name="episode_list_temp_select_bottom_title">저작권 보호를 위해 콘텐츠별로 1회 48시간의 임시저장만 지원됩니다.</string>
+    <string name="episode_list_temp_select_mode_select_all">전체 선택</string>
+    <string name="episode_list_temp_select_mode_selected_count">(%d)</string>
+    <string name="episode_list_temp_select_mode_unselect_all">전체 해제</string>
+    <string name="episode_payment_invalid_alart_title">알림</string>
+    <string name="episode_payment_invalid_group_id_message">"단체 아이디로는 미리보기 하실 수 없습니다.
+ 개인 아이디로 이용 가능합니다."</string>
+    <string name="episode_payment_invalid_group_id_positive_title">확인</string>
+    <string name="episode_remain_free_day">%1$d일 후 무료</string>
+    <string name="episode_remain_rights_day">%1$d일</string>
+    <string name="episode_remain_rights_hour">%1$d시간</string>
+    <string name="episode_remain_rights_min">%1$d분 남음</string>
+    <string name="epub_file_spinner_prompt">Choose a file..</string>
+    <string name="everlasting">구매</string>
+    <string name="exist_not_save">이미 저장된 회차는 저장되지않습니다.</string>
+    <string name="exit_dlg_msg">네이버 웹툰을 종료하시겠습니까?</string>
+    <string name="exp_edition">체험판</string>
+    <string name="expired_or_deleted_image_files">임시저장 기간이 만료되었거나 파일이 손상되었습니다.</string>
+    <string name="expired_subtitle">"스토어로 이동하여 다시 대여
+하시겠습니까?"</string>
+    <string name="expired_time_dialog_msg">이 콘텐츠는 이미 1회 임시저장 후 기간이 만료된 콘텐츠입니다. 온라인 상태에서만 열람이 가능합니다. 네트워크 연결 후 열람 화면으로 이동하시겠습니까?</string>
+    <string name="expired_time_fmt">만료 %1$d시간 %2$d분 남음</string>
+    <string name="expired_time_over">저장기간만료</string>
+    <string name="expired_time_over_block_dialog_msg">저장기간이 만료된 웹툰입니다.</string>
+    <string name="expired_title">이용기간이 만료된 콘텐츠입니다.</string>
+    <string name="facebook_app_id">455753897775430</string>
+    <string name="facebook_login_fail_with_exception">로그인에 실패했습니다. 다시 시도해주세요.</string>
+    <string name="facebook_not_authorized">"권한을 허용하지 않았습니다.
+권한 설정 페이지로 이동하시겠습니까?"</string>
+    <string name="facebook_service_error">페이스북 서비스를 이용할 수 없습니다.</string>
+    <string name="facebook_share_fail">게시에 실패했습니다. 다시 시도해주세요.</string>
+    <string name="facebook_title">페이스북 공유하기</string>
+    <string name="facebook_valid_token">"페이스북 로그인이 필요한 기능입니다.
+로그인 하시겠습니까?"</string>
+    <string name="favorite_push_setting_on_text">"설정 > 푸시 알림 > 관심웹툰 업데이트 알림이 꺼져있습니다
+
+알림을 켜고 업데이트 소식을 받으시겠어요?"</string>
+    <string name="favorite_webtoon_network_error">"네트워크 문제로
+관심 웹툰 목록을 가져오지 못했습니다."</string>
+    <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
+    <string name="finish_application">뒤로 버튼을 한번 더 누르시면 종료됩니다.</string>
+    <string name="firebase_database_url">https://api-project-969487732800.firebaseio.com</string>
+    <string name="following_books_preview">&lt;font color=#465897>다음 %1$s&lt;/font> &lt;font color=#2B2B2C>&lt;/font> 미리 보기&lt;/font></string>
+    <string name="gcm_defaultSenderId">969487732800</string>
+    <string name="give_star_rating">별점주기</string>
+    <string name="go_to_naverapp">네이버 앱으로 이동</string>
+    <string name="google_api_key">AIzaSyD3UZgOr-q24pmUTGO4rt-Vfbd23jPSQ3c</string>
+    <string name="google_app_id">1:969487732800:android:8acb3815f3a55b0a</string>
+    <string name="google_crash_reporting_api_key">AIzaSyD3UZgOr-q24pmUTGO4rt-Vfbd23jPSQ3c</string>
+    <string name="google_storage_bucket">api-project-969487732800.appspot.com</string>
+    <string name="group_view">작품별 보기</string>
+    <string name="group_view_off">OFF</string>
+    <string name="group_view_on">ON</string>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="hmac_key">39X8qcx6nZnK7nGWZu9Ts5APx5nHvOr54gjIWPnqqaBOy2VtUE9g0iEM6r6TWUnq</string>
+    <string name="hoe">회</string>
+    <string name="horror_last_image_tag">horror_last_image</string>
+    <string name="horror_type3_calling">영상통화 요청중</string>
+    <string name="horror_type3_ghost">소미</string>
+    <string name="horror_type_tag">horror_type</string>
+    <string name="host_ace_client">ace.naver.com</string>
+    <string name="host_lcs">lcs.naver.com</string>
+    <string name="host_nclick">http://cc.naver.com</string>
+    <string name="host_splog">sp.naver.com</string>
+    <string name="how_to_use">이용안내</string>
+    <string name="id_cancel">취소</string>
+    <string name="js_dialog_before_unload">"%s
+
+다른 페이지로 이동하시겠습니까?"</string>
+    <string name="js_dialog_before_unload_negative_button">이 페이지에 머무르기</string>
+    <string name="js_dialog_before_unload_positive_button">이 페이지 닫기</string>
+    <string name="js_dialog_before_unload_title">탐색 확인</string>
+    <string name="js_dialog_cancel">취소</string>
+    <string name="js_dialog_ok">확인</string>
+    <string name="js_dialog_title">"'%s' 페이지 내용:"</string>
+    <string name="js_dialog_title_default">자바스크립트</string>
+    <string name="kakao_app_key">bdc9dc9d5dea693515240fbb817e66c8</string>
+    <string name="kakao_web_link_button_title">네이버웹툰으로 열기</string>
+    <string name="key_body_view">BodyView</string>
+    <string name="key_notice_data">NaverNoticeData</string>
+    <string name="kiss_tip">자꾸 입술만 보여..</string>
+    <string name="label_confirm_your_name">내 이름은.. </string>
+    <string name="label_doit_again">다시 해보자︎</string>
+    <string name="label_episode_locked">이전 화를 먼저 감상해주세요.</string>
+    <string name="label_input_your_name">"웹툰 캐릭터가
+내게 이름을 물어본다.."</string>
+    <string name="label_next_update">%1$d화는 %2$s 후 업데이트됩니다.</string>
+    <string name="label_next_update_days">%d일 </string>
+    <string name="label_next_update_hours">%d시간</string>
+    <string name="label_next_update_minute">%d분</string>
+    <string name="label_photo_policy">촬영된 사진이나 영상은 사용자 기기에만 저장되며 외부 공개되지 않습니다</string>
+    <string name="label_reward_message1">기억해줘, 우리의 순간들</string>
+    <string name="label_reward_message2">하루 한 번 영희의 순간이 공개됩니다.</string>
+    <string name="label_setting_permission_camera">카메라 권한 허용하기︎</string>
+    <string name="label_setting_permission_mic">마이크 권한 허용하기︎</string>
+    <string name="label_setting_permission_storage">저장 권한 허용하기︎</string>
+    <string name="label_take_picture_again">다시 찍어보자︎</string>
+    <string name="label_update_alarm">%s&lt;br>&lt;font color=#00d564>그녀의 메시지&lt;/font>를 놓치지 마세요!</string>
+    <string name="label_update_alarm_item1">업데이트 알림과</string>
+    <string name="label_update_alarm_item2">관심웹툰 등록하고</string>
+    <string name="label_update_alarm_off">관심웹툰 업데이트 알림이 꺼져 있습니다.&lt;br>&lt;font color=#00d564>그녀의 메시지&lt;/font>를 받으시겠어요?</string>
+    <string name="label_update_ok">좋아요︎</string>
+    <string name="label_warnning_replace_face">다시 찍을 경우 기존 데이터는 삭제됩니다</string>
+    <string name="label_webtoonizer_confirm">내 얼굴각은 소중하니깐!</string>
+    <string name="label_webtoonizer_guide">내 얼굴각은 소중하니깐!</string>
+    <string name="lapse_of_time_fmt">%d일전</string>
+    <string name="legal_notice">법적 공지</string>
+    <string name="legal_notice_copyright_text">"이 프로그램과 웹툰 콘텐츠는 저작권법의 보호를 받습니다.
+이 프로그램을 네이버웹툰 주식회사의 허가 없이 복제, 개작, 번역, 배포, 발행, 전송하는 행위 및 프로그램 조작을 통해 웹툰 콘텐츠의 저장 기간을 연장하거나 다른 매체로 복제하는 것을 금지합니다."</string>
+    <string name="legal_notice_title_copyright">저작권법</string>
+    <string name="legal_notice_title_opensource">오프소스 라이선스</string>
+    <string name="lend">대여</string>
+    <string name="lending">대여</string>
+    <string name="library_delete_expired_item">만료삭제</string>
+    <string name="library_delete_selected_item">선택삭제</string>
+    <string name="library_empty_go_to_trash">휴지통 바로가기</string>
+    <string name="library_empty_notice_content1">"보관함 목록을 편집하시면 '네이버 북스앱'과 '네이버 N스토어'의 보관함에도 동시에 반영됩니다."</string>
+    <string name="library_empty_notice_content2">삭제한 항목은 휴지통에서 확인하고, 복원할 수 있습니다.</string>
+    <string name="library_empty_notice_title">이용 안내</string>
+    <string name="library_empty_title">보관중인 콘텐츠가 없습니다.</string>
+    <string name="library_init_notice_button">보관함 목록 불러오기</string>
+    <string name="library_init_notice_content">"보관함 목록 구성이 완료되지 않았습니다.
+
+보관함을 이용하기 위하여
+초기 목록 구성이 완료되어야 합니다."</string>
+    <string name="library_see_btn_text">보기</string>
+    <string name="library_see_option">보기옵션</string>
+    <string name="library_title">%1$s %2$s</string>
+    <string name="library_unavailable_title">이용가능한 콘텐츠가 없습니다.</string>
+    <string name="like_it_already_do">이미 좋아요한 웹툰입니다.</string>
+    <string name="like_it_cancel">취소되었습니다.</string>
+    <string name="like_it_check_friends">친구확인</string>
+    <string name="like_it_close">닫기</string>
+    <string name="like_it_connect_top_1">이 웹툰에</string>
+    <string name="like_it_connect_top_2">좋아요한 라인친구를</string>
+    <string name="like_it_connect_top_3">확인할 수 있어요.</string>
+    <string name="like_it_connect_top_4">라인계정 연동하면 좋아요한 친구를 알 수 있어요.</string>
+    <string name="like_it_failed">현재 사용이 원활하지 않습니다. 잠시후 다시 이용해주세요</string>
+    <string name="like_it_friends_like_alone">%s님이 좋아합니다.</string>
+    <string name="like_it_friends_like_just_friends">라인친구 %s명이 좋아합니다.</string>
+    <string name="like_it_friends_like_withfriends">%1$s님외 라인친구 %2$s명이 좋아합니다.</string>
+    <string name="like_it_link_id_error">라인계정 연동에 실패했습니다.</string>
+    <string name="like_it_loading">좋아요한 친구정보를 불러오는 중입니다.</string>
+    <string name="like_it_not_see">다시 보지 않기</string>
+    <string name="like_it_service_start">좋아요 시작일</string>
+    <string name="like_it_service_start_date">2014.01.23</string>
+    <string name="loadmore_20">20개 더보기</string>
+    <string name="loadmore_go_top">맨위로</string>
+    <string name="loadmore_loading">불러오기 중</string>
+    <string name="login">로그인</string>
+    <string name="login_info">로그인 정보</string>
+    <string name="long_click_delete">삭제하기</string>
+    <string name="long_click_do_download">다운로드 하기</string>
+    <string name="long_click_go_to_detail">작품 상세페이지 이동</string>
+    <string name="long_click_read_content">뷰어로 작품 읽기</string>
+    <string name="long_click_share">공유하기</string>
+    <string name="long_click_show_list">목록 보기</string>
+    <string name="low_storage_error">Face detector dependencies cannot be downloaded due to low device storage</string>
+    <string name="markbox_button_cancel">취소</string>
+    <string name="markbox_button_confirm">확인</string>
+    <string name="markbox_drag_msg">좌우로 드래그하세요.</string>
+    <string name="media_unmounted_cancel_download_msg">SD 카드가 연결되어있지 않거나 USB 외장 메모리를 사용하여 다운로드를 진행할 수 없습니다.</string>
+    <string name="media_unmounted_cannot_run_viewer_msg">USB 연결 해제 후 이용해주세요.</string>
+    <string name="menu_my_store">MY웹툰플러스</string>
+    <string name="menu_store">웹툰플러스</string>
+    <string name="message_save_done">저장했습니다.</string>
+    <string name="move">이동</string>
+    <string name="move_top">맨위로</string>
+    <string name="movie_ad_download">다운로드</string>
+    <string name="movie_ad_join_event">이벤트 참여</string>
+    <string name="movie_ad_more">더 보기</string>
+    <string name="movie_ad_replay">다시보기</string>
+    <string name="movie_ad_resume">이어보기</string>
+    <string name="msg_limit_firstname">세글자 까지만 가능해요.</string>
+    <string name="msg_limit_lastname">두글자 까지만 가능해요.</string>
+    <string name="msg_previous_episode_first">이전 화부터 감상해주세요</string>
+    <string name="my_info_all">전체</string>
+    <string name="my_payment_cancel_already_refund">이미 취소되었습니다.</string>
+    <string name="my_payment_cancel_description_1">"환불은 결제하신 수단으로 환불됩니다
+단 사용하신 쿠키의 유효기간이 지난 경우 해당 쿠키는 환불되지 않습니다."</string>
+    <string name="my_payment_cancel_description_2">쿠키 잔액은 MY > 쿠키샵에서 확인 가능하며, MY > 쿠키샵에서 쿠키 구매 또는 취소 하실 수 있습니다. (구매 후 7일 이내 사용내역 없는 경우에 한함)</string>
+    <string name="my_payment_cancel_description_3">구매시 적립된 포인트는 취소됩니다.</string>
+    <string name="my_payment_cancel_description_4">환불은 결제하신 수단으로 환불됩니다.</string>
+    <string name="my_payment_cancel_description_5">네이버페이 포인트 잔액은 네이버페이에서 확인 가능하며, 직접 충전취소/인출이 가능합니다. (포인트 전체 충전취소, 인출만 가능)</string>
+    <string name="my_payment_cancel_description_6">상품 환불 시 사용하신 쿠폰도 환불됩니다. 단 쿠폰의 유효기간이 이미 지난 경우 해당 쿠폰은 환불되지 않습니다.</string>
+    <string name="my_payment_cancel_description_7">상품 구매 시 지급된 쿠폰이 있을 경우 자동 회수됩니다.</string>
+    <string name="my_payment_cancel_dialog_message">구매취소 하시겠습니까?</string>
+    <string name="my_payment_cancel_expired_cookie">유효기간 만료 쿠키</string>
+    <string name="my_payment_cancel_impossible">"구매취소가 불가합니다.
+고객센터로 문의 주세요."</string>
+    <string name="my_payment_cancel_linek_naver_pay_url">https://m.pay.naver.com</string>
+    <string name="my_payment_cancel_link_match_text">네이버페이</string>
+    <string name="my_payment_cancel_ok">구매취소가 완료되었습니다.</string>
+    <string name="my_payment_cancel_refund_type_cookie">쿠키</string>
+    <string name="my_payment_cancel_title_all_volume">%1$s %2$s</string>
+    <string name="my_payment_cancel_title_normal">%1$s 총 %2$d%3$s</string>
+    <string name="my_payment_cancel_total_cookie">총 사용 쿠키</string>
+    <string name="my_payment_cannot_cancel_message">"사용 내역이 있어 구매취소가 불가합니다.
+구매 후 7일 이내 사용하지 않은 상품에 한하여 구매취소 하실 수 있습니다."</string>
+    <string name="my_payment_cookie_price">쿠키 %d개</string>
+    <string name="my_payment_count">%d개</string>
+    <string name="my_payment_description_1">사용하지 않은 콘텐츠에 한하여, 구매 후 7일 이내 구매취소 가능합니다.</string>
+    <string name="my_payment_description_2">시리즈 묶음 결제 또는 전권 구매/대여 상품은 전체 취소만 가능합니다.</string>
+    <string name="my_payment_description_3">상품 구매시 지급된 쿠폰 또는 쿠키를 사용한 경우, 해당 상품은 구매 취소가 불가합니다.</string>
+    <string name="my_payment_description_4">쿠키로 결제하신 경우 사용하신 쿠키의 유효기간이 이미 지났다면, 구매취소 후 해당 쿠키는 환불되지 않습니다.</string>
+    <string name="my_payment_detail_ticket_date_format">yyyy.MM.dd HH:mm:ss 까지</string>
+    <string name="my_payment_need_login">로그인하시면 최근 1개월간 결제하신 내역을 확인할 수 있습니다.</string>
+    <string name="my_payment_normal_price">%,d원</string>
+    <string name="my_payment_show_only_3_month_data">"최근 1개월까지의 내역만 제공합니다.
+그 이전의 내역은 N스토어에서 확인해주세요."</string>
+    <string name="my_payment_title_all_volume">%1$s 전권</string>
+    <string name="my_payment_title_no_serial">%1$s 총 %2$d권</string>
+    <string name="my_payment_title_serial">%1$s 총 %2$d화</string>
+    <string name="my_recent_webtoon_continue_number">%1$d화</string>
+    <string name="my_tab_favorite_comic">관심 만화</string>
+    <string name="my_tab_favorite_webtoon">관심웹툰</string>
+    <string name="my_tab_library">보관함</string>
+    <string name="my_tab_payment">결제내역</string>
+    <string name="my_tab_recent_webtoon">최근 본 웹툰</string>
+    <string name="my_tab_temp_save_webtoon">임시저장 웹툰</string>
+    <string name="my_toolbar_cookie_count">내 쿠키 %s</string>
+    <string name="my_toolbar_name">%s님</string>
+    <string name="my_toolbar_store_title">MY웹툰플러스</string>
+    <string name="my_toolbar_webtoon_title">MY웹툰</string>
+    <string name="my_webtoon_edit_cancel_btn">취소</string>
+    <string name="my_webtoon_newest_continuous">이어보기</string>
+    <string name="my_webtoon_newest_continuous_number">회</string>
+    <string name="my_webtoon_submenu_count_1">총</string>
+    <string name="my_webtoon_submenu_count_2">개</string>
+    <string name="mystore_cookie_shop_need_login_text">"로그인하시면
+내 쿠키 보유 현황을 확인하고
+쿠키를 구매할 수 있습니다."</string>
+    <string name="mystore_interest_book_empty_list_text">관심 만화가 없습니다.</string>
+    <string name="mystore_interest_book_need_login_text">"로그인하시면 웹툰플러스에 등록하신
+관심 만화를 볼 수 있습니다."</string>
+    <string name="mystore_interest_content_info_complete">완결</string>
+    <string name="mystore_interest_content_info_text_format">총 %1$d화(%2$s)</string>
+    <string name="mystore_interest_content_info_uncomplete">미완결</string>
+    <string name="mystore_interest_free">자유이용권</string>
+    <string name="mystore_interest_freevolume_info">%1$d권 무료</string>
+    <string name="mystore_my_coupon_need_login_text">"로그인하시면
+사용 가능한 쿠폰을
+확인할 수 있습니다."</string>
+    <string name="mystore_my_info_need_login_text">"로그인하시면
+보유한 네이버페이 포인트
+현황을 확인할 수 있습니다."</string>
+    <string name="naver_corp">© NAVER WEBTOON CORP.</string>
+    <string name="naver_pay_point_use_msg">네이버 페이포인트 사용</string>
+    <string name="need_facebook_install">페이스북 앱 설치가 필요합니다.</string>
+    <string name="need_storage_permission">권한이 없어 저장할 수 없습니다.</string>
+    <string name="need_storage_permission_deny_ask_again">"권한이 없어 저장할 수 없습니다.
+'설정 > 네이버웹툰 > 앱권한'에서 저장 권한을 켜주세요."</string>
+    <string name="network_connect_err_msg">"네트워크 연결 상태를
+확인해주세요."</string>
+    <string name="network_error_message">"네트워크에 연결할 수 없습니다.
+네트워크 연결 상태를 확인하세요."</string>
+    <string name="network_error_msg1">"네트워크 문제로
+일부가 저장되지 않았습니다."</string>
+    <string name="network_error_msg2">"네트워크 문제로
+저장되지 않았습니다."</string>
+    <string name="network_error_msg3">"네트워크 문제로 연결되지 않았습니다.
+다시 시도해주세요."</string>
+    <string name="network_loading_error">네트워크 연결을 확인해주세요.</string>
+    <string name="network_wifi_not_available">이동통신망을 이용하여 만화를 보시면 별도의 데이터 통화료가 발생할 수 있습니다.</string>
+    <string name="new_webtoon_title">신작</string>
+    <string name="newest_comment_category_list_empty_text">"이번 컷에 댓글이 아직 없습니다.
+제일 먼저 댓글을 만들어 주세요."</string>
+    <string name="newest_comment_list_empty_text">"등록된 댓글이 없습니다.
+댓글을 남겨주세요."</string>
+    <string name="nloginglobal_auth_name">NAVER</string>
+    <string name="nloginresource_account_setting_url">https://nid.naver.com/login/ext/mobileUrlMapper.nhn?lang=%1$s&amp;device_id=%2$s&amp;mode=account_info</string>
+    <string name="nloginresource_activityname_add_simple_id">Simple Id Add</string>
+    <string name="nloginresource_activityname_inappbrowser">InAppBrowser</string>
+    <string name="nloginresource_activityname_normal_signin">Naver Sign-in</string>
+    <string name="nloginresource_activityname_onetimeloginnum_help">One-Time Login Number Help Page</string>
+    <string name="nloginresource_activityname_onetimeloginnum_view">One-Time Login Number Page</string>
+    <string name="nloginresource_activityname_signin_info">Sign-In Info</string>
+    <string name="nloginresource_activityname_simple_signin">Simple Sign-in</string>
+    <string name="nloginresource_activityname_snslogin_with_facebook">NAVER Sign-in with Facebook</string>
+    <string name="nloginresource_activityname_snslogin_with_line">NAVER Sign-in with Line</string>
+    <string name="nloginresource_activityname_snslogin_with_wechat">NAVER Sign-in with Wechat</string>
+    <string name="nloginresource_activityname_snslogin_with_weibo">NAVER Sign-in with Weibo</string>
+    <string name="nloginresource_facebook_app_id">293471457383333</string>
+    <string name="nloginresource_fb_login_protocol_scheme">fb293471457383333</string>
+    <string name="nloginresource_fido_btn_cancel">@string/nloginglobal_common_cancel</string>
+    <string name="nloginresource_fido_dialog_acquired_imager_dirty">"지문 센서를 깨끗이 닦고
+다시 시도하세요."</string>
+    <string name="nloginresource_fido_dialog_acquired_insufficient">"지문을 인식할 수 없습니다.
+다시 시도해 주세요."</string>
+    <string name="nloginresource_fido_dialog_acquired_partial">"지문이 일부만 인식되었습니다.
+다시 시도해 주세요."</string>
+    <string name="nloginresource_fido_dialog_acquired_too_fast">"손가락을 너무 빨리 움직였습니다.
+다시 시도해 주세요."</string>
+    <string name="nloginresource_fido_dialog_acquired_too_slow">"손가락을 너무 느리게 움직였습니다.
+다시 시도해 주세요."</string>
+    <string name="nloginresource_fido_dialog_error_canceled">지문 인식 작업이 취소되었습니다.</string>
+    <string name="nloginresource_fido_dialog_error_hw_not_available">"지문 인식 하드웨어를 사용할
+수 없습니다."</string>
+    <string name="nloginresource_fido_dialog_error_lockout">"지문인식 실패 횟수가 많아
+잠시 지문 인증 시도가 불가능합니다."</string>
+    <string name="nloginresource_fido_dialog_error_no_space">"지문을 저장할 수 없습니다.
+기존 지문을 삭제하세요."</string>
+    <string name="nloginresource_fido_dialog_error_timeout">"지문 인식 시간이 초과되었습니다.
+다시 시도하세요."</string>
+    <string name="nloginresource_fido_dialog_error_unable_to_process">다시 시도해 주세요.</string>
+    <string name="nloginresource_fido_naverpay_title">네이버페이 지문 인증</string>
+    <string name="nloginresource_fido_retry">다시 시도해주세요.</string>
+    <string name="nloginresource_fido_success">인증 성공하였습니다.</string>
+    <string name="nloginresource_fido_waiting_fingerprint">지문을 인식시켜 주세요.</string>
+    <string name="nloginresource_groupid_help_url">https://nid.naver.com/login/ext/mobileUrlMapper.nhn?lang=%1$s&amp;mode=help_groupid</string>
+    <string name="nloginresource_help_url">https://nid.naver.com/login/ext/mobileUrlMapper.nhn?lang=%1$s&amp;mode=help_nid</string>
+    <string name="nloginresource_id_found_url">https://nid.naver.com/login/ext/mobileUrlMapper.nhn?lang=%1$s&amp;device_id=%2$s&amp;mode=found_id</string>
+    <string name="nloginresource_otln_help_url">https://nid.naver.com/login/ext/mobileUrlMapper.nhn?lang=%1$s&amp;mode=help_otn</string>
+    <string name="nloginresource_otp_help_url">https://nid.naver.com/login/ext/mobileUrlMapper.nhn?lang=%1$s&amp;mode=help_otp</string>
+    <string name="nloginresource_pw_found_url">https://nid.naver.com/login/ext/mobileUrlMapper.nhn?lang=%1$s&amp;device_id=%2$s&amp;mode=found_pw</string>
+    <string name="nloginresource_signup_url">https://nid.naver.com/login/ext/mobileUrlMapper.nhn?lang=%1$s&amp;device_id=%2$s&amp;mode=signup</string>
+    <string name="nloginresource_snslogin_idpname_facebook">Facebook</string>
+    <string name="nloginresource_snslogin_idpname_line">Line</string>
+    <string name="nloginresource_snslogin_idpname_wechat">Wechat</string>
+    <string name="nloginresource_snslogin_idpname_weibo">Weibo</string>
+    <string name="nloginresource_snslogin_view_more">more</string>
+    <string name="nloginresource_snslogin_view_title">Sign in &amp; Join with</string>
+    <string name="no">아니요</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission. The application will now exit.</string>
+    <string name="no_expired_item">만료된 아이템이 없습니다.</string>
+    <string name="no_selected_item">선택된 아이템이 없습니다.</string>
+    <string name="notExist_delItem_dlg_msg">삭제 선택한 웹툰이 없습니다.</string>
+    <string name="notExist_expired_dlg_msg">만료된 웹툰이 없습니다.</string>
+    <string name="not_ask_runtime_permission_denied_on_pocket_viewer">"권한이 없어 뷰어를 열수 없습니다.
+'설정 > 네이버웹툰 > 앱권한'에서 전화 권한을 켜 주세요."</string>
+    <string name="not_exists_episode_list">볼 수있는 회차 목록이 없습니다.</string>
+    <string name="not_login_error">"로그인 하시면 PC와 모바일에서 등록하신
+관심 웹툰을 모두 보실 수 있습니다."</string>
+    <string name="not_run_temp_save_msg">현재 임시저장 진행 중 입니다. 완료 후 진행 해주세요.</string>
+    <string name="not_serial_default_unit">권</string>
+    <string name="noti_already_signed">이미 네이버 로그인이 되어 있습니다.</string>
+    <string name="noti_download_complete">다운로드 완료</string>
+    <string name="noti_download_fail">다운로드 실패</string>
+    <string name="noti_download_progress">다운로드 중</string>
+    <string name="noti_download_sequence">(%1$d회)</string>
+    <string name="noti_ebook_complete_down_message_format">%1$s %2$s 다운로드 완료</string>
+    <string name="noti_ebook_fail_down_message_format">%1$s %2$s 실패</string>
+    <string name="noti_ebook_progress_down_message_format">%1$s %2$s</string>
+    <string name="noti_ebook_start_down_message_format">%1$s %2$s 다운로드 중</string>
+    <string name="noti_sequence_range">(%1$d회 ~ %2$d회)</string>
+    <string name="ok">OK</string>
+    <string name="only_korean_text">한글만 입력 가능해요.</string>
+    <string name="option_bar_sort_latest">구매순</string>
+    <string name="option_bar_sort_publish_asc">발행일순</string>
+    <string name="option_bar_sort_publish_desc">최신 발행순</string>
+    <string name="other_payment_use">"결제수단
+변경하기"</string>
+    <string name="p2p_title">이용약관</string>
+    <string name="parameter_error">내부 오류가 발생했습니다.</string>
+    <string name="pass_use_msg">쿠키 사용</string>
+    <string name="password_toggle_content_description">Toggle password visibility</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="pay_use_info">&lt;b>네이버페이 포인트 %1$s원을 사용&lt;/b>하여&lt;br/>%2$s%3$d%4$s을(를) %5$s합니다.</string>
+    <string name="payment_detail">상세내역</string>
+    <string name="payment_not_exist_msg">결제내역이 없습니다.</string>
+    <string name="pc_cancel">취소</string>
+    <string name="pc_challenge_body">도전만화는 모바일에서 제공되지 않습니다. PC버전으로 이동하시겠습니까?</string>
+    <string name="pc_confirm">확인</string>
+    <string name="pc_webtoon_body">이 작품은 저작권자의 요청으로 모바일 서비스를 제공하지 않습니다. PC 버전으로 이동하시겠습니까?</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="personal_info_text">개인정보처리방침</string>
+    <string name="play_channel_detail_no_item_message">등록된 콘텐츠가 없습니다.</string>
+    <string name="play_channel_detail_play_game">게임하기</string>
+    <string name="play_channel_detail_pre_subscription">사전등록</string>
+    <string name="play_channel_list_option_bar_count">전체</string>
+    <string name="play_channel_list_option_bar_count_unit">개</string>
+    <string name="play_channel_list_option_bar_order_lastest">최신순</string>
+    <string name="play_channel_list_option_bar_order_pop">인기순</string>
+    <string name="play_coupon_copy_complete">쿠폰번호가 클립보드에 복사되었습니다.</string>
+    <string name="play_coupon_error_message">"쿠폰이 발급되지 않았습니다.
+잠시 후 다시 이용해주세요."</string>
+    <string name="play_coupon_error_message_exhausted">"쿠폰이 모두 소진되었습니다.
+다음 이벤트를 기대해주세요."</string>
+    <string name="play_coupon_released_message">게임 쿠폰이 발급되었습니다</string>
+    <string name="play_coupon_released_message_content_format" formatted="false">"%s에서
+사용하실 수 있습니다.
+(입력 유효기간 : %s)"</string>
+    <string name="play_coupon_released_message_copy_coupon">번호복사하기</string>
+    <string name="play_coupon_released_message_coupon_format">쿠폰번호 : %s</string>
+    <string name="play_coupon_released_message_duplicated">게임쿠폰이 이미 발급되었습니다</string>
+    <string name="play_coupon_released_message_play_game">게임실행하기</string>
+    <string name="play_info_view_current_page">%1$d / %2$d</string>
+    <string name="play_item_subject_text_show_less">접기</string>
+    <string name="play_item_subject_text_show_more">더보기</string>
+    <string name="play_like_id_format">PLAY_%d</string>
+    <string name="play_main_feed_keyword_title">이거봤음?</string>
+    <string name="play_menu_channel">채널</string>
+    <string name="play_menu_feed">피드</string>
+    <string name="play_menu_pre_register">사전등록</string>
+    <string name="play_menu_released">출시게임</string>
+    <string name="play_more_menu_popup_subscribe_off">구독</string>
+    <string name="play_more_menu_popup_subscribe_on">구독중</string>
+    <string name="play_movie_time_format">%1$02d:%2$02d</string>
+    <string name="play_movie_viewer_error">영상 재생에 실패하였습니다.</string>
+    <string name="play_movie_viewer_newtork_error">"네트워크에 접속할 수 없습니다.
+새로 고침버튼을 누른 뒤 다시 재생해 주시기 바랍니다."</string>
+    <string name="play_movie_viewer_popup_resolution_quality">품질</string>
+    <string name="play_movie_viewer_replay">다시보기</string>
+    <string name="play_movie_viewer_timeout_error">"재생시간이 만료되었습니다.
+새로 고침버튼을 누른 뒤 다시 재생해 주시기 바랍니다."</string>
+    <string name="play_network_error_message">PLAY 서비스에 연결할 수 없습니다.</string>
+    <string name="play_network_loading_error">네트워크에 접속할 수 없습니다.</string>
+    <string name="play_network_loading_error_2">연결 상태를 확인해 주세요.</string>
+    <string name="play_server_error">내부 서버 오류가 발생했습니다.</string>
+    <string name="play_server_error_2">잠시 후 다시 이용해주세요.</string>
+    <string name="play_server_error_message">내부 서버 오류가 발생했습니다. 잠시 후 다시 이용해주세요</string>
+    <string name="play_subscribe_is_result_off">이 채널의 구독을 취소하시겠습니까?</string>
+    <string name="play_subscribe_popup_cancel">취소</string>
+    <string name="play_subscribe_popup_ok">확인</string>
+    <string name="play_subscribe_result_on">"구독 채널로 등록되었습니다.
+새로운 채널 소식이 업데이트되면 알려드려요!"</string>
+    <string name="play_subscribe_when_push_is_off">"설정 &lt; 푸시알림 &lt; 구독 채널
+알림 수신이 꺼져있습니다.
+
+알림을 켜고 채널 업데이트 소식을 받으시겠어요?"</string>
+    <string name="play_title">PLAY</string>
+    <string name="play_vertical_image_viewer_alarm">상하로 스크롤하세요</string>
+    <string name="please_check_the_status_of_the_network_connection">"네트워크 연결 상태를
+확인해주세요"</string>
+    <string name="popular_books_of_this_genre">&lt;font color=#31ce70>이 장르&lt;/font> &lt;font color=#000000>의 인기 도서 보기&lt;/font></string>
+    <string name="popup_button_cancel">취소</string>
+    <string name="popup_button_install">설치</string>
+    <string name="popup_cancel">닫기</string>
+    <string name="popup_menu_auto_rotation_off">자동회전 끄기</string>
+    <string name="popup_menu_auto_rotation_on">자동회전 켜기</string>
+    <string name="popup_menu_copy_link">링크 복사</string>
+    <string name="popup_menu_favorite_add">관심등록</string>
+    <string name="popup_menu_favorite_remove">관심등록 해제</string>
+    <string name="popup_menu_open_browser">브라우저에서 열기</string>
+    <string name="popup_menu_share_link">링크 공유</string>
+    <string name="popup_menu_shrare">회차 공유하기</string>
+    <string name="popup_menu_temp_save">임시저장</string>
+    <string name="popup_message_install_naver_app">네이버앱을 설치하면 해당 기능을 사용할 수 있습니다. 설치하시겠습니까?</string>
+    <string name="popup_ok">보기</string>
+    <string name="popup_title_install_naver_app">네이버 앱 설치</string>
+    <string name="program_info">프로그램 정보</string>
+    <string name="project_id">api-project-969487732800</string>
+    <string name="purchase_agreement_check_msg">위 구매조건 확인 및 결제진행에 동의</string>
+    <string name="push_regist_subscribe_failed_dialog_msg">관심웹툰 등록에 실패하였습니다.</string>
+    <string name="push_setting_activity_title">푸시 알림</string>
+    <string name="push_setting_ad_alarm_label">추천/이벤트 알림 받기</string>
+    <string name="push_setting_ad_alarm_sub_label">추천작품이나 이벤트 및 웹툰 게임 관련 알림을 받습니다.</string>
+    <string name="push_setting_end_time_label">끝시간</string>
+    <string name="push_setting_etiquette_label">에티켓 시간 설정</string>
+    <string name="push_setting_etiquette_sub_label">설정한 시간 동안에는 알림을 받지 않습니다.</string>
+    <string name="push_setting_favorite_alarm_label">관심웹툰 업데이트 알림 받기</string>
+    <string name="push_setting_favorite_alarm_sub_label">"업데이트 및 작품 소식 알림을 받습니다.
+(23시~24시 사이에 업데이트 되는 작품은 알림이 제외됩니다)"</string>
+    <string name="push_setting_favorite_alarm_sub_label_need_login">관심웹툰 업데이트 알람은 로그인 후 사용 가능합니다.</string>
+    <string name="push_setting_play_subscribe_alarm_label">구독 채널 알림 받기</string>
+    <string name="push_setting_play_subscribe_alarm_sub_label">새로운 플레이 메뉴 >구독한 채널에서 업데이트 되는 콘텐츠나 소식 관련 알림을 받습니다.</string>
+    <string name="push_setting_seperator">알림설정</string>
+    <string name="push_setting_start_time_label">시작시간</string>
+    <string name="push_setting_update_notice">정상업로드 시간대인 23시부터 24시 사이에 업로드 되는 만화에 대해선 에티켓 시간 설정과 무관하게 알림을 보내지 않습니다.</string>
+    <string name="push_setting_use_push_popup_label">팝업 알림</string>
+    <string name="push_setting_use_push_popup_sub_label">알림이 도착했을 때 팝업을 띄워 알려줍니다.</string>
+    <string name="push_unregist_subscribe_failed_dialog_msg">관심웹툰 등록 해제에 실패하였습니다.</string>
+    <string name="rate_limit_exceeded">"트윗 한도가 초과 되었습니다.
+잠시 후 다시 이용해 주세요."</string>
+    <string name="read_less">show less</string>
+    <string name="read_more">show more</string>
+    <string name="read_not_exist_msg">최근 본 웹툰이 없습니다.</string>
+    <string name="recent_dialog_continue_see_content">이전에 읽은 페이지가 있습니다. 이어서 보시겠습니까? (마지막 이용일시 : %s)</string>
+    <string name="recent_dialog_continue_see_title">이어보기</string>
+    <string name="recent_dialog_recent_bookmark">"현재 목록이 서버에 저장된
+가장 최근 책갈피 목록입니다."</string>
+    <string name="recent_dialog_recent_last_content">현재 페이지가 %s님의 모든 기기 중 가장 마지막 위치입니다.</string>
+    <string name="recent_dialog_recent_last_title">안내</string>
+    <string name="reg_subscribe_dlg_text">"관심웹툰으로 등록되었습니다.
+
+웹툰이 업데이트되면 알려드려요 (23~24시 업데이트 작품은 제외)
+
+* 작품별 업데이트 알림은 MY > 관심작품에서 설정할 수 있습니다."</string>
+    <string name="register_device_failed">기기등록에 실패하였습니다.</string>
+    <string name="remained">남음</string>
+    <string name="renew_license_msg">무료 콘텐츠의 대여기간을 연장 하였습니다.</string>
+    <string name="request_cancel">요청하신 작업이 취소되었습니다.</string>
+    <string name="result_purchase_with_a_coupon">&lt;%s> 쿠폰이 지급되었습니다.</string>
+    <string name="result_purchase_with_coupons" formatted="false">&lt;%s> 외 쿠폰 %d종이 지급되었습니다.</string>
+    <string name="retry">재시도</string>
+    <string name="retry_file_open_msg">파일 오픈에 실패하였습니다. 다시 시도해주세요.</string>
+    <string name="review_read">리뷰보기</string>
+    <string name="runtime_permission_denied_on_pocket_viewer">권한이 없어 뷰어를 열수 없습니다.</string>
+    <string name="scrap_empty_bookmark">책갈피 목록이 없습니다.</string>
+    <string name="sdcard_unmount">SD카드를 넣어주세요.</string>
+    <string name="search_hint">제목 또는 작가명 검색</string>
+    <string name="search_input_text">검색어를 입력해주세요.</string>
+    <string name="search_keyword_remove_all">검색 기록 모두 삭제</string>
+    <string name="search_keyword_remove_all_dlg_msg">검색기록을 모두 삭제하시겠습니까?</string>
+    <string name="search_keyword_remove_all_dlg_ok_btn">전체삭제</string>
+    <string name="see_instant_after_payment_check_msg">결제 후 작품 바로 보기</string>
+    <string name="see_option_setting">보기옵션 설정</string>
+    <string name="serial_default_unit">화</string>
+    <string name="service_error_msg">웹툰 서비스에 연결할 수 없습니다.</string>
+    <string name="set_alarm_success">업데이트 알림받기 설정됨</string>
+    <string name="setting_alarm_label">알림</string>
+    <string name="setting_auto_movie_always">항상 켜기</string>
+    <string name="setting_auto_movie_off">항상 끄기</string>
+    <string name="setting_auto_movie_wifi">Wi-Fi에서만</string>
+    <string name="setting_interest_webtoon_alarm_body">관심웹툰 업데이트 알림</string>
+    <string name="setting_interest_webtoon_alarm_subtitle1">알림 받음</string>
+    <string name="setting_interest_webtoon_alarm_subtitle2">알림 받지 않음</string>
+    <string name="setting_interest_webtoon_alarm_subtitle3">관심웹툰 업데이트 알람은 로그인 후 사용 가능합니다.</string>
+    <string name="setting_mylibrary_auto_remove_subtitle">"이용기간 만료시점 후 30일이 지난 콘텐츠는
+MY웹툰플러스 > 보관함에서 자동으로 삭제됩니다."</string>
+    <string name="setting_notice_file_download_fail">다운로드 실패</string>
+    <string name="setting_push">푸시 알림</string>
+    <string name="setting_use_mobile_body">이동통신망 사용 알림</string>
+    <string name="share_horror_message">이건 꼭 봐야해 #%1s#네이버웹툰</string>
+    <string name="share_sub_title_store">웹툰플러스</string>
+    <string name="share_title">[네이버 웹툰]</string>
+    <string name="show_all_application">애플리케이션 전체보기</string>
+    <string name="show_more">더보기</string>
+    <string name="sns_dialog_left_bracket">[</string>
+    <string name="sns_dialog_right_bracket">] 공유하기</string>
+    <string name="sns_send">공유</string>
+    <string name="sns_share_source_from_store">[웹툰플러스]</string>
+    <string name="sns_share_source_from_webtoon">[네이버웹툰]</string>
+    <string name="sns_share_type_band">밴드</string>
+    <string name="sns_share_type_blog">블로그</string>
+    <string name="sns_share_type_cafe">카페</string>
+    <string name="sns_share_type_facebooke">페이스북</string>
+    <string name="sns_share_type_instagram">인스타그램</string>
+    <string name="sns_share_type_kakao">카카오톡</string>
+    <string name="sns_share_type_line">라인</string>
+    <string name="sns_share_type_others">더보기</string>
+    <string name="sns_share_type_post">포스트</string>
+    <string name="sns_share_type_twiter">트위터</string>
+    <string name="sns_write_hint">글쓰기...</string>
+    <string name="sort">정렬</string>
+    <string name="sort_abc">가나다순</string>
+    <string name="sort_latest">구매순</string>
+    <string name="speech_ep1_1">야... %1$s ...</string>
+    <string name="speech_ep2_1">%1$s !</string>
+    <string name="speech_ep3_1">야... %1$s. 너 뭐냐 너 영희랑 사귀냐?</string>
+    <string name="speech_ep3_2">%1$s아!</string>
+    <string name="speech_ep3_3">%1$s아 ..!!!</string>
+    <string name="speech_ep3_4">%1$s !!!!</string>
+    <string name="speech_ep3_5">%1$s아 ...? 괘.. 괜찮아?</string>
+    <string name="speech_ep3_6">............. %1$s ...</string>
+    <string name="speech_ep4_1">\\?!!!!...%1$s!</string>
+    <string name="speech_ep4_2">%1$s... 너 이런데 사는구나</string>
+    <string name="speech_ep4_3">좋겠다... %1$s이 넌...</string>
+    <string name="speech_ep4_4">%1$s아</string>
+    <string name="speech_ep5_1">%1$s!!!</string>
+    <string name="speech_ep5_2">다른애들도 뭔가 이상한 말만 하고...%1$s 넌 뭐 하는거 없어?</string>
+    <string name="speech_ep5_3">.... %1$s 너 ...</string>
+    <string name="speech_ep5_4">%1$s, 너랑 처음 눈이 마주치고</string>
+    <string name="speech_ep6_1">... %1$s ...</string>
+    <string name="speech_ep6_2">%1$s .... 니가 들어와서 깽판치기 전으로</string>
+    <string name="speech_ep6_3">%1$s. 너 같은애는 애초에 만난 기억도 없는 .... 캐릭터로</string>
+    <string name="speech_ep6_4">... %1$s ...</string>
+    <string name="speech_ep6_5">너이 씨 %1$s 바이러스같은 새키!</string>
+    <string name="speech_ep6_6">암튼 이제 그만 꺼져라 %1$s</string>
+    <string name="sql_create_table_bgm_info">CREATE TABLE IF NOT EXISTS BgmInfoTable ( _id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT, titleId INTEGER, no INTEGER, seq INTEGER, mobileBgmUrl TEXT, mobileBgmFileSize INTEGER );</string>
+    <string name="sql_create_table_books_info">CREATE TABLE IF NOT EXISTS BooksInfoTable ( _id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT, titleId INTEGER, booksId INTEGER, booksLinkText TEXT ); CREATE UNIQUE INDEX IF NOT EXISTS idx_unique_of_BooksInfoTable on BooksInfoTable ( titleId );</string>
+    <string name="sql_create_table_cut_edit_font_list">CREATE TABLE IF NOT EXISTS CutEditFontListTable ( _id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT, id INTEGER, presentName TEXT, fileName TEXT, fileSize INTEGER, url TEXT, providers TEXT );</string>
+    <string name="sql_create_table_episode_charge_list">CREATE TABLE IF NOT EXISTS EpisodeChargeTable ( _id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT, titleId INTEGER NOT NULL, no INTEGER NOT NULL, nbooksContentsNo INTEGER NOT NULL, nbooksVolumeNo INTEGER NOT NULL, seq INTEGER, subTitle TEXT, thumbnailUrl TEXT, serviceDate INTEGER, freeConvertDate, INTEGER, starScore REAL, isMobileBgm INTEGER ); CREATE UNIQUE INDEX IF NOT EXISTS idx_unique_of_EpisodeChargeTable on EpisodeChargeTable ( titleId, nbooksContentsNo, nbooksVolumeNo );</string>
+    <string name="sql_create_table_episode_list">CREATE TABLE IF NOT EXISTS EpisodeTable ( _id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT, titleId INTEGER NOT NULL, no INTEGER NOT NULL, seq INTEGER, subTitle TEXT, thumbnailUrl TEXT, updateDate INTEGER, starScore REAL, isMobileBgm INTEGER, groupType TEXT, fromNo INTEGER, toNo INTEGER, mobileWebUrl TEXT, serviceTime INTEGER ); CREATE UNIQUE INDEX IF NOT EXISTS idx_unique_of_EpisodeTable on EpisodeTable ( titleId, seq );</string>
+    <string name="sql_create_table_episode_read_info">CREATE TABLE IF NOT EXISTS EpisodeReadInfoTable ( _id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT, titleId INTEGER NOT NULL, no INTEGER, seq INTEGER, readPosition INTEGER, readDate INTEGER ); CREATE UNIQUE INDEX IF NOT EXISTS idx_unique_of_EpisodeReadInfoTable on EpisodeReadInfoTable ( titleId, seq );</string>
+    <string name="sql_create_table_episode_user_right_info_list">CREATE TABLE IF NOT EXISTS EpisodeUserRightInfoTable ( _id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT, titleId INTEGER NOT NULL, nbooksContentsNo INTEGER NOT NULL, nbooksVolumeNo INTEGER NOT NULL, no INTEGER NOT NULL, lendPassCount INTEGER NOT NULL, buyType TEXT, freeVolume INTEGER, rightEndDate INTEGER, rightEndString TEXT ); CREATE UNIQUE INDEX IF NOT EXISTS idx_unique_of_EpisodeUserRightInfoTable on EpisodeUserRightInfoTable ( titleId, nbooksContentsNo, nbooksVolumeNo );</string>
+    <string name="sql_create_table_genre">CREATE TABLE IF NOT EXISTS GenreTable ( _id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT, titleId INTEGER NOT NULL, genre TEXT );</string>
+    <string name="sql_create_table_recent_read">CREATE TABLE IF NOT EXISTS RecentReadTable ( _id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT, titleId INTEGER NOT NULL, sequence INTEGER, readDate INTEGER ); CREATE INDEX IF NOT EXISTS titleIdIndex ON RecentReadTable ( readDate DESC );</string>
+    <string name="sql_create_table_recent_search_keyword">CREATE TABLE IF NOT EXISTS SearchKeywordTable ( _id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT, keyword TEXT, executionTimeMillis INTEGER );</string>
+    <string name="sql_create_table_rest_info">CREATE TABLE IF NOT EXISTS RestInfoTable ( _id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT, titleId INTEGER NOT NULL, restYn INTEGER, description TEXT ); CREATE UNIQUE INDEX IF NOT EXISTS idx_unique_of_RestInfoTable on RestInfoTable ( titleId );</string>
+    <string name="sql_create_table_save_play_time">CREATE TABLE IF NOT EXISTS PlayTimeLogs( _id INTEGER PRIMARY KEY AUTOINCREMENT, playTimeLog TEXT, date INTEGER );</string>
+    <string name="sql_create_table_title_extra_feature">CREATE TABLE IF NOT EXISTS TitleExtraFeatureTable ( titleId INTEGER NOT NULL PRIMARY KEY, type TEXT );</string>
+    <string name="sql_create_table_webtoon_title">CREATE TABLE IF NOT EXISTS WebtoonTitleTable( _id INTEGER PRIMARY KEY AUTOINCREMENT, titleId INTEGER, title TEXT, painter TEXT, thumbnailUrl TEXT, viewCount INTEGER, mana REAL, registeredDate INTEGER, modifyDate INTEGER, starScore REAL, webtoonType TEXT, isService INTEGER, isAdult INTEGER, isUpdate INTEGER, isRest INTEGER, isNewWebtoon INTEGER, isGame INTEGER, isStoreRegistered INTEGER, thema TEXT ); CREATE UNIQUE INDEX IF NOT EXISTS idx_unique_of_WebtoonTitleTable on WebtoonTitleTable ( titleId );</string>
+    <string name="sql_create_table_week_day_info">CREATE TABLE IF NOT EXISTS WeekDayInfoTable ( _id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT, titleId INTEGER NOT NULL, weekDay INTEGER );</string>
+    <string name="sql_delete_books_info_with_titleId">DELETE FROM BooksInfoTable WHERE titleId=%1$d;</string>
+    <string name="sql_delete_cut_edit_font_list">DELETE FROM CutEditFontListTable;</string>
+    <string name="sql_delete_episode_charge_list_with_titleId">DELETE FROM EpisodeChargeTable WHERE titleId=%1$d;</string>
+    <string name="sql_delete_episode_list_with_titleId">DELETE FROM EpisodeTable WHERE titleId=%1$d;</string>
+    <string name="sql_delete_episode_user_right_info_with_titleId">DELETE FROM EpisodeUserRightInfoTable WHERE titleId=%1$d;</string>
+    <string name="sql_delete_old_recent_search_keyword">DELETE FROM SearchKeywordTable WHERE keyword IN ( SELECT keyword FROM SearchKeywordTable ORDER BY executionTimeMillis desc LIMIT 1000 OFFSET 20 );</string>
+    <string name="sql_delete_rest_info_with_titleId">DELETE FROM RestInfoTable WHERE titleId=%1$d;</string>
+    <string name="sql_delete_webtoontitle">DELETE FROM GenreTable WHERE titleId IN ( SELECT a.titleId FROM GenreTable a, WeekDayInfoTable b WHERE b.weekDay %1$s AND a.titleId=b.titleId ); DELETE FROM WebtoonTitleTable WHERE titleId IN ( SELECT a.titleId FROM WebtoonTitleTable a, WeekDayInfoTable b WHERE b.weekDay %1$s AND a.titleId=b.titleId ); DELETE FROM WeekDayInfoTable WHERE weekDay %1$s;</string>
+    <string name="sql_query_for_create_webtoon_db_before_db_version_1">CREATE TABLE IF NOT EXISTS MyToonTemporaryImageTable ( _id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, titleId VARCHAR(32) NOT NULL, sequence INTEGER, imageNo INTEGER, imageWidth INTEGER, imageHeight INTEGER, imageUrl VARCHAR(255), deleted INTEGER ); CREATE UNIQUE INDEX IF NOT EXISTS idx_unique_of_MyToonTemporaryImageTable on MyToonTemporaryImageTable ( titleId, sequence, imageNo ); CREATE TABLE IF NOT EXISTS MyToonTemporaryContentTable ( _id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, titleId VARCHAR(32) NOT NULL, itemTitle VARCHAR(255), thumbnailUrl VARCHAR(255), sequence INTEGER, webtoonType TEXT, hasBgm INTEGER, savedDate BICINT, deleted INTEGER, cutEditExposureYn TEXT, imagePath TEXT ); CREATE UNIQUE INDEX IF NOT EXISTS idx_unique_of_MyToonTemporaryContentTable on MyToonTemporaryContentTable ( titleId, sequence ); CREATE TABLE IF NOT EXISTS SmartToonReadTable ( _id INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, titleId VARCHAR(32) NOT NULL, sequence INTEGER, imageIndex INTEGER );</string>
+    <string name="sql_select_all_cols_webtoon_title">SELECT * FROM WebtoonTitleTable WHERE titleId=%1$d AND isService=1;</string>
+    <string name="sql_select_books_info_table">SELECT booksId, booksLinkText FROM BooksInfoTable WHERE titleId=%1$d;</string>
+    <string name="sql_select_charge_episode_extra_info_list">SELECT seq, nbooksVolumeNo, nbooksContentsNo FROM EpisodeChargeTable WHERE titleId=%1$d ORDER BY seq desc;</string>
+    <string name="sql_select_charge_episode_thumbnail_list">SELECT thumbnailUrl FROM EpisodeChargeTable WHERE titleId=%1$d ORDER BY seq asc LIMIT 3;</string>
+    <string name="sql_select_completed_webtoon">"SELECT a.titleId titleId, a.title title, a.painter painter, a.thumbnailUrl thumbnailUrl, a.mana mana, a.registeredDate registeredDate, a.modifyDate modifyDate, a.starScore starScore, b.weekDay weekDay, c.days days, a.webtoonType webtoonType, a.isService isService, a.isAdult isAdult, a.isUpdate isUpdate, a.isRest isRest, a.isNewWebtoon isNewWebtoon, a.isGame isGame, a.isStoreRegistered isStoreRegistered FROM WebtoonTitleTable a LEFT JOIN WeekDayInfoTable b on b.titleId = a.titleId LEFT JOIN (SELECT titleId, GROUP_CONCAT(weekday) as days FROM WeekDayInfoTable GROUP BY titleId) c on c.titleId = a.titleId WHERE b.weekDay=0 AND a.thema NOT IN ('PUBLIC_ORG', 'BRAND') AND a.isService=1 ORDER BY %1$s;"</string>
+    <string name="sql_select_count_of_episode_list">SELECT count(_id) cnt FROM EpisodeTable WHERE titleId=%1$d;</string>
+    <string name="sql_select_day_of_week_for_newly_updated_episode">select a.titleId titleId, a.updateDate updateDate, b.weekDay weekDay from EpisodeTable a LEFT JOIN (SELECT titleId, weekDay FROM WeekDayInfoTable where titleId=%1$d) b on b.titleId=a.titleId where a.titleId=%1$d order by a.updateDate desc LIMIT 2</string>
+    <string name="sql_select_downloadable_episode_count">"select count(*) cnt from EpisodeTable where titleId=%1$d AND groupType='DEFAULT';"</string>
+    <string name="sql_select_episode_default_charge_list">SELECT allColumnEpisode.titleid titleId, allColumnEpisode.no no, allColumnEpisode.seq seq, allColumnEpisode.nbooksContentsNo nbooksContentsNo, allColumnEpisode.nbooksVolumeNo nbooksVolumeNo, allColumnEpisode.subtitle subTitle, allColumnEpisode.thumbnailurl thumbnailUrl, allColumnEpisode.updatedate updateDate, allColumnEpisode.serviceDate serviceDate, allColumnEpisode.freeConvertDate freeConvertDate, allColumnEpisode.starscore starScore, allColumnEpisode.ismobilebgm isMobileBgm, allColumnEpisode.lendpasscount lendPassCount, allColumnEpisode.buytype buyType, allColumnEpisode.deleted deleted, allColumnEpisode.saveddate savedDate, allColumnEpisode.freevolume freeVolume, allColumnEpisode.rightenddate rightEndDate, allColumnEpisode.rightendstring rightEndString, allColumnEpisode.ischargeepisode isChargeEpisode, allColumnEpisode.serviceTime serviceTime, IFNULL (readEpisode.readposition, -1) readPosition FROM (SELECT defaultEpisode.titleid titleId, defaultEpisode.no no, NULL AS nbooksContentsNo, NULL AS nbooksVolumeNo, defaultEpisode.seq seq, defaultEpisode.subtitle subTitle, defaultEpisode.thumbnailurl thumbnailUrl, defaultEpisode.updatedate updateDate, NULL AS serviceDate, NULL AS freeConvertDate, defaultEpisode.starscore starScore, defaultEpisode.ismobilebgm isMobileBgm, NULL AS lendPassCount, NULL AS buyType, NULL AS freeVolume, NULL AS rightEndDate, NULL AS rightEndString, 0 AS isChargeEpisode, temp.deleted deleted, temp.saveddate savedDate, defaultEpisode.serviceTime AS serviceTime FROM (SELECT * FROM episodetable a WHERE titleid = %1$d AND serviceTime &lt;= %3$d) defaultEpisode LEFT JOIN MyToonTemporaryContentTable temp ON defaultEpisode.titleid = temp.titleid AND defaultEpisode.seq = temp.sequence UNION ALL SELECT chargeEpisode.titleid titleId, chargeEpisode.no no, chargeEpisode.nbooksContentsNo nbooksContentsNo, chargeEpisode.nbooksVolumeNo nbooksVolumeNo, chargeEpisode.seq seq, chargeEpisode.subtitle subTitle, chargeEpisode.thumbnailurl thumbnailUrl, NULL AS updateDate, chargeEpisode.serviceDate serviceDate, chargeEpisode.freeConvertDate freeConvertDate, chargeEpisode.starscore starScore, chargeEpisode.ismobilebgm isMobileBgm, chargeUser.lendpasscount lendPassCount, chargeUser.buytype buyType, chargeUser.freevolume freeVolume, chargeUser.rightenddate rightEndDate, chargeUser.rightendstring rightEndString, 1 AS isChargeEpisode, 0 deleted, 0 savedDate, 0 AS serviceTime FROM (SELECT * FROM EpisodeChargeTable WHERE titleid = %1$d) chargeEpisode LEFT JOIN EpisodeUserRightInfoTable chargeUser ON chargeEpisode.titleid = chargeUser.titleid AND chargeEpisode.nbooksContentsNo = chargeUser.nbooksContentsNo AND chargeEpisode.nbooksVolumeNo = chargeUser.nbooksVolumeNo ) allColumnEpisode LEFT JOIN EpisodeReadInfoTable readEpisode ON allColumnEpisode.titleid = readEpisode.titleid AND allColumnEpisode.seq = readEpisode.seq ORDER BY no %2$s;</string>
+    <string name="sql_select_episode_for_download_range_setting">SELECT seq, subTitle FROM EpisodeTable WHERE titleId=%1$d ORDER BY seq desc;</string>
+    <string name="sql_select_episode_is_service">select isService from WebtoonTitleTable where titleId=%1$d;</string>
+    <string name="sql_select_episode_list">SELECT a._id _id, a.titleId titleId, a.no no, a.seq seq, a.subTitle subTitle, a.thumbnailUrl thumbnailUrl, a.updateDate updateDate, a.starScore starScore, a.isMobileBgm isMobileBgm, a.groupType groupType, IFNULL (b.readPosition, -1) readPosition, c.deleted deleted, c.savedDate savedDate, a.mobileWebUrl mobileWebUrl FROM (SELECT * FROM EpisodeTable a WHERE titleId=%1$d) a LEFT JOIN EpisodeReadInfoTable b ON a.titleId=b.titleId AND a.seq=b.seq LEFT JOIN MyToonTemporaryContentTable c ON a.titleId=c.titleId AND a.seq=c.sequence ORDER BY no desc;</string>
+    <string name="sql_select_episode_list_by_group_type">SELECT no, seq FROM EpisodeChargeTable WHERE titleId=%1$d UNION ALL SELECT no, seq FROM EpisodeTable WHERE titleId=%1$d AND serviceTime&lt;=%2$d ORDER BY no desc;</string>
+    <string name="sql_select_episode_list_focus_seq">SELECT sequence FROM RecentReadTable WHERE titleId=%1$d</string>
+    <string name="sql_select_episode_store_info">SELECT b.title title, a.subtitle subtitle, a.mobileWebUrl mobileWebUrl FROM EpisodeTable a LEFT JOIN WebtoonTitleTable b on b.titleId = a.titleId WHERE a.titleId=%1$d AND a.seq=%2$d AND b.isService=1;</string>
+    <string name="sql_select_episode_title">select title from WebtoonTitleTable where titleId=%1$d AND isService=1;</string>
+    <string name="sql_select_exist_episode">select count(*) cnt from EpisodeTable where titleId=%1$d AND seq=%2$d;</string>
+    <string name="sql_select_exist_episode_charge">select count(*) cnt from EpisodeChargeTable where titleId=%1$d AND seq=%2$d;</string>
+    <string name="sql_select_exist_in_WeekDayInfoTable">select weekDay from WeekDayInfoTable where titleId=%1$d and weekDay=%2$d</string>
+    <string name="sql_select_exists_weekday_contents">SELECT count(*) cnt FROM WebtoonTitleTable WHERE isService=1;</string>
+    <string name="sql_select_expired_temp_save_webtoon_list">SELECT sequence FROM MyToonTemporaryContentTable WHERE titleId=%1$d AND deleted=1 AND savedDate&lt;%2$d;</string>
+    <string name="sql_select_has_bgm_temporary_episode">SELECT sequence FROM MyToonTemporaryContentTable WHERE titleId=%1$d AND sequence=%2$d AND deleted=1 AND hasBgm>0;</string>
+    <string name="sql_select_is_finished_episode">select count(*) from WeekDayInfoTable where titleId=%1$d AND weekDay=0;</string>
+    <string name="sql_select_myToonTemporaryContent_for_download_range_setting">SELECT sequence FROM MyToonTemporaryContentTable WHERE titleId=%1$d ORDER BY sequence desc;</string>
+    <string name="sql_select_new_webtoon_item_list">SELECT a.titleId titleId, a.title title, a.painter painter, a.thumbnailUrl thumbnailUrl, a.mana mana, a.registeredDate registeredDate, a.modifyDate modifyDate, a.starScore starScore, c.days days, a.webtoonType webtoonType, a.isService isService, a.isAdult isAdult, a.isUpdate isUpdate, a.isRest isRest, a.isNewWebtoon isNewWebtoon, a.isGame isGame, a.isStoreRegistered isStoreRegistered FROM WebtoonTitleTable a LEFT JOIN (SELECT titleId, GROUP_CONCAT(weekday) as days FROM WeekDayInfoTable GROUP BY titleId) c on c.titleId = a.titleId WHERE a.isNewWebtoon=1 AND a.isService=1 ORDER BY %1$s;</string>
+    <string name="sql_select_next_saved_temporary_contents">SELECT sequence FROM MyToonTemporaryContentTable WHERE titleId=%1$d AND sequence>%2$d AND savedDate>%3$d AND deleted=1 ORDER BY sequence asc;</string>
+    <string name="sql_select_paid_episode_info">"SELECT count(*) count FROM EpisodeTable WHERE titleId=%1$d AND seq=%2$d AND UPPER(groupType)='PAID';"</string>
+    <string name="sql_select_play_time">SELECT _id, playTimeLog FROM PlayTimeLogs ORDER BY date LIMIT 1000;</string>
+    <string name="sql_select_previous_saved_temporary_contents">SELECT sequence FROM MyToonTemporaryContentTable WHERE titleId=%1$d AND sequence&lt;%2$d AND savedDate>%3$d AND deleted=1 ORDER BY sequence desc;</string>
+    <string name="sql_select_recent_read_webtoon_list">"SELECT b.titleId titleId, b.title title, b.painter painter, a.sequence seq, b.thumbnailUrl thumbnailUrl, a.readDate readDate, CASE WHEN (c.weekDay=0) THEN 0 ELSE 1 END AS weekDay, CASE WHEN (b.webtoonType IS NULL) THEN 'DEFAULT' ELSE b.webtoonType END webtoonType, b.isService isService, b.isAdult isAdult, b.isNewWebtoon isNewWebtoon, b.isGame isGame FROM RecentReadTable a LEFT JOIN WebtoonTitleTable b on b.titleId = a.titleId LEFT JOIN (SELECT titleId, weekDay FROM WeekDayInfoTable WHERE weekDay=0) c on c.titleId = a.titleId WHERE b.titleId>0 AND b.isService=1 ORDER BY a.readDate DESC;"</string>
+    <string name="sql_select_recent_search_keyword">select keyword, executionTimeMillis from SearchKeywordTable order by executionTimeMillis desc;</string>
+    <string name="sql_select_rest_info_table">SELECT description FROM restInfoTable WHERE titleId=%1$d;</string>
+    <string name="sql_select_saved_temporary_contents">SELECT count(sequence) cnt FROM MyToonTemporaryContentTable WHERE titleId=%1$d AND sequence=%2$d ORDER BY sequence desc;</string>
+    <string name="sql_select_temp_save_webtoon_all_image_path">SELECT DISTINCT imagePath FROM MyToonTemporaryContentTable WHERE titleId=%d</string>
+    <string name="sql_select_temp_save_webtoon_image_path">SELECT imagePath FROM MyToonTemporaryContentTable WHERE titleId=%1$d AND sequence=%2$d</string>
+    <string name="sql_select_temp_save_webtoon_item_list">SELECT _id, itemTitle, thumbnailUrl, sequence, webtoonType, hasBgm, savedDate FROM MyToonTemporaryContentTable WHERE titleId=%d AND deleted=1 ORDER BY sequence DESC;</string>
+    <string name="sql_select_temp_save_webtoon_list">SELECT a.titleId titleId, b.title title, b.thumbnailUrl thumbnailUrl, b.painter painter, CASE WHEN (c.weekDay=0) THEN 0 ELSE 1 END AS weekDay, b.isService isService, b.isAdult isAdult, b.isNewWebtoon isNewWebtoon FROM (SELECT DISTINCT titleId FROM MyToonTemporaryContentTable WHERE deleted=1 GROUP BY titleId ORDER BY MAX(savedDate) DESC) a LEFT JOIN WebtoonTitleTable b on b.titleId = a.titleId LEFT JOIN (SELECT titleId, weekDay FROM WeekDayInfoTable WHERE weekDay=0) c on c.titleId = a.titleId WHERE b.isService=1;</string>
+    <string name="sql_select_temporary_content_need_cut_edit_exposure">SELECT cutEditExposureYn FROM MyToonTemporaryContentTable WHERE titleId=%1$d AND sequence=%2$d</string>
+    <string name="sql_select_temporary_episode">SELECT a._id _id, a.titleId titleId, a.no no, a.seq seq, a.subTitle subTitle, a.starScore starScore, a.thumbnailUrl thumbnailUrl, a.groupType groupType, a.mobileWebUrl mobileWebUrl, a.starScore starScore, a.groupType groupType, b.isService isService, b.thumbnailUrl topThumbnailUrl, c.hasBgm hasBgm, c.cutEditExposureYn cutEditExposureYn FROM (SELECT * FROM EpisodeTable a WHERE titleId=%1$d AND seq=%2$d) a LEFT JOIN WebtoonTitleTable b on b.titleId = a.titleId LEFT JOIN MyToonTemporaryContentTable c ON a.titleId=c.titleId AND a.seq=c.sequence WHERE b.isService=1 AND c.deleted=1 AND c.savedDate>%3$d ORDER BY no desc;</string>
+    <string name="sql_select_title_extra_feature">SELECT type FROM TitleExtraFeatureTable WHERE titleId=%1$d</string>
+    <string name="sql_select_title_meet_next_update">SELECT serviceTime FROM EpisodeTable WHERE titleId=%1$d AND serviceTime > %2$d ORDER BY serviceTime ASC LIMIT 1</string>
+    <string name="sql_select_webtoon_item_list">SELECT a.titleId titleId, a.title title, a.painter painter, a.thumbnailUrl thumbnailUrl, a.mana mana, a.registeredDate registeredDate, a.modifyDate modifyDate, a.starScore starScore, b.weekDay weekDay, c.days days, a.webtoonType webtoonType, a.isService isService, a.isAdult isAdult, a.isUpdate isUpdate, a.isRest isRest, a.isNewWebtoon isNewWebtoon, a.isGame isGame, a.isStoreRegistered isStoreRegistered FROM WebtoonTitleTable a LEFT JOIN WeekDayInfoTable b on b.titleId = a.titleId LEFT JOIN (SELECT titleId, GROUP_CONCAT(weekday) as days FROM WeekDayInfoTable GROUP BY titleId) c on c.titleId = a.titleId WHERE b.weekDay=%1$d AND a.isService=1 ORDER BY %2$s;</string>
+    <string name="sql_select_webtoon_title">SELECT title FROM WebtoonTitleTable WHERE titleId=%1$d AND isService=1;</string>
+    <string name="sql_select_weekday_item_list">SELECT a.titleId titleId, a.title title, a.painter painter, a.thumbnailUrl thumbnailUrl, a.mana mana, a.registeredDate registeredDate, a.modifyDate modifyDate, a.starScore starScore, b.weekDay weekDay, c.days days, a.webtoonType webtoonType, a.isService isService, a.isAdult isAdult, a.isUpdate isUpdate, a.isRest isRest, a.isNewWebtoon isNewWebtoon, a.isGame isGame, a.isStoreRegistered isStoreRegistered FROM WebtoonTitleTable a LEFT JOIN WeekDayInfoTable b on b.titleId = a.titleId LEFT JOIN (SELECT titleId, GROUP_CONCAT(weekday) as days FROM WeekDayInfoTable GROUP BY titleId) c on c.titleId = a.titleId WHERE b.weekDay>0 AND b.weekDay&lt;8 AND a.isService=1 ORDER BY %1$s;</string>
+    <string name="sql_update_querys_of_db_version10">CREATE TABLE IF NOT EXISTS SearchKeywordTable ( _id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT, keyword TEXT, executionTimeMillis INTEGER );</string>
+    <string name="sql_update_querys_of_db_version11">UPDATE EpisodeReadInfoTable SET readPosition=0 where readPosition=1;</string>
+    <string name="sql_update_querys_of_db_version13">ALTER TABLE EpisodeTable ADD COLUMN serviceTime INTEGER;</string>
+    <string name="sql_update_querys_of_db_version2">ALTER TABLE MyToonReadTable RENAME TO RecentReadTable; ALTER TABLE MyToonTemporaryContentTable ADD COLUMN hasBgm INTEGER; ALTER TABLE MyToonTemporaryContentTable ADD COLUMN cutEditExposureYn TEXT; UPDATE MyToonTemporaryContentTable SET deleted=2 where deleted=1; UPDATE MyToonTemporaryContentTable SET deleted=1 where deleted=0; UPDATE MyToonTemporaryImageTable SET deleted=2 where deleted=1; UPDATE MyToonTemporaryImageTable SET deleted=1 where deleted=0;</string>
+    <string name="sql_update_querys_of_db_version3">ALTER TABLE MyToonTemporaryContentTable ADD COLUMN cutEditExposureYn TEXT; CREATE TABLE IF NOT EXISTS CutEditFontListTable ( _id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT, id INTEGER, presentName TEXT, fileName TEXT, fileSize INTEGER, url TEXT, providers TEXT );</string>
+    <string name="sql_update_querys_of_db_version4">ALTER TABLE EpisodeTable ADD COLUMN groupType TEXT; ALTER TABLE EpisodeTable ADD COLUMN fromNo INTEGER; ALTER TABLE EpisodeTable ADD COLUMN toNo INTEGER; ALTER TABLE EpisodeTable ADD COLUMN mobileWebUrl TEXT;</string>
+    <string name="sql_update_querys_of_db_version5">"ALTER TABLE WebtoonTitleTable ADD COLUMN thema TEXT; UPDATE WebtoonTitleTable set thema='NONE';"</string>
+    <string name="sql_update_querys_of_db_version6">ALTER TABLE WebtoonTitleTable ADD COLUMN isGame INTEGER;</string>
+    <string name="sql_update_querys_of_db_version7">"ALTER TABLE MyToonTemporaryContentTable ADD COLUMN imagePath TEXT; UPDATE MyToonTemporaryContentTable SET imagePath='../data/image';"</string>
+    <string name="sql_update_querys_of_db_version8">"DROP INDEX IF EXISTS idx_unique_of_WebtoonTitleTable; ALTER TABLE WebtoonTitleTable RENAME TO WebtoonTitleTableOld; CREATE TABLE IF NOT EXISTS WebtoonTitleTable( _id INTEGER PRIMARY KEY AUTOINCREMENT, titleId INTEGER, title TEXT, painter TEXT, thumbnailUrl TEXT, mana REAL, registeredDate INTEGER, modifyDate INTEGER, starScore REAL, webtoonType TEXT, isService INTEGER, isAdult INTEGER, isUpdate INTEGER, isRest INTEGER, isNewWebtoon INTEGER, isGame INTEGER, isStoreRegistered INTEGER, thema TEXT ); CREATE UNIQUE INDEX IF NOT EXISTS idx_unique_of_WebtoonTitleTable on WebtoonTitleTable ( titleId ); INSERT INTO WebtoonTitleTable(titleId, title, painter, thumbnailUrl, mana, registeredDate, modifyDate, starScore, webtoonType, isAdult, isUpdate, isRest, isNewWebtoon, isGame, isStoreRegistered, thema, isService) SELECT titleId, title, painter, (CASE WHEN bigThumbnailUrl IS NOT NULL THEN bigThumbnailUrl ELSE thumbnailUrl END), orderMana, registeredDate, modifyDate, starScore, webtoonType, isAdult, isUpdate, isRest, isNewWebtoon, isGame, isStoreRegistered, thema, 1 FROM WebtoonTitleTableOld; DROP TABLE WebtoonTitleTableOld; DROP TABLE GenreTable; CREATE TABLE IF NOT EXISTS GenreTable ( _id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT, titleId INTEGER NOT NULL, genre TEXT ); ALTER TABLE MyToonTemporaryContentTable ADD COLUMN webtoonType TEXT; UPDATE MyToonTemporaryContentTable SET webtoonType='DEFAULT';"</string>
+    <string name="sql_weekday_item_list_order_last_update">modifyDate DESC</string>
+    <string name="sql_weekday_item_list_order_registered_date">registeredDate DESC</string>
+    <string name="sql_weekday_item_list_order_star_score">starScore DESC</string>
+    <string name="sql_weekday_item_list_order_title">title ASC</string>
+    <string name="sql_weekday_item_list_order_view_count">mana DESC, modifyDate DESC</string>
+    <string name="star_score_completed">별점완료</string>
+    <string name="store_device_registration_fail_message">디바이스 등록에 실패하였습니다.</string>
+    <string name="store_dialog_noti_text_1">"%1$s는 웹툰플러스에서 구매 후
+이용할 수 있습니다."</string>
+    <string name="store_dialog_noti_text_2">감상을 위해 웹툰플러스로 이동하시겠습니까?</string>
+    <string name="store_move_noti_text">"웹툰플러스에서 구매 후
+이용할 수 있습니다.
+
+감상을 위해
+웹툰플러스로 이동하시겠습니까?"</string>
+    <string name="store_network_err_btn_text">다시 시도하기</string>
+    <string name="store_network_loading_error">"네트워크 연결할 수 없습니다.
+네트워크 연결 상태를 확인하세요."</string>
+    <string name="subscript_not_exist_msg">관심웹툰이 없습니다.</string>
+    <string name="sunple_message_1">"당신의 댓글,
+소리내어
+읽어보셨나요?"</string>
+    <string name="sunple_message_2">"댓글 안에
+당신의 성숙함도
+함께 담아주세요"</string>
+    <string name="sunple_message_3">"댓글에
+상처받는 이는 바로
+우리의 이웃입니다"</string>
+    <string name="sunple_ok">확인</string>
+    <string name="sunple_under_message">&lt;u>상처 없는 댓글 세상 만들기&lt;/u>에&lt;br>많은 참여 부탁드립니다.</string>
+    <string name="temp_not_exist_msg">임시저장 웹툰이 없습니다.</string>
+    <string name="temp_save2">임시 저장</string>
+    <string name="temp_save_cancel_msg">저장이 취소되었습니다.</string>
+    <string name="temp_save_info_network_warning">네트워크 상황에 따라 일부 콘텐츠는 저장되지 않을 수 있습니다.</string>
+    <string name="temp_save_info_sdcard_warning">임시저장중에는 메모리 카드를 분리하지 마십시오.</string>
+    <string name="temp_saved">임시저장됨</string>
+    <string name="temporary_image_save_title">임시저장</string>
+    <string name="temporary_save_progress_text">&lt;font color=#00cf06>%1$d&lt;/font>&lt;font color=#BDBDBD> / &lt;/font>&lt;font color=#151515>%2$d (%3$d%%)&lt;/font></string>
+    <string name="term_of_using_cookie">쿠키 이용약관</string>
+    <string name="terms_of_use">이용약관</string>
+    <string name="ticket">이용권</string>
+    <string name="ticket_valid_period">이용기한</string>
+    <string name="time_format_min_sec">%1$02d:%2$02d</string>
+    <string name="title_confirm">확인</string>
+    <string name="title_edit">편집</string>
+    <string name="title_info">안내</string>
+    <string name="title_tab_category_complete">완결</string>
+    <string name="title_tab_category_friday">금</string>
+    <string name="title_tab_category_monday">월</string>
+    <string name="title_tab_category_new">신작</string>
+    <string name="title_tab_category_saturday">토</string>
+    <string name="title_tab_category_sunday">일</string>
+    <string name="title_tab_category_thursday">목</string>
+    <string name="title_tab_category_tuesday">화</string>
+    <string name="title_tab_category_wednesday">수</string>
+    <string name="title_trash">휴지통</string>
+    <string name="tmsg_no_lock_rotate">현재 방향으로는 자동회전 잠금을 할 수 없습니다. 반대 방향으로 돌려주세요.</string>
+    <string name="toast_device_max_selected">2대의 기기를 선택해주세요.</string>
+    <string name="toast_error_save_horror_type_save_episode">19화 이후의 회차는 임시저장이 제공되지 않습니다.</string>
+    <string name="toast_message_request_comment">댓글을 입력해 주세요.</string>
+    <string name="toast_message_scrap_download_complete">최신 책갈피 목록 동기화 완료</string>
+    <string name="toast_message_scrap_download_failed">책갈피 동기화를 실패하였습니다.</string>
+    <string name="toast_message_scrap_downloading">최신 책갈피 목록 동기화 진행 중..</string>
+    <string name="toast_msg_unsupported_save">임시저장 할수 없는 회차입니다</string>
+    <string name="toast_mystore_interest_no_exists_delete_item">삭제할 항목이 없습니다.</string>
+    <string name="toast_need_select_device">2대의 기기를 선택해주세요.</string>
+    <string name="toast_webtoon_ad_movie_not_play">영상을 재생시킬 수 없습니다.</string>
+    <string name="toast_webtoon_agree_term_rejec">로그아웃됩니다. 원활한 서비스 이용을 위해 약관에 동의해주세요.</string>
+    <string name="today">오늘</string>
+    <string name="total_content_range_fmt">연재 회수 %1$d회 ~ %2$d회</string>
+    <string name="twitter_invalid_token">"인증에 실패하였습니다.
+다시 로그인하시겠습니까?"</string>
+    <string name="twitter_loginfail">트위터 로그인에 실패했습니다.</string>
+    <string name="twitter_service_error">트위터 서비스를 이용할 수 없습니다.</string>
+    <string name="twitter_title">트위터 공유하기</string>
+    <string name="twitter_valid_token">"트위터 로그인이 필요한 기능입니다.
+로그인 하시겠습니까?"</string>
+    <string name="update_recent_version_fmt">최신 버전 %s 업데이트</string>
+    <string name="url_best_challenge_episode_detail" formatted="false">http://m.comic.naver.com/bestChallenge/detail.nhn?titleId=%d&amp;no=%d</string>
+    <string name="url_best_challenge_episode_list">http://m.comic.naver.com/bestChallenge/list.nhn?titleId=%d</string>
+    <string name="url_businessman_info" formatted="false">http://www.ftc.go.kr/info/bizinfo/communicationView.jsp?apv_perm_no=2017378021930200907&amp;area1=&amp;area2=&amp;currpage=1&amp;searchKey=01&amp;searchVal=%B3%D7%C0%CC%B9%F6%C0%A5%C5%F7&amp;stdate=&amp;enddate=</string>
+    <string name="url_challenge_episode_detail" formatted="false">http://comic.naver.com/challenge/detail.nhn?titleId=%d&amp;no=%d</string>
+    <string name="url_challenge_episode_list">http://comic.naver.com/challenge/list.nhn?titleId=%d</string>
+    <string name="url_ebook_viewer_review">http://m.comic.naver.com/store/comic/contents/commentList.nhn?contentsNo=%d&amp;standaloneWebview=true</string>
+    <string name="url_helper">https://m.help.naver.com/support/service/main.nhn?serviceNo=5635</string>
+    <string name="url_mobileweb">http://m.comic.naver.com</string>
+    <string name="url_naver_interest_toon" formatted="false">naversearchapp://inappbrowser?url=http%3A%2F%2Fm.comic.naver.com/mypage/favorite.nhn&amp;target=new&amp;version=8</string>
+    <string name="url_naver_smarttoon" formatted="false">naversearchapp://inappbrowser?url=http%3A%2F%2Fm.comic.naver.com/smarttoon/list.nhn&amp;target=new&amp;version=8</string>
+    <string name="url_naver_webtoon_best_challenge" formatted="false">naversearchapp://inappbrowser?url=http%3A%2F%2Fm.comic.naver.com/bestChallenge/genre.nhn&amp;target=new&amp;version=6</string>
+    <string name="url_naver_webtoon_claim">http://srp.naver.com/main.nhn</string>
+    <string name="url_privacy_policy_naver">https://nid.naver.com/mobile/user/help/termAgree.nhn?m=viewTermAgree3</string>
+    <string name="url_privacy_policy_webtoon">https://member.webtoon.naver.com/mobile/policies/privacy</string>
+    <string name="url_report">https://m.help.naver.com/support/issue/report.nhn?serviceNo=5635</string>
+    <string name="url_store_base_payment_path">http://m.comic.naver.com/store/comic/payment/</string>
+    <string name="url_store_contentsDetail">http://m.comic.naver.com/store/comic/contents/contentsDetail.nhn?contentsNo=%s</string>
+    <string name="url_store_contentsList">http://m.comic.naver.com/store/comic/contents/contentsList.nhn?genreNo=%s</string>
+    <string name="url_store_contentsPayment">http://m.comic.naver.com/store/comic/payment/contentsPayment.nhn</string>
+    <string name="url_store_cookie_shop">http://m.comic.naver.com/store/comic/my/pass/passShop.nhn?saleStoreCode=WEBTOON_APP</string>
+    <string name="url_store_cookie_shop_free">http://m.comic.naver.com/store/comic/my/pass/usableFreePass.nhn?saleStoreCode=WEBTOON_APP</string>
+    <string name="url_store_cookie_shop_my">http://m.comic.naver.com/store/comic/my/pass/passList.nhn?saleStoreCode=WEBTOON_APP</string>
+    <string name="url_store_cookie_shop_payment">http://m.comic.naver.com/store/comic/my/pass/passShop.nhn?saleStoreCode=WEBTOON_APP</string>
+    <string name="url_store_cookie_shop_payment_history">http://m.comic.naver.com/store/comic/my/pass/costPassHistory.nhn?saleStoreCode=WEBTOON_APP</string>
+    <string name="url_store_free_ticket">http://m.comic.naver.com/store/comic/contents/contentsList.nhn?specialTabTypeCode=FREETICKET</string>
+    <string name="url_store_freeticketPayment">http://m.comic.naver.com/store/comic/payment/freeticketPayment.nhn</string>
+    <string name="url_store_home">http://m.comic.naver.com/store/comic/index.nhn?hideSubMenu=true</string>
+    <string name="url_store_my_cupon">http://m.comic.naver.com/store/comic/my/coupon/couponList.nhn</string>
+    <string name="url_store_my_info">http://m.comic.naver.com/store/comic/my/info/myInfo.nhn</string>
+    <string name="url_store_wastebasket">http://m.comic.naver.com/store/comic/my/library/wastebasket.nhn</string>
+    <string name="url_terms_of_use">https://member.webtoon.naver.com/mobile/policies/terms</string>
+    <string name="url_webtoon_notice">http://m.comic.naver.com/notice/list.nhn</string>
+    <string name="url_webtoon_search" formatted="false">http://m.comic.naver.com/app/search/msearch.nhn?keyword=%s&amp;position=APP&amp;searchType=%s&amp;version=1.0</string>
+    <string name="usable_content">이용가능 콘텐츠</string>
+    <string name="view_term_agreement">보기</string>
+    <string name="viewer2_controller_bottom_tab_bookmark">책갈피 목록</string>
+    <string name="viewer2_controller_bottom_tab_rotation">자동회전</string>
+    <string name="viewer2_controller_bottom_tab_scrap">스크랩</string>
+    <string name="viewer2_controller_bottom_tab_setting">설정</string>
+    <string name="viewer2_controller_bottom_tab_sync">이어보기</string>
+    <string name="viewer_alert_delete_all">"리스트의 모든 항목을
+삭제하시겠습니까?"</string>
+    <string name="viewer_bookmark_edit_delete">삭제(%1$d)</string>
+    <string name="viewer_bookmark_page_name">%1$d Page</string>
+    <string name="viewer_bookmark_title1">책갈피 목록</string>
+    <string name="viewer_continued_view">계속 이어보기</string>
+    <string name="viewer_cover_page">&lt;font color=#48A7FF>Cover&lt;/font></string>
+    <string name="viewer_cover_text">Cover</string>
+    <string name="viewer_intro_subTile1_text">뷰어의 터치 영역 안내</string>
+    <string name="viewer_intro_subTile2_text">안내를 닫으려면 화면을 터치하세요.</string>
+    <string name="viewer_last_page_text">마지막 페이지 입니다.</string>
+    <string name="viewer_next_serial_volume">다음 화 보기</string>
+    <string name="viewer_next_volume">다음 권 보기</string>
+    <string name="viewer_next_volume_unit_name">다음 %s 보기</string>
+    <string name="viewer_out_of_memory_message">사용 가능한 메모리가 부족하여 이전 화면으로 이동합니다.</string>
+    <string name="viewer_page_text">&lt;font color=#48A7FF>%1$d&lt;/font>&lt;font color=#FFFFFF> / %2$d&lt;/font></string>
+    <string name="viewer_support_only_page">페이지형 보기에 최적화된 콘텐츠입니다.</string>
+    <string name="viewer_support_only_scroll">스크롤형 보기에 최적화된 콘텐츠입니다.</string>
+    <string name="viewer_toast_message_reverse_directions">본 콘텐츠는 반대(%1$s)방향으로 읽는 콘텐츠입니다.</string>
+    <string name="viewer_toast_message_the_first_page_is">첫 페이지 입니다.</string>
+    <string name="volume_fmt">%1$d권</string>
+    <string name="volume_fmt_serial">%1$d화</string>
+    <string name="volume_fmt_unit" formatted="false">%1$d%s</string>
+    <string name="wake_up_alarm_content">신나신나! 이달의 핫한 신작 업데이트!</string>
+    <string name="webContent">&lt;!DOCTYPE html PUBLIC -//W3C//DTD XHTML 1.0 Transitional//EN http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd>&lt;!DOCTYPE html PUBLIC -//W3C//DTD XHTML 1.0 Strict//EN http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd>&lt;!DOCTYPE html PUBLIC -//W3C//DTD XHTML 1.1//EN http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd>&lt;html xmlns=http://www.w3.org/1999/xhtml> &lt;head>&lt;title>&lt;/title>&lt;!-- Meta Tags --> &lt;meta http-equiv=Content-Type content=text/html; charset=utf-8 />&lt;/head> &lt;body> &lt;div style=\"height:500px; word-wrap:break-word; overflow:hidden;\"> &lt;h1 id=section13>서문 : 현경과 탈마&lt;/h1> &lt;p>무공을 크게 두 가지로 구분한다면 정(正)과 사(邪)로 나눌 수 있다. 어느 사이엔가 무공의 원류는 이렇게 둘로 나뉘더니 서로가 피를 피로 씻는 복수와 반목을 거듭해, 서로 왜 싸웠는지 그 시초조차 아리송해졌다. 정파는 사파를, 사파는 정파를 원수 보듯 하며 수단과 방법을 가리지 않고 상대방을 죽였다.&lt;/p> &lt;p>정파는 달마가 중원에 보급한 역근(易筋)과 세수(洗髓)의 두 진경(眞經)을 기반으로 성장한 무공으로, 대부분이 불가(佛家)나 도가(道家) 계통의 무술들이 주종을 이뤘다. 이른바 5대세가의 경우도 원류를 따지면 9파1방(九派一幇)의 속가제자 중 뛰어난 자가 세운 것이다. 그리고 그 문파에서 뛰어난 자들이 튀어나와 새로운 문파를 만들다 보니 근래에 이르러서는 그 갈래조차 희미해질 정도였다.&lt;/p> &lt;p>고대의 무술은 들짐승이나 날짐승의 행동을 흉내 내고 모방하는 데서 시작되었다. 유명한 소림오권(小林五拳)은 호랑이, 표범, 뱀, 원숭이, 학의 움직임을 따라 이루어졌으며, 도가(道家)로부터 전수된 검법(劍法)도 동물들을 흉내 내어 시작되었다. 이러한 검법(劍法), 도법(刀法), 창법(槍法), 봉법(棒法), 권법(拳法), 장법(掌法) 등의 무술을 통틀어 외가무공(外家武功)이라 한다.&lt;/p> &lt;p>반면에 내가무공(內家武功)은 단전호흡(丹田呼吸)이나 숨을 뱉고 쉬는 법을 일컫는 토납술(吐納術)에서 비롯되었다. 어린 시절부터 오랜 기간을 두고 토납을 반복하면 몸속에 보이지 않는 무형의 힘인 내공이 쌓이게 되는데, 그 내공을 권이나 장, 또는 검에 실어 내보내는 무술을 내가무공이라 한다. 내공이 어느 정도 쌓이면 몸 안을 일주천시키며 더욱 그 힘을 증폭시켜 내공이 쌓이는 속도를 증가시킨다. 이때 그 힘을 어떤 순서로 어떤 혈도에 보내느냐에 따라 다양한 운기조식의 기법들이 생겨났다.&lt;/p> &lt;p>정파는 내공을 익힐 때 그 공력이 천천히 쌓여 나간다. 그렇기에 다른 사람의 진신내공(眞身內功)을 얻거나 영약을 복용하지 않고서는 통상의 경우 밤낮을 가리지 않고 수련을 해도 40세가 넘어야 절정고수에 이를 수 있고, 초절정의 고수가 되려면 60세가 넘어야 했다. 물론 타고난 신력(神力)으로 외공(外功)을 사용하는 자들도 있지만, 내공이 받쳐 주지 않는다면 절정고수의 대열에 들어가기는 어려웠다. 이렇듯 정파 내에서도 무공을 쌓는 방법에는 여러 가지가 있으나 마교에서처럼 파격적인 방법을 써서 속성으로 내공을 쌓지는 않는다.&lt;/p> &lt;p>정파에는 명문(名門)이라 불리는 많은 방파가 있다. 그들은 대부분 도가나 불가 계통이며 뛰어난 고수들을 많이 배출했기에 명가의 칭호가 주어졌다. 그리고 명가의 제자들이 방문외도(傍門外道 : 명가가 아닌 다른 다수의 군소방파들을 낮추어 부르는 말)라 칭하며 깔보는 경향도 있지만 실질적인 정파의 저력은 소수의 명문에 있는 것이 아니라 엄청난 숫자를 자랑하는 군소방파들에 있었다. 대부분의 경우 군소방파들은 내가무공보다는 외가무공을 익히고 가르친다. 명가들과는 달리 그들에게는 우수한 내공 심법이 거의 없기 때문에 궁여지책으로 외가무공을 익히고 가르치는 것이다.&lt;/p> &lt;p>명가(名家)에서는 후계자에게 진신내공(眞身內功)을 전수하거나 영약을 먹여 빠른 속도로 내공이 쌓이게 만든다. 그들에게는 각 문파의 정통 무공들이 교육되었고 그들은 적전제자(適傳弟子)라고 불린다. 적전이 아닌 제자들은 내공이 상당히 취약하기 때문에 같은 초식(招式)을 써도 그 위력은 최소 열 배 이상 차이가 난다고 한다.&lt;/p> &lt;p>상대에게 진신내공을 전수할 때는 내공을 전수하는 쪽이 엄청난 고통을 겪기 때문에 일가 피붙이라도 잘 전수해 주지 않는다. 그리고 진신내공을 전수받는 데도 한 가지 위험이 따른다. 같은 수련을 한 사람의 진신내공이라면 성질이 같기에 전수받아도 상관없지만, 다른 종류의 수련을 하여 얻은 내공을 전수받으면 아예 무공을 익히지 않은 경우를 제외하고는 자신의 진신내공과 새로 얻은 진신내공이 합쳐지지 않고 서로 충돌하여 더 안 좋은 결과를 가져온다.&lt;/p> &lt;p>치료나 공격 등의 목적으로 상대방에게 내공을 불어넣기도 하는데, 그때의 내공은 진신내공이 아니기 때문에 일정 시간이 지나면 내공을 받은 사람의 내부에서 이종(異種)의 내력은 소멸되며, 또 내공을 집어넣은 사람도 곧 내력을 회복할 수 있다.&lt;/p> &lt;p>내공을 특출한 경지까지 연마한 정파의 고수들을 일컬어 사람들은 삼경(三境)의 고수라 한다. 초절정고수가 되면 내공의 정도와 무술 실력이 거의 비례하기 때문에 삼경의 고수에 들어가면 거의 적수를 찾기 어렵다.&lt;/p> &lt;p>제1경(第一境)은 조화경(造化境), 즉 화경(化境)이다. 이것은 천지인(天地人)의 삼화(三化)와 수목금화토(水木金火土)의 오기(五氣)를 고루 몸 안에 이루어 낸 삼화취정(三化聚頂) 오기조원(五氣造元)의 고수를 말한다. 이 수준에 이르면 환골탈태(換骨奪胎)를 통해 온몸이 무예를 시전하기에 최적의 상태로 바뀌는 반로환동(反老換童)을 경험한다.&lt;/p> &lt;p>이때는 능히 소리로 사람을 죽이고 손가락을 들어 작은 산을 무너뜨릴 수 있다고 한다. 화경에 오른 현존하는 고수는 여덟 명인데 그들을 3황5제(三皇五帝)라고 불렀다. 거의 비슷한 무공 수준을 가지고 있지만, 그들을 3황과 5제로 구분하는 이유는 서로 간의 나이 차 때문이기도 하며, 5제보다는 3황의 무공이 좀 높았다. 또 정파의 고수들은 마교가 배출한 가장 뛰어난 네 명의 고수를 4천왕(四天王)이라고 했는데, 그 칭호에서 정파고수들의 은근한 자존심을 엿볼 수 있었다. 과거 현경의 고수가 한 명 있기는 했지만 그 이후 최강의 고수들인 이들은 모든 정도무림인들의 존경을 받고 있다.&lt;/p> &lt;p>제2경(第二境)은 신(神)으로의 입문이라 할 수 있는 현묘(玄妙)한 경지(境地), 즉 현경(玄境)이라 한다. 현경의 경지에 이르면 더욱 뛰어난 육체로 변하게 되고, 그 결과 몸에 만독이 침범하지 못하는 만독불침(萬毒不侵)이 되며 겉으로 전혀 정기가 드러나지 않는 반박귀진(返縛歸眞)의 상태가 된다. 또한 나이가 많은 사람이 이 경지를 이루면 머리가 다시 검어지고 치아(齒牙)까지 새로 나오기에, 그야말로 완벽한 젊음을 되찾는다고 한다. 그들은 능히 몸에서 뿜어 나오는 예기만으로 사람을 죽일 수 있는 경지에 이르는데, 현경의 경지에 이른 고수는 수천 년 무림사에 과거 천하제일문(天下第一門)을 창설한 조사인 신검대협(神劍大俠) 구휘(區揮) 단 한 명뿐이었다. 무림에서 인간이 달성해 낸 최고의 경지가 이 현경이었다.&lt;/p> &lt;p>마지막 제3경(第三境)은 불노불사(不老不死)의 진정한 신의 경지, 즉 생사경(生死境)이다. 인간의 생과 사를 초월하고 우주만물의 법칙을 한눈에 꿰뚫어 내는 무예의 최고 경지로 추측되지만, 단 한 명도 그 근처까지 접근조차 하지 못했기에 생사경은 완전한 미지의 세계다. 수천 년 무림사에 단 한 명도 탄생하지 않았던 지고무상(至高無常)의 경지가 바로 생사경이다. 혹자는 이 생사경은 있지도 않은 것을 말하기 좋아하는 사람들이 지어냈다고 질책할 정도다.&lt;/p> &lt;p>어쨌든 정파의 무공이 이상과 같다면 사파의 무공은 정파의 무공과는 완전히 다른 길을 가고 있다. 사파는 달마가 전래한 무공과는 달리 중원에서 자연스럽게 발생한 무술이다. 그렇기에 토납술에서 정파와는 다른 방법을 택한다. 사파의 대부분을 차지하는 녹림(綠林 : 산적이나 해적 등 남을 등쳐 먹는 것을 천직으로 알고 사는 사람들의 집단. 창부 등도 여기에 속함)이나 사파 무공을 익히는, 역사가 짧은 작은 군소방파들은 내공의 기술이 정파보다는 떨어지므로 그것을 만회하기 위해 상대 무공에 대한 파해식이나 기괴한 초식 등을 개발해 냈다. 따라서 사파에서는 기교에서 앞서가는 외가무공이 주류를 이루고 있다. 그 때문에 약간의 기술과 그에 대한 숙련도만 있으면 되므로 빠른 시일 안에 절정고수의 경지까지는 이르지 못하더라도 상당한 고수가 될 수 있다. 하지만 대부분의 정파고수들이 미숙한 상태기 때문에 이들의 무공은 상당히 위협적이다. 사파에서는 검뿐 아니라 실리적인 싸움을 하기 위해 다양한 무기를 개발하여 사용하며, 각종 암기도 많이 애용하고 있다.&lt;/p> &lt;p>하지만 일반 사파들과는 또 다른 길을 가고 있는 방파가 있으니 바로 마교(魔敎)다. 마교에서는 오랜 역사와 전통에 따라 각종 체계적인 토납술이 개발되었고, 그들이 택한 것은 속성으로 내공을 쌓는 기술 중에서 가장 빠른 성취도를 이룰 수 있는 역혈기공(逆穴氣功)이었다. 운기조식을 할 때 일상적인 방향과는 반대로 내공을 몸에서 일주천시킨다면 대단히 빠른 속도로 내공을 쌓게 된다는 것을 알아낸 이후, 마교는 이 기공을 통해서 수많은 고수들을 배출했다. 세월이 흐르면서 다양한 역혈기공의 기법들이 개발되었고, 또 그에 따른 패도적인 마공들이 많이 개발되어 정파인들의 숨통을 끊어 놨다.&lt;/p> &lt;p>속성으로 내공을 쌓는 것은 좋은 점도 많았지만 몇 가지 문제점이 있었다. 첫째로 주화입마(走火入魔)에 빠질 가능성이 대단히 높았다. 내공을 쌓는 속도가 빠른 기술일수록 그 확률은 더욱 올라간다. 그 때문에 마교에 처음 입문한 무사들은 가장 빠르게 내공을 쌓는 기술을 사용하지만, 일정 수준 이상의 고수가 되면 좀 더 안전한 방법으로 바꾸어 수련한다. 따라서 마교에는 각 단계별 고수들에게 맞는 체계적인 심법들이 있었다. 잘못하면 지금까지 고생해서 쌓은 내공을 잃는 것은 물론이고 목숨까지 바쳐야 될 것이 뻔하기 때문이었다.&lt;/p> &lt;p>하지만 거기에서 생기는 이점은 주화입마의 위험도를 잊어버릴 만큼 대단하다. 마교에서는 20대에 절정고수가 될 수 있을뿐더러 30대에 초절정고수로 올라설 수 있었다. 그래서 마교의 고수들은 외가의 무공보다는 장풍(掌風), 지풍(指風), 검풍(劍風), 검기(劍氣) 등을 이용하여 적을 공격하는 내가의 무공을 사용했고, 특히나 패도적인 장풍을 쏘아 내는 기법들이 발달해 있었다.&lt;/p> &lt;p>두 번째 문제점은 산공(散功)의 위험이다. 엄청난 고통과 함께 자신이 여태까지 쌓아 놓은 내공이 일순간에 사라지는 것이다. 그 고통의 시간은 내공을 얼마나 쌓았느냐에 따라 다르며 절정의 고수일수록 고통의 시간은 증가한다. 하지만 마교에서 그것이 크게 문제되지 않는 것은 대부분의 경우 산공은 늙거나 병들어서 죽기 일보 직전에 벌어지기 때문이다. 그래서 마교의 고수들은 정파의 고수들처럼 편안한 죽음을 맞이하게 되기를 염원했다.&lt;/p> &lt;p>또 하나의 문제점은 일정 수준 이상 무공을 쌓고 나면 벽에 막힌 것처럼 더 이상 진보하지 않는다는 점이다. 마교의 고수들은 이것을 ‘보이지 않는 벽’이라고 불렀는데, 그 벽을 뚫으면 마(魔)의 정점(頂点)이라고 불리는 극마(極魔)의 경지로 들어설 수 있다.&lt;/p> &lt;p>정파에서 삼경의 고수가 있듯이 마교에서도 그들이 익히기를 염원하는 경지가 있다. 그 첫째가 마인(魔人)의 정점인 극마(極魔)의 경지다. 이 경우 역시 온몸이 무예를 시전하기에 최적의 상태로 바뀌는 환골탈태(換骨奪胎)를 경험하며, 그를 통해 반로환동한다.&lt;/p> &lt;p>극마의 고수는 마기(魔氣)를 몸 안에 고루 갈무리하여 자연스럽게 뻗어 나오는 마기만으로 사람들을 전율시키는데, 내력이 약한 사람들은 그것만으로도 투지를 잃고, 보통 사람들은 생명을 잃기도 한다. 또 마음먹기에 따라 완벽하게 마기를 몸 안에 갈무리하여 밖에 드러나지 않게 할 수도 있었다.&lt;/p> &lt;p>뿜어낸 마기만으로 능히 주변의 사람들을 죽일 수 있고, 손가락을 들어 작은 산을 무너뜨릴 수 있는 극마의 경지는 정파의 화경과 거의 비슷한 수준으로, 현존하는 극마의 경지에 이른 고수는 네 명이며 사람들은 이들을 4마제(四魔帝) 또는 4천왕(四天王)이라 부르며 두려워한다. 그들은 보통 때는 마기를 거의 밖으로 드러내지 않지만 기분이 나쁠 때면 자신도 모르게 살인적인 마기를 밖으로 흘린다. 그렇기에 그것을 보는 수하들은 피가 얼어붙는 공포를 느끼게 되는 것이다.&lt;/p> &lt;p>둘째는 탈마(脫魔)의 경지로, 마인들이 오를 수 있는 최고의 경지다. 탈마의 경지에 이르면 만독불침(萬毒不侵)의 상태가 된다. 아직 탈마에 이른 고수는 단 한 명도 배출되지 않았기에 극마의 경지가 화경과 비슷한 점에 착안하여 탈마의 경지를 현경과 비슷하지 않을까 추측하고 있다. 이 경지가 탈마로 불리는 이유는 모든 마인이 두려워하는 산공을 겪지 않는 수준일 것이라고 보는 의견이 지배적이기 때문이다. 어쨌든 마의 최고 경지라고 볼 수 있다.&lt;/p> &lt;p>그 윗단계는 없는데, 일부 마인들은 극마와 화경이 비슷함에 착안하여 만든 경지가 탈마인 만큼, 탈마의 위는 아마도 정파의 생사경과 같을 것이라고 조심스럽게 추측한다. 그들은 무공의 시작은 다르지만 마지막은 같은 것으로 종결지어질 것이라고 주장한다. 그러나 사실 탈마의 경지에 이른 사람도 없는 형편이었으니 그 추측은 어디까지나 일부 마인들의 망상일 뿐이라고 정파에서는 일축하고 있다.&lt;/p> &lt;/div>&lt;/body>&lt;/html></string>
+    <string name="webContentTwo">&lt;!DOCTYPE html PUBLIC -//W3C//DTD XHTML 1.0 Transitional//EN http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd>&lt;!DOCTYPE html PUBLIC -//W3C//DTD XHTML 1.0 Strict//EN http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd>&lt;!DOCTYPE html PUBLIC -//W3C//DTD XHTML 1.1//EN http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd>&lt;html xmlns=http://www.w3.org/1999/xhtml> &lt;head>&lt;title>&lt;/title>&lt;!-- Meta Tags --> &lt;meta http-equiv=Content-Type content=text/html; charset=utf-8 />&lt;/head> &lt;body> &lt;div style=\"height:500px; word-wrap:break-word; overflow:hidden;\"> &lt;h1 id=section13>서문 : 현경과 탈마&lt;/h1> &lt;p>또 하나의 문제점은 일정 수준 이상 무공을 쌓고 나면 벽에 막힌 것처럼 더 이상 진보하지 않는다는 점이다. 마교의 고수들은 이것을 ‘보이지 않는 벽’이라고 불렀는데, 그 벽을 뚫으면 마(魔)의 정점(頂点)이라고 불리는 극마(極魔)의 경지로 들어설 수 있다.&lt;/p> &lt;p>정파에서 삼경의 고수가 있듯이 마교에서도 그들이 익히기를 염원하는 경지가 있다. 그 첫째가 마인(魔人)의 정점인 극마(極魔)의 경지다. 이 경우 역시 온몸이 무예를 시전하기에 최적의 상태로 바뀌는 환골탈태(換骨奪胎)를 경험하며, 그를 통해 반로환동한다.&lt;/p> &lt;p>극마의 고수는 마기(魔氣)를 몸 안에 고루 갈무리하여 자연스럽게 뻗어 나오는 마기만으로 사람들을 전율시키는데, 내력이 약한 사람들은 그것만으로도 투지를 잃고, 보통 사람들은 생명을 잃기도 한다. 또 마음먹기에 따라 완벽하게 마기를 몸 안에 갈무리하여 밖에 드러나지 않게 할 수도 있었다.&lt;/p> &lt;p>뿜어낸 마기만으로 능히 주변의 사람들을 죽일 수 있고, 손가락을 들어 작은 산을 무너뜨릴 수 있는 극마의 경지는 정파의 화경과 거의 비슷한 수준으로, 현존하는 극마의 경지에 이른 고수는 네 명이며 사람들은 이들을 4마제(四魔帝) 또는 4천왕(四天王)이라 부르며 두려워한다. 그들은 보통 때는 마기를 거의 밖으로 드러내지 않지만 기분이 나쁠 때면 자신도 모르게 살인적인 마기를 밖으로 흘린다. 그렇기에 그것을 보는 수하들은 피가 얼어붙는 공포를 느끼게 되는 것이다.&lt;/p> &lt;p>둘째는 탈마(脫魔)의 경지로, 마인들이 오를 수 있는 최고의 경지다. 탈마의 경지에 이르면 만독불침(萬毒不侵)의 상태가 된다. 아직 탈마에 이른 고수는 단 한 명도 배출되지 않았기에 극마의 경지가 화경과 비슷한 점에 착안하여 탈마의 경지를 현경과 비슷하지 않을까 추측하고 있다. 이 경지가 탈마로 불리는 이유는 모든 마인이 두려워하는 산공을 겪지 않는 수준일 것이라고 보는 의견이 지배적이기 때문이다. 어쨌든 마의 최고 경지라고 볼 수 있다.&lt;/p> &lt;p>그 윗단계는 없는데, 일부 마인들은 극마와 화경이 비슷함에 착안하여 만든 경지가 탈마인 만큼, 탈마의 위는 아마도 정파의 생사경과 같을 것이라고 조심스럽게 추측한다. 그들은 무공의 시작은 다르지만 마지막은 같은 것으로 종결지어질 것이라고 주장한다. 그러나 사실 탈마의 경지에 이른 사람도 없는 형편이었으니 그 추측은 어디까지나 일부 마인들의 망상일 뿐이라고 정파에서는 일축하고 있다.&lt;/p> &lt;p>제1경(第一境)은 조화경(造化境), 즉 화경(化境)이다. 이것은 천지인(天地人)의 삼화(三化)와 수목금화토(水木金火土)의 오기(五氣)를 고루 몸 안에 이루어 낸 삼화취정(三化聚頂) 오기조원(五氣造元)의 고수를 말한다. 이 수준에 이르면 환골탈태(換骨奪胎)를 통해 온몸이 무예를 시전하기에 최적의 상태로 바뀌는 반로환동(反老換童)을 경험한다.&lt;/p> &lt;p>이때는 능히 소리로 사람을 죽이고 손가락을 들어 작은 산을 무너뜨릴 수 있다고 한다. 화경에 오른 현존하는 고수는 여덟 명인데 그들을 3황5제(三皇五帝)라고 불렀다. 거의 비슷한 무공 수준을 가지고 있지만, 그들을 3황과 5제로 구분하는 이유는 서로 간의 나이 차 때문이기도 하며, 5제보다는 3황의 무공이 좀 높았다. 또 정파의 고수들은 마교가 배출한 가장 뛰어난 네 명의 고수를 4천왕(四天王)이라고 했는데, 그 칭호에서 정파고수들의 은근한 자존심을 엿볼 수 있었다. 과거 현경의 고수가 한 명 있기는 했지만 그 이후 최강의 고수들인 이들은 모든 정도무림인들의 존경을 받고 있다.&lt;/p> &lt;p>제2경(第二境)은 신(神)으로의 입문이라 할 수 있는 현묘(玄妙)한 경지(境地), 즉 현경(玄境)이라 한다. 현경의 경지에 이르면 더욱 뛰어난 육체로 변하게 되고, 그 결과 몸에 만독이 침범하지 못하는 만독불침(萬毒不侵)이 되며 겉으로 전혀 정기가 드러나지 않는 반박귀진(返縛歸眞)의 상태가 된다. 또한 나이가 많은 사람이 이 경지를 이루면 머리가 다시 검어지고 치아(齒牙)까지 새로 나오기에, 그야말로 완벽한 젊음을 되찾는다고 한다. 그들은 능히 몸에서 뿜어 나오는 예기만으로 사람을 죽일 수 있는 경지에 이르는데, 현경의 경지에 이른 고수는 수천 년 무림사에 과거 천하제일문(天下第一門)을 창설한 조사인 신검대협(神劍大俠) 구휘(區揮) 단 한 명뿐이었다. 무림에서 인간이 달성해 낸 최고의 경지가 이 현경이었다.&lt;/p> &lt;p>마지막 제3경(第三境)은 불노불사(不老不死)의 진정한 신의 경지, 즉 생사경(生死境)이다. 인간의 생과 사를 초월하고 우주만물의 법칙을 한눈에 꿰뚫어 내는 무예의 최고 경지로 추측되지만, 단 한 명도 그 근처까지 접근조차 하지 못했기에 생사경은 완전한 미지의 세계다. 수천 년 무림사에 단 한 명도 탄생하지 않았던 지고무상(至高無常)의 경지가 바로 생사경이다. 혹자는 이 생사경은 있지도 않은 것을 말하기 좋아하는 사람들이 지어냈다고 질책할 정도다.&lt;/p> &lt;p>어쨌든 정파의 무공이 이상과 같다면 사파의 무공은 정파의 무공과는 완전히 다른 길을 가고 있다. 사파는 달마가 전래한 무공과는 달리 중원에서 자연스럽게 발생한 무술이다. 그렇기에 토납술에서 정파와는 다른 방법을 택한다. 사파의 대부분을 차지하는 녹림(綠林 : 산적이나 해적 등 남을 등쳐 먹는 것을 천직으로 알고 사는 사람들의 집단. 창부 등도 여기에 속함)이나 사파 무공을 익히는, 역사가 짧은 작은 군소방파들은 내공의 기술이 정파보다는 떨어지므로 그것을 만회하기 위해 상대 무공에 대한 파해식이나 기괴한 초식 등을 개발해 냈다. 따라서 사파에서는 기교에서 앞서가는 외가무공이 주류를 이루고 있다. 그 때문에 약간의 기술과 그에 대한 숙련도만 있으면 되므로 빠른 시일 안에 절정고수의 경지까지는 이르지 못하더라도 상당한 고수가 될 수 있다. 하지만 대부분의 정파고수들이 미숙한 상태기 때문에 이들의 무공은 상당히 위협적이다. 사파에서는 검뿐 아니라 실리적인 싸움을 하기 위해 다양한 무기를 개발하여 사용하며, 각종 암기도 많이 애용하고 있다.&lt;/p> &lt;p>하지만 일반 사파들과는 또 다른 길을 가고 있는 방파가 있으니 바로 마교(魔敎)다. 마교에서는 오랜 역사와 전통에 따라 각종 체계적인 토납술이 개발되었고, 그들이 택한 것은 속성으로 내공을 쌓는 기술 중에서 가장 빠른 성취도를 이룰 수 있는 역혈기공(逆穴氣功)이었다. 운기조식을 할 때 일상적인 방향과는 반대로 내공을 몸에서 일주천시킨다면 대단히 빠른 속도로 내공을 쌓게 된다는 것을 알아낸 이후, 마교는 이 기공을 통해서 수많은 고수들을 배출했다. 세월이 흐르면서 다양한 역혈기공의 기법들이 개발되었고, 또 그에 따른 패도적인 마공들이 많이 개발되어 정파인들의 숨통을 끊어 놨다.&lt;/p> &lt;p>속성으로 내공을 쌓는 것은 좋은 점도 많았지만 몇 가지 문제점이 있었다. 첫째로 주화입마(走火入魔)에 빠질 가능성이 대단히 높았다. 내공을 쌓는 속도가 빠른 기술일수록 그 확률은 더욱 올라간다. 그 때문에 마교에 처음 입문한 무사들은 가장 빠르게 내공을 쌓는 기술을 사용하지만, 일정 수준 이상의 고수가 되면 좀 더 안전한 방법으로 바꾸어 수련한다. 따라서 마교에는 각 단계별 고수들에게 맞는 체계적인 심법들이 있었다. 잘못하면 지금까지 고생해서 쌓은 내공을 잃는 것은 물론이고 목숨까지 바쳐야 될 것이 뻔하기 때문이었다.&lt;/p> &lt;p>하지만 거기에서 생기는 이점은 주화입마의 위험도를 잊어버릴 만큼 대단하다. 마교에서는 20대에 절정고수가 될 수 있을뿐더러 30대에 초절정고수로 올라설 수 있었다. 그래서 마교의 고수들은 외가의 무공보다는 장풍(掌風), 지풍(指風), 검풍(劍風), 검기(劍氣) 등을 이용하여 적을 공격하는 내가의 무공을 사용했고, 특히나 패도적인 장풍을 쏘아 내는 기법들이 발달해 있었다.&lt;/p> &lt;p>두 번째 문제점은 산공(散功)의 위험이다. 엄청난 고통과 함께 자신이 여태까지 쌓아 놓은 내공이 일순간에 사라지는 것이다. 그 고통의 시간은 내공을 얼마나 쌓았느냐에 따라 다르며 절정의 고수일수록 고통의 시간은 증가한다. 하지만 마교에서 그것이 크게 문제되지 않는 것은 대부분의 경우 산공은 늙거나 병들어서 죽기 일보 직전에 벌어지기 때문이다. 그래서 마교의 고수들은 정파의 고수들처럼 편안한 죽음을 맞이하게 되기를 염원했다.&lt;/p> &lt;p>무공을 크게 두 가지로 구분한다면 정(正)과 사(邪)로 나눌 수 있다. 어느 사이엔가 무공의 원류는 이렇게 둘로 나뉘더니 서로가 피를 피로 씻는 복수와 반목을 거듭해, 서로 왜 싸웠는지 그 시초조차 아리송해졌다. 정파는 사파를, 사파는 정파를 원수 보듯 하며 수단과 방법을 가리지 않고 상대방을 죽였다.&lt;/p> &lt;p>정파는 달마가 중원에 보급한 역근(易筋)과 세수(洗髓)의 두 진경(眞經)을 기반으로 성장한 무공으로, 대부분이 불가(佛家)나 도가(道家) 계통의 무술들이 주종을 이뤘다. 이른바 5대세가의 경우도 원류를 따지면 9파1방(九派一幇)의 속가제자 중 뛰어난 자가 세운 것이다. 그리고 그 문파에서 뛰어난 자들이 튀어나와 새로운 문파를 만들다 보니 근래에 이르러서는 그 갈래조차 희미해질 정도였다.&lt;/p> &lt;p>고대의 무술은 들짐승이나 날짐승의 행동을 흉내 내고 모방하는 데서 시작되었다. 유명한 소림오권(小林五拳)은 호랑이, 표범, 뱀, 원숭이, 학의 움직임을 따라 이루어졌으며, 도가(道家)로부터 전수된 검법(劍法)도 동물들을 흉내 내어 시작되었다. 이러한 검법(劍法), 도법(刀法), 창법(槍法), 봉법(棒法), 권법(拳法), 장법(掌法) 등의 무술을 통틀어 외가무공(外家武功)이라 한다.&lt;/p> &lt;p>반면에 내가무공(內家武功)은 단전호흡(丹田呼吸)이나 숨을 뱉고 쉬는 법을 일컫는 토납술(吐納術)에서 비롯되었다. 어린 시절부터 오랜 기간을 두고 토납을 반복하면 몸속에 보이지 않는 무형의 힘인 내공이 쌓이게 되는데, 그 내공을 권이나 장, 또는 검에 실어 내보내는 무술을 내가무공이라 한다. 내공이 어느 정도 쌓이면 몸 안을 일주천시키며 더욱 그 힘을 증폭시켜 내공이 쌓이는 속도를 증가시킨다. 이때 그 힘을 어떤 순서로 어떤 혈도에 보내느냐에 따라 다양한 운기조식의 기법들이 생겨났다.&lt;/p> &lt;p>정파는 내공을 익힐 때 그 공력이 천천히 쌓여 나간다. 그렇기에 다른 사람의 진신내공(眞身內功)을 얻거나 영약을 복용하지 않고서는 통상의 경우 밤낮을 가리지 않고 수련을 해도 40세가 넘어야 절정고수에 이를 수 있고, 초절정의 고수가 되려면 60세가 넘어야 했다. 물론 타고난 신력(神力)으로 외공(外功)을 사용하는 자들도 있지만, 내공이 받쳐 주지 않는다면 절정고수의 대열에 들어가기는 어려웠다. 이렇듯 정파 내에서도 무공을 쌓는 방법에는 여러 가지가 있으나 마교에서처럼 파격적인 방법을 써서 속성으로 내공을 쌓지는 않는다.&lt;/p> &lt;p>정파에는 명문(名門)이라 불리는 많은 방파가 있다. 그들은 대부분 도가나 불가 계통이며 뛰어난 고수들을 많이 배출했기에 명가의 칭호가 주어졌다. 그리고 명가의 제자들이 방문외도(傍門外道 : 명가가 아닌 다른 다수의 군소방파들을 낮추어 부르는 말)라 칭하며 깔보는 경향도 있지만 실질적인 정파의 저력은 소수의 명문에 있는 것이 아니라 엄청난 숫자를 자랑하는 군소방파들에 있었다. 대부분의 경우 군소방파들은 내가무공보다는 외가무공을 익히고 가르친다. 명가들과는 달리 그들에게는 우수한 내공 심법이 거의 없기 때문에 궁여지책으로 외가무공을 익히고 가르치는 것이다.&lt;/p> &lt;p>명가(名家)에서는 후계자에게 진신내공(眞身內功)을 전수하거나 영약을 먹여 빠른 속도로 내공이 쌓이게 만든다. 그들에게는 각 문파의 정통 무공들이 교육되었고 그들은 적전제자(適傳弟子)라고 불린다. 적전이 아닌 제자들은 내공이 상당히 취약하기 때문에 같은 초식(招式)을 써도 그 위력은 최소 열 배 이상 차이가 난다고 한다.&lt;/p> &lt;p>상대에게 진신내공을 전수할 때는 내공을 전수하는 쪽이 엄청난 고통을 겪기 때문에 일가 피붙이라도 잘 전수해 주지 않는다. 그리고 진신내공을 전수받는 데도 한 가지 위험이 따른다. 같은 수련을 한 사람의 진신내공이라면 성질이 같기에 전수받아도 상관없지만, 다른 종류의 수련을 하여 얻은 내공을 전수받으면 아예 무공을 익히지 않은 경우를 제외하고는 자신의 진신내공과 새로 얻은 진신내공이 합쳐지지 않고 서로 충돌하여 더 안 좋은 결과를 가져온다.&lt;/p> &lt;p>치료나 공격 등의 목적으로 상대방에게 내공을 불어넣기도 하는데, 그때의 내공은 진신내공이 아니기 때문에 일정 시간이 지나면 내공을 받은 사람의 내부에서 이종(異種)의 내력은 소멸되며, 또 내공을 집어넣은 사람도 곧 내력을 회복할 수 있다.&lt;/p> &lt;p>내공을 특출한 경지까지 연마한 정파의 고수들을 일컬어 사람들은 삼경(三境)의 고수라 한다. 초절정고수가 되면 내공의 정도와 무술 실력이 거의 비례하기 때문에 삼경의 고수에 들어가면 거의 적수를 찾기 어렵다.&lt;/p> &lt;/div>&lt;/body>&lt;/html></string>
+    <string name="webtoon">웹툰</string>
+    <string name="webtoon_push_title">네이버 웹툰</string>
+    <string name="weekday_new">신작</string>
+    <string name="won">원</string>
+    <string name="writer_comment">작가의 말</string>
+    <string name="writer_other_contents_view">작가의 다른 작품 보기</string>
+    <string name="yes">예</string>
+    <string name="zzal_claim_default_title">겟!짤 게시물</string>
+    <string name="zzal_delete_complete">삭제되었습니다.</string>
+    <string name="zzal_detail_best_comment_load_fail">베스트 댓글을 확인해 보세요</string>
+    <string name="zzal_detail_blinded">"이 게시물은 신고 누적으로
+블라인드 처리 되었습니다."</string>
+    <string name="zzal_detail_delete_msg">이 웹툰 짤을 삭제하시겠습니까?</string>
+    <string name="zzal_detail_go_to_episode_viewer">해당 회차를 보러 가시겠습니까?</string>
+    <string name="zzal_detail_no_recent_comment">첫 댓글을 달아주세요</string>
+    <string name="zzal_duration_before_day">%1$d일전</string>
+    <string name="zzal_duration_before_hour">%1$d시간전</string>
+    <string name="zzal_duration_before_minute">%1$d분전</string>
+    <string name="zzal_duration_before_second">%1$d초전</string>
+    <string name="zzal_duration_before_week">%1$d주전</string>
+    <string name="zzal_duration_best">베스트</string>
+    <string name="zzal_duration_month">이번달</string>
+    <string name="zzal_duration_today">오늘</string>
+    <string name="zzal_duration_week">이번주</string>
+    <string name="zzal_file_download_fail_for_toast">실패하였습니다</string>
+    <string name="zzal_file_download_success_for_toast">겟!짤 성공. 앨범에서 확인하세요</string>
+    <string name="zzal_image_share_title">공유하기</string>
+    <string name="zzal_list_go_to_top">TOP</string>
+    <string name="zzal_list_network_loading_error">네트워크에 접속할 수 없습니다.</string>
+    <string name="zzal_list_network_loading_error_2">연결 상태를 확인해 주세요</string>
+    <string name="zzal_list_network_loading_error_btn_txt">다시 시도하기</string>
+    <string name="zzal_modify_title">수정하기</string>
+    <string name="zzal_my_zzal_list_no_zzal_btn_txt">짤만들기 꿀팁!</string>
+    <string name="zzal_nickname_id_format">%1$s(%2$s)</string>
+    <string name="zzal_popup_menu_delete">삭제하기</string>
+    <string name="zzal_popup_menu_go_episode">해당 회차 바로가기</string>
+    <string name="zzal_popup_menu_modify">수정하기</string>
+    <string name="zzal_popup_menu_report">신고하기</string>
+    <string name="zzal_share_save_done_msg">폰앨범에 짤이 저장되었습니다.</string>
+    <string name="zzal_share_upload_and_save_done_msg">겟짤과 앨범에 짤이 저장되었습니다.</string>
+    <string name="zzal_sort_by_abc">ㄱㄴㄷ순</string>
+    <string name="zzal_sort_by_latest">최신순</string>
+    <string name="zzal_sort_by_popular">인기순</string>
+    <string name="zzal_system_tag_title">작품별 짤</string>
+    <string name="zzal_title_my_zzal">마이 짤</string>
+    <string name="zzal_title_previous_recommend">어제 놓친 짤추</string>
+    <string name="zzal_title_today_like">오늘의 인정 TOP 10</string>
+    <string name="zzal_today_like_more_link_text1">"'오늘의 인정짤' "</string>
+    <string name="zzal_today_like_more_link_text2">더 보러 갈래요?</string>
+    <string name="zzal_upload_edit_text_hint">내가 만든 짤의 제목을 붙여주세요!</string>
+    <string name="zzal_upload_not_register">등록안하기</string>
+    <string name="zzal_upload_register">겟!짤 등록하기</string>
+    <string name="zzal_upload_retry_msg">"겟!짤에 등록되지 않았습니다.
+잠시 후 다시 시도해 주세요."</string>
+    <string name="zzal_upload_success_msg">겟!짤에 등록되었습니다.</string>
+    <string name="zzal_upload_title">겟!짤에 올리기</string>
+</resources>

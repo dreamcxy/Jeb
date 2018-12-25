@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="about">Около</string>
+    <string name="about_app_text">Приложение Astra Bus позволяет жителям и гостям г.Астаны получать актуальную информацию о маршрутах городских автобусов и их текущем местоположении для упрощения передвижения по городу на общественном транспорте</string>
+    <string name="about_bus_stop">Около остановки</string>
+    <string name="address_not_found">Адрес не найден.</string>
+    <string name="admob_key_for_app">ca-app-pub-7581111903764891~3343708564</string>
+    <string name="alarm">Будильник</string>
+    <string name="all">Все</string>
+    <string name="all_arrivals">Количество поездок: %d</string>
+    <string name="answer_title">Ответ</string>
+    <string name="app_name">Astrabus</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="aside">В сторону:</string>
+    <string name="astra_plat_title">"RTVM
+Автомат продажи и пополнения
+транспортных карт ASTRA"</string>
+    <string name="attach_photo">Приложите фото</string>
+    <string name="attention">Внимание</string>
+    <string name="autorization">Авторизация</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="bus_marker_text_2" formatted="false">"Маршрут: %s
+Данные получены: %s"</string>
+    <string name="bus_number_format">Бортовой номер: %s</string>
+    <string name="bus_stops">Остановки</string>
+    <string name="buses_count_avg_speed" formatted="false">Автобусов: %s. Ср. скорость: %s кмч</string>
+    <string name="busstop_banner_ad_unit_id">ca-app-pub-7581111903764891/1727374565</string>
+    <string name="cabinet">Личный кабинет</string>
+    <string name="calc_forecast">Рассчитать прогноз</string>
+    <string name="camera">Камера</string>
+    <string name="cancel">Отмена</string>
+    <string name="cannot_found_currency">Параметр currency обязательный</string>
+    <string name="cannot_found_public_id">Параметр publicId обязательный</string>
+    <string name="cant_use_ticket">Не удалось использовать билет</string>
+    <string name="card_date">Введите срок действия карты</string>
+    <string name="card_holder_name_cannot_start_with">Имя владельца не может начинаться с пробела, точки или дефиса</string>
+    <string name="card_holder_name_message">Имя владельца может содержать только латинские буквы, включая точку, дефис и пробел</string>
+    <string name="card_not_valid">Карта невалидна</string>
+    <string name="card_number_hint">0000 0000 0000 0000</string>
+    <string name="card_number_title">Номер карты:</string>
+    <string name="card_number_wrong">Номер карты указан неверно</string>
+    <string name="cast_ad_label">Ad</string>
+    <string name="cast_casting_to_device">Casting to %1$s</string>
+    <string name="cast_closed_captions">Closed captions</string>
+    <string name="cast_closed_captions_unavailable">Closed captions unavailable</string>
+    <string name="cast_connecting_to_device">Connecting to %1$s</string>
+    <string name="cast_disconnect">Disconnect</string>
+    <string name="cast_expanded_controller_ad_image_description">Image displayed while the cast receiver is playing an ad</string>
+    <string name="cast_expanded_controller_ad_in_progress">Ad in progress…</string>
+    <string name="cast_expanded_controller_background_image">Album art</string>
+    <string name="cast_expanded_controller_live_stream_indicator">Live stream</string>
+    <string name="cast_expanded_controller_loading">Loading…</string>
+    <string name="cast_expanded_controller_skip_ad_label">Skip</string>
+    <string name="cast_forward">Forward</string>
+    <string name="cast_forward_10">Forward ten seconds</string>
+    <string name="cast_forward_30">Forward thirty seconds</string>
+    <string name="cast_intro_overlay_button_text">@android:string/ok</string>
+    <string name="cast_invalid_stream_duration_text">--:--</string>
+    <string name="cast_invalid_stream_position_text">--:--</string>
+    <string name="cast_mute">Mute</string>
+    <string name="cast_notification_connected_message">Connected to %1$s</string>
+    <string name="cast_notification_connecting_message">Connecting to %1$s</string>
+    <string name="cast_notification_disconnect">Disconnect</string>
+    <string name="cast_pause">Pause</string>
+    <string name="cast_play">Play</string>
+    <string name="cast_rewind">Rewind</string>
+    <string name="cast_rewind_10">Rewind ten seconds</string>
+    <string name="cast_rewind_30">Rewind thirty seconds</string>
+    <string name="cast_seek_bar">Playback seek control</string>
+    <string name="cast_skip_next">Skip to next item</string>
+    <string name="cast_skip_prev">Skip to previous item</string>
+    <string name="cast_stop">Stop</string>
+    <string name="cast_stop_live_stream">Stop live stream</string>
+    <string name="cast_tracks_chooser_dialog_audio">Audio</string>
+    <string name="cast_tracks_chooser_dialog_cancel">Cancel</string>
+    <string name="cast_tracks_chooser_dialog_closed_captions">Closed Captions</string>
+    <string name="cast_tracks_chooser_dialog_default_track_name">Track %1$d</string>
+    <string name="cast_tracks_chooser_dialog_none">None</string>
+    <string name="cast_tracks_chooser_dialog_ok">OK</string>
+    <string name="cast_tracks_chooser_dialog_subtitles">Subtitles</string>
+    <string name="cast_unmute">Unmute</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="check_ble_or_qr">Для успешной оплаты необходимо включить Bluetooth или отсканировать QR-код на кабине водителя.</string>
+    <string name="check_bluetooth_or_use_qr">"Убедитесь, что у Вас включен
+Bluetooth и попробуйте еще раз
+или сосканируйте QR-код"</string>
+    <string name="check_internet_connection">Не удается загрузить данные, проверьте интернет соединение и нажмите кнопку \"Повторить\"</string>
+    <string name="check_ticket_title">Проверка билета</string>
+    <string name="city_routes">Городские</string>
+    <string name="close">Закрыть</string>
+    <string name="code">Код</string>
+    <string name="com.crashlytics.android.build_id">8d46e956-f21a-4d25-8cab-bcb976243281</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="complaint_serial_number">Номер обращения</string>
+    <string name="complaints_date">Дата</string>
+    <string name="complaints_grnz">Гос. номер</string>
+    <string name="complaints_hint">Обращение</string>
+    <string name="complaints_route">Маршрут</string>
+    <string name="complaints_success_send">Обращение отправлено</string>
+    <string name="complaints_time">Время</string>
+    <string name="complaints_unsuccess_send">Обращение не отправлено</string>
+    <string name="confirm_payment">Подтверждение оплаты</string>
+    <string name="contact_centr">В Астане функционирует Контакт-центр по работе общественного транспорта города Астаны.</string>
+    <string name="cross_buses">Прибывающие автобусы</string>
+    <string name="cvv_desc">"3 цифры
+(указаны на обратной стороне карты)"</string>
+    <string name="cvv_hint">000</string>
+    <string name="cvv_title">Код CVV:</string>
+    <string name="data_preparation">Подготовка данных...</string>
+    <string name="date_of_birthday">Дата рождения</string>
+    <string name="date_of_payment_format">Дата покупки: %s</string>
+    <string name="default_web_client_id">356838896948-bfutgvh8695lujn8703jbgfchi0o2p85.apps.googleusercontent.com</string>
+    <string name="define_materialstyleddialogs" />
+    <string name="departure_expected">Ожидается отправление</string>
+    <string name="desc_title">Назначение</string>
+    <string name="description">Описание</string>
+    <string name="do_it_with">Выполнить действие с помощью:</string>
+    <string name="draw_route">Проложить маршрут</string>
+    <string name="edit_profile">Редактирование профиля</string>
+    <string name="edit_route">Редактировать маршрут</string>
+    <string name="eighth_slider_text">"Основная цель создания городской службы такси - повышение качества предоставляемых услуг населению г. Астаны, а также соблюдение мер безопасности и создание условий для комфортной поездки. 
+
+Запуск данного проекта абсолютно нового формата позволит решить ряд таких проблем, как: 
+
+стремительно растущее количество нелегальных такси, число которых на сегодняшний день составляет 65% от общего объема перевозимых пассажиров; сложность вызова такси; длительное ожидание автомобиля; отсутствие подготовки водителя, в том числе отсутствие знаний о городе; отсутствие ежедневного технического осмотра транспорта; необоснованный тариф за проезд и т.д. Запуск городской службы такси нового формата позволит создать высокую конкурентную среду среди действующих перевозчиков, что в свою очередь повлияет на улучшение качества оказываемых услуг, и рабочие места для определенного количества людей. 
+
+Кроме того, в рамках запуска данного проекта, для доступности и комфорта общественности, планируется разработать мобильное приложение для быстрого вызова такси, с простым и удобным интерфейсом. Также предполагается ведение учета постоянных и VIP клиентов. 
+
+Отметим, что подвижной состав такси будет брендирован под единый стиль и оснащен специальным оборудованием для осуществления своей деятельности. 
+
+Данный проект планируется реализовать в 2016 году."</string>
+    <string name="eighth_slider_title">Astana City Taxi</string>
+    <string name="email_hint">E-mail</string>
+    <string name="enter_amount">Введите сумму</string>
+    <string name="enter_card_holder_name">Введите имя держателя карты</string>
+    <string name="enter_card_number">Введите номер карты</string>
+    <string name="enter_cvv">Введтие CVV</string>
+    <string name="enter_desc">Введите назначение</string>
+    <string name="enter_exp">Введите срок дейтсвий карты</string>
+    <string name="enter_exp_month">Выберите месяц</string>
+    <string name="enter_exp_year">Выберите год</string>
+    <string name="enter_phone_number">"Для авторизации
+введите свой номер телефона"</string>
+    <string name="enter_type">Укажите тип платежа: одностадийный (charge) или двухстадийный(auth)</string>
+    <string name="enter_verification_code">"Мы отправили код через СМС,
+введите для активации"</string>
+    <string name="erron_more_four_photos">Нельзя приложить больше четырех фото</string>
+    <string name="error">"[Ошибка] "</string>
+    <string name="error_register">Упс... Что-то пошло не так...</string>
+    <string name="express_routes">Экспресс</string>
+    <string name="facebook">facebook.com/AstanaLRT</string>
+    <string name="favorites">Избранные</string>
+    <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
+    <string name="female">Женский</string>
+    <string name="fifth_slider_text">"Одно из ключевых качеств современного города – это транспортная доступность, которая играет важную социально-экономическую роль в поддержании высокого качества жизни. Учитывая ускоренное развитие Астаны, для успешной реализации существующих и будущих градостроительных проектов нужен интегрированный подход по управлению транспортной системой города. И одно из таких решений – запуск Интеллектуальной транспортной системы (ITS). 
+
+ТОО «Астана LRT» первая и единственная компания в Казахстане, которая реализовала проект ITS в Астане. Данное поручение было дано Главой государства в целях эффективного регулирования транспортными потоками за счет внедрения современных технологий и автоматизированных систем управления дорожным движением. 
+
+Проект ITS состоит из нескольких подсистем: 
+
+Система адаптивного управления светофорными объектами. На регулируемых перекрестках устанавливается специальное оборудование для детектирования транспортных потоков и установки связи с центральным программным обеспечением, которое установлено на серверах Центра управления трафиком. Основное назначение адаптивного управления светофорными объектами – это оптимизация движения для снижения транспортных задержек. При управлении светофорным регулированием учитывается транспортный поток по всем направлениям перекрестка, а также прилегающие перекрестки. Система информирования водителей. Установка информационных табло и дорожных знаков переменной информации. Система диспетчеризации общественного транспорта. Оснащение городских пассажирских автобусов бортовым оборудованием системы диспетчеризации, видеонаблюдения, подсчета пассажиров, TFT и Led дисплеями. Система информирования пассажиров. Установка информационных табло на остановочных пунктах общественного транспорта, разработка мобильных приложений для смартфонов и интернет портала с возможностью выбора маршрута следования. Система видеонаблюдения перекрестков. Оснащение 30 перекрестков подвижными и неподвижными видеокамерами для визуального анализа дорожно-транспортной ситуации и подготовки предложений по улучшению организации дорожного движения. Также был создан Центр управления трафиком для единого управления транспортной инфраструктурой города. 
+
+В 2014 году в ТОО «Астана LRT» ввели в эксплуатацию первую очередь ITS. Она включает автоматизированное управление 42 регулируемых перекрестков на шести улицах столицы. Это Сарыарка, Туран, Сарайшык, Кунаева, Достык и Сыганак. В ходе эксплуатации, система ITS показала свою эффективность по управлению транспортными потоками, увеличив пропускную способность уличной сети и скорость движения транспортных потоков на указанных улицах в среднем до 21%. 
+
+В настоящее время ведется проектирование второй очереди ITS, которая охватит 114 светофорных объектов. Всего к Интеллектуальной транспортной системе планируется подключить 402 регулируемых перекрестка."</string>
+    <string name="fifth_slider_title">Система адаптивного управления светофорными объектами</string>
+    <string name="firebase_database_url">https://astrabus-a7529.firebaseio.com</string>
+    <string name="first_name">Имя</string>
+    <string name="first_slider_text">"Анализ пассажирского транспорта города Астаны, проведенный международными консультантами компанииTYPSA выявил, что около 40% действующего подвижного состава не отвечает всем требованиям законодательства РК и национальным стандартам. А потребность в автобусах до 2017 года составляет 1328 единиц. В связи с этим Главой государства в конце 2013 года была поставлена четкая задача - приобрести современные городские автобусы с привлечением займа и вывести из линии устаревший подвижной состав. Таким образом, в ТОО «Астана LRT» совместно с Управлением пассажирского транспорта г. Астаны был разработан план по обновлению подвижного состава - проект «CityBus». Он состоит из трех этапов: 
+
+CityBus 1. В рамках данного этапа, запланированного на 2014-2015 годы, было закуплено 358 единиц современного городского подвижного состава марки IVECO Citelis. На сегодняшний день данные автобусы зарекомендовали себя как качественный и надежный транспорт, в котором созданы все условия для комфортного передвижения пассажиров. Отметим, что в зимний период среди автобусов вышедших из строя не было ни единого автобуса марки IVECO, что подтверждает качество подвижного состава данной марки. 
+
+CityBus 2. В рамках данного этапа, запланированного на 2015 – 2016 годы, планируется поставка в Астану 250 единиц подвижного состава. 
+
+CityBus 3. В рамках третьего этапа, планируется поставка 350 единиц подвижного состава до 2017 года."</string>
+    <string name="first_slider_title">City Bus</string>
+    <string name="form_registration_title">"Форма регистрации для дальнейшего
+использования приложения."</string>
+    <string name="fourth_slider_text">"Центр квалификации специалистов транспорта города Астаны был создан в соответствии с протокольным поручением акимата города Астаны от 29 января 2014 года. Основная задача Центра квалификации - повышение уровня квалификации и переподготовка специалистов транспортных предприятий столицы, в соответствии с требованиями международных стандартов в данной области. 
+
+Для внедрения мирового опыта в организацию учебного процесса, а также применения прогрессивных форм и методов обучения, позволяющих осуществить качественную подготовку персонала транспортных предприятий, в июле 2014 года Центр заключил меморандумы о сотрудничестве с Компаниями «SYSTRA» (Франция) и «TYPSA» (Испания). Специалистами Центра квалификации, совместно с международными консультантами разрабатываются программы повышения квалификации для транспортных профессий. 
+
+На сегодняшний день разработаны многоуровневые программы, которые позволяют совершенствовать профессионализм специалистов пассажирских перевозок. 
+
+Обучающая деятельность Центра квалификации обусловлена технологическими изменениями в сфере автомобильного транспорта, растущим значением человеческого фактора в повышении качества оказания услуг, а также удовлетворения потребностей столицы в сфере городских пассажирских перевозок. 
+
+С мая 2014 года по текущий год, на базе Центра квалификации проходят обучение водительский и кондукторский состав предприятий городского пассажирского транспорта, водители такси. Так же, в 2015 году была разработана гражданская версия курсов повышения квалификации для сотрудников Управления административной полиции ДВД г.Астаны, по которой обучаются сотрудники специализированного батальона и дорожно-патрульной службы. Разработана программа повышения квалификации для водителей ХОЗУ «Автохозяйство Парламента РК». 
+
+Программы курсов повышения квалификации охватывают различные специальности, такие как диспетчеры, операторы колл-центров, инспекторы Службы транспортного контроля г.Астаны и другие. 
+
+Материально-техническое оснащение Центра квалификации позволяет проводить занятия на современном и интерактивном уровне. Центр обладает уникальным специализированным оборудованием и техникой, которые позволяют проводить полноценные исследования и контроль. 
+
+По итогам 2014 года, в Центре квалификации прошли обучение 1 675 слушателей, из них: 
+
+1) водители – 889 человек, 
+
+2) кондукторы – 760 человек, 
+
+3) водители такси – 26 человек. 
+
+За 9 месяцев 2015 года прошли обучение 1248 слушателей, из них: 
+
+1) водители – 464 человека, 
+
+2) кондукторы –234 человека, 
+
+3) сотрудники УАП ДВД г. Астаны – 363 человека, 
+
+4) водители автохозяйства ХОЗУ Парламента – 150 человек, 
+
+5) инспекторы Службы транспортного контроля – 15 человек, 
+
+6) сотрудники транспортного сервиса (кассиры ЦДТ) - 11 человек, 
+
+7) диспетчеры автомобильного транспорта – 11 человек. 
+
+Итого на сегодняшний день, прошли курсы повышения квалификации – 2 923 слушателя."</string>
+    <string name="fourth_slider_title">Центр квалификации специалистов транспорта города Астаны</string>
+    <string name="from">От</string>
+    <string name="ga_trackingId">UA-73291833-3</string>
+    <string name="galery">Галерея</string>
+    <string name="gcm_defaultSenderId">356838896948</string>
+    <string name="gcm_fallback_notification_channel_label">Miscellaneous</string>
+    <string name="gender">Пол</string>
+    <string name="go_to_next">Пропустить</string>
+    <string name="go_to_site">Перейти на сайт</string>
+    <string name="google_api_key">AIzaSyCTNDNa5V0HSnDRCVQ_l4GsRvSwY_rbCp0</string>
+    <string name="google_app_id">1:356838896948:android:5c1faf8eed4239d8</string>
+    <string name="google_crash_reporting_api_key">AIzaSyCTNDNa5V0HSnDRCVQ_l4GsRvSwY_rbCp0</string>
+    <string name="google_storage_bucket">astrabus-a7529.appspot.com</string>
+    <string name="history">История</string>
+    <string name="holder_name_hint">ИМЯ ВЛАДЕЛЬЦА</string>
+    <string name="holder_name_title">Имя владельца:</string>
+    <string name="hour">ч.</string>
+    <string name="how_to_finish">Поехали!</string>
+    <string name="how_to_one">При нажатии на остановку показывается время прибытия проходящих автобусов.</string>
+    <string name="incorrect_phone_number">Номер слишком короткий</string>
+    <string name="input_money_title">Способы пополнения</string>
+    <string name="input_money_via_card">Банковской картой</string>
+    <string name="input_money_via_qiwi">Qiwi терминал</string>
+    <string name="insufficient_funds">Недостаточно средств</string>
+    <string name="interval">Интервал</string>
+    <string name="key_route_statistic">key_route_statistic</string>
+    <string name="last_name">Фамилия</string>
+    <string name="later">Позже</string>
+    <string name="left_arrivals">Осталось поездок: %d</string>
+    <string name="less_one_minute">&lt; 1 мин.</string>
+    <string name="library_materialstyleddialogs_author">Javier Santos</string>
+    <string name="library_materialstyleddialogs_authorWebsite">https://github.com/javiersantos</string>
+    <string name="library_materialstyleddialogs_isOpenSource">true</string>
+    <string name="library_materialstyleddialogs_libraryDescription">A library that shows a beautiful and customizable Material dialog with header and animation.</string>
+    <string name="library_materialstyleddialogs_libraryName">MaterialStyledDialogs</string>
+    <string name="library_materialstyleddialogs_libraryWebsite">https://github.com/javiersantos/MaterialStyledDialogs</string>
+    <string name="library_materialstyleddialogs_licenseId">apache_2_0</string>
+    <string name="library_materialstyleddialogs_repositoryLink">https://github.com/javiersantos/MaterialStyledDialogs</string>
+    <string name="male">Мужской</string>
+    <string name="max5_select_routes">Нельзя показывать больше пяти маршрутов одновременно</string>
+    <string name="mdtp_am">am</string>
+    <item type="string" name="mdtp_ampm_circle_radius_multiplier">0.22</item>
+    <string name="mdtp_cancel">@android:string/cancel</string>
+    <item type="string" name="mdtp_circle_radius_multiplier">0.82</item>
+    <item type="string" name="mdtp_circle_radius_multiplier_24HourMode">0.85</item>
+    <string name="mdtp_date">Date</string>
+    <string name="mdtp_date_v1_monthyear">MMMM yyyy</string>
+    <string name="mdtp_date_v2_daymonthyear">EEE, MMM dd</string>
+    <string name="mdtp_day_of_week_label_typeface">sans-serif-light</string>
+    <string name="mdtp_day_picker_description">Month grid of days</string>
+    <string name="mdtp_deleted_key">%1$s deleted</string>
+    <string name="mdtp_done_label">Done</string>
+    <string name="mdtp_hour_picker_description">Hours circular slider</string>
+    <string name="mdtp_item_is_selected">%1$s selected</string>
+    <string name="mdtp_minute_picker_description">Minutes circular slider</string>
+    <item type="string" name="mdtp_numbers_radius_multiplier_inner">0.6</item>
+    <item type="string" name="mdtp_numbers_radius_multiplier_normal">0.81</item>
+    <item type="string" name="mdtp_numbers_radius_multiplier_outer">0.83</item>
+    <string name="mdtp_ok">@android:string/ok</string>
+    <string name="mdtp_pm">pm</string>
+    <string name="mdtp_radial_numbers_typeface">sans-serif</string>
+    <string name="mdtp_sans_serif">sans-serif</string>
+    <string name="mdtp_second_picker_description">Seconds circular slider</string>
+    <string name="mdtp_select_day">Select month and day</string>
+    <string name="mdtp_select_hours">Select hours</string>
+    <string name="mdtp_select_minutes">Select minutes</string>
+    <string name="mdtp_select_seconds">Select seconds</string>
+    <string name="mdtp_select_year">Select year</string>
+    <item type="string" name="mdtp_selection_radius_multiplier">0.16</item>
+    <item type="string" name="mdtp_text_size_multiplier_inner">0.11</item>
+    <item type="string" name="mdtp_text_size_multiplier_normal">0.12</item>
+    <item type="string" name="mdtp_text_size_multiplier_outer">0.08</item>
+    <string name="mdtp_time">Time</string>
+    <string name="mdtp_time_placeholder">00</string>
+    <string name="mdtp_time_separator">:</string>
+    <string name="mdtp_year_picker_description">Year list</string>
+    <string name="menu_about">О приложении</string>
+    <string name="menu_buses">Astra Bus</string>
+    <string name="menu_complaints">Обращения</string>
+    <string name="menu_contact_centr">Контакт-Центр</string>
+    <string name="menu_news">Новости</string>
+    <string name="menu_payment">Astra Plat</string>
+    <string name="menu_schedule">Расписание</string>
+    <string name="menu_transport">Транспорт Столицы</string>
+    <string name="minute">мин.</string>
+    <string name="mm_hint">Месяц</string>
+    <string name="mr_button_content_description">Cast button</string>
+    <string name="mr_cast_button_connected">Cast button. Connected</string>
+    <string name="mr_cast_button_connecting">Cast button. Connecting</string>
+    <string name="mr_cast_button_disconnected">Cast button. Disconnected</string>
+    <string name="mr_chooser_searching">Finding devices</string>
+    <string name="mr_chooser_title">Cast to</string>
+    <string name="mr_controller_album_art">Album art</string>
+    <string name="mr_controller_casting_screen">Casting screen</string>
+    <string name="mr_controller_close_description">Close</string>
+    <string name="mr_controller_collapse_group">Collapse</string>
+    <string name="mr_controller_disconnect">Disconnect</string>
+    <string name="mr_controller_expand_group">Expand</string>
+    <string name="mr_controller_no_info_available">No info available</string>
+    <string name="mr_controller_no_media_selected">No media selected</string>
+    <string name="mr_controller_pause">Pause</string>
+    <string name="mr_controller_play">Play</string>
+    <string name="mr_controller_stop">Stop casting</string>
+    <string name="mr_controller_volume_slider">Volume slider</string>
+    <string name="mr_system_route_name">System</string>
+    <string name="mr_user_route_category_name">Devices</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="need_fill_all_values">Необходимо заполнить все поля</string>
+    <string name="need_fill_value">Необходимо заполнить</string>
+    <string name="need_select_route">Необходимо выбрать маршрут</string>
+    <string name="news_banner_ad_unit_id">ca-app-pub-7581111903764891/1321918562</string>
+    <string name="ninth_slider_text">"Главная цель данного проекта – создание надежной и безопасной системы перевозок школьников до образовательного учреждения и обратно. 
+
+Успешная реализация данного проекта позволит решить ряд проблемных вопросов, как: 
+
+Отсутствие единого стандарта и технологии школьных перевозок; 
+Самостоятельный проезд школьников в общественном транспорте, что чревато негативными последствиями; 
+Малый охват школ и районов; 
+Несоответствующий подвижной состав; 
+Слабая подготовка водителей; 
+Отсутствие сопровождающего специалиста; 
+Внедрение нового формата школьных перевозок «Astana School Bus» позволит повысить уровень сервиса, оказываемого населению города Астаны, в сфере общественного транспорта. 
+
+Школьные перевозки будут осуществляться на специализированном транспорте, который будет отвечать всем требованиям и национальным стандартам, а так же стандартам Таможенного союза. 
+
+Реализация проекта запланирована на 2016 год. В настоящий момент ведутся переговоры с заводами-изготовителями. Ведется опрос среди родителей школьников по выявлению их потребностей."</string>
+    <string name="ninth_slider_title">Astana School Bus</string>
+    <string name="no_code">"Не получили код?
+Отправить заново"</string>
+    <string name="no_complaints">У Вас нет активных обращений</string>
+    <string name="no_information">Нет информации</string>
+    <string name="no_internet_connection">Нет интернет соединения</string>
+    <string name="no_news">Новостей пока нет</string>
+    <string name="no_route_for_selected_points">Нет маршрутов в выбранном направлении</string>
+    <string name="no_tickets">У вас еще нет купленных билетов</string>
+    <string name="not_ask">Не спрашивать</string>
+    <string name="notification">Уведомления</string>
+    <string name="ok">OK</string>
+    <string name="online_payment">Оплата</string>
+    <string name="online_payment_push">Воспользуйтесь онлайн оплатой в приложении.</string>
+    <string name="operation_canceled">"[Операция отменена] "</string>
+    <string name="password_toggle_content_description">Toggle password visibility</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="pay">Оплатить</string>
+    <string name="payment">Оплата</string>
+    <string name="payment_click_first_time">Раздел оплаты работает в тестовом режиме. Вы можете воспользоваться данной функцией на 51 маршруте.</string>
+    <string name="payment_finished">"[Оплата завершена] "</string>
+    <string name="payment_not_finished">"[Оплата не завершена] "</string>
+    <string name="phone_number">574-777</string>
+    <string name="place_autocomplete_clear_button">Clear search</string>
+    <string name="place_autocomplete_search_hint">Search</string>
+    <string name="please_wait">Пожалуйста, подождите</string>
+    <string name="press_ok_btn">Для продолжения нажмите ОК</string>
+    <string name="qr_code">QR-код</string>
+    <string name="r">р.</string>
+    <string name="registration">Регистрация</string>
+    <string name="repeat">Повторить</string>
+    <string name="repeate_enter_code">Код отправлен повторно</string>
+    <string name="reused_ticket">Использовать билет повторно?</string>
+    <string name="reused_ticket_title">Использовать повторно</string>
+    <string name="right_panel_bottom_banner_ad_unit_id">ca-app-pub-7581111903764891/9111040562</string>
+    <string name="right_panel_top_banner_ad_unit_id">ca-app-pub-7581111903764891/6157574167</string>
+    <string name="route">Маршрут</string>
+    <string name="routes">Маршруты</string>
+    <string name="s1">Save image</string>
+    <string name="s2">Allow Ad to store image in Picture gallery?</string>
+    <string name="s3">Accept</string>
+    <string name="s4">Decline</string>
+    <string name="s5">Create calendar event</string>
+    <string name="s6">Allow Ad to create a calendar event?</string>
+    <string name="s7">Test Ad</string>
+    <string name="save_in_bain">Запомните!</string>
+    <string name="scan_qr">Просканируйте QR</string>
+    <string name="search">Поиск</string>
+    <string name="search_from">Откуда...</string>
+    <string name="search_menu_title">Search</string>
+    <string name="search_routes_from_to">Поиск маршрутов (от → до)</string>
+    <string name="search_routes_from_to_title">Найденные маршруты автобусов</string>
+    <string name="search_to">Куда...</string>
+    <string name="second_slider_text">"Согласно проведенным анализам, ежедневно 40% пользователей общественного транспорта г. Астаны не платят за проезд. Подобное нарушение со стороны пассажиров оставалось безнаказанным до вступления в силу закона «О внесении изменений в некоторые законодательные акты РК» в КоАП. Теперь «безбилетникам» грозит административный штраф, а следить за соблюдением этих и других правил в общественном транспорте будет Служба транспортного контроля (СТК). В ее функции входит контроль качества услуг предоставляемых перевозчиками и другими субъектами автомобильных перевозок, а также ведение претензионно-исковой деятельности в данной области. 
+
+Основные функции СТК: 
+
+контроль оплаты проезда пассажиров и провоза багажа в маршрутных транспортных средствах и такси в соответствии с действующим законодательством Республики Казахстан; 
+
+проверка технического состояния маршрутных транспортных средств и такси в соответствии с действующим законодательством Республики Казахстан; проверка оплаты за пользование коммунальной платной автопарковкой (паркингом) на территории столицы; проверка правильности использования коммунальной платной автопарковкой (паркингом) на территории столицы в пределах, обозначенных в выданной доверенности. В настоящее время сотрудниками СТК прорабатывается нормативно-правовая база с внесением соответствующих изменений и дополнений в действующее законодательство Республики Казахстан, на основании которой будет осуществляться реализация возложенных на СТК основных и дополнительных функций. 
+
+На сегодняшний день формируется коллектив работников Службы транспортного контроля, а также решается вопрос обеспечения их форменной одеждой и средствами связи. 
+
+С августа текущего года проводится специализированное обучение существующего штата СТК в Центре квалификации работников транспорта города Астаны. После завершения данного обучения, сотрудники новообразованной Службы смогут выйти на линию для осуществления своей работы в полной мере."</string>
+    <string name="second_slider_title">Служба транспортного контроля города Астаны</string>
+    <string name="secure_connection">Безопасное соединение</string>
+    <string name="select_route_for_widget">Выберите маршрут для виджета</string>
+    <string name="selected_location">Выбранное местоположение</string>
+    <string name="selected_routes_count">Выбрано</string>
+    <string name="send">Отправить</string>
+    <string name="send_complaints">Отправить обращение</string>
+    <string name="server_request_error">В настоящий момент данные о местоположении автобусов недоступны.</string>
+    <string name="set_point_from">Укажите на карте место отправления</string>
+    <string name="set_point_to">Укажите на карте место прибытия</string>
+    <string name="seventh_slider_text">"Внедрение электронной системы оплаты проезда (ЭСОП) в общественном транспорте города Астаны является неотъемлемой частью Плана модернизации транспортного комплекса столицы. Данная система решит ряд следующих проблем: 
+
+Отсутствие учета разовых проездных билетов Отсутствие точных данных о пассажиропотоке Укрытие доходов сотрудниками общественного транспорта Общий дискомфорт существующий системы оплаты проезда Кроме того электронная система оплаты проезда улучшит качество обслуживания населения, повысит прозрачность финансовых потоков и налоговых сборов, сократит время посадки-высадки пассажиров, а также поможет выявить, так называемых, «безбилетников». Согласно плану, внедрение электронной системы оплаты проезда в общественном транспорте города Астаны запланировано на 2015 – 2016 годы. В рамках данной работы 1 августа стартовала фоторегистрация льготной категории граждан для создания персонализированных карт оплаты проезда. В течение месяца через данную процедуру прошли около 60-ти тысяч жителей столицы. Позже в ТОО «Астана LRT» было принято решение продлить фоторегистрация для тех лиц, кто не успел пройти ее в установленный срок. 
+
+В ближайшее время запланировано проведение фоторегистрации учащихся школ города Астаны. После чего будут изготовлены персонализированные карты оплаты проезда для школьников."</string>
+    <string name="seventh_slider_title">Электронная система оплаты проезда</string>
+    <string name="show">Показать</string>
+    <string name="sixth_slider_text">"Проект «BusLane» («Bus» - автобус, «Lane» - полоса) – подразумевает специальную выделенную полосу на улицах города, которая предназначена для беспрепятственного движения общественного транспорта. Внедрение данного проекта позволяет решить такие вопросы, как: 
+
+простой транспорта в пробках и заторах; задержка графиков движения общественного транспорта; несоблюдение интервала и расписания движения; сложное управление общественным транспортом в общем потоке; отсутствие приоритета движения; Право пользования выделенной полосой также предоставлено транспортным средствам специальных служб, с включёнными проблесковыми маячками, при выполнении служебного задания. 
+
+Внедрение выделенных полос для движения общественного транспорта г. Астаны положительно влияет на соблюдение расписания движения, на повышение дисциплины водителей общественного транспорта, а также на сокращение задержек по графику движения на 30%. 
+
+Кроме того, данное нововведение влияет на повышение безопасности движения общественного транспорта, предоставлению автобусам приоритета движения, а также позволяет избежать пробок и заторов и сократить время поездки из одной точки города в другую. 
+
+Дополнительным преимуществом данного нововведения является и то, что внедрение «Buslane» не требует внесения изменений в законы и правила дорожного движения, так как дорожные знаки уже присутствуют в ПДД РК."</string>
+    <string name="sixth_slider_title">Выделенные полосы «BusLane» для движения автобусов</string>
+    <string name="start_app">Запустить приложение</string>
+    <string name="start_app_first">Для правильной работы виджета, сначала необходимо запустить приложение, чтобы загрузить данные о маршрутах</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="status_new">Новое</string>
+    <string name="status_on_work">В работе</string>
+    <string name="status_registered">Зарегистировано</string>
+    <string name="status_rejected">Отклонено</string>
+    <string name="suburb_routes">Пригородные</string>
+    <string name="sure_use_ticket">"Вы уверены, что хотите
+использовать билет?"</string>
+    <string name="tagmanager_preview_dialog_button">Continue</string>
+    <string name="tagmanager_preview_dialog_message">Preview mode updated.</string>
+    <string name="tagmanager_preview_dialog_title">Preview</string>
+    <string name="tenth_slider_text">"LightRailTransport (LRT) – Легкорельсовый транспорт, представляющий собой усовершенствованную пассажирскую рельсовую транспортную систему с подвижным составом, предназначенным для эксплуатации как вне улиц, так и на улично-дорожной сети. Он имеет большую провозную способность, чем автобусный транспорт, и характеризуется экологичностью, высоким комфортом и безопасностью. 
+
+Удобные и безопасные станции, четкое расписание, высококлассный сервис, большая пропуская способность, а также безопасные и экологически чистые подвижные составы делают систему LRT более привлекательным видом транспорта для жителей и гостей столицы. 
+
+Первая очередь LRT, протяженностью 22,4 км, соединит Международный аэропорт Астаны с Международной специализированой выставкой ЭКСПО-2017, многофункциональным комплексом Абу-Даби Плаза и Новым железнодорожным вокзалом. 
+
+Система включает в себя эстакадный путь, 18 современных станций, 19 единиц подвижного состава и 1 депо. 
+
+Подвижные составы будут полностью авторизированными и оборудованы системами электронной оплаты проезда, сигнализации, информирования, видеонаблюдения. Данный вид транспорта также будет полностью адаптирован к климатическим условиям Астаны. 
+
+Строительство системы легкорельсового транспорта (LRT) позволит повысить имидж и узнаваемость города Астаны, обеспечит жителей и гостей столицы необходимой мобильностью, комфортом и безопасностью, сократит время поездки. 
+
+Также, система LRT минимизирует влияние на улицы и дорожную ситуацию, так как транспорт будет проходить по эстакадному пути. В условиях быстрого роста столицы и транспортных средств, LRT удовлетворит постоянно растущий спрос на быстрые, качественные и безопасные пассажироперевозки. 
+
+На сегодняшний день, проект LRT реализовывается совместно с Консорциумом в составе китайских компаний «ChinaRailwayInternationalGroupLimited» и «BeijingState – OwnedAssetsManagementCo., Ltd» при финансировании проекта государственным банком развития Китая."</string>
+    <string name="tenth_slider_title">Легкорельсовый транспорт (LRT)</string>
+    <string name="thanks">Спасибо</string>
+    <string name="third_slider_text">"На сегодняшний день ежедневно свыше 800 автобусов выезжают на линию и совершают около 850 тысяч пассажироперевозок. Отследить вручную деятельность каждого отдельно взятого автобуса практически невозможно. Однако в данной ситуации есть решение, которое успешно применяется во многих мировых странах. Это создание единой системы диспетчеризации общественного транспорта, главная цель которой – проведение мониторинга и осуществлять контроль за работой водителей в режиме реального времени. 
+
+Создание данной системы диспетчеризации позволит решить следующие проблемы: 
+
+Задержка автобуса, вследствие чего возникает загруженность автобусов; 
+
+Нарушение временного интервала движения автобусов, что становится причиной конкурентной борьбы между водителями автобусов; Внедрение данной системы позволит улучшить качество предоставляемых услуг на общественном транспорте и отслеживать дорожную ситуацию городских, пригородных и экспресс маршрутов. В перспективе к данной системе будет подключена и услуга перевозок такси. 
+
+Реализация данного проекта запланирована на 2016 год. На сегодняшний день сотрудники Центра диспетчеризации транспорта города Астаны прошли обучение по специальному программному обеспечению."</string>
+    <string name="third_slider_title">Система диспетчеризации общественного транспорта</string>
+    <string name="ticket_id_format">ID билета: %d</string>
+    <string name="ticket_info">"Данный билет Вы можете
+использовать 90 минут.
+
+Хорошей поездки!"</string>
+    <string name="ticket_success_use_title">"Ваш билет
+успешно использован."</string>
+    <string name="ticket_valid_time">Активен в течение 90 мин</string>
+    <string name="ticket_valid_time_format" formatted="false">%02d:%02d</string>
+    <string name="time">Время</string>
+    <string name="time_arrived">Время прибытия</string>
+    <string name="time_of_payment_format">Время покупки: %s</string>
+    <string name="to">До</string>
+    <string name="top_up_balance">Пополнить баланс</string>
+    <string name="tutorial_four">Остановку можно добавить в избранное. Она находится в правом боковом меню в разделе избранные</string>
+    <string name="tutorial_one">Прокладывайте маршруты, выбрав точку А и точку B на карте, или введите названия улиц</string>
+    <string name="tutorial_payment">"Теперь вы можете оплачивать
+за проезд быстро и удобно!"</string>
+    <string name="tutorial_three">При нажатии на остановку показывается время прибытия проходящих автобусов</string>
+    <string name="tutorial_two">Смотрите на карте ближайшие маршруты. Следите за передвижением автобусов</string>
+    <string name="type_all">Общая</string>
+    <string name="type_conductor">На кондуктора</string>
+    <string name="type_driver">На водителя</string>
+    <string name="type_of_complaints">Тип обращения</string>
+    <string name="valid_date_title">Действует до:</string>
+    <string name="version">Версия:</string>
+    <string name="very_late">Извините, в ночное время автобусы не ходят.</string>
+    <string name="vote">Оценить</string>
+    <string name="vote_application">Понравилось наше приложение? Пожалуйста, оцените его в Google Play :)</string>
+    <string name="wallet_buy_button_place_holder">Buy with Google</string>
+    <string name="widget_empty_text">Добавьте маршруты в список избранных, чтобы они появились здесь</string>
+    <string name="write_to_developers">Написать разработчикам</string>
+    <string name="yes">Да</string>
+    <string name="you_can_one">• Получить консультацию по маршрутам</string>
+    <string name="you_can_two">• Оставить Ваши обращения и предложения</string>
+    <string name="you_not_have_gms">На Вашем телефоне не установлены Сервисы Google Play или используется устаревшая версия. Нажмите ОК, чтобы перейти в Google Play</string>
+    <string name="yy_hint">Год</string>
+</resources>

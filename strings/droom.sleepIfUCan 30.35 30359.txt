@@ -1,0 +1,781 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DAP_APP_ID">83cea824962107f4af9917fd625970ac</string>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="about">About</string>
+    <string name="add_alarm">Add alarm</string>
+    <string name="add_auto_start_error">"Security > Permissions > Autostart
+> Add Alarmy"</string>
+    <string name="alarm_alert_alert_silenced">Alarm silenced after %d minutes.</string>
+    <string name="alarm_alert_dismiss_text">Dismiss</string>
+    <string name="alarm_alert_snooze_set">Snoozing for %d minutes.</string>
+    <string name="alarm_alert_snooze_text">Snooze</string>
+    <string name="alarm_deleted">Alarm deleted</string>
+    <string name="alarm_deleted_all">All alarms deleted</string>
+    <string name="alarm_dismissed">Alarm dismissed</string>
+    <string name="alarm_error_check_caution">Please make sure to follow the instructions in Caution.</string>
+    <string name="alarm_error_notice">"Oops. We've detected that something went wrong with your alarm. Please make sure that you have Alarmy whitelisted in the device battery management settings!"</string>
+    <string name="alarm_error_title">@string/tutorial_title_security</string>
+    <string name="alarm_history">History</string>
+    <string name="alarm_location">Location alarm</string>
+    <string name="alarm_no_history">There is no history</string>
+    <string name="alarm_notify_snooze_label">%s (snoozed)</string>
+    <string name="alarm_notify_snooze_text">Alarm set for %s. Touch to cancel.</string>
+    <string name="alarm_notify_snooze_text2">Alarm set for %s</string>
+    <string name="alarm_notify_text">Snooze or dismiss alarm.</string>
+    <string name="alarm_repeat">Repeat</string>
+    <string name="alarm_sort_order_cb_summary">Enabled alarms will move to top of the list</string>
+    <string name="alarm_sort_order_title">Move active alarms to top</string>
+    <string name="alarm_turn_off_mode_summary">How to turn off the alarm</string>
+    <string name="alarm_turn_off_mode_title">Alarm off method</string>
+    <string name="alarm_undo">undo</string>
+    <string name="alarm_vibrate">Vibrate</string>
+    <string name="alarm_volume_summary">Set the volume of alarms</string>
+    <string name="alarm_volume_title">Alarm volume</string>
+    <string name="alert">Ringtone</string>
+    <string name="allow">Allow</string>
+    <string name="almost_done_upgrade">Almost done!</string>
+    <string name="analog_gadget">Analog clock</string>
+    <string name="app_label">Alarmy</string>
+    <string name="app_name">Alarmy</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="article_error">"Can't get the articles right now"</string>
+    <string name="auto_silence_never">Off</string>
+    <string name="auto_silence_summary">Alarms will be dismissed after %d minutes</string>
+    <string name="auto_silence_title">Auto-dismiss</string>
+    <string name="backup_code">Backup code</string>
+    <string name="backup_download">Restore</string>
+    <string name="backup_download_tutorial">Enter the backup code to restore data</string>
+    <string name="backup_time">Backup time:</string>
+    <string name="backup_upload">Backup</string>
+    <string name="backup_upload_tutorial">"Use the provided backup code for restoration
+(Alarmy data backup - Restore)"</string>
+    <string name="battery_select_apps">Add to Unmonitored apps</string>
+    <string name="beta_feedback">Send feedback</string>
+    <string name="beta_notice">"How is the beta going?
+
+Any opinions on the new design would be a big help to us.
+
+Help improve the new Alarmy before the official release by providing any comments below!"</string>
+    <string name="black">Black</string>
+    <string name="blue">Blue</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="brown">Brown</string>
+    <string name="camera_not_working">"Camera doesn't work"</string>
+    <string name="camera_setting_info">"If the picture is not shown on the list,
+ press 'Configure camera' button"</string>
+    <string name="camera_setting_reset">Configure camera</string>
+    <string name="cancel">Cancel</string>
+    <string name="cannot_find_purchase_history">"Can't find the purchase history"</string>
+    <string name="cant_dupe_skip">Please undo skip to duplicate alarm</string>
+    <string name="cant_edit_quick_alarm">"Quick alarms can't be edited"</string>
+    <string name="cant_setting_while_snoozed">"Can't change settings while snoozed"</string>
+    <string name="cant_skip_disabled">You can only skip enabled alarms</string>
+    <string name="cant_skip_no_repeat">You can only skip repeated alarms</string>
+    <string name="cant_snooze_in_preview">"Can't snooze in preview"</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="check_share">Verify shared post</string>
+    <string name="check_share_fail">"Can't find shared post, please try again."</string>
+    <string name="clock_24_hours_format">kk:mm</string>
+    <string name="clock_instructions">Time picker style</string>
+    <string name="code_not_match">Code does not match!</string>
+    <string name="code_not_selected">Code not selected. Please select a code.</string>
+    <string name="colder_temp">%d° colder than yesterday</string>
+    <string name="com.crashlytics.android.build_id">844c4e92-9f37-4856-a0f7-10b69814ef86</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play services availability</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="continue_for_free">Continue using for free</string>
+    <string name="cooler_temp">%d° cooler than yesterday</string>
+    <string name="correct_backup_code">Restoration complete</string>
+    <string name="couldnt_launch_market">"Couldn't launch market"</string>
+    <string name="credit">Credit</string>
+    <string name="credit_development">Jaemyung Shin</string>
+    <string name="credit_development_title">Development</string>
+    <string name="credit_licenses">Licenses</string>
+    <string name="credit_rate_app">Rate app</string>
+    <string name="credit_thanksto_title">Thanks to</string>
+    <string name="credit_translation">"Icon made by Freepik from www.flaticon.com 
+Bruno Antunes 
+Gustavo Araújo 
+Michele Prudente 
+Mikael Mäntysalo 
+Garabed Kazazyan 
+אבי אלקיים 
+Paragoumba 
+K.SW 
+Sangwon Choi 
+Tamkien Cao 
+胡萝卜周 
+Brahma-Kumar Vaibhav 
+이수경 
+Colin Schmale 
+Magni Hügemann 
+Sergey 'pokatusher' Sharikov 
+Garabed Kazazyan 
+Kristjan Peegi 
+Zenida 
+Kellidis Stergios(Κελλίδης Στέργιος) 
+Aland Samuel Tiwa 
+Mariana Grisales Muñoz 
+Bryan Pomnitz 
+پیمان مظاهری تهرانی 
+Malik Muhammad Asad 
+Omar Mardini 
+Shashwata Chakrabarty 
+Marten Keisers 
+Tal Barda 
+Marco Russo 
+권민지 
+Esquivel Daza 
+Diego Andrés Silva Toraya 
+Nerea Flores Rdz 
+Peyman Jahan Bin 
+Jeroen Wassenaar 
+Claudio Chales 
+Milan Gabani 
+Hedvika Dobrozemská 
+Fendi Septiawan 
+Gencay Alla 
+Louis declerck 
+Authmane Terki 
+Stephany Wharton 
+János Harsányi 
+Martin Formoso 
+Miss Claire 
+Khaldoun Halawani 
+Shadi Aslan 
+Tor Espen S Ovesen 
+Artur Venidiktov 
+Rune Rishaug 
+Azul Jara 
+Muhammad Ridwan 
+Erhan DEMİRBAŞ 
+Alfredo Gallardo Quiroz 
+سعید حیدری ارجلو 
+Ionuț Puțaru 
+Tobias Weyrich 
+Lautaro Janus Miranda 
+Håkon Asheim 
+Jonas Wallin 
+Ngô Đặng Thái Sơn 
+Danilo Junior 
+Fernando Bastos Reis 
+Mostafa dahab 
+Akash Kumar Mishra 
+Iqbal Muchsin Basagili 
+שון שולמן 
+Murat Terzioğlu 
+Erdal Özkul 
+Andrey Astakhov 
+Ducky 
+David Gracia 
+Luís Rodrigues 
+Manuel Lujan 
+Mohammad Abusaleh 
+Marta García Lillo 
+Ahmad Taalab 
+Will Cháves Amanqui 
+Alexey Chuchkov 
+Rose 
+Shahriar Abbasian Jahromi 
+Jose Navarro Vargas 
+Maegan Holst 
+Bahar Paydar 
+Ferdi Strohmeier 
+Nazar Baghriy 
+Daniel Rahman 
+Kerem Can Yaşar 
+Ali Almanei 
+ויטה רוזנברג 
+Magda Samczuk 
+Azri Shahmi Azhari 
+Kostas Bezirtzoglou 
+Rafa 
+Demyte 
+Shaun Liu(劉軒佑） 
+Mustafa AL-Jubouri 
+Roman Pavliuk 
+Mindaugas Šaumanas 
+Pavel zavolgin 
+Zacharie Knebel 
+Zhenya Batles 
+Yusuf S. Orhan 
+Germán Bonacorsow 
+Sara Vieira 
+Pilar Malandía 
+Ofir Reuven 
+Irene Galera Puga 
+Rozgonyi Marcell 
+Gwendolin Alexandra Kovács 
+Момир Николић 
+Paulo Zanin 
+Sammy Tsang 
+Hector Monte 
+Aaron Kohn 
+Kaja Omejc 
+Miguel Farinha 
+Stefan Bundalo 
+Axel Ighir 
+Mustafa Tutkun 
+Ben Nava 
+Emanuel Rodriguez 
+Yahiro Shimokawa 
+Chiara Grottini 
+Paula Ruido 
+Simone Zani 
+Ivana Zerdun 
+Jeffrey Richiez 
+Samuel Fritsche 
+marex996 
+Dimyati Utoyo 
+Angel Bran 
+المودن عبد الصمد 
+Gabriel Masi 
+Olesia Kuka 
+赵迎东 
+Trenese Wells 
+Ivan Gonzalez 
+Maxmilián Dao 
+Scarq 
+Lyuba Petrova 
+Alessia D'Alessio 
+Kevin Shoemaker 
+Yokie 
+Mojtaba Mollaei 
+Mohammed Mostafa Salah Alsawi 
+Mohammed Abdulwahed Othman 
+Patrick Davey in Appliv 
+Gatis Bergs 
+Guilherme Lippert 
+Joey Ka-Yee Essoe 
+Hiago William Petris 
+Cirok Balázs 
+Valeria Roa 
+Nishan lamichhane 
+Facundo Seghezzo 
+Alina Ghihanis 
+Túlio Burgos 
+Patrick Lanou 
+محمدأمين الصامت 
+Niczul Paredes 
+Ђорђе Ранковић 
+Bobby A 
+Alexandru Popa 
+Daniela Beliera 
+Szymon Kopeć 
+Andrés Salcedo 
+Lana Novytska 
+Arfiana Rahma Shanti 
+Artem Yakushev 
+Mariola Kopeć 
+Zofia Bernacka 
+Armando Alquichire Torres 
+Piotr Kopacki 
+Daniel Hergert 
+Jose Fregoso Rodriguez 
+Diana Kasparova 
+Enock Gomes Neto 
+Thiago Vinícius Pessia 
+Гео Соткилава 
+Szabó Dávid 
+Patricio Hondagneu Roig 
+Motsing 
+César 
+Juan Sebastián Zapata Mujica 
+حسین مرادپور 
+Elizabeth 
+Munteanu Andrei 
+Luis Guembes 
+Andrews Rohit Dean 
+TajemnikTV 
+Sahar Moghtaderi 
+مجتبی ملائی 
+Emilly 
+Ch Ni 
+Alain COLBRANT 
+Mohammad AlQanneh 
+Ximena Moreno 
+أسماء الهادي 
+Miku Yoshino 
+Maria Roza Riga 
+Dejan Janković 
+Piotr Grodzki 
+Massiullah Faqiri 
+Willian Beneducci 
+Daler Jabarov 
+Mark Lai 
+Yeriel Garcia 
+Ben Weizman 
+Sean Dowell 
+motosonico 
+Dina 
+Cristian Nanu 
+Row-may Liu 
+Şafak Sarper Aksu 
+Ali Milhem 
+Max 
+Melisa Mincu 
+Naufal Anryawan 
+Ahmet Can Aydın 
+Seong Cho 
+demir cingillioglu 
+Andrey 
+Jaume Bitterhoff 
+Wan Yi-Fu (萬益甫) 
+Rodrigo Rivera 
+Ömer Erdem Karal 
+Claude Drouin 
+Leul Shawel 
+Yusril Herlian Syah 
+Nasser Alrajeh 
+Mazhar Hussain Cheema 
+Bruno Milani de Moura"</string>
+    <string name="cs_mail">support@delightroom.com</string>
+    <string name="data_backup">Alarmy data backup</string>
+    <string name="data_backup_summary">Backup/restore alarm, configurations and history</string>
+    <string name="day">1 day</string>
+    <string name="day_concat">", "</string>
+    <string name="days">%s days</string>
+    <string name="deactivate_title">Disable alarm edit before it rings</string>
+    <string name="deactive_fail">"You can't edit this alarm %1$s minutes before it rings. This alarm will ring in %2$s minutes."</string>
+    <string name="default_alarm_setting">Default alarm setting</string>
+    <string name="default_label">Alarm</string>
+    <string name="default_web_client_id">633738944520-ovkbhnobd4463dtn64cjesfftkdf0gdg.apps.googleusercontent.com</string>
+    <string name="delete">Delete</string>
+    <string name="delete_alarm">Delete alarm</string>
+    <string name="delete_alarm_confirm">Delete this alarm?</string>
+    <string name="delete_all_alarms">Delete all alarms</string>
+    <string name="delete_all_alarms_confirm">Do you want to delete all alarms?</string>
+    <string name="delete_barcode">Delete selected code?</string>
+    <string name="delete_history">Delete all history?</string>
+    <string name="delete_history_menu">Delete history</string>
+    <string name="delete_this_alarm_only">Delete this alarm only</string>
+    <string name="deny">Deny</string>
+    <string name="desc">TEST</string>
+    <string name="digital_gadget">Digital clock</string>
+    <string name="disable_alarm">Turn alarm off</string>
+    <string name="dob">Date of Birth</string>
+    <string name="done">Done</string>
+    <string name="download">Download</string>
+    <string name="duapps_ad_loading_switch_google_play_des">Switching to Google Play…</string>
+    <string name="duapps_ad_offer_wall_footer_end">End</string>
+    <string name="duapps_ad_offer_wall_footer_loading">Loading...</string>
+    <string name="duapps_ad_offer_wall_loading">Loading</string>
+    <string name="duapps_ad_offer_wall_pull_refresh">Pull To Refresh</string>
+    <string name="duapps_ad_offer_wall_retry">Fail to load, please refresh and try again</string>
+    <string name="duapps_ad_offer_wall_tab_apps">Apps</string>
+    <string name="duapps_ad_offer_wall_tab_games">Games</string>
+    <string name="duapps_ad_offer_wall_tab_recommend">Recommended</string>
+    <string name="duapps_ad_offer_wall_tab_topic_popular">You might like...</string>
+    <string name="duapps_ad_offer_wall_tab_topic_recommendation">New releases</string>
+    <string name="duapps_ad_offer_wall_tab_topic_trending">Editor’s Choice</string>
+    <string name="duapps_ad_offer_wall_title_v2">Featured Apps</string>
+    <string name="duplicate_alarm">Duplicate alarm</string>
+    <string name="easy">Easy</string>
+    <string name="emergency_summary">Tap below button %d times to dismiss</string>
+    <string name="emergency_title">Emergency dismiss</string>
+    <string name="enable_alarm">Turn alarm on</string>
+    <string name="error_occured">"Error! please retry, Please email me 
+ support@delightroom.com
+ code=1"</string>
+    <string name="error_prevent">"There was a problem selecting a picture :(
+ Please try again."</string>
+    <string name="events">Events</string>
+    <string name="every_day">Every day</string>
+    <string name="exit_setting">Exit confirmation</string>
+    <string name="exit_setting_summary">Asks before exiting</string>
+    <string name="exo_controls_fastforward_description">Fast forward</string>
+    <string name="exo_controls_next_description">Next track</string>
+    <string name="exo_controls_pause_description">Pause</string>
+    <string name="exo_controls_play_description">Play</string>
+    <string name="exo_controls_previous_description">Previous track</string>
+    <string name="exo_controls_rewind_description">Rewind</string>
+    <string name="exo_controls_stop_description">Stop</string>
+    <string name="faq">FAQ</string>
+    <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
+    <string name="feedback_message">"If you are experiencing any problems, please tell us in more detail.
+(e.g. how often that problem occurs, the situation in which the problem occurs, and so on)
+
+ Content :"</string>
+    <string name="female">Female</string>
+    <string name="final_step_to_upgrade">Press upgrade to launch sponsored app and finish your upgrade</string>
+    <string name="firebase_database_url">https://project-8609926834605217446.firebaseio.com</string>
+    <string name="focus_out_retry">The camera is either out of focus or found no recognizable object. Please try again.</string>
+    <string name="gcm_defaultSenderId">633738944520</string>
+    <string name="general">General</string>
+    <string name="gionee_auto_start_guide">App manager -> app auto start</string>
+    <string name="good_afternoon">"Having a good day?
+
+Enjoy the rest of the day!"</string>
+    <string name="good_morning">"Good morning!
+
+Have a nice day :)"</string>
+    <string name="good_night">"Hope you had a great day.
+
+Good night :)"</string>
+    <string name="google_api_key">AIzaSyDHKpzDvC4xrirwnL7TwdPIEMWBQqEFhfA</string>
+    <string name="google_app_id">1:633738944520:android:716b5964e99d2c3d</string>
+    <string name="google_crash_reporting_api_key">AIzaSyDHKpzDvC4xrirwnL7TwdPIEMWBQqEFhfA</string>
+    <string name="google_storage_bucket">project-8609926834605217446.appspot.com</string>
+    <string name="graph_time_range">Graph time range</string>
+    <string name="green">Green</string>
+    <string name="hard">Hard</string>
+    <string name="have_to_upgrade">You have to upgrade to use this feature</string>
+    <string name="home">My alarms</string>
+    <string name="horoscope_error">"Can't get the horoscope right now"</string>
+    <string name="horoscope_not_supported">Horoscope is not supported for your language</string>
+    <string name="hotter_temp">%d° hotter than yesterday</string>
+    <string name="hour">1 hour</string>
+    <string name="hours">%s hours</string>
+    <string name="hours_label">h</string>
+    <string name="installed_app_permission_guide">Alarmy requires INSTALLED APP permission to prevent force kill</string>
+    <string name="label">Label</string>
+    <string name="launch">Upgrade(launch)</string>
+    <string name="launch_to_first_screen">Upgrade will be completed after it has finished launching</string>
+    <string name="level_0_example">3+8=?</string>
+    <string name="level_1_example">23+17=?</string>
+    <string name="level_2_example">43+24+34=?</string>
+    <string name="level_3_example">(72x6)+32=?</string>
+    <string name="level_4_example">(37x11)+321=?</string>
+    <string name="level_5_example">(162x87)+1878=?</string>
+    <string name="loading___">Loading...</string>
+    <string name="loading_ringtone">Loading ringtone…</string>
+    <string name="loc_perm_denied">位置に対する権限を許可しなければアプリの使用は不可能です。</string>
+    <string name="location_add_new">Add new location</string>
+    <string name="location_allow_content">「おこしてME」はユーザー様に天気情報を提供するため、ユーザー様の位置情報を本社のサーバーに転送します。位置情報は天気情報を読み込んだ後、自動で廃棄されますのでご安心ください。</string>
+    <string name="location_allow_title">利用規約・プライバシーポリシー</string>
+    <string name="location_default">Automatic</string>
+    <string name="location_fetch_error">"Can't get the location right now"</string>
+    <string name="location_title">Location</string>
+    <string name="lucky_color">Lucky color</string>
+    <string name="lucky_number">Lucky number</string>
+    <string name="main_widget_12_hours_format">h:mm</string>
+    <string name="male">Male</string>
+    <string name="menu_edit_alarm">Edit alarm</string>
+    <string name="minute">1 minute</string>
+    <string name="minutes">%s minutes</string>
+    <string name="minutes_label">m</string>
+    <string name="more">More</string>
+    <string name="music_button_description">Music</string>
+    <string name="network_error">Network connection has problem</string>
+    <string name="never">Never</string>
+    <string name="never_ask_again">Never ask again</string>
+    <string name="new_mute_guide">Alarm no longer mutes automatically on shake. Press to mute</string>
+    <string name="news_error">"Can't get the news right now"</string>
+    <string name="next_alarm_description">[Next alarm]%s</string>
+    <string name="no">No</string>
+    <string name="no_alarm_open_cover">"There are no alarms set
+Open the cover and add an alarm"</string>
+    <string name="no_alarms">No alarms</string>
+    <string name="no_alarms_set">No alarms set</string>
+    <string name="no_available_app_to_share">There is no available app for sharing</string>
+    <string name="no_location_permission">There is no permission</string>
+    <string name="no_media_found">No media files found.</string>
+    <string name="no_result_found">No result found</string>
+    <string name="no_upcoming_alarms">NO UPCOMING ALARMS</string>
+    <string name="not_selected">Not selected, please select item</string>
+    <string name="not_selected_retry">Not selected, please retry</string>
+    <string name="not_supported">Your device does not support this feature</string>
+    <string name="notice_restart_shaking">Did you restart? Please shake the phone</string>
+    <string name="notification_dismiss_guide">"Tap to disable 'Next Alarm'"</string>
+    <string name="notification_setting">Display next alarm</string>
+    <string name="notification_tutorial">"You can turn off 'Display next alarm' in Settings"</string>
+    <string name="okay">OK</string>
+    <string name="open_the_cover">Open the cover</string>
+    <string name="opensource_licenses">"Licensed under the Apache License, Version 2.0 (the License); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0. Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an AS IS BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+    "</string>
+    <string name="orange">Orange</string>
+    <string name="out_of_memory">"Out of memory!
+Please retry :)"</string>
+    <string name="panel_setting_summary">Show panel on alarm turnoff</string>
+    <string name="partership_articles">Partnership articles</string>
+    <string name="password_toggle_content_description">Toggle password visibility</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="pause_max_guide">"You can't mute over 3 times.
+You can set the mute duration in Setting menu."</string>
+    <string name="pause_title">Alarm mute duration</string>
+    <string name="permissions_label">Permissions</string>
+    <string name="phone_language">Language</string>
+    <string name="photo_dismiss">Take a picture as below</string>
+    <string name="photo_selected">Picture selected</string>
+    <string name="picture_error">"Something went wrong with your picture.
+Please register new picture"</string>
+    <string name="picture_not_selected">Picture not selected. Please select a picture.</string>
+    <string name="picture_sensitivity">Picture sensitivity</string>
+    <string name="picture_sensitivity_setting_guide">If it is too hard to get a matching picture, try adjusting ‘picture sensitivity’ option in Setting.</string>
+    <string name="picture_wrong">Picture does not match, please try again!</string>
+    <string name="please_launch">Launch the recommended app to complete the upgrade</string>
+    <string name="please_restart">Something was wrong, please restart app</string>
+    <string name="power_off_setting">Prevent phone turn-off</string>
+    <string name="power_off_setting_caution">"Caution!! If you set this on, you can't power off while the alarm is ringing"</string>
+    <string name="power_off_setting_guide">"Turning off the phone make it too easy? Try the 'prevent phone turn off' feature!"</string>
+    <string name="power_off_setting_summary">Prevent power off when ringing</string>
+    <string name="premium_expired">Your trial period of the Pro version has expired</string>
+    <string name="premium_success">Alarmy has been upgraded to the Pro version</string>
+    <string name="prevent_uninstall_caution">"If you set this on, you can't uninstall Alarmy. If you want to uninstall Alarmy please turn off this option."</string>
+    <string name="prevent_uninstall_caution_device_manager">"
+
+(This needs Device Manager permission)"</string>
+    <string name="preview_alarm">Preview alarm</string>
+    <string name="pro_features_title">Advanced Settings</string>
+    <string name="problem">Problem</string>
+    <string name="problems">Problems</string>
+    <string name="purchase_failed">Transaction failed. Please try again</string>
+    <string name="purple">Purple</string>
+    <string name="quick_alarm">Quick alarm</string>
+    <string name="random_play">Random play</string>
+    <string name="rate_later">Later</string>
+    <string name="rate_no">"No! Don't bother me!!"</string>
+    <string name="rate_ok">OK!</string>
+    <string name="rate_text_first_1">"Farewell to oversleeping!
+Do you like Alarmy?"</string>
+    <string name="rate_text_first_100">"%d days since you started using Alarmy!
+Did this help you a lot?"</string>
+    <string name="rate_text_first_30">"It's been a month since we first met!
+Did this help you a lot?"</string>
+    <string name="rate_text_second_no">"What's not good? :(
+Please give us feedback"</string>
+    <string name="rate_text_second_yes">"If it did help, please rate this:)
+Good ratings help us a lot!"</string>
+    <string name="red">Red</string>
+    <string name="remain_time">Remaining time for completion:</string>
+    <string name="remove_ads">Remove all ads!</string>
+    <string name="request_permission">"If permission is not granted it won't work.Please grant the permission"</string>
+    <string name="request_phone_permission">This permission is necessary to dismiss an alarm in a call when the alarm fires.</string>
+    <string name="restore">Restore purchase</string>
+    <string name="retry">Retry</string>
+    <string name="revert">Revert</string>
+    <string name="review_error">"Can't get reviews right now"</string>
+    <string name="right_arrow">→</string>
+    <string name="ringtone_default_with_actual">Default ringtone (%1$s)</string>
+    <string name="ringtone_perm_request">"Can't get external ringtone, please allow the permission"</string>
+    <string name="ringtone_select_fail">"Can't select the ringtone. Please select the other one."</string>
+    <string name="ringtone_unknown">Unknown ringtone</string>
+    <string name="s1">Save image</string>
+    <string name="s2">Allow Ad to store image in Picture gallery?</string>
+    <string name="s3">Accept</string>
+    <string name="s4">Decline</string>
+    <string name="s5">Create calendar event</string>
+    <string name="s6">Allow Ad to create a calendar event?</string>
+    <string name="s7">Test Ad</string>
+    <string name="same_temp">Same as yesterday</string>
+    <string name="samsung_app_optimization">App optimization</string>
+    <string name="samsung_app_optimization_detail">Detail</string>
+    <string name="samsung_app_optimization_no">Turned off for</string>
+    <string name="search_location">Enter location to search</string>
+    <string name="search_menu_title">Search</string>
+    <string name="seconds_label">s</string>
+    <string name="select_app_to_share">Select app to share</string>
+    <string name="select_country">Select country</string>
+    <string name="select_default_camera">Please select the default camera</string>
+    <string name="select_gender">Please select your gender</string>
+    <string name="select_picture">Select a picture</string>
+    <string name="select_ringtone">Select ringtone</string>
+    <string name="send_feedback">Send feedback</string>
+    <string name="set_alarm">Set alarm</string>
+    <string name="set_my_info">Configure zodiac</string>
+    <string name="settings">Settings</string>
+    <string name="shake_permission_guide">Alarmy requires MOTION DETECTION permission for shake mode. Please allow the permission.</string>
+    <string name="shake_please">Shake %d times</string>
+    <string name="shake_sensitivity">Shake difficulty</string>
+    <string name="shaking_mute_caution">The alarm will not be muted while shaking</string>
+    <string name="shaking_not_selected">No value set for the desired alarm method.</string>
+    <string name="share">Share</string>
+    <string name="share_history">Share history</string>
+    <string name="shutdown_confirm_question">Would you like to exit now?</string>
+    <string name="sign_aquarius">Aquarius</string>
+    <string name="sign_aries">Aries</string>
+    <string name="sign_cancer">Cancer</string>
+    <string name="sign_capricorn">Capricorn</string>
+    <string name="sign_gemini">Gemini</string>
+    <string name="sign_leo">Leo</string>
+    <string name="sign_libra">Libra</string>
+    <string name="sign_pisces">Pisces</string>
+    <string name="sign_sagittarius">Sagittarius</string>
+    <string name="sign_scorpio">Scorpio</string>
+    <string name="sign_taurus">Taurus</string>
+    <string name="sign_virgo">Virgo</string>
+    <string name="silent_alarm_summary">Silent</string>
+    <string name="skip_next_alarm">Skip next alarm</string>
+    <string name="sleep_sound">Sleep sound</string>
+    <string name="snooze_duration_title">Snooze duration</string>
+    <string name="snooze_limit_title">Max snoozes</string>
+    <string name="snooze_setting">Allow snooze</string>
+    <string name="snoozed_touch_to_cancel">"Snoozed
+Touch to cancel"</string>
+    <string name="something_wrong">Something went wrong, please set again</string>
+    <string name="sound_settings">Sound</string>
+    <string name="speaker_mode_summary">Always ring on phone speakers</string>
+    <string name="speaker_mode_title">Use the built-in speaker</string>
+    <string name="stamina_add_list">Apps active in standby</string>
+    <string name="stamina_mode">Stamina Mode</string>
+    <string name="stamina_tutorial">"Your alarm will not go off in 'Stamina Mode'
+Please add Alarmy to 'Apps active in standby'"</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="system_warning_permission">If you deny this permission, basic features of your device may no longer function as intended.</string>
+    <string name="temp_unit_title">Temp unit</string>
+    <string name="theme">Theme</string>
+    <string name="theme_summary">Set application color theme</string>
+    <string name="there_is_no_advertise_app">There is no recommended app. Please try later</string>
+    <string name="there_is_no_barcode">"Please register a code to dismiss the alarm
+(Barcode or QR-code)"</string>
+    <string name="there_is_no_flash">"Can't turn on the flash"</string>
+    <string name="there_is_no_front_cam">"Can't switch to the front camera"</string>
+    <string name="there_is_no_photo">"There is no picture.
+ Please take a new picture to dismiss the alarm"</string>
+    <string name="this_is_preview_mode">This is preview mode</string>
+    <string name="time">Time</string>
+    <string name="time_ago">ago</string>
+    <string name="times_num">times</string>
+    <string name="today_article">"Today's digests"</string>
+    <string name="today_fortune">Fortune cookie</string>
+    <string name="today_horoscope">Horoscope</string>
+    <string name="today_news">News</string>
+    <string name="today_recomm_app">Trending apps</string>
+    <string name="today_weather">Weather</string>
+    <string name="todays_panel">"Today's panel"</string>
+    <string name="translation">Help translate!</string>
+    <string name="translation_help">"We'll reflect any translation-related feedback in the next update!"</string>
+    <string name="translation_help_mail">Please contact us if you want to help translate :) As a small reward, we will add your name to list of translation contributors on the Thank You page.</string>
+    <string name="turn_off_delete_picture">Delete the picture</string>
+    <string name="turn_off_method_barcode">Select a code</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="tutorial_add_alarm">First, try adding a new alarm.</string>
+    <string name="tutorial_alarm1">1. Add a new alarm</string>
+    <string name="tutorial_alarm2">"2. Select 'Alarm off method'"</string>
+    <string name="tutorial_alarm3">"3. Select 'Take a picture' mode"</string>
+    <string name="tutorial_alarm3_new">3. Choose an alarm off method</string>
+    <string name="tutorial_alarm4">4. Register a new picture</string>
+    <string name="tutorial_alarm5">5. Dismiss by taking a picture</string>
+    <string name="tutorial_dismiss_mode">"We provide various alarm off methods.
+Let's check'em out!"</string>
+    <string name="tutorial_dismiss_mode_default">"'Default' method is set.
+Press the preview button to try it out!"</string>
+    <string name="tutorial_dismiss_mode_math">"'Math problems' method seems interesting!
+Tap 'Math problems' to choose it."</string>
+    <string name="tutorial_dismiss_mode_math_dismiss">"Solve the problem to dismiss the alarm!
+(The answer is 70)"</string>
+    <string name="tutorial_dismiss_mode_math_preview">"Let's test-drive 'Math problems' method.
+Press the preview button."</string>
+    <string name="tutorial_dismiss_mode_math_setting">"Customize the selected method in this screen.
+Press OK button to finish."</string>
+    <string name="tutorial_finished">"You finished the tutorial! Easy, right?
+
+Go and try out other alarm off methods."</string>
+    <string name="tutorial_lenovo">"Please make sure unchecking the setting like below, otherwise alarms won't ring
+ (If there is no setting, just ignore this message)"</string>
+    <string name="tutorial_security1">If you clean the memory, the alarm may not work well</string>
+    <string name="tutorial_security2">Please follow the next steps to prevent the problem</string>
+    <string name="tutorial_security_for_latest_version">"Please make sure that Alarmy is enabled on the list, otherwise alarms won't ring"</string>
+    <string name="tutorial_security_for_meizu_toast">Permissions → Alarmy</string>
+    <string name="tutorial_security_for_samsung">"If 'App optimization' is on, you have to set Alarmy to 'Turned off for' for the alarm to work properly"</string>
+    <string name="tutorial_security_for_samsung2">"If you are using Smart manager app, Alarmy will not work properly.
+
+ Please follow the next steps to prevent the problem"</string>
+    <string name="tutorial_title_alarm">Picture mode alarm tutorial</string>
+    <string name="tutorial_title_security">Caution</string>
+    <string name="tutorial_welcome">"Welcome to Alarmy!
+
+Let me give you a brief tutorial."</string>
+    <string name="tutorial_welcome_no">No, thanks. I already know how to use.</string>
+    <string name="tutorial_welcome_yes">"Ok, I'm in!"</string>
+    <string name="txt_some_header">Alarmy</string>
+    <string name="undo_skip_next_alarm">Undo skip next alarm</string>
+    <string name="uninstall_prevent_setting">Prevent app uninstall</string>
+    <string name="unlock_all_features">Unlock all features!</string>
+    <string name="updated_at">updated at %1$s</string>
+    <string name="upgrade">Upgrade</string>
+    <string name="upgrade_complete">Upgrade completed. All premium features are now unlocked.</string>
+    <string name="upgrade_description_100">Install one recommended app to try out our &lt;font color=#DC6757>Pro&lt;/font> version for &lt;font color=#DC6757>100 days&lt;/font></string>
+    <string name="upgrade_description_30">Install one recommended app to try out our &lt;font color=#DC6757>Pro&lt;/font> version for &lt;font color=#DC6757>30 days&lt;/font></string>
+    <string name="upgrade_description_60">Install one recommended app to try out our &lt;font color=#DC6757>Pro&lt;/font> version for &lt;font color=#DC6757>60 days&lt;/font></string>
+    <string name="upgrade_free">Upgrade(free)</string>
+    <string name="upgrade_notice1">"-Barcode dismiss mode unlocked
+-Volume,snooze can be set for each alarm
+-Default alarm values can be set
+-Ringtone can be set to random
+-Language can be set in-app
+-Dark theme added
+...
+
+Any opinions on the new design would be a big help to us.
+
+Help us improve the new Alarmy by providing any comments below!^^"</string>
+    <string name="upgrade_paid">Upgrade(paid)</string>
+    <string name="upgrade_title">"Alarmy just got better!
+"</string>
+    <string name="upgrade_viral_message">Share Alarmy to unlock all &lt;font color=#DC6757>premium features&lt;/font> for &lt;font color=#DC6757>60&lt;/font> days!</string>
+    <string name="upgrading">Upgrading...</string>
+    <string name="use_system_language">Use system language</string>
+    <string name="v7_preference_off">OFF</string>
+    <string name="v7_preference_on">ON</string>
+    <string name="vivo_auto_start_guide">App manager -> Autostart manager</string>
+    <string name="volume_crescendo">Volume crescendo</string>
+    <string name="volume_gradually_increase_caution">Caution!! Setting this value too high will make the initial volume almost inaudible</string>
+    <string name="volume_gradually_increase_summary">Gradually increase volume</string>
+    <string name="warmer_temp">%d° warmer than yesterday</string>
+    <string name="weather_fetch_failure">"Can't get the weather right now"</string>
+    <string name="weekday">Weekdays</string>
+    <string name="weekend">Weekends</string>
+    <string name="white">White</string>
+    <string name="will_be_skipped">(Will be skipped)</string>
+    <string name="writing_setting_perm_request">To ring in silent mode, the permission should be granted.</string>
+    <string name="wrong_backup_code">Backup code is invalid</string>
+    <string name="wrong_birthday">Please enter a valid date of birth</string>
+    <string name="wrong_cam_orientation">The camera orientation is not the same as the registered picture. Please try again.</string>
+    <string name="yellow">Yellow</string>
+    <string name="yes">Yes</string>
+    <string name="zte_auto_start_guide">upper-right Setting menu -> Protected app in background</string>
+    <string name="zuk_auto_start_guide">Autostart -> Disabled autostart apps</string>
+    <string name="zxing_app_name">Barcode Scanner</string>
+    <string name="zxing_button_ok">OK</string>
+    <string name="zxing_msg_camera_framework_bug">Sorry, the Android camera encountered a problem. You may need to restart the device.</string>
+    <string name="zxing_msg_default_status">Place a barcode inside the viewfinder rectangle to scan it.</string>
+</resources>

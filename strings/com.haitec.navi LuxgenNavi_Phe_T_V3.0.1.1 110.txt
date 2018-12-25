@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="AlertDialogBtnClose">關閉</string>
+    <string name="AlertDialogBtnDownload">下載</string>
+    <string name="ContextText">回到LUXGEN HiNavi</string>
+    <string name="ContextTitle">LUXGEN HiNavi</string>
+    <string name="NaviInitialErrorAlertDialogMessage2">"因圖資不存在，無法繼續提供導航服務。
+關閉: 關閉衛星導航
+下載: 進行圖資下載"</string>
+    <string name="NaviInitialErrorAlertDialogMessage3">導航開啟後圖資路徑異常，無法繼續提供導航服務，請重新啟動導航進行圖資定位。</string>
+    <string name="NaviInitialErrorAlertDialogTitle">提示</string>
+    <string name="NaviInitialErrorAlterDialogNoKey">"無已授權圖資檔案!
+請按確認鍵取得圖資檔案。"</string>
+    <string name="TickerText">LUXGEN HiNavi執行中</string>
+    <string name="app_name">LUXGEN HiNavi</string>
+    <string name="auth_connecting">連線中…</string>
+    <string name="auth_iab_error">請確認登入Google帳號後，再試一次</string>
+    <string name="auth_location_locate">衛星訊號已定位</string>
+    <string name="auth_location_not_locate_yet_try_again">請等待衛星訊號定位後，再試一次</string>
+    <string name="auth_location_please_open_gps">請開啟GPS定位功能</string>
+    <string name="auth_network_error">目前網路發生異常，請確認網路連線。</string>
+    <string name="auth_network_no_network">無法連上網路，請確認網路連線功能是否開啟</string>
+    <string name="auth_product_buy1">商品(</string>
+    <string name="auth_product_buy2">)已下載</string>
+    <string name="auth_product_download">下載</string>
+    <string name="auth_product_download_again">重新下載</string>
+    <string name="auth_product_download_already">已有授權</string>
+    <string name="auth_product_free_get">掃描 QRCode</string>
+    <string name="auth_product_name">產品名稱</string>
+    <string name="auth_product_read_more">…繼續閱讀</string>
+    <string name="auth_product_stop_scan">停止掃描</string>
+    <string name="auth_qrcode_error">偵測到無效的QR Code，請再試一次。（ERROR：A）</string>
+    <string name="auth_qrcode_locerror">偵測到無效的QR Code，請再試一次。（ERROR：L）</string>
+    <string name="auth_qrcode_producterror">偵測到無效的QR Code，請再試一次。（ERROR：T）</string>
+    <string name="auth_qrcode_qrerror">偵測到無效的QR Code，請再試一次。（ERROR：C）</string>
+    <string name="auth_title">Hi 商店</string>
+    <string name="cctv_cannot_display">無法取得影像，請確認網路連線。</string>
+    <string name="cctv_delete">刪除</string>
+    <string name="cctv_delete_all">全部刪除</string>
+    <string name="cctv_loading">加載中…</string>
+    <string name="cctv_my_favorite_is_full">最愛路況影像數量已達上限。</string>
+    <string name="cctv_no_favorite">目前無最愛路況影像資料。</string>
+    <string name="cctv_stream_out_of_service">影像來源中斷</string>
+    <string name="cctv_stream_read_fail">影像串流開啟錯誤</string>
+    <string name="char_percentage">%</string>
+    <string name="config_define_autoZoom">在行車駕駛時，是否由系統自動調整導航地圖比例尺。</string>
+    <string name="config_define_follow">當車輛從靜止狀態前進，且持續一段時間未操作導航畫面時，是否由系統主動將畫面切換為導航地圖，並依據導航設定之「視角方向」設定值，與系統推薦的地圖比例尺，呈現地圖畫面。</string>
+    <string name="config_define_headingAngle">未設定目的地時，導航地圖視角與車標行進方向會依據以下設定呈現。</string>
+    <string name="config_define_headingAngle_Route">有設定目的地時，導航地圖視角與車標行進方向會依據以下設定呈現。</string>
+    <string name="config_define_language">導航會依據以下語言設定，作為語音播報的語言。</string>
+    <string name="config_define_mapControl">"1.比例尺：若勾選「自動縮放」，系統在GPS定位後，會依據行駛車速自動調整地圖比例尺；或者，使用者可手動調整比例尺，將地圖固定在某比例尺下。
+2.行車駕駛模式：當車輛行駛且持續一段時間未操作導航畫面時，由系統主動將畫面切換為導航地圖，並依據「地圖控制」的設定值，呈現地圖畫面。 
+3.視角：可變更導航地圖視角與車標行進方向。"</string>
+    <string name="config_define_privacy_agree">我已閱讀此隱私權聲明</string>
+    <string name="config_define_privacy_dialog_agree">同意</string>
+    <string name="config_define_privacy_dialog_reject">不同意</string>
+    <string name="config_define_privacy_dialog_title">隱私權聲明</string>
+    <string name="config_define_privacy_statemant">"凡下載【Hi 導航】全方位導航手機軟體，(以下簡稱本服務)並使用本服務之使用者，皆已詳細閱讀、瞭解並同意以下各點 :
+1. 本服務將以匿名方式蒐集相關資訊，針對使用者經常使用的功能、操作習慣、路線規劃、行車資訊、位置、手機序號資訊等統計資料作分析，作為改善使用者經驗，提升路線規劃效能之用途，並以確保功能正常運作。
+2. 本服務取得、建立及保留使用者上述資料，不會在未經使用者同意下，存取使用者的個人資訊。
+3. 關於個人資料，本服務僅用於客戶管理、統計調查與分析、資料庫管理及處理此服務之需求，在使用者未授權的情況下，將不提供給任何第三方單位使用。
+4. 本公司所蒐集的資訊，會進一步整合為統計數據，該資料不會涉及任何獨立使用的個體。
+5. 若您勾選「同意」，表示您同意以上事項;若您勾選「不同意」，本服務將不會提供即時路況資訊及彙集統計資料。"</string>
+    <string name="config_define_routeCost">當設定目的地，導航完成路徑規劃後，是否進入旅程路徑總覽功能。此功能可以檢視本次旅程預估目的地距離、預估抵達目的地時間、預估通行費用等資訊與全程的導航路線。</string>
+    <string name="config_define_routePlan">導航會依據以下條件設定，規劃出建議的行駛路線。</string>
+    <string name="config_define_speedCamera">行經固定式測速照相點之前，導航是否以語音提醒前方有測速照相。</string>
+    <string name="config_define_speedWarning">當行駛速度超過自行設定的速限時，導航是否發出超速警示音。</string>
+    <string name="config_define_speedwarning_confirm_text">"為確保行車安全，建議依實際道路速限駕駛。
+
+請確認是否變更超速警報速限值。"</string>
+    <string name="config_define_trafficCondition">設定目的地後，是否於導航地圖畫面，顯示本次旅程行經路段的即時行車速度資訊。</string>
+    <string name="config_define_voice">"導航會依據以下音量設定，作為語音播報的音量大小。
+備註:當調整導航音量時，手機的媒體音量也會同時被改變。"</string>
+    <string name="config_define_warning">在導航地圖畫面，是否出現以下各項提示訊息。</string>
+    <string name="config_title_GPS">衛星訊號</string>
+    <string name="config_title_Language">語言</string>
+    <string name="config_title_aboutHiNavi">關於Hi導航</string>
+    <string name="config_title_announcement">使用聲明</string>
+    <string name="config_title_approachingView">路口放大圖</string>
+    <string name="config_title_autoZoom">自動調整地圖比例尺</string>
+    <string name="config_title_cameraAlarm">測速照相提示</string>
+    <string name="config_title_carIcon">車輛圖示</string>
+    <string name="config_title_dayNightMode">日夜模式</string>
+    <string name="config_title_displayPoiIcon">景點圖示</string>
+    <string name="config_title_etc">ETC提示</string>
+    <string name="config_title_follow">行車駕駛模式</string>
+    <string name="config_title_heading">視角方向</string>
+    <string name="config_title_liveCamera">自動即時影像及街景圖</string>
+    <string name="config_title_mapControl">地圖控制</string>
+    <string name="config_title_mapStyle">地圖配色</string>
+    <string name="config_title_privacyRightAnnouncement">隱私權聲明</string>
+    <string name="config_title_reset">還原</string>
+    <string name="config_title_routeCost">旅程路徑總覽</string>
+    <string name="config_title_routePlan">規劃條件</string>
+    <string name="config_title_speedwarning">超速警報</string>
+    <string name="config_title_trafficCondition">即時車速</string>
+    <string name="config_title_version">版本</string>
+    <string name="config_title_voice">聲音</string>
+    <string name="config_title_warning">提示訊息</string>
+    <string name="dashdash">--</string>
+    <string name="demo_start">開始模擬</string>
+    <string name="demo_stop">停止模擬</string>
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="dialog_cancel">取消</string>
+    <string name="dialog_cant_make_phonecall">此裝置無法撥打電話</string>
+    <string name="dialog_cantroute">此地點無法規劃路徑，請重新選擇目的地。</string>
+    <string name="dialog_change_confirm">確認</string>
+    <string name="dialog_change_routeplan">已變更</string>
+    <string name="dialog_confirm">確認</string>
+    <string name="dialog_do_not_show_again">下次不再顯示</string>
+    <string name="dialog_edit_name">編輯名稱</string>
+    <string name="dialog_editmyrecord_hint">請長按單筆資料進行編輯。</string>
+    <string name="dialog_exit_cancel">取消</string>
+    <string name="dialog_exit_confirm">確認</string>
+    <string name="dialog_got_it">了解</string>
+    <string name="dialog_just_cancel">取消</string>
+    <string name="dialog_nearby_cate_select_note_back">』，是否立即更改？</string>
+    <string name="dialog_nearby_cate_select_note_front">『</string>
+    <string name="dialog_nearby_cate_select_note_title">目前所選的周邊分類</string>
+    <string name="dialog_nearby_select_destination">請選擇搜尋中心點</string>
+    <string name="dialog_no">否</string>
+    <string name="dialog_noHome">尚未設定家</string>
+    <string name="dialog_noOffice">尚未設定公司</string>
+    <string name="dialog_noRoute">目前無導引路徑</string>
+    <string name="dialog_notelephone">沒有電話可以撥打</string>
+    <string name="dialog_notrafficjam">目前無雍塞路段</string>
+    <string name="dialog_phone_info">電話資訊</string>
+    <string name="dialog_phonecall_hint">撥打電話：</string>
+    <string name="dialog_poi_name">名稱：</string>
+    <string name="dialog_poi_phone">電話：</string>
+    <string name="dialog_routeInfo_confirm_cancel">結束導引</string>
+    <string name="dialog_routeInfo_set_destination_for">將此地點設定為</string>
+    <string name="dialog_search_filepath">正在尋找本地端的圖資檔案…</string>
+    <string name="dialog_sethome_not_finish">離開設定「家」地點</string>
+    <string name="dialog_setoffice_not_finish">離開設定「公司」地點</string>
+    <string name="dialog_setting_reset_all_settings">將所有導航設定回復為預設值</string>
+    <string name="dialog_update_map_downloading">正在下載圖資</string>
+    <string name="dialog_update_map_unzipping">正在準備圖資</string>
+    <string name="dialog_update_message">發現新版圖資，前往加購更新。</string>
+    <string name="dialog_update_nospace">因為剩餘空間不足，無法完成圖資下載，請刪除一些檔案後再試，謝謝。</string>
+    <string name="dialog_yes">是</string>
+    <string name="errorOccur">發生錯誤了，抱歉！</string>
+    <string name="general_exitnavi">關閉導航</string>
+    <string name="googlevr_toast_no_network">需要開啟網路才能使用GoogleVR功能</string>
+    <string name="gps_setting_dialog_message">目前不是GPS定位模式，計算的路徑將參考上次最後的定位。請問是否立即前往開啟GPS定位?</string>
+    <string name="hint">提示</string>
+    <string name="keyword_inputhint">搜尋</string>
+    <string name="keyword_not_found">無搜尋結果</string>
+    <string name="map_dl_btn_check">圖資版本確認</string>
+    <string name="map_dl_btn_download_pause">暫停下載</string>
+    <string name="map_dl_btn_exit_cancel">取消</string>
+    <string name="map_dl_btn_exit_confirm">確認</string>
+    <string name="map_dl_btn_force_update">完整更新</string>
+    <string name="map_dl_btn_knowing_theres_no_new_map">了解</string>
+    <string name="map_dl_btn_update">圖資下載</string>
+    <string name="map_dl_btn_update_cancel">下次再下載</string>
+    <string name="map_dl_error_no_network">網路連線異常，請確認後再試</string>
+    <string name="map_dl_interrupt_by_user">圖資下載已暫停</string>
+    <string name="map_dl_logo_title">導航 圖資更新</string>
+    <string name="map_dl_message_force_update">選擇「完整更新」將刪去所有暫存檔案，並完整更新圖資。</string>
+    <string name="map_dl_message_leaving">"是否離開圖資更新程式？
+
+提醒您，圖資更新程式結束，
+請重新啟動導航"</string>
+    <string name="map_dl_message_newest_map_already">您的圖資已是最新版本</string>
+    <string name="map_dl_notify_text_downloading">正在下載圖資…</string>
+    <string name="map_dl_notify_text_unzipping">正在準備圖資…</string>
+    <string name="map_dl_notify_text_update_complete">圖資下載已完成，請手動重新啟動導航，開始更新圖資。</string>
+    <string name="map_dl_notify_title">導航圖資更新</string>
+    <string name="map_dl_title_deleting_old_map">舊圖資檔案刪除中</string>
+    <string name="map_dl_tv_tips">"請按下「圖資下載」按鍵，將開始下載圖資。
+
+圖資下載時，請維持您的網路連線，下載完成後，請重新開啟導航。
+
+若您長按「圖資下載」，可進入完整更新模式。"</string>
+    <string name="map_dl_version_check_message">請稍後…</string>
+    <string name="map_dl_version_check_title">圖資版本確認中</string>
+    <string name="map_view_back2car">現在地</string>
+    <string name="map_view_current_position">現在地</string>
+    <string name="menu">功能</string>
+    <string name="my_record_btn_gohome">回家</string>
+    <string name="my_record_btn_gooffice">回公司</string>
+    <string name="my_record_btn_sethome">設定家</string>
+    <string name="my_record_btn_setoffice">設定公司</string>
+    <string name="my_record_clear_home_office">清除</string>
+    <string name="my_record_comfirm_all_delete">全部刪除</string>
+    <string name="my_record_delete_done">已清除資料</string>
+    <string name="my_record_dialog_name_is_too_long">已達字數上限</string>
+    <string name="my_record_dialog_name_is_too_short">我的最愛名稱請輸入一個字以上</string>
+    <string name="my_record_dialog_reach_limit">我的最愛筆數已達上限%1$s筆，請刪除後再新增。</string>
+    <string name="my_record_dialog_title_please_enter_name">請輸入名稱：</string>
+    <string name="my_record_edit_delete">刪除</string>
+    <string name="my_record_edit_delete_all">全部刪除</string>
+    <string name="my_record_edit_home_office_cancel">關閉</string>
+    <string name="my_record_edit_rename">更名</string>
+    <string name="my_record_history_record_no_data">暫無歷史紀錄</string>
+    <string name="my_record_multibtn_history_record">歷史紀錄</string>
+    <string name="my_record_multibtn_my_favorite">我的最愛</string>
+    <string name="my_record_my_favorite_no_data">暫無我的最愛</string>
+    <string name="my_record_no_data">目前無資料</string>
+    <string name="my_record_reset_home_office">重新設定</string>
+    <string name="my_record_toast_has_set_home">此地點已設定為家</string>
+    <string name="my_record_toast_has_set_office">此地點已設定為公司</string>
+    <string name="nav_drawer_items_menu2">我的紀錄</string>
+    <string name="nav_drawer_items_menu3">現在地周邊</string>
+    <string name="nav_drawer_items_menu4">旅程路徑總覽</string>
+    <string name="nav_drawer_items_menu5">回家/回公司</string>
+    <string name="nav_drawer_items_menu6">最愛路況影像</string>
+    <string name="nav_drawer_items_menu7">導航設定</string>
+    <string name="nav_drawer_items_menu8">Hi商店</string>
+    <string name="navi_view_alleyview_note">路口請減速</string>
+    <string name="navi_view_autolight_note">請開頭燈</string>
+    <string name="navi_view_etc_note">前方通過ETC</string>
+    <string name="navi_view_hospital_note">接近醫院</string>
+    <string name="navi_view_noopengps_note">GPS未開啟</string>
+    <string name="navi_view_school_note">接近學校</string>
+    <string name="navi_view_speedcamera_note1">前方</string>
+    <string name="navi_view_speedcamera_note2">"公尺
+有測速照相"</string>
+    <string name="navi_view_time_note">17：41</string>
+    <string name="nearby_gateway">交流道</string>
+    <string name="nearby_luxgen">LUXGEN</string>
+    <string name="nearby_search_category">周邊分類</string>
+    <string name="nearby_search_current_road">現在地：</string>
+    <string name="nearby_search_keyword">搜尋結果</string>
+    <string name="nearby_search_multi_choice_maximum">最多只能勾選8個分類</string>
+    <string name="nearby_search_multi_choice_minimum">最少要勾選1個分類</string>
+    <string name="nearby_search_result">周邊結果</string>
+    <string name="off">關閉</string>
+    <string name="off_short">關</string>
+    <string name="ok">OK</string>
+    <string name="on">開啟</string>
+    <string name="on_short">開</string>
+    <string name="opening_remark">"為確保行車安全，請依交通規則行駛！
+為了避免事故發生，建議於車輛完全停止後再進行導航軟體操作與設定。"</string>
+    <string name="opening_starting">啟動中</string>
+    <string name="poiInfo_detail_btn_navigate">導引</string>
+    <string name="poiInfo_detail_btn_nearby">"尋找
+周邊"</string>
+    <string name="register_been_registried">您輸入的授權碼已被註冊，請檢查是否輸入正確!</string>
+    <string name="register_cancel">取消</string>
+    <string name="register_confirm">確認</string>
+    <string name="register_error">請檢查您的授權碼是否輸入正確!</string>
+    <string name="register_errorcode_1">Check sum error</string>
+    <string name="register_errorcode_201">超過20支手機</string>
+    <string name="register_errorcode_202">刮刮卡號錯誤</string>
+    <string name="register_errorcode_203">IMEI格式錯誤</string>
+    <string name="register_errorcode_204">超過保固</string>
+    <string name="register_errorcode_205">展延卡號錯誤</string>
+    <string name="register_errorcode_206">此展延卡已使用於其他刮刮卡</string>
+    <string name="register_errorcode_5">錯誤碼-5</string>
+    <string name="register_errorcode_6">刮刮卡號已使用於非手機的設備(例如:NaviBox)</string>
+    <string name="register_get_licence_failed">授權失敗</string>
+    <string name="register_input_hint">請輸入授權碼</string>
+    <string name="register_input_key_message">請輸入刮刮卡授權碼</string>
+    <string name="register_less_words">授權碼字數錯誤。</string>
+    <string name="register_less_words_subtext">請輸入20個字元的授權碼或30個字元的授權碼+展延碼。</string>
+    <string name="register_network_no_connected">尚未開啟網路連線，前往設定頁面?</string>
+    <string name="register_network_set">設定</string>
+    <string name="register_not_engnum">授權碼含有不接受的字元。</string>
+    <string name="register_not_engnum_subtext">請輸入正確格式的授權碼(只接受英文、數字)。</string>
+    <string name="register_retry">請再次重新嘗試註冊，或聯絡客服人員(03)552-5279</string>
+    <string name="register_success">成功取得授權。</string>
+    <string name="register_title">LUXGEN HiNavi檢查更新</string>
+    <string name="register_try_again">再試一次</string>
+    <string name="route_cost_info_btn_calculate">確定變更重新規劃路徑</string>
+    <string name="route_cost_info_cost_title">旅程預估</string>
+    <string name="route_cost_info_delete_dest_confirm">刪除目的地</string>
+    <string name="route_cost_info_option_title">規劃條件</string>
+    <string name="route_cost_info_view_carfee">通行費用：</string>
+    <string name="route_cost_info_view_costdist">計費里程：</string>
+    <string name="route_cost_info_view_costwith20km">(含20km免費)</string>
+    <string name="route_cost_info_view_costwithout20km">(不含20km免費)</string>
+    <string name="route_cost_info_view_dollar">元</string>
+    <string name="route_cost_info_view_goaltime">到達時間：</string>
+    <string name="route_cost_info_view_routedist">旅程距離：</string>
+    <string name="route_cost_info_view_routetime">旅程時間：</string>
+    <string name="route_cost_notshowagain">下次不再顯示</string>
+    <string name="route_cost_routeOption_avoidTollRoads">"避免
+收費路段"</string>
+    <string name="route_cost_routeOption_avoidUTurns">"避免
+原道路迴轉"</string>
+    <string name="routing">路徑規劃中…</string>
+    <string name="routing_destination_exist_message">已存在目的地，將此地點設定為</string>
+    <string name="routing_destination_overMax_message">目的地數量已達上限%1$s筆！請先刪除部份目的地後再設定。</string>
+    <string name="routing_destination_same_message">您設定了與前一筆相同的目的地</string>
+    <string name="routing_set_destination">取代目的地</string>
+    <string name="routing_set_extention">追加目的地</string>
+    <string name="sdkfail">"程式發生異常，請重新啟動導航。
+若是問題狀況持續，請移除程式並重新安裝。"</string>
+    <string name="set_poi_home">"設為
+家"</string>
+    <string name="set_poi_office">"設為
+公司"</string>
+    <string name="setting_2dNorthUp">2D正北朝上</string>
+    <string name="setting_2dTrackUp">2D車頭朝前</string>
+    <string name="setting_3dTrackUp">3D車頭朝前</string>
+    <string name="setting_M7Turbo">M7 Turbo</string>
+    <string name="setting_S5Turbo">S5 Turbo</string>
+    <string name="setting_U6Turbo">U6 Turbo</string>
+    <string name="setting_U7Turbo">U7 Turbo</string>
+    <string name="setting_aboutHiNavi">"說明 :
+1.本服務所提供之即時交通資訊僅供行駛參考使用，資料來源均未進行任何變更，使用者須自行承擔使用資料可能造成的風險損失。
+2.本服務在使用過程中，可能會產生網路流量費用，該費用請參考各電信商的收費標準。
+
+即時路況資訊服務來源 :
+交通部公路總局
+交通部台灣區國道高速公路局
+交通部運輸研究所
+新北市政府交通局
+台北市政府交通局
+台中市政府交通局
+桃園市政府交通局
+台南市政府交通局
+高雄市政府交通局
+陽明山國家公園管理處
+
+以上服務如有錯誤或其他疑慮，請與我們聯繫 :
+e-mail：haitec001@haitec.com.tw"</string>
+    <string name="setting_arrow1">箭頭1</string>
+    <string name="setting_arrow2">箭頭2</string>
+    <string name="setting_attention">"注意：
+一旦按下「還原出廠設定」，會將全部的導航設定回復為出廠時的預設值。"</string>
+    <string name="setting_autoDayNight">自動顯示</string>
+    <string name="setting_dayMode">日間顯示</string>
+    <string name="setting_declaration">"親愛的用戶您好：
+為確保行車安全，請依交通規則駕駛！為了避免事故發生，建議於車輛完全停止後再進行導航軟體操作與設定。地圖內容與導航路線可能與實際路況不完全相同，為確保行車安全，請依實際路況、路標和相關交通規則駕駛，駕駛過程中所發生之所有相關安全責任與風險仍須由使用者自行承擔。而導航機所提供圖資僅供到達目的地參考，請隨時注意實際路況，並請審慎使用。"</string>
+    <string name="setting_displayPoiIcon_hideAll">全隱藏</string>
+    <string name="setting_displayPoiIcon_showAll">全顯示</string>
+    <string name="setting_engineVersion">引擎版本</string>
+    <string name="setting_etc_icon">ETC圖示</string>
+    <string name="setting_etc_route_cost_info">旅程總覽</string>
+    <string name="setting_etc_sound">ETC聲音</string>
+    <string name="setting_fall">秋</string>
+    <string name="setting_gpsMode">模式：</string>
+    <string name="setting_gpsMode_2d">2D fix</string>
+    <string name="setting_gpsMode_3d">3D fix</string>
+    <string name="setting_gpsMode_unknown">未知</string>
+    <string name="setting_language_interface">介面語言</string>
+    <string name="setting_language_interface_english">English</string>
+    <string name="setting_language_interface_title">請選擇介面語言</string>
+    <string name="setting_language_interface_traditionalChinese">繁體中文</string>
+    <string name="setting_language_voice">播報語言</string>
+    <string name="setting_language_voice_chinese">國語</string>
+    <string name="setting_language_voice_english">English</string>
+    <string name="setting_language_voice_hakka1">客語(四縣)</string>
+    <string name="setting_language_voice_hakka2">客語(海陸)</string>
+    <string name="setting_language_voice_taiwanese">台語</string>
+    <string name="setting_language_voice_title">請選擇播報語言</string>
+    <string name="setting_licenseInvalid">未註冊</string>
+    <string name="setting_licenseValid">已註冊</string>
+    <string name="setting_mapAuth">圖資授權</string>
+    <string name="setting_mapControl_autoZoom">自動縮放</string>
+    <string name="setting_mapControl_follow">行車駕駛模式</string>
+    <string name="setting_mapControl_headingNoRoute">視角(無導引線)</string>
+    <string name="setting_mapControl_headingRoute">視角(有導引線)</string>
+    <string name="setting_mapControl_zoomScale">比例尺</string>
+    <string name="setting_mapVersion">圖資版本</string>
+    <string name="setting_nightMode">夜間顯示</string>
+    <string name="setting_privacyRight_declaration">"凡下載【Hi 導航】全方位導航手機軟體，(以下簡稱本服務)並使用本服務之使用者，皆已詳細閱讀、瞭解並同意以下各點 :
+1. 本服務將以匿名方式蒐集相關資訊，針對使用者經常使用的功能、操作習慣、路線規劃、行車資訊、位置、手機序號資訊等統計資料作分析，作為改善使用者經驗，提升路線規劃效能之用途，並以確保功能正常運作。
+2. 本服務取得、建立及保留使用者上述資料，不會在未經使用者同意下，存取使用者的個人資訊。
+3. 關於個人資料，本服務僅用於客戶管理、統計調查與分析、資料庫管理及處理此服務之需求，在使用者未授權的情況下，將不提供給任何第三方單位使用。
+4. 本公司所蒐集的資訊，會進一步整合為統計數據，該資料不會涉及任何獨立使用的個體。"</string>
+    <string name="setting_resetAllSettings">還原出廠設定</string>
+    <string name="setting_routeOption_avoidHighways">避開高速</string>
+    <string name="setting_routeOption_avoidMinorRoads">避免小路</string>
+    <string name="setting_routeOption_avoidTollRoads">避免收費路段</string>
+    <string name="setting_routeOption_avoidUTurns">避免原道路迴轉</string>
+    <string name="setting_routeOption_fasterTime">較佳路徑</string>
+    <string name="setting_routeOption_shorterDistance">較短距離</string>
+    <string name="setting_softwareVersion">軟體版本</string>
+    <string name="setting_speed">速度</string>
+    <string name="setting_speedCamera_icon">圖示</string>
+    <string name="setting_speedCamera_sound">聲音</string>
+    <string name="setting_speedLimit">速限</string>
+    <string name="setting_speedLimitMode_auto">依速限</string>
+    <string name="setting_speedLimitMode_auto10">依速限(+10)</string>
+    <string name="setting_speedLimitMode_auto20">依速限(+20)</string>
+    <string name="setting_speedLimitMode_auto5">依速限(+5)</string>
+    <string name="setting_speedLimitMode_fix">固定</string>
+    <string name="setting_speedLimitMode_select">請選擇速限警示模式</string>
+    <string name="setting_speedLimit_light">警示燈</string>
+    <string name="setting_speedLimit_sound">警示音</string>
+    <string name="setting_speedValue_100">100km/h</string>
+    <string name="setting_speedValue_110">110km/h</string>
+    <string name="setting_speedValue_60">60km/h</string>
+    <string name="setting_speedValue_70">70km/h</string>
+    <string name="setting_speedValue_80">80km/h</string>
+    <string name="setting_speedValue_90">90km/h</string>
+    <string name="setting_speedValue_select">請選擇速限警示值</string>
+    <string name="setting_spring">春</string>
+    <string name="setting_summer">夏</string>
+    <string name="setting_winter">冬</string>
+    <string name="settings_gps_altitude">高度：</string>
+    <string name="settings_gps_date">日期：</string>
+    <string name="settings_gps_inuse">衛星數量：</string>
+    <string name="settings_gps_kmh">km/h</string>
+    <string name="settings_gps_latitude">緯度：</string>
+    <string name="settings_gps_longitude">經度：</string>
+    <string name="settings_gps_speed">速度：</string>
+    <string name="settings_gps_time">時間：</string>
+    <string name="settings_toast_has_reset_all_settings">導航設定已還原為預設值</string>
+    <string name="settings_wifiSetting_not_connected">未連線</string>
+    <string name="show_percent_text">Loading 0%</string>
+    <string name="streetview_out_of_service">街景來源中斷</string>
+    <string name="title_activity_authorize">AuthorizeActivity</string>
+    <string name="turn_list_no_turn_lonlat">查無此路段的座標點</string>
+    <string name="turntype_destination">目的地</string>
+    <string name="turntype_elseTurn" />
+    <string name="turntype_enterBridge">進入橋樑</string>
+    <string name="turntype_enterChargeStation">進入收費站</string>
+    <string name="turntype_enterGetway">進入匝道</string>
+    <string name="turntype_enterHighWay">進入高速公路</string>
+    <string name="turntype_enterTrafficCircle">進入圓環</string>
+    <string name="turntype_enterTunnel">進入隧道</string>
+    <string name="turntype_hardLeft">左後</string>
+    <string name="turntype_hardRight">右後</string>
+    <string name="turntype_keepRight">靠右</string>
+    <string name="turntype_keepleft">靠左</string>
+    <string name="turntype_leaveHighWay">離開高速公路</string>
+    <string name="turntype_leaveTrafficCircle">離開圓環</string>
+    <string name="turntype_left">左轉</string>
+    <string name="turntype_midWayPoint">中途點</string>
+    <string name="turntype_right">右轉</string>
+    <string name="turntype_slightLeft">左前</string>
+    <string name="turntype_slightRight">右前</string>
+    <string name="turntype_straight">直行</string>
+    <string name="turntype_uTurnLeft">迴轉</string>
+    <string name="turntype_uTurnRight">迴轉</string>
+    <string name="update">確認</string>
+    <string name="user_guide_btn_end">了解</string>
+    <string name="user_guide_cancel_route_content">"當您需要取消路徑規劃時，
+可以將右下角「終點旗」向右滑動，
+地圖上的導引路線會被清除。"</string>
+    <string name="user_guide_cancel_route_title">[結束導引]</string>
+    <string name="user_guide_how_to_add_favorite_poi_content">"1.點選地點或道路時，會顯示地點大頭針。
+2.此地點說明會顯示在左上角卡片中。
+3.點擊圖示，會填滿愛心，表示此地點已儲存。
+4.未來可以透過左上角選單的「我的紀錄」查看。"</string>
+    <string name="user_guide_how_to_add_favorite_poi_title">[地點大頭針]</string>
+    <string name="user_guide_keyword_search_content">"當您需要搜尋目的地時，
+可以點擊右上角「放大鏡」，
+直接輸入地址或是地點，
+將表列符合或近似的位置供您選擇。"</string>
+    <string name="user_guide_keyword_search_title">[搜尋放大鏡]</string>
+    <string name="user_guide_set_destination_content">"當您按下「導引」，
+導航會為您規劃路線，
+並將紫色的導引路線顯示在地圖上。"</string>
+    <string name="user_guide_set_destination_title">[導引]</string>
+    <string name="user_guide_show_turn_list_content">"1.設定目的地後，左上角會顯示接下來兩個路口的轉向指示，您可以預先查看。
+2.若將此處向下滑動，可以查看全程路線的詳細說明，包含：轉折指示、即時車速、即時影像。"</string>
+    <string name="user_guide_show_turn_list_title">[轉向指示]</string>
+    <string name="user_guide_start_navi_content">"任何時候都可以按下，
+將地圖恢復到目前位置，
+並跟隨您的移動。"</string>
+    <string name="user_guide_start_navi_title">[現在地車標]</string>
+    <string name="user_guide_swipe_to_cancel_route_content">"1.當您需要刪除目的地或中途點時，可以將列表內的「終點旗」向右滑動，即可放棄前往此地點。
+2.當目的地或中途點被刪除後，導航會自動重新規劃一條路徑給您。"</string>
+    <string name="user_guide_swipe_to_cancel_route_title">[刪除目的地]</string>
+    <string name="vr_instruction_back">離開</string>
+    <string name="vr_instruction_cantrecognize">無法辨識</string>
+    <string name="vr_instruction_clickagain">請重新點擊麥克風</string>
+    <string name="vr_instruction_info">說明</string>
+    <string name="vr_instruction_list">指令清單</string>
+    <string name="vr_instruction_listening">聽取中…</string>
+    <string name="vr_instruction_pleasesay">請說指令</string>
+    <string name="vr_instruction_sample">"\"台北火車站\"
+\"新店中興路三段3號\"
+\"周邊加油站\"
+\"回家\""</string>
+    <string name="vr_instruction_youcansay">你可以說</string>
+    <string name="vr_noresult_tryagain">查無結果，再試一次?</string>
+</resources>

@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ACQUIRED_QUIT">has acquired this remote console session.</string>
+    <string name="ATNETADDR">at network address</string>
+    <string name="Connecting_connecting">Connecting</string>
+    <string name="Connecting_ssl">"
+
+ Negotiating SSL…"</string>
+    <string name="Connecting_start">"
+
+ Starting…"</string>
+    <string name="Connecting_start_video">"
+
+ Starting video stream…"</string>
+    <string name="Share_DENY">The request to share this session has been denied.</string>
+    <string name="StatusBar_ATTEMPTING_TO_CONNECT_TO">Attempting to connect to</string>
+    <string name="StatusBar_MOUNTING_IMAGE_AT">Mounting image at:</string>
+    <string name="StatusBar_NoVideo">No Video</string>
+    <string name="StatusBar_POST_CODE">POST Code:</string>
+    <string name="StatusBar_STARTING_REMOTE_CONSOLE">Starting remote console</string>
+    <string name="StatusBar_UNMOUNTING_IMAGE">Unmounting image</string>
+    <string name="StatusBar_WAITING_FOR_VIDEO">Waiting For Video</string>
+    <string name="USER">User</string>
+    <string name="WebUI_Progress">Loading, Please wait…</string>
+    <string name="add_script">Add Script</string>
+    <string name="app_name">iLO Console</string>
+    <string name="configureilo_cancel">Cancel</string>
+    <string name="configureilo_credential">Save Login Credentials</string>
+    <string name="configureilo_dialog_cancel">Cancel</string>
+    <string name="configureilo_dialog_message_all">A record with the same address already exists.</string>
+    <string name="configureilo_dialog_message_scan">An iLO with the same name has already been configured.</string>
+    <string name="configureilo_dialog_overwrite">Overwrite</string>
+    <string name="configureilo_done">Done</string>
+    <string name="configureilo_favorite">Favorite</string>
+    <string name="configureilo_info">"Configuration setting will be saved only after a successful connection.
+"</string>
+    <string name="configureilo_network_address">iLO Network Address</string>
+    <string name="configureilo_notsave">No</string>
+    <string name="configureilo_notsave_favorite">No</string>
+    <string name="configureilo_password">Password</string>
+    <string name="configureilo_save">Yes</string>
+    <string name="configureilo_save_favorite">Yes</string>
+    <string name="configureilo_scan">Scan</string>
+    <string name="configureilo_title">Configure iLO</string>
+    <string name="configureilo_username">Login Name</string>
+    <string name="configureilo_warning_info1">Please input iLO network address.</string>
+    <string name="configureilo_warning_info2">iLO address is limited to 255 characters.</string>
+    <string name="configureilo_warning_info3">iLO username is limited to 40 characters.</string>
+    <string name="configureilo_warning_info4">iLO password length is limited to 40 characters.</string>
+    <string name="edit_script">Edit Script</string>
+    <string name="error_bad_barcode_format">Bad barcode format, data should be in server;user;pass format.</string>
+    <string name="error_camera_in_use">Camera in use</string>
+    <string name="error_no_barcode_scanner">Missing barcode scanner</string>
+    <string name="error_no_preview">No preview available</string>
+    <string name="error_no_usable_camera">No Usable Camera</string>
+    <string name="errordialog_cancel">Cancel</string>
+    <string name="errordialog_message10">Connect to iLO server failed. Please try again later.</string>
+    <string name="errordialog_message11">Access is denied. Verify your credentials or contact your administrator for access.</string>
+    <string name="errordialog_message12">The remote console on the server is in use. Please try again later.</string>
+    <string name="errordialog_message13a">An iLO Advanced License is required for continued use，please click to get license!</string>
+    <string name="errordialog_message14">There is no activity from iLO. It may have disconnected.</string>
+    <string name="errordialog_message15">There was an error establishing a control connection with the iLO.</string>
+    <string name="errordialog_message16">Login parameters incorrect.</string>
+    <string name="errordialog_message17">State Machine is not ready.</string>
+    <string name="errordialog_message18">There is no idle session to connect. Please try again later.</string>
+    <string name="errordialog_message19">Session in use. This application does not support multi-user remote console.</string>
+    <string name="errordialog_message20">Failed to acquire remote console.</string>
+    <string name="errordialog_message201">iLO Server address is invalid.</string>
+    <string name="errordialog_message202">Not authorized, please verify your login credentials!</string>
+    <string name="errordialog_message203">The internet connection appears to be offline.</string>
+    <string name="errordialog_message204">Can’t parse iLO Server Hostname.</string>
+    <string name="errordialog_message205">Timed out, could not connect to server!</string>
+    <string name="errordialog_message206">There is no idle session to connect.</string>
+    <string name="errordialog_message207">Can’t login.</string>
+    <string name="errordialog_message208">Logout Fail.</string>
+    <string name="errordialog_message209">No route to host.</string>
+    <string name="errordialog_message21">Get RC_INFO fail.</string>
+    <string name="errordialog_message22">Remote console has been acquired by another user.</string>
+    <string name="errordialog_message23">Remote connection closed. Please try again later.</string>
+    <string name="errordialog_message24">The WebView component has encountered an error. Please try again, or use another browser.</string>
+    <string name="errordialog_title">Error</string>
+    <string name="exitdialog_cancel">Cancel</string>
+    <string name="exitdialog_message">Exit the application?</string>
+    <string name="exitdialog_ok">OK</string>
+    <string name="ilo_scripts">iLO Scripts</string>
+    <string name="intro">Demonstrates iLO Remote AutoLogin.</string>
+    <string name="logincredential_connect">Connect</string>
+    <string name="logincredential_title">Login Credentials</string>
+    <string name="remoteconsole_cancel">Cancel</string>
+    <string name="remoteconsole_coldboot">Cold Boot</string>
+    <string name="remoteconsole_disconnect">Disconnect from iLO?</string>
+    <string name="remoteconsole_hold">Press and Hold</string>
+    <string name="remoteconsole_menu_info">Use “2 finger tap” to show or hide Menu Bar</string>
+    <string name="remoteconsole_momentary">Momentary Press</string>
+    <string name="remoteconsole_mount">Mount</string>
+    <string name="remoteconsole_mount_error">Please enter a valid URL</string>
+    <string name="remoteconsole_mountinfo">Please enter the URL of the ISO image you wish to mount. This will show up as a USB CD-ROM/DVD on your server.</string>
+    <string name="remoteconsole_ok">OK</string>
+    <string name="remoteconsole_reset">Reset</string>
+    <string name="remoteconsole_unmount">Unmount</string>
+    <string name="remoteconsole_url">URL</string>
+    <string name="remoteconsole_virtualmedia">Virtual Media Image File</string>
+    <string name="remoteconsole_warning_coldboot">This will cycle power on your server. Data may be lost. Continue?</string>
+    <string name="remoteconsole_warning_hold">This will result in an uncontrolled shutdown of the server. Data may be lost. Continue?</string>
+    <string name="remoteconsole_warning_momentary">If power is on and the OS allows it, this should result in a graceful shutdown of the server. If power is off, it could power on the server. Continue?</string>
+    <string name="remoteconsole_warning_momentary_off">This will power on the server. Continue?</string>
+    <string name="remoteconsole_warning_momentary_on">If the OS allows it, this results in a graceful shutdown of the server. Continue?</string>
+    <string name="remoteconsole_warning_reset">This will reset your server. Data may be lost. Continue?</string>
+    <string name="remoteconsole_warning_title">Warning</string>
+    <string name="run_script">Run Script</string>
+    <string name="script_complete">Script Completed</string>
+    <string name="script_download">Downloading RIBCL Script</string>
+    <string name="script_error">Script Error</string>
+    <string name="script_results">Script Results</string>
+    <string name="script_results_receive">Receiving script results</string>
+    <string name="script_send">Sending Script to iLO</string>
+    <string name="scripting_tips">Please go to http://www.hp.com/go/ilo and refer to the Scripting Guide in the documentation section to learn how to automate your HP server with the iLO RIBCL scripting language.</string>
+    <string name="select_script">Select Script</string>
+    <string name="selectilo_about">About</string>
+    <string name="selectilo_all_list">All</string>
+    <string name="selectilo_clear">Clear</string>
+    <string name="selectilo_dialog_choice0">Remote Console</string>
+    <string name="selectilo_dialog_choice1">Launch Script</string>
+    <string name="selectilo_dialog_choice_cancel">Cancel</string>
+    <string name="selectilo_dialog_clear_message">The history list will be cleared, continue?</string>
+    <string name="selectilo_dialog_clear_no">Cancel</string>
+    <string name="selectilo_dialog_clear_yes">OK</string>
+    <string name="selectilo_dialog_title">Connect to iLO</string>
+    <string name="selectilo_favorites_list">Favorites</string>
+    <string name="selectilo_history_list">History</string>
+    <string name="selectilo_menu_delete">Delete</string>
+    <string name="selectilo_menu_edit">Edit</string>
+    <string name="selectilo_more_tab">More</string>
+    <string name="selectilo_title">Select iLO</string>
+    <string name="selectilo_version">Version</string>
+    <string name="startup_content">"Warning: This application streams video.
+ Heavy use over the cellular network may be expensive.
+ Consider using Wi-Fi where possible.
+
+ Swipe to continue.
+
+"</string>
+    <string name="startup_title">"
+ iLO for ProLiant and 
+ Integrity Servers"</string>
+    <string name="system_power">System Power</string>
+    <string name="errordialog_cert_error_title">Certificate Error</string>
+    <string name="errordialog_message13b">http://www.hpe.com/info/ilo</string>
+    <string name="errordialog_message210">TLS connection error, this device may not support strong TLS connections.</string>
+    <string name="eula">"END USER LICENSE AGREEMENT
+
+PLEASE READ CAREFULLY: THE USE OF THE SOFTWARE IS SUBJECT TO THE TERMS AND CONDITIONS THAT FOLLOW (AGREEMENT), UNLESS THE SOFTWARE IS SUBJECT TO A SEPARATE LICENSE AGREEMENT BETWEEN YOU AND HP OR ITS SUPPLIERS. BY DOWNLOADING, INSTALLING, COPYING, ACCESSING, OR USING THE SOFTWARE, OR BY CHOOSING THE I ACCEPT OPTION LOCATED ON OR ADJACENT TO THE SCREEN WHERE THIS AGREEMENT MAY BE DISPLAYED, YOU AGREE TO THE TERMS OF THIS AGREEMENT, ANY APPLICABLE WARRANTY STATEMENT AND THE TERMS AND CONDITIONS CONTAINED IN THE ANCILLARY SOFTWARE (as defined below). IF YOU ARE ACCEPTING THESE TERMS ON BEHALF OF ANOTHER PERSON OR A COMPANY OR OTHER LEGAL ENTITY, YOU REPRESENT AND WARRANT THAT YOU HAVE FULL AUTHORITY TO BIND THAT PERSON, COMPANY, OR LEGAL ENTITY TO THESE TERMS. IF YOU DO NOT AGREE TO THESE TERMS, DO NOT DOWNLOAD, INSTALL, COPY, ACCESS, OR USE THE SOFTWARE, AND PROMPTLY RETURN THE SOFTWARE WITH PROOF OF PURCHASE TO THE PARTY FROM WHOM YOU ACQUIRED IT AND OBTAIN A REFUND OF THE AMOUNT YOU PAID, IF ANY. IF YOU DOWNLOADED THE SOFTWARE, CONTACT THE PARTY FROM WHOM YOU ACQUIRED IT. 
+
+1. GENERAL TERMS 
+
+a. You and Your refer either to an individual person or to a single legal entity. 
+
+b. HP means Hewlett-Packard Company or one of its subsidiaries. 
+
+c. HP Branded means Software products bearing a trademark or service mark of Hewlett-Packard Company or any Hewlett-Packard Company Affiliate, and embedded HP selected third party Software that is not offered under a third party license agreement. 
+
+d. Software means machine-readable instructions and data (and copies thereof) including middleware and related updates and upgrades You may be separately authorized to receive, licensed materials, user documentation, user manuals, and operating procedures. Ancillary Software means all or any portion of Software provided under public, open source, or third party license terms. 
+
+e. Specification means technical information about Software products published in HP product manuals, user documentation, and technical data sheets in effect on the date HP delivers Software products to You. 
+
+f. Transaction Document(s) means an accepted customer order (excluding pre-printed terms) and in relation to that order, valid HP quotations, license to use certificates or invoices. 
+
+2. LICENSE TERMS AND RESTRICTIONS 
+
+a. Subject to the terms and conditions of this Agreement and the payment of any applicable license fee, HP grants You a non-exclusive, non-transferable license to Use (as defined below) in object code form one copy of the Software on one device at a time for Your internal business purposes, unless otherwise indicated above or in applicable Transaction Document(s). Use means to install, store, load, execute and display the Software in accordance with the Specifications. Your Use of the Software is subject to these license terms and to the other restrictions specified by HP in any other tangible or electronic documentation delivered or otherwise made available to You with or at the time of purchase of the Software, including license terms, warranty statements, Specifications, and readme or other informational files included in the Software itself. Such restrictions are hereby incorporated in this Agreement by reference. Some Software may require license keys or contain other technical protection measures. You acknowledge that HP may monitor your compliance with Use restrictions remotely or otherwise. If HP makes a license management program available which records and reports license usage information, You agree to appropriately install, configure and execute such license management program beginning no later than one hundred and eighty (180) days from the date it is made available to You and continuing for the period that the Software is Used. 
+
+b. This Agreement confers no title or ownership and is not a sale of any rights in the Software. Third-party suppliers are intended beneficiaries under this Agreement and independently may protect their rights in the Software in the event of any infringement. All rights not expressly granted to You are reserved solely to HP or its suppliers. Nothing herein should be construed as granting You, by implication, estoppel or otherwise, a license relating to Software other than as expressly stated above in this section 2. 
+
+c. Unless otherwise permitted by HP, You (a) may only make copies or adaptations of the Software for archival purposes or when copying or adaptation is an essential step in the authorized Use of the Software on a backup device, provided that copies and adaptations are used in no other manner and provided further that the Use on the backup device is discontinued when the original or replacement device becomes operable, and (b) may not copy the Software onto or otherwise Use or make it available on, to, or through any public or external distributed network. 
+
+d. To Use Software identified as an update or upgrade, You must first be licensed for the original Software identified by HP as eligible for the update or upgrade. If the update or upgrade is intended to substantially replace the original Software, after updating or upgrading, You may no longer Use the original Software that formed the basis for Your update or upgrade eligibility unless otherwise provided by HP in writing. Nothing in this Agreement grants You any right to purchase or receive Software updates, upgrades, or support, and HP is under no obligation to make such support available to you. Updates, upgrades, enhancements, or other Support may only be available under separate HP support agreements. You may contact HP to learn more about any support offerings HP may make available. HP reserves the right to require additional licenses and fees for Software upgrades or other enhancements, or for Use of the Software on upgraded devices. 
+
+e. You must reproduce all copyright notices that appear in or on the Software (including documentation) on all permitted copies or adaptations. Copies of documentation are limited to internal use. 
+
+f. Notwithstanding anything to the contrary herein, if the Transaction Document(s) identifies that the Software may be utilized on another Designated System(s) (as defined below), Your license to Use the Software may be transferred to another Designated System(s). A Designated System means a computer system owned, controlled, or operated by or solely on behalf of You and may be further identified by HP by the combination of a unique number and a specific system type. Such license will terminate in the event of a change in either the system number or system type, an unauthorized relocation, or if the Designated System ceases to be within Your possession or control. 
+
+g. Operating system Software may only be Used when operating the associated hardware in configurations as approved, sold, or subsequently upgraded by HP or an HP authorized reseller. 
+
+h. Software is not specifically designed, manufactured, or intended for use as parts, components, or assemblies for the planning, construction, maintenance, or direct operation of a nuclear facility. You are solely liable if Software is Used for these applications and will indemnify and hold HP harmless from all loss, damage, expense, or liability in connection with such Use. 
+
+i. You will not modify, reverse engineer, disassemble, decrypt, decompile, or make derivative works of the Software. Where You have other rights mandated under statute, You will provide HP with reasonably detailed information regarding any intended modifications, reverse engineering, disassembly, decryption, or decompilation and the purposes therefore. 
+
+j. Extending the Use of Software to any person or entity other than You as a function of providing services, (i.e.; making the Software available through a commercial timesharing or service bureau) must be authorized in writing by HP prior to such Use and may require additional licenses and fees. You may not distribute, resell, or sublicense the Software. 
+
+k. Notwithstanding anything in this Agreement to the contrary, all or any portion of the Software which constitutes Ancillary Software is licensed to You subject to the terms and conditions of the Software license agreement accompanying such Ancillary Software, whether in the form of a separate agreement, shrink wrap license or electronic license terms accepted at time of download. Use of the Ancillary Software by You shall be governed entirely by the terms and conditions of such license and, with respect to HP, by the limitations and disclaimers of sections 3 and 5 hereof. HP has identified any Ancillary Software by either noting the Ancillary Software provider's ownership within each Ancillary Software program file and/or by providing information in the ancillary.txt or readme file that is provided as part of the installation of the Software. The Ancillary Software licenses are also set forth in the ancillary.txt or readme file. By accepting the terms and conditions of this Agreement, You are also accepting the terms and conditions of each Ancillary Software license in the ancillary.txt or readme file. If the Software includes Ancillary Software licensed under the GNU General Public License and/or under the GNU Lesser General Pubic License (GPL Software), a complete machine-readable copy of the GPL Software Source Code (GPL Source Code) is either: (i) included with the Software that is delivered to You; or (ii) upon your written request, HP will provide to You, for a fee covering the cost of distribution, a complete machine-readable copy of the GPL Source Code, by mail, or (iii) if You obtained the Software by downloading it from a HP website and neither of the preceding options are available, you may download the GPL Source Code from the same website. Information about how to make a written request for GPL Source Code may be found in the ancillary.txt file or, if an address is not listed in that file, at the following website: www.hp.com. 
+
+3. WARRANTY 
+
+(i) IF SOFTWARE IS PROVIDED WITHOUT A LICENSE FEE, THE FOLLOWING AS-IS WARRANTY STATEMENT APPLIES TO THE SOFTWARE: 
+
+DISCLAIMER OF WARRANTIES: 
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, HP AND ITS SUPPLIERS PROVIDE THE SOFTWARE AS IS AND WITH ALL FAULTS, AND HEREBY DISCLAIM ALL INDEMNITIES, WARRANTIES AND CONDITIONS, EITHER EXPRESS, IMPLIED, WHETHER BY STATUE, COMMON LAW, CUSTOM OR OTHERWISE, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF TITLE AND NON-INFRINGEMENT, ANY IMPLIED WARRANTIES, DUTIES OR CONDITIONS OF MERCHANTABILITY, OF FITNESS FOR A PARTICULAR PURPOSE, AND OF LACK OF VIRUSES. HP does not warrant that the operation of Software will be uninterrupted or error free or that the Software will meet Your requirements. Some states/jurisdictions do not allow exclusion of implied warranties or limitations on the duration of implied warranties, so the above disclaimer may not apply to You in its entirety.
+
+(ii) IF SOFTWARE IS PROVIDED FOR A LICENSE FEE, THE FOLLOWING LIMITED WARRANTY APPLIES TO THE SOFTWARE: 
+
+a. HP Branded Software will materially conform to its Specifications. If a warranty period is not specified for HP Branded Software, the warranty period will be ninety (90) days from the delivery date, or the date of installation if installed by HP. If You schedule or delay installation by HP more than thirty (30) days after delivery, the warranty period begins on the 31st day after delivery. This limited warranty is subject to the terms, limitations, and exclusions contained in the limited warranty statement provide for Software in the country where the Software is located when the warranty claim is made. 
+
+b. HP warrants that any physical media containing HP Branded Software will be shipped free of viruses. 
+
+c. HP does not warrant that the operation of Software will be uninterrupted or error free, or that Software will operate in hardware and Software combinations other than as expressly required by HP in the Specifications or that Software will meet requirements specified by You. 
+
+d. HP is not obligated to provide warranty services or support for any claims resulting from: 
+
+1. improper site preparation, or site or environmental conditions that do not conform to HP’s site specifications; 
+
+2. Your non-compliance with Specifications; 
+
+3. improper or inadequate maintenance or calibration; 
+
+4. Your or third-party media, software, interfacing, supplies, or other products; 
+
+5. modifications not performed or authorized by HP; 
+
+6. virus, infection, worm or similar malicious code not introduced by HP; or 
+
+7. abuse, negligence, accident, loss or damage in transit, fire or water damage, electrical disturbances, transportation by You, or other causes beyond HP’s control. 
+
+e. HP provides third-party products, software, and services that are not HP Branded AS IS without warranties of any kind, although the original manufacturers or third party suppliers of such products, software and services may provide their own warranties. 
+
+f. If notified of a valid warranty claim during the warranty period, HP will, at its option, correct the warranty defect for HP Branded Software, or replace such Software. If HP is unable, within a reasonable time, to complete the correction, or replace such Software, You will be entitled to a refund of the purchase price paid upon prompt return of such Software to HP. You will pay expenses for return of such Software to HP. HP will pay expenses for shipment of repaired or replacement Software to You. This section 3.(ii) f states HP's entire liability for warranty claims. 
+
+g. DISCLAIMER OF WARRANTIES 
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, EXCEPT AS EXPRESSLY WARRANTED IN SECTION 3.(ii) a and b ABOVE, HP AND ITS SUPPLIERS PROVIDE THE SOFTWARE AS IS AND WITH ALL FAULTS, AND HEREBY DISCLAIM ALL OTHER WARRANTIES AND CONDITIONS, EITHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF TITLE AND NON-INFRINGEMENT, ANY IMPLIED WARRANTIES, DUTIES OR CONDITIONS OF MERCHANTABILITY, OF FITNESS FOR A PARTICULAR PURPOSE, AND OF LACK OF VIRUSES. Some states/jurisdictions do not allow exclusion of implied warranties or limitations on the duration of implied warranties, so the above disclaimer may not apply to You in its entirety. 
+
+4. INTELLECTUAL PROPERTY INFRINGEMENT FOR SOFTWARE PROVIDED FOR A LICENSE FEE: 
+
+a. In the event Software was provided to You for a License Fee, HP will defend or settle any claim against You alleging that HP Branded Software products provided under this Agreement infringes intellectual property rights in the country where they were sold, if You: 
+
+1. promptly notify HP of the claim in writing; 
+
+2. cooperate with HP in the defense of the claim; and 
+
+3. grant HP sole control of the defense or settlement of the claim. 
+
+HP will pay infringement claim defense costs, HP–negotiated settlement amounts, and court-awarded damages. 
+
+b. If such a claim appears likely, then HP may modify the HP Branded Software products, procure any necessary license, or replace the affected item with one that is at least functionally equivalent. If HP determines that none of these alternatives is reasonably available, then HP will issue You a refund equal to the purchase price paid for the affected item if within one year of delivery, or Your net book value thereafter. 
+
+c. HP has no obligation for any claim of infringement arising from: 
+
+1. HP’s compliance with Your or third party designs, specifications, instructions, or technical information; 
+
+2. modifications made by You or a third party; 
+
+3. Your non-compliance with the Specifications or the documentation described in section 2. a above; or 
+
+4. Your use with products, software, or services that are not HP Branded. 
+
+d. This section 4 states HP's entire liability for claims of intellectual property infringement for Software provided for a license fee. 
+
+5. LIMITATION OF LIABILITY AND REMEDIES
+
+Notwithstanding any damages that You might incur, and except for damages for bodily injury (including death) and for the amounts in section 4.a, the entire aggregate liability of HP and any of its suppliers relating to the Software or this Agreement, and Your exclusive remedy for all of the foregoing, shall be limited to the greater of the amount actually paid by You separately for the Software or U.S. $5.00. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL HP OR ITS SUPPLIERS BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS OR REVENUES, BUSINESS INTERRUPTION, DOWNTIME COSTS, FAILURE TO REALIZE EXPECTED SAVINGS, LOSS, DISCLOSURE, UNAVAILABILITY OF OR DAMAGE TO DATA, SOFTWARE RESTORATION, OR LOSS OF PRIVACY ARISING OUT OF OR IN ANY WAY RELATED TO THE USE OF OR INABILITY TO USE THE SOFTWARE, OR OTHERWISE IN CONNECTION WITH ANY PROVISION OF THIS AGREEMENT, EVEN IF HP OR ANY SUPPLIER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES AND EVEN IF THE REMEDY FAILS OF ITS ESSENTIAL PURPOSE. Some states/jurisdictions do not allow the exclusion or limitation of incidental or consequential damages, so the above limitation or exclusion may not apply to you. 
+
+6. TERMINATION 
+
+This Agreement is effective unless terminated or rejected. Notwithstanding the foregoing, this Agreement will also terminate upon conditions set forth elsewhere in this Agreement or if You fail to comply with any term or condition hereof. Immediately upon termination You will destroy the Software and all copies of the Software or return them to HP. You may retain one copy of the Software subsequent to termination solely for archival purposes only. At HP’s request, You will certify in writing to HP that You have complied with these requirements. Sections 3.(i), 3.(ii) g, 5, 6 and 7 of this Agreement will survive termination of this Agreement. 
+
+7. GENERAL 
+
+a. You may not assign, sublicense, delegate or otherwise transfer (Assign) all or any part of this Agreement without prior written consent from HP, payment to HP of any applicable fees, and compliance with HP's Software license transfer policies and any applicable third party license terms. Any such attempted Assignment will be null and void. Where an authorized Assignment occurs in accordance with this section, Your rights under this Agreement will terminate, and You will immediately deliver the Software and all copies to the Assignee. The Assignee must agree in writing to the terms of this Agreement, and the transferee thereafter will be considered You for purposes of this Agreement. You may transfer firmware only upon transfer of the associated hardware. 
+
+b. If the Software is licensed for use in the performance of a U.S. Government prime contract or subcontract, You agree that, consistent with FAR 12.211 and 12.212, commercial computer Software, computer Software documentation and technical data for commercial items are licensed under HP’s standard commercial license. 
+
+c. To the extent You export, re-export, or import Software, technology, or technical data licensed or provided hereunder, You assume sole responsibility for complying with applicable laws and regulations and for obtaining required export and import authorizations. HP may suspend performance if You are in violation of any applicable laws or regulations. 
+
+d. You agree that HP may audit Your compliance with this Agreement. Any such audit would be at HP’s expense, require reasonable notice, and would be performed during normal business hours. If an audit reveals underpayments then You will immediately pay HP such underpayments together with the costs reasonably incurred by HP in connection with the audit and seeking compliance with this section. 
+
+e. This Agreement is governed by the laws of the State of California, U.S.A., excluding rules as to choice and conflict of law. You and HP agree that the United Nations Convention on Contracts for the International Sale of Goods will not apply to this Agreement. 
+
+f. Subject to the other terms and conditions of this Agreement, this Agreement is the entire agreement between HP and You regarding Your Use of the Software, and supersedes and replaces any previous communications, representations, or agreements, or Your additional or inconsistent terms, whether oral or written. In the event any provision of this Agreement is held invalid or unenforceable the remainder of the Agreement will remain enforceable and unaffected thereby. 
+
+g. HP’s failure to exercise or delay in exercising any of its rights under this Agreement will not constitute or be deemed a waiver or forfeiture of those rights. 
+
+
+Apache License, Version 2.0 (for ZXing)
+
+Apache License
+
+Version 2.0, January 2004
+
+http://www.apache.org/licenses/
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+
+License shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through 9 of this document.
+
+Licensor shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.
+
+Legal Entity shall mean the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity. For the purposes of this definition, control means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.
+
+You (or Your) shall mean an individual or Legal Entity exercising permissions granted by this License.
+
+Source form shall mean the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files.
+
+Object form shall mean any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types.
+
+Work shall mean the work of authorship, whether in Source or Object form, made available under the License, as indicated by a copyright notice that is included in or attached to the work (an example is provided in the Appendix below).
+
+Derivative Works shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. For the purposes of this License, Derivative Works shall not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the Work and Derivative Works thereof.
+
+Contribution shall mean any work of authorship, including the original version of the Work and any modifications or additions to that Work or Derivative Works thereof, that is intentionally submitted to Licensor for inclusion in the Work by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner. For the purposes of this definition, submitted means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Work, but excluding communication that is conspicuously marked or otherwise designated in writing by the copyright owner as Not a Contribution.
+
+Contributor shall mean Licensor and any individual or Legal Entity on behalf of whom a Contribution has been received by Licensor and subsequently incorporated within the Work.
+
+2. Grant of Copyright License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form.
+
+3. Grant of Patent License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Work, where such license applies only to those patent claims licensable by such Contributor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Work to which such Contribution(s) was submitted. If You institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Work or a Contribution incorporated within the Work constitutes direct or contributory patent infringement, then any patent licenses granted to You under this License for that Work shall terminate as of the date such litigation is filed.
+
+4. Redistribution. You may reproduce and distribute copies of the Work or Derivative Works thereof in any medium, with or without modifications, and in Source or Object form, provided that You meet the following conditions:
+
+You must give any other recipients of the Work or Derivative Works a copy of this License; and
+
+You must cause any modified files to carry prominent notices stating that You changed the files; and
+
+You must retain, in the Source form of any Derivative Works that You distribute, all copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+
+If the Work includes a NOTICE text file as part of its distribution, then any Derivative Works that You distribute must include a readable copy of the attribution notices contained within such NOTICE file, excluding those notices that do not pertain to any part of the Derivative Works, in at least one of the following places: within a NOTICE text file distributed as part of the Derivative Works; within the Source form or documentation, if provided along with the Derivative Works; or, within a display generated by the Derivative Works, if and wherever such third-party notices normally appear. The contents of the NOTICE file are for informational purposes only and do not modify the License. You may add Your own attribution notices within Derivative Works that You distribute, alongside or as an addendum to the NOTICE text from the Work, provided that such additional attribution notices cannot be construed as modifying the License. You may add Your own copyright statement to Your modifications and may provide additional or different license terms and conditions for use, reproduction, or distribution of Your modifications, or for any such Derivative Works as a whole, provided Your use, reproduction, and distribution of the Work otherwise complies with the conditions stated in this License.
+
+5. Submission of Contributions. Unless You explicitly state otherwise, any Contribution intentionally submitted for inclusion in the Work by You to the Licensor shall be under the terms and conditions of this License, without any additional terms or conditions. Notwithstanding the above, nothing herein shall supersede or modify the terms of any separate license agreement you may have executed with Licensor regarding such Contributions.
+
+6. Trademarks. This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use in describing the origin of the Work and reproducing the content of the NOTICE file.
+
+7. Disclaimer of Warranty. Unless required by applicable law or agreed to in writing, Licensor provides the Work (and each Contributor provides its Contributions) on an AS IS BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using or redistributing the Work and assume any risks associated with Your exercise of permissions under this License.
+
+8. Limitation of Liability. In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Work (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if such Contributor has been advised of the possibility of such damages.
+
+9. Accepting Warranty or Additional Liability. While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability.
+
+END OF TERMS AND CONDITIONS
+
+"</string>
+    <string name="selectilo_dialog_choice_web_interface">iLO Web Interface</string>
+</resources>

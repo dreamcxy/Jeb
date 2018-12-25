@@ -1,0 +1,1151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="about_title_text">About</string>
+    <string name="about_versionFormat_text" formatted="false">%VERSION_NAME%-%VERSION_CODE%</string>
+    <string name="about_version_text">Version</string>
+    <string name="acknowledge_button_text">Got it!</string>
+    <string name="acknowledge_enable_description">You need to make sure the recipient acknowledges the announcement proactively.</string>
+    <string name="acknowledge_enable_title">Enable Acknowledgement Button</string>
+    <string name="acknowledge_totalAcknowledge_text" formatted="false">%COUNT% of %MEMBERS% have acknowledged</string>
+    <string name="acknowledge_viewReport_text">Check it out!</string>
+    <string name="add">添加</string>
+    <string name="additionalMessage_done_button">Done</string>
+    <string name="additionalMessage_hint_editText">Write a message...</string>
+    <string name="advanced_team">高级群</string>
+    <string name="afternoon">afternoon</string>
+    <string name="all_division">All Division</string>
+    <string name="am">AM</string>
+    <string name="announcement_addImage_text">Add image (limited 1)</string>
+    <string name="announcement_attachFile_downloadFail">Failed to download the file</string>
+    <string name="announcement_attachFile_noAppSupport">No application can be found to open this file</string>
+    <string name="announcement_attachFile_openFile">Open the file</string>
+    <string name="announcement_attachFile_unsupported">File type not supported</string>
+    <string name="announcement_content_placeholder_text">Write a description</string>
+    <string name="announcement_dateFormat">DateFormat.SHORT</string>
+    <string name="announcement_editButton_text">Edit</string>
+    <string name="announcement_filesizeExceed_button">OK</string>
+    <string name="announcement_filesizeExceed_description">Each attachment cannot be over 25MB. It will be removed from the announcement</string>
+    <string name="announcement_filesizeExceed_title" formatted="false">%File% is too big</string>
+    <string name="announcement_loading_text">Loading...</string>
+    <string name="announcement_new_title">New Announcement</string>
+    <string name="announcement_noAnnouncement">No Announcement.</string>
+    <string name="announcement_noTitle_text">(No Subject)</string>
+    <string name="announcement_notReady_button">OK</string>
+    <string name="announcement_notReady_description">Please wait until all attachments finish uploading</string>
+    <string name="announcement_notReady_title">Uploading</string>
+    <string name="announcement_other_day_dateFormat">DateFormat.LONG</string>
+    <string name="announcement_pinDialog_description">Would you like to be reminded every time?</string>
+    <string name="announcement_pinDialog_negativeButton_text">Never</string>
+    <string name="announcement_pinDialog_positiveButton_text">OK</string>
+    <string name="announcement_pinDialog_text">You can read the pinned announcements from More_Read My Pin.</string>
+    <string name="announcement_readMore_text">Read More...</string>
+    <string name="announcement_recallButton_text">Recall</string>
+    <string name="announcement_recallDialogMessage_text">Are you sure you want to recall this announcement? This action cannot be undone.</string>
+    <string name="announcement_recallDialogTitle_text">Recall Announcement</string>
+    <string name="announcement_recallDialog_cancelButtonText">Cancel</string>
+    <string name="announcement_recallDialog_recallButtonText">Recall</string>
+    <string name="announcement_recall_successButton_text">OK</string>
+    <string name="announcement_recall_successMessage_text">You have retrieved an announcement.</string>
+    <string name="announcement_reportAcknowledged_text">Acknowledged:</string>
+    <string name="announcement_reportNotAcknowledged_text">Not acknowledged:</string>
+    <string name="announcement_report_info_button">Info</string>
+    <string name="announcement_report_more_text">More...</string>
+    <string name="announcement_report_read_text">Read:</string>
+    <string name="announcement_report_sent_time_dateFormat">DateFormat.LONG</string>
+    <string name="announcement_report_sent_time_text" formatted="false">Sent at %MMM DD YYYY% %HH:MM%</string>
+    <string name="announcement_report_sent_time_timeFormat">DateFormat.SHORT</string>
+    <string name="announcement_report_status_title">Info</string>
+    <string name="announcement_report_unread_text">Unread:</string>
+    <string name="announcement_subject_placeholder_text">Write subject (255 characters)</string>
+    <string name="announcement_timeFormat">DateFormat.SHORT</string>
+    <string name="announcement_to_text">To:</string>
+    <string name="announcement_today_text">Today</string>
+    <string name="announcement_typing_placeholder" formatted="false">%PERSON% is typing…</string>
+    <string name="app_name">AMPOS ERM</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="archiveNews_dateFormat">MMM dd</string>
+    <string name="assignmentList_assigner_text">Assigner:</string>
+    <string name="assignmentList_duedate_text">Due Date:</string>
+    <string name="assignment_assignedByYou_text">Assigned by you</string>
+    <string name="assignment_assignedItems_text">Assigned item(s)</string>
+    <string name="assignment_assignedToYou_text">Assigned to you</string>
+    <string name="assignment_assignmentStatusCompleted_text">Completed</string>
+    <string name="assignment_assignmentStatusOpen_text">Open</string>
+    <string name="assignment_assignmentStatusOverdue_text">Overdue</string>
+    <string name="assignment_assignmentTitle_format" formatted="false">%ASSIGNMENT_TITLE%</string>
+    <string name="assignment_createNew_Text">Create one now!</string>
+    <string name="assignment_create_add_assignee_button">Add more...</string>
+    <string name="assignment_create_assignee_number" formatted="false">(%NUM%)</string>
+    <string name="assignment_create_assignee_text">Assignee</string>
+    <string name="assignment_create_confirm_message">"The supervisors of each assignee has been selected as a reporter automatically. They will be informed the assignee’s status.
+"</string>
+    <string name="assignment_create_confirm_ok_button">OK</string>
+    <string name="assignment_create_description_text">Write a description (255 characters, optional)</string>
+    <string name="assignment_create_dueDate_text">Due Date</string>
+    <string name="assignment_create_link_lessons_text">Link to online lessons</string>
+    <string name="assignment_create_pick_date_button">Pick due date (optional)</string>
+    <string name="assignment_create_pick_date_done">Done</string>
+    <string name="assignment_create_reporter_text">Reporter</string>
+    <string name="assignment_create_select_assignee_text">Select assignee</string>
+    <string name="assignment_create_title">Create an Assignment</string>
+    <string name="assignment_create_title_text">Write a title (128 characters)</string>
+    <string name="assignment_createdSuccessfully">Created successfully.</string>
+    <string name="assignment_dueDate_dateFormat">DateFormat.MEDIUM</string>
+    <string name="assignment_dueDate_format" formatted="false">%MMM dd, yyyy%</string>
+    <string name="assignment_editAssignedItems_text">Edit assigned item(s)</string>
+    <string name="assignment_empty_text">No Assignment.</string>
+    <string name="assignment_fieldEmpty_text">- -</string>
+    <string name="assignment_lessonCount_text">lesson(s)</string>
+    <string name="assignment_member_branch_format" formatted="false">%BRANCH_NAME%</string>
+    <string name="assignment_member_count_format" formatted="false">(%NUM%)</string>
+    <string name="assignment_member_friend_list_title">Friend List</string>
+    <string name="assignment_member_name_format" formatted="false">%FIRSTNAME% %LASTNAME%</string>
+    <string name="assignment_member_no_selected">Select from the list below</string>
+    <string name="assignment_member_selected_title">Selected</string>
+    <string name="assignment_member_title">Select Members</string>
+    <string name="assignment_name_format" formatted="false">%FIRSTNAME% %LASTNAME%</string>
+    <string name="assignment_noDueDate_Text">No Due Date</string>
+    <string name="assignment_reportedToYou_text">Reported to you</string>
+    <string name="assignment_select_course_title">Select courses</string>
+    <string name="assignment_select_lesson_title">Select Lesson</string>
+    <string name="assignment_testCount_text">test(s)</string>
+    <string name="assignment_title">Assignment</string>
+    <string name="assignment_view_assigner_text">Assigner</string>
+    <string name="assignment_view_cancel_button">Cancel</string>
+    <string name="assignment_view_delete_button">Delete</string>
+    <string name="assignment_view_delete_confirm_cancel_button">Cancel</string>
+    <string name="assignment_view_delete_confirm_delete_button">Delete</string>
+    <string name="assignment_view_delete_confirm_header">Delete</string>
+    <string name="assignment_view_delete_confirm_message" formatted="false">Delete %ASSIGNMENT_TITLE%</string>
+    <string name="assignment_view_edit_button">Edit</string>
+    <string name="badgePage_title">My Badges</string>
+    <string name="bold_formatter" formatted="false">&lt;b>%TEXT%&lt;/b></string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="branchList_title">Filters</string>
+    <string name="btn_leave">Leave</string>
+    <string name="btn_stay">Stay</string>
+    <string name="by_division">By Division</string>
+    <string name="cancel">Cancel</string>
+    <string name="cancel_menu">Cancel</string>
+    <string name="cancel_team_admin">取消管理员</string>
+    <string name="capture_video_size_in_kb">视频文件大小为: %1$dKB,</string>
+    <string name="capture_video_size_in_mb">视频文件大小为: %1$.2fMB,</string>
+    <string name="careerPathList_diningRoom_text">Front of House</string>
+    <string name="careerPathList_kitchen_text">Back of House</string>
+    <string name="careerPathList_title">Career Path</string>
+    <string name="changePassword_confirmPassword_placeHolder">Confirm New Password</string>
+    <string name="changePassword_doneButton_text">Done</string>
+    <string name="changePassword_incorrectPassword_text">Wrong password.</string>
+    <string name="changePassword_invalidFormat_text">Invalid format. At least 1 alphabet and 1 number.</string>
+    <string name="changePassword_newPassword_placeHolder">New Password (6-16 letters)</string>
+    <string name="changePassword_notMatch_text">"Doesn't match."</string>
+    <string name="changePassword_oldPassword_placeHolder">Old Password</string>
+    <string name="changePassword_success_text">Password changed successfully.</string>
+    <string name="changePassword_title">Change Password</string>
+    <string name="changePassword_tooLong_text">Too long.</string>
+    <string name="changePassword_tooShort_text">Too short.</string>
+    <string name="channel">群</string>
+    <string name="channelSettings_channelName_placeHolder">Channel name</string>
+    <string name="channelSettings_groupNameError_text">The name taken by others.</string>
+    <string name="channelSettings_title">New Message Channel</string>
+    <string name="channel_is_empty">The channel has been created! Enjoy your chat !</string>
+    <string name="channel_setting">Channel Settings</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="chat_cancel_menu">Cancel</string>
+    <string name="chat_channelCreated_text">The channel has been created! Enjoy your chat !</string>
+    <string name="chat_channelSettings_menu">Channel settings</string>
+    <string name="chat_inviteMember_menu">Invite members</string>
+    <string name="chat_leaveChannelDialog_negativeButton">Stay</string>
+    <string name="chat_leaveChannelDialog_positiveButton">Leave</string>
+    <string name="chat_leaveChannelDialog_text">Are you sure you want to leave this channel?</string>
+    <string name="chat_leaveChannelDialog_title">Leave this channel?</string>
+    <string name="chat_leaveChannel_menu">Leave the channel</string>
+    <string name="chat_removeButton_text">Remove</string>
+    <string name="chat_removeDialogMessage_text">Remove this announcement/messege? It cannot be recovered.</string>
+    <string name="chat_removeDialogTitle_text">Remove</string>
+    <string name="chat_removeDialog_discardButtonText">Discard</string>
+    <string name="chat_removeDialog_removeButtonText">Remove</string>
+    <string name="chat_resendButton_text">Resend</string>
+    <string name="chat_room_ownership_transferred" formatted="false">The ownership of this channel transferred to %PERSON%.</string>
+    <string name="chat_setting">聊天信息</string>
+    <string name="choose">选取</string>
+    <string name="choose_from_photo_album">从手机相册选择</string>
+    <string name="choose_the_user_to_remind">选择提醒的人</string>
+    <string name="clear_empty">清空</string>
+    <string name="click_set">点击设置</string>
+    <string name="close">关闭</string>
+    <string name="coaching_accept_button">Accept</string>
+    <string name="coaching_action_items_add_items_text">Type an action item here</string>
+    <string name="coaching_action_items_attendee_will" formatted="false">"%attendeeName%'s"</string>
+    <string name="coaching_action_items_maximum_items_text">You have reached 5 maximum items.</string>
+    <string name="coaching_action_items_no_items">"There is no action items yet. Let's add one of yours."</string>
+    <string name="coaching_action_items_save_changes">Save Changes</string>
+    <string name="coaching_action_items_title">Action Items</string>
+    <string name="coaching_action_items_you_will">Mine</string>
+    <string name="coaching_cancel_remove_options">Cancel</string>
+    <string name="coaching_create_new_one_dialog_body">Do you want to arrange a new 1:1 session now?</string>
+    <string name="coaching_create_new_one_dialog_negative">No</string>
+    <string name="coaching_create_new_one_dialog_positive">Yes</string>
+    <string name="coaching_create_new_one_dialog_title">Thank you for finishing 1:1.</string>
+    <string name="coaching_create_new_one_now">Schedule Next Session</string>
+    <string name="coaching_create_passed_appointment_text">You are arranging passed appointment date, this session will end automatically.</string>
+    <string name="coaching_create_session_error_description">We are experiencing an internal server problem. Please try again at a later time.</string>
+    <string name="coaching_create_session_error_title">Unable to create 1 On 1 session</string>
+    <string name="coaching_decline_button">Decline</string>
+    <string name="coaching_detail_my_note_label">My shared notes</string>
+    <string name="coaching_detail_next_text">Next</string>
+    <string name="coaching_detail_not_me_note_label" formatted="false">"%name%'s Shared Note"</string>
+    <string name="coaching_detail_previous_text">Previous</string>
+    <string name="coaching_detail_title">1 On 1 Session Details</string>
+    <string name="coaching_discard_change_dialog_body">Are you sure that you want to discard your modifications and leave?</string>
+    <string name="coaching_discard_change_dialog_negative">No</string>
+    <string name="coaching_discard_change_dialog_positive">Yes</string>
+    <string name="coaching_discard_change_dialog_title">Discard Modifications</string>
+    <string name="coaching_duplicated_error_dialog_body">Do you want to review the schedule now?</string>
+    <string name="coaching_duplicated_error_dialog_cancel">Cancel</string>
+    <string name="coaching_duplicated_error_dialog_ok">OK</string>
+    <string name="coaching_duplicated_error_dialog_title" formatted="false">You and %FirstName% already have scheduled a session</string>
+    <string name="coaching_end_session_button">End Session</string>
+    <string name="coaching_end_session_dialog_body">Do you want to end this 1 On 1 session?</string>
+    <string name="coaching_end_session_dialog_negative">No</string>
+    <string name="coaching_end_session_dialog_positive">Yes</string>
+    <string name="coaching_end_session_dialog_title">End Session</string>
+    <string name="coaching_history_detail_date_label">Appointment Date</string>
+    <string name="coaching_history_detail_title" formatted="false">%MM dd% %HH:mm%</string>
+    <string name="coaching_history_list_title">1 On 1 Session History</string>
+    <string name="coaching_history_no_item_label">No 1 On 1 session history</string>
+    <string name="coaching_history_recently_text">Recently</string>
+    <string name="coaching_history_session_with_text" formatted="false">1:1 Sessions with %NAME%</string>
+    <string name="coaching_inprogress_session_label">The session is in progress</string>
+    <string name="coaching_invite_how_often">How often?</string>
+    <string name="coaching_invite_invalid_date">Please make sure that you use valid appointment date</string>
+    <string name="coaching_invite_select_date_time">Select date and time</string>
+    <string name="coaching_invite_select_recurring_period">Select recurring period</string>
+    <string name="coaching_invite_select_team_member">Select team member</string>
+    <string name="coaching_invite_send_button_title">Send</string>
+    <string name="coaching_invite_send_msg">1 On 1 invitation has been sent</string>
+    <string name="coaching_invite_start_date_time">Start date and time</string>
+    <string name="coaching_invite_team_of_colleague">Team member</string>
+    <string name="coaching_invite_title">1 On 1 Invitation</string>
+    <string name="coaching_my_shared_note_hint">Type an agenda or notes here</string>
+    <string name="coaching_no_later_session_text">- No upcoming 1 On 1 sessions -</string>
+    <string name="coaching_no_missing_session_text">- No missed 1 On 1 sessions -</string>
+    <string name="coaching_no_today_session_text">- No 1 On 1 sessions today -</string>
+    <string name="coaching_no_unschedule_session_text">- You have scheduled 1 On 1 sessions with all of your team members -</string>
+    <string name="coaching_remove_dialog_body">Are you sure that you want to remove this session?</string>
+    <string name="coaching_remove_dialog_negative">No</string>
+    <string name="coaching_remove_dialog_positive">Yes</string>
+    <string name="coaching_remove_dialog_title">Remove Session</string>
+    <string name="coaching_remove_menu_label">Remove this session</string>
+    <string name="coaching_save_session_button">Save</string>
+    <string name="coaching_schedule_createButton_text">Schedule new 1 On 1 session</string>
+    <string name="coaching_schedule_create_now_text">Schedule a session now!</string>
+    <string name="coaching_schedule_date_format" formatted="false">%MM dd% %HH:mm%</string>
+    <string name="coaching_schedule_later_section_title">Later</string>
+    <string name="coaching_schedule_missing_text">Missed</string>
+    <string name="coaching_schedule_next_week_section_title">Next week</string>
+    <string name="coaching_schedule_no_schedules_text">Not Yet Scheduled</string>
+    <string name="coaching_schedule_specific_day_format" formatted="false">%EEE% %HH:mm%</string>
+    <string name="coaching_schedule_this_week_section_title">This week</string>
+    <string name="coaching_schedule_title">1 On 1 Coaching</string>
+    <string name="coaching_schedule_today_date_format" formatted="false">Today %HH:mm%</string>
+    <string name="coaching_schedule_today_section_title">Today</string>
+    <string name="coaching_schedule_tomorrow_date_format" formatted="false">Tomorrow %HH:mm%</string>
+    <string name="coaching_schedule_upcoming_text">Upcoming</string>
+    <string name="coaching_session_date_dateFormat">DateFormat.MEDIUM</string>
+    <string name="coaching_session_date_timeFormat">DateFormat.SHORT</string>
+    <string name="coaching_start_session_button">Start Session</string>
+    <string name="coaching_status_accept_label">Accepted</string>
+    <string name="coaching_status_cancel_label">Cancelled</string>
+    <string name="coaching_status_decline_label">Declined</string>
+    <string name="coaching_status_end_label">Ended</string>
+    <string name="coaching_status_invite_label">Invited</string>
+    <string name="coaching_status_label">Status</string>
+    <string name="coaching_status_missing_label">Missed</string>
+    <string name="coaching_status_start_label">Started</string>
+    <string name="coaching_upcoming_label">Upcoming</string>
+    <string name="coaching_update_status_error_dialog_body">"Don't worry, we can help you out by updating the latest session status."</string>
+    <string name="coaching_update_status_error_dialog_ok">OK</string>
+    <string name="coaching_update_status_error_dialog_title">The session status has been changed</string>
+    <string name="color_formatter" formatted="false">"&lt;font color='%COLOR%'>%TEXT%&lt;/font>"</string>
+    <string name="com.crashlytics.android.build_id">9d2b8d06-1ff4-45ed-8bf2-52fda54e0dd3</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="companyLogin_companyName_label" formatted="false">Your company name: %DOMAIN_ADDRESS%</string>
+    <string name="companyLogin_companyName_placeholder" formatted="false">%DOMAIN_ADDRESS%</string>
+    <string name="companyLogin_invalidDomain_label">Invalid company name</string>
+    <string name="companyLogin_next_button">Next</string>
+    <string name="companyLogin_textField_placeholder">Enter your company name</string>
+    <string name="connect_vedio_device_fail">无法连接视频设备 ，请稍候再试</string>
+    <string name="constructive_feedback_category_placeholder">Select a feedback topic</string>
+    <string name="constructive_feedback_desc_placeholder">Please specify: 1. What occurred? 2. Consequences 3. Corrective actions to do better</string>
+    <string name="constructive_feedback_sendto">To :</string>
+    <string name="constructive_feedback_sent_successfully">Sent successfully.</string>
+    <string name="constructive_feedback_title">Send Employee Feedback</string>
+    <string name="contact_selector">联系人选择器</string>
+    <string name="copy_has_blank">Copy</string>
+    <string name="create">新建</string>
+    <string name="createChannel_members_label">Members</string>
+    <string name="create_advanced_team">创建高级群</string>
+    <string name="create_team">创建群</string>
+    <string name="create_team_failed">创建失败</string>
+    <string name="create_team_success">创建成功</string>
+    <string name="crop">裁剪</string>
+    <string name="custom_type_message">Custom Type Message</string>
+    <string name="dashboard_aboutMenu_text">About</string>
+    <string name="dashboard_announcement_plural_messages">Unread announcements</string>
+    <string name="dashboard_archive_title">News History</string>
+    <string name="dashboard_assignment_text">Assignment</string>
+    <string name="dashboard_awesome_text">Awesome</string>
+    <string name="dashboard_careerPathTitleTab_text">Career Path</string>
+    <string name="dashboard_chartNoData_text">No Data Available</string>
+    <string name="dashboard_communication_title">Communication</string>
+    <string name="dashboard_cool_text">Cool</string>
+    <string name="dashboard_dashboardTitle_text">Home</string>
+    <string name="dashboard_good_text">Good Start</string>
+    <string name="dashboard_latest_announcement_date" formatted="false">%yyyy/MMM/dd% %HH:mm%</string>
+    <string name="dashboard_latest_announcement_date_dateFormat">DateFormat.LONG</string>
+    <string name="dashboard_latest_announcement_date_timeFormat">DateFormat.SHORT</string>
+    <string name="dashboard_latest_announcement_one_message">Unread announcement</string>
+    <string name="dashboard_lesson_text">Lesson</string>
+    <string name="dashboard_logOutDialog_message">Are you sure you want to log out AMPOS ERM?</string>
+    <string name="dashboard_logOutDialog_negativeButton">Cancel</string>
+    <string name="dashboard_logOutDialog_positiveButton">Log Out</string>
+    <string name="dashboard_logOutDialog_title">Log Out</string>
+    <string name="dashboard_logOutMenu_text">Log Out</string>
+    <string name="dashboard_meMenu_text">Me</string>
+    <string name="dashboard_messageMenu_text">Message</string>
+    <string name="dashboard_moreMenu_text">More</string>
+    <string name="dashboard_newAnnouncement_text">Total announcement</string>
+    <string name="dashboard_newAssignment_text">New assignment</string>
+    <string name="dashboard_newGift_text">New gift launched!</string>
+    <string name="dashboard_newStar_text">Star you got</string>
+    <string name="dashboard_new_lesson_text">New Lesson</string>
+    <string name="dashboard_passwordMenu_text">Change Password</string>
+    <string name="dashboard_received_text">Received</string>
+    <string name="dashboard_rewardTitleTab_text">Reward</string>
+    <string name="dashboard_reward_title">Reward</string>
+    <string name="dashboard_sendStars_text">Send Stars!</string>
+    <string name="dashboard_sent_text">Sent</string>
+    <string name="dashboard_survey_subtitle">Take it now!</string>
+    <string name="dashboard_survey_title">Survey</string>
+    <string name="dashboard_todayCoaching_text">Start now!</string>
+    <string name="dashboard_topNewsNodata_text">Hooray! No news today! Stay tuned!</string>
+    <string name="dashboard_topNews_text">Top News Today</string>
+    <string name="dashboard_topNews_timeFormat">DateFormat.SHORT</string>
+    <string name="dashboard_trainingTitle_text">Learning</string>
+    <string name="dashboard_training_failed">Failed</string>
+    <string name="dashboard_training_finished">Completed</string>
+    <string name="dashboard_training_inProgress">In Progress</string>
+    <string name="dashboard_training_open">Open</string>
+    <string name="dashboard_training_overdue">Overdue</string>
+    <string name="dashboard_training_title">Learning</string>
+    <string name="dashboard_tryMore_text">Try More</string>
+    <string name="default_web_client_id">916430861932-bjmm42205niog63a0069hvqdikv4h5iu.apps.googleusercontent.com</string>
+    <string name="define_roundedimageview" />
+    <string name="delete_has_blank">Delete</string>
+    <string name="dialog_content_confirm_leave_channel">Are you sure you want to leave this channel?</string>
+    <string name="dialog_leave_channel">Leave this channel?</string>
+    <string name="directReportDetail_badges">Badges</string>
+    <string name="directReportDetail_jobLevel_text">Job Level</string>
+    <string name="directReportDetail_jobRole_text">Job Role</string>
+    <string name="directReportDetail_title">Employee</string>
+    <string name="directReportList_title">My Team</string>
+    <string name="directReport_userInfo_text_empty">--</string>
+    <string name="discard_button">Discard</string>
+    <string name="dismiss_team">解散本群</string>
+    <string name="dismiss_team_failed">解散群失败</string>
+    <string name="dismiss_team_success">群已解散</string>
+    <string name="displayName_text_empty">--</string>
+    <string name="division">Filters</string>
+    <string name="download_picture_fail">Download image fail</string>
+    <string name="download_progress_description">%1$s（%2$s/%3$s）</string>
+    <string name="download_video">正在下载视频</string>
+    <string name="download_video_fail">视频下载失败,请重试</string>
+    <string name="edit">编辑</string>
+    <string name="empty" />
+    <string name="encourage_chat">还没有会话，在通讯录中找个人聊聊吧！</string>
+    <string name="errorDialog_assignmentCreationRejected_description">Some assignees don’t have permission to access the course/lesson assigned. Please remove either assignee or course/lesson.</string>
+    <string name="errorDialog_assignmentCreationRejected_description_rejectedItem" formatted="false">- %FIRST_NAME% %LAST_NAME% - %COURSE_NAME% - %LESSON_NAME%</string>
+    <string name="errorDialog_assignmentCreationRejected_title">No permission</string>
+    <string name="errorDialog_badConnection_description">Please make sure your Internet connection is stable and try again.</string>
+    <string name="errorDialog_badConnection_title">Unstable Network Connection</string>
+    <string name="errorDialog_dateSelection_description">Please select a date after TODAY.</string>
+    <string name="errorDialog_dismissButton_text">OK</string>
+    <string name="errorDialog_noConnection_description">"Please make sure you're connected to the Internet."</string>
+    <string name="errorDialog_noConnection_title">No Internet Connection</string>
+    <string name="errorDialog_noPermission_description">"You don't have permission to do this. Please leave and contact AMPOS WebAdmin."</string>
+    <string name="errorDialog_noPermission_title">No permission</string>
+    <string name="errorDialog_unableToSendData">Unable to send data</string>
+    <string name="errorDialog_unableToSendData_discard">Discard</string>
+    <string name="errorDialog_unableToSendData_retry">Retry</string>
+    <string name="errorDialog_unknown_description">We have encountered an error. Please try again at a later time.</string>
+    <string name="errorDialog_unknown_title">Error</string>
+    <string name="errorPage_badConnection_description">Please make sure your Internet connection is stable and try again.</string>
+    <string name="errorPage_badConnection_title">Unstable Network Connection</string>
+    <string name="errorPage_forceUpdate_description">To continue using the App, please update to the latest version.</string>
+    <string name="errorPage_forceUpdate_title">Please Update the App</string>
+    <string name="errorPage_forceUpdate_updateButton_text">Update</string>
+    <string name="errorPage_noConnection_description">"Please make sure you're connected to the Internet."</string>
+    <string name="errorPage_noConnection_title">No Internet Connection</string>
+    <string name="errorPage_retryButton_text">Retry</string>
+    <string name="errorPage_systemMaintenance_description">Our system now is under maintenance, please come back soon. Thank you.</string>
+    <string name="errorPage_systemMaintenance_title">System Maintenance</string>
+    <string name="errorPage_unknown_description">We have encountered an error. Please try again at a later time.</string>
+    <string name="errorPage_unknown_title">Error</string>
+    <string name="errorSnackBar_badConnection_text">Unstable Network Connection.</string>
+    <string name="errorSnackBar_noConnection_text">No Internet connection.</string>
+    <string name="errorSnackBar_retryButton_text">Retry</string>
+    <string name="errorSnackBar_unknown_text">An error occurred</string>
+    <string name="error_noContent_text">No Content</string>
+    <string name="exo_controls_fastforward_description">Fast forward</string>
+    <string name="exo_controls_next_description">Next track</string>
+    <string name="exo_controls_pause_description">Pause</string>
+    <string name="exo_controls_play_description">Play</string>
+    <string name="exo_controls_previous_description">Previous track</string>
+    <string name="exo_controls_rewind_description">Rewind</string>
+    <string name="exo_controls_stop_description">Stop</string>
+    <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
+    <string name="file_transfer_state_downloaded">已下载</string>
+    <string name="file_transfer_state_undownload">未下载</string>
+    <string name="firebase_database_url">https://bluecrystal-android-5e72a.firebaseio.com</string>
+    <string name="forward_to_person">转发到个人</string>
+    <string name="forward_to_team">转发到群组</string>
+    <string name="friday">星期五</string>
+    <string name="friendList_branchName_text" formatted="false">%BRANCH_NAME%</string>
+    <string name="friendList_emptyFriendInBranch_text">Please check the criteria you set.</string>
+    <string name="friendList_name_text" formatted="false">%NAME%</string>
+    <string name="friendList_title">Select a Friend</string>
+    <string name="friendlist_filter_all_branch_text">All Branches</string>
+    <string name="friendlist_filter_all_department_text">All Departments</string>
+    <string name="friendlist_filter_all_text">All</string>
+    <string name="friendlist_filter_branch_text">By Branch</string>
+    <string name="friendlist_filter_byBranch_text">Matched by branch</string>
+    <string name="friendlist_filter_byDepartment_text">Matched by department</string>
+    <string name="friendlist_filter_byName_text">Matched by name</string>
+    <string name="friendlist_filter_department_text">By Department</string>
+    <string name="fts_enable">全文检索(FTS4)</string>
+    <string name="fts_prefix_hit">前缀匹配高亮检索结果</string>
+    <string name="fullName_format" formatted="false">%FIRST_NAME% %LAST_NAME%</string>
+    <string name="gallery_invalid">你的手机没有图库程序</string>
+    <string name="gcm_defaultSenderId">916430861932</string>
+    <string name="google_api_key">AIzaSyDBd-mqi_da11LYUi044Dfz0s4sllM5VU4</string>
+    <string name="google_app_id">1:916430861932:android:e9246632da53934d</string>
+    <string name="google_crash_reporting_api_key">AIzaSyDBd-mqi_da11LYUi044Dfz0s4sllM5VU4</string>
+    <string name="google_storage_bucket">bluecrystal-android-5e72a.appspot.com</string>
+    <string name="hour">小时</string>
+    <string name="hr_feedback_anonymous_description_text">Your name will NOT be record if you check anonymous. Uncheck it if you need reply.</string>
+    <string name="hr_feedback_anonymous_text">Anonymous</string>
+    <string name="hr_feedback_category_selector_placeholder">Select category</string>
+    <string name="hr_feedback_description_placeholder">Write Description (Optional)</string>
+    <string name="hr_feedback_sent_successfully">Sent successfully.</string>
+    <string name="hr_feedback_title">Send HR Feedback</string>
+    <string name="hr_feedback_title_placeholder">Write Title</string>
+    <string name="iknow">知道了</string>
+    <string name="im_choose_pic">请选择JPG PNG BMP GIF格式的图片文件</string>
+    <string name="im_choose_video">请选择3GP MP4格式的视频文件</string>
+    <string name="im_choose_video_file_size_too_large">视频文件过大，系统限制为20MB</string>
+    <string name="image_compressed_size">该原始图片大小为: %1$s,</string>
+    <string name="image_show_error">图片显示异常</string>
+    <string name="input_panel_gallery">Gallery</string>
+    <string name="input_panel_location">位 置</string>
+    <string name="input_panel_photo">Image</string>
+    <string name="input_panel_take">Take Photo</string>
+    <string name="input_panel_take_photo">Take Photo</string>
+    <string name="input_panel_video">Video</string>
+    <string name="invite_member">邀请成员</string>
+    <string name="invite_member_failed">邀请成员失败</string>
+    <string name="invite_member_success">邀请成员成功</string>
+    <string name="is_send_image">是否发送该原始图片？</string>
+    <string name="is_send_multi_image">是否发送这些原始图片？</string>
+    <string name="is_send_video">是否发送该视频？</string>
+    <string name="late_night">late night</string>
+    <string name="leaderBoard_branch_textFormat" formatted="false">%PLACE%</string>
+    <string name="leaderBoard_candyHave_textFormat" formatted="false">%CANDY_HAVE%</string>
+    <string name="leaderBoard_name_textFormat" formatted="false">%FIRST_NAME% %LAST_NAME%</string>
+    <string name="leaderBoard_noData_message">"Nobody has sent any stars. Let's be the first one to do!"</string>
+    <string name="leaderBoard_receiver_text">Top Receiver</string>
+    <string name="leaderBoard_rewardGifts_format" formatted="false">%LINK_TEXT% for reward gift list.</string>
+    <string name="leaderBoard_rewardGifts_link_text">Please tap here</string>
+    <string name="leaderBoard_rewardURL_text">Please tab here for reward gift list.</string>
+    <string name="leaderBoard_sender_text">Top Sender</string>
+    <string name="leave_button">Leave</string>
+    <string name="leave_channel">Leave the Channel</string>
+    <string name="leave_channel_confirm_text">Are you sure you want to leave this channel?</string>
+    <string name="leave_channel_title">Leave this channel?</string>
+    <string name="lessonStatus_completed_text">Completed</string>
+    <string name="lessonStatus_failed_text">Failed</string>
+    <string name="lessonStatus_inProgress_text">In progress</string>
+    <string name="lessonStatus_open_text">Open</string>
+    <string name="lesson_progress_text" formatted="false">%PROGRESS% %</string>
+    <string name="library_roundedimageview_author">Vince Mi</string>
+    <string name="library_roundedimageview_authorWebsite">https://github.com/vinc3m1</string>
+    <string name="library_roundedimageview_isOpenSource">true</string>
+    <string name="library_roundedimageview_libraryDescription">A fast ImageView (and Drawable) that supports rounded corners (and ovals or circles) based on the original example from Romain Guy.</string>
+    <string name="library_roundedimageview_libraryName">RoundedImageView</string>
+    <string name="library_roundedimageview_libraryVersion">1.3.0</string>
+    <string name="library_roundedimageview_libraryWebsite">https://github.com/vinc3m1/RoundedImageView</string>
+    <string name="library_roundedimageview_licenseId">apache_2_0</string>
+    <string name="library_roundedimageview_repositoryLink">https://github.com/vinc3m1/RoundedImageView.git</string>
+    <string name="load_end">No more data</string>
+    <string name="load_failed">load more failed</string>
+    <string name="loading">Loading...</string>
+    <string name="login_errorLabel_text">Invalid ID/password.</string>
+    <string name="login_loginButton_text">Log In</string>
+    <string name="login_passwordTextField_placeholder">Enter your password</string>
+    <string name="login_resetPassword_text">"Can't login?"</string>
+    <string name="login_usernameTextField_placeholder">Enter your ID</string>
+    <string name="look_up_original_photo_format">查看原图（%s）</string>
+    <string name="look_video_fail">无法播放该视频</string>
+    <string name="look_video_fail_try_again">暂时无法播放视频，请重试</string>
+    <string name="main_msg_list_clear_sticky_on_top">取消置顶</string>
+    <string name="main_msg_list_delete_chatting">删除该聊天</string>
+    <string name="main_msg_list_sticky_on_top">置顶该聊天</string>
+    <string name="matched_by_division">Matched by division</string>
+    <string name="me">Me</string>
+    <string name="member_left_channel" formatted="false">%PERSON% just left the channel.</string>
+    <string name="memory_out">内存不足</string>
+    <string name="menu">菜单</string>
+    <string name="message_recallDialogMessage_text">Are you sure you want to recall this message? This cannot be undone.</string>
+    <string name="message_recallDialogTitle_text">Recall Message</string>
+    <string name="message_search_no_result">无结果</string>
+    <string name="message_search_title">查看聊天内容</string>
+    <string name="messaging_ReadMyPin_button_text">Read My Pin</string>
+    <string name="messaging_allCompanyChannel_text">Entire Company</string>
+    <string name="messaging_announcementMenu_text">Announcement</string>
+    <string name="messaging_avatarSelection_title">Select channel picture</string>
+    <string name="messaging_createOneOnOne_title">New 1:1 Chat</string>
+    <string name="messaging_inviteMember_title">Invite members</string>
+    <string name="messaging_login_fail_snackbar_text">Messaging Login Fail</string>
+    <string name="messaging_menu_title">Communication</string>
+    <string name="messaging_more_cancelButton_text">Cancel</string>
+    <string name="messaging_muteChannel_menu">Mute message</string>
+    <string name="messaging_newChatChannel_button_text">New message channel</string>
+    <string name="messaging_title">Comm.</string>
+    <string name="messaging_unmuteChannel_menu">Unmute message</string>
+    <string name="minute">分</string>
+    <string name="monday">星期一</string>
+    <string name="moreMenu_section1_text">Personal Service</string>
+    <string name="moreMenu_section2_text">Company Tools</string>
+    <string name="moreMenu_section3_text">Settings</string>
+    <string name="more_menu_coaching">1 On 1 Coaching</string>
+    <string name="morning">morning</string>
+    <string name="msg_search">全文检索</string>
+    <string name="msg_search_limit">全文检索显示条数</string>
+    <string name="msg_type_audio">语音</string>
+    <string name="msg_type_image">图片</string>
+    <string name="multi_image_compressed_size">原始图片总大小为: %1$s,</string>
+    <string name="mute_msg">设置禁言</string>
+    <string name="my_account_title_name">我的电脑</string>
+    <string name="my_team_card">我的群名片</string>
+    <string name="network_is_not_available">The network connection failed, please check your network settings</string>
+    <string name="newAnnouncement_attachFiles">Attach files</string>
+    <string name="newAnnouncement_discard_description">Are you sure you want to leave? Your announcement will be discarded</string>
+    <string name="newAnnouncement_discard_discardButton">Discard</string>
+    <string name="newAnnouncement_discard_stayButton">Stay</string>
+    <string name="newAnnouncement_discard_title">Leave this page?</string>
+    <string name="newAnnouncement_loadingAttachment">Loading...</string>
+    <string name="newAnnouncement_send">Send</string>
+    <string name="newAnnouncement_total">Total:</string>
+    <string name="newAnnouncement_uploadAttachmentRetry">Tab to retry</string>
+    <string name="night">night</string>
+    <string name="no_camera_on_device">No camera on device</string>
+    <string name="no_permission">没有权限</string>
+    <string name="normal_team">讨论组</string>
+    <string name="normal_team_invalid_tip">You have left the channel</string>
+    <string name="normal_team_name">讨论组名称</string>
+    <string name="normal_team_not_exist">该讨论组不存在</string>
+    <string name="not_allow_empty">不能为空</string>
+    <string name="notification_announcement_title">You have a new announcement</string>
+    <string name="notification_assignmentCreatedForAssignee_text" formatted="false">%ASSIGNMENT_TITLE%.</string>
+    <string name="notification_assignmentCreatedForAssignee_title">You have an assignment:</string>
+    <string name="notification_assignmentCreatedForReporter_text" formatted="false">%ASSIGNMENT_TITLE%.</string>
+    <string name="notification_assignmentCreatedForReporter_title">An assignment reported to you:</string>
+    <string name="notification_assignmentDeletedForAssignee_text" formatted="false">%ASSIGNMENT_TITLE%.</string>
+    <string name="notification_assignmentDeletedForAssignee_title">Your assignment has been deleted:</string>
+    <string name="notification_assignmentDeletedForReporter_text" formatted="false">%ASSIGNMENT_TITLE%.</string>
+    <string name="notification_assignmentDeletedForReporter_title">The assignment reported to you has been deleted:</string>
+    <string name="notification_assignmentOverdue_text" formatted="false">going to be overdue in %NUM% day(s)!</string>
+    <string name="notification_assignmentOverdue_title">Assignment(s)</string>
+    <string name="notification_assignmentPassedForAssigner_text" formatted="false">%ASSIGNMENT_TITLE%</string>
+    <string name="notification_assignmentPassedForAssigner_title" formatted="false">%FIRST_NAME% %LAST_NAME% has passed assignment:</string>
+    <string name="notification_badgeReceived_text" formatted="false">Earned a badge %BG_NAME%</string>
+    <string name="notification_badgeReceived_title">Congratulations!</string>
+    <string name="notification_blank_text" />
+    <string name="notification_coaching_accepted_text" formatted="false">From %FIRST_NAME% %LAST_NAME%</string>
+    <string name="notification_coaching_accepted_title">Your 1 on 1s session has been accepted</string>
+    <string name="notification_coaching_auto_end_text" formatted="false">From %FIRST_NAME% %LAST_NAME%</string>
+    <string name="notification_coaching_auto_end_title">Your 1 on 1s session has ended (automatically)</string>
+    <string name="notification_coaching_cancelled_text" formatted="false">From %FIRST_NAME% %LAST_NAME%</string>
+    <string name="notification_coaching_cancelled_title">Your 1 on 1s session has been cancelled</string>
+    <string name="notification_coaching_declined_text" formatted="false">From %FIRST_NAME% %LAST_NAME%</string>
+    <string name="notification_coaching_declined_title">Your 1 on 1s session has been declined</string>
+    <string name="notification_coaching_ended_text" formatted="false">From %FIRST_NAME% %LAST_NAME%</string>
+    <string name="notification_coaching_ended_title">Your 1 on 1s session has ended</string>
+    <string name="notification_coaching_invited_text" formatted="false">From %FIRST_NAME% %LAST_NAME%</string>
+    <string name="notification_coaching_invited_title">You have been invited to 1 on 1s session</string>
+    <string name="notification_coaching_reminder_text" formatted="false">From %FIRST_NAME% %LAST_NAME%</string>
+    <string name="notification_coaching_reminder_title">Your 1 on 1s session is coming soon</string>
+    <string name="notification_coaching_reschedule_text" formatted="false">From %FIRST_NAME% %LAST_NAME%</string>
+    <string name="notification_coaching_reschedule_title">Your 1 on 1s session has rescheduled</string>
+    <string name="notification_coaching_running_text" formatted="false">With %FIRST_NAME% %LAST_NAME%</string>
+    <string name="notification_coaching_running_title">Your 1 on 1s session is now running</string>
+    <string name="notification_coaching_started_text" formatted="false">From %FIRST_NAME% %LAST_NAME%</string>
+    <string name="notification_coaching_started_title">Your 1 on 1s session has started</string>
+    <string name="notification_coaching_timer" formatted="false">Your 1 on 1s session is now %duration% minutes passed</string>
+    <string name="notification_imageMessageReceive_text">(Image)</string>
+    <string name="notification_message_ANNOUNCEMENT" formatted="false">%MESSAGE%</string>
+    <string name="notification_message_MESSAGE_RECEIVED" formatted="false">%MESSAGE%</string>
+    <string name="notification_message_UPDATE_AVAILABLE">New version available</string>
+    <string name="notification_multipleRewardDescription_text" formatted="false">Sent you %CANDY_AMT% stars.</string>
+    <string name="notification_receivingReminder_text">Do something good to receive star!</string>
+    <string name="notification_receivingReminder_title">You haven’t received star for awhile.</string>
+    <string name="notification_remaining_reward_quota_text">"You have available quota left. Let's send star!"</string>
+    <string name="notification_sendingReminder_text">Sent some stars to your friends!</string>
+    <string name="notification_sendingReminder_title">You haven’t sent star for awhile.</string>
+    <string name="notification_singleRewardDescription_text">Sent you a star.</string>
+    <string name="notification_stickerMessageReceive_text">(Sticker)</string>
+    <string name="notification_survey_received_text" formatted="false">%SUBJECT_SURVEY%</string>
+    <string name="notification_survey_received_title">You have received a survey:</string>
+    <string name="notification_taskCreatedForAssignee_text" formatted="false">%TASK_TITLE%</string>
+    <string name="notification_taskCreatedForAssignee_title">You have a task assignment</string>
+    <string name="notification_taskOverdue_text" formatted="false">%TASK_TITLE% going to be overdue in %NUM% day(s)!</string>
+    <string name="notification_taskOverdue_title">Task assignment</string>
+    <string name="notification_title_ANNOUNCEMENT" formatted="false">%TITLE%</string>
+    <string name="notification_title_UPDATE_AVAILABLE">New version available</string>
+    <string name="notification_title_text" formatted="false">%FIRST_NAME% %LAST_NAME%</string>
+    <string name="now_allow_space">不能含有空格</string>
+    <string name="num_of_related_chat_record">%d条相关聊天记录</string>
+    <string name="ok">OK</string>
+    <string name="online_test_confirm_exit_back">Back</string>
+    <string name="online_test_confirm_exit_leave">Leave</string>
+    <string name="online_test_confirm_exit_text">Are you sure to leave the test? The progress will NOT be saved.</string>
+    <string name="online_test_confirm_exit_title">Leave The Test</string>
+    <string name="online_test_fail">"You've failed!"</string>
+    <string name="online_test_hide_score_text">You have successfully completed all questions</string>
+    <string name="online_test_pass">"You've passed! Congratulations!"</string>
+    <string name="online_test_your_score">Your Score</string>
+    <string name="open">开启</string>
+    <string name="over_team_capacity">创建失败，创建群数量达到限制</string>
+    <string name="over_team_member_capacity">邀请失败，成员人数上限为%1$d人</string>
+    <string name="password_toggle_content_description">Toggle password visibility</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="people">人</string>
+    <string name="picker_image_album_empty">相册中没有图片！</string>
+    <string name="picker_image_album_loading">相册加载中…</string>
+    <string name="picker_image_error">获取图片出错</string>
+    <string name="picker_image_exceed_max_image_select">最多选择%d张图片！</string>
+    <string name="picker_image_folder">相册</string>
+    <string name="picker_image_folder_info">共%d张</string>
+    <string name="picker_image_preview">预览</string>
+    <string name="picker_image_preview_original">发送原图</string>
+    <string name="picker_image_preview_original_select">发送原图（%s）</string>
+    <string name="picker_image_send">发送</string>
+    <string name="picker_image_send_select">完成（%d）</string>
+    <string name="picture_save_fail">Save failed</string>
+    <string name="picture_save_to">Saved</string>
+    <string name="pm">PM</string>
+    <string name="positionList_youAreHereText_text">You are here!</string>
+    <string name="profilePage_address_editText" formatted="false">%ADDRESS%</string>
+    <string name="profilePage_address_text">Address</string>
+    <string name="profilePage_badge_text">My Badges</string>
+    <string name="profilePage_birthday_formatText" formatted="false">%yyyy/MMM/dd%</string>
+    <string name="profilePage_birthday_text">Birthday</string>
+    <string name="profilePage_branch_editText" formatted="false">%BRANCH%</string>
+    <string name="profilePage_branch_text">Branch</string>
+    <string name="profilePage_cancelButton_text">Cancel</string>
+    <string name="profilePage_cancel_text">Cancel</string>
+    <string name="profilePage_changePhoto_text">Change Photo</string>
+    <string name="profilePage_chooseFromGallery_text">Choose from Gallery</string>
+    <string name="profilePage_city_editText" formatted="false">%CITY%</string>
+    <string name="profilePage_city_text">City</string>
+    <string name="profilePage_country_editText" formatted="false">%COUNTRY%</string>
+    <string name="profilePage_country_text">Country</string>
+    <string name="profilePage_crop_text">Crop</string>
+    <string name="profilePage_dateFormat">DateFormat.MEDIUM</string>
+    <string name="profilePage_department_editText" formatted="false">%JOB_CLASS%</string>
+    <string name="profilePage_department_text">Department</string>
+    <string name="profilePage_division_text">Division</string>
+    <string name="profilePage_doneButton_text">Done</string>
+    <string name="profilePage_editButton_text">Edit</string>
+    <string name="profilePage_email_editText" formatted="false">%EMAIL_ADD%</string>
+    <string name="profilePage_email_text">Email</string>
+    <string name="profilePage_employeeId_editText" formatted="false">%EMP_ID%</string>
+    <string name="profilePage_employeeId_text">Employee ID</string>
+    <string name="profilePage_firstName_editText" formatted="false">%FIRST_NAME%</string>
+    <string name="profilePage_firstName_text">First Name</string>
+    <string name="profilePage_genderFemale_text">Female</string>
+    <string name="profilePage_genderMale_text">Male</string>
+    <string name="profilePage_gender_editText" formatted="false">%GENDER%</string>
+    <string name="profilePage_gender_text">Gender</string>
+    <string name="profilePage_jobTitle_editText" formatted="false">%JOB_LEVEL%</string>
+    <string name="profilePage_jobTitle_text">Job Title</string>
+    <string name="profilePage_lastName_editText" formatted="false">%LAST_NAME%</string>
+    <string name="profilePage_lastName_text">Last Name</string>
+    <string name="profilePage_mobileNumber_editText" formatted="false">%MOBILE_NUM%</string>
+    <string name="profilePage_mobileNumber_text">Mobile</string>
+    <string name="profilePage_onBoardDate_formatText" formatted="false">%yyyy/MMM/dd%</string>
+    <string name="profilePage_onBoardDate_text">On-Board Date</string>
+    <string name="profilePage_postalCode_editText" formatted="false">%POSTAL%</string>
+    <string name="profilePage_postalCode_text">Postal Code</string>
+    <string name="profilePage_preferredName_editText" formatted="false">%PRE_NAME%</string>
+    <string name="profilePage_preferredName_text">Preferred Name</string>
+    <string name="profilePage_province_editText" formatted="false">%PROVINCE%</string>
+    <string name="profilePage_province_text">Province</string>
+    <string name="profilePage_regionCode_text" formatted="false">%REGION_CODE%</string>
+    <string name="profilePage_region_editText" formatted="false">%REGION%</string>
+    <string name="profilePage_region_text">Region</string>
+    <string name="profilePage_saveSuccess_text">Saved successfully.</string>
+    <string name="profilePage_supervisorName_text">Supervisor Name</string>
+    <string name="profilePage_takePhoto_text">Take Photo</string>
+    <string name="project_id">bluecrystal-android-5e72a</string>
+    <string name="pull_to_refresh_from_bottom_pull_label">@string/pull_to_refresh_up</string>
+    <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing</string>
+    <string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release</string>
+    <string name="pull_to_refresh_pull">下拉刷新</string>
+    <string name="pull_to_refresh_pull_label">@string/pull_to_refresh_pull</string>
+    <string name="pull_to_refresh_refreshing">加载中…</string>
+    <string name="pull_to_refresh_refreshing_label">@string/pull_to_refresh_refreshing</string>
+    <string name="pull_to_refresh_release">松开刷新</string>
+    <string name="pull_to_refresh_release_label">@string/pull_to_refresh_release</string>
+    <string name="pull_to_refresh_up">上拉刷新</string>
+    <string name="quit_normal_team">退出讨论组</string>
+    <string name="quit_normal_team_failed">退出讨论组失败</string>
+    <string name="quit_normal_team_success">您已经退出讨论组</string>
+    <string name="quit_team">退出群</string>
+    <string name="quit_team_failed">退群失败</string>
+    <string name="quit_team_success">您已退群</string>
+    <string name="reach_team_member_capacity">成员数量不能超过%1$d</string>
+    <string name="read_text">read</string>
+    <string name="readed">已读</string>
+    <string name="recapture">重拍</string>
+    <string name="record_audio">按住 说话</string>
+    <string name="record_audio_end">松开 结束</string>
+    <string name="recording_cancel">手指上滑，取消发送</string>
+    <string name="recording_cancel_tip">松开手指，取消发送</string>
+    <string name="recording_error">录音失败，请重试</string>
+    <string name="recording_init_failed">初始化录音失败</string>
+    <string name="recording_max_time">录音达到最大时间，是否发送？</string>
+    <string name="redemption_candyAvailable">Star Available</string>
+    <string name="redemption_checkoutButton_text">Checkout</string>
+    <string name="redemption_confirmRedeem" formatted="false">You are going to redeem %CANDY_FOR_CHECKOUT% stars for %GIFT_AMOUNT% of %GIFT_NAME%. The company will notify you when your gift arrives!</string>
+    <string name="redemption_confirmRedeem_negativeButton">Cancel</string>
+    <string name="redemption_confirmRedeem_positiveButton">OK</string>
+    <string name="redemption_confirmRedeem_title">Confirm Redemption</string>
+    <string name="redemption_giftItem_name" formatted="false">%GIFT_NAME%</string>
+    <string name="redemption_giftItem_price" formatted="false">%CANDY_PRICE%</string>
+    <string name="redemption_gift_sold_out">This gift has been sold out.</string>
+    <string name="redemption_history_dateTime_text" formatted="false">Date/Time: %DATE%, %TIME%</string>
+    <string name="redemption_history_date_dateFormat">DateFormat.MEDIUM</string>
+    <string name="redemption_history_date_timeFormat">DateFormat.SHORT</string>
+    <string name="redemption_history_empty_text">No redemption history. Try to redeem some gift by stars!</string>
+    <string name="redemption_history_starUsed_text" formatted="false">Star used: %STAR_COUNT%</string>
+    <string name="redemption_history_title">Redemption History</string>
+    <string name="redemption_item_sold_out">Sold Out</string>
+    <string name="redemption_noGift_description">No gift is provided now. Please check back later.</string>
+    <string name="redemption_noGift_title">No Gift Now.</string>
+    <string name="redemption_redeemErrorButton_text">OK</string>
+    <string name="redemption_redeemError_description">Some unusual event has happened during the redemption process. Please check your star amount and try again.</string>
+    <string name="redemption_redeemError_title">Cannot Finish Redemption</string>
+    <string name="redemption_sold_out_text">Sold out</string>
+    <string name="redemption_spentCandy">You will spend</string>
+    <string name="remove">移除</string>
+    <string name="remove_action_menu">Remove</string>
+    <string name="remove_button">Remove</string>
+    <string name="remove_confirmation_text">Remove this announcement/messege? It cannot be recovered.</string>
+    <string name="remove_member">移出本群</string>
+    <string name="remove_member_failed">移除成员失败</string>
+    <string name="remove_member_success">移除成员成功</string>
+    <string name="remove_title">Remove</string>
+    <string name="repeat_download_message">Do you want to download again?</string>
+    <string name="repeat_send_has_blank">Resend</string>
+    <string name="repeat_send_message">Resend Message?</string>
+    <string name="require_photo_library_permission">Require photo library permission</string>
+    <string name="resend_action_menu">Resend</string>
+    <string name="resetPassword_confirm_button">Done</string>
+    <string name="resetPassword_confirmation_text">New password sent successfully.</string>
+    <string name="resetPassword_countryCode_hint">Select country code</string>
+    <string name="resetPassword_dialog_button">OK</string>
+    <string name="resetPassword_dialog_description">Please wait for 5 mins and try again.</string>
+    <string name="resetPassword_dialog_title">"Please wait
+"</string>
+    <string name="resetPassword_info_text">Please provide the phone number below, and you will receive SMS to get your new password.</string>
+    <string name="resetPassword_phoneNumberError_text">Invalid phone number</string>
+    <string name="resetPassword_phoneNumber_hint">Input phone number</string>
+    <string name="resetPassword_resetPasswordButton_text">Send new password</string>
+    <string name="resetPassword_title">Reset login Info</string>
+    <string name="revoke_failed">发送时间超过2分钟的消息，不能被撤回</string>
+    <string name="rewardFriendList_noSearchResult_text">No results found. Please try another search.</string>
+    <string name="rewardFriendList_search_placeholder">Search</string>
+    <string name="rewardHistory_dateFormat">MMM dd</string>
+    <string name="rewardHistory_noRewardReceivedMessage_text">No stars received.</string>
+    <string name="rewardHistory_noRewardSentMessage_text">No stars sent.</string>
+    <string name="rewardHistory_noRewardToday_text">No stars received today.</string>
+    <string name="rewardHistory_noSentRewardToday_text">No stars sent today.</string>
+    <string name="rewardHistory_persuadeMessage_text">Help or mentor your friends to earn stars!</string>
+    <string name="rewardHistory_persuadeSentMessage_text">Sent some star to your friend</string>
+    <string name="rewardHistory_receivedRewardToday_text" formatted="false">Today, %CANDY_AMT% star(s) received</string>
+    <string name="rewardHistory_receivedRewardYesterday_text" formatted="false">Yesterday, %CANDY_AMT% star(s) received</string>
+    <string name="rewardHistory_receivedReward_text" formatted="false">%MMM DD%, %CANDY_AMT% star(s) received</string>
+    <string name="rewardHistory_rewardFrom_text" formatted="false">%CANDY_AMT% star(s) from %NAME%.</string>
+    <string name="rewardHistory_rewardTo_text" formatted="false">sent %CANDY_AMT% star(s) to %NAME%</string>
+    <string name="rewardHistory_sendBackButton">Send Back</string>
+    <string name="rewardHistory_sentRewardToday_text" formatted="false">Today, %CANDY_AMT% star(s) you sent</string>
+    <string name="rewardHistory_sentRewardYesterday_text" formatted="false">Yesterday, %CANDY_AMT% star(s) you sent</string>
+    <string name="rewardHistory_sentReward_text" formatted="false">%MMM DD%, %CANDY_AMT% star(s) you sent</string>
+    <string name="rewardHistory_timeFormat">DateFormat.SHORT</string>
+    <string name="rewardHistory_timeFormat_text" formatted="false">%HH:mm% %AM_PM%</string>
+    <string name="rewardHistory_title">Stars received</string>
+    <string name="rewardHome_greetingText_text" formatted="false">Hi %REAL_NAME%</string>
+    <string name="rewardHome_history_text">History</string>
+    <string name="rewardHome_leaderBoard_text">Ranking</string>
+    <string name="rewardHome_redemption_title">Redeem</string>
+    <string name="rewardHome_report_text">Report</string>
+    <string name="rewardHome_rewardSendStatus_text">Sent successfully.</string>
+    <string name="rewardHome_sendRewardButton_text">Send Stars</string>
+    <string name="rewardHome_todayAvailableReward_text" formatted="false">%TODAY_AVAILABLE%</string>
+    <string name="rewardHome_todayReceivedReward_text">received today</string>
+    <string name="rewardHome_totalReward_text" formatted="false">%TOTAL_AMT%</string>
+    <string name="rewardReason_coreValue_other">Others</string>
+    <string name="rewardReport_totalStars_text">Total Stars:</string>
+    <string name="rewardSelection_additionalReasonRequired_text">Write a message (*required)</string>
+    <string name="rewardSelection_additionalReason_text">Write a message...</string>
+    <string name="rewardSelection_candyLeft_text" formatted="false">%CANDY_TOTAL% Left</string>
+    <string name="rewardSelection_messageRequireDialog_button">OK</string>
+    <string name="rewardSelection_messageRequireDialog_text">Please write a message before sending star(s)</string>
+    <string name="rewardSelection_minCandy_text">1</string>
+    <string name="rewardSelection_quotaLeft_text">Remaining after sending</string>
+    <string name="rewardSelection_reason1_text">Thank you for helping me out!</string>
+    <string name="rewardSelection_reason2_text">Thank you for mentoring me.</string>
+    <string name="rewardSelection_reason3_text">Thank you for sharing knowledge.</string>
+    <string name="rewardSelection_reason4_text">Great job!</string>
+    <string name="rewardSelection_reason5_text">Creative thinker!</string>
+    <string name="rewardSelection_reason6_text">You are amazing!</string>
+    <string name="rewardSelection_reasonList_title">Select a Reason</string>
+    <string name="rewardSelection_reason_text">Reason</string>
+    <string name="rewardSelection_sendButton_text">Send</string>
+    <string name="rewardSelection_sendToEach_text">Send to each</string>
+    <string name="rewardSelection_sendTotal_text">Total</string>
+    <string name="rewardSelection_sentFailedDialogButton_text">Ok</string>
+    <string name="rewardSelection_sentFailedDialog_message">Failed to send stars.</string>
+    <string name="rewardSelection_title">Send Stars</string>
+    <string name="rewardSelection_toUserText_text">To</string>
+    <string name="rewardUsers_receiverExceedDialog_button">OK</string>
+    <string name="rewardUsers_receiverExceedDialog_text" formatted="false">Unable to select receiver more than your remaining stars (%NUM%)</string>
+    <string name="reward_report_menu_interval_one_month">30 Days</string>
+    <string name="reward_report_menu_interval_six_months">180 Days</string>
+    <string name="reward_report_menu_interval_three_months">90 Days</string>
+    <string name="reward_report_radarChart_title">Your Characteristics</string>
+    <string name="reward_report_text_view_last_one_month">View last 30 days</string>
+    <string name="reward_report_text_view_last_six_months">View last 180 days</string>
+    <string name="reward_report_text_view_last_three_months">View last 90 days</string>
+    <string name="saturday">星期六</string>
+    <string name="save">Save</string>
+    <string name="save_to_device">Save to phone</string>
+    <string name="screen.B010" formatted="false">%SELECTED_REASON%</string>
+    <string name="screen.B011" formatted="false">%ADDITIONAL_WORDS%</string>
+    <string name="sdcard_not_enough_error">Insufficient storage space available. Unable to save this multimedia message.</string>
+    <string name="sdcard_not_enough_head_error">SD card has been removed or insufficient storage space. Unable to save avatar image.</string>
+    <string name="sdcard_not_exist_error">Please insert an SD card</string>
+    <string name="search">搜索</string>
+    <string name="searchChannelList_noResult_text">No results found. Please try another search.</string>
+    <string name="searchChannelList_search_placeholder">Search</string>
+    <string name="search_join_team">搜索加入群组</string>
+    <string name="search_menu_title">Search</string>
+    <string name="second">秒</string>
+    <string name="select_at_least">至少选择</string>
+    <string name="select_at_most">最多选择</string>
+    <string name="send">Send</string>
+    <string name="set_head_image">设置头像</string>
+    <string name="set_team_admin">设为管理员</string>
+    <string name="shoppingCartCheckout_title">Shopping Cart</string>
+    <string name="someone_at_you">有人@你</string>
+    <string name="start_camera_to_record_failed">启动摄像头录制视频失败</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stay_button">Stay</string>
+    <string name="stop_fail_maybe_stopped">停止失败，可能已经停止</string>
+    <string name="sunday">星期日</string>
+    <string name="survey_cancel_popup_title">Discard All Answers?</string>
+    <string name="survey_choice_no">No</string>
+    <string name="survey_choice_yes">Yes</string>
+    <string name="survey_closed_status">Closed</string>
+    <string name="survey_completed_status">Completed</string>
+    <string name="survey_due_date">Due Date:</string>
+    <string name="survey_emptyList_text">No assigned survey at the moment.</string>
+    <string name="survey_endPage_text">Thank You for Completing Our Survey.</string>
+    <string name="survey_finishButton_text">Finish</string>
+    <string name="survey_history_title">Survey History</string>
+    <string name="survey_list_title">Survey Assignment</string>
+    <string name="survey_overdue_status">Overdue</string>
+    <string name="survey_submit_popup_title">Submit Answer?</string>
+    <string name="tag_alert">[通知提醒]</string>
+    <string name="tag_customized_msg">[自定义消息]</string>
+    <string name="tag_doc">[文件]</string>
+    <string name="tag_half_missing">[未接</string>
+    <string name="tag_half_video_call">视频电话]</string>
+    <string name="tag_half_voice_call">音频电话]</string>
+    <string name="tag_image">[图片]</string>
+    <string name="tag_location">[位置]</string>
+    <string name="tag_video">[视频]</string>
+    <string name="tag_video_call">[视频电话]</string>
+    <string name="tag_voice_call">[音频电话]</string>
+    <string name="tag_voice_msg">[语音消息]</string>
+    <string name="taskAssignment_assignedByYou_title">Assigned by you</string>
+    <string name="taskAssignment_attachment_notReady_button">OK</string>
+    <string name="taskAssignment_attachment_notReady_description">Uploading</string>
+    <string name="taskAssignment_attachment_notReady_title">Please wait until all attachments finish uploading</string>
+    <string name="taskAssignment_cancelButton_text">Cancel</string>
+    <string name="taskAssignment_confirmDialog_confirmText">Do you want to send this task assignment?</string>
+    <string name="taskAssignment_confirmDialog_confirmTitleText">Confirmation</string>
+    <string name="taskAssignment_confirmDialog_sendButtonText">Send</string>
+    <string name="taskAssignment_createTask_submitButton_text">Submit</string>
+    <string name="taskAssignment_createTask_title">Create Task</string>
+    <string name="taskAssignment_create_addImage_text">Add image (only 1)</string>
+    <string name="taskAssignment_create_addMoreAssignee_text">Add more assignees</string>
+    <string name="taskAssignment_create_assignee_text">Assignee</string>
+    <string name="taskAssignment_create_description_text">Write a description (Optional)</string>
+    <string name="taskAssignment_create_discard_description">Are you sure you want to leave? Your task assignment will be discarded.</string>
+    <string name="taskAssignment_create_dueDate_text">Due Date</string>
+    <string name="taskAssignment_create_pickDate_text">Pick due date (optional)</string>
+    <string name="taskAssignment_create_selectAssignee_text">Select Assignee</string>
+    <string name="taskAssignment_create_title_text">Write a title</string>
+    <string name="taskAssignment_deleteButton_text">Delete</string>
+    <string name="taskAssignment_deleteDialogMessage_text">Are you sure you want to delete this task assignment? This action cannot be undone.</string>
+    <string name="taskAssignment_deleteDialogTitle_text">Delete this task assignment?</string>
+    <string name="taskAssignment_deleteDialog_cancelButtonText">Cancel</string>
+    <string name="taskAssignment_deleteDialog_deleteButtonText">Delete</string>
+    <string name="taskAssignment_delete_successButton_text">OK</string>
+    <string name="taskAssignment_delete_successMessage_text">You have deleted a task assignment.</string>
+    <string name="taskAssignment_detail_assignedDate_text" formatted="false">Assigned Date : %DATE%</string>
+    <string name="taskAssignment_detail_notResponded_text">Not responded</string>
+    <string name="taskAssignment_detail_responded_text">Responded</string>
+    <string name="taskAssignment_list_assignerDetail_text" formatted="false">Assigner : %NAME%</string>
+    <string name="taskAssignment_list_completedDetail_text" formatted="false">Completed : %DATE%</string>
+    <string name="taskAssignment_list_completedTab_text">Completed</string>
+    <string name="taskAssignment_list_dueDateDetail_text" formatted="false">Due date : %DATE%</string>
+    <string name="taskAssignment_list_dueDate_text">Due date assignment</string>
+    <string name="taskAssignment_list_emptyAssignerList_text">"You haven't assigned task assignment to anyone."</string>
+    <string name="taskAssignment_list_emptyCompleteList_text">No completed task assignments.</string>
+    <string name="taskAssignment_list_emptyList_text">No task assignment assigned to you.</string>
+    <string name="taskAssignment_list_emptyNotRespondedList_text">All assignees have already responded to this task</string>
+    <string name="taskAssignment_list_emptyOverdueList_text">No overdue task assignments.</string>
+    <string name="taskAssignment_list_emptyRespondedList_text">No assignee have responded to this task.</string>
+    <string name="taskAssignment_list_noDueDate_text">No due date assignment</string>
+    <string name="taskAssignment_list_openTab_text">Open</string>
+    <string name="taskAssignment_list_overdueDetail_text" formatted="false">Overdue : %DATE%</string>
+    <string name="taskAssignment_list_overdueTab_text">Overdue</string>
+    <string name="taskAssignment_list_title">Task assignment</string>
+    <string name="taskAssignment_myTask_title">My Tasks</string>
+    <string name="taskAssignment_response_create_addImage_text">Add image (only 1)</string>
+    <string name="taskAssignment_response_create_description_text">Write a description (Optional)</string>
+    <string name="taskAssignment_response_create_discard_description">Are you sure you want to leave? Your task assignment response will be discarded.</string>
+    <string name="taskAssignment_response_create_submitButton_text">Submit</string>
+    <string name="taskAssignment_response_create_title">Send Response</string>
+    <string name="taskAssignment_response_detail_respondedDate_text" formatted="false">Responded Date : %DATE%</string>
+    <string name="taskAssignment_response_detail_updateButton_text">Update</string>
+    <string name="team_admin">管理员</string>
+    <string name="team_admin_invite">管理员邀请</string>
+    <string name="team_admin_update">管理员修改</string>
+    <string name="team_allow_anyone_join">允许任何人加入</string>
+    <string name="team_announce_content">公告内容</string>
+    <string name="team_announce_hint">点击填写群公告</string>
+    <string name="team_announce_notice">请输入群公告标题</string>
+    <string name="team_announce_title">标题</string>
+    <string name="team_annourcement">群公告</string>
+    <string name="team_apply_to_join">申请加入</string>
+    <string name="team_authentication">身份验证</string>
+    <string name="team_chat">群聊</string>
+    <string name="team_create_notice">请添加群成员</string>
+    <string name="team_creator">群主</string>
+    <string name="team_everyone_invite">所有人邀请</string>
+    <string name="team_everyone_update">所有人修改</string>
+    <string name="team_extension">扩展示例</string>
+    <string name="team_extension_hint">点击修改扩展内容</string>
+    <string name="team_identity">身份</string>
+    <string name="team_info_update">群资料修改权限</string>
+    <string name="team_introduce">群介绍</string>
+    <string name="team_introduce_hint">点击填写群介绍</string>
+    <string name="team_invalid_tip">You have left the channel</string>
+    <string name="team_invite">邀请他人权限</string>
+    <string name="team_invite_members_failed">群成员邀请失败</string>
+    <string name="team_invite_members_success">群成员邀请已发出</string>
+    <string name="team_invitee_authentication">被邀请人身份验证</string>
+    <string name="team_invitee_need_authen">需要验证</string>
+    <string name="team_invitee_not_need_authen">不需要验证</string>
+    <string name="team_member">群成员</string>
+    <string name="team_member_info">成员信息</string>
+    <string name="team_member_remove_confirm">确定要将其移出群组么?</string>
+    <string name="team_name">群名称</string>
+    <string name="team_name_toast">群名称不能为空</string>
+    <string name="team_need_authentication">需要身份验证</string>
+    <string name="team_nickname">群昵称</string>
+    <string name="team_nickname_none">未填写</string>
+    <string name="team_not_allow_anyone_join">不允许任何人申请加入</string>
+    <string name="team_not_exist">该群不存在</string>
+    <string name="team_notification_config">消息提醒</string>
+    <string name="team_send_message_not_allow">You cannot send messagings because you are not in the channel</string>
+    <string name="team_settings_name">设置名称</string>
+    <string name="team_settings_set_name">取个名字吧</string>
+    <string name="team_transfer_failed">群转移失败</string>
+    <string name="team_transfer_success">群转移成功</string>
+    <string name="team_transfer_without_member">没有可转移的群成员</string>
+    <string name="team_update_cancel">取消更新</string>
+    <string name="team_update_failed">群头像设置失败</string>
+    <string name="text_empty" />
+    <string name="the_other_user">对方</string>
+    <string name="thursday">星期四</string>
+    <string name="timer_default">00:00</string>
+    <string name="tip_accept">" 接受了 "</string>
+    <string name="tip_add_manager">" 被任命为管理员"</string>
+    <string name="tip_by_manager">被管理员</string>
+    <string name="tip_cancel_mute">解除禁言</string>
+    <string name="tip_cancel_mute_all">取消群全员禁言</string>
+    <string name="tip_chat_room_avatar_update">Channel picture has been updated.</string>
+    <string name="tip_chat_room_name_update" formatted="false">Channel name has been updated to %CHANNEL_NAME%.</string>
+    <string name="tip_del_chat_on_server">删除该聊天（仅服务器）</string>
+    <string name="tip_dismissed_the_channel">解散了群</string>
+    <string name="tip_fetch_group_msg_fail">获取群组信息失败!</string>
+    <string name="tip_get_memeber_list_fail">获取成员列表失败</string>
+    <string name="tip_join_application">" 的入群申请"</string>
+    <string name="tip_join_invitation">" 的入群邀请"</string>
+    <string name="tip_manager_pass_user">"管理员通过用户 "</string>
+    <string name="tip_mute">禁言</string>
+    <string name="tip_mute_all">群全员禁言</string>
+    <string name="tip_on_fail_with_code">on failed:</string>
+    <string name="tip_people_join_channel" formatted="false">%PEOPLE% have joined to this channel.</string>
+    <string name="tip_people_typing" formatted="false">%NUM% people are typing...</string>
+    <string name="tip_person_join_channel" formatted="false">%PERSON% has joined channel.</string>
+    <string name="tip_person_typing" formatted="false">%PERSON% is typing…</string>
+    <string name="tip_remove_manager">" 被撤销管理员身份"</string>
+    <string name="tip_removed_from_the_channel" formatted="false">%PERSON% removed from the channel</string>
+    <string name="tip_revoke_fail_with_code">revoke msg failed, code:</string>
+    <string name="tip_revoke_one_msg">撤回了一条消息</string>
+    <string name="tip_switch_notification_off">关闭消息提醒</string>
+    <string name="tip_switch_notification_on">开启消息提醒</string>
+    <string name="tip_the_other_user_is_typing">对方正在输入...</string>
+    <string name="tip_trans_owner">" 将群转移给 "</string>
+    <string name="tip_unknown_notification">未知通知</string>
+    <string name="tip_update_app_on_sticker_fail">Update to latest version to see it</string>
+    <string name="tip_update_beinvite_mode">"群被邀请人身份验证权限被更新为 "</string>
+    <string name="tip_update_ext_server">"群扩展字段(服务器)被更新为 "</string>
+    <string name="tip_update_extension">"群扩展字段被更新为 "</string>
+    <string name="tip_update_extinvite_mode">"群扩展字段修改权限被更新为 "</string>
+    <string name="tip_update_intro_to">"群介绍被更新为 "</string>
+    <string name="tip_update_invite_mode">"群邀请他人权限被更新为 "</string>
+    <string name="tip_update_verify_type">群身份验证权限更新为</string>
+    <string name="tip_updated_announcement">" 修改了群公告"</string>
+    <string name="tip_updated_to">"被更新为 "</string>
+    <string name="tip_voice_trans">正在转换</string>
+    <string name="tip_voice_trans_err">参数错误</string>
+    <string name="today">Today</string>
+    <string name="total_friends">共有好友</string>
+    <string name="trainingCourse_noCourse_text">No course provided until now. It will be coming soon!</string>
+    <string name="trainingCourse_noLesson_text">No lesson provided until now. It will be coming soon!</string>
+    <string name="trainingCourse_title" formatted="false">%COURSE%</string>
+    <string name="trainingLesson_title" formatted="false">%LESSON%</string>
+    <string name="training_answerCorrect_text">Answer Correct!</string>
+    <string name="training_answerWrong_text">Answer Wrong!</string>
+    <string name="training_assignOnlyAndOverdue_text">This assignment was overdue and its lesson cannot be accessed from learning courses</string>
+    <string name="training_back_button">Back</string>
+    <string name="training_close_button">Close</string>
+    <string name="training_course_title">Course</string>
+    <string name="training_endLesson_text">We are experiencing an internal server problem. Please try again at a later time.</string>
+    <string name="training_end_button">End</string>
+    <string name="training_failedStatus_text">Failed</string>
+    <string name="training_finish_button">Finish</string>
+    <string name="training_inProgress_button">In Progress</string>
+    <string name="training_my_badges">My badge</string>
+    <string name="training_next_button">Next</string>
+    <string name="training_oneTimeTestClose_text">OK</string>
+    <string name="training_oneTimeTestWarning_text">You have done this test</string>
+    <string name="training_oneTimeTest_text">Online test / One time test</string>
+    <string name="training_onlineTest_text">Online test</string>
+    <string name="training_pullToRefresh_text">Pull to refresh ..</string>
+    <string name="training_quiz_score" formatted="false">%QUIZ_SCORE%</string>
+    <string name="training_readAgain_button">Read Again</string>
+    <string name="training_start_button">Start</string>
+    <string name="training_start_now_button">Start Now!</string>
+    <string name="training_submit_button">Submit</string>
+    <string name="training_tabLesson_text">Lesson</string>
+    <string name="training_tabQuiz_text">Quiz</string>
+    <string name="training_view_badges">View badges</string>
+    <string name="trans_voice_failed">语音转化失败</string>
+    <string name="transfer_team">转让群</string>
+    <string name="tuesday">星期二</string>
+    <string name="unit_people">人</string>
+    <string name="unknow_size">未知大小</string>
+    <string name="unknown_msg">unknown message</string>
+    <string name="unsupport_desc">客户端版本不支持该内容</string>
+    <string name="unsupport_title">无法显示该内容</string>
+    <string name="update_failed">保存失败, code:%d</string>
+    <string name="update_success">保存成功</string>
+    <string name="update_updating_mode">"群资料修改权限被更新为 "</string>
+    <string name="user_profile_avatar">User Profile Avatar</string>
+    <string name="user_profile_icon">User Profile Icon</string>
+    <string name="user_unit">名</string>
+    <string name="valueWithUnit_defaultNumber">--</string>
+    <string name="valueWithUnit_defaultText">candy</string>
+    <string name="video_exception">视频文件异常</string>
+    <string name="video_file_size">大小</string>
+    <string name="video_length">时长</string>
+    <string name="video_play">视频播放</string>
+    <string name="video_record">视频录制</string>
+    <string name="video_record_begin">开始录制</string>
+    <string name="video_record_short">录制视频太短</string>
+    <string name="video_record_symbol">REC</string>
+    <string name="voice_to_text">转文字</string>
+    <string name="waitfor_image_local">正在打开相册，请稍候…</string>
+    <string name="wednesday">星期三</string>
+    <string name="withdrawn_msg">撤 回</string>
+    <string name="without_content">暂无</string>
+    <string name="you">You</string>
+</resources>

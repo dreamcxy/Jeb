@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="about_funds_transferred_by_label">Funds transferred by Google Payment Corp.</string>
+    <string name="about_software_notices_label">Software notices</string>
+    <string name="account_item">Switch to %1$s</string>
+    <string name="account_item_default">Switch account</string>
+    <string name="account_list">Account list</string>
+    <string name="activation_promo_landing_secured">Encrypted by Google</string>
+    <string name="activation_promo_landing_subtitle">Just add a debit card to finish setup</string>
+    <string name="activation_promo_landing_title">"A fast, free way to send
+&amp; receive money"</string>
+    <string name="activation_promo_notification_message_variant0">Add a debit card to set up Google Wallet</string>
+    <string name="activation_promo_notification_message_variant1">Add a debit card to set up Google Wallet</string>
+    <string name="activation_promo_notification_message_variant2">Pay friends back fast with Google Wallet</string>
+    <string name="activation_promo_notification_message_variant3">Add a debit card to set up Google Wallet</string>
+    <string name="activation_promo_notification_title_variant0">Start paying friends back fast</string>
+    <string name="activation_promo_notification_title_variant1">Start getting your money faster</string>
+    <string name="activation_promo_notification_title_variant2">Add a debit card to finish setup</string>
+    <string name="activation_promo_notification_title_variant3">Pay friends back fast</string>
+    <string name="activation_promo_success_default_card_name">your debit card</string>
+    <string name="activation_promo_success_subtitle">"Now you can quickly send money to anyone. You'll also be able to transfer money you receive directly to %s."</string>
+    <string name="activation_promo_success_title">"You're all set!"</string>
+    <string name="active_reminders_label">Active reminders</string>
+    <string name="activity">Activity</string>
+    <string name="add_account">Add account</string>
+    <string name="add_funding_source">Add a funding source</string>
+    <string name="add_funding_source_description">Add a funding source button</string>
+    <string name="add_memo_hint">Write an optional message</string>
+    <string name="add_multi_memo_hint">Let the group know what this is for…</string>
+    <string name="address_upgrade_required_explanation">To use this card, you will need to enter a complete address.</string>
+    <string name="address_upgrade_required_header">Complete address required</string>
+    <string name="amount_label">Amount.</string>
+    <string name="amount_max_error">You can only transfer up to %s at a time.</string>
+    <string name="amount_min_error">The minimum transfer is %s.</string>
+    <string name="amount_other_currency_error">Cross-currency transfers are not supported.</string>
+    <item type="string" name="ampm_circle_radius_multiplier">0.19</item>
+    <string name="app_name">Wallet</string>
+    <string name="autocomplete_already_shared">Already shared</string>
+    <string name="autolock">Auto-lock</string>
+    <string name="available_amount">Available:</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="bugle_promo_bottom_sheet_message">Now you can pay friends and family from a conversation in Android Messages. Open a conversation and attach a payment or money request.</string>
+    <string name="bugle_promo_bottom_sheet_title">Send money to your friends and family from Android Messages</string>
+    <string name="bugle_promo_send_to_phone">You can send money to friends and family right from the Android Messages app. &lt;a href=\"#\">Try it now&lt;/a>.</string>
+    <string name="button_add_card">Add</string>
+    <string name="button_add_funding_source">Add</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_cancel_payment">Cancel payment</string>
+    <string name="button_cancel_send">Cancel send</string>
+    <string name="button_change">Change</string>
+    <string name="button_change_gaia_pin">Change PIN</string>
+    <string name="button_close">Close</string>
+    <string name="button_confirm_send_cancel">Yes, cancel</string>
+    <string name="button_continue">Continue</string>
+    <string name="button_default_instrument_set_confirmation">Got it</string>
+    <string name="button_dismiss">Dismiss</string>
+    <string name="button_done">Done</string>
+    <string name="button_enter_address">Enter address</string>
+    <string name="button_exit">Exit</string>
+    <string name="button_forgot_pin">Yes, reset PIN</string>
+    <string name="button_later">Not Now</string>
+    <string name="button_learn_more">Learn more</string>
+    <string name="button_modify">Edit</string>
+    <string name="button_no_thanks">No thanks</string>
+    <string name="button_not_now">Not now</string>
+    <string name="button_ok">OK</string>
+    <string name="button_pay_amount">Pay %1$s</string>
+    <string name="button_pay_with">Pay With %1$s</string>
+    <string name="button_remove_pin">Remove PIN</string>
+    <string name="button_retry">Retry</string>
+    <string name="button_send">Send</string>
+    <string name="button_setup_pin">Setup PIN</string>
+    <string name="button_skip">Skip</string>
+    <string name="button_try_it">Try it</string>
+    <string name="button_update_wallet">Update</string>
+    <string name="button_use_fingerprint">Use fingerprint</string>
+    <string name="button_use_pin">Use pin instead</string>
+    <string name="cancel_success_message">Payment has been canceled</string>
+    <string name="change_funding_source">Change</string>
+    <string name="change_funding_source_description">Change funding source button</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <item type="string" name="circle_radius_multiplier">0.82</item>
+    <item type="string" name="circle_radius_multiplier_24HourMode">0.85</item>
+    <string name="claim_money_connection_error_message">You need an internet connection to claim money.</string>
+    <string name="claim_money_connection_error_title">Unable to claim money</string>
+    <string name="claim_money_message">Claiming</string>
+    <string name="claim_money_sent_you">%1$s sent you %2$s</string>
+    <string name="claim_money_tile_link">Claim money</string>
+    <string name="claim_money_transfer_action">Claim money</string>
+    <string name="claim_success_message">%1$s claimed</string>
+    <string name="claimed_money_message">Claimed</string>
+    <string name="clearable_edit_text_clear">Clear</string>
+    <string name="combined_notification_text">%1$s %2$s</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text_phone">"%1$s won't run without Google Play services, which are missing from your phone."</string>
+    <string name="common_google_play_services_install_text_tablet">"%1$s won't run without Google Play services, which are missing from your tablet."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. If the problem persists, please contact the developer for assistance.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s relies on Google Play services, which is not supported by your device. Contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_updating_title">Google Play services are updating</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="concurrent_running_action_error_dialog_message">Concurrent user operations. The second operation is canceled.</string>
+    <string name="confidential_warning">This version of Google Wallet is internal only and may contain features not yet released publicly.</string>
+    <string name="confidential_warning_button">GOT IT</string>
+    <string name="confidential_warning_title">Confidential</string>
+    <string name="contact_continue">CONTINUE</string>
+    <string name="contact_invalid_input_already_exists">Contact has already been selected.</string>
+    <string name="contact_invalid_input_for_request">You can only request money from a valid email address.</string>
+    <string name="contact_invalid_input_for_send">You can only send money to a valid email address or phone number.</string>
+    <string name="coppa_violation_dialog_message">You do not meet the age requirements for a Google Account. This account has been disabled and will be deleted in 30 days unless the birthday you entered was incorrect and you submit proof that you are 13 years or older.</string>
+    <string name="coppa_violation_dialog_title">Google account disabled</string>
+    <string name="day_of_week_label_typeface">sans-serif</string>
+    <string name="day_picker_description">Month grid of days</string>
+    <string name="default_instrument_set_explanation">Money you receive through Google Wallet will be automatically transferred to this account.</string>
+    <string name="default_label">Default</string>
+    <string name="default_prompt_title">%1$s is now your default</string>
+    <string name="deleted_key">%1$s deleted</string>
+    <string name="device_storage_unavailable_content">"Your device's storage is not currently accessible."</string>
+    <string name="device_storage_unavailable_title">Unable to save monthly statement</string>
+    <string name="dialog_option_try_again">Try again</string>
+    <string name="disabled">disabled</string>
+    <string name="disclosure_of_nmls_id">Google Payment Corp., NMLS ID# 911607</string>
+    <string name="done_label">Done</string>
+    <string name="empty_state_body">Your activity will show here</string>
+    <string name="empty_state_header">Welcome to Google Wallet</string>
+    <string name="enabled">enabled</string>
+    <string name="enjoy_your_day">Enjoy your day!</string>
+    <string name="enter_an_amount">Tap to send or request money</string>
+    <string name="enter_an_amount_description">Amount to send or receive</string>
+    <string name="error_dialog_country_unsupported_detail">Google Wallet is not available in your country yet. Please update your &lt;a href=\"%1$s\">home address&lt;/a> if you have moved.</string>
+    <string name="error_dialog_country_unsupported_title">Google Wallet is not available</string>
+    <string name="error_dialog_no_network_access">Network access is required for this operation.</string>
+    <string name="error_dialog_no_network_access_title">Network access required</string>
+    <string name="error_generic_problem_message">Please try again in a few minutes</string>
+    <string name="error_generic_problem_title">Something went wrong</string>
+    <string name="error_multi_request_problem_message">"We weren't able to request money from these people:"</string>
+    <string name="error_no_network_problem_message">No network connection found. Please check your connection and try again.</string>
+    <string name="error_no_network_problem_title">Check your network connection</string>
+    <string name="error_not_authorized">Sign in failed</string>
+    <string name="fingerprint_enabled">Fingerprint enabled</string>
+    <string name="fingerprint_settings_setup_info">Set up fingerprint on your device first</string>
+    <string name="fingerprint_settings_title">Fingerprint</string>
+    <string name="fingerprint_sign_in_message">Confirm your fingerprint</string>
+    <string name="fingerprint_sign_in_title">Unlock Wallet</string>
+    <string name="fingerprint_sign_in_waiting_for_touch">Touch sensor</string>
+    <string name="fingerprint_status_not_recognized">Fingerprint not recognized</string>
+    <string name="fingerprint_status_recognized">Fingerprint recognized</string>
+    <string name="fingerprint_verify_message">"It's a quick, easy way to unlock Wallet"</string>
+    <string name="fingerprint_verify_title">Turn on fingerprint</string>
+    <string name="fingerprint_verify_waiting_for_touch">Touch sensor to turn on</string>
+    <string name="gmoney_app_name_long">Google Wallet</string>
+    <string name="gmoney_notifications_activity_title">Notifications</string>
+    <string name="google_account_pin_link_url">https://support.google.com/accounts/answer/6164209?hl=en</string>
+    <string name="google_g_logo_content_description">Google logo</string>
+    <string name="hamburger_navigation_description">Navigation menu</string>
+    <string name="hide_account_list">Hide accounts</string>
+    <string name="hour_picker_description">Hours circular slider</string>
+    <string name="inferred_merchant_feedback_confirmation_button">Yes, show original info</string>
+    <string name="inferred_merchant_feedback_failure_toast">Full transaction details aren’t available right now. Please try again later.</string>
+    <string name="inferred_merchant_feedback_modal_content">"Location and store data were simplified to display this info. If something doesn't look right, you can view the original info instead. This will also report the error to help Google Wallet be more accurate."</string>
+    <string name="inferred_merchant_feedback_modal_title">Is the store info incorrect?</string>
+    <string name="inferred_merchant_feedback_success_toast">Done</string>
+    <string name="instrument_fix_required_button">Fix</string>
+    <string name="instrument_fix_required_content">"There's an issue with your selected payment method"</string>
+    <string name="instrument_fix_required_title">Update your payment info</string>
+    <string name="item_is_selected">%1$s selected</string>
+    <string name="kyc_twostep_generic_subtitle">To continue, you’ll need to verify your identity. The info you provide will be used to meet government regulations and prevent fraud.</string>
+    <string name="libraries_material_featurehighlight_dismiss">Dismiss</string>
+    <string name="link_content_description_template">%1$s, link</string>
+    <string name="manage_accounts">Manage accounts</string>
+    <string name="market_app_search_format">market://details?id=%s</string>
+    <string name="marketing_prompt_message">Get emails with special offers and invitations to provide product feedback</string>
+    <string name="marketing_prompt_positive_button">"I'm in"</string>
+    <string name="marketing_prompt_positive_toast">Saved</string>
+    <string name="marketing_prompt_title">Stay in the loop</string>
+    <string name="menu_item_notifications">Notifications</string>
+    <string name="merged_notification_ticker">%1$d new notifications from %2$s</string>
+    <string name="merged_notification_title">%1$d new notifications</string>
+    <string name="micro_chip_remove">Remove</string>
+    <string name="minute_picker_description">Minutes circular slider</string>
+    <string name="missing_destination_instrument_error">Add a debit card or bank account</string>
+    <string name="monogram_default_font_family">sans-serif-medium</string>
+    <string name="monthly_statements_list_title">Monthly statements</string>
+    <string name="mtrl_expandable_floating_speed_dial_behavior">com.google.android.libraries.material.speeddial.expandable.ExpandableFloatingSpeedDialBehavior</string>
+    <string name="mtrl_expandable_scrim_behavior">com.google.android.libraries.material.speeddial.expandable.ExpandableScrimBehavior</string>
+    <string name="multi_request_sheet_header_no_counter_parties_selected">Request %1$s</string>
+    <string name="multi_request_sheet_subheader">%1$s total</string>
+    <string name="multi_requested_message">Request sent to %1$s people for a total of %2$s</string>
+    <string name="multi_requesting_message">Requesting from %1$s people for a total of %2$s</string>
+    <string name="name_requested_money">%1$s is requesting %2$s</string>
+    <string name="nav_drawer_close">Hide Drawer</string>
+    <string name="nav_drawer_feedback">Send feedback</string>
+    <string name="nav_drawer_help">Help &amp; support</string>
+    <string name="nav_drawer_home">Send or request money</string>
+    <string name="nav_drawer_lock">Lock now</string>
+    <string name="nav_drawer_open">Show Drawer</string>
+    <string name="nav_drawer_payment_methods">Payment methods</string>
+    <string name="nav_drawer_reminders">Reminders</string>
+    <string name="network_connection_error_try_again_toast">Check your network connection, then try again</string>
+    <string name="network_connection_error_try_refresh_toast">Check your network connection, then try refreshing the screen</string>
+    <string name="nevermind">Never mind</string>
+    <string name="no_internet_connection">No Internet connection</string>
+    <string name="no_notifications">No notifications</string>
+    <string name="no_reminders_label">You have no active reminders.</string>
+    <string name="no_statements_content">Monthly statements for your Wallet Balance transactions are available here</string>
+    <string name="no_statements_title">No statements yet</string>
+    <string name="notification_count">%d</string>
+    <string name="notification_settings_all_notifications">Receive notifications</string>
+    <string name="notification_settings_loading_error_please_try_again">Unable to retrieve notification settings. Try again in a minute.</string>
+    <string name="notification_settings_sound_default">Default</string>
+    <string name="notification_settings_sound_silent">Silent</string>
+    <string name="notification_settings_sound_title">Sound</string>
+    <string name="notification_settings_sound_wallet">Wallet</string>
+    <string name="notification_settings_sounds_picker_title">Sounds</string>
+    <string name="notification_settings_title">Notifications</string>
+    <string name="notification_settings_transactions">Transactions</string>
+    <string name="notification_settings_vibrate">Vibrate</string>
+    <string name="number_zero_hint">0</string>
+    <item type="string" name="numbers_radius_multiplier_inner">0.6</item>
+    <item type="string" name="numbers_radius_multiplier_normal">0.81</item>
+    <item type="string" name="numbers_radius_multiplier_outer">0.83</item>
+    <string name="password_toggle_content_description">Toggle password visibility</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="payment_method_selection_description">Selected payment method is %1$s.</string>
+    <string name="payment_methods_title">Choose payment method</string>
+    <string name="pdf_statement_download_error">Could not download your monthly statement.</string>
+    <string name="pdf_viewer_not_found_text">You must install a PDF viewer to view monthly statements.</string>
+    <string name="pdf_viewer_not_found_title">PDF viewer not installed.</string>
+    <string name="phone_number_google_services_explanation">People who know your number will also be able to connect with you on other Google services.</string>
+    <string name="phone_number_google_services_explanation_dialog">People who know your number will also be able to connect with you on other Google services</string>
+    <string name="phone_number_link_dialog_negative_button">Cancel</string>
+    <string name="phone_number_link_dialog_positive_button">Link</string>
+    <string name="phone_number_link_dialog_title">Link %s to your Google Account?</string>
+    <string name="phone_number_link_failure_toast">Failed to link phone number</string>
+    <string name="phone_number_link_notification_accept">Link phone number</string>
+    <string name="phone_number_link_notification_body">Money sent to %s will show up in the app so you can quickly cash out</string>
+    <string name="phone_number_link_notification_decline">No thanks</string>
+    <string name="phone_number_link_notification_title">Link your number to get money faster</string>
+    <string name="phone_number_link_success_toast">Your phone number is linked</string>
+    <string name="phone_number_unlink_dialog_message">Money sent to this number will no longer show up in your Wallet app</string>
+    <string name="phone_number_unlink_dialog_negative_button">Cancel</string>
+    <string name="phone_number_unlink_dialog_positive_button">Remove</string>
+    <string name="phone_number_unlink_dialog_title">Remove linked phone number?</string>
+    <string name="pin_button_backspace_description">Backspace</string>
+    <string name="pin_button_contentDescription">dot</string>
+    <string name="pin_button_numeral0">0</string>
+    <string name="pin_button_numeral1">1</string>
+    <string name="pin_button_numeral2">2</string>
+    <string name="pin_button_numeral3">3</string>
+    <string name="pin_button_numeral4">4</string>
+    <string name="pin_button_numeral5">5</string>
+    <string name="pin_button_numeral6">6</string>
+    <string name="pin_button_numeral7">7</string>
+    <string name="pin_button_numeral8">8</string>
+    <string name="pin_button_numeral9">9</string>
+    <string name="pin_enter_current_payments_pin_title">Enter Payments PIN</string>
+    <string name="pin_enter_gaia_pin_title">Enter Google Account PIN</string>
+    <string name="pin_enter_payments_pin_subtitle" />
+    <string name="pin_field_empty_description">Pin entry</string>
+    <string name="pin_field_filled_description">Pin entry dot</string>
+    <string name="pin_forgot_pin_message">You’ll need to sign in to your Google Account.</string>
+    <string name="pin_forgot_pin_title">Want to reset your PIN?</string>
+    <string name="pin_fragment_forgot_pin">Forgot PIN?</string>
+    <string name="pin_locked_message">Too many attempts to enter PIN. Reset to continue.</string>
+    <string name="pin_locked_title">Access locked</string>
+    <string name="pin_migration_button_create_gaia_pin">Create Google Account PIN</string>
+    <string name="pin_migration_button_switch_to_gaia_pin">Switch to Google Account PIN</string>
+    <string name="pin_migration_button_turn_off_pin">"Don't use pin anymore"</string>
+    <string name="pin_migration_finished_message_fingerprint">"From now on, you'll use this PIN to access your Google Wallet app. You can also use fingerprint."</string>
+    <string name="pin_migration_finished_message_fingerprint_not_available">"From now on, you'll use this PIN to access your Google Wallet app."</string>
+    <string name="pin_migration_finished_title">Switched to Google Account PIN</string>
+    <string name="pin_migration_pin_turned_off_toast">You no longer need a PIN to access Wallet.</string>
+    <string name="pin_migration_setup_gaia_pin_message">"Google Wallet will no longer use the Payments PIN. If you'd like to continue using a PIN to access your Wallet app, you'll need to create a Google Account PIN. This PIN is used for other Google apps, too."</string>
+    <string name="pin_migration_setup_gaia_pin_title">Wallet supports the Google Account PIN</string>
+    <string name="pin_migration_switch_to_gaia_pin_message">"Google Wallet will no longer use the Payments PIN, which means one less PIN for you to remember. Since you already have a Google Account PIN, you'll just need to switch over."</string>
+    <string name="pin_network_error_message">Sorry, a network error occurred.</string>
+    <string name="pin_network_error_title">Network error</string>
+    <string name="pin_network_unavailable">Network connection needed</string>
+    <string name="pin_not_set_message">Would you like to set up a new Google Account PIN?</string>
+    <string name="pin_not_set_title">Your PIN is not set up</string>
+    <string name="pin_remove_pin_dialog_message">You will no longer need a PIN to access Wallet.</string>
+    <string name="pin_remove_pin_dialog_title">Remove PIN from Wallet</string>
+    <string name="pin_settings_current_pin_timeout_format">Lock after %s</string>
+    <string name="pin_settings_require_pin">Require PIN</string>
+    <string name="pin_settings_require_pin_description">Enter your Google Account PIN to access the Wallet app</string>
+    <string name="pin_settings_setup_gaia_pin_description">Set up the Google Account PIN to access the Wallet app. You can also turn on fingerprint once PIN is set up.</string>
+    <string name="pin_settings_setup_gaia_pin_description_no_fp">Set up the Google Account PIN to access the Wallet app.</string>
+    <string name="pin_settings_timeout_dialog_title">Select PIN timeout</string>
+    <string name="pin_wrong_pin">Incorrect PIN</string>
+    <string name="play_store_not_found_text">You must install Play Store to upgrade wallet.</string>
+    <string name="play_store_not_found_title">Play Store not installed.</string>
+    <string name="preferences_license_title">Open source licenses</string>
+    <string name="primes_marker">PrImEs</string>
+    <string name="primes_version">170652885</string>
+    <string name="purchase_record_detail_error_loading">Error loading transaction details.</string>
+    <string name="purchase_record_detail_title">Transaction details</string>
+    <string name="purchase_record_details_deleted_toast">This transaction has been deleted.</string>
+    <string name="purchase_record_list_error_loading">Unable to fetch latest transactions.</string>
+    <string name="radial_numbers_typeface">sans-serif</string>
+    <string name="rating_message">Recommend Google Wallet to others by leaving a review on Play</string>
+    <string name="rating_positive_button">Rate the app</string>
+    <string name="rating_title">Tell us what you think</string>
+    <string name="reminder_cancel_toast">Your changes have been cancelled.</string>
+    <string name="reminder_deletion_toast">Your reminder has successfully been deleted.</string>
+    <string name="reminder_dialog_delete">Delete</string>
+    <string name="reminder_editor_avatar_content_description">Profile picture of the contact associated with this reminder.</string>
+    <string name="reminder_editor_cancel_button">Cancel</string>
+    <string name="reminder_editor_delete_button">Delete reminder</string>
+    <string name="reminder_editor_delete_message">"Sure you'd like to delete this reminder?"</string>
+    <string name="reminder_editor_frequency_annually_label">Annually</string>
+    <string name="reminder_editor_frequency_biweekly_label">Bi-weekly</string>
+    <string name="reminder_editor_frequency_label">Frequency:</string>
+    <string name="reminder_editor_frequency_monthly_label">Monthly</string>
+    <string name="reminder_editor_frequency_once_label">Only once</string>
+    <string name="reminder_editor_frequency_weekly_label">Weekly</string>
+    <string name="reminder_editor_invalid_entry_toast">There are invalid fields.</string>
+    <string name="reminder_editor_note_label">Note:</string>
+    <string name="reminder_editor_pay_label">Pay:</string>
+    <string name="reminder_editor_repeats_friday_label">Friday</string>
+    <string name="reminder_editor_repeats_monday_label">Monday</string>
+    <string name="reminder_editor_repeats_on_label">Repeats on:</string>
+    <string name="reminder_editor_repeats_saturday_label">Saturday</string>
+    <string name="reminder_editor_repeats_sunday_label">Sunday</string>
+    <string name="reminder_editor_repeats_thursday_label">Thursday</string>
+    <string name="reminder_editor_repeats_tuesday_label">Tuesday</string>
+    <string name="reminder_editor_repeats_wednesday_label">Wednesday</string>
+    <string name="reminder_editor_request_label">Request:</string>
+    <string name="reminder_editor_save_button">Save</string>
+    <string name="reminder_editor_starts_on_label">Starts on:</string>
+    <string name="reminder_editor_time_label">Time:</string>
+    <string name="reminder_save_toast">Your changes have been saved.</string>
+    <string name="reminders_add">Add a reminder</string>
+    <string name="reminders_add_title">Add a reminder</string>
+    <string name="reminders_edit_title">Edit reminder</string>
+    <string name="reminders_fab_pay">Reminder to pay</string>
+    <string name="reminders_fab_request">Reminder to request</string>
+    <string name="reminders_item_avatar_content_description">Profile picture of a user associated with a reminder.</string>
+    <string name="reminders_item_icon_content_description">Reminders icon</string>
+    <string name="reminders_title">Reminders</string>
+    <string name="request">Request</string>
+    <string name="request_money_activity_title">Request money from…</string>
+    <string name="request_money_button">Request</string>
+    <string name="request_money_cancel_complete">Request canceled</string>
+    <string name="request_money_cancel_confirm_button">Yes, cancel it</string>
+    <string name="request_money_cancel_dialog_detail">Are you sure you want to cancel this request? A cancellation notification will be sent to %1$s.</string>
+    <string name="request_money_cancel_dialog_title">Cancel this request?</string>
+    <string name="request_money_cancel_failed">Failed to cancel request</string>
+    <string name="request_money_cannot_request_from_self">You cannot request money from yourself</string>
+    <string name="request_money_confirm_decline">Decline</string>
+    <string name="request_money_connection_error_message">You need an internet connection to request money.</string>
+    <string name="request_money_connection_error_title">Unable to request money</string>
+    <string name="request_money_contact_search_title">Request money from…</string>
+    <string name="request_money_decline_button">Decline</string>
+    <string name="request_money_decline_complete">Request declined</string>
+    <string name="request_money_decline_dialog_title">Are you sure you want to decline this request?</string>
+    <string name="request_money_decline_failed">Failed to decline request</string>
+    <string name="request_money_details_title">Request details</string>
+    <string name="request_money_flag_spam">Flag this request as spam</string>
+    <string name="request_money_flag_spam_complete">Request flagged as spam</string>
+    <string name="request_money_reminder_button">Send reminder</string>
+    <string name="request_money_reminder_failed">Failed to send reminder</string>
+    <string name="request_money_reminder_sent">Reminder sent</string>
+    <string name="request_money_settle_up_button">Settle up</string>
+    <string name="request_success_message">%1$s requested from %2$s</string>
+    <string name="requested_money_from_message">Requested from %1$s</string>
+    <string name="requesting_money_from_message">Requesting from %1$s</string>
+    <string name="requesting_money_message">Requesting</string>
+    <string name="return_money_message">"You're about to return %1$s to %2$s."</string>
+    <string name="return_money_positive_button">Return money</string>
+    <string name="return_money_success_toast">Money has been returned</string>
+    <string name="return_money_title">Return money?</string>
+    <string name="review_recurring_topup_title">Everything look good?</string>
+    <string name="rpc_rejection_handler_multiple_errors_title">Multiple failures.</string>
+    <string name="rpc_rejection_handler_untitled_error_title">Failure.</string>
+    <string name="sans_serif">sans-serif</string>
+    <string name="sans_serif_medium_fontFamily">sans-serif</string>
+    <string name="scam_warning_body">"To avoid scams, don't send money to people you don't know."</string>
+    <string name="scam_warning_title">Only send money to people you know</string>
+    <string name="select_day">Select month and day</string>
+    <string name="select_funding_source">Select a funding source</string>
+    <string name="select_hours">Select hours</string>
+    <string name="select_minutes">Select minutes</string>
+    <string name="select_year">Select year</string>
+    <string name="selected_account">Signed in to %1$s</string>
+    <item type="string" name="selection_radius_multiplier">0.16</item>
+    <string name="send">Send</string>
+    <string name="send_money_activity_title">Send money to…</string>
+    <string name="send_money_cannot_send_to_self">"You can't send money to yourself"</string>
+    <string name="send_money_connection_error_message">You need an internet connection to send money.</string>
+    <string name="send_money_connection_error_title">Unable to send money</string>
+    <string name="send_money_contact_hint">Enter name or email address</string>
+    <string name="send_money_contact_hint_with_phone">Enter name, email, or phone number</string>
+    <string name="send_money_error_exceeds_balance">Not enough Wallet Balance</string>
+    <string name="send_money_kyc_settle_dlg_text">You may not use Google Wallet to make purchases or send money until you settle your balance. &lt;a href=\"%1$s\" >Learn more&lt;/a></string>
+    <string name="send_money_kyc_settle_dlg_title">"Can't send money yet"</string>
+    <string name="send_money_shared_element">counterparty</string>
+    <string name="send_money_success_message">%1$s sent to %2$s</string>
+    <string name="send_money_tile_hint">Send money to…</string>
+    <string name="sending_money_message">Sending</string>
+    <string name="sending_money_to_message">Sending to %1$s</string>
+    <string name="sendkit_ui_add_message_title">Add message</string>
+    <string name="sendkit_ui_autocomplete_add_recipient">Add recipient</string>
+    <string name="sendkit_ui_autocomplete_already_selected">Already selected</string>
+    <string name="sendkit_ui_autocomplete_delete">Delete</string>
+    <string name="sendkit_ui_autocomplete_hint_text">Type a name, phone number, or email</string>
+    <string name="sendkit_ui_autocomplete_hint_text_no_phone_number">Type a name or email</string>
+    <string name="sendkit_ui_autocomplete_invalid_input">Please insert a valid phone number or email address</string>
+    <string name="sendkit_ui_autocomplete_invalid_input_no_phone_number">Please insert a valid email address</string>
+    <string name="sendkit_ui_autocomplete_recipient_list">Recipients: %s</string>
+    <string name="sendkit_ui_autocomplete_see_names_text">"Recipients will see each other's names"</string>
+    <string name="sendkit_ui_autocomplete_selected">Selected</string>
+    <string name="sendkit_ui_autocomplete_show_email_text">Show email instead of name</string>
+    <string name="sendkit_ui_autocomplete_show_phone_contacts">Show phone contacts</string>
+    <string name="sendkit_ui_autocomplete_show_phone_text">Show number instead of name</string>
+    <string name="sendkit_ui_autocomplete_to_prefix">To</string>
+    <string name="sendkit_ui_avatar_100_or_more">99+</string>
+    <string name="sendkit_ui_close">Close</string>
+    <string name="sendkit_ui_collapse_button_content_description">%s, hide more contact options</string>
+    <string name="sendkit_ui_contact_added_description" formatted="false">%s, %s added</string>
+    <string name="sendkit_ui_contact_collapsed_announcement">%s, contact options hidden</string>
+    <string name="sendkit_ui_contact_expanded_announcement">%s, contact options shown</string>
+    <string name="sendkit_ui_contact_method_selected_description">Selected %s</string>
+    <string name="sendkit_ui_contact_method_unselected_description">Unselected %s</string>
+    <string name="sendkit_ui_contact_removed_description" formatted="false">%s, %s removed</string>
+    <string name="sendkit_ui_contacts_permission_required">Contacts permission required</string>
+    <string name="sendkit_ui_default_title">Select people</string>
+    <string name="sendkit_ui_expand_button_content_description">%s, show more contact options</string>
+    <string name="sendkit_ui_family_group">Family group</string>
+    <string name="sendkit_ui_feedback">Send feedback</string>
+    <string name="sendkit_ui_feedback_cancel">Cancel</string>
+    <string name="sendkit_ui_feedback_do_not_include_personal_data">Do not include data</string>
+    <string name="sendkit_ui_feedback_include_personal_data">Include data</string>
+    <string name="sendkit_ui_feedback_prompt">To help debug contact suggestions, you may optionally upload the contents of your on-device and cloud contacts. Personally identifying information in the contacts will be limited to what we need to help debug.</string>
+    <string name="sendkit_ui_generic_group">Group</string>
+    <string name="sendkit_ui_message_bar_hint">Add a message</string>
+    <string name="sendkit_ui_no_contacts">No contacts</string>
+    <string name="sendkit_ui_ok">OK</string>
+    <string name="sendkit_ui_phone_contacts">Phone contacts</string>
+    <string name="sendkit_ui_send_button_content_description">Send. %s</string>
+    <string name="sendkit_ui_send_button_text">Send</string>
+    <string name="sendkit_ui_send_via_app">Send via %s</string>
+    <string name="sendkit_ui_shared">Shared</string>
+    <string name="sendkit_ui_sharing_as">Sharing as %s</string>
+    <string name="sendkit_ui_show_more">More</string>
+    <string name="sendkit_ui_show_more_content_description">More contacts</string>
+    <string name="sendkit_ui_show_phone_contacts">Show phone contacts</string>
+    <string name="sendkit_ui_sms_charges">Standard SMS charges apply</string>
+    <string name="sendkit_ui_star_sign">★</string>
+    <string name="sendkit_ui_starred">Starred</string>
+    <string name="sendkit_ui_top_suggestions">Top suggestions</string>
+    <string name="sendkit_ui_top_suggestions_info_body">Based on people you know using Google services. Tap again to learn more.</string>
+    <string name="sent_money_to_message">Sent to %1$s</string>
+    <string name="settings">Settings</string>
+    <string name="settings_notification_update_error">Unable to set notification setting. Please try again later.</string>
+    <string name="settings_view_about_legal_documents_load_failure">Failed to load legal documents.</string>
+    <string name="settings_view_about_title">About</string>
+    <string name="settings_view_email_updates">Email updates</string>
+    <string name="settings_view_email_updates_disabled_description">Email updates disabled.</string>
+    <string name="settings_view_email_updates_enabled_description">Email updates enabled.</string>
+    <string name="settings_view_email_updates_subtitle">Get special offers and invitations to provide product feedback</string>
+    <string name="settings_view_no_phone_linked_about_content">"After you receive money at a phone number, you’ll get a notification that gives you the option to link that number to your Google Account.
+
+Once your phone number is linked, money sent to that number will show up in your Wallet app so you can quickly cash out."</string>
+    <string name="settings_view_notifications">Notifications</string>
+    <string name="settings_view_notifications_disabled_description">Notifications disabled.</string>
+    <string name="settings_view_notifications_enabled_description">Notifications enabled.</string>
+    <string name="settings_view_phone_link_about_content">This phone number is linked to your Google Account. When money is sent to this number, it will show up in your Wallet app.</string>
+    <string name="settings_view_phone_not_linked">No linked phone number</string>
+    <string name="settings_view_phone_number_remove">Remove</string>
+    <string name="settings_view_phone_number_title">Phone number</string>
+    <string name="settings_view_pin_timeout_update_failure">Failed to update PIN timeout</string>
+    <string name="settings_view_profile">Profile</string>
+    <string name="settings_view_security_title">Security</string>
+    <string name="settle_balance_connection_error_message">You need an internet connection to settle your balance.</string>
+    <string name="settle_balance_connection_error_title">Unable to settle your balance</string>
+    <string name="settle_balance_pay_off_button">Settle Balance</string>
+    <string name="settle_balance_transfer_action">Settle negative balance</string>
+    <string name="settle_balance_transfer_description">Settling balance</string>
+    <string name="settled_balance_transfer_description">Settled balance</string>
+    <string name="show_account_list">Show accounts</string>
+    <string name="sign_in">Sign in</string>
+    <string name="silent_notification">Silent</string>
+    <string name="single_notification_title">You have a notification</string>
+    <string name="skip_warm_welcome">Skip</string>
+    <string name="smart_date_n_days_ago">%s days ago</string>
+    <string name="smart_date_n_hours_ago">%s hours ago</string>
+    <string name="smart_date_n_minutes_ago">%s minutes ago</string>
+    <string name="smart_date_now">Now</string>
+    <string name="smart_date_today">Today</string>
+    <string name="smart_date_tomorrow">Tomorrow</string>
+    <string name="smart_date_yesterday">Yesterday</string>
+    <string name="statement_download_dialog_title">Downloading statement</string>
+    <string name="success_message_toast">Your balance may still be updating</string>
+    <item type="string" name="text_size_multiplier_inner">0.14</item>
+    <item type="string" name="text_size_multiplier_normal">0.17</item>
+    <item type="string" name="text_size_multiplier_outer">0.11</item>
+    <string name="time_placeholder">--</string>
+    <string name="time_separator">:</string>
+    <string name="top_up_connection_error_message">You need an internet connection to top up.</string>
+    <string name="top_up_connection_error_title">Unable to top up</string>
+    <string name="top_up_message">Adding to your Wallet Balance</string>
+    <string name="transaction_detail_cancel_request">Cancel request</string>
+    <string name="transaction_detail_complete_request">Pay now</string>
+    <string name="transaction_detail_header_receive">Received</string>
+    <string name="transaction_detail_header_send">Sent</string>
+    <string name="transaction_detail_icon_date">Date</string>
+    <string name="transaction_detail_icon_instrument">Instrument</string>
+    <string name="transaction_detail_icon_status">Status</string>
+    <string name="transaction_detail_icon_transaction">Transaction</string>
+    <string name="transaction_detail_request_again">Request again</string>
+    <string name="transaction_detail_resend">Send again</string>
+    <string name="transaction_detail_stored_value_fund">Added to Wallet Balance</string>
+    <string name="transaction_detail_stored_value_withdraw">Transferred to bank</string>
+    <string name="transaction_item_header_deposit">Added to Wallet Balance</string>
+    <string name="transaction_item_header_other">Google Wallet transaction</string>
+    <string name="transaction_item_header_receive">From %s</string>
+    <string name="transaction_item_header_request_received">Request received</string>
+    <string name="transaction_item_header_request_received_with_name">Request from %s</string>
+    <string name="transaction_item_header_request_sent">Request sent</string>
+    <string name="transaction_item_header_request_sent_with_name">Requested from %s</string>
+    <string name="transaction_item_header_send">To %s</string>
+    <string name="transaction_item_header_withdraw">Transferred to bank</string>
+    <string name="transaction_item_subheader_canceled">Canceled</string>
+    <string name="transaction_item_subheader_complete">Complete</string>
+    <string name="transaction_item_subheader_declined">Declined</string>
+    <string name="transaction_item_subheader_disputed">Disputed</string>
+    <string name="transaction_item_subheader_pending">Pending</string>
+    <string name="transaction_item_subheader_processing">Processing</string>
+    <string name="transaction_list_avatar_content_description">Profile image of counterparty</string>
+    <string name="transaction_list_label_complete">Complete</string>
+    <string name="transaction_list_label_incomplete">Incomplete</string>
+    <string name="transfer_money_error_zero">Enter an amount</string>
+    <string name="transfer_to">Transfer to:</string>
+    <string name="transfer_to_bank">Cash out</string>
+    <string name="transfer_to_bank_activity_title">Cash out</string>
+    <string name="transferred_money_message">Transferred using %1$s</string>
+    <string name="transferring_money">Transferring money</string>
+    <string name="unable_to_fetch_funding_source_error">Unable to retrieve your funding sources. Please try again later.</string>
+    <string name="unknown_wallet_balance_amount">$-.--</string>
+    <string name="up_navigation_description">Navigate Up</string>
+    <string name="upgrade_fail_text">This version of Google Wallet is no longer supported. Please download the latest version from Google Play.</string>
+    <string name="upgrade_title">Update Wallet</string>
+    <string name="upgrade_warn_text">This version of Google Wallet is no longer current. Please download the latest version from Google Play.</string>
+    <string name="url_country_not_supported">https://wallet.google.com/n/settings</string>
+    <string name="verify_identity_balance">To set up Wallet Balance, you’ll need to verify your identity. The info you provide will be used to meet government regulations and prevent fraud.</string>
+    <string name="verify_identity_card">To get the Google Wallet Card, you’ll need to verify your identity. The info you provide will be used to meet government regulations and prevent fraud.</string>
+    <string name="verify_identity_claim">To claim money, you’ll need to verify your identity. The info you provide will be used to meet government regulations and prevent fraud.</string>
+    <string name="verify_identity_generic">"You'll need to verify your identity. The info you provide will be used to meet government regulations and prevent fraud."</string>
+    <string name="verify_your_identity">Verify your identity</string>
+    <string name="version_number_message">Version %1$s</string>
+    <string name="wallet_app_settings_subtitle">Control permissions and other settings</string>
+    <string name="wallet_app_settings_title">App info</string>
+    <string name="wallet_balance_and_amount_title">Balance: %s</string>
+    <string name="wallet_balance_updating">Your balance is updating. Try again later.</string>
+    <string name="wallet_buy_button_place_holder">Buy with Google</string>
+    <string name="wallet_denied_contact_permission">To let Wallet access your contacts, change your permissions by going to &lt;a href=\"%1$s\" >Settings > App info&lt;/a>.</string>
+    <string name="wallet_location_permission_explanation">Google Wallet uses your location to help protect you from fraud. To allow this, go to Settings > App info.</string>
+    <string name="wallet_screen_blocked">Looks like another app is blocking access to Wallet. Turn off any apps that might be drawing over the screen and try again.</string>
+    <string name="wallet_stored_value_statement_no_permission">"Without access to your photos, media, and files, Google Wallet can't display your statements. You can change this in Settings."</string>
+    <string name="wallet_user">Wallet User</string>
+    <string name="welcome_intro_heading">Welcome to Google Wallet</string>
+    <string name="welcome_receive_heading">Receive money your way</string>
+    <string name="welcome_receive_text">Keep it in Wallet or use a debit card to quickly cash out to your bank account</string>
+    <string name="welcome_send_heading">Send money to friends &amp; family</string>
+    <string name="welcome_send_text">"The recipient can be anyone with an email address or phone number, even if they don't have Wallet"</string>
+    <string name="withdraw_connection_error_message">You need an internet connection to withdraw money.</string>
+    <string name="withdraw_connection_error_title">Unable to withdraw money</string>
+    <string name="withdraw_error_please_try_again">Unable to transfer to bank right now. Try again in a minute.</string>
+    <string name="withdraw_message">Transferring to your bank account</string>
+    <string name="withdrew_message">Transferred to your bank</string>
+    <string name="year_picker_description">Year list</string>
+    <item type="string" name="APKTOOL_DUMMY_0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_10">false</item>
+    <item type="string" name="APKTOOL_DUMMY_11">false</item>
+    <item type="string" name="APKTOOL_DUMMY_12">false</item>
+    <item type="string" name="APKTOOL_DUMMY_16">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_97">false</item>
+    <item type="string" name="APKTOOL_DUMMY_98">false</item>
+    <item type="string" name="APKTOOL_DUMMY_99">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_c2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_c3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_c4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_c5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_c6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_d8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_106">false</item>
+    <item type="string" name="APKTOOL_DUMMY_10f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_135">false</item>
+    <item type="string" name="APKTOOL_DUMMY_136">false</item>
+    <item type="string" name="APKTOOL_DUMMY_143">false</item>
+    <item type="string" name="APKTOOL_DUMMY_144">false</item>
+    <item type="string" name="APKTOOL_DUMMY_147">false</item>
+    <item type="string" name="APKTOOL_DUMMY_148">false</item>
+    <item type="string" name="APKTOOL_DUMMY_15e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_161">false</item>
+    <item type="string" name="APKTOOL_DUMMY_162">false</item>
+    <item type="string" name="APKTOOL_DUMMY_165">false</item>
+    <item type="string" name="APKTOOL_DUMMY_16f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1c3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1c4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1c9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_204">false</item>
+    <item type="string" name="APKTOOL_DUMMY_20a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_22f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_23d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_28c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_28d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_28e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_28f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_290">false</item>
+</resources>

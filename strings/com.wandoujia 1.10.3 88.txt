@@ -1,0 +1,1042 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="KB_per_s">%1$dKB/s</string>
+    <string name="MB_per_s">%1$.1fMB/s</string>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="about">关于</string>
+    <string name="acc_auto_install_service_description">"打开「豌豆荚辅助功能」，可确保豌豆荚「彻底加速」和「自动装」功能的顺畅运行。
+
+「彻底加速」可以对顽固重启的应用进行批量休眠操作，彻底阻止应用自启拖慢手机。
+
+「自动装」可以在批量安装和升级应用时，帮你点击所有按钮，无需一直盯着手机。
+
+打开服务时，系统会弹出通知，请点击「确定」。
+
+为保证以上功能正常使用，请将豌豆荚放入清理工具白名单中。
+
+以上功能无需 Root 权限，支持 Android 4.1 以上系统。豌豆荚承诺不会通过本功能收集任何隐私信息。如有问题，请联系我们：hello@wandoujia.com 或 QQ：4006528705 。"</string>
+    <string name="acc_auto_install_service_name">豌豆荚辅助功能</string>
+    <string name="accessibility_unable_message">当你使用内存清理工具关闭豌豆荚时，豌豆荚辅助功能会被系统关闭。 为正常使用「彻底加速」，请将豌豆荚加入清理工具的白名单中。</string>
+    <string name="accessibility_unable_restart">重新开启</string>
+    <string name="accessibility_unable_title">「彻底加速」功能被意外关闭</string>
+    <string name="account_bind">绑定 %1$s</string>
+    <string name="account_complete_profile_hint">余额会以豌豆币的形式, 充进你的豌豆荚账号, 为确保你可以安全支付, 请补全你的豌豆荚账号信息</string>
+    <string name="account_info_error">账号信息错误，请重试</string>
+    <string name="account_sdk_account_was_register_tips">"%s 已被注册
+请输入短信激活码、设置新密码后登录"</string>
+    <string name="account_sdk_activation_code_error">激活码输入错误，请重新输入</string>
+    <string name="account_sdk_activation_code_length">激活码</string>
+    <string name="account_sdk_activation_code_send_email_login">请登录邮箱完成修改</string>
+    <string name="account_sdk_activation_code_send_email_tips">重置密码的链接已发送至 %s</string>
+    <string name="account_sdk_activation_code_send_tips">"验证码已发送至 %s
+请输入短信激活码、设置新密码后登录"</string>
+    <string name="account_sdk_active_code_hint">激活码</string>
+    <string name="account_sdk_active_soon">立刻激活</string>
+    <string name="account_sdk_active_title">账号激活</string>
+    <string name="account_sdk_agree">注册豌豆荚账号表示你同意</string>
+    <string name="account_sdk_app_icon_name">豌豆荚</string>
+    <string name="account_sdk_app_name">account</string>
+    <string name="account_sdk_avatar_upload_failed">头像上传失败</string>
+    <string name="account_sdk_avatar_upload_success">头像上传成功</string>
+    <string name="account_sdk_bind_failure">绑定失败</string>
+    <string name="account_sdk_bind_waiting">正在绑定...</string>
+    <string name="account_sdk_cancel">取消</string>
+    <string name="account_sdk_captcha_hint">请输入图示验证码继续，不区分大小写：</string>
+    <string name="account_sdk_captcha_title">输入验证码</string>
+    <string name="account_sdk_change_avatar">正在更改头像，请稍候</string>
+    <string name="account_sdk_change_password_success">更改密码成功</string>
+    <string name="account_sdk_choose_wdj_account">请选择豌豆荚账号登录</string>
+    <string name="account_sdk_complete">完善豌豆荚账号</string>
+    <string name="account_sdk_complete_failure">完善账号失败</string>
+    <string name="account_sdk_complete_profile">补全豌豆荚账号</string>
+    <string name="account_sdk_complete_profile_failure">完善账号失败</string>
+    <string name="account_sdk_complete_waiting">正在完善...</string>
+    <string name="account_sdk_confirm">确认</string>
+    <string name="account_sdk_cur_tel_username">当前手机号将作为你的豌豆荚账号</string>
+    <string name="account_sdk_direct_login">已有账号登录</string>
+    <string name="account_sdk_email_big">Email</string>
+    <string name="account_sdk_email_countdownload_timer">重新发送 %ds</string>
+    <string name="account_sdk_email_empty">请填写 email</string>
+    <string name="account_sdk_email_invalid">你输入的不是一个有效的 email 地址，请重新输入。</string>
+    <string name="account_sdk_email_register_hint">你的 email</string>
+    <string name="account_sdk_email_show">我们已将激活链接发送到你的邮箱 %1$s，请前往你的邮箱完成操作。</string>
+    <string name="account_sdk_email_was_send">邮件已重新发送</string>
+    <string name="account_sdk_find_password">找回密码</string>
+    <string name="account_sdk_forget_password">忘记密码</string>
+    <string name="account_sdk_forget_password_failed">忘记密码失败</string>
+    <string name="account_sdk_forget_password_title">忘记密码</string>
+    <string name="account_sdk_forget_password_user_name_hit">请输入手机号或 email。</string>
+    <string name="account_sdk_found_contact">发现通讯录好友</string>
+    <string name="account_sdk_login">登录</string>
+    <string name="account_sdk_login_agree">登录豌豆荚账号表示你同意最终用户协议</string>
+    <string name="account_sdk_login_failure">登录失败</string>
+    <string name="account_sdk_login_other">快捷登录</string>
+    <string name="account_sdk_login_title">账号登录</string>
+    <string name="account_sdk_login_with_wdj">用豌豆荚账号登录</string>
+    <string name="account_sdk_modify_avatar">修改头像</string>
+    <string name="account_sdk_need_install_wechat_first">请先安装微信</string>
+    <string name="account_sdk_need_update_client_error">请升级到最新的客户端，才能使用该功能</string>
+    <string name="account_sdk_netop_network_error">服务器异常</string>
+    <string name="account_sdk_netop_server_error">服务器出错了, 请你稍后再使用。</string>
+    <string name="account_sdk_netop_submitting">正在提交，请稍候</string>
+    <string name="account_sdk_netop_submitting_complete_profile">正在完善账号, 请稍候</string>
+    <string name="account_sdk_netop_submitting_login">正在登录，请稍候</string>
+    <string name="account_sdk_netop_submitting_logout">正在注销，请稍候</string>
+    <string name="account_sdk_netop_submitting_register">正在注册新账号, 请稍候</string>
+    <string name="account_sdk_new_register">新用户注册</string>
+    <string name="account_sdk_next">下一步</string>
+    <string name="account_sdk_nick">昵称</string>
+    <string name="account_sdk_nick_empty">请输入新的昵称</string>
+    <string name="account_sdk_no_browser">对不起，你的手机未安装浏览器，请在豌豆荚安装</string>
+    <string name="account_sdk_no_network">对不起，请检查你的网络</string>
+    <string name="account_sdk_one_key_register">一键注册</string>
+    <string name="account_sdk_open_email">前往邮箱查看</string>
+    <string name="account_sdk_other_username_login">其他账号</string>
+    <string name="account_sdk_password_empty">请输入密码。</string>
+    <string name="account_sdk_password_hint">密码</string>
+    <string name="account_sdk_password_invalid">密码至少 8 个字符，不能为纯数字。</string>
+    <string name="account_sdk_password_least_length">密码至少 8 个字符，不能为纯数字</string>
+    <string name="account_sdk_password_too_long">密码过长</string>
+    <string name="account_sdk_previous">上一步</string>
+    <string name="account_sdk_problem">遇到问题？</string>
+    <string name="account_sdk_qq_login">QQ 登录</string>
+    <string name="account_sdk_register">注册</string>
+    <string name="account_sdk_register_agree">注册豌豆荚账号表示你同意最终用户协议</string>
+    <string name="account_sdk_register_email">使用 email 注册</string>
+    <string name="account_sdk_register_failure">注册失败</string>
+    <string name="account_sdk_register_success">注册成功</string>
+    <string name="account_sdk_register_tel">使用手机号注册</string>
+    <string name="account_sdk_register_to_game">注册豌豆荚账号登录游戏</string>
+    <string name="account_sdk_register_username_hint">手机号/email</string>
+    <string name="account_sdk_reigster_success_hint">恭喜你成功注册豌豆荚账号，你需要激活才可以进行评论等功能</string>
+    <string name="account_sdk_relogin">重新登录</string>
+    <string name="account_sdk_remember_password">我记得密码</string>
+    <string name="account_sdk_renren_login">人人登录</string>
+    <string name="account_sdk_resend_activation_code">重新发送激活码</string>
+    <string name="account_sdk_resend_email">重新发送</string>
+    <string name="account_sdk_reset_password">重新设置密码</string>
+    <string name="account_sdk_reset_password_failed">重置密码失败</string>
+    <string name="account_sdk_reset_password_success">密码重置成功</string>
+    <string name="account_sdk_reseting_password">正在重置密码，请稍候</string>
+    <string name="account_sdk_save">保存</string>
+    <string name="account_sdk_send_sms">将发送一条短信给豌豆荚完成注册，运营商会收取相应的短信费用</string>
+    <string name="account_sdk_send_sms_failure">短信发送失败，请使用 email 方式注册</string>
+    <string name="account_sdk_set_avatar">设置头像</string>
+    <string name="account_sdk_sina_login">微博登录</string>
+    <string name="account_sdk_tel_empty">请输入手机号。</string>
+    <string name="account_sdk_tel_invalid">你输入的手机号码不正确，请重新输入。</string>
+    <string name="account_sdk_tel_register_hint">手机号</string>
+    <string name="account_sdk_tel_show">手机号：%1$s</string>
+    <string name="account_sdk_title_terms">最终用户协议</string>
+    <string name="account_sdk_try_again">重新输入</string>
+    <string name="account_sdk_unlogin">激活未登录</string>
+    <string name="account_sdk_user_exist">你已经使用过 %1$s 注册豌豆荚账号，要直接使用这个账号登录吗？</string>
+    <string name="account_sdk_user_not_exist">账号不存在，请重新输入</string>
+    <string name="account_sdk_user_not_register">%1$s 尚未注册豌豆荚账号，现在帮你注册一个？</string>
+    <string name="account_sdk_user_register">新用户注册</string>
+    <string name="account_sdk_username">用户名：</string>
+    <string name="account_sdk_username_empty">请填写用户名</string>
+    <string name="account_sdk_username_exist">%1$s 已注册过豌豆荚账号，请用该账号直接登录。</string>
+    <string name="account_sdk_username_hint">手机号/email</string>
+    <string name="account_sdk_username_invalid">手机号/ email 格式不正确,请重新填写。</string>
+    <string name="account_sdk_username_too_long">用户名过长</string>
+    <string name="account_sdk_username_type">手机号/ email</string>
+    <string name="account_sdk_vcode_hint">验证码</string>
+    <string name="account_sdk_verification_choose_hint">为保障账号安全，需要进行身份验证，请选择验证方式</string>
+    <string name="account_sdk_verification_code_hint">验证码</string>
+    <string name="account_sdk_verification_email_input_hint">请打开你收到的验证邮件，完成操作。</string>
+    <string name="account_sdk_verification_email_resend_complete">重新发送验证邮件</string>
+    <string name="account_sdk_verification_email_resend_hint">重新发送验证邮件 (%1$s)</string>
+    <string name="account_sdk_verification_email_send_hint">发送验证邮件到：</string>
+    <string name="account_sdk_verification_email_target_hint">邮箱：</string>
+    <string name="account_sdk_verification_email_waiting">正在验证邮箱...</string>
+    <string name="account_sdk_verification_failure">验证失败</string>
+    <string name="account_sdk_verification_password_input_hint">请输入您的账号密码，完成操作。</string>
+    <string name="account_sdk_verification_qq">QQ 客服：4006528705</string>
+    <string name="account_sdk_verification_send_waiting">正在发送验证码...</string>
+    <string name="account_sdk_verification_tel_input_hint">请输入你收到的短信验证码，完成操作。</string>
+    <string name="account_sdk_verification_tel_resend_complete">重新发送验证码</string>
+    <string name="account_sdk_verification_tel_resend_hint">重新发送验证码 (%1$s)</string>
+    <string name="account_sdk_verification_tel_send_hint">发送验证短信到：</string>
+    <string name="account_sdk_verification_tel_target_hint">手机号：</string>
+    <string name="account_sdk_verification_tel_waiting">正在验证手机...</string>
+    <string name="account_sdk_verification_waiting">正在验证...</string>
+    <string name="account_sdk_verify">激活账号</string>
+    <string name="account_sdk_verify_captcha_again">重发激活码 (%1$s)</string>
+    <string name="account_sdk_verify_captcha_complete">重新发送</string>
+    <string name="account_sdk_verify_complete">激活完成</string>
+    <string name="account_sdk_verify_email_again">重发激活邮件 (%1$s)</string>
+    <string name="account_sdk_verify_email_hint">你刚才的操作需要验证账号真实性后才可以继续。</string>
+    <string name="account_sdk_verify_emial_complete">重发激活邮件</string>
+    <string name="account_sdk_verify_tel_hint">请输入你手机收到的短信激活码，完成操作。</string>
+    <string name="account_sdk_wandoujia">豌豆荚</string>
+    <string name="account_sdk_wechat_login">微信登录</string>
+    <string name="account_user_register">新用户注册</string>
+    <string name="action_continue">继续</string>
+    <string name="action_start">开 始</string>
+    <string name="add_favorite_app_success">「%1$s」有内容更新时你将第一时间收到通知</string>
+    <string name="ads_label">Ad</string>
+    <string name="ago">前</string>
+    <string name="all">全部</string>
+    <string name="already_copied_to_clipbord">已复制链接到剪贴板</string>
+    <string name="and_so_on">等</string>
+    <string name="app_auto_install_allow_once">仅允许一次</string>
+    <string name="app_auto_install_confirm">确定</string>
+    <string name="app_auto_install_confirm_uppercase">确定</string>
+    <string name="app_auto_install_done">完成</string>
+    <string name="app_auto_install_done_miui">我知道了</string>
+    <string name="app_auto_install_finish_miui">完成</string>
+    <string name="app_auto_install_force_turn_off_desc">「自动装」被意外关闭，可能因为你强制退出过豌豆荚。</string>
+    <string name="app_auto_install_force_turn_off_title">「自动装」在清理内存时被系统关闭</string>
+    <string name="app_auto_install_hint">安装和升级应用，无需盯着手机反复点击。</string>
+    <string name="app_auto_install_install">安装</string>
+    <string name="app_auto_install_lenovo_install_success">安装成功</string>
+    <string name="app_auto_install_lenovo_install_success_button">完成</string>
+    <string name="app_auto_install_lenovo_le_install_success">安装成功</string>
+    <string name="app_auto_install_lenovo_no_perm">该应用没有申请任何权限</string>
+    <string name="app_auto_install_lenovo_pass_le_security">已通过乐安全防病毒检测</string>
+    <string name="app_auto_install_lenovo_perm">该应用申请了以下权限：</string>
+    <string name="app_auto_install_lenovo_security_change_permission">更改权限</string>
+    <string name="app_auto_install_lenovo_security_success">应用安装完成。</string>
+    <string name="app_auto_install_next">下一步</string>
+    <string name="app_auto_install_replace">替换</string>
+    <string name="app_auto_install_setting_button">知道了</string>
+    <string name="app_auto_install_setting_desc">开启功能需要你授权确认，本功能不会带来任何风险。</string>
+    <string name="app_auto_install_setting_title">开启「豌豆荚辅助功能」</string>
+    <string name="app_auto_install_steps">共帮你按了 %s 次按钮</string>
+    <string name="app_auto_install_tips">豌豆荚为你自动装应用</string>
+    <string name="app_auto_install_title">开启自动装，解决你的一大烦恼</string>
+    <string name="app_can_not_opp">未能打开应用</string>
+    <string name="app_count">%1$d 个应用</string>
+    <string name="app_detail_meta_follow_num">%1$s人添加\u0009\u0009</string>
+    <string name="app_detail_meta_install_num">%1$s人安装\u0009\u0009</string>
+    <string name="app_detail_meta_installed_num">人安装</string>
+    <string name="app_detail_meta_others">%1$s人安装\u0009%2$s</string>
+    <string name="app_downloading">任务已开始</string>
+    <string name="app_follow_count_string">%s人添加</string>
+    <string name="app_name">豌豆荚一览</string>
+    <string name="app_state_download_error">下载失败</string>
+    <string name="app_symbol">~</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="apps">应用</string>
+    <string name="apps_detail_tips">在这里能方便地浏览「%s」的所有新内容</string>
+    <string name="april">Apr</string>
+    <string name="article">文章</string>
+    <string name="august">Aug</string>
+    <string name="auth_default">绑定账号</string>
+    <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
+    <string name="auth_google_play_services_client_google_display_name">Google</string>
+    <string name="auth_name_hint">用户名</string>
+    <string name="auth_network_error_tip">如无法访问网页，可以通过代理服务器完成登录授权</string>
+    <string name="auth_privacy">保密承诺</string>
+    <string name="auth_privacy_tip">以上信息只用于向 %1$s 申请授权，豌豆荚一览不会储存这些信息或提供给第三方。</string>
+    <string name="auth_submitting">正在提交...</string>
+    <string name="auth_success">绑定成功</string>
+    <string name="auto_follow_etc">还有%1$s等 %2$d 个应用</string>
+    <string name="auto_follow_tips">已自动添加你安装的应用</string>
+    <string name="avatar_tip_subtitle">这里有你已经添加的全部应用，你可以进行管理</string>
+    <string name="below_content_from">以下内容来自</string>
+    <string name="byte_per_s">%1$dB/s</string>
+    <string name="cache_size_format">当前缓存 %s</string>
+    <string name="cached_tasks">已缓存</string>
+    <string name="can_not_unfollow_tip">豌豆荚一览提供产品更新信息及有趣内容，是默认栏目，不能被取消哦</string>
+    <string name="cancel">取消</string>
+    <string name="category">栏目</string>
+    <string name="check_update">检查更新</string>
+    <string name="clear">清除</string>
+    <string name="clear_cache_completed">缓存清理完成</string>
+    <string name="clear_unread">清除未读标记</string>
+    <string name="click_to_login_in_another_way">点这里切换登录方式</string>
+    <string name="comment">评论</string>
+    <string name="common_android_wear_notification_needs_update_text"><g id="app_name">%1$s</g> requires an update to the Android Wear app.</string>
+    <string name="common_android_wear_update_text"><g id="app_name">%1$s</g>" won't run unless you update the Android Wear app."</string>
+    <string name="common_android_wear_update_title">Update Android Wear</string>
+    <string name="common_google_play_services_api_unavailable_text"><g id="app_name">%1$s</g> requires one or more Google Play services that are not currently available. Please contact the developer for assistance.</string>
+    <string name="common_google_play_services_enable_button">Enable Google Play services</string>
+    <string name="common_google_play_services_enable_text"><g id="app_name">%1$s</g>" won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Requested by <g id="app_name">%1$s</g></string>
+    <string name="common_google_play_services_install_button">Get Google Play services</string>
+    <string name="common_google_play_services_install_text_phone"><g id="app_name">%1$s</g>" won't run without Google Play services, which are missing from your phone."</string>
+    <string name="common_google_play_services_install_text_tablet"><g id="app_name">%1$s</g>" won't run without Google Play services, which are missing from your tablet."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
+    <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
+    <string name="common_google_play_services_needs_enabling_title">An application requires Google Play services to be enabled.</string>
+    <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
+    <string name="common_google_play_services_network_error_title">Network Error</string>
+    <string name="common_google_play_services_notification_needs_update_title">An application requires an update for Google Play services.</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_sign_in_failed_text">Error signing in the specified account. Please choose a different account.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Sign in failed</string>
+    <string name="common_google_play_services_unknown_issue">Unknown issue with Google Play services.</string>
+    <string name="common_google_play_services_unsupported_text"><g id="app_name">%1$s</g> relies on Google Play services, which is not supported by your device. Contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text"><g id="app_name">%1$s</g>" won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text"><g id="app_name">%1$s</g>" won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_updating_title">Google Play services are updating</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="common_string_comma">，</string>
+    <string name="common_string_dot">、</string>
+    <string name="complete_tasks">已完成的任务</string>
+    <string name="confirm">确定</string>
+    <string name="confirm_continue_play_in_mobile">正在使用移动网络，继续播放将会消耗你的流量，是否继续？</string>
+    <string name="confirm_logout">确认是否退出登录</string>
+    <string name="confirm_set_wallpaper">确定要将图片设置为壁纸？</string>
+    <string name="content">内容</string>
+    <string name="content_from">内容来自</string>
+    <string name="content_policy">知识产权保护声明</string>
+    <string name="continue_play">继续播放</string>
+    <string name="cover_story">- Cover Story -</string>
+    <string name="creating_shortcut">正在创建快捷方式</string>
+    <string name="current_version">当前版本 V%s</string>
+    <string name="days_ago">%1$d天前</string>
+    <string name="days_later">%1$d天后</string>
+    <string name="deauth_default">取消绑定</string>
+    <string name="december">Dec</string>
+    <string name="detail">详情</string>
+    <string name="detail_empty_subtitle">可能是因为内容源被下线</string>
+    <string name="detail_empty_title">暂时找不到内容</string>
+    <string name="detail_entry">查看更多应用详情</string>
+    <string name="dialog_checkbox_no_tip">不再提示</string>
+    <string name="discovery">发现</string>
+    <string name="download_download_unknown_title">&lt;Untitled></string>
+    <string name="download_five_dialog_content">更多应用的信息需要在豌豆荚查看, 你要下载豌豆荚吗？</string>
+    <string name="download_five_dialog_title">需要下载豌豆荚</string>
+    <string name="download_from">来自：</string>
+    <string name="download_gamepacket_detail">"此游戏需要数据包支持才能正常运行。
+未能自动获取到您手机的 CPU 类型，请选择适合您手机 CPU 的游戏数据包："</string>
+    <string name="download_gamepacket_title">请根据手机 CPU 选择数据包</string>
+    <string name="download_notification_app_complete">任务完成，点击安装</string>
+    <string name="download_notification_download_pending">等待任务开始...</string>
+    <string name="download_notification_downloading">正在下载</string>
+    <string name="download_notification_failed">个应用下载失败</string>
+    <string name="download_notification_failed_one">下载失败</string>
+    <string name="download_notification_install">点击安装</string>
+    <string name="download_notification_look">点击查看</string>
+    <string name="download_notification_need_wifi_for_size">等待 Wi-Fi 或连接电脑后开始任务</string>
+    <string name="download_notification_open_content">点击打开</string>
+    <string name="download_notification_open_title">安装完成</string>
+    <string name="download_notification_pausing">个应用已暂停下载</string>
+    <string name="download_notification_pausing_one">已暂停下载</string>
+    <string name="download_notification_resource_complete">任务完成，点击打开</string>
+    <string name="download_notification_running">个应用正在下载</string>
+    <string name="download_notification_success">下载完成</string>
+    <string name="download_notification_wait_one">稍后下载</string>
+    <string name="download_notification_wait_wifi">等待 Wi-Fi 连接后开始下载</string>
+    <string name="download_notification_waiting">个应用稍后下载</string>
+    <string name="download_open_file_not_exist">文件已移除，打开失败</string>
+    <string name="download_percent">" "<g id="number">%d</g> <g id="percent">%%</g>" "</string>
+    <string name="ebook_state_finish">已完结</string>
+    <string name="ebook_state_stop">已停更</string>
+    <string name="ebook_state_updating">连载中</string>
+    <string name="empty_search_feedback">告诉我们你想搜索什么？</string>
+    <string name="empty_sub_title">稍后再来看看</string>
+    <string name="empty_sub_title_favor">去首页发现你感兴趣的应用内内容</string>
+    <string name="empty_sub_title_feed">在这里添加更多你感兴趣的内容</string>
+    <string name="empty_sub_title_no_image_feed">可以去「美和创意」发现更多优质美图</string>
+    <string name="empty_sub_title_no_video_feed">可以去「书影音」发现更多优质视频</string>
+    <string name="empty_title">暂无内容</string>
+    <string name="empty_title_favor">暂无收藏</string>
+    <string name="empty_title_feed">暂无内容</string>
+    <string name="empty_title_no_image_feed">暂无图片内容</string>
+    <string name="empty_title_no_video_feed">暂无视频内容</string>
+    <string name="empty_title_search">未找到相关搜索结果</string>
+    <string name="empty_title_to_login">"登录后就能在这个页面
+统一刷所有感兴趣应用的更新"</string>
+    <string name="empty_title_to_login_favorite">登录后才能收藏你喜欢的内容</string>
+    <string name="empty_title_to_login_offline">登录后才能使用自动离线功能</string>
+    <string name="error_password_empty">请输入密码</string>
+    <string name="error_report">报错</string>
+    <string name="error_username_empty">请填写用户名</string>
+    <string name="expired">已过期</string>
+    <string name="explore_category_title">推荐</string>
+    <string name="explore_hot_query_title">一览近期热点</string>
+    <string name="fab_tip_subtitle">我们为你精心挑选了一些应用，在这里你可以发现更多好应用</string>
+    <string name="favorite">收藏</string>
+    <string name="february">Feb</string>
+    <string name="feed_content_error">页面排版有问题？</string>
+    <string name="feed_copyright">本页面由豌豆荚采用应用内搜索技术自动抓取，在未重新编辑原始内容的情况下对版式做了优化以提升阅读体验 · 版权举报</string>
+    <string name="feed_related_title">更多有趣内容</string>
+    <string name="feed_title">豌豆荚一览</string>
+    <string name="feed_url_null">暂时只支持 APP 打开</string>
+    <string name="feedback">反馈</string>
+    <string name="feedback_account">"
+豌豆荚帐户: %1$s"</string>
+    <string name="feedback_copy_wx">已将服务号复制到剪切板，快去微信里公共号里搜索吧</string>
+    <string name="feedback_empty">请填写反馈内容</string>
+    <string name="feedback_failed">糟糕！貌似刚才的反馈不成功，重新试试~</string>
+    <string name="feedback_feed_hint">请告诉我们你遇到的具体问题，我们会尽快处理</string>
+    <string name="feedback_foot_content">"想和豌豆荚团队直接交流？ 
+请添加微信服务号: &lt;font color=#4cc9b6>User - Ops&lt;/font>"</string>
+    <string name="feedback_hint">请输入反馈内容</string>
+    <string name="feedback_hint_bad">请填写您觉得想吐槽的地方并提交</string>
+    <string name="feedback_hint_good">给我们几句表扬好吗?</string>
+    <string name="feedback_provider_title">"
+内容源: %1$s"</string>
+    <string name="feedback_rating_content">请问你有多大意愿向亲友推荐这个应用</string>
+    <string name="feedback_success">感谢你的反馈</string>
+    <string name="feedback_title">"
+文章 title: %1$s"</string>
+    <string name="fill_account_info">请输入 %1$s 账号信息</string>
+    <string name="filter_all">全部</string>
+    <string name="follow">关注</string>
+    <string name="follow_count">%1$d 人添加</string>
+    <string name="follow_tip_format">已添加，可以查看「%s」应用更新的内容了</string>
+    <string name="followed_app">添加的应用</string>
+    <string name="font">字体大小</string>
+    <string name="font_big">大字号</string>
+    <string name="font_bigger">特大字号</string>
+    <string name="font_example_content">"鹅，鹅，鹅，
+曲项向天歌。
+白毛浮绿水，
+红掌拨清波。"</string>
+    <string name="font_example_title">咏鹅 - 骆宾王</string>
+    <string name="font_middle">中字号</string>
+    <string name="font_small">小字号</string>
+    <string name="font_super">超大字号</string>
+    <string name="friday">周五</string>
+    <string name="from">- 来自 -</string>
+    <string name="from_app_channels">以下内容来自「 %1$s 」栏目</string>
+    <string name="from_app_channels_all">来自应用内全部内容</string>
+    <string name="game_packet_network_wait">等待网络连接后开始任务</string>
+    <string name="game_packet_not_available">获取数据包失败，正在修复中</string>
+    <string name="gamepacket_unzip_warning_confirm">仍然继续</string>
+    <string name="gamepacket_unzip_warning_message">"安装此数据包游戏预计需要 %1$s 空间。
+您的手机空间可能不足，是否继续？"</string>
+    <string name="gamepacket_unzip_warning_title">安装提示</string>
+    <string name="gift_pick_failed">礼包领取失败，请稍后再试</string>
+    <string name="go_to_see">去看看</string>
+    <string name="hibernating_app_cutting">正在通过辅助功能切断自启通道</string>
+    <string name="hibernating_app_name">正在为你休眠 </string>
+    <string name="hibernating_app_start">正在停止%1$s</string>
+    <string name="hibernating_cancel">取消</string>
+    <string name="hibernating_done">完成</string>
+    <string name="hibernating_failed">休眠失败</string>
+    <string name="hibernating_next">下一页</string>
+    <string name="hibernating_result">"彻底加速已为你休眠 %1$d 个应用，清除 %2$s 内存垃圾，这些应用将不会再自启。
+赶紧去试试，看看手机变得有多快！"</string>
+    <string name="hibernating_success">休眠成功</string>
+    <string name="hibernation_black_list_header">款应用将被休眠：</string>
+    <string name="hibernation_complete">完成</string>
+    <string name="hibernation_finish">加速完成</string>
+    <string name="hibernation_force_stop">强行停止</string>
+    <string name="hibernation_force_stop_miui">结束运行</string>
+    <string name="hibernation_force_stop_samsung">强制停止</string>
+    <string name="hibernation_guide_notification">被清理的应用可能会在后台自行启动， 点此彻底加速</string>
+    <string name="hibernation_loading">扫描中...</string>
+    <string name="hibernation_no_need">系统已加速到最佳状态</string>
+    <string name="hibernation_one_key">一键休眠</string>
+    <string name="hibernation_start">开始加速</string>
+    <string name="hibernation_summary_content" formatted="false">将休眠 %d 款应用, 释放 %s 内存</string>
+    <string name="hibernation_summary_none">请选择希望休眠的应用</string>
+    <string name="hibernation_toast_notification">已清理 %1$sMB 内存垃圾，提速 %2$s%%</string>
+    <string name="hibernation_white_list_header">款应用建议保持运行：</string>
+    <string name="hot_query_head">热门搜索:</string>
+    <string name="hours_ago">%1$d 小时前</string>
+    <string name="iOS">iOS</string>
+    <string name="i_know">我知道了</string>
+    <string name="illegal_download_params">下载参数错误</string>
+    <string name="image">图片</string>
+    <string name="image_auto_load">无图模式</string>
+    <string name="image_auto_load_wifi">移动网络下不加载图片</string>
+    <string name="image_download_not_finished">图片还没有完成下载</string>
+    <string name="image_from_">来自 %s 的图片</string>
+    <string name="image_save_failed">图片保存失败</string>
+    <string name="image_save_success">图片已保存到相册中</string>
+    <string name="image_share_failed">图片分享失败</string>
+    <string name="instagram_web_auth_network_failed_tip">请确认你的网络连接可以访问 Instagram（仅首次登录时需要）。</string>
+    <string name="install">安装</string>
+    <string name="install_now">马上安装</string>
+    <string name="installed">已安装</string>
+    <string name="installing">安装中</string>
+    <string name="invalid_package_name">无效包名</string>
+    <string name="invalid_url">无效URL</string>
+    <string name="ios_app_can_not_install">此应用暂时只有iOS版本，无法安装</string>
+    <string name="ios_only_description">该应用只有 iOS 版本，你可以通过 + 获取最新内容</string>
+    <string name="january">Jan</string>
+    <string name="july">Jul</string>
+    <string name="june">Jun</string>
+    <string name="just_now">刚刚</string>
+    <string name="know">知道了</string>
+    <string name="last_day">昨天</string>
+    <string name="last_week_prefix">上</string>
+    <string name="launch_signin">"你感兴趣的应用内最新内容一览无余
+"</string>
+    <string name="library_content">已添加 %1$s 个应用</string>
+    <string name="library_entry">管理我的应用</string>
+    <string name="library_followed">关注</string>
+    <string name="library_installed">已安装</string>
+    <string name="library_local_app_sub_title">v %1$s · %2$s</string>
+    <string name="library_unfollow">√已关注</string>
+    <string name="library_uninstalled">卸载</string>
+    <string name="library_upgrade">有更新</string>
+    <string name="library_upgrade_content">升级服务正在建设中</string>
+    <string name="link">链接</string>
+    <string name="loading">正在加载...</string>
+    <string name="login">登录</string>
+    <string name="login_error_account_bean_null">登录失败，请检查网络和时间设置</string>
+    <string name="login_failed">登录失败</string>
+    <string name="login_tip">注册后可以添加更多感兴趣的应用，还能收藏和分享喜欢的内容</string>
+    <string name="login_tip_users">豌豆荚最活跃的 0.02% 用户</string>
+    <string name="login_title">注册后继续使用</string>
+    <string name="login_to_continue">想要体验完整功能？请注册后继续操作</string>
+    <string name="login_to_favor">只有登录账号才能收藏你喜欢的内容</string>
+    <string name="login_to_follow">"你已经添加了 5 款应用
+登录后才能添加更多"</string>
+    <string name="login_to_follow_instagram">登录后才能绑定 Instagram 帐号</string>
+    <string name="login_to_share_image">想要分享这张图片？请登录后继续操作</string>
+    <string name="logout">退出登录</string>
+    <string name="manual_box_title">随便看看</string>
+    <string name="march">Mar</string>
+    <string name="may">May</string>
+    <string name="media_or_file_error">噢哦，SD 卡没有接好或者空间不足，请你检查后再重试</string>
+    <string name="media_press">公众号</string>
+    <string name="media_press_description">这是一个公众号，你可以通过 + 获取最新内容</string>
+    <string name="minutes_ago">%1$d 分钟前</string>
+    <string name="moment">朋友圈</string>
+    <string name="monday">周一</string>
+    <string name="month_day">%1$d 月 %2$d 日</string>
+    <string name="more">更多</string>
+    <string name="my_favor">我的收藏</string>
+    <string name="network_auth_error">登录超时，需要重新登录</string>
+    <string name="network_connection_error">网络还没有准备好</string>
+    <string name="network_error">网络不稳定</string>
+    <string name="new_account">创建账号</string>
+    <string name="new_included_app">新收录的应用</string>
+    <string name="new_update" formatted="false">%s 个应用 · %s 条新内容</string>
+    <string name="next_step">下一步</string>
+    <string name="night_mode">夜间模式</string>
+    <string name="no_connection_push_content">内容已离线成功，可以查看离线好的内容。</string>
+    <string name="no_enough_storage_tips">当前SD卡存储空间不足，无法完成任务，请先整理一下手机资源再重试?</string>
+    <string name="no_launch_push_content">过去三天你都错过了什么？来一览看看。</string>
+    <string name="non_wifi_play_tips">当前是 2G/3G 网络，播放可能会消耗你的流量</string>
+    <string name="notification_download_failed">任务失败</string>
+    <string name="november">Nov</string>
+    <string name="nps_empty_tip">请选择分数再提交</string>
+    <string name="nps_share_ripple_confirm_title">分享豌豆荚一览给朋友</string>
+    <string name="num_split_level_base">4</string>
+    <string name="num_split_level_base_one">万</string>
+    <string name="num_split_level_base_three">万亿</string>
+    <string name="num_split_level_base_two">亿</string>
+    <string name="nux_enter">立即开始</string>
+    <string name="nux_slogan">500+ 应用统一看，更省空间更流畅</string>
+    <string name="nux_tips">"这些应用的最新内容都能方便查看
+挑个你喜欢的应用试试吧"</string>
+    <string name="october">Oct</string>
+    <string name="offline">离线</string>
+    <string name="offline_content">离线内容</string>
+    <string name="offline_new_content_tip">你有 %1$s 条新内容，点击查看</string>
+    <string name="offline_only">只看离线内容</string>
+    <string name="offline_push_content">已成功离线来自「%1$s」等应用的 %2$s 篇内容，打开看看吧。</string>
+    <string name="offline_push_content_no_title">已成功离线 %1$s 篇内容，打开看看吧。</string>
+    <string name="offlined">已离线</string>
+    <string name="offlining">正在离线</string>
+    <string name="ok">好</string>
+    <string name="onboard_matched_tip">找到了 %1$d 个应用内的最新内容</string>
+    <string name="onboard_matched_tip_tail">不用逐一打开应用，今后就可以在豌豆荚一览中轻松浏览</string>
+    <string name="onboard_matching_tip">准备进入应用内精彩世界...</string>
+    <string name="onboard_matching_tip_tail">先去看看你安装的应用中有什么好内容...</string>
+    <string name="onboard_offline">Wi-Fi 下自动离线功能</string>
+    <string name="onboard_offline_mark_tip">标识表示阅读该条内容不会消耗流量</string>
+    <string name="onboard_offline_setting">可以在设置中关闭该功能</string>
+    <string name="onboard_offline_switch_on">已开启</string>
+    <string name="onboard_offline_tip">无网络时，也能浏览你感兴趣的应用内内容</string>
+    <string name="onboard_overview">你感兴趣的应用内最新内容一览无余</string>
+    <string name="onboard_overview_tip">使用豌豆荚帐号注册或登录</string>
+    <string name="onboard_recommend_tip">点击对勾可以取消添加</string>
+    <string name="onboard_tip_category">在这里发现更多有趣的应用</string>
+    <string name="onboard_tip_favor">把你喜欢的内容收入囊中</string>
+    <string name="onboard_tip_follow">添加你喜欢的应用，直接看到他们的内容</string>
+    <string name="onboard_tip_followed">开始探索藏在 %1$d 个应用内的内容吧！</string>
+    <string name="onboard_tip_no_matched">没有匹配到应用</string>
+    <string name="onboard_title">调整勾选保留你感兴趣的应用</string>
+    <string name="onboard_unmatched_tip">汇聚应用内的最新内容</string>
+    <string name="onboard_unmatched_tip_tail">不用逐一打开应用，今后就可以在豌豆荚一览中轻松浏览</string>
+    <string name="one_month">一个月</string>
+    <string name="one_week">一周</string>
+    <string name="open">打开</string>
+    <string name="open_app_checkbox">默认打开，不再提示</string>
+    <string name="open_in_app">用原 APP 打开原文？</string>
+    <string name="open_in_browser">用浏览器打开原文？</string>
+    <string name="open_video_in_browser">是否要调用浏览器进行播放？</string>
+    <string name="p4_walkman_2g_no_flow_hint">正在使用2G/3G网络，继续使用会消耗流量</string>
+    <string name="p4_walkman_2g_no_flow_hint_p1">正在使用2G/3G网络</string>
+    <string name="p4_walkman_2g_no_flow_hint_p2">继续使用会消耗流量</string>
+    <string name="p4_walkman_album_blank_text">未知专辑</string>
+    <string name="p4_walkman_cancel">取消</string>
+    <string name="p4_walkman_connection_network_setting">设置网络</string>
+    <string name="p4_walkman_download_provider_text">安装</string>
+    <string name="p4_walkman_download_start_hint">离线任务添加成功</string>
+    <string name="p4_walkman_float_provider_format">- 来自 %1$s</string>
+    <string name="p4_walkman_i_know">我知道了</string>
+    <string name="p4_walkman_menu_item_album_text">查看专辑</string>
+    <string name="p4_walkman_menu_item_copy_link_text">复制链接</string>
+    <string name="p4_walkman_menu_item_exit_text">结束播放</string>
+    <string name="p4_walkman_menu_item_open_link_text">在浏览器中打开</string>
+    <string name="p4_walkman_menu_item_widget_text">显示桌面悬浮窗</string>
+    <string name="p4_walkman_no_network">你的手机未连入可用的网络，请检查你的网络设置后重新尝试。</string>
+    <string name="p4_walkman_no_network_hint_p1">网络不可用暂停播放</string>
+    <string name="p4_walkman_no_network_hint_p2">请检查网络设置</string>
+    <string name="p4_walkman_open_provider_text">打开</string>
+    <string name="p4_walkman_open_url_dialog_message">你刚才点击了一个链接，是否要启动浏览器访问该链接</string>
+    <string name="p4_walkman_open_url_dialog_neg">取消</string>
+    <string name="p4_walkman_open_url_dialog_pos">确定</string>
+    <string name="p4_walkman_open_url_dialog_title">用浏览器打开链接</string>
+    <string name="p4_walkman_open_url_failed_hint">打开链接失败</string>
+    <string name="p4_walkman_play">播放</string>
+    <string name="p4_walkman_playlist_mything">我的音乐库</string>
+    <string name="p4_walkman_playlist_time_format">%1$d‘%2$d“</string>
+    <string name="p4_walkman_playlist_title">正在播放</string>
+    <string name="p4_walkman_playmode_list">顺序播放</string>
+    <string name="p4_walkman_playmode_list_loop">列表循环</string>
+    <string name="p4_walkman_playmode_random">随机播放</string>
+    <string name="p4_walkman_playmode_single_loop">单曲循环</string>
+    <string name="p4_walkman_provider_163_key">网易云音乐</string>
+    <string name="p4_walkman_provider_baidu_key">百度音乐</string>
+    <string name="p4_walkman_provider_default_name">未知来源</string>
+    <string name="p4_walkman_provider_dongting_key">天天动听</string>
+    <string name="p4_walkman_provider_duomi_key">多米</string>
+    <string name="p4_walkman_provider_install_alert_message">你的手机尚未安装&lt;font color=#f9572f> %1$s &lt;/font>, 安装后可获得更流畅的播放体验</string>
+    <string name="p4_walkman_provider_install_alert_neg">以后再说</string>
+    <string name="p4_walkman_provider_install_alert_pos">马上下载</string>
+    <string name="p4_walkman_provider_install_alert_title">安装提示</string>
+    <string name="p4_walkman_provider_install_no_info_hint">未能获取安装信息</string>
+    <string name="p4_walkman_provider_kugou_key">酷狗</string>
+    <string name="p4_walkman_provider_qq_key">QQ音乐</string>
+    <string name="p4_walkman_provider_xiami_key">虾米</string>
+    <string name="p4_walkman_redirect_failed_low_version">跳转失败，升级客户端试试</string>
+    <string name="p4_walkman_redirect_failed_no_info">没找到相关信息</string>
+    <string name="p4_walkman_singer_album_divider"> - </string>
+    <string name="p4_walkman_singer_blank_text">未知歌手</string>
+    <string name="p4_walkman_song_blank_text">未知歌曲</string>
+    <string name="p4_walkman_start_download_provider_hint">开始下载 %1$s</string>
+    <string name="p4_walkman_switch_off_text">关</string>
+    <string name="p4_walkman_switch_on_text">开</string>
+    <string name="p4_walkman_tip_no_network_title">网络不可用</string>
+    <string name="packet_waiting">准备中</string>
+    <string name="pause">暂停</string>
+    <string name="paused">已暂停</string>
+    <string name="play_exp_local_play_tips">此网页视频已缓存到本地，播放不会消耗流量</string>
+    <string name="play_exp_web_loading_tips">网页加载中，请稍候</string>
+    <string name="play_exp_webview_open_url_leave">离开页面</string>
+    <string name="play_exp_webview_open_url_msg">豌豆荚检测到当前网络环境为 2G/3G，离开已经缓存的页面会消耗流量</string>
+    <string name="play_exp_webview_open_url_title">2G/3G 离开缓存页面会消耗流量</string>
+    <string name="play_local">本地播放</string>
+    <string name="play_onboard">观看产品介绍</string>
+    <string name="play_online">在线播放</string>
+    <string name="popular_apps">- 热门应用 -</string>
+    <string name="popular_apps_sample">"一个
+爱范儿
+知乎日报
+国家地理"</string>
+    <string name="privacy_policy">隐私政策</string>
+    <string name="problem_feedback">问题反馈</string>
+    <string name="profile_sub_title">同步个人数据，解锁收藏等功能</string>
+    <string name="profile_title">注册/登录账号</string>
+    <string name="qq">QQ</string>
+    <string name="received">复制</string>
+    <string name="recently_update">- 最近更新 -</string>
+    <string name="recommend">相关</string>
+    <string name="recommend_award">豌豆荚设计奖 第%1$d期</string>
+    <string name="recommend_by">根据 %1$s 推荐</string>
+    <string name="recommend_download_change">下载量上升 %1$d%%</string>
+    <string name="recommend_hot">TOP500 热门应用</string>
+    <string name="recommend_provider_app_tips">&lt;font color=#4e9ce6>%1$s &lt;/font> 已经开始离线缓存，视频来自 %2$s。推荐你同时下载安装&lt;font color=#4e9ce6> %2$s &lt;/font>应用，享受更流畅的播放体验。</string>
+    <string name="recommend_rating">好评应用 好评率%1$d%%</string>
+    <string name="register">注册</string>
+    <string name="register_error_account_bean_null">注册失败，请检查网络和时间设置</string>
+    <string name="remove_favorite_app_success">已取消通知提醒</string>
+    <string name="retry">重试</string>
+    <string name="ripple_app_symbol">~</string>
+    <string name="running_tasks">进行中的任务</string>
+    <string name="saturday">周六</string>
+    <string name="search">搜索</string>
+    <string name="search_clean_history">清空历史记录</string>
+    <string name="search_clean_history_dialog_message">是否删除所有%s搜索历史</string>
+    <string name="search_clean_history_toast">搜索历史已清空</string>
+    <string name="search_tips">"这里还有更多精彩的应用和公众号
+都可以直接浏览它们的内容"</string>
+    <string name="search_what_you_want">搜索你想看到的应用或内容</string>
+    <string name="see_more_hint">请告诉我们应用的名称</string>
+    <string name="select_apps_number">已选择 %1$d 个应用</string>
+    <string name="seperator_mark">、</string>
+    <string name="september">Sep</string>
+    <string name="server_error">服务器不稳定</string>
+    <string name="set_wallpaper">设置壁纸</string>
+    <string name="setting_box_push_tip">在通知栏直接查看最新内容</string>
+    <string name="setting_clear_cache">清除缓存</string>
+    <string name="setting_font_size_subtitle">字体大小变更只对文章详情页生效</string>
+    <string name="setting_font_size_title">字体大小</string>
+    <string name="setting_night_mode_title">夜间模式</string>
+    <string name="setting_offline_tip">离线功能仅在 Wi-Fi 下会工作，你可以通过简单的打开应用触发离线功能，除此之外，一览也会在后台为你自动离线最新内容</string>
+    <string name="setting_offline_title">Wi-Fi 下自动离线功能</string>
+    <string name="setting_ongoing_push_on">随时一览</string>
+    <string name="setting_push_on">消息推送</string>
+    <string name="setting_push_tip">在通知栏提醒你感兴趣的应用内内容</string>
+    <string name="setting_push_title">推荐内容提醒</string>
+    <string name="settings">设置</string>
+    <string name="share">分享</string>
+    <string name="share_activity_not_found">应用未安装</string>
+    <string name="share_from">来自%s</string>
+    <string name="share_ripple">分享豌豆荚一览</string>
+    <string name="shuffle">点击刷新</string>
+    <string name="shuffle_feed">换一篇</string>
+    <string name="shuffle_tip">你有 %d 条新内容，点击查看</string>
+    <string name="start_receive">领取</string>
+    <string name="start_reuse">淘号</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="status_canceled">已取消</string>
+    <string name="status_downloading">正在下载…</string>
+    <string name="status_failed">下载失败，请重试</string>
+    <string name="status_pending">等待任务开始…</string>
+    <string name="status_success">任务完成</string>
+    <string name="string_new">New</string>
+    <string name="submit">提交</string>
+    <string name="subscribe_ready_desc">我们为你添加了你在豌豆荚关注的媒体账号对应的应用和公众号，现在一览可以浏览它们的内容了。</string>
+    <string name="subscribe_ready_title">可以在一览看豌豆荚的关注了</string>
+    <string name="sunday">周日</string>
+    <string name="switch_notify_error">设置更新失败，请检查网络设置</string>
+    <string name="switch_push">推送</string>
+    <string name="switch_push_ops">一览之选</string>
+    <string name="switch_push_ops_tip">一览之选</string>
+    <string name="switch_push_tip">通知栏提醒</string>
+    <string name="terms_of_use">用户服务协议</string>
+    <string name="thanks">"感谢在「豌豆荚一览」给我们提出意见的用户：
+
+ 赵培治
+翟彤辉
+詹得华
+楚亚奎
+林槟灿
+江国强
+尚一星
+James Hon
+Jason Wong
+Astrian Zheng
+陆蔚青
+李希文
+肖靖博
+肖乃铖
+李世新
+李帅
+彭圣淦
+胡雄峰
+杨鹏
+罗平
+钱坤
+许静
+张庆东
+张灵辉
+邓小良
+周于丰
+王习源
+余科伟
+欧建达
+赵培治
+翁淑暖
+罗海峰
+吴昊阳
+王攀
+王帅
+罗晶
+季达
+平杨
+陆琳
+胡黎
+丛一鸣
+黄伟桐
+钟翔宇
+唐卓轶
+向松桃
+张旻佑
+孙恺祺
+Janet Hong
+元悉蓉
+
+ 以及其它 16408 位用户给我们提供的各种表扬、批评和建议
+
+
+
+
+
+
+
+
+ 感谢我们的产品团队，他们将大部分精力投入到「豌豆荚一览」中，一点一点把它从蓝图变成现实：
+
+ 蔡蔚
+陈恒
+崔瑾
+范怀宇
+范力文
+付义
+郭容华
+郭伟
+何国宏
+黄学青
+邝飞
+李梦云
+李睿君
+刘晓旭
+马超
+马睿
+苏姜予
+宋京蔚
+孙占谋
+王俊煜
+王侃
+温凯强
+吴寒冬
+吴啸樾
+闫光
+杨帆
+杨涛
+尹方
+余晋豪
+曾默翰
+曾耀鹏
+张晓旭
+张宇
+赵望野
+甄珊珊
+周梦婷
+
+
+
+
+
+
+
+
+ 感谢挽起袖子助「豌豆荚一览」一臂或者很多臂之力的豌豆们，我们共同解决了许多困难：
+
+ 陈韵慈
+邓草原
+盖永娟
+高俊秀
+纪敏
+李建俊
+李瑞奇
+李垚
+凌晨添
+刘贺飞
+刘星
+马环宇
+马骁骁
+孟祥琳
+芈峮
+彭骋
+乔亚亚
+商立川
+孙文莲
+谭毅
+王洁
+王雨舟
+王语嫣
+文姝琪
+文振华
+吴力扬
+吴楠
+辛宇轩
+许青
+严静文
+杨红平
+姚雨辰
+于金伦
+张慧迪
+张永昊
+张悦
+周能翔
+周泼
+庄军
+朱文通
+祖兴龙
+
+
+
+
+
+
+
+
+ 感谢「豌豆荚一览」在豌豆荚内的其它最早用户，是他们一直连绵不绝的意见才让这个产品慢慢变为作品：
+
+ 艾洁
+白杨
+陈思
+陈兴润
+邓喆
+丁吉昌
+董力
+董雪敏
+杜玉婧
+高俊敏
+高雄
+郭淑明
+胡玥
+黄冬
+姜春生
+姜楠
+李思萌
+李响
+李晓菲
+李晓萌
+李忻扬
+李寅
+黎彦彤
+林志强
+刘欢
+刘天媛
+刘洋
+马超
+彭永义
+彭跃辉
+任熠
+司洋
+孙毅
+田晓云
+万东峰
+万连文
+王凤山
+魏瑾
+吴宁
+肖湘
+薛娇
+杨向军
+尤癸炎
+曾岑
+张奇
+张强
+郑进添
+周爽
+周婷
+
+
+
+
+
+
+
+
+ 感谢为「豌豆荚一览」方方面面工作提供指导和支持的其它 leader 们：
+
+ 常江
+陈振辉
+冯锋
+刘安逸
+宋阳
+姚从磊
+
+
+
+
+
+
+
+
+ 感谢一同为「豌豆荚一览」绘制蓝图的 leader 们：
+
+ 曹婷婷
+李大海
+李藻潞
+刘亚平
+彭任飞
+张宁
+
+
+
+
+
+
+
+
+ 感谢其它为「豌豆荚一览」画过画的朋友们：
+
+ 柴昊天
+程志达
+段湾
+马鲁东
+金晶
+孙北吉"</string>
+    <string name="theme_mode_day">白天模式</string>
+    <string name="theme_mode_night">夜间模式</string>
+    <string name="thursday">周四</string>
+    <string name="tips">提示</string>
+    <string name="tips_no_notwork">网络不可用，请检查你的网络设置或连接电脑上网。</string>
+    <string name="today">今天</string>
+    <string name="today_app_count">个应用的</string>
+    <string name="today_content_count">条最新内容</string>
+    <string name="today_from">来自</string>
+    <string name="today_notification_content">%1$s 条新内容</string>
+    <string name="today_notification_title">今天的%1$s到了, 快来看看~</string>
+    <string name="today_notification_title_default">内容更新了, 快来看看~</string>
+    <string name="tuesday">周二</string>
+    <string name="two_weeks">两周</string>
+    <string name="unfollow_tip">已成功移除</string>
+    <string name="unzipping">解压中</string>
+    <string name="unzipping_failed">解压失败</string>
+    <string name="unzipping_failed_insufficient_storage">解压失败，手机空间不足</string>
+    <string name="unzipping_progress">已解压 %1$s%%</string>
+    <string name="upgrade">升级</string>
+    <string name="upgrade_already_newest">已经是最新版本</string>
+    <string name="upgrade_checking_update">正在检查更新...</string>
+    <string name="upgrade_checkupdate_failed">检查更新失败</string>
+    <string name="upgrade_download_failed">下载新版本失败，请稍后重试</string>
+    <string name="upgrade_download_new_version">下载新版</string>
+    <string name="upgrade_downloading_new_version">正在下载...</string>
+    <string name="upgrade_force_download_yes">立即下载安装</string>
+    <string name="upgrade_need_uninstall_notify_message">"这次升级需先卸载当前版本，已有数据会被删除，请你提前做好备份。
+ 确定升级吗？"</string>
+    <string name="upgrade_need_uninstall_notify_title">请备份好数据</string>
+    <string name="video">视频</string>
+    <string name="video_auto_play">视频自动播放</string>
+    <string name="video_auto_play_always">使用移动网络与 Wi-Fi</string>
+    <string name="video_auto_play_never">从不自动播放视频</string>
+    <string name="video_auto_play_wifi">仅在 Wi-Fi 下</string>
+    <string name="video_buffering">正在缓冲...</string>
+    <string name="video_error_no_network">请检查网络连接</string>
+    <string name="video_error_unknown">视频出错了</string>
+    <string name="video_error_url_null">视频出错了</string>
+    <string name="video_error_wifi_disconnected">wifi 连接已断开</string>
+    <string name="video_from_">来自 %s 的视频</string>
+    <string name="video_play_in_mobile_network">正在使用移动网络观看视频</string>
+    <string name="view">查看</string>
+    <string name="view_all_with_arrow">查看全部</string>
+    <string name="view_more">查看更多</string>
+    <string name="view_more_topic">更多应用专题</string>
+    <string name="view_more_with_arrow">查看更多 ></string>
+    <string name="wait_reuse">等待淘号</string>
+    <string name="wallpaper_update_failed">壁纸设置失败</string>
+    <string name="wallpaper_update_success">壁纸设置成功</string>
+    <string name="wan_recommend_card_content">根据你的好友推荐</string>
+    <string name="wandoujia">豌豆荚</string>
+    <string name="wechat">微信</string>
+    <string name="wednesday">周三</string>
+    <string name="weibo">微博</string>
+    <string name="welcome">欢 迎</string>
+    <string name="welcome_onboard">Welcome aboard！</string>
+    <string name="welcome_user">欢迎， %s</string>
+    <string name="year_month">%1$d 年 %2$d 月</string>
+    <string name="yesterday">昨天</string>
+</resources>

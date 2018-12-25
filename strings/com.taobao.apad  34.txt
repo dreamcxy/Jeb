@@ -1,0 +1,1209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mini_env_pre">false</string>
+    <string name="mini_http_url">http://mcgw.alipay.com/gateway.do</string>
+    <string name="mini_debuglog">false</string>
+    <string name="msp_str_null" />
+    <string name="msp_app_name">支付宝快捷支付服务</string>
+    <string name="msp_loading_default">加载中</string>
+    <string name="msp_redo">重试</string>
+    <string name="msp_error_title_default">提示</string>
+    <string name="msp_net_error">不能连接到网络，是否重试？</string>
+    <string name="msp_net_error_exit">系统繁忙，请稍后再试。</string>
+    <string name="msp_action_settings">设置</string>
+    <string name="msp_xlistview_header_hint_normal">下拉刷新</string>
+    <string name="msp_xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="msp_xlistview_header_hint_loading">正在加载…</string>
+    <string name="msp_xlistview_header_last_time">上次更新时间：</string>
+    <string name="msp_xlistview_footer_hint_normal">查看更多</string>
+    <string name="msp_xlistview_footer_hint_ready">松开载入更多</string>
+    <string name="msp_xlistview_footer_hint_no_more">已是全部数据</string>
+    <string name="msp_allow_back_hint">本次支付尚未完成，是否退出支付宝快捷支付服务？</string>
+    <string name="msp_confirm_install_hint">升级提示</string>
+    <string name="msp_download_fail">下载安装包失败，是否重新下载？</string>
+    <string name="msp_install_continue">安装尚未完成，是否继续？</string>
+    <string name="msp_exit">退出</string>
+    <string name="msp_channel_state">当前选中已足够付款</string>
+    <string name="msp_close">关闭</string>
+    <string name="msp_on">开</string>
+    <string name="msp_off">关</string>
+    <string name="msp_memo_user_cancel">操作已经取消。</string>
+    <string name="msp_memo_app_cancel">程序或者数据出现问题。</string>
+    <string name="msp_memo_server_cancel">系统繁忙，请稍后再试。</string>
+    <string name="msp_app_error">系统繁忙，请稍后再试。</string>
+    <string name="msp_please_input">请输入</string>
+    <string name="msp_memo_repeat_pay">同一订单禁止同时多次支付。</string>
+    <string name="msp_alert_title">提示</string>
+    <string name="msp_PermissionDesCription">service for alipay application</string>
+    <string name="msp_debug_app_error">程序发生错误！点击确定退出程序。</string>
+    <string name="msp_debug_win_data_error">窗口数据非法。</string>
+    <string name="msp_debug_null_data">返回的业务数据为空</string>
+    <string name="msp_alert_dialog_title">注意</string>
+    <string name="msp_btn_ok">确定</string>
+    <string name="msp_update_notify">点击下载更新</string>
+    <string name="msp_start_download">开始下载</string>
+    <string name="msp_download_progress">下载进度:</string>
+    <string name="mini_str_null">xx</string>
+    <string name="mini_loading">加载中</string>
+    <string name="mini_net_error">不能连接到网络，是否重试？</string>
+    <string name="mini_redo">重试</string>
+    <string name="mini_cancel">取消</string>
+    <string name="mini_error_title_default">提示</string>
+    <string name="mini_app_error">系统繁忙，请稍后再试。</string>
+    <string name="mini_debug_app_error">程序发生错误！点击确定退出程序。</string>
+    <string name="mini_countdown_info">秒后重发</string>
+    <string name="mini_no_input">不能为空</string>
+    <string name="mini_format_error">格式错误</string>
+    <string name="mini_page_add_title">添加银行卡</string>
+    <string name="mini_page_add_hint">银行卡号</string>
+    <string name="mini_card_no">卡号</string>
+    <string name="mini_page_add_tips">提供支付密码和短信验证的双重保障</string>
+    <string name="mini_page_add_other_pay">其他付款方式</string>
+    <string name="mini_page_msg_title">填写银行卡信息</string>
+    <string name="mini_page_next">下一步</string>
+    <string name="mini_page_name">姓名</string>
+    <string name="mini_page_input_name_hint">持卡人姓名</string>
+    <string name="mini_card_type">卡类型</string>
+    <string name="mini_id_no">证件号</string>
+    <string name="mini_page_input_id_hint">证件号码</string>
+    <string name="mini_page_msg_check">信息加密处理，仅用于银行验证</string>
+    <string name="mini_page_msg_choose_type">选择证件类型</string>
+    <string name="mini_date">有效期</string>
+    <string name="mini_date_hint">月份/年份</string>
+    <string name="mini_safe_no">安全码</string>
+    <string name="mini_safe_no_hint">卡背面末三位数字</string>
+    <string name="mini_phone_no">手机号</string>
+    <string name="mini_phone_no_hint">银行预留手机号码</string>
+    <string name="mini_agree">同意</string>
+    <string name="mini_quickpay_protocol">《服务协议》</string>
+    <string name="mini_password">密码</string>
+    <string name="mini_password_hint">请输入密码</string>
+    <string name="mini_weakpassword_error_same">请不要使用相同的数字</string>
+    <string name="mini_weakpassword_error_serial">请不要使用连续的数字</string>
+    <string name="msp_mini_safty_code_info">安全码是打印在信用卡背面签名区的一组数字，一般是后3位数字</string>
+    <string name="msp_mini_safty_code_title">安全码说明</string>
+    <string name="msp_mini_read_protocal_title">选择阅读协议</string>
+    <string name="msp_mini_choose_identitify">选择证件类别</string>
+    <string name="msp_mini_card_type_text">卡类型</string>
+    <string name="mini_fp_validate_failuer">指纹校验失败，将转密码支付</string>
+    <string name="mini_fp_no_open_pay">你的指纹信息发生变更，请重新开启指纹密码</string>
+    <string name="mini_fp_validate_failuer_for">指纹校验失败</string>
+    <string name="alipay_net_error">不能连接到服务器，是否重试？</string>
+    <string name="alipay_data_error">系统繁忙，请稍后再试</string>
+    <string name="alipay_confirm_title">提示</string>
+    <string name="alipay_ensure">确定</string>
+    <string name="alipay_cancel">取消</string>
+    <string name="alipay_processing">加载中</string>
+    <string name="alipay_redo">重试</string>
+    <string name="alipay_keyboard">支付宝安全键盘</string>
+    <string name="appENName">taobao_apad</string>
+    <string name="appCNName">淘宝HD</string>
+    <string name="appVersion">2.6.5</string>
+    <string name="picPattern">.*taobao.*|.*cdn.*</string>
+    <string name="packageName">com.taobao.apad</string>
+    <string name="hybridCacheDir">taobao</string>
+    <string name="appKey">21587277</string>
+    <string name="activitieskey">23022227</string>
+    <string name="appSecret" />
+    <string name="ttid">212200</string>
+    <string name="isDebug">false</string>
+    <string name="enableGuide">true</string>
+    <string name="hasFirstLauchGuide">false</string>
+    <string name="environment">online</string>
+    <string name="hotDebug">taobaoapadhotdebug</string>
+    <string name="delayUpdateTime">0</string>
+    <string name="needZifeiTip">false</string>
+    <string name="mocklogin" />
+    <string name="previewhome">false</string>
+    <string name="dumpMemory">false</string>
+    <string name="enableSpdy">true</string>
+    <string name="lockPeriod">300000</string>
+    <string name="openMsgService">false</string>
+    <string name="customSettingsMode">0</string>
+    <string name="hotpatch_group">android_taobaoapad_hotpatch</string>
+    <string name="sso_version_code_key">com.taobao.android.sso.Version</string>
+    <string name="kakalib_kaka_package_name">com.etao.kaka</string>
+    <string name="kakalib_url_need_translate">ma.m.taobao.com#ma.taobao.com#q.ma.taobao.com#m.taobao.com</string>
+    <string name="kakalib_app_name">一淘火眼扫一扫</string>
+    <string name="kakalib_msg_camera_framework_bug">摄像头异常，请授权或重启设备后重试</string>
+    <string name="kakalib_online_price">网购价</string>
+    <string name="kakalib_online_taobao_price">淘宝价</string>
+    <string name="kakalib_offline_price">超市价</string>
+    <string name="kakalib_save">省%1$s元</string>
+    <string name="kakalib_pieces">多件装</string>
+    <string name="kakalib_go_to_tao_search">"尚未找到精确结果
+点击前往淘宝网搜索"</string>
+    <string name="kakalib_ugc_will_update">近期即将更新该产品信息</string>
+    <string name="kakalib_ugc_bar">条形码</string>
+    <string name="kakalib_server_error">服务器错误</string>
+    <string name="kakalib_net_error">网络异常</string>
+    <string name="kakalib_kl_button_decode_poster">海报解析</string>
+    <string name="kakalib_kl_button_decode_qr">扫描QR</string>
+    <string name="kakalib_qr_url_text">二维码内容：</string>
+    <string name="kakalib_copyed">内容已复制</string>
+    <string name="kakalib_copyError">复制失败</string>
+    <string name="kakalib_huoyan_ad_open">打开火眼</string>
+    <string name="kakalib_huoyan_ad_download">免费下载</string>
+    <string name="kakalib_url_safe_checking">正在检测网址是否安全</string>
+    <string name="kakalib_url_safe_checking_netwrong">网络错误，无法确定网址安全性，谨慎访问。</string>
+    <string name="kakalib_url_black">该网址是恶意网址，会带来安全风险，请不要访问。</string>
+    <string name="kakalib_url_white">可信任安全网址</string>
+    <string name="kakalib_url_unknow">无法确定网址安全性，谨慎访问。</string>
+    <string name="kakalib_no_image_obtain">没有取得图片</string>
+    <string name="kakalib_network_error">网络不可用，请设置网络</string>
+    <string name="kakalib_no_qr_obtain">照片中未识别到二维码</string>
+    <string name="kakalib_unknow_code">发现未知商品条码，我们会尽快收录</string>
+    <string name="kakalib_product_not_found">未搜索到商品结果，请点击后修改关键词搜索</string>
+    <string name="kakalib_search_by_keyword">通过关键词搜索</string>
+    <string name="kakalib_kaka_name">一淘火眼</string>
+    <string name="kakalib_kaka_slogan">扫码就用一淘火眼</string>
+    <string name="kakalib_kaka_downcount">(300万下载)</string>
+    <string name="kakalib_slogan_scan_barcode">"  扫条码, 超市网购价格全知道"</string>
+    <string name="kakalib_slogan_scan_poster">"  扫杂志, 时尚潮品看到就能买到"</string>
+    <string name="kakalib_slogan_scan_butterfly">"  抓蝴蝶, 交友约会天天抢优惠"</string>
+    <string name="kakalib_ad_free_download">免费下载</string>
+    <string name="kakalib_ad_poweredby">"POWERED BY 
+扫  码  就  用  一  淘  火  眼"</string>
+    <string name="kakalib_poster_decode_failed">未识别成功</string>
+    <string name="kakalib_poster_advise">尝试将海报或者杂志置于框内</string>
+    <string name="kakalib_poster_advise1">可提高识别率</string>
+    <string name="kakalib_data_from_kaka">由一淘火眼合作支持</string>
+    <string name="kakalib_data_by_kaka">以上数据由一淘火眼提供，网购、超市全能比价。</string>
+    <string name="kakalib_help_advise">"将商品条型码、二维码置于框内，离镜头10cm左右，可自动识别。 "</string>
+    <string name="kakalib_help_barcode">条形码</string>
+    <string name="kakalib_help_qr">二维码</string>
+    <string name="kakalib_kaka_profession_scan">专业扫描</string>
+    <string name="kakalib_bar_qr_code">尽量让条形码，二维码充满框内</string>
+    <string name="kakalib_bar_qr">尽量让条形码，二维码充满框内</string>
+    <string name="kakalib_unkown_code_as_express">作为快递单号查询:</string>
+    <string name="kakalib_unkown_code_type">发现非标准商品条码:</string>
+    <string name="kakalib_express_no">快递单号</string>
+    <string name="kakalib_express_info">快递信息</string>
+    <string name="kakalib_activity_name_scan">返回</string>
+    <string name="kakalib_activity_name_product">产品比价</string>
+    <string name="rate_button_text">评价</string>
+    <string name="appendrate_title">追加评价</string>
+    <string name="appendrate_submit">提交评价</string>
+    <string name="appendrate_edittext_hint">宝贝好用吗？可以追加评价哟～</string>
+    <string name="appendrate_fill_all">请填好所有评价再提交！</string>
+    <string name="appendrate_create_success">追评成功！</string>
+    <string name="appendrate_loading">正在载入评价内容，请稍候！</string>
+    <string name="appendrate_pic_uploading">正在上传图片，请稍候！</string>
+    <string name="cart_exceed_max_quantity_tip">购物车最多只支持%d个宝贝一起购买哦！</string>
+    <string name="cart_empty_tip">购物车为空</string>
+    <string name="cart_delete_confirm">确认要删除？</string>
+    <string name="cart_delete_succ_msg">删除成功</string>
+    <string name="cart_add_to_favor_succ_msg">移入收藏夹成功</string>
+    <string name="cart_mobile_only_promotion">无线专享</string>
+    <string name="cart_enter_shop">进入店铺</string>
+    <string name="cart_delete">删除</string>
+    <string name="cart_bag_to_favor">移入收藏</string>
+    <string name="cart_invalid_good_count">X1</string>
+    <string name="cart_invalid_good_title">您的购物车中有0个商品已经失效</string>
+    <string name="cart_invalid_clear">清空失效宝贝</string>
+    <string name="cart_invalid_clear_confirm">确认清空失效宝贝？</string>
+    <string name="cart_invalid_find_similar">发现相似</string>
+    <string name="cart_total_price_label">商品总价(含优惠/不含运费)：</string>
+    <string name="cart_total_price">0.00元</string>
+    <string name="cart_go_to_pay_label">结算(0)</string>
+    <string name="cart_shop_sum_count_label">总数：    </string>
+    <string name="cart_shop_sum_count">0件</string>
+    <string name="cart_shop_sum_weight_label">总重：    </string>
+    <string name="cart_shop_sum_weight">0kg</string>
+    <string name="cart_shop_sum_price_label">合计：    </string>
+    <string name="cart_shop_sum_price">￥0.00</string>
+    <string name="cart_take_coupon">领券</string>
+    <string name="cart_page_end_tip">正在加载下一页…</string>
+    <string name="chongzhi_menu_mobile">话费充值</string>
+    <string name="chongzhi_menu_flow">流量充值</string>
+    <string name="chongzhi_main_edittext_hint">请输入或选择手机号码</string>
+    <string name="chongzhi_main_edittext_input_error">请填写正确的手机号码</string>
+    <string name="chongzhi_main_my_number">我的号码</string>
+    <string name="chongzhi_main_flow_type">流量类型</string>
+    <string name="chongzhi_main_flow_type_local">本地</string>
+    <string name="chongzhi_main_flow_type_global">全国</string>
+    <string name="chongzhi_face_unavailable">缺货</string>
+    <string name="chongzhi_sale_price">售价:</string>
+    <string name="chongzhi_sale_price_empty">￥0.00</string>
+    <string name="chongzhi_sale_price_per_month">/月</string>
+    <string name="chongzhi_create_order">立即充值</string>
+    <string name="chongzhi_contact_title">所有联系人</string>
+    <string name="chongzhi_contact_edittext_hint">请输入联系人</string>
+    <string name="chongzhi_contact_empty">通讯录为空</string>
+    <string name="chongzhi_contact_search_empty">无此联系人</string>
+    <string name="chongzhi_flow_face_empty_tip">请选择流量</string>
+    <string name="chongzhi_mobile_error">请填写正确的手机号码</string>
+    <string name="chongzhi_get_sale_price_error">获取售价失败</string>
+    <string name="chongzhi_create_order_error">充值失败</string>
+    <string name="common_toast_network_error">网络连接失败，请检查一下网络设置</string>
+    <string name="common_loadpage_loading">正在加载中</string>
+    <string name="common_loadpage_error">没有找到相关的数据</string>
+    <string name="common_loadpage_retry">重新加载</string>
+    <string name="common_dialog_network_error">亲，网络数据加载失败</string>
+    <string name="common_dialog_network_busy">亲，系统累了，请稍后重试</string>
+    <string name="common_dialog_network_mistake">亲，系统错误了，请稍后重试</string>
+    <string name="common_dialog_logout">亲，确定要注销帐号吗？</string>
+    <string name="common_dialog_exitapp">亲，确定要退出淘宝客户端吗？</string>
+    <string name="common_dialog_rmcache">亲，确定要删除缓存吗？</string>
+    <string name="common_dialog_yes">确 认</string>
+    <string name="common_dialog_no">取 消</string>
+    <string name="common_dialog_close">关 闭</string>
+    <string name="common_dialog_network_setup">设置网络</string>
+    <string name="common_dialog_retry">重新加载</string>
+    <string name="common_goods_category_all">全部商品</string>
+    <string name="common_toast_sso_logout">亲，请重新登录</string>
+    <string name="common_toast_sso_change">亲，正在变更账号</string>
+    <string name="common_scrollview_header_hint_refresh_normal">下拉刷新</string>
+    <string name="common_scrollview_header_hint_refresh_ready">松开刷新</string>
+    <string name="common_scrollview_header_hint_refresh_loading">正在刷新…</string>
+    <string name="common_scrollview_header_hint_refresh_time">上次更新：</string>
+    <string name="common_scrollview_footer_hint_load_normal">查看更多</string>
+    <string name="common_scrollview_footer_hint_load_ready">松开载入更多</string>
+    <string name="common_screen_not_support">检测发现，您的屏幕分辨率还未在本应用的适配范围内，可能会产生界面失真的情况，敬请谅解。</string>
+    <string name="configgroup_collecter">taobao_apad_v2_collecter</string>
+    <string name="configgroup_login">taobao_apad_v2_login</string>
+    <string name="configgroup_routerdemote">taobao_apad_v2_router_demote</string>
+    <string name="configgroup_urlrules">taobao_apad_v2_urlrules</string>
+    <string name="counpon_close">关闭</string>
+    <string name="counpon_title">卡券包</string>
+    <string name="favorite_shop">店铺收藏</string>
+    <string name="favorite_goods">宝贝收藏</string>
+    <string name="favorite_goods_no_data">您还没有收藏宝贝，赶快去看看吧！</string>
+    <string name="favorite_shop_no_data">您还没有收藏店铺，赶快去看看吧！</string>
+    <string name="favorite_edit">编辑</string>
+    <string name="favorite_finish">完成</string>
+    <string name="favorite_classify">分类</string>
+    <string name="favorite_data_error">数据加载失败，请重新加载！</string>
+    <string name="favorite_goods_invalid">已失效</string>
+    <string name="favorite_classify_data_error">数据加载失败</string>
+    <string name="favorite_classify_goods">宝贝分类</string>
+    <string name="favorite_classify_shop">店铺分类</string>
+    <string name="favorite_classify_tag">我的标签</string>
+    <string name="favorite_classify_tag_loading">加载中···</string>
+    <string name="favorite_new_goods">店铺上新</string>
+    <string name="favorite_new_goods_more">更多上新 ></string>
+    <string name="favorite_shop_dynamic">店铺动态</string>
+    <string name="favorite_enter_shop">进入店铺</string>
+    <string name="favorite_shop_goods_new">上新</string>
+    <string name="favorite_shop_goods_promotion">促销</string>
+    <string name="favorite_shop_goods_hot">热销</string>
+    <string name="goods_detail">宝贝详情</string>
+    <string name="goods_rating">评价详情</string>
+    <string name="goods_nonrating">暂无评价</string>
+    <string name="goods_transaction">成交记录</string>
+    <string name="goods_rate_all">全部</string>
+    <string name="goods_rate_good">好评</string>
+    <string name="goods_rate_mid">中评</string>
+    <string name="goods_rate_error">差评</string>
+    <string name="goods_rate_trace">追评</string>
+    <string name="goods_rate_pics">图片</string>
+    <string name="goods_buyer">买家</string>
+    <string name="goods_price">淘宝价</string>
+    <string name="goods_number">数量</string>
+    <string name="goods_paytime">付款时间</string>
+    <string name="goods_style">款式和型号</string>
+    <string name="goods_stock_hitnumber">1</string>
+    <string name="goods_leftbrackets">(</string>
+    <string name="goods_rightbrackets">)</string>
+    <string name="goods_jhs_tips">请务必在15分钟内下单，并在下单后30分钟内完成支付，否则您的订单将自动关闭</string>
+    <string name="goods_ma_share">扫码分享</string>
+    <string name="goods_share_with_friends">邀好友扫一扫分享给TA</string>
+    <string name="goods_seckill_tip">秒杀将使用默认收货地址，请提前设置。</string>
+    <string name="goods_rmb">￥</string>
+    <string name="goods_store_envelopes">店铺红包</string>
+    <string name="goods_receive">领取</string>
+    <string name="goods_presale">预售规则</string>
+    <string name="goods_shop_promotion">优惠活动</string>
+    <string name="goods_store_offers">店铺优惠</string>
+    <string name="goods_presale_info">" 1. 定金下单后，请在30分钟内付款，超时将自动关闭订单
+
+ 2. 定金付款后，申请退款时如判定非卖家责任（根据《天猫规则》和客服判定为准），定金恕不退还
+
+ 3. 预售结束时，由系统自动更新尾款价格，请至“已买到的宝贝”内付尾款
+
+ 4. 尾款开始付款后，请在要求的时间内支付尾款，若超时将自动关闭订单，且定金不予退还、赠品不予赠送。请注意预售的结束时间，并及时支付尾款
+
+ 5. 如果提供赠品，赠品赠送依据的排序按照定金付款成功时间来计算，而不是定金下单时间
+
+ 6. 预售商品不支持7天无理由退换货 7. 发货时间请以预售商品详情页面“发货时间”描述为准
+"</string>
+    <string name="goods_not_found">宝贝已下架或不存在</string>
+    <string name="goods_shop_createdes">创店于</string>
+    <string name="goods_shop_des">描述</string>
+    <string name="goods_shop_logistics">物流</string>
+    <string name="goods_shop_service">服务</string>
+    <string name="goods_disarea">配送区域</string>
+    <string name="goods_select_area">请选择</string>
+    <string name="goods_share">分享宝贝</string>
+    <string name="goods_enter_shop">进入店铺</string>
+    <string name="goods_shop_goodsrate">好评率:</string>
+    <string name="goods_contanct_seller">联系卖家</string>
+    <string name="goods_desc_tips">暂无图文详情</string>
+    <string name="goods_desc_nonetwork_tips">网络连接失败，请点击重试</string>
+    <string name="goods_baseinfo_title_tip_cliptoboard">宝贝标题已复制至剪切板</string>
+    <string name="goods_nextpage_hint">继续拖动，查看图文详情</string>
+    <string name="history_load_data">历史记录加载中，请稍候</string>
+    <string name="history_no_data">没有历史浏览记录</string>
+    <string name="history_data_error">历史记录加载失败！</string>
+    <string name="history_only_promotion">只显示促销宝贝</string>
+    <string name="history_loading_cate">正在载入分类</string>
+    <string name="history_browsed_cate">浏览过的类目</string>
+    <string name="history_edit">编辑</string>
+    <string name="history_edit_finish">完成</string>
+    <string name="home_page_title">首页</string>
+    <string name="home_sectiontitle_more">更多</string>
+    <string name="home_to_referesh">点击页面刷新</string>
+    <string name="home_error_loaddatafailed">获取数据失败！</string>
+    <string name="home_error_badnetwork">访问网络失败，请确认是否已连接网络！</string>
+    <string name="home_toast_loaddatafaild">获取数据失败！</string>
+    <string name="home_toast_badnetwork">访问网络失败，请确认是否已连接网络！</string>
+    <string name="home_coutdowntime_day">天</string>
+    <string name="lockactivity_toast_setLockPatternSuccess">手势设置成功！</string>
+    <string name="lockactivity_toast_cleanLockPatternSuccess">手势取消成功！</string>
+    <string name="lockactivity_toast_readyToExit">再按一次返回键退出</string>
+    <string name="lockactivity_toast_allreadyLogout">用户已注销</string>
+    <string name="lockactivity_toast_needlogin">用户未登录</string>
+    <string name="lockactivity_toast_didnotset">当前用户未设置手势密码</string>
+    <string name="lockactivity_notification_enter">输入手势</string>
+    <string name="lockactivity_notification_enterOriginal">输入原手势</string>
+    <string name="lockactivity_notification_enterNewly">输入新手势</string>
+    <string name="lockactivity_notification_repeat">确认新手势</string>
+    <string name="lockactivity_notification_setLockPatternSuccess">设置成功</string>
+    <string name="lockactivity_notification_repeatFailed">两次输入不一致，请重新输入</string>
+    <string name="lockactivity_notification_tooShort">至少连接四个点，请重新输入</string>
+    <string name="lockactivity_notification_incorrectPattern">手势错误，还有%d次机会</string>
+    <string name="lockactivity_notification_cannelChange">取消修改</string>
+    <string name="lockactivity_notification_cannelClose">取消关闭</string>
+    <string name="lockactivity_title_settings">手势设置</string>
+    <string name="lockactivity_title_change">手势修改</string>
+    <string name="lockactivity_button_cancel">关闭</string>
+    <string name="lockactivity_button_forgot"><u>忘记手势</u></string>
+    <string name="lockactivity_button_another">新用户</string>
+    <string name="lockactivity_button_guest">游客</string>
+    <string name="login_timeout">登录超时了哩，再试试吧！</string>
+    <string name="register_url">http://reg.taobao.com/member/new_register.jhtml</string>
+    <string name="forget_password_url">http://110.taobao.com/account/forget_passwd.htm</string>
+    <string name="title_account">账户</string>
+    <string name="username_hint">用户名</string>
+    <string name="password_hint">密码</string>
+    <string name="free_register">免费注册</string>
+    <string name="find_password">找回密码</string>
+    <string name="login">登录</string>
+    <string name="checkcode_tips">为了你的账号安全，请输入验证码</string>
+    <string name="checkcode_hint">验证码</string>
+    <string name="checkcode_confirm">确认</string>
+    <string name="username_empty_info">请填写用户名</string>
+    <string name="password_empty_info">请填写用户密码</string>
+    <string name="checkcode_empty_info">请填写验证码</string>
+    <string name="title_checkcode">账号安全验证</string>
+    <string name="login_fail_tip_title">登陆失败</string>
+    <string name="loading_text">正在加载</string>
+    <string name="logistic_string_emtpy" />
+    <string name="logistic_items_empty">您暂时没有物流订单</string>
+    <string name="logistic_item_order_title">物品信息</string>
+    <string name="logistic_item_transit_title">物品跟踪</string>
+    <string name="logistic_item_transit_empty">无物流中转信息</string>
+    <string name="logistic_titlebar">物流</string>
+    <string name="image_des" />
+    <string name="menu_navigation">常用</string>
+    <string name="menu_home">首页</string>
+    <string name="menu_search">搜索</string>
+    <string name="menu_dynamic">动态</string>
+    <string name="menu_wonderful">精彩</string>
+    <string name="menu_shop">店铺</string>
+    <string name="menu_top">热门</string>
+    <string name="menu_tmall">天猫</string>
+    <string name="menu_jhs">聚划算</string>
+    <string name="menu_login">点击登录</string>
+    <string name="menu_cart">购物车</string>
+    <string name="menu_logi">查看物流</string>
+    <string name="menu_trade">已买到宝贝</string>
+    <string name="menu_fav">我的收藏</string>
+    <string name="menu_ww">阿里旺旺</string>
+    <string name="menu_his">历史记录</string>
+    <string name="menu_red">我的卡券包</string>
+    <string name="menu_cate">类目</string>
+    <string name="menu_recharge">充值</string>
+    <string name="menu_find">发现好店</string>
+    <string name="menu_non">导航</string>
+    <string name="menu_mytaobao">我的淘宝</string>
+    <string name="more_update">检测更新</string>
+    <string name="more_feedback">意见反馈</string>
+    <string name="more_clearcache">清除缓存</string>
+    <string name="more_closemessage">关闭消息通知</string>
+    <string name="more_agreement">协议声明</string>
+    <string name="more_setting">设置</string>
+    <string name="more_cancel">注销</string>
+    <string name="more_login">登录</string>
+    <string name="more_quit">退出程序</string>
+    <string name="mytao_title">我的淘宝</string>
+    <string name="mytao_load_error">数据获取失败！</string>
+    <string name="mytao_load_error_entruenetstatus">数据获取失败，请确认网络状态！</string>
+    <string name="mytao_network_unavailable_error">无网络连接，请确认网络状态！</string>
+    <string name="mytao_server_error">服务器请求失败，请重试</string>
+    <string name="mytao_load_none_address">您还没有收货地址，请新建收货地址</string>
+    <string name="mytao_load_error_refreshtip">点击页面刷新</string>
+    <string name="mytao_save_addresss_success_feedback">地址保存成功</string>
+    <string name="mytao_copyaddressstoclipboard_success_feedback">地址已粘帖至剪切板</string>
+    <string name="mytao_2_address_title_close">关闭</string>
+    <string name="mytao_2_address_title_new">新建地址</string>
+    <string name="mytao_2_address_title_save">保存</string>
+    <string name="mytao_2_address_title_detail">查看收货地址</string>
+    <string name="mytao_2_address_title_modify">修改</string>
+    <string name="mytao_2_address_fullname">收件人姓名：</string>
+    <string name="mytao_2_address_fullname_hint">姓名</string>
+    <string name="mytao_2_address_fullname_empty_error">收货人姓名：2–15个字符限制</string>
+    <string name="mytao_2_address_phone">手机号码：</string>
+    <string name="mytao_2_address_phone_hint">手机号码</string>
+    <string name="mytao_2_address_phone_nonnumber_error">手机号码格式不正确</string>
+    <string name="mytao_2_address_code">邮政编码：</string>
+    <string name="mytao_2_address_code_hint">邮政编码</string>
+    <string name="mytao_2_address_code_error">邮编格式不正确</string>
+    <string name="mytao_2_address_area">所在地区：</string>
+    <string name="mytao_2_address_area_error">所在地区不能为空</string>
+    <string name="mytao_2_address_detail">详细地址：</string>
+    <string name="mytao_2_address_detail_hint">详细地址</string>
+    <string name="mytao_2_address_detail_error">收货地址最少5个字，最多不能超过60个字</string>
+    <string name="mytao_2_address_recieve_agent_title">选择代收货地址</string>
+    <string name="mytao_2_address_default">默认收货地址</string>
+    <string name="mytao_2_address_remove">删除收货地址</string>
+    <string name="mytao_2_address_setdefault">设为默认地址</string>
+    <string name="mytao_2_address_remove_confirm">确认要删除收货地址吗?</string>
+    <string name="mytao_2_address_remove_successfeedback">地址删除成功</string>
+    <string name="mytao_2_address_modify_successfeedback">地址修改成功</string>
+    <string name="mytao_2_address_errorfeedback">操作失败，请重试</string>
+    <string name="mytao_delivery_address_title">我的收货地址</string>
+    <string name="mytao_delivery_address_route_url">addressList</string>
+    <string name="mytao_order_title">已买到的宝贝</string>
+    <string name="mytao_order_route_url">http://trade.taobao.com/trade/itemlist/list_bought_items.htm</string>
+    <string name="mytao_logistics_title">物流速查</string>
+    <string name="mytao_logistics_route_url">http://wuliu.taobao.com/user/order_detail_new.htm</string>
+    <string name="mytao_favoritegoods_title">宝贝收藏</string>
+    <string name="mytao_favoritegoods_route_url">http://favorite.taobao.com/collect_list.htm?select=goods</string>
+    <string name="mytao_favoriteshop_title">店铺收藏</string>
+    <string name="mytao_favoriteshop_route_url">http://favorite.taobao.com/collect_list.htm?select=shop</string>
+    <string name="mytao_logout">注销</string>
+    <string name="mytao_logout_route_url">logout</string>
+    <string name="mytao_lockpattern_setting">手势密码</string>
+    <string name="mytao_lockpattern_update">修改手势密码</string>
+    <string name="mytao_privatemode_setting">无痕浏览</string>
+    <string name="mytao_privatemode_tip">系统将不再记保留您的浏览以及搜索记录</string>
+    <string name="ordermanager_title">订单管理</string>
+    <string name="ordermanager_manager">管理订单</string>
+    <string name="ordermanager_managercomplete">    完成</string>
+    <string name="ordermanager_payinfull">合并付款</string>
+    <string name="ordermanager_unsupportgoods">该宝贝不支持查看快照</string>
+    <string name="ordermanager_search_edittext_hint">订单搜索</string>
+    <string name="ordermanager_search_imeActionLabel">搜索</string>
+    <string name="ordersection_tip_loading">努力加载数据中，请稍候…</string>
+    <string name="ordersection_tip_nodata">您还没有相关订单呢！</string>
+    <string name="ordersection_tip_nomoredata">没有更多了</string>
+    <string name="ordersection_tip_neterror">数据获取失败，请确认网络状态！</string>
+    <string name="ordersection_tip_dataerror">获取相关订单失败！</string>
+    <string name="ordersection_tip_retry">点击刷新</string>
+    <string name="orderlistitem_totalprice">实付款：</string>
+    <string name="orderlistitem_rmby">¥</string>
+    <string name="orderlistitem_createdate">成交于</string>
+    <string name="orderlistitem_orderdetail">订单详情</string>
+    <string name="orderlistitem_orderdetail_price">¥</string>
+    <string name="orderlistitem_orderdetail_count">x</string>
+    <string name="orderlistitem_installment_step">阶段</string>
+    <string name="orderlistitem_installment_stepprice">单价：</string>
+    <string name="orderlistitem_installment_count">数量：</string>
+    <string name="orderlistitem_deleteorder_success">删除订单成功！</string>
+    <string name="orderlistitem_deletetimeout_success">延时确认收货时间成功！</string>
+    <string name="orderlistitem_opt_more">更多操作</string>
+    <string name="ordermanager_titlebaritem_all">全部订单</string>
+    <string name="ordermanager_titlebaritem_waitingpay">待付款</string>
+    <string name="ordermanager_titlebaritem_waitingdelivery">待发货</string>
+    <string name="ordermanager_titlebaritem_waitingconfirm">待收货</string>
+    <string name="ordermanager_titlebaritem_waitingrate">待评价</string>
+    <string name="ordersection_cancelmenu_dntwnt">我不想买了</string>
+    <string name="ordersection_cancelmenu_msgerr">信息填写错误，重新拍</string>
+    <string name="ordersection_cancelmenu_stockout">卖家缺货</string>
+    <string name="ordersection_cancelmenu_offlinebuy">同城见面交易</string>
+    <string name="ordersection_cancelmenu_other">其他原因</string>
+    <string name="ordersection_cancelmenu_cancel">取消</string>
+    <string name="ordersection_toast_cancelorder_success">取消订单成功！</string>
+    <string name="ordersection_toast_notifydelivery_success">提醒卖家发货成功！</string>
+    <string name="ordersection_toast_viewcardcode_nodata">未获取到卡密信息！</string>
+    <string name="ordersection_viewcardcode_card">卡号：</string>
+    <string name="ordersection_viewcardcode_code">密码：</string>
+    <string name="ordersection_viewcardcode_pastecomplete">复制完成！</string>
+    <string name="orderdetail_title">订单详情</string>
+    <string name="orderdetail_status">订单状态：</string>
+    <string name="orderdetail_orderidsinfo">订单编号</string>
+    <string name="orderdetail_taobaoorderid">淘宝订单号：</string>
+    <string name="orderdetail_alipayorderid">支付宝订单号：</string>
+    <string name="orderdetail_createdate">成交时间：</string>
+    <string name="orderdetail_paydate">付款时间：</string>
+    <string name="orderdetail_deliverydate">发货时间：</string>
+    <string name="orderdetail_confirmdate">确认时间：</string>
+    <string name="orderdetail_autoconfirmdate">自动确认时间：</string>
+    <string name="orderdetail_shippinginfo">收货信息</string>
+    <string name="orderdetail_seller">卖家姓名：</string>
+    <string name="orderdetail_sellerphone">联系电话：</string>
+    <string name="orderdetail_postfree">运费：</string>
+    <string name="orderdetail_freightinsurance">运费险：</string>
+    <string name="orderdetail_tmallpoint">使用天猫积分：</string>
+    <string name="orderdetail_tbgold">使用淘金币：</string>
+    <string name="orderdetail_totalprice">实付款：</string>
+    <string name="orderdetail_nodata">没有找到相关数据！</string>
+    <string name="orderdetail_toshop">进入店铺</string>
+    <string name="ordergoods_refund">退款</string>
+    <string name="ordergoods_refund_take_pic">拍照</string>
+    <string name="ordergoods_refund_open_album">相册</string>
+    <string name="ordergoods_refund_cancel">取消</string>
+    <string name="ordergoods_refund_no_sdcard_tip">请确认已经插入SD卡</string>
+    <string name="ordergoods_refund_open_camera_error">打开摄像头异常</string>
+    <string name="pt_home">首页</string>
+    <string name="pt_mytao">我的淘宝</string>
+    <string name="pt_settings">设置</string>
+    <string name="pt_history">历史记录</string>
+    <string name="pt_logistic">物流</string>
+    <string name="pt_trade">确认订单</string>
+    <string name="pt_cart">购物车</string>
+    <string name="pt_shop">店铺</string>
+    <string name="pt_order">订单管理</string>
+    <string name="pt_activity">活动</string>
+    <string name="pt_favorite">收藏夹</string>
+    <string name="pt_search">搜索</string>
+    <string name="pt_feedback">用户反馈</string>
+    <string name="pt_wangxin">消息</string>
+    <string name="picexplorer_select_action_dialog_take_picture">拍照</string>
+    <string name="picexplorer_select_action_dialog_select_picture">相册</string>
+    <string name="picexplorer_select_action_dialog_cancel">取消</string>
+    <string name="picexplorer_select_loading_album">正在读取相册,请稍候!</string>
+    <string name="picexplorer_noselectedpic_msg">请选择图片</string>
+    <string name="picexplorer_select_enoughpic">最多选择5张图片</string>
+    <string name="pui_messagebox_agree">确认</string>
+    <string name="pui_messagebox_cancel">取消</string>
+    <string name="pui_messagebox_yes">是</string>
+    <string name="pui_messagebox_no">否</string>
+    <string name="pui_messagebox_setup">设置</string>
+    <string name="pull_to_refresh_pull_label">向下滑动加载更多…</string>
+    <string name="pull_to_refresh_release_label">释放立即刷新…</string>
+    <string name="pull_to_refresh_refreshing_label">正在加载…</string>
+    <string name="pull_to_refresh_tap_label">点击刷新…</string>
+    <string name="rate_title">评价</string>
+    <string name="rate_submitbtn_text">提交评论</string>
+    <string name="rate_feedbacktext_hint">写点评价吧，对其他淘友帮助很大哦！</string>
+    <string name="rate_feedbacktext_lastcount">还可以写入%s字</string>
+    <string name="rate_feedbacktext_default">好评！</string>
+    <string name="rate_rateresult_defaultvalue">1</string>
+    <string name="rate_merchandisescore_defaultvalue">5</string>
+    <string name="rate_getrateinfo_error">数据错误</string>
+    <string name="rate_dorate_success">评论成功</string>
+    <string name="rate_dorate_loadingmsg">正在努力提交中</string>
+    <string name="rate_nororbadrate_warnmsg">中差评一定要说明原因哦</string>
+    <string name="rate_uploadpic_waitingmsg">图片上传中，请稍后</string>
+    <string name="searchText">搜索</string>
+    <string name="search_edit_del_btnText">删除</string>
+    <string name="search_choice_goods">宝   贝</string>
+    <string name="search_choice_shop">店   铺</string>
+    <string name="search_history_header">搜索历史</string>
+    <string name="searchedit_hint_text_goods">请输入宝贝关键字</string>
+    <string name="searchedit_hint_text_shop">请输入店铺关键字</string>
+    <string name="search_sort_populate">人气</string>
+    <string name="search_sort_newgoods">新品</string>
+    <string name="search_sort_credit">信用</string>
+    <string name="search_sort_price">价格</string>
+    <string name="search_sort_seller">销量</string>
+    <string name="search_grid_error_tip">加载失败，请点击重试</string>
+    <string name="search_goods_filter_tab_title_category">分类</string>
+    <string name="search_goods_filter_tab_title_filter">筛选</string>
+    <string name="search_goods_filter_tab_title_location">所在地</string>
+    <string name="search_goods_filter_tmall">天猫</string>
+    <string name="search_goods_filter_promote">全球购</string>
+    <string name="search_goods_filter_prepay">消费者保障</string>
+    <string name="search_goods_filter_7day">七天退货</string>
+    <string name="search_goods_filter_free">免运费</string>
+    <string name="search_goods_filter_price">价格区间</string>
+    <string name="search_goods_filter_complete">完 成</string>
+    <string name="search_goods_filter_price_low_hint">低</string>
+    <string name="search_goods_filter_price_high_hint">高</string>
+    <string name="search_goods_filter_location_all">所有地区</string>
+    <string name="search_list_start_tip">努力加载数据，请稍候…</string>
+    <string name="search_goods_no_result">没有找到符合条件的宝贝</string>
+    <string name="search_shop_no_result">没有找到符合条件的店铺</string>
+    <string name="search_goods_filter_category_no_result">没有相关类目</string>
+    <string name="search_goods_filter_category_error">获取类目失败</string>
+    <string name="search_goods_add_watcher_dumplicate">请不要重复添加</string>
+    <string name="search_choosetip">宝贝</string>
+    <string name="search_history">最近搜索</string>
+    <string name="search_clear">清空搜索记录</string>
+    <string name="search_pull_goods">宝贝</string>
+    <string name="search_pull_shop">店铺</string>
+    <string name="settings_hotdebug_on">HOT-DEBUG模式已打开</string>
+    <string name="settings_title">设置</string>
+    <string name="settings_app_update">检测更新</string>
+    <string name="settings_app_license">协议声明</string>
+    <string name="settings_app_about">关于程序</string>
+    <string name="settings_clear_cache">清除缓存</string>
+    <string name="settings_app_exit">退出程序</string>
+    <string name="settings_app_message">消息通知</string>
+    <string name="settings_wangwang_notify">旺旺消息提示音</string>
+    <string name="settings_wangwang_toast">您已关闭旺旺消息的提示音，需要时请再打开</string>
+    <string name="settings_app_closepushmsg">"您将无法接收来自淘宝HD的任何消息提醒，
+确定么？"</string>
+    <string name="settings_logout">注销</string>
+    <string name="settings_login">登录</string>
+    <string name="settings_feedbace">意见反馈</string>
+    <string name="settings_feedback_requestsuccess">感谢您的意见，我们会尽快改进</string>
+    <string name="settings_feedback_nofeedback">亲！请输入反馈内容</string>
+    <string name="settings_logout_confirm">确定要退出登录吗?</string>
+    <string name="settings_clear_cache_confirm">确认要清除缓存吗?</string>
+    <string name="settings_clear_cache_progress">缓存清除中…</string>
+    <string name="settings_update_checking">检测升级中…</string>
+    <string name="settings_clear_cache_progress_complete">清除成功</string>
+    <string name="settings_need_login">请先登录</string>
+    <string name="settings_license_free">"软件许可使用协议
+
+本软件许可使用协议（以下称本协议）由您与阿里巴巴（中国）有限公司（以下称阿里巴巴）共同签署。
+在使用“无线淘宝软件产品（Android安卓版）”软件（以下称许可软件）之前，请仔细阅读本协议。一旦您下载安装使用许可软件，即表示您同意接受本协议所有条款和条件的约束。如您不同意本协议条款和条件，请勿使用许可软件，并请销毁所有许可软件副本。
+阿里巴巴有权随时修改本协议，并以在淘宝网（www.taobao.com）公示的方式通知您，无需单独通知您。修改后的协议于公示时生效。协议条款修改后，您继续使用许可软件的，即视为您已阅读并接受修改后的协议。
+
+一、\u0009定义
+1.\u0009许可软件：是指由阿里巴巴开发的，供您从安智市场及其他安卓应用商店下载（以下称下载平台），并仅限在装有Android(安卓）等手持移动终端(以下称Android(安卓）终端)中安装、使用的软件系统。
+
+2.\u0009淘宝网服务：由浙江淘宝网络有限公司为您提供的服务。您可以通过许可软件在手持移动终端使用淘宝网服务。
+
+二、\u0009授权范围
+1.\u0009您仅可在Android(安卓）终端中使用许可软件。未经阿里巴巴书面同意，您不得将许可软件安装在其他终端设备上，该等设备包括但不限\u008e台式电脑、手提电脑、Android(安卓）终端外的手持移动终端、电视机及机顶盒。
+
+2.\u0009您可以为非商业目的在一台Android(安卓）终端上安装、使用许可软件，但您不得为商业运营目的安装、使用、运行许可软件，也不得对许可软件或者许可软件运行过程中释放在任何Android(安卓）终端中的数据及许可软件运行过程中Android(安卓）终端与服务器端的交互数据进行复制、更改、修改、挂接运行或创作任何衍生作品，形式包括但不限于使用插件、外挂或非经授权的第三方工具/服务接入许可软件和相关系统。
+
+3.\u0009阿里巴巴有权在任何时候自行决定对许可软件及其相关功能进行变更、升级、修改或转移，并有权在许可软件系统中开发新的功能或其它服务。除非附有独立的协议，否则上述所有新的功能、软件服务的提供仍适用本协议。
+
+4.\u0009您需要凭您在使用淘宝网服务时获得的账号（淘宝网账户）和密码登录许可软件，阿里巴巴仅根据您的账号和密码确认使用许可软件者的身份。您应妥善保管您的账号和密码，并对其使用或遗失自行承担责任。如果您的账号和密码存在未获授权的使用，或者发生其他任何安全问题时，应立即通知阿里巴巴。阿里巴巴对因上述情形产生的后果不承担任何责任。
+
+5.\u0009许可软件由您自下载平台下载取得，您应遵守Android(安卓）公司对您使用许可软件方式与限制的约定，一旦Android(安卓）公司确认您违反该约定的，阿里巴巴有权终止对您的使用许可。
+
+6.\u0009阿里巴巴基于本协议许可而非向您销售许可软件，您仅可依照本协议约定使用许可软件。阿里巴巴保留未明示授予的一切权利。
+
+三、\u0009使用规范
+1.\u0009您不得通过以下方式使用许可软件：
+
+1)\u0009从事违法法律法规政策、破坏公序良俗、损害公共利益的行为。
+
+2)\u0009对许可软件的相关信息擅自出租、出借、复制、修改、链接、转载、汇编、发表、出版、建立镜像站点，借助许可软件发展与之有关的衍生产品、作品、服务、插件、外挂、兼容、互联等。
+
+3)\u0009通过非由阿里巴巴及其关联公司开发、授权或认可的第三方兼容软件、系统登录或使用许可软件，或针对许可软件使用非阿里巴巴及其关联公司开发、授权或认证的插件和外挂。
+
+4)\u0009删除许可软件及其他副本上关于版权的信息、内容。修改、删除或避开应用产品中阿里巴巴为保护知识产权而设置的任何技术措施。
+
+5)\u0009未经阿里巴巴的书面同意，擅自将许可软件出租、出借或再许可给第三方使用，或在获得许可软件的升级版本的许可使用后，同时使用多个版本的许可使用版本，或分开转让。
+
+6)\u0009复制、反汇编、修改许可软件或其任何部分或制造其衍生作品。
+
+7)\u0009进行任何危害信息网络安全的行为，包括使用许可软件时以任何方式损坏或破坏许可软件或使其不能运行或超负荷或干扰第三方对许可软件的使用；未经允许进入他人计算机系统并删除、修改、增加存储信息；故意传播恶意程序或病毒以及其他破坏、干扰正常网络信息服务的行为。
+
+8)\u0009利用许可软件发表、传送、传播、储存侵害他人知识产权、商业秘密权等合法权利的内容，或从事欺诈、盗用他人账户、资金等违法犯罪活动。
+
+9)\u0009通过修改或伪造许可软件运行中的指令、数据、数据包，增加、删减、变动许可软件的功能或运行效果，及/或将具有上述用途的软件通过信息网络向公众传播或者运营。
+
+10)\u0009其他以任何不合法的方式、为任何不合法的目的、或以任何与本协议不一致的方式使用许可软件。
+
+2.\u0009您了解并同意
+
+1)\u0009阿里巴巴有权对您是否涉嫌违反上述使用规范做出单方认定，并根据单方认定结果中止、终止对您的使用许可或采取其他依约可采取的限制措施，且无须征得您的同意或提前通知予您。
+
+2)\u0009对于您使用许可软件时发布的涉嫌违法或涉嫌侵犯他人合法权利或违反本协议的信息，阿里巴巴有权不经通知您即予以删除。
+
+3)\u0009对于您涉嫌违反上述使用规范的行为对任意第三方造成损害的，您均应当以自己的名义独立承担所有的法律责任，并应确保阿里巴巴免于因此产生损失或增加费用。
+
+4)\u0009如您涉嫌违反有关法律或者本协议之规定，使阿里巴巴遭受任何损失，或受到任何第三方的索赔，或受到任何行政管理部门的处罚，您应当赔偿阿里巴巴因此造成的损失及（或）发生的费用，包括合理的律师费用、调查取证费用。
+
+四、\u0009第三方软件或服务
+1.\u0009许可软件可能使用或包含了由第三方提供的软件或服务（以下称该等服务），该等服务是为了向您提供便利而设置，是取得该第三方的合法授权的。本协议并不授予您使用该等服务的任何权利，也不对该等服务提供任何形式的保证。
+
+2.\u0009您使用该等服务时，应另行与该第三方达成服务协议，支付相应费用并承担可能的风险。阿里巴巴不对该等服务提供任何形式的客户支持，如果您需要获取支持，请直接与该第三方联系。因您使用该等服务引发的任何纠纷，由您与该第三方负责解决，阿里巴巴不承担任何责任。
+
+3.\u0009许可软件仅在当前使用或包含该等服务，阿里巴巴并不保证许可软件将会永久地使用或包含该等服务，也不保证将来不会使用或包含该第三方的同类型或不同类型的软件或服务或其他第三方的软件或服务，一旦阿里巴巴在许可软件中使用或包含前述软件或服务，相应的软件或服务同样适用本条约定。
+
+4.\u0009您在使用许可软件的同时使用该等服务的，您即授权阿里巴巴将您使用许可软件的信息传递给该第三方，或从该第三方获取您注册或使用该等服务时提供或产生的信息。
+
+5.\u0009您同意，你是否遵循与该第三方约定使用该等服务，是您是否善意履行本协议的条件之一，如果该第三方确认您违反了您与其之间关于使用该等服务的协议约定，阿里巴巴有权不需就相关确认与您核实即中止、终止对你的使用许可或采取其他阿里巴巴可对您采取的限制措施，且无需承担任何责任。
+
+五、\u0009许可使用费
+1.\u0009阿里巴巴将根据市场与技术的发展，向您提供与许可软件的各种增值服务。就许可软件及/或增值服务，阿里巴巴有权收取许可使用费等相关费用。在开始收费前，阿里巴巴将以适当的方式通知您具体收费标准，包括但不限于在淘宝网（www.taobao.com）上公示。您有权选择接受或拒绝收费，如果您选择拒绝的，应立即停止使用许可软件及/或增值服务，您继续使用许可软件的，即视为您同意支付相关费用。
+
+2.\u0009您应在阿里巴巴通知的期限内按照阿里巴巴接受的方式足额支付许可使用费。您逾期支付许可使用费或支付的费用不足的，阿里巴巴有权终止对您的软件许可，并依法追偿损失及/或赔偿。
+
+3.\u0009您在阿里巴巴通知前免费的试用许可软件，不应视为阿里巴巴放弃收费的权利。阿里巴巴有权随时通知您后收取相应费用。
+
+六、\u0009隐私政策与数据
+1.\u0009您同意，本协议所指个人隐私信息是指那些能够对您的身份进行有效辨识或涉及到您个人通信的信息，包括您的姓名、身份证号、手机号码、IP地址等，但对于您使用许可软件的状态以及使用习惯等一些反映在阿里巴巴服务器端的信息不属此列。
+
+2.\u0009许可软件不含有任何破坏您Android(安卓）终端数据和获取您隐私信息的恶意代码，不会监控您使用Android(安卓）终端的行为或泄漏您的个人隐私信息。
+
+3.\u0009对于您使用许可软件所提供、形成的您的个人隐私信息，阿里巴巴会予以保密。除非本协议另有约定，阿里巴巴将不会在不通知的情况下透露您的个人隐私信息。
+
+4.\u0009为以下目的，您授权阿里巴巴披露您的个人隐私信息：
+
+a)\u0009遵守法律法规或遵照司法部门对淘宝所要求的法律程序；
+
+b)\u0009保护和维护阿里巴巴及其关联公司（包括但不限于淘宝、支付宝、阿里金融、阿里云，中国雅虎等）的合法权益；
+
+c)\u0009在紧急情况下保护阿里巴巴及其关联公司或其用户或社会大众的安全。
+
+5.\u0009本协议终止后，阿里巴巴有权继续保留您的信息，但阿里巴巴没有义务以任何形式向您提供该等信息。
+
+七、\u0009特别授权
+您完全理解并不可撤销地授予阿里巴巴及其关联公司下列权利：
+1.\u0009对于使用许可软件时提供的资料及数据信息，您授予阿里巴巴及其关联公司独家的、全球通用的、永久的、免费的许可使用权利 (并有权在多个层面对该权利进行再授权)。此外，阿里巴巴及其关联公司有权(全部或部分地) 使用、复制、修订、改写、发布、翻译、分发、执行和展示您的全部资料数据或制作其派生作品，并以现在已知或日后开发的任何形式、媒体或技术，将上述信息纳入其它作品内。
+
+2.\u0009一旦您向阿里巴巴及（或）其关联公司，包括但不限于淘宝、支付宝、阿里金融、阿里云、中国雅虎等作出任何形式的承诺，且相关公司已确认您违反了该承诺，则阿里巴巴有权立即按您的承诺或协议约定的方式对您的使用许可及其他阿里巴巴可控制的权益采取限制措施，包括中止或终止对您的使用许可，并公示相关公司确认的您的违约情况。您了解并同意，阿里巴巴无须就相关确认与您核对事实，或另行征得您的同意，且阿里巴巴无须就此限制措施或公示行为向您承担任何的责任。
+
+3.\u0009一旦您违反本协议，或与阿里巴巴签订的其他协议的约定，阿里巴巴有权以任何方式通知阿里巴巴关联公司，要求其对您的权益采取限制措施，包括但不限于要求关联公司中止、终止对您提供部分或全部服务，且在其经营或实际控制的任何网站公示您的违约情况。
+
+4.\u0009许可软件在必要时有权使用您的Android(安卓）终端处理器和无线网络等资源，用作容许其它许可软件使用者与您联络等目的。此项同意可能会影响您的使用感受和/或带来不可预知的风险，您同意自行承担该等风险。
+
+八、\u0009无担保和责任限制
+1.\u0009您明确同意，您需独自承担使用许可软件产生的全部风险。
+
+2.\u0009除法律法规有明确规定外，许可软件“按现状”和“可得到”的状态提供，阿里巴巴对许可软件不作任何明示或暗示的保证，包括但不限于许可软件的适用性、没有错误或疏漏、持续性、准确性、可靠性、适用于某一特定用途。同时，阿里巴巴也不对许可软件所涉及的技术及信息的有效性、准确性、正确性、可靠性、质量、稳定、完整和及时性作出任何承诺和保证。
+
+3.\u0009阿里巴巴不就电讯系统或手机网络的中断或无法运作、技术故障、计算机错误或病毒、信息损坏或丢失或其它在阿里巴巴合理控制范围之外的原因而产生的其他任何性质的破坏而向您或任何第三方承担赔偿责任。
+
+4.\u0009使用许可软件涉及到无线网络服务，会受到各个环节不稳定因素的影响，包括但不限于因不可抗力、黑客攻击、系统不稳定、您所处位置、您的Android(安卓）终端处于关闭状态、信息内容非法以及其他任何网络、技术、通信线路、信息安全管理措施等原因造成许可软件无法正常使用，您同意自行承担以上风险，阿里巴巴不承担任何责任。
+
+5.\u0009在任何情况下，由于您因下述任一情况所引起或与此有关的任何人身伤害或任何附带的、特别的、间接的或后果性的损害赔偿，包括但不限于利润损失、资料损失、业务中断的损害赔偿或任何其它商业损害赔偿或损失，无论因何原因产生，也无论淘宝是否知悉该等损失可能发生，阿里巴巴均无须为此承担任何责任：
+
+1)\u0009使用或未能使用许可软件；
+
+2)\u0009第三方未经批准的使用许可软件或更改您的数据；
+
+3)\u0009使用许可软件进行的行为产生的费用及损失；
+
+4)\u0009您对许可软件的误解；
+
+5)\u0009任何非因阿里巴巴的原因而引起的与许可软件有关的其它损失。
+
+6.\u0009您同意，如因阿里巴巴原因，造成许可软件不正常中断或其它技术故障，您所可能获得的最高赔偿额为不超过本协议项下阿里巴巴已实际收取的相关软件使用许可费总额。
+
+7.\u0009非经阿里巴巴或阿里巴巴授权开发并正式发布的其它任何由许可软件衍生的软件均属非法，下载、安装、使用此类软件，可能导致不可预知的风险，由此产生的一切法律责任与纠纷与阿里巴巴无关，阿里巴巴并有权中止、终止使用许可和/或其他一切服务。
+
+8.\u0009您与其他使用许可软件的用户之间通过许可软件进行时，因您受误导或欺骗而导致或可能导致的任何心理、生理上的伤害以及经济上的损失，应由过错方依法承担所有责任，一概与阿里巴巴无关。
+
+九、\u0009知识产权
+1.\u0009阿里巴巴拥有许可软件的著作权、商业秘密以及其他相关的知识产权，包括与许可软件有关的各种文档资料。
+
+2.\u0009许可软件的相关标识属于阿里巴巴及其关联公司的知识产权，并受到相关法律法规的保护。未经阿里巴巴明确授权，您不得复制、模仿、使用或发布上述标识，也不得修改或删除应用产品中体现阿里巴巴及其关联公司的任何标识或身份信息。
+
+3.\u0009未经阿里巴巴及其关联公司事先书面同意，您不得为任何营利性或非营利性的目的自行实施、利用、转让或许可任何第三方实施、利用、转让上述知识产权。
+
+十、\u0009协议终止和违约责任
+1.\u0009如您违反本协议中的任何条款，本协议将自动终止，阿里巴巴无需另行通知您。
+
+2.\u0009您违反阿里巴巴或其关联公司网站的条款、协议、规则、通告等相关规定，而被上述任一网站终止提供服务的，阿里巴巴有权终止本协议。
+
+3.\u0009在本协议终止时，您应停止对许可软件的任何使用行为, 并销毁许可软件的全部副本。
+
+4.\u0009如您违反本协议规定的任何条款，给阿里巴巴或其他用户造成损失，您必须承担全部的赔偿责任。如阿里巴巴承担了上述责任，则您同意赔偿阿里巴巴的相关支出和损失，包括合理的律师费用。
+
+十一、\u0009管辖法律和可分割性
+1.\u0009本协议之效力、解释、变更、执行与争议解决均适用中华人民共和国法律，如无相关法律规定的，则应参照通用国际商业惯例和（或）行业惯例。
+
+2.\u0009因本协议产生的任何争议，您应与阿里巴巴以友好协商的方式予以解决；经协商无法最终解决的，应向阿里巴巴所在地有管辖权的人民法院提请裁决。
+
+3.\u0009本协议任何条款被有管辖权的人民法院裁定为无效，不应影响其他条款或其任何部分的效力，您与阿里巴巴仍应善意履行。
+
+十二、\u0009其他
+1.\u0009阿里巴巴有权将本协议项下的权利义务转让给第三方，而无需征得您的同意。
+
+2.\u0009本协议构成双方有关许可软件许可使用的全部协议，并取代之前与此相关所有谅解。
+
+3.\u0009任何对本协议的修订，均应以书面方式，并获得您与阿里巴巴的一致同意。
+
+4.\u0009本协议的所有标题仅仅是为了醒目及阅读方便，本身并没有实际涵义，不能作为解释本协议涵义的依据。
+
+"</string>
+    <string name="share_weibo">微博</string>
+    <string name="share_laiwang">来往</string>
+    <string name="share_laiwangdongtai">来往动态</string>
+    <string name="share_sms">短信</string>
+    <string name="share_ma">二维码</string>
+    <string name="share_fuzhi">复制</string>
+    <string name="shop_wrong_arg">对不起！ 参数错误，请返回重试..</string>
+    <string name="shop_temp_close">对不起！ 店铺已打烊..</string>
+    <string name="shop_wifi_tip">请检查网络后重试</string>
+    <string name="shop_retry">点击重试</string>
+    <string name="shop_request_fail">请求失败</string>
+    <string name="shop_get_goods_fail">获取商品失败</string>
+    <string name="shop_searchedit_hint_text">搜索店铺下宝贝</string>
+    <string name="shop_result_total">该分类下有<font color="E55245">?</font>件宝贝</string>
+    <string name="shop_info_score_description">描述相符</string>
+    <string name="shop_info_score_description_short">描述</string>
+    <string name="shop_info_score_service">服务态度</string>
+    <string name="shop_info_score_service_short">服务</string>
+    <string name="shop_info_score_consignment">发货速度</string>
+    <string name="shop_info_score_consignment_short">发货</string>
+    <string name="shop_info_favorite_count">收藏人气:</string>
+    <string name="shop_listitem_not_found">没有找到符合条件的宝贝</string>
+    <string name="shop_name">店铺名称:</string>
+    <string name="shop_default_name">店铺名称</string>
+    <string name="shop_goods_default_number">…</string>
+    <string name="shop_location">所在地区:</string>
+    <string name="shop_default_location">北京</string>
+    <string name="shop_default_created_date">2013.2.2</string>
+    <string name="shop_customer_rate">好评率:</string>
+    <string name="shop_default_customer_rate">58%</string>
+    <string name="shop_category_window_label">分类</string>
+    <string name="shop_category_home">店铺首页</string>
+    <string name="shop_rate">店铺评论</string>
+    <string name="shop_category_all">全部商品</string>
+    <string name="shop_cat_des">店铺类目</string>
+    <string name="shop_info_dialog_tel">客服电话：</string>
+    <string name="shop_info_dialog_call">呼叫</string>
+    <string name="shop_searchbar_clear">清空搜索</string>
+    <string name="shop_searchbar_all">搜索整店</string>
+    <string name="shop_searchbar_search">搜索</string>
+    <string name="shop_item_sold_count">已售?件</string>
+    <string name="shop_cat_all_note">\?件</string>
+    <string name="shop_price_unit">￥</string>
+    <string name="shop_price_unit2">元</string>
+    <string name="shop_label_result">件符合条件的宝贝</string>
+    <string name="shop_fav_add_suc">收藏该店铺成功!</string>
+    <string name="shop_fav_del_suc">已取消对该店铺的收藏!</string>
+    <string name="shop_fav_err_sys">系统错误!</string>
+    <string name="shop_fav_err_param">输入参数错误!</string>
+    <string name="shop_fav_err_not_exist">收藏的店铺不存在!</string>
+    <string name="shop_fav_err_data_error">请求数据错误!</string>
+    <string name="shop_fav_err_net_error">请连接网络</string>
+    <string name="shop_fav_err_shop_collected">该店铺已收藏!</string>
+    <string name="shop_fav_err_sid_invalid">SESSION过期!</string>
+    <string name="shop_fav_err_app_access_api_fail">Api无权限!</string>
+    <string name="shop_info_dialog_server">客服 ：</string>
+    <string name="shop_info_dialog_unavailable">---</string>
+    <string name="shop_info_dialog_create_time">创店于</string>
+    <string name="shop_info_dialog_tel_malformed">号码格式不对</string>
+    <string name="shop_share">分享店铺</string>
+    <string name="shop_promotions_all">全部活动商品</string>
+    <string name="shop_promotion_logo">活动图片</string>
+    <string name="shop_rate_good">好评</string>
+    <string name="shop_rate_moderate">中评</string>
+    <string name="shop_rate_bad">差评</string>
+    <string name="shop_rate_all">全部</string>
+    <string name="shop_showcase_tip">请稍候</string>
+    <string name="shop_banner_skip_page_title">第?弹</string>
+    <string name="contentDescription" />
+    <string name="mulitend_recommend">推荐宝贝</string>
+    <string name="multiend_ranklist">推荐宝贝</string>
+    <string name="showcase_more">更多</string>
+    <string name="imageview_des" />
+    <string name="view_des" />
+    <string name="shop_servcie_compare_dsr">店铺动态评分</string>
+    <string name="shop_service_compare_ssc">与同行业相比</string>
+    <string name="shop_servcie_comare_mas">描述相符</string>
+    <string name="shop_service_comapre_gt">高于</string>
+    <string name="shop_service_compare_cas">发货速度</string>
+    <string name="shop_service_compare_sas">服务态度</string>
+    <string name="shop_search_filter_loc">所在地</string>
+    <string name="shop_showcase_button_des">更多排行</string>
+    <string name="account_label">淘宝</string>
+    <string name="pref_about">关于</string>
+    <string name="pref_item1">账户安全保护</string>
+    <string name="pref_value1">您的淘宝账户已受安全账户机制保护。</string>
+    <string name="pref_item2">隐私权</string>
+    <string name="pref_value2">淘宝账户不会同步您的隐私信息</string>
+    <string name="pref_version">账号版本</string>
+    <string name="default_account_name">我的主账号</string>
+    <string name="permission_group_taobao_account">淘宝账号</string>
+    <string name="permission_group_taobao_account_desc">您的淘宝账号</string>
+    <string name="permission_use_taobao_account_credentials">使用您的淘宝账号登录信息</string>
+    <string name="permission_use_taobao_account_credentials_desc">使用您在此设备上保存的淘宝账号登录信息</string>
+    <string name="permission_update_taobao_account_credentials">更新您的淘宝账号登录信息</string>
+    <string name="permission_update_taobao_account_credentials_desc">更新您在此设备上保存的淘宝账号登录信息</string>
+    <string name="trade_building_order">订单生成中</string>
+    <string name="trade_no_address">您还没有设置收货地址，请点击这里设置！</string>
+    <string name="trade_total_price">商品总价(含运费/优惠):</string>
+    <string name="trade_price_quantity">单价/数量</string>
+    <string name="trade_retry">出错啦！请重试</string>
+    <string name="trade_amount">金额</string>
+    <string name="trade_confirm_buy">确认购买</string>
+    <string name="trade_other_address">使用其他地址</string>
+    <string name="trade_delivery_address">配送地址:</string>
+    <string name="trade_input_hint">请输入…</string>
+    <string name="trade_phone">电话:</string>
+    <string name="trade_total_price_des">(含运费)</string>
+    <string name="trade_select_item_confirm">完成</string>
+    <string name="trade_goods_invalid">宝贝已失效</string>
+    <string name="trade_system_error">系统异常</string>
+    <string name="trade_checkcode_info">请输入验证码</string>
+    <string name="trade_checkcode_reload">看不清楚?</string>
+    <string name="trade_too_many_unpaid_orders">您的未付款订单过多，请先到“订单管理”中付款或关闭这些订单</string>
+    <string name="newtrade_address_new">使用新地址</string>
+    <string name="newtrade_address_empty">您还没有收获地址，赶紧去建一个吧</string>
+    <string name="newtrade_orderinfo_quantity">单价/数量</string>
+    <string name="newtrade_orderinfo_total">总计</string>
+    <string name="newtrade_orderinfo_promotion">优惠</string>
+    <string name="newtrade_goods_no_promotion">无优惠</string>
+    <string name="newtrade_realpay_title">商品总价(含运费/优惠):</string>
+    <string name="newtrade_group_promotion">跨店铺优惠:</string>
+    <string name="newtrade_orderpay_price">订单总价:</string>
+    <string name="newtrade_orderpay_quantity">数量:</string>
+    <string name="newtrade_too_many_unpaid_orders">您的未付款订单过多，请先到“订单”中付款或关闭这些订单</string>
+    <string name="newtrade_agency_url">http://delivery.taobao.com/station/showStationInPhone.htm</string>
+    <string name="newtrade_select_gift">选择赠品</string>
+    <string name="newtrade_no_more_gift">已无其他赠品可选</string>
+    <string name="newtrade_installment">天猫分期</string>
+    <string name="newtrade_part_success">部分宝贝下单成功，请先付款抢下，未成功宝贝已退回购物车~</string>
+    <string name="notice_update_checking">检测更新进行中，请稍候</string>
+    <string name="update_no_network">请先检查下您的网络状况</string>
+    <string name="notice_noupdate">您使用的版本已是最新的了哦！</string>
+    <string name="notice_errorupdate">版本更新失败啦，再试试吧！</string>
+    <string name="notice_update_err_io">保存更新包失败</string>
+    <string name="notice_update_err_network">网络错误，请稍后重试</string>
+    <string name="notice_update_err_nonetwork">无网络，请稍后重试</string>
+    <string name="notice_update_err_url">下载链接错误</string>
+    <string name="notice_update_err_md5">文件下载出错，请稍后重试</string>
+    <string name="notice_undercapacity">抱歉，您的存储空间不够。</string>
+    <string name="update_notification_start">淘宝客户端加入后台更新下载</string>
+    <string name="confirm_install_hint1">已经给你准备了新版本的淘宝客户端，是否安装</string>
+    <string name="cancel">取消</string>
+    <string name="CancelNow">下次再说</string>
+    <string name="NeverTip">不再提示</string>
+    <string name="update_now">立即更新</string>
+    <string name="install">安装</string>
+    <string name="update_notification_downloading">淘宝客户端已下载</string>
+    <string name="update_notification_finish">淘宝客户端下载完成</string>
+    <string name="update_notification_fail">淘宝客户端下载失败</string>
+    <string name="update_start_download">请关注通知栏信息</string>
+    <string name="confirm_forceupdate_cancel">取消升级，将无法使用淘宝</string>
+    <string name="exit">退出</string>
+    <string name="update_cancel">取消</string>
+    <string name="update_ensure">确定</string>
+    <string name="ut_home">Page_Home</string>
+    <string name="ut_menu">Page_Menu</string>
+    <string name="ut_search">Page_Search</string>
+    <string name="ut_searchitemlist">Page_SearchItemList</string>
+    <string name="ut_searchshoplist">Page_SearchShopList</string>
+    <string name="ut_detail">Page_Detail</string>
+    <string name="ut_mytaobao">Page_MyTaobao</string>
+    <string name="ut_shoppingcart">Page_ShoppingCart</string>
+    <string name="ut_aliwangwang">Page_AliWangWang</string>
+    <string name="ut_aliwangwangchat">Page_AliWangWangChat</string>
+    <string name="ut_aliwangwanglist">Page_AliWangWangList</string>
+    <string name="ut_favorite">Page_Favorite</string>
+    <string name="ut_order">Page_OrderList</string>
+    <string name="ut_logistics">Page_Logistics</string>
+    <string name="ut_setting">Page_Setting</string>
+    <string name="ut_login">Page_Login</string>
+    <string name="ut_shop">Page_Shop</string>
+    <string name="ut_showorder">Page_ShowOrder</string>
+    <string name="ut_createorder">Page_CreateOrder</string>
+    <string name="ut_pay">Page_Pay</string>
+    <string name="ut_activity">Page_Activity</string>
+    <string name="ut_msg">Page_Msg</string>
+    <string name="ut_chongzhi_mobile">Page_Chongzhi_Mobile</string>
+    <string name="ut_chongzhi_flow">Page_Chongzhi_Flow</string>
+    <string name="ut_history">Page_History</string>
+    <string name="ut_rate">Page_OrderRate</string>
+    <string name="ut_scan">Page_Scan</string>
+    <string name="ut_feedback">Page_Feedback</string>
+    <string name="ut_cert">Page_Cert</string>
+    <string name="ut_web">Page_Web</string>
+    <string name="ut_launch">Page_Launch</string>
+    <string name="ut_weborother">Page_WebOrOther</string>
+    <string name="ut_hongbao1212">Page_1212HongBao</string>
+    <string name="ut_lockactivity">Page_GestureLogin</string>
+    <string name="wangxin_header_message">旺旺消息</string>
+    <string name="wangxin_header_contactlist">联系人列表</string>
+    <string name="wangxin_chat_send_item">发送宝贝信息</string>
+    <string name="wangxin_chat_send">发送</string>
+    <string name="wangxin_contact_search_hint">搜索联系人</string>
+    <string name="wangxin_contact_empty_tip">联系人为空</string>
+    <string name="wangxin_contact_icon_desc">联系人头像</string>
+    <string name="wangxin_chat_record_mic_cancel_tip">上滑取消发送</string>
+    <string name="wangxin_chat_choose_image_menu_camera">相机拍摄</string>
+    <string name="wangxin_chat_choose_image_menu_album">选取图片</string>
+    <string name="wangxin_logining">旺旺登录中…</string>
+    <string name="wangxin_login_fail">旺旺登录失败</string>
+    <string name="wangxin_login_error">旺旺登录异常</string>
+    <string name="wangxin_login_relogin">重新登录</string>
+    <string name="wangxin_no_conversation">当前页面无消息哟~</string>
+    <string name="wangxin_force_disconnect">你的帐号在另一设备上登录旺旺，如需要继续使用，请再次点击旺旺登录使用。</string>
+    <string name="wangxin_send_msg">发送消息</string>
+    <string name="wangxin_menu_copy">复制</string>
+    <string name="wangxin_menu_delete">删除</string>
+    <string name="web_title_activity">活动</string>
+    <string name="web_loading_msg">正在努力加载中</string>
+    <string name="zifei_title">资费提醒</string>
+    <string name="zifei_next_tip">同意本协议</string>
+    <string name="zifei_button_yes">是</string>
+    <string name="zifei_button_no">否</string>
+    <string name="zifei_license">"欢迎使用淘宝客户端软件，淘宝客户端使用完全免费，在使用过程中会产生流量费，流量费用请咨询当地运营商。
+
+  为了向您提供全方位的服务，需要使用到如下权限：为对用户反馈意见进行回访或者在用户参加活动等情况下，可能会获取用户的IMEI，IMSI。
+  保护用户隐私是淘宝客户端的一项基础政策，在用户未授权的情况下，本软件不会收集用户的联系人信息、通讯记录、应用软件等基本信息。
+  
+继续使用代表您已阅读并同意：
+淘宝服务使用协议
+
+  本软件许可使用协议（以下称本协议）由您与阿里巴巴（中国）有限公司（以下称阿里巴巴）共同签署。
+在使用“无线淘宝软件产品（Android 安卓版）”软件（以下称许可软件）之前，请仔细阅读本协议。一旦您下载安装使用许可软件，即表示您同意接受本协议所有条款和条件的约束。如您不同意本协议条款和条件，请勿使用许可软件，并请销毁所有许可软件副本。
+阿里巴巴有权随时修改本协议，并以在淘宝网（www.taobao.com）公示的方式通知您，无需单独通知您。修改后的协议于公示时生效。协议条款修改后，您继续使用许可软件的，即视为您已阅读并接受修改后的协议
+
+一、定义
+1.许可软件：是指由阿里巴巴开发的，供您从安智市场及其他安卓应用商店下载（以下称下载平台），并仅限在装有Android(安卓）平板终端(以下称Android(安卓）终端)中安装、使用的软件系统。
+
+2.淘宝网服务：由浙江淘宝网络有限公司为您提供的服务。您可以通过许可软件在终端使用淘宝网服务。
+
+二、授权范围
+1.您仅可在Android(安卓）终端中使用许可软件。未经阿里巴巴书面同意，您不得将许可软件安装在其他终端设备上，该等设备包括但不限 台式电脑、手提电脑、Android(安卓）终端外的手持移动终端、电视机及机顶盒。
+
+2.您可以为非商业目的在一台Android(安卓）终端上安装、使用许可软件，但您不得为商业运营目的安装、使用、运行许可软件，也不得对许可软件或者许可软件运行过程中释放在任何Android(安卓）终端中的数据及许可软件运行过程中Android(安卓）终端与服务器端的交互数据进行复制、更改、修改、挂接运行或创作任何衍生作品，形式包括但不限于使用插件、外挂或非经授权的第三方工具/服务接入许可软件和相关系统。
+
+3.阿里巴巴有权在任何时候自行决定对许可软件及其相关功能进行变更、升级、修改或转移，并有权在许可软件系统中开发新的功能或其它服务。除非附有独立的协议，否则上述所有新的功能、软件服务的提供仍适用本协议。
+
+4.您需要凭您在使用淘宝网服务时获得的账号（淘宝网账户）和密码登录许可软件，阿里巴巴仅根据您的账号和密码确认使用许可软件者的身份。您应妥善保管您的账号和密码，并对其使用或遗失自行承担责任。如果您的账号和密码存在未获授权的使用，或者发生其他任何安全问题时，应立即通知阿里巴巴。阿里巴巴对因上述情形产生的后果不承担任何责任。4.许可软件由您自下载平台下载取得，您应遵守Android(安卓）公司对您使用许可软件方式与限制的约定，一旦Android(安卓）公司确认您违反该约定的，阿里巴巴有权终止对您的使用许可。
+5.阿里巴巴基于本协议许可而非向您销售许可软件，您仅可依照本协议约定使用许可软件。阿里巴巴保留未明示授予的一切权利。
+
+三、使用规范
+1.您不得通过以下方式使用许可软件：
+
+1)从事违法法律法规政策、破坏公序良俗、损害公共利益的行为。
+
+2)对许可软件的相关信息擅自出租、出借、复制、修改、链接、转载、汇编、发表、出版、建立镜像站点，借助许可软件发展与之有关的衍生产品、作品、服务、插件、外挂、兼容、互联等。
+
+3)通过非由阿里巴巴及其关联公司开发、授权或认可的第三方兼容软件、系统登录或使用许可软件，或针对许可软件使用非阿里巴巴及其关联公司开发、授权或认证的插件和外挂。
+
+4)删除许可软件及其他副本上关于版权的信息、内容。修改、删除或避开应用产品中阿里巴巴为保护知识产权而设置的任何技术措施。
+
+5)未经阿里巴巴的书面同意，擅自将许可软件出租、出借或再许可给第三方使用，或在获得许可软件的升级版本的许可使用后，同时使用多个版本的许可使用版本，或分开转让。
+
+6)复制、反汇编、修改许可软件或其任何部分或制造其衍生作品。
+
+7)进行任何危害信息网络安全的行为，包括使用许可软件时以任何方式损坏或破坏许可软件或使其不能运行或超负荷或干扰第三方对许可软件的使用；未经允许进入他人计算机系统并删除、修改、增加存储信息；故意传播恶意程序或病毒以及其他破坏、干扰正常网络信息服务的行为。
+
+8)利用许可软件发表、传送、传播、储存侵害他人知识产权、商业秘密权等合法权利的内容，或从事欺诈、盗用他人账户、资金等违法犯罪活动。
+
+9)通过修改或伪造许可软件运行中的指令、数据、数据包，增加、删减、变动许可软件的功能或运行效果，及/或将具有上述用途的软件通过信息网络向公众传播或者运营。
+
+10)其他以任何不合法的方式、为任何不合法的目的、或以任何与本协议不一致的方式使用许可软件。
+
+2.您了解并同意
+
+1)阿里巴巴有权对您是否涉嫌违反上述使用规范做出单方认定，并根据单方认定结果中止、终止对您的使用许可或采取其他依约可采取的限制措施，且无须征得您的同意或提前通知予您。
+
+2)对于您使用许可软件时发布的涉嫌违法或涉嫌侵犯他人合法权利或违反本协议的信息，阿里巴巴有权不经通知您即予以删除。
+
+3)对于您涉嫌违反上述使用规范的行为对任意第三方造成损害的，您均应当以自己的名义独立承担所有的法律责任，并应确保阿里巴巴免于因此产生损失或增加费用。
+
+4)如您涉嫌违反有关法律或者本协议之规定，使阿里巴巴遭受任何损失，或受到任何第三方的索赔，或受到任何行政管理部门的处罚，您应当赔偿阿里巴巴因此造成的损失及（或）发生的费用，包括合理的律师费用、调查取证费用。
+
+四、第三方软件或服务
+1.许可软件可能使用或包含了由第三方提供的软件或服务（以下称该等服务），该等服务是为了向您提供便利而设置，是取得该第三方的合法授权的。本协议并不授予您使用该等服务的任何权利，也不对该等服务提供任何形式的保证。
+
+2.您使用该等服务时，应另行与该第三方达成服务协议，支付相应费用并承担可能的风险。阿里巴巴不对该等服务提供任何形式的客户支持，如果您需要获取支持，请直接与该第三方联系。因您使用该等服务引发的任何纠纷，由您与该第三方负责解决，阿里巴巴不承担任何责任。
+
+3.许可软件仅在当前使用或包含该等服务，阿里巴巴并不保证许可软件将会永久地使用或包含该等服务，也不保证将来不会使用或包含该第三方的同类型或不同类型的软件或服务或其他第三方的软件或服务，一旦阿里巴巴在许可软件中使用或包含前述软件或服务，相应的软件或服务同样适用本条约定。
+
+4.您在使用许可软件的同时使用该等服务的，您即授权阿里巴巴将您使用许可软件的信息传递给该第三方，或从该第三方获取您注册或使用该等服务时提供或产生的信息。
+
+5.您同意，你是否遵循与该第三方约定使用该等服务，是您是否善意履行本协议的条件之一，如果该第三方确认您违反了您与其之间关于使用该等服务的协议约定，阿里巴巴有权不需就相关确认与您核实即中止、终止对你的使用许可或采取其他阿里巴巴可对您采取的限制措施，且无需承担任何责任。
+
+五、许可使用费
+1.阿里巴巴将根据市场与技术的发展，向您提供与许可软件的各种增值服务。就许可软件及/或增值服务，阿里巴巴有权收取许可使用费等相关费用。在开始收费前，阿里巴巴将以适当的方式通知您具体收费标准，包括但不限于在淘宝网（www.taobao.com）上公示。您有权选择接受或拒绝收费，如果您选择拒绝的，应立即停止使用许可软件及/或增值服务，您继续使用许可软件的，即视为您同意支付相关费用。
+
+2.您应在阿里巴巴通知的期限内按照阿里巴巴接受的方式足额支付许可使用费。您逾期支付许可使用费或支付的费用不足的，阿里巴巴有权终止对您的软件许可，并依法追偿损失及/或赔偿。
+
+3.您在阿里巴巴通知前免费的试用许可软件，不应视为阿里巴巴放弃收费的权利。阿里巴巴有权随时通知您后收取相应费用。
+
+六、隐私政策与数据
+1.您同意，本协议所指个人隐私信息是指那些能够对您的身份进行有效辨识或涉及到您个人通信的信息，包括您的姓名、身份证号、手机号码、IP地址等，但对于您使用许可软件的状态以及使用习惯等一些反映在阿里巴巴服务器端的信息不属此列。
+
+2.许可软件不含有任何破坏您Android(安卓）终端数据和获取您隐私信息的恶意代码，不会监控您使用Android(安卓）终端的行为或泄漏您的个人隐私信息。
+
+3.对于您使用许可软件所提供、形成的您的个人隐私信息，阿里巴巴会予以保密。除非本协议另有约定，阿里巴巴将不会在不通知的情况下透露您的个人隐私信息。
+
+4.为以下目的，您授权阿里巴巴披露您的个人隐私信息：
+
+a)遵守法律法规或遵照司法部门对淘宝所要求的法律程序；
+
+b)保护和维护阿里巴巴及其关联公司（包括但不限于淘宝、支付宝、阿里金融、阿里云，中国雅虎等）的合法权益；
+
+c)在紧急情况下保护阿里巴巴及其关联公司或其用户或社会大众的安全。
+
+5.本协议终止后，阿里巴巴有权继续保留您的信息，但阿里巴巴没有义务以任何形式向您提供该等信息。
+
+七、特别授权
+您完全理解并不可撤销地授予阿里巴巴及其关联公司下列权利：
+1.对于使用许可软件时提供的资料及数据信息，您授予阿里巴巴及其关联公司独家的、全球通用的、永久的、免费的许可使用权利 (并有权在多个层面对该权利进行再授权)。此外，阿里巴巴及其关联公司有权(全部或部分地) 使用、复制、修订、改写、发布、翻译、分发、执行和展示您的全部资料数据或制作其派生作品，并以现在已知或日后开发的任何形式、媒体或技术，将上述信息纳入其它作品内。
+
+2.一旦您向阿里巴巴及（或）其关联公司，包括但不限于淘宝、支付宝、阿里金融、阿里云、中国雅虎等作出任何形式的承诺，且相关公司已确认您违反了该承诺，则阿里巴巴有权立即按您的承诺或协议约定的方式对您的使用许可及其他阿里巴巴可控制的权益采取限制措施，包括中止或终止对您的使用许可，并公示相关公司确认的您的违约情况。您了解并同意，阿里巴巴无须就相关确认与您核对事实，或另行征得您的同意，且阿里巴巴无须就此限制措施或公示行为向您承担任何的责任。
+
+3.一旦您违反本协议，或与阿里巴巴签订的其他协议的约定，阿里巴巴有权以任何方式通知阿里巴巴关联公司，要求其对您的权益采取限制措施，包括但不限于要求关联公司中止、终止对您提供部分或全部服务，且在其经营或实际控制的任何网站公示您的违约情况。
+
+4.许可软件在必要时有权使用您的Android(安卓）终端处理器和无线网络等资源，用作容许其它许可软件使用者与您联络等目的。此项同意可能会影响您的使用感受和/或带来不可预知的风险，您同意自行承担该等风险。
+
+八、无担保和责任限制
+1.您明确同意，您需独自承担使用许可软件产生的全部风险。
+
+2.除法律法规有明确规定外，许可软件“按现状”和“可得到”的状态提供，阿里巴巴对许可软件不作任何明示或暗示的保证，包括但不限于许可软件的适用性、没有错误或疏漏、持续性、准确性、可靠性、适用于某一特定用途。同时，阿里巴巴也不对许可软件所涉及的技术及信息的有效性、准确性、正确性、可靠性、质量、稳定、完整和及时性作出任何承诺和保证。
+
+3.阿里巴巴不就电讯系统或手机网络的中断或无法运作、技术故障、计算机错误或病毒、信息损坏或丢失或其它在阿里巴巴合理控制范围之外的原因而产生的其他任何性质的破坏而向您或任何第三方承担赔偿责任。
+
+4.使用许可软件涉及到无线网络服务，会受到各个环节不稳定因素的影响，包括但不限于因不可抗力、黑客攻击、系统不稳定、您所处位置、您的Android(安卓）终端处于关闭状态、信息内容非法以及其他任何网络、技术、通信线路、信息安全管理措施等原因造成许可软件无法正常使用，您同意自行承担以上风险，阿里巴巴不承担任何责任。
+
+5.在任何情况下，由于您因下述任一情况所引起或与此有关的任何人身伤害或任何附带的、特别的、间接的或后果性的损害赔偿，包括但不限于利润损失、资料损失、业务中断的损害赔偿或任何其它商业损害赔偿或损失，无论因何原因产生，也无论淘宝是否知悉该等损失可能发生，阿里巴巴均无须为此承担任何责任：
+
+1)使用或未能使用许可软件；
+
+2)第三方未经批准的使用许可软件或更改您的数据；
+
+3)使用许可软件进行的行为产生的费用及损失；
+
+4)您对许可软件的误解；
+
+5)任何非因阿里巴巴的原因而引起的与许可软件有关的其它损失。
+
+6.您同意，如因阿里巴巴原因，造成许可软件不正常中断或其它技术故障，您所可能获得的最高赔偿额为不超过本协议项下阿里巴巴已实际收取的相关软件使用许可费总额。
+
+7.非经阿里巴巴或阿里巴巴授权开发并正式发布的其它任何由许可软件衍生的软件均属非法，下载、安装、使用此类软件，可能导致不可预知的风险，由此产生的一切法律责任与纠纷与阿里巴巴无关，阿里巴巴并有权中止、终止使用许可和/或其他一切服务。
+
+8.您与其他使用许可软件的用户之间通过许可软件进行时，因您受误导或欺骗而导致或可能导致的任何心理、生理上的伤害以及经济上的损失，应由过错方依法承担所有责任，一概与阿里巴巴无关。
+
+九、知识产权
+1.阿里巴巴拥有许可软件的著作权、商业秘密以及其他相关的知识产权，包括与许可软件有关的各种文档资料。
+
+2.许可软件的相关标识属于阿里巴巴及其关联公司的知识产权，并受到相关法律法规的保护。未经阿里巴巴明确授权，您不得复制、模仿、使用或发布上述标识，也不得修改或删除应用产品中体现阿里巴巴及其关联公司的任何标识或身份信息。
+
+3.未经阿里巴巴及其关联公司事先书面同意，您不得为任何营利性或非营利性的目的自行实施、利用、转让或许可任何第三方实施、利用、转让上述知识产权。
+
+十、协议终止和违约责任
+1.如您违反本协议中的任何条款，本协议将自动终止，阿里巴巴无需另行通知您。
+
+2.您违反阿里巴巴或其关联公司网站的条款、协议、规则、通告等相关规定，而被上述任一网站终止提供服务的，阿里巴巴有权终止本协议。
+
+3.在本协议终止时，您应停止对许可软件的任何使用行为, 并销毁许可软件的全部副本。
+
+4.如您违反本协议规定的任何条款，给阿里巴巴或其他用户造成损失，您必须承担全部的赔偿责任。如阿里巴巴承担了上述责任，则您同意赔偿阿里巴巴的相关支出和损失，包括合理的律师费用。
+
+十一、管辖法律和可分割性
+1.本协议之效力、解释、变更、执行与争议解决均适用中华人民共和国法律，如无相关法律规定的，则应参照通用国际商业惯例和（或）行业惯例。
+
+2.因本协议产生的任何争议，您应与阿里巴巴以友好协商的方式予以解决；经协商无法最终解决的，应向阿里巴巴所在地有管辖权的人民法院提请裁决。
+
+3.本协议任何条款被有管辖权的人民法院裁定为无效，不应影响其他条款或其任何部分的效力，您与阿里巴巴仍应善意履行。
+
+十二、其他
+1.阿里巴巴有权将本协议项下的权利义务转让给第三方，而无需征得您的同意。
+
+2.本协议构成双方有关许可软件许可使用的全部协议，并取代之前与此相关所有谅解。
+
+3.任何对本协议的修订，均应以书面方式，并获得您与阿里巴巴的一致同意。
+
+4.本协议的所有标题仅仅是为了醒目及阅读方便，本身并没有实际涵义，不能作为解释本协议涵义的依据。
+"</string>
+    <string name="mTopBaseUrl">http://api.m.taobao.com/rest/api3.do?</string>
+    <string name="topBaseUrl">http://gw.api.taobao.com/router/rest?</string>
+    <string name="searchBaseUrl">http://api.s.m.taobao.com/search.htm?</string>
+    <string name="logistiCompainUrl">http://www.taobao.com/market/app/logisticbanner.html</string>
+    <string name="webOpeningConfig">http://www.taobao.com/market/app/openingwebconfigure.php</string>
+    <string name="lockscreen_access_pattern_start">Pattern started</string>
+    <string name="lockscreen_access_pattern_cleared">Pattern cleared</string>
+    <string name="lockscreen_access_pattern_cell_added">Cell added</string>
+    <string name="lockscreen_access_pattern_detected">Pattern completed</string>
+</resources>

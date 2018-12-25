@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cancel">Cancel</string>
+    <string name="title_activity_certificate">Certificate</string>
+    <string name="certificateViewerTitle">Certificate</string>
+    <string name="common_name_cn_">Common Name (CN)</string>
+    <string name="organisation_o_">Organisation (O)</string>
+    <string name="organisational_unit_ou_">Organisational Unit (OU)</string>
+    <string name="issued_on">Issued on</string>
+    <string name="expires_on">Expires on</string>
+    <string name="issued_to">Issued to</string>
+    <string name="issued_by">Issued by</string>
+    <string name="validity">Validity</string>
+    <string name="invalid_payment_url">Invalid payment URL</string>
+    <string name="leave_the_app_message">Do you really want to leave the app?</string>
+    <string name="abort_payment_process">Cancel the payment process?</string>
+    <string name="certificate_details">certificate details</string>
+    <string name="attention">Caution</string>
+    <string name="certificate_pinning_text">Unexpected server certificate detected. The SSL connection could be compromised or the App outdated. Please contact the App provider in case of doubt.</string>
+    <string name="app_name">MV TicketBox</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Push Notifications</string>
+    <string name="error_config">Please set the %1$s constant and recompile the app.</string>
+    <string name="already_registered">Device is already registered on server.</string>
+    <string name="gcm_registered">From GCM: device successfully registered!</string>
+    <string name="gcm_unregistered">From GCM: device successfully unregistered!</string>
+    <string name="gcm_message">From GCM: you got message!</string>
+    <string name="gcm_error">From GCM: error (%1$s).</string>
+    <string name="gcm_recoverable_error">From GCM: recoverable error (%1$s).</string>
+    <string name="gcm_deleted">From GCM: server deleted %1$d pending messages!</string>
+    <string name="server_registering">Trying (attempt %1$d/%2$d) to register device on Demo Server.</string>
+    <string name="server_registered">From Demo Server: successfully added device!</string>
+    <string name="server_unregistered">From Demo Server: successfully removed device!</string>
+    <string name="server_register_error">Could not register device on Demo Server after %1$d attempts.</string>
+    <string name="server_unregister_error">Could not unregister device on Demo Server (%1$s).</string>
+    <string name="options_register">Register</string>
+    <string name="options_unregister">Unregister</string>
+    <string name="options_clear">Clear</string>
+    <string name="options_exit">Exit</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="int_value">0</string>
+    <string name="s_la_fav_list_empty">Du hast keine Favoriten.</string>
+    <string name="s_la_status_false">eTicket ist ungültig</string>
+    <string name="s_la_ticketnummer">Ticketnummer</string>
+    <string name="s_la_datum">Datum</string>
+    <string name="s_la_uhr">Uhrzeit</string>
+    <string name="s_la_bt_next">Nächstes eTicket scannen</string>
+    <string name="s_la_einlasser_daten">Bitte geben Sie Ihren eTicket Kontrolleuren folgende Daten:</string>
+    <string name="s_la_einlasser_name">Benutzername (im E-Mail-Feld eintragen)</string>
+    <string name="s_la_einlasser_pw">Passwort</string>
+    <string name="s_bt_la_einlasser">Einlasser Speichern</string>
+    <string name="s_bt_la_einlasser_delete">Einlasser Löschen</string>
+    <string name="s_la_einlasser_daten_2">Mit diesen Daten können sich die Kontrolleure auf ihrem Smartphone über „Login“ einloggen und sehen dann unter dem Punkt „eTicket-Check“ die Veranstaltungen, für die sie freigeschaltet sind.</string>
+    <string name="s_la_einlasser_online_offline">Wie soll die Einlasskontrolle erfolgen?</string>
+    <string name="s_la_einlasser_online_offline_2">Diese Auswahl bestätigen Sie vor Beginn der Veranstaltung. Im laufe der Kontrolle kann auch zwischen beiden Varianten gewechselt werden.</string>
+    <string name="s_la_einlasser_b_online">Wählen Sie „Online“, wenn Sie die eTickets in Echtzeit gegen unsere Datenbank prüfen wollen. Dies ist der optimale Weg zur Kontrolle. Dabei werden die eingelösten Tickets sofort entwertet und ein paralleler Betrieb von mehreren Kontrollpunkten ist möglich. Ihr Kontrolleur / alle Ihre Kontrolleure müssen dafür über eine Internetverbindung auf dem Smartphone verfügen, mit dem / denen die Kontrolle(n) durchgeführt wird / werden.</string>
+    <string name="s_la_einlasser_b_offline">Sollte Ihr Kontrolleur / Ihre Kontrolleure über keine stabile Internetverbindung verfügen, dann wählen Sie den Offline Kontrollweg. Bitte beachten Sie, dass dabei die Liste aller verkauften eTickets vor Kontrollbeginn auf das Smartphone des Kontrolleurs heruntergeladen werden muss. Es erfolgt dann nur eine lokale Überprüfung der eTickets gegen die Datenbank auf dem Smartphone des Kontrolleurs. Hiermit ist aber die Überprüfung ebenso möglich. Sollten Sie mehrere parallele Kontrollstellen haben ist im Offline Kontrollweg kein Datenabgleich zwischen den kontrollierenden Smartphones möglich.</string>
+    <string name="s_la_einlasser_online">Online</string>
+    <string name="s_la_einlasser_offline">Offline</string>
+    <string name="s_la_infoVer_u1">Veranstalter</string>
+    <string name="s_la_infoVer_t1">Sie veranstalten ein Konzert, ein Event oder eine Party und wollen über unser innovatives System Tickets verkaufen? Dann melde Sie sich bitte auf unserer Internetseite unter www.mv-ticketbox.de/veranstalter an und erstelle Ihren kostenfreien Account. Sie können dann sofort eTickets für all Ihre Events einstellen und den Vorverkauf beginnen. Sie haben Fragen? Dann rufen Sie uns an unter 0381/44441844.</string>
+    <string name="s_la_infoVer_u2">Keine Kosten für Sie als Veranstalter</string>
+    <string name="s_la_infoVer_t2">Wir bieten Ihnen als Veranstalter den kompletten Service aus einer Hand - für Sie absolut kostenfrei. Keine Lizenzkosten, keine umsatzabhängigen Entgelte – alles ohne Kosten. Wir berechnen für den Käufer eine Vorverkaufsgebühr, die wir auf Ihren Ticketpreis aufschlagen.</string>
+    <string name="s_la_infoVer_u3">Kontrolle der eTickets</string>
+    <string name="s_la_infoVer_t3">Unser System arbeitet komplett vollumfänglich. Sie benötigen zur Kontrolle der eTickets keine weitere Hardware oder manuelle Listen. Den gesamten Kontrollprozess haben wir direkt in der MV TicketBox mit integriert.</string>
+    <string name="s_la_infoVer_u4">Wie es funktioniert</string>
+    <string name="s_la_infoVer_t4">Wir verkaufen Ihre Tickets als eTicket an Ihre Kunden und Gäste. Jedes eTicket hat einen eineindeutigen Code. Damit Sie genau prüfen können, ob ein Ticket für ein Event gültig ist, haben wir in unserer MV TicketBox App einen vollautomatischen Prüfprozess integriert. Zur Überprüfung der eTickets benötigen Sie am Einlass nur ein Smartphone auf dem die kostenfreie MV TicketBox App installiert ist. Dies kann zum Beispiel auch das private Gerät des Kontrolleurs sein. Sie können parallel beliebig viele Einlasser für ein Event freischalten und somit auch mehrere Einlassstellen einrichten. Das Überprüfen der Tickets erfolgt in Echtzeit gegen eine Datenbank. Damit stellen wir sicher, dass jedes eTicket auch nur einmal eingelöst wird. Der Kontrolleur erhält direkt nach dem Scannen des eTickets mit der MV TicketBox App eine Information, ob das eTicket gültig ist oder nicht. Wird ein gültiges eTicket gescannt, so wird das Einlösen des Tickets sofort in der Datenbank vermerkt und dieses eTicket ist somit ungültig für weitere Kontrollen.</string>
+    <string name="s_la_infoVer_u5">Ein System - Alle Vertriebswege</string>
+    <string name="s_la_infoVer_t5">Mit unserem eTicket-System können wir Ihre Tickets überall dort verkaufen, wo Ihre Kunden und Gäste danach suchen. Ob in unserer App, wo der Nutzer jederzeit seine Tickets kaufen kann, oder direkt per Push-Mitteilungen über neue Events informiert wird, im Internet in unserem WebShop oder im stationären Handel in der Vorverkaufsstelle vor Ort – wir verkaufen die eTickets aus einem System. Sie müssen nur an einer Stelle die Eventdaten pflegen und erreichen damit über alle Vertriebswege Ihre Gäste.</string>
+    <string name="s_la_infoVer_u6">Jederzeit den aktuellen Stand des Vorverkauf auf einem Blick</string>
+    <string name="s_la_infoVer_t6">Mit unserem System haben Sie immer den aktuellen Stand des Vorverkaufs im Überblick. Sie können sich jederzeit in Echtzeit die Verkaufszahlen ansehen, neue Veranstaltungen anlegen oder Abrechnungen anstoßen.</string>
+    <string name="s_la_infoVer_u7">Verkaufen Sie Tickets auf Ihrer eigenen Homepage</string>
+    <string name="s_la_infoVer_t7">Wir stellen Ihnen für Ihre eigene Homepage einen eigenen Shop zur Verfügung, den Sie sehr einfach in Ihre bestehende Internetseite integrieren können. Der Shop ist ungelabelt und passt sich daher perfekt Ihrer Internetseite an. So können Sie direkt über Ihre Internetseite Tickets verkaufen. Die gesamte Bestellabwicklung und das Inkasso übernehmen wir. Auch diese Funktion ist für Sie als Veranstalter kostenfrei.</string>
+    <string name="s_la_infoVer_u8">Werbemöglichkeiten</string>
+    <string name="s_la_infoVer_t8">Wir bieten allen Veranstaltern an, Plakate (Format DIN A1) und Flyer in unserer Konzertkasse in Rostock vorbeizubringen. Diese platzieren wie auf unseren Plakatflächen im Schaufensterbereich und im Shop. Die Flyer werden in Flyerkästen präsentiert. Über unsere 42“ LED Displays, die direkt in die Mall des KTCs reinzeigen, veröffentlichen wie Ihre Plakate oder Flyer in digitaler und sehr auffälliger Form. Bitte liefern Sie uns hier die Daten in elektronischer Form im Format 1080 x 1920 Pixel (FullHD) im Hochformat. Senden Sie diese Daten bitte via eMail an info@mv-ticketbox.de oder geben Sie einen Datenträger im Shop ab.</string>
+    <string name="s_la_infoVer_u9">Logo Download</string>
+    <string name="s_la_infoVer_t9">Wir würden uns freuen, wenn Sie unser Logo als Hinweis auf den Vorverkauf mit auf Ihre Plakate, Flyer und Online-Werbemittel integrieren. Nur so sind Sie sicher, dass Ihr Ticket-Vorverkauf optimal funktioniert. Wir haben Ihnen unser Logo in verschiedenen Farben und Dateiformaten zum Download bereitgestellt. Die Nutzung und der Abdruck ist selbstverständlich lizenzfrei. Wir danken Ihnen für Ihre Unterstützung.</string>
+    <string name="s_la_bitte_warten">Bitte warten ...</string>
+    <string name="s_la_bitte_warten_hard">Ticket wird versandt ...</string>
+    <string name="s_la_bitte_warten_2">Deine Tickets werden generiert, heruntergeladen und in „Meine Tickets“ gespeichert!</string>
+    <string name="s_la_bitte_warten_2_2">Du erhälst in Kürze eine E-Mail mit den Bezahlinformationen.</string>
+    <string name="s_la_bitte_warten_2_3">Das Hard-Ticket wird dir in den nächsten Tagen zugesandt.</string>
+    <string name="s_la_handy_tickets_1">Meine Handy-Tickets</string>
+    <string name="s_la_handy_tickets_2">Hier findest du die gekaufen Handy-Tickets, sowie ein Übersicht all deiner Handy-Tickets.</string>
+    <string name="s_la_handy_tickets_1_hard">Zurück zum Hauptmenü</string>
+    <string name="s_la_handy_tickets_2_hard">Hier kannst du weitere Tickets kaufen.</string>
+    <string name="s_la_done">Deine Tickets wurden erfolgreich geladen!</string>
+    <string name="s_la_done_hard">Das Ticket wurde erfolgreich bestellt!</string>
+    <string name="s_la_done_mail">Der Kauf der Tickets ist abgeschlossen. Wir senden dir alle Daten deiner Bestellung noch einmal per eMail.</string>
+    <string name="s_la_konto">"Du hast als Zahlung Vorkasse gewählt.
+Bitte überweise innerhalb der nächsten 4 Tage den Betrag von xxx,xx € auf unser Konto. Solange sind die Tickets für dich reserviert.
+
+MV TicketBox GmbH
+IBAN: DE11 1305 0000 0201 0085 99
+BIC: NOLADE21ROS
+Kontonummer: 201008599
+Bankleitzahl: 13050000
+Verwendungszweck: XXXAuftragsnummerXXX
+
+Sollten wir nach 7 Tagen keinen Zahlungseingang von dir erhalten, werden die Tickets wieder freigegeben und der Auftrag wird kostenfrei storniert."</string>
+    <string name="s_la_ticket_art">Wähle deine Ticketanzahl:</string>
+    <string name="s_la_ticket_stpe">Stehplatz (ermäßigt)</string>
+    <string name="s_la_ticket_stp">Stehplatz</string>
+    <string name="s_la_ticket_spe">Sitzplatz (ermäßigt)</string>
+    <string name="s_la_ticket_sp">Sitzplatz</string>
+    <string name="s_la_gesamtbetrag">Gesamtsumme inkl. VVK-Gebühren</string>
+    <string name="s_bt_weiter">WEITER</string>
+    <string name="s_la_ticket_1_text">Du erhältst dein Ticket von uns in Papierform per Post geliefert.</string>
+    <string name="s_la_ticket_2_text">Das eTicket kannst du in der MV TicketBox App ohne einen Ausdruck nutzen. Du erhältst es parallel per eMail als PDF Datei.</string>
+    <string name="s_la_done0">Dein Ticket wurde erfolgreich weitergeleitet.</string>
+    <string name="s_bt_done1">Meine Handy-Tickets</string>
+    <string name="s_bt_done2">Hier kannst du weiter Tickets verwalten.</string>
+    <string name="s_la_send">Bitte gebe hier die TicketBox ID des Empfängers ein.</string>
+    <string name="s_et_send">TicketBox ID</string>
+    <string name="s_bt_send">TICKET VERBINDLICH WEITERLEITEN</string>
+    <string name="s_la_tip_u1">Tipp:</string>
+    <string name="s_la_tip_t1">Die TicketBox ID findet der Empfänger unter „Tickets empfangen“ im Menü. Es handelt sich dabei um eine 3-5 stellige Nummer.</string>
+    <string name="s_la_myid_la_id">Deine Ticketbox-ID ist:</string>
+    <string name="s_la_myid_tip_u1">Wichtiger Hinweis:</string>
+    <string name="s_la_myid_tip_t1">Jemand hat für dich dein eTicket mitgekauft? Dann kannst du es dir ganz bequem über die MV TicketBox App senden lassen. Gib deinem Freund deine TicketBox ID und er kann dir das eTicket senden. Die empfangenen Tickets findest du dann unter „Meine Tickets“.</string>
+    <string name="s_la_address">Lieferadresse</string>
+    <string name="s_la_warenkorb">Warenkorb</string>
+    <string name="s_la_zahlart">Zahlungsart</string>
+    <string name="s_cb_address">abweichende Lieferadresse?</string>
+    <string name="s_la_no_ticket">Es sind keine Tickets verfügbar.</string>
+    <string name="s_la_cl1">Aktuelle Veranstaltungen</string>
+    <string name="s_la_cl2">Vergangene Veranstaltungen</string>
+    <string name="s_la_ncl1">Tickets</string>
+    <string name="s_la_ncl2">weitergeleitete Tickets</string>
+    <string name="s_bt_send_code">WEITERLEITEN PER APP</string>
+    <string name="s_la_how_send_code">So funktioniert es: Du hast für eine Freundin oder einen Freund eTickets mitgekauft? Dann kannst du ihnen diese eTickets einfach über die MV TicketBox App senden. So könnt ihr auch getrennt zu dem Event gehen und seit komplett unabhängig voneinander. Frage einfach nach der TicketBox ID vom Empfänger der eTickets und trage diese auf der folgenden Seite ein. Sobald du das eTicket versendet hast, findet der Empfänger dieses unter „Meine Tickets“ auf seinem Smartphone.</string>
+    <string name="s_la_no_result">Deine Suchanfrage lieferte keine Treffer.</string>
+    <string name="s_la_home_search_title">Finde das richtige Event</string>
+    <string name="s_la_home_search_top">Top Events</string>
+    <string name="s_bt_home_search">SUCHE</string>
+    <string name="s_la_home_exp_search">Detailsuche</string>
+    <string name="s_la_home_date">Datum</string>
+    <string name="s_la_home_category">Kategorie</string>
+    <string name="s_la_home_place">Ort</string>
+    <string name="s_la_home_location">Location</string>
+    <string name="s_et_login_name">E-Mail</string>
+    <string name="s_et_login_pw">Passwort</string>
+    <string name="s_et_reg_pw">Passwort*</string>
+    <string name="s_et_login_pw_2">Passwort wiederholen*</string>
+    <string name="s_bt_login">ANMELDEN</string>
+    <string name="s_la_login_kunde">Einloggen</string>
+    <string name="s_la_login_nkunde">Noch kein Kunde?</string>
+    <string name="s_et_reg_name">Nachname*</string>
+    <string name="s_et_reg_vorname">Vorname*</string>
+    <string name="s_et_reg_str">Straße*</string>
+    <string name="s_et_reg_plz">PLZ*</string>
+    <string name="s_et_reg_ort">Ort*</string>
+    <string name="s_et_reg_mail">E-Mail*</string>
+    <string name="s_bt_reg">REGISTRIEREN</string>
+    <string name="s_la_bt_pw">Du hast dein Passwort</string>
+    <string name="s_la_bt_pw_2">vergessen?</string>
+    <string name="s_la_reg">Bitte füllen Sie die folgenden Felder aus.</string>
+    <string name="s_la_agbs">"AGB's akzeptieren"</string>
+    <string name="s_la_login_einlasser_name">Benutzername:</string>
+    <string name="s_et_login_einlasser_name">E-Mail</string>
+    <string name="s_la_login_einlasser_pw">Passwort:</string>
+    <string name="s_et_login_einlasser_pw">Passwort</string>
+    <string name="s_bt_einlasser_login">Einloggen</string>
+    <string name="s_la_login_einlasser">Bitte gebe deine Einlasser Log-in Daten ein:</string>
+    <string name="s_la_termineticket">Termine &amp; Tickets</string>
+    <string name="s_la_description">Beschreibung</string>
+    <string name="s_la_name">Name</string>
+    <string name="s_la_date">Datum</string>
+    <string name="s_la_place">Ort</string>
+    <string name="s_la_price">Preis</string>
+    <string name="s_la_available">Verfügbar</string>
+    <string name="s_bt_buy">Kaufen</string>
+    <string name="s_la_number">Anzahl</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="s_la_impressum_ueber">IMPRESSUM</string>
+    <string name="s_la_impressum_ueber_1">Name und Anschrift</string>
+    <string name="s_la_impressum_1">"MV TicketBox GmbH
+Kröpeliner Str. 54
+18055 Rostock
+Telefon: 0381 / 377 9 555
+Telefax: 0381 / 377 9 554"</string>
+    <string name="s_la_impressum_1_2">Sitz der Gesellschaft:</string>
+    <string name="s_la_impressum_1_3">"Steinstraße 6
+18055 Rostock
+
+Geschäftsführer: Carsten Lange
+Steuernummer: 079/114/05509
+Ust-IdNr.: DE257071480
+Amtsgericht Rostock
+HRB 10776
+
+"</string>
+    <string name="s_la_impressum_mail">E-Mail: info@mv-ticketbox.de</string>
+    <string name="s_la_impressum_url">"Internet: www.mv-ticketbox.de
+"</string>
+    <string name="s_la_impressum_ueber_2_1">TECHNISCHE UMSETZUNG &amp; DESIGN</string>
+    <string name="s_la_impressum_ueber_2_2">psn media GmbH &amp; Co. KG</string>
+    <string name="s_la_impressum_ueber_3_1">psn media GmbH &amp; Co. KG</string>
+    <string name="s_la_impressum_3_1_1">"Telefon: 0381 44 44 18 43 
+Fax: 0381 44 44 18 41 
+"</string>
+    <string name="s_la_impressum_3_1_2">"E-Mail: info@psnmedia.de 
+"</string>
+    <string name="s_la_impressum_3_1_3">"Internet: www.psnmedia.de
+"</string>
+    <string name="s_la_impressum_ueber_3_2">Anschrift</string>
+    <string name="s_la_impressum_3_2">"psn media GmbH &amp; Co. KG 
+Steinstraße 6 
+18055 Rostock
+"</string>
+    <string name="s_la_impressum_ueber_3_3">Rechtliche Angaben:</string>
+    <string name="s_la_impressum_3_3">"psn media GmbH &amp; Co. KG 
+vertreten durch die Lange &amp; Neschanjan GmbH diese wiederum einzeln vertreten durch die Geschäftsführer Herrn Carsten Lange &amp; Herrn Alexander Neschanjan
+
+Handelsregister: HRA 3289, Amtsgericht Rostock 
+Steuernummer: 079/161/28600, Steuer-ID: DE280960673
+Geschäftsführer: Carsten Lange &amp; Alexander Neschanjan 
+"</string>
+    <string name="s_la_impressum_ueber_3_4">Persönlich haftende Gesellschafterin:</string>
+    <string name="s_la_impressum_3_4">"Lange &amp; Neschanjan GmbH, Steinstraße 6, 18055 Rostock 
+Handelsregister: HRB 12116, Amtsgericht Rostock, Steuernummer: 079/113/01452, Steuer-ID: DE280960608 
+Geschäftsführer: Carsten Lange &amp; Alexander Neschanjan 
+"</string>
+    <string name="s_la_da_ueber">DATENSCHUTZ</string>
+    <string name="s_la_datenschutz">"1.) Für den Datenschutz verantwortlicher Dienstanbieter ist vorliegend die MV TicketBox GmbH, Steinstraße 6, 18055 Rostock.
+
+2.) Es wird darauf hingewiesen, dass für alle Teilnehmer die Gefahr besteht, dass über das Internet übermittelte Daten abgehört werden können. Die Vertraulichkeit der im Rahmen der Nutzung der MV TicketBox übermittelten Daten kann daher nicht gewährleistet werden.
+
+3.) Die von Ihnen im Zusammenhang mit dem Bestellvorgang eingegebenen personenbezogenen Informationen (Name, Adresse, Telefon- und Telefaxnummer, E-Mail-Adresse) werden unter Beachtung der Vorgaben der anwendbaren Datenschutzbestimmungen erfasst, bearbeitet und gespeichert. Sie dienen der Abwicklung Ihrer Bestellung, dem Versand sowie der Erbringung von Dienstleistungen. Soweit erforderlich werden diese Daten an mit der Durchführung des Vertrages beauftragte Dritte übermittelt. Diese dürfen die übermittelten Informationen nur zur Erfüllung ihres Auftrags verwenden und sind darüber hinaus ebenfalls zur Einhaltung der maßgeblichen Datenschutzgesetze verpflichtet.
+Sofern Sie nicht die Zahlungsart „Vorkasse“ wählen, erfolgt die Zahlungsabwicklung über Webseiten/PlugIns/Schnittstellen externer Serviceanbieter. Die Übertragung Ihrer für die Zahlung erforderlichen Daten erfolgt dort verschlüsselt über die sogenannte SSL-Technik (Secure Socket Layer). Die MV TicketBox GmbH hat auf den Datenschutz auf diesen externen Seiten jedoch keine Einflussmöglichkeit und übernimmt daher hierfür keine Verantwortung. Es wird insoweit auf die auf den entsprechenden Webseiten angeführten Datenschutzerklärungen der jeweiligen Serviceanbieter verwiesen.
+Desweiteren haben Sie die Möglichkeit, mit uns per E-Mail in Verbindung zu treten. Die von Ihnen in diesem Zusammenhang eingegebenen Kontaktdaten (Name, Adresse, Telefon- und Telefaxnummer, E-Mail-Adresse) werden erfasst und gespeichert, soweit es zur Bearbeitung Ihrer Anfragen, Reservierungswünsche etc. erforderlich ist.
+
+4.) Mit der Eingabe Ihrer Daten in die entsprechenden Eingabemasken und der Absendung erklären Sie die Einwilligung zur Erhebung, Bearbeitung und Speicherung der Daten zu den unter Ziffer 3. dargelegten Zwecken durch die MV TicketBox GmbH. Diese Einwilligung kann von Ihnen jederzeit ohne Angabe von Gründen widerrufen werden.
+
+5.) Während der Nutzung verwendet die MV TicketBox sogenannte Cookies. Bei den Cookies handelt es sich um kleine Textdateien, die beim Aufruf einer Internetseite auf der Festplatte Ihres Rechners hinterlegt werden. Sie ermöglichen bei erneutem Besuch der Internetseite, Ihren Browser wiederzuerkennen und hierdurch den Bestellvorgang für Sie einfacher und effizienter zu gestalten. Bei der Nutzung der Warenkorbfunktion werden nutzerabhängige Daten auf dem Server und in Ihrem Mobilgerät gespeichert, die mithilfe der Ihrem Endgerät hinterlegten Daten verknüpft sind. Diese Daten werden jedoch nur vorübergehend für die Dauer von 6 Stunden gespeichert und sodann gelöscht.
+Die auf Ihrem Rechner hinterlegten Cookies können Sie mithilfe des Internet-Browsers verwalten und löschen. Es wird jedoch darauf hingewiesen, dass bestimmte Funktionen von Webseiten nicht mehr genutzt werden können, sofern Sie die Browsereinstellungen so wählen, dass Ihr Rechner die Installation von Cookies nicht akzeptiert.
+
+ 6.) Die MV TicketBox verwendet Google Analytics. Hierbei handelt es sich um einen Webanalysedienst der Google Inc. mithilfe der auf Ihrem Gerät gespeicherten Geräte ID, die an einen Server von Google in den USA übertragen und dort gespeichert werden. Google nutzt diese Informationen, um Ihre Benutzung der App auszuwerten, Berichte über die Aktivitäten für deren Betreiber zu erstellen sowie weitere Dienstleistungen zu erbringen, die mit der Nutzung der App verbunden sind. Daneben werden diese Informationen an Dritte weitergegeben, wenn dies gesetzlich vorgeschrieben ist oder falls sie durch Google mit der Verarbeitung der Daten beauftragt werden. Google wird Ihre IP-Adresse in keinem Fall mit anderen bei Google gespeicherten Daten in Verbindung bringen.
+Durch die Nutzung der MV TicketBox erklären Sie sich damit einverstanden, dass Google wie vorstehend dargelegt Daten von Ihnen erhebt, bearbeitet und speichert.
+Der Datenerhebung und –speicherung kann jederzeit mit Wirkung für die Zukunft widersprochen werden. Daneben wird darauf hingewiesen, dass die MV TicketBox Ihre IP-Adressen nur gekürzt weiterverarbeitet, so dass eine direkte Personenbeziehbarkeit auszuschließen ist.
+
+"</string>
+    <string name="s_la_co_ueber">COPYRIGHT</string>
+    <string name="s_la_copyright_ueber_1">App-Konzeption &amp; Realisierung</string>
+    <string name="s_la_copyright_ueber_2">App-Design &amp; Layout</string>
+    <string name="s_la_copyright_ueber_3">App-Programmierung</string>
+    <string name="s_la_copyright_ueber_4">App-interne Grafiken / Fotos</string>
+    <string name="s_la_copyright_ueber_5">Veranstaltungsgrafiken / Veranstaltungsfotos</string>
+    <string name="s_la_copyright">www.psnmedia.de</string>
+    <string name="s_la_copyright_2">siehe Beschreibungstexte des jeweiligen Events / Veranstalters</string>
+    <string name="s_la_agbs_ueber">AGBs</string>
+    <string name="s_la_agb_ueber_1">I. Geltungsbereich</string>
+    <string name="s_la_agb_1">Die nachfolgenden Allgemeinen Geschäftsbedingungen gelten für die Vermittlung von Veranstaltungsverträgen durch die MV TicketBox GmbH über die App „MV TicketBox“.</string>
+    <string name="s_la_agb_ueber_2">II. Vermittlungs- und Veranstaltungsvertrag</string>
+    <string name="s_la_agb_2">"1.) Gegenstand des Vertrages zwischen der MV TicketBox GmbH und dem Kunden ist ausschließlich die Vermittlung von Veranstaltungsverträgen durch den Verkauf von Eintrittskarten im Namen und in Vollmacht des jeweiligen Veranstalters an den Kunden einschließlich des Versandes.
+2.) Der Veranstaltervertrag selbst kommt nur zwischen dem Kunden und dem jeweiligen vermittelten Veranstalter zustande. Die MV TicketBox GmbH schuldet weder die Erbringung der vermittelten Veranstalterleistung noch haftet sie für etwaige die Veranstalterleistung betreffende Pflichtverletzungen. Die MV TicketBox GmbH trägt nicht das Risiko der Insolvenz des jeweiligen Veranstalters. Hinsichtlich des zu zahlenden Preises für die vermittelten Eintrittskarten ist sie lediglich Inkassostelle."</string>
+    <string name="s_la_agb_ueber_3">III. Ergänzende Allgemeine Geschäftsbedingungen des Veranstalters, Informationspflicht</string>
+    <string name="s_la_agb_3">Ergänzend zum Veranstaltervertrag können im Verhältnis zwischen Veranstalter und Kunden weitergehende Allgemeine Geschäftsbedingungen des jeweiligen Veranstalters gelten. Der Kunde wird sich, vor dem Abschluss des Vermittlungsvertrages mit der MV TicketBox GmbH über die Allgemeinen Geschäftsbedingungen des jeweiligen Veranstalters informieren und diese akzeptieren.</string>
+    <string name="s_la_agb_ueber_4">IV. Vertragsabschluss, Fälligkeit, aufschiebende Bedingung</string>
+    <string name="s_la_agb_4">"1.) Das Anklicken des Buttons „JETZT KOSTENPFLICHTIG KAUFEN“ auf der Maske der App „MV TicketBox“ stellt lediglich ein Angebot des Kunden zur Vermittlung eines Veranstaltervertrages dar, welches erst mit der Versendung einer Auftragsbestätigung an den Kunden per E-Mail durch die MV TicketBox GmbH angenommen wird.
+2.) Mit dem Zugang der Auftragsbestätigung beim Kunden ist der für den vermittelten Veranstaltungsvertrag vereinbarte Preis zur Zahlung durch den Kunden an die MV TicketBox GmbH fällig.
+3.) Sowohl die Wirksamkeit des zwischen dem Kunden und der MV TicketBox GmbH abgeschlossenen Vermittlungsvertrages als auch die Wirksamkeit des zwischen Kunden und Veranstalter abgeschlossenen Veranstaltungsvertrages stehen unter der aufschiebenden Bedingung des Einganges des vom Kunden zu zahlenden Preises bei der MV TicketBox GmbH."</string>
+    <string name="s_la_agb_ueber_5">V. Keine Gewähr für Veranstaltungsangaben</string>
+    <string name="s_la_agb_5">Die MV TicketBox GmbH übernimmt für die Richtigkeit der ihr von den Veranstaltern für die App „MV TicketBox“ zur Verfügung gestellten Veranstaltungsangaben insbesondere im Hinblick auf den Veranstaltungsort, Veranstaltungsinhalt und die Veranstaltungszeit keine Gewähr.</string>
+    <string name="s_la_agb_ueber_6">VI. Einverständniserklärung für Newsletter</string>
+    <string name="s_la_agb_6">Der Kunde erklärt sich widerruflich damit einverstanden, dass die MV TicketBox GmbH zukünftig Newsletter an die von ihm übermittelte E-Mail-Adresse versendet.</string>
+    <string name="s_la_agb_ueber_7">VII. Rückgabe- und Widerrufsrecht</string>
+    <string name="s_la_agb_7">Ein Rückgabe- bzw. Widerrufsrecht besteht hinsichtlich der vermittelten Eintrittskarten gemäß § 312b Abs. 3 Nr. 6 BGB nicht.</string>
+    <string name="s_la_agb_ueber_8">VIII. Wechselseitiges Rücktrittsrecht, Rückgewähransprüche</string>
+    <string name="s_la_agb_8">"1.) Sollte der jeweilige Veranstalter der MV TicketBox GmbH die vermittelten Eintrittskarten zur Abwicklung der Vertragsverhältnisse nicht zur Verfügung stellen können, so steht sowohl der MV TicketBox GmbH als auch dem Kunden ein Rücktrittsrecht hinsichtlich des abgeschlossenen Vermittlungs- bzw. Veranstaltungsvertrages zu. Auf das benannte Rücktrittsrecht finden die §§ 349 ff BGB unter Ausschluss von § 350 BGB Anwendung. Die Erklärung des Rücktritts kann seitens der MV TicketBox GmbH auch konkludent durch eine Gutschrift der gezahlten Beträge erfolgen.
+2.) Etwaige Rückgewähransprüche des Kunden insbesondere auf Erstattung des gezahlten Preises aus dem zurückgetretenen Veranstaltungsvertrag richten sich ausschließlich gegen den jeweiligen Veranstalter und nicht gegen die MV TicketBox GmbH. Diese wird aus dem Rückgewährschuldverhältnis des Veranstaltungsvertrages nicht verpflichtet."</string>
+    <string name="s_la_agb_ueber_9">IX. Abgesagte und verschobene Veranstaltungen</string>
+    <string name="s_la_agb_9">Sollte der Veranstalter eine Veranstaltung absagen oder verschieben, so richten sich etwaige Ansprüche des Kunden insbesondere auf Erstattung des gezahlten Preises aus dem abgeschlossenen Veranstaltungsvertrag ausschließlich gegen den Veranstalter und nicht gegen die MV TicketBox GmbH. Diese wird aus dem vermittelten Veranstaltungsvertrag nicht verpflichtet.</string>
+    <string name="s_la_agb_ueber_10">X. Haftungsbeschränkungen</string>
+    <string name="s_la_agb_10">"Die Haftung der MV TicketBox GmbH ist ausgeschlossen, es sei denn
+- die Voraussetzungen des Produkthaftungsgesetzes liegen vor,
+- die Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit beruhen auf einer vorsätzlichen oder fahrlässigen Pflichtverletzung der MV TicketBox GmbH oder einer vorsätzlichen oder fahrlässigen Pflichtverletzung eines gesetzlichen Vertreters oder Erfüllungsgehilfen der MV TicketBox GmbH,
+- die sonstigen Schäden beruhen auf einer vorsätzlichen oder grob fahrlässigen Pflichtverletzung der MV TicketBox GmbH oder einer vorsätzlichen oder grob fahrlässigen Pflichtverletzung eines gesetzlichen Vertreters oder Erfüllungsgehilfen der MV TicketBox GmbH,
+- die sonstigen Schäden beruhen auf einer einfach fahrlässigen Verletzung von Pflichten, deren Erfüllung die ordnungsgemäße Durchführung des Vertrages erst ermöglicht und auf deren Einhaltung der Kunde regelmäßig vertrauen darf (Kardinalpflichten).
+- In dem Fall der Ziffer 1.d) ist die Haftung der MV TicketBox GmbH auf den vertragstypischen Schaden begrenzt."</string>
+    <string name="s_la_agb_ueber_11">XI. Schlussklauseln</string>
+    <string name="s_la_agb_11">"1.) Es gilt ausschließlich das Recht des Bundesrepublik Deutschland
+2.) Sollten einzelne Allgemeine Geschäftsbedingungen unwirksam sein, so wird die Wirksamkeit der übrigen Allgemeinen Geschäftsbedingungen hierdurch nicht berührt.
+3.) Als Gerichtsstand wird für alle sich aus dem Vermittlungsvertrag zwischen dem Kunden und der MV TicketBox GmbH ergebenden Streitigkeiten Rostock vereinbart, soweit der Kunde Kaufmann ist."</string>
+    <string name="s_la_kontakt">Setze dich direkt oder per Formular mit uns in Verbindung:</string>
+    <string name="s_la_str">Kröpeliner Str. 54</string>
+    <string name="s_la_ort">18055 Rostock</string>
+    <string name="s_la_tel">Telefon: 0381 / 377 9 555</string>
+    <string name="s_la_fax">Fax: +49381 / 377 9 554</string>
+    <string name="s_la_mail">E-Mail: info@mv-ticketbox.de</string>
+    <string name="s_la_www">www.mv-ticketbox.de</string>
+    <string name="s_la_kf_name">Name*:</string>
+    <string name="s_la_kf_tel">Telefon*:</string>
+    <string name="s_la_kf_mail">E-Mail*:</string>
+    <string name="s_la_kf_anfrage">Deine Anfrage*:</string>
+    <string name="s_bt_send_message">ABSCHICKEN</string>
+</resources>

@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="accept">Accept</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
+    <string name="create_calendar_title">Create calendar event</string>
+    <string name="debug_menu_ad_information">Ad Information</string>
+    <string name="debug_menu_creative_preview">Creative Preview</string>
+    <string name="debug_menu_title">Select a Debug Mode</string>
+    <string name="debug_menu_troubleshooting">Troubleshooting</string>
+    <string name="decline">Decline</string>
+    <string name="search_menu_title">Search</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="store_picture_message">Allow Ad to store image in Picture gallery?</string>
+    <string name="store_picture_title">Save image</string>
+    <string name="err_any_payment_method_is_absent">Оплата сервисов на устройстве на данный момент невозможна. Попробуйте настроить или обновить Play Google.</string>
+    <string name="err_bad_login">Неверный логин или пароль.</string>
+    <string name="err_birthday_incorrect">Не корректно указана дата рождения.</string>
+    <string name="err_cant_add_photo">Не удалось добавить фотографию в альбом. Повторите попытку позже.</string>
+    <string name="err_cant_add_photo_bad_data">Не удалось добавить фотографию в альбом. Неверный формат фотографии.</string>
+    <string name="err_cant_delete_photo">Не удалось удалить фотографию. Повторите попытку попозже.</string>
+    <string name="err_cant_hide_photo">Не удалось скрыть фотографию. Повторите попытку позже.</string>
+    <string name="err_cant_load_album">Не удалось загрузить альбом.</string>
+    <string name="err_cant_set_avatar">Не удалось установить фотографию в качестве аватара. Повторите попытку позже.</string>
+    <string name="err_cant_set_thumbnail">Не удалось установить фотографию в качестве обложки альбома. Повторите попытку позже.</string>
+    <string name="err_cant_unhide_photo">Не удалось показать фотографию. Повторите попытку позже.</string>
+    <string name="err_captcha">Ошибка ввода captcha</string>
+    <string name="err_connection_gone">Подключение отсутствует</string>
+    <string name="err_country_not_selected">Укажите страну.</string>
+    <string name="err_during_photo_loading">Не удалось загрузить фотографию.</string>
+    <string name="err_during_user_delete">Не удалось удалить контакт.</string>
+    <string name="err_elite_already">У вас уже подключен \"Премиум-доступ\"</string>
+    <string name="err_elite_required">Необходимо подключить услугу \"Премиум-доступ\"</string>
+    <string name="err_internet_failed">Ошибка запроса при обращении к серверу.</string>
+    <string name="err_interrupted">Выполнение прервано пользователем</string>
+    <string name="err_login_incorect">Данный логин не доступен. Попробуйте ввести другой.</string>
+    <string name="err_maps_init_error">Ошибка инициализации карты</string>
+    <string name="err_market_error">Не удалось совершить покупку, попробуйте позже.</string>
+    <string name="err_market_token_error">Не удалось проверить данные покупки, мы попробуем проверить их позже.</string>
+    <string name="err_message_user_not_found">Пользователь не найден или удален</string>
+    <string name="err_missed_code">Не указан код.</string>
+    <string name="err_need_reauth">Необходима авторизация.</string>
+    <string name="err_new_password">Неверное подтверждение нового пароля</string>
+    <string name="err_no_code">Не указан код.</string>
+    <string name="err_no_internet">Отсутствует подключение к интернету.</string>
+    <string name="err_no_phone">Не указан номер телефона.</string>
+    <string name="err_pass_remind_error">"Ошибка во время попытки восстановления пароля
+Повторите попытку позже."</string>
+    <string name="err_password_null">Поля ввода пароля не может быть пустыми.</string>
+    <string name="err_photo_canceled">Загрузка отменена</string>
+    <string name="err_play_google_is_absent">Сервисы Google Play, отсутствуют на данном устройстве.</string>
+    <string name="err_play_google_need_update">Пожалуйста, обновите Play Google на вашем устройстве.</string>
+    <string name="err_play_google_payment_is_absent">Оплата через сервисы Google Play невозможна, они отсутствуют на данном устройстве.</string>
+    <string name="err_play_google_payment_need_update">Оплата через сервисы Google Play в данный момент невозможна. Пожалуйста, обновите Play Google на вашем устройстве.</string>
+    <string name="err_please_restart_app">Пожалуйста, перезапустите приложение</string>
+    <string name="err_region_not_selected">Не указан регион.</string>
+    <string name="err_registration_auth_failed">Ошибка аутентификации</string>
+    <string name="err_registration_check_user_failed">Неверный email</string>
+    <string name="err_registration_date_not_specified">Выберите дату рождения</string>
+    <string name="err_registration_email_not_specified">Введите email</string>
+    <string name="err_registration_email_not_valid">"E-mail должен содержать символы '@' и '.'"</string>
+    <string name="err_registration_location_not_specified">Необходимо указать месторасположение.</string>
+    <string name="err_registration_name_not_specified">Введите никнейм</string>
+    <string name="err_registration_other_error">Неизвестная ошибка</string>
+    <string name="err_registration_pass_not_specified">Пароль должен содержать от 8 до 16 символов</string>
+    <string name="err_registration_pass_verify_not_specified">Введите пароль повторно</string>
+    <string name="err_registration_start_age_more_end_age">Начальный возраст больше конечного.</string>
+    <string name="err_registration_user_exists">Пользователь уже существует</string>
+    <string name="err_registration_wrong_iphonerc">Неверная контрольная сумма</string>
+    <string name="err_registration_wrong_login">Данный e-mail адрес уже используется</string>
+    <string name="err_registration_wrong_name">Поле содержит неверные символы или сообщения рекламного характера</string>
+    <string name="err_registration_wrong_pass">Пустой или слишком простой пароль</string>
+    <string name="err_registration_wrong_year">Неверно указан возраст</string>
+    <string name="err_remind">Произошла ошибка. Проверьте правильность ввода логина и повторите попытку.</string>
+    <string name="err_sending">Отправка не удалась</string>
+    <string name="err_sms_result_error_generic_failure">Ошибка при отправлении SMS</string>
+    <string name="err_sms_result_error_no_service">Ошибка при отправлении SMS</string>
+    <string name="err_sms_result_error_not_delivered">К сожалению, СМС не доставлена</string>
+    <string name="err_sms_result_error_null_pdu">Ошибка при отправлении SMS</string>
+    <string name="err_sms_result_error_radio_off">Ошибка при отправлении SMS</string>
+    <string name="err_sympathy_send_failed">При попытке отправить симпатию произошла ошибка. Повторите попытку позже.</string>
+    <string name="err_unknown">Неизвестная ошибка</string>
+    <string name="err_username_password_null">Поля ввода логина и пароля не могут быть пустыми.</string>
+    <string name="err_vk_auth_error">Ошибка авторизации в VK</string>
+    <string name="err_works_on_server_stub">На сервере производятся работы по обновлению.</string>
+    <string name="err_wrong_album_password">Не правильно введен пароль.</string>
+    <string name="err_wrong_email">Неверный e-mail</string>
+    <string name="str_NN_hours_ago">%d часов назад</string>
+    <string name="str_N_hours_ago">%d часа назад</string>
+    <string name="str_action_bar_vote">Оцените приложение</string>
+    <string name="str_action_bar_vote_msg">"Если вам нравится пользоваться %s, не могли бы вы оценить? 
+Это займет не больше минуты.
+Спасибо за Вашу поддержку!"</string>
+    <string name="str_action_btn_vote">Оценить</string>
+    <string name="str_action_btn_vote_later">Позже</string>
+    <string name="str_action_btn_vote_never">Нет, спасибо</string>
+    <string name="str_add_photo_make_shot">Сделать снимок</string>
+    <string name="str_add_photo_take_from_gallery">Выбрать на устройстве</string>
+    <string name="str_before_yesterday">Позавчера</string>
+    <string name="str_bottom_menu_messages">Переписка</string>
+    <string name="str_bottom_menu_my_chats">Мои чаты</string>
+    <string name="str_bottom_menu_my_profile">Профиль</string>
+    <string name="str_bottom_menu_near_chats">Чаты рядом</string>
+    <string name="str_chat_actions">Действия с сообщением</string>
+    <string name="str_chat_copy">Копировать</string>
+    <string name="str_chat_quote">Цитировать</string>
+    <string name="str_complain_ok">Отправить</string>
+    <string name="str_create_account_sex_female">Женский</string>
+    <string name="str_create_account_sex_male">Мужской</string>
+    <string name="str_delete_user">Удалить</string>
+    <string name="str_distance_from_me_1">%d м</string>
+    <string name="str_distance_from_me_2">%.1f км</string>
+    <string name="str_distance_from_me_3">%.0f км</string>
+    <string name="str_earn_premium_screen_button">Выбрать друзей</string>
+    <string name="str_earn_premium_sms_text">Я уже тут, присоединяйся http://loveplanet.ru/app?code=%1$s</string>
+    <string name="str_enter_code_btn">Готово</string>
+    <string name="str_enter_code_for_captcha">Теперь введите код, который Вы видите на картинке, и нажмите \"Готово\"</string>
+    <string name="str_exchange_please_wait">Обмен данными с сервером; пожалуйста, подождите…</string>
+    <string name="str_geo_chat_anonymous_chat">Анонимный чат</string>
+    <string name="str_geo_chat_block_request_ok">Запрос на блокирование отправлен.</string>
+    <string name="str_geo_chat_cant_create_chat">Рядом с вами уже есть анонимные чаты, зайдите в них!</string>
+    <string name="str_geo_chat_change_avatar">Изменить аватар</string>
+    <string name="str_geo_chat_create_chat_btn">Создать</string>
+    <string name="str_geo_chat_create_chat_name_hint">Напишите название вашего чата</string>
+    <string name="str_geo_chat_create_chat_name_too_long">Заголовок чата не должен превышать %1$s символов</string>
+    <string name="str_geo_chat_create_chat_private_descr">Этот чат будет будет доступен только по личным приглашениям</string>
+    <string name="str_geo_chat_create_chat_set_chat_name">Пожалуйста укажите тему чата</string>
+    <string name="str_geo_chat_create_chat_title">Создать чат</string>
+    <string name="str_geo_chat_create_chat_visible_descr">Этот чат будет виден всем пользователям</string>
+    <string name="str_geo_chat_create_chat_with_restrictions">Чат с ограничениями</string>
+    <string name="str_geo_chat_created_by_me">Я (автор)</string>
+    <string name="str_geo_chat_get_acquainted_request_ok">"Запрос на знакомство отправлен.
+Если пользователь заинтересуется, вы сможете начать общение."</string>
+    <string name="str_geo_chat_get_acquainted_request_title">Участник чата предлагает познакомиться</string>
+    <string name="str_geo_chat_inivte_user_btn">ПРИГЛАСИТЬ В ЧАТ</string>
+    <string name="str_geo_chat_invite_chat_confirm_btn">Принять приглашение</string>
+    <string name="str_geo_chat_invite_chat_from_chat">Из чата:</string>
+    <string name="str_geo_chat_invite_chat_promo">Теперь ты можешь пригласить пользователя в любой из своих чатов!</string>
+    <string name="str_geo_chat_invite_chat_reject_btn">Отказаться</string>
+    <string name="str_geo_chat_invite_chat_title">Приглашение в чат</string>
+    <string name="str_geo_chat_invite_chat_to_chat">Вас приглашают в чат:</string>
+    <string name="str_geo_chat_invite_chat_to_chat_msg">Приглашаю Вас в чат:</string>
+    <string name="str_geo_chat_invite_chat_to_chat_msg_me">Вы пригласили пользователя в чат:</string>
+    <string name="str_geo_chat_invite_request_err">Произошла ошибка при отправке сообщения</string>
+    <string name="str_geo_chat_invite_request_ok">Приглашение отправлено</string>
+    <string name="str_geo_chat_leave_chat">Покинуть чат</string>
+    <string name="str_geo_chat_leave_chat_btn">Покинуть чат</string>
+    <string name="str_geo_chat_leave_chat_title">Покинуть чат и прекратить получать уведомления о новых сообщениях.</string>
+    <string name="str_geo_chat_list_title">Доступные чаты</string>
+    <string name="str_geo_chat_message_menu_block">Заблокировать</string>
+    <string name="str_geo_chat_message_menu_block_image">Скрыть</string>
+    <string name="str_geo_chat_message_menu_complain">Пожаловаться</string>
+    <string name="str_geo_chat_message_menu_get_acquainted">Познакомиться</string>
+    <string name="str_geo_chat_message_menu_invite_user">Пригласить в другой чат</string>
+    <string name="str_geo_chat_message_menu_set_moderator">Назначить модератором</string>
+    <string name="str_geo_chat_message_menu_unset_moderator">Убрать из модераторов</string>
+    <string name="str_geo_chat_message_set_moderator">Пользователь добавлен в список модераторов</string>
+    <string name="str_geo_chat_message_unset_moderator">Пользователь убран из списка модераторов</string>
+    <string name="str_geo_chat_messages_title">Чат</string>
+    <string name="str_geo_chat_near_chat_absent">Рядом есть интересные люди, которые, возможно, захотят пообщаться</string>
+    <string name="str_geo_chat_remove_avatar">Убрать аватар</string>
+    <string name="str_geo_chat_rules">"Правила использования анонимного чата
+
+ 1. При использовании Приложения Пользователь обязан соблюдать положения действующего законодательства и настоящего Соглашения.
+
+
+ 1.1. Пользователь не вправе размещать через Приложение информацию, данные, тексты, изображения, фотографии, графику, музыку и другие материалы (далее — «Контент»), а также направлять посредством Приложения сообщения, которые могут нарушать права и интересы других лиц.
+
+
+ 1.2. Пользователь несет личную ответственность за загруженный, отправленный, переданный или ставший доступным в Приложении вследствие каких-либо других действий Пользователя Контент. Администрация не несет ответственности за Контент, отправленный и/или размещенный через Приложение Пользователем.
+
+
+ 1.3. Пользователь обязуется:
+
+ 1.3.1. не загружать, не хранить, не публиковать, не распространять и не предоставлять доступ или иным образом использовать любую информацию, которая:
+
+ а) содержит порнографию и/или тексты (сцены, предложения, описания) сексуального характера; данное положение касается как названий чатов, так и отправляемых в чат сообщений
+
+ б) содержит описание средств и способов суицида, любое подстрекательство к его совершению;
+
+ в) пропагандирует и/или способствует разжиганию расовой, религиозной, национальной, этнической ненависти или вражды; неприязнь между социальными группами;
+
+ г) пропагандирует культ насилия и жестокости;
+
+ д) содержит экстремистские материалы;
+
+ е) пропагандирует преступную деятельность или содержит советы, инструкции или руководства по совершению преступных действий;
+
+ ж) содержит информацию ограниченного доступа, включая, но, не ограничиваясь, государственной и коммерческой тайной, информацией о частной жизни третьих лиц;
+
+ з) пропагандирует или описывает привлекательность употребления наркотических веществ, информацию о распространении наркотиков, рецепты их изготовления и советы по употреблению;
+
+ и) носит мошеннический характер;
+
+ к) порочит честь, достоинство, деловую репутацию других лиц;
+
+ л) нарушает неприкосновенность частной жизни других Пользователей или третьих лиц;
+
+ м) содержит клевету, грубые и оскорбительные выражения и предложения;
+
+ н) нарушает другие права третьих лиц и действующее законодательство Российской Федерации.
+
+
+ 1.4 В случае нарушения Пользователем положений данного Соглашения, Администрация вправе приостановить либо прекратить действие аккаунта Пользователя в Приложении и/или удалить любой Контент, загруженный в Приложение Пользователем, без уведомления Пользователя и/или объяснения причин.
+
+ 1.4.1 Нарушение Пользователем положений данного Соглашения может повлечь за собой временную или бессрочную блокировку Администрацией доступа к Приложению без уведомления Пользователя и/или объяснения причин."</string>
+    <string name="str_geo_chat_rules_agree_btn">Принимаю</string>
+    <string name="str_geo_chat_tab_my">Мои чаты</string>
+    <string name="str_geo_chat_tab_near">Чаты рядом</string>
+    <string name="str_geo_chat_tab_popular">Популярные</string>
+    <string name="str_geo_chat_written_by_author">Автор</string>
+    <string name="str_geo_chat_written_by_me">Я</string>
+    <string name="str_gift_receive_gift">Вам подарок</string>
+    <string name="str_gift_receive_say_thank_you">Сказать «Спасибо»</string>
+    <string name="str_gps_location_disabled">Службы геолокации необходимые для работы сервиса отключены. Включите их в настройках телефона.</string>
+    <string name="str_hour_ago">Час назад</string>
+    <string name="str_invite_alert_close">Закрыть</string>
+    <string name="str_invite_alert_title">Приглашение в чат</string>
+    <string name="str_invite_friends_completed_screen_text_0">Приглашения отправлены!</string>
+    <string name="str_invite_friends_completed_screen_text_1">Карма будет добавлена после того, как ваши друзья зарегистрируются.</string>
+    <string name="str_invite_friends_enter_phone_number">"Узнай, кто из твоих
+знакомых уже в чате"</string>
+    <string name="str_invite_friends_enter_phone_number_disclaimer">"Не волнуйся, все анонимно.
+Мы сохраняем тайну исповеди.
+Никто не увидит твои личные данные."</string>
+    <string name="str_invite_friends_enter_phone_number_done">Далее</string>
+    <string name="str_invite_friends_enter_phone_number_done_2">Найти друзей</string>
+    <string name="str_invite_friends_enter_phone_number_hint">Введи свой телефон</string>
+    <string name="str_invite_friends_screen_text_0">Приглашай друзей!</string>
+    <string name="str_invite_friends_screen_text_1">получай очки кармы за каждого приглашенного пользователя</string>
+    <string name="str_invite_friends_screen_title">Пригласи друзей</string>
+    <string name="str_invite_friends_sms_text">Присоединяйся к моему чату %1$s %2$s</string>
+    <string name="str_list_loading">Загрузка…</string>
+    <string name="str_location_not_set">не задано</string>
+    <string name="str_menu_other_user_view_profile">Посмотреть профиль</string>
+    <string name="str_message">Сообщение</string>
+    <string name="str_messages">Личная переписка</string>
+    <string name="str_messages_no">Нет сообщений</string>
+    <string name="str_moderator_popup_moderator_add">назначил вас модератором</string>
+    <string name="str_moderator_popup_moderator_chat_owner">Владелец чата</string>
+    <string name="str_moderator_popup_moderator_del">исключил вас из модераторов</string>
+    <string name="str_moderator_popup_open_chat">Открыть чат</string>
+    <string name="str_moderator_popup_title">Модерация</string>
+    <string name="str_my_profile_birthday">Дата рождения</string>
+    <string name="str_my_profile_enter_name_hint">Ваше имя</string>
+    <string name="str_my_profile_go_chats">Перейти в чаты</string>
+    <string name="str_my_profile_karma">Ваша карма</string>
+    <string name="str_my_profile_name_note">Имя показывается только в личной переписке</string>
+    <string name="str_my_profile_photo_note">Установите любую картинку и она будет автоматически использоваться в чатах</string>
+    <string name="str_my_profile_receive_notifications">Получать уведомления</string>
+    <string name="str_my_profile_your_sex">Ваш пол</string>
+    <string name="str_my_profile_your_sex_female">Женщина</string>
+    <string name="str_my_profile_your_sex_male">Мужчина</string>
+    <string name="str_not_set_value">Не выбрано</string>
+    <string name="str_other_anonymous_user">Anonymous</string>
+    <string name="str_other_profile_karma">Карма %1$s</string>
+    <string name="str_other_user_complain">Пожаловаться</string>
+    <string name="str_otheruser_deleted">Удален</string>
+    <string name="str_please_enter_captcha">Введите код с картинки</string>
+    <string name="str_premium_screen_text_0">Включи Премиум</string>
+    <string name="str_premium_screen_text_1">и открой все возможности</string>
+    <string name="str_recently">Недавно</string>
+    <string name="str_restrictions">Ограничения</string>
+    <string name="str_search_settings_age_from">Возраст c</string>
+    <string name="str_search_settings_age_to">до</string>
+    <string name="str_search_settings_sex">Пол</string>
+    <string name="str_select_photo">Выберите фотографию</string>
+    <string name="str_send_sms_delivery_success">CMC успешно получено</string>
+    <string name="str_send_sms_success">CMC успешно отправлена</string>
+    <string name="str_status">Статус</string>
+    <string name="str_sticker_set_buy_success">Стикеры успешно куплены!</string>
+    <string name="str_sticker_set_list_all">Все</string>
+    <string name="str_sticker_set_list_buy">Купить</string>
+    <string name="str_sticker_set_list_buy_title">Купить стикеры</string>
+    <string name="str_sticker_set_list_my">Мои</string>
+    <string name="str_sticker_set_list_new_badge">Новые</string>
+    <string name="str_sticker_set_list_price">%d единиц</string>
+    <string name="str_sticker_set_list_price_free">Бесплатно</string>
+    <string name="str_sticker_set_list_title">Стикеры</string>
+    <string name="str_sticker_set_more_stickers">Другие стикеры</string>
+    <string name="str_today">Сегодня</string>
+    <string name="str_try_again">Еще раз</string>
+    <string name="str_unable_to_save_photo">Не удалось сохранить файл.</string>
+    <string name="str_user_profile">Мой профиль</string>
+    <string name="str_vote_2_cant_send">Не удалось отправить вашу оценку.</string>
+    <string name="str_vote_2_send_comment">Отправить</string>
+    <string name="str_vote_2_that_wrong">Пожалуйста, напишите подробнее, что вам не нравится и чего не хватает в приложении Scandal.</string>
+    <string name="str_vote_2_write_comment">Написать комментарий</string>
+    <string name="str_vote_3_give_bonus">Благодарим за уделенное время!</string>
+    <string name="str_vote_3_go_google_play">ОСТАВИТЬ ОТЗЫВ В GOOGLE PLAY</string>
+    <string name="str_vote_3_google_play">Поделитесь со всеми своими впечатлениями в Google Play. Мы ценим каждый отзыв!</string>
+    <string name="str_vote_3_thank_you">Спасибо за вашу оценку!</string>
+    <string name="str_vote_your_opinion">Нам важно ваше мнение</string>
+    <string name="str_vote_your_opinion_2">Пожалуйста, оцените приложение. Это займет несколько секунд вашего времени.</string>
+    <string name="str_write_message_hint">Написать сообщение</string>
+    <string name="str_yesterday">Вчера</string>
+    <string name="terms_and_conditions">"Продолжая, вы принимаете &lt;font color='#FFFFFF'>Правила использования&lt;/font> и подтверждаете, что вам 18 и более лет. Мы никогда не разглашаем &lt;font color='#FFFFFF'>личные контактные данные&lt;/font>."</string>
+    <string name="versionString">Версия %1$s</string>
+    <string name="str_become_star_success">\"Ангела-хранителя\" успешно получен!</string>
+    <string name="str_karma_add_success">Карма успешно пополнена!</string>
+    <string name="str_karma_angel_buy_btn">Приобрести карму</string>
+    <string name="str_karma_angel_cost_per_day_btn">Призвать за %1$s/день</string>
+    <string name="str_karma_angel_cost_per_day_btn_owned">Мой ангел</string>
+    <string name="str_karma_angel_desc">"Карма, полученная тобой за благие
+дела, будет расти быстрее"</string>
+    <string name="str_karma_angel_time">"Срок действия автовозобновляемой
+подписки 7 дней."</string>
+    <string name="str_karma_angel_title">"Призови личного
+Ангела-хранителя!"</string>
+    <string name="str_karma_buy_cos_btn">Поднять карму на %1$s</string>
+    <string name="str_karma_buy_cost">разово за %1$s</string>
+    <string name="str_karma_buy_desc">"Вырасти карму и ты сможешь отправлятьбольше фото, менять личины и получишь
+индульгенцию в Чистилище."</string>
+    <string name="str_karma_buy_for_free">Поднять карму бесплатно</string>
+    <string name="str_karma_buy_for_free_free">"поставь нам 5 звезд, расскажи, что тебе
+нравится и получи бонус 1000 кармы"</string>
+    <string name="str_karma_buy_review_on_checking">Ваш отзыв проверяется</string>
+    <string name="str_karma_buy_title">Измени свою судьбу прямо сейчас!</string>
+    <string name="str_karma_gate">Открыть врата</string>
+    <string name="str_karma_my_profile_desc">Шокирующие и непристойные аватары, демонстрирующие акты любви, неприкрытые тела и другие нечестивые образы, будут обращены в пепел. Не тратьте свою карму зря.</string>
+    <string name="str_karma_rulez_chapter_1">Все обитатели чата обладают кармой, которая влияет на ваше настоящее и будущее. Карма – универсальная сила, которая определяет, как вы себя чувствуете, какими возможностями будете обладать, и открывает дорогу к наслаждениям. Посмотреть свой уровень кармы можно в профиле.</string>
+    <string name="str_karma_rulez_chapter_2">Каждое действие в чате имеет положительное и отрицательное влияние на карму. Если ваша карма упадет до §min_karma_can_do§, вы временно потеряете возможность писать в общие чаты и вам придется изыскивать способы индульгенции и ждать, пока карма вернется к допустимому уровню. Это будет больно и обидно. Не гневите богов чата и не разбазаривайте карму на дурные поступки.</string>
+    <string name="str_karma_rulez_chapter_3">"Вы получаете §pen_clear_msg§ очко к карме за каждое сообщение в чате. Но бессмысленный набор символов приведет к падению кармы, автоматически или по решению смотрящих за порядком в чате. Не используйте нечестивые слова для набора кармы, помните, что вы не одни.
+
+Исповедуйте принцип гармонии. Выбирайте чаты, где ваши мысли, идеи и фантазии будут к месту и их благосклонно примут другие обитатели."</string>
+    <string name="str_karma_rulez_chapter_4">Хорошие поступки всегда приносят плоды. Классное фото обеспечит вам благосклонность других жителей чата и поможет найти новых друзей. Но чтобы вы могли отправить картинку в общий чат, ваша карма должна быть не менее §min_karma_pic_post§ очков. Подкопите немного кармы, чтобы одаривать других пользователей красивыми картинками или фото.</string>
+    <string name="str_karma_rulez_chapter_5">Гуру, создавший чат и наставники следят за порядком и обладают возможностью выгнать вас из этого сообщества. Если ваше поведение признают неприличным, вы точно огорчите своих родителей, но главное – будете заблокированы в чате и ваша карма упадет на §pen_user_banned§ очков. Не испытывайте судьбу, последствия изгнания могут быть мучительны, а выпросить индульгенцию не так-то просто.</string>
+    <string name="str_karma_rulez_chapter_6">"Карма не дремлет! Бранные слова, нечестивые описания любовных актов или попытки обмена картинками с неприкрытой плотью и любовными утехами каждый раз уменьшают вашу карму на §pen_bad_word_msg§ очков и искушают наставников выгнать вас из этой обители доброты и счастья. Относитесь ответственно к тому, что пишете в чатах, и вам воздастся.
+
+Для искушающих снимков рекомендуем использовать личную переписку. Это защитит вашу карму и невинность обитателей чатов."</string>
+    <string name="str_karma_rulez_chapter_7">Воздержитесь от отправки бездуховных картинок, которые могут шокировать ваших братьев и сестер. Это влечет ужасные кармические последствия! Если вы спровоцируете недовольство в населенном чате, это может привести к изгнанию и ударит по вашей карме. Зачем добровольно обрекать себя на страдания в этом бренном мире?</string>
+    <string name="str_karma_rulez_chapter_8">"Накопленная карма позволяет вам приобщиться к наслаждениям и увеличить ваше могущество в чатах.
+
+За §pen_photo_post§ очков кармы вы можете отправить в общий чат картинку или фотографию. Такова цена удовольствия в этой жизни!
+
+Вы переродились в новом чате в образе лося или вантуза? Потратьте §pen_ava_set§ очков кармы и загрузите на аватару любую картинку. Выбирайте сами, в каком облике явиться миру."</string>
+    <string name="str_karma_rulez_chapter_9">Для всех наших друзей, которые активно общались, радуя своих братьев и сестер, и накопили очень много кармы, мы готовим секретное nirvana menu. Будет весело! Не забывайте обновлять приложение. Аминь.</string>
+    <string name="str_karma_rulez_chapter_title_1">Суть кармы</string>
+    <string name="str_karma_rulez_chapter_title_2">Сила кармы</string>
+    <string name="str_karma_rulez_chapter_title_3">Благие поступки</string>
+    <string name="str_karma_rulez_chapter_title_4">Карма и отправка фото</string>
+    <string name="str_karma_rulez_chapter_title_5">Силы гуру и наставников</string>
+    <string name="str_karma_rulez_chapter_title_6">Плохие слова</string>
+    <string name="str_karma_rulez_chapter_title_7">Дурные поступки</string>
+    <string name="str_karma_rulez_chapter_title_8">Дары кармы</string>
+    <string name="str_karma_rulez_chapter_title_9">Сюрприз для просветленных</string>
+    <string name="str_karma_title">"МЫ ЗНАЕМ,
+ЧТО ТЫ ИЩЕШЬ"</string>
+    <string name="str_neeed_more_karma_back">Вернуться в чат</string>
+    <string name="str_neeed_more_karma_buy">Повысить Карму</string>
+    <string name="str_neeed_more_karma_karma_laws">Законы Кармы</string>
+    <string name="str_neeed_more_karma_photo_descr">Ты получаешь очки кармы за каждое сообщение в чате и другие благие дела. Общайся активнее, чтобы нести красоту своим братьям и сестрам.</string>
+    <string name="str_neeed_more_karma_photo_title">"Достигни нового уровня кармы,
+чтобы отправлять фото"</string>
+    <string name="str_neeed_more_karma_treshold">из %1$s</string>
+    <string name="str_wallet_wait_async_operation">Подождите, запрос уже выполняется.</string>
+    <string name="app_name">Scandal</string>
+    <string name="APPS_FLYER_DEV_KEY">zi2pf9unkSiMr2nNoas2U7</string>
+    <string name="APPS_FLYER_GCM_FIREBASE_PROJECT_ID">393078708400</string>
+    <string name="BASE_SERVER_API_URL">https://loveplanet.ru/api/chat/</string>
+    <string name="FLURRY_API_KEY">XZ9FVR4MV4M67MHYHBD2</string>
+    <string name="FONDY_MERCHANT_ID">1396424</string>
+    <string name="GA_PROPERTY_ID">UA-90952136-2</string>
+    <string name="GOOGLE_AD_UNIT_ID">Y2EtbWItYXBwLXB1Yi00Mzk1NjkwMzgzODk4MDA2LzI5Njk1MTA5Nzk=</string>
+    <string name="GOOGLE_AD_UNIT_ID_2">Y2EtbWItYXBwLXB1Yi00Mzk1NjkwMzgzODk4MDA2LzM2Nzc3NjY4MTk=</string>
+    <string name="GOOGLE_PUBLIC_KEY_1">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAouw3PJA3GjMSx6tOnd6D8i7oR0qwlkyj2K0FUejK4ywjp++78Mv/WooPB6oGKlxMscjnCoy51VuaYS</string>
+    <string name="GOOGLE_PUBLIC_KEY_2">8FsTR3d4VvLpQmice9wkE+iUbinz14JGoIz0GpxtdmMh9LcTYn/Sp4necQSa4TYTtMVIYpwuFzshM4ik4bNgf1pvY166f5C/9NHiYSpbYZJyESTbLL3ENoHAYv</string>
+    <string name="GOOGLE_PUBLIC_KEY_3">pd4iPk6xm6ZnarwmrmwLQzIG9nWqLFh2vriDIWCIf8TX0mC7FIeDLLO0SevzZZy2JBk3JaMAJmXPr6bBcUHgu+cJejPmII8A4VWC8YMk9IFv/MgvIngUgvi122</string>
+    <string name="GOOGLE_PUBLIC_KEY_4">BJ60cF4Pg9e26RM7S+VQIDAQAB</string>
+    <string name="REFERRER">loveplanet.ru</string>
+    <string name="USER_AGENT">Android_LP_Phone_</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="add_karma_1000">add_karma_1000</string>
+    <string name="add_karma_3000">add_karma_3000</string>
+    <string name="affiliate_id" />
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="deep_link_scheme">geochat</string>
+    <string name="default_web_client_id">393078708400-6oq2u6824ies6huanrjnm2kj15r32u5q.apps.googleusercontent.com</string>
+    <string name="define_roundedimageview" />
+    <string name="firebase_database_url">https://sodium-burner-827.firebaseio.com</string>
+    <string name="ga_appName">Loveplanet</string>
+    <string name="gcm_defaultSenderId">393078708400</string>
+    <string name="google_api_key">AIzaSyAqbviLoeT8weRW9NnvRMt47Z3WA4GDVL4</string>
+    <string name="google_app_id">1:393078708400:android:35b40d8bed39e8fd</string>
+    <string name="google_crash_reporting_api_key">AIzaSyAqbviLoeT8weRW9NnvRMt47Z3WA4GDVL4</string>
+    <string name="google_storage_bucket">sodium-burner-827.appspot.com</string>
+    <string name="library_roundedimageview_author">Vince Mi</string>
+    <string name="library_roundedimageview_authorWebsite">https://github.com/vinc3m1</string>
+    <string name="library_roundedimageview_isOpenSource">true</string>
+    <string name="library_roundedimageview_libraryDescription">A fast ImageView (and Drawable) that supports rounded corners (and ovals or circles) based on the original example from Romain Guy.</string>
+    <string name="library_roundedimageview_libraryName">RoundedImageView</string>
+    <string name="library_roundedimageview_libraryVersion">1.3.0</string>
+    <string name="library_roundedimageview_libraryWebsite">https://github.com/vinc3m1/RoundedImageView</string>
+    <string name="library_roundedimageview_licenseId">apache_2_0</string>
+    <string name="library_roundedimageview_repositoryLink">https://github.com/vinc3m1/RoundedImageView.git</string>
+    <string name="maps.v2.API_KEY">AIzaSyAuesR1tvLxQ0qj4HhW6d-QUd4Y_VBQ7cc</string>
+    <string name="one_week_guardian_ange">one_week_guardian_angel</string>
+    <string name="package_name">ru.loveplanet.scandal.app</string>
+    <string name="package_name_for_resources">ru.loveplanet.scandal.app</string>
+    <string name="str_active_android_db_name">loveplanetgeochat.db</string>
+</resources>

@@ -1,0 +1,1355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="common_google_play_services_api_unavailable_text">%1$s requires one or more Google Play services that are not currently available. Please contact the developer for assistance.</string>
+    <string name="common_google_play_services_enable_button">Enable Google Play services</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Get Google Play services</string>
+    <string name="common_google_play_services_install_text_phone">"%1$s won't run without Google Play services, which are missing from your phone."</string>
+    <string name="common_google_play_services_install_text_tablet">"%1$s won't run without Google Play services, which are missing from your tablet."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
+    <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
+    <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
+    <string name="common_google_play_services_network_error_title">Network Error</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_resolution_required_text">Please complete action required by %1$s.</string>
+    <string name="common_google_play_services_resolution_required_title">Google Play services requires an action</string>
+    <string name="common_google_play_services_restricted_profile_text">Accessing accounts from a restricted profile is not supported.</string>
+    <string name="common_google_play_services_restricted_profile_title">Restricted Profile</string>
+    <string name="common_google_play_services_sign_in_failed_text">Error signing in the specified account. Please choose a different account.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Sign in failed</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. If the problem persists, please contact the developer for assistance.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s relies on Google Play services, which is not supported by your device. Contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_updating_title">Google Play services are updating</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="date_format_E_MMM_d">E, MMM d</string>
+    <string name="date_format_E_MMM_d_HH_mm">E, MMM d, HH:mm</string>
+    <string name="date_format_E_M_d">E MM/dd</string>
+    <string name="date_format_E_M_d_HH_mm">E MM/dd, HH:mm</string>
+    <string name="date_format_MMM_d">MMM d</string>
+    <string name="date_format_MMM_d_yyyy">MMM d, yyyy</string>
+    <string name="date_format_M_d_HH_mm">MMM d HH:mm</string>
+    <string name="date_format_d">d</string>
+    <string name="date_format_yyyy">yyyy</string>
+    <string name="date_format_yyyy_MMM">MMM yyyy</string>
+    <string name="msg0000001">United States</string>
+    <string name="msg0000002">United Arab Emirates</string>
+    <string name="msg0000003">United Kingdom</string>
+    <string name="msg0000004">Italy</string>
+    <string name="msg0000005">India</string>
+    <string name="msg0000006">Indonesia</string>
+    <string name="msg0000007">Australia</string>
+    <string name="msg0000008">Canada</string>
+    <string name="msg0000009">South Korea</string>
+    <string name="msg0000010">Singapore</string>
+    <string name="msg0000011">Thailand</string>
+    <string name="msg0000012">Taiwan</string>
+    <string name="msg0000013">China</string>
+    <string name="msg0000014">Germany</string>
+    <string name="msg0000015">France</string>
+    <string name="msg0000016">Vietnam</string>
+    <string name="msg0000017">Japan</string>
+    <string name="msg0000301">Blood Pressure</string>
+    <string name="msg0000302">Pulse</string>
+    <string name="msg0000303">Weight</string>
+    <string name="msg0000304">Body Fat</string>
+    <string name="msg0000305">Visceral Fat</string>
+    <string name="msg0000306">Skeletal Muscle</string>
+    <string name="msg0000307">Body Age</string>
+    <string name="msg0000308">Resting Metabolism</string>
+    <string name="msg0000309">BMI</string>
+    <string name="msg0000310">Steps</string>
+    <string name="msg0000311">Aerobics Steps</string>
+    <string name="msg0000312">Distance</string>
+    <string name="msg0000313">Calories</string>
+    <string name="msg0000314">Blood Glucose</string>
+    <string name="msg0000315">SYS</string>
+    <string name="msg0000316">DIA</string>
+    <string name="msg0000317">Pulse</string>
+    <string name="msg0000320">Irregular heartbeat</string>
+    <string name="msg0000321">Body Movement</string>
+    <string name="msg0000322">Cuff wrap guide</string>
+    <string name="msg0000323">Body Fat Level Classification</string>
+    <string name="msg0000326">Skeletal Muscle (Full Body)</string>
+    <string name="msg0000329">Visceral Fat Level Classification</string>
+    <string name="msg0000330">Skeletal Muscle Level Classification</string>
+    <string name="msg0000331">Impedance</string>
+    <string name="msg0000332">Weight-FFM</string>
+    <string name="msg0000333">Average (Weight)</string>
+    <string name="msg0000334">Average (Weight-FFM)</string>
+    <string name="msg0000335">Steps/Day</string>
+    <string name="msg0000336">Aerobics Steps/Day</string>
+    <string name="msg0000337">Distance/Day</string>
+    <string name="msg0000338">Calories/Day</string>
+    <string name="msg0000339">Body-worn Flag</string>
+    <string name="msg0000340">Steps/Hour</string>
+    <string name="msg0000341">Aerobics Steps/Hour</string>
+    <string name="msg0000342">Distance/Hour</string>
+    <string name="msg0000343">Calories/Hour</string>
+    <string name="msg0000344">Unlogged Flag</string>
+    <string name="msg0000345">Meal</string>
+    <string name="msg0000346">Type</string>
+    <string name="msg0000347">Walk Steps</string>
+    <string name="msg0000348">Step Length, Height</string>
+    <string name="msg0000349">基础体温</string>
+    <string name="msg0000350">测量方式</string>
+    <string name="msg0000351">月经</string>
+    <string name="msg0000352">月经周期</string>
+    <string name="msg0000353">经期首日</string>
+    <string name="msg0000354">活動カロリー</string>
+    <string name="msg0000355">総消費カロリー</string>
+    <string name="msg0000356">脂肪燃焼量</string>
+    <string name="msg0000357">階段上り歩数</string>
+    <string name="msg0000358">早歩き歩数</string>
+    <string name="msg0000359">睡眠時間</string>
+    <string name="msg0000360">睡眠効率</string>
+    <string name="msg0000361">覚醒</string>
+    <string name="msg0000362">歩行カロリー</string>
+    <string name="msg0000363">骨格筋率（全身）</string>
+    <string name="msg0000364">骨格筋率（体幹）</string>
+    <string name="msg0000365">骨格筋率（両腕）</string>
+    <string name="msg0000366">骨格筋率（両脚）</string>
+    <string name="msg0000367">皮下脂肪率（全身）</string>
+    <string name="msg0000368">皮下脂肪率（体幹）</string>
+    <string name="msg0000369">皮下脂肪率（両腕）</string>
+    <string name="msg0000370">皮下脂肪率（両脚）</string>
+    <string name="msg0000601">Blood Pressure Monitor</string>
+    <string name="msg0000602">Body Composition Monitor</string>
+    <string name="msg0000603">Activity Monitor</string>
+    <string name="msg0000604">Blood Glucose Monitor</string>
+    <string name="msg0000605">Basal thermometer</string>
+    <string name="msg0000701">Home</string>
+    <string name="msg0000702">Devices</string>
+    <string name="msg0000703">Linked Apps &amp; Services</string>
+    <string name="msg0000704">User Profile</string>
+    <string name="msg0000705">OMRON connect Cloud</string>
+    <string name="msg0000706">App Settings</string>
+    <string name="msg0000707">Help</string>
+    <string name="msg0000708">闹铃</string>
+    <string name="msg0000709">液晶自動点灯</string>
+    <string name="msg0000710">时间</string>
+    <string name="msg0000711">音量</string>
+    <string name="msg0000712">蜂鸣</string>
+    <string name="msg0000713">目標体重</string>
+    <string name="msg0000714">目標活動カロリー</string>
+    <string name="msg0000715">1日の目標活動カロリーを入力してください。</string>
+    <string name="msg0000716">目標体重から自動で算出</string>
+    <string name="msg0000717">24時間/12時間表示</string>
+    <string name="msg0000718">24時間表示</string>
+    <string name="msg0000719">12時間表示</string>
+    <string name="msg0000720">曜日を一つ以上選択してください。</string>
+    <string name="msg0000801">km</string>
+    <string name="msg0000802">miles</string>
+    <string name="msg0000803">kg</string>
+    <string name="msg0000804">lbs</string>
+    <string name="msg0000805">st</string>
+    <string name="msg0000806">cm</string>
+    <string name="msg0000807">feet and inches</string>
+    <string name="msg0000808">mmHg</string>
+    <string name="msg0000809">kPa</string>
+    <string name="msg0000810">mg/dL</string>
+    <string name="msg0000811">mmol/L</string>
+    <string name="msg0000812">Monday</string>
+    <string name="msg0000813">Sunday</string>
+    <string name="msg0000814">Level</string>
+    <string name="msg0000815">bpm</string>
+    <string name="msg0000816">level</string>
+    <string name="msg0000817">%</string>
+    <string name="msg0000818">feet</string>
+    <string name="msg0000819">inch</string>
+    <string name="msg0000820">kg/L</string>
+    <string name="msg0000821">Times</string>
+    <string name="msg0000822">years old</string>
+    <string name="msg0000823">°C</string>
+    <string name="msg0000824">kcal</string>
+    <string name="msg0000825">stone</string>
+    <string name="msg0000826">ft</string>
+    <string name="msg0000827">in</string>
+    <string name="msg0000828">step</string>
+    <string name="msg0000829">°F</string>
+    <string name="msg0000830">预测</string>
+    <string name="msg0000831">实测</string>
+    <string name="msg0000832">天</string>
+    <string name="msg0000833">steps</string>
+    <string name="msg0000834">minute</string>
+    <string name="msg0000835">minutes</string>
+    <string name="msg0000836">火曜日</string>
+    <string name="msg0000837">水曜日</string>
+    <string name="msg0000838">木曜日</string>
+    <string name="msg0000839">金曜日</string>
+    <string name="msg0000840">土曜日</string>
+    <string name="msg0000841">日</string>
+    <string name="msg0000842">月</string>
+    <string name="msg0000843">火</string>
+    <string name="msg0000844">水</string>
+    <string name="msg0000845">木</string>
+    <string name="msg0000846">金</string>
+    <string name="msg0000847">土</string>
+    <string name="msg0000848">小</string>
+    <string name="msg0000849">中</string>
+    <string name="msg0000850">大</string>
+    <string name="msg0000852">g</string>
+    <string name="msg0000853">999+</string>
+    <string name="msg0000854">就床日付</string>
+    <string name="msg0000855">就床時刻</string>
+    <string name="msg0000856">起床日付</string>
+    <string name="msg0000857">起床時刻</string>
+    <string name="msg0000858">Awake</string>
+    <string name="msg0000859">Light</string>
+    <string name="msg0000860">Deep</string>
+    <string name="msg0000861">sleep</string>
+    <string name="msg0000862">1sleep</string>
+    <string name="msg0000863">hour</string>
+    <string name="msg0000864">hours</string>
+    <string name="msg0000865">背光灯</string>
+    <string name="msg0000866">h</string>
+    <string name="msg0000867">min</string>
+    <string name="msg0000868">Temperature</string>
+    <string name="msg0000869">day</string>
+    <string name="msg0000870">days</string>
+    <string name="msg0000871">Positioning Indicator</string>
+    <string name="msg0000872">-</string>
+    <string name="msg0000873">Proper</string>
+    <string name="msg0000874">too high</string>
+    <string name="msg0000875">too low</string>
+    <string name="msg0000876">room temperature</string>
+    <string name="msg0000877">fall asleep time</string>
+    <string name="msg0000878">Timezone</string>
+    <string name="msg0010001">Details</string>
+    <string name="msg0010002">You will need a device that is compatible with OMRON connect to use this app.</string>
+    <string name="msg0010003">Would you like to learn more about OMRON connect devices?</string>
+    <string name="msg0010004">This user number is already in use.</string>
+    <string name="msg0010005">You have already registered this user number.</string>
+    <string name="msg0010006">Do you want to overwrite?</string>
+    <string name="msg0010007">Email Sent</string>
+    <string name="msg0010008">Instructions to reset your password have been sent to you by email. These instructions are valid for 24 hours.</string>
+    <string name="msg0010009">Sync Complete</string>
+    <string name="msg0010010">Sync was completed successfully</string>
+    <string name="msg0010011">Are you sure you want to delete this device?</string>
+    <string name="msg0010012">Delete</string>
+    <string name="msg0010013">Connected to OMRON Wellness</string>
+    <string name="msg0010014">You are now sharing your data with %s.</string>
+    <string name="msg0010015">Apple Health Data Sharing</string>
+    <string name="msg0010016">"Are you sure you want to share your health data with Apple Health?
+Select the data that you want to share on the next screen."</string>
+    <string name="msg0010017">OMRON connect Cloud Account Required</string>
+    <string name="msg0010018">In order to link your health data with this service, you must sign in to OMRON connect Cloud.</string>
+    <string name="msg0010019">Are you sure you want to delete this data?</string>
+    <string name="msg0010020">Do you want to sign out?</string>
+    <string name="msg0010021">The time is updated</string>
+    <string name="msg0010022">"Sync your device to set the correct time.
+If the time is not correct on your device, data may be lost."</string>
+    <string name="msg0010023">Wi-Fi is recommended</string>
+    <string name="msg0010024">Data charges may apply. Do you want to sync without connecting to Wi-Fi?</string>
+    <string name="msg0010025">Notice</string>
+    <string name="msg0010026">An update is available.</string>
+    <string name="msg0010027">Update</string>
+    <string name="msg0010028">Later</string>
+    <string name="msg0010029">Could not pair the %s. Try adding the device from the Device menu.</string>
+    <string name="msg0010030">Do you want to delete this information?</string>
+    <string name="msg0010031">Important Notice</string>
+    <string name="msg0010032">Sync complete.</string>
+    <string name="msg0010033">To continue using the app, you must agree again to the Terms of Use.</string>
+    <string name="msg0010034">Learn more</string>
+    <string name="msg0010035">"Data may be synced with the mobile device that previously registered this user number.
+Delete the device on the previous mobile device before proceeding with registration.
+Proceed with registration?"</string>
+    <string name="msg0010036">Warning</string>
+    <string name="msg0010037">If you change the unit of measure. Please be careful not to misread the data.</string>
+    <string name="msg0010038">Warning</string>
+    <string name="msg0010039">The unit of measure has been changed. Please be careful not to misread the data.</string>
+    <string name="msg0010040">The data sharing service with %s has stopped.</string>
+    <string name="msg0010041">Data sharing will be cancelled.</string>
+    <string name="msg0010042">Please turn on Bluetooth to enable communication between OMRON connect and your smart device.</string>
+    <string name="msg0010043">Would you like to turn on Bluetooth to make OMRON connect communicate with the device?</string>
+    <string name="msg0010044">Device communication error.</string>
+    <string name="msg0010045">Device communication may be success when location setting is on. Are you turning on location?</string>
+    <string name="msg0010046">This smartphone needs to re-register the device to communicate with %s. Are you re-registering the device now?</string>
+    <string name="msg0010047">Re-register</string>
+    <string name="msg0010048">クラウド連携アプリ・サービス</string>
+    <string name="msg0010049">Enter unique company code</string>
+    <string name="msg0010050">"This application shares your health data via \"Apple Health\".
+Do you want to share your health data with \"Apple Health\"?"</string>
+    <string name="msg0010051">"This application shares your health data via Apple Health.
+To stop sharing your health data, turn off sharing on the sources screen of Apple Health."</string>
+    <string name="msg0010052">"このアプリは、OMRON connect クラウドを用いてデータを連携します。
+OMRON connect クラウドのアカウント登録をおこなって、%sの方で連携を開始してください。"</string>
+    <string name="msg0010053">"このアプリは、OMRON connect クラウドを用いてデータを連携します。
+%sの方で連携を開始してください。"</string>
+    <string name="msg0010054">"Starting health data sharing with %1$s.
+
+%2$s shares your health data via Apple Health.
+
+You need to give a permission to share your health data with Apple Health."</string>
+    <string name="msg0010055">"Starting health data sharing with %1$s.
+
+%2$s shares your health data via Apple Health."</string>
+    <string name="msg0010056">"Starting health data sharing with %1$s.
+
+%2$s shares your health data with OMRON connect.
+
+You need to give a permission %3$s to share your health data."</string>
+    <string name="msg0010057">"%1$s shares your health data of OMRON connect.
+
+Once you install %2$s, your health data sharing will start automatically."</string>
+    <string name="msg0010058">"%1$sは、OMRON connectクラウドを経由してOMRON connectの健康データを取得します。
+
+連携をおこなうには、OMRON connect アカウントでサインインし、%2$sの方から連携を開始する必要があります。"</string>
+    <string name="msg0010059">"%1$sは、OMRON connect クラウドを経由してOMRON connectの健康データを取得します。
+
+連携をおこなうには、%2$sの方から連携を開始する必要があります。"</string>
+    <string name="msg0010060">This code has already been used.</string>
+    <string name="msg0010061">Health data sharing with this company has ended.</string>
+    <string name="msg0010062">This company code is not correct. Please enter a valid company code.</string>
+    <string name="msg0010063">Please enter unique company code.</string>
+    <string name="msg0010064">活動量計に設定する”現在の体重”を入力してください。</string>
+    <string name="msg0010065">BMIが18.5以下のため減量の目標体重は設定できません。</string>
+    <string name="msg0010066">Export measurement data</string>
+    <string name="msg0010067">Do you agree to export your Vital Data?</string>
+    <string name="msg0010068">Please select the category and period of health measurement data you want to export.</string>
+    <string name="msg0010069">Category</string>
+    <string name="msg0010070">Period</string>
+    <string name="msg0010071">Export</string>
+    <string name="msg0010072">[OMRON connect] Measurement Data</string>
+    <string name="msg0010073">\"To\" needs to be later than \"From\". Please select different Month.</string>
+    <string name="msg0010074">From</string>
+    <string name="msg0010075">To</string>
+    <string name="msg0010076">Data sharing with %s has ended. To stop data sharing completely, please turn off data sharing in Apple Health.</string>
+    <string name="msg0010077">Data sharing with %s has ended.</string>
+    <string name="msg0010078">%1$sとの連携サービスは終了しました。データの連携を完全に停止するには、%2$sの方から連携を停止してください。</string>
+    <string name="msg0010079">Activity</string>
+    <string name="msg0010080">目標活動カロリーは100～5000kcalの間で設定してください。</string>
+    <string name="msg0010081">設定された活動カロリーが通常より高いです。このまま設定しますか？</string>
+    <string name="msg0010082">Activity/hour</string>
+    <string name="msg0010083">Activity/day</string>
+    <string name="msg0010084">"You can export your Vital Data from OMRON connect. The export function provides a comma-separated value (CSV) file.You can select the period and measurement category to export.The generated CSV file can be stored and send by Email depending on your device. 
+"</string>
+    <string name="msg0010085">BloodPressure</string>
+    <string name="msg0010086">BodyComposition</string>
+    <string name="msg0010087">Activity</string>
+    <string name="msg0010088">Activity_hour</string>
+    <string name="msg0010089">Activity_day</string>
+    <string name="msg0010090">Sleep</string>
+    <string name="msg0010091">Records</string>
+    <string name="msg0010092">BloodGlucose</string>
+    <string name="msg0010093">BasalBodyTemperature</string>
+    <string name="msg0010094">Menstruation</string>
+    <string name="msg0010095">Company Code</string>
+    <string name="msg0020001">Get Started</string>
+    <string name="msg0020002">Region</string>
+    <string name="msg0020003">Where do you live?</string>
+    <string name="msg0020004">Other countries and regions</string>
+    <string name="msg0020005">App Terms of Use</string>
+    <string name="msg0020006">I agree</string>
+    <string name="msg0020007">I do not agree</string>
+    <string name="msg0020009">Yes</string>
+    <string name="msg0020010">No</string>
+    <string name="msg0020011">What kind of device do you want to register?</string>
+    <string name="msg0020012">Which device do you have?</string>
+    <string name="msg0020013">Other</string>
+    <string name="msg0020014">Only devices in this list can be registered.</string>
+    <string name="msg0020015">OK</string>
+    <string name="msg0020016">Cancel</string>
+    <string name="msg0020017">Select your user number.</string>
+    <string name="msg0020018">means user is registered.</string>
+    <string name="msg0020019">Completed!</string>
+    <string name="msg0020020">Device setup complete.</string>
+    <string name="msg0020021">Cloud</string>
+    <string name="msg0020022">Yes</string>
+    <string name="msg0020023">No</string>
+    <string name="msg0020024">Cloud Terms of Use</string>
+    <string name="msg0020026">Sign In</string>
+    <string name="msg0020027">Create account</string>
+    <string name="msg0020028">Create Account</string>
+    <string name="msg0020029">Email Address</string>
+    <string name="msg0020030">Phone Number</string>
+    <string name="msg0020031">Password</string>
+    <string name="msg0020032">Password (Re-enter)</string>
+    <string name="msg0020033">Enter 8 to 20 alphanumeric characters.</string>
+    <string name="msg0020035">Last Sync</string>
+    <string name="msg0020036">Setup complete.</string>
+    <string name="msg0020037">Get Started!</string>
+    <string name="msg0020038">Forgot your password?</string>
+    <string name="msg0020039">Password Reset</string>
+    <string name="msg0020040">Did you forget your password?</string>
+    <string name="msg0020041">Enter the email address associated with your OMRON connect Cloud account. We will email you instructions to reset your password.</string>
+    <string name="msg0020042">Confirm</string>
+    <string name="msg0020043">"Health data that has not been synced with your mobile device will now be synced.
+If a large amount of data must be synced, a large amount of data will be transmitted."</string>
+    <string name="msg0020044">Sync</string>
+    <string name="msg0020045">Syncing</string>
+    <string name="msg0020046">Last sync</string>
+    <string name="msg0020047">Settings</string>
+    <string name="msg0020048">Add Device</string>
+    <string name="msg0020049">Learn more about OMRON connect compatible devices.</string>
+    <string name="msg0020050">There are no registered devices.</string>
+    <string name="msg0020051">User Number</string>
+    <string name="msg0020052">Units</string>
+    <string name="msg0020053">Blood Pressure</string>
+    <string name="msg0020055">How to transfer data</string>
+    <string name="msg0020056">Delete this device</string>
+    <string name="msg0020057">Region</string>
+    <string name="msg0020058">Display Settings</string>
+    <string name="msg0020059">Weight</string>
+    <string name="msg0020060">Step Length</string>
+    <string name="msg0020062">Sync</string>
+    <string name="msg0020063">Automatic data transfer</string>
+    <string name="msg0020064">Sync Interval</string>
+    <string name="msg0020065">If the automatic data transfer is ON, OMRON connect will attempt to periodically transfer data from the device.In the automatic data transfer mode battery consumption may increase.</string>
+    <string name="msg0020066">The settings were saved to the device.</string>
+    <string name="msg0020068">Linked</string>
+    <string name="msg0020069">Just now</string>
+    <string name="msg0020070">Not linked</string>
+    <string name="msg0020071">OMRON connect needs permission to share data with Apple Health. Data is currently not being shared.</string>
+    <string name="msg0020072">"OMRON connect is sharing data with Apple Health.
+To choose which data to share, use the Sources tab in the Health app."</string>
+    <string name="msg0020074">In order to use OMRON connect Cloud, you must agree to the following Terms of Use.</string>
+    <string name="msg0020075">OMRON connect Cloud Terms of Use</string>
+    <string name="msg0020076">Next</string>
+    <string name="msg0020077">To give permission to %s to read data from OMRON connect Cloud, you must first agree to the following terms.</string>
+    <string name="msg0020078">Slide down to sync</string>
+    <string name="msg0020079">Release to sync</string>
+    <string name="msg0020080">Sync</string>
+    <string name="msg0020081">Please wait.</string>
+    <string name="msg0020082">Data was synced.</string>
+    <string name="msg0020083">Hide</string>
+    <string name="msg0020084">Add Panel</string>
+    <string name="msg0020085">Done</string>
+    <string name="msg0020086">Delete</string>
+    <string name="msg0020088">OMRON connect Cloud account</string>
+    <string name="msg0020089">Profile</string>
+    <string name="msg0020090">Gender</string>
+    <string name="msg0020091">Male</string>
+    <string name="msg0020092">Female</string>
+    <string name="msg0020093">Date of Birth</string>
+    <string name="msg0020094">Height</string>
+    <string name="msg0020095">Display is updated when new weight data is received from the device.</string>
+    <string name="msg0020096">Sign Out</string>
+    <string name="msg0020097">Blood Glucose</string>
+    <string name="msg0020098">App</string>
+    <string name="msg0020100">Tutorial</string>
+    <string name="msg0020101">FAQ</string>
+    <string name="msg0020102">Device</string>
+    <string name="msg0020105">OMRON connect Information</string>
+    <string name="msg0020106">Version</string>
+    <string name="msg0020107">Terms of Use</string>
+    <string name="msg0020108">Regulatory Information</string>
+    <string name="msg0020109">Contact Us</string>
+    <string name="msg0020110">Contact by Email</string>
+    <string name="msg0020111">Privacy</string>
+    <string name="msg0020112">What is your date of birth?</string>
+    <string name="msg0020113">What is your step length?</string>
+    <string name="msg0020114">What is your gender?</string>
+    <string name="msg0020115">How tall are you?</string>
+    <string name="msg0020116">What is your weight?</string>
+    <string name="msg0020117">Now searching for a device that has been registered in OMRON connect. Make sure your Omron device is ready to communicate.</string>
+    <string name="msg0020118">All Recorded Data</string>
+    <string name="msg0020119">Graph Settings</string>
+    <string name="msg0020120">Average</string>
+    <string name="msg0020121">SYS/DIA</string>
+    <string name="msg0020122">SYS-DIA</string>
+    <string name="msg0020123">Max./Min.</string>
+    <string name="msg0020124">steps/hour</string>
+    <string name="msg0020125">steps/day</string>
+    <string name="msg0020126">steps/month</string>
+    <string name="msg0020127">Total</string>
+    <string name="msg0020128">Overall Average</string>
+    <string name="msg0020129">Bef./Aft.</string>
+    <string name="msg0020130">Before Ave.</string>
+    <string name="msg0020131">After Ave.</string>
+    <string name="msg0020132">Other</string>
+    <string name="msg0020133">Axis Display Range</string>
+    <string name="msg0020134">Time Period</string>
+    <string name="msg0020135">Max.</string>
+    <string name="msg0020136">Min.</string>
+    <string name="msg0020137">30 minutes</string>
+    <string name="msg0020138">24 hours</string>
+    <string name="msg0020139">SYS</string>
+    <string name="msg0020140">DIA</string>
+    <string name="msg0020141">Dev: %d</string>
+    <string name="msg0020142">User number: %d</string>
+    <string name="msg0020143">Enter Confirmation Code</string>
+    <string name="msg0020144">"Message received from OMRON connect Cloud.
+Enter the confirmation code that was sent in the message."</string>
+    <string name="msg0020145">The confirmation code is a %d-digit number.</string>
+    <string name="msg0020146">Confirmation Code</string>
+    <string name="msg0020147">Indicator on Device</string>
+    <string name="msg0020148">Select the indicator that you want to display on the body composition monitor.</string>
+    <string name="msg0020150">Select the indicator that you want to display on the activity monitor.</string>
+    <string name="msg0020151">Communicating with the device.</string>
+    <string name="msg0020152">No. %d</string>
+    <string name="msg0020153">"Why don't you use a data sharing function like We chat"</string>
+    <string name="msg0020154">"You can share your measurements with your family by sending data to a data sharing service like We chat.
+
+To data sharing, you need to create an OMRON connect account."</string>
+    <string name="msg0020155">Cloud</string>
+    <string name="msg0020156">You can back up your health data to the cloud.</string>
+    <string name="msg0020157">Sign in to OMRON connect Cloud</string>
+    <string name="msg0020158">OMRON connect will check periodically for updates. Select the desired method for connecting to the server.</string>
+    <string name="msg0020159">Wi-Fi only</string>
+    <string name="msg0020160">Always</string>
+    <string name="msg0020161">Using the Home Screen</string>
+    <string name="msg0020162">All New</string>
+    <string name="msg0020163">"Panel colors fade over time. When a panel has faded, it's time to take a measurement."</string>
+    <string name="msg0020164">Create Your Own Dashboard</string>
+    <string name="msg0020165">Simply tap and hold a panel, and then move it to the desired position.</string>
+    <string name="msg0020166">Hide Panels</string>
+    <string name="msg0020167">"You can slide unused panels off the screen to hide them. Don't worry, you can place them back later if you want to."</string>
+    <string name="msg0020168">Download settings file</string>
+    <string name="msg0020169">Download Timing</string>
+    <string name="msg0020170">"Don't display until there is new notice."</string>
+    <string name="msg0020171">Searching for your device.</string>
+    <string name="msg0020172">Connected Device</string>
+    <string name="msg0020173">Waiting</string>
+    <string name="msg0020174">Transfer Complete</string>
+    <string name="msg0020175">Wirelessly syncs measurements with your smartphone to easily view, save, and manage your health data.</string>
+    <string name="msg0020176">Get Connected</string>
+    <string name="msg0020177">Transfer measurements to your smartphone with ease after a simple, guided set-up.</string>
+    <string name="msg0020178">Access Anytime</string>
+    <string name="msg0020179">Your latest activity and personal health history are always at your fingertips through the intuitive dashboard.</string>
+    <string name="msg0020180">See Progress</string>
+    <string name="msg0020181">Health data is displayed in clear and insightful graphs that help you to see your health trends.</string>
+    <string name="msg0020182">Get Started!</string>
+    <string name="msg0020183">First-time Users</string>
+    <string name="msg0020184">Previous Users of OMRON connect</string>
+    <string name="msg0020185">Days</string>
+    <string name="msg0020186">Weeks</string>
+    <string name="msg0020187">Months</string>
+    <string name="msg0020188">Years</string>
+    <string name="msg0020189">%d minutes</string>
+    <string name="msg0020190">"Continue linking to %s's account."</string>
+    <string name="msg0020191">In order to use OMRON connect, you must agree to the following Terms of Use.</string>
+    <string name="msg0020192">OMRON connect Terms of Use</string>
+    <string name="msg0020193">No irregular heartbeat detected</string>
+    <string name="msg0020194">Irregular heartbeat detected</string>
+    <string name="msg0020195">No movement detected</string>
+    <string name="msg0020196">Movement detected</string>
+    <string name="msg0020197">Cuff is too loose</string>
+    <string name="msg0020198">Cuff is attached correctly</string>
+    <string name="msg0020199">Not set</string>
+    <string name="msg0020200">Before Meals</string>
+    <string name="msg0020201">After Meals</string>
+    <string name="msg0020202">Date</string>
+    <string name="msg0020205">Server Connection Settings</string>
+    <string name="msg0020206">First Day of Week</string>
+    <string name="msg0020207">%d hours</string>
+    <string name="msg0020208">About This App</string>
+    <string name="msg0020209">Measurement Date</string>
+    <string name="msg0020210">Measurement Time</string>
+    <string name="msg0020211">Share Data With Apple Health</string>
+    <string name="msg0020212">Connect</string>
+    <string name="msg0020213">Select the indicator that you want to display on the body composition monitor. Your selection will be applied the next time you transfer data.</string>
+    <string name="msg0020214">Display Always</string>
+    <string name="msg0020215">OMRON connect</string>
+    <string name="msg0020216">iOS</string>
+    <string name="msg0020217">Android</string>
+    <string name="msg0020218">[OMRON connect] Contact by email</string>
+    <string name="msg0020219">"
+______________________________
+Please state your inquiry.
+This information will be used to respond to your inquiry and other inquiry-related services.
+
+To the user in Australia;
+This inquiry e-mail will be sent to J.A.Davey, 
+a distributor of Omron Healthcare Singapore Pte Ltd., at the following e-mail address:
+sales@omronhealthcare.com.au.
+The information provided herein will be handled by J.A Davey and your
+personal information will be regulated by their privacy policy (
+http://www.jadavey.com.au/privacypolicy.pdf)
+By sending this e-mail, you hereby accept and consent to the use and
+disclosure by J.A. Davey of your personal information (including sensitive
+Information) submitted through the e-mail.
+______________________________"</string>
+    <string name="msg0020220">Contact Number [%s]</string>
+    <string name="msg0020221">Mobile Device Model [%s]</string>
+    <string name="msg0020222">OS [%s]</string>
+    <string name="msg0020223">OS Version [%s]</string>
+    <string name="msg0020224">Main Storage [%s]</string>
+    <string name="msg0020225">Heap Memory [%s]</string>
+    <string name="msg0020226">Storage [%s]</string>
+    <string name="msg0020227">Available Storage [%s]</string>
+    <string name="msg0020228">No. of Registered Health Devices [%s]</string>
+    <string name="msg0020229">SD Compatibility [%s]</string>
+    <string name="msg0020230">Server Connection Settings [%s]</string>
+    <string name="msg0020231">Update Device Information Automatically [%s]</string>
+    <string name="msg0020232">Yes</string>
+    <string name="msg0020233">No</string>
+    <string name="msg0020234">On</string>
+    <string name="msg0020235">Off</string>
+    <string name="msg0020236">Always</string>
+    <string name="msg0020237">Wi-Fi only</string>
+    <string name="msg0020238">MB</string>
+    <string name="msg0020239">Registering Devices</string>
+    <string name="msg0020240">Device information transfer is interrupted. Please check the Bluetooth connection on your mobile device and try again.</string>
+    <string name="msg0020241">Do you want to register this device?</string>
+    <string name="msg0020242">To support accurate measurements, please provide us with some more information about yourself.</string>
+    <string name="msg0020243">Press the [●] button.</string>
+    <string name="msg0020244">Make sure the blood pressure monitor screen is off, and then press the [●] button.</string>
+    <string name="msg0020245">Press and hold the [★] button.</string>
+    <string name="msg0020246">Press and hold the [★] button on the body composition monitor for two seconds. When the communication icon is displayed on the body composition monitor, press Next.</string>
+    <string name="msg0020247">Insert the batteries.</string>
+    <string name="msg0020248">Remove the battery cover and insert the batteries. When the communication icon is displayed on the activity monitor, press Next.</string>
+    <string name="msg0020249">Press the [Pair] button.</string>
+    <string name="msg0020250">Press the [Pair] button.</string>
+    <string name="msg0020251">Next, a message about Bluetooth device pairing will be displayed on the screen. Press the [Pair] button to start pairing.</string>
+    <string name="msg0020252">Pairing</string>
+    <string name="msg0020253">Press the [■] button.</string>
+    <string name="msg0020254">Press the [■] button on the blood glucose monitor. When the communication icon is displayed on the blood glucose monitor, press Next.</string>
+    <string name="msg0020255">Confirm the PIN.</string>
+    <string name="msg0020256">"Next, a message about Bluetooth device pairing will be displayed on the screen. You'll need to enter the blood glucose monitor's confirmation PIN, which can be found on the inside of the monitor's battery cover."</string>
+    <string name="msg0020257">Transferring Data</string>
+    <string name="msg0020258">How to transfer data</string>
+    <string name="msg0020259">1. Make sure the blood pressure monitor screen is off, and then press the [●] button to get it ready to communicate.</string>
+    <string name="msg0020260">2. Start OMRON connect, then pull down the screen to start data transfer.</string>
+    <string name="msg0020261">1. Press the [★] button on the body composition monitor to get it ready to communicate.</string>
+    <string name="msg0020262">1. Shake the activity monitor until its screen turns on to get it ready to communicate.</string>
+    <string name="msg0020263">1. Press the [■] button on the blood glucose monitor to get it ready to communicate.</string>
+    <string name="msg0020264">About automatic data transfer</string>
+    <string name="msg0020265">OMRON connect will periodically check for new data on HEM-8732T. New data will be transferred automatically.</string>
+    <string name="msg0020266">Device Display Settings</string>
+    <string name="msg0020267">Body Composition</string>
+    <string name="msg0020268">Body Fat</string>
+    <string name="msg0020269">Detected</string>
+    <string name="msg0020270">Not Detected</string>
+    <string name="msg0020271">NOT OK</string>
+    <string name="msg0020272">Meals</string>
+    <string name="msg0020273">License</string>
+    <string name="msg0020274">Save</string>
+    <string name="msg0020275">High</string>
+    <string name="msg0020276">Low</string>
+    <string name="msg0020277">Movement error</string>
+    <string name="msg0020278">Irregular heartbeat</string>
+    <string name="msg0020279">How to transfer data</string>
+    <string name="msg0020280">Save</string>
+    <string name="msg0020281">Starting communication with the device</string>
+    <string name="msg0020282">Communicating with the device</string>
+    <string name="msg0020283">The changed settings will be applied the next time you communicate with the device. Continue?</string>
+    <string name="msg0020284">Initializing settings</string>
+    <string name="msg0020285">connect</string>
+    <string name="msg0020286">Turn ON Bluetooth on your mobile device for device connection.</string>
+    <string name="msg0020287">Allow</string>
+    <string name="msg0020288">Do not allow</string>
+    <string name="msg0020289">Turning on Bluetooth…</string>
+    <string name="msg0020290">For basic operation guide, TAP here.</string>
+    <string name="msg0020291">Learn about HOME screen</string>
+    <string name="msg0020292">Learn about panels</string>
+    <string name="msg0020293">Panel color fades</string>
+    <string name="msg0020294">Bluetooth Setting [%s]</string>
+    <string name="msg0020295">Network status [%s]</string>
+    <string name="msg0020296">Wi-Fi</string>
+    <string name="msg0020297">3G or 4G</string>
+    <string name="msg0020298">Offline</string>
+    <string name="msg0020299">Unknown</string>
+    <string name="msg0020300">Do you want to share your measurement data with Apple Health?</string>
+    <string name="msg0020301">"Select the data that you want to share on the next screen.
+
+ Measured data which is taken before you start sharing will not be shared with Apple Health.
+ 
+  Supplementary information of readings will be shared with Apple Health."</string>
+    <string name="msg0020302">"Select the data that you want to share on the next screen.
+
+ Measured data which is taken before you start sharing will not be shared with Apple Health.
+ 
+  If you want to share blood pressure data, please select both Systolic and Diastolic.
+
+ Supplementary information of readings will be shared with Apple Health."</string>
+    <string name="msg0020303">How to transfer data</string>
+    <string name="msg0020304">Pull down the screen to transfer the data after measurement.</string>
+    <string name="msg0020305">See Help for more detailed instructions.</string>
+    <string name="msg0020306">"Don't show this dialog again."</string>
+    <string name="msg0020307">All</string>
+    <string name="msg0020308">Air Plane Mode [%s]</string>
+    <string name="msg0020309">Paired Devices [%s]</string>
+    <string name="msg0020310">Air Plane Mode [%s]</string>
+    <string name="msg0020311">%d minute</string>
+    <string name="msg0020312">%d hour</string>
+    <string name="msg0020313">%d minutes</string>
+    <string name="msg0020314">%d hours</string>
+    <string name="msg0020315">Enter the PIN.</string>
+    <string name="msg0020316">Enter the PIN which can be found on the device.</string>
+    <string name="msg0020317">You have new measurement data to share with Apple Health. Please select data to share in the following page.</string>
+    <string name="msg0020318">Connected to %s</string>
+    <string name="msg0020319">Your data will be shared automatically with %s?</string>
+    <string name="msg0020320">"Do you want to share your data in OMRON connect with
+%s ?"</string>
+    <string name="msg0020321">%s requests to share the data below.</string>
+    <string name="msg0020322">"- Your vital data
+- Your user profile
+- OMRON connect App Settings"</string>
+    <string name="msg0020323">Data sharing</string>
+    <string name="msg0020324">If it is off, data sharing with OMRON connect will be stopped.</string>
+    <string name="msg0020325">Data sharing</string>
+    <string name="msg0020326">"OMRON connect is sharing data with Apple Health. Turn off this switch to stop sharing data.
+You can reselect the types of shared data at the \"Sources\" screen in Apple Health."</string>
+    <string name="msg0020327">"OMRON connect has stopped sharing data with Apple Health. Turn on this switch to restart sharing data with Apple Health.
+With this switch on, transferred or synchronized data can be exported.You can reselect the types of shared data at the \"Sources\" screen in Apple Health."</string>
+    <string name="msg0020328">Communicating with %s.</string>
+    <string name="msg0020329">%s data has been transferred.</string>
+    <string name="msg0020330">An error occurred.</string>
+    <string name="msg0020331">"Applying your region's settings."</string>
+    <string name="msg0020332">Please wait. Preparing your settings.</string>
+    <string name="msg0020333">Updating settings</string>
+    <string name="msg0020334">User name</string>
+    <string name="msg0020335">User name [%s]</string>
+    <string name="msg0020336">Region [%s]</string>
+    <string name="msg0020337">Enter the phone number associated with your OMRON connect account. We will send you information on how to reset your password.</string>
+    <string name="msg0020338">Send SMS</string>
+    <string name="msg0020339">SMS has sent.</string>
+    <string name="msg0020340">Access the URL in the SMS and reset your password. The URL is available for 24hours.</string>
+    <string name="msg0020341">Enter your account information</string>
+    <string name="msg0020342">Send Confirmation Code</string>
+    <string name="msg0020343">Confirm the phone number.</string>
+    <string name="msg0020344">Confirmation code will be sent to</string>
+    <string name="msg0020345">"Message received from OMRON connect Cloud.
+Enter the confirmation code that was sent in the message."</string>
+    <string name="msg0020346">Send Confirmation code again</string>
+    <string name="msg0020347">Creating account</string>
+    <string name="msg0020348">Enter 4 to 16 alphanumeric characters and symbols (_.-).</string>
+    <string name="msg0020349">There is data which has not been synced</string>
+    <string name="msg0020350">You can change your user name.</string>
+    <string name="msg0020351">You can change your email address.</string>
+    <string name="msg0020352">You can change your phone number.</string>
+    <string name="msg0020353">Current user name</string>
+    <string name="msg0020354">Current email address</string>
+    <string name="msg0020355">Current phone number</string>
+    <string name="msg0020356">New user name</string>
+    <string name="msg0020357">New email address</string>
+    <string name="msg0020358">New phone number</string>
+    <string name="msg0020359">Updating</string>
+    <string name="msg0020360">"
+______________________________________________
+Please provide further details regarding your request. We will review the information you provide to us in order to support you. Your email will be sent to Omron Healthcare Europe. All the information you provide in this email will be handled in accordance with Omron Healthcare's privacy policy.
+______________________________________________"</string>
+    <string name="msg0020361">"
+______________________________
+Please state your inquiry.
+This information will be used to respond to your inquiry and other inquiry-related services.
+______________________________"</string>
+    <string name="msg0020362">Choose file format for inquiry mail</string>
+    <string name="msg0020363">"When creating an inquiry mail, attaching the log file may fail depending on the email app you use.
+If the log file is not attached, please select another file format and try again."</string>
+    <string name="msg0020364">Format A (content://)</string>
+    <string name="msg0020365">Format B (file://)</string>
+    <string name="msg0020366">Confirm the phone number</string>
+    <string name="msg0020367">Confirmation code will be sent to</string>
+    <string name="msg0020368">Signing in</string>
+    <string name="msg0020369">Resetting</string>
+    <string name="msg0020370">You have been logged out from OMRON connect Cloud. Please sign in by choosing Cloud from the main menu.</string>
+    <string name="msg0020371">Retry</string>
+    <string name="msg0020372">Change your phone number</string>
+    <string name="msg0020373">Confirm the 6 digits PIN.</string>
+    <string name="msg0020374">"You'll need to enter the blood glucose monitor's confirmation PIN, which can be found on the inside of the monitor's battery cover."</string>
+    <string name="msg0020375">"
+______________________________
+Please state your inquiry.
+This information will be used to respond to your inquiry and other inquiry-related services.
+
+To the user in Singapore;
+This inquiry e-mail will be sent to Kingston Medical Supplies, 
+a distributor of Omron Healthcare Singapore Pte Ltd., at the following e-mail address:
+support@kingsmed.com.sg.
+The information provided herein will be handled by Kingston Medical Supplies and your
+personal information will be regulated by their privacy policy (
+http://kingsmed.com.sg/info2.asp?id=216)
+By sending this e-mail, you hereby accept and consent to the use and
+disclosure by Kingston Medical Supplies of your personal information (including sensitive
+Information) submitted through the e-mail.
+______________________________"</string>
+    <string name="msg0020376">"
+______________________________
+Please state your inquiry.
+This information will be used to respond to your inquiry and other inquiry-related services.
+
+To the user in Hong Kong;
+This inquiry e-mail will be sent to NEW STAR COMPANY LTD., a distributor of OMRON HEALTHCARE Co., Ltd. at the following e-mail address: service@newstarltd.com.hk.
+The information provided herein will be handled by NEW STAR COMPANY LTD.
+By sending this e-mail, you hereby accept and consent to the use and disclosure by NEW STAR COMPANY LTD. of your personal information (including sensitive information) submitted through the e-mail.
+______________________________"</string>
+    <string name="msg0020377">开启闹铃功能后，女性用体温计将在测量时间以闹铃的形式提醒你。</string>
+    <string name="msg0020378">开启蜂鸣功能后，在测量完成并数据传输结束后，女性体温计将以蜂鸣的形式提醒你。</string>
+    <string name="msg0020379">液晶自動点灯をONにしていると、機器の動きを検知した際に自動的に液晶を表示します。</string>
+    <string name="msg0020380">重力の影響を補正し体重を正確に測定するため、体重体組成計をお使いの地域を選択してください。</string>
+    <string name="msg0020381">最新</string>
+    <string name="msg0020382">月经的开始日期是什么时候？</string>
+    <string name="msg0020383">"按下＋按钮，
+输入月经的日期。"</string>
+    <string name="msg0020384">グラフに表示する機種</string>
+    <string name="msg0020385">"複数の機器で測定した%sのデータがあります。グラフでどの機器のデータを表示するか選択してください。
+複数の機器を選択した場合は、データを統合して表示します。"</string>
+    <string name="msg0020386">設定した内容はグラフ設定画面で変更することができます。</string>
+    <string name="msg0020387">Axis Scale of Graph</string>
+    <string name="msg0020388">经期一览</string>
+    <string name="msg0020389">現在の体重</string>
+    <string name="msg0020390">目標体重</string>
+    <string name="msg0020391">活動量計に設定する\"現在の体重\"と\"28日後の目標体重\"を入力してください。</string>
+    <string name="msg0020392">入力可能な目標体重は %1$s～%2$s です。</string>
+    <string name="msg0020393">これから登録する活動量計は、機器本体の設定をおこなっている状態ですか？</string>
+    <string name="msg0020394">"活動量計のいずれかのボタンを押して
+画面に時刻が表示された場合、機器は設定済みです。
+画面に時刻が表示されない場合、機器の設定はされていません。"</string>
+    <string name="msg0020395">機器の設定はされていない</string>
+    <string name="msg0020396">機器本体は既に設定済み</string>
+    <string name="msg0020397">要在什么时候使女性体温计的闹铃响起？</string>
+    <string name="msg0020398">不使用闹铃功能</string>
+    <string name="msg0020399">曜日</string>
+    <string name="msg0020400">\"28日後に達成したい減量の目標体重\"を入力してください。</string>
+    <string name="msg0020401">目標活動カロリーを %skcalに設定しました。</string>
+    <string name="msg0020402">Would you like to use OMRON connect Cloud?</string>
+    <string name="msg0020403">With OMRON connect Cloud you can access your data from multiple devices. OMRON connect Cloud will also automatically backup your data so you can restore when you change your phone.</string>
+    <string name="msg0020404">最新</string>
+    <string name="msg0020405">"複数の機器で測定した睡眠のデータがあります。グラフでどの機器のデータを表示するか選択してください。
+複数の機器を選択した場合は、データを統合して表示します。"</string>
+    <string name="msg0020406">グラフ設定にて、後から変更することができます。</string>
+    <string name="msg0020407">機器を一台以上選択してください。</string>
+    <string name="msg0020408">"This application shares your health data of OMRON connect via Apple Health.
+Do you want to share your OMRON connect data with Apple Health?"</string>
+    <string name="msg0020409">"This application shares your health data of OMRON connect via Apple Health.
+Turn off sharing on setting screen of Apple Health to stop data sharing."</string>
+    <string name="msg0020410">Dev</string>
+    <string name="msg0020411">曜日を選択してください</string>
+    <string name="msg0020412">High</string>
+    <string name="msg0020413">Low</string>
+    <string name="msg0020414">Select the data that you want to share on the next screen.</string>
+    <string name="msg0020415">" Measured data which is taken before you start sharing will not be shared with Apple Health.
+ 
+  Supplementary information of readings will be shared with Apple Health."</string>
+    <string name="msg0020416">" Measured data which is taken before you start sharing will not be shared with Apple Health.
+ 
+  If you want to share blood pressure data, please select both Systolic and Diastolic.
+
+ Supplementary information of readings will be shared with Apple Health."</string>
+    <string name="msg0020417">Other</string>
+    <string name="msg0020418">There is no data for the selected period.</string>
+    <string name="msg0020419">How to use OMRON connect</string>
+    <string name="msg0020420">Body composition</string>
+    <string name="msg0020421">records</string>
+    <string name="msg0020422">Max. value must be higher than Min. value</string>
+    <string name="msg0020423">"
+______________________________
+Please state your inquiry.
+This information will be used to respond to your inquiry and other inquiry-related services.
+
+To the user in New Zealand;
+This inquiry e-mail will be sent to J.A.Davey, 
+a distributor of Omron Healthcare Singapore Pte Ltd., at the following e-mail address:
+sales@omronhealthcare.com.au.
+The information provided herein will be handled by J.A Davey and your
+personal information will be regulated by their privacy policy (
+http://www.jadavey.com.au/privacypolicy.pdf)
+By sending this e-mail, you hereby accept and consent to the use and
+disclosure by J.A. Davey of your personal information (including sensitive
+information) submitted through the e-mail, 
+and you also agree that Omron Healthcare Singapore Pte Ltd is not liable to you in connection with loss, 
+damage, or misuse of your personal information.
+______________________________"</string>
+    <string name="msg0020424">Refresh</string>
+    <string name="msg0020425">2nd index</string>
+    <string name="msg0020426">Transferring</string>
+    <string name="msg0020427">"You can use the following devices
+ Blood Pressure Monitor
+ Body Composition Monitor
+ Activity Monitor"</string>
+    <string name="msg0020428">Please connect to your iPhone.</string>
+    <string name="msg0020429">Please connect to your Apple Watch.</string>
+    <string name="msg0020430">"Health data from OMRON connect products can be shared with Apple's Health."</string>
+    <string name="msg0020431">You can transfer data automatically by using iBeacon. You can use this function by allowing OMRON connect to access your Location.</string>
+    <string name="msg0020432">Do you allow Measurement Scan to use your camera to read measurement data?</string>
+    <string name="msg0020433">The value is out of the measurable range of the device. The measured value is a reference value.</string>
+    <string name="msg0020434">In order to use OMRON connect, you must agree to the following Privacy Policy.</string>
+    <string name="msg0020435">The user information registered with another device is outside the measurable range of the device. The measured value is a reference value.</string>
+    <string name="msg0020436">How to scan</string>
+    <string name="msg0020437">Measurement date</string>
+    <string name="msg0020438">About Measurement Scan</string>
+    <string name="msg0020439">In order to use Measurement Scan, you need an OMRON blood pressure monitor.</string>
+    <string name="msg0020440">Do you have an OMRON blood pressure monitor?</string>
+    <string name="msg0020441">Measurement scan</string>
+    <string name="msg0020442">Retry</string>
+    <string name="msg0020443">Make sure the display of the blood pressure monitor is aligned with the frame on the screen.</string>
+    <string name="msg0020444">In order to use Measurement Scan, you need an OMRON blood pressure monitor.</string>
+    <string name="msg0020445">Please confirm the model name of the device</string>
+    <string name="msg0020446">Scan test</string>
+    <string name="msg0020447">Please scan the OMRON logo.</string>
+    <string name="msg0020448">Would you like to learn more about OMRON blood pressure monitors?</string>
+    <string name="msg0020449">Please scan the OMRON logo on the device.</string>
+    <string name="msg0020450">Could not recognize the OMRON logo.</string>
+    <string name="msg0020451">Scan test is completed.</string>
+    <string name="msg0020452">Tap the Camera icon on the bottom right corner of the Home screen.</string>
+    <string name="msg0020453">Scan the measurement data on the blood pressure monitor with your smartphone.</string>
+    <string name="msg0020454">Recognized measurement data will be saved in the application.</string>
+    <string name="msg0020455">Data type</string>
+    <string name="msg0020456">Measurement data of Bluetooth compatible device and measurement data read by Measurement Scan is available. Please select which data source you want to display. (If multiple items are selected, the data will be combined.)</string>
+    <string name="msg0020457">via Bluetooth</string>
+    <string name="msg0020458">via Camera</string>
+    <string name="msg0020459">I agree to the Terms of Use.</string>
+    <string name="msg0020460">I agree to the collection and use of personal information.</string>
+    <string name="msg0020461">I agree to the collection and use of sensitive information.</string>
+    <string name="msg0020462">"Starting to link to GoogleFit. 
+Please allow OMRON connect to share data with GoogleFit."</string>
+    <string name="msg0020463">- Your vital data</string>
+    <string name="msg0020464">"Do you confirm that the values on the device match the scan result? 
+If they do not match, you can tap No and retry, or you can modify the scan result."</string>
+    <string name="msg0020465">OMRON connect will use the photo library for temporary storage of measured value detection. Do you allow it?</string>
+    <string name="msg0020466">Export all data</string>
+    <string name="msg0020467">All measurement data including ones that have not been shared with Apple Health will be exported. It may take time to export large data.</string>
+    <string name="msg0020468">Do you allow all the measurement data to be exported to Apple Health?</string>
+    <string name="msg0020469">Quit</string>
+    <string name="msg0020470">Close</string>
+    <string name="msg0020471">Exporting data</string>
+    <string name="msg0020472">Completed</string>
+    <string name="msg0020473">Ideal Conditions to Scan</string>
+    <string name="msg0020474">"Please make sure:
+
+・Your smartphone and the display of your monitor are aligned.
+・You are in a well lit room.
+・There are no reflections or shadows on the display of your monitor."</string>
+    <string name="msg0020475">"Starting link to Samsung Health. 
+Please allow OMRON connect to share data with Samsung Health."</string>
+    <string name="msg0020476">If you select “Always Allow”, Automatic data transfer via iBeacon will be enabled.</string>
+    <string name="msg0020477">How to Relocate Panels</string>
+    <string name="msg0020478">Press and hold on panels to move them.</string>
+    <string name="msg0020479">"
+______________________________
+Данное электронное письмо с запросом будет отправлено ГК \"СиЭс Медика\", эксклюзивному дистрибьютору Omron Healthcare Europe B.V. , на следующий адрес электронной почты: support-omron.connect@csmedica.ru.
+Информация, предусмотренная данным договором, будет обработана ГК \"СиЭс Медика\", и ваша личная информация будет регламентирована в соответствии с внутренней политикой конфиденциальности (https://csmedica.ru/information/politika/).
+Отправив данное электронное письмо, вы подтверждаете и соглашаетесь на использование Группой Компаний \"СиЭс Медика\" вашей личной информации (включая конфиденциальную информацию), предоставленной в данном электронном письме. 
+______________________________"</string>
+    <string name="msg0020480">Skip</string>
+    <string name="msg0020481">via OMRON connect Pro</string>
+    <string name="msg0020482">WAID[%s]</string>
+    <string name="msg2000001">Fatal error</string>
+    <string name="msg2000002">Database error</string>
+    <string name="msg2000003">File I/O error</string>
+    <string name="msg2000004">Error</string>
+    <string name="msg2001001">Register Device</string>
+    <string name="msg2001002">Device Settings</string>
+    <string name="msg2001003">Device Communication</string>
+    <string name="msg2001005">Connect Apps</string>
+    <string name="msg2020001">Communication with the device timed out. Make sure your device is in range and try again.</string>
+    <string name="msg2020002">Could not communicate with the device.</string>
+    <string name="msg2020003">Bluetooth is disabled. Turn Bluetooth on and try again.</string>
+    <string name="msg2020004">Could not find %s. Move your mobile device in range and try again.</string>
+    <string name="msg2020005">Pairing failed.</string>
+    <string name="msg2020006">Sync failed.</string>
+    <string name="msg2020007">Airplane mode is turned on.</string>
+    <string name="msg2020008">Out of area. Move to a location with adequate signal strength.</string>
+    <string name="msg2020009">Communication with the server timed out. Try again in a location with adequate signal strength.</string>
+    <string name="msg2020010">Could not connect to the server.</string>
+    <string name="msg2020011">Data communication is turned off. Turn it on and try again.</string>
+    <string name="msg2020012">Error when creating account.</string>
+    <string name="msg2020013">Email address is already registered.</string>
+    <string name="msg2020014">Access token refresh error.</string>
+    <string name="msg2020015">Could not sync with the cloud.</string>
+    <string name="msg2020016">Could not receive initial data.</string>
+    <string name="msg2020017">Battery is running low. Charge the battery.</string>
+    <string name="msg2020018">"Email settings must be configured in order to contact us. Configure your mobile device's email settings."</string>
+    <string name="msg2020019">Email app did not start.</string>
+    <string name="msg2020020">Error when sending email.</string>
+    <string name="msg2020021">Request is too long.</string>
+    <string name="msg2020022">The request parameter [%s] is not set.</string>
+    <string name="msg2020023">The request parameter [%s] is not correct.</string>
+    <string name="msg2020024">Incorrect request.</string>
+    <string name="msg2020026">Definition file download error. Try again in a location with adequate signal strength.</string>
+    <string name="msg2020027">This action is not allowed.</string>
+    <string name="msg2020028">Not used yet.</string>
+    <string name="msg2020029">Device cannot be registered.</string>
+    <string name="msg2020030">Connected app cannot be set.</string>
+    <string name="msg2020031">No backup server available.</string>
+    <string name="msg2020032">No device to communicate with.</string>
+    <string name="msg2020033">Backup not set.</string>
+    <string name="msg2020034">You can enter a value between %1$s and %2$s.</string>
+    <string name="msg2020035">"Communication error.
+Please ensure your mobile device is connected to the Internet and try again."</string>
+    <string name="msg2020036">Connection to the server failed. Please turn off airplane mode.</string>
+    <string name="msg2020037">"Connection to the server failed.
+Please turn on the server communication feature."</string>
+    <string name="msg2020038">"Could not communicate because [Update Device Information Automatically] is set to [Wi-Fi only].
+Either connect your mobile device to a Wi-Fi network or change the setting to [Always]."</string>
+    <string name="msg2020039">"Connection to the server failed.
+Please try again."</string>
+    <string name="msg2020040">"Server authentication error.
+Please try again."</string>
+    <string name="msg2020041">"Server communication error.
+Please try again."</string>
+    <string name="msg2020042">"Server communication timeout.
+Please try again."</string>
+    <string name="msg2020043">The system is currently under maintenance. We apologize for the inconvenience caused. Please try again later.</string>
+    <string name="msg2020044">"Server connection timeout.
+Please try again."</string>
+    <string name="msg2020045">An unexpected error occurred. Please try again later. If this message is displayed repeatedly, please contact technical support.</string>
+    <string name="msg2020046">Database access error. Please quit the app and try again.</string>
+    <string name="msg2020047">"Storage is full.
+Please try again when more storage capacity is available."</string>
+    <string name="msg2020048">Bluetooth is disabled. Turn Bluetooth on.</string>
+    <string name="msg2020049">"File write error.
+Please quit the app and then try again."</string>
+    <string name="msg2020050">"Terms of Use failed to display.
+Please ensure your mobile device is connected to the Internet and try again."</string>
+    <string name="msg2020051">"The selected ID is already being used. If you continue with registration, the current data will be erased.
+Do you want to continue?"</string>
+    <string name="msg2020052">"A new version of OMRON connect is available.
+Please update the application."</string>
+    <string name="msg2020053">"Network communication error.
+Please try again later."</string>
+    <string name="msg2020054">"File read error.
+Please quit the app and then try again."</string>
+    <string name="msg2020057">The Terms of Use has been updated. Please confirm the new terms.</string>
+    <string name="msg2020058">Measurement data is not found.</string>
+    <string name="msg2020059">You have reached the daily inquiry limit. Please wait until tomorrow to send another inquiry.</string>
+    <string name="msg2020060">No device found. Please try again. (%s)</string>
+    <string name="msg2020061">"Device communication error.
+Please confirm that there is no error displayed on the device's screen and try again. (%s)"</string>
+    <string name="msg2020062">"Device communication error.
+Please try again. (%s)"</string>
+    <string name="msg2020063">"This device does not support Bluetooth.
+Please use a Bluetooth-compatible device. (%s)"</string>
+    <string name="msg2020064">"Device connection error.
+Please try again. (%s)"</string>
+    <string name="msg2020066">"Device authentication error.
+Please try again. (%s)"</string>
+    <string name="msg2020067">"Device communication error.
+Please try again. (%s)"</string>
+    <string name="msg2020068">"PIN authentication error.
+Please try again. (%s)"</string>
+    <string name="msg2020069">Do you want to discard the changes?</string>
+    <string name="msg2020070">"Device communication error. Please quit the app and try again.
+If this message is displayed repeatedly, please remove and add the device again. (%s)"</string>
+    <string name="msg2020071">"Failed to delete the device.
+Please try again."</string>
+    <string name="msg2020072">"Error when saving device settings.
+Please try again."</string>
+    <string name="msg2020073">"Cannot sync because this device is not registered.
+Please register the device and try again."</string>
+    <string name="msg2020074">"Device communication error.
+Please try again. (%s)"</string>
+    <string name="msg2020075">"Device communication error.
+This mobile device is not supported. (%s)"</string>
+    <string name="msg2020076">"Fail to connect to the device. 
+Please turn ON Bluetooth on the smartphone and try again. (%s)"</string>
+    <string name="msg2020077">"Failed to communicate with the device.
+Please quit the app and then try again.
+If this message is displayed repeatedly, delete the pairing information, restart the mobile device, and then try again. (%s)"</string>
+    <string name="msg2020078">Do you have any devices that are compatible with OMRON connect?</string>
+    <string name="msg2020079">"The time is out of sync.
+Enable automatic setting of the date and time."</string>
+    <string name="msg2020080">"Communication error.
+Move to a location with adequate signal strength and try again."</string>
+    <string name="msg2020081">"Your mobile device failed to communicate with device.
+Turn Bluetooth OFF and ON again on your mobile device and try again."</string>
+    <string name="msg2020082">"The email address you have entered is invalid. 
+Please enter a valid email address."</string>
+    <string name="msg2020083">Phone number format is not correct. Please enter phone number again.</string>
+    <string name="msg2020084">"Updating email address failed. 
+Please try again later. If this message is displayed repeatedly, please contact technical support."</string>
+    <string name="msg2020085">"Updating phone number is failed. 
+Please try again later. If this message is displayed repeatedly, please contact technical support."</string>
+    <string name="msg2020086">"Password reset has failed. 
+Please try again later. If this message is displayed repeatedly, please contact technical support."</string>
+    <string name="msg2020088">The user name or password you entered is not recognized. Please check your credentials and try again.</string>
+    <string name="msg2020090">Confirmation code authentication error.</string>
+    <string name="msg2020091">Failed to create Cloud account. Please try again later. If this message is displayed repeatedly, please contact technical support.</string>
+    <string name="msg2020093">"Connection to the server failed.
+Please try again."</string>
+    <string name="msg2020094">"Server communication timeout.
+Please try again."</string>
+    <string name="msg2020095">Syncing with the Cloud failed. Please try again later. If this message is displayed repeatedly, please contact technical support.</string>
+    <string name="msg2020096">This email address is already registered.</string>
+    <string name="msg2020097">This phone number is already registered.</string>
+    <string name="msg2020098">This user name is already registered.</string>
+    <string name="msg2020099">User information not found.</string>
+    <string name="msg2020100">Connection to the Cloud has failed.</string>
+    <string name="msg2020101">An unexpected error occurred. Please try again later. If this message is displayed repeatedly, please contact technical support.</string>
+    <string name="msg2020102">You have entered an incorrect user name or password.</string>
+    <string name="msg2020103">Please check that the information you have entered is correct, and try again.</string>
+    <string name="msg2020104">Enter alphanumeric characters or symbols (_.-) for your User name.</string>
+    <string name="msg2020105">Enter alphanumeric characters for your Password.</string>
+    <string name="msg2020106">Password does not match.</string>
+    <string name="msg2020107">Enter %2$s to %3$s alphanumeric characters for %1$s.</string>
+    <string name="msg2020108">Enter %1$s or less alphanumeric characters for %2$s.</string>
+    <string name="msg2020109">Cannot sign in. User name not recognized.</string>
+    <string name="msg2020110">You have been logged out from OMRON connect Cloud. Please sign in by choosing Cloud from the main menu.</string>
+    <string name="msg2020111">No device found.</string>
+    <string name="msg2020112">Device communication error.</string>
+    <string name="msg2020113">You have already saved the measurement taken on this date and time. This measurement cannot be saved again.</string>
+    <string name="msg2020114">Measurement Date in the future can not be saved. Please set correct date and try again.</string>
+    <string name="msg2020115">Existing device will be replaced.</string>
+    <string name="msg2020118">Scan has failed.</string>
+    <string name="msg2020119">You can not use Measurement Scan because this smartphone does not have a camera.</string>
+    <string name="msg2020120">Unable to access camera.</string>
+    <string name="msg2020121">OMRON connect could not access the Camera. Please allow OMRON connect to access the Camera.</string>
+    <string name="msg2020122">Measurement Scan has failed. Please try again.</string>
+    <string name="msg2020123">Temperature of this smartphone is too high to use the Camera. Please try again later.</string>
+    <string name="msg2020124">Registered device is deleted.To scan by camera, you need to register a device.</string>
+    <string name="msg2020125">GoogleFit is available only when a body composition monitor is registered to this smartphone.</string>
+    <string name="msg2020126">"For SYS, DIA and pulse readings,please enter a value within the following range:
+SYS 40-280
+DIA 40-280
+Pulse 40-180"</string>
+    <string name="msg2020127">Please make sure that DIA is lower than SYS.</string>
+    <string name="msg2020128">No data exists to share with Apple Health.</string>
+    <string name="msg2020129">OMRON connect is not authorized to access Apple Health.</string>
+    <string name="msg2020130">If you turn this off, the ongoing task will be canceled and the rest of data cannot be exported to Apple Health. Do you want to continue?</string>
+    <string name="msg2020131">If you cancel, the rest of the data cannot be exported. Do you want to continue?</string>
+    <string name="msg2020132">Please choose one or more data types.</string>
+    <string name="msg2020133">Samsung Health is available only when a blood pressure monitor or body composition monitor is registered to this smartphone.</string>
+    <string name="msg2020134">Please install the application you want to link.</string>
+    <string name="msg2020135">The application you want to link is outdated. Please update the application to the latest version and try again.</string>
+    <string name="msg2020136">The application you want to link is not active. Please activate the application and try again.</string>
+    <string name="msg2020137">Please agree to the Terms and Conditions of the application you want to link.</string>
+    <string name="msg2020138">Samsung Health is locked using your user password.</string>
+    <string name="msg2020139">Requires approval on partner apps.</string>
+    <string name="msg2020140">Could not connect to Samsung Health.</string>
+    <string name="msg2020141">Enable use of Samsung Health.</string>
+    <string name="date_format_yyyy_M_d_HH_mm">MMM d, yyyy HH:mm</string>
+    <string name="c6dhrb5lsu7c3a8z">Bg54Gep9</string>
+    <string name="class_bmi_asia_res_name">bmi_asia</string>
+    <string name="class_bmi_eu_res_name">bmi_eu</string>
+    <string name="class_body_fat_asia_res_name">body_fat_asia_%1$s</string>
+    <string name="class_body_fat_eu_res_name">body_fat_eu_%1$s_%2$d</string>
+    <string name="class_interpreting_visceral_fat_asia_res_name">interpreting_visceral_fat_asia</string>
+    <string name="class_interpreting_visceral_fat_eu_res_name">interpreting_visceral_fat_eu</string>
+    <string name="class_res_name_female">female</string>
+    <string name="class_res_name_male">male</string>
+    <string name="class_skele_muscle_asia_res_name">skele_muscle_asia_%1$s</string>
+    <string name="class_skele_muscle_eu_res_name">skele_muscle_eu_%1$s_%2$d</string>
+    <string name="config_app_update_notice_msg">appUpdateNoticeMsg</string>
+    <string name="config_asset_path_batch">config/batch/BatchDL_%1$s_%2$s.zip</string>
+    <string name="config_asset_path_initial">config/Initial.zip</string>
+    <string name="config_asset_path_initial_file">Initial.zip</string>
+    <string name="config_category_name_list">categoryNameList</string>
+    <string name="config_cloud_app_id">099bcf8e</string>
+    <string name="config_cloud_app_key">9e6a4e3f02041aa6351566674c053df3</string>
+    <string name="config_common_help_download">/config/Common/Help/Download</string>
+    <string name="config_common_image_file">/config/Common/Image/%1$s.png</string>
+    <string name="config_config_path">/config</string>
+    <string name="config_cooperateapp_list">cooperateAppList</string>
+    <string name="config_cooperateapps_image_file">/config/Area/%1$s/%1$s_%2$s/Cooperate_App</string>
+    <string name="config_cooperateapps_image_file_1st">/config/%1$s/Cooperate_App</string>
+    <string name="config_cooperateapps_image_file_batchdl">/config/BatchDL/Area/%1$s/Cooperate_App</string>
+    <string name="config_cooperateapps_image_file_update">/config/Area/%1$s/Cooperate_App</string>
+    <string name="config_default_resident_area">US</string>
+    <string name="config_device_list">deviceList</string>
+    <string name="config_download_batch">BatchDL</string>
+    <string name="config_download_path_batch">/BatchDL</string>
+    <string name="config_index_file">index.html</string>
+    <string name="config_index_name_list">indexNameList</string>
+    <string name="config_information">information</string>
+    <string name="config_init_version">001_001_00000</string>
+    <string name="config_initial_path">Initial/</string>
+    <string name="config_memory_map">Memory_Map</string>
+    <string name="config_model_definition">omron_dev</string>
+    <string name="config_next">Next</string>
+    <string name="config_notice_info_path">/info</string>
+    <string name="config_path_batch">config/batch</string>
+    <string name="config_product_cn_path">https://www.omronconnect.cn/products/</string>
+    <string name="config_product_path">http://www.omronconnect.com/products/</string>
+    <string name="config_protocol_definition">protocol</string>
+    <string name="config_region_common_info">regionCommonInfo</string>
+    <string name="config_regional_info">regionalInfo</string>
+    <string name="config_resident_area">residentArea</string>
+    <string name="config_residentarea_next_path">/Common/ResidentArea/residentArea_Next.xml</string>
+    <string name="config_residentarea_path">/Common/ResidentArea/residentArea.xml</string>
+    <string name="config_server_cn_residentarea_next_url">https://www.omronconnect.cn/download/Common/ResidentArea/residentArea_Next.xml</string>
+    <string name="config_server_cn_residentarea_url">https://www.omronconnect.cn/download/Common/ResidentArea/residentArea.xml</string>
+    <string name="config_server_cn_update_next_url">https://www.omronconnect.cn/download/Update/updateInfo_%1$s_Next.xml</string>
+    <string name="config_server_cn_update_url">https://www.omronconnect.cn/download/Update/updateInfo_%1$s.xml</string>
+    <string name="config_server_residentarea_next_url">https://www.omronconnect.com/download/Common/ResidentArea/residentArea_Next.xml</string>
+    <string name="config_server_residentarea_url">https://www.omronconnect.com/download/Common/ResidentArea/residentArea.xml</string>
+    <string name="config_server_update_next_url">https://www.omronconnect.com/download/Update/updateInfo_%1$s_Next.xml</string>
+    <string name="config_server_update_url">https://www.omronconnect.com/download/Update/updateInfo_%1$s.xml</string>
+    <string name="config_terminal_custom">terminalCustomValue</string>
+    <string name="config_tmp_path">/tmp</string>
+    <string name="config_unit_name_list">unitNameList</string>
+    <string name="config_update_info">updateInfo</string>
+    <string name="config_update_info_next_path">/Update/updateInfo_%1$s_Next.xml</string>
+    <string name="config_update_info_path">/Update/updateInfo_%1$s.xml</string>
+    <string name="dashboardActivity_appSettingFragment">アプリ設定</string>
+    <string name="dashboardActivity_cloudConfirmFragment">クラウド:利用確認(ダッシュボード)</string>
+    <string name="dashboardActivity_cloudSyncFragment">クラウド:同期</string>
+    <string name="dashboardActivity_contactUsMenuFragment">お問い合わせ:ファイル添付方式選択</string>
+    <string name="dashboardActivity_cooperateAppFragment">アプリ連携:アプリ/サービス一覧</string>
+    <string name="dashboardActivity_dashboardFragment">ダッシュボード</string>
+    <string name="dashboardActivity_deviceListFragment">機器設定</string>
+    <string name="dashboardActivity_helpMenuFragment">ヘルプ:メニュー</string>
+    <string name="dashboardActivity_navigationDrawerFragment">コントローラ:ホーム画面遷移</string>
+    <string name="dashboardActivity_personalInfoFragment">ユーザー情報</string>
+    <string name="debug_config_version_device">Device</string>
+    <string name="debug_config_version_equipment_id">機器ID</string>
+    <string name="debug_config_version_kind">種別</string>
+    <string name="debug_config_version_version">バージョン</string>
+    <string name="debug_file_output">DB/設定ファイル出力</string>
+    <string name="debug_importDB">Import Data</string>
+    <string name="dialog_dashboardHomeTutorial">ダイアログ:ダッシュボードチュートリアル</string>
+    <string name="dialog_indicator">ダイアログ:インジケータ</string>
+    <string name="dialog_noticeMessage">ダイアログ:お知らせ通知</string>
+    <string name="dialog_versionUp">ダイアログ:バージョンアップ通知</string>
+    <string name="io_repro_android_done">Done</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.AppTermOfUseActivity">【画面】利用規約</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.AppTutorialActivity">【画面】チュートリアル1</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.CloudCreateAccountActivity">【画面】クラウドアカウント作成</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.CloudCreateAccountActivity0">【完了】新規登録</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.CloudSignInActivity">【画面】クラウドサインイン</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.CloudSignInActivity$30">【完了】ログイン</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.CloudTopActivity">【画面】クラウド</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.DashboardActivity">【画面】ホーム</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.DashboardActivity0">【完了】更新</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.DashboardActivity00">【完了】更新 (血圧計)</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.DashboardActivity01">【完了】更新 (体重体組成計)</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.DashboardActivity02">【完了】更新 (活動量系)</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.DashboardActivity10">【完了】初回更新 (血圧計)</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.DashboardActivity11">【完了】初回更新 (体重体組成計)</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.DashboardActivity12">【完了】初回更新 (活動量系)</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.DashboardActivity2">【完了】更新（AM）</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.DashboardActivity20">【完了】更新 (血圧計)(AM)</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.DashboardActivity21">【完了】更新 (体重体組成計)(AM)</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.DashboardActivity22">【完了】更新 (活動量系)(AM)</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.DashboardActivity3">【完了】更新（PM）</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.DashboardActivity30">【完了】更新 (血圧計)(PM)</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.DashboardActivity31">【完了】更新 (体重体組成計)(PM)</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.DashboardActivity32">【完了】更新 (活動量系)(PM)</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.DashboardActivity4">【完了】更新（OHQ指定AM,PM以外の時間）</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.DashboardActivity40">【完了】更新 (血圧計)(OHQ指定AM,PM以外の時間)</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.DashboardActivity41">【完了】更新 (体重体組成計)(OHQ指定AM,PM以外の時間)</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.DashboardActivity42">【完了】更新 (活動量系)(OHQ指定AM,PM以外の時間)</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.DeviceAdvertiseGuidanceActivity">【画面】データ転送について</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.DevicePossessionActivity">【画面】機器登録（初回）</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.DevicePossessionActivity$11">【タップ】持っている</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.DevicePossessionActivity$12">【タップ】持っていない</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.DeviceSyncActivity">【画面】機器登録完了</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.DeviceSyncActivity0">【画面】登録完了（血圧計）</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.DeviceSyncActivity1">【画面】登録完了（体重体組成計）</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.DeviceSyncActivity2">【画面】登録完了（活動量計）</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.ExportDataSettingActivity">【画面】測定結果出力</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.ExportDataSettingActivity0">【完了】出力完了</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.GraphActivity">【画面】グラフ</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.HelpMenuActivity5">【画面】アプリについて</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.HelpMenuActivity6">【画面】機器について</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.HelpMenuActivity8">【画面】クラウドについて</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.MeasuredDataActivity">【画面】測定結果詳細</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.MeasuredDataListActivity">【画面】測定結果一覧</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.PairingGuidanceActivity0">【画面】血圧計詳細</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.PairingGuidanceActivity00">【画面】血圧計接続1</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.PairingGuidanceActivity01">【画面】血圧計接続2</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.PairingGuidanceActivity1">【画面】体重体組成計_詳細</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.PairingGuidanceActivity10">【画面】体重体組成計_接続1</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.PairingGuidanceActivity11">【画面】体重体組成計_接続2</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.PairingGuidanceActivity2">【画面】活動量計詳細</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.PairingGuidanceActivity20">【画面】活動量計_接続1</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.PairingGuidanceActivity21">【画面】活動量計_接続2</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.PairingGuidanceActivity22">【画面】活動量計_接続3</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.RegistAppLocationActivity">【画面】地域設定</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.RegistDeviceConfirmActivity">【画面】機器詳細</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.RegistDeviceConfirmActivity0">【画面】血圧計詳細</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.RegistDeviceConfirmActivity1">【画面】体重体組成計_詳細</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.RegistDeviceConfirmActivity2">【画面】活動量計詳細</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.SelectDeviceActivity">【画面】機器一覧</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.SelectDeviceActivity0">【画面】血圧計一覧</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.SelectDeviceActivity1">【画面】体重体組成計一覧</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.SelectDeviceActivity2">【画面】活動量計一覧</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.SelectDeviceCategoryActivity">【画面】機器</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.SelectOtherDeviceActivity">【画面】機器一覧(その他)</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.UrlSchemeCooperateAppActivity">【画面】連携アプリ・サービス</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.adapter.AppTutorialSlidingView1">【画面】チュートリアル1</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.adapter.AppTutorialSlidingView2">【画面】チュートリアル2</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.adapter.AppTutorialSlidingView3">【画面】チュートリアル3</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.adapter.AppTutorialSlidingView4">【画面】チュートリアル4</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.adapter.AppTutorialSlidingView5">【画面】チュートリアル5</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.cloud.CloudConfirmFragment">【画面】クラウドメニュー</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.drawer.CooperateAppFragment">【画面】連携アプリ・サービス</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.drawer.DeviceListFragment">【画面】機器登録メニュー</string>
+    <string name="jp.co.omron.healthcare.omron_connect.ui.drawer.HelpMenuFragment">【画面】ヘルプ</string>
+    <string name="repro_age2_0_9">10歳未満</string>
+    <string name="repro_age2_100_104">100代前半</string>
+    <string name="repro_age2_105_109">100代後半</string>
+    <string name="repro_age2_10_14">10代前半</string>
+    <string name="repro_age2_110_114">110代前半</string>
+    <string name="repro_age2_115_119">110代後半</string>
+    <string name="repro_age2_120_124">120代前半</string>
+    <string name="repro_age2_125_129">120代後半</string>
+    <string name="repro_age2_130over">130歳以上</string>
+    <string name="repro_age2_15_19">10代後半</string>
+    <string name="repro_age2_20_24">20代前半</string>
+    <string name="repro_age2_25_29">20代後半</string>
+    <string name="repro_age2_30_34">30代前半</string>
+    <string name="repro_age2_35_39">30代後半</string>
+    <string name="repro_age2_40_44">40代前半</string>
+    <string name="repro_age2_45_49">40代後半</string>
+    <string name="repro_age2_50_54">50代前半</string>
+    <string name="repro_age2_55_59">50代後半</string>
+    <string name="repro_age2_60_64">60代前半</string>
+    <string name="repro_age2_65_69">60代後半</string>
+    <string name="repro_age2_70_74">70代前半</string>
+    <string name="repro_age2_75_79">70代後半</string>
+    <string name="repro_age2_80_84">80代前半</string>
+    <string name="repro_age2_85_89">80代後半</string>
+    <string name="repro_age2_90_94">90代前半</string>
+    <string name="repro_age2_95_99">90代後半</string>
+    <string name="repro_sender_id_dev">296937632383</string>
+    <string name="repro_sender_id_release">712877532794</string>
+    <string name="repro_token_dev">ba44cd1b-fa40-474d-b245-b77b697b484a</string>
+    <string name="repro_token_release">b432a9af-60d1-4ec3-baab-cf62a362bc40</string>
+    <string name="repro_userProfile_1">プッシュ通知許諾</string>
+    <string name="repro_userProfile_10">最終測定日（活動量）</string>
+    <string name="repro_userProfile_11">最終測定日（体重体組成）</string>
+    <string name="repro_userProfile_12">国</string>
+    <string name="repro_userProfile_13">保有機器：血圧計</string>
+    <string name="repro_userProfile_14">保有機器：体重体組成計</string>
+    <string name="repro_userProfile_15">保有機器：活動量計</string>
+    <string name="repro_userProfile_16">保有機器：血圧計のみ</string>
+    <string name="repro_userProfile_17">保有機器：体重体組成計のみ</string>
+    <string name="repro_userProfile_18">保有機器：活動量計のみ</string>
+    <string name="repro_userProfile_19">保有機器：血圧計+体重体組成計</string>
+    <string name="repro_userProfile_2">累計測定回数</string>
+    <string name="repro_userProfile_20">保有機器：血圧計+活動量計</string>
+    <string name="repro_userProfile_21">保有機器：体重体組成計+活動量計</string>
+    <string name="repro_userProfile_22">保有機器：血圧計+体重体組成計+活動量計</string>
+    <string name="repro_userProfile_23">年齢</string>
+    <string name="repro_userProfile_24">年代</string>
+    <string name="repro_userProfile_25">性別</string>
+    <string name="repro_userProfile_26">地域</string>
+    <string name="repro_userProfile_27">データ有無</string>
+    <string name="repro_userProfile_28">データ有無（血圧計）</string>
+    <string name="repro_userProfile_29">データ有無（体重体組成計）</string>
+    <string name="repro_userProfile_3">累計測定回数（血圧）</string>
+    <string name="repro_userProfile_30">データ有無（活動量計）</string>
+    <string name="repro_userProfile_31">クラウド登録</string>
+    <string name="repro_userProfile_32">連携アプリ・サービス数</string>
+    <string name="repro_userProfile_4">累計測定回数（活動量）</string>
+    <string name="repro_userProfile_5">累計測定回数（体重体組成計）</string>
+    <string name="repro_userProfile_6">過去1週間の測定回数（血圧）</string>
+    <string name="repro_userProfile_7">過去1週間の測定回数（活動量）</string>
+    <string name="repro_userProfile_8">過去1週間の測定回数（体重体組成計）</string>
+    <string name="repro_userProfile_9">最終測定日（血圧）</string>
+    <string name="updateShareAppList">【完了】連携</string>
+    <string name="webview_update_text">"You need the latest version of 'Android System Webview' to use this app. Open Google Play and search for 'Android System Webview' and update it."</string>
+    <string name="webview_update_title">Update needed</string>
+    <string name="yzy2a9p4mk8calgz">A2aB8Eyq</string>
+</resources>

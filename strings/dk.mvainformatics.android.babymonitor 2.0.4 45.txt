@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="s1">Save image</string>
+    <string name="s2">Allow Ad to store image in Picture gallery?</string>
+    <string name="s3">Accept</string>
+    <string name="s4">Decline</string>
+    <string name="s5">Create calendar event</string>
+    <string name="s6">Allow Ad to create a calendar event?</string>
+    <string name="search_menu_title">Search</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="picker_am">AM</string>
+    <string name="picker_pm">PM</string>
+    <string name="picker_today">today</string>
+    <string name="action_drawer_close">Close drawer menu</string>
+    <string name="action_drawer_open">Open drawer menu</string>
+    <string name="app_eula_key">Eula1</string>
+    <string name="app_eula_key2">Eula2</string>
+    <string name="app_name">Baby Monitor</string>
+    <string name="audiomonitor_button_stopmonitor">Stop the baby monitor</string>
+    <string name="audiomonitor_dialog_sendingsms">Sending SMS</string>
+    <string name="audiomonitor_dialog_sendingsms_low_power">Low power - sending SMS</string>
+    <string name="audiomonitor_headline">Baby Monitor (active)</string>
+    <string name="audiomonitor_headline_test">Test mode</string>
+    <string name="audiomonitor_progress_text">Measured sound level</string>
+    <string name="audiomonitor_sms_low_power">Baby monitor message: The phone needs to be recharged!</string>
+    <string name="audiomonitor_sms_triggered">The babymonitor has been activated.</string>
+    <string name="audiomonitor_sms_triggered_imagelink">See image:</string>
+    <string name="audiomonitor_status">Status</string>
+    <string name="audiomonitor_status_initializing">Initializing</string>
+    <string name="audiomonitor_status_listening">Listening</string>
+    <string name="audiomonitor_status_triggered">"Triggered!
+Reactivating in %1$s seconds"</string>
+    <string name="audiomonitor_status_triggered_test">Triggered!</string>
+    <string name="audiomonitor_statusbar_headline">The Baby alarm is listening</string>
+    <string name="audiomonitor_statusbar_text">Baby Monitor running</string>
+    <string name="audiomonitor_toast_error">An error occurred. Please restart your phone.</string>
+    <string name="audiomonitor_toast_smssentfailed">Could not send SMS</string>
+    <string name="audiomonitor_toast_stopped">Baby alarm stopped</string>
+    <string name="audiomonitor_toast_testmode">Baby alarm started in test mode</string>
+    <string name="audiomonitoreula_buttonok">I hereby confirm that I have read the information.</string>
+    <string name="audiomonitoreula_buttonok_main">Okay</string>
+    <string name="audiomonitoreula_headline">Information</string>
+    <string name="audiomonitoreula_text">" 
+
+"<b>Please test the baby monitor thoroughly each time you use it!</b>" 
+
+"<b>1:</b>" Do not leave your baby without regular supervision. Technical problems, positioning, network errors or wrong settings might cause the baby monitor to malfunction or not to detect when the baby is crying. 
+
+"<b>2:</b>" Some dialer programs will not allow the alarm to resume to operation - please disable these programs if this is the case. 
+
+"<b>3:</b>" Make sure that your phone has sufficient power - plug it into the charger to be safe. 
+
+Remember that no baby monitor can replace attentive parents. 
+
+"<b><big>How to use it:</big></b>" 
+
+"<b>1:</b>" Enter the number to dial or to text when the baby monitor is triggered. 
+
+"<b>2:</b>" Set the contact method - the baby monitor can either call another phone or text another phone. 
+
+"<b>3:</b>" Set whether the alarm should take a picture or not when it has been triggered. 
+
+"<b>4:</b>" Set the sensitivity level (how sensitive the baby monitor is). 80 is the default value. 
+
+"<b>6:</b>" Optional: Press the test button to test your settings. When the baby monitor is in test mode it wont call or text you. 
+
+"<b>7:</b>" Press Start the baby monitor button to start the baby monitor. 
+
+"<b><big>Sleep log:</big></b>" 
+
+The sleep log allows you to follow your babies sleep pattern. You can add an entry manually by pressing the button \"Add entry\". 
+
+
+
+The developer of this app takes no responsibility on how this app is used, unintended malfunctions, problems or any other issues whatsoever related to the use of this app. The Baby Monitor app is provided 'As Is' without any express or implied warranty of any kind. You may not reverse engineer, decompile, or disassemble this app, except and only to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation. You may not rent, lease, or lend the Baby Monitor app. Images can be deleted without any further notice. "</string>
+    <string name="audiomonitorsetup_addtosleeplog_button_no">No</string>
+    <string name="audiomonitorsetup_addtosleeplog_button_yes">Yes</string>
+    <string name="audiomonitorsetup_addtosleeplog_headline">Add to log?</string>
+    <string name="audiomonitorsetup_addtosleeplog_text">Add this period to your babies sleep log?</string>
+    <string name="audiomonitorsetup_button_help">Help</string>
+    <string name="audiomonitorsetup_button_start">Start the baby monitor</string>
+    <string name="audiomonitorsetup_button_test">Test sensitivity</string>
+    <string name="audiomonitorsetup_callback_number">Enter phone number</string>
+    <string name="audiomonitorsetup_callback_type">Contact method</string>
+    <string name="audiomonitorsetup_callback_type_details">How should the baby alarm contact you when the baby is crying?</string>
+    <string name="audiomonitorsetup_headline">Baby Monitor setup</string>
+    <string name="audiomonitorsetup_menu_advanced">Advanced settings</string>
+    <string name="audiomonitorsetup_number_hint">Phone number</string>
+    <string name="audiomonitorsetup_picture_headline">Take picture</string>
+    <string name="audiomonitorsetup_picture_radio_no">No</string>
+    <string name="audiomonitorsetup_picture_radio_yes">Yes</string>
+    <string name="audiomonitorsetup_radio_call">Call number</string>
+    <string name="audiomonitorsetup_radio_sms">Send SMS</string>
+    <string name="audiomonitorsetup_soundsensitivity_details">A low value means that a low sound will trigger the baby alarm</string>
+    <string name="audiomonitorsetup_soundsensitivity_text">Sensitivity level</string>
+    <string name="audiomonitorsetup_toast_nonumberentered">You need to add a number</string>
+    <string name="audiomonitorsetup_toast_novalidnumber">No valid number found</string>
+    <string name="audiomonitorsetupfragment_missing_phonenumber">Missing phonenumber</string>
+    <string name="audiomonitorsetupfragment_no_phonenumber_found">No phonenumber found for the contact</string>
+    <string name="audiomonitorsetupfragment_rationale_audio">Please make sure that you allow access to the microphone</string>
+    <string name="audiomonitorsetupfragment_rationale_contacts">Please make sure that you allow access to contacts</string>
+    <string name="audiomonitorsetupfragment_rationale_phone_audio">Please make sure that you allow access to the microphone, sending text messages and phonecalls</string>
+    <string name="audiomonitorsetupfragment_rationale_phone_audio_camera_text">Please make sure that you allow access to the microphone, phonecalls, sending text messages and the camera</string>
+    <string name="audiomonitorsetupfragment_rationale_text_audio">Please make sure that you allow access to the microphone and sending text messages</string>
+    <string name="audiomonitorsetupfragment_rationale_text_audio_camerea">Please make sure that you allow access to the microphone, sending text mesages and the camera</string>
+    <string name="babysleeplog_button_add_entry">Add entry</string>
+    <string name="babysleeplog_button_delete_all">Clear log</string>
+    <string name="babysleeplog_contextmenu_delete">Delete this entry</string>
+    <string name="babysleeplog_dialog_deleteall_text">Delete all log entries?</string>
+    <string name="babysleeplog_dialog_no">No</string>
+    <string name="babysleeplog_dialog_yes">Yes</string>
+    <string name="babysleeplog_hours">hours</string>
+    <string name="babysleeplog_item_hours">hours</string>
+    <string name="babysleeplog_item_minutes">minutes</string>
+    <string name="babysleeplog_minutes">minutes</string>
+    <string name="babysleeplog_no_entries">No entries found</string>
+    <string name="babysleeplog_sleepingtime_text">Sleeping time:</string>
+    <string name="babysleeplogsettime_button_cancel">Cancel</string>
+    <string name="babysleeplogsettime_button_change_date">Change the date</string>
+    <string name="babysleeplogsettime_button_change_time">Change the time</string>
+    <string name="babysleeplogsettime_button_ok">Add now</string>
+    <string name="babysleeplogsettime_commenthint">Comment</string>
+    <string name="babysleeplogsettime_headline">Sleeping time</string>
+    <string name="babysleeplogsettime_headlinedate">Date</string>
+    <string name="babysleeplogsettime_headlinetime">Time</string>
+    <string name="babysleeplogsettime_hourshint">Hours</string>
+    <string name="babysleeplogsettime_logadded">Log added</string>
+    <string name="babysleeplogsettime_minuteshint">Minutes</string>
+    <string name="camera_cancelbutton">Cancel</string>
+    <string name="camera_preparing">Preparing to take image, please wait</string>
+    <string name="camera_sending_picture">Sending picture. Please wait</string>
+    <string name="camera_taking_picture">Taking picture</string>
+    <string name="helptext_headline">Baby alarm help</string>
+    <string name="helptext_text">&lt;big>What does all the settings mean?&lt;/big> &lt;br />&lt;br/>&lt;b>Number&lt;/b>&lt;br />The number is for the phonenumber the alarm dials or text to when the alarm has been triggered. &lt;br />&lt;br />&lt;b>Contact method&lt;/b>&lt;br />This selects how the alarm will contact you when it is triggered - either by a text message or by dialing. &lt;br />&lt;br />&lt;b>Take picture&lt;/b>&lt;br />If you enable this, it will take a picture when the alarm is triggered, and you will receive a text message with a link to the image. Remember that you phone must be connected to either wifi or 3G/4G. &lt;br />&lt;br />&lt;b>Sensitivity level&lt;/b>&lt;br />The sensitivity level determines how sensitive the alarm is. 80 is the default value.</string>
+    <string name="introduction_fragment_got_it">Got it - thanks</string>
+    <string name="introfragment_step1_description">No problem. All you need is an Android phone.</string>
+    <string name="introfragment_step1_title">Need a baby monitor?</string>
+    <string name="introfragment_step2_description">Place the phone near your baby or toddler. Add the contact number and start the baby monitor. When a noise is detected, the Baby Monitor will either text or call the selected number</string>
+    <string name="introfragment_step2_title">How does it work?</string>
+    <string name="introfragment_step3_description">That is it! But remember: Never leave your baby without regular supervision. No baby monitor can ever replace attentive parents</string>
+    <string name="introfragment_step3_title">What else?</string>
+    <string name="main_dialog_webview_loading">Please wait</string>
+    <string name="main_donate_button_androidmarket">Donate with Android Market</string>
+    <string name="main_donate_summary">"This app is free of charge, but if you like and use it, please consider to give us a small donation.
+
+This will help us pay the server expenses and the further development. Every donation is greatly appreciated :-)"</string>
+    <string name="main_donate_title">Donate</string>
+    <string name="main_grid_audiomonitor">Baby audio monitor</string>
+    <string name="main_grid_baby_log">Sleep Diary</string>
+    <string name="main_grid_baby_log_details">"Keep track of your baby's sleep."</string>
+    <string name="main_grid_babymonitor">Baby Alarm</string>
+    <string name="main_grid_babymonitor_details">Use your phone as a baby alarm</string>
+    <string name="main_grid_fact">Baby Facts</string>
+    <string name="main_grid_fact_details">Read about pregnancy, baby care and other useful facts</string>
+    <string name="main_grid_images">Images</string>
+    <string name="main_grid_images_details">See the latest images taken by the Baby Alarm</string>
+    <string name="main_grid_preferences">Settings</string>
+    <string name="main_grid_settings">Help and Info</string>
+    <string name="main_grid_settings_details">How to use the baby monitor and disclaimer</string>
+    <string name="main_headline">Baby Monitor</string>
+    <string name="notify_message_running_headline">Baby monitor</string>
+    <string name="notify_message_running_text">The baby alarm is listening</string>
+    <string name="notify_message_started">Baby alarm started</string>
+    <string name="permission_missing_toast_camera">Missing camera permission</string>
+    <string name="permission_missing_toast_contacts">Missing contacts permission</string>
+    <string name="permission_missing_toast_microphone">Missing microphone permission</string>
+    <string name="permission_missing_toast_phone">Missing phone permission</string>
+    <string name="permission_missing_toast_readphonestate">Missing read phone state permission</string>
+    <string name="permission_missing_toast_text">Missing text permission</string>
+    <string name="permission_rationale_title">Missing permission</string>
+    <string name="preferences_audiomonitor_addtosleeplog_summary">Add the sleeping time to the sleep log</string>
+    <string name="preferences_audiomonitor_addtosleeplog_title">Add to sleeplog</string>
+    <string name="preferences_audiomonitor_categorytitle">Advanced settings</string>
+    <string name="preferences_audiomonitor_delay_defaultvalue">300</string>
+    <string name="preferences_audiomonitor_delay_summary">The delay before the alarm is triggered</string>
+    <string name="preferences_audiomonitor_delay_title">Trigger delay</string>
+    <string name="preferences_audiomonitor_externalspeaker_summary">Enable the external speaker when the baby alarm is triggered and a call is made</string>
+    <string name="preferences_audiomonitor_externalspeaker_title">External speaker</string>
+    <string name="preferences_audiomonitor_mute_summary">Mute the phone when the baby monitor is active</string>
+    <string name="preferences_audiomonitor_mute_title">Mute phone</string>
+    <string name="showtext_buttonok">OK</string>
+    <string name="splash_dialog_noconnection">No connection to the network - try again later</string>
+    <string name="splash_dialog_noconnection_headline">Network error</string>
+    <string name="splash_dialog_parsingerror">Connection could not be established, try again later</string>
+    <string name="splash_dialog_parsingerror_headline">Network error</string>
+    <string name="splash_headline">"Starting
+Baby Monitor"</string>
+    <string name="url_fact">http://babyalarm.mobi/a1/index.php</string>
+    <string name="url_image_generic_link">http://babyalarm.mobi/i1/redirect.php?command=i&amp;uniquekey=#uniquekey#</string>
+    <string name="url_image_link">http://babyalarm.mobi/i1/?imageid=%1$s&amp;command=i&amp;uniquekey=%2$s</string>
+    <string name="url_image_linkold">http://babyalarm.mobi/i1/?imageid=#imageid#&amp;command=i&amp;uniquekey=#uniquekey#</string>
+    <string name="url_image_receiver">http://babyalarm.mobi/i1/receive_img.php</string>
+    <string name="webbivew_error_text">"The page could not be loaded.
+Please check that you have network connection or try again later."</string>
+    <string name="widget_shortcut_alarm">Baby alarm</string>
+    <string name="widget_shortcut_headline">Baby Monitor</string>
+    <string name="widget_shortcut_images">Images</string>
+    <string name="widget_shortcut_log">Sleep log</string>
+    <string name="widget_shortcut_tips">Tips</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="password_toggle_content_description">Toggle password visibility</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+</resources>

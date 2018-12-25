@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="about">About</string>
+    <string name="about_adverb">약</string>
+    <string name="address">주소</string>
+    <string name="all">전체</string>
+    <string name="all_day">종일</string>
+    <string name="am">오전</string>
+    <string name="app_name">미소 파트너</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="appliance.air_conditioner">에어컨</string>
+    <string name="appliance.format">가전제품 %1$d대</string>
+    <string name="appliance.washer">세탁기</string>
+    <string name="apply">신청하기</string>
+    <string name="available">가능</string>
+    <string name="back">뒤로가기</string>
+    <string name="begin_of_service">시작하기</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="bundle_type">타입</string>
+    <string name="button.contacts_number.call">고객센터 전화하기</string>
+    <string name="button.maps">지도 보기</string>
+    <string name="button.retry_contacts">다시 입력하기</string>
+    <string name="button.show_more">일자리 더 보기</string>
+    <string name="call">전화</string>
+    <string name="call_us">고객센터</string>
+    <string name="cancel">취소</string>
+    <string name="cancel_apply">다른 일자리 찾기</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="checkpoints.baby">아기(신생아)</string>
+    <string name="checkpoints.moving">이사청소</string>
+    <string name="checkpoints.over_40">40평 이상</string>
+    <string name="checkpoints.pet">애완동물</string>
+    <string name="checkpoints.pet.description">애완동물이 있습니다.</string>
+    <string name="clean_completed">청소 완료</string>
+    <string name="closed">닫기</string>
+    <string name="com.crashlytics.android.build_id">09425fb1-1b2d-4f11-82dd-a1cfe2fc7a44</string>
+    <string name="com_kakao_account_cancel">Cancel</string>
+    <string name="com_kakao_account_cancel_tts">Cancel, Button</string>
+    <string name="com_kakao_alert_appKey">need to declare com.kakao.sdk.AppKey in your AndroidManifest.xml</string>
+    <string name="com_kakao_alert_install_kakaotalk">Please update KakaoTalk to the latest version.</string>
+    <string name="com_kakao_alert_uri_too_long">Failed to send message because it exceeds the message size limit. Please contact the app administrator.</string>
+    <string name="com_kakao_cancel_button">Cancel</string>
+    <string name="com_kakao_confirm_logout">Are you sure to log out from this app?</string>
+    <string name="com_kakao_confirm_unlink">Are you sure to unlink from this app?</string>
+    <string name="com_kakao_kakaostory_account">with KakaoStory</string>
+    <string name="com_kakao_kakaostory_account_tts">with KakaoStory, Button</string>
+    <string name="com_kakao_kakaotalk_account">with KakaoTalk</string>
+    <string name="com_kakao_kakaotalk_account_tts">with KakaoTalk, Button</string>
+    <string name="com_kakao_login_button">Log in with KakaoAccount</string>
+    <string name="com_kakao_login_button_tts">Log in with KakaoAccount, Button</string>
+    <string name="com_kakao_login_image_tts">Login with KakaoAccount, Image</string>
+    <string name="com_kakao_logout_button">Log out</string>
+    <string name="com_kakao_ok_button">OK</string>
+    <string name="com_kakao_other_kakaoaccount">with another KakaoAccount</string>
+    <string name="com_kakao_other_kakaoaccount_tts">with another KakaoAccount, Button</string>
+    <string name="com_kakao_profile_nickname">Nickname</string>
+    <string name="com_kakao_profile_userId">Kakao User ID</string>
+    <string name="com_kakao_talk_chooser_text">Which version of KakaoTalk would you like to use?</string>
+    <string name="com_kakao_tokeninfo_button">Token Info</string>
+    <string name="com_kakao_unlink_button">Unlink</string>
+    <string name="com_mixpanel_android_close">Close</string>
+    <string name="com_mixpanel_android_done">Done</string>
+    <string name="com_mixpanel_android_exit">Exit</string>
+    <string name="com_mixpanel_android_logo">By Mixpanel</string>
+    <string name="com_mixpanel_android_notification_image">Image not displayed</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play services availability</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="commute.after.format">%1$s 일자리에서 여기까지</string>
+    <string name="commute.before.format">여기서 %1$s 일자리까지</string>
+    <string name="commute.bus">버스로</string>
+    <string name="commute.format">(%1$s 일자리에서)</string>
+    <string name="commute.format_2">%1$s 일자리에서</string>
+    <string name="commute.subway">지하철</string>
+    <string name="commute.walking">걸어서</string>
+    <string name="company.contacts_number">고객센터: (+82) 02.6085.8880</string>
+    <string name="company.contacts_number.link">tel:+82260858880</string>
+    <string name="company.contacts_number.partner">고객센터: (+82) 02.6085.8886</string>
+    <string name="company.contacts_number.partner.link">tel:+82260858886</string>
+    <string name="copy">복사</string>
+    <string name="copyright">©2015 Miso, Inc. All Rights Reserved.</string>
+    <string name="copyright.format">©%1$s Miso, Inc. All Rights Reserved.</string>
+    <string name="date">날짜</string>
+    <string name="day">일</string>
+    <string name="default_notification_channel_id">miso-partner</string>
+    <string name="default_web_client_id">477634197864-qvglnj39dp317ujlvolmbfpianmesesc.apps.googleusercontent.com</string>
+    <string name="description">description</string>
+    <string name="description.all_region.format">%1$s 전체</string>
+    <string name="description.bundle">묶음 일자리: 이동 시간 30분 이내의 가까운 오전, 오후 일자리 2개가 동시에 신청됩니다.</string>
+    <string name="description.bundle.wage">묶음일자리 총 지급액입니다.</string>
+    <string name="description.bundle_commute_time">묶음 일자리 사이 이동시간</string>
+    <string name="description.header_subtitle.format">%1$s 일자리 있는 날</string>
+    <string name="description.invite_friends.kakao">가사 청소 도우미 일자리 매일 1000여개 중 선택 가능! 내 집 근처, 내가 원하는 시간의 일자리를 선택하세요!</string>
+    <string name="description.plus_one.commute_time_after.format">%1$s 일자리에서 여기까지</string>
+    <string name="description.plus_one.commute_time_before.format">여기서 %1$s 일자리까지</string>
+    <string name="description.regular">정기 일자리 : 정기적으로 가야 하는 일자리</string>
+    <string name="description.schedule">가능하신 일정을 입력해 주세요</string>
+    <string name="description.subway_exit.format">%1$s번 출구</string>
+    <string name="dialog.intercom.message">궁금한 내용을 적어주세요.</string>
+    <string name="dialog.intercom.not_service_time">"죄송합니다. 지금은 서비스 시간이 아닙니다.
+오전 9시에서 오후 10시 사이에 문의 해주세요."</string>
+    <string name="dialog.intercom.service_time">"조금만 기다려 주시면 안내 도와 드리겠습니다.
+감사합니다."</string>
+    <string name="dialog.message.apply">신청하시겠습니까?</string>
+    <string name="dialog.message.error.bad_request">이미 완료되었거나, 알 수 없는 에러가 발생하였습니다</string>
+    <string name="dialog.message.phone.format">"%1$s부터 %2$s까지
+연락처를 확인 할 수 있습니다."</string>
+    <string name="dialog.message.tomorrow">감사합니다. 확인 되었습니다.</string>
+    <string name="dialog.permissions.camera">[설정]>[권한]>[카메라],[저장] 권한을 변경해주세요.</string>
+    <string name="dialog.permissions.contacts">[설정]>[권한]>[연락처] 권한을 변경해주세요.</string>
+    <string name="dialog.permissions.deny">"권한을 거부 할 경우
+서비스를 이용 할 수 없습니다."</string>
+    <string name="dialog.permissions.location">[설정]>[권한]>[위치] 권한을 변경해주세요.</string>
+    <string name="dialog.title.complete_clean">청소가 끝났습니까?</string>
+    <string name="dialog.title.error.bad_request">작업을 완료하지 못했습니다</string>
+    <string name="dialog.title.tomorrow">일 가능하신가요?</string>
+    <string name="distance.description.format">%1$s에서 %2$s</string>
+    <string name="done">완료</string>
+    <string name="duration.format">%1$d 시간</string>
+    <string name="empty" />
+    <string name="end_of_service">끝내기</string>
+    <string name="error.empty_confirming">일정을 확인할 수 없습니다</string>
+    <string name="error.empty_deep_booking">주문을 확인 할 수 없습니다.</string>
+    <string name="error.empty_recommend_job">추천 일자리가 없습니다.</string>
+    <string name="error.empty_region">해당 지역의 일을 찾을 수 없습니다</string>
+    <string name="error.empty_won">완료된 일이 없습니다</string>
+    <string name="error.field_required">필수 항목입니다</string>
+    <string name="error.invalid_phone">잘못 입력하였습니다</string>
+    <string name="error.invisible_score">충분한 평점 없음</string>
+    <string name="error.map.null_position">지도를 불러 올 수 없습니다.</string>
+    <string name="error.no_service_time">서비스 날짜가 아닙니다</string>
+    <string name="error.unauthorized.alert.1">"미소에 등록하신 분이라면
+이름, 휴대폰 번호를 다시 확인하신 후 입력해주세요."</string>
+    <string name="error.unauthorized.alert.2">"미소가 처음이라면
+고객센터 전화하기를 눌러 전화주세요."</string>
+    <string name="error.unauthorized.alert.title">입력하신 정보가 없습니다</string>
+    <string name="error.unauthorized.format">%1$s (%2$s)님 확인할 수 없습니다</string>
+    <string name="error.unknown">알 수 없는 에러가 발생하였습니다.</string>
+    <string name="error.unknown.exception">"알 수 없는 에러가 발생하여,
+작업을 완료 할 수 없습니다."</string>
+    <string name="error.unknown.service_time">서비스 시간을 확인 할 수 없습니다.</string>
+    <string name="error.unknown_host">"인터넷에 연결 할 수 없습니다.
+인터넷 상태를 확인 해 주세요."</string>
+    <string name="error.unknown_host.simple">지금은 연결할 수 없습니다.</string>
+    <string name="facebook">페이스북</string>
+    <string name="failure">실패</string>
+    <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
+    <string name="filter.location.title">지역 선택</string>
+    <string name="filter.time.title">시간 선택</string>
+    <string name="filter.week.title">평일 &amp; 주말 선택</string>
+    <string name="finish">종료</string>
+    <string name="firebase_database_url">https://miso-mobile.firebaseio.com</string>
+    <string name="ga_trackingId">UA-66019150-3</string>
+    <string name="gcm_defaultSenderId">477634197864</string>
+    <string name="gcm_fallback_notification_channel_label">Miscellaneous</string>
+    <string name="google_api_key">AIzaSyByfBO0OdUHzMNMI8ZDhpyIwfqFJg4Sl8o</string>
+    <string name="google_app_id">1:477634197864:android:c2eb97d2d49e1301</string>
+    <string name="google_crash_reporting_api_key">AIzaSyByfBO0OdUHzMNMI8ZDhpyIwfqFJg4Sl8o</string>
+    <string name="google_maps_key">AIzaSyDyb6EKwYYVkKhX6fVbTJhHgHF2MihI5uI</string>
+    <string name="google_storage_bucket">miso-mobile.appspot.com</string>
+    <string name="gyeonggi">경기</string>
+    <string name="hint.name">홍길동</string>
+    <string name="hint.phone">01012345678</string>
+    <string name="hint.phone.invite_friend">친구의 전화번호를 입력해주세요.(예: 01012345678)</string>
+    <string name="hint.search_view.name">이름 검색하기</string>
+    <string name="home_size.format">%1$s평</string>
+    <string name="hour">시간</string>
+    <string name="hours">시간</string>
+    <string name="hours.format">%1$d시간</string>
+    <string name="incheon">인천</string>
+    <string name="intercom_access_photos">Access your photos</string>
+    <string name="intercom_active_15m_ago">Active in the last {minutes}m</string>
+    <string name="intercom_active_day_ago">Active {days}d ago</string>
+    <string name="intercom_active_hour_ago">Active {hours}h ago</string>
+    <string name="intercom_active_minute_ago">Active {minutes}m ago</string>
+    <string name="intercom_active_state">Active</string>
+    <string name="intercom_active_week_ago">Active over 1w ago</string>
+    <string name="intercom_allow_access">Allow access</string>
+    <string name="intercom_allow_storage_access">Please allow access to storage to see your photos</string>
+    <string name="intercom_also_in_this_conversation">Also in this conversation</string>
+    <string name="intercom_android_activated_message">Your Android app is now integrated with the Intercom platform</string>
+    <string name="intercom_app_settings">App settings</string>
+    <string name="intercom_article_load_error">"Couldn't load the article"</string>
+    <string name="intercom_article_question">Did this answer your question?</string>
+    <string name="intercom_article_response">You reacted with</string>
+    <string name="intercom_asked_about">Asked about</string>
+    <string name="intercom_away_state">Away</string>
+    <string name="intercom_cancel">Cancel</string>
+    <string name="intercom_close">Close</string>
+    <string name="intercom_composer_send">Send</string>
+    <string name="intercom_composer_send_button_content_description">Send button</string>
+    <string name="intercom_composer_tap_to_send">Tap to send an image</string>
+    <string name="intercom_congratulations">Congratulations</string>
+    <string name="intercom_connected">"You're connected"</string>
+    <string name="intercom_conversations">Conversations</string>
+    <string name="intercom_conversations_with_app">Conversations with {name}</string>
+    <string name="intercom_copied_to_clipboard">Copied to clipboard</string>
+    <string name="intercom_delivered">Delivered</string>
+    <string name="intercom_dismiss">Dismiss</string>
+    <string name="intercom_empty_conversations">No conversations with {name} yet</string>
+    <string name="intercom_error_loading_conversation">"Couldn't load the conversation"</string>
+    <string name="intercom_facebook_like">Like us on Facebook</string>
+    <string name="intercom_failed_delivery">"Couldn't deliver the message"</string>
+    <string name="intercom_failed_to_load_conversation">"Couldn't load your conversations"</string>
+    <string name="intercom_failed_to_send">"Couldn't send"</string>
+    <string name="intercom_file_access_failed">"Can't access that file"</string>
+    <string name="intercom_file_too_big">"Can't send files over 40MB"</string>
+    <string name="intercom_gcm_sender_id">477634197864</string>
+    <string name="intercom_gif_attribution">via {providername}</string>
+    <string name="intercom_gifs_load_error">"Couldn't load GIFs"</string>
+    <string name="intercom_go_to_device_settings">"To allow access, go to your device app settings' permissions menu"</string>
+    <string name="intercom_image_attached">(image attached)</string>
+    <string name="intercom_inbox_error_state_title">Something went wrong</string>
+    <string name="intercom_message_failed_try_again">"Couldn't send, tap to retry"</string>
+    <string name="intercom_message_seen">Seen</string>
+    <string name="intercom_message_state_sending">Sending…</string>
+    <string name="intercom_message_unseen">Not seen yet</string>
+    <string name="intercom_name_and_1_other">{name} and 1 other</string>
+    <string name="intercom_name_and_x_others">{name} and {count} others</string>
+    <string name="intercom_new_message">New message</string>
+    <string name="intercom_new_messages">You have {n} new messages</string>
+    <string name="intercom_new_notifications">New notifications</string>
+    <string name="intercom_no_conversations">No conversations</string>
+    <string name="intercom_no_gifs_found">No GIFs found</string>
+    <string name="intercom_no_gifs_matching_query">"We couldn't find any GIFs matching your query"</string>
+    <string name="intercom_no_network_connection">No network connection</string>
+    <string name="intercom_no_photos">No photos</string>
+    <string name="intercom_no_photos_on_device">There are no photos on this device</string>
+    <string name="intercom_not_now">Not now</string>
+    <string name="intercom_one_new_message">You have a new message</string>
+    <string name="intercom_photo_access_denied">You denied access to your photos</string>
+    <string name="intercom_plus_x_more">+{n} more</string>
+    <string name="intercom_profile_location">{time} in {location}</string>
+    <string name="intercom_rate_your_conversation">Rate your conversation</string>
+    <string name="intercom_reply_from_admin">Reply from {name}</string>
+    <string name="intercom_reply_to_conversation">Write a reply…</string>
+    <string name="intercom_retry">Retry</string>
+    <string name="intercom_search_gif">Search GIFs…</string>
+    <string name="intercom_send">Send</string>
+    <string name="intercom_start_conversation">Start a conversation…</string>
+    <string name="intercom_storage_access_request">To see your photos you need to allow access to storage</string>
+    <string name="intercom_tap_to_send_image">Tap to send an image</string>
+    <string name="intercom_teammate_from_company">{name} from {company}</string>
+    <string name="intercom_tell_us_more">Tell us more...</string>
+    <string name="intercom_thanks_for_letting_us_know">Thanks for letting us know</string>
+    <string name="intercom_time_day_ago">{delta}d ago</string>
+    <string name="intercom_time_hour_ago">{delta}h ago</string>
+    <string name="intercom_time_just_now">Just now</string>
+    <string name="intercom_time_minute_ago">{delta}m ago</string>
+    <string name="intercom_time_week_ago">{delta}w ago</string>
+    <string name="intercom_try_again_minute">Try again in a minute</string>
+    <string name="intercom_twitter_follow">Follow us on Twitter</string>
+    <string name="intercom_we_run_on_intercom">We run on Intercom</string>
+    <string name="intercom_you">You</string>
+    <string name="intercom_you_rated_the_conversation">You rated the conversation</string>
+    <string name="invite_friend">친구 소개하기</string>
+    <string name="invite_friend.apply">친구 연락처 등록</string>
+    <string name="invite_friend.description">많은 친구를 소개하고 많은 보상을 받으세요.</string>
+    <string name="invite_friend.description.camera">친구의 신분증을 찍어주세요.</string>
+    <string name="invite_friend.description.result">"감사합니다.
+담당자가 확인 후 친구분에게
+연락 드리겠습니다."</string>
+    <string name="invite_friend.kakao">카카오톡으로 소개</string>
+    <string name="invite_friend.more">더 많은 친구 소개</string>
+    <string name="invite_friend.multi.button">내 주소록에서 선택</string>
+    <string name="invite_friend.ok">소개하기</string>
+    <string name="invite_friend.selected.format">%1$d명 선택됨</string>
+    <string name="invite_friend.single.button">친구 연락처 입력</string>
+    <string name="invite_friend.title">친구를 소개해주세요.</string>
+    <string name="invite_friend.title.dialog">친구 소개 방법 선택</string>
+    <string name="invite_friend.wechat">WeChat 으로 소개</string>
+    <string name="invite_friend_complete.description.dialog">"친구분을 추천해 주셔서 감사합니다.r
+미소 등록을 위해 담당 매니저가 친구분께 연락 드리겠습니다."</string>
+    <string name="invite_friend_complete.title.dialog">친구 소개 완료</string>
+    <string name="job_detail">자세히 보기</string>
+    <string name="joda_time_android_date_time">%1$s, %2$s</string>
+    <string name="joda_time_android_preposition_for_date">on %s</string>
+    <string name="joda_time_android_preposition_for_time">at %s</string>
+    <string name="joda_time_android_relative_time">%1$s, %2$s</string>
+    <string name="join">지원하기</string>
+    <string name="kakao_app_key">8a2f74cf3924d850a9e0c0cde3dec463</string>
+    <string name="kakao_scheme">kakao8a2f74cf3924d850a9e0c0cde3dec463</string>
+    <string name="kakaolink_host">kakaolink</string>
+    <string name="label.appliances">가전 제품</string>
+    <string name="label.approximate_location">대략적인 위치</string>
+    <string name="label.booking_history">지난 내역 보기</string>
+    <string name="label.bundle_job">묶음 일자리</string>
+    <string name="label.commute_time">예상 이동시간</string>
+    <string name="label.customer_address">고객 주소</string>
+    <string name="label.customer_phone">고객 연락처</string>
+    <string name="label.customer_requests">고객 요청사항</string>
+    <string name="label.daily_wage">지급액</string>
+    <string name="label.directions_hint">가는 방법</string>
+    <string name="label.landmark">주요 지형지물</string>
+    <string name="label.latest_score">내가 받은 평점</string>
+    <string name="label.location">위치</string>
+    <string name="label.map_destination">목적지</string>
+    <string name="label.name">한글 이름을 입력해주세요</string>
+    <string name="label.name.friend">친구 이름(한글)을 입력해주세요</string>
+    <string name="label.phone">휴대폰 번호를 입력해주세요</string>
+    <string name="label.phone.friend">친구 번호를 입력해주세요</string>
+    <string name="label.regular_job">정기 일자리</string>
+    <string name="label.service_date">서비스 날짜</string>
+    <string name="label.service_date_time">날짜/시간</string>
+    <string name="label.service_schedule">정기일정 정보</string>
+    <string name="label.service_time">서비스 시간</string>
+    <string name="label.squares">집 평수</string>
+    <string name="label.total_count">일한 횟수</string>
+    <string name="label.total_wage">총 지급액</string>
+    <string name="large_text">"Material is the metaphor.
+
+ A material metaphor is the unifying theory of a rationalized space and a system of motion. The material is grounded in tactile reality, inspired by the study of paper and ink, yet  technologically advanced and open to imagination and magic.
+ Surfaces and edges of the material provide visual cues that are grounded in reality. The  use of familiar tactile attributes helps users quickly understand affordances. Yet the  flexibility of the material creates new affordances that supercede those in the physical  world, without breaking the rules of physics.
+ The fundamentals of light, surface, and movement are key to conveying how objects move,  interact, and exist in space and in relation to each other. Realistic lighting shows  seams, divides space, and indicates moving parts.
+
+ Bold, graphic, intentional.
+
+ The foundational elements of print based design typography, grids, space, scale, color,  and use of imagery guide visual treatments. These elements do far more than please the  eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge  imagery, large scale typography, and intentional white space create a bold and graphic  interface that immerse the user in the experience.
+ An emphasis on user actions makes core functionality immediately apparent and provides  waypoints for the user.
+
+ Motion provides meaning.
+
+ Motion respects and reinforces the user as the prime mover. Primary user actions are  inflection points that initiate motion, transforming the whole design.
+ All action takes place in a single environment. Objects are presented to the user without  breaking the continuity of experience even as they transform and reorganize.
+ Motion is meaningful and appropriate, serving to focus attention and maintain continuity.  Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.
+
+ 3D world.
+
+ The material environment is a 3D space, which means all objects have x, y, and z  dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the  positive z-axis extending towards the viewer. Every sheet of material occupies a single  position along the z-axis and has a standard 1dp thickness.
+ On the web, the z-axis is used for layering and not for perspective. The 3D world is  emulated by manipulating the y-axis.
+
+ Light and shadow.
+
+ Within the material environment, virtual lights illuminate the scene. Key lights create  directional shadows, while ambient light creates soft shadows from all angles.
+ Shadows in the material environment are cast by these two light sources. In Android  development, shadows occur when light sources are blocked by sheets of material at  various positions along the z-axis. On the web, shadows are depicted by manipulating the  y-axis only. The following example shows the card with a height of 6dp.
+
+ Resting elevation.
+
+ All material objects, regardless of size, have a resting elevation, or default elevation  that does not change. If an object changes elevation, it should return to its resting  elevation as soon as possible.
+
+ Component elevations.
+
+ The resting elevation for a component type is consistent across apps (e.g., FAB elevation  does not vary from 6dp in one app to 16dp in another app).
+ Components may have different resting elevations across platforms, depending on the depth  of the environment (e.g., TV has a greater depth than mobile or desktop).
+
+ Responsive elevation and dynamic elevation offsets.
+
+ Some component types have responsive elevation, meaning they change elevation in response  to user input (e.g., normal, focused, and pressed) or system events. These elevation  changes are consistently implemented using dynamic elevation offsets.
+ Dynamic elevation offsets are the goal elevation that a component moves towards, relative  to the component’s resting state. They ensure that elevation changes are consistent  across actions and component types. For example, all components that lift on press have  the same elevation change relative to their resting elevation.
+ Once the input event is completed or cancelled, the component will return to its resting  elevation.
+
+ Avoiding elevation interference.
+
+ Components with responsive elevations may encounter other components as they move between  their resting elevations and dynamic elevation offsets. Because material cannot pass  through other material, components avoid interfering with one another any number of ways,  whether on a per component basis or using the entire app layout.
+ On a component level, components can move or be removed before they cause interference.  For example, a floating action button (FAB) can disappear or move off screen before a  user picks up a card, or it can move if a snackbar appears.
+ On the layout level, design your app layout to minimize opportunities for interference.  For example, position the FAB to one side of stream of a cards so the FAB won’t interfere  when a user tries to pick up one of cards.
+
+"</string>
+    <string name="legal">서비스 약관</string>
+    <string name="map.destination">Destination</string>
+    <string name="map.direction">가는 길 보기</string>
+    <string name="map.direction.format">%1$s에서 가는 길 보기</string>
+    <string name="map.direction.format_2">%1$s 일자리에서 가는 길 보기</string>
+    <string name="map.landmark">Landmark</string>
+    <string name="map.my_location">My Location</string>
+    <string name="market_latest_version">업데이트 하시겠습니까?</string>
+    <string name="matching_detail">자세히 보기</string>
+    <string name="minute">분</string>
+    <string name="minutes">분</string>
+    <string name="miso">미소</string>
+    <string name="miso_en">miso</string>
+    <string name="month">월</string>
+    <string name="next">다음</string>
+    <string name="night">저녁</string>
+    <string name="none">없음</string>
+    <string name="ok">확인</string>
+    <string name="once">한번만</string>
+    <string name="others">기타</string>
+    <string name="password_toggle_content_description">Toggle password visibility</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="please_wait">잠시만 기다려 주세요…</string>
+    <string name="pm">오후</string>
+    <string name="privacy_policy">개인정보 보호정책</string>
+    <string name="profile">정보</string>
+    <string name="project_id">miso-mobile</string>
+    <string name="refresh">새로고침</string>
+    <string name="register">시작하기</string>
+    <string name="regular">정기</string>
+    <string name="s1">Save image</string>
+    <string name="s2">Allow Ad to store image in Picture gallery?</string>
+    <string name="s3">Accept</string>
+    <string name="s4">Decline</string>
+    <string name="s5">Create calendar event</string>
+    <string name="s6">Allow Ad to create a calendar event?</string>
+    <string name="s7">Test Ad</string>
+    <string name="schedule">스케쥴</string>
+    <string name="schedule.daily.format">%1$s주에 한 번 %2$s</string>
+    <string name="schedule.weekly.format">매주 %1$s</string>
+    <string name="schedule_input">자세히 보기</string>
+    <string name="search">검색</string>
+    <string name="search_menu_title">Search</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="seoul">서울</string>
+    <string name="service_center">고객 센터</string>
+    <string name="service_time.start.format">%1$s %2$d</string>
+    <string name="settings">설정</string>
+    <string name="show_more">더 보기</string>
+    <string name="skip">건너뛰기</string>
+    <string name="start">시작</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="subway.airport_railroad_line.short">공항</string>
+    <string name="subway.bundang_line.short">분당</string>
+    <string name="subway.ever_line.short">용인</string>
+    <string name="subway.gyeonggang_line.short">경강</string>
+    <string name="subway.gyeongui_jungang_line.short">경의</string>
+    <string name="subway.gyuongchun_line.short">경춘</string>
+    <string name="subway.incheon_line_1.short">인천1</string>
+    <string name="subway.incheon_line_2.short">인천2</string>
+    <string name="subway.seoul.line_1.short">1</string>
+    <string name="subway.seoul.line_2.short">2</string>
+    <string name="subway.seoul.line_3.short">3</string>
+    <string name="subway.seoul.line_4.short">4</string>
+    <string name="subway.seoul.line_5.short">5</string>
+    <string name="subway.seoul.line_6.short">6</string>
+    <string name="subway.seoul.line_7.short">7</string>
+    <string name="subway.seoul.line_8.short">8</string>
+    <string name="subway.seoul.line_9.short">9</string>
+    <string name="subway.shinbundang_line.short">신분당</string>
+    <string name="subway.suin_line.short">수인</string>
+    <string name="subway.ui_line.short">우의신실</string>
+    <string name="subway.uijeongbu_lrt_line.short">의정부</string>
+    <string name="support">문의하기</string>
+    <string name="terms_of_service">이용약관</string>
+    <string name="terms_of_service.description.format">다음을 누르시면 %1$s 동의로 간주합니다</string>
+    <string name="time">시간</string>
+    <string name="title.activity.apply">일 신청하기</string>
+    <string name="title.activity.booking_history">지난 내역</string>
+    <string name="title.activity.camera">사진 찍기</string>
+    <string name="title.activity.contacts">소개할 친구 선택</string>
+    <string name="title.activity.coverage">일자리 희망 지역</string>
+    <string name="title.activity.direction">가는 방법</string>
+    <string name="title.activity.exception">에러</string>
+    <string name="title.activity.filter">검색</string>
+    <string name="title.activity.http_error">서버 에러</string>
+    <string name="title.activity.input_invite_friend">친구 소개하기</string>
+    <string name="title.activity.input_schedule">일정 입력</string>
+    <string name="title.activity.job">일자리 목록</string>
+    <string name="title.activity.job_detail">자세히 보기</string>
+    <string name="title.activity.legal">서비스 약관</string>
+    <string name="title.activity.map">지도</string>
+    <string name="title.activity.matching_detail">자세히 보기</string>
+    <string name="title.activity.notification">알림</string>
+    <string name="title.activity.preview_image">미리 보기</string>
+    <string name="title.activity.profile">나의 정보</string>
+    <string name="title.activity.register">시작하기</string>
+    <string name="title.activity.result_invite_friend">친구 소개 성공</string>
+    <string name="title.activity.search_job">전체 일자리 보기</string>
+    <string name="title.activity.socket_timeout">에러</string>
+    <string name="title.activity.unknown_host">인터넷 연결 에러</string>
+    <string name="title.activity.view_larger">크게 보기</string>
+    <string name="title.activity.web_view">웹</string>
+    <string name="title.bundle">묶음 일자리</string>
+    <string name="title.fragment.appliances_Job">침대·가전 청소</string>
+    <string name="title.fragment.deep_job">이사 청소</string>
+    <string name="title.fragment.home_clean.am">오전 일자리</string>
+    <string name="title.fragment.home_clean.pm">오후 일자리</string>
+    <string name="title.fragment.invite_friend">친구 소개</string>
+    <string name="title.fragment.matching">나의 일정</string>
+    <string name="title.fragment.once_job">단기적 일자리</string>
+    <string name="title.fragment.profile">나의 정보</string>
+    <string name="title.fragment.recommend_job">추천 일자리</string>
+    <string name="title.fragment.regular_job">정기적 일자리</string>
+    <string name="title.regular">정기 일자리</string>
+    <string name="title.regular_bundle">정기 일자리 / 묶음 일자리</string>
+    <string name="to_call">전화하기</string>
+    <string name="toast.empty_matching">일이 없어, 목록 화면으로 이동 합니다</string>
+    <string name="tomorrow">내일</string>
+    <string name="total.count.format">%1$s회</string>
+    <string name="transferred.description">(단, 주말 및 법정공휴일은 다음 평일날 지급 됩니다.)</string>
+    <string name="transferred.failure_from.format">&lt;b>&lt;font color=#1082fc>[끝내기]&lt;/font>&lt;/b>는&lt;br/>&lt;b>%1$s&lt;/b>부터 가능합니다.</string>
+    <string name="transferred.failure_to.format">&lt;b>&lt;font color=#1082fc>[끝내기]&lt;/font>&lt;/b>는&lt;br/>&lt;b>%1$s&lt;/b>까지 가능합니다.</string>
+    <string name="transferred.paid">지급예정</string>
+    <string name="transferred.payment_completed">지급완료</string>
+    <string name="transferred.payment_completed.format">지급완료 (%1$s)</string>
+    <string name="transferred.subtitle">&lt;b>&lt;font color=#1082fc>오후 7시 이전&lt;/font>&lt;/b>에 &lt;b>&lt;font color=#1082fc>[끝내기]&lt;/font>&lt;/b> 누르셔야&lt;br/> 당일 지급됩니다.</string>
+    <string name="unavailable">불가능</string>
+    <string name="update_tutorial">업데이트 하는 방법 보기</string>
+    <string name="version.format">버전정보: %1$s</string>
+    <string name="warning.apply_bundle">묶음 일자리 입니다.</string>
+    <string name="warning.apply_regular">정기 일자리 입니다.</string>
+    <string name="warning.apply_regular_bundle">정기 일자리 / 묶음 일자리 입니다.</string>
+    <string name="warning.message.phone">30분 전에 확인 할 수 있습니다.</string>
+    <string name="weekday">월~금</string>
+    <string name="weekend">토~일</string>
+</resources>

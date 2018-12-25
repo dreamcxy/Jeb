@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LDWS/HUD</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Freesoft HUD</string>
+    <string name="title_activity_dialog">DialogActivity</string>
+    <string name="common_confirm">Confirm</string>
+    <string name="common_cancel">Cancel</string>
+    <string name="common_save">Save</string>
+    <string name="common_delete">Delete</string>
+    <string name="common_inquery">Inquery</string>
+    <string name="foreground_service_started">Forground service started</string>
+    <string name="main_gps_connection">Connecting the GPS. Please wait moment.</string>
+    <string name="main_gps_off">DB stores the GPS is turned off can not be Please turn on the GPS.</string>
+    <string name="main_ldws_btn_text">LDWS</string>
+    <string name="main_hud_btn_text">HUD</string>
+    <string name="main_driveinfo_btn_text">Drive Info</string>
+    <string name="main_driveloc_btn_text">Drive Route</string>
+    <string name="gps_alert_title">Setting GPS</string>
+    <string name="gps_alert_message">Please turn on the GPS.</string>
+    <string name="setup_title">Setting</string>
+    <string name="app_exit_title">Exit Application</string>
+    <string name="app_exit_msg">LDWS Are you sure you want to exit?</string>
+    <string name="basic_title">Basic Setting</string>
+    <string name="basic_setup_dialog_title">Complete</string>
+    <string name="basic_setup_dialog_msg">Changes have been saved.</string>
+    <string name="app_setup_title">Setting Application</string>
+    <string name="operation_date_dialog_title">Please select the driving info you want to view.</string>
+    <string name="operation_info">Driving Info</string>
+    <string name="no_operation_info">Do not have to query the driving info.</string>
+    <string name="no_operation_mail">The path information do not have.</string>
+    <string name="location_send_mail_info">"메일보내기 서비스는 프로버전을 구매하시면 사용하실 수 있습니다.
+ 프로버전을 구매하시겠습니까?"</string>
+    <string name="location_drive_info_txt">Driving Info</string>
+    <string name="location_send_mail_txt">Send to mail</string>
+    <string name="location_ctrl_title">Driving Route</string>
+    <string name="location_mail_subject">Driving directions file.</string>
+    <string name="location_mail_body">Driving date &amp; time :</string>
+    <string name="location_mail_desc">"Gpx file to verify
+ (1) Google Earth installed.
+ http://www.google.com/earth/index.html
+ (2) Google Earth is Running. File -> Open
+ Select Gpx file attached to the email."</string>
+    <string name="location_last_info">Do not have to query the driving route.</string>
+    <string name="map_key">0cwMfIX0WFnTUA7Z_kopFxmdDWNYhegWd7xk64w</string>
+    <string name="map_api2_key">AIzaSyAs8PQHMH2Yhd7nXXlsp6j8sBZemMYYYPo</string>
+    <string name="subtitle_txt">Setting Red Line</string>
+    <string name="speed_txt">Speed</string>
+    <string name="km_txt">Km</string>
+    <string name="accel_txt">Sudden Acceleration</string>
+    <string name="break_txt">Sudden Braking</string>
+    <string name="tired_txt">Fatigue Driving</string>
+    <string name="mileage">Fuel Economy</string>
+    <string name="mileage_unit">L/Km</string>
+    <string name="over_speed">Overspeed Sound</string>
+    <string name="listen_sound">Pre-listening</string>
+    <string name="redline_bottom_txt">"Smartphone's GPS information to set Red Line speed and figured out the Red Line speed is set by comparing the excess set to beep when station known as a safety service offering to help."</string>
+    <string name="redlint_setup_ok">Changes have been saved.</string>
+    <string name="mileage_set_num">"Please enter fuel economy value of the first decimal place only.
+ ex)00.0"</string>
+    <string name="toast_force_quit">Restart HUD Service.</string>
+    <string name="dialog_title">Notification</string>
+    <string name="dialog_basic_success">Basic setting has been changed.</string>
+    <string name="dialog_basic_fail">Failed to change the Basic settings.</string>
+    <string name="dialog_advanced_success">Advanced setting has been changed.</string>
+    <string name="dialog_advanced_fail">Failed to change the Advanced settings.</string>
+    <string name="progress_basic_setting_msg">Basic Settings Transfer.…</string>
+    <string name="progress_advanced_setting_msg">Advanced Settings Transfer.…</string>
+    <string name="app_set">Settings</string>
+    <string name="app_about">About</string>
+    <string name="speed_limit">Speed for searching</string>
+    <string name="vehicle_info">Vehicle Type</string>
+    <string name="install_pos">Installation Location</string>
+    <string name="install_pos_x">Installation Position :</string>
+    <string name="install_pos_y">Installation Height :</string>
+    <string name="sensitivity">Sensitivity</string>
+    <string name="alert_level">Alert Level</string>
+    <string name="alert_first_level">1st Alert Volume Level :</string>
+    <string name="alert_second_level">2nd Alert Volume Level :</string>
+    <string name="lane_draw">View of lanes</string>
+    <string name="company">Company :</string>
+    <string name="company_name">FreeSOFT(R)</string>
+    <string name="address">Address :</string>
+    <string name="address_val">1005-NA, BYC HighCity A BD, 371-17, Gasan-dong, Geumcheon-gu, Seoul, South Korea</string>
+    <string name="location">Location :</string>
+    <string name="location_val">Gasan Digital Complex Station on subway line 7 (exit 5)</string>
+    <string name="webpage">Web :</string>
+    <string name="webpage_val">http://www.freesoft.co.kr</string>
+    <string name="phone">Phone :</string>
+    <string name="phone_val">82-2-6947-5713</string>
+    <string name="business">Business :</string>
+    <string name="business_val">Vision Solution, Phone Application, Embedded Solution</string>
+</resources>

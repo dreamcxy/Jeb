@@ -1,0 +1,966 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
+    <string name="s1">Save image</string>
+    <string name="s2">Allow Ad to store image in Picture gallery?</string>
+    <string name="s3">Accept</string>
+    <string name="s4">Decline</string>
+    <string name="s5">Create calendar event</string>
+    <string name="s6">Allow Ad to create a calendar event?</string>
+    <string name="search_menu_title">Search</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="back_button_content_description">back</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="dialog_button_got_it">GOT IT</string>
+    <string name="dialog_button_open_help_center">OPEN HELP CENTER</string>
+    <string name="dialog_message_incompatible_phone">A Daydream-ready phone is required. Visit the Daydream Help Center for more information.</string>
+    <string name="dialog_message_no_cardboard">Get the Cardboard app in order to configure your viewer.</string>
+    <string name="dialog_title">Configure</string>
+    <string name="dialog_title_incompatible_phone">Incompatible phone</string>
+    <string name="dialog_title_vr_core_not_enabled">Setup required</string>
+    <string name="dialog_title_vr_core_not_installed">Install required</string>
+    <string name="dialog_title_warning">Warning</string>
+    <string name="dialog_vr_core_not_enabled">This application may not work properly without enabling Google VR Services, please enable this in phone Settings before continuing.</string>
+    <string name="dialog_vr_core_not_installed">This application may not work properly without Google VR Services. Please install Google VR Services from the Play Store before continuing.</string>
+    <string name="go_to_playstore_button">Go to the Play Store</string>
+    <string name="go_to_vr_listeners_settings_button">Go to Settings</string>
+    <string name="no_browser_text">No browser to open website</string>
+    <string name="place_your_phone_into_cardboard">Place your phone into your Cardboard viewer</string>
+    <string name="place_your_viewer_into_viewer_format">Place your phone into your %s viewer</string>
+    <string name="settings_button_content_description">settings</string>
+    <string name="setup_button">Setup</string>
+    <string name="switch_viewer_action">Switch</string>
+    <string name="switch_viewer_prompt">Using a different viewer?</string>
+    <string name="action_settings">Settings</string>
+    <string name="actionbar_back">Back</string>
+    <string name="actionbar_close">Close</string>
+    <string name="actionbar_finish">Finish</string>
+    <string name="actionbar_home">Home</string>
+    <string name="actionbar_next">Next</string>
+    <string name="actionbar_ok">OK</string>
+    <string name="actionbar_panoramic">Gallery</string>
+    <string name="actionbar_phone">Phone</string>
+    <string name="actionbar_profile">Profile</string>
+    <string name="actionbar_sdcard">SD</string>
+    <string name="actionbar_search">Search</string>
+    <string name="actionbar_settings">Settings</string>
+    <string name="actionbar_signin">Sign In</string>
+    <string name="actionbar_spherical">Spherical</string>
+    <string name="actionbar_tutorial">Tutorial</string>
+    <string name="audio">Audio</string>
+    <string name="autoclick_label">Autoclick</string>
+    <string name="channel_title_youku_360">Youku 360 channel</string>
+    <string name="channel_title_youku_3d">Fulldive Youku 3D channel</string>
+    <string name="channel_title_youtube_360">YouTube 360 channel</string>
+    <string name="channel_title_youtube_3d">Fulldive YouTube 3D channel</string>
+    <string name="continue_button">No, thanks. Maybe next time</string>
+    <string name="description">Description</string>
+    <string name="dont_ask_checkbox">"Don't ask again"</string>
+    <string name="empty">Empty</string>
+    <string name="empty_apps_list">EMPTY</string>
+    <string name="error_plugin_loaded">Plugin error</string>
+    <string name="hello_message">Click microphone and say something</string>
+    <string name="loading">Loading…</string>
+    <string name="market_additional_info">Additional Info</string>
+    <string name="market_additional_whatsnew">"What's New in V %s"</string>
+    <string name="market_default_subtitle">Trending</string>
+    <string name="market_install_text">"A download link is saved
+to your phone's notification center.
+Take your phone out of the headset
+when you are ready and go to your notification
+to find the download link.
+Feel free to keep browsing in Fulldive."</string>
+    <string name="market_install_title">Application install</string>
+    <string name="market_text2">Updated: %s</string>
+    <string name="market_title">VR APP MARKET</string>
+    <string name="menu_360_images">My 360 Photos</string>
+    <string name="menu_360_video">360 Channels</string>
+    <string name="menu_apps">My VR Apps</string>
+    <string name="menu_browser">Browser (Beta)</string>
+    <string name="menu_camera">LookOut (Beta)</string>
+    <string name="menu_gallery">My Photos</string>
+    <string name="menu_market">VR Market</string>
+    <string name="menu_video">My Videos</string>
+    <string name="menu_youtube">Youtube</string>
+    <string name="menu_youtube_3d">3D Videos</string>
+    <string name="message_permission_request">You need to grant access to:</string>
+    <string name="permission_camera">camera</string>
+    <string name="permission_internet">internet</string>
+    <string name="permission_network_state">network state</string>
+    <string name="permission_nfc">NFC</string>
+    <string name="permission_record_audio">record audio</string>
+    <string name="permission_storage">storage</string>
+    <string name="permission_vibrate">vibrate</string>
+    <string name="permission_wake_lock">wake lock</string>
+    <string name="permissions_negative">Close</string>
+    <string name="permissions_positive">Enable</string>
+    <string name="permissions_title">Permissions</string>
+    <string name="plugins_list_title">Select plugin</string>
+    <string name="profile_label_email">E-mail:</string>
+    <string name="profile_label_firstname">First name:</string>
+    <string name="profile_label_lastname">Last name:</string>
+    <string name="promo_message">Get 5% discount code to your email</string>
+    <string name="refresh">Refresh</string>
+    <string name="result_list_empty">No search results</string>
+    <string name="save">Save Link</string>
+    <string name="saved">Installed</string>
+    <string name="send_button">Send</string>
+    <string name="settings_title">Settings</string>
+    <string name="signin_browser_title">Sign In</string>
+    <string name="startup_hint1">Tilt your phone horizontally.</string>
+    <string name="startup_hint2">Place it centered inside your headset.</string>
+    <string name="startup_skip">Skip</string>
+    <string name="startup_title">SET UP</string>
+    <string name="title_360">360</string>
+    <string name="title_apps">APPS</string>
+    <string name="title_browser">BROWSER</string>
+    <string name="title_content">MY CONTENT</string>
+    <string name="title_fulldive">FULLDIVE</string>
+    <string name="title_images">IMAGES</string>
+    <string name="title_market">MARKET</string>
+    <string name="title_video">VIDEO</string>
+    <string name="touch_to_update">Click to update</string>
+    <string name="tutorial_activity_panel_title">"HOW DO YOU
+NAVIGATE?"</string>
+    <string name="tutorial_beta_text">"Our browser is not fully functional yet and bugs may occur.
+Stay tuned for our future updates!"</string>
+    <string name="tutorial_beta_title">OUR BROWSER IS IN BETA.</string>
+    <string name="tutorial_browser_text">"Click the address bar
+or search icon at the bottom to perform search."</string>
+    <string name="tutorial_browser_title">"HOW TO
+PERFORM SEARCH?"</string>
+    <string name="tutorial_camera_text">"Click once and wait for the snap sound.
+Autoclick is not supported for Lookout beta."</string>
+    <string name="tutorial_camera_title">"HOW TO
+TAKE A PICTURE?"</string>
+    <string name="tutorial_freeze_display">"Click the lock icon.
+Click again the lock icon to unlock."</string>
+    <string name="tutorial_freeze_title">"HOW TO
+LOCK THE SCREEN?"</string>
+    <string name="tutorial_keyboard_guide_title">KEYBOARD TUTORIAL</string>
+    <string name="tutorial_keyboard_hint">Keyboard guide</string>
+    <string name="tutorial_market_text">"We would like to welcome you
+to the VR market"</string>
+    <string name="tutorial_market_title">TO THE VR MARKET</string>
+    <string name="tutorial_market_welcome">WELCOME</string>
+    <string name="tutorial_photo_scroll_text">"Tilt your head sideways 
+to scroll between images."</string>
+    <string name="tutorial_photo_scroll_title">"HOW TO
+SCROLL IMAGES?"</string>
+    <string name="tutorial_player_control">"Click video navigation buttons
+located below the screen."</string>
+    <string name="tutorial_player_control_title">"HOW DO YOU
+CONTROL THE VIDEO PLAYER?"</string>
+    <string name="tutorial_shell_page1_text_magnet">"Aim at the headset
+above and click"</string>
+    <string name="tutorial_vrapps_text">"Tilt your head sideways or
+look down towards your feet
+to go back to Fulldive Launcher
+ while using other VR apps"</string>
+    <string name="tutorial_vrapps_title">"HOW TO GO BACK
+TO FULLDIVE?"</string>
+    <string name="video">Video</string>
+    <string name="video_list_title">Select video</string>
+    <string name="vrapps_title">My VR Apps</string>
+    <string name="listening">Listening…</string>
+    <string name="select_skybox">Choose a background</string>
+    <string name="tutorial_activity_panel_text">Look down to find navigation buttons.</string>
+    <string name="actionbar_add">Add</string>
+    <string name="actionbar_allow">Allow</string>
+    <string name="actionbar_cancel">Cancel</string>
+    <string name="actionbar_desktop_platform">Desktop</string>
+    <string name="actionbar_hide">Hide</string>
+    <string name="actionbar_mobile_platform">Mobile</string>
+    <string name="actionbar_recenter">Recenter</string>
+    <string name="actionbar_scene">Scene</string>
+    <string name="actionbar_upload_video">Upload</string>
+    <string name="auth_status_not_loaded">Please sign in to add bookmarks</string>
+    <string name="base_add_shortcut_dialog_message_no">No thanks</string>
+    <string name="base_add_shortcut_dialog_message_yes">Add icon</string>
+    <string name="base_cancel_title">Cancel</string>
+    <string name="base_congrats_button_title">Awesome!</string>
+    <string name="base_congrats_title">Congrats!</string>
+    <string name="base_continue_dialog_negative">Go Back</string>
+    <string name="base_continue_dialog_positive">Continue</string>
+    <string name="base_enter_name_hint">Your Full Name</string>
+    <string name="base_enter_name_title">Let us know who you are!</string>
+    <string name="base_enter_name_verify_button">Create Account</string>
+    <string name="base_exclusive_invite_info">"•  No Ads for the first 3 years
+•  Early access to new features
+•  Future founders-only rewards
+•  Founders forum access to talk to
+   the makers of Fulldive
+•  A Founder Badge if your friends
+   accepted your 2 invites"</string>
+    <string name="base_exclusive_invite_title">"You've just received 2 limited
+invites for your friends to
+become a Founder"</string>
+    <string name="base_flat_advise_message_1">"Stay in the loop with your friends
+with our new Fulldive Mobile app."</string>
+    <string name="base_flat_advise_message_2">"Fulldive Mobile will appear on your
+phone as an additional icon."</string>
+    <string name="base_flat_advise_mobile_button">Go to Fulldive Mobile</string>
+    <string name="base_flat_advise_title">Introducing Fulldive Mobile!</string>
+    <string name="base_flat_advise_vr_button">Maybe Later</string>
+    <string name="base_invite_later">Invite later</string>
+    <string name="base_not_all_permissions_enabled_message">You won’t be able to access all features in Fulldive unless you enable permissions. You can enable permissions later. Continue?</string>
+    <string name="base_ok_title">Ok</string>
+    <string name="base_onboarding_first_title">"Sync your favorite video channels,
+news, and interests in one spot"</string>
+    <string name="base_onboarding_second_title">"The best content based on what
+you and your friends love."</string>
+    <string name="base_onboarding_third_title">"Easily customize your sources
+and dive into the experience!"</string>
+    <string name="base_permission_camera_cause">for Fulldive Controller and Camera App</string>
+    <string name="base_permission_camera_title">Enable Camera</string>
+    <string name="base_permission_contacts_cause">so we can find your friends on Fulldive</string>
+    <string name="base_permission_contacts_title">Enable Access to Contacts</string>
+    <string name="base_permission_record_audio_cause">for voice input and commenting</string>
+    <string name="base_permission_record_audio_title">Enable Microphone</string>
+    <string name="base_permission_storage_cause">to view your phone videos and photos</string>
+    <string name="base_permission_storage_title">Enable Access to File Storage</string>
+    <string name="base_permissions_app_info_dialog_content">"You previously selected \"Don't ask again\". To edit your permissions, go to Application Info and tap \"Permissions\""</string>
+    <string name="base_permissions_app_info_dialog_title">Application Permissions</string>
+    <string name="base_popup_congrats_subtitle">"You just received your
+Founder’s Badge."</string>
+    <string name="base_popup_exclusive_subtitle">"Use your %s invites so your friends
+can join the Founders Group!"</string>
+    <string name="base_popup_exclusive_title">Enjoying Fulldive?</string>
+    <string name="base_register_enter_name_ok_button">OK</string>
+    <string name="base_register_your_name_placeholder">Your name</string>
+    <string name="base_request_camera_access">(requires camera access)</string>
+    <string name="base_share_link_button">Share Your Invite Link</string>
+    <string name="base_sign_in_subtitle">Your Favorite Content in One Place</string>
+    <string name="base_signin_phone_number">Sign in with Number</string>
+    <string name="base_startup_next_button">Next</string>
+    <string name="base_tutorial_subtitle">"Introducing controller that you can
+print and make easily at home."</string>
+    <string name="base_tutorial_tell_me_how_button">Tell Me How</string>
+    <string name="base_tutorial_title">"Print your own
+Fulldive Controller!"</string>
+    <string name="base_user_login_text">Your name is public on Fulldive.</string>
+    <string name="base_user_symbol_restricted">Names should not include any symbols.</string>
+    <string name="base_using_fulldive_controller_title">I’m using &lt;u>Fulldive Controller&lt;/u></string>
+    <string name="base_verifying_text">Checking your name…</string>
+    <string name="base_warning_dialog_title">Warning</string>
+    <string name="before_usage_policy_and_terms_of_use">By using our app, you agree to our</string>
+    <string name="between_usage_policy_and_terms_of_use">and</string>
+    <string name="bookmarks_tab_title_video">VIDEO</string>
+    <string name="bookmarks_tab_title_web_pages">WEB PAGES</string>
+    <string name="browse_vr_market">Browse VR Market</string>
+    <string name="buffering">Buffering…</string>
+    <string name="chars_left">%d chars left</string>
+    <string name="choose_a_scene">CHOOSE A SCENE</string>
+    <string name="clear_button">Clear</string>
+    <string name="click_for_friends_search">Click to search for all Fulldivers</string>
+    <string name="click_for_search">Click here to search</string>
+    <string name="click_to_close">Click to close</string>
+    <string name="click_to_voice_input_label">Click to Voice Input</string>
+    <string name="comments_empty">Empty</string>
+    <string name="comments_error">Error</string>
+    <string name="common_keyboard_label">Keyboard</string>
+    <string name="common_mic_label">Mic</string>
+    <string name="coub_videos">%S videos</string>
+    <string name="done_button">Done</string>
+    <string name="dummy_content">Download the full version of Fulldive for free.</string>
+    <string name="edit_deck">Edit</string>
+    <string name="empty_apps_list_message">"It seems like you currently don't have
+any VR apps installed on your device."</string>
+    <string name="empty_list_message">Empty menu</string>
+    <string name="enter_deck">ENTER DECK</string>
+    <string name="error_cant_send_comment">"Can't send comment. Please check internet. Try again?"</string>
+    <string name="error_coub">Error on loading coubs</string>
+    <string name="error_loading_menu_items">Error on loading items</string>
+    <string name="error_loading_video">Error on loading video</string>
+    <string name="error_loading_video_coub">Error on loading coub</string>
+    <string name="error_loading_web_pages">Error on loading web pages</string>
+    <string name="error_not_authorized">Not authorized</string>
+    <string name="events_public_deck_approved">Your deck \"%s\" is approved and now visible to other people on Fulldive!</string>
+    <string name="events_public_deck_rejected">Your deck \"%s\" is rejected</string>
+    <string name="events_public_deck_rejection_reason">for the following reason: %s</string>
+    <string name="events_public_deck_status" formatted="false">Status of your deck \"%s\" is %s</string>
+    <string name="events_user_reacted">Reacted to \"%s\"</string>
+    <string name="firebase_auth_code_for_number_title">Enter code for %s</string>
+    <string name="firebase_auth_enter_number_description">"Confirmation code will be sent by SMS. Message
+and data rates may apply. Your phone number is
+private on Fulldive."</string>
+    <string name="firebase_auth_enter_number_title">Enter your phone number</string>
+    <string name="firebase_auth_find_friend_checkbox_label">"Find my friends on Fulldive through
+my phone contacts."</string>
+    <string name="firebase_auth_internal_error">An internal error occurred. Please check your network connection.</string>
+    <string name="firebase_auth_name_already_exist_error">This username already exists</string>
+    <string name="firebase_auth_number_verify_button">Send Confirmation Code</string>
+    <string name="firebase_auth_phone_code_hint">Code</string>
+    <string name="firebase_auth_phone_code_verify_button">Confirm Phone Number</string>
+    <string name="firebase_auth_phone_number_hint">Your Number</string>
+    <string name="firebase_auth_phone_number_wrong_format_error">Please enter a valid phone number</string>
+    <string name="firebase_auth_sms_quota_error">Sms quota is exceeded. Try it later.</string>
+    <string name="firebase_auth_verifying_text">Verifying…</string>
+    <string name="firebase_auth_wrong_code_error">Please check your code and try again.</string>
+    <string name="flat_about_fragment_title">About</string>
+    <string name="flat_add_comment_button">Add Comment</string>
+    <string name="flat_add_comment_hint">Tap to Add a Comment</string>
+    <string name="flat_add_new_deck_button_title">+ Add New Deck</string>
+    <string name="flat_all_categories">All</string>
+    <string name="flat_all_decks">All Decks</string>
+    <string name="flat_all_sources">All Sources</string>
+    <string name="flat_all_sources_decks">All Sources &amp; Decks</string>
+    <string name="flat_article_read_more_button">Read More</string>
+    <string name="flat_arts_entertainment_category">Arts &amp; Entertainment</string>
+    <string name="flat_bad_connection_message">Seems like the connection is bad.</string>
+    <string name="flat_beauty_category">Beauty</string>
+    <string name="flat_bookmark_remove_dialog_message">This action cannot be undone.</string>
+    <string name="flat_bookmark_remove_dialog_title">Remove from Saves?</string>
+    <string name="flat_browse_by_category">Browse By Category</string>
+    <string name="flat_buddies_title">Buddies</string>
+    <string name="flat_buddy_unfollow_message">"Unfollowing means you will no longer see this person's activity.
+This person is still your follower."</string>
+    <string name="flat_business_category">Business</string>
+    <string name="flat_button_tryagain">Try Again</string>
+    <string name="flat_by_author">" by %s"</string>
+    <string name="flat_cancel_title">Cancel</string>
+    <string name="flat_choose_category">Choose a Category</string>
+    <string name="flat_comment_button_title">Comment</string>
+    <string name="flat_comments_empty">Be the first one to comment</string>
+    <string name="flat_comments_load_more_button">Load More</string>
+    <string name="flat_comments_message_hint">Write a message</string>
+    <string name="flat_comments_send_button">Send</string>
+    <string name="flat_comments_title">Comments</string>
+    <string name="flat_confirm">Confirm</string>
+    <string name="flat_confirm_deck">Confirm Deck</string>
+    <string name="flat_confirm_deck_sources_title">Sources(%s)</string>
+    <string name="flat_confirm_deck_title">Title</string>
+    <string name="flat_confirm_save_deck_before_leave">You have unsaved changes. Do you want to save before leaving?</string>
+    <string name="flat_confirm_save_deck_before_leave_no">Discard</string>
+    <string name="flat_confirm_save_deck_before_leave_title">Saved</string>
+    <string name="flat_confirm_save_deck_before_leave_yes">Save</string>
+    <string name="flat_confirmation_no">No</string>
+    <string name="flat_confirmation_yes">Yes</string>
+    <string name="flat_confrim_deck_add_more_sources">Add More Sources</string>
+    <string name="flat_connections_number">%s connections</string>
+    <string name="flat_copied_text">Link copied!</string>
+    <string name="flat_copy_button">Copy Link</string>
+    <string name="flat_create_deck_dialog_message">Creating deck</string>
+    <string name="flat_create_source_dialog_message">Adding new source to your deck</string>
+    <string name="flat_creating_deck_failed">An error occurred while creating your new deck. Please check your internet connection.</string>
+    <string name="flat_dark_theme_disabled">Dark theme is disabled!</string>
+    <string name="flat_dark_theme_enabled">Dark theme is enabled!</string>
+    <string name="flat_deck_approve_dialog_message">Our team will review your deck creation shortly. You will receive a notification when your deck is public!</string>
+    <string name="flat_deck_approve_dialog_title">Your deck is successfully submitted for approval.</string>
+    <string name="flat_deck_by_category">Decks By Category</string>
+    <string name="flat_deck_header_filter_button">Filter</string>
+    <string name="flat_deck_item_connection_more">See more</string>
+    <string name="flat_deck_item_connection_title">Views from Connections</string>
+    <string name="flat_deck_item_info_comments">%s Comments</string>
+    <string name="flat_deck_item_info_viewed_by_connections">Viewed by %s Connections</string>
+    <string name="flat_deck_item_share_button">Share</string>
+    <string name="flat_deck_item_share_text_edit_hint">Add a Message</string>
+    <string name="flat_deck_search_empty_result">There are currently no decks named “%s”.</string>
+    <string name="flat_deck_sources_count">%s Sources</string>
+    <string name="flat_deck_status_title">Sources | %s Left</string>
+    <string name="flat_deck_subtitle" formatted="false">%s Sources | %s</string>
+    <string name="flat_deck_was_deleted">%s was deleted. Tap to undo.</string>
+    <string name="flat_decks_by_category">Decks By Category</string>
+    <string name="flat_decks_request_error">Error in requesting deck</string>
+    <string name="flat_delete_deck">Delete deck</string>
+    <string name="flat_delete_deck_confirmation_dialog_message">Deleted decks cannot be recovered. This does not affect any decks made from this public deck.</string>
+    <string name="flat_delete_deck_confirmation_dialog_no">Go Back</string>
+    <string name="flat_delete_deck_confirmation_dialog_title">Delete this public Deck?</string>
+    <string name="flat_delete_deck_confirmation_dialog_yes">Delete</string>
+    <string name="flat_delete_deck_dialog_message">Deleting this deck</string>
+    <string name="flat_delete_private_deck_confirmation_dialog_message">Deleted decks cannot be recovered.</string>
+    <string name="flat_delete_private_deck_confirmation_dialog_title">Delete this Deck?</string>
+    <string name="flat_direct_share_button">Other Share Options</string>
+    <string name="flat_direct_share_title">Direct Share</string>
+    <string name="flat_done_button">Done</string>
+    <string name="flat_done_button_title">DONE</string>
+    <string name="flat_edi_deck">Edit Public Deck</string>
+    <string name="flat_edit_deck_dialog_message">Saving changes</string>
+    <string name="flat_edit_description_button">Edit Description</string>
+    <string name="flat_edit_dive_loading_dialog_message">Saving Deck</string>
+    <string name="flat_edit_dive_loading_dialog_title">Saving…</string>
+    <string name="flat_edit_dive_save_state_error">An error occurred while saving</string>
+    <string name="flat_edit_dive_save_state_ok">Your changes have been saved</string>
+    <string name="flat_edit_dive_title">Edit</string>
+    <string name="flat_editing_deck_failed">An error occurred while editing your deck. Please check your internet connection.</string>
+    <string name="flat_empty_feed_button">Invite Friends</string>
+    <string name="flat_empty_feed_title">Stay in the Loop with Friends</string>
+    <string name="flat_empty_web_search_title">Add the websites you want to Fulldive</string>
+    <string name="flat_error_loading_deck_preview">Loading error</string>
+    <string name="flat_error_loading_readable_article">An error occurred while loading the article. Please check your internet connection.</string>
+    <string name="flat_error_on_saving_article_message">An error occurred while saving the article</string>
+    <string name="flat_events_public_deck_status" formatted="false">Status of your deck \"%s\" is %s</string>
+    <string name="flat_events_user_commented">commented: %s</string>
+    <string name="flat_events_user_reacted" formatted="false">reacted %s to \"%s\"</string>
+    <string name="flat_events_user_reacted_and_other" formatted="false">&amp; %d reacted %s to \"%s\"</string>
+    <string name="flat_feed_added_message">RSS feeds successfully added</string>
+    <string name="flat_filter_by_category">Filter By Category</string>
+    <string name="flat_filter_decks">Filter Decks</string>
+    <string name="flat_filter_fragment_title">Filter</string>
+    <string name="flat_filter_most_reactions_button">Most Reactions</string>
+    <string name="flat_filter_most_recent_button">Most Recent</string>
+    <string name="flat_filter_most_viewed_button">Most Viewed</string>
+    <string name="flat_filter_reactions_title">Reactions</string>
+    <string name="flat_filter_reset_button">RESET</string>
+    <string name="flat_filter_sort_by_title">Sort By</string>
+    <string name="flat_filter_sources">Filter Sources</string>
+    <string name="flat_filter_sources_and_decks">Filter Sources and Decks</string>
+    <string name="flat_filtered_reactions_empty_list">There are no reactions here.</string>
+    <string name="flat_follow_button">Follow</string>
+    <string name="flat_followers_title">Followers</string>
+    <string name="flat_following_title">Following</string>
+    <string name="flat_following_unfollow_message">"Unfollowing means you will no longer see this person's activity."</string>
+    <string name="flat_food_category">Food</string>
+    <string name="flat_gaming_category">Gaming</string>
+    <string name="flat_general_search_button_title">Search All Fulldive</string>
+    <string name="flat_header_add_button">Add Deck</string>
+    <string name="flat_health_category">Health</string>
+    <string name="flat_home_tab_dive_title">DIVE</string>
+    <string name="flat_home_tab_feed_title">FEED</string>
+    <string name="flat_humor_memes_category">Humor &amp; memes</string>
+    <string name="flat_incompatible_sources_message">"Sorry. These sources aren't compatible in one deck"</string>
+    <string name="flat_individual_deck_menu_edit">EDIT</string>
+    <string name="flat_individual_deck_menu_grid">LIST</string>
+    <string name="flat_leave_comment_title">Leave a Comment</string>
+    <string name="flat_lifestyle_category">Lifestyle</string>
+    <string name="flat_limit_exceeded_message">To add this source, deselect another source.</string>
+    <string name="flat_loading_dialog_title">Loading…</string>
+    <string name="flat_loading_empty_items">Empty</string>
+    <string name="flat_loading_error_stub_message">There was an issue loading, please try again.</string>
+    <string name="flat_loading_items_error">More…</string>
+    <string name="flat_loading_more_items">Loading…</string>
+    <string name="flat_menu_search">Search</string>
+    <string name="flat_message_dialog_positive_button">GOT IT</string>
+    <string name="flat_more_button">More</string>
+    <string name="flat_more_filters_title">More Filters</string>
+    <string name="flat_navigation_bookmarks_item">Saves</string>
+    <string name="flat_navigation_invite_friends_item">Invite Friends</string>
+    <string name="flat_navigation_log_history_item">Log History</string>
+    <string name="flat_navigation_log_settings_item">Log Settings</string>
+    <string name="flat_navigation_manage_syncing_item">Manage Syncing</string>
+    <string name="flat_navigation_reactions_item">Reactions</string>
+    <string name="flat_navigation_settings_item">Settings</string>
+    <string name="flat_navigation_signin_title">Sign In</string>
+    <string name="flat_navigation_title">VR Mode</string>
+    <string name="flat_navigation_uploads_item">Uploads</string>
+    <string name="flat_navigation_your_circles_item">Your Circle</string>
+    <string name="flat_new_custom_deck">New Custom Deck</string>
+    <string name="flat_new_deck_all_presets_tab">All</string>
+    <string name="flat_new_deck_my_pubilc_decks_tab">My Public Decks</string>
+    <string name="flat_new_deck_title">New Deck</string>
+    <string name="flat_news_category">News</string>
+    <string name="flat_no_comment">Be the first to comment.</string>
+    <string name="flat_no_selected_sources_title">Select anything to start your custom deck</string>
+    <string name="flat_not_logged_in">Join Fulldive to see views from your connections</string>
+    <string name="flat_notifications_empty">Empty</string>
+    <string name="flat_notifications_follow_ask_message">asked to follow you</string>
+    <string name="flat_notifications_follow_back">Follow Back</string>
+    <string name="flat_notifications_follow_message">following %s</string>
+    <string name="flat_notifications_follow_okay">Okay</string>
+    <string name="flat_notifications_follow_you_message">is now following you</string>
+    <string name="flat_notifications_friendship_message">became your content buddy! See what %s is watching.</string>
+    <string name="flat_notifications_title">Notifications</string>
+    <string name="flat_nsfw_dialog_message">You will not be able to make this deck public to other people on Fulldive if it contains 1 or more NSFW sources, but you can still use it for yourself. All NSFW sources will appear with a dark background.</string>
+    <string name="flat_nsfw_dialog_title">You’re picking a NSFW source.</string>
+    <string name="flat_number_connections">%s connections</string>
+    <string name="flat_one_comment">1 Comment</string>
+    <string name="flat_open_in_browser_title">Open In Browser</string>
+    <string name="flat_other_reactions_empty_list">"%s hasn't reacted to anything yet"</string>
+    <string name="flat_permissions_app_info_dialog_content">Go to Application Info and tap \"Permissions\" to edit your permissions</string>
+    <string name="flat_permissions_app_info_dialog_title">Application Permissions</string>
+    <string name="flat_permissions_camera_explanation">for camera app and controller</string>
+    <string name="flat_permissions_camera_title">Camera</string>
+    <string name="flat_permissions_contacts_explanation">for finding friends</string>
+    <string name="flat_permissions_contacts_title">Contacts</string>
+    <string name="flat_permissions_dont_ask_again_message">"You selected \"Don't ask again\" before."</string>
+    <string name="flat_permissions_microphon_explanation">for voice input</string>
+    <string name="flat_permissions_microphon_title">Microphone</string>
+    <string name="flat_permissions_storage_explanation">for viewing Photos &amp; Videos</string>
+    <string name="flat_permissions_storage_title">Storage</string>
+    <string name="flat_player_2d">2D</string>
+    <string name="flat_player_3d_horizontal">3D Horizontal</string>
+    <string name="flat_player_3d_vertical">3D Vertical</string>
+    <string name="flat_player_video_mode">Video Mode</string>
+    <string name="flat_player_video_view_mode_title">Video View Mode</string>
+    <string name="flat_player_viewing_type_180">180°</string>
+    <string name="flat_player_viewing_type_270">270°</string>
+    <string name="flat_player_viewing_type_360">360°</string>
+    <string name="flat_player_viewing_type_flat">Flat</string>
+    <string name="flat_player_viewing_type_title">Viewing Type</string>
+    <string name="flat_politics_category">Politics</string>
+    <string name="flat_private_saves_empty_list">"You don’t have any private saves.
+Save the content you like privately
+so you can view it again later."</string>
+    <string name="flat_private_saves_fragment_title">Private Saves (%s)</string>
+    <string name="flat_prompt_swipe_resource_list">"Swipe left on each card
+to see more information!"</string>
+    <string name="flat_public_deck_promt">"Since your deck contains sensitive or offensive sources, we are unable to publish your deck to the public. However, you can still create the deck for yourself.
+
+To publish, remove sources with a dark background."</string>
+    <string name="flat_public_deck_publish_title">Also publish as a public deck</string>
+    <string name="flat_quality_button_title">Quality</string>
+    <string name="flat_react_title">React</string>
+    <string name="flat_reaction_button_title">Like</string>
+    <string name="flat_related_articles_title">Read Next</string>
+    <string name="flat_remove_button_title">Remove</string>
+    <string name="flat_removed_from_deck">Do you want to remove this Deck \"%s\"?</string>
+    <string name="flat_removing_deck_failed">An error occurred while removing your deck. Please check your internet connection.</string>
+    <string name="flat_report_button_title">Report</string>
+    <string name="flat_report_message">You just reported %s</string>
+    <string name="flat_resource_created_by_label">By</string>
+    <string name="flat_resource_reactions_count">%s reactions</string>
+    <string name="flat_resource_you_reacted">You reacted %s</string>
+    <string name="flat_respond_button">Respond</string>
+    <string name="flat_rss_count_title">%s RSS Feeds Found</string>
+    <string name="flat_rss_finding_progress">Finding…</string>
+    <string name="flat_rss_finding_prompt">"There are no RSS feeds here.
+RSS feeds are required for
+a source to be on Fulldive."</string>
+    <string name="flat_rss_search_fragment_title">RSS Search</string>
+    <string name="flat_rss_search_prompt_subtitle">Browse for RSS feeds to add a new source</string>
+    <string name="flat_rss_search_prompt_title">"Don't see a website?"</string>
+    <string name="flat_rss_select_feeds_button">Select Feeds</string>
+    <string name="flat_rss_web_search_empty_state">Navigate to a page with an RSS feed</string>
+    <string name="flat_save_button_title">Save</string>
+    <string name="flat_save_resource_error">An error occurred while saving.</string>
+    <string name="flat_save_resource_prompt">Post privately saved. Tap to view in profile.</string>
+    <string name="flat_saved_button_title">Saved</string>
+    <string name="flat_science_tech_category">Science &amp; Tech</string>
+    <string name="flat_search_empty">"No results found.
+Try searching another word."</string>
+    <string name="flat_search_empty_keyword">Search anything on Fulldive.</string>
+    <string name="flat_search_people_connection_amount">%s Connections</string>
+    <string name="flat_search_people_following_amount">%s following</string>
+    <string name="flat_search_people_reaction_amount">%s Reactions</string>
+    <string name="flat_search_tabs_title_content">Content</string>
+    <string name="flat_search_tabs_title_decks">Decks</string>
+    <string name="flat_search_tabs_title_people">People</string>
+    <string name="flat_search_tabs_title_top">Top</string>
+    <string name="flat_search_tabs_title_url">Web</string>
+    <string name="flat_search_tabs_title_web">Web</string>
+    <string name="flat_send_comment_failure">There was an error while commenting. Please try again.</string>
+    <string name="flat_send_comment_success">You have left a comment</string>
+    <string name="flat_settings_add_mobile_icon_title">Add Mobile icon on home screen</string>
+    <string name="flat_settings_add_vr_icon_title">Add VR icon on home screen</string>
+    <string name="flat_settings_comments_and_reactions_title">Comments and Reactions</string>
+    <string name="flat_settings_external_app_title">External App Notifications</string>
+    <string name="flat_settings_forum_title">Forum</string>
+    <string name="flat_settings_friend_requests_title">Friends Requests</string>
+    <string name="flat_settings_leave_feedback_title">Leave Feedback</string>
+    <string name="flat_settings_logout_title">Log out</string>
+    <string name="flat_settings_permissions_title">Permission</string>
+    <string name="flat_settings_privacy_policy_title">Privacy Policy</string>
+    <string name="flat_settings_push_notification_title">Push Notifications</string>
+    <string name="flat_settings_push_notifications_group_title">receive push notifications for</string>
+    <string name="flat_settings_title">Settings</string>
+    <string name="flat_share_dialog_message">Your post will be shared shortly</string>
+    <string name="flat_share_dialog_title">Sharing in Progress</string>
+    <string name="flat_share_title">Post to Social Media</string>
+    <string name="flat_signin_button">Sign Up for Fulldive</string>
+    <string name="flat_signin_fragment_title">Sign In</string>
+    <string name="flat_signin_message">Follow people and keep up to date on the best content!</string>
+    <string name="flat_social_category">Social</string>
+    <string name="flat_source_list_dialog_add_button">ADD TO DECK</string>
+    <string name="flat_source_list_dialog_cancel_button">CANCEL</string>
+    <string name="flat_source_list_dialog_title">Select RSS Feeds</string>
+    <string name="flat_source_search_empty_result">There are currently no sources named “%s”.</string>
+    <string name="flat_source_title">Visit Source</string>
+    <string name="flat_sources_by_category">Sources By Category</string>
+    <string name="flat_sources_left">%s Sources Left</string>
+    <string name="flat_sports_category">Sports</string>
+    <string name="flat_tab_reactions_title">Reactions</string>
+    <string name="flat_tab_uploads_title">Uploads</string>
+    <string name="flat_toolbar_search_explore_hint">Explore</string>
+    <string name="flat_toolbar_search_hint">Tap to Search</string>
+    <string name="flat_toolbar_search_source_hint">Search for Any Source</string>
+    <string name="flat_toolbar_search_type_url_hint">Search or type URL</string>
+    <string name="flat_top_decks">Top Decks</string>
+    <string name="flat_top_sources">Top Sources</string>
+    <string name="flat_top_urls">Top URLs</string>
+    <string name="flat_travel_category">Travel</string>
+    <string name="flat_trending_title">Trending</string>
+    <string name="flat_tutorial_feed_message">"Here, you can see
+what’s the most publically
+viewed content among
+people you’re following."</string>
+    <string name="flat_tutorial_feed_title">"Welcome to your
+Following feed!"</string>
+    <string name="flat_tutorial_home_1">"Tap here to access
+Fulldive browser to find
+even more awesome content"</string>
+    <string name="flat_tutorial_home_2">"Tap to add a new deck with your
+favorite content sources such as
+Buzzfeed.com or techcrunch.com"</string>
+    <string name="flat_tutorial_home_3">Switch to the Feed tab to discover what’s popular among your connections.</string>
+    <string name="flat_tutorial_last_page_text">(Tap Screen to Finish)</string>
+    <string name="flat_tutorial_next_button">GOT IT!</string>
+    <string name="flat_tutorial_next_text">(Tap Screen to Continue)</string>
+    <string name="flat_tutorial_resource_list">"Swipe left on each card
+to see more information!"</string>
+    <string name="flat_unfollow_title">Unfollow</string>
+    <string name="flat_view_all">View all</string>
+    <string name="flat_view_more">View more</string>
+    <string name="flat_views">%s views</string>
+    <string name="flat_web_flat_label">Find New Website Online</string>
+    <string name="flat_webview_rss_search_back">Back</string>
+    <string name="flat_webview_rss_search_exit">Exit</string>
+    <string name="flat_webview_rss_search_forward">Forward</string>
+    <string name="flat_webview_rss_search_refresh">Refresh</string>
+    <string name="flat_your_circle_empty_buddies_list">"You don't have any buddies yet.
+ Invite your friends to join Fulldive!"</string>
+    <string name="flat_your_circle_empty_followers_list">"You don't have any followers yet."</string>
+    <string name="flat_your_circle_empty_following_list">"You haven't followed anyone yet.
+ Start by following people you like!"</string>
+    <string name="flat_your_circle_empty_search_message" formatted="false">"This user isn't among your %s,
+try %s or search all Fulldive"</string>
+    <string name="flat_your_circle_search_hint">Search Your Circle</string>
+    <string name="flat_your_circle_title">Your Circle</string>
+    <string name="flat_your_deck_title">Your Decks</string>
+    <string name="flat_your_reactions_empty_list">"You haven’t reacted to anything.
+React to content and we will save
+your reacted content here."</string>
+    <string name="friends_empty">No friends</string>
+    <string name="friends_error">Error on loading friends list</string>
+    <string name="friends_error_profile">Please sign in</string>
+    <string name="hint_short_comment">Your message must be longer than 2 characters!</string>
+    <string name="install_button">Install Fulldive</string>
+    <string name="installed_apps_title">ADD VR APPS</string>
+    <string name="main_cancel_button_title">Cancel</string>
+    <string name="main_daydream_tutorial_text_1">"Press the trackpad on the controller
+to perform a click"</string>
+    <string name="main_daydream_tutorial_text_2">"Press and hold the home button
+to recenter your view"</string>
+    <string name="main_daydream_tutorial_text_3">"Press the up or down buttons on the side
+of your Daydream controller to adjust volume"</string>
+    <string name="main_daydream_tutorial_text_4">"Swipe your thumb on the trackpad
+to perform scrolling when you hover over a window"</string>
+    <string name="main_daydream_tutorial_title_1">PERFORM A CLICK</string>
+    <string name="main_daydream_tutorial_title_2">RECENTER</string>
+    <string name="main_daydream_tutorial_title_3">ADJUST VOLUME</string>
+    <string name="main_daydream_tutorial_title_4">SCROLLING</string>
+    <string name="main_empty_label_bookmarks_text">"It seems like you haven't bookmarked anything"</string>
+    <string name="main_empty_label_log_history_text">"It seems like you haven't watched anything"</string>
+    <string name="main_empty_label_reactions_other_text">"It seems like %s hasn't reacted to anything"</string>
+    <string name="main_empty_label_reactions_you_text">"It seems like you haven't reacted to anything"</string>
+    <string name="main_empty_label_uploads_other_text">"It seems like %s hasn't uploaded anything"</string>
+    <string name="main_empty_label_uploads_you_text">"It seems like you haven't uploaded anything"</string>
+    <string name="main_exit_vr_button_title">Exit VR Now</string>
+    <string name="main_facebook_provider_error_message">"You can't use this facebook account. It belongs to another Fulldive user. Please, try to enter another facebook account."</string>
+    <string name="main_feed_comments">%d comments</string>
+    <string name="main_feed_empty">Empty</string>
+    <string name="main_feed_error">Error on loading feed</string>
+    <string name="main_feed_second_title" formatted="false">%s | Viewed by %d connections</string>
+    <string name="main_feed_tab_title">FEED</string>
+    <string name="main_feed_viewed_by">Viewed by %s</string>
+    <string name="main_follow_ask_message">asked to follow you</string>
+    <string name="main_follow_back">Follow Back</string>
+    <string name="main_follow_button_title">Follow</string>
+    <string name="main_follow_okay">Okay</string>
+    <string name="main_follow_you_message">is now follow you</string>
+    <string name="main_following_button_title">Following</string>
+    <string name="main_following_message">You are following %s</string>
+    <string name="main_local_video_tab_title">FILES</string>
+    <string name="main_log_history_you_viewed">You viewed</string>
+    <string name="main_lookout_with_controllers_message">Sorry. You cannot use \"LookOut\" application and QR controllers together</string>
+    <string name="main_menu_vimeo">Vimeo</string>
+    <string name="main_new_items_count">NEW</string>
+    <string name="main_number_connections">%s connections</string>
+    <string name="main_page_coubs">Main page coubs</string>
+    <string name="main_profile_connections">Connections</string>
+    <string name="main_profile_label_you">you</string>
+    <string name="main_remote_video_tab_title">DIVE</string>
+    <string name="main_scene_exit_vr_message_1">"1. To enter Fulldive Mobile, remove
+your phone from the headset"</string>
+    <string name="main_scene_exit_vr_message_2">"2. Then, tap on the X on the
+corner of your screen"</string>
+    <string name="main_scene_exit_vr_title">"Access
+Fulldive Mobile"</string>
+    <string name="main_settings_click_with_headset">Click with headset</string>
+    <string name="main_settings_click_with_magnet">Click with magnet</string>
+    <string name="main_successful_upload_message">Your video \"%s\" is successfully uploaded</string>
+    <string name="main_tab_buddies">Buddies</string>
+    <string name="main_tab_followers">Followers</string>
+    <string name="main_tab_following">Following</string>
+    <string name="main_tutorial_exit_vr_message_1">"1. When you’re ready to leave VR,
+Remove phone from headset"</string>
+    <string name="main_tutorial_exit_vr_message_2">"2. Tap on the X on your screen
+to go back to Fulldive Mobile"</string>
+    <string name="main_tutorial_exit_vr_title">HOW TO EXIT VR?</string>
+    <string name="main_unfollow_button_title">Unfollow</string>
+    <string name="main_unfollow_question">Unfollow %s?</string>
+    <string name="main_vimeo_app_title">Vimeo 360</string>
+    <string name="market_search_button">Search</string>
+    <string name="menu_coub">Coub (Beta)</string>
+    <string name="menu_editors_choice">"Editor's Choice"</string>
+    <string name="menu_fulldive">Fulldive Mobile</string>
+    <string name="menu_youku_360_video">Youku 360</string>
+    <string name="menu_youku_3d_video">Youku 3D</string>
+    <string name="menu_youku_plain_video">Youku Video</string>
+    <string name="my_decks">MY DECKS</string>
+    <string name="my_decks_lower">My decks</string>
+    <string name="network_error">"Connection error.
+Click to update"</string>
+    <string name="no_authorized_error">Please sign in</string>
+    <string name="notification_text">Click to install</string>
+    <string name="notifications_empty">No notifications</string>
+    <string name="notifications_error">Error on loading notifications</string>
+    <string name="notifications_error_profile">Please sign in</string>
+    <string name="permission_dialog_text">To access this feature, please, grant permissions</string>
+    <string name="permission_dialog_title">Warning</string>
+    <string name="permission_require_button">Request permissions</string>
+    <string name="permission_required">You need to request permissions for getting videos on your phone</string>
+    <string name="permissions_apps_list">"Camera LookOut
+Keyboard
+MyPhotos &amp; MyVideos"</string>
+    <string name="permissions_apps_list_daydream">"Keyboard
+MyPhotos &amp; MyVideos"</string>
+    <string name="permissions_dialogue_text">You should get permissions to access this feature</string>
+    <string name="permissions_dialogue_title">Warning</string>
+    <string name="permissions_message">"For the best experience in Fulldive VR,
+please enable the following permissions."</string>
+    <string name="permissions_message_postscript">(You can change these later)</string>
+    <string name="permissions_message_single_app">Fulldive would like access to the following permissions to work correctly</string>
+    <string name="permissions_policy">&lt;u>Privacy Policies&lt;/u></string>
+    <string name="proceed_button">Not now</string>
+    <string name="profile_bookmarks">Bookmarks</string>
+    <string name="profile_favorited_count">Favorited %d videos</string>
+    <string name="profile_friends">Friends</string>
+    <string name="profile_log_history">Log History</string>
+    <string name="profile_logout">Logout</string>
+    <string name="profile_reactions">Reactions</string>
+    <string name="profile_signout">Sign Out</string>
+    <string name="profile_upload">Upload</string>
+    <string name="profile_uploads">Uploads</string>
+    <string name="rate_cancel">NOT NOW</string>
+    <string name="rate_comment">Comment</string>
+    <string name="rate_feedback_received">Thank you for your feedback!</string>
+    <string name="rate_message">Do you like Fulldive?</string>
+    <string name="rate_message_negative">"If there is anything you don't like, please let us know so we can fix the problem. Thank you :)"</string>
+    <string name="rate_submit">SUBMIT</string>
+    <string name="rate_title">Rate our App!</string>
+    <string name="recommendations_comments">COMMENTS</string>
+    <string name="recommendations_replay">Replay</string>
+    <string name="recommendations_watch_next">WATCH NEXT</string>
+    <string name="recommendations_write_a_comment">Write a Comment</string>
+    <string name="recommendations_you_just_watched">YOU JUST WATCHED</string>
+    <string name="settings_adult_content">PG13 content</string>
+    <string name="settings_scene_distance">Zoom:</string>
+    <string name="settings_scene_max_distance">Min</string>
+    <string name="settings_scene_min_distance">Max</string>
+    <string name="settings_screen_glowing">Show glowing around video</string>
+    <string name="shell_internal_error">Internal error is occur</string>
+    <string name="shell_name_already_exist_error">This username already exists</string>
+    <string name="shell_phone_code_hint">Code</string>
+    <string name="shell_phone_code_verify_button">Verify</string>
+    <string name="shell_phone_number_hint">Your phone number</string>
+    <string name="shell_phone_number_verify_button">Request code</string>
+    <string name="shell_phone_number_wrong_format_error">Please enter a valid phone number</string>
+    <string name="shell_sms_quota_error">Sms quota is exceeded. Try it later</string>
+    <string name="shell_wrong_code_error">Wrong code</string>
+    <string name="signin_facebook">Sign in with Facebook</string>
+    <string name="signin_hint">Sign in to save all your favorite videos, follow friends, and leave comments</string>
+    <string name="signin_tutorial_message_center">Exit Fulldive</string>
+    <string name="signin_tutorial_message_left">"Take your phone out
+of your VR headset"</string>
+    <string name="signin_tutorial_message_right">"Reopen Fulldive and
+complete sign in"</string>
+    <string name="signin_tutorial_pretitle">Profile</string>
+    <string name="signin_tutorial_title">Please sign in to Fulldive</string>
+    <string name="social_click_for_search">Click for search</string>
+    <string name="social_deck_item_info_comments">%s Comments</string>
+    <string name="social_deck_item_info_viewed_by_connections">Viewed by %s Connections</string>
+    <string name="social_feed_deck_description">Based on views from friends</string>
+    <string name="social_feed_deck_title">Popular with Your Friends</string>
+    <string name="social_like">Like</string>
+    <string name="social_no_comment">Be the first to comment.</string>
+    <string name="social_resource_created_by_label">By</string>
+    <string name="social_search_button">Search</string>
+    <string name="social_search_empty">Search list is empty</string>
+    <string name="social_search_error">Search error</string>
+    <string name="social_trending_deck_description">Based on views from all users</string>
+    <string name="social_trending_deck_title">Trending Everywhere</string>
+    <string name="social_views">%s views</string>
+    <string name="speak_now_label">Speak Now…</string>
+    <string name="startup_forum">Forum</string>
+    <string name="submit_button">Submit</string>
+    <string name="subtitle_fulldive">Imagine Better</string>
+    <string name="timeline_no_comments">Click here to leave a timed comment.</string>
+    <string name="title_featured_apps">Featured</string>
+    <string name="title_following">FOLLOWING</string>
+    <string name="title_friends">YOUR CIRCLE</string>
+    <string name="title_keyboard">Keyboard</string>
+    <string name="title_me">ME</string>
+    <string name="title_microphone">Mic</string>
+    <string name="title_mode">MODE</string>
+    <string name="title_permission">Permissions</string>
+    <string name="title_public">PUBLIC</string>
+    <string name="title_streams_menu">SELECT QUALITY</string>
+    <string name="title_warning">Warning!</string>
+    <string name="tutorial_360_3D_text">"Get a great experience with FullDive's video player
+with full 3D video. Use those buttons for
+view's mode switching."</string>
+    <string name="tutorial_360_3D_title">"360 VIDEO
+COULD BE 3D"</string>
+    <string name="tutorial_shell_page1_text_no_magnet">"Aim at the headse
+above to autoclick"</string>
+    <string name="tutorial_shell_page1_title_1">HOW DO YOU CLICK?</string>
+    <string name="tutorial_shell_page1_title_magnet">Have a clicker?</string>
+    <string name="tutorial_shell_page1_title_no_magnet">"Don't have a clicker?"</string>
+    <string name="tutorial_switch_360_3d_text">"If you see a weird split screen on the top and bottom
+please change view mode by clicking on those icons."</string>
+    <string name="tutorial_switch_360_3d_title">"HOW TO SWITCH
+VIEW MODE"</string>
+    <string name="upload_360_videos_button">360 videos</string>
+    <string name="upload_albums_button">Albums</string>
+    <string name="upload_all_videos_button">All videos</string>
+    <string name="upload_back_to_albums_button">Back to Albums</string>
+    <string name="upload_message_attention">* Please do not quit the app during the upload *</string>
+    <string name="upload_message_button">Back to Profile</string>
+    <string name="upload_message_text">"You file is currently being uploaded.
+Meanwhile, feel free to browse around Fulldive.
+We will notify you when the upload is done"</string>
+    <string name="upload_message_title">HOORAY!</string>
+    <string name="upload_notification_error">The video %s has failed to upload</string>
+    <string name="upload_notification_progress_text">Uploading %s in progress</string>
+    <string name="upload_notification_successfully">The video %s has uploaded successfully</string>
+    <string name="upload_notification_title">Uploading video to facebook</string>
+    <string name="upload_preview_is_360_checkbox">This is 360 video</string>
+    <string name="upload_preview_publish_button">Publish</string>
+    <string name="upload_preview_submitting">Submitting…</string>
+    <string name="upload_preview_title_default">Click to Add Title</string>
+    <string name="upload_preview_title_label">Title</string>
+    <string name="upload_preview_title_remark">Your post will be hosted on Facebook</string>
+    <string name="upload_scene_title">PHONE</string>
+    <string name="upload_tutorial_message">This file you upload will be hosted on Facebook</string>
+    <string name="upload_tutorial_message_2">"To have your uploaded content searchable to other Fulldive users,
+make sure your upload privacy is set to public."</string>
+    <string name="upload_tutorial_title">HOSTING FILES</string>
+    <string name="upload_tutorial_title_2">UPLOAD FILES</string>
+    <string name="usage_policy">&lt;u>Terms of Use&lt;/u></string>
+    <string name="video_hd">HD</string>
+    <string name="video_hide">HIDE</string>
+    <string name="video_hud_mode">HUD</string>
+    <string name="video_lock_mode">Lock</string>
+    <string name="video_mode">MODE</string>
+    <string name="video_normal_mode">Normal</string>
+    <string name="video_recognition_process">Video type recognition in process…</string>
+    <string name="video_search_button">Search</string>
+    <string name="video_theater_mode">Theater</string>
+    <string name="video_video">Video</string>
+    <string name="video_videos">videos</string>
+    <string name="common_skybox_loading_finished">Background loading finished</string>
+    <string name="common_skybox_loading_progress">%d%% background loaded</string>
+    <string name="common_skybox_loading_started">Background loading started</string>
+    <string name="CHECK_SHELL">false</string>
+    <string name="LOGSON">false</string>
+    <string name="STAGE">false</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="app_name_flat">Fulldive Mobile</string>
+    <string name="app_name_vr">Fulldive VR</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="base_add_shortcut_dialog_message_flat">Add flat launcher icon to your home screen?</string>
+    <string name="base_add_shortcut_dialog_message_vr">Add vr launcher icon to your home screen?</string>
+    <string name="base_exclusive_invite_subtitle">"As one of our first users in Fulldive you are
+now part of the Fulldive Founders Group.
+Invite your friends to join the Founders
+Group before we end the program!
+
+
+Founders will get special benefits such as:"</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="com.crashlytics.android.build_id">6e00f4e5-1dd3-4f60-8078-4a5dcbfac7d9</string>
+    <string name="default_web_client_id">254410647594-be428ste4nn82l8337sd15p26sb84ro3.apps.googleusercontent.com</string>
+    <string name="events_user_commented" formatted="false">%s | %s</string>
+    <string name="firebase_database_url">https://full-dive-co.firebaseio.com</string>
+    <string name="flat_dark_theme">dark_theme</string>
+    <string name="flat_invite_friends_as_voyager_info">"Dear Fulldive Voyager,
+
+Thank you for your commitment
+to Fulldive. With your help, we
+are able to provide you great
+content. Continue inviting to get
+even better content!"</string>
+    <string name="flat_invite_friends_as_voyager_title">Fulldive is better with friends</string>
+    <string name="flat_light_theme">flat_light_theme</string>
+    <string name="flat_resource_other_reacted">Reacted %s</string>
+    <string name="flurry_api_key">C8XWCJ3TDPXQNJ6FRWWG</string>
+    <string name="ga_trackingId">UA-61298944-3</string>
+    <string name="gcm_defaultSenderId">254410647594</string>
+    <string name="google_api_key">AIzaSyC3aXTBMn8ZUW3dpkYdfszSaOZN0-AJDas</string>
+    <string name="google_app_id">1:254410647594:android:d49e3cd3adeb4612</string>
+    <string name="google_crash_reporting_api_key">AIzaSyC3aXTBMn8ZUW3dpkYdfszSaOZN0-AJDas</string>
+    <string name="google_storage_bucket">full-dive-co.appspot.com</string>
+    <string name="gvr_vr_mode_component">com.google.vr.vrcore/com.google.vr.vrcore.common.VrCoreListenerService</string>
+    <string name="intent_fulldive_mode_mobile">mobile</string>
+    <string name="intent_fulldive_mode_mobile_login">mobile_login</string>
+    <string name="intent_fulldive_mode_vr">vr</string>
+    <string name="key_firebase_dark_theme_enabled">dark_theme_enabled</string>
+    <string name="key_firebase_feedback_link">feedback_link</string>
+    <string name="key_intent_fulldive_mode">fulldive_mode</string>
+    <string name="key_intent_open_permissions">open_permissions_on_start</string>
+    <string name="key_intent_permissions_skip">permissions_skip</string>
+    <string name="key_intent_rate_dialog_skip">rate_dialog_skip</string>
+    <string name="key_intent_show_back_arrow">show_back_arrow</string>
+    <string name="key_push_notifications_all">push_notifications_all</string>
+    <string name="key_push_notifications_comment_and_reactions">push_notifications_comments_and_reactions</string>
+    <string name="key_push_notifications_external_app">push_notifications_external_app</string>
+    <string name="key_push_notifications_friend_requests">push_notifications_friend_requests</string>
+    <string name="main_facebook_provider_error_code">providers/account-used-by-another-user</string>
+    <string name="password_toggle_content_description">Toggle password visibility</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="twitter_key">E59PYZZpZs3f1VpvXCjOqQLM1</string>
+    <string name="twitter_secret">iNsVJaujr6N6AiwymYAkxobwFCXzpzmEzNSETDA4sGqkugxZ5p</string>
+    <string name="vimeo_client_id">709c3d73ab02030785b3aec54e9d448a7c9fdd2c</string>
+    <string name="vimeo_secret">vd0jho0qKBeEQlLcAukS9x5YIcHoTw23iLihgmJT4PBX36dBwAD6BTHkZ4/4U4N/Z+Xwffva0HI4ohya6vYdczoDOSlHOSz/bPzVXF/YylVumKbvnadyZyYXZb/Kk36D</string>
+</resources>

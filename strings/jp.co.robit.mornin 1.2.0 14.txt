@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="app_attention_title">Note on use</string>
+    <string name="app_break_title">When you thought failure...</string>
+    <string name="app_company_title">Company</string>
+    <string name="app_init_action_desc">"To reconnect after initialization, please click on Reset button of the mornin' device."</string>
+    <string name="app_init_action_ok">Initialization</string>
+    <string name="app_init_action_title">Initialize Application</string>
+    <string name="app_init_title">Initialize Application</string>
+    <string name="app_name">"mornin'"</string>
+    <string name="app_opinion_title">Send request or complaint</string>
+    <string name="app_privacy_policy_title">Privacy Policy</string>
+    <string name="app_qa_title">FAQ</string>
+    <string name="app_regulatory_title">Regulatory</string>
+    <string name="app_terms_title">Terms of Use</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="cancel">Cancel</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="chicken_arrow">Opening Direction</string>
+    <string name="chicken_bed_room">Bed Room</string>
+    <string name="chicken_connect_new">"Connect to the new mornin'."</string>
+    <string name="chicken_could_not_add_new">"Has reached the maximum number of pairs of mornin' pairing."</string>
+    <string name="chicken_delete_confirm_desc">"It won't be able to operate if you delete mornin'."</string>
+    <string name="chicken_delete_confirm_title">"Delete this mornin' settings."</string>
+    <string name="chicken_delete_settings">"Delete this mornin' settings"</string>
+    <string name="chicken_device">"mornin'"</string>
+    <string name="chicken_duration_format">%dsec</string>
+    <string name="chicken_edit_duration_check">Check the number of seconds to open/close.</string>
+    <string name="chicken_edit_duration_error_over">Please enter an integer below 250.</string>
+    <string name="chicken_edit_duration_error_under">Please enter an integer greater than 10.</string>
+    <string name="chicken_edit_duration_page_desc">"This is the time working set by timer. 
+It is recommended that you set the amount of time from the state in which the curtain is closed until the curtain as possible open."</string>
+    <string name="chicken_edit_duration_page_title">"Select the time which mornin' moves"</string>
+    <string name="chicken_edit_duration_title">Operating time</string>
+    <string name="chicken_edit_fw_has_update_desc">%1$s (Has update)</string>
+    <string name="chicken_edit_fw_no_update_desc">%1$s</string>
+    <string name="chicken_edit_fw_title">Firmware</string>
+    <string name="chicken_edit_icon_desc">"Select the icon of this mornin'."</string>
+    <string name="chicken_edit_icon_title">Icon</string>
+    <string name="chicken_edit_movement_desc">"● This condition can be improved by increasing mornin' power."</string>
+    <string name="chicken_edit_movement_high">High</string>
+    <string name="chicken_edit_movement_influence_desc">"・it is available to make a heavy curtain move.
+・The open/close speed is up.
+・The sound of working becomes bigger."</string>
+    <string name="chicken_edit_movement_influence_title">What happens if it is power up？</string>
+    <string name="chicken_edit_movement_low">Low</string>
+    <string name="chicken_edit_movement_page_title">"Select the mornin' power"</string>
+    <string name="chicken_edit_movement_power">Power</string>
+    <string name="chicken_edit_movement_settings">Power settings</string>
+    <string name="chicken_edit_movement_title">Operating power</string>
+    <string name="chicken_edit_name_desc">"You can enter the mornin' name."</string>
+    <string name="chicken_edit_name_hint">ex) Bedroom</string>
+    <string name="chicken_edit_name_title">Name</string>
+    <string name="chicken_edit_not_reversed_title">It was returned to the original operation</string>
+    <string name="chicken_edit_position_left_desc">Open to the left</string>
+    <string name="chicken_edit_position_right_desc">Open to the right</string>
+    <string name="chicken_edit_position_title">Curtain opening direction</string>
+    <string name="chicken_edit_reverse_action"><u>Move opposite side：Switch direction</u></string>
+    <string name="chicken_edit_reverse_desc">"Check mornin' operation if the direction is correct operation."</string>
+    <string name="chicken_edit_reversed_title">"The mornin' operation was reveresed."</string>
+    <string name="chicken_edit_saved">Settings are saved</string>
+    <string name="chicken_edit_set_duration">Set moving duration</string>
+    <string name="chicken_edit_set_movement">Set moving power</string>
+    <string name="chicken_icon_add">Add</string>
+    <string name="chicken_list_connected">Connected</string>
+    <string name="chicken_list_connecting">Searching ...</string>
+    <string name="chicken_list_disconnected">Not connected</string>
+    <string name="chicken_list_has_firmware_update">There is a firmware update.</string>
+    <string name="chicken_list_invalid_pairing">Connection setting has been disabled.</string>
+    <string name="chicken_list_less_battery">Battery level is low.</string>
+    <string name="chicken_list_not_connected_yet">It has never been connected.</string>
+    <string name="chicken_lounge">Living Room</string>
+    <string name="chicken_move_test_end_action">Finish trying</string>
+    <string name="chicken_move_test_title">"Check mornin' power"</string>
+    <string name="chicken_nursery">Nursery</string>
+    <string name="chicken_receive_qr">Read the shared code.</string>
+    <string name="chicken_statuses">"mornin' status"</string>
+    <string name="chicken_valid_name_empty">Please enter the name.</string>
+    <string name="chicken_valid_name_over_length">Name is too long.</string>
+    <string name="close">Close</string>
+    <string name="com.crashlytics.android.build_id">a2425177-b4f7-4818-86ac-bd4bc38b947e</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="default_web_client_id">768291461716-mth3s9dtmod8tppanu6ac33m6obm877f.apps.googleusercontent.com</string>
+    <string name="delete">Delete</string>
+    <string name="dfu_action_abort">Abort</string>
+    <string name="dfu_status_aborted">Aborted</string>
+    <string name="dfu_status_aborted_msg">Application upload has been canceled.</string>
+    <string name="dfu_status_aborting">Aborting…</string>
+    <string name="dfu_status_completed">Done</string>
+    <string name="dfu_status_completed_msg">Application has been sent successfully.</string>
+    <string name="dfu_status_connecting">Connecting…</string>
+    <string name="dfu_status_connecting_msg">Connecting to %s…</string>
+    <string name="dfu_status_disconnecting">Disconnecting…</string>
+    <string name="dfu_status_disconnecting_msg">Disconnecting from %s…</string>
+    <string name="dfu_status_error">Upload failed</string>
+    <string name="dfu_status_error_msg">DFU process failed.</string>
+    <string name="dfu_status_initializing">Initializing…</string>
+    <string name="dfu_status_starting">Starting DFU…</string>
+    <string name="dfu_status_starting_msg">Initializing DFU process…</string>
+    <string name="dfu_status_switching_to_dfu">Starting bootloader…</string>
+    <string name="dfu_status_switching_to_dfu_msg">Waiting for bootloader…</string>
+    <string name="dfu_status_uploading">Uploading…</string>
+    <string name="dfu_status_uploading_msg">Transmitting firmware to %s…</string>
+    <string name="dfu_status_uploading_part" formatted="false">Uploading part %d/%d…</string>
+    <string name="dfu_status_validating">Validating…</string>
+    <string name="dfu_status_validating_msg">Validating…</string>
+    <string name="dfu_unknown_name">unnamed device</string>
+    <string name="dialog_action_later">Later</string>
+    <string name="dialog_add_new_chicken">"Connect to the new mornin'."</string>
+    <string name="dialog_add_new_chicken_action">"Add new mornin'"</string>
+    <string name="dialog_attention_important">DO NOT TOUCH rubber part.</string>
+    <string name="dialog_attention_reason">It causes injuries and troubles.</string>
+    <string name="dialog_attention_title">Attention</string>
+    <string name="dialog_firmware_update_continue">Continue</string>
+    <string name="dialog_firmware_update_desc">Update the firmware.</string>
+    <string name="dialog_firmware_update_note">"If you do not upadate mornin'
+ there is a risk that is no longer available."</string>
+    <string name="dialog_firmware_update_now">Update now</string>
+    <string name="dialog_firmware_update_time">※Time: 1min</string>
+    <string name="dialog_firmware_update_title">There is a new firmware</string>
+    <string name="dialog_firmware_update_with_less_battery_desc">"It is recommended to replace mornin' battery before performing firmware update. Are you sure you want to update without changing the battery?"</string>
+    <string name="dialog_firmware_update_with_less_battery_title">The battery is running low.</string>
+    <string name="dialog_hi_speed_mode_desc">"Once you turn on the high speed mode
+ it works for remote controller"</string>
+    <string name="dialog_hi_speed_mode_title">what is High speed？</string>
+    <string name="dialog_motor_protection_enabled_detail">Please change the power to 4 or less when it stops immediately after operating with power of 5 or higher.</string>
+    <string name="dialog_motor_protection_enabled_title">The motor protection function will be enabled</string>
+    <string name="dialog_movement_set_now">Settings</string>
+    <string name="dialog_movement_settings_desc">"Adjust mornin' power 
+ have a great morning"</string>
+    <string name="dialog_movement_settings_title">Hit for wake up comfotbably</string>
+    <string name="dialog_receive_sharing_code">Read the shared code.</string>
+    <string name="dialog_remocon_usage_title">The way to use remote controller</string>
+    <string name="dialog_select_sharing_chickens_title">"Select the sharing mornin'"</string>
+    <string name="dialog_select_target_chickens_desc">"Want to use one mornin' with several mornin' connection…
+Remove check on mornin'"</string>
+    <string name="dialog_select_target_chickens_tap">Tap</string>
+    <string name="drawer_accessibility_close">Close the menu.</string>
+    <string name="drawer_accessibility_open">Open the menu.</string>
+    <string name="edit">Edit</string>
+    <string name="error_bluetooth_state_off_detail">Please turn on Bluetooth and try again.</string>
+    <string name="error_bluetooth_state_off_title">Bluetooth is turned OFF</string>
+    <string name="error_chicken_not_exist_detail">"Remove the setting of mornin', please register again ."</string>
+    <string name="error_chicken_not_exist_title">"mornin' setting is broken"</string>
+    <string name="error_device_not_connected_detail">"Please confirm that it is not at a distance from the mornin', or there is no smartphone that is connected to the other."</string>
+    <string name="error_device_not_connected_title">"mornin' device is not connected"</string>
+    <string name="error_device_permission_error_detail">"Please to connect or disconnect the battery of the mornin'. Please press the reset switch If you still do not resolve ."</string>
+    <string name="error_device_permission_error_title">"There was an error in the mornin'"</string>
+    <string name="error_device_working_in_progress_detail">Please try again a while later.</string>
+    <string name="error_device_working_in_progress_title">Connnection fail</string>
+    <string name="error_dfu_error_detail_fmt">"It takes a few minutes to reconnect. 
+Error code: %1$d"</string>
+    <string name="error_dfu_error_title">The updated firmfare was failed</string>
+    <string name="error_empty_chicken_target_detail">"Select the object of the mornin', please try again ."</string>
+    <string name="error_empty_chicken_target_title">"mornin' has not been selected"</string>
+    <string name="error_firmware_not_exist_detail">Please try again a while later.</string>
+    <string name="error_firmware_not_exist_title">The Firmware acquisition was failed</string>
+    <string name="error_invalid_time_detail">Please delete or edit the time of the timer .</string>
+    <string name="error_invalid_time_title">Timer is broken</string>
+    <string name="error_location_not_granted_detail">Due to Android specifications, permission for location information is required for Bluetooth communication. Please grant it and try again.</string>
+    <string name="error_location_not_granted_title">Location information is invalid</string>
+    <string name="error_location_off_detail">"Due to Android specifications, you need to turn on location information to connect with mornin'. Please enable it and try again."</string>
+    <string name="error_location_off_title">Location information is turned off</string>
+    <string name="error_no_timer_vacancy_in_local_detail">If you create timer more, present timer needs to be deleted</string>
+    <string name="error_no_timer_vacancy_in_local_title">You can not create a timer more</string>
+    <string name="error_no_timer_vacancy_on_chicken_detail">"If you want to create a new timer , you need to remove or disable the timer from the target of the mornin'."</string>
+    <string name="error_no_timer_vacancy_on_chicken_title">You can not register timer more</string>
+    <string name="error_not_enough_interval_firing_non_repeat_timer_detail">Please try again a while later.</string>
+    <string name="error_not_enough_interval_firing_non_repeat_timer_title">Could not set the timer near in moving time.</string>
+    <string name="error_recovery_chicken_not_found_detail">"Please confirm whether lamp of the mornin' is flashing speady."</string>
+    <string name="error_recovery_chicken_not_found_title">Chicken for recovery not found</string>
+    <string name="error_same_timer_already_saved_detail">It is not possible to set up multiple timers of the same time and conditions .</string>
+    <string name="error_same_timer_already_saved_title">Timer of the same time and conditions have already been set</string>
+    <string name="error_sharing_ck2_version_detail">"Please use the mornin' plus app."</string>
+    <string name="error_sharing_ck2_version_title">"It's a sharing code for mornin' plus"</string>
+    <string name="error_sharing_empty_chicken_detail">"Please select one or more mornin'."</string>
+    <string name="error_sharing_empty_chicken_title">"No shareable mornin'"</string>
+    <string name="error_sharing_empty_sendable_chicken_detail">"Register new mornin' devices from [mornin' settings]."</string>
+    <string name="error_sharing_empty_sendable_chicken_title">"Empty mornin' devices"</string>
+    <string name="error_sharing_invalid_data_detail">"Read the sharing code which is created in the mornin' app"</string>
+    <string name="error_sharing_invalid_data_title">Unables to read this QR code</string>
+    <string name="error_sharing_not_convertible_detail">Please try again a shared source and sharer of the app up to date .</string>
+    <string name="error_sharing_not_convertible_title">This is the sharing code of the incompatible version</string>
+    <string name="error_sharing_over_chickens_detail">"Delete mornin' setting or reduce shared mornin'."</string>
+    <string name="error_sharing_over_chickens_title">"Registrable mornin' is up to 4"</string>
+    <string name="error_sharing_program_error_title">Error has been occurred in the share term</string>
+    <string name="error_sharing_timeout_data_detail">Create shring code again.</string>
+    <string name="error_sharing_timeout_data_title">Received code is expired.</string>
+    <string name="error_sharing_unexpected_title">An error has been occurred in the sharing.</string>
+    <string name="error_timeout_detail">Please try again a while later.</string>
+    <string name="error_timeout_title">Operation timed out</string>
+    <string name="error_timer_not_exist_detail">Please delete the timer .</string>
+    <string name="error_timer_not_exist_title">Timer is broken</string>
+    <string name="error_timer_permission_error_detail">Duplicated timer, or the amount of saved timer reached limit.</string>
+    <string name="error_timer_permission_error_title">Timer save was failed</string>
+    <string name="error_timer_target_not_exist_detail">Please delete the timer .</string>
+    <string name="error_timer_target_not_exist_title">Timer is broken</string>
+    <string name="error_unexpected_detail">Please try again a while later.</string>
+    <string name="error_unexpected_title">Error was occurred</string>
+    <string name="firebase_database_url">https://chicken-3007f.firebaseio.com</string>
+    <string name="firmware_cancel_recovering">Cancel repairing</string>
+    <string name="firmware_cancel_updating">Cancel Update</string>
+    <string name="firmware_confirm_cancel">Do you really cancel it？</string>
+    <string name="firmware_info_has_update">"Firmware update has been found.
+Version: %1$s"</string>
+    <string name="firmware_info_has_update_desc">"Please renew the firmware.
+※It takes 1 minute."</string>
+    <string name="firmware_info_is_latest">"This mornin' has no firmware update.
+Version: %1$s"</string>
+    <string name="firmware_info_title">Firmware</string>
+    <string name="firmware_less_battery_desc">"Please replace the batteries in the mornin' before updating the firmware."</string>
+    <string name="firmware_less_battery_title">The battery level is low.</string>
+    <string name="firmware_recover_it">Recover</string>
+    <string name="firmware_recovered_desc">Recovery works completely.</string>
+    <string name="firmware_recovered_title">Recovery completed.</string>
+    <string name="firmware_recovering_note">"Please do not touch mornin' until the repairing is finished"</string>
+    <string name="firmware_recovering_title">Recovering...</string>
+    <string name="firmware_update_continue">Continue</string>
+    <string name="firmware_update_it">Update</string>
+    <string name="firmware_update_with_less_battery">"The battery level is low. Please replace the batteries in the mornin' before updating the firmware."</string>
+    <string name="firmware_updated_title">Firmware update was completed successfully.</string>
+    <string name="firmware_updating_note">"Please wait without touching the app and the mornin' until the update is completed in this state."</string>
+    <string name="firmware_updating_title">Updating...</string>
+    <string name="gcm_defaultSenderId">768291461716</string>
+    <string name="google_api_key">AIzaSyBZ39mY06abi2-Q3hbhSUhyR2sZ318uLpI</string>
+    <string name="google_app_id">1:768291461716:android:9d2596427abdc5ff</string>
+    <string name="google_crash_reporting_api_key">AIzaSyBZ39mY06abi2-Q3hbhSUhyR2sZ318uLpI</string>
+    <string name="google_storage_bucket">chicken-3007f.appspot.com</string>
+    <string name="left">Left</string>
+    <string name="location_denied_message">Due to Android specifications, permission for location information is required for Bluetooth communication.</string>
+    <string name="location_permission_allow">Allow</string>
+    <string name="location_permission_disallow">Disallow</string>
+    <string name="location_permission_info">"In order to connect mornin', 
+please turn on location access permission."</string>
+    <string name="location_permission_question">"Whether to allow mornin' to use the location information of this phone?"</string>
+    <string name="location_permission_reason">Location information is necessary for using Bluetooth.</string>
+    <string name="next">Next</string>
+    <string name="no_data">--</string>
+    <string name="ok">OK</string>
+    <string name="pager_title_remocon">Controller</string>
+    <string name="pager_title_timer">Timer</string>
+    <string name="password_toggle_content_description">Toggle password visibility</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="permission_name_camera">Camera</string>
+    <string name="permission_name_location">Location information</string>
+    <string name="permission_set_up">Set up</string>
+    <string name="privacy_policy_detail">"Robit Inc. (hereinafter referred to as \\the company\\) strongly recognizes the importance of protecting personal information and strives to protect personal information based on the following policy. 
+Everyone using the smartphone application \\mornin'\\ (hereinafter referred to as \\this application\\) and services related to this application (hereinafter \\this service\\) provided by the Company shall be dealt with as follows.
+
+1. Definition
+In this privacy policy, \\personal information\\ is information on living individuals as referred to in the Personal Information Protection Law, and it is based on the name, address, telephone number, e-mail address and other descriptions included in the information, What can recognize an individual (including those that can be easily collated with other information, thereby identifying a specific individual).
+
+2. Collection of Personal Information
+We will obtain personal information by lawful and fair means. 
+When collecting personal information, we will notify or announce the purpose of use in advance.
+
+3. Use of personal information
+The Company shall be able to use the collected personal information for the following purposes. In addition, if you can not provide information, we may not be able to use all or part of this application and this service. 
+• Information on the operation of our site · application · service · system, improvement of convenience and announcement etc. 
+• After service, complaints correspondence 
+• Development of new services, new functions 
+• Unable to identify user Providing matching advertisements in the form 
+• Investigation, statistics, analysis of marketing data 
+• System maintenance and troubleshooting 
+• Identity verification, calculation of charges, billing and misappropriation etc. 
+• Other correspondence etc. to inquiries etc.
+
+4. Provision of information
+Based on the Personal Information Protection Law, we will not provide collected personal information, etc. in advance to third parties without obtaining their consent. 
+However, this does not apply if it falls under each of the following items. 
+• In the case of disclosing or providing to third parties such as affiliated parties that can not identify or identify individuals obtained by aggregation, analysis, etc. 
+• When delegating all or part of the work to be done by the Company to third parties to third parties to achieve the purpose of use.
+• When disclosure is permitted by law. 
+• A warrant issued by a court or other case to disclose based on a court decision, order or law. 
+• When necessary for the exercise of our rights. 
+• Inquiries about lawful and appropriate information from the prosecution, police and regulatory agencies. 
+• In cases where it is necessary for the protection of human life, body or wealth, and it is difficult to obtain the consent of the person himself / herself. 
+• When disclosing to an insurance company for insurance claims. 
+• In the case where the divestment of business related to this service, business divestiture such as company split, etc. are carried out and all rights and obligations are legally handed over to the transfer destination.
+
+5. Handling of personal information such as link destination
+In this application, if a link to an external site is affixed, the personal information registered at this external site can not bear any responsibility as it is not information managed by the Company. 
+When you register personal information on the external site, please check the privacy policy of that site.
+
+6. Management system
+In order to prevent unauthorized access, theft, loss, destruction, destruction, tampering, disposal, leakage, etc. of all personal information, we take necessary preventive and corrective measures and manage it appropriately. 
+In the case of delegating the processing of personal information to a third party, we will sign a contract stipulating the protection of personal information and manage and supervise proper management.
+
+7. Maintenance of accuracy
+We will endeavor to keep accurate and meticulous contents of users' personal information, etc. to the extent necessary for achieving purpose of use.
+
+8. Queries, etc.
+When the user is requested to inquire, correct, add, delete, or stop the use of personal information of the user, the Company has confirmed that it is an inquiry or the like by the person himself / herself after confirming the identity In case, we will respond promptly to the same inquiries etc.
+
+9. Revision
+The content of this privacy policy may be changed without notice. 
+When a change has occurred, we will inform you to the user by posting it in this application, and the change will take effect when posting the changed privacy policy.
+
+[Contact regarding the handling of personal information]
+Robit Inc. Contact Us
+info@robit.co.jp
+
+Established March 7, 2016"</string>
+    <string name="recovery_about_desc">If there is no reaction after changing battery or there is not an application, please try to use repair.</string>
+    <string name="recovery_about_title">"About mornin' recovery."</string>
+    <string name="recovery_blinking_check_desc">Replace the battery the remaining amount is still good, please be sure you have a high-speed flashing. （fie times flashin per one second）</string>
+    <string name="recovery_blinking_check_title">"Is mornin' lamp flashing fast？"</string>
+    <string name="recovery_find_desc">"Looking for repairable mornin'. When the mornin' light starts flashing quickly, press Next."</string>
+    <string name="recovery_find_failed_desc">"Please check whether mornin' is being repaired mode and execute the repair function again."</string>
+    <string name="recovery_find_failed_title">"Could not find any repairable mornin'."</string>
+    <string name="recovery_find_title">"Seaching for repaiable mornin'"</string>
+    <string name="recovery_finding_desc">"Control repairblae mornin' neaby. And If you have a manual fast flashing, the state will last for one minute ."</string>
+    <string name="recovery_finding_title">"Searching for repairable mornin'"</string>
+    <string name="recovery_found_desc">It takes about 1 minute.</string>
+    <string name="recovery_found_title">"Found mornin' of recovery mode."</string>
+    <string name="recovery_mode_title">"mornin' recovery"</string>
+    <string name="recovery_not_blinking">Not flashing fast</string>
+    <string name="recovery_not_blinking_desc">"Please remove the battery of mornin', please push the reset button and insert the batteries. The mornin' device's lamp begins to blink fast."</string>
+    <string name="recovery_not_blinking_title">In case of manual blinking fast.</string>
+    <string name="recovery_title">"mornin' recovery"</string>
+    <string name="right">Right</string>
+    <string name="save">Save</string>
+    <string name="search_menu_title">Search</string>
+    <string name="sec">sec</string>
+    <string name="settings">Settings</string>
+    <string name="share_about_desc">"You can share the settings of the mornin' to other smartphone"</string>
+    <string name="share_about_help">"Sharing doesn't work"</string>
+    <string name="share_about_note">*It is not possible to take over a note of the timer .</string>
+    <string name="share_create_code">Create a shared code</string>
+    <string name="share_flow_1_action">Step 1. Create sharing code</string>
+    <string name="share_flow_1_title">Step 1. Operation for sharing sender app.</string>
+    <string name="share_flow_2_action">Step 2. Read sharing code</string>
+    <string name="share_flow_2_desc">Please press the button below to read the sharing code.</string>
+    <string name="share_flow_2_desc_important">"When you share new device, please select the button already using the mornin' in the first screen ."</string>
+    <string name="share_flow_2_title">"Step 2. Operation for reading sharing code want to add mornin' phone"</string>
+    <string name="share_how">How to share</string>
+    <string name="share_permission_camera_toast">You need permission from the camera to read the shared code.</string>
+    <string name="share_receive">Read sharing code</string>
+    <string name="share_receive_it">Read sharing code</string>
+    <string name="share_receiver_desc">"By reading the shared code, you will be able to connect to the mornin' from another smartphone ."</string>
+    <string name="share_receiver_desc_important">"*mornin' could not connect from two or more smartphones at the same time.
+*mornin' will be disconnected in the following way.
+ ●Step away from the mornin'.
+ ●Close app and wait 1 minute.
+ ●Turn off Bluetooth."</string>
+    <string name="share_receiver_help"><u>The case sharing code can not be shared.</u></string>
+    <string name="share_receiver_qr_desc">Please accord to the sharing code.</string>
+    <string name="share_sender_qr_desc">When the sharing code can not be read well , please brighten the brightness of the screen.</string>
+    <string name="share_succeeded_desc">"mornin' can not be connected to some phones at the same time. If it can not be connected, please confirm whether others are using it at the same time."</string>
+    <string name="share_succeeded_title_format">"%1$d mornin' is shared."</string>
+    <string name="snack_bar_action_detail">Detail</string>
+    <string name="snack_bar_action_settings">Settings</string>
+    <string name="snack_bar_bluetooth_off_title">Bluetooth is powered off.</string>
+    <string name="snack_bar_has_fw_update_title">There is a firmware update.</string>
+    <string name="snack_bar_invalid_pairing_title">Pairing is invalid.</string>
+    <string name="snack_bar_less_battery_title">The battery is running low.</string>
+    <string name="snack_bar_location_not_granted_title">Please allow location information.</string>
+    <string name="snack_bar_location_off_title">Please turn on the location access.</string>
+    <string name="snack_bar_not_connected_all_title">"All mornin' devices are disconnected."</string>
+    <string name="snack_bar_not_connected_one_of_one_title">"mornin' is disconnected."</string>
+    <string name="snack_bar_not_connected_some_title">"Some mornin' devices are disconnected."</string>
+    <string name="snack_bar_save_failed_title">Setting save failed.</string>
+    <string name="snack_bar_saved_title">Setting saved successfully.</string>
+    <string name="snack_bar_timer_deleted_title">Timer was deleted.</string>
+    <string name="snack_bar_timer_saved_title">Timer was saved.</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="terms_detail">"\\mornin'\\ is an application (hereinafter referred to as \\this application\\) that operates in cooperation with a curtain switchgear \\mornin'\\ provided by Lobit Inc. (hereinafter referred to as \\our company\\)
+By agreeing to these Terms of Use (hereinafter referred to as \\these Terms\\), the user shall use this application and shall assume that you agree to these terms by using this application.
+This agreement also applies to the updated version app when this application is updated.
+In addition, minors shall use this service with the consent of the legal representative, and the operating company shall be deemed to have obtained the consent of the legal representative upon the use of this service.
+
+1. Terms and Conditions of Use
+The user shall download, install or use this application in advance agreeing to these Terms.
+The Company may change these Terms without your consent, and the change of these Terms shall take effect from the time the changed Terms of Service become available for viewing by users.
+If you use this application after changing this agreement, we assume that you agree to the changed terms. Regarding the use of the Internet service provided by a third party connected by this application, it is subject to not only this agreement but also the provisions of various terms of service etc specified by the third party.
+
+2. Supported mobile devices
+As a prerequisite to using this application, it is assumed that the user is responsible for preparing a mobile terminal compatible with Bluetooth® Smart, which is necessary for communicating with this product. We will post reference information on a mobile phone (hereinafter referred to as \\compatible mobile terminal\\) that supports this service on the user's instruction manual or our website.
+The information on the corresponding mobile terminal in the previous section is only reference information, and even if it is a terminal indicated as a compatible mobile terminal, it may not be available. Even with a compatible mobile terminal, customer's responsibility is to confirm the status of correspondence to the mobile terminal that the customer actually has, and we are not responsible for notification of whether or not the mobile terminal is compatible.
+The Company shall collectively select the corresponding mobile terminal. We are not responsible for the use of this service on noncompliant mobile terminals.
+
+3. Copyright
+All copyrights relating to this application belong to a corporation or an individual judged by us and our company to be legitimate.
+
+4. Responsibility of the user
+The user shall use this application at the user's own risk and we agree that we will not bear any responsibility for damages of users caused by any action done using this application.
+
+5. Personal Information Handling
+As for the use of this application by the user, personal information provided to the Company shall be dealt with appropriately by our company's privacy policy, and the user agrees about the acquisition and use of personal information by our company.
+
+6. Paid Services
+Although this application can be used for free, for users of certain services (hereinafter referred to as \\paid service\\), the user shall pay the usage fee specified separately by the Company. 
+The minor shall use the paid service with the consent of the legal representative, and we regard the agreement of the legal representative with the use of this service. In this case, the user can not cancel the use of the paid service because he / she is a minor. 
+If a minor user myself is 20 years old or older, or if he uses a paid service in false that he / she got this despite not having the consent of a parental guardian, because it is an underage You can not cancel the use. 
+If you use a charged service, you can not make a refund procedure regardless of the reason.
+
+7. Prohibitions
+In using this application, the user shall not perform the following acts. In case damage to our company is caused by user's violation, the user shall be responsible for compensating for the damage. 
+To use this application beyond personal use, for commercial or commercial purposes. However, unless we have separately agreed in writing. 
+To infringe or possibly infringe the rights of copyrights, trademark rights, privacy rights, portrait rights, honor, etc. of us or a third party. 
+Reverse engineering, decompiling, disassembling and other analysis and analysis. (Except in cases where we obtained permission from our company.) 
+To conduct acts in violation of laws, ordinances, public order and morals or these terms of use. 
+Other items that we deem inappropriate.
+
+8. Disclaimer
+We do not guarantee that this application does not infringe the rights of third parties. In the unlikely event that this application infringes the rights of a third party or finds that there is a possibility of it, the user shall promptly erase this application. 
+We will not guarantee the accuracy, validity, applicability, usefulness, operation guarantee, purpose of use, compatibility with use equipment, and any other matters concerning this application.
+Even if the user suffers damage with respect to this application, except for cases where the damage is due to our intentions or gross negligence, we are responsible for any damage caused to users or third parties concerning this application We do not owe. In addition, if the Company assumes responsibility due to our intention or gross negligence, the scope of compensation will be limited to the normal and direct damage that actually occurred. 
+We are not obliged to save and restore contents created by users using this application and posted for this application. For important content, please make backup as appropriate by the user.
+
+9. Change or cancellation of this application
+We can improve, add, cancel, change, delete or inaccessible by our discretion at the discretion of the content and distribution method of this application, and we can not improve the function improvement, addition, cancellation, change, deletion or inaccessibility Even if the user suffered damage due to becoming the company, we will not assume any responsibility for compensation. 
+The Company shall be able to suspend the provision of this application to users or terminate this Agreement without notice or without notice, if the user is in breach of or violating these Terms of Service I will.
+
+10. Responsibility of the user
+The user shall comply with related laws related to this application (including Foreign Exchange and Foreign Trade Control Law and related laws and regulations etc). 
+The user shall indemnify the damage in case of damaging the Company or a third party as a result of breaching these Terms. 
+The user shall download, install or use this application at his / her own will, and if any dispute or the like occurs with a third party concerning this application, it solves all of its own costs and responsibilities We will not suffer any damage or the like to our company.
+
+11. Negotiable of rights and obligations
+The user shall not transfer or succeed to any rights or obligations under this Agreement to third parties without any prior written consent of the Company, nor do any disposition.
+
+12. Governing Law
+The law of Japan shall apply to the establishment, effectiveness, performance and resolution of this Agreement.
+
+13. Court of competent jurisdiction
+In case of filing a lawsuit against any dispute relating to these Terms, the Tokyo District Court shall be the exclusive jurisdictional court of the first instance.
+
+These Terms of Use shall be executed in the Japanese language. This English version is translation of the Japanese version and the Japanese version shall be the governing language in the case of any conflict between the Japanese version and this English version.
+
+Established March 7, 2016"</string>
+    <string name="timer_confirm_cancel_without_save_desc">Close directly will not save any changes.</string>
+    <string name="timer_confirm_cancel_without_save_title">Are you sure you want to close without saving?</string>
+    <string name="timer_confirm_delete_desc">"Timer will be deleted on this app and mornin' devices."</string>
+    <string name="timer_confirm_delete_title">Delete Timer</string>
+    <string name="timer_delete_failed_desc">"Are you sure you want to delete the timer only app? If the timer is not deleted on mornin' devices."</string>
+    <string name="timer_delete_failed_title">"Failed to delete alarm from the mornin'"</string>
+    <string name="timer_edit_action_desc">"Please choose mornin'."</string>
+    <string name="timer_edit_action_title">Behavior</string>
+    <string name="timer_edit_memo_desc">Here you can enter a note.</string>
+    <string name="timer_edit_memo_title">Note</string>
+    <string name="timer_edit_targets_title">Select devices</string>
+    <string name="timer_edit_time_title">Time</string>
+    <string name="timer_edit_weekdays_desc">Please choose to repeat days.</string>
+    <string name="timer_edit_weekdays_title">Repeat</string>
+    <string name="timer_empty">"Let's set up
+ new timer!"</string>
+    <string name="timer_everyday">All</string>
+    <string name="timer_friday">Fri</string>
+    <string name="timer_holiday">Hol</string>
+    <string name="timer_monday">Mon</string>
+    <string name="timer_once">Once</string>
+    <string name="timer_saturday">Sat</string>
+    <string name="timer_save">Save timer</string>
+    <string name="timer_sunday">Sun</string>
+    <string name="timer_thursday">Thu</string>
+    <string name="timer_today">Today</string>
+    <string name="timer_tomorrow">Tomorrow</string>
+    <string name="timer_tuesday">Tue</string>
+    <string name="timer_update">Update timer</string>
+    <string name="timer_valid_error_already_saved">Timer to operate at the same time has already been set</string>
+    <string name="timer_valid_error_bluetooth_off">Bluetooth is turned OFF</string>
+    <string name="timer_valid_error_device_not_connected">"Selected mornin' is not connected"</string>
+    <string name="timer_valid_error_empty_chickens">"Select mornin'"</string>
+    <string name="timer_valid_error_invalid_chicken_selected">"Incollect settign mornin' is connected"</string>
+    <string name="timer_valid_error_invalid_timer">Timer is inbalid</string>
+    <string name="timer_valid_error_no_timer_vacancy_in_local">Unable to create timer more</string>
+    <string name="timer_valid_error_no_timer_vacancy_on_chicken">Timer is limited</string>
+    <string name="timer_valid_error_timer_not_exist">Timer is not displayed properly</string>
+    <string name="timer_valid_error_unexpected">Error occurred</string>
+    <string name="timer_wednesday">Wed</string>
+    <string name="title_about_app">About App</string>
+    <string name="title_chicken_list">"mornin' Settings"</string>
+    <string name="title_home">Home</string>
+    <string name="title_home_empty" />
+    <string name="title_share_home">Share</string>
+    <string name="title_timer_edit">Edit Timer</string>
+    <string name="title_timer_new">Create Timer</string>
+    <string name="tutorial_already_use_desc">"●The case family use it
+●If you changed the smartphone, but you have the old one."</string>
+    <string name="tutorial_already_use_target">"Already using mornin'"</string>
+    <string name="tutorial_already_use_title">"Already using mornin'"</string>
+    <string name="tutorial_attachment_end_desc">"Complete the attachment
+Let's make it move."</string>
+    <string name="tutorial_attachment_help"><u>Caution for setting</u></string>
+    <string name="tutorial_attachment_step1">With the curtain closed, please remove the hook at the tip of the curtain you want to move.</string>
+    <string name="tutorial_attachment_step2">"Push the center switch 
+and make sure the arm rotates."</string>
+    <string name="tutorial_attachment_step3">"Set up the mornin' 
+like this animation."</string>
+    <string name="tutorial_attachment_step4">"Put the curtain back
+ to hide the mornin'."</string>
+    <string name="tutorial_attention_desc">"Watch out , such as the feet when installing 
+ Please be careful not to get hurt ."</string>
+    <string name="tutorial_connected_desc">"Connected!
+Attach it to the curtain."</string>
+    <string name="tutorial_connected_title">"mornin' was connected."</string>
+    <string name="tutorial_connecting_desc">"Connecting to mornin' ..."</string>
+    <string name="tutorial_connection_failed_note">If you can not connect even if you try several times, please reboot the smartphone.</string>
+    <string name="tutorial_connection_failed_title">"Could not connect to nearby mornin'."</string>
+    <string name="tutorial_continue">"We'll resume the tutorial."</string>
+    <string name="tutorial_finish_action">Start it now</string>
+    <string name="tutorial_finish_title">Settings Completed</string>
+    <string name="tutorial_firmware_update_action">Update firmware</string>
+    <string name="tutorial_firmware_update_later">Update later</string>
+    <string name="tutorial_has_update_desc">"There is a new firm 
+ update new firm first"</string>
+    <string name="tutorial_help_check_again">Confirm the movement</string>
+    <string name="tutorial_help_magnet_desc">●Please stick a tape to the magnet part of the curtain, please weaken the effect of the magnet.</string>
+    <string name="tutorial_help_magnet_title">Could not remove from curtain magnet.</string>
+    <string name="tutorial_help_not_move_desc">"●Is the battery of mornin' set correctly?
+●Is there a battery charge of the mornin'?
+●If you are using a microwave oven around, you may not be connected."</string>
+    <string name="tutorial_help_not_move_title">No movement / No sound</string>
+    <string name="tutorial_help_not_open_title">Could not open the curtain.</string>
+    <string name="tutorial_help_reverse_action_desc">●Move opposite but set up correctly</string>
+    <string name="tutorial_help_reverse_fix">Switch the movement</string>
+    <string name="tutorial_help_reverse_position_desc">"●Is mornin' attached correctly？"</string>
+    <string name="tutorial_help_reverse_title">It moves to the opposite side.</string>
+    <string name="tutorial_help_state_not_open">If the curtain was not open.</string>
+    <string name="tutorial_help_state_title">"Select the mornin' position."</string>
+    <string name="tutorial_led_desc">"Please push the switch 
+until the lamp blinks slowly."</string>
+    <string name="tutorial_led_not_blinking_desc">"●Is mornin' battery set up correctly？
+● When it has other pairing"</string>
+    <string name="tutorial_led_not_blinking_title">The lamp is not flashing.</string>
+    <string name="tutorial_led_not_blinking_u"><u>Not flashed or flashing high speed.</u></string>
+    <string name="tutorial_mode_already_use">Already used</string>
+    <string name="tutorial_mode_first">First user</string>
+    <string name="tutorial_move_test_desc">Is curtain opening?</string>
+    <string name="tutorial_move_test_not_open">NO</string>
+    <string name="tutorial_move_test_now">"Try moving the mornin'."</string>
+    <string name="tutorial_non_qr_desc">"●The case of smarphone broken.
+●The case of you do not have an old smartphone at hand after changing the smartphone.
+●The case of not working sharing code
+●The case which sharing code can not be generated on other smartphone."</string>
+    <string name="tutorial_non_qr_note">"You need to reset mornin'. Please confirm from the button below the reset method."</string>
+    <string name="tutorial_non_qr_title">When you cannot read sharing code</string>
+    <string name="tutorial_not_resolved"><u>Confirm unclear point from here.</u></string>
+    <string name="tutorial_phone_broken">The smartphone was broken</string>
+    <string name="tutorial_privacy_policy_action_u"><u>privacy policy</u></string>
+    <string name="tutorial_ready_desc">"Prepare mornin' and start with 
+setting"</string>
+    <string name="tutorial_receive_qr_u"><u>Read the sharing code</u></string>
+    <string name="tutorial_recovery_blinking_desc">"●Please unplug and plug in the mornin' battery. 
+●If it still flashes fast, you need to repair mornin'."</string>
+    <string name="tutorial_recovery_blinking_title">When the lamp is flashing rapidly.</string>
+    <string name="tutorial_recovery_u"><u>"Recover mornin'"</u></string>
+    <string name="tutorial_reset_action_desc">"Push the reset button
+until flash the lamp slowly."</string>
+    <string name="tutorial_reset_button">"Reset
+Button"</string>
+    <string name="tutorial_reset_chicken">"Reset mornin' device"</string>
+    <string name="tutorial_reset_chicken_u"><u>"Reset mornin' device"</u></string>
+    <string name="tutorial_reset_not_correct_u"><u>Not flashed or flashing high speed.</u></string>
+    <string name="tutorial_retry_checking">Try again</string>
+    <string name="tutorial_retry_connecting">Try again</string>
+    <string name="tutorial_select_position_desc">"Select the direction
+ of opening the curtain."</string>
+    <string name="tutorial_terms_action_u"><u>terms</u></string>
+    <string name="web_loading">Loading</string>
+    <string name="yes">Yes</string>
+    <string name="zxing_app_name">Barcode Scanner</string>
+    <string name="zxing_button_ok">OK</string>
+    <string name="zxing_msg_camera_framework_bug">Sorry, the Android camera encountered a problem. You may need to restart the device.</string>
+    <string name="zxing_msg_default_status">Place a barcode inside the viewfinder rectangle to scan it.</string>
+</resources>

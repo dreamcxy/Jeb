@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="search_menu_title">Search</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="ACCOUNT_ADDED_TOAST">Account added successfully.</string>
+    <string name="ACCOUNT_DUO_SECURITY_DESCRIPTION">duo security account</string>
+    <string name="ACCOUNT_SELECT_ADD_DUO">Add a Duo Security account</string>
+    <string name="ACCOUNT_SELECT_ADD_OTHER">Add a 3rd party account</string>
+    <string name="ACCT_INFO_STORAGE_APP">The security key for this account is stored in application storage.</string>
+    <string name="ACCT_INFO_STORAGE_HSM">"The security key for this account is stored in your device's hardware security module (HSM)."</string>
+    <string name="ACCT_INFO_STORAGE_HSM_MISSING">The key for this account is missing. Contact your administrator to reactivate the account.</string>
+    <string name="ACCT_INFO_STORAGE_KEYSTORE">"The security key for this account is stored in your device's secure keystore."</string>
+    <string name="ACCT_INFO_STORAGE_PROBLEM">"There may be a problem with the storage for this account's security key."</string>
+    <string name="ACCT_INFO_TYPE_3RD_PARTY">3rd Party Account</string>
+    <string name="ACCT_INFO_TYPE_DUO">Duo Account</string>
+    <string name="ACT_CODE_PARSE_FAILED_MSG">"Please make sure you're scanning the correct barcode and try again."</string>
+    <string name="ACT_COMPLETED">Account added successfully.</string>
+    <string name="ACT_DIALOG_PROGRESS">Adding account…</string>
+    <string name="ACT_FAILED_TITLE">Failed to Add Account</string>
+    <string name="ACT_QR_FAILED">Could not add an account using this barcode.</string>
+    <string name="ACT_THIRDPARTY_FAILED_BARCODE_MSG">Could not add an account using this barcode.</string>
+    <string name="ACT_THIRDPARTY_FAILED_CREDENTIALS_MSG">Could not add an account using these credentials.</string>
+    <string name="ACT_THIRDPARTY_FAILED_LINK_MSG">Could not add an account using this link.</string>
+    <string name="ACT_TITLE">Add Account</string>
+    <string name="ADDITIONAL_AUTH_ALERT_MESSAGE">Your administrator requires you to confirm your identity. Duo Mobile will prompt you to enter your device passcode on the next screen.</string>
+    <string name="ADDITIONAL_AUTH_ALERT_MESSAGE_FINGERPRINT">Your administrator requires you to confirm your identity. Duo Mobile will prompt you to use your fingerprint or passcode on the next screen.</string>
+    <string name="ADDITIONAL_AUTH_ALERT_TITLE">Additional Authentication Required</string>
+    <string name="ADD_DUO_ACCOUNT_FAIL">"Please verify that you've entered the correct activation code and try again."</string>
+    <string name="ADD_DUO_ACCOUNT_LABEL">ADD A DUO SECURITY ACCOUNT</string>
+    <string name="ADD_THIRD_PARTY_ACCOUNT_LABEL">ADD A THIRD PARTY ACCOUNT</string>
+    <string name="ADD_TOTP_FAIL">"Please verify that you've entered your username and key and try again."</string>
+    <string name="ADD_TOTP_INCORRECT_VALS_FAIL">"Please verify that you've entered your username and a valid key and try again."</string>
+    <string name="AFFECTED_ACCOUNTS_STRING">"
+
+Affected Accounts:"</string>
+    <string name="AFFECTED_ACCOUNT_FORMAT_STRING">"
+
+Affected Account:
+%s"</string>
+    <string name="ANOMALY_UNKNOWN_BROWSER">Unknown Browser</string>
+    <string name="ANOMALY_UNKNOWN_OS">Unknown OS</string>
+    <string name="ActivationInstructions">"Tap the button below to launch a barcode scanner, or type
+    the activation code below. "</string>
+    <string name="AddAccountHeader">Scan an activation barcode to link Duo Mobile to your account.</string>
+    <string name="AddAccountManualButtonText">No Barcode?</string>
+    <string name="AddAccountTOTPAccount">Account</string>
+    <string name="AddAccountTOTPAccountHint">sean@example.com</string>
+    <string name="AddAccountTOTPKey">Key</string>
+    <string name="AddAccountTOTPKeyHint">Activation code</string>
+    <string name="AddAccountTOTPLine1">Use this page to add a third-party account to Duo Mobile.</string>
+    <string name="AddAccountTOTPLine2">Or</string>
+    <string name="AddDuoAccountExplanation1">You may have received an activation code during the enrollment process. You may also get one from your administrator.</string>
+    <string name="AddDuoAccountExplanation2">"You can also add an account by visiting an activation link generated by Duo's setup process or by your administrator."</string>
+    <string name="CHECK_APPROVED_SIMPLE_MSG">Approved!</string>
+    <string name="CHECK_APPROVE_BTN_TITLE">Approve</string>
+    <string name="CHECK_APPROVING_MSG">Approving…</string>
+    <string name="CHECK_DENIED_SIMPLE_MSG">Denied!</string>
+    <string name="CHECK_DENYING_MSG">Denying…</string>
+    <string name="CHECK_DENY_BTN_TITLE">Deny</string>
+    <string name="CHECK_FRAUD_MSG">Reporting fraud…</string>
+    <string name="CHECK_FRAUD_REPORTED_MSG">Fraud reported!</string>
+    <string name="CHECK_LOGIN_TITLE">Login Request</string>
+    <string name="CHECK_NO_TXS_MSG">This request may have expired or been linked to a deleted account. If this problem persists, please contact your administrator.</string>
+    <string name="CHECK_PROGRESS_MSG">Loading…</string>
+    <string name="CHECK_TXS_TIMEOUT_MSG">This request has expired. Please try again with a new request.</string>
+    <string name="CameraDisabledMessage">Duo Mobile requires camera permissions to scan an activation barcode. Please allow camera access for Duo Mobile or manually enter an activation code.</string>
+    <string name="CameraDisabledTitle">Camera Disabled</string>
+    <string name="DUO_ACCOUNT_LABEL">Duo Security Enabled Account</string>
+    <string name="DUO_TONE_PREF_NAME">Duo Tone</string>
+    <string name="EDIT_ACCT_ICON_LABEL">Icon</string>
+    <string name="EDIT_ACCT_NAME_LABEL">Name</string>
+    <string name="EDIT_ACCT_SET_BY_ORG">The icon for this account is set by the organization.</string>
+    <string name="EDIT_ACCT_TITLE">Edit Account</string>
+    <string name="EDIT_ACCT_TYPE_LABEL">Type</string>
+    <string name="ERROR_ACTIVATION_CODE_MSG">This activation link has expired. Contact your administrator to receive a new activation link.</string>
+    <string name="ERROR_ACTIVATION_CODE_TITLE">Activation Link Expired</string>
+    <string name="ERROR_AUTHENTICATION_RESTRICTED_TITLE">Authentication Restricted</string>
+    <string name="ERROR_BAD_CREDS_MSG">Contact your administrator to reactivate your account.</string>
+    <string name="ERROR_BAD_CREDS_TITLE">Bad Credentials</string>
+    <string name="ERROR_BAD_DATE_MSG">The date and time on your device is incorrect. Please update your device settings and try again.</string>
+    <string name="ERROR_BAD_DATE_TITLE">Invalid Date</string>
+    <string name="ERROR_BAD_NETWORK_MSG">A WiFi or cellular network connection is required. Please check your network settings.</string>
+    <string name="ERROR_GENERIC_MSG">There was an error completing this request. If this problem persists, please contact your administrator.</string>
+    <string name="ERROR_GENERIC_TITLE">Error</string>
+    <string name="ERROR_GEN_MULTIFETCH_MSG">No requests were found, however one or more accounts are unable to connect at this time. If this problem persists, please contact your administrator.</string>
+    <string name="ERROR_GEN_NETWORK_TITLE">No Internet Connection</string>
+    <string name="ERROR_MAINTENANCE_MODE_TITLE">Maintenance Mode</string>
+    <string name="ERROR_MISSING_CREDS_MSG">The credentials for %s were cleared from the hardware security module (HSM). In order to use Duo Push, please contact your administrator to reactivate this account.</string>
+    <string name="ERROR_MISSING_CREDS_TITLE">Missing Credentials</string>
+    <string name="ERROR_NO_NETWORK_MSG">Please connect your device to a network and try again.</string>
+    <string name="ERROR_NO_TXS_MSG">This request was invalid or has recently expired. If this problem persists, please contact your administrator.</string>
+    <string name="ERROR_NO_TXS_TITLE">Expired Request</string>
+    <string name="ERROR_PARSE_MSG">"Couldn't parse response from server, please try again later. If this problem persists, please contact your administrator."</string>
+    <string name="ERROR_PARSE_TITLE">Service Response Error</string>
+    <string name="ERROR_SERVER_UNAVAILABLE_MSG">Could not reach the service at this time, please try again later. If this problem persists, please contact your administrator.</string>
+    <string name="ERROR_SERVER_UNAVAILABLE_TITLE">Service Difficulties</string>
+    <string name="HSM_CLEAR_ACK">Continue</string>
+    <string name="HSM_CLEAR_WARN">"The security key for this account is stored in your device's hardware security module (HSM). If you select \"Clear Credentials\" from the security page of the phone settings you will have to contact your system administrator to reactivate your account."</string>
+    <string name="HSM_CLEAR_WARN_TITLE">Account Saved</string>
+    <string name="INVALID_REQUEST_TITLE">Invalid Request</string>
+    <string name="KeyDesc">Generate a new passcode</string>
+    <string name="OTHER_LABEL">Other</string>
+    <string name="PASSCODE_ACCESSIBILITY_FORMATED">Generate passcode for account %s</string>
+    <string name="PASSCODE_COPIED_TEXT">Passcode copied to clipboard.</string>
+    <string name="PASSCODE_HELP_LABEL">Passcode Help</string>
+    <string name="PASS_ABOUT_EDIT">Edit Account</string>
+    <string name="PASS_ABOUT_VIEW">View Account</string>
+    <string name="PASS_ACCOUNT_MISSING_MSG">A request was received for an account that is no longer paired to this device. To re-enable it, please contact your administrator.</string>
+    <string name="PASS_ACCOUNT_MISSING_TITLE">Account Not Found</string>
+    <string name="PASS_ADMIN_LABEL">ADMIN</string>
+    <string name="PASS_CANCEL">Cancel</string>
+    <string name="PASS_COPY">Copy Passcode</string>
+    <string name="PASS_COPY_SUCCESS">Passcode copied to clipboard</string>
+    <string name="PASS_EDIT">Save</string>
+    <string name="PASS_FAIL_FIPS_MSG">Your device is unable to generate FIPS validated passcodes, which are required by your organization. Please contact your administrator or help desk for help.</string>
+    <string name="PASS_FAIL_FIPS_TITLE">Unable to Generate Passcode</string>
+    <string name="PASS_INFO_DIALOG_COPY">"This six-digit number is a passcode. You can use passcodes to authenticate if your device doesn't have Internet access."</string>
+    <string name="PASS_INFO_DIALOG_TITLE">Using Passcodes</string>
+    <string name="PASS_NO_TXS">&lt;b>%s&lt;/b> Nothing to approve</string>
+    <string name="PASS_NO_TXS_TITLE">No Requests</string>
+    <string name="PASS_REMOVE">Remove Account</string>
+    <string name="PASS_REMOVE_MSG">You will no longer be able to generate passcodes or use Duo Push with this account.</string>
+    <string name="PASS_REMOVE_MSG_TOTP">You will no longer be able to generate passcodes with this account.</string>
+    <string name="PASS_REMOVE_TITLE">Remove Account?</string>
+    <string name="PREFS_SOUND_TITLE">Notification sound</string>
+    <string name="PREFS_TRACK_SUMMARY">Anonymous reporting helps make Duo Mobile better for everyone</string>
+    <string name="PREFS_TRACK_TITLE">Report statistics</string>
+    <string name="PUSH_LABEL_TEXT_PLURAL">Requests waiting. Tap to respond...</string>
+    <string name="PUSH_LABEL_TEXT_SINGULAR">Request waiting. Tap to respond...</string>
+    <string name="QRButton">Scan Barcode</string>
+    <string name="RETRY_MSG" formatted="false">Connection failed, retrying %s of %s.</string>
+    <string name="SECONDARY_AUTH_FAILED_TOAST">Authentication failed. Please try again.</string>
+    <string name="SETTINGS_TITLE">Settings</string>
+    <string name="SILENT_PREF_NAME">Silent</string>
+    <string name="SYSTEM_SOUND_PREF_NAME">Choose System Sound</string>
+    <string name="VIEW_ACCT_TITLE">View Account</string>
+    <string name="WELCOME_ADD_ACCOUNT_BUTTON_TITLE">Get Started</string>
+    <string name="WELCOME_P1">Duo helps you login securely.</string>
+    <string name="WELCOME_P2">"You'll use this app to approve your logins after entering your username and password on your computer."</string>
+    <string name="WELCOME_TITLE">Welcome to Duo Mobile</string>
+    <string name="WHATS_NEW_BAR_TITLE">"What's New"</string>
+    <string name="already_installed_dialog_message">Please continue with enrollment on your computer.</string>
+    <string name="already_installed_dialog_title">Duo Mobile already installed</string>
+    <string name="anomaly_caution_msg">This request came from a computer we did not recognize. Approve with caution.</string>
+    <string name="anomaly_normal_device_question">Are you logging in from a computer or device that you normally use?</string>
+    <string name="anomaly_not_listed">"I don't see it listed here"</string>
+    <string name="anomaly_select_device">Select the device you are logging in from right now:</string>
+    <string name="app_name">Duo Mobile</string>
+    <string name="approve">Approve</string>
+    <string name="authentication_timeout">Authentication Timeout</string>
+    <string name="authentication_timeout_desc">Duo Mobile was unable to authenticate you because your request timed out. Please try again.</string>
+    <string name="backup_and_restore_admin_reactivation_desc">From a computer or another device, log in to the Duo Admin Panel and click <b>Edit Profile</b> in the top right corner under your name.</string>
+    <string name="backup_and_restore_admin_reactivation_desc_cont">Next, click <b>Reactivate</b> under Secondary Authentication and scan the barcode.</string>
+    <string name="backup_and_restore_admin_reactivation_title">How do I get my Duo admin account working?</string>
+    <string name="backup_and_restore_almost_done_dialog_desc">Next, go back and tap Get Working for each account.</string>
+    <string name="backup_and_restore_almost_done_dialog_title">Almost Done…</string>
+    <string name="backup_and_restore_description">When you get a new device you can restore your Duo Account(s) by connecting to Google Drive.</string>
+    <string name="backup_and_restore_help_link_text">Will third-party and Duo admin account(s) be restored when I get a new mobile device?</string>
+    <string name="backup_and_restore_reselect_account_dialog_desc">"We couldn't find any accounts backed up on this Google account.
+
+Try selecting another Google account or contact your help desk."</string>
+    <string name="backup_and_restore_reselect_account_dialog_title">Trying to get Duo working on this device?</string>
+    <string name="backup_and_restore_setting_title">Duo Restore</string>
+    <string name="backup_and_restore_toggle_auto_backup_desc">New accounts will be automatically backed up.</string>
+    <string name="backup_and_restore_toggle_desc">Help desk support may or may not be required when you get a new mobile device, depending on the security requirements of your IT administrator.</string>
+    <string name="backup_and_restore_toggle_title_off">Connect to Google Drive</string>
+    <string name="backup_and_restore_toggle_title_on">Connected to Google Drive</string>
+    <string name="backup_restore_activity_title">Duo Restore</string>
+    <string name="backup_restore_admin_account_info_text">"No. When you get a new phone you will need to log in to the Duo Admin Panel and activate your new phone.
+
+"<b>Note:</b> Your Duo admin account name(s) and icon(s) will show up in your account list when you restore, but you will need to tap Get Working and re-link them.</string>
+    <string name="backup_restore_admin_account_info_title">Will Duo admin account(s) be restored?</string>
+    <string name="backup_restore_drive_account_title">Google Drive Summary</string>
+    <string name="backup_restore_drive_icon_content_description">Google Drive icon</string>
+    <string name="backup_restore_last_updated_text"><b>Last Backup:</b> %s</string>
+    <string name="backup_restore_num_duo_accounts_text">%d Duo accounts backed up</string>
+    <string name="backup_restore_num_third_party_accounts_text">%d Third party accounts backed up</string>
+    <string name="backup_restore_one_duo_account_text">1 Duo account backed up</string>
+    <string name="backup_restore_one_third_party_account_text">1 Third party account backed up</string>
+    <string name="backup_restore_success_backing_up_text">"You're backed up!"</string>
+    <string name="backup_restore_third_party_account_info_button_text">Third-party account documentation</string>
+    <string name="backup_restore_third_party_account_info_text">"No. To keep your third-party account(s) secure, Duo does not store your third-party account keys in backups. Duo recommends that you log into each of your third-party accounts and download backup codes.
+
+"<b>Note:</b> your third-party account name(s) and icon(s) will show up in your account list when you restore, but you will need to tap Get Working and re-link them.</string>
+    <string name="backup_restore_third_party_account_info_title">Will third-party account(s) be restored?</string>
+    <string name="cancel">Cancel</string>
+    <string name="clearing_browser_msg">Clearing your browser data can cause this message.</string>
+    <string name="click_to_open_duo_mobile_and_deny_the_transaction">Click to open Duo Mobile and deny the transaction.</string>
+    <string name="confirm">Confirm</string>
+    <string name="connecting_to_drive_message">Connecting to Google Drive…</string>
+    <string name="deny">Deny</string>
+    <string name="device_info_activity_title">Security Checkup</string>
+    <string name="device_info_overview_text_fail">"Your device's security score can be improved."</string>
+    <string name="device_info_overview_text_pass">"Your device's security score is perfect!"</string>
+    <string name="device_info_percentage_text">%d%%</string>
+    <string name="device_info_setting_text">Security Checkup</string>
+    <string name="device_info_view_footer_text">Security Checkup does not access your personal information.</string>
+    <string name="dialog_OK">OK</string>
+    <string name="disable_backup_restore_dialog_msg">By doing so, your current backup will be deleted so you will not be able to restore your accounts when you get a new device.</string>
+    <string name="disable_backup_restore_dialog_title">Are you sure you want to disable Duo Restore?</string>
+    <string name="disabled">Disabled</string>
+    <string name="disabling_duo_restore_text">Disabling Duo Restore…</string>
+    <string name="done_menu_item">Done</string>
+    <string name="duo_restore_later_dialog_text">Enable Duo Restore anytime from the Settings menu.</string>
+    <string name="duo_restore_toast_desc">Duo Restore makes it easy to get Duo working when you get a new phone.</string>
+    <string name="duo_restore_toast_header">New Feature Available</string>
+    <string name="duo_security_enabled_text">Duo Security Enabled Account</string>
+    <string name="enable_now_button_text">Enable now</string>
+    <string name="enabled">Enabled</string>
+    <string name="enter_code_button_text">Enter Code</string>
+    <string name="expanded_title">Duo Push</string>
+    <string name="extension_description">Display login requests sent to your phone via Duo</string>
+    <string name="extension_title">Duo Push</string>
+    <string name="fraudulent">Fraudulent</string>
+    <string name="get_duo_working_title">Get Duo Working</string>
+    <string name="get_transaction">Get Transaction</string>
+    <string name="help_title">Help</string>
+    <string name="loading_backup_message">Checking for backed up accounts…</string>
+    <string name="login_request_approved">Login request approved</string>
+    <string name="login_request_denied">Login request denied</string>
+    <string name="login_request_received">Login request received</string>
+    <string name="lost_keys_dialog_desc">This account has become disconnected from the Duo service which means push will not work.</string>
+    <string name="lost_keys_dialog_note"><b>Note:</b> 6 digit passcodes do still work.</string>
+    <string name="lost_keys_dialog_secondary_desc">"It's commonly caused by issues with manufacturer Android OS updates."</string>
+    <string name="lost_keys_dialog_secondary_title">What can cause this?</string>
+    <string name="lost_keys_dialog_tertiary_title">How do I fix it?</string>
+    <string name="lost_keys_dialog_title">Something went wrong.</string>
+    <string name="manual_reactivation_description">Ask your help desk to send you a new activation link.</string>
+    <string name="manual_reactivation_description_2">"You may enroll your new device yourself using Duo's device management portal if self-service is enabled."</string>
+    <string name="manual_reactivation_documentation_button_text">Managing Your Devices</string>
+    <string name="manual_reactivation_title">How do I get Duo working on this device?</string>
+    <string name="maybe_later_button_text">Maybe later</string>
+    <string name="menu_add_account_title">Add Account</string>
+    <string name="menu_reorder_account_title">Reorder Accounts</string>
+    <string name="menu_save_account_title">Save account</string>
+    <string name="menu_save_title">Save</string>
+    <string name="menu_settings_title">Settings</string>
+    <string name="mistake">Mistake</string>
+    <string name="no">No</string>
+    <string name="no_signal_subtitle">Duo Push is not available offline. Tap the key button to use a passcode instead.</string>
+    <string name="no_signal_view_content_description">Refresh</string>
+    <string name="not_logging_in_right_now">"I'm not logging in right now"</string>
+    <string name="okay_got_it_text">Okay, got it</string>
+    <string name="open_on_mobile">Open on Mobile</string>
+    <string name="or">or</string>
+    <string name="otp_account_get_working_button_content_desc">Get account working</string>
+    <string name="otp_account_get_working_button_text">Get working</string>
+    <string name="otp_account_missing_keys_desc">Account is disconnected</string>
+    <string name="otpaccount_logo_description">Customer logo</string>
+    <string name="phishing_postblock_btn_1">See why ›</string>
+    <string name="phishing_postblock_btn_2">More ›</string>
+    <string name="phishing_postblock_desc_1">"Don't worry. You didn't do anything wrong."</string>
+    <string name="phishing_postblock_desc_2">We let your IT staff know.</string>
+    <string name="phishing_postblock_desc_3">Contact your IT staff before accessing your application.</string>
+    <string name="phishing_postblock_title_1">We blocked this login request to protect you.</string>
+    <string name="phishing_postblock_title_2">A malicious person may be attempting to log in with your credentials at the same time as you, which we stopped!</string>
+    <string name="phishing_postblock_title_3">"Don't try logging back in."</string>
+    <string name="pre_reactivation_screen_button_text">Continue to login</string>
+    <string name="pre_reactivation_screen_desc">Before getting Duo working on your new mobile device, your help desk requires you to log in to verify your identity.</string>
+    <string name="pre_reactivation_screen_header">Login Required to Continue</string>
+    <string name="preferences_beta_label">BETA</string>
+    <string name="preferences_version_summary">%1$s Build %2$d</string>
+    <string name="preferences_version_title">Duo Mobile Version</string>
+    <string name="pull_refresh_help_text">If you miss a push notification, pull down on the accounts list to check for requests manually</string>
+    <string name="push_bar_text">Request waiting. Tap to approve...</string>
+    <string name="push_label">Duo Push</string>
+    <string name="request">request</string>
+    <string name="restore_accounts_dialog_message">"We found and restored at least one account from your previous backup.
+
+You can remove accounts by long pressing on the account row in your main account list if you would like to do so."</string>
+    <string name="restored_accounts_dialog_title">Accounts Restored</string>
+    <string name="sc_settings_tip_text">Check the security health of your device anytime in <b>Security Checkup</b> under the <b>Settings</b> menu.</string>
+    <string name="sc_toast_fix_later">Fix Later</string>
+    <string name="sc_toast_fix_now">Fix Now</string>
+    <string name="sc_toast_text">We have detected some security issues with your device that require your attention.</string>
+    <string name="screenshot_preference_summary">Allow screenshots of Duo Mobile for 10 minutes, or until the app is closed. Normally screenshots are prevented for security purposes.</string>
+    <string name="screenshot_preference_title">Temporarily allow screenshots</string>
+    <string name="second_auth_prompt_description">Your administrator requires you to confirm your identity for this request. Please enter your device passcode to authenticate with Duo Mobile.</string>
+    <string name="second_auth_prompt_description_fingerprint">Your administrator requires you to confirm your identity for this request. Please verify with your fingerprint or device passcode to authenticate with Duo Mobile.</string>
+    <string name="second_auth_prompt_title">Unlock Your Device</string>
+    <string name="security_check">Duo Security Check</string>
+    <string name="security_checkup_remediation_app_status_how_how_listitem_body_4">Open Duo Mobile app in Play Store</string>
+    <string name="security_checkup_remediation_app_status_how_how_listitem_header_1">Open the <b>Play Store</b>.</string>
+    <string name="security_checkup_remediation_app_status_how_how_listitem_header_2">Tap the <b>Search</b> bar.</string>
+    <string name="security_checkup_remediation_app_status_how_how_listitem_header_3">Search for \"Duo Mobile\".</string>
+    <string name="security_checkup_remediation_app_status_how_how_listitem_header_4">If the button says <b>Open</b>, then the Duo Mobile app is up to date. If the button says <b>Update</b>, then tap <b>Update</b>.</string>
+    <string name="security_checkup_remediation_app_status_how_how_title">How do I update my Duo Mobile app?</string>
+    <string name="security_checkup_remediation_app_status_how_why_body">Updates to the Duo Mobile app can include both security bug fixes, as well as new security features, both of which help to keep you and your accounts more secure.</string>
+    <string name="security_checkup_remediation_app_status_how_why_title">Why should I keep my Duo Mobile app up to date?</string>
+    <string name="security_checkup_remediation_encrypted_how_how_footer"><b>Note</b>: Instructions may vary by manufacturer or OS.</string>
+    <string name="security_checkup_remediation_encrypted_how_how_listitem_header_1">"Open your device's "<b>Settings</b> app.</string>
+    <string name="security_checkup_remediation_encrypted_how_how_listitem_header_2">Under \"Personal\", tap <b>Security</b> and then tap <b>Screen lock</b>.</string>
+    <string name="security_checkup_remediation_encrypted_how_how_listitem_header_3">Tap either <b>PIN</b> or <b>Password</b>.</string>
+    <string name="security_checkup_remediation_encrypted_how_how_listitem_header_4">"You'll be asked to further protect this device by requiring your PIN or password when your device starts. The first time that you choose this setting, it will encrypt your device.
+1. Select "<b>Require to start device</b>".
+2. Tap "<b>Continue</b>.</string>
+    <string name="security_checkup_remediation_encrypted_how_how_listitem_header_5">Set your PIN or password. Tap <b>Continue</b>.</string>
+    <string name="security_checkup_remediation_encrypted_how_how_listitem_header_6">Confirm your PIN or password. Tap <b>Ok</b>.</string>
+    <string name="security_checkup_remediation_encrypted_how_how_title">How do I turn on encryption for my device?</string>
+    <string name="security_checkup_remediation_encrypted_how_why_body">Full-disk encryption makes your personal data unreadable when your device is locked. This helps keep your personal information secure, even in the event your device is lost or stolen.</string>
+    <string name="security_checkup_remediation_encrypted_how_why_title">Why should I enable Full Disk Encryption?</string>
+    <string name="security_checkup_remediation_encrypted_why_why_listitem_body_1">"1. Open your device's "<b>Settings</b>" app.
+2. Under \"Personal\", tap "<b>Security</b>".
+3. Ensure that "<b>Encryption</b> option has been checked.</string>
+    <string name="security_checkup_remediation_encrypted_why_why_listitem_body_2">"1. Open your device's "<b>Settings</b>" app.
+2. Under \"Personal\", tap "<b>Security</b>".
+3. Tap "<b>Screen lock</b>".
+4. If you have Pattern selected, change it to PIN or a Password.
+5. Set your PIN or password. Tap "<b>Continue</b>".
+6. Confirm your PIN or password. Tap "<b>Ok</b>".
+7. Reboot your device."</string>
+    <string name="security_checkup_remediation_encrypted_why_why_listitem_header_1">Confirm encryption is enabled in your device’s Settings app.</string>
+    <string name="security_checkup_remediation_encrypted_why_why_listitem_header_2">Reset your startup PIN</string>
+    <string name="security_checkup_remediation_encrypted_why_why_title">My device says it is encrypted. Why am I still seeing this?</string>
+    <string name="security_checkup_remediation_fingerprint_how_how_footer"><b>Note</b>: Instructions may vary by manufacturer or OS.</string>
+    <string name="security_checkup_remediation_fingerprint_how_how_listitem_header_1">"Open your device's "<b>Settings</b> app.</string>
+    <string name="security_checkup_remediation_fingerprint_how_how_listitem_header_2">Under \"Personal\", tap <b>Security</b> and then tap <b>Imprint</b> or <b>Fingerprint</b>.</string>
+    <string name="security_checkup_remediation_fingerprint_how_how_listitem_header_3">Follow the on-screen instructions.</string>
+    <string name="security_checkup_remediation_fingerprint_how_how_title">How do I enable fingerprint verification?</string>
+    <string name="security_checkup_remediation_fingerprint_how_why_body">Fingerprint verification promotes the use of more complex passcodes (which are less likely to be guessed by an attacker) as the user will have to enter it less frequently. Unlocking your device using Fingerprint also reduces the likelihood of someone obtaining your passcode by shoulder surfing you as you enter it.</string>
+    <string name="security_checkup_remediation_fingerprint_how_why_title">Why should I use fingerprint verification?</string>
+    <string name="security_checkup_remediation_os_status_how_how_footer"><b>Note</b>: Update availability may vary depending on device manufacturer or carrier.</string>
+    <string name="security_checkup_remediation_os_status_how_how_listitem_header_1">"Open your device's "<b>Settings</b> app.</string>
+    <string name="security_checkup_remediation_os_status_how_how_listitem_header_2">Scroll to the bottom and tap <b>About phone</b>.</string>
+    <string name="security_checkup_remediation_os_status_how_how_listitem_header_3">You will be able to see the available update under <b>System updates</b>.</string>
+    <string name="security_checkup_remediation_os_status_how_how_listitem_header_4">Click on the update and follow the on-screen steps to update the OS.</string>
+    <string name="security_checkup_remediation_os_status_how_how_title">How do I update my Android OS?</string>
+    <string name="security_checkup_remediation_os_status_how_why_body">Android OS updates typically include critical security fixes. Attackers can exploit known vulnerabilities more easily when you are running an out-of-date operating system.</string>
+    <string name="security_checkup_remediation_os_status_how_why_title">Why should I update my Android OS?</string>
+    <string name="security_checkup_remediation_os_status_why_why_body">Your device may be running the latest version released for your particular device, by the manufacturer. This version may not be the latest Android OS version released by Google (Android %s). More information about your device’s Android OS version can be found under Settings -> About phone -> Device information.</string>
+    <string name="security_checkup_remediation_os_status_why_why_title">My device says it is running the latest OS version. Why am I still seeing this?</string>
+    <string name="security_checkup_remediation_rooted_how_how_body">The surest way to fix a rooted device is to restore it to factory defaults. The best method for doing so is re-flashing the device from a default disk image. Re-flashing will wipe all data on the device. A simple factory reset is not enough to remove root access.</string>
+    <string name="security_checkup_remediation_rooted_how_how_footer"><b>Note</b>: Instructions may vary by manufacturer.</string>
+    <string name="security_checkup_remediation_rooted_how_how_title">How do I fix my rooted device?</string>
+    <string name="security_checkup_remediation_rooted_how_why_body">Rooted devices are extremely vulnerable to attacks. Critical security restrictions put in place by the operating system to keep you safe are voided, your device can leak sensitive data, and your device may not get important updates from the devices manufacturer or carrier.</string>
+    <string name="security_checkup_remediation_rooted_how_why_title">Why is having a rooted device a security concern?</string>
+    <string name="security_checkup_remediation_safetynet_why_how_body">"If your device is rooted or has been tampered with in any way, please follow the remediation steps in the rooted section.
+
+Some manufacturers do not submit their devices to Google’s Compatibility Testing. These devices will always fail the attestation. Devices on the Android beta track without a recognized device profile may fail attestation until their device profile is recognized by Google.
+
+Any potentially malicious application on your device may cause attestation failure."</string>
+    <string name="security_checkup_remediation_safetynet_why_how_title">Why did my device fail Google SafetyNet Attestation?</string>
+    <string name="security_checkup_remediation_safetynet_why_why_body">"SafetyNet is a Google service that can determine if an Android device is in a tampered state. Devices that are rooted, running a custom ROM, are in an unknown state, or otherwise unrecognized by Google may fail Google's \"CTS (Compatibility Test Suite) profile match\" attestation. Tampered devices are extremely vulnerable to attacks."</string>
+    <string name="security_checkup_remediation_safetynet_why_why_title">What is Google SafetyNet Attestation?</string>
+    <string name="security_checkup_remediation_screenlock_how_how_listitem_header_1">"Open your device's "<b>Settings</b> app.</string>
+    <string name="security_checkup_remediation_screenlock_how_how_listitem_header_2">Under \"Personal\", tap <b>Security</b> and then tap <b>Screen lock</b>.</string>
+    <string name="security_checkup_remediation_screenlock_how_how_listitem_header_3">Tap either <b>PIN</b> or <b>Password</b>.</string>
+    <string name="security_checkup_remediation_screenlock_how_how_listitem_header_4">Follow the on-screen instructions.</string>
+    <string name="security_checkup_remediation_screenlock_how_how_title">How do I enable screen lock?</string>
+    <string name="security_checkup_remediation_screenlock_how_why_body">Locking your screen with a screen lock helps keep attackers from opening this device and accessing your personal information - even in the event your device is lost or stolen.</string>
+    <string name="security_checkup_remediation_screenlock_how_why_title">Why should I use screen lock on my device?</string>
+    <string name="security_checkup_row_app_status_body_fail">Duo has detected that your device is not running the latest version of the Duo Mobile App.</string>
+    <string name="security_checkup_row_app_status_body_pass">"Well done! Duo has detected that your device is running the latest version of the Duo Mobile App.
+
+Updates to Duo Mobile can include security bug fixes and security features, both of which help to keep you and your accounts more secure."</string>
+    <string name="security_checkup_row_app_status_body_version_current_fail">Duo Mobile %1$s - Your version</string>
+    <string name="security_checkup_row_app_status_body_version_recommend_fail">Duo Mobile %1$s - Recommended</string>
+    <string name="security_checkup_row_app_status_how_fail">How do I update my Duo Mobile App?</string>
+    <string name="security_checkup_row_app_status_title_fail">Duo Mobile App is out of date</string>
+    <string name="security_checkup_row_app_status_title_pass">Duo Mobile App is up to date</string>
+    <string name="security_checkup_row_encrypted_body_fail">Duo has detected that full disk encryption is not enabled or may not be working properly on your device.</string>
+    <string name="security_checkup_row_encrypted_body_pass">"Well done! Duo has detected that full disk encryption is enabled on your device.
+
+Full disk encryption helps keep your personal information secure in the event your device is lost or stolen."</string>
+    <string name="security_checkup_row_encrypted_how_fail">How do I turn on encryption for my device?</string>
+    <string name="security_checkup_row_encrypted_title_fail">Full Disk Encryption issue detected</string>
+    <string name="security_checkup_row_encrypted_title_pass">Full Disk Encryption is enabled</string>
+    <string name="security_checkup_row_encrypted_why_fail">My device says it is encrypted. Why am I still seeing this?</string>
+    <string name="security_checkup_row_fingerprint_body_fail">Duo has detected that your device does not have fingerprint verification enabled.</string>
+    <string name="security_checkup_row_fingerprint_body_pass">"Well done! Duo has detected that fingerprint verification is enabled on your device.
+
+Fingerprint promotes the use of more complex passcodes (which are less likely to be guessed by an attacker) as the user will have to enter it less frequently."</string>
+    <string name="security_checkup_row_fingerprint_how_fail">How do I enable fingerprint verification?</string>
+    <string name="security_checkup_row_fingerprint_title_fail">Fingerprint is not enabled</string>
+    <string name="security_checkup_row_fingerprint_title_pass">Fingerprint is enabled</string>
+    <string name="security_checkup_row_os_status_body_fail">Duo has detected that your device is not running the latest Android OS version released by Google.</string>
+    <string name="security_checkup_row_os_status_body_pass">"Well done! Duo has detected that your device is running the latest Android OS version released by Google.
+
+Android OS updates typically include critical security fixes. An out-of-date OS is more vulnerable to attacks."</string>
+    <string name="security_checkup_row_os_status_body_version_current_fail">Android %1$s - Your version</string>
+    <string name="security_checkup_row_os_status_body_version_recommend_fail">Android %1$s or newer - Recommended</string>
+    <string name="security_checkup_row_os_status_how_fail">How do I update my Android OS?</string>
+    <string name="security_checkup_row_os_status_title_fail">Android OS issue detected</string>
+    <string name="security_checkup_row_os_status_title_pass">Android OS is up to date</string>
+    <string name="security_checkup_row_os_status_why_fail">My device says it is running the latest OS. Why am I still seeing this?</string>
+    <string name="security_checkup_row_rooted_body_fail">Duo has detected that your device is rooted and may be vulnerable to attacks.</string>
+    <string name="security_checkup_row_rooted_body_pass">"Well done! Duo has detected that your device is not rooted.
+
+Rooted devices are extremely vulnerable to attacks and may not get important updates from the device's manufacturer or carrier."</string>
+    <string name="security_checkup_row_rooted_how_fail">How do I fix my rooted device?</string>
+    <string name="security_checkup_row_rooted_title_fail">Device is rooted</string>
+    <string name="security_checkup_row_rooted_title_pass">Device is not rooted</string>
+    <string name="security_checkup_row_safetynet_body_fail">Duo has detected that your device failed Google SafetyNet Attestation.</string>
+    <string name="security_checkup_row_safetynet_body_pass">"Well done! Duo has detected that your device passed Google SafetyNet Attestation.
+
+SafetyNet is a Google service that can determine if an Android device is in a tampered state, which may make it more vulnerable to attacks."</string>
+    <string name="security_checkup_row_safetynet_title_fail">Failed Google SafetyNet Attestation</string>
+    <string name="security_checkup_row_safetynet_title_pass">Passed Google SafetyNet Attestation</string>
+    <string name="security_checkup_row_safetynet_why_fail">Why did my device fail Google SafetyNet Attestation?</string>
+    <string name="security_checkup_row_screenlock_body_fail">Duo has detected that your device does not have screen lock enabled.</string>
+    <string name="security_checkup_row_screenlock_body_pass">"Well done! Duo has detected that screen lock is enabled on your device.
+
+Locking your screen with a passcode helps keep attackers from opening your device and accessing your personal information, even if it is lost or stolen."</string>
+    <string name="security_checkup_row_screenlock_how_fail">How do I enable screen lock?</string>
+    <string name="security_checkup_row_screenlock_title_fail">Screen Lock is not enabled</string>
+    <string name="security_checkup_row_screenlock_title_pass">Screen Lock is enabled</string>
+    <string name="third_party_reactivation_major_subtitle">These are instructions for reactivating non-Duo accounts in the Duo Mobile App.</string>
+    <string name="third_party_reactivation_minor_subtitle">Reactivation steps may vary by service. Review the help section for the service you are reactivating if the instructions below do not apply.</string>
+    <string name="third_party_reactivation_step_1">Log in to the account you want to reactivate.</string>
+    <string name="third_party_reactivation_step_1_note">Note that a backup/recovery code or backup two-factor method (e.g. sending an email or code via SMS) may be required to access your account.</string>
+    <string name="third_party_reactivation_step_2">"In your account's security settings, locate the 'two-factor', 'two-step', or multi-factor' settings. Opt to set up login verification using an app."</string>
+    <string name="third_party_reactivation_step_3">Follow the on screen prompts and scan the QR code (or enter an activation code) to complete reactivation.</string>
+    <string name="third_party_reactivation_title">How to Reactivate</string>
+    <string name="unable_to_fetch_requests">Unable to fetch requests.</string>
+    <string name="update_play_services_subtitle">Duo Push and Duo Restore may not work because Google Play Services is unavailable or out of date. Tap to update.</string>
+    <string name="wearable_actions_dialog_title">Responding to a %s from Wearables</string>
+    <string name="wearable_dialog_message">Your mobile device must be unlocked to respond from a wearable device.</string>
+    <string name="wearable_dialog_message_smart_lock">Alternatively, you can enable Smart Lock on your mobile device. However, doing so may make your mobile device less secure.</string>
+    <string name="welcome_add_account_header">New to Duo?</string>
+    <string name="welcome_backup_restore_button_text">Get my account back</string>
+    <string name="welcome_backup_restore_header">Use Duo before?</string>
+    <string name="whats_new_bar_text">"Tap to see what's new..."</string>
+    <string name="why_are_you_denying_this_request">Why are you denying this request?</string>
+    <string name="yes">Yes</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="com.crashlytics.android.build_id">41b137df-b089-4896-adae-3b2080228766</string>
+</resources>

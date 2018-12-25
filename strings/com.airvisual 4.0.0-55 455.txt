@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Connection_established">Connecting to your device</string>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="about">About</string>
+    <string name="about_airvisual">About AirVisual</string>
+    <string name="about_airvisual_desc">"AirVisual was founded on the belief that data enables action, and that without air quality data, the hazards of air pollution will remain invisible and unbeatable. AirVisual’s small international team is passionate about empowering citizens through accessible technology to understand their environments and take control. We believe that the will of citizens and communities has enormous power to shape our world into a healthier, smarter place. Through our app, we strive to empower people globally to understand the air around them, and use this knowledge to breathe in cleaner and healthier surroundings. "</string>
+    <string name="add">Add</string>
+    <string name="add_and_configure_my_device">Add and configure my devices</string>
+    <string name="add_by_sharing_code">Follow a device by share code</string>
+    <string name="add_indoor_place">"Add an
+indoor location"</string>
+    <string name="add_outdoor_place">"Add an
+outdoor location"</string>
+    <string name="add_sharing_code_desc">"Follow someone else's device by asking for their share code"</string>
+    <string name="add_to_my_share_screen">"Add to 'My Air'"</string>
+    <string name="already_done">Already done!</string>
+    <string name="already_in_list">Location already in list</string>
+    <string name="already_registered">This device is already registered</string>
+    <string name="android_animations_lib_name">AndroidAnimations</string>
+    <string name="app_icon">App icon</string>
+    <string name="app_icon_desc">Display AQI on app icon</string>
+    <string name="app_name">AirVisual</string>
+    <string name="app_update">App update</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="aqi">AQI</string>
+    <string name="aqi_guide_desc">AQI, or Air Quality Index, is a system for reporting the severity of air quality levels in relatable terms to the public. The index ranges from 0 to 500, where high index values indicate higher levels of air pollution and higher potential for adverse health effects. Any value larger than 300, for example, is considered to be hazardous, while an AQI value of 0–50, on the other hand, represents good air quality.</string>
+    <string name="aqi_guide_desc_0_50"><b><i>0 - 50 “Good” -</i></b> Air quality is satisfactory and poses little or no risk. Ventilating your home is recommended.</string>
+    <string name="aqi_guide_desc_101_150"><b><i>101 - 150 “Unhealthy for sensitive groups” -</i></b> General public and sensitive individuals in particular are at risk to experience irritation and respiratory problems.</string>
+    <string name="aqi_guide_desc_151_200"><b><i>151 - 200 “Unhealthy” -</i></b> Increased likelihood of adverse effects and aggravation to the heart and lungs among general public - particularly for sensitive groups.</string>
+    <string name="aqi_guide_desc_201_300"><b><i>201 - 300 “Very Unhealthy” -</i></b> General public will be noticeably affected. Sensitive groups will experience reduced endurance in activities. These individuals should remain indoors and restrict activities.</string>
+    <string name="aqi_guide_desc_301_high"><b><i>301 - 500 “Hazardous” -</i></b> General public and sensitive groups are at high risk to experience strong irritations and adverse health effects that could trigger other illnesses. Everyone should avoid exercise and remain indoors.</string>
+    <string name="aqi_guide_desc_51_100"><b><i>51 - 100 “Moderate” -</i></b> Sensitive individuals should avoid outdoor activity as they may experience respiratory symptoms.</string>
+    <string name="aqi_guide_title">AQI Guide</string>
+    <string name="aqi_index">AQI Index</string>
+    <string name="aqi_msg_0_50">Good</string>
+    <string name="aqi_msg_101_150">Unhealthy for Sensitive Groups</string>
+    <string name="aqi_msg_151_200">Unhealthy</string>
+    <string name="aqi_msg_201_300">Very Unhealthy</string>
+    <string name="aqi_msg_301">Hazardous</string>
+    <string name="aqi_msg_51_100">Moderate</string>
+    <string name="array_Assembly">Assembly</string>
+    <string name="array_BabyRoom">Baby room</string>
+    <string name="array_Backyard">Backyard</string>
+    <string name="array_Balcony">Balcony</string>
+    <string name="array_Bedroom">Bedroom</string>
+    <string name="array_Cafeteria">Cafeteria</string>
+    <string name="array_Classroom">Classroom</string>
+    <string name="array_ConferenceRoom">Conference room</string>
+    <string name="array_ConsultingRoom">Consulting room</string>
+    <string name="array_DanceRoom">Dance room</string>
+    <string name="array_DeliveryRoom">Delivery room</string>
+    <string name="array_DiningArea">Dining Area</string>
+    <string name="array_DiningRoom">Dining room</string>
+    <string name="array_Dispensary">Dispensary</string>
+    <string name="array_EmergencyRoom">Emergency room</string>
+    <string name="array_Factory">Factory</string>
+    <string name="array_Frontyard">Frontyard</string>
+    <string name="array_Garage">Garage</string>
+    <string name="array_Gym">Gym</string>
+    <string name="array_GymRoom">Gym room</string>
+    <string name="array_Home">Home</string>
+    <string name="array_Hospital">Hospital</string>
+    <string name="array_ICU">ICU</string>
+    <string name="array_Infirmary">Infirmary</string>
+    <string name="array_Kitchen">Kitchen</string>
+    <string name="array_Lab">Lab</string>
+    <string name="array_LectureHall">Lecture Hall</string>
+    <string name="array_Library">Library</string>
+    <string name="array_LivingRoom">Living Room</string>
+    <string name="array_LockerRoom">Locker room</string>
+    <string name="array_MeetingRoom">Meeting room</string>
+    <string name="array_Office">Office</string>
+    <string name="array_OfficeRoom">Office room</string>
+    <string name="array_Open">Open</string>
+    <string name="array_Other">Other</string>
+    <string name="array_Park">Park</string>
+    <string name="array_PatientRoom">Patient room</string>
+    <string name="array_Pool">Pool</string>
+    <string name="array_Porch">Porch</string>
+    <string name="array_Production">Production</string>
+    <string name="array_Reception">Reception</string>
+    <string name="array_RestArea">Rest area</string>
+    <string name="array_Restaurant">Restaurant</string>
+    <string name="array_Roadside">Roadside</string>
+    <string name="array_School">School</string>
+    <string name="array_Shared">Shared</string>
+    <string name="array_Shipping">Shipping</string>
+    <string name="array_SportsField">Sports field</string>
+    <string name="array_Stadium">Stadium</string>
+    <string name="array_Storage">Storage</string>
+    <string name="array_YogaRoom">Yoga room</string>
+    <string name="ask_enable_location">"AirVisual needs your location to provide you the most accurate air quality information.
+
+Enable your location?"</string>
+    <string name="ask_enable_scan_wifi">"AirVisual needs to connect to your device's Wi-Fi hotspot
+
+Enable Wi-Fi connection?"</string>
+    <string name="ask_me_later">Ask me later</string>
+    <string name="ask_to_provide_camera_permission">Change permission settings to allow AirVisual to access your camera?</string>
+    <string name="ask_to_provide_storage_permission">Change permission settings to allow AirVisual to access your storage?</string>
+    <string name="ask_to_setting_message">"AirVisual needs your location to provide you with best accurate air quality information.
+
+Change permission settings to allow AirVisual to access your location while using the app?"</string>
+    <string name="auth_required">Authentication required</string>
+    <string name="boarding_desc_0">Breathe Cleaner, Healthier Air</string>
+    <string name="boarding_desc_1">Trusted Global Data</string>
+    <string name="boarding_desc_2">Understand the air wherever you go</string>
+    <string name="boarding_desc_3">7-day forecast</string>
+    <string name="boarding_desc_4">Plan your week to optimize clean air and good weather</string>
+    <string name="boarding_desc_5">Indoor &amp; Outdoor</string>
+    <string name="boarding_desc_6">Take control of the environments you love with an AirVisual air monitor</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="camera">Camera</string>
+    <string name="cancel">Cancel</string>
+    <string name="change_password">Change password</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="chart_text">&lt;b>%1$s&lt;/b> %2$s</string>
+    <string name="chart_text_indoor">&lt;b>Indoor %1$s&lt;/b> %2$s</string>
+    <string name="chart_text_outdoor">&lt;b>Outdoor %1$s&lt;/b> %2$s</string>
+    <string name="china_aqi">China AQI</string>
+    <string name="cities">Cities</string>
+    <string name="city">City</string>
+    <string name="city_not_found">City not found</string>
+    <string name="city_or_station_widget">Location widget</string>
+    <string name="city_or_station_widget_desc">Choose location to show in your widget</string>
+    <string name="click_to_add_location">Click to add a location</string>
+    <string name="cn_aqi">CN AQI</string>
+    <string name="co">CO</string>
+    <string name="co2">CO2</string>
+    <string name="co2_status_orange">High</string>
+    <string name="com.crashlytics.android.build_id">3805576f-a697-49b8-ae81-1c7de02c9773</string>
+    <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
+    <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_like_button_liked">Liked</string>
+    <string name="com_facebook_like_button_not_liked">Like</string>
+    <string name="com_facebook_loading">Loading…</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_loginview_log_in_button">Log in</string>
+    <string name="com_facebook_loginview_log_in_button_continue">Continue with Facebook</string>
+    <string name="com_facebook_loginview_log_in_button_long">Log in with Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="com_facebook_send_button_text">Send</string>
+    <string name="com_facebook_share_button_text">Share</string>
+    <string name="com_facebook_smart_device_instructions">To connect your account, open the Facebook app on your mobile device and check for notifications.</string>
+    <string name="com_facebook_smart_device_instructions_or">- OR -</string>
+    <string name="com_facebook_smart_login_confirmation_cancel">Not you?</string>
+    <string name="com_facebook_smart_login_confirmation_continue_as">Continue as %1$s</string>
+    <string name="com_facebook_smart_login_confirmation_title">Confirm Login</string>
+    <string name="com_facebook_tooltip_default">"You're in control - choose what info you want to share with apps."</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play services availability</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="configure_my_new_node_access_wifi">"Configure my device's Wi-Fi"</string>
+    <string name="configure_my_node_wifi">"Configure my AirVisual Pro's Wi-Fi"</string>
+    <string name="configure_my_note_title">Manage my devices &amp; Wi-Fi</string>
+    <string name="configure_wifi">Configure Wi-Fi</string>
+    <string name="confirm_new_paassword">Confirm new password</string>
+    <string name="connect">Connect</string>
+    <string name="connectToNode">"Connecting to your device's Wi-Fi hotspot"</string>
+    <string name="connecting">Connecting…</string>
+    <string name="conneted">Connected</string>
+    <string name="contact_us">Contact us</string>
+    <string name="crop">Crop</string>
+    <string name="crop_again">Crop again</string>
+    <string name="crop_image_activity_no_permissions">Cancelling, required permissions are not granted</string>
+    <string name="crop_image_activity_title" />
+    <string name="crop_image_menu_crop">Crop</string>
+    <string name="crop_image_menu_flip">Flip</string>
+    <string name="crop_image_menu_flip_horizontally">Flip horizontally</string>
+    <string name="crop_image_menu_flip_vertically">Flip vertically</string>
+    <string name="crop_image_menu_rotate_left">Rotate counter clockwise</string>
+    <string name="crop_image_menu_rotate_right">Rotate</string>
+    <string name="current_password">Current password</string>
+    <string name="daily">Daily</string>
+    <string name="daily_notifications">Daily notifications</string>
+    <string name="data_not_available">Your location is not available, please retry later</string>
+    <string name="data_source">Data Sources</string>
+    <string name="db_creation_failed">Unable to create database</string>
+    <string name="db_lost">Insufficient space available - the app needs 10MB free to work</string>
+    <string name="delete">Delete</string>
+    <string name="device_already_in_my_air_msg">"Device already added to 'My Air' favorites"</string>
+    <string name="device_registered">Device registered</string>
+    <string name="device_widget">Device widget</string>
+    <string name="device_widget_desc">Choose device to show in your widget</string>
+    <string name="do_you_want_to_delete">Delete selected location?</string>
+    <string name="done">Done</string>
+    <string name="earth">AirVisual Earth</string>
+    <string name="edit_name">Edit name</string>
+    <string name="email_unknown">This email address does not match any user</string>
+    <string name="enable_location_permission_button">Enable</string>
+    <string name="enable_location_permission_msg">Enable location permission to get air quality around you</string>
+    <string name="error">Error</string>
+    <string name="errorConnectionDevice">Error while connecting to your device, please retry</string>
+    <string name="error_message">Your request cannot be processed right now. Please try again.</string>
+    <string name="estimated">(estimated)</string>
+    <string name="facebook_api_id">398656046993675</string>
+    <string name="faq">FAQ</string>
+    <string name="fb_login_protocol_scheme">fb398656046993675</string>
+    <string name="feedback_message">Support us and help more people find cleaner, healthier air by rating the app?</string>
+    <string name="feedback_notice">Enjoying the AirVisual app? Please rate the app to help more people access air quality information!</string>
+    <string name="feedback_notice_v2">Enjoying the AirVisual app? Please rate the app to help more people access air quality information!</string>
+    <string name="feedback_title">Enjoying the AirVisual app?</string>
+    <string name="field_required">Field is required</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="gallery">Gallery</string>
+    <string name="get_help">Get help</string>
+    <string name="get_started">Get started</string>
+    <string name="google_maps_api_key">AIzaSyD9dWUPn0TEGvB1MRPHIlukx2DP9twJMmk</string>
+    <string name="health_recommendations">Health recommendations</string>
+    <string name="help_register_my_device">Help me register my device</string>
+    <string name="help_tutorials">Help &amp; Tutorials</string>
+    <string name="history">History</string>
+    <string name="history_pm25">History PM2.5</string>
+    <string name="hourly">Hourly</string>
+    <string name="how_to_find_my_sharing_code">How to find my share code?</string>
+    <string name="humidity">Humidity</string>
+    <string name="indoor">Indoor</string>
+    <string name="info_co_desc_1_caption">What is carbon monoxide?</string>
+    <string name="info_co_desc_2">Carbon monoxide (CO), known as the silent killer, is an odourless, colourless gas. Carbon Monoxide reaches dangerous levels when a gas appliance has been incorrectly fitted, badly repaired or poorly maintained, or when flues, chimneys or vents are blocked – thus prohibiting airflow.</string>
+    <string name="info_co_desc_4">● Improper operation or poor ventilation of appliances that burn fossil fuels (wood, oil, gas or coal). Sources include fires, fireplaces and gas stoves, combustion from motor vehicles and power plants.</string>
+    <string name="info_co_desc_6"><b>Short term effects:</b>"
+
+ ● Oxygen deprivation, headaches, dizziness, drowsiness, weakness
+
+ ● Upset stomach, vomiting
+
+ ● Chest pain
+
+"<b> Long term effects:</b>"
+
+ ● Inhalation prevents blood cells from carrying oxygen"</string>
+    <string name="info_co_title">Carbon Monoxide</string>
+    <string name="info_no2_desc_1_caption">What is nitrogen dioxide?</string>
+    <string name="info_no2_desc_2">Nitrogen dioxide (NO2) is a major contributor to the formation of smog and a precursor to many harmful secondary pollutants including ozone and particulate matter.</string>
+    <string name="info_no2_desc_4">"● Organic sources: lightning, plants, water and soil 
+● Inorganic sources: motor vehicle emissions, unfiltered gas heaters, cookers, various industrial activities"</string>
+    <string name="info_no2_desc_6"><b>Short term effects:</b>"
+
+ ● Irritation to the lungs
+
+ ● Reduced resistance to respiratory infection
+
+"<b> Long term effects:</b>"
+
+ ● Development of asthma and increased risk to experience more frequent and intense asthma attacks
+
+ ● Lung tissue damage
+
+ ● Premature death"</string>
+    <string name="info_no2_title">NO2</string>
+    <string name="info_o3_desc_1_caption">What is Ozone?</string>
+    <string name="info_o3_desc_2">Ozone (O3) is a gas formed by solar ultraviolet radiation (sunlight) and oxygen molecules. Ozone is a naturally occurring compound in the atmosphere that plays a vital role in blocking out harmful UV rays from the sun - at the ground level, however, ozone is toxic.</string>
+    <string name="info_o3_desc_4">While other pollutants are emitted directly into the air by various sources, ozone is simply created by sunlight acting on nitrogen oxides (NO) and volatile organic compounds (VOC) in the atmosphere. For this reason, Ozone is the most pervasive and most difficult to control of the six pollutants.</string>
+    <string name="info_o3_desc_6"><b>Short term effects:</b>"
+
+ ● Shortness of breath
+
+ ● Pain during deep breaths
+
+ ● Wheezing and coughing
+
+"<b> Long term effects:</b>"
+
+ ● Reductions in lung function
+
+ ● Inflammation of the lung lining
+
+ ● Respiratory discomfort"</string>
+    <string name="info_o3_title">O3</string>
+    <string name="info_pm10_desc_1_caption">What is PM10?</string>
+    <string name="info_pm10_desc_2">PM10 is suspended particulate matter in the air with a diameter of 10 micrometers or less (including smoke, soot, salts, acids, and metals). The difference between PM10 and PM2.5 is simply a matter of size - while PM2.5 is fine, PM10 is larger and coarser.</string>
+    <string name="info_pm10_desc_4">"● Dust from construction, landfill, and agriculture 
+● Dust blown from open lands 
+● Smoke from wildfires and waste burning 
+● Chemical reactions from industry 
+● Motor vehicles"</string>
+    <string name="info_pm10_desc_6"><b>Short term effects:</b>"
+
+ ● Difficulty breathing 
+
+ ● Chest pain 
+
+ ● General respiratory discomfort 
+
+ ● Sore throat 
+
+ ● Nasal congestion
+
+"<b> Long term effects:</b>"
+
+ ● Lung tissue damage 
+
+ ● Cancer 
+
+ ● Asthma 
+
+ ● Premature death"</string>
+    <string name="info_pm10_title">PM10</string>
+    <string name="info_pm_25_desc_1_caption">What is PM2.5?</string>
+    <string name="info_pm_25_desc_2">PM2.5 particles are floating particulate matter in the air measuring 2.5 micrometers in diameter or less. PM2.5 is so small it can be absorbed into the bloodstream upon inhalation. For this reason, it is typically the pollutant posing the greatest health threat.</string>
+    <string name="info_pm_25_desc_3_caption">Where does it come from?</string>
+    <string name="info_pm_25_desc_4">"Sources can be emitted from either manmade or natural sources, or created by other pollutants.
+
+
+
+ ● Combustion resulting from power plants 
+
+ ● Smoke and soot from wildfires and waste burning 
+
+ ● Vehicular emissions and combustion from motors 
+
+ ● Industrial processes involving chemical reactions between gases (sulfur dioxide, nitrogen oxides, and volatile organic compounds)"</string>
+    <string name="info_pm_25_desc_6_caption">How does it affect our health?</string>
+    <string name="info_pm_25_desc_7"><b>Short term effects:</b>"
+
+ ● Irritation to the eyes, throat, and nose
+
+ ● Irregular heartbeats
+
+ ● Asthma attacks
+
+ ● Coughing, chest tightness, and shortness of breath
+
+"<b> Long term effects:</b>"
+
+ ● Respiratory illnesses such as bronchitis, asthma, emphysema
+
+ ● Lung tissue damage
+
+ ● Cancer
+
+ ● Heart attack
+
+ ● Stroke
+
+ ● Premature death"</string>
+    <string name="info_pm_25_title">PM2.5</string>
+    <string name="info_so2_desc_1_caption">What is sulphur dioxide?</string>
+    <string name="info_so2_desc_2">Sulphur dioxide (SO2) is a colourless gas. It belongs to a group of highly reactive gasses known as the “oxides of sulphur.” They easily react together to form harmful compounds such as sulphuric acid, sulphurous acid, and sulphate particles.</string>
+    <string name="info_so2_desc_4">"● Industrial activity that uses materials containing sulphur to generate electricity 
+● Motor vehicles as a result of fuel combustion"</string>
+    <string name="info_so2_desc_6"><b>Short term effects:</b>"
+
+ ● Wheezing 
+
+ ● Chest tightness 
+
+ ● Shortness of breath
+
+"<b> Long term effects:</b>"
+
+ ● Respiratory illness 
+
+ ● Alterations in the lungs’ defences 
+
+ ● Increased cardiovascular disease"</string>
+    <string name="info_so2_title">SO2</string>
+    <string name="ip_location_failed">IP geolocation failed</string>
+    <string name="join_other_networks">Add a network</string>
+    <string name="kmh">km/h</string>
+    <string name="label_air_quality_is_now">Air quality is now</string>
+    <string name="label_aqi_category_beyond_index">Beyond index</string>
+    <string name="label_aqi_category_unhealthy_for_sensitive_groups_short">Unhealthy for SG</string>
+    <string name="label_aqi_now">AQI now</string>
+    <string name="label_today">Today</string>
+    <string name="label_tomorrow">Tomorrow</string>
+    <string name="last_update">Last update:</string>
+    <string name="lastupdate">Last update: %s</string>
+    <string name="local_time">Local time</string>
+    <string name="locate_my_city">Locate my city</string>
+    <string name="locate_your_node">Locate your device</string>
+    <string name="location_type">Select a location type</string>
+    <string name="logout">Logout</string>
+    <string name="manage_and_configure_my_devices">Manage and configure my devices</string>
+    <string name="manually_chooose_my_city">Manually choose my city</string>
+    <string name="map">Map</string>
+    <string name="matched">Matched</string>
+    <string name="maximum_number_of_nodes_reached">You must upgrade your account to register more devices. Visit airvisual.com for more information</string>
+    <string name="messenger_send_button_text">Send</string>
+    <string name="mgm3">mg/m³</string>
+    <string name="monitoring_places">Outdoor locations</string>
+    <string name="monthly">Monthly</string>
+    <string name="mph">mph</string>
+    <string name="msg_facebook_user">Profile name and photo linked to Facebook account. Cannot change through this app</string>
+    <string name="msg_image_is_too_small">Image is too small</string>
+    <string name="msg_name_empty">Name is empty</string>
+    <string name="msg_node_click_on_setting_icon_not_connected">Your device must be connected to Wi-Fi to access its settings</string>
+    <string name="msg_update_error">Error while updating</string>
+    <string name="msg_update_picture_error">Error uploading picture</string>
+    <string name="my_air">My Air</string>
+    <string name="my_city">My City</string>
+    <string name="my_city_desc">Let AirVisual access your location to provide you with the most relevant air quality and weather information</string>
+    <string name="my_devices">My devices</string>
+    <string name="my_home_node">My home device</string>
+    <string name="my_indoor_environment">My indoor environment</string>
+    <string name="my_places">My locations</string>
+    <string name="my_stations">My Stations</string>
+    <string name="n2">NO2</string>
+    <string name="name">Name</string>
+    <string name="name_your_node">Name your device</string>
+    <string name="nav_add_and_configure_my_device">"Manage my devices
+&amp; Wi-Fi"</string>
+    <string name="nav_add_by_sharing_code">"Follow a device
+by share code"</string>
+    <string name="nearest">Nearest:</string>
+    <string name="nearest_place">Nearest location</string>
+    <string name="network_name">Network name</string>
+    <string name="new_here">New here?</string>
+    <string name="new_name">New name</string>
+    <string name="new_password">New password</string>
+    <string name="news">News &amp; Ranking</string>
+    <string name="news_title">News</string>
+    <string name="next">Next</string>
+    <string name="no">No</string>
+    <string name="no_data">No data</string>
+    <string name="no_data_available">No data available</string>
+    <string name="no_device">"No device "</string>
+    <string name="no_help_register_my_device">No, help me register my device</string>
+    <string name="no_internet_connection_available">No internet connection available</string>
+    <string name="no_location_msg">Failed to detect your location. Retry, or skip to continue</string>
+    <string name="no_location_msg_nearest_widget">Failed to detect your location, please retry.</string>
+    <string name="no_result">No results</string>
+    <string name="no_signin_to_another_account">No, sign in to another account</string>
+    <string name="no_try_another_serial_number">No, try another serial number</string>
+    <string name="nodeRegisterPasswordError">Error while device is trying connect to Wi-Fi</string>
+    <string name="node_is_connected_seen">Connected</string>
+    <string name="node_is_not_connected_seen">Not connected</string>
+    <string name="node_last_seen">, last seen: %s</string>
+    <string name="node_name">Device name</string>
+    <string name="node_not_found">"No device found
+Make sure the device is ready for pairing, by pressing the center \"OK\" button for 3 seconds, then click refresh"</string>
+    <string name="node_owner_account">Device owner account</string>
+    <string name="not_in_list">Location was not in list</string>
+    <string name="not_matched">Confirm password does not match</string>
+    <string name="not_now">Not now</string>
+    <string name="notifications">Notifications</string>
+    <string name="now">Now</string>
+    <string name="o3">O3</string>
+    <string name="ok">OK</string>
+    <string name="ok_my_node_connected">Device is connected</string>
+    <string name="opacity_percent">Opacity: %d</string>
+    <string name="or_sign_in_with">Or sign in with:</string>
+    <string name="other">Other</string>
+    <string name="outdoor">Outdoor</string>
+    <string name="outdoor_search_nearest">Find nearest outdoor station</string>
+    <string name="parameters_missing">Something wrong happen, please try later.</string>
+    <string name="password">Password</string>
+    <string name="password_incorrect">"Couldn't sign in, please check your email and password and try again"</string>
+    <string name="password_label">Password</string>
+    <string name="password_required_8_character">Password should contain at least 8 characters</string>
+    <string name="password_toggle_content_description">Toggle password visibility</string>
+    <string name="password_too_long">Password is too long</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="pick_image_intent_chooser_title">Select source</string>
+    <string name="pin_your_node">Locate your AirVisual Pro</string>
+    <string name="place_not_found">Location not found</string>
+    <string name="plus_minus">+/-</string>
+    <string name="pm10">PM10</string>
+    <string name="pm25">PM2.5</string>
+    <string name="pm_concentration">Main pollutant concentration</string>
+    <string name="pm_concentration_desc">Display the main pollutant concentration: %s</string>
+    <string name="pollen">Pollen</string>
+    <string name="pollutants">Pollutants</string>
+    <string name="pollution">Pollution</string>
+    <string name="popular_cities">Popular cities</string>
+    <string name="poweredBy">Powered by</string>
+    <string name="ppb">ppb</string>
+    <string name="ppm">ppm</string>
+    <string name="privacy">Privacy</string>
+    <string name="profile">Profile</string>
+    <string name="provider_airvisual">com.airvisual.fileprovider</string>
+    <string name="ranking_CN_AQI">CN AQI</string>
+    <string name="ranking_title">Ranking</string>
+    <string name="rate_msg">Support us and help more people find cleaner, healthier air by rating the app?</string>
+    <string name="rate_the_app">Rate the app!</string>
+    <string name="rate_us_on_google_play">Rate the app</string>
+    <string name="refresh">Refresh</string>
+    <string name="register">Register</string>
+    <string name="register_device">"Register a
+device"</string>
+    <string name="register_my_new_node">Register my AirVisual Pro</string>
+    <string name="register_node_already_registered_desc_1">Your device is already registered</string>
+    <string name="register_node_already_registered_desc_10">Your device has been successfully registered!</string>
+    <string name="register_node_already_registered_desc_11">To view your device information through the AirVisual app and website, it must be connected to Wi-Fi</string>
+    <string name="register_node_already_registered_desc_2">Note: if you already registered your device, it may take some minutes to become visible in your devices list</string>
+    <string name="register_node_already_registered_desc_3">This device is registered to the following user:</string>
+    <string name="register_node_already_registered_desc_4">If this was you, please sign in to confirm your identity</string>
+    <string name="register_node_already_registered_desc_5">You are currently signed in with the following account</string>
+    <string name="register_node_already_registered_desc_6">Register your device to this account?</string>
+    <string name="register_node_already_registered_desc_7">Is your device indoor or outdoor?</string>
+    <string name="register_node_already_registered_desc_8">This will be displayed in the app</string>
+    <string name="register_node_already_registered_desc_9">To receive accurate outdoor air quality information and improved recommendations</string>
+    <string name="register_node_already_registered_need_help">Need help to register your device?</string>
+    <string name="register_node_already_registered_title">Device already registered</string>
+    <string name="register_node_confirm_pairing_desc">"Does your device's screen say
+'"<b>Pairing Mode</b>"'?"</string>
+    <string name="register_node_confirm_pairing_mode">Confirm pairing mode</string>
+    <string name="register_node_confirm_pairing_mode_title">Configure Wi-Fi</string>
+    <string name="register_node_connecting_to_node_wifi_hotspot">"Connecting to your device's
+Wi-Fi hotspot"</string>
+    <string name="register_node_connection_to">Connection to:</string>
+    <string name="register_node_connection_to_desc">Your AirVisual device will use this Wi-Fi network to connect to the internet</string>
+    <string name="register_node_desc">Enter your device serial number (find this on its back)</string>
+    <string name="register_node_done">Done!</string>
+    <string name="register_node_done_desc_1">Your device will now restart.</string>
+    <string name="register_node_done_desc_2">"Please return to your phone's original Wi-Fi settings to reconnect to the internet."</string>
+    <string name="register_node_find_private_wifi">Find a hidden Wi-Fi network</string>
+    <string name="register_node_find_private_wifi_desc">Enter the name and security type of the network you would like to join:</string>
+    <string name="register_node_go_back_to_manager_my_devices">Go back to manage my devices</string>
+    <string name="register_node_prepair_your_node_desc_1">"Turn on your AirVisual device's hotspot by holding down the center button"</string>
+    <string name="register_node_prepair_your_node_desc_2">"Wait until the screen says '"<b>Pairing Mode</b>"'"</string>
+    <string name="register_node_select_wifi_for_node">"Select a Wi-Fi network
+for your AirVisual device"</string>
+    <string name="register_node_select_wifi_for_node_desc">"This will be your device's default Wi-Fi network"</string>
+    <string name="register_node_serial_number">Serial number</string>
+    <string name="register_node_title">Register a new device</string>
+    <string name="register_node_your_node_should_appear_below">"Your device should appear below,
+click on it to connect"</string>
+    <string name="regsiter_node_prepair_your_node">Prepare your device for pairing</string>
+    <string name="reset_password">Reset password</string>
+    <string name="reset_password_desc">To reset your password, please enter the email you use to sign in to AirVisual:</string>
+    <string name="reset_password_success">We have sent a reset link to your email, please check your inbox.</string>
+    <string name="resources_title">Resources</string>
+    <string name="room_type">Select a room type</string>
+    <string name="s2">SO2</string>
+    <string name="save">Save</string>
+    <string name="saved">Saved</string>
+    <string name="scan_sharing_code">"Scan a
+share code"</string>
+    <string name="search_for_city_or_place">Search for a location</string>
+    <string name="search_for_place">Search for a location</string>
+    <string name="search_menu_title">Search</string>
+    <string name="security">Security</string>
+    <string name="select_security">Select security</string>
+    <string name="send">Send</string>
+    <string name="serial_number_is_required">A serial number is required</string>
+    <string name="serial_number_not_found">"This serial number doesn't exist, try another one"</string>
+    <string name="share">Share</string>
+    <string name="share_message">The AQI is %1$s in %2$s, see more on AirVisual %3$s</string>
+    <string name="share_node_desc">[current_user_name] wants to share their air quality information with you. Download the AirVisual app on https://www.airvisual.com/app and use this share code to follow [current_user_name]: [sharing_code]</string>
+    <string name="share_to">Share to</string>
+    <string name="share_with_friends">Share with friends</string>
+    <string name="sharing_code">Share code</string>
+    <string name="sharing_code_not_found">Share code not found</string>
+    <string name="shop">Shop</string>
+    <string name="show_pm_concentration">Show main pollutant concentration</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_in_to_register_node">Sign in to register an AirVisual Pro</string>
+    <string name="sign_in_to_verify_Node_ownership">Sign in to verify device ownership</string>
+    <string name="sign_up">Sign up</string>
+    <string name="sign_up_to_continue">Sign up to continue</string>
+    <string name="signin_with_facebook">Sign in with Facebook</string>
+    <string name="similar_compare_message">Your indoor and outdoor air quality are very similar</string>
+    <string name="skip">Skip</string>
+    <string name="skip_dont_want_to_locate_my_node">"Skip, I don't want to locate my device"</string>
+    <string name="station_not_found">Cannot locate a station nearby</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="success_add_device_favorite_msg">"Device has been added to your 'My Air' screen"</string>
+    <string name="success_add_favorite_msg">"%s has been added to your 'My Air' screen"</string>
+    <string name="success_remove_favorite_msg">"%s has been removed from your 'My Air' screen"</string>
+    <string name="suggested_clean_places_near_you">Suggested clean locations near you</string>
+    <string name="support">Support</string>
+    <string name="system_language">default</string>
+    <string name="system_permission">System permissions</string>
+    <string name="temperature">Temperature</string>
+    <string name="title_add_indoor_place">Add an indoor location</string>
+    <string name="title_add_outdoor_place">Add an outdoor location</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_register_device">Register a device</string>
+    <string name="title_scan_sharing_code">Scan a sharing code</string>
+    <string name="title_settings">Settings</string>
+    <string name="today">Today</string>
+    <string name="treshold_notifications">Threshold notifications</string>
+    <string name="try_again">Try again</string>
+    <string name="tutorials_screen">Tutorial</string>
+    <string name="ugm3">µg/m³</string>
+    <string name="unit_system">Unit system</string>
+    <string name="unit_system_c_km_metric">Metric (km, Celcius)</string>
+    <string name="unit_system_f_mi_imperial">Imperial (mi, Fahrenheit)</string>
+    <string name="unknown">Your request cannot be processed right now. Please try again later.</string>
+    <string name="update_and_notifications">Update and notifications</string>
+    <string name="update_name">Update name</string>
+    <string name="updating">Updating…</string>
+    <string name="us_aqi">US AQI</string>
+    <string name="use">Use</string>
+    <string name="user">User</string>
+    <string name="user_already_exist">This email address already has an account</string>
+    <string name="user_is_not_owner">Device not registered to current user profile</string>
+    <string name="user_not_found">"Couldn't sign in, please check your email and password and try again"</string>
+    <string name="user_preferences">User preferences</string>
+    <string name="uv_admin_response_format">Admin response: %1$s</string>
+    <string name="uv_all_articles">All Articles</string>
+    <string name="uv_all_results_filter">ALL</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article">Article</string>
+    <string name="uv_article_browse_question">Was this article helpful?</string>
+    <string name="uv_article_instant_answer_question">Is this article helpful?</string>
+    <string name="uv_articles_filter">ARTICLES</string>
+    <string name="uv_cancel">Cancel</string>
+    <string name="uv_category">Category</string>
+    <string name="uv_close">Close</string>
+    <string name="uv_comment_hint">Enter your comment</string>
+    <string name="uv_confirm">Confirm</string>
+    <string name="uv_contact_continue_button">I still want to send a message</string>
+    <string name="uv_contact_hint">Enter your question or feedback</string>
+    <string name="uv_contact_us">Contact us</string>
+    <string name="uv_display_name">Display name</string>
+    <string name="uv_email_address">Email address</string>
+    <string name="uv_email_address_hint">your@email.com (required)</string>
+    <string name="uv_error">Error</string>
+    <string name="uv_failed_signin_error">Incorrect email or password</string>
+    <string name="uv_feedback_forum">Feedback Forum</string>
+    <string name="uv_forgot_password">Forgot password</string>
+    <string name="uv_helpful_article_message_question">Do you still want to send a message?</string>
+    <string name="uv_i_want_this">I want this!</string>
+    <string name="uv_idea">Idea</string>
+    <string name="uv_idea_description_heading">Describe your idea in more detail</string>
+    <string name="uv_idea_description_hint">(optional)</string>
+    <string name="uv_idea_form_help">"When you post an idea on our forum, others will be able to subscribe to it and make comments. When we respond to the idea, you'll get notified."</string>
+    <string name="uv_idea_form_title">Post an idea</string>
+    <string name="uv_idea_text_heading">I suggest you…</string>
+    <string name="uv_idea_text_hint">Enter your idea…</string>
+    <string name="uv_ideas_filter">IDEAS</string>
+    <string name="uv_knowledge_base">Knowledge Base</string>
+    <string name="uv_loading">Loading…</string>
+    <string name="uv_matching_articles">Matching articles</string>
+    <string name="uv_matching_articles_and_ideas">Matching articles and ideas</string>
+    <string name="uv_matching_ideas">Matching ideas</string>
+    <string name="uv_menu_search">Search</string>
+    <string name="uv_msg_bad_email_format">Please enter a valid email address.</string>
+    <string name="uv_msg_comment_posted">Your comment has been posted</string>
+    <string name="uv_msg_confirm_discard_idea">Are you sure you want to discard your idea?</string>
+    <string name="uv_msg_confirm_discard_message">Are you sure you want to discard your message?</string>
+    <string name="uv_msg_custom_fields_validation">Please fill out all required fields.</string>
+    <string name="uv_msg_forgot_password">Forgot password email sent</string>
+    <string name="uv_msg_idea_created">Your idea has been created</string>
+    <string name="uv_msg_subscribe">"We'll update you as this idea progresses."</string>
+    <string name="uv_msg_subscribe_success">You have been subscribed to this idea.</string>
+    <string name="uv_msg_ticket_created">Your message has been sent</string>
+    <string name="uv_msg_unsubscribe">You have been unsubscribed from this idea.</string>
+    <string name="uv_msg_user_identity_validation">Please enter your email address</string>
+    <string name="uv_name_hint">“Anonymous”</string>
+    <string name="uv_network_error">There was an error connecting to UserVoice</string>
+    <string name="uv_nevermind">Nevermind</string>
+    <string name="uv_new_comment">New comment</string>
+    <string name="uv_next">Next</string>
+    <string name="uv_no">No</string>
+    <string name="uv_none_of_these_help">None of these help</string>
+    <string name="uv_password">Password</string>
+    <string name="uv_password_dialog_title">Please enter your password</string>
+    <string name="uv_portal_title">Help</string>
+    <string name="uv_post_a_comment">Post a comment</string>
+    <string name="uv_post_an_idea">Post an idea</string>
+    <string name="uv_post_comment">Post comment</string>
+    <string name="uv_post_idea_continue_button">I still want to post my idea</string>
+    <string name="uv_posted_by_format">Posted by %1$s on %2$s</string>
+    <string name="uv_powered_by_uservoice">Powered by UserVoice</string>
+    <string name="uv_ranked">Ranked %1$s</string>
+    <string name="uv_remove_votes">Remove Votes</string>
+    <string name="uv_select_none">(none)</string>
+    <string name="uv_select_one">Select one</string>
+    <string name="uv_send_message">Send message</string>
+    <string name="uv_signin_dialog_ok">Sign in</string>
+    <string name="uv_signin_dialog_title">Sign in</string>
+    <string name="uv_status_format">Status: %1$s</string>
+    <string name="uv_submit_idea">Submit idea</string>
+    <string name="uv_subscribe">Subscribe</string>
+    <string name="uv_subscribe_dialog_title">Subscribe to this idea</string>
+    <string name="uv_suggestion_instant_answer_question">Is this idea helpful?</string>
+    <string name="uv_thanks">Thanks!</string>
+    <string name="uv_title_idea">Idea</string>
+    <string name="uv_unhelpful_article_message_question">Would you like to send us a message?</string>
+    <string name="uv_value">Value</string>
+    <string name="uv_very_yes">Yes!</string>
+    <string name="uv_yes">Yes</string>
+    <string name="uv_your_email_address">Your email address</string>
+    <string name="uv_your_name">Your name</string>
+    <string name="version_app">Version %s</string>
+    <string name="visit_our_website">Visit our website</string>
+    <string name="voc">VOC</string>
+    <string name="waiting_for_network">Waiting for network</string>
+    <string name="warning_empty_email">Email address is required</string>
+    <string name="warning_empty_name">Name is required</string>
+    <string name="warning_empty_password">Password is required</string>
+    <string name="warning_invalid_email">Email is invalid</string>
+    <string name="warning_invalid_password">At least 8 characters including at least 1 number</string>
+    <string name="warning_no_connection">No internet connection available</string>
+    <string name="welcome">Welcome!</string>
+    <string name="widgetConfigureDeviceTitle">Choose an AirVisual Pro</string>
+    <string name="widgetConfigureStationOrCityTitle">Choose station or city</string>
+    <string name="widget_nearest_tracking_location_off">Click to enable your location to get air quality information around you</string>
+    <string name="widget_nearest_unknown_location">Click to allow AirVisual location access to provide you with nearby air quality information</string>
+    <string name="widget_opacity">Widget opacity</string>
+    <string name="widget_settings">Widget settings</string>
+    <string name="widget_title_1x1">1x1 AirVisual (small)</string>
+    <string name="widget_title_2x1">2x1 AirVisual (little)</string>
+    <string name="widget_title_2x2">2x2 AirVisual (medium)</string>
+    <string name="widget_title_device">5x2 AirVisual Pro</string>
+    <string name="widget_title_litle">2x1 AirVisual (little)</string>
+    <string name="widget_title_station">5x2 AirVisual (big)</string>
+    <string name="widget_unknown">Please set the widget information from AirVisual app settings</string>
+    <string name="widgets">Widgets</string>
+    <string name="widgets_desc">Choose locations to show in your widget</string>
+    <string name="wifi_access">Wi-Fi access</string>
+    <string name="wifi_password">Wi-Fi Password:</string>
+    <string name="wifi_settings">Wi-Fi settings</string>
+    <string name="wrong_coordinates">Invalid GPS co-ordinates</string>
+    <string name="wrong_login_token">Wrong login token</string>
+    <string name="wrong_old_password">Current password incorrect</string>
+    <string name="x_days_forecast">7-Day Forecast</string>
+    <string name="yes">Yes</string>
+    <string name="yes_that_me">"Yes, that's me"</string>
+    <string name="your_city">Your city</string>
+    <string name="your_email">Email</string>
+    <string name="your_name">Name</string>
+    <string name="your_password">Password</string>
+    <string name="your_wifi_is_currently_connected">Your Wi-Fi is currently connected</string>
+    <string name="your_wifi_is_not_currently_connected">Your Wi-Fi is not connected</string>
+</resources>

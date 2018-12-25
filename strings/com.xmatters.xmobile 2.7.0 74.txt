@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="account_disconnected">"Account &lt;b>%1$s&lt;/b>
+is disconnected"</string>
+    <string name="account_manager_not_accessible">To add an account, open the xMatters app.</string>
+    <string name="account_menu_item_title">%1$s - %2$s</string>
+    <string name="account_settings">Account Information</string>
+    <string name="account_settings_category_title">Account</string>
+    <string name="activity_not_found">Unable to launch the selected activity</string>
+    <string name="add">Add</string>
+    <string name="add_account">Add Account</string>
+    <string name="add_device">Add Device</string>
+    <string name="add_starred_contacts">Add Starred Contacts</string>
+    <string name="add_timeframe">Add Timeframe</string>
+    <string name="add_to_group">Add to Group</string>
+    <string name="add_to_group_name_hint">Name *</string>
+    <string name="add_wait_label">Add wait</string>
+    <string name="alert_by">by %1$s</string>
+    <string name="alert_message_response_not_allowed">This action is not available.</string>
+    <string name="alert_status">alert status</string>
+    <string name="all_events">All Events</string>
+    <string name="all_messages">All Messages</string>
+    <string name="app_name">xMatters</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="application_not_supported">This application is not currently supported.</string>
+    <string name="attach_from_gallery">Attach from Gallery</string>
+    <string name="attach_image">Attach image</string>
+    <string name="attachment_limit">The maximum number of attachments has been reached.</string>
+    <string name="authorisation">Authorization Required</string>
+    <string name="available_domain_message">Email addresses must belong to the following domain:</string>
+    <string name="available_domain_title">Available domain</string>
+    <string name="available_domains_message">Email addresses must belong to one of the following domains:</string>
+    <string name="available_domains_title">Available domains</string>
+    <string name="back">Back</string>
+    <string name="bad_request_post_call">Invalid request body</string>
+    <string name="before_label">before</string>
+    <string name="before_shift_start_label">Remind me 1 hr before shift start</string>
+    <string name="before_shift_start_time_label">1 hr</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="brackets">(%1$s)</string>
+    <string name="bridge">Bridge</string>
+    <string name="bridge_number">Bridge Number: </string>
+    <string name="bridge_number_input_hint">Bridge Number *</string>
+    <string name="call_me">Call me</string>
+    <string name="call_phone">Call</string>
+    <string name="cancel">Cancel</string>
+    <string name="cancel_response">Cancel Response</string>
+    <string name="cancel_response_confirmation">Do you want to cancel your response?</string>
+    <string name="cancel_response_no">No</string>
+    <string name="cancel_response_yes">Yes</string>
+    <string name="cannot_connect">"Cannot connect
+to xMatters"</string>
+    <string name="cannot_connect_dialog">Cannot connect to xMatters</string>
+    <string name="cannot_connect_sso_dialog">Cannot connect to Single Sign-On</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="clicked_conf_bridge_position">Clicked conf bridge position</string>
+    <string name="clicked_starred_recipient_position">Clicked starred recipient position</string>
+    <string name="clip_line_diminished">M 37.8337860107 -40.4599914551 c 0.0 0.0 -35.8077850342 31.5523681641 -35.8077850342 31.5523681641 c 0.0 0.0 9.55097961426 9.55285644531 9.55097961426 9.55285644531 c 0.0 0.0 -2.61698913574 2.09387207031 -2.61698913574 2.09387207031 c 0.0 0.0 -9.75096130371 -9.56428527832 -9.75096130371 -9.56428527832 c 0.0 0.0 -34.6200408936 25.4699249268 -34.6200408936 25.4699249268 c 0.0 0.0 55.9664764404 69.742401123 55.9664764404 69.742401123 c 0.0 0.0 73.2448120117 -59.1047973633 73.2448120117 -59.1047973633 c 0.0 0.0 -55.9664916992 -69.7423400879 -55.9664916992 -69.7423400879 Z</string>
+    <string name="clip_line_full">M 37.8337860107 -40.3974914551 c 0.0 0.0 -35.8077850342 31.5523681641 -35.8077850342 31.5523681641 c 0.0 0.0 40.9884796143 40.9278411865 40.9884796143 40.9278411865 c 0.0 0.0 -2.61700439453 2.0938873291 -2.61700439453 2.0938873291 c 0.0 0.0 -41.1884460449 -40.9392852783 -41.1884460449 -40.9392852783 c 0.0 0.0 -34.6200408936 25.4699249268 -34.6200408936 25.4699249268 c 0.0 0.0 55.9664764404 69.742401123 55.9664764404 69.742401123 c 0.0 0.0 73.2448120117 -59.1047973633 73.2448120117 -59.1047973633 c 0.0 0.0 -55.9664916992 -69.7423400879 -55.9664916992 -69.7423400879 Z</string>
+    <string name="close_button">Close</string>
+    <string name="comma">",
+"</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="communication_plan_list_title">Communication Plans</string>
+    <string name="complete">Complete</string>
+    <string name="conf_bridge_details_label">%1$s by %2$s</string>
+    <string name="conf_bridge_discard_changes_message">Do you want to discard changes to conference bridge settings?</string>
+    <string name="conf_bridge_saved_message">Conference Bridge Saved</string>
+    <string name="conf_bridge_section_label">Conference Bridges</string>
+    <string name="confirm_exit">Confirm Exit</string>
+    <string name="confirm_overwrite_device_reg">This Device Name is already assigned to another Device; if you reassign this Device Name, the other Device will no longer receive notifications. Do you want to proceed?</string>
+    <string name="confirm_overwrite_device_reg_title">Device Name In Use</string>
+    <string name="connection_error">An error occurred while connecting to the xMatters server</string>
+    <string name="contact_not_available">Contact Not Available</string>
+    <string name="contact_not_available_message">This contact is no longer available and will be removed from your list of starred contacts.</string>
+    <string name="contact_search_title">Contacts</string>
+    <string name="contact_specific_local_time">%s local time</string>
+    <string name="continue_action">Continue</string>
+    <string name="continue_button">Continue</string>
+    <string name="copy_to_clipboard">Copy to clipboard</string>
+    <string name="could_not_validate_phone_number">Could not validate phone number +%1$s %2$s. Do you want to continue?</string>
+    <string name="count_overflow">Showing only the first %d results</string>
+    <string name="country_code_empty_validation_error">Country code cannot be empty</string>
+    <string name="create_group">Create Group</string>
+    <string name="create_new_xmatters_bridge">New xMatters Bridge</string>
+    <string name="cross_line_diminished">M 7.54049682617 3.9430847168 l 0 0</string>
+    <string name="cross_line_full">M 7.54049682617 3.9430847168 l 35 35</string>
+    <string name="custom_section">Custom Section</string>
+    <string name="custom_sound_enable">Custom Sound</string>
+    <string name="custom_sound_priority_description">Set the minimum priority level that notifications must meet or exceed for the custom sound to be played.</string>
+    <string name="custom_sound_selection">Sound</string>
+    <string name="custom_sound_selection_default_txt">Select sound</string>
+    <string name="custom_sounds">Custom Sounds</string>
+    <string name="days">days</string>
+    <string name="deactivating_device">Deactivating device…</string>
+    <string name="default_device_info_text">xMatters uses failsafe devices to contact users when they are targeted as a part of the group and have no other active devices with an active timeframe.</string>
+    <string name="delete">Delete</string>
+    <string name="delete_device_confirmation_message">Do you want to delete the device %s ?</string>
+    <string name="delete_device_confirmation_title">Delete device</string>
+    <string name="delete_timeframe_error">Cannot delete the last timeframe.</string>
+    <string name="delivered">Delivered</string>
+    <string name="description">Description</string>
+    <string name="device_active_status_label">Active</string>
+    <string name="device_default_device_label">Default Device</string>
+    <string name="device_delay_label">Device Wait (Delay)</string>
+    <string name="device_in_use_description">In use</string>
+    <string name="device_list_title">Devices</string>
+    <string name="device_name">Device Name</string>
+    <string name="device_name_inactive">%s (inactive)</string>
+    <string name="device_picker_help">This name is required by xMatters to identify this device when sending notifications.</string>
+    <string name="device_picker_skip_button">Skip this step</string>
+    <string name="device_picker_title">Select a Device Name</string>
+    <string name="device_priority_threshold_label">Priority Threshold</string>
+    <string name="device_registration_failed">Device registration failed</string>
+    <string name="device_selection_indicator">Device selection indicator</string>
+    <string name="device_setting_title">My %s Settings</string>
+    <string name="device_successful_added_message">%1$s added successfully</string>
+    <string name="device_successful_toast_message">%1$s details saved</string>
+    <string name="device_time_delay_label1">Wait for</string>
+    <string name="device_time_delay_label2">min, then notify</string>
+    <string name="device_time_delay_label3">Wait for %s min, then notify</string>
+    <string name="device_timeframes_label">Timeframes</string>
+    <string name="device_type_email_label">Email Address</string>
+    <string name="device_type_fax_label">Fax Number</string>
+    <string name="device_type_mobile_label">Mobile Device Name</string>
+    <string name="device_type_numeric_pager_label">Numeric Pager Number</string>
+    <string name="device_type_text_pager_label">Pager Number</string>
+    <string name="device_type_text_phone_label">Text Phone Number</string>
+    <string name="device_type_voice_label">Voice Phone Number</string>
+    <string name="device_validation">Device Validation</string>
+    <string name="dialog_title_login">Log in to xMatters</string>
+    <string name="discard_changes_title">Discard changes?</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="do_you_want_to_remove_this_image">Do you want to remove this image?</string>
+    <string name="document_upload">Image Upload</string>
+    <string name="done">Done</string>
+    <string name="drag_to_reorder">Drag to reorder</string>
+    <string name="duration_edittext_default_vaue">24h 00m</string>
+    <string name="duration_heading">Duration</string>
+    <string name="dynamic_teams_not_supported_message">Use the web user interface to preview dynamic team members.</string>
+    <string name="edit_device_discard_changes_message">Do you want to discard changes to device settings?</string>
+    <string name="edit_timeframe">Edit Timeframe</string>
+    <string name="edit_timeline">Edit Timeline</string>
+    <string name="edit_timeline_discard_changes_message">Do you want to discard changes to device timeline?</string>
+    <string name="edit_timeline_warning_message">A wait cannot occur at the start or end of the timeline.</string>
+    <string name="email_device">Email</string>
+    <string name="email_not_configured_message">Email is not configured. Please configure your email.</string>
+    <string name="empty_form">Empty Form</string>
+    <string name="enable">Enable</string>
+    <string name="end_label">End</string>
+    <string name="enter_number_to_join_conference">Enter your phone number to have xMatters call you to join the conference.</string>
+    <string name="events">Events</string>
+    <string name="exclude_holidays">Exclude Holidays</string>
+    <string name="extension">ext:</string>
+    <string name="extension_hint">Ext</string>
+    <string name="external_bridges_label">External Bridges</string>
+    <string name="failed">Failed</string>
+    <string name="failed_to_sent_message">"Failed to Send Message:
+%s"</string>
+    <string name="failed_to_upload_file">Failed to upload file.</string>
+    <string name="failsafe_device_title">Failsafe Device</string>
+    <string name="field_locked">Field Locked</string>
+    <string name="field_locked_message">This field cannot be modified because it is locked by an external system.</string>
+    <string name="file_exceeds_limit">The selected file could not be uploaded as it would exceed the maximum size limit.</string>
+    <string name="file_provider_authority">com.xmatters.xmobile.fileProvider</string>
+    <string name="form">form</string>
+    <string name="form_or_scenario_not_available">This %s is not available.</string>
+    <string name="form_or_scenario_not_available_message">This %s is no longer available and will be removed from your list of starred items.</string>
+    <string name="form_title_case">Form</string>
+    <string name="forms_header">Forms</string>
+    <string name="gcm_fallback_notification_channel_label">Miscellaneous</string>
+    <string name="generic_device_description_label">Device Description</string>
+    <string name="group_label">GROUPS</string>
+    <string name="group_name_conflict_error">Group name already exists.</string>
+    <string name="group_not_available">Group Not Available</string>
+    <string name="group_not_available_message">This group is no longer available and will be removed from your list of starred groups.</string>
+    <string name="group_not_existing">This group does not exist.</string>
+    <string name="h">h</string>
+    <string name="handling_options_priority">Priority</string>
+    <string name="handling_options_section">Handling</string>
+    <string name="hierarchy_select_hint">Tap to select a value in the hierarchy</string>
+    <string name="high_priority">High Priority</string>
+    <string name="high_priority_threshold">High priority events only</string>
+    <string name="hr">hr</string>
+    <string name="hrs">hrs</string>
+    <string name="ignore">Ignore</string>
+    <string name="image_uploaded">Image Uploaded</string>
+    <string name="images_will_be_discarded">Images will be discarded.</string>
+    <string name="in_progress">In Progress</string>
+    <string name="inactive_device_message">You cannot contact an inactive device.</string>
+    <string name="inactive_group_message">You cannot view the roster for an inactive group.</string>
+    <string name="inactive_or_no_permission_user">Your account is not active or does not have the required permissions; contact your xMatters Administrator for more information.</string>
+    <string name="inactive_tag">(inactive)</string>
+    <string name="inactive_user_message">You cannot view the contact details for an inactive user.</string>
+    <string name="incoming_notification">Incoming xMatters Notification</string>
+    <string name="interval">Interval</string>
+    <string name="invalid_email_address">Not a valid email address.</string>
+    <string name="invalid_file_type">File type not supported.</string>
+    <string name="invalid_phone_number">Invalid phone number.</string>
+    <string name="invalid_phone_number_title">Invalid Phone Number</string>
+    <string name="invalid_pipe_character">Group names cannot contain a pipe (|) character</string>
+    <string name="invalid_qr_code">Invalid QR code</string>
+    <string name="invalid_settings">Invalid xMatters Host Name, Username, or Password</string>
+    <string name="invalid_ssl_cert_body">There is a problem with your single sign-on security certificate. Do you want to continue?</string>
+    <string name="invalid_ssl_cert_title">Invalid Security Certificate</string>
+    <string name="invalid_sso_url">"Your company's Single Sign-On URL is unavailable. Click Continue to log in with your xMatters username and password."</string>
+    <string name="join_conference">Join Conference</string>
+    <string name="label_button_active_alerts">Active</string>
+    <string name="label_button_all_alerts">All</string>
+    <string name="label_non_production">NP</string>
+    <string name="label_production">P</string>
+    <string name="last_message_check_timestamp">last_message_check_timestamp</string>
+    <string name="letter_f">F</string>
+    <string name="letter_m">M</string>
+    <string name="letter_s">S</string>
+    <string name="letter_t">T</string>
+    <string name="letter_w">W</string>
+    <string name="loading">Loading…</string>
+    <string name="login_action">Login</string>
+    <string name="logout">Log Out</string>
+    <string name="low_priority">Low Priority</string>
+    <string name="m">m</string>
+    <string name="max_days_till_switch">7</string>
+    <string name="medium_priority">Medium Priority</string>
+    <string name="medium_priority_threshold">Medium and higher priority events</string>
+    <string name="message_sent">Message Sent</string>
+    <string name="min">min</string>
+    <string name="missing_host_message">Ensure that you have specified an xMatters Host</string>
+    <string name="missing_settings_message">Ensure that you have specified a Username and Password.</string>
+    <string name="missing_settings_title">Missing Settings</string>
+    <string name="mobile_device_description">Mobile App</string>
+    <string name="more_detail">More Details</string>
+    <string name="multi_select_hint">Multi Select</string>
+    <string name="my_devices_time_label_m">%dm</string>
+    <string name="my_devices_time_text">Wait for %s, then notify</string>
+    <string name="my_events">My Events</string>
+    <string name="my_schedule">My Schedule</string>
+    <string name="na">N/A</string>
+    <string name="name">Name</string>
+    <string name="nav_menu_close_dec">Close menu</string>
+    <string name="nav_menu_item_accounts">Accounts</string>
+    <string name="nav_menu_item_chats">Chats</string>
+    <string name="nav_menu_item_contacts">Contacts</string>
+    <string name="nav_menu_item_devices">My Devices</string>
+    <string name="nav_menu_item_inbox">Inbox</string>
+    <string name="nav_menu_item_manage_accounts">Manage Accounts</string>
+    <string name="nav_menu_item_reports">Reports</string>
+    <string name="nav_menu_item_schedule">My Schedule</string>
+    <string name="nav_menu_item_send_message">Send Message</string>
+    <string name="nav_menu_item_settings">Settings</string>
+    <string name="nav_menu_open_dec">Open menu</string>
+    <string name="nav_non_prod_sub_menu_title">NON-PRODUCTION</string>
+    <string name="nav_prod_sub_menu_title">PRODUCTION</string>
+    <string name="next">next</string>
+    <string name="next_button">Next</string>
+    <string name="no_Shifts_label">No Active Shifts</string>
+    <string name="no_Shifts_members">Shift has no members</string>
+    <string name="no_active_alerts_in_inbox">No active alerts</string>
+    <string name="no_alerts_in_inbox">No alerts</string>
+    <string name="no_app_handles_link">Could not find an app on your device to open this type of link.</string>
+    <string name="no_communication_plans">No Communication Plans</string>
+    <string name="no_device_names_message">xMatters is not currently configured to support push notifications.</string>
+    <string name="no_device_names_title">Not Available</string>
+    <string name="no_devices">No Devices</string>
+    <string name="no_devices_available_message">All devices are in use.</string>
+    <string name="no_devices_label">No Devices</string>
+    <string name="no_devices_on_contact_details">Contact has no devices</string>
+    <string name="no_devices_on_my_devices_list">You have no devices</string>
+    <string name="no_domain_validation_message">This device can use any email domain.</string>
+    <string name="no_email_address_message">xMatters could not automatically detect an email address.</string>
+    <string name="no_email_address_title">No Email Address Found</string>
+    <string name="no_events">No Events</string>
+    <string name="no_forms">No Forms</string>
+    <string name="no_group_members">No Group Members</string>
+    <string name="no_link_activity">Unable to open link on this device</string>
+    <string name="no_matches_found">No matches</string>
+    <string name="no_network_for_unregister_title">No network available</string>
+    <string name="no_network_image_desc">No network image</string>
+    <string name="no_network_title">No network</string>
+    <string name="no_network_unregister_message">You must log in again to receive push notifications from xMatters.</string>
+    <string name="no_phone_number_message">xMatters could not automatically detect your phone number.</string>
+    <string name="no_phone_number_title">No Phone Number Found</string>
+    <string name="no_recipients">No recipients</string>
+    <string name="no_response">No Response</string>
+    <string name="no_scenario">No Scenario</string>
+    <string name="no_scenario_desc">Continue without selecting a scenario</string>
+    <string name="no_starred_contacts">No Starred Contacts</string>
+    <string name="no_starred_groups">No Starred Groups</string>
+    <string name="no_subject">No Subject</string>
+    <string name="no_tracking">No tracking data available</string>
+    <string name="none_token">-- None --</string>
+    <string name="not_notified">Not Notified</string>
+    <string name="not_selected">Tap to select</string>
+    <string name="notification_led_color">LED Color</string>
+    <string name="notification_led_color_message">Sets the color of the LED to flash when a notification arrives. Note that not all phones support multiple colors.</string>
+    <string name="notification_screen_off_message">May be overridden by custom sound settings</string>
+    <string name="notification_screen_on_message">Always use notification screen</string>
+    <string name="notification_settings">Notification Settings</string>
+    <string name="notification_title_multiple_postfix">new notifications</string>
+    <string name="number_highlight">&lt;a href=\"tel:%1$s\">%1$s&lt;/a></string>
+    <string name="number_hint">555-555-5555</string>
+    <string name="number_one">1</string>
+    <string name="off_label">Off</string>
+    <string name="ok">OK</string>
+    <string name="on_call">on-call</string>
+    <string name="on_call_push_settings_info_message">Enable this setting to receive push reminders on this device.</string>
+    <string name="on_call_push_settings_info_title">Push Reminders</string>
+    <string name="on_call_reminder">On-Call Reminder</string>
+    <string name="on_call_reminder_config_saved">On-Call reminder configurations saved successfully.</string>
+    <string name="on_call_reminder_discard_changes_message">Do you want to discard changes to On call reminder settings?</string>
+    <string name="on_call_warning_dialog_title">On-call push reminders</string>
+    <string name="on_label">On</string>
+    <string name="on_these_days">On These Days</string>
+    <string name="open_link">Open Link</string>
+    <string name="open_link_leave_xmatters">"Do you want to open this link and leave xMatters?
+
+%1$s"</string>
+    <string name="open_source_licences_info"><b>Libphonenumber</b>"
+ Project: https://github.com/googlei18n/libphonenumber
+ License: Apache 2.0
+ http://www.apache.org/licenses/LICENSE-2.0
+
+"<b> Guava</b>"
+ Project: https://code.google.com/p/guava-libraries/
+ License: Apache 2.0
+ http://www.apache.org/licenses/LICENSE-2.0
+
+"<b> Jackson-databind</b>"
+ Project: https://github.com/FasterXML/jackson-databind/
+ License: Apache 2.0
+ http://www.apache.org/licenses/LICENSE-2.0
+
+"<b> Retrofit</b>"
+ Project: https://github.com/square/retrofit
+ License: Apache 2.0
+ http://www.apache.org/licenses/LICENSE-2.0
+
+"<b> Android-floating-action-button</b>"
+ Project: https://github.com/futuresimple/android-floating-action-button
+ License: Apache 2.0
+ http://www.apache.org/licenses/LICENSE-2.0
+
+"<b> jBCrypt</b>"
+ Project: http://www.mindrot.org/projects/jBCrypt
+ License: ISC/BSD
+ http://www.mindrot.org/files/jBCrypt/LICENSE
+
+"<b> ThreeTen Android Backport</b>"
+ Project: https://github.com/JakeWharton/ThreeTenABP
+ License: Apache 2.0
+ http://www.apache.org/licenses/LICENSE-2.0
+
+"<b> Android Architecture Blueprints</b>"
+ Project: https://github.com/googlesamples/android-architecture
+ License: Apache 2.0
+ http://www.apache.org/licenses/LICENSE-2.0
+
+"<b> RxJava</b>"
+ Project: https://github.com/ReactiveX/RxJava
+ License: Apache 2.0
+ http://www.apache.org/licenses/LICENSE-2.0
+
+"<b> RxAndroid</b>"
+ Project: https://github.com/ReactiveX/RxAndroid
+ License: Apache 2.0
+ http://www.apache.org/licenses/LICENSE-2.0
+
+"<b> Android-ViewModelBinding</b>"
+ Project: https://github.com/jakubkinst/Android-ViewModelBinding
+ License: Apache 2.0
+ http://www.apache.org/licenses/LICENSE-2.0
+
+"<b> Greenrobot EventBus</b>"
+ Project: https://github.com/greenrobot/EventBus
+ License: Apache 2.0
+ http://www.apache.org/licenses/LICENSE-2.0
+
+"<b> Parceler</b>"
+ Project: http://parceler.org/
+ License: Apache 2.0
+ https://github.com/johncarl81/parceler/blob/master/LICENSE
+
+"<b> Project Lombok</b>"
+ Project: https://projectlombok.org
+ License: MIT License
+ https://github.com/rzwitserloot/lombok/blob/master/LICENSE
+
+"<b> BlurView</b>"
+ Project: https://github.com/Dimezis/BlurView
+ License: Apache 2.0
+ http://www.apache.org/licenses/LICENSE-2.0
+
+"<b> Dart</b>"
+ Project: https://github.com/f2prateek/dart
+ License: Apache 2.0
+ http://www.apache.org/licenses/LICENSE-2.0
+
+"</string>
+    <string name="options_hide">Hide Options</string>
+    <string name="options_view">View Options</string>
+    <string name="passcode_confirm_title">Confirm Passcode</string>
+    <string name="passcode_enter_title">Enter Passcode</string>
+    <string name="passcode_mismatch">Passcode does not match. Re-enter passcode.</string>
+    <string name="passcode_reset_link">RESET PASSCODE</string>
+    <string name="passcode_reset_prompt_text">To set a new passcode, you will need to log back into each of your passcode-protected accounts.</string>
+    <string name="passcode_reset_prompt_title">Reset Passcode</string>
+    <string name="passcode_set_instructions">One or more of your accounts requires a passcode. Enter a passcode for the xMatters app.</string>
+    <string name="passcode_set_successfully">Passcode set successfully.</string>
+    <string name="passcode_set_title">Set Passcode</string>
+    <string name="passcode_too_many_incorrect_attempts">"Too many incorrect passcodes have been entered.
+Log in to reset your passcode."</string>
+    <string name="passcode_try_again">Try Again</string>
+    <string name="password_toggle_content_description">Toggle password visibility</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="pending">Pending</string>
+    <string name="people_label">PEOPLE</string>
+    <string name="permission_denied_camera">Camera access disabled</string>
+    <string name="permission_denied_contacts">Contacts access disabled</string>
+    <string name="permission_denied_message_call">To enable phone access, tap Settings > Permissions and toggle the Phone setting.</string>
+    <string name="permission_denied_message_camera">To enable camera access, tap Settings > Permissions and toggle the Camera setting.</string>
+    <string name="permission_denied_message_contacts">To enable xMatters to access to your contacts, tap Settings -> Permissions and toggle the Contacts setting.</string>
+    <string name="permission_denied_phone">Phone access disabled</string>
+    <string name="phone_number_empty_validation_error">Phone number cannot be empty</string>
+    <string name="please_wait">Please wait</string>
+    <string name="plus_symbol">+</string>
+    <string name="pref_key_accounts_colors_map">pref_key_accounts_colors_map</string>
+    <string name="pref_key_active_accounts">pref_key_active_accounts</string>
+    <string name="pref_key_current_accounts">pref_key_current_accounts</string>
+    <string name="pref_key_inactive_accounts">pref_key_inactive_accounts</string>
+    <string name="pref_key_my_schedule_filter">pref_key_my_schedule_filter</string>
+    <string name="pref_key_notification_custom_sound">pref_key_notification_custom_sound</string>
+    <string name="pref_key_notification_custom_sound_enable">pref_key_notification_custom_sound_enable</string>
+    <string name="pref_key_notification_custom_sound_priority">pref_key_notification_custom_sound_priority</string>
+    <string name="pref_key_notification_led_color">pref_key_notification_led_color</string>
+    <string name="pref_key_notification_repeating_notifications">pref_key_notification_repeating_notifications</string>
+    <string name="pref_key_notification_repeating_notifications_enable">pref_key_notification_repeating_notifications_enable</string>
+    <string name="pref_key_notification_repeating_notifications_frequency">pref_key_notification_repeating_notifications_frequency</string>
+    <string name="pref_key_notification_repeating_notifications_priority">pref_key_notification_repeating_notifications_priority</string>
+    <string name="pref_key_notification_repeating_notifications_times_to_repeat">pref_key_notification_repeating_notifications_times_to_repeat</string>
+    <string name="pref_key_notification_toggle">pref_key_notification_toggle</string>
+    <string name="pref_key_original_account">pref_key_original_account</string>
+    <string name="pref_key_pref_version">pref_key_pref_version</string>
+    <string name="pref_key_recently_active_accounts">pref_key_recently_active_accounts</string>
+    <string name="pref_key_starred_contact">pref_key_starred_contact</string>
+    <string name="pref_key_starred_forms">pref_key_starred_forms</string>
+    <string name="pref_key_starred_groups">pref_key_starred_groups</string>
+    <string name="pref_key_starred_scenarios">pref_key_starred_scenarios</string>
+    <string name="pref_key_xm_company_old">pref_key_xm_company</string>
+    <string name="pref_key_xm_device">pref_key_xm_device</string>
+    <string name="pref_key_xm_display_company">pref_key_xm_display_company</string>
+    <string name="pref_key_xm_feature_toggles">pref_key_xm_feature_toggles</string>
+    <string name="pref_key_xm_feature_toggles_expiry">pref_key_xm_feature_toggles_expiry</string>
+    <string name="pref_key_xm_first_name">pref_key_xm_first_name</string>
+    <string name="pref_key_xm_host">pref_key_xm_host</string>
+    <string name="pref_key_xm_is_sso_account">pref_key_xm_is_sso_account</string>
+    <string name="pref_key_xm_last_conference_phone_number">pref_key_xm_last_conference_phone_number</string>
+    <string name="pref_key_xm_last_interaction">pref_key_xm_last_interaction</string>
+    <string name="pref_key_xm_last_name">pref_key_xm_last_name</string>
+    <string name="pref_key_xm_login_company">pref_key_xm_login_company</string>
+    <string name="pref_key_xm_message_count">pref_key_xm_message_count</string>
+    <string name="pref_key_xm_mobile_api_available">pref_key_xm_mobile_api_available</string>
+    <string name="pref_key_xm_oauth2_token">pref_key_xm_access_token</string>
+    <string name="pref_key_xm_organization_config">pref_key_xm_organization_config</string>
+    <string name="pref_key_xm_organization_config_expiry">pref_key_xm_organization_config_expiry</string>
+    <string name="pref_key_xm_passcode">pref_key_xm_passcode</string>
+    <string name="pref_key_xm_passcode_attempt_number">pref_key_xm_passcode_attempt_number</string>
+    <string name="pref_key_xm_password">pref_key_xm_password</string>
+    <string name="pref_key_xm_sso_token">pref_key_xm_sso_token</string>
+    <string name="pref_key_xm_userid">pref_key_xm_userid</string>
+    <string name="pref_key_xm_username">pref_key_xm_username</string>
+    <string name="previous_button">Previous</string>
+    <string name="priority">Priority</string>
+    <string name="privacy">Privacy</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="processing">Processing</string>
+    <string name="push_device">Push</string>
+    <string name="push_notifications">Push Notifications</string>
+    <string name="push_notifications_disabled_message">Push notifications are disabled for this device. To enable, update your notification settings.</string>
+    <string name="qr_code_info_text">"Scan the QR code displayed in the xMatters web user interface.
+
+Locate the QR code by adding the mobile app on the Devices tab of your profile."</string>
+    <string name="range_message_at_least">Min %1$,d></string>
+    <string name="range_message_at_most">Max %1$,d></string>
+    <string name="range_message_between">Between %1$,d - %2$,d</string>
+    <string name="recipient_device_menu">Recipient device menu</string>
+    <string name="recipient_full_name">%1$s %2$s</string>
+    <string name="recipient_name_and_device_name">%1$s %2$s (%3$s)</string>
+    <string name="recipient_type">Recipient type (user, device, group, dynamic team)</string>
+    <string name="recipients">Recipients</string>
+    <string name="refresh">Refresh</string>
+    <string name="reminder_label1">I want to be reminded:</string>
+    <string name="reminder_label2">On which devices?</string>
+    <string name="reminder_label3">Remind me</string>
+    <string name="remove">Remove</string>
+    <string name="remove_image">Remove Image</string>
+    <string name="repeat">Repeat</string>
+    <string name="repeat_every">Repeat every %1$,d minutes</string>
+    <string name="repeat_every_one_minute">Repeat every 1 minute</string>
+    <string name="repeat_max">Repeat a maximum of %1$,d times</string>
+    <string name="repeat_once">Repeat a maximum of once</string>
+    <string name="repeat_twice">Repeat a maximum of twice</string>
+    <string name="repeating_alerts">Repeating Alerts</string>
+    <string name="repeating_alerts_enable">Repeat Alerts</string>
+    <string name="repeating_alerts_interval_description">Set time between repetitions of the notification alert.</string>
+    <string name="repeating_alerts_priority_description">Set the minimum priority level that notifications must meet or exceed for the notification alert to be repeated.</string>
+    <string name="repeating_alerts_repetition_description">Set the number of times the notification alert will be repeated after the original alert occurs.</string>
+    <string name="reply">Reply</string>
+    <string name="required">(required)</string>
+    <string name="required_asterik">%s *</string>
+    <string name="reset">Reset</string>
+    <string name="respond">Respond</string>
+    <string name="respond_choice_with_comment">Add a comment to \"%1$s\" response</string>
+    <string name="respond_now">Respond now</string>
+    <string name="respond_with_comment">Respond with comment</string>
+    <string name="responded">Responded</string>
+    <string name="response">Response</string>
+    <string name="response_sent">Response sent successfully.</string>
+    <string name="response_xm_remove">xmatters_remove</string>
+    <string name="return_to_login_message">"%1$s has been logged out of %2$s.
+
+Please log in again to continue using this account."</string>
+    <string name="roster_label">ROSTER</string>
+    <string name="save">Save</string>
+    <string name="scan_qr_action">Log in with QR code</string>
+    <string name="scan_qr_title">Scan QR code</string>
+    <string name="scenario">scenario</string>
+    <string name="scenario_header">Scenarios</string>
+    <string name="scenario_title_case">Scenario</string>
+    <string name="schedule_all">All Shifts</string>
+    <string name="schedule_load_more">Load More</string>
+    <string name="schedule_primary">Primary On-Call</string>
+    <string name="schedule_primary_title">Primary</string>
+    <string name="schedule_secondary">Primary and Secondary On-Call</string>
+    <string name="schedule_secondary_title">Primary and Secondary</string>
+    <string name="schedule_temp_replacement">Replacing %1$s</string>
+    <string name="search_for_recipients">Search for Recipients</string>
+    <string name="search_for_recipients_hint">Add Recipient *</string>
+    <string name="search_groups_placeholder">Search groups</string>
+    <string name="search_menu_title">Search</string>
+    <string name="search_people_placeholder">Search people</string>
+    <string name="secure_connection_failed">Secure Connection Failed</string>
+    <string name="select_a_bridge">Select a Bridge</string>
+    <string name="select_a_phone_number">Select a Phone Number</string>
+    <string name="select_an_email">Select an Email</string>
+    <string name="select_starred_groups">Select Starred Groups</string>
+    <string name="select_starred_people">Select Starred People</string>
+    <string name="selected_days_validation_error">At least one day should be selected.</string>
+    <string name="send">send</string>
+    <string name="service_provider">Provider</string>
+    <string name="service_unavailable">Host does not exist or is unavailable.</string>
+    <string name="settings">Settings</string>
+    <string name="several_objects">%1$s, %2$s, and %3$d more</string>
+    <string name="shift_all_day">All day</string>
+    <string name="shift_continued">Continued</string>
+    <string name="shift_continues">Continues</string>
+    <string name="shift_day_off">Not On-Call</string>
+    <string name="shift_duration_format_text">%1$s to %2$s</string>
+    <string name="shift_end_time">Shift End Time</string>
+    <string name="shift_on_call">On-Call</string>
+    <string name="shift_start_time">Shift Start Time</string>
+    <string name="shift_today">today</string>
+    <string name="show_message">Show Message</string>
+    <string name="showing">showing</string>
+    <string name="showing_from">%1$d - %2$d</string>
+    <string name="skip">Skip</string>
+    <string name="sms_not_configured_message">Text Message application is not configured</string>
+    <string name="snooze">Snooze</string>
+    <string name="space_separated_strings">%1$s %2$s</string>
+    <string name="starred_contacts">Starred Contacts</string>
+    <string name="starred_form_or_scenario_not_available">%s Not Available</string>
+    <string name="starred_forms_and_scenario_header">Starred Forms / Scenarios</string>
+    <string name="starred_groups">Starred Groups</string>
+    <string name="starred_people">Starred People</string>
+    <string name="starred_scenarios_header">Starred Scenarios</string>
+    <string name="start_label">Start</string>
+    <string name="start_of_shift">When my shift starts</string>
+    <string name="start_time_edittext_default_text">00:00</string>
+    <string name="start_time_header">Start Time</string>
+    <string name="starts_label">starts</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="suspended">Suspended</string>
+    <string name="switch_account">Switch Accounts</string>
+    <string name="switch_accounts_action">Switch accounts</string>
+    <string name="system_event">System Event</string>
+    <string name="terminated">Terminated</string>
+    <string name="textFor">for</string>
+    <string name="text_caps_no">NO</string>
+    <string name="text_caps_off">OFF</string>
+    <string name="text_caps_on">ON</string>
+    <string name="text_caps_yes">YES</string>
+    <string name="text_copied">Text copied</string>
+    <string name="text_device">SMS</string>
+    <string name="text_property_constraints">%1$,d/%2$,d</string>
+    <string name="text_property_constraints_with_min">%1$,d/%2$,d (min %3$,d)</string>
+    <string name="this_message_has_no_content">This message has no content</string>
+    <string name="time_before_shift">before my shift</string>
+    <string name="time_days">%1$dd</string>
+    <string name="time_hours">%1$dh</string>
+    <string name="time_just_now">Just now</string>
+    <string name="time_minutes">%1$dm</string>
+    <string name="timeframe_name_header">Timeframe Name</string>
+    <string name="timeframe_name_validation_error">The field timeframe name cannot be empty</string>
+    <string name="timeline_delay_text">Wait for %s, then escalate to</string>
+    <string name="timeline_label">On Call Now</string>
+    <string name="timeout_error">The server timed out waiting for the request</string>
+    <string name="toggleStarring">toggle star</string>
+    <string name="toll_number">Toll Number: </string>
+    <string name="tollfree_number">Toll free Number: </string>
+    <string name="total_users">Total Users</string>
+    <string name="tracking">Tracking</string>
+    <string name="tracking_drill_down_custom_dialog_text">%1$s successfully created with %2$d users.</string>
+    <string name="try_again">Try again</string>
+    <string name="turn_off_push_notifications_warning_message">You have configured on-call push reminders. If you turn off push notifications you will no longer receive push reminders on this device.</string>
+    <string name="turn_on_push_notifications_message">To receive on-call push reminders on this device you must also enable push notifications for the xMatters app.</string>
+    <string name="turn_on_push_notifications_title">Push Notifications not enabled</string>
+    <string name="type_to_search_contacts_hint">Search for contacts by name, user ID, email address, or phone number.</string>
+    <string name="type_to_search_groups_hint">Search for groups by name or description.</string>
+    <string name="unable_to_open_link">Unable to Open Link</string>
+    <string name="unauthorized_access_contact">You do not have permission to view this contact. Would you like to remove it from your list of starred contacts?</string>
+    <string name="unauthorized_access_contact_details">You do not have permission to view details of this contact.</string>
+    <string name="unauthorized_access_contact_search">You do not have permission to search for Contacts.</string>
+    <string name="unauthorized_access_device_list">You do not have permission to access the Device List.</string>
+    <string name="unauthorized_access_devices">You do not have permission to access the Devices for %1$s</string>
+    <string name="unauthorized_access_events">You do not have permission to access Events.</string>
+    <string name="unauthorized_access_form_or_scenario">You do not have permission to view this %s.</string>
+    <string name="unauthorized_access_forms">You do not have permission to view the forms for this engine.</string>
+    <string name="unauthorized_access_group">You do not have permission to view this group. Would you like to remove it from your list of starred groups?</string>
+    <string name="unauthorized_access_group_details">You do not have permissions to view details.</string>
+    <string name="unauthorized_access_group_search">You do not have permission to search for Groups.</string>
+    <string name="unauthorized_access_inbox">You do not have permission to access the Inbox.</string>
+    <string name="unauthorized_access_on_call_reminder">You do not have permission to access the On Call reminder settings.</string>
+    <string name="unauthorized_access_recipient_search">You do not have permission to search for Recipients.</string>
+    <string name="unauthorized_access_site">You do not have permission to access the Site details.</string>
+    <string name="unauthorized_access_starred_form_or_scenario">You no longer have permission to view this %s. Would you like to remove it from your list of starred items?</string>
+    <string name="unauthorized_access_tracking">You do not have permission to access the Tracking Report.</string>
+    <string name="unexpected_error">An unexpected exception occurred.</string>
+    <string name="unknown">Unknown</string>
+    <string name="unsupported_domain_name">Email addresses must belong to one of the available domains.</string>
+    <string name="use_xm_login">Log in with xMatters</string>
+    <string name="user_add_failed">Unable to add %s to Group.</string>
+    <string name="user_auth_failed">User authentication failed.</string>
+    <string name="v7_preference_off">OFF</string>
+    <string name="v7_preference_on">ON</string>
+    <string name="validation_error">At least one value is invalid</string>
+    <string name="voice_call_not_configured_message">Voice call application is not configured.</string>
+    <string name="voice_device">Voice</string>
+    <string name="web_url_highlight">&lt;a href=\"%1$s\">%2$s&lt;/a></string>
+    <string name="xm_about_open_source_licences">Open Source Licenses</string>
+    <string name="xm_about_summary">About xMatters</string>
+    <string name="xm_accounts_title">Accounts</string>
+    <string name="xm_alert_detail_title">Message</string>
+    <string name="xm_app_version">Version</string>
+    <string name="xm_company">Company Name</string>
+    <string name="xm_host">Host</string>
+    <string name="xm_host_default">na1.xmatters.com</string>
+    <string name="xm_host_dialog">Specify the xMatters web server Host</string>
+    <string name="xm_host_instructions">xMatters Host</string>
+    <string name="xm_host_version">Host Version</string>
+    <string name="xm_hosted_bridges_label">xMatters Hosted Bridges</string>
+    <string name="xm_my_alerts_title">Inbox</string>
+    <string name="xm_my_devices_title">My Devices</string>
+    <string name="xm_my_schedule_title">My Schedule</string>
+    <string name="xm_password">Password</string>
+    <string name="xm_site">Site</string>
+    <string name="xm_username">Username</string>
+    <string name="xmatters_is_calling_you_at">xMatters is calling you at</string>
+    <string name="zero">0</string>
+</resources>

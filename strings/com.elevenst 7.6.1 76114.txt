@@ -1,0 +1,1179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accept">Accept</string>
+    <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_like_button_liked">Liked</string>
+    <string name="com_facebook_like_button_not_liked">Like</string>
+    <string name="com_facebook_loading">Loading...</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_loginview_log_in_button">Log in</string>
+    <string name="com_facebook_loginview_log_in_button_long">Log in with Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="com_facebook_send_button_text">Send</string>
+    <string name="com_facebook_share_button_text">Share</string>
+    <string name="com_facebook_tooltip_default">"New! You're in control - choose what info you want to share with apps."</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
+    <string name="create_calendar_title">Create calendar event</string>
+    <string name="debug_menu_ad_information">Ad Information</string>
+    <string name="debug_menu_creative_preview">Creative Preview</string>
+    <string name="debug_menu_title">Select a Debug Mode</string>
+    <string name="debug_menu_troubleshooting">Troubleshooting</string>
+    <string name="decline">Decline</string>
+    <string name="messenger_send_button_text">Send</string>
+    <string name="store_picture_message">Allow Ad to store image in Picture gallery?</string>
+    <string name="store_picture_title">Save image</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">11st</string>
+    <string name="camera_fail">카메라 초기화에 문제가 있습니다.</string>
+    <string name="credit_card_boundary_guide1" />
+    <string name="credit_card_boundary_guide2">카드를 들어서 사각 테두리에 맞추세요</string>
+    <string name="credit_card_digits_guide">0123 4567 8901 2345</string>
+    <string name="credit_card_guide">\"카드를 여기에 갖다 대세요\"</string>
+    <string name="credit_card_guide_eng">PRESENT YOUR CARD NUMBER</string>
+    <string name="credit_card_mmyy">MM/YY</string>
+    <string name="credit_card_recognized_end_dialog">LOADING</string>
+    <string name="credit_card_thru">THRU</string>
+    <string name="credit_card_valid">VALID</string>
+    <string name="focusing_guide">초점을 맞추려면 화면을 터치하세요</string>
+    <string name="guide_flash_on">어두운 곳에서는 플래시를 켜주세요.</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="spass_fingerprint_description_error">오류가 발생하였습니다. 나중에 다시 시도하세요.</string>
+    <string name="spass_fingerprint_hint">지문을 사용하여 본인 확인을 진행합니다.</string>
+    <string name="spass_fingerprint_is_not_enabled">삼성패스에 지문이 활성화되지 않았습니다.</string>
+    <string name="spass_fingerprint_not_recognized">일치하지 않는 지문입니다. 다시 시도하세요.</string>
+    <string name="spass_fingerprint_success">지문 인식에 성공하였습니다</string>
+    <string name="spass_fingerprint_too_many_attempt">시도 횟수가 너무 많습니다 나중에 다시 시도하세요.</string>
+    <string name="spass_iris_is_not_enabled">삼성패스에 홍채가 활성화되지 않았습니다.</string>
+    <string name="spass_iris_recognition_guide_string_use_biometrics">본인 확인을 위해 생체인증을 진행하여 주세요.</string>
+    <string name="spass_license_is_expired">삼성패스 라이선스가 만료되었습니다.</string>
+    <string name="spass_license_issue_failed">삼성패스 라이선스 발급이 실패하였습니다.</string>
+    <string name="timeout_guide">"카드 자동인식이 어려운 카드네요.
+카드번호를 직접 입력해주세요."</string>
+    <string name="acessibility_banner">상품 배너로 이동합니다.</string>
+    <string name="acessibility_banner_promotion">프로모션 배너로 이동합니다.</string>
+    <string name="acessibility_category">카테고리로 이동합니다.</string>
+    <string name="acessibility_detail_img">상품이미지 입니다.</string>
+    <string name="acessibility_emergency_supply">긴급공수</string>
+    <string name="acessibility_hbbrowser_btn_subtoolbar">툴바가 보입니다.</string>
+    <string name="acessibility_hbbrowser_btn_top">위로 이동합니다.</string>
+    <string name="acessibility_hbbrowser_btn_zoom">상품 상세 이미지 더보기</string>
+    <string name="acessibility_img_origin_view">이미지 원본보기를 실행합니다.</string>
+    <string name="acessibility_input_delete">입력 내용을 삭제합니다.</string>
+    <string name="acessibility_like_select">좋아요 상품으로 등록합니다.</string>
+    <string name="acessibility_like_unselect">좋아요 상품 등록을 해제합니다.</string>
+    <string name="acessibility_minus">빼기</string>
+    <string name="acessibility_option_row_delete">선택한 옵션을 삭제합니다.</string>
+    <string name="acessibility_plus">더하기</string>
+    <string name="acessibility_product_19">성인 상품입니다.</string>
+    <string name="acessibility_product_share">상품을 공유합니다.</string>
+    <string name="acessibility_product_soldout">품절 상품입니다.</string>
+    <string name="acessibility_quickmenu_close">퀵메뉴를 닫습니다.</string>
+    <string name="acessibility_quickmenu_open">퀵메뉴를 엽니다.</string>
+    <string name="acessibility_search_btn">검색을 시작합니다.</string>
+    <string name="acessibility_shockingdeal">쇼킹딜</string>
+    <string name="acessibility_submenu_btn0">홈으로 이동합니다.</string>
+    <string name="acessibility_submenu_btn1">뒤로 이동합니다.</string>
+    <string name="acessibility_submenu_btn2">앞으로 이동합니다.</string>
+    <string name="acessibility_submenu_btn3">나의 11번가로 이동합니다.</string>
+    <string name="acessibility_submenu_btn4">좋아하는 상품으로 이동합니다.</string>
+    <string name="acessibility_submenu_btn5">최근 본 상품으로 이동합니다.</string>
+    <string name="acessibility_submenu_btn6">더보기를 실행합니다.</string>
+    <string name="acessibility_submenu_btn7">툴바를 보입니다.</string>
+    <string name="acessibility_titlebar_cart">장바구니로 이동합니다.</string>
+    <string name="acessibility_titlebar_last_product">최근본상품 목록을 엽니다.</string>
+    <string name="acessibility_titlebar_logo">홈으로 이동합니다.</string>
+    <string name="acessibility_titlebar_my">나의11번가로 이동합니다.</string>
+    <string name="acessibility_titlebar_opensidemenu">사이드 메뉴를 실행합니다.</string>
+    <string name="acessibility_titlebar_search_btn">검색을 시작합니다.</string>
+    <string name="battery_low_barcode">배터리가 부족하여 바코드 스캔을 사용할 수 없습니다.</string>
+    <string name="battery_low_qrbarcode">배터리가 부족하여 QR/바코드 스캔을 사용할 수 없습니다.</string>
+    <string name="battery_low_qrcode">배터리가 부족하여 QR코드 스캔을 사용할 수 없습니다.</string>
+    <string name="browser_error">"연결에 실패하였습니다.
+다시 시도해 주세요."</string>
+    <string name="btn_close">닫기</string>
+    <string name="cannot_use_camera">"카메라를 사용할 수 없습니다.
+카메라가 잠겨있거나 다른 어플리케이션에서 사용 중인지 확인 후 다시 시도해 주시기 바랍니다."</string>
+    <string name="capture_crop">자르기</string>
+    <string name="capture_image_crop">이미지 자르기</string>
+    <string name="capture_input_text">11번가 모바일</string>
+    <string name="capture_list">즐겨찾기 목록</string>
+    <string name="capture_list_edit">즐겨찾기 목록 편집</string>
+    <string name="capture_list_empty">즐겨찾기 목록이 존재하지 않습니다.</string>
+    <string name="capture_notitle_message">즐겨찾기 이름을 입력해 주세요.</string>
+    <string name="capture_save_complete_message">"즐겨찾기되었습니다.
+저장된 즐겨찾기는 즐겨찾기 목록에서 확인하세요."</string>
+    <string name="capture_sub_title_image_crop">화면캡쳐</string>
+    <string name="capture_titlebar_complete">완료</string>
+    <string name="capture_titlebar_edit">편집</string>
+    <string name="capture_titlebar_save">저장</string>
+    <string name="capture_titlebar_title">즐겨찾기</string>
+    <string name="clipboard_copy_complete">복사되었습니다</string>
+    <string name="code_barcode_info">바코드를 격자안에 위치하도록 구도를 맞추고 잠시 기다리시면 자동으로 인식이 됩니다.</string>
+    <string name="code_qrbarcode_info">바코드/QR코드를 격자안에 위치하도록 구도를 맞추고 잠시 기다리시면 자동으로 인식이 됩니다.</string>
+    <string name="code_qrcode_info">QR코드를 격자안에 위치하도록 구도를 맞추고 잠시 기다리시면 자동으로 인식이 됩니다.</string>
+    <string name="connect_11st_center">11번가 고객센터로 전화 연결하시겠습니까?</string>
+    <string name="currency">원</string>
+    <string name="debug_console">디버그콘솔</string>
+    <string name="debug_preload">마켓T존(프리로드,이미지)</string>
+    <string name="desc_setting_permission">권한설정</string>
+    <string name="does_not_decode_barcode">바코드 인식에 실패하였습니다.</string>
+    <string name="error_config">Please set the %1$s constant and recompile the app.</string>
+    <string name="file_upload_failed">파일 업로드에 실패하였습니다. 잠시 후 다시 시도해 주세오.</string>
+    <string name="gcm_deleted">From GCM: server deleted %1$d pending messages!</string>
+    <string name="gcm_error">From GCM: error (%1$s).</string>
+    <string name="gcm_message">From GCM: you got message!</string>
+    <string name="gcm_recoverable_error">From GCM: recoverable error (%1$s).</string>
+    <string name="gcm_registered">From GCM: device successfully registered!</string>
+    <string name="gcm_unregistered">From GCM: device successfully unregistered!</string>
+    <string name="image_search_bag">가방</string>
+    <string name="image_search_bottom">하의</string>
+    <string name="image_search_category_title">카테고리 선택</string>
+    <string name="image_search_crop_selected">선택완료</string>
+    <string name="image_search_crop_shooting">다시찍기</string>
+    <string name="image_search_gallery">갤러리</string>
+    <string name="image_search_history">히스토리</string>
+    <string name="image_search_info_noti">고객님 본인 또는 제3자(촬영되는 피사체) 등이 식별될 수 있는 얼굴이나, 의류와 관계없는 신체부위를 촬영하는 경우 본인 또는 타인의 사생활을 침해하거나 저작권, 인격권 등이 침해될 수 있으므로 이 점 주의해 주시기 바라며, 해당 촬영물은 즉시 삭제될 수 있습니다.</string>
+    <string name="image_search_onepiece">원피스</string>
+    <string name="image_search_shoes">신발</string>
+    <string name="image_search_shooting_guide_tip_front">앞 모습을 찍어주세요.</string>
+    <string name="image_search_shot_guide_tip_find">"찍으면 찾아주는 검색!
+찾고싶은 물건을 선택해 주세요!"</string>
+    <string name="image_search_shot_guide_tip_side">옆 모습을 찍어주세요.</string>
+    <string name="image_search_top">상의</string>
+    <string name="invalid_response_data">"잘못된 데이터를 수신하였습니다.네트워크 인증이 되지 않았거나 일시적인 장애일 수 있습니다.
+확인 후 다시 시도해 주세요."</string>
+    <string name="is_tstore">티스토어 여부</string>
+    <string name="last_empty_text">"최근본 상품 목록이
+없습니다."</string>
+    <string name="leftmenu_book">도서</string>
+    <string name="leftmenu_brand11">Brand11</string>
+    <string name="leftmenu_gifticon">기프티콘</string>
+    <string name="leftmenu_mart">마트11번가</string>
+    <string name="leftmenu_soho11">SOHO11</string>
+    <string name="message_approval">동의</string>
+    <string name="message_cancel">취소</string>
+    <string name="message_change">변경</string>
+    <string name="message_complete">완료</string>
+    <string name="message_delete">삭제</string>
+    <string name="message_delete_search_word_check">"선택한 검색기록을
+삭제하시겠습니까 ?"</string>
+    <string name="message_disable_capture">페이지로딩 시작 이후에 화면 캡쳐가 가능합니다.</string>
+    <string name="message_disable_share">페이지로딩 시작 이후에 공유가 가능합니다.</string>
+    <string name="message_exit">종료</string>
+    <string name="message_exit_check">"'뒤로' 버튼을 한 번 더 누르시면 종료됩니다."</string>
+    <string name="message_good">좋아요</string>
+    <string name="message_google">푸시 알림을 제공받으려면 Google 계정을 등록해야 합니다.지금 등록 하시겠습니까?</string>
+    <string name="message_google_account_add_cancel">Google 계정 등록을 취소하였습니다.알림 기능을 사용하시려면 구글 계정 추가 후 설정 > 알림 설정에서 활성화 시킬 수 있습니다.</string>
+    <string name="message_google_account_add_cancel_in_setting">Google 계정 등록을 취소하였습니다.현재 설정을 저장합니다.</string>
+    <string name="message_google_account_add_fail">Google 계정 등록에 실패하였습니다.알림 기능을 사용하시려면 구글 계정 추가 후 설정 > 알림 설정에서 활성화 시킬 수 있습니다.</string>
+    <string name="message_google_account_add_fail_in_setting">Google 계정 등록에 실패하였습니다.현재 설정을 저장합니다.</string>
+    <string name="message_google_account_add_success">Google 계정 등록에 성공하였습니다.</string>
+    <string name="message_info">알림</string>
+    <string name="message_info2">11번가 알림</string>
+    <string name="message_late">나중에</string>
+    <string name="message_learn_more">자세히보기 </string>
+    <string name="message_network_connect_check">네트워크 연결을 확인해주세요.</string>
+    <string name="message_no">아니오</string>
+    <string name="message_no_change">유지</string>
+    <string name="message_no_current_cost_data">가격을 정확히 입력해주세요.</string>
+    <string name="message_no_search_data">검색어를 입력해주세요.</string>
+    <string name="message_not_allow">동의안함</string>
+    <string name="message_ok">확인</string>
+    <string name="message_preload_fail_data">"어플리케이션 초기화에 실패하였습니다.
+잠시 후 다시 시도해 주십시오.
+지속적으로 발생 시 설정 > 애플리케이션 > 11번가 > 데이터 삭제 또는 재 설치해주시기 바랍니다."</string>
+    <string name="message_preload_fail_memory">"메모리가 부족합니다.
+메모리 확보 후 다시 시도해 주세요."</string>
+    <string name="message_preload_fail_network">"네트워크 연결에 실패하였습니다.
+네트워크 연결상태 확인 후 다시 시도해 주세요."</string>
+    <string name="message_preload_fail_server">"서버 연결에 실패하였습니다.
+잠시 후 다시 시도해 주세요."</string>
+    <string name="message_preload_fail_timeout">"네트워크 연결이 지연되고 있습니다.
+잠시 후 다시 시도해 주세요."</string>
+    <string name="message_preload_update">최신 정보 업데이트를 시작합니다.</string>
+    <string name="message_preload_update_ing">최신 정보 업데이트중…</string>
+    <string name="message_push_count_desc">읽지 않은 알림이 %s개 있습니다.</string>
+    <string name="message_push_init_allow1">"어서오세요!
+고객님께 초특가상품, 할인쿠폰, 이벤트
+ 위치정보를 이용한 혜택 등 스마트한 쇼
+핑정보를 제공해드리겠습니다."</string>
+    <string name="message_push_init_allow2">"혜택 알림 수신거부는 11번가 앱 설정에서
+변경 가능합니다."</string>
+    <string name="message_push_time_unavailable">21:00~08:00시에는 알림 수신이 불가능한 시간입니다. 다시 선택해 주세요.</string>
+    <string name="message_retry">재시도</string>
+    <string name="message_set">설정</string>
+    <string name="message_title">11번가</string>
+    <string name="message_update">지금 업데이트</string>
+    <string name="message_yes">예</string>
+    <string name="navigation_bar_save">저장</string>
+    <string name="network_block_check">"데이터 네트워크 차단 
+상태입니다.Wi-Fi를 연결해
+접속하시거나, 데이터 네트워크
+설정을 ‘접속 허용’으로 
+변경하신 후 사용해 주십시오."</string>
+    <string name="network_disconnect">"네트워크에 접속할 수 없습니다.
+네트워크 연결상태 확인 후 다시 시도해 주세요."</string>
+    <string name="network_set">네트워크 설정</string>
+    <string name="offering_category_all_view">카테고리 전체 보기</string>
+    <string name="offering_coachmark_text_line1">확대/축소로 원하는 상품을 자세히보세요.</string>
+    <string name="offering_coachmark_text_line2">위/아래/좌/우 이동해 보세요.</string>
+    <string name="offering_product_all_view">상품 전체보기</string>
+    <string name="open_api_key">e1adb7b56cff494448f516a9ed12d7ed</string>
+    <string name="option_add_product_header">추가구성상품</string>
+    <string name="option_basket">장바구니</string>
+    <string name="option_dropdown_header">옵션선택</string>
+    <string name="option_dropdown_search_header">옵션검색</string>
+    <string name="option_filter_number">수량은 1~999 까지 입력 가능합니다.</string>
+    <string name="option_msg_fail_overflow">옵션 데이터 사이즈가 허용량을 초과하였습니다.</string>
+    <string name="option_order">구매하기</string>
+    <string name="option_search_hint">찾고자 하는 옵션명을 입력하세요.</string>
+    <string name="option_shipping_how">배송 방법</string>
+    <string name="option_shipping_payment">배송비 결제</string>
+    <string name="ori_price">ori_price</string>
+    <string name="otp_11st_id">11번가아이디</string>
+    <string name="otp_11st_otp_authentication">11번가 OTP</string>
+    <string name="otp_11st_otp_join_or_unjoin_information">11번가 OTP 가입/해제 안내</string>
+    <string name="otp_11st_registration">11번가 OTP 등록</string>
+    <string name="otp_11st_what_is_mtop">11번가 M-OTP란?</string>
+    <string name="otp_auth_no_pin_num">OTP 인증되지 않은 기기입니다.</string>
+    <string name="otp_auth_time_txt_left">(인증 유효시간 :</string>
+    <string name="otp_auth_time_txt_right">초)</string>
+    <string name="otp_authentication_expiration_time">(인증 유효시간 :)</string>
+    <string name="otp_authentication_number">OTP 인증번호</string>
+    <string name="otp_authentication_number_reconfirm">OTP 인증번호 확인하기</string>
+    <string name="otp_empty_otp_reg_num">가입번호를 입력하지 않으셨습니다. 번호를 입력해 주세요.</string>
+    <string name="otp_guide_txt">"- 인증 유효시간 내에 번호를 입력하여 인증을 받으셔야 하며, 유효시간 초과 시 SMS로 인증번호 재전송 요청하여 재전송 받은 인증번호를 입력하셔야 합니다.
+ - OTP 인증번호 입력 후, 아래 OTP 등록번호를 눌러주세요."</string>
+    <string name="otp_msg_reg_complete">"등록완료 되었습니다.
+ OTP 인증번호를 확인해 주세요."</string>
+    <string name="otp_not_usim_msg">통화 기능이 없는 안드로이드 기기에선 OTP 가입이 불가능 합니다.</string>
+    <string name="otp_number_guide_txt">- 인증 유효시간 내에 번호를 입력하여 인증을 받으셔야 하며, 유효시간 초과 시 신규 생성된 인증번호를 입력하셔야 합니다.</string>
+    <string name="otp_one_time_password_login">OTP (One Time Password) 로그인</string>
+    <string name="otp_register">OTP 등록하기</string>
+    <string name="otp_registration_number">OTP 가입번호</string>
+    <string name="otp_sms_check_txt_reg">OTP</string>
+    <string name="otp_wrong_otp_reg_num">가입번호가 잘못 입력되었습니다. 확인 후 6자리 숫자를 다시 입력해 주세요.</string>
+    <string name="permission_agree">승인</string>
+    <string name="permission_not_agree">허용안함</string>
+    <string name="permission_popup_title">"11번가에서는 다음 권한들을 사용하오니,
+허용해 주시기 바랍니다"</string>
+    <string name="phone_not_support_call">"전화 연결을 할 수 없습니다.
+전화 기능을 제공하지 않는 기기입니다."</string>
+    <string name="phone_state">Phone State</string>
+    <string name="point_plus_terms_check_alert">이용 약관에 동의하셔야 합니다</string>
+    <string name="point_plus_terms_content_title_must">11번가 개인정보 수집 및 이용 동의(필수)</string>
+    <string name="point_plus_terms_text">11번가 포인트플러스 서비스는 11번가 모바일 어플리케이션에 탑재된 모듈을 통해, 잠금화면에 광고/컨텐츠를 보고 11번가 포인트 혜택을 제공하는 보상형 광고 서비스 입니다</string>
+    <string name="point_plus_terms_title">개인정보이용 및 서비스이용 약관</string>
+    <string name="price">price</string>
+    <string name="pull_to_refresh_from_bottom_pull_label">@string/pull_to_refresh_pull_label</string>
+    <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string>
+    <string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string>
+    <string name="pull_to_refresh_pull_label">당겨서 로딩하기</string>
+    <string name="pull_to_refresh_refreshing_label">로딩 중입니다</string>
+    <string name="pull_to_refresh_release_label">로딩을 시작합니다</string>
+    <string name="reivew_report_tell">이유를 알려주세요</string>
+    <string name="review_eval_already">이미 평가하셨습니다.</string>
+    <string name="review_eval_text">이 리뷰가 도움이 되었나요?</string>
+    <string name="review_eval_text2">리뷰가 도움이 되었나요?</string>
+    <string name="review_report">신고</string>
+    <string name="review_report_end">신고 완료 되었습니다.</string>
+    <string name="review_report_input_reason">신고 이유를 입력해 주세요</string>
+    <string name="review_report_reason_select">신고하시는 이유가 무엇인가요 (필수)</string>
+    <string name="review_report_select_type">신고 사유를 선택해 주세요</string>
+    <string name="review_report_send">등록하기</string>
+    <string name="review_report_title">신고하기</string>
+    <string name="review_report_write">신고하시는 이유를 작성해주세요 (필수)</string>
+    <string name="review_view_more">더보기</string>
+    <string name="right_menu_login">로그인</string>
+    <string name="schememgr_empty_prev_page">이전페이지 정보가 없습니다.</string>
+    <string name="schememgr_wrong_url">잘못된 형식의 URL 입니다.</string>
+    <string name="search">검색</string>
+    <string name="search_btn_service_all">11번가 모바일서비스 전체보기</string>
+    <string name="search_clear_all_recent_search">"최근 검색기록을
+모두 삭제하시겠습니까?"</string>
+    <string name="search_hint">검색어를 입력하세요.</string>
+    <string name="search_tab_last">최근 검색어</string>
+    <string name="search_tab_popular">인기 검색어</string>
+    <string name="see_detail">상세보기</string>
+    <string name="server_error">"일시적인 서버 접속 장애 입니다.
+잠시 후 다시 시도해 주세요."</string>
+    <string name="setting_agree_title">이용동의</string>
+    <string name="setting_cache_group">캐시 삭제</string>
+    <string name="setting_cache_group_delete_message">임시저장된 캐시 데이터를 삭제하시겠습니까?</string>
+    <string name="setting_cache_group_delete_title">앱 용량 관리</string>
+    <string name="setting_device_desc">스마트폰 분실등으로 인해 자동로그인 설정을 해지해야 할 경우 이용해 주세요.</string>
+    <string name="setting_device_group_title">부가기능</string>
+    <string name="setting_device_manage_phone">나의 스마트폰 관리</string>
+    <string name="setting_device_manage_phone_desc">스마트폰 분실 등으로 인해 자동로그인 설정을 해지해야 할 경우 이용해 주세요.</string>
+    <string name="setting_device_title">나의 스마트폰 관리</string>
+    <string name="setting_device_unlink">자동 로그인 해제</string>
+    <string name="setting_device_unlink_alert">해당 기기의 자동 로그인을 해제 하시겠습니까?</string>
+    <string name="setting_device_using">사용중</string>
+    <string name="setting_info_group_call">전화연결</string>
+    <string name="setting_info_group_mobile_customer_service">모바일 고객센터</string>
+    <string name="setting_info_group_phone_number">1599–0110</string>
+    <string name="setting_info_group_title">고객센터</string>
+    <string name="setting_info_license">오픈소스 라이선스</string>
+    <string name="setting_invalid_login_url">"로그인 페이지 정보를 찾을 수 없습니다.
+잠시 후 설정화면 재 진입 후 다시 시도해 주십시오."</string>
+    <string name="setting_invalid_url">URL 정보가 올바르지 않습니다.</string>
+    <string name="setting_login_group_auto_login">자동 로그인</string>
+    <string name="setting_login_group_fido_login">생체인증 로그인</string>
+    <string name="setting_login_group_login">로그인</string>
+    <string name="setting_login_group_login_info">로그인 정보</string>
+    <string name="setting_login_group_logout">로그아웃</string>
+    <string name="setting_login_group_off">OFF</string>
+    <string name="setting_login_group_on">ON</string>
+    <string name="setting_login_title">로그인</string>
+    <string name="setting_logout_desc">로그아웃 하시겠습니까?</string>
+    <string name="setting_permission_camera">카메라</string>
+    <string name="setting_permission_camera_description">11톡 사진 공유 및 포토 상품 리뷰 작성시 필요합니다.</string>
+    <string name="setting_permission_contacts">주소록</string>
+    <string name="setting_permission_contacts_description">선물하기 대상 선정시에 필요합니다.</string>
+    <string name="setting_permission_description">권한을 변경합니다</string>
+    <string name="setting_permission_info">"
+
+11번가App > 설정 > 권한관리 메뉴에서 동의를 철회하실 수 있습니다."</string>
+    <string name="setting_permission_location">위치</string>
+    <string name="setting_permission_location_description">배달 및 생활 플러스 서비스 내위치 사용시 필요합니다.</string>
+    <string name="setting_permission_mic">마이크</string>
+    <string name="setting_permission_mic_description">동영상 리뷰 작성시 필요합니다.</string>
+    <string name="setting_permission_storage">저장공간</string>
+    <string name="setting_permission_storage_description">포토 상품 리뷰와 11톡에서 필요합니다.</string>
+    <string name="setting_push_ad_uncheck_desc">"11번가의 깜짝 혜택 / 초특가 상품/ 이벤트 등 주요 정보 알림을 받을 수 없게 됩니다.
+유지하시겠습니까?"</string>
+    <string name="setting_push_group_push_desc">11번가 쇼핑 정보 및 알림을 실시간으로 받아보실 수 있습니다.</string>
+    <string name="setting_push_group_push_settings">알림 설정</string>
+    <string name="setting_push_group_title">알림</string>
+    <string name="setting_push_not_allow_same_etiquette_time">에티켓 시작시각과 종료시각을 같은 시각으로 설정할 수 없습니다.</string>
+    <string name="setting_push_process_uncheck_desc">알림을 해제하시면 구매관련 주요 정보를 실시간으로 받아보실 수 없습니다. 알림을 해제 하시겠습니까?</string>
+    <string name="setting_push_save_desc">변경된 설정을 저장하지 않으셨습니다. 설정을 마치시겠습니까?</string>
+    <string name="setting_push_save_success">알림 설정 저장에 성공하였습니다.</string>
+    <string name="setting_push_title">알림 설정</string>
+    <string name="setting_search_group_delete_history_alert">최근 검색어를 모두 삭제하시겠습니까?</string>
+    <string name="setting_search_group_history">검색 기록 삭제</string>
+    <string name="setting_search_group_history_delete"> 삭제</string>
+    <string name="setting_title">환경설정</string>
+    <string name="setting_version_group_desc">"최신버전의 11번가 앱이 설치되어 있습니다.
+(업데이트 %s)"</string>
+    <string name="setting_version_group_installed_version">설치된 버전 : V %s</string>
+    <string name="setting_version_group_last_version">최신 버전 : V %s</string>
+    <string name="setting_version_group_title">버전정보</string>
+    <string name="setting_version_group_update">업데이트</string>
+    <string name="sign_wave">~</string>
+    <string name="telephone">전화 연결</string>
+    <string name="testmode_btn_cookie">Cookies</string>
+    <string name="testmode_btn_domain">도메인</string>
+    <string name="testmode_btn_url">URL</string>
+    <string name="testmode_select_dev">dev(dev-m.11st.co.kr)</string>
+    <string name="testmode_select_dev1">dev1(dev1-m.11st.co.kr)</string>
+    <string name="testmode_select_devo">devo(devo-m.11st.co.kr)</string>
+    <string name="testmode_select_real">real</string>
+    <string name="testmode_select_stage">stage</string>
+    <string name="testmode_select_test">test</string>
+    <string name="testmode_select_verify">verify</string>
+    <string name="testmode_title">개발자 모드</string>
+    <string name="tilt">~</string>
+    <string name="title">title</string>
+    <string name="tour_room_stat_pop_msg">"선택한 객실의 예약은 숙소의
+빈 객실 유무 확인 후 확정됩니다.
+
+투숙 가능한 객실이 없을 경우
+예약이 자동 취소되며
+취소 및 환불 내용은 SMS와 이메일로
+전송됩니다.
+
+선택한 객실의 예약을 진행하시겠습니까?"</string>
+    <string name="tour_room_stat_pop_title">예약안내</string>
+    <string name="tour_step3_reservation_pop_msg1">결제 후 바로 예약 확정됩니다.</string>
+    <string name="tour_step3_reservation_pop_msg1_title">확정예약</string>
+    <string name="tour_step3_reservation_pop_msg2">결제 후 해당 숙소의 빈 객실 유무 확인을 거쳐, 예약 확정됩니다.(숙소 확인 후, 예약이 취소될 수 있습니다.)</string>
+    <string name="tour_step3_reservation_pop_msg2_title">대기예약</string>
+    <string name="tour_step3_reservation_pop_title">확정/대기예약</string>
+    <string name="video_message_error">"일시적인 네트워크 오류 혹은 준비 중이므로
+이 동영상을 재생할 수 없습니다."</string>
+    <string name="web_url">http://openapi.11st.co.kr/openapi/OpenApiService.tmall</string>
+    <string name="webview_usb_debugging">웹뷰USB디버깅(4.4이상)</string>
+    <string name="CNRC">상품추천</string>
+    <string name="ECBR">고객무응답/선출고</string>
+    <string name="ECCP">고객칭찬</string>
+    <string name="ECGV">11번가불만</string>
+    <string name="ECII">정보조회</string>
+    <string name="ECNA">미입고/미출고관리</string>
+    <string name="ECRC">재인입(이전상담원 이관)</string>
+    <string name="ECRV">고객직접해결</string>
+    <string name="ECSG">제안/건의</string>
+    <string name="ECTT">테스트</string>
+    <string name="FDRC">상품추천</string>
+    <string name="NBRC">상품추천</string>
+    <string name="OBCS">취소/반품/교환</string>
+    <string name="OBDV">배송</string>
+    <string name="OBIS">이슈처리</string>
+    <string name="PCCA">취소절차문의</string>
+    <string name="PCCC">취소확인</string>
+    <string name="PCCD">취소거부</string>
+    <string name="PCCR">주문취소철회</string>
+    <string name="PCIC">환불정보변경</string>
+    <string name="PCRC">환불확인</string>
+    <string name="PCRD">환불기간</string>
+    <string name="PCRE">환불시오류</string>
+    <string name="PCRQ">취소완료요청</string>
+    <string name="PDAC">배송정보 변경</string>
+    <string name="PDBC">구매확정</string>
+    <string name="PDDC">배송정보 확인</string>
+    <string name="PDDD">발송지</string>
+    <string name="PDDF">배송비 문의</string>
+    <string name="PDDM">배송 방법</string>
+    <string name="PDNA">미도착접수건</string>
+    <string name="PDPS">발송처리(부분발송)</string>
+    <string name="PEDF">교환배송비</string>
+    <string name="PEDN">교환거부</string>
+    <string name="PEFQ">교환절차문의</string>
+    <string name="PEPD">교환처리지연</string>
+    <string name="PERQ">교환요청</string>
+    <string name="PIAS">A/S문의</string>
+    <string name="PIDQ">상품상세문의</string>
+    <string name="PIQS">상품</string>
+    <string name="POCG">주문내역변경</string>
+    <string name="POCK">주문내역확인</string>
+    <string name="POVO">가주문</string>
+    <string name="PRCR">반품완료요청</string>
+    <string name="PRDF">반품배송비</string>
+    <string name="PRDN">반품거부</string>
+    <string name="PRFA">반품절차문의</string>
+    <string name="PRPD">반품처리지연</string>
+    <string name="PRRC">반품철회</string>
+    <string name="PRRQ">반품요청</string>
+    <string name="RCCN">청소기</string>
+    <string name="RCER">전기면도기</string>
+    <string name="RCET">전동칫솔</string>
+    <string name="RCFD">냉장고</string>
+    <string name="RCHD">헤어드라이어</string>
+    <string name="RCNB">노트북</string>
+    <string name="RCRC">전기밥솥</string>
+    <string name="RCSW">소프트웨어</string>
+    <string name="RCTB">테블릿</string>
+    <string name="RCTV">TV</string>
+    <string name="RCWM">세탁기</string>
+    <string name="TVRC">상품추천</string>
+    <string name="WMRC">상품추천</string>
+    <string name="acessibility_titlebar_back">이전 화면으로 이동합니다.</string>
+    <string name="build_target">elevenst</string>
+    <string name="cardrecognized_oss">Copyright (c) 2014, Soumith Chintala &lt;br>All rights reserved. &lt;br> &lt;br>Redistribution and use in source and binary forms, with or without modification, &lt;br>are permitted provided that the following conditions are met: &lt;br> &lt;br>* Redistributions of source code must retain the above copyright notice, this &lt;br> list of conditions and the following disclaimer. &lt;br> &lt;br>* Redistributions in binary form must reproduce the above copyright notice, this &lt;br> list of conditions and the following disclaimer in the documentation and/or &lt;br> other materials provided with the distribution. &lt;br> &lt;br>* Neither the name of the {organization} nor the names of its &lt;br> contributors may be used to endorse or promote products derived from &lt;br> this software without specific prior written permission. &lt;br> &lt;br>THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS AS IS AND &lt;br>ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED &lt;br>WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE &lt;br>DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR &lt;br>ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES &lt;br>(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; &lt;br>LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON &lt;br>ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT &lt;br>(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS &lt;br>SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</string>
+    <string name="cell_pui_new_mark">NEW</string>
+    <string name="com.crashlytics.android.build_id">d2d79a2e-02af-475c-b0a0-f30ad6d3a3bf</string>
+    <string name="default_web_client_id">599308870402-7qoo64p40a6aatopo256nuukcpu38o8n.apps.googleusercontent.com</string>
+    <string name="emoticon_text">@string/emoticon_text_ko</string>
+    <string name="emoticon_text_en">(best)|(worst)|(firework)|(gift)|(heart4)|(kiss)|(smile)|(wink)|(kidding)|(sleepy)|(blush)|(glad)|(happy)|(grin)|(tear)|(crying)|(goodluck)|(smirk)|(annoyed)|(angry)|(embarrassed)|(scared)|(sick)|(hot)|(cold)|(tired)|(??)|(scream)|(surprised)|(curious)|(mock)|(fab)|(bye)|(tipsy)|(puke)|(skull)|(noway)|(anticipate)|(shocked)|(kitten)|(dog)|(blank)|(anxious)|(stuckup)|(perplexed)|(tempered)|(sorry)|(sulk)|(depressed)|(angel)|(diablo)|(zzz)|(scary)|(hungry)|(snobbish)|(timid)|(grudge)|(lol)|(heart1)|(heart2)|(heart3)|(heart5)|(!)|(?)|(sweat)|(ok)|(scissors)|(rock)|(paper)|(sunny)|(moon)|(star)|(cloud)|(rain)|(snowman)|(rice)|(coffee)|(pill)|(liquor)|(beer)|(chickenbeer)|(chicken)|(pizza)|(cupcake)|(milk)|(icecream)|(friedeggs)|(strawberry)|(noodles)|(cake)|(letter)|(teddybear)|(cash)|(cigar)|(poo)|(ribbon)|(laugh)|(flower)|(rabbit)|(pig)|(tree)|(axe)|(pmp)|(spoon)|(music)|(phone)|(burger)|(mic)|(good)|(apple)|(house)|(tv)|(camera)|(fallenleaves)|(car)|(cherry)|(ship)|(carrot)|(bus)|(bauble)|(rose)|(plane)|(watermelon)|(puppy)|(shoes)|(guy)|(gal)</string>
+    <string name="emoticon_text_ja">(最高)|(最悪)|(ほほ笑み)|(ウィンク)|(べー)|(寝る)|(照れる)|(惚れる)|(にこにこ)|(くすくす)|(めそめそ)|(わーん)|(ファイト)|(にやにや)|(うんざり)|(かっと)|(困る)|(恐怖)|(痛い)|(暑い)|(寒い)|(ふらふら)|(ぼさっと)|(絶叫)|(ビックリ)|(疑問)|(苦笑い)|(きらり)|(ハロー)|(くるくる)|(吐く)|(どくろ)|(いやいや)|(期待)|(ショッ)|(にゃあ)|(ぼっと)|(チッ)|(悩み)|(自慢)|(慌てる)|(むかつく)|(ごめん)|(つば)|(がっかり)|(天使)|(悪魔)|(おやすみ)|(鬼)|(ペコペコ)|(むふ)|(もじもじ)|(いじわる)|(大爆笑)|(ハート1)|(ハート2)|(ハート3)|(ハート4)|(ハート5)|(!)|(?)|(汗)|(OK)|(チョキ)|(グー)|(パー)|(晴れ)|(月)|(星)|(雲り)|(雨)|(雪)|(ご飯)|(コーヒー)|(薬)|(焼酒)|(ビール)|(チキンビール)|(チキン)|(ピザ)|(カップケーキ)|(ミルク)|(アイス)|(目玉焼き)|(いちご)|(ジャージャー)|(ケーキ)|(花火)|(プレゼント)|(レター)|(くま人形)|(キス)|(お金)|(タバコ)|(うんこ)|(リボン)|(ｗ)|(花)|(うさぎ)|(ぶた)|(ツリー)|(おの)|(MP3)|(はし)|(音楽)|(電話)|(ハンバーガー)|(マイク)|(グッド)|(りんご)|(家)|(TV)|(カメラ)|(秋)|(車)|(チェリー)|(船)|(にんじん)|(バス)|(果実)|(ローズ)|(飛行機)|(すいか)|(子犬)|(くつ)|(男)|(女)</string>
+    <string name="emoticon_text_ko">(최고)|(최악)|(폭죽)|(선물)|(하트4)|(입술)|(미소)|(윙크)|(메롱)|(잠)|(부끄)|(반함)|(방긋)|(크크)|(훌쩍)|(으앙)|(화이팅)|(히죽)|(짜증)|(버럭)|(곤란)|(공포)|(아픔)|(더워)|(추워)|(힘들어)|(잉여)|(절규)|(놀람)|(궁금)|(썩소)|(번쩍)|(안녕)|(헤롱)|(우웩)|(해골)|(도리도리)|(기대)|(하악)|(냐옹)|(멍)|(쳇)|(근심)|(잘난척)|(당황)|(우쒸)|(미안)|(퉤)|(절망)|(천사)|(악마)|(잘자)|(험악)|(배고파)|(훗)|(소심)|(심술)|(대폭소)|(하트1)|(하트2)|(하트3)|(하트5)|(느낌표)|(물음표)|(땀)|(오케이)|(가위)|(바위)|(보)|(맑음)|(달)|(별)|(구름)|(비)|(눈)|(밥)|(커피)|(약)|(소주)|(맥주)|(치맥)|(치킨)|(피자)|(컵케익)|(우유)|(아이스크림)|(계란후라이)|(딸기)|(짜장면)|(케이크)|(편지)|(곰인형)|(돈)|(담배)|(똥)|(리본)|(웃음)|(꽃)|(토끼)|(돼지)|(트리)|(도끼)|(MP3)|(수저)|(음표)|(전화기)|(햄버거)|(마이크)|(굿)|(사과)|(집)|(TV)|(카메라)|(낙엽)|(자동차)|(체리)|(배)|(당근)|(버스)|(열매)|(장미)|(비행기)|(수박)|(강아지)|(구두)|(남자)|(여자)</string>
+    <string name="emoticon_text_tr">(eniyi)|(enkötü)|(havaifişek)|(hediye)|(kalp4)|(öpücük)|(gülümse)|(gözkırpma)|(dalgageçme)|(uykulu)|(utanma)|(memnun)|(mutlu)|(sırıtma)|(gözyaşı)|(ağlama)|(iyişanslar)|(sırıtış)|(sinirli)|(aniden)|(utanmış)|(korkmuş)|(hasta)|(sıcak)|(soğuk)|(yorgun)|(??)|(çığlık)|(şaşırmış)|(meraklı)|(alay)|(muhteşem)|(gülegüle)|(sarhoş)|(kusma)|(kurukafa)|(olmaz)|(ummak)|(şoke)|(kediyavrusu)|(köpek)|(boş)|(endişeli)|(kibirli)|(kafasıkarışmış)|(kızgın)|(üzgünüm)|(somurtmak)|(depresif)|(melek)|(şeytan)|(zzz)|(korkunç)|(aç)|(züppe)|(çekingen)|(kin)|(gülücük)|(kalp1)|(kalp2)|(kalp3)|(kalp5)|(!)|(?)|(terleme)|(tamam)|(makas)|(kaya)|(kağıt)|(güneşli)|(ay)|(yıldız)|(bulut)|(yağmur)|(kardanadam)|(pilav)|(coffee)|(hap)|(içki)|(bira)|(tavukbira)|(tavuk)|(pizza)|(kap kek)|(süt)|(dondurma)|(yağdayumurta)|(çilek)|(erişte)|(kek)|(mektup)|(ayıcık)|(para)|(puro)|(kaka)|(kurdele)|(kahkaha)|(çiçek)|(tavşan)|(domuz)|(ağaç)|(balta)|(MP3)|(kaşık)|(müzik)|(telefon)|(burger)|(mikrofon)|(iyi)|(elma)|(ev)|(TV)|(kamera)|(dökülenyapraklar)|(araba)|(kiraz)|(gemi)|(havuç)|(otobüs)|(meyve)|(gül)|(uçak)|(karpuz)|(yavruköpek)|(ayakkabılar)|(adam)|(kız)</string>
+    <string name="event_already_attend_checked">이미 출석 체크 하셨습니다.</string>
+    <string name="event_tab_navi_benefit">혜택</string>
+    <string name="event_tab_navi_check">출석체크</string>
+    <string name="event_tab_navi_checked">출석완료</string>
+    <string name="event_tab_navi_coupon">쿠폰</string>
+    <string name="event_tab_navi_first_coupon">첫구매쿠폰</string>
+    <string name="event_tab_navi_mileage">마일리지</string>
+    <string name="facebook_app_id">435289873337385</string>
+    <string name="favorate_need_to_login_button_text">로그인</string>
+    <string name="favorate_need_to_login_subtext">로그인 후 좋아요 상품을 확인할 수 있습니다.</string>
+    <string name="favorate_need_to_login_text">로그인이 필요합니다.</string>
+    <string name="firebase_database_url">https://st-app-9fcfe.firebaseio.com</string>
+    <string name="gcm_defaultSenderId">599308870402</string>
+    <string name="google_api_key">AIzaSyDsCJuo5YazXiGuNecHsdMUS0A-PNTqzq4</string>
+    <string name="google_app_id">1:599308870402:android:9849e8a4a7eb1684</string>
+    <string name="google_crash_reporting_api_key">AIzaSyDsCJuo5YazXiGuNecHsdMUS0A-PNTqzq4</string>
+    <string name="google_storage_bucket">st-app-9fcfe.appspot.com</string>
+    <string name="label">Syrup Pay</string>
+    <string name="message_11toc_dlg_message">"본 11 톡 서비스의 원활한 제공을 위해 구매자님과 판매자님의 대화 내용은 최대 7일간 보관됩니다.(이후 보관기간이 경과되면 파기됩니다.)
+- 해당 대화내용은 대화 양당사자의 동의를 구하지 않는 한 제3자에게 열람,공개,제공되지 않습니다.
+- 동의를 하지 않으셔도 11 톡 서비스를 제외한 11번가 서비스는 정상적으로 이용이 가능합니다."</string>
+    <string name="message_push_init_allow">"11번가에서 푸시 알림(배송, 특가, 이벤트, 마케팅정보 등)을 보내고자 합니다.
+“11번가 앱 설정”에서 이를 변경할 수 있습니다."</string>
+    <string name="msg_storage_access_fail">SD카드 접근에 실패했습니다</string>
+    <string name="netpernel_ip">220.103.231.203</string>
+    <string name="no_favorate_product_button_text">오늘의 베스트상품 보기</string>
+    <string name="no_favorate_product_subtext">관심있는 상품은 좋아요를 눌러 보관하세요~</string>
+    <string name="no_favorate_product_text">좋아요 한 상품이 없습니다</string>
+    <string name="no_favorate_store_subtext">관심있는 스토어는 좋아요를 눌러 보관하세요~</string>
+    <string name="no_favorate_store_text">좋아요 한 스토어가 없습니다</string>
+    <string name="no_recent_product_button_text">오늘의 추천상품 보기</string>
+    <string name="no_recent_product_subtext">최근 본 상품은 30개까지 저장됩니다</string>
+    <string name="no_recent_product_text">최근 본 상품이 없습니다</string>
+    <string name="option_failed">대단히 죄송합니다. 일시적인 오류로 데이터 로딩에 실패하였습니다.</string>
+    <string name="permission_camera">카메라</string>
+    <string name="permission_info_camera">"11톡 사진 공유 및 포토 상품 리뷰 작성시 필요합니다.
+
+appNameApp > 설정 > 권한관리 메뉴에서 동의를 철회하실 수 있습니다."</string>
+    <string name="permission_info_mic">"11톡 사진 공유 및 포토 상품 리뷰 작성시 필요합니다.
+
+appNameApp > 설정 > 권한관리 메뉴에서 동의를 철회하실 수 있습니다."</string>
+    <string name="permission_info_nopermission">해당 기능을 사용하려면 권한이 필요합니다.</string>
+    <string name="permission_info_storage">"포토 상품 리뷰와 11톡에서 필요합니다.
+
+appNameApp > 설정 > 권한관리 메뉴에서 동의를 철회하실 수 있습니다."</string>
+    <string name="permission_movie">카메라, 마이크, 저장공간</string>
+    <string name="permission_no">허용안함</string>
+    <string name="permission_ok">승인</string>
+    <string name="permission_request">"에서는 다음 권한들을 사용하오니,
+허용해 주시기 바랍니다"</string>
+    <string name="permission_storage">저장공간</string>
+    <string name="photoreview_app_name">포토 리뷰</string>
+    <string name="photoreview_bottom_btn_sticker">스티커</string>
+    <string name="photoreview_bottom_btn_upload">완 료</string>
+    <string name="photoreview_btn_camera">사진촬영</string>
+    <string name="photoreview_btn_editpic">사진편집</string>
+    <string name="photoreview_btn_gallery">사진선택</string>
+    <string name="photoreview_btn_hidekey">작성완료</string>
+    <string name="photoreview_btn_playvideo">동영상재생</string>
+    <string name="photoreview_btn_removepic">사진삭제</string>
+    <string name="photoreview_btn_video">동영상촬영</string>
+    <string name="photoreview_cancel_input_message">작성-변경한 별점 및 상품평이 삭제됩니다.</string>
+    <string name="photoreview_cancel_message">작성하신 별점 및 상품평이 삭제됩니다.</string>
+    <string name="photoreview_cancel_modify_message">수정-변경한 별점 및 상품평이 삭제됩니다.</string>
+    <string name="photoreview_cancel_title">작성을 끝내겠습니까?</string>
+    <string name="photoreview_complete_bonus">"상품평을 작성하셨네요!
+bouns이 적립되었습니다."</string>
+    <string name="photoreview_complete_fix">수정되었습니다</string>
+    <string name="photoreview_complete_message">"상품 만족도 평가는 11번가가 더 좋은 리뷰를
+제공하는데 큰 도움이 됩니다"</string>
+    <string name="photoreview_complete_thank">"상품평을 작성하셨네요!
+감사합니다!"</string>
+    <string name="photoreview_complete_title">게시되었습니다</string>
+    <string name="photoreview_couch_edit_left_top">"편집을 취소하고
+사진촬영으로 돌
+아갑니다."</string>
+    <string name="photoreview_couch_one_edit_bottom_filter">"사진에 필터효과
+를 적용할 수
+있습니다."</string>
+    <string name="photoreview_couch_one_edit_bottom_sticker">"사진에 스티커
+를 붙이세요."</string>
+    <string name="photoreview_couch_one_edit_bottom_text">"사진에 글자를
+써서 붙이세요."</string>
+    <string name="photoreview_couch_one_edit_bottom_upload">"사진편집을
+마치고 저장
+합니다."</string>
+    <string name="photoreview_dialog_back">돌아가기</string>
+    <string name="photoreview_dialog_cancel">취소</string>
+    <string name="photoreview_dialog_ok">확인</string>
+    <string name="photoreview_download_sticker">스티커 이미지 초기화 중</string>
+    <string name="photoreview_download_svg">SVG 템플릿 이미지 초기화 중</string>
+    <string name="photoreview_download_thumbnail">썸네일 템플릿 이미지 초기화 중</string>
+    <string name="photoreview_edit_text">상품이 어땠는지 솔직히 말씀해주세요</string>
+    <string name="photoreview_fail_add_picture">사진을 추가할 수 없습니다.저장공간을 확보해 주세요.</string>
+    <string name="photoreview_input_text">상품평을 작성해주세요</string>
+    <string name="photoreview_max_image">사진은 최대 N장까지 등록 가능합니다.</string>
+    <string name="photoreview_max_video">동영상은 최대 1개까지 촬영 가능합니다.</string>
+    <string name="photoreview_message_all_photo">사진 선택</string>
+    <string name="photoreview_message_cancel">닫기</string>
+    <string name="photoreview_message_complete">게시</string>
+    <string name="photoreview_message_next">다음</string>
+    <string name="photoreview_message_no">아니오</string>
+    <string name="photoreview_message_ok">확인</string>
+    <string name="photoreview_message_prev">이전</string>
+    <string name="photoreview_message_yes">예</string>
+    <string name="photoreview_photo_empty">촬영하신 사진이 없습니다.</string>
+    <string name="photoreview_request_rating">별을 눌러 상품 만족도를 알려주세요.</string>
+    <string name="photoreview_select_complete">선택완료</string>
+    <string name="photoreview_select_star">별점을 평가해주세요</string>
+    <string name="photoreview_selector_request_select">사진을 선택하세요.</string>
+    <string name="photoreview_star_selected">별점 평가가 저장되었습니다</string>
+    <string name="photoreview_sticker_title">스티커 붙이기</string>
+    <string name="photoreview_title_step1">리뷰 작성</string>
+    <string name="photoreview_title_step2">상품만족도 평가</string>
+    <string name="photoreview_unsupported_photo">안드로이드 OS 2.3이하는 이미지 추가를 지원하지 않습니다.</string>
+    <string name="photoreview_unsupported_version">안드로이드 OS 4.0 이하는 동영상 리뷰를 지원하지 않습니다.</string>
+    <string name="photoreview_upload_bonus">"상품평을 추가 작성하면
+bonus을 적립해드립니다."</string>
+    <string name="photoreview_upload_failed">"죄송합니다.
+상품리뷰 전송이 실패했습니다.
+다시 시도해주십시오."</string>
+    <string name="photoreview_upload_message">"상품평을 추가 작성하면
+다른 사람의 구매에 더 큰 도움이 됩니다."</string>
+    <string name="photoreview_upload_question">게시하겠습니까?</string>
+    <string name="photoreview_uploading_prevent_exit">"리뷰를 11번가에 전송 중 입니다.
+잠시만 기다려 주세요."</string>
+    <string name="photoreview_video_image_select">대표이미지 선택</string>
+    <string name="photoreview_video_muxing">동영상 생성 중</string>
+    <string name="pointplus_shutdown">11번가 포인트플러스 시스템 점검 중 입니다.</string>
+    <string name="record_msg_camera_connect_fail">카메라 연결에 실패했습니다</string>
+    <string name="record_msg_confirm_exit_while_recording">클립 촬영 중입니다. 정말로 종료하시겠습니까? 촬영중인 클립은 저장되지 않습니다</string>
+    <string name="record_msg_flash_not_supported">이 기기는 플래시를 지원하지 않습니다</string>
+    <string name="record_msg_front_camera_not_supported">이 기기는 전면 카메라를 지원하지 않습니다</string>
+    <string name="record_msg_last_clip_delete">촬영한 클립이 삭제됩니다.</string>
+    <string name="record_msg_move_while_recording">촬영중에 다른 페이지로 이동할 수 없습니다</string>
+    <string name="record_msg_not_inited">레코더가 준비되지 않았습니다</string>
+    <string name="record_msg_prepare_fail">레코더 초기화에 실패했습니다</string>
+    <string name="record_msg_will_record_at_least_5_sec">최소 촬영시간인 5초 동안 꾹 눌러주세요.</string>
+    <string name="review_no_filtered_data_info">"옵션명이 정확한 리뷰만 조회되므로
+결과가 적거나 없을 수 있습니다.
+찾으시는 옵션명 키워드로 직접 검색해보세요.
+예시) ‘01.11번가 선물A’ > ‘선물A’"</string>
+    <string name="review_option_dialog_info">"현재 판매 중인 옵션의 리뷰를 찾아보실 수 있어요.
+찾으시는 상품이 아래 목록에 없을 경우 키워드로 직접 검색해보세요.(해당 키워드를 포함하는 옵션을 정확히 찾으실 수 있어요)"</string>
+    <string name="search_hint_mart">마트 상품을 검색해보세요.</string>
+    <string name="search_hint_nowdlv">NOW배송 상품을 검색해보세요.</string>
+    <string name="setting_lockscreen_desc">"11번가 OK캐쉬백 락을 설정하시면
+스마트폰 잠금 해제만 해도 OK캐쉬백 포인트가 적립됩니다."</string>
+    <string name="setting_lockscreen_group_title">11번가 포인트플러스</string>
+    <string name="setting_lockscreen_subtitle">잠금화면 제휴광고 및 적립이용</string>
+    <string name="setting_push_process_uncheck_desc_porintplus">알림을 해제하시면 11번가 포인트플러스 적립 관련 정보를 실시간으로 받아보실 수 없습니다. 알림을 해제 하시겠습니까?</string>
+    <string name="style_curation_detail_view">신상 자세히 보기</string>
+    <string name="style_tab_female">여성</string>
+    <string name="style_tab_male">남성</string>
+    <string name="syruppay_oss">"THE FOLLOWING SETS FORTH ATTRIBUTION NOTICES FOR THIRD PARTY SOFTWARE THAT MAY BE CONTAINED IN PORTIONS OF THIS PRODUCT. &lt;br> &lt;br>----- &lt;br> &lt;br>- This product contains Android ? platform - development library, which can be downloaded from http://developer.android.com/index.html or https://github.com/android/platform_development. This library includes the following license and notice below: &lt;br> &lt;br>Copyright (C) 2007 The Android Open Source Project &lt;br>https://github.com/android/platform_development/blob/master/CleanSpec.mk &lt;br> &lt;br> Licensed under the Apache License, Version 2.0 (the “License”); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0. Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an “AS IS” BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License. &lt;br> &lt;br>Apache License &lt;br>Version 2.0, January 2004 &lt;br>http://www.apache.org/licenses/ &lt;br>TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION &lt;br>1. Definitions. &lt;br>'License' shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through 9 of this document. &lt;br>'Licensor' shall mean the copyright owner or entity authorized by the copyright owner that is granting the License. &lt;br>'Legal Entity' shall mean the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity. For the purposes of this definition, 'control' means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity. &lt;br>'You' (or 'Your') shall mean an individual or Legal Entity exercising permissions granted by this License. &lt;br>'Source' form shall mean the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files. &lt;br>'Object' form shall mean any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types. &lt;br>'Work' shall mean the work of authorship, whether in Source or Object form, made available under the License, as indicated by a copyright notice that is included in or attached to the work (an example is provided in the Appendix below). &lt;br>'Derivative Works' shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. For the purposes of this License, Derivative Works shall not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the Work and Derivative Works thereof. &lt;br>'Contribution' shall mean any work of authorship, including the original version of the Work and any modifications or additions to that Work or Derivative Works thereof, that is intentionally submitted to Licensor for inclusion in the Work by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner. For the purposes of this definition, 'submitted' means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Work, but excluding communication that is conspicuously marked or otherwise designated in writing by the copyright owner as 'Not a Contribution.' &lt;br>'Contributor' shall mean Licensor and any individual or Legal Entity on behalf of whom a Contribution has been received by Licensor and subsequently incorporated within the Work. &lt;br>2. Grant of Copyright License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form. &lt;br>3. Grant of Patent License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Work, where such license applies only to those patent claims licensable by such Contributor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Work to which such Contribution(s) was submitted. If You institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Work or a Contribution incorporated within the Work constitutes direct or contributory patent infringement, then any patent licenses granted to You under this License for that Work shall terminate as of the date such litigation is filed. &lt;br>4. Redistribution. You may reproduce and distribute copies of the Work or Derivative Works thereof in any medium, with or without modifications, and in Source or Object form, provided that You meet the following conditions: &lt;br>1. You must give any other recipients of the Work or Derivative Works a copy of this License; and &lt;br>2. You must cause any modified files to carry prominent notices stating that You changed the files; and &lt;br>3. You must retain, in the Source form of any Derivative Works that You distribute, all copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and &lt;br>4. If the Work includes a 'NOTICE' text file as part of its distribution, then any Derivative Works that You distribute must include a readable copy of the attribution notices contained within such NOTICE file, excluding those notices that do not pertain to any part of the Derivative Works, in at least one of the following places: within a NOTICE text file distributed as part of the Derivative Works; within the Source form or documentation, if provided along with the Derivative Works; or, within a display generated by the Derivative Works, if and wherever such third-party notices normally appear. The contents of the NOTICE file are for informational purposes only and do not modify the License. You may add Your own attribution notices within Derivative Works that You distribute, alongside or as an addendum to the NOTICE text from the Work, provided that such additional attribution notices cannot be construed as modifying the License. You may add Your own copyright statement to Your modifications and may provide additional or different license terms and conditions for use, reproduction, or distribution of Your modifications, or for any such Derivative Works as a whole, provided Your use, reproduction, and distribution of the Work otherwise complies with the conditions stated in this License. &lt;br>5. Submission of Contributions. Unless You explicitly state otherwise, any Contribution intentionally submitted for inclusion in the Work by You to the Licensor shall be under the terms and conditions of this License, without any additional terms or conditions. Notwithstanding the above, nothing herein shall supersede or modify the terms of any separate license agreement you may have executed with Licensor regarding such Contributions. &lt;br>6. Trademarks. This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use in describing the origin of the Work and reproducing the content of the NOTICE file. &lt;br>7. Disclaimer of Warranty. Unless required by applicable law or agreed to in writing, Licensor provides the Work (and each Contributor provides its Contributions) on an 'AS IS' BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using or redistributing the Work and assume any risks associated with Your exercise of permissions under this License. &lt;br>8. Limitation of Liability. In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Work (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if such Contributor has been advised of the possibility of such damages. &lt;br>9. Accepting Warranty or Additional Liability. While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability. &lt;br>END OF TERMS AND CONDITIONS &lt;br> &lt;br>- This product contains OpenSSL toolkit, which can be downloaded from http://www.openssl.org/. This library includes the following licenses and notice below: &lt;br> &lt;br>According to https://www.openssl.org/source/license.html, the OpenSSL toolkit stays under a dual license, i.e. both the conditions of the OpenSSL License and the original SSLeay license apply to the toolkit. See below for the actual license texts. Actually both licenses are BSD-style Open Source licenses. &lt;br> &lt;br>OpenSSL License &lt;br>Copyright (c) 1998-2011 The OpenSSL Project. All rights reserved. &lt;br> &lt;br> Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met: &lt;br> &lt;br> 1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer. &lt;br> 2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. &lt;br> 3. All advertising materials mentioning features or use of this software must display the following acknowledgment: 'This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit. (http://www.openssl.org/)' &lt;br> 4. The names 'OpenSSL Toolkit' and 'OpenSSL Project' must not be used to endorse or promote products derived from this software without prior written permission. For written permission, please contact openssl-core@openssl.org. &lt;br> 5. Products derived from this software may not be called 'OpenSSL' nor may 'OpenSSL' appear in their names without prior written permission of the OpenSSL Project. &lt;br> 6. Redistributions of any form whatsoever must retain the following acknowledgment: &lt;br> 'This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/)' &lt;br> &lt;br>THIS SOFTWARE IS PROVIDED BY THE OpenSSL PROJECT 'AS IS' AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE OpenSSL PROJECT OR ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. &lt;br> &lt;br>Original SSLeay License &lt;br>Copyright (C) 1995-1998 Eric Young (eay@cryptsoft.com) All rights reserved. &lt;br> &lt;br>This package is an SSL implementation written by Eric Young (eay@cryptsoft.com). &lt;br>The implementation was written so as to conform with Netscapes SSL &lt;br> &lt;br>This library is free for commercial and non-commercial use as long as the following conditions are aheared to. The following conditions apply to all code found in this distribution, be it the RC4, RSA, lhash, DES, etc., code; not just the SSL code. The SSL documentation included with this distribution is covered by the same copyright terms except that the holder is Tim Hudson (tjh@cryptsoft.com). &lt;br> &lt;br>Copyright remains Eric Young's, and as such any Copyright notices in the code are not to be removed. If this package is used in a product, Eric Young should be given attribution as the author of the parts of the library used. This can be in the form of a textual message at program startup or in documentation (online or textual) provided with the package. &lt;br> &lt;br> Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met: &lt;br> 1. Redistributions of source code must retain the copyright notice, this list of conditions and the following disclaimer. &lt;br> 2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. &lt;br> 3. All advertising materials mentioning features or use of this software must display the following acknowledgement: &lt;br> 'This product includes cryptographic software written by Eric Young (eay@cryptsoft.com)' &lt;br> The word 'cryptographic' can be left out if the rouines from the library being used are not cryptographic related :-). &lt;br> 4. If you include any Windows specific code (or a derivative thereof) from the apps directory (application code) you must include an acknowledgement: &lt;br> 'This product includes software written by Tim Hudson (tjh@cryptsoft.com)' &lt;br> &lt;br>THIS SOFTWARE IS PROVIDED BY ERIC YOUNG 'AS IS' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. &lt;br> &lt;br>The licence and distribution terms for any publically available version or derivative of this code cannot be changed. i.e. this code cannot simply be copied and put under another distribution licence [including the GNU Public Licence.] &lt;br>END OF TERMS AND CONDITIONS"</string>
+    <string name="talk_view_count_text">조회</string>
+    <string name="test_server_ip">appdev.11st.co.kr</string>
+    <string name="testmode_select_dev4">dev4(dev4-m.11st.co.kr) DNS-103</string>
+    <string name="testmode_select_user_input">직접입력</string>
+    <string name="title_activity_camera_capture">CameraCaptureActivity</string>
+    <string name="title_activity_gallery">GalleryActivity</string>
+    <string name="title_activity_image_edit">ImageEditActivity</string>
+    <string name="title_activity_photo_viewer">PhotoViewerActivity</string>
+    <string name="title_activity_regist_text">RegistTextActivity</string>
+    <string name="title_activity_seller_setting">SellerSettingActivity</string>
+    <string name="tour_question_calender_price">캘린더에 표기된 가격은 해당 일자의 최저가를 표기하고 있으며, 예약 마감 시 조회되지 않을 수 있습니다.</string>
+    <string name="tour_question_start">최소 출발인원 이상 예약이 되어있는 상품으로서 예약과 동시에 출발이 가능합니다. 단, 예약자의 일부가 취소하여 최소 출발인원에 미치지 못할 경우, 예약이 진행되지 못할 수도 있습니다.</string>
+    <string name="tour_question_wait">최소 출발 인원이 미달하여 출발여부가 미정이거나, 출발이 임박하여 예약가능 시간이 지나 담당자의 확인이 필요한 상품 입니다.</string>
+    <string name="tp_adaptereditimage_load_fail">이미지 파일 불러오기에 실패 했습니다.</string>
+    <string name="tp_add">추가</string>
+    <string name="tp_add_basket">담기</string>
+    <string name="tp_add_buddy_text">친구추가</string>
+    <string name="tp_add_faq">자동응답 추가</string>
+    <string name="tp_add_favorite_seller">단골등록</string>
+    <string name="tp_alarm">알림</string>
+    <string name="tp_alarm_fail_result">대화방 알림설정에 실패 했습니다.</string>
+    <string name="tp_alarm_remove_result">대화방 알림이 해제 되었습니다.</string>
+    <string name="tp_alarm_result">대화방 알림이 설정되었습니다.</string>
+    <string name="tp_all_day_service">종일상담가능합니다.</string>
+    <string name="tp_all_day_service_time">(종일상담)</string>
+    <string name="tp_all_product">전체 상품</string>
+    <string name="tp_allow_phone_book_permission">주소록 퍼미션을 허용 해 주세요</string>
+    <string name="tp_and">이며</string>
+    <string name="tp_api_server_error">11 톡 연동에 실패 했습니다.</string>
+    <string name="tp_api_server_error_text">11 톡 연동에 실패 했습니다. 창을 닫고 다시 시도해 주세요</string>
+    <string name="tp_app_name">11톡</string>
+    <string name="tp_app_name_11st">11번가</string>
+    <string name="tp_app_name_seller_office">11번가 판매자</string>
+    <string name="tp_app_name_shockingdeal">11번가 쇼킹딜</string>
+    <string name="tp_app_title">11 톡</string>
+    <string name="tp_ask_message">질문 메시지</string>
+    <string name="tp_ask_send_order">주문 내역을 전송하시겠습니까?</string>
+    <string name="tp_best_seller">판매우수</string>
+    <string name="tp_block">차단</string>
+    <string name="tp_block_bot">앱 업데이트후 이용하실 수 있습니다.</string>
+    <string name="tp_block_fail_result">차단에 실패 했습니다.</string>
+    <string name="tp_block_result">차단 되었습니다.</string>
+    <string name="tp_block_seller_empty_text">차단한 판매자가 없습니다.</string>
+    <string name="tp_block_warning_message">"차단하시겠습니까?
+차단친구는 친구관리>차단친구관리에서 차단 해제 할 수 있습니다."</string>
+    <string name="tp_block_warning_message_seller">"차단된 사용자와 메시지를 주고 받을 수 없습니다.
+차단하시겠습니까?"</string>
+    <string name="tp_btn_issue_coupon">발급하기</string>
+    <string name="tp_btn_mart_search">한번에 찾기</string>
+    <string name="tp_btn_my_11st">나의 11번가</string>
+    <string name="tp_btn_show_detail">자세히보기</string>
+    <string name="tp_buddy_add">친구 추가</string>
+    <string name="tp_buyer_push_no">대화방 알림끄기</string>
+    <string name="tp_buyer_push_yes">대화방 알림켜기</string>
+    <string name="tp_buyer_setting_item0">프로필 설정</string>
+    <string name="tp_buyer_setting_item1">판매자 관리</string>
+    <string name="tp_buyer_setting_item2">알림 설정</string>
+    <string name="tp_call">전화걸기</string>
+    <string name="tp_camera">카메라</string>
+    <string name="tp_cancel">취소</string>
+    <string name="tp_cart_delivery_free">무료배송</string>
+    <string name="tp_cart_delivery_popup">"상품을 담았습니다. &lt;font color='#FFD4C3'> %s&lt;/font> 입니다."</string>
+    <string name="tp_cart_delivery_price_format">배송비 %,d원</string>
+    <string name="tp_cart_error_text">접속이 원할 하지 않습니다. 잠시 후 다시 시도해 주세요.</string>
+    <string name="tp_cart_webview_title">마트챗봇 장바구니</string>
+    <string name="tp_change">수정</string>
+    <string name="tp_chat">대화</string>
+    <string name="tp_chat_ask_another_product">다른상품문의</string>
+    <string name="tp_chat_block_layout_info">친구로 등록되지 않은 사용자로부터 초대되었습니다.</string>
+    <string name="tp_chat_exhibition">기획전추천</string>
+    <string name="tp_chat_input_end_buddy">대화가 종료 되었습니다.</string>
+    <string name="tp_chat_input_placeholder">메시지를 입력해 주세요!</string>
+    <string name="tp_chat_input_placeholder_seller">내용을 입력해주세요!</string>
+    <string name="tp_chat_issue_coupon">쿠폰발급</string>
+    <string name="tp_chat_item_coupon_title">고객님께 쿠폰이 발급되었습니다.</string>
+    <string name="tp_chat_item_order_title">고객님의 주문내역을 전송합니다.</string>
+    <string name="tp_chat_item_product_title">상품문의를 신청합니다.</string>
+    <string name="tp_chat_item_product_title1">이 상품을 문의 드립니다.</string>
+    <string name="tp_chat_item_product_title2">이 상품을 추천합니다.</string>
+    <string name="tp_chat_item_product_title3">상품을 공유합니다.</string>
+    <string name="tp_chat_location">위치안내</string>
+    <string name="tp_chat_recommend_product">상품추천</string>
+    <string name="tp_chat_register_title">자주쓰는 문구</string>
+    <string name="tp_chat_search_delivery">주문조회</string>
+    <string name="tp_chat_setting">대화설정</string>
+    <string name="tp_chat_share_product">상품 공유</string>
+    <string name="tp_chat_toast_title">11톡 메시지 입니다.</string>
+    <string name="tp_chatfragment_clear_favor">단골이 해제 되었습니다.</string>
+    <string name="tp_chatfragment_clear_favor_alert">판매자님을 단골 해제 하시겠습니까?</string>
+    <string name="tp_chatfragment_clear_favor_fail">단골 해제에 실패 했습니다.</string>
+    <string name="tp_chatfragment_etiquette_alert_1">문의시간 안내</string>
+    <string name="tp_chatfragment_etiquette_alert_2">"고객님 죄송합니다
+
+상담시간에 문의 주시면 성의껏
+답변드리겠습니다."</string>
+    <string name="tp_chatfragment_etiquette_alert_3">상담시간</string>
+    <string name="tp_chatfragment_etiquette_alert_4">"%s
+(주말, 공휴일 제외)"</string>
+    <string name="tp_chatfragment_favorite_answer_regist_complets">자주쓰는 문구에 등록 되었습니다.</string>
+    <string name="tp_chatfragment_file_empty_alert">파일을 먼저 다운로드 해 주세요</string>
+    <string name="tp_chatfragment_filter_alert_1">사용할 수 없는 메시지가 포함 되어 있습니다.</string>
+    <string name="tp_chatfragment_filter_alert_2">개인정보나 직거래 유도로 인한 피해가 발생하지 않도록 유의해 주세요.</string>
+    <string name="tp_chatfragment_filter_alert_3">원활한 서비스 제공을 위해 대화 내용은 암호화 되어 저장 되었다가 탈퇴 즉시 삭제 됩니다.</string>
+    <string name="tp_chatfragment_layout_writing">메시지 입력중</string>
+    <string name="tp_chatfragment_message_delete_complete">삭제에 성공 했습니다.</string>
+    <string name="tp_chatfragment_message_delete_fail">삭제에 실패 했습니다.</string>
+    <string name="tp_chatfragment_message_share">공유하기</string>
+    <string name="tp_chatfragment_message_text">메시지</string>
+    <string name="tp_chatfragment_regist_favor_alert_1">판매자님을 단골등록 하시겠습니까?</string>
+    <string name="tp_chatfragment_regist_favor_alert_2">푸시/SMS/메일정보 수신동의 하시고, 단골할인과 이벤트 정보를 받아보세요.</string>
+    <string name="tp_chatfragment_regist_favor_complete">단골 등록되었습니다.</string>
+    <string name="tp_chatfragment_regist_favor_coupon">"단골 등록 이후 쿠폰 다운로드 가능합니다.
+"</string>
+    <string name="tp_chatfragment_regist_favor_fail">단골 등록에 실패 했습니다.</string>
+    <string name="tp_chatfragment_search_seller_info_fail">판매자 정보조회에 실패 했습니다.</string>
+    <string name="tp_chatfragment_transfer_dlg_title">전송설정</string>
+    <string name="tp_check_claim">클래임관리</string>
+    <string name="tp_check_delivery">배송관리</string>
+    <string name="tp_clear_block">차단해제</string>
+    <string name="tp_close">닫기</string>
+    <string name="tp_complete">완료</string>
+    <string name="tp_complete_download">다운로드 완료</string>
+    <string name="tp_complete_facebook_share">페이스북 공유하기를 완료했습니다.</string>
+    <string name="tp_concierge">챗봇</string>
+    <string name="tp_concierge_tab_bubble">바로예요!</string>
+    <string name="tp_concierge_waiting_message_format">%s 전문가가 상담해 드리겠습니다. 조금만 기다려 주세요</string>
+    <string name="tp_connect_operator">상담원연결하기</string>
+    <string name="tp_copy">복사하기</string>
+    <string name="tp_copy_address">주소복사</string>
+    <string name="tp_coupon">쿠폰</string>
+    <string name="tp_coupon_already_download_msg">"다운로드 받은쿠폰입니다
+나의11번가에서 확인가능합니다"</string>
+    <string name="tp_coupon_banner_format1">고객님! %,d원 단골혜택을 확인하세요!</string>
+    <string name="tp_coupon_banner_format2">고객님! %d%%할인 단골혜택을 확인하세요!</string>
+    <string name="tp_coupon_create_text">쿠폰 생성은 PC Seller Office에서 가능합니다.</string>
+    <string name="tp_coupon_create_text2">SO > 프로모션관리 > 쿠폰발급관리</string>
+    <string name="tp_coupon_create_text3">쿠폰 생성</string>
+    <string name="tp_coupon_create_text4">쿠폰 종류: 이벤트&amp;기획전 쿠폰만 발급 가능합니다.</string>
+    <string name="tp_coupon_description_percent">%s%% 할인쿠폰</string>
+    <string name="tp_coupon_description_price">%s원 할인쿠폰</string>
+    <string name="tp_coupon_detail_description_0">쿠폰번호 :</string>
+    <string name="tp_coupon_detail_description_1">쿠폰명 :</string>
+    <string name="tp_coupon_detail_description_2">쿠폰종류 :</string>
+    <string name="tp_coupon_detail_description_3">할인액(율) :</string>
+    <string name="tp_coupon_detail_description_4">잔여 쿠폰 수량 :</string>
+    <string name="tp_coupon_detail_description_5">발행기간 :</string>
+    <string name="tp_coupon_detail_description_6">유효기간 :</string>
+    <string name="tp_coupon_detail_description_7">발행범위 :</string>
+    <string name="tp_coupon_detail_description_8">중복할인여부 :</string>
+    <string name="tp_coupon_detail_dialog_title">쿠폰 상세 정보</string>
+    <string name="tp_coupon_download_msg" formatted="false">"쿠폰을 다운로드 받았습니다
+%s부터 %s까지 사용 가능합니다.
+자세한 내용은 나의11번가에서 확인 가능합니다."</string>
+    <string name="tp_coupon_download_msg2">"쿠폰을 다운로드 받았습니다
+발급일로 부터 %s일 간 유효합니다.
+자세한 내용은 나의11번가에서 확인 가능합니다."</string>
+    <string name="tp_coupon_header_format1">단골등록 시 %,d원 쿠폰</string>
+    <string name="tp_coupon_header_format2">단골등록 시 %d%%할인 쿠폰</string>
+    <string name="tp_create">생성</string>
+    <string name="tp_data_warning">"3G/4G 환경에서는 데이터 요금이
+발생할 수 있습니다."</string>
+    <string name="tp_date_msg_format" formatted="false">%s년 %s월 %s일 %s</string>
+    <string name="tp_day_format">%s일</string>
+    <string name="tp_default_end_times">18:00</string>
+    <string name="tp_default_start_times">09:00</string>
+    <string name="tp_delay_message_buyer">"현재 판매자님이 답변을 할 수 없는 상태입니다.
+불편을 드려서 죄송합니다."</string>
+    <string name="tp_delay_message_seller">현재 고객님과 대화할 수 없습니다.</string>
+    <string name="tp_delete">삭제</string>
+    <string name="tp_dialog_bottom_check_text">다시보지 않기</string>
+    <string name="tp_direct_seller_warning">직매입 상품에서는 제공하지 않는 기능입니다.</string>
+    <string name="tp_do_chat">11톡 채팅하기</string>
+    <string name="tp_do_not_show_again">다시보지 않기</string>
+    <string name="tp_do_search">찾기</string>
+    <string name="tp_download">다운로드</string>
+    <string name="tp_edit_picture_title">사진 편집</string>
+    <string name="tp_empty_favorite_seller">단골로 등록한 판매자가 없습니다.</string>
+    <string name="tp_empty_product">상품이 없습니다.</string>
+    <string name="tp_empty_product_sell">현재 판매중인 상품이 없습니다.</string>
+    <string name="tp_empty_recent_seller">최근 구매한 상품이 없습니다.</string>
+    <string name="tp_empty_recommend_seller">추천판매자가 없습니다.</string>
+    <string name="tp_empty_register_product">등록된 상품이 없습니다.</string>
+    <string name="tp_end">입니다.</string>
+    <string name="tp_end_buddy_service">"안녕하세요
+11톡을 이용해주시는 고객님들께 감사드리며, 11톡 서비스 개선 작업을 위해 8월 22일부터 지인대화 종료 됨을 안내 드립니다.
+
+11톡은 앞으로 더 나은 서비스로 진화하기 위해 준비단계에 있으며, 빠른 시일 내에 개선된 서비스로 안내 드리겠습니다. 감사합니다."</string>
+    <string name="tp_end_concierge">상담 종료하기</string>
+    <string name="tp_end_service_time">상담종료시간</string>
+    <string name="tp_error_empty_cart">장바구니에 상품 존재하지 않음</string>
+    <string name="tp_etc">기타</string>
+    <string name="tp_exhibition_button">기획전 추천하기</string>
+    <string name="tp_exhibition_coupon">기획전 쿠폰</string>
+    <string name="tp_exhibition_empty">등록된 기획전이 없습니다.</string>
+    <string name="tp_exhibition_header">"- 추천기획전은 등록하신 배너이미지가 전송됩니다.
+- 신규기획전은 PC > 프로모션 관리 > 판매자기획전 관리에서 등록가능합니다."</string>
+    <string name="tp_exhibition_title">나의 기획전</string>
+    <string name="tp_exit">나가기</string>
+    <string name="tp_exit_chat">채팅방 나가기</string>
+    <string name="tp_exit_format">%s 님이 대화방을 나갔습니다.</string>
+    <string name="tp_exit_warning_message">"대화방에서 나가시겠습니까?
+대화내용이 모두 삭제되고 대화목록
+에서도 삭제됩니다."</string>
+    <string name="tp_expiration_date">발급일로 부터 %s일 간 유효</string>
+    <string name="tp_fail_room_create">대화방 생성에 실패했습니다.</string>
+    <string name="tp_fail_seller_option">판매자 옵션 로드에 실패 했습니다.</string>
+    <string name="tp_faq">FAQ</string>
+    <string name="tp_faq_info_first">고객이 키워드 버튼 터치 시 자동으로 전송될 메시지를 작성합니다.(최대 20개)</string>
+    <string name="tp_faq_info_second">글자수 제한: 한글기준 키워드 15자/질문 메시지 80자/응답 메시지 150자</string>
+    <string name="tp_faq_info_third">글자수 제한: 한글기준 키워드 15자/질문 메시지 80자/응답 메시지 150자</string>
+    <string name="tp_faq_intro">자주 묻는 질문도 확인 해보세요</string>
+    <string name="tp_faq_title">FAQ 답변입니다.</string>
+    <string name="tp_favorite">단골</string>
+    <string name="tp_favorite_coupon">단골쿠폰</string>
+    <string name="tp_favorite_coupon_alert">단골등록 후 확인 가능합니다.</string>
+    <string name="tp_favorite_product_format">%s 인기상품</string>
+    <string name="tp_favorite_seller">단골 판매자</string>
+    <string name="tp_firstchat_dlg_1">개인 정보를 입력하지 않도록 주의해 주세요.</string>
+    <string name="tp_firstchat_dlg_2">메신저 내 욕설 및 비방은 법적인 문제가 될 수 있으니 주의해 주세요.</string>
+    <string name="tp_firstchat_dlg_3">원활한 서비스 제공을 위해 대화 내용은 암호화 되어 저장 되었다가 탈퇴 즉시 삭제 됩니다.</string>
+    <string name="tp_gallery_layout_title">전체보기</string>
+    <string name="tp_galleryadapter_max_count">선택 할 수 있는 갯수를 초과 했습니다.</string>
+    <string name="tp_group_chat">그룹대화</string>
+    <string name="tp_group_chat_format">그룹대화 (%d)</string>
+    <string name="tp_guide">상담시간은 평일 10:30 ~ 20:00 / 주말 10:30 ~ 20:00 이며 시간 또는 문의가 몰릴 경우, 응대가 늦어 질 수 있음을 앙해 바랍니다.</string>
+    <string name="tp_guide_personal_information">개인정보 수집 및 이용안내</string>
+    <string name="tp_help">도움말</string>
+    <string name="tp_hint_input_message">메시지를 입력해 주세요</string>
+    <string name="tp_holiday">쉽니다</string>
+    <string name="tp_id">11번가 아이디</string>
+    <string name="tp_image_save_complete">이미지 저장을 완료 했습니다.</string>
+    <string name="tp_init_bundle_fail_text">연동 데이터가 없어 1:1 톡을 실행 할 수 없습니다.</string>
+    <string name="tp_input_search_keyword">검색어를 입력해 주세요</string>
+    <string name="tp_invite_format1" formatted="false">%s님이 %s</string>
+    <string name="tp_invite_format2">님을 초대 했습니다.</string>
+    <string name="tp_issue">발급</string>
+    <string name="tp_issue_coupon">쿠폰을 발급 하시겠습니까?</string>
+    <string name="tp_keypadblock_block">차단해제 후 메시지를 보낼 수 있습니다.</string>
+    <string name="tp_keypadblock_etiquette">지금은 상담 시간이 아닙니다.</string>
+    <string name="tp_keypadblock_exit">현재 고객님과 대화할 수 없습니다.</string>
+    <string name="tp_keypadblock_operator_end">상담이 종료 되었습니다.</string>
+    <string name="tp_keypadblock_operator_start">대화할 버튼을 선택해 주세요</string>
+    <string name="tp_keyword">키워드</string>
+    <string name="tp_launch_map_dialog_title">App을 선택해주세요.</string>
+    <string name="tp_leave_fail">나가기에 실패 했습니다.</string>
+    <string name="tp_location">매장위치</string>
+    <string name="tp_location_dialog_format">스토어에 등록 \"%s\"로 매장 주소가 발송됩니다.</string>
+    <string name="tp_map_clipboard_toast">주소가 복사되었습니다.</string>
+    <string name="tp_mart_search_edit_hint">상품, 카테고리, 브랜드 이름을 입력하세요</string>
+    <string name="tp_mart_search_placeholder">찾는 상품을 하나씩 입력하세요.</string>
+    <string name="tp_mart_search_title">여러 상품 한번에 찾기</string>
+    <string name="tp_max_faq">최대 20개까지 설정할 수 있습니다.</string>
+    <string name="tp_max_length_multi_keypad">최대 20자까지 입력 가능합니다.</string>
+    <string name="tp_max_price_string">최대 %s원</string>
+    <string name="tp_me">(나)</string>
+    <string name="tp_message_empty">최근 대화가 없습니다.</string>
+    <string name="tp_minimall">스토어</string>
+    <string name="tp_minimall_home">스토어</string>
+    <string name="tp_modify">수정</string>
+    <string name="tp_more">더보기</string>
+    <string name="tp_network_error_in_chatroom">서비스 연결 상태가 원활하지 않습니다.</string>
+    <string name="tp_new_bot">새로운 상담을 하고 싶어요</string>
+    <string name="tp_new_concierge">새상담시작</string>
+    <string name="tp_no_issue_coupon">발급가능한 쿠폰이 없습니다.</string>
+    <string name="tp_no_phone_number">판매자의 전화번호가 등록되어 있지 않습니다.</string>
+    <string name="tp_no_response">응답 안함</string>
+    <string name="tp_no_talk_person">대화상대 없음</string>
+    <string name="tp_not_install_kakaotalk">[카카오톡]이 설치되어 있지 않습니다</string>
+    <string name="tp_not_install_line">[라인]이 설치되어 있지 않습니다</string>
+    <string name="tp_not_permit_message">현재 버전에서 지원하지 않는 메시지입니다.</string>
+    <string name="tp_ok">확인</string>
+    <string name="tp_ok_count">확인 %d</string>
+    <string name="tp_operator_connection">상담사연결</string>
+    <string name="tp_option_save_fail">설정 저장에 실패 했습니다.</string>
+    <string name="tp_option_save_success">설정 저장이 완료 되었습니다.</string>
+    <string name="tp_order_check_activity_title">주문 조회</string>
+    <string name="tp_order_check_empty_buyer">"해당 판매자 상품의
+주문 내역이 없습니다."</string>
+    <string name="tp_order_check_empty_seller">"해당 고객의
+주문 내역이 없습니다."</string>
+    <string name="tp_order_check_title_buyer">판매자정보: %s</string>
+    <string name="tp_order_check_title_seller" formatted="false">고객정보: %s(%s)</string>
+    <string name="tp_order_footer_1">각 메뉴에서 상담고객의 상태( 결제완료, 배송준비중 등 )에 맞게 선택 후 검색해보세요. 주문상태와 맞지 않을 경우,검색이 되지 않습니다.</string>
+    <string name="tp_order_footer_2">취소 / 반품 / 교환 등의 주문조회는 클레임 관리메뉴에서가능합니다.</string>
+    <string name="tp_out_of_memory">시스템 메모리가 부족합니다.</string>
+    <string name="tp_percent_format">%s%%</string>
+    <string name="tp_permission_contact">주소록에 엑세스</string>
+    <string name="tp_permission_denied">허용안함</string>
+    <string name="tp_permission_grant">승인</string>
+    <string name="tp_permission_storage">저장공간</string>
+    <string name="tp_permission_sub_message">"포토 상품 리뷰와 11톡에서 필요합니다.
+
+%sApp > 설정 > 권한관리 메뉴에서 동의를 철회하실 수 있습니다."</string>
+    <string name="tp_permission_sub_message_seller">"11톡에서 필요합니다.
+
+%sApp > 설정 > 권한관리 메뉴에서 동의를 철회하실 수 있습니다."</string>
+    <string name="tp_permission_text">해당기능을 사용하려면 권한이 필요합니다.</string>
+    <string name="tp_permission_title">%s에서는 다음 권한들을 사용하오니, 허용해 주시기 바랍니다.</string>
+    <string name="tp_photo">사진</string>
+    <string name="tp_photo_viewer_image_delete_complete">파일을 삭제 했습니다.</string>
+    <string name="tp_photo_viewer_image_delete_fail">파일 삭제에 실패 했습니다.</string>
+    <string name="tp_photo_viewer_image_downloding">이미지 다운로드 중 입니다. 잠시만 기다려 주세요</string>
+    <string name="tp_photo_viewer_image_not_found">파일이 존재하지 않습니다.</string>
+    <string name="tp_photoviewer_layout_title">상세보기</string>
+    <string name="tp_popularity_product">인기상품</string>
+    <string name="tp_price">원</string>
+    <string name="tp_price_format">%,d</string>
+    <string name="tp_price_format1">%,d원</string>
+    <string name="tp_price_format2">원 (%s개)</string>
+    <string name="tp_product">상품</string>
+    <string name="tp_product_cart">장바구니 상품</string>
+    <string name="tp_product_like">좋아요 상품</string>
+    <string name="tp_product_recent">최근 본 상품</string>
+    <string name="tp_profile">프로필</string>
+    <string name="tp_profile_change_complete">프로필 변경이 완료 되었습니다.</string>
+    <string name="tp_profile_change_fail">프로필 변경에 실패 했습니다.</string>
+    <string name="tp_profile_contact_info">여러 모바일 기기에서 11번가 ID로 로그인하면 동일한 계정으로 11톡을 이용할 수 있습니다.</string>
+    <string name="tp_profile_name">프로필 이름</string>
+    <string name="tp_profile_setting">프로필 편집</string>
+    <string name="tp_profile_talk_manager_time_title">상담사 연결 가능 시간</string>
+    <string name="tp_profile_talk_manager_time_title_concierge">톡매니저 연결 가능 시간</string>
+    <string name="tp_rating_content">상담이 만족스러우셨나요?</string>
+    <string name="tp_ready_transfer">배송준비중</string>
+    <string name="tp_receive_agreement_complete">수신동의 처리완료</string>
+    <string name="tp_receive_delete_complete">수신해제 처리완료</string>
+    <string name="tp_recent_search">최근검색어</string>
+    <string name="tp_recent_sell_date">최근 판매일</string>
+    <string name="tp_recent_seller">최근 구매한</string>
+    <string name="tp_recom_product_search_hint">상품을 검색해보세요.</string>
+    <string name="tp_recommend_info_messsage">문의하실 상품을 선택해 주세요.</string>
+    <string name="tp_recommend_select_buyer">선택 상품 문의하기</string>
+    <string name="tp_recommend_select_seller">선택 상품 추천하기</string>
+    <string name="tp_recommend_seller">좋아할 만한</string>
+    <string name="tp_register_favorite">단골등록</string>
+    <string name="tp_register_favorite_answer_change_fail">자주쓰는 문구 수정에 실패 했습니다.</string>
+    <string name="tp_register_favorite_answer_delete_fail">자주쓰는 문구 삭제에 실패 했습니다.</string>
+    <string name="tp_register_favorite_answer_filter_alert">허용되지 않은 문자열이 포함 되어 있습니다.</string>
+    <string name="tp_register_favorite_answer_max_count_alert">자주쓰는 문구는 최대 100개까지 저장 가능합니다.</string>
+    <string name="tp_register_favorite_answer_max_length_alert">자주 쓰는 문구는 최대 100자까지 저장 가능 합니다.</string>
+    <string name="tp_register_favorite_answer_regist_fail">자주쓰는 문구 등록에 실패 했습니다.</string>
+    <string name="tp_register_favorite_message">자주쓰는 문구 등록</string>
+    <string name="tp_register_text">자주 쓰는 문구를 미리 등록 해 놓으면 채팅 시 보다 빠르고 편리한 입력이 가능합니다.</string>
+    <string name="tp_remove_favorite">단골해제</string>
+    <string name="tp_report">신고</string>
+    <string name="tp_resend">재전송</string>
+    <string name="tp_response_message">응답 메시지</string>
+    <string name="tp_response_no_rate">응답 없음</string>
+    <string name="tp_response_rate_format">응답률 %s%%</string>
+    <string name="tp_response_time_format">평균 응답시간 %s 이내</string>
+    <string name="tp_room_fragment_layout_empty_list">대화상대가 없습니다.</string>
+    <string name="tp_room_search_hint">대화 참여자 검색</string>
+    <string name="tp_room_search_hint_buyer">대화 참여자 검색</string>
+    <string name="tp_room_search_hint_seller">대화 내용검색</string>
+    <string name="tp_room_search_placeholder">대화 참여자를 검색해 보세요</string>
+    <string name="tp_room_search_placeholder_buyer">대화 참여자를 검색해 보세요</string>
+    <string name="tp_room_search_placeholder_seller">대화를 검색해 보세요</string>
+    <string name="tp_roomfragment_search_seller_info_fail">판매자 정보 조회에 실패 했습니다.</string>
+    <string name="tp_save">저장</string>
+    <string name="tp_search">검색</string>
+    <string name="tp_search_address">길찾기</string>
+    <string name="tp_search_empty_text1">에 대한</string>
+    <string name="tp_search_empty_text2">검색결과가 없습니다.</string>
+    <string name="tp_search_result">검색결과</string>
+    <string name="tp_select_album">사진 앨범에서 선택</string>
+    <string name="tp_select_button">버튼을 선택해주세요</string>
+    <string name="tp_select_default_image">기본 이미지로 변경</string>
+    <string name="tp_select_product">상품선택</string>
+    <string name="tp_select_product_1">상품 선택</string>
+    <string name="tp_select_product_2">이 상품 선택</string>
+    <string name="tp_seller">판매자</string>
+    <string name="tp_seller_faq_description">자주묻는질문(FAQ) 설정해 두시면, 고객이 채팅창에 진입했을 때 바로 안내 됩니다.</string>
+    <string name="tp_seller_list_empty_text">"단골/추천판매자가 없습니다.
+11 톡으로 상품 문의를 쉽고 빠르게 해보세요!"</string>
+    <string name="tp_seller_list_no_search_text">"입력하신 닉네임으로 등록된 판매자가 없습니다.
+다른 닉네임으로 검색해주세요."</string>
+    <string name="tp_seller_manage">판매자관리</string>
+    <string name="tp_seller_more_avg_response_format">평균 응답시간 %s 이내, </string>
+    <string name="tp_seller_more_delivery_format">평균배송일 %s일</string>
+    <string name="tp_seller_more_recent_sell_format">최근판매일 %s</string>
+    <string name="tp_seller_more_register_faq">자주 묻는 질문 등록</string>
+    <string name="tp_seller_more_response_rate_format">응답률 %s%%</string>
+    <string name="tp_seller_more_setting_alarm">알리미 설정</string>
+    <string name="tp_seller_more_setting_state1">상담가능</string>
+    <string name="tp_seller_more_setting_state2">부재</string>
+    <string name="tp_seller_more_setting_state3">톡 상담 사용안함</string>
+    <string name="tp_seller_more_setting_time">상담시간 설정</string>
+    <string name="tp_seller_profile_sub_info">판매자 소개 메시지를 입력해주세요.</string>
+    <string name="tp_seller_response_help">"
+ - 고객문의 메시지에 응답한 메시지 시간을 기준으로 집계 합니다.
+ - 응답률/응대시간은 최근 일주일간 7건 이상의 문의가 있는경우 고객에게 보여집니다.(전일 누적평균)
+ - 상담시간으로 설정한 이 외 시간은 고객에게 부재중으로 표시됩니다.
+ - 응대율 50%미만, 5시간 초과인 경우 고객에게 보여지지 않습니다."</string>
+    <string name="tp_seller_response_time_format1">%d분</string>
+    <string name="tp_seller_search_hint">판매자를 검색해 보세요.</string>
+    <string name="tp_seller_service_time_info_0">"안녕하세요
+문의시간 안내해드립니다.
+"</string>
+    <string name="tp_seller_service_time_info_1">평일은</string>
+    <string name="tp_seller_service_time_info_2">주말은</string>
+    <string name="tp_seller_service_time_info_3">지금은 부재중입니다. 문의사항 남겨주시면, 확인후 메시지 드릴게요.☺</string>
+    <string name="tp_seller_setting_alarm_title">알림 설정</string>
+    <string name="tp_seller_setting_block_seller">차단 판매자 목록</string>
+    <string name="tp_seller_setting_faq_title">자주묻는질문(FAQ) 설정</string>
+    <string name="tp_seller_setting_profile_image_title">프로필 설정</string>
+    <string name="tp_seller_setting_profile_layout_description">선택된 이미지는 고객 메신저 창에서 보입니다.</string>
+    <string name="tp_seller_setting_profile_layout_edit_hint">프로필을 입력해주세요</string>
+    <string name="tp_seller_setting_profile_layout_image1">대표이미지 1</string>
+    <string name="tp_seller_setting_profile_layout_image2">대표이미지 2</string>
+    <string name="tp_seller_setting_profile_layout_image3">대표이미지 3</string>
+    <string name="tp_seller_setting_profile_layout_image4">대표이미지 4</string>
+    <string name="tp_seller_setting_profile_layout_image5">대표이미지 5</string>
+    <string name="tp_seller_setting_profile_layout_image6">이미지 등록</string>
+    <string name="tp_seller_setting_profile_layout_subject">이미지 선택</string>
+    <string name="tp_seller_setting_profile_layout_subject2">판매자프로필 소개</string>
+    <string name="tp_seller_setting_service_time_title">서비스사용 및 상담시간</string>
+    <string name="tp_seller_setting_service_time_use_service">서비스사용</string>
+    <string name="tp_seller_setting_servicetime_layout_counseling_time">상담시간</string>
+    <string name="tp_seller_setting_servicetime_layout_description1">· 11톡 사용여부를 체크해주세요.</string>
+    <string name="tp_seller_setting_servicetime_layout_description2">· 11톡 사용하면, 고객과 1:1 대화가 가능합니다.</string>
+    <string name="tp_seller_setting_servicetime_layout_description2_1">원활한 서비스 제공을 위해 대화 내용은 암호화 되어 저장 되었다가 탈퇴 즉시 삭제 됩니다.</string>
+    <string name="tp_seller_setting_servicetime_layout_description3">· 11톡 상담시간을 설정할 수 있습니다.</string>
+    <string name="tp_seller_setting_servicetime_layout_description4">상담시간을 설정하지않으면 평일/주말 종일 상담이 가능합니다.</string>
+    <string name="tp_seller_setting_servicetime_layout_description5">· 상담시간을 설정하면</string>
+    <string name="tp_seller_setting_servicetime_layout_description6">"설정한 시간에만 판매자님께 11톡 알림이 발송됩니다.
+(SO App에서 에티켓 시간 설정하면 그때 알림이 오지 않을 수 있습니다)"</string>
+    <string name="tp_seller_setting_servicetime_layout_description6_1">단, SO App에서 에티켓 시간 설정하면 그때 알림이 오지 않을 수 있습니다.</string>
+    <string name="tp_seller_setting_servicetime_layout_description6_2">설정한 시간에만 상담이 가능하고 고객에게 안내됩니다.</string>
+    <string name="tp_seller_setting_servicetime_layout_description7">평일에 오전 9시부터 오후5시까지 상담이 가능하도록 하고 싶을 때<font color="red">\u0009\u0009평일/09:00-17:00</font></string>
+    <string name="tp_seller_setting_servicetime_layout_description8">· 평일/주말 종일상담이 기본으로 설정됩니다.</string>
+    <string name="tp_seller_setting_servicetime_layout_description9">· 예)평일 오전 9시부터 오후 5시까지 상담시간 설정할 경우</string>
+    <string name="tp_seller_setting_servicetime_layout_description9_1">“평일 09:00 ~17:00”로 설정하세요</string>
+    <string name="tp_seller_setting_servicetime_layout_enable_btn">상담안함</string>
+    <string name="tp_seller_setting_servicetime_layout_help">사용예시</string>
+    <string name="tp_seller_setting_servicetime_layout_help_description1">· 판매자가 설정한 시간에만 바로 상담이 가능하다는 것을 의미합니다. 단, 설정한 상담 시간과 상관없이 고객의 메시지는 계속 수신가능 합니다.</string>
+    <string name="tp_seller_setting_servicetime_layout_help_description3">"
+· 평일 상담 가능하고 주말은 상담안할 경우 고객에게 노출되는 예시화면
+· 상담시간으로 설정한 이 외 시간은 고객에게 '부재중'으로 보여집니다."</string>
+    <string name="tp_seller_setting_servicetime_layout_notice">인사 메시지</string>
+    <string name="tp_seller_setting_servicetime_layout_notice_edit_hint">고객이 채팅창에 들어왔을 때, 자동으로 안내되는 메시지입니다. 친근한 인사메시지를 작성해 보세요.</string>
+    <string name="tp_seller_setting_servicetime_layout_notice_radio1">기본메시지로 설정</string>
+    <string name="tp_seller_setting_servicetime_layout_notice_radio2">메시지 직접 입력</string>
+    <string name="tp_seller_setting_servicetime_layout_radiobtn1">사용</string>
+    <string name="tp_seller_setting_servicetime_layout_radiobtn2">사용안함</string>
+    <string name="tp_seller_state_leave">부재중</string>
+    <string name="tp_seller_state_not_use">톡 상담 사용안함</string>
+    <string name="tp_seller_state_online">상담가능</string>
+    <string name="tp_sellerprofileImagefragment_upload_fail">프로필 업로드에 실패 했습니다.</string>
+    <string name="tp_sellersettingservicetime_search_seller_info_fail">판매자 정보 조회에 실패 했습니다.</string>
+    <string name="tp_sellersettingservicetime_seller_setting_fail">판매자 설정 변경에 실패 했습니다.</string>
+    <string name="tp_send">전송</string>
+    <string name="tp_send_location_content_format">[매장위치안내] %s</string>
+    <string name="tp_send_message_counselor">상담사와 대화할래요.</string>
+    <string name="tp_send_message_help">사용 방법 안내해 주세요.</string>
+    <string name="tp_send_message_talk_manager">톡매니저와 대화할래요.</string>
+    <string name="tp_send_product_title">상품 문의 드립니다.</string>
+    <string name="tp_setting">설정</string>
+    <string name="tp_setting_profile_message_empty">프로필 소개 메시지를 입력해 주세요.</string>
+    <string name="tp_setting_profile_message_fail">프로필 설정에 실패 했습니다</string>
+    <string name="tp_setting_profile_message_format">%d/40자</string>
+    <string name="tp_setting_profile_message_save">프로필 설정이 완료 되었습니다</string>
+    <string name="tp_share">공유하기</string>
+    <string name="tp_share_activity_recommend">상품을 추천해 주세요</string>
+    <string name="tp_share_product">이 상품 공유</string>
+    <string name="tp_share_product_empty">"최저가로 살게요 상담이 가능한 카테고리에서 고객님의 최근 본 상품, 장바구니상품, 좋아요상품이 없습니다.
+
+디지털 컨시어지에서 상품을 추천받고 최저가로 구매해 보세요."</string>
+    <string name="tp_shipping_average_date">평균 배송일</string>
+    <string name="tp_show_all_product">전체상품보기</string>
+    <string name="tp_show_detail">자세히 보기</string>
+    <string name="tp_show_help">도움말보기</string>
+    <string name="tp_show_like">나의찜상품</string>
+    <string name="tp_sms_push_popup_content_0">"※ 단골 미니몰 Email/SMS 수신 변경안내
+"</string>
+    <string name="tp_sms_push_popup_content_1">"1.대상 미니몰 : %s
+"</string>
+    <string name="tp_sms_push_popup_content_2">"2.전송자 : SK플래닛
+"</string>
+    <string name="tp_sms_push_popup_content_3">"3.변경일시 : %s
+"</string>
+    <string name="tp_sms_push_popup_content_4">"4.처리결과 : %s
+"</string>
+    <string name="tp_sms_push_popup_date_format">yyyy년 MM월 dd일 HH시</string>
+    <string name="tp_so_empty_message">메시지를 입력해주세요.</string>
+    <string name="tp_so_profile_description_1">"판매자 소개메시지를 설정하면
+11톡 판매자TAB목록과 판매자프로필창에 노출됩니다."</string>
+    <string name="tp_so_profile_description_2">"판매자 프로필이미지를 설정하면
+11톡 판매자TAB목록과 판매자프로필창, 대화창에 노출됩니다."</string>
+    <string name="tp_so_service_time_changed">상담시간이 변경되었습니다.</string>
+    <string name="tp_so_service_time_error">"상담종료시간이, 상담시작시간보다 적은 숫자로 설정할 수 없습니다.
+재설정 해주시기 바랍니다."</string>
+    <string name="tp_sold_out">Sold Out</string>
+    <string name="tp_start_service_time">상담시작시간</string>
+    <string name="tp_string_count_format_15">%d/15자</string>
+    <string name="tp_string_count_format_150">%d/150자</string>
+    <string name="tp_string_count_format_80">%d/80자</string>
+    <string name="tp_string_count_init_15">0/15자</string>
+    <string name="tp_string_count_init_150">0/150자</string>
+    <string name="tp_string_count_init_40">0/40자</string>
+    <string name="tp_string_count_init_80">0/80자</string>
+    <string name="tp_tab_seller">쇼핑친구</string>
+    <string name="tp_talk_counselor">상담사연결</string>
+    <string name="tp_talk_manager">톡매니저연결</string>
+    <string name="tp_talk_service_dialog_layout_agree_btn">동의</string>
+    <string name="tp_talk_service_dialog_layout_description1">- 본 11톡 서비스의 원활한 제공을 위해 구매자님과 판매자님의 대화 내용은 암호화 되어 저장되었다가 탈퇴 즉시 삭제됩니다.</string>
+    <string name="tp_talk_service_dialog_layout_description2">- 해당 대화내용은 대화 양당사자의 동의를 구하지 않는 한 제 3자에게 열람, 공개, 제공되지 않습니다.</string>
+    <string name="tp_talk_service_dialog_layout_description3">- 동의를 하지 않으셔도 11 톡서비스를 제외한 11번가 서비스는 정상적으로 이용이 가능합니다.</string>
+    <string name="tp_talk_service_dialog_layout_disagree_btn">동의안함</string>
+    <string name="tp_talk_service_dialog_layout_title">11 톡 서비스</string>
+    <string name="tp_text_google_map">구글지도</string>
+    <string name="tp_text_kakao_map">카카오맵</string>
+    <string name="tp_text_naver_map">네이버지도</string>
+    <string name="tp_text_tmap">Tmap</string>
+    <string name="tp_time_format">MM월 dd일</string>
+    <string name="tp_time_format_h">%d시간</string>
+    <string name="tp_time_format_hm" formatted="false">%d시간 %d분</string>
+    <string name="tp_tooltip_multi_keypad_left">여러 상품을</string>
+    <string name="tp_tooltip_multi_keypad_middle">한번에 찾아볼 수</string>
+    <string name="tp_tooltip_multi_keypad_right">있어요!</string>
+    <string name="tp_transfer">전송하기</string>
+    <string name="tp_unblock_fail_result">차단 해제에 실패 했습니다.</string>
+    <string name="tp_unblock_result">차단 해제 되었습니다.</string>
+    <string name="tp_unblock_warning_message">차단을 해제 하시겠습니까?</string>
+    <string name="tp_unknown_user">알수없는 사용자</string>
+    <string name="tp_unrecognized_user_error">회원 정보가 없습니다. 11톡을 다시 실행 해 주세요</string>
+    <string name="tp_warning_finish_operator">현재 진행 중인 상담을 종료하시겠습니까?</string>
+    <string name="tp_weekday">평일</string>
+    <string name="tp_weekday_closed">평일은 쉽니다</string>
+    <string name="tp_weekend">주말</string>
+    <string name="tp_weekend_closed">주말은 쉽니다</string>
+    <string name="tp_yesterday">어제</string>
+    <string name="view_all">전체보기</string>
+</resources>

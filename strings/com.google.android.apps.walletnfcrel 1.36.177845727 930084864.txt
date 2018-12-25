@@ -1,0 +1,999 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ADDRESS_LINE_1_label">Street address, line 1</string>
+    <string name="ADDRESS_LINE_2_label">Street address, line 2</string>
+    <string name="ADDRESS_LINE_3_label">Street address, line 3</string>
+    <string name="BALANCE_label">Balance</string>
+    <string name="BIRTHDAY_label">Date of birth</string>
+    <string name="BIRTH_MONTH_AND_DAY_label">Date of birth</string>
+    <string name="CARD_BARCODE_label">Barcode</string>
+    <string name="CARD_NUMBER_label">Member ID</string>
+    <string name="CITY_label">City</string>
+    <string name="COUNTRY_label">County</string>
+    <string name="EMAIL_ADDRESS_label">Email</string>
+    <string name="EVENT_NUMBER_label">Event number</string>
+    <string name="FIRST_NAME_label">First name</string>
+    <string name="GENDER_label">Gender</string>
+    <string name="HceServiceDescription">Android Pay</string>
+    <string name="LAST_NAME_label">Last name</string>
+    <string name="MERCHANT_NAME_label">Merchant</string>
+    <string name="NOTES_label">Your notes</string>
+    <string name="PHONE_NUMBER_label">Phone number</string>
+    <string name="PIN_label">PIN</string>
+    <string name="PROGRAM_NAME_label">Program</string>
+    <string name="PROMPT_UNKNOWN_label" />
+    <string name="STATE_label">State</string>
+    <string name="STREET_ADDRESS_label">Street address</string>
+    <string name="ZIPCODE_label">ZIP code</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="about_software_notices_label">Software notices</string>
+    <string name="accessibility_button">button</string>
+    <string name="accessibility_checked">checked</string>
+    <string name="accessibility_not_checked">not checked</string>
+    <string name="account_item">Switch to %1$s</string>
+    <string name="account_item_default">Switch account</string>
+    <string name="account_number_credit_explanation">This credit was issued by %1$s</string>
+    <string name="account_number_explanation">A virtual %1$s account ending in %2$s was used instead of your actual card number to make this purchase</string>
+    <string name="account_number_explanation_no_last_digits">A virtual %1$s account was used instead of your actual card number to make this purchase</string>
+    <string name="account_number_explanation_no_last_digits_paypal">A virtual account was used to make this purchase</string>
+    <string name="account_number_explanation_no_network">A virtual account ending in %1$s was used instead of your actual card number to make this purchase</string>
+    <string name="account_number_explanation_no_network_no_last_digits">A virtual account was used instead of your actual card number to make this purchase</string>
+    <string name="account_number_explanation_non_android_pay">"This purchase either wasn't made with Android Pay or was made using another device. You have it set so that all purchases made with this card show in your app. Go to %1$s."</string>
+    <string name="account_number_explanation_non_android_pay_paypal">"This purchase either wasn't made with Android Pay or was made using another device. You have it set so that all your PayPal purchases show in your app. Go to %1$s."</string>
+    <string name="account_number_explanation_paypal">A virtual account ending in %2$s was used to make this purchase</string>
+    <string name="account_number_refund_explanation">A virtual %1$s account ending in %2$s was used instead of your actual card number to issue this refund</string>
+    <string name="account_number_refund_explanation_no_last_digits">A virtual %1$s account was used instead of your actual card number to issue this refund</string>
+    <string name="account_number_refund_explanation_no_last_digits_paypal">A virtual account was used to issue this refund</string>
+    <string name="account_number_refund_explanation_no_network">A virtual account ending in %1$s was used instead of your actual card number to issue this refund</string>
+    <string name="account_number_refund_explanation_no_network_no_last_digits">A virtual account was used instead of your actual card number to issue this refund</string>
+    <string name="account_number_refund_explanation_non_android_pay">"This refund is for a purchase that either wasn't made with Android Pay or was made using another device. You have it set so that all purchases made with this card show in your app. Go to %1$s."</string>
+    <string name="account_number_refund_explanation_non_android_pay_paypal">"This refund is for a purchase that either wasn't made with Android Pay or was made using another device. You have it set so that all your PayPal purchases show in your app. Go to %1$s."</string>
+    <string name="account_number_refund_explanation_paypal">A virtual account ending in %2$s was used to issue this refund</string>
+    <string name="account_number_title_format">%1$s number</string>
+    <string name="account_selector_description">account selector, %1$s</string>
+    <string name="action_add_gift_card">Add a gift card</string>
+    <string name="action_add_loyalty_program">Add a loyalty program</string>
+    <string name="action_add_other_payment_method">Add other payment methods</string>
+    <string name="action_add_payment_card">Add a credit or debit card</string>
+    <string name="action_add_se_payment_card">Add e-money</string>
+    <string name="add_account">Add account</string>
+    <string name="add_card_error_title">Oops…</string>
+    <string name="add_card_limit_exceeded_details">"Can't add more than one active %1$s card on this device"</string>
+    <string name="add_card_limit_exceeded_title">%1$s card limit exceeded</string>
+    <string name="add_clipped_offer">Add</string>
+    <string name="add_emoney_generic_error_message">Please try again later</string>
+    <string name="add_emoney_generic_error_title_format">"Couldn't create %1$s card"</string>
+    <string name="add_emoney_google_support_link">Google Support</string>
+    <string name="add_emoney_sanction_error_message">"The sign-up process couldn't be completed. Contact %1$s for help."</string>
+    <string name="add_emoney_sanction_error_title_format">"Couldn't create %1$s card"</string>
+    <string name="add_emoney_title">Add e-money</string>
+    <string name="add_emoney_unsupported_device_error_title_format">%1$s does not support this device yet. Try again in a few days.</string>
+    <string name="add_loyalty_card_error_message">There was an error adding your loyalty card to Android Pay. Please try again later.</string>
+    <string name="add_payment_card_placeholder_card">+ Add a credit or debit card</string>
+    <string name="add_program_title">Add loyalty program</string>
+    <string name="add_se_card_placeholder_card">+ Add a eMoney card</string>
+    <string name="add_to_balance_label">Add to balance:</string>
+    <string name="added_linked_offers">Added offers</string>
+    <string name="address_and_wrong_place_with_divider">%1$s • %2$s</string>
+    <string name="adm_message">If your device is lost or stolen, this will help you find, lock, and erase it</string>
+    <string name="adm_positive_button">Turn it on</string>
+    <string name="adm_title">Turn on Android Device Manager?</string>
+    <string name="all_fields_required">All fields required</string>
+    <string name="all_transactions_note_text">To view all transactions, check your account statement</string>
+    <string name="alphanumeric_error">Use only letters (a..z and A..Z) and numbers (0..9)</string>
+    <string name="already_saved_to_android_pay">Already saved to Android Pay</string>
+    <string name="android_pay_enabled_snackbar_confirmation">Android Pay is set as default</string>
+    <string name="android_pay_logo">Android Pay logo</string>
+    <string name="ap_tos_link_label">Android Pay Terms of Service</string>
+    <string name="app_logos_content_description">App logos</string>
+    <string name="app_unavailable_message">Check connection and try again later</string>
+    <string name="app_unavailable_title">Android Pay is unavailable</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="application_name">Android Pay</string>
+    <string name="arrow_description">Arrow from Android Pay to the merchant logo</string>
+    <string name="attempted_with_title">Attempted with %1$s</string>
+    <string name="auth_error_message">Check your device notifications for more info</string>
+    <string name="auth_error_title">Account action required to use Android Pay</string>
+    <string name="auth_switch_account">Switch accounts</string>
+    <string name="authenticate_error">Error while authenticating.</string>
+    <string name="auto_redeem_setting_label">Tap to use</string>
+    <string name="barcode_clipboard_label">Barcode</string>
+    <string name="barcode_description">Rendered barcode to scan the redemption value of this item</string>
+    <string name="barcode_number">Barcode Number</string>
+    <string name="birthday_label">Date of birth</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="bulletin_dismiss_button_content_description">Dismiss message</string>
+    <string name="button_back">Back</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_continue">Continue</string>
+    <string name="button_create_account">Create account</string>
+    <string name="button_dismiss">Dismiss</string>
+    <string name="button_done">Done</string>
+    <string name="button_got_it">Got it</string>
+    <string name="button_icon_circle_description">Background circle around the icon image for a button</string>
+    <string name="button_icon_description">Icon image for a button</string>
+    <string name="button_no_thanks">No thanks</string>
+    <string name="button_ok">OK</string>
+    <string name="button_redeem">Redeem</string>
+    <string name="button_save">Save</string>
+    <string name="button_select_this_card">Set as default card</string>
+    <string name="button_unlock">Play</string>
+    <string name="call_issuer">Call %1$s</string>
+    <string name="capture_barcode_again">Capture barcode again</string>
+    <string name="card_details_title">Card details</string>
+    <string name="card_details_title_with_card_info">Card details for %1$s</string>
+    <string name="card_pending_message">This card is still being set up for Android Pay</string>
+    <string name="card_pending_title">Setting up</string>
+    <string name="card_removed_from_device">%1$s was removed from Android Pay on this device</string>
+    <string name="card_selection_rejection_message_pending">"Can't make %1$s your default until setup is complete"</string>
+    <string name="card_selection_rejection_message_suspended">"Can't make %1$s your default because it's suspended"</string>
+    <string name="card_selection_rejection_message_verification_needed">%1$s needs to be verified before you can make it your default</string>
+    <string name="card_suspended_message">Please contact your card issuer</string>
+    <string name="card_suspended_title">Suspended</string>
+    <string name="change_card_art_link_label">Change card design</string>
+    <string name="change_password">Change password</string>
+    <string name="change_settings_button">Change settings</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="choose_account_title">Choose an account to use with Android Pay</string>
+    <string name="choose_amount_dialog_title">Choose amount</string>
+    <string name="choose_card_type_label">Choose card type</string>
+    <string name="city_label">City</string>
+    <string name="clearable_edit_text_clear">Clear</string>
+    <string name="close_app_button_text">close app</string>
+    <string name="close_button_description">Close</string>
+    <string name="combined_notification_text">%1$s %2$s</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="contact_issuer">Contact %1$s</string>
+    <string name="continue_button">Yes, continue to %1$s</string>
+    <string name="continue_button_no_merchant">Yes, continue</string>
+    <string name="copied_to_clipboard_format">%1$s copied</string>
+    <string name="credit_or_debit_card_button">Credit or debit card</string>
+    <string name="credited_to_title">Credited to %1$s</string>
+    <string name="day_hint">Day</string>
+    <string name="default_bottom_sheet_title">"Choose what you'd like to add"</string>
+    <string name="default_landing_screen_main_text">Tap. Pay. Done.</string>
+    <string name="default_landing_screen_main_text_existing_valuables">Everything you need at checkout right on your phone</string>
+    <string name="default_landing_screen_main_text_non_hce">Enjoy faster checkout in apps</string>
+    <string name="default_landing_screen_sub_text">Enjoy quick, easy checkout in stores and in apps</string>
+    <string name="default_payments_message">Set it as the default way to pay with your device</string>
+    <string name="default_payments_positive_button">Yes, set as default</string>
+    <string name="default_payments_title">Always use Android Pay in stores?</string>
+    <string name="default_store_name">Unknown store</string>
+    <string name="default_survey_ending_text">Thanks for your feedback!</string>
+    <string name="delete_card_generic_error_title">"%1$s card couldn't be deleted"</string>
+    <string name="delete_error_use_balance_dialog_message_format">"Before deleting your %1$s card, you'll need to spend your remaining balance, or transfer it to another device using the %2$s app."</string>
+    <string name="delete_error_use_balance_dialog_title">Spend or transfer your balance first</string>
+    <string name="delete_nanaco_password">Enter password</string>
+    <string name="delete_se_card_dialog_button">Delete</string>
+    <string name="delete_se_card_dialog_message_format">"Your %1$s card will be deleted and you'll no longer be able to use it when paying with your phone"</string>
+    <string name="delete_se_card_dialog_message_short">"You'll no longer be able to use this card when paying with your phone"</string>
+    <string name="delete_se_card_dialog_title_format">Delete %1$s card?</string>
+    <string name="delete_se_card_dialog_with_password_title_format">Enter your %1$s password to delete card</string>
+    <string name="delete_se_card_format">Delete %1$s card</string>
+    <string name="details_activity_title">Transaction details</string>
+    <string name="dialog_message_creating_se_card">Creating %1$s card</string>
+    <string name="dialog_message_creating_se_card_2">Adding to Android Pay</string>
+    <string name="dialog_message_deleting_se_card">Removing from Android Pay</string>
+    <string name="dialog_message_deleting_se_card_2">Deleting card</string>
+    <string name="disclose_label">disclose</string>
+    <string name="discoverables_popular_nearby">Popular nearby</string>
+    <string name="dismiss_button_content_description">Dismiss message</string>
+    <string name="divider">•</string>
+    <string name="edit_card_info_title">Enter your card info</string>
+    <string name="editing_error_details">Please try again</string>
+    <string name="editing_error_title">Something went wrong</string>
+    <string name="edy_add_limit_error_message">"Can't add another Edy card on this device"</string>
+    <string name="edy_ap_provisions_link_label">Special Provisions for Android Pay</string>
+    <string name="edy_app_name">Rakuten Edy</string>
+    <string name="edy_company_name">Rakuten Edy, Inc.</string>
+    <string name="edy_daily_add_limit_error_message">"Can't add another Edy card today"</string>
+    <string name="edy_legal_notice_title">Payment Service Act Legal Notice</string>
+    <string name="edy_message_description">Set up a Rakuten account for Edy purchases to get 1 point per 200 yen spent with Edy.</string>
+    <string name="edy_message_title">Earn Rakuten Super Points!</string>
+    <string name="edy_name">Edy</string>
+    <string name="edy_point_link_message_not_linked">Link your Rakuten account to start earning 1 Super Point for every ¥200 you spend</string>
+    <string name="edy_point_link_message_pending">Linking in progress. Check back soon.</string>
+    <string name="edy_point_link_title_not_linked">Rakuten Super Points</string>
+    <string name="edy_point_link_title_pending">Point program</string>
+    <string name="edy_point_link_url_label_not_linked">Link Now</string>
+    <string name="edy_superpoint_setup_link">Set up</string>
+    <string name="edy_terms_policies_link_label">Terms and Policies</string>
+    <string name="edy_topup_tos_link_label">Service Policy for Edy Top-up Using Android Pay</string>
+    <string name="edy_tos_link_label">Terms and Conditions of Use of Rakuten Edy Services</string>
+    <string name="email_address_label">Email address</string>
+    <string name="emoney_button">E-money</string>
+    <string name="emoney_tos_message_format">By accepting, you agree to the %1$s, %2$s and %3$s. All service provider %4$s are subject to terms and conditions.</string>
+    <string name="emoney_tos_message_format_two_sp_links">By accepting, you agree to the %1$s and %2$s. All service provider %3$s are subject to terms and conditions.</string>
+    <string name="emoney_tos_title">E-Money Service Provider Terms</string>
+    <string name="emoney_used_by_other_account_message_format">"You can only use %1$s with one Google Account per device. To add an %1$s card under this account, you'll need to delete your other one."</string>
+    <string name="emoney_used_by_other_account_title_format">%1$s is being used with another Google Account</string>
+    <string name="enable_emoney">Enable existing %1$s</string>
+    <string name="enable_emoney_action_format">Enable existing %1$s</string>
+    <string name="enter_password">Please enter password</string>
+    <string name="error_body_account_locked">"Your %1$s account is locked. Please visit %1$s Support for more info.
+
+Error code: %2$s"</string>
+    <string name="error_code">"
+
+Error code: %1$s"</string>
+    <string name="error_field_required">%1$sis required</string>
+    <string name="error_message_email">Invalid email address.</string>
+    <string name="error_message_generic_required">Required</string>
+    <string name="error_message_must_enter_a_positive_amount">Please enter a positive amount</string>
+    <string name="excessive_offers">%1$s+ offers</string>
+    <string name="expired_format">Expired %1$s</string>
+    <string name="expired_label">Expired</string>
+    <string name="fab_expand_content_description">Add a card</string>
+    <string name="fab_no_network_dialog">You need a network connection to add items</string>
+    <string name="fab_no_network_dialog_diss">Got it</string>
+    <string name="family_name_kana_label">Family name (kana)</string>
+    <string name="family_name_label">Family name</string>
+    <string name="feedback_acknowledgement_label">Your feedback will help us be more accurate in the future</string>
+    <string name="feedback_acknowledgement_title">Thanks for reporting incorrect location info</string>
+    <string name="feedback_error">"Can't connect to Android Pay"</string>
+    <string name="feedback_not_generic_merchant">"It wasn't this store"</string>
+    <string name="feedback_not_location">It was a different %1$s location</string>
+    <string name="feedback_not_merchant">"It wasn't %1$s"</string>
+    <string name="feedback_report">Report It</string>
+    <string name="feedback_title">"Tell us what's incorrect"</string>
+    <string name="feedback_type_general_feedback_button">No, other feedback</string>
+    <string name="feedback_type_question">Did you have trouble paying with Android Pay at a store?</string>
+    <string name="feedback_type_tap_failure_survey_button">Yes</string>
+    <string name="felica_initialization_error">Failed to initialize the chip. Please try again later.</string>
+    <string name="felica_lock_title">NFC / Osaifu-Keitai is locked</string>
+    <string name="felica_locked_message">"You'll need to unlock it to add e-money to Android Pay"</string>
+    <string name="felica_loyalty_error_message">Please try again later</string>
+    <string name="felica_loyalty_error_title">Failed to set up your loyalty program</string>
+    <string name="felica_plugin_not_found_message">Please install Osaifu-Keitai Web plugin app on Play Store and then try again.</string>
+    <string name="first_name_kana_label">First name (kana)</string>
+    <string name="first_name_label">First name</string>
+    <string name="gap_banana_republic_athleta_old_navy">Gap, Banana Republic, Athleta, Old Navy</string>
+    <string name="gender_hint">Select Gender</string>
+    <string name="gender_label">Gender</string>
+    <string name="generic_error">Your bank is unavailable right now.</string>
+    <string name="generic_offline_message">You need a network connection to do that</string>
+    <string name="generic_offline_message_dismiss">Got it</string>
+    <string name="generic_transit_title">Transit</string>
+    <string name="get_started_text">Get started</string>
+    <string name="gift_card_auto_redeem_setting_description">You can use this gift card by tapping your phone to the terminal</string>
+    <string name="gift_card_balance">Balance</string>
+    <string name="gift_card_balance_and_pin_format">"Balance: %1$s  |  PIN: %2$s"</string>
+    <string name="gift_card_balance_format">Balance: %1$s</string>
+    <string name="gift_card_button">Gift card</string>
+    <string name="gift_card_event_id_label">Event ID</string>
+    <string name="gift_card_expired_title">Gift Card (Expired)</string>
+    <string name="gift_card_expired_title_with_balance">%1$s Gift Card (Expired)</string>
+    <string name="gift_card_fragment_title_format">Details for your %1$s gift card</string>
+    <string name="gift_card_lock_prompt_message">Now that you have a gift card on your phone, Android Pay recommends setting up a screen lock for added security</string>
+    <string name="gift_card_lock_prompt_negative_button">No thanks</string>
+    <string name="gift_card_lock_prompt_positive_button">Set it up</string>
+    <string name="gift_card_lock_prompt_title">Screen lock recommended</string>
+    <string name="gift_card_notes_label">Your notes</string>
+    <string name="gift_card_notification_setting">Get notifications when this gift card can be used nearby</string>
+    <string name="gift_card_pin_format">PIN: %1$s</string>
+    <string name="gift_card_pin_label">PIN</string>
+    <string name="gift_card_program_search_hint">Search gift cards</string>
+    <string name="gift_card_refresh_balance_requested">Requesting Balance Refresh</string>
+    <string name="gift_card_removed">Your gift card was removed</string>
+    <string name="gift_card_search_hint">What gift card are you adding?</string>
+    <string name="gift_card_search_hint_message">Search stores, restaurants, and more</string>
+    <string name="gift_card_sync_balance">Update balance</string>
+    <string name="gift_card_title">Gift Card</string>
+    <string name="gift_card_title_with_balance">%1$s Gift Card</string>
+    <string name="gift_card_update_time_label">Last updated</string>
+    <string name="gift_card_updated_toast">Your gift card has been updated</string>
+    <string name="gift_cards_add_card_error_message">There was an error adding your gift card to Android Pay. Please try again later.</string>
+    <string name="gift_cards_add_card_error_title">Oops…</string>
+    <string name="gift_cards_add_card_success_message">Your gift card was added</string>
+    <string name="gift_error_body_ineligible">"This is because you've had an Edy card on this device before. See the terms and conditions for more info."</string>
+    <string name="gift_error_body_limit_exceeded">"¥%1$d can't be added to your Edy card because it will exceed your balance limit. Once you spend or transfer enough of your balance, your gift will be automatically redeemed."</string>
+    <string name="gift_error_ineligible">Ineligible for gift</string>
+    <string name="gift_error_title_ineligible">Ineligible for gift with sign-up</string>
+    <string name="gift_error_title_limit_exceeded">Gift will exceed Edy card limit</string>
+    <string name="gift_error_user_error">"Can't redeem gift"</string>
+    <string name="gift_transaction_title">Gift</string>
+    <string name="gift_transacton_amount">+ ¥%1$d</string>
+    <string name="gift_transacton_status_failed_ineligible">Ineligible for gift. Learn more</string>
+    <string name="gift_transacton_status_failed_user_error">"Can't redeem gift. Learn more"</string>
+    <string name="gift_transacton_status_pending">Pending</string>
+    <string name="go_to_edy_support_button_format">Go to %1$s support</string>
+    <string name="go_to_sp_app">Go to %1$s App</string>
+    <string name="google_tos_message1">"In order for Google to provide Android Pay services, you permit Google to %1$s to apps and sites that you've set up Android Pay and to share your device, payment, location, and account info with your payment method's issuer and network. Where necessary to process your transactions, you also permit Google to share your personal info with merchants, payment processors, and other third parties."</string>
+    <string name="google_tos_message2">"In order for Google to provide and improve Android Pay services, you permit Google to collect transaction, account, and other personal info from third parties, including merchants and your payment method's issuer."</string>
+    <string name="google_tos_title">Info Google May Share &amp; Collect</string>
+    <string name="gsuite_error_message">We are sorry, but you do not have access to this service. Please contact your domain administrator for access.</string>
+    <string name="header_credit_and_debit_card">Credit &amp; Debit Cards</string>
+    <string name="header_emoney_card">E-money</string>
+    <string name="header_transit">Transit cards</string>
+    <string name="header_valuables">Loyalty, Gift Cards &amp; Offers</string>
+    <string name="hide_account_list">Hide accounts</string>
+    <string name="hide_barcode_link">Hide barcode</string>
+    <string name="hide_member_id_link">Hide member ID</string>
+    <string name="hide_valuables_stores_label">Hide stores</string>
+    <string name="hold_near_terminal_prompt">Hold near terminal to use</string>
+    <string name="hold_phone_near_terminal_to_pay">Hold phone near terminal to pay</string>
+    <string name="how_it_works_recommended_merchants_fallback_text">"It's accepted wherever you see these symbols"</string>
+    <string name="how_it_works_tap_to_pay_text">How to use Android Pay in stores</string>
+    <string name="how_to_use_nanaco">How to use nanaco</string>
+    <string name="information_share_disclaimer">By continuing, you agree to share this info with %1$s</string>
+    <string name="install_app">Install</string>
+    <string name="instore_topup_education_subtitle">Then you can use Android Pay wherever nanaco is accepted</string>
+    <string name="instore_topup_education_title">"Your nanaco card was created.
+Add money at a store."</string>
+    <string name="instore_topup_info_text">Add money in stores. %1$s</string>
+    <string name="invalid_day_error">Invalid day</string>
+    <string name="invalid_month_error">Invalid month</string>
+    <string name="invalid_year_error">Invalid year</string>
+    <string name="issuer_name_stand_in">your payment card issuer</string>
+    <string name="issuer_number">%1$s %2$s</string>
+    <string name="issuer_with_country_format">%1$s %2$s</string>
+    <string name="item_settings_description">Get reminders about the cards, loyalty programs, and offers you have in Android Pay</string>
+    <string name="item_settings_title">Updates about your items</string>
+    <string name="jp_campaign_link_label">promotions</string>
+    <string name="kana_error_message">Must be in Kana</string>
+    <string name="ladder_promotion_delete">Remove card</string>
+    <string name="ladder_promotion_delete_confirm_title">Remove %1$s card?</string>
+    <string name="ladder_promotion_program_name">Android Pay Rewards</string>
+    <string name="later_button_text">Dismiss</string>
+    <string name="learn_more">Learn more</string>
+    <string name="learn_more_button">Learn More</string>
+    <string name="learn_more_link">Learn more</string>
+    <string name="legal_notice_message_company_name1">楽天Edy発行元</string>
+    <string name="legal_notice_message_company_name2">楽天Edy株式会社</string>
+    <string name="legal_notice_message_line1">● 所定のコンビニエンスストアのレジなどでチャージできます。</string>
+    <string name="legal_notice_message_line2">● 楽天EdyまたはEdyの表示のある加盟店でご利用いただけます。</string>
+    <string name="legal_notice_message_line3">● チャージ（入金）上限金額は50,000円です。</string>
+    <string name="legal_notice_message_line4">● 残高は決済端末などで確認できます。</string>
+    <string name="legal_notice_message_line5">● 紛失時の残高補償はできません。</string>
+    <string name="legal_notice_message_line6">● 詳しくはホームページ等に掲載のご利用約款をご覧ください。</string>
+    <string name="legal_notice_message_subtitle">楽天Edyのご利用について</string>
+    <string name="legal_notice_message_title">資金決済法に基づく情報提供</string>
+    <string name="link_with_label">&lt;a href=%2$s>%1$s&lt;/a></string>
+    <string name="linked_offer_image">Card linked offer image preview</string>
+    <string name="linked_offers_header">Recommended Offers</string>
+    <string name="linked_offers_list_title">Offers</string>
+    <string name="locality_area">%1$s, %2$s</string>
+    <string name="loyalty_auto_redeem_setting_description">You can use this loyalty program by tapping your phone to the terminal</string>
+    <string name="loyalty_auto_redemption_override_dialog_message">Only 1 loyalty program per store can be set up for automatic redemption</string>
+    <string name="loyalty_auto_redemption_override_dialog_ok_button">Yes, continue</string>
+    <string name="loyalty_auto_redemption_override_dialog_title">Turn off auto redeem for your other %1$s loyalty program?</string>
+    <string name="loyalty_card_fragment_title_format">Details for your %1$s</string>
+    <string name="loyalty_card_program_search_hint">Search loyalty programs</string>
+    <string name="loyalty_card_removed">Your loyalty program was removed</string>
+    <string name="loyalty_card_search_hint">What program are you adding?</string>
+    <string name="loyalty_card_search_hint_message">Search stores, restaurants, and more or enter the loyalty program name</string>
+    <string name="loyalty_card_updated_toast">Your loyalty program has been updated</string>
+    <string name="loyalty_cards_add_card_success_message">Your loyalty program was added</string>
+    <string name="loyalty_notification_setting">Get notifications when this loyalty program can be used nearby</string>
+    <string name="loyalty_program_add">Add loyalty program</string>
+    <string name="loyalty_program_banner">Loyalty program banner</string>
+    <string name="loyalty_program_button">Loyalty program</string>
+    <string name="loyalty_program_icon">Loyalty program icon</string>
+    <string name="loyalty_program_view">View</string>
+    <string name="loyalty_tier_header">Tier</string>
+    <string name="manage_accounts">Manage accounts</string>
+    <string name="manage_accounts_option">Manage accounts</string>
+    <string name="manual_enter_program">Enter your card number</string>
+    <string name="map_button_name">Map of %1$s</string>
+    <string name="map_button_name_no_merchant">Map</string>
+    <string name="map_button_name_tfl">Map of your journey</string>
+    <string name="map_icon_description">Store address</string>
+    <string name="market_app_search_format">market://details?id=%s</string>
+    <string name="marketing_emails_message">Get emails with exclusive offers, tips, and invites to give feedback</string>
+    <string name="marketing_emails_positive_button">"I'm in"</string>
+    <string name="marketing_emails_title">Stay in the loop</string>
+    <string name="master_valuable_setting_description">Get notifications when your gift cards, loyalty programs, and offers can be used nearby</string>
+    <string name="master_valuable_setting_title">Loyalty &amp; gift card notifications</string>
+    <string name="member_id_clipboard_label">Member ID</string>
+    <string name="member_name">Member name</string>
+    <string name="member_number">Member ID</string>
+    <string name="menu_item_enter_code">Enter promo code</string>
+    <string name="menu_item_feedback">Send feedback</string>
+    <string name="menu_item_help">Help</string>
+    <string name="menu_item_invite_friends">Invite friends</string>
+    <string name="menu_item_nearby_merchants">Nearby stores</string>
+    <string name="menu_item_nfc_antenna">How to pay</string>
+    <string name="menu_item_notification_setting">Settings</string>
+    <string name="menu_item_participating_banks">Participating banks</string>
+    <string name="menu_item_participating_services">Participating services</string>
+    <string name="menu_item_privacy_and_terms">Privacy and terms</string>
+    <string name="menu_item_supported_apps">Apps that accept it</string>
+    <string name="menu_item_supported_merchants">Stores that accept it</string>
+    <string name="menu_item_warm_welcome">How it works</string>
+    <string name="merchant_logo">Merchant logo</string>
+    <string name="merchant_logo_description">The logo for the merchant or issuer of this item</string>
+    <string name="merged_notification_ticker">%1$d new notifications from %2$s</string>
+    <string name="merged_notification_title">%1$d new notifications</string>
+    <string name="mfc_disabled_message">"To use Android Pay, you'll need to enable the Mobile FeliCa Client app in your phone's settings"</string>
+    <string name="mfc_disabled_title">Mobile FeliCa Client is disabled</string>
+    <string name="mfc_settings_button">Settings</string>
+    <string name="missing_transaction_description">"If you perform many transactions in a short period of time, Android Pay may not have complete transaction details. These may differ from the %1$s's records."</string>
+    <string name="model_lg_g4">LG G4</string>
+    <string name="model_motorola_droid_turbo_2">Droid Turbo 2</string>
+    <string name="model_nexus_5">Nexus 5</string>
+    <string name="model_nexus_5_x">Nexus 5X</string>
+    <string name="model_nexus_6">Nexus 6</string>
+    <string name="model_nexus_6_p">Nexus 6P</string>
+    <string name="model_samsung_galaxy_a8">Galaxy A8</string>
+    <string name="model_samsung_galaxy_a9">Galaxy A9</string>
+    <string name="model_samsung_galaxy_a9_pro">Galaxy A9 Pro</string>
+    <string name="model_samsung_galaxy_j5">Galaxy J5</string>
+    <string name="model_samsung_galaxy_note_4">Galaxy Note4</string>
+    <string name="model_samsung_galaxy_note_5">Galaxy Note5</string>
+    <string name="model_samsung_galaxy_s5">Galaxy S5</string>
+    <string name="model_samsung_galaxy_s6">Galaxy S6</string>
+    <string name="model_samsung_galaxy_s6_edge">Galaxy S6 edge</string>
+    <string name="model_samsung_galaxy_s6_edge_plus">Galaxy S6 edge+</string>
+    <string name="model_samsung_galaxy_s7">Galaxy S7</string>
+    <string name="model_samsung_galaxy_s7_edge">Galaxy S7 edge</string>
+    <string name="month_hint">Month</string>
+    <string name="more_linked_offers">More</string>
+    <string name="more_transactions">View more transactions</string>
+    <string name="more_ways_to_pay_button">More ways to pay</string>
+    <string name="multiple_offers">%1$s offers</string>
+    <string name="must_upgrade_heading">Update Android Pay</string>
+    <string name="must_upgrade_message">To continue paying with your phone in stores, update to the new Android Pay. Your current version can no longer be used.</string>
+    <string name="nanaco_ap_provisions_link_label">Special Provisions for Android Pay</string>
+    <string name="nanaco_campaign_email_optin_label">Send me promotional emails from Seven &amp; i Holdings Co., Ltd.</string>
+    <string name="nanaco_deleted_message">"Your nanaco account is deactivated. Please click delete button below to delete the nanaco card. If you have any question, please reach out to nanaco customer support (0570–071–555). 
+
+nanaco number: %1$s 
+
+Error code: AMBE10"</string>
+    <string name="nanaco_name">nanaco</string>
+    <string name="nanaco_too_young_error">Must be at least 16 years old</string>
+    <string name="nanaco_tos_link_label">Terms and Conditions of nanaco mobile</string>
+    <string name="nav_drawer_close">Hide Drawer</string>
+    <string name="nav_drawer_open">Show Drawer</string>
+    <string name="nearby_merchants_empty_message">"Can't find any stores near you that accept Android Pay"</string>
+    <string name="nearby_merchants_network_error">"Couldn't connect to the network"</string>
+    <string name="nearby_merchants_permission_error">"Android Pay can't access your location"</string>
+    <string name="nearby_merchants_permission_missing">Android Pay requires access to your location in order to show nearby stores. You can enable the Location permission in: Settings -> Apps -> Android Pay -> Permissions.</string>
+    <string name="nearby_merchants_permission_rationale">To show stores near you, Android Pay needs to access your location</string>
+    <string name="nearby_merchants_retry">Try again</string>
+    <string name="nearby_merchants_title">Nearby stores</string>
+    <string name="nearby_merchants_unexpected_error">An error occurred</string>
+    <string name="nearby_notification_setting_label">Nearby Notifications</string>
+    <string name="nfc_antenna_direction_above">above</string>
+    <string name="nfc_antenna_direction_below">below</string>
+    <string name="nfc_antenna_location_text">The NFC chip on your %1$s is located %2$s. Hold this part of your phone to the terminal when paying.</string>
+    <string name="nfc_antenna_location_title">How to pay in stores</string>
+    <string name="nfc_enabled_snackbar_confirmation">NFC is turned on</string>
+    <string name="nfc_logo_description">Image of the NFC (Near Field Communication) logo</string>
+    <string name="nfc_message">To pay with your device, you need to turn on NFC</string>
+    <string name="nfc_open_settings_button">Settings</string>
+    <string name="nfc_osaifu_message">"You'll need to unlock it to pay with Android Pay"</string>
+    <string name="nfc_osaifu_title">NFC / Osaifu-Keitai is locked</string>
+    <string name="nfc_positive_button">Settings</string>
+    <string name="nfc_setting_description">"Get reminders and offers when you're at a store that accepts Android Pay"</string>
+    <string name="nfc_setting_title">Store notifications</string>
+    <string name="nfc_title">Turn on NFC</string>
+    <string name="no_camera_permission_scan_barcode">"Android Pay can't access the camera"</string>
+    <string name="no_location_permission_geofencing_disabled">"Android Pay can't access your location"</string>
+    <string name="no_network_delete_error_message_format">Your %1$s card couldnt be deleted. Make sure you have a network connection, then try again</string>
+    <string name="no_network_error_title">Check your network connection</string>
+    <string name="no_transactions_available">No transactions available</string>
+    <string name="no_transactions_for_this_card">"Android Pay doesn't receive transaction info for this card. Check your account statement."</string>
+    <string name="non_break_space"> </string>
+    <string name="non_default_card_message">To use a card other than your default, just open the app and tap on the card right before you pay</string>
+    <string name="non_default_card_title">Pay with any card</string>
+    <string name="non_hce_warm_welcome_body">"You're all set to breeze through checkout in apps and online. Android Pay can't be used in stores on this device. %1$s"</string>
+    <string name="non_hce_warning_dialog_message">HCE is needed to pay with Android Pay in stores</string>
+    <string name="non_hce_warning_dialog_title">"Your device doesn't support HCE"</string>
+    <string name="non_hce_why_link_text">Learn more</string>
+    <string name="non_nfc_warning_dialog_message">NFC is needed to pay with Android Pay in stores</string>
+    <string name="non_nfc_warning_dialog_title">"Your device doesn't support NFC"</string>
+    <string name="not_found_warning">"The item you're looking for couldn't be found"</string>
+    <string name="notification_count">%d</string>
+    <string name="notification_label">Notifications</string>
+    <string name="notification_message_loyalty_signup">Add your %1$s to Android Pay for an easier way to save</string>
+    <string name="notification_message_nfc">Pay with your phone at %1$s</string>
+    <string name="notification_message_nfc_gift_clo">%1$s available with %2$s gift card</string>
+    <string name="notification_message_nfc_loyalty_clo">%1$s available with %2$s loyalty card</string>
+    <string name="notification_message_nfc_offer_clo">%1$s available with %2$s offer</string>
+    <string name="notification_message_nfc_showandscan_gift">Show %1$s gift card to cashier before paying</string>
+    <string name="notification_message_nfc_showandscan_loyalty">Show %1$s loyalty card to cashier before paying</string>
+    <string name="notification_message_nfc_showandscan_offer">Show %1$s offer to cashier before paying</string>
+    <string name="notification_message_nfc_smarttap_gift">Use %1$s gift card by tapping phone to terminal</string>
+    <string name="notification_message_nfc_smarttap_loyalty">Use %1$s loyalty card by tapping phone to terminal</string>
+    <string name="notification_message_nfc_smarttap_offer">Use %1$s offer by tapping phone to terminal</string>
+    <string name="notification_message_showandscan">Show to cashier at checkout</string>
+    <string name="notification_message_showandscan_clo">Show your %1$s card at checkout</string>
+    <string name="notification_message_showandscan_clo_gift">Show your gift card at checkout</string>
+    <string name="notification_message_smarttap">Use by tapping phone to terminal</string>
+    <string name="notification_message_smarttap_clo">Use your %1$s card by holding phone to terminal</string>
+    <string name="notification_message_smarttap_clo_gift">Use your gift card by holding phone to terminal</string>
+    <string name="notification_navigation_progress_format">%1$s of %2$s</string>
+    <string name="notification_next_button">Next</string>
+    <string name="notification_opt_out_button">Turn off notifications</string>
+    <string name="notification_previous_button">Previous</string>
+    <string name="notification_setting_label">Notifications</string>
+    <string name="notification_settings_button">Settings</string>
+    <string name="notification_settings_title">Notification settings</string>
+    <string name="notification_silence_button">Mute notifications</string>
+    <string name="notification_title_clo">%1$s available</string>
+    <string name="notification_title_clo_at_place">%1$s available at %2$s</string>
+    <string name="notification_title_format_default_gift">%1$s gift card</string>
+    <string name="notification_title_format_default_loyalty">%1$s loyalty program</string>
+    <string name="notification_title_format_default_offer">%1$s offer</string>
+    <string name="notification_title_format_with_details">%1$s at %2$s</string>
+    <string name="notification_title_loyalty_signup">Faster checkout at %1$s</string>
+    <string name="notification_title_nfc">Android Pay accepted here</string>
+    <string name="occupation_hint">Select Occupation</string>
+    <string name="occupation_label">Occupation</string>
+    <string name="ocr_results_empty">"Couldn't recognize your card, please enter the details manually"</string>
+    <string name="offer_auto_redeem_setting_description">You can use this offer by tapping your phone to the terminal</string>
+    <string name="offer_details_header">Details</string>
+    <string name="offer_expiration_notification_content_title">{count, plural,=0{Offer expires today} =1{Offer expires tomorrow} other{Offer expires in # days}}</string>
+    <string name="offer_expired_header_format">%1$s (Expired)</string>
+    <string name="offer_fragment_title_format">Details for your %1$s offer</string>
+    <string name="offer_provider_header">From</string>
+    <string name="offer_removed">Your offer was removed</string>
+    <string name="offer_terms_header">Terms</string>
+    <string name="only_accepted_at_these_stores">Only accepted at these stores</string>
+    <string name="open_app">Open</string>
+    <string name="osaifu_keitai_tos_link">Osaifu-Keitai Usage Regulations</string>
+    <string name="paid_with_title">Paid with %1$s</string>
+    <string name="password_at_least_4_chars">Must be at least 4 characters</string>
+    <string name="password_label">Create a %1$s password</string>
+    <string name="password_toggle_content_description">Toggle password visibility</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="payment_card_set_as_default">%1$s is now your default card</string>
+    <string name="payment_card_setting_heading">Full purchase history</string>
+    <string name="payment_card_setting_subheading">Include purchases not made with Android Pay for cards that support this feature</string>
+    <string name="payment_education_description">Then just hold your phone to the terminal</string>
+    <string name="payment_education_subtitle">"Look for either symbol at checkout and tell the cashier you're paying with %1$s"</string>
+    <string name="payment_education_title">Your %1$s card was created</string>
+    <string name="paypal_acceptance_dialog_message">Your PayPal account can only be used with Android Pay where Discover is accepted</string>
+    <string name="paypal_acceptance_dialog_title">Quick reminder</string>
+    <string name="pending_tap_amount_placeholder">Pending</string>
+    <string name="pending_transactions_disclaimer">"For some merchants, you may see a temporary hold higher than what you'll be charged. Check your account statement for the final amount. %1$s"</string>
+    <string name="pending_transactions_disclaimer_paypal">"For some merchants, you may see a temporary hold higher than what you'll be charged. Check your account statement for the final amount. %1$s"</string>
+    <string name="pending_valuable_discoverable_body">"Card from last purchase
+Member #: %1$s"</string>
+    <string name="pending_valuable_discoverable_title">Quick add</string>
+    <string name="pending_valuable_notification_add_now">Link Now</string>
+    <string name="pending_valuable_notification_body">Instantly add the card you just used</string>
+    <string name="pending_valuable_notification_title">Link your %1$s card</string>
+    <string name="phone_icon_description">Store phone number</string>
+    <string name="phonenumber_error">Enter 9 to 11 digits number</string>
+    <string name="phonenumber_label">Phone number</string>
+    <string name="plc_card_usage">Your %1$s card can be used at these stores</string>
+    <string name="plc_default_error_message">It can only be used at select stores. To pay with it, tap on the card and hold your phone to the terminal.</string>
+    <string name="plc_default_error_title">"That card can't be your default"</string>
+    <string name="prefecture_hint">Select Prefecture</string>
+    <string name="prefecture_label">Prefecture</string>
+    <string name="preferences_license_title">Open source licenses</string>
+    <string name="primes_marker">PrImEs</string>
+    <string name="primes_version">173200329</string>
+    <string name="privacy_policy_link">https://www.google.com/policies/privacy/</string>
+    <string name="privacy_policy_link_label">Google Privacy Policy</string>
+    <string name="prod_backup_api_key">AEdPqrEAAAAIc9PTTurIIDS9h_MOUgYDhthoks2cJsnokdAUtQ</string>
+    <string name="promo_code_applied_title">Code was applied</string>
+    <string name="promo_code_apply">Apply</string>
+    <string name="promo_code_applying">Applying code</string>
+    <string name="promo_code_body">"If you have a promo code or a friend's invite code, you can enter it here"</string>
+    <string name="promo_code_field_description">Promo code</string>
+    <string name="promo_code_network_error_message">Check your network connection and try again</string>
+    <string name="promo_code_network_error_title">Network connection needed</string>
+    <string name="promo_code_title">Enter promo code</string>
+    <string name="promo_code_unexpected_error_message">Please try again</string>
+    <string name="promo_code_unexpected_error_title">Something went wrong</string>
+    <string name="promo_emails_setting_description">Get exclusive offers, tips, and invites to give feedback</string>
+    <string name="promo_emails_setting_label">Emails</string>
+    <string name="promo_notifications_description">Get offers and recommendations to help you get the most out of Android Pay</string>
+    <string name="promo_notifications_label">Android Pay promotions</string>
+    <string name="promo_notifications_setting_description">Get special offers and recommendations to get the most out of Android Pay</string>
+    <string name="promo_notifications_setting_label">Promotional notifications</string>
+    <string name="question_required_indicator_symbol">*</string>
+    <string name="question_tile_starred_explanation">* Required</string>
+    <string name="rating_message">Recommend Android Pay to others by leaving a review on Google Play</string>
+    <string name="rating_positive_button">Rate the app</string>
+    <string name="rating_title">Tell us what you think</string>
+    <string name="recommended_merchants_fallback_text">You can use it wherever you see these symbols</string>
+    <string name="redeem_amount_label">Redeem:</string>
+    <string name="redeem_different_amount">Enter a different amount</string>
+    <string name="redeem_now_button_label">Redeem now</string>
+    <string name="redeem_points_title">Redeem %1$s points</string>
+    <string name="redeemed">Redeemed</string>
+    <string name="redemption_method_automatic">Use your loyalty card to redeem this offer</string>
+    <string name="redemption_not_supported">"This card can't be used with Android Pay on this phone"</string>
+    <string name="redemption_not_supported_body">NFC is needed to use this card with Android Pay</string>
+    <string name="redemption_not_supported_learn_more">Learn more</string>
+    <string name="redemption_not_supported_title">"Your phone doesn't support NFC"</string>
+    <string name="redemption_status_ready">Ready to use</string>
+    <string name="refund_format">+ %1$s</string>
+    <string name="refunded_with_title">Refunded to %1$s</string>
+    <string name="remove_card">Remove card</string>
+    <string name="remove_card_error_dialog_message">"Your card couldn't be removed from Android Pay on this device. Please try again."</string>
+    <string name="remove_card_error_dialog_title">"Your card couldn't be removed"</string>
+    <string name="remove_card_from_device_dialog_button">Remove</string>
+    <string name="remove_card_from_device_dialog_message">"You'll no longer be able to use %1$s with Android Pay on this device. If this card is saved to your Google Account, you'll still be able to use it on Google Play and other Google products."</string>
+    <string name="remove_card_from_device_dialog_title">Remove card from Android Pay?</string>
+    <string name="remove_paypal_account">Remove PayPal account</string>
+    <string name="remove_paypal_account_from_device_dialog_message">"You'll no longer be able to use %1$s with Android Pay on this device."</string>
+    <string name="remove_paypal_account_from_device_dialog_title">Remove your PayPal account from Android Pay on this device?</string>
+    <string name="rescan_barcode">Update barcode</string>
+    <string name="rescan_barcode_content_description">Update barcode, select to open barcode scanner</string>
+    <string name="rescan_card">Rescan</string>
+    <string name="s2aP_adding_card_message">Adding card to Android Pay…</string>
+    <string name="s2ap_action_view_saved">View</string>
+    <string name="s2ap_already_saved_message">Already saved to Android Pay</string>
+    <string name="s2ap_invalid_intent">"This item can't be saved to Android Pay at this time"</string>
+    <string name="s2ap_item_removed">This item has been removed from Android Pay</string>
+    <string name="s2ap_offline_error">You need a network connection to save this item to Android Pay</string>
+    <string name="s2ap_open_app_button">Open App</string>
+    <string name="s2ap_pending_valuable_header">Add your %1$s %2$s card to Android Pay?</string>
+    <string name="s2ap_pending_valuable_subheader">"No more carrying your card or entering a phone number. You'll be able to earn points and pay, all with your phone."</string>
+    <string name="s2ap_redempton_instructions_manual">To use it, open the app and show code to cashier</string>
+    <string name="s2ap_redempton_instructions_smarttap">To use it, hold phone to the terminal at checkout</string>
+    <string name="s2ap_remove_button">Remove</string>
+    <string name="s2ap_remove_dialog_content">"You'll no longer be able to use it with the Android Pay app"</string>
+    <string name="s2ap_remove_dialog_title">Remove this card from Android Pay?</string>
+    <string name="s2ap_save_header">Save to Android Pay?</string>
+    <string name="s2ap_save_message">Saved to Android Pay</string>
+    <string name="s2ap_server_error">"This item couldn't be saved. Please try again."</string>
+    <string name="s2ap_toolbar_close_description">Close button for closing the window</string>
+    <string name="s2ap_tos_message">By saving, you agree to the %1$s and %2$s</string>
+    <string name="s2ap_valuable_preview_description">Image of a hand holding a phone with this item saved</string>
+    <string name="s2ap_view_button">View in app</string>
+    <string name="s2ap_view_header">This item was already saved to Android Pay</string>
+    <string name="sanction_error_code">Error code: %1$s</string>
+    <string name="save_button">Save</string>
+    <string name="saved_to_android_pay">Saved to Android Pay</string>
+    <string name="scan_barcode">Add barcode</string>
+    <string name="scan_barcode_content_description">Add barcode, select to open barcode scanner</string>
+    <string name="scan_barcode_error_message">Something went wrong</string>
+    <string name="scan_barcode_title">Please scan barcode of your card</string>
+    <string name="scan_barcode_unsupported_format_message">"Can't capture barcode. Please enter your card number instead."</string>
+    <string name="scan_card">Scan your card</string>
+    <string name="screen_lock_setup_button">Set up</string>
+    <string name="se_card_additional_fee_label">Additional %1$s fee applies</string>
+    <string name="se_card_back_to_card_art_selection">Choose another</string>
+    <string name="se_card_balance">Balance</string>
+    <string name="se_card_confirm_card_art_item">Continue with this design</string>
+    <string name="se_card_confirm_card_art_item_existing">Update to this design</string>
+    <string name="se_card_enter_amount_action">Enter amount manually</string>
+    <string name="se_card_error_body_generic_format">"Something went wrong. Please try again later.
+
+Error code: %1$s"</string>
+    <string name="se_card_error_body_no_error_code">Something went wrong. Please try again later.</string>
+    <string name="se_card_error_body_try_again">"Please try again later.
+
+Error code: %1$s"</string>
+    <string name="se_card_not_found_message">"The card you're looking for can't be found"</string>
+    <string name="se_card_not_found_title">Card not found</string>
+    <string name="se_card_redeem_action">Redeem</string>
+    <string name="se_card_register_card_action">Link credit or debit card</string>
+    <string name="se_card_register_card_message">"To get started, pick the credit or debit card that you'll use to pay your %1$s bill"</string>
+    <string name="se_card_register_card_title">"Choose how you'll pay"</string>
+    <string name="se_card_registered_credit_card_label">From %1$s</string>
+    <string name="se_card_select_card_art_action">Choose card design</string>
+    <string name="se_card_select_card_art_item">Card art item</string>
+    <string name="se_card_topup_action">Add money</string>
+    <string name="se_landing_screen_title">E-Money made easy with Android Pay</string>
+    <string name="se_tos_rpc_error">You need a network connection to continue</string>
+    <string name="se_tos_rpc_error_title">Check your network connection</string>
+    <string name="se_trans_type_auto_topup">Money added</string>
+    <string name="se_trans_type_download_from_cloud">Downloaded from cloud</string>
+    <string name="se_trans_type_gift">Gift</string>
+    <string name="se_trans_type_purchase">Purchase</string>
+    <string name="se_trans_type_topup">Money added</string>
+    <string name="se_trans_type_topup_and_sync">Money added</string>
+    <string name="se_trans_type_topup_point">Points converted</string>
+    <string name="se_trans_type_transfer_from_existing_device">Added from another device</string>
+    <string name="se_trans_type_unknown">Unknown</string>
+    <string name="secondary_loyalty_tier_header">Alternate Tier</string>
+    <string name="see_how_text">See how</string>
+    <string name="selected_account">Signed in to %1$s</string>
+    <string name="set_active_account_retry_message">Would you like to try again?</string>
+    <string name="set_active_account_retry_title">There was a problem setting the active account.</string>
+    <string name="settings_link_text">settings</string>
+    <string name="settings_title">Settings</string>
+    <string name="seven_company_name">Seven card service</string>
+    <string name="show_account_list">Show accounts</string>
+    <string name="show_valuables_stores_label">Show stores</string>
+    <string name="sign_in_to_program">Sign in to your account</string>
+    <string name="sign_up_error_message">There was an error signing up for this loyalty program. Please try again later.</string>
+    <string name="sign_up_for_program">Sign up for a new account</string>
+    <string name="sign_up_form_title">Enter your info to create a %1$s account</string>
+    <string name="signup_agreement">"By continuing, you agree to share this info with %1$s. You'll then be sent to a %1$s sign-up page."</string>
+    <string name="signup_info_description">"This will make sign-up faster. You can edit the info if something doesn't look right."</string>
+    <string name="signup_share_confirmation">Share this info with %1$s?</string>
+    <string name="single_notification_title">You have a notification</string>
+    <string name="single_offer">1 offer</string>
+    <string name="slowpoke_company_name">Slowpoke service</string>
+    <string name="slowpoke_name">Slowpoke</string>
+    <string name="smarttap_animation_description">Animation of a phone being held up to a terminal and having the phone wirelessly transmit the card on the phone to the terminal</string>
+    <string name="smarttap_tutorial_body">To use it, just hold your phone to the terminal at checkout</string>
+    <string name="smarttap_tutorial_title">Your %1$s card in Android Pay</string>
+    <string name="sp_privacy_policy_link_label">Privacy Policy</string>
+    <string name="status_credit">Credit</string>
+    <string name="status_declined">Declined</string>
+    <string name="status_disputed">Disputed</string>
+    <string name="status_refunded">Refund</string>
+    <string name="store_address">%1$s, %2$s</string>
+    <string name="store_name_athleta">Athleta</string>
+    <string name="store_name_banana_republic">Banana Republic</string>
+    <string name="store_name_gap">Gap</string>
+    <string name="store_name_old_navy">Old Navy</string>
+    <string name="store_notifications_description">"Get notified when you're near a store that accepts Android Pay"</string>
+    <string name="store_notifications_title">Where you can pay</string>
+    <string name="street_address_label">Address</string>
+    <string name="substitute_card_display_name">Card</string>
+    <string name="survey_close_button_description">Exit survey</string>
+    <string name="survey_drop_down_default_selection">Select one</string>
+    <string name="survey_place_autocomplete_search_hint">Search</string>
+    <string name="survey_submit_button_text">SUBMIT</string>
+    <string name="tap_failure_survey_comment_question_title">Any other info?</string>
+    <string name="tap_failure_survey_issue_question_title">What was the problem?</string>
+    <string name="tap_failure_survey_place_question_title">Where were you trying to pay?</string>
+    <string name="tap_failure_survey_title">Let us know what went wrong</string>
+    <string name="tap_game_close">Done</string>
+    <string name="tap_game_ok">Done</string>
+    <string name="tap_game_opt_out_button">Opt out</string>
+    <string name="tap_game_opt_out_dialog_title">Opt out of your chance to win?</string>
+    <string name="tap_to_pay_sub_text">Wake up your phone and hold it to the terminal at checkout</string>
+    <string name="tfl_free_rollup_text">"You've either reached your TfL weekly limit or Android Pay didn't receive details for this transaction. Check your account statement for the final amount."</string>
+    <string name="tfl_free_rollup_title">"Where's the final amount?"</string>
+    <string name="tfl_tap_disclaimer">At the end of the day, Transport for London will group all your journeys and charge the final amount</string>
+    <string name="thermo_area_label">Area of residence</string>
+    <string name="thermo_basic_information">Basic personal information</string>
+    <string name="thermo_carrier_explanation_label">Connect and pay with your phone bills</string>
+    <string name="thermo_carrier_label">Carrier billing</string>
+    <string name="thermo_company_name">Thermo service</string>
+    <string name="thermo_name">Thermo</string>
+    <string name="thermo_postpaid_explanation_label">Pay your bill each month</string>
+    <string name="thermo_postpaid_label">Postpaid</string>
+    <string name="thermo_prepaid_explanation_label">Add money to your card before using it</string>
+    <string name="thermo_prepaid_label">Prepaid</string>
+    <string name="thermo_year_of_birth">Year of birth</string>
+    <string name="title_card_already_added">already added</string>
+    <string name="topup_education_description">Once you add money, you can start using your %1$s card in stores</string>
+    <string name="topup_education_title">Add money to get started</string>
+    <string name="topup_error_body_chip_locked">"Your mobile wallet is being accessed by another app or terminal.
+
+Error code: [%1$s]"</string>
+    <string name="topup_error_body_daily_excedeed">"For a limited time after your %1$s card is created, you can't add more than a certain amount per day.
+
+Error code: %2$s"</string>
+    <string name="topup_error_body_excedeed">"It exceeds the limit for how much money you can have on your %1$s card. Try adding a smaller amount.
+
+Error code: %2$s"</string>
+    <string name="topup_error_body_no_network">"Money couldn't be added to your %1$s card. Make sure you have a network connection, then try again.
+
+Error code: %2$s"</string>
+    <string name="topup_error_body_old_user_daily_excedeed">"It exceeds the limit for how much money you can add on your %1$s card. Try adding a smaller amount.
+
+Error code: %2$s"</string>
+    <string name="topup_error_body_sp_unavailable">"%1$s is unavailable right now. Please try again later. 
+
+Error code: %2$s"</string>
+    <string name="topup_error_body_transaction_denied">"Try using a different credit or debit card. 
+
+Error code: %1$s"</string>
+    <string name="topup_error_no_valid_amount">"You've reached the limit for how much money you can have on your %1$s card. You can add more once you've spent some of your balance."</string>
+    <string name="topup_error_pending_transaction">A pending transaction has been completed. Check your current balance and try again.</string>
+    <string name="topup_error_title_daily_excedeed">"Can't add this amount today"</string>
+    <string name="topup_error_title_excedeed">"Can't add this amount"</string>
+    <string name="topup_error_title_generic">"Couldn't add money"</string>
+    <string name="topup_error_title_threeds_authentication_failed">"Couldn't complete bank authentication"</string>
+    <string name="topup_error_title_threeds_issuer_down">Your bank is unavailable right now</string>
+    <string name="topup_screen_lock_optout_acknowledgement">"I acknowledge that if I don't set up a screen lock, money added to my Edy card without my consent may not be eligible for refund"</string>
+    <string name="topup_screen_lock_recommended_message">Android Pay recommends setting up a screen lock on your phone for added security</string>
+    <string name="topup_screen_lock_recommended_title">Screen lock recommended</string>
+    <string name="tos_dialog_button_accept">Accept</string>
+    <string name="tos_dialog_title">Privacy &amp; Terms</string>
+    <string name="tos_link_label">Google Payments Terms of Service</string>
+    <string name="tos_link_template">https://payments.google.com/termsOfService?type=BUYER&amp;gl=%1$s</string>
+    <string name="tos_text">By continuing you agree to the %1$sAndroid Pay Terms of Service%2$s and %3$sGoogle Privacy Policy%4$s</string>
+    <string name="tp_amex">American Express</string>
+    <string name="tp_card_added_snackbar_confirmation">%1$s is ready to use with Android Pay</string>
+    <string name="tp_card_balance">Balance</string>
+    <string name="tp_card_content_description">%1$s card ending with %2$s.</string>
+    <string name="tp_card_list_description">Card list</string>
+    <string name="tp_card_other_content_description">Payment card ending with %1$s.</string>
+    <string name="tp_card_point">Points</string>
+    <string name="tp_default_card">Default card</string>
+    <string name="tp_discover">Discover</string>
+    <string name="tp_eftpos">eftpos</string>
+    <string name="tp_fab_fragment_description">Menu: add a card</string>
+    <string name="tp_interac">Interac</string>
+    <string name="tp_maestro">Maestro</string>
+    <string name="tp_mastercard">MasterCard</string>
+    <string name="tp_token_state_pending">Contacting your bank…</string>
+    <string name="tp_token_state_suspended">Suspended. Contact your card issuer.</string>
+    <string name="tp_token_state_verification_needed">Verification needed</string>
+    <string name="tp_transaction_amex">Amex</string>
+    <string name="tp_transaction_discover">Discover</string>
+    <string name="tp_transaction_eftpos">eftpos</string>
+    <string name="tp_transaction_interac">Interac</string>
+    <string name="tp_transaction_mastercard">Mastercard</string>
+    <string name="tp_transaction_visa">Visa</string>
+    <string name="tp_visa">Visa</string>
+    <string name="transaction_card_header">Location</string>
+    <string name="transaction_legal_disclaimer_in_app">"Android Pay provides these transaction details to help you keep track of your purchases. This doesn't replace your receipt from the app."</string>
+    <string name="transaction_legal_disclaimer_nfc">"Android Pay provides these transaction details to help you keep track of your purchases. This doesn't replace your receipt from the store."</string>
+    <string name="transaction_notification_setting_description">Get notifications after each purchase with transaction details</string>
+    <string name="transaction_notification_setting_label">Purchase notifications</string>
+    <string name="transaction_notifications_label">Purchases</string>
+    <string name="transaction_questions_label">Questions about this transaction?</string>
+    <string name="unaccepted_character_message">Invalid character is included</string>
+    <string name="undo">Undo</string>
+    <string name="unsupported_error">This site is currently unsupported.</string>
+    <string name="updated_format">Updated %1$s</string>
+    <string name="upgrade_button_text">Update now</string>
+    <string name="upgrade_warning_dialog_message">to continue paying with your device in stores.</string>
+    <string name="upgrade_warning_dialog_title">Update Android Pay</string>
+    <string name="use_by_format">Expires %1$s</string>
+    <string name="use_by_label">Expires</string>
+    <string name="valuable_banner_description">Artwork provided by the issuer for the front of this item</string>
+    <string name="valuable_barcode_guide_text">Center barcode in the frame</string>
+    <string name="valuable_delete">Remove</string>
+    <string name="valuable_delete_dialog_confirm">Remove</string>
+    <string name="valuable_delete_dialog_content">"You'll no longer be able to use it with Android Pay"</string>
+    <string name="valuable_delete_dialog_title">Remove this item?</string>
+    <string name="valuable_edit">Edit</string>
+    <string name="valuable_main_image_description">Image provided by the issuer of this item to be shown in the card details page</string>
+    <string name="valuable_not_found_message">"The item you're looking for can't be found"</string>
+    <string name="valuable_not_found_title">Item not found</string>
+    <string name="valuable_remove_failed">"This item couldn't be removed. Please try again."</string>
+    <string name="valuable_removed">Removal confirmed</string>
+    <string name="valuable_search_cannot_load_result">"Can't connect to the network"</string>
+    <string name="valuable_search_not_found">"Can't find any matches…"</string>
+    <string name="valuable_skip_ocr_image_capture">Add manually</string>
+    <string name="valuable_title_image_description">Image of the title of the issuer for this item</string>
+    <string name="valuable_toolbar_navigation_description">Back button</string>
+    <string name="view_barcode_link">View barcode</string>
+    <string name="view_member_id_link">View member ID</string>
+    <string name="view_privacy_notice">Privacy Notice</string>
+    <string name="view_tocs">Terms &amp; Conditions</string>
+    <string name="virtual_account_number">Virtual account number</string>
+    <string name="virtual_account_number_accessibility">Virtual account number ending with %1$s</string>
+    <string name="virtual_account_number_explanation_paypal">This number was issued by %1$s. It’s used when you make purchases with PayPal in Android Pay.</string>
+    <string name="virtual_account_number_explanation_token">This number was issued by %1$s. When you make a purchase, Android Pay shares this number instead of your actual card number.</string>
+    <string name="virtual_account_number_paypal">Virtual account</string>
+    <string name="warm_welcome_activity_label">How to use Android Pay</string>
+    <string name="warm_welcome_next">Next</string>
+    <string name="warm_welcome_previous">Previous</string>
+    <string name="warm_welcome_tap_to_pay_text">"You're all set to start using Android Pay"</string>
+    <string name="web_icon_description">Store website</string>
+    <string name="whitelist_error">The site you want to visit is unreachable at the moment.</string>
+    <string name="wrong_password">Password is wrong. Please enter it again, or change password</string>
+    <string name="wrong_place_label">Wrong place?</string>
+    <string name="year_hint">Year</string>
+    <string name="zipcode_error">Enter 7-digits number</string>
+    <string name="zipcode_label">ZIP code</string>
+    <item type="string" name="APKTOOL_DUMMY_19">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_21">false</item>
+    <item type="string" name="APKTOOL_DUMMY_22">false</item>
+    <item type="string" name="APKTOOL_DUMMY_23">false</item>
+    <item type="string" name="APKTOOL_DUMMY_24">false</item>
+    <item type="string" name="APKTOOL_DUMMY_25">false</item>
+    <item type="string" name="APKTOOL_DUMMY_26">false</item>
+    <item type="string" name="APKTOOL_DUMMY_27">false</item>
+    <item type="string" name="APKTOOL_DUMMY_28">false</item>
+    <item type="string" name="APKTOOL_DUMMY_29">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_33">false</item>
+    <item type="string" name="APKTOOL_DUMMY_34">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_86">false</item>
+    <item type="string" name="APKTOOL_DUMMY_87">false</item>
+    <item type="string" name="APKTOOL_DUMMY_88">false</item>
+    <item type="string" name="APKTOOL_DUMMY_97">false</item>
+    <item type="string" name="APKTOOL_DUMMY_98">false</item>
+    <item type="string" name="APKTOOL_DUMMY_b2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_c2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_c3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_c5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_c8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_d5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_d6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_108">false</item>
+    <item type="string" name="APKTOOL_DUMMY_10f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_111">false</item>
+    <item type="string" name="APKTOOL_DUMMY_112">false</item>
+    <item type="string" name="APKTOOL_DUMMY_115">false</item>
+    <item type="string" name="APKTOOL_DUMMY_116">false</item>
+    <item type="string" name="APKTOOL_DUMMY_117">false</item>
+    <item type="string" name="APKTOOL_DUMMY_11e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_11f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_135">false</item>
+    <item type="string" name="APKTOOL_DUMMY_137">false</item>
+    <item type="string" name="APKTOOL_DUMMY_143">false</item>
+    <item type="string" name="APKTOOL_DUMMY_15e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_162">false</item>
+    <item type="string" name="APKTOOL_DUMMY_171">false</item>
+    <item type="string" name="APKTOOL_DUMMY_172">false</item>
+    <item type="string" name="APKTOOL_DUMMY_179">false</item>
+    <item type="string" name="APKTOOL_DUMMY_188">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1a2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1a7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_221">false</item>
+    <item type="string" name="APKTOOL_DUMMY_229">false</item>
+    <item type="string" name="APKTOOL_DUMMY_24d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_250">false</item>
+    <item type="string" name="APKTOOL_DUMMY_251">false</item>
+    <item type="string" name="APKTOOL_DUMMY_252">false</item>
+    <item type="string" name="APKTOOL_DUMMY_254">false</item>
+    <item type="string" name="APKTOOL_DUMMY_255">false</item>
+    <item type="string" name="APKTOOL_DUMMY_259">false</item>
+    <item type="string" name="APKTOOL_DUMMY_25a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_260">false</item>
+    <item type="string" name="APKTOOL_DUMMY_261">false</item>
+    <item type="string" name="APKTOOL_DUMMY_265">false</item>
+    <item type="string" name="APKTOOL_DUMMY_26e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_26f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_270">false</item>
+    <item type="string" name="APKTOOL_DUMMY_271">false</item>
+    <item type="string" name="APKTOOL_DUMMY_278">false</item>
+    <item type="string" name="APKTOOL_DUMMY_286">false</item>
+    <item type="string" name="APKTOOL_DUMMY_287">false</item>
+    <item type="string" name="APKTOOL_DUMMY_28d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_294">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2a5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2a8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2c0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2ca">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2d6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2d9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2e1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2ee">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2fe">false</item>
+    <item type="string" name="APKTOOL_DUMMY_30c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_30d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_318">false</item>
+    <item type="string" name="APKTOOL_DUMMY_31a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_31e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_31f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_32b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_32c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_346">false</item>
+    <item type="string" name="APKTOOL_DUMMY_347">false</item>
+    <item type="string" name="APKTOOL_DUMMY_351">false</item>
+    <item type="string" name="APKTOOL_DUMMY_364">false</item>
+    <item type="string" name="APKTOOL_DUMMY_37e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_381">false</item>
+    <item type="string" name="APKTOOL_DUMMY_38d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3a4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3ab">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3b0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3b1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3b2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3bc">false</item>
+</resources>

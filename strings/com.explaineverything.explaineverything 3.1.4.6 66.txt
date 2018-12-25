@@ -1,0 +1,956 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="search_menu_title">Search</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="tw__allow_btn_txt">Allow</string>
+    <string name="tw__cta_text">Open in Vine</string>
+    <string name="tw__like_tweet">Like Tweet</string>
+    <string name="tw__liked_tweet">Undo Like</string>
+    <string name="tw__loading_tweet">Loading Tweet</string>
+    <string name="tw__login_btn_txt">Log in with Twitter</string>
+    <string name="tw__not_now_btn_txt">Not now</string>
+    <string name="tw__pause">pause</string>
+    <string name="tw__play">play</string>
+    <string name="tw__relative_date_format_long">MM/dd/yy</string>
+    <string name="tw__relative_date_format_short">MMM dd</string>
+    <string name="tw__replay">replay</string>
+    <string name="tw__retweeted_by_format">Retweeted by %1$s</string>
+    <string name="tw__share_content_format">"Check out @%1$s's Tweet: https://twitter.com/%1$s/status/%2$s"</string>
+    <string name="tw__share_email_desc">Allow %1$s to access the email address associated with your Twitter account @%2$s so that %1$s can use it according to its privacy policy. For example, %1$s could send you updates and other information at that address.</string>
+    <string name="tw__share_email_title">Share your email address</string>
+    <string name="tw__share_subject_format">Tweet from %1$s (@%2$s)</string>
+    <string name="tw__share_tweet">Share Tweet</string>
+    <string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string>
+    <string name="activity">Activity</string>
+    <string name="add">Add</string>
+    <string name="add_to_my_discover">Add to Cloud Projects</string>
+    <string name="adding_presentation_failed">Error adding project</string>
+    <string name="after_trial_info">"After the trial end you will no longer be able 
+to create or edit projects"</string>
+    <string name="all_from">All from %s</string>
+    <string name="and">and</string>
+    <string name="app_name">Explain Everything™</string>
+    <string name="art_design">Art &amp; Design</string>
+    <string name="attempts_left">%s attempts left</string>
+    <string name="audio_puppet_wrong_file_name">Error opening audio file. The project name might have a colon character ( : ) in it. Please remove the character from the name and try again.</string>
+    <string name="avatar">PROFILE PICTURE</string>
+    <string name="awards">Awards</string>
+    <string name="basic_palette">Basic Color Palette</string>
+    <string name="batch_delete_alert">Delete selected item(s)?</string>
+    <string name="camera_video_puppet_copy_error">Camera video object cannot be copied.</string>
+    <string name="camera_video_puppet_more_than_one_on_slide_error">There can be only one active new recording object on the slide.</string>
+    <string name="cant_connect_to_project">"Can't connect to the project."</string>
+    <string name="cant_join_own">"You can't join your own group"</string>
+    <string name="category">Category</string>
+    <string name="change_avatar_alert">Do you want to change your profile picture?</string>
+    <string name="change_to_public">Change to public</string>
+    <string name="change_to_unlisted">Change to unlisted</string>
+    <string name="check_connection_info">Check your Internet connection</string>
+    <string name="choose_background_color">Choose your background color</string>
+    <string name="code">CODE</string>
+    <string name="code_details_account_join_pbma">Join the Business Group of %s as a Business Group Manager:</string>
+    <string name="code_details_account_join_pbsa">Join the Business Group of %s as a Business Group Member:</string>
+    <string name="code_details_account_join_pega">Join the EDU Group of %s as a EDU Group Teacher:</string>
+    <string name="code_details_account_join_pesa">Join the EDU Group of %s as a EDU Group Student:</string>
+    <string name="code_details_account_pa">This CODE allows you to create or convert your current account to a Premium Account and provides features such as:</string>
+    <string name="code_details_account_pbaa">This CODE allows you to create or convert your current account to a Business Group Admin Account and provides features such as:</string>
+    <string name="code_details_account_pbma">This CODE allows you to create or convert your current account to a Manager Account in the Business Group of %s and provides features such as:</string>
+    <string name="code_details_account_pbsa">This CODE allows you to create or convert your current account to a Member Account in the Business Group of %s and provides features such as:</string>
+    <string name="code_details_account_peaa">This CODE allows you to create or convert your current account to an EDU Group Admin Account and provides features such as:</string>
+    <string name="code_details_account_pega">This CODE allows you to create or convert your current account to a Teacher Account in a EDU Group of %s and provides features such as:</string>
+    <string name="code_details_account_pesa">This CODE allows you to create or convert your current account to a Student Account in the EDU Group of %s and provides features such as:</string>
+    <string name="code_had_been_used">CODE had been used.</string>
+    <string name="code_invalid">CODE invalid</string>
+    <string name="code_join_activates_pa">activates a Premium Account</string>
+    <string name="code_join_activates_pbaa">activates a Business Group Admin Account</string>
+    <string name="code_join_activates_pbma">activates a Business Group Manager Account</string>
+    <string name="code_join_activates_pbsa">activates a Business Group Member Account</string>
+    <string name="code_join_activates_peaa">activates an EDU Group Admin Account</string>
+    <string name="code_join_activates_pega">activates an EDU Group Teacher Account</string>
+    <string name="code_join_activates_pesa">activates an EDU Group Student Account</string>
+    <string name="code_join_business">Join the Business Group</string>
+    <string name="code_join_convert_details_pa">Your account is about to be converted to a Premium Account.</string>
+    <string name="code_join_convert_details_pbaa">Your account is about to be converted to a Business Group Admin Account.</string>
+    <string name="code_join_convert_details_pbma">Your account is about to be converted to a Manager Account in the Business Group of %s.</string>
+    <string name="code_join_convert_details_pbsa">Your account is about to be converted to a Member Account in the Business Group of %s.</string>
+    <string name="code_join_convert_details_peaa">Your account is about to be converted to a EDU Group Admin Account.</string>
+    <string name="code_join_convert_details_pega">Your account is about to be converted to a Teacher Account in the EDU Group of %s.</string>
+    <string name="code_join_convert_details_pesa">Your account is about to be converted to a Student Account in the EDU Group of %s.</string>
+    <string name="code_join_convert_pa">Convert to a Premium Account</string>
+    <string name="code_join_convert_pbaa">Convert to a Business Admin Account</string>
+    <string name="code_join_convert_peaa">Convert to an EDU Group Admin Account</string>
+    <string name="code_join_edu">Join the EDU Group</string>
+    <string name="code_join_title_pa">Create the Individual Premium Account:</string>
+    <string name="code_join_title_pbaa">Create the Business Group Admin Account:</string>
+    <string name="code_join_title_peaa">Create the EDU Group Admin Account:</string>
+    <string name="code_presentation_owner">by <b>%1$s</b></string>
+    <string name="codes_no_match">"Your codes didn't match.
+Please try again."</string>
+    <string name="common_messag_discard_changes">Discard changes</string>
+    <string name="common_messag_file_size">File size</string>
+    <string name="common_messag_mix">Mix</string>
+    <string name="common_messag_mute">Mute</string>
+    <string name="common_messag_num_of_slides">Number of slides</string>
+    <string name="common_messag_recording_length">Recording length</string>
+    <string name="common_message_added">added</string>
+    <string name="common_message_almost_finished">Almost finished!</string>
+    <string name="common_message_apply">Apply</string>
+    <string name="common_message_average">Average</string>
+    <string name="common_message_best">Best</string>
+    <string name="common_message_border">Border</string>
+    <string name="common_message_change">change</string>
+    <string name="common_message_continue">Continue</string>
+    <string name="common_message_convert">Convert</string>
+    <string name="common_message_copy_noun">copy</string>
+    <string name="common_message_create">Create</string>
+    <string name="common_message_created">Created</string>
+    <string name="common_message_delete_slide">Delete selected item(s)?</string>
+    <string name="common_message_delete_slide_button">Remove item(s)</string>
+    <string name="common_message_edit">Edit</string>
+    <string name="common_message_file_download_error">File download error:</string>
+    <string name="common_message_file_downloaded">File downloaded</string>
+    <string name="common_message_fill">Fill</string>
+    <string name="common_message_good">Good</string>
+    <string name="common_message_help">Help</string>
+    <string name="common_message_image">Image</string>
+    <string name="common_message_image_name">Image name</string>
+    <string name="common_message_is_not_supported">is not supported</string>
+    <string name="common_message_keyword">Keyword</string>
+    <string name="common_message_landscape">Landscape</string>
+    <string name="common_message_like">Like</string>
+    <string name="common_message_lock">Lock</string>
+    <string name="common_message_modified">Modified</string>
+    <string name="common_message_move_to">Move to</string>
+    <string name="common_message_movie_name">Movie name</string>
+    <string name="common_message_opacity">Opacity</string>
+    <string name="common_message_overwrite">Overwrite</string>
+    <string name="common_message_pdf_name">PDF name</string>
+    <string name="common_message_portal">Discover Portal</string>
+    <string name="common_message_portrait">Portrait</string>
+    <string name="common_message_project">Project</string>
+    <string name="common_message_quality">Quality:</string>
+    <string name="common_message_record">Record</string>
+    <string name="common_message_register_now">Register now</string>
+    <string name="common_message_share">Share</string>
+    <string name="common_message_size">Size</string>
+    <string name="common_message_video">Video</string>
+    <string name="common_message_video_tutorials">Video Tutorials</string>
+    <string name="compression_paused_after_going_to_background_message">Compression has been paused. To resume - please go back to the app.</string>
+    <string name="connection_problem">Connection problem</string>
+    <string name="connection_timeout">Connection timeout.</string>
+    <string name="conversion_msg">Importing file %s in progress…</string>
+    <string name="convert_account">Convert Account</string>
+    <string name="copy">Copy</string>
+    <string name="copy_code">Copy CODE</string>
+    <string name="copy_code_btn">Copy CODE</string>
+    <string name="copy_code_info">CODE was copied</string>
+    <string name="copy_link_btn">Copy LINK</string>
+    <string name="copy_link_info">Link was copied</string>
+    <string name="create_account">Create Account</string>
+    <string name="create_link_to_project">Create link to project</string>
+    <string name="create_new_folder">Create a new folder</string>
+    <string name="create_project_shortcut_long">Create new project</string>
+    <string name="create_project_shortcut_short">New project</string>
+    <string name="custom_palette">Custom Color Palette</string>
+    <string name="date">Date</string>
+    <string name="date_validity_check_failed">Application validity date has expired.</string>
+    <string name="delete">Delete</string>
+    <string name="deleting">Deleting..</string>
+    <string name="description">Description</string>
+    <string name="description_changed">Description changed successfully.</string>
+    <string name="details">Details</string>
+    <string name="device_verification_failed">Device verification failed:</string>
+    <string name="dialog_box_compression_estimated_time_left">Estimated time left</string>
+    <string name="dialog_box_compression_title">Compression</string>
+    <string name="dialog_box_converting_project_title">Converting project…</string>
+    <string name="dialog_box_open_title">Opening…</string>
+    <string name="dialog_box_pdf_export_title_message">Creating PDF…</string>
+    <string name="dialog_box_pdf_import_message">Loading document…</string>
+    <string name="dialog_box_rendering_drawings_title">Rendering drawings…</string>
+    <string name="dialog_box_save_title">Saving…</string>
+    <string name="dialog_box_upload_to_youtube_message">Please wait. Uploading to YouTube…</string>
+    <string name="dialog_no_internet_connection_massage">No internet connection</string>
+    <string name="disable_autocopy">Disable Auto-backup Now</string>
+    <string name="disconnected_from_collab">You have been disconnected from collaboration.</string>
+    <string name="discover_account_administrated">administered by</string>
+    <string name="discover_account_member_since">Member Since</string>
+    <string name="discover_account_message_fa">This is a basic account with limited storage, features, and sharing settings.</string>
+    <string name="discover_account_message_pa">This is a single user account with all premium features designed for personal use.</string>
+    <string name="discover_account_message_pbsa">This account is bound to a specific Business Group Account and has been activated with a CODE provided by Business Group Admin or Manager.</string>
+    <string name="discover_account_message_pesa">This account is bound to a specific Premium EDU Group Account and has been activated with a CODE provided by Premium EDU Group Account owner.</string>
+    <string name="discover_account_sponsored">sponsored by</string>
+    <string name="discover_account_type_admin">EDU Group Admin</string>
+    <string name="discover_account_type_fa">Free Account</string>
+    <string name="discover_account_type_pa">Premium Account</string>
+    <string name="discover_account_type_pa_member_since">Member since</string>
+    <string name="discover_account_type_pbaa">Business Group Admin</string>
+    <string name="discover_account_type_pbma">Business Group Manager</string>
+    <string name="discover_account_type_pbsa">Business Group Member</string>
+    <string name="discover_account_type_premium">Premium Account</string>
+    <string name="discover_account_type_student">EDU Group Student</string>
+    <string name="discover_account_type_teacher">EDU Group Teacher</string>
+    <string name="discover_collaboration_viewer_hint">Collaboration viewer is only available on Google Play Store version of the app. &lt;a href=https://sites.google.com/a/chromium.org/dev/chromium-os/chrome-os-systems-supporting-android-apps>Supported Chrome devices&lt;/a></string>
+    <string name="discover_confirm_no_match">Passwords do not match</string>
+    <string name="discover_device_profile_additional_features">"Additional features available - "</string>
+    <string name="discover_device_profile_hint">Store and share your projects on Explain Everything Discover portal. Join the community and get inspired - browse, download, and remake editable templates and content created by others.</string>
+    <string name="discover_device_profile_to_unlock">" to unlock."</string>
+    <string name="discover_disabled_hint">"Discover Portal feature was disabled on this account by your group's admin."</string>
+    <string name="discover_fragment_category">Categories</string>
+    <string name="discover_new_pass">new password</string>
+    <string name="discover_no_confirm_password">Confirm new password</string>
+    <string name="discover_no_new_password">Type new password</string>
+    <string name="discover_no_old_password">Type old password</string>
+    <string name="discover_old_pass">Old password</string>
+    <string name="discover_old_pass_no_match">Old password incorrect</string>
+    <string name="discover_password_changed">Password changed successfully</string>
+    <string name="discover_profile_incentive">"Once activated you can share and convert 
+your projects to videos in the cloud"</string>
+    <string name="discover_space_available">of %s Cloud storage used</string>
+    <string name="discover_space_used">%s</string>
+    <string name="discover_unavailable">"The connection to Discover portal cannot be established.
+Please check your network connectivity."</string>
+    <string name="download">Download</string>
+    <string name="download_to_local">Download to local projects</string>
+    <string name="downloading_project">Downloading project…</string>
+    <string name="draw_tool_auto_grouping">Auto-group</string>
+    <string name="duplicate_to_local">Duplicate to local projects</string>
+    <string name="duplication_dialog_dup_with_rec">Duplicate with recording</string>
+    <string name="duplication_dialog_dup_without_rec">Duplicate without recording</string>
+    <string name="edit_folder_private_type_info">Invisible on Discover, only you can view</string>
+    <string name="edit_folder_public_type_info">Publicly shared. Accessible from Discover catalogue or using CODE</string>
+    <string name="edit_folder_unlisted_type_info">Invisible on Discover, only people with the CODE can view</string>
+    <string name="edit_prj_metadata_open_and_save_project_once_again">To edit this project open it and save once again.</string>
+    <string name="edit_prj_metadata_project_orientation">Project orientation</string>
+    <string name="edit_prj_metadata_project_ratio">Project ratio</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="eight">eight</string>
+    <string name="email">Email</string>
+    <string name="email_changed">Email changed successfully.</string>
+    <string name="email_confirm_sent">Email confirmation link has been sent to the old email address.</string>
+    <string name="email_not_required">Email not required</string>
+    <string name="empty_folder_name_error">Folder name is empty</string>
+    <string name="enabled_editing_on_project">"%s has enabled editing on this 
+project, you can:"</string>
+    <string name="enter_code_to_unlock">Enter code to unlock</string>
+    <string name="enter_new_code">Enter new code</string>
+    <string name="existing_account_question">Already have an account?</string>
+    <string name="export">Export</string>
+    <string name="export_successful">Export successful!</string>
+    <string name="export_to_discover_description">Upload your project to Explain Everything Discover, compress the video in the cloud, and give users option to access both the video and editable project formats</string>
+    <string name="extended_palette">Extended Color Palette</string>
+    <string name="external_storage">External storage</string>
+    <string name="failed_sync_project">Error synchronizing project: %s.</string>
+    <string name="filltool_already_filled">This area is already filled with the chosen color.</string>
+    <string name="filltool_cancelled">Filling cancelled due to tool or slide change.</string>
+    <string name="filltool_out_of_memory">Not enough memory. Please try again in a few seconds.</string>
+    <string name="filltool_out_of_screen">To change the slide background color please open the Slide Sorter and tap the palette.</string>
+    <string name="five">five</string>
+    <string name="folder">folder</string>
+    <string name="folder_shared_with_footer">"Swipe left to remove user
+To invite more people use the share section and use the special CODE"</string>
+    <string name="folder_title">Folder Title</string>
+    <string name="folders">folders</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="four">four</string>
+    <string name="fragment_code_instuction">"Special CODES enable instant sharing of projects
+between Explain Everything users, if you have a CODE, enter it in
+the field below"</string>
+    <string name="fragment_code_placeholder">enter the CODE here…</string>
+    <string name="gdrive_auth_error">Google account error. Please contact support@explaineverything.com.</string>
+    <string name="gdrive_sync">Google Drive Sync</string>
+    <string name="gdrive_sync_first_sync">Google Drive auto-backup is enabled. Please choose an account.</string>
+    <string name="gdrive_sync_first_sync_chrome">Google Drive auto-backup is enabled.</string>
+    <string name="gdrive_sync_hint">Create and edit projects in this folder and they will sync with your Google Drive. You can disable this at any time in Settings > Auto-backup.</string>
+    <string name="general_message_attention">Attention</string>
+    <string name="general_message_back">Back</string>
+    <string name="general_message_cancel">Cancel</string>
+    <string name="general_message_close">Close</string>
+    <string name="general_message_done">Done</string>
+    <string name="general_message_insert">Insert</string>
+    <string name="general_message_minimize">Minimize</string>
+    <string name="general_message_no">No</string>
+    <string name="general_message_off">Off</string>
+    <string name="general_message_ok">OK</string>
+    <string name="general_message_on">On</string>
+    <string name="general_message_or">or</string>
+    <string name="general_message_previous">Previous</string>
+    <string name="general_message_register">Register</string>
+    <string name="general_message_success">Success!</string>
+    <string name="general_message_try_again">Try again</string>
+    <string name="general_message_update">Update</string>
+    <string name="general_message_yes">Yes</string>
+    <string name="geography">Geography</string>
+    <string name="go">GO</string>
+    <string name="go_to_local_projects_shortcut_long">Go to local projects</string>
+    <string name="go_to_local_projects_shortcut_short">Local projects</string>
+    <string name="go_to_my_discover_shortcut_long">Go to Cloud Projects</string>
+    <string name="go_to_my_discover_shortcut_short">Cloud Projects</string>
+    <string name="googledrive_install_google_play_service_message">Install Google Play services</string>
+    <string name="grace_period">"Your subscription expired on %1$s,
+but you can continue to use Premium Features until %2$s."</string>
+    <string name="have_permanent_license">"App has permanent license and
+ premium features are available"</string>
+    <string name="help">Help</string>
+    <string name="help_browser_title">Explain Everything - Help</string>
+    <string name="help_window_license_valid_to_prefix">License valid to:</string>
+    <string name="help_window_licensed_to_prefix">Licensed to:</string>
+    <string name="help_window_valid_to_prefix">Valid to:</string>
+    <string name="helptool_button_caption">Learn more</string>
+    <string name="helptool_hint_cutouttool">Cut Out parts of objects</string>
+    <string name="helptool_hint_deletetool">Delete</string>
+    <string name="helptool_hint_drawtool">Draw</string>
+    <string name="helptool_hint_drawtool_notouchscreen">Draw. Click and hold anywhere on the canvas and then use one finger to draw on the trackpad.</string>
+    <string name="helptool_hint_filltool">Fill</string>
+    <string name="helptool_hint_handtool">Move / edit with gestures</string>
+    <string name="helptool_hint_handtool_notouchscreen">Move. With the pointer on an object, hold the CTRL key on the keyboard and then press down on the trackpad with two fingers and swipe up or down to rotate the object.</string>
+    <string name="helptool_hint_highlighter">Highlight</string>
+    <string name="helptool_hint_insertobject">Insert all kinds of media</string>
+    <string name="helptool_hint_inspector">Inspector allows to arrange, lock and edit objects.</string>
+    <string name="helptool_hint_laserpointer">Point, focus attention</string>
+    <string name="helptool_hint_more">More (tap to see)</string>
+    <string name="helptool_hint_shapetool">Create Shapes</string>
+    <string name="helptool_hint_texttool">Type</string>
+    <string name="helptool_hint_undo">Undo</string>
+    <string name="helptool_hint_zoomtool">Zoom</string>
+    <string name="helptool_hint_zoomtool_notouchscreen">Zoom. Press down on the trackpad with two fingers and swipe up or down to zoom in and out.</string>
+    <string name="helptool_home_hint_export">Export</string>
+    <string name="helptool_home_hint_help">Help</string>
+    <string name="helptool_home_hint_home">Home</string>
+    <string name="helptool_mainhint_color_picker">&lt;p>&lt;font color=#000000>&lt;b>&lt;big>&lt;big>Colors&lt;/big>&lt;/big>&lt;/b>&lt;br/>&lt;/font>&lt;font color=#777777>Select any color&lt;/font>&lt;/p>&lt;p>&lt;font color=#000000>&lt;small>Select a specific color, from your screen or image using the Color Picker located in the &amp;quot;Add new custom color&amp;quot; section.&lt;/small>&lt;/font>&lt;/p></string>
+    <string name="helptool_mainhint_default_state">&lt;font color=#000000>Tap on the &lt;b>blue points&lt;/b> to display hints about the basic functions, or tap &lt;b>Learn more&lt;/b> to display the user guide.&lt;/font></string>
+    <string name="helptool_mainhint_home_toolbar">&lt;p>&lt;font color=#000000>&lt;b>&lt;big>&lt;big>Export, Help, Home&lt;/big>&lt;/big>&lt;/b>&lt;br/>&lt;/font>&lt;font color=#777777>Export, display help, go back to the Home screen&lt;/font>&lt;/p>&lt;p>&lt;font color=#000000>&lt;small>All projects are &lt;b>saved&lt;/b> automatically after tapping the &lt;b>home&lt;/b> button.&lt;/small>&lt;/font>&lt;/p></string>
+    <string name="helptool_mainhint_player_toolbar">&lt;p>&lt;font color=#000000>&lt;b>&lt;big>&lt;big>Recording&lt;/big>&lt;/big>&lt;/b>&lt;br/>&lt;/font>&lt;font color=#777777>Create projects&lt;/font>&lt;/p>&lt;p>&lt;font color=#000000>&lt;small>By expanding menu labelled as &amp;quot;More&amp;quot;, you can change &lt;b>Recording Mode&lt;/b>.&lt;small>&lt;br/>&lt;br/>&lt;/small>In the same menu &lt;b>Play all slides&lt;/b> can be activated, which plays the whole project - all the slides in sequence.&lt;/small>&lt;/font>&lt;/p></string>
+    <string name="helptool_mainhint_slide_sorter">&lt;p>&lt;font color=#000000>&lt;b>&lt;big>&lt;big>Slide sorter&lt;/big>&lt;/big>&lt;/b>&lt;br/>&lt;/font>&lt;font color=#777777>Manage, edit, and create&lt;/font>&lt;/p>&lt;p>&lt;font color=#000000>&lt;small>Tap and hold on a slide to access the &lt;b>edit&lt;/b> mode.&lt;small>&lt;br/>&lt;br/>&lt;/small>Tap and hold to &lt;b>rearrange&lt;/b> the slides.&lt;/small>&lt;/font>&lt;/p></string>
+    <string name="helptool_mainhint_vertical_toolbar">&lt;p>&lt;font color=#000000>&lt;b>&lt;big>&lt;big>The Toolbar&lt;/big>&lt;/big>&lt;/b>&lt;br/>&lt;/font>&lt;font color=#777777>Create, insert, edit&lt;/font>&lt;/p>&lt;font color=#000000>&lt;small>Some Tools have additional menus which can be accessed by tapping them again.&lt;br/>&lt;br/>&lt;b>Tap on a tool now to learn more about it.&lt;/b>&lt;/small>&lt;/font></string>
+    <string name="helptool_picker_hint_addcolor">Add a new custom color</string>
+    <string name="helptool_picker_hint_opacity_1">Set the</string>
+    <string name="helptool_picker_hint_opacity_2">Opacity</string>
+    <string name="helptool_picker_hint_palette">Basic Color Palette</string>
+    <string name="helptool_picker_hint_scroll">Scroll through your added colors</string>
+    <string name="helptool_player_forward_hint1">Scroll</string>
+    <string name="helptool_player_forward_hint2">to the end</string>
+    <string name="helptool_player_more_hint">More</string>
+    <string name="helptool_player_play_hint">Play</string>
+    <string name="helptool_player_record_hint">Record</string>
+    <string name="helptool_player_rewind_hint1">Rewind</string>
+    <string name="helptool_player_rewind_hint2">to the start</string>
+    <string name="helptool_player_timeline_hint1">Open the</string>
+    <string name="helptool_player_timeline_hint2">Timeline</string>
+    <string name="helptool_sorter_hint_addslide">Add slide</string>
+    <string name="helptool_sorter_hint_edit">Edit slides</string>
+    <string name="helptool_sorter_hint_template">Change template</string>
+    <string name="here_find_my_discover_projects">"Here you will find your projects
+uploaded to Explain Everything Discover"</string>
+    <string name="home_category">Home</string>
+    <string name="image_editor_edit_bitmap_cannot_be_read">Error loading image: Bitmap cannot be read. Please re-save or use a different image format.</string>
+    <string name="image_editor_edit_image_text">Image Editor</string>
+    <string name="include_slides_without_recording">Include slides without recording</string>
+    <string name="index">Index</string>
+    <string name="internet_unavailable">Internet Unavailable.</string>
+    <string name="invalid_explaineverything_project_message">This Explain Everything project is invalid</string>
+    <string name="invalid_hex_color">\"%s\" is not a valid HEX color</string>
+    <string name="invalid_payment_data">Invalid user payment data. Please log in again or contact support.</string>
+    <string name="invitation_to_join_ee">Invitation to join Explain Everything™</string>
+    <string name="invite_code_buisness_individual_txt">Invite others to become Members of your Business Group by sharing this CODE.</string>
+    <string name="invite_code_buisness_manager_txt">"Invite others to become Managers of your Business Group by sharing this CODE. 
+They will have the ability to invite Members to their groups."</string>
+    <string name="invite_code_message">"Please join my Explain Everything Premium EDU Group account as a sponsored user! 
+
+To create a new sponsored account, click the link below to go to the Explain Everything Discover website and complete registration process. 
+
+%1$s 
+
+If you already have an Explain Everything Discover account, copy the CODE below, sign in to the portal, and paste it into bar at the top of the window and hit Enter/Return. 
+
+%2$s 
+
+If you have any questions or problems, please contact support@explaineverything.com"</string>
+    <string name="invite_code_student_txt">Invite others to become sponsored account members of your EDU group by sharing this CODE</string>
+    <string name="invite_code_teacher_txt">Invite others to become account members of your EDU group by sharing this CODE. They also could invite their students.</string>
+    <string name="join">Join</string>
+    <string name="join_fail_recording">Joining collaboration during recording is not available.</string>
+    <string name="join_room_fail">Error joining room.</string>
+    <string name="join_with_code">Join with CODE</string>
+    <string name="joining">Joining</string>
+    <string name="license_server_activation_successfull">Activation successful.</string>
+    <string name="license_server_dialog_box_activation_title">Activation</string>
+    <string name="license_server_dialog_box_license_undef_error">Undefined activation error. Please contact support@explaineverything.com.</string>
+    <string name="license_server_dialog_box_lincense_capacity_exceeded">No more devices can be activated with this license.</string>
+    <string name="license_server_dialog_box_lincense_does_not_exist">License is invalid.</string>
+    <string name="license_server_dialog_box_lincense_field_cannot_be_empty">License field cannot be empty.</string>
+    <string name="license_server_dialog_box_type_license_label">Type in your license and press OK. If you are unsure on how to obtain a license key, please contact support@explaineverything.com</string>
+    <string name="license_server_license_expired">License expired.</string>
+    <string name="license_server_no_internet_connection">Internet connection is needed to activate Explain Everything.</string>
+    <string name="license_server_server_error">Server error</string>
+    <string name="loading_tweets">Loading Tweets</string>
+    <string name="local_projects">Local Projects</string>
+    <string name="local_storage">Local storage</string>
+    <string name="login_in_with_skoletube">Sign in with Skoletube</string>
+    <string name="low_space_warning_part1">You are running very low on disk space.</string>
+    <string name="low_space_warning_part2">Please free some space on the device in order to be able to safely work with Explain Everything projects.</string>
+    <string name="manager">Manager</string>
+    <string name="most_liked">Most liked</string>
+    <string name="most_popular">Most popular</string>
+    <string name="moving">Moving..</string>
+    <string name="my_discover">Cloud Projects</string>
+    <string name="my_discover_folders">Cloud Projects Folders</string>
+    <string name="name">Name</string>
+    <string name="new_folder">New folder</string>
+    <string name="newsletter_subscription_activated">Subscribed to Explain Everything™ newsletter</string>
+    <string name="newsletter_subscription_deactivated">Explain Everything™ newsletter subscription cancelled</string>
+    <string name="newsletter_subscription_header">Newsletter subscription</string>
+    <string name="newsletter_subscription_info">We will send occasional newsletters containing announcements, updates, tips and tricks.</string>
+    <string name="next_slide">Next slide</string>
+    <string name="nine">nine</string>
+    <string name="no_code_message">No CODE generated. Please contact support@explaineverything.com</string>
+    <string name="no_email">No email specified</string>
+    <string name="no_external_storage">No external storage detected</string>
+    <string name="no_password">No password</string>
+    <string name="no_projects_uploaded">"You haven't uploaded any projects yet"</string>
+    <string name="no_username">No username</string>
+    <string name="not_saved_project_alert_open_button">Open</string>
+    <string name="not_saved_project_alert_remove_button">Discard</string>
+    <string name="not_saved_project_alert_titile">There is an unsaved project. Do you want to open or discard it?</string>
+    <string name="one">one</string>
+    <string name="one_project">1 Project</string>
+    <string name="open_another_project_error">Error opening project. Please close the current project and try again.</string>
+    <string name="opening_project_cancelled_after_going_to_background">Opening project was cancelled.</string>
+    <string name="or">or</string>
+    <string name="parental_gate_complete_task">If you are 13 years old or older, you may complete this task on your own. If you are under 13 years old, ask your parent, teacher, or guardian to complete this task in order to continue.</string>
+    <string name="password">Password</string>
+    <string name="password_confirm">Retype Password</string>
+    <string name="pdf_conversion_error">"Error importing the document.
+If the problem persists, please contact support@explaineverything.com"</string>
+    <string name="pdf_converter_experimental">This is an experimental feature.</string>
+    <string name="pdf_converter_network_error">"Error importing the document, check your Internet connection.
+If the problem persists, please contact support@explaineverything.com"</string>
+    <string name="pdf_converter_please_wait">"Your document is being converted in order to be imported.
+This operation might take a few minutes (literally – 2 or 3 minutes).
+Please hold on."</string>
+    <string name="pdf_converter_unauthorized">"Error importing the document, please log in.
+If the problem persists, please contact support@explaineverything.com"</string>
+    <string name="pdf_import_error_message">Error loading PDF</string>
+    <string name="permission_text_accounts">accessing your Google Drive folder and Explain Everything license validation.</string>
+    <string name="permission_text_audio">capturing audio within Explain Everything project recording.</string>
+    <string name="permission_text_camera">capturing images and video within Explain Everything.</string>
+    <string name="permission_text_disable_permanent">These permissions were permanently disabled:</string>
+    <string name="permission_text_go_to_system">Go to system Settings</string>
+    <string name="permission_text_its_used_for">"
+It is used for:"</string>
+    <string name="permission_text_storage">"importing media files to Explain Everything and saving your projects.
+Without it Explain Everything will close."</string>
+    <string name="permission_text_you_disabled">You disabled:</string>
+    <string name="permissions_explanation_contacts_confirmation">Explain Everything will not read or collect any other information that may be in your contacts.</string>
+    <string name="permissions_explanation_contacts_desc">The only reason Explain Everything needs to access your contacts is to read your email address for authentication purposes and let you save your projects in local storage.</string>
+    <string name="permissions_explanation_header">On the next screen we will ask you to allow Explain Everything to access your contacts and storage.</string>
+    <string name="permissions_explanation_title">Explain Everything needs your permission</string>
+    <string name="please_enter_the_numbers">Please enter the numbers</string>
+    <string name="popup_createproject_files_download_progress">Downloading…</string>
+    <string name="popup_createproject_loaded">Loaded</string>
+    <string name="popup_createproject_title">Import New Project</string>
+    <string name="popup_cut_out_tool_crop">Rectangle</string>
+    <string name="popup_cut_out_tool_lasso">Lasso</string>
+    <string name="popup_cut_out_tool_scalpel">Scalpel</string>
+    <string name="popup_export_video_file_upload_progress">Uploading…</string>
+    <string name="popup_exportproject_all_sources">All Sources</string>
+    <string name="popup_exportproject_download_failed_message">Download failed.</string>
+    <string name="popup_exportproject_future_classroom_tab_tag_string">Future Classroom</string>
+    <string name="popup_exportproject_listing_failed_message">Folder content query failed.</string>
+    <string name="popup_exportproject_upload_failed_message">Upload failed.</string>
+    <string name="popup_exportproject_upload_successfull_message">File has been successfully uploaded.</string>
+    <string name="popup_filltool_tolerance_label">Color tolerance:</string>
+    <string name="popup_homescreen_color_template_text">Select a color template</string>
+    <string name="popup_homescreen_feedback_button_text">Send us your feedback</string>
+    <string name="popup_homescreen_feedback_noclient_found_message">An email application has not been found.</string>
+    <string name="popup_homescreen_feedback_subject">Explain Everything for Android – Feedback</string>
+    <string name="popup_homescreen_guide_no_webbrowser_found_message">A web browser has not been found.</string>
+    <string name="popup_homescreen_help_appname_version_text">Version</string>
+    <string name="popup_homescreen_newsletter_button_text">Newsletter</string>
+    <string name="popup_homescreen_rate_button_text">Rate Explain Everything</string>
+    <string name="popup_homescreen_twitter_button_text">Our Twitter</string>
+    <string name="popup_homescreen_website_button_text">Visit our website</string>
+    <string name="popup_insertobject_clipart">Clipart</string>
+    <string name="popup_insertobject_clipart_connection_problem">Connection problem - unable to download clipart list.</string>
+    <string name="popup_insertobject_clipart_custom_page_hint">"You can add custom clipart
+using the Inspector"</string>
+    <string name="popup_insertobject_clipart_custom_page_open_inspector">Open the Inspector</string>
+    <string name="popup_insertobject_clipart_custom_page_title">Custom</string>
+    <string name="popup_insertobject_clipart_loading_connection_error">Error downloading clipart. Please check your internet connection and try again.</string>
+    <string name="popup_insertobject_clipart_loading_unexpected_error">Error downloading clipart. Please try again later.</string>
+    <string name="popup_insertobject_clipart_log_in_to_update">Please log in to download the newest clipart.</string>
+    <string name="popup_insertobject_clipart_nothing_to_show">No cliparts are available. Please check your internet connection!</string>
+    <string name="popup_insertobject_clipart_opening_dialog_offline">"Please note that new clipart won't download while offline."</string>
+    <string name="popup_insertobject_existphoto_novideo_text">Existing Photo</string>
+    <string name="popup_insertobject_existphoto_text">"Photo, Video,
+or File"</string>
+    <string name="popup_insertobject_inseetObj_text">Insert an object</string>
+    <string name="popup_insertobject_multiple_cliparts_downloading">Your clipart are being prepared…</string>
+    <string name="popup_insertobject_nBrowser_text">New Browser</string>
+    <string name="popup_insertobject_nEquation_text">New Equation</string>
+    <string name="popup_insertobject_nPicture_no_access_text">"New Picture 
+(no access to
+ the camera)"</string>
+    <string name="popup_insertobject_nPicture_text">New Picture</string>
+    <string name="popup_insertobject_nVideo_no_access_text">"New Video
+(no access to
+the camera)"</string>
+    <string name="popup_insertobject_nVideo_text">New Video</string>
+    <string name="popup_insertobject_single_clipart_downloading">Your clipart is being prepared…</string>
+    <string name="popup_insertobject_text_box">Text Box</string>
+    <string name="popup_insertobject_unknown_file_message">Unknown or unsupported file type</string>
+    <string name="popup_inspectorWatch_addAsClipart_text">Add as Clipart</string>
+    <string name="popup_inspectorWatch_bring2Front_text">Bring to Front</string>
+    <string name="popup_inspectorWatch_bringForward">Bring Forward</string>
+    <string name="popup_inspectorWatch_copy_text">Copy</string>
+    <string name="popup_inspectorWatch_duplicate_text">Duplicate</string>
+    <string name="popup_inspectorWatch_fliphoriz_text">Flip left/right</string>
+    <string name="popup_inspectorWatch_flipvert_text">Flip up/down</string>
+    <string name="popup_inspectorWatch_group_text">Group</string>
+    <string name="popup_inspectorWatch_lock_rotation_text">Lock Rotation</string>
+    <string name="popup_inspectorWatch_lock_scale_text">Lock Scale</string>
+    <string name="popup_inspectorWatch_lock_transx_text">Lock Horizontal</string>
+    <string name="popup_inspectorWatch_lock_transy_text">Lock Vertical</string>
+    <string name="popup_inspectorWatch_paste">Paste</string>
+    <string name="popup_inspectorWatch_send2Back_text">Send to Back</string>
+    <string name="popup_inspectorWatch_sendBackward">Send Backward</string>
+    <string name="popup_inspectorWatch_setAsBackground_text">Set as Background</string>
+    <string name="popup_inspectorWatch_setAutoRotation_text">Set auto rotation</string>
+    <string name="popup_inspectorWatch_unSetAsBackground_text">Unset Background</string>
+    <string name="popup_inspectorWatch_ungroup_text">Ungroup</string>
+    <string name="popup_inspectorWatch_unlock">Unlock</string>
+    <string name="popup_inspectorWatch_unlock_rotation_text">Unlock Rotation</string>
+    <string name="popup_inspectorWatch_unlock_scale_text">Unlock Scale</string>
+    <string name="popup_inspectorWatch_unlock_transx_text">Unlock Horizontal</string>
+    <string name="popup_inspectorWatch_unlock_transy_text">Unlock Vertical</string>
+    <string name="popup_shapetool_arrow">Arrow</string>
+    <string name="popup_shapetool_circle">Circle</string>
+    <string name="popup_shapetool_line">Line</string>
+    <string name="popup_shapetool_rectangle">Rectangle</string>
+    <string name="popup_shapetool_rounded_rectangle">Rounded rectangle</string>
+    <string name="popup_shapetool_shadow_text">Shadow</string>
+    <string name="popup_shapetool_star">Star</string>
+    <string name="popup_texttool_fontsize_text">Font size</string>
+    <string name="popup_texttool_fonttype_text">Font</string>
+    <string name="popup_youtube_category_private_textView_content">Private</string>
+    <string name="popup_youtube_category_public_textView_content">Public</string>
+    <string name="popup_youtube_category_textview_content">Category:</string>
+    <string name="popup_youtube_category_unlisted_textView_content">Unlisted</string>
+    <string name="popup_youtube_export_description_edittext_content">This project was created with Explain Everything™ for Android</string>
+    <string name="popup_youtube_export_movie_description_content">Movie description:</string>
+    <string name="popup_youtube_export_movie_name">Movie name:</string>
+    <string name="popup_youtube_export_name_edittext_content">Made with Explain Everything™</string>
+    <string name="popup_youtube_public_type">Public type:</string>
+    <string name="popup_youtube_save_in_cameraroll_textview_content">Save a copy of movie in Gallery</string>
+    <string name="popup_youtube_text_title_cannot_be_empty">Title cannot be empty</string>
+    <string name="preferences">Settings</string>
+    <string name="preferences_accounts_btn_text">Accounts</string>
+    <string name="preferences_audio_export_text">Include audio</string>
+    <string name="preferences_autocopy_title_text">Auto-backup</string>
+    <string name="preferences_browser_password_on_off_text">Require browser password</string>
+    <string name="preferences_compression_method_text">Fast compressing</string>
+    <string name="preferences_control_bar_alignment">Control Bar alignment</string>
+    <string name="preferences_display_on_screen_guides_info">Overlay guides show the project area which will be visible when exported. Area outside of them will be cropped.</string>
+    <string name="preferences_display_on_screen_guides_text">Display on-screen guides</string>
+    <string name="preferences_display_title_text">DISPLAY</string>
+    <string name="preferences_editing_behavior_for_new_objects">DEFAULT BEHAVIOR FOR NEW OBJECTS</string>
+    <string name="preferences_editing_btn_text">Editing</string>
+    <string name="preferences_editing_projects_title_text">EDITING PROJECTS</string>
+    <string name="preferences_export_btn_text">Export</string>
+    <string name="preferences_export_video_dev_spec_text">Device specific resolution (X/Y)</string>
+    <string name="preferences_general_btn_text">General</string>
+    <string name="preferences_interface_simple_ui_hint">Just basic design and record tools with larger buttons.</string>
+    <string name="preferences_interface_simple_ui_text">Simple interface</string>
+    <string name="preferences_interface_title_text">Interface</string>
+    <string name="preferences_opengl_drawing_on_off_description">OpenGL drawing provides smoother drawings and better overall performance. Disable in case of issues with drawing.</string>
+    <string name="preferences_opengl_drawing_on_off_text">OpenGL drawing</string>
+    <string name="preferences_parental_control_info_text">Enabling Parental Gate will prevent access to external content sources and services. You can also require a password to open the build-in web browser.</string>
+    <string name="preferences_parental_control_title_text">PARENTAL CONTROL</string>
+    <string name="preferences_parental_gate_on_off_text">Parental Gate</string>
+    <string name="preferences_pdf_shadow_on_off_text">Shadow on imported PDFs</string>
+    <string name="preferences_project_ratio_16Per9_description">New landscape projects are created in a 16:9 screen ratio, best for viewing on a desktop computer or an HDTV.</string>
+    <string name="preferences_project_ratio_4Per3_description">New landscape projects are created in a 4:3 screen ratio, best for viewing on a tablet.</string>
+    <string name="preferences_project_ratio_device_ratio_description">Device ratio</string>
+    <string name="preferences_project_ratio_text">Landscape project ratio</string>
+    <string name="preferences_quality_high_video_info_info">Exported videos will be saved with low compression and are shared at large size.</string>
+    <string name="preferences_quality_low_video_info_info">Exported videos will be saved with high compression and are shared at small size.</string>
+    <string name="preferences_quality_medium_video_info_info">Exported videos will be saved with medium compression and are shared at medium size.</string>
+    <string name="preferences_record_frontcamera_resolution_text">"Front camera 
+resolution"</string>
+    <string name="preferences_record_no_options">No record options are available for this device.</string>
+    <string name="preferences_record_rearcamera_resolution_text">"Rear camera 
+resolution"</string>
+    <string name="preferences_spen_wrist_guard_text">S Pen wrist guard</string>
+    <string name="preferences_stylus_mode">Stylus mode</string>
+    <string name="preferences_switch_to_hand_tool_after_shape_creation">Switch to Hand Tool after shape creation</string>
+    <string name="preferences_toolbar_alignment">Toolbar alignment</string>
+    <string name="preferences_toolbar_alignment_bottom">Bottom</string>
+    <string name="preferences_toolbar_alignment_left">Left</string>
+    <string name="preferences_toolbar_alignment_right">Right</string>
+    <string name="preferences_toolbar_alignment_top">Top</string>
+    <string name="preferences_two_finger_scrolling">Two finger scrolling</string>
+    <string name="preferences_video_export_default_resolution_text">Default resolution (X/Y)</string>
+    <string name="preferences_video_export_settings_text">Video export settings</string>
+    <string name="premium_features">"You can download and edit projects
+shared on Explain Everything™ Discover.
+
+Share projects privately or publicly on
+Explain Everything™ Discover."</string>
+    <string name="premium_features_header">Premium Features</string>
+    <string name="preparing">Preparing</string>
+    <string name="presentation_access_code">Access CODE</string>
+    <string name="presentation_added">The project has been added</string>
+    <string name="previous_slide">Previous slide</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="private_type">Private</string>
+    <string name="profile">Profile</string>
+    <string name="project">project</string>
+    <string name="project_description_holder">Write your description here…</string>
+    <string name="project_editing_change_name">Change name</string>
+    <string name="project_editing_create_folder">Create new folder</string>
+    <string name="project_editing_incompatible_projects_msg">Merging projects with different FPS (Frames Per Second) settings is currently not supported.</string>
+    <string name="project_editing_incompatible_projects_title">Error Merging Projects</string>
+    <string name="project_editing_merge_projects">Merge projects</string>
+    <string name="project_editing_merging_in_progress">Merging projects…</string>
+    <string name="project_editing_new_project_name">New project name</string>
+    <string name="project_editing_rename_folder">Rename</string>
+    <string name="project_editing_rename_project">Rename</string>
+    <string name="project_name_holder">Project name…</string>
+    <string name="projects">projects</string>
+    <string name="projects_count">%1$s Projects</string>
+    <string name="projects_in">projects in</string>
+    <string name="projects_lbl">Projects</string>
+    <string name="protocol_incompatible">Incompatible collaboration version. Please update Explain Everything or ask the host to update.</string>
+    <string name="publish">Publish</string>
+    <string name="published">Published</string>
+    <string name="recording_allert_box_choice2">Add to existing recording</string>
+    <string name="recording_allert_box_choice3">Stop recording</string>
+    <string name="recording_allert_box_message">This slide has already a recording in it. Do you want to overwrite it?</string>
+    <string name="recording_error_starting_recording_message">Error starting voice recording</string>
+    <string name="recording_over_existing_tracks_allert_override_all">Starting recording now will replace the existing recording on the current slide from now on</string>
+    <string name="recording_over_existing_tracks_allert_override_continue">Do you want to continue?</string>
+    <string name="recording_over_existing_tracks_allert_override_graphic_tracks">Starting recording now will replace the existing video track on the current slide from now on</string>
+    <string name="recording_over_existing_tracks_allert_override_nothing">Starting recording now will not replace the existing recording on the current slide from now on</string>
+    <string name="recording_over_existing_tracks_allert_override_sound_tracks">Starting recording now will replace the existing sound track on the current slide from now on</string>
+    <string name="recording_settings_play_all_slides">Play all slides</string>
+    <string name="recording_settings_recording_mode">Recording mode</string>
+    <string name="recording_sound_recorded_in_unsupported_format_message">Sound recorded in unsupported format</string>
+    <string name="regenerate">Get new CODE</string>
+    <string name="renew_subscription">Renew subscription</string>
+    <string name="repeat_code">Repeat code</string>
+    <string name="resuming">Resuming</string>
+    <string name="room_config_fail">Error getting room config.</string>
+    <string name="room_details_fail">Error getting room details.</string>
+    <string name="root_folder">Cloud Projects Home</string>
+    <string name="save_project_alert_titile">"File exists. Do you want to overwrite
+\"%1$s\"?"</string>
+    <string name="save_project_untitled">Untitled (%1$s)</string>
+    <string name="save_saveprj_label_text">Save Project</string>
+    <string name="search">Search</string>
+    <string name="select_slides_to_edit">Select slides to edit</string>
+    <string name="service_not_maintained_by_ee">You are about to connect to service that is not maintained by Explain Everything. Complete the task below to continue.</string>
+    <string name="seven">seven</string>
+    <string name="share_folder_code_subject">%1$s wants to share the folder %2$s with you</string>
+    <string name="share_folder_code_text">"Hello, 
+%1$s has shared the Explain Everything™ Discover folder \"%2$s\" with you. 
+
+Copy the CODE below and paste it in the enter CODE section of Explain Everything™ Interactive Whiteboard: 
+
+%3$s
+ 
+Don't have the app? 
+Get it on Google Play: %4$s 
+or 
+Google Chrome Web Store: %5$s 
+
+Not using Android Device? 
+Access the folder in your web browser: %6$s 
+ 
+Want to see more creative work? 
+Visit Explain Everything™ Discover https://discover.explaineverything.com"</string>
+    <string name="share_invitation_to_join_ee">Share invitation to join Explain Everything™</string>
+    <string name="share_presentation_code_text">"Hello, 
+%1$s has shared the Explain Everything™ Discover project \"%2$s\" with you. 
+
+Copy the CODE below and paste it in the enter CODE section of Explain Everything™ Interactive Whiteboard: 
+
+%3$s
+ 
+Don't have the app? 
+Get it on Google Play: %4$s 
+or 
+Google Chrome Web Store: %5$s 
+
+Not using Android Device? 
+Access the project in your web browser: %6$s 
+ 
+Want to see more creative work? 
+Visit Explain Everything™ Discover https://discover.explaineverything.com"</string>
+    <string name="share_private_presentation">"This project is private. To share it, please set it to
+public (anyone can view) or 
+unlisted (only those with link/CODE can view)."</string>
+    <string name="share_project_link">Share project link:</string>
+    <string name="shared_by_ee">"%1$s
+
+Shared by Explain Everything™"</string>
+    <string name="shared_type">Shared</string>
+    <string name="shared_with">Shared with</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_out">Sign out</string>
+    <string name="sign_up">Sign up</string>
+    <string name="sign_up_dialog_footer">"By signing up, I agree to Explain Everything's"</string>
+    <string name="sign_up_question">"Don't have an account?"</string>
+    <string name="six">six</string>
+    <string name="skip">Skip</string>
+    <string name="skoletube_root_folder">No group</string>
+    <string name="slide_change_failure_message">Error loading new slide. The slide might be corrupted. If the problem persists, please contact support@explaineverything.com.</string>
+    <string name="slide_without_recording_duration">Slide without recording duration</string>
+    <string name="sorry_no_internet">"Sorry, it looks like you have lost your Internet connection.
+Please reconnect and try again"</string>
+    <string name="sort_by">sort by</string>
+    <string name="specific">Other</string>
+    <string name="spen_wrist_guard_error_device_do_not_have_spen">Device does not support S Pen.</string>
+    <string name="spen_wrist_guard_error_prefix">"Error switching on S Pen support: "</string>
+    <string name="spen_wrist_guard_error_sufix">Please contact support@explaineverything.com.</string>
+    <string name="sponsored_account">Sponsored Account</string>
+    <string name="sport">Sports</string>
+    <string name="staff_pciks">Staff Picks</string>
+    <string name="standard">Cross-Platform</string>
+    <string name="student">Student</string>
+    <string name="subcategory">Subcategory</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="subscribe_now">Subscribe to continue using the full Explain Everything!</string>
+    <string name="subscription_expired">Your subscription has expired</string>
+    <string name="subscription_expires_on">"Your subscription will automatically renew on %s
+unless you cancel your subscription at least 1 day before that date."</string>
+    <string name="sync_folder_is_empty">Sync folder is empty</string>
+    <string name="sync_project_local_only">Your project will only be saved locally.</string>
+    <string name="sync_up_message">Projects pending: %s</string>
+    <string name="tags">Tags</string>
+    <string name="target_audiences">Target audience</string>
+    <string name="teacher">Teacher</string>
+    <string name="terms_of_service">Term of Service</string>
+    <string name="there_is_not_enough_space">There is no space left on your device - please clean up some space and try again.</string>
+    <string name="three">three</string>
+    <string name="timeline_edit_cancel_selection">Cancel selection</string>
+    <string name="timeline_edit_delete_all_from_now_on_text">Delete all from now on</string>
+    <string name="timeline_edit_delete_compact">Delete and compact</string>
+    <string name="timeline_edit_delete_text">Delete</string>
+    <string name="timeline_edit_split_text">Split</string>
+    <string name="timeline_edit_start_selection">Start selection</string>
+    <string name="toolbar_slide_selector_text">Slide 1 of 1</string>
+    <string name="trial_expired">Your trial has expired</string>
+    <string name="trial_expired_details">"You're no longer able to create or edit projects."</string>
+    <string name="trial_expires_in">Days of Premium Features trial: %s</string>
+    <string name="trial_expires_in_details">After the trial end you will no longer able to create or edit projects.</string>
+    <string name="trial_information_onboard_dialog_register_by_going_to_text">Register by going to your profile to receive additional 500 MB of cloud storage for your projects</string>
+    <string name="trial_information_onboard_dialog_skip_info_text">Skip</string>
+    <string name="trial_information_onboard_dialog_start_using_text">Start Trial</string>
+    <string name="trial_information_onboard_dialog_you_will_receive_30_days_text">You will receive 30 days to create amazing projects</string>
+    <string name="two">two</string>
+    <string name="type">Type</string>
+    <string name="unknown_error">Unrecognized error. Please contact support@explaineverything.com.</string>
+    <string name="update_info_draw_fill">Use the Draw Fill option to complete your drawing and fill it with selected color in one tap!</string>
+    <string name="update_info_first_page_header">New In Explain Everything</string>
+    <string name="update_info_first_page_text">We have added new interactions with the Hand Tool and an option to fill drawings with a color of your choice.</string>
+    <string name="update_info_hold">Touch and hold on an object to open the Inspector</string>
+    <string name="update_info_learn_more_button">Learn more</string>
+    <string name="update_info_next_button">Next</string>
+    <string name="update_info_one_tap_text">One tap to edit an object</string>
+    <string name="update_info_quit_dialog_button">Got it, thanks!</string>
+    <string name="update_info_second_page_header">Hand Tool Gestures</string>
+    <string name="update_info_third_page_header">Draw Fill</string>
+    <string name="update_info_two_taps_text">Two taps to straighten it</string>
+    <string name="upload_complete">Upload Complete</string>
+    <string name="upload_complete_header">Your project will be available at:</string>
+    <string name="upload_form_local">Upload from Local Projects</string>
+    <string name="upload_this_project">Upload this project</string>
+    <string name="uploading">Uploading</string>
+    <string name="uploading_avatar">Uploading profile picture</string>
+    <string name="user_data_description_holder">Write something about yourself</string>
+    <string name="user_data_email_holder">User email</string>
+    <string name="username">Username</string>
+    <string name="videopuppet_init_error_camera_open_failed">Error opening camera device</string>
+    <string name="videopuppet_init_error_camera_preview_failed">Error initializing camera preview</string>
+    <string name="videopuppet_init_error_mediaplayer_init_failed">Error initializing video player or video format is not supported.</string>
+    <string name="videopuppet_init_error_multiply_camera_recorder_too_many_video_puppets">Error initializing camera recorder. Too many video objects on slide.</string>
+    <string name="videopuppet_init_error_multiply_mediaplayer_init_failed">Error initializing video player due to device limitation for the number of MediaPlayer instances.</string>
+    <string name="videopuppet_unsupported_video_size">Unsupported video size</string>
+    <string name="watch">Watch</string>
+    <string name="web_page_enter_an_address">Enter an address</string>
+    <string name="web_page_title_text">Page Title</string>
+    <string name="wg_tip_1">Create a new project</string>
+    <string name="wg_tip_2">Get inspired and inspire</string>
+    <string name="wg_tip_3">Deploy to a group or institution</string>
+    <string name="wg_tip_4">Record everything you do</string>
+    <string name="wg_tip_5">Share your projects</string>
+    <string name="what_are_those_features">(what are those features?)</string>
+    <string name="wi_delete_folder_info">Do you want to delete folder?</string>
+    <string name="wi_delete_project_info">Do you want to delete project?</string>
+    <string name="wi_export_project_title">Export project</string>
+    <string name="wi_latest_changes">Latest update</string>
+    <string name="wi_news">News</string>
+    <string name="wi_news_1_content">Use Mathematical Equation symbols and structures in your projects by adding them via Insert Object > New Equation. The advanced Equation Editor keyboard has a wide range of options, including fractions, derivatives, and matrices.</string>
+    <string name="wi_news_1_title">Equation Editor</string>
+    <string name="wi_news_2_content">Explain Everything now features a white interface so that all users of Explain Everything will have the same interface regardless of device and platform.</string>
+    <string name="wi_news_2_title">White Interface</string>
+    <string name="wi_news_3_content">Select a part of the canvas and duplicate it as a separate object. Easily emphasize important information or quickly multiply other objects or fragments of pictures inserted on the canvas.</string>
+    <string name="wi_news_3_title">Cutout Tool</string>
+    <string name="wi_news_4_content">This works just like the Draw Tool but with automatic transparency. Tap on the Highlighter twice to change its width and draw attention to details or areas by marking them.</string>
+    <string name="wi_news_4_title">Highlighter</string>
+    <string name="wi_skip">Skip</string>
+    <string name="wi_updated_version">New features and improvements:</string>
+    <string name="wi_welcome_guide">Welcome Guide</string>
+    <string name="wi_welcome_guide_title">"Welcome to Explain Everything!
+To get started let us help you…"</string>
+    <string name="wipopup_inspectorWatch_arrange">Arrange</string>
+    <string name="word_of">of</string>
+    <string name="word_slide">Slide</string>
+    <string name="write_folder_name">Write folder name</string>
+    <string name="wrong_email">Email invalid</string>
+    <string name="wrong_username_or_pass">Wrong username or password</string>
+    <string name="youtube_authentication_error_message">Authentication error, check internet connection.</string>
+    <string name="youtube_categories_not_listed">Error fetching categories.</string>
+    <string name="youtube_no_linked_account_message">YouTube reports, that there is no channel name linked to your account. Try logging in with your YouTube channel name (not your Google account email address). You can find your YouTube channel name when you log into YouTube account on your computer and look in the upper right. If you haven’t designated a channel name before – you might have to.</string>
+    <string name="youtube_tap_to_list_categories_message">Tap to list categories</string>
+    <string name="preferences_video_export_slides_without_recording_duration2">5</string>
+    <string name="preferences_video_export_slides_without_recording_duration3">10</string>
+    <string name="preferences_video_export_slides_without_recording_duration4">15</string>
+    <string name="popup_homescreen_feedback_recipient">support@explaineverything.com</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="app_name_no_trade_mark">Explain Everything</string>
+    <string name="apprate_feedback_answer_no">Not now</string>
+    <string name="apprate_feedback_answer_yes">Send feedback</string>
+    <string name="apprate_feedback_message">Would you like to share your experience with us?</string>
+    <string name="apprate_feedback_title">We would love to hear why.</string>
+    <string name="apprate_initial_question">Enjoying Explain Everything?</string>
+    <string name="apprate_rate_answer_no">Not now</string>
+    <string name="apprate_rate_answer_yes">Sure!</string>
+    <string name="apprate_rate_question">How about a rating on the Google Play Store?</string>
+    <string name="apprate_rate_question_chrome">How about a rating on the Chrome Web Store?</string>
+    <string name="art_design_cat_name">Art &amp; Design</string>
+    <string name="com.crashlytics.android.build_id">857253c3-21b2-4021-a57d-2072514d35ba</string>
+    <string name="common_message_dropbox">Dropbox</string>
+    <string name="common_message_google_classroom">Google Classroom</string>
+    <string name="common_message_google_drive">Google Drive</string>
+    <string name="common_message_pdf">PDF</string>
+    <string name="common_message_skoletube">Skoletube</string>
+    <string name="default_web_client_id">952999665823-ss9kp0hc7llla6vm2nbtv30j7ueg42b1.apps.googleusercontent.com</string>
+    <string name="discover_header_txt">Discover</string>
+    <string name="discover_player_timer">00:00</string>
+    <string name="discover_player_video_date_size">%1$s | %2$s</string>
+    <string name="feedback_email_title">Explain Everything feedback</string>
+    <string name="feedback_hwinfo_header">------------------- please write above this line -------------------</string>
+    <string name="firebase_database_url">https://explain-everything-1146.firebaseio.com</string>
+    <string name="gcm_defaultSenderId">952999665823</string>
+    <string name="geography_cat_name">Geography</string>
+    <string name="google_api_key">AIzaSyCdBTHV3Z16_EVxd5QeElZWhIfE29S-V7c</string>
+    <string name="google_app_id">1:952999665823:android:3c192eac45745dc9</string>
+    <string name="google_crash_reporting_api_key">AIzaSyCdBTHV3Z16_EVxd5QeElZWhIfE29S-V7c</string>
+    <string name="google_storage_bucket">explain-everything-1146.appspot.com</string>
+    <string name="kit_name">Twitter</string>
+    <string name="popup_exportproject_youtube">YouTube</string>
+    <string name="popup_homescreen_ee_website">http://explaineverything.com/</string>
+    <string name="popup_homescreen_guide_url">http://explaineverything.com/support/tutorials/android/</string>
+    <string name="popup_homescreen_help_appname_text">Explain Everything™</string>
+    <string name="popup_homescreen_help_authors_text">© 2011 – 2017 Explain Everything</string>
+    <string name="popup_insertobject_clipart_cached_hint">The Internet connection cannot be established, only previously downloaded clipart are available</string>
+    <string name="popup_insertobject_clipart_cached_page_title">Only Downloaded Clipart Available</string>
+    <string name="popup_texttool_fontlist_exo">Exo</string>
+    <string name="popup_texttool_fontlist_exo_bold">Exo Bold</string>
+    <string name="popup_texttool_fontlist_exo_bold_italic">Exo Bold Italic</string>
+    <string name="popup_texttool_fontlist_exo_italic">Exo Italic</string>
+    <string name="popup_texttool_fontlist_fredericka">Fredericka</string>
+    <string name="popup_texttool_fontlist_great_vibes">GreatVibes</string>
+    <string name="popup_texttool_fontlist_lato">Lato</string>
+    <string name="popup_texttool_fontlist_lato_bold">Lato Bold</string>
+    <string name="popup_texttool_fontlist_lato_bold_italic">Lato Bold Italic</string>
+    <string name="popup_texttool_fontlist_lato_italic">Lato Italic</string>
+    <string name="popup_texttool_fontlist_marvel">Marvel</string>
+    <string name="popup_texttool_fontlist_marvel_bold">Marvel Bold</string>
+    <string name="popup_texttool_fontlist_marvel_bold_italic">Marvel Bold Italic</string>
+    <string name="popup_texttool_fontlist_marvel_italic">Marvel Italic</string>
+    <string name="popup_texttool_fontlist_nixie_one">NixieOne</string>
+    <string name="popup_texttool_fontlist_open_sans">OpenSans</string>
+    <string name="popup_texttool_fontlist_open_sans_bold">OpenSans Bold</string>
+    <string name="popup_texttool_fontlist_open_sans_bold_italic">OpenSans Bold Italic</string>
+    <string name="popup_texttool_fontlist_open_sans_italic">OpenSans Italic</string>
+    <string name="popup_texttool_fontlist_reshan">Reshan</string>
+    <string name="popup_texttool_fontlist_roboto">Roboto</string>
+    <string name="popup_texttool_fontlist_roboto_bold">Roboto Bold</string>
+    <string name="popup_texttool_fontlist_roboto_bold_italic">Roboto Bold Italic</string>
+    <string name="popup_texttool_fontlist_roboto_italic">Roboto Italic</string>
+    <string name="popup_texttool_fontlist_sans">Sans</string>
+    <string name="popup_texttool_fontlist_sans_bold">Sans Bold</string>
+    <string name="popup_texttool_fontlist_sans_italic">Sans Italic</string>
+    <string name="popup_texttool_fontlist_sans_mono">Sans Monospace</string>
+    <string name="popup_texttool_fontlist_sans_mono_bold">Sans Monospace Bold</string>
+    <string name="popup_texttool_fontlist_sans_serif">Sans Serif</string>
+    <string name="popup_texttool_fontlist_sans_serif_bold">Sans Serif Bold</string>
+    <string name="popup_texttool_fontlist_tangerine">Tangerine</string>
+    <string name="popup_texttool_fontlist_tangerine_bold">Tangerine Bold</string>
+    <string name="preferences_discover_btn_text">Discover</string>
+    <string name="preferences_video_export_default_resolution_text_1024x768">"1024
+768"</string>
+    <string name="preferences_video_export_default_resolution_text_1440x1080">"1440
+1080"</string>
+    <string name="preferences_video_export_default_resolution_text_1920x1080">"1920
+1080"</string>
+    <string name="preferences_video_export_default_resolution_text_2048x1536">"2048
+1536"</string>
+    <string name="preferences_video_export_default_resolution_text_320x240">"320
+240"</string>
+    <string name="preferences_video_export_default_resolution_text_640x480">"640
+480"</string>
+    <string name="set_inf_text_fonts_specific">May not look good</string>
+    <string name="set_inf_text_fonts_standard">Looks good on every device</string>
+    <string name="sport_cat_name">Sports</string>
+    <string name="staff_pciks_cat_name">Staff Picks</string>
+    <string name="toolbar_recording_time_slider_text">00:00:00</string>
+</resources>

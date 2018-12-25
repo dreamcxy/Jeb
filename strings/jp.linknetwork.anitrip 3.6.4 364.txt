@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="actionbar_diary">日記</string>
+    <string name="actionbar_diaryeditor">日記を作成</string>
+    <string name="actionbar_diarypost">日記投稿</string>
+    <string name="actionbar_event">イベント</string>
+    <string name="actionbar_firstboot_confirmnotification">通知設定</string>
+    <string name="actionbar_firstboot_connectsns">SNS連携</string>
+    <string name="actionbar_firstboot_inputinterest">好きな作品</string>
+    <string name="actionbar_firstboot_inputprofile">ユーザー登録</string>
+    <string name="actionbar_firstboot_signin">引き継ぎ</string>
+    <string name="actionbar_firstboot_signin_with_auth_id">認証IDでログイン</string>
+    <string name="actionbar_news">お知らせ</string>
+    <string name="actionbar_open_url">認識結果</string>
+    <string name="actionbar_profilesetting_save_menu">保存</string>
+    <string name="actionbar_seichinow">聖地なう</string>
+    <string name="actionbar_seichinowpost">聖地なう投稿</string>
+    <string name="actionbar_shop">アイテムショップ</string>
+    <string name="actionbar_topic">特集</string>
+    <string name="actionbar_userpage_aboutapp">アプリについて</string>
+    <string name="actionbar_userpage_accountsettingtop">アカウント設定</string>
+    <string name="actionbar_userpage_appsetting">アプリ設定</string>
+    <string name="actionbar_userpage_illustgrid">特典壁紙</string>
+    <string name="actionbar_userpage_my_ar">AR</string>
+    <string name="actionbar_userpage_myitem">マイアイテム</string>
+    <string name="actionbar_userpage_profilesetting">プロフィール設定</string>
+    <string name="actionbar_userpage_relatedservice">関連サービス</string>
+    <string name="actionbar_userpage_usertop">足あと</string>
+    <string name="actionbar_userpage_voicelist">特典ボイス</string>
+    <string name="alert_checkin_finishtour">ツアー期間は終了しました</string>
+    <string name="alert_checkin_nogps">位置情報が取得できていません</string>
+    <string name="alert_checkin_notcheckable">スポットの近くに来るとチェックインできるようになります</string>
+    <string name="alert_diary_clear_message">この日の全ての投稿を日記の候補から外しますか？（二度と日記にはできません）</string>
+    <string name="alert_diary_clear_title">日記にしない</string>
+    <string name="alert_error_api_connection_no_result">通信データが不正です。時間をおいて再操作してください。エラーコード：</string>
+    <string name="alert_error_api_response_already_account_used">"すでにこのアカウントは他のユーザーの認証アカウントに設定されています。
+設定してあるユーザーの認証アカウントから解除するか、別のアカウントを設定してください。"</string>
+    <string name="alert_error_api_response_auth_error">認証ID、または認証コードが間違っています。</string>
+    <string name="alert_error_api_response_auth_suspended">ログインに連続して失敗しました。しばらく時間をおいて再操作してください。</string>
+    <string name="alert_error_api_response_db_connection_error">サーバーDBに負荷がかかっています。時間をおいて再操作してください。</string>
+    <string name="alert_error_api_response_fail">サーバ処理中にエラーが発生しました。時間をおいて再操作してください。</string>
+    <string name="alert_error_api_response_fb_error">Facebook連携に失敗しました。時間をおいて再操作してください。</string>
+    <string name="alert_error_api_response_fb_token">Facebook連携が切れています。アカウント設定から再度認証してください。</string>
+    <string name="alert_error_api_response_invalid_parameter">投稿データに問題があります。繰り返し起きる場合はヘルプをご覧ください。</string>
+    <string name="alert_error_api_response_serialcode_error_invalid">シリアルコードが間違っています。</string>
+    <string name="alert_error_api_response_serialcode_error_outofdate">シリアルコードの使用期間外です。</string>
+    <string name="alert_error_api_response_serialcode_error_used">このシリアルコードは使用済みです。</string>
+    <string name="alert_error_api_response_session_error">セッション情報が不正です。繰り返し起きる場合はヘルプをご覧ください。</string>
+    <string name="alert_error_api_response_sql_error">サーバーDBにエラーが起きています。時間をおいて再操作してください。</string>
+    <string name="alert_error_api_response_timeout">サーバー処理に負荷がかかっています。時間をおいて再操作してください。</string>
+    <string name="alert_error_api_response_tw_error">Twitter連携に失敗しました。時間をおいて再操作してください。</string>
+    <string name="alert_error_api_response_tw_token">Twitter連携が切れています。アカウント設定から再度認証してください。</string>
+    <string name="alert_firstboot_nosigninaccount">引き継ぎできるユーザーが設定されていませんでした</string>
+    <string name="alert_has_not_checkin">チェックインせずに終了しようとしています。終了しますか？</string>
+    <string name="alert_loading_error_message">画像の読み込みに失敗しました。通信環境を確認してください。</string>
+    <string name="alert_post_nogps">位置情報が付加されていません。このまま投稿しますか？</string>
+    <string name="alert_qr_reader_for_game">このQRコードは舞台めぐりゲーム内のQRコードです。%s内のQRコードリーダーで読み込んでください</string>
+    <string name="alert_save_error_message">画像を保存できませんでした。ストレージ容量を確認してください。</string>
+    <string name="app_name">舞台めぐり</string>
+    <string name="button.shop.item.bought">ダウンロード済み</string>
+    <string name="button.shop.item.buy">購入する</string>
+    <string name="button_accountsetting_auth_id_and_code">認証ID・コードを表示</string>
+    <string name="button_accountsetting_reset">アプリのデータをリセットする</string>
+    <string name="button_auth_code_copy">コードをコピーする</string>
+    <string name="button_auth_id_copy">IDをコピーする</string>
+    <string name="button_checkin_checkin">チェックイン</string>
+    <string name="button_checkin_qr">QRを読み込む</string>
+    <string name="button_checkin_seichinow">写真を撮ってチェックイン</string>
+    <string name="button_common_cancel">キャンセル</string>
+    <string name="button_common_close">閉じる</string>
+    <string name="button_common_firstboot_next">つぎへ</string>
+    <string name="button_common_more">もっと見る</string>
+    <string name="button_common_next">次へ</string>
+    <string name="button_common_ok">OK</string>
+    <string name="button_common_pickup">注目</string>
+    <string name="button_common_prev">前へ</string>
+    <string name="button_common_recent">新着</string>
+    <string name="button_common_save">保存する</string>
+    <string name="button_diary_backdate">前の日</string>
+    <string name="button_diary_clear">日記にしない</string>
+    <string name="button_diary_create">日記を作成</string>
+    <string name="button_diary_forwarddate">次の日</string>
+    <string name="button_firstboot_completion">舞台めぐりをはじめる</string>
+    <string name="button_firstboot_notification_no">今はしない</string>
+    <string name="button_firstboot_notification_yes">許可する</string>
+    <string name="button_firstboot_signin_auth_id_and_code">認証ID・コード</string>
+    <string name="button_firstboot_signin_facebook">Facebook</string>
+    <string name="button_firstboot_signin_twitter">Twitter</string>
+    <string name="button_firstboot_sns_logged">%1$sで投稿連携中</string>
+    <string name="button_firstboot_sns_logged_immigration">%1$sで投稿・引き継ぎ連携中</string>
+    <string name="button_firstboot_sns_login_facebook">Facebookと連携する</string>
+    <string name="button_firstboot_sns_login_twitter">Twitterと連携する</string>
+    <string name="button_firstboot_welcome_signin">データを引きつぐ</string>
+    <string name="button_firstboot_welcome_signup">新しくはじめる</string>
+    <string name="button_news_link">詳しくはこちらから</string>
+    <string name="button_news_read">全て既読</string>
+    <string name="button_post_seichinow_none">なし</string>
+    <string name="button_qr_code_open_url_activity">他のアプリで開く</string>
+    <string name="button_share_sns">投稿をシェア</string>
+    <string name="button_titletop_checkmap">地図を見る</string>
+    <string name="button_titletop_checkscene">場面を見る</string>
+    <string name="button_titletop_startevent">はじめる</string>
+    <string name="button_usertop_back">前へ</string>
+    <string name="button_usertop_forward">次へ</string>
+    <string name="checkbox_diary_chooseall">全選択</string>
+    <string name="com.crashlytics.android.build_id">1568a31e-3dba-49c3-b726-4472eff78cff</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="debug_menu_preference_api_server">接続先Apiサーバー</string>
+    <string name="debug_menu_preference_checkin">どこでもチェックイン</string>
+    <string name="debug_menu_preference_game_sever">接続先ゲームサーバ</string>
+    <string name="debug_menu_title">デバッグメニュー</string>
+    <string name="default_web_client_id">25848676112-p1d3sh4s09hd24g6khscbi0h88np9bd9.apps.googleusercontent.com</string>
+    <string name="dialog_accountsetting_message_reset">"アプリのデータを全てリセットします。
+ユーザーデータも端末から削除されますがよろしいでしょうか？
+※必ず引き継ぎアカウントを設定してください。"</string>
+    <string name="dialog_checkin_comment_withoutpresent">"おめでとうございます！
+チェックインしました"</string>
+    <string name="dialog_checkin_comment_withpresent">"おめでとうございます！
+プレゼントをゲットしました"</string>
+    <string name="dialog_checkin_success">チェックイン成功！</string>
+    <string name="dialog_common_message">実行します。</string>
+    <string name="dialog_error_message_name_empty">名前を入力してください</string>
+    <string name="dialog_error_message_name_max">名前は最大15文字で入力してください</string>
+    <string name="dialog_error_message_self_introduction_max">自己紹介は最大200文字で入力してください</string>
+    <string name="dialog_firstboot_firstboot_license">舞台めぐりをはじめるには、利用規約に同意してチェックマークをつけてください。</string>
+    <string name="dialog_message_alert_seichinow_camera_camera_disable">カメラが使えない状態になっています。端末の設定を確認し、解決しない場合は端末を再起動してください。</string>
+    <string name="dialog_message_app_update">新しいバージョンの舞台めぐりがあります。アップデートしてください。</string>
+    <string name="dialog_message_googleApiClient_connection_failed">位置情報の取得に失敗しました。</string>
+    <string name="dialog_message_gps">GPSを有効にし、「モード」の設定がある場合、「高精度」にしてください。</string>
+    <string name="dialog_message_gps_ok">設定する</string>
+    <string name="dialog_message_gps_troubleshooting">位置情報が取得できません。端末の「設定」-「位置情報」-「モード」から、「高精度」を選択してください。解決しない場合、ヘルプをご参照ください。</string>
+    <string name="dialog_message_profilesetting_confirm">プロフィールの変更が保存されていません。保存せずに終了しますか？</string>
+    <string name="dialog_message_sns_cooperation_setting">SNS投稿アカウントが設定されていません。認証しますか？</string>
+    <string name="dialog_message_sns_setting_1">今設定した引き継ぎアカウントを投稿アカウントにも設定しますか？</string>
+    <string name="dialog_message_sns_setting_2">今設定した投稿アカウントを引き継ぎアカウントにも設定しますか？</string>
+    <string name="dialog_message_storage_not_mounted">"写真の保存に失敗しました。
+ストレージがマウントされていないようです。端末を再起動して再度試してください。"</string>
+    <string name="dialog_message_storage_save_failed">写真を保存できませんでした。ストレージを確認してください。</string>
+    <string name="dialog_message_storage_save_outofmemory">メモリ不足のため撮影に失敗しました。メモリ空き容量を確認してください。</string>
+    <string name="dialog_message_tips_seichinow_camera_no_ar_with_scene">画面隅のボタンでシーンを表示できます。</string>
+    <string name="dialog_message_tips_seichinow_camera_show_ar">タッチでARキャラを移動や拡縮・回転できます</string>
+    <string name="dialog_message_tips_seichinow_camera_show_ar_list">あなたの選んだARキャラと一緒に撮影できます</string>
+    <string name="dialog_message_tips_seichinow_camera_show_scene_large">スライダーで透明度を調節できます</string>
+    <string name="dialog_message_tips_seichinow_camera_show_scene_small">もう一度押すと画像を全画面表示できます</string>
+    <string name="dialog_message_tips_seichinow_camera_with_ar">画面隅のボタンでARキャラと一緒に撮影できます。</string>
+    <string name="dialog_message_use_in_app_qr_reader">舞台めぐりトップ画面にあるQRコード機能で読み込んでください。</string>
+    <string name="dialog_network_error_message">通信に失敗しました。通信環境を確認してください。</string>
+    <string name="dialog_network_error_title">エラー</string>
+    <string name="dialog_post_selecttag">ハッシュタグ選択</string>
+    <string name="dialog_post_selecttitle">作品選択</string>
+    <string name="dialog_selection_change_not_shared">非公開状態に変更</string>
+    <string name="dialog_selection_change_shared">公開状態に変更</string>
+    <string name="dialog_selection_delete">削除</string>
+    <string name="dialog_selection_mute">ミュートする</string>
+    <string name="dialog_selection_report">報告する</string>
+    <string name="dialog_selection_report_harmful">攻撃的または迷惑な投稿です</string>
+    <string name="dialog_selection_report_sensitive_image">不適切な画像を表示しています</string>
+    <string name="dialog_selection_report_spam">この投稿はスパムです</string>
+    <string name="dialog_signup_accountsettings_error_common_message">認証アカウントの設定に失敗しました</string>
+    <string name="dialog_signup_accountsettings_error_common_title">認証エラー</string>
+    <string name="dialog_signup_accountsettings_error_errorcode_message">"認証アカウントの設定に失敗しました。
+エラーコード:"</string>
+    <string name="dialog_title_sns_account_setting">アカウント設定</string>
+    <string name="dialog_title_sns_cooperation_setting">SNS連携設定</string>
+    <string name="dialog_urlscheme_serialcode_comment_withpresent">舞台めぐりから特別なプレゼントをおくります！</string>
+    <string name="dialog_urlscheme_serialcode_response_title">プレゼントGET!</string>
+    <string name="drawer_aboutapp">アプリについて</string>
+    <string name="drawer_accountsettings">アカウント設定</string>
+    <string name="drawer_appsettings">アプリ設定</string>
+    <string name="drawer_close">Close</string>
+    <string name="drawer_diary">日記を作成</string>
+    <string name="drawer_myitem">マイアイテム</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_relatedservice">関連サービス</string>
+    <string name="drawer_shop">アイテムショップ</string>
+    <string name="drawer_usertop">舞台めぐりの足あと</string>
+    <string name="edittext_hint_firstboot_signin_auth_code_hint">認証コード</string>
+    <string name="edittext_hint_firstboot_signin_auth_id_hint">認証ID</string>
+    <string name="edittext_post_comment_diary_hint">日記の説明を書きます</string>
+    <string name="edittext_post_comment_seichinow_hint">写真の説明を書きます</string>
+    <string name="edittext_post_title_hint">日記のタイトルを書きます</string>
+    <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
+    <string name="firebase_database_url">https://butaimeguri-30184.firebaseio.com</string>
+    <string name="ga_appName">舞台めぐりAndroid</string>
+    <string name="gcm_defaultSenderId">25848676112</string>
+    <string name="google_api_key">AIzaSyDOPi5xCKeGrwYdeZi4Y__BpXwBtoR1Yyc</string>
+    <string name="google_app_id">1:25848676112:android:dbc0a103ac47e559</string>
+    <string name="google_crash_reporting_api_key">AIzaSyDOPi5xCKeGrwYdeZi4Y__BpXwBtoR1Yyc</string>
+    <string name="google_storage_bucket">butaimeguri-30184.appspot.com</string>
+    <string name="list_count">%1$s件</string>
+    <string name="menu_close">閉じる</string>
+    <string name="menu_top_action_news">お知らせ</string>
+    <string name="message_ar_get_error">AR情報の取得に失敗しました。アプリを再起動して再度試してください。</string>
+    <string name="message_ar_out_of_memory">メモリ不足のためAR画像の作成に失敗しました。メモリ空き容量を確認してください。</string>
+    <string name="message_ar_save_error">AR情報の保存に失敗しました。ストレージを確認してください。</string>
+    <string name="message_ar_uri_syntax_error">ARが表示できませんでした。</string>
+    <string name="notification_subscribing_topic_name">butaimeguri-android</string>
+    <string name="popup_message_seichinow_camera_nearspot">近くにチェックインできるスポットがあります！</string>
+    <string name="popup_message_seichinow_camera_processing">処理中…</string>
+    <string name="project_id">butaimeguri-30184</string>
+    <string name="tab.shop.all.items">全アイテム</string>
+    <string name="tab.shop.title">タイトル一覧</string>
+    <string name="tab.shop.top">おすすめ</string>
+    <string name="tab_titlelist_a_to_z">五十音</string>
+    <string name="tab_titlelist_area">地域</string>
+    <string name="tab_titlelist_pickup">おすすめ</string>
+    <string name="tab_titlelist_recent">新着</string>
+    <string name="tab_top_category">タイトル一覧</string>
+    <string name="tab_top_eula_button_cancel">同意しない</string>
+    <string name="tab_top_eula_button_ok">同意する</string>
+    <string name="tab_top_eula_license">利用規約</string>
+    <string name="tab_top_eula_license_error_text">舞台めぐりをご利用になるには、利用規約への同意が必要になります。同意いただけない場合はアプリケーションを終了してください。</string>
+    <string name="tab_top_eula_license_error_title">利用規約について</string>
+    <string name="tab_top_eula_license_message">利用規約を確認しました</string>
+    <string name="tab_top_eula_license_title">お知らせ</string>
+    <string name="tab_top_group_diary">日記</string>
+    <string name="tab_top_group_event">イベント情報</string>
+    <string name="tab_top_group_game">うぉーく！</string>
+    <string name="tab_top_group_link">リンク</string>
+    <string name="tab_top_group_now">聖地なう</string>
+    <string name="tab_top_group_topic">特集</string>
+    <string name="tab_top_information_checkbox">次回から表示しない</string>
+    <string name="tab_top_information_title">お知らせ</string>
+    <string name="tab_top_top">おすすめ</string>
+    <string name="text_end_period">〜%1$s</string>
+    <string name="text_expiration_dialog_description">使用期限が近づいているARがあります。</string>
+    <string name="text_expiration_dialog_title">使用期限が近づいています</string>
+    <string name="text_indefinite_period">無期限</string>
+    <string name="text_qr_code_reader_preview">QRコードを配置してください</string>
+    <string name="textview.shop.bought">ダウンロード済み</string>
+    <string name="textview.shop.newString">NEW</string>
+    <string name="textview.shop.noitem">購入可能なアイテムがありません</string>
+    <string name="textview.shop.textitems">アイテム</string>
+    <string name="textview_accountsetting_changeprofile">プロフィール変更</string>
+    <string name="textview_accountsetting_facebook">Facebook</string>
+    <string name="textview_accountsetting_immigration">引き継ぎアカウント</string>
+    <string name="textview_accountsetting_noauth">連携していません</string>
+    <string name="textview_accountsetting_twitter">Twitter</string>
+    <string name="textview_accountsetting_userid">ユーザーID</string>
+    <string name="textview_adapter_event_progress">%1$s/%2$s</string>
+    <string name="textview_appsettings_body_checkin">チェックイン可能通知を表示</string>
+    <string name="textview_appsettings_body_gpsaccuracy">GPSの精度</string>
+    <string name="textview_appsettings_body_gpsfrequency">GPSの取得頻度</string>
+    <string name="textview_appsettings_body_private">日記・投稿を公開</string>
+    <string name="textview_appsettings_body_push">PUSH通知を受信</string>
+    <string name="textview_appsettings_header_activity">動作</string>
+    <string name="textview_appsettings_header_location">位置情報</string>
+    <string name="textview_appsettings_header_notification">通知</string>
+    <string name="textview_area">住所</string>
+    <string name="textview_auth_code_header">認証コード</string>
+    <string name="textview_auth_id_code_title">認証ID・コード</string>
+    <string name="textview_auth_id_header">認証ID</string>
+    <string name="textview_common_from">より</string>
+    <string name="textview_common_process_communication">通信中</string>
+    <string name="textview_copy_url">URLコピー</string>
+    <string name="textview_date_footprint">%1$sの足跡(%2$d件)</string>
+    <string name="textview_date_unit_day">%1$d日</string>
+    <string name="textview_date_unit_hour">%1$d時間</string>
+    <string name="textview_date_unit_minute">%1$d分</string>
+    <string name="textview_date_unit_month">%1$dヶ月</string>
+    <string name="textview_distance">距離:</string>
+    <string name="textview_distance_default">0</string>
+    <string name="textview_distance_unit">km</string>
+    <string name="textview_duration">所要時間:</string>
+    <string name="textview_duration_default">0</string>
+    <string name="textview_duration_unit_day">日</string>
+    <string name="textview_duration_unit_hour">時間</string>
+    <string name="textview_duration_unit_minute">分</string>
+    <string name="textview_firstboot_connect_sns">"SNS連携すると
+SNSへの投稿や、端末交換時の引き
+継ぎが可能になります。"</string>
+    <string name="textview_firstboot_input_interest">好きな作品を選んでください。</string>
+    <string name="textview_firstboot_notification">"通知を許可すると
+アプリから嬉しいお知らせが
+届きます！"</string>
+    <string name="textview_firstboot_signin">以前のアカウントでログインしてください。</string>
+    <string name="textview_firstboot_signup_agerange">年齢</string>
+    <string name="textview_firstboot_signup_areacode">住所</string>
+    <string name="textview_firstboot_signup_format_age">%1$s歳〜%2$s歳</string>
+    <string name="textview_firstboot_signup_format_age_last">%1$s歳〜</string>
+    <string name="textview_firstboot_signup_gender">性別</string>
+    <string name="textview_firstboot_signup_gender_female">女性</string>
+    <string name="textview_firstboot_signup_gender_male">男性</string>
+    <string name="textview_firstboot_signup_icon">アイコン</string>
+    <string name="textview_firstboot_signup_necessary">※必須</string>
+    <string name="textview_firstboot_signup_none">設定しない</string>
+    <string name="textview_firstboot_signup_profile">自己紹介</string>
+    <string name="textview_firstboot_signup_username">名前</string>
+    <string name="textview_firstboot_welcome_license_license">利用規約</string>
+    <string name="textview_firstboot_welcome_license_message">利用規約に同意しました</string>
+    <string name="textview_firstboot_welcome_license_url">_domain_eula.html</string>
+    <string name="textview_meguri_banner_checkin">チェック済み %1$d/%2$d</string>
+    <string name="textview_meguri_banner_checkin_withouttext">%1$d/%2$d</string>
+    <string name="textview_meguri_currentevent">表示するイベントを選択</string>
+    <string name="textview_meguri_near_gps_spot">チェックインできるスポットが%1$dヶ所あります</string>
+    <string name="textview_meguri_near_qr_spot">"近くにQRスポットが 
+%1$dヶ所あります"</string>
+    <string name="textview_meguri_progress_error">"チェックイン数の取得に
+失敗しました"</string>
+    <string name="textview_meguri_scenelist_area">舞台は</string>
+    <string name="textview_meguri_scenelist_checkable">チェックインできます</string>
+    <string name="textview_meguri_scenelist_checkable_qr">近くにスポットがあります</string>
+    <string name="textview_meguri_scenelist_recheckable">再チェックインできます</string>
+    <string name="textview_myitem_header_ar">AR</string>
+    <string name="textview_myitem_header_illust">特典壁紙</string>
+    <string name="textview_myitem_header_voice">特典ボイス</string>
+    <string name="textview_myitemtop_noitem">アイテムはまだありません</string>
+    <string name="textview_noitem">アイテムはまだありません</string>
+    <string name="textview_photo_sns_post">SNSに写真をシェアする</string>
+    <string name="textview_post_comment">コメント</string>
+    <string name="textview_post_dialog_notitle">該当作品なし</string>
+    <string name="textview_post_diary_private">投稿せずに日記を保存</string>
+    <string name="textview_post_diary_public">投稿して日記を保存</string>
+    <string name="textview_post_hashtag">\#ハッシュタグ候補</string>
+    <string name="textview_post_photo_private">投稿せずに写真を保存</string>
+    <string name="textview_post_photo_public">投稿して写真を保存</string>
+    <string name="textview_post_post_private">非公開で投稿</string>
+    <string name="textview_post_post_public">投稿</string>
+    <string name="textview_post_private">非公開</string>
+    <string name="textview_post_title">タイトル</string>
+    <string name="textview_post_workstitle">作品名</string>
+    <string name="textview_reload_progress">リロードする</string>
+    <string name="textview_scenedetail_finished_tour">ツアー期間は終了しました。</string>
+    <string name="textview_scenedetail_present">チェックインプレゼント</string>
+    <string name="textview_setting_profile_icon">アイコン</string>
+    <string name="textview_start_end_date">%1$s - %2$s</string>
+    <string name="textview_titlelist_header_etc">その他</string>
+    <string name="textview_titlelist_progress">%1$s%%</string>
+    <string name="textview_titletop_header_area">舞台は</string>
+    <string name="textview_titletop_header_area_dummy">位置情報がありません</string>
+    <string name="textview_titletop_header_event">イベント</string>
+    <string name="textview_titletop_header_proposal">この作品の舞台を見る</string>
+    <string name="textview_unit_kilometer">km</string>
+    <string name="textview_usertop_checkin">チェックイン</string>
+    <string name="textview_usertop_diary">日記</string>
+    <string name="textview_usertop_empty">足跡はまだありません</string>
+    <string name="textview_usertop_photo">写真</string>
+    <string name="throw_unimplemented_viewer_listener">ActivityがOnViewerFragmentListenerを実装していません.</string>
+    <string name="title.shop.item.attention">注意事項</string>
+    <string name="title.shop.item.illustrator">イラスト</string>
+    <string name="title.shop.item.info">詳細</string>
+    <string name="title.shop.item.rights">権利情報</string>
+    <string name="title.shop.item.stamp">AR</string>
+    <string name="title.shop.item.voice">ボイス</string>
+    <string name="title.shop.item.walkticket">チケット</string>
+    <string name="title_top_title_info">作品情報</string>
+    <string name="toast.billing.error.sendlog.failed">購入アイテム情報の同期に失敗しました。</string>
+    <string name="toast.billing.error.startpurchase.failed">購入開始処理に失敗しました</string>
+    <string name="toast.billing.error.supplyitem.failed">アイテムの取得に失敗しました</string>
+    <string name="toast_common_error">読み込みに失敗しました。前の画面に戻ってください。</string>
+    <string name="toast_common_list_error">データがありません</string>
+    <string name="toast_common_nodata">データの取得に失敗しました。</string>
+    <string name="toast_copy_auth_code">認証コードをコピーしました</string>
+    <string name="toast_copy_auth_id">認証IDをコピーしました</string>
+    <string name="toast_copy_clipboard">クリップボードにコピーしました</string>
+    <string name="toast_decrypt_failed_message">サーバのデータの変換に失敗しました</string>
+    <string name="toast_delete_error">削除に失敗しました。</string>
+    <string name="toast_diary_error_noaction">日記にする投稿を１つ以上選んでください。</string>
+    <string name="toast_diary_error_noitem">日記候補を取得できませんでした。</string>
+    <string name="toast_diary_error_progress">読み込みに失敗しました。前の画面に戻ってください。</string>
+    <string name="toast_error_news_read">全て既読にできませんでした</string>
+    <string name="toast_firstboot_process_auth_id_and_code">認証データの処理に失敗しました。解消しない場合はお問い合わせください。</string>
+    <string name="toast_meguri_no_events">表示できるイベントはありません</string>
+    <string name="toast_myitem_complete_save">特典画像を内部ストレージに保存しました。</string>
+    <string name="toast_myitem_error_progress">通信に失敗しました。通信環境を確認してください。</string>
+    <string name="toast_network_error_message">通信に失敗しました。通信環境を確認してください。</string>
+    <string name="toast_network_invalid_message">サーバーのデータが不正です。通信環境を確認してください。</string>
+    <string name="toast_player_error">音声の取得・再生に失敗しました。</string>
+    <string name="toast_player_error_unknown">音声プレーヤーにエラーが発生しました。</string>
+    <string name="toast_player_playing_error">音声の再生中にエラーが発生しました。</string>
+    <string name="toast_post_action_success_private">保存しました</string>
+    <string name="toast_post_action_success_public">投稿しました</string>
+    <string name="toast_profilesetting_save_success">保存に成功しました</string>
+    <string name="toast_qr_code_non_url_string">読み取られたQRコードはURLとして認識できません</string>
+    <string name="toast_qr_code_reader_not_support_pixel_format">お使いのカメラは対応していません。</string>
+    <string name="toast_report_error">パラメータが不正です。</string>
+    <string name="toast_shared_change_error">公開状態の変更に失敗しました。</string>
+    <string name="toast_sns_canceled">投稿をキャンセルしました</string>
+    <string name="toast_sns_empty_game_id">ゲームIDが指定されていません。投稿できませんでした</string>
+    <string name="toast_sns_failed">投稿に失敗しました</string>
+    <string name="toast_sns_failed_to_get_user">ユーザー情報の取得に失敗しました</string>
+    <string name="toast_sns_invalid_parameter">投稿データが不正です。投稿できませんでした</string>
+    <string name="toast_urlscheme_illegal_parameter">パラメータが不正です。</string>
+    <string name="toast_urlscheme_nowhere_account">"アカウントがありません。
+アカウント作成後に再度実行してください。"</string>
+    <string name="toast_webview_error_nourl">Error:URLがありません</string>
+    <string name="tutorial_01_01">"舞台めぐりで
+作品の世界に飛び込もう"</string>
+    <string name="tutorial_01_02">"アプリを使って
+大好きな作品の聖地を訪れよう"</string>
+    <string name="tutorial_01_03">"お気に入りのシーンや
+あなたの身近な聖地の
+写真を撮ろう"</string>
+    <string name="tutorial_01_04">"聖地の近くでチェックインして
+公式ボイスや壁紙をゲットしよう"</string>
+    <string name="tutorial_02_01">"お気に入りのあのシーンを
+訪れてみよう"</string>
+    <string name="tutorial_02_02">"地図と場面をみながら
+聖地をめぐってみよう"</string>
+    <string name="tutorial_02_03">"スポットに近づくと
+チェックインできるように
+なります"</string>
+    <string name="tutorial_02_04">"食事や買い物など
+現地のお楽しみスポットも沢山！
+聖地めぐりを楽しもう"</string>
+    <string name="tutorial_03_01">"「写真を撮ってチェックイン」を
+選択すると
+AR撮影ができます"</string>
+    <string name="tutorial_04_01">"これまでの投稿を
+日記にまとめよう！"</string>
+    <string name="tutorial_04_02">"１日のチェックイン・聖地なうを
+日記としてまとめることが
+できます"</string>
+    <string name="tutorial_04_04">"QRコードを見つけて
+舞台めぐりで読み込もう！"</string>
+    <string name="tutorial_05_01">"タイトルやコメントをつけて
+あなただけのオリジナル日記を
+残そう！"</string>
+    <string name="tutorial_05_02">"撮影した写真に
+ハッシュタグをつけて
+SNSでもつながろう！"</string>
+    <string name="tutorial_06_01">"日記にまとめたい
+チェックインや聖地なうを
+選ぼう"</string>
+    <string name="tutorial_07_01">"いつでも
+身近な聖地をシェアしよう"</string>
+    <string name="tutorial_07_02">"大好きなキャラと一緒に
+思い出を残そう"</string>
+    <string name="tutorial_08_01">"コメントをつけて
+あなただけの思い出を
+残そう"</string>
+    <string name="tutorial_08_02">"撮影した写真に
+ハッシュタグをつけて
+SNSでもつながろう！"</string>
+    <string name="voice_dialog_error">ボイス情報を取得できませんでした</string>
+    <string name="voice_dialog_waiting">ボイス情報を取得しています</string>
+</resources>

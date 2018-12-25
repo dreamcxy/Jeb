@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ALLNOTES_TEXT_ALL_NOTES">All Note Cards</string>
+    <string name="ALLNOTES_TEXT_VIEW_ALL_NOTES">View All Notes</string>
+    <string name="AUTH_LOGOUT_ALERT_ERROR_TEXT_LOGIN_FAILED_AUTHTOKEN_EXCEED">Wow! Looks like you are a true Zoholic. You have exceeded the number of mobile app sessions you can have. Please visit https://accounts.zoho.com, delete your unwanted sessions and login again.</string>
+    <string name="AUTH_LOGOUT_ALERT_ERROR_TEXT_LOGIN_FAILED_INVALID_SCOPE">Something went wrong on our side. Sorry about that. Please contact Zoho support.</string>
+    <string name="AUTH_LOGOUT_ALERT_ERROR_TEXT_LOGIN_FAILED_SERVER_ERROR">Something went wrong on our side. Sorry about that. Please contact Zoho support.</string>
+    <string name="AUTH_LOGOUT_ALERT_ERROR_TEXT_LOGIN_FAILED_SERVICE_CONFIG">Something went wrong on our side. Sorry about that. Please try again.</string>
+    <string name="COLORPICKER_ALERT_MESSAGE_TURNOFF_RANDOM_COLOR">To chose a default note card color, please turn off</string>
+    <string name="COLORPICKER_TEXT_CHOOSE_COLOR">Choose Color</string>
+    <string name="COLORPICKER_TEXT_RANDOM_COLOR">Random Note Card Color</string>
+    <string name="COM.FILECARD_PHOTO">Photo</string>
+    <string name="COM.NOTEBOOK.FILECARD_FILE">File</string>
+    <string name="COM.NOTEBOOK.IMAGE_GROUPING_OPTION">Image Grouping</string>
+    <string name="COM.NOTEBOOK.LONGPRESS_TO_REARRANGE">Long-press the icons to rearrange them</string>
+    <string name="COM.NOTEBOOK.SETTINGS.IMAGE_GROUPING_INDIVIDUAL_NOTECARDS">Add each image as a separate photo card</string>
+    <string name="COM.NOTEBOOK.SETTINGS.IMAGE_GROUPING_SINGLE_NOTE">Add all images to same photo card</string>
+    <string name="COM_AUTO_LOCK_INTERVAL_EXPLANATION">Please select an amount of time before Notebook automatically locks your notes or notebooks</string>
+    <string name="COM_FEEDBACK_EMAIL_ID">Email ID</string>
+    <string name="COM_GETTING_STARTED_GUIDE_PINCHING_CARDS">You can group your Note Cards by pinching them together</string>
+    <string name="COM_NOTEBOK_USAGE_STATS">Send Usage Reports</string>
+    <string name="COM_NOTEBOOK_ACCOUNT_TEXT_NOT_NOW">Not Now, Create account Later</string>
+    <string name="COM_NOTEBOOK_ACCOUNT_TEXT_SIGN_IN_WITH_GOOGLE">Sign In with Google</string>
+    <string name="COM_NOTEBOOK_ACCOUNT_TEXT_SIGN_IN_WITH_ZOHO">Sign In with Zoho Account</string>
+    <string name="COM_NOTEBOOK_CANCEL">Cancel</string>
+    <string name="COM_NOTEBOOK_CHOOSE_DEFAULT_COVER">Choose Default Cover</string>
+    <string name="COM_NOTEBOOK_COLOR">Color</string>
+    <string name="COM_NOTEBOOK_COPIED_CLIPBOARD">Copied to clipboard</string>
+    <string name="COM_NOTEBOOK_COPY">Copy</string>
+    <string name="COM_NOTEBOOK_COVERFLOW_CHOOSE_COVER_AND_TITLE">Choose the cover and title for your first Notebook</string>
+    <string name="COM_NOTEBOOK_CREATED_ON">Created on</string>
+    <string name="COM_NOTEBOOK_CREATE_FREE_ZOHO_ACCOUNT">Create free Zoho Account</string>
+    <string name="COM_NOTEBOOK_DEFAULT_NOTE_COLOR">Default Note Color</string>
+    <string name="COM_NOTEBOOK_DELETE">Delete</string>
+    <string name="COM_NOTEBOOK_DEREGISTER">Deregister</string>
+    <string name="COM_NOTEBOOK_DEREGISTER_ALERT_MESSAGE">Are you sure you want to deregister the selected devices? All unsynced data in the selected devices will be erased.</string>
+    <string name="COM_NOTEBOOK_DEREGISTER_DEVICES">Deregister Devices</string>
+    <string name="COM_NOTEBOOK_DEVICE_LIMIT_EXCEEDED_MESSAGE">"Wow, you have Zoho Notebook on a lot of devices. We're flattered, but unfortunately we can't handle so many. Please deregister one of your devices to access Notebook on this one."</string>
+    <string name="COM_NOTEBOOK_DEVICE_LIMIT_EXCEEDED_TITLE">Device Limit Exceeded</string>
+    <string name="COM_NOTEBOOK_DISMISS">DISMISS</string>
+    <string name="COM_NOTEBOOK_DONE">Done</string>
+    <string name="COM_NOTEBOOK_DRAW_OVER_PERMISSION_MESSAGE">Enable draw over permission to display audio recorder</string>
+    <string name="COM_NOTEBOOK_EDITOR_FONT">Editor Font</string>
+    <string name="COM_NOTEBOOK_EMPTY_TRASH">Empty Trash</string>
+    <string name="COM_NOTEBOOK_FEEDBACK">Feedback</string>
+    <string name="COM_NOTEBOOK_FIRST_TIME_SHOW_TIP_PINCH_OUT">Double tap or pinch outward to view your grouped notes.</string>
+    <string name="COM_NOTEBOOK_GETTING_STARTED">Getting Started Guide</string>
+    <string name="COM_NOTEBOOK_HELP_FEEDBACK">Help &amp; Feedback</string>
+    <string name="COM_NOTEBOOK_LEARN_MIGRATION">To learn more about migrating, please visit</string>
+    <string name="COM_NOTEBOOK_LIBRARIES">Libraries</string>
+    <string name="COM_NOTEBOOK_LOGIN">Login</string>
+    <string name="COM_NOTEBOOK_LOGOUT">Logout</string>
+    <string name="COM_NOTEBOOK_MAIL_FRIENDS">Email your friends about Notebook</string>
+    <string name="COM_NOTEBOOK_MIGRATE_OLD_NOTEBOOK">Migrate Old Notebook Data</string>
+    <string name="COM_NOTEBOOK_MODIFIED_ON">Modified on</string>
+    <string name="COM_NOTEBOOK_MOVE">Move</string>
+    <string name="COM_NOTEBOOK_MY_NOTEBOOK">My Notebook</string>
+    <string name="COM_NOTEBOOK_NOTEBOOK">Notebook</string>
+    <string name="COM_NOTEBOOK_NOTEBOOKS">Notebooks</string>
+    <string name="COM_NOTEBOOK_NO_DATA_FOUND">No Data Found</string>
+    <string name="COM_NOTEBOOK_NO_NOTEBOOK_ALERT">There are no notes in this notebook</string>
+    <string name="COM_NOTEBOOK_OK">OK</string>
+    <string name="COM_NOTEBOOK_PASSCODE_LOCK_ERROR_MESSAGE_SAME_PASSCODE">Please create a different passcode. You cannot reuse the same passcode.</string>
+    <string name="COM_NOTEBOOK_PASSCODE_LOCK_ERROR_MESSAGE_TRY_AGAIN_SINGULAR">"You've entered the wrong passcode 5 times. Please wait 1 minute before trying again."</string>
+    <string name="COM_NOTEBOOK_PASSCODE_LOCK_PASSCODE_OPTIONS_TITLE_4_NUMERIC">4-Digit Numeric Code</string>
+    <string name="COM_NOTEBOOK_PASSCODE_LOCK_PASSCODE_OPTIONS_TITLE_6_NUMERIC">6-Digit Numeric Code</string>
+    <string name="COM_NOTEBOOK_PASSCODE_LOCK_PASSCODE_OPTIONS_TITLE_CUSTOM_ALPHANUMERIC">Custom Alphanumeric Code</string>
+    <string name="COM_NOTEBOOK_PASSCODE_LOCK_PASSCODE_RESET_SUCCESS_MESSAGE">"We’ll send an email with instructions on how to reset your password to your primary email address. If you don't receive this email within an hour or two, check your junk or spam folder"</string>
+    <string name="COM_NOTEBOOK_PASSCODE_LOCK_SETTINGS_TITLE_Android">Passcode &amp; Fingerprint</string>
+    <string name="COM_NOTEBOOK_PASSCODE_LOCK_SETTINGS_TITLE_ENABLE_PASSCODE_LOCK">Turn Passcode On</string>
+    <string name="COM_NOTEBOOK_PASSCODE_LOCK_TITLE_ENTER_NEW_PASSCODE">Enter your new passcode</string>
+    <string name="COM_NOTEBOOK_PASSCODE_LOCK_TITLE_ENTER_PASSCODE_HINT">Create a passcode hint</string>
+    <string name="COM_NOTEBOOK_PASSCODE_LOCK_TITLE_LOCK">Lock</string>
+    <string name="COM_NOTEBOOK_PASSCODE_LOCK_TITLE_PASSCODE_RESET">Need Help?</string>
+    <string name="COM_NOTEBOOK_PASSCODE_LOCK_TITLE_RE_ENTER_PASSCODE">Re-enter your new passcode</string>
+    <string name="COM_NOTEBOOK_PASSCODE_LOCK_TITLE_SET_PASSCODE">Set passcode</string>
+    <string name="COM_NOTEBOOK_PASSCODE_LOCK_TITLE_UNLOCK">Unlock</string>
+    <string name="COM_NOTEBOOK_PASSCODE_LOCK_TITLE_UNLOCK_BY_FINGERPRINT">Use your fingerprint to unlock</string>
+    <string name="COM_NOTEBOOK_PRIVACY_POLICY">Privacy Policy</string>
+    <string name="COM_NOTEBOOK_PUT_BACK">Recover</string>
+    <string name="COM_NOTEBOOK_REFER_A_FRIEND">Refer Your Friends</string>
+    <string name="COM_NOTEBOOK_REFFERAL_CODE">"Here's your unique referral code."</string>
+    <string name="COM_NOTEBOOK_REFFERAL_MSG">"We appreciate it when you tell your friends about us. We want to do more than just say thank you. When your friends sign up using your referral code, you'll automatically earn free gifts."</string>
+    <string name="COM_NOTEBOOK_RESET_PASSCODE">Reset Passcode</string>
+    <string name="COM_NOTEBOOK_RICHTEXTEDITOR_URL_REQ">URL (required)</string>
+    <string name="COM_NOTEBOOK_SEARCH">Search</string>
+    <string name="COM_NOTEBOOK_SELECT">Select</string>
+    <string name="COM_NOTEBOOK_SEND_CRASH_REPORTS">Send Crash Reports</string>
+    <string name="COM_NOTEBOOK_SETTINGS">Settings</string>
+    <string name="COM_NOTEBOOK_SHARE_REFERAL_CODE">Earn your free gifts faster. Share your referral code on</string>
+    <string name="COM_NOTEBOOK_SIGNIN">Sign In</string>
+    <string name="COM_NOTEBOOK_SIGNOUT">Sign Out</string>
+    <string name="COM_NOTEBOOK_SIGNUP">Sign Up</string>
+    <string name="COM_NOTEBOOK_SYNC_TITLE_SYNC_NOW">Sync Now</string>
+    <string name="COM_NOTEBOOK_TERMS">Terms of Service</string>
+    <string name="COM_NOTEBOOK_TIPS">Tips</string>
+    <string name="COM_NOTEBOOK_TIP_EXPAND_GROUP">Expand the Group</string>
+    <string name="COM_NOTEBOOK_TIP_FLICK_CARDS">Flick the cards</string>
+    <string name="COM_NOTEBOOK_TIP_FLICK_CARDS_MSG">In grouped cards, you can flick through them.</string>
+    <string name="COM_NOTEBOOK_TIP_GROUPING_NOTES">Grouping Notes</string>
+    <string name="COM_NOTEBOOK_TIP_GROUP_NOTES_MSG">Pinch in two cards to group them</string>
+    <string name="COM_NOTEBOOK_TIP_MULTI_SELECT_NOTES">Multi-Select Notes</string>
+    <string name="COM_NOTEBOOK_TIP_MULTI_SELECT_NOTES_MESSAGE">Long Press to select multiple notes.</string>
+    <string name="COM_NOTEBOOK_TIP_SWIPE_LEFT">Notebook Options</string>
+    <string name="COM_NOTEBOOK_TIP_SWIPE_LEFT_MESSAGE">Swipe your notebook covers to the left to edit titles, change covers, and delete notebooks.</string>
+    <string name="COM_NOTEBOOK_TIP_TITLE">TIP</string>
+    <string name="COM_NOTEBOOK_TODAYEXTENSION_CAMERA">Camera</string>
+    <string name="COM_NOTEBOOK_TRASH_ERASE_ALERT">Are you sure you want to permanently erase the items in Trash?</string>
+    <string name="COM_NOTEBOOK_UNGROUP">Ungroup</string>
+    <string name="COM_NOTEBOOK_UNTITLED">Untitled</string>
+    <string name="COM_NOTEBOOK_USERNAME">Username</string>
+    <string name="COM_NOTEBOOK_ZOHO_CREATE_ACCOUNT_VIEW_MESSAGE">Signing up for a Zoho account keeps your notes in sync across all of your devices. Every change you make on one device will automatically be reflected on your other ones. If you use a single device, your notes will be securely backed up to the cloud.</string>
+    <string name="COM_NOTEBOOK_ZOHO_CREATE_ACCOUNT_VIEW_SYNC_MESSAGE">Sync your notes across all of your devices</string>
+    <string name="COM_NOTEBOOK_ZOHO_NOTEBOOK_MIGRATION">Zoho Notebook migration</string>
+    <string name="COM_ONBOARDING_AUDIOCARD">Audio Card</string>
+    <string name="COM_ONBOARDING_CHECKLISTCARD">Checklist Card</string>
+    <string name="COM_ONBOARDING_CHECKLIST_ITEM1">Snow Crash</string>
+    <string name="COM_ONBOARDING_CHECKLIST_ITEM2">Neuromancer</string>
+    <string name="COM_ONBOARDING_CHECKLIST_ITEM3">Ready Player One</string>
+    <string name="COM_ONBOARDING_CHECKLIST_ITEM4">Metaphysics of VR</string>
+    <string name="COM_ONBOARDING_CHOOSE_COVERS">Choose from one of our handcrafted covers</string>
+    <string name="COM_ONBOARDING_DOUBLE_TAP">You can also double tap a stack of Note Cards to hide and show them</string>
+    <string name="COM_ONBOARDING_FILECARD">File Card</string>
+    <string name="COM_ONBOARDING_FLICK_CARDS">"Once they're grouped, you can flick through them"</string>
+    <string name="COM_ONBOARDING_FOUR_CARDS">There are six different types of Note Cards</string>
+    <string name="COM_ONBOARDING_GET_STARTED">Get Started</string>
+    <string name="COM_ONBOARDING_GET_STARTED_WELCOME_TO">Welcome to</string>
+    <string name="COM_ONBOARDING_IMAGECARD">Photo Card</string>
+    <string name="COM_ONBOARDING_LANDSCAPE_PINCH">In Landscape View, you can pinch to group and ungroup your Note Cards</string>
+    <string name="COM_ONBOARDING_NOTE_CARD">In Notebook, notes are called Note Cards</string>
+    <string name="COM_ONBOARDING_SKETCHCARD">Sketch Card</string>
+    <string name="COM_ONBOARDING_SKIP">Skip</string>
+    <string name="COM_ONBOARDING_STORE_IN_NOTEBOOK">Store your notes in notebooks</string>
+    <string name="COM_ONBOARDING_SWIPE_FOR_COVERS">Swipe to see more covers</string>
+    <string name="COM_ONBOARDING_TEXTCARD">Text Card</string>
+    <string name="COM_ONBOARDING_TEXTNOTE_CONTENT">Jot down the name of that book you keep forgetting. Or start outlining a new, unforgettable story.</string>
+    <string name="COM_ONBOARDING_WELCOME_TO_NOTEBOOK">Welcome to Notebook</string>
+    <string name="COM_REFERRAL_CLICK_HERE_TO_KNOW_MORE">Click here to know more.</string>
+    <string name="CONSTANTS_ABOUT">About</string>
+    <string name="CONSTANTS_GENERAL">General</string>
+    <string name="CONSTANTS_SUPPORT">Support</string>
+    <string name="CONSTANTS_SYNC">Sync</string>
+    <string name="CONSTANTS_TRASH">Trash</string>
+    <string name="COPY_TEXT_MOVE_FROM_TO">"Copy from '%1$s' to"</string>
+    <string name="COPY_TEXT_MOVE_FROM_TO_EXP">"Copy this notecard from '%1$s' to other notebook."</string>
+    <string name="DRAW_OVER_PERMISSION_DENIED">"Notebook doesn't have permission to draw over views. You can enable it in Settings. To know more, contact support."</string>
+    <string name="F1_yK_EEH_text">To access your notes, please migrate your data to the new Notebook.</string>
+    <string name="GENERAL_TEXT_CALL">Call</string>
+    <string name="GENERAL_TEXT_COMPLETED">Completed</string>
+    <string name="GENERAL_TEXT_COPY_NOTE">Copy to another notebook</string>
+    <string name="GENERAL_TEXT_DEFAULT_NOTEBOOK">Default Notebook</string>
+    <string name="GENERAL_TEXT_DELETE_IMAGE">Delete Image</string>
+    <string name="GENERAL_TEXT_DOWNLOAD">Download</string>
+    <string name="GENERAL_TEXT_DOWNLOADING">Downloading..</string>
+    <string name="GENERAL_TEXT_EDIT">Edit</string>
+    <string name="GENERAL_TEXT_INFO">Info</string>
+    <string name="GENERAL_TEXT_LOADING">Loading..</string>
+    <string name="GENERAL_TEXT_MAKE_CALL">Make a Call</string>
+    <string name="GENERAL_TEXT_MOVE_NOTE">Move to another notebook</string>
+    <string name="GENERAL_TEXT_NO">No</string>
+    <string name="GENERAL_TEXT_NOTE">Note</string>
+    <string name="GENERAL_TEXT_NOTEBOOKS">Notebooks</string>
+    <string name="GENERAL_TEXT_NOTES">Notes</string>
+    <string name="GENERAL_TEXT_NOTE_GROUP">Note Group</string>
+    <string name="GENERAL_TEXT_NOTE_GROUPS">Note Groups</string>
+    <string name="GENERAL_TEXT_NO_LOCATION_ADDED">No Location Added</string>
+    <string name="GENERAL_TEXT_NO_NOTEBOOKS_FOUND">No Notebooks Found</string>
+    <string name="GENERAL_TEXT_NO_NOTES_FOUND">No Note Cards Found</string>
+    <string name="GENERAL_TEXT_NO_RESULTS_FOUND">No results for</string>
+    <string name="GENERAL_TEXT_OPEN">Open</string>
+    <string name="GENERAL_TEXT_RANDOM">Random</string>
+    <string name="GENERAL_TEXT_RECENTLY_USED">Recently Used</string>
+    <string name="GENERAL_TEXT_RESET">Reset</string>
+    <string name="GENERAL_TEXT_SAVED_TO_NOTEBOOK">Saved to %1$s notebook</string>
+    <string name="GENERAL_TEXT_SEND">Send</string>
+    <string name="GENERAL_TEXT_SHOW">SHOW</string>
+    <string name="GENERAL_TEXT_TITLE">Title</string>
+    <string name="GENERAL_TEXT_VERSIONS">Versions</string>
+    <string name="GENERAL_TEXT_VERSION_NUMBER">Version %1$s</string>
+    <string name="GENERAL_TEXT_VERSION_NUMBER1">Version</string>
+    <string name="GENERAL_TEXT_YES">Yes</string>
+    <string name="GENERAL_TEXT_ZOHO_NOTEBOOK">Zoho Notebook</string>
+    <string name="GROUP_ALERT_TITLE_DELETE">Delete Group</string>
+    <string name="GROUP_TEXT_ADD_NOTE_TO_GROUP">Add a note card to this group.</string>
+    <string name="HkV_sZ_1pw_text">Initializing Notebook…</string>
+    <string name="Identifying">Looking for document edges</string>
+    <string name="MOVE_TEXT_MOVE_FROM_TO">"Move from '%1$s' to"</string>
+    <string name="MOVE_TEXT_MOVE_FROM_TO_EXP">"Move this note card from '%1$s' to another notebook."</string>
+    <string name="NOTEBOOK_TEXT_ADD_NOTECARD">Add Note</string>
+    <string name="NOTEBOOK_TEXT_NOTEBOOK_DELETED">Notebook Deleted</string>
+    <string name="NOTEBOOK_TEXT_NOTEBOOK_DELETED_MESSAGE">Sorry! This Notebook has been deleted</string>
+    <string name="NOTE_DATE_DAYS_AGO">%1$s days ago</string>
+    <string name="NOTE_DATE_MONTHS_AGO">%1$s months ago</string>
+    <string name="NOTE_DATE_MONTH_AGO">%1$s month ago</string>
+    <string name="NOTE_DATE_WEEKS_AGO">%1$s weeks ago</string>
+    <string name="NOTE_DATE_WEEK_AGO">%1$s week ago</string>
+    <string name="NOTE_DATE_YEARS_AGO">%1$s years ago</string>
+    <string name="NOTE_DATE_YEAR_AGO">%1$s year ago</string>
+    <string name="NOTE_DATE_YESTERDAY">Yesterday</string>
+    <string name="NOTE_SETTINGS">Note Settings</string>
+    <string name="NOTE_TEXT_GROUP_NOTES">Group Notes</string>
+    <string name="Not_able_to_reorder_here">You can only organize notes within notebooks.</string>
+    <string name="SETTINGS_TEXT_ADDITINAL_INFO">Additional Info</string>
+    <string name="SETTINGS_TEXT_APP_INFO">App info</string>
+    <string name="SETTINGS_TEXT_DEVICE_INFO">Device Info</string>
+    <string name="SIGN_IN_ONE_TIME_PROCESS">"Hang on a sec. We're making everything nice and pretty for you."</string>
+    <string name="SYNC_ALERT_INFO_PENDING_SYNC_LOGOUT_CONFIRMATION">It seems you have unsynced data. Do you want to sync them before logging out</string>
+    <string name="SYNC_PENDING_ITEMS">Sync pending for few items.</string>
+    <string name="SYNC_TEXT_LAST_SYNCED_AT_VAR">Last Synced at %1$s</string>
+    <string name="SYNC_TEXT_SYNCING">Syncing...</string>
+    <string name="UXq_ay_Irh_normalTitle">Remind me later</string>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="account_not_active">Account is not active!</string>
+    <string name="account_not_active_notebook">Account not active</string>
+    <string name="account_not_confirmed">You have not confirmed your account yet! Confirm your account from the email sent from Zoho or signin into https://accounts.zoho.com to resend your confirmation email.</string>
+    <string name="action_add_notebook">New</string>
+    <string name="action_clear">Clear</string>
+    <string name="action_decrypt">Decrypt note</string>
+    <string name="action_encrypt">Encrypt note</string>
+    <string name="action_fof_notebook">Something Went Wrong! Please try again</string>
+    <string name="action_open_with_sketch">Open with sketch</string>
+    <string name="action_redo_notebook">Redo</string>
+    <string name="action_rotate_notebook">Rotate</string>
+    <string name="action_save_image">Save image to device</string>
+    <string name="action_shortcut_notebook">Add shortcut</string>
+    <string name="add_item">Add item</string>
+    <string name="add_note_description_hint">Description</string>
+    <string name="add_to_gallery">Add to Gallery</string>
+    <string name="add_to_notebook">Add to Notebook</string>
+    <string name="android_os_name">Android</string>
+    <string name="apache2_0_capt">"Apache License
+
+Version 2.0, January 2004
+
+http://www.apache.org/licenses/
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+
+\"License\" shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through 9 of this document.
+
+\"Licensor\" shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.
+
+\"Legal Entity\" shall mean the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity. For the purposes of this definition, \"control\" means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.
+
+\"You\" (or \"Your\") shall mean an individual or Legal Entity exercising permissions granted by this License.
+
+\"Source\" form shall mean the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files.
+
+\"Object\" form shall mean any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types.
+
+\"Work\" shall mean the work of authorship, whether in Source or Object form, made available under the License, as indicated by a copyright notice that is included in or attached to the work (an example is provided in the Appendix below).
+
+\"Derivative Works\" shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. For the purposes of this License, Derivative Works shall not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the Work and Derivative Works thereof.
+
+\"Contribution\" shall mean any work of authorship, including the original version of the Work and any modifications or additions to that Work or Derivative Works thereof, that is intentionally submitted to Licensor for inclusion in the Work by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner. For the purposes of this definition, \"submitted\" means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Work, but excluding communication that is conspicuously marked or otherwise designated in writing by the copyright owner as \"Not a Contribution.\"
+
+\"Contributor\" shall mean Licensor and any individual or Legal Entity on behalf of whom a Contribution has been received by Licensor and subsequently incorporated within the Work.
+
+2. Grant of Copyright License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form.
+
+3. Grant of Patent License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Work, where such license applies only to those patent claims licensable by such Contributor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Work to which such Contribution(s) was submitted. If You institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Work or a Contribution incorporated within the Work constitutes direct or contributory patent infringement, then any patent licenses granted to You under this License for that Work shall terminate as of the date such litigation is filed.
+
+4. Redistribution. You may reproduce and distribute copies of the Work or Derivative Works thereof in any medium, with or without modifications, and in Source or Object form, provided that You meet the following conditions:
+
+You must give any other recipients of the Work or Derivative Works a copy of this License; and
+You must cause any modified files to carry prominent notices stating that You changed the files; and
+You must retain, in the Source form of any Derivative Works that You distribute, all copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+If the Work includes a \"NOTICE\" text file as part of its distribution, then any Derivative Works that You distribute must include a readable copy of the attribution notices contained within such NOTICE file, excluding those notices that do not pertain to any part of the Derivative Works, in at least one of the following places: within a NOTICE text file distributed as part of the Derivative Works; within the Source form or documentation, if provided along with the Derivative Works; or, within a display generated by the Derivative Works, if and wherever such third-party notices normally appear. The contents of the NOTICE file are for informational purposes only and do not modify the License. You may add Your own attribution notices within Derivative Works that You distribute, alongside or as an addendum to the NOTICE text from the Work, provided that such additional attribution notices cannot be construed as modifying the License. 
+
+You may add Your own copyright statement to Your modifications and may provide additional or different license terms and conditions for use, reproduction, or distribution of Your modifications, or for any such Derivative Works as a whole, provided Your use, reproduction, and distribution of the Work otherwise complies with the conditions stated in this License.
+5. Submission of Contributions. Unless You explicitly state otherwise, any Contribution intentionally submitted for inclusion in the Work by You to the Licensor shall be under the terms and conditions of this License, without any additional terms or conditions. Notwithstanding the above, nothing herein shall supersede or modify the terms of any separate license agreement you may have executed with Licensor regarding such Contributions.
+
+6. Trademarks. This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use in describing the origin of the Work and reproducing the content of the NOTICE file.
+
+7. Disclaimer of Warranty. Unless required by applicable law or agreed to in writing, Licensor provides the Work (and each Contributor provides its Contributions) on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using or redistributing the Work and assume any risks associated with Your exercise of permissions under this License.
+
+8. Limitation of Liability. In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Work (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if such Contributor has been advised of the possibility of such damages.
+
+9. Accepting Warranty or Additional Liability. While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability.
+
+END OF TERMS AND CONDITIONS"</string>
+    <string name="app_lock_caption">Enable App Lock</string>
+    <string name="app_lock_warning">"You are about to create a password for a guest account. Since we don't know your email we will not be able to help you if you forget your passcode. Are you sure you want to continue?"</string>
+    <string name="app_name">Tooltip</string>
+    <string name="app_not_found">No Applications found to open this.</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="are_you_sure_want">Are you sure you want to</string>
+    <string name="attachment_size_exceeded">Attachment size exceeded</string>
+    <string name="audio_broken_notebook">Audio</string>
+    <string name="audio_download_notebook">Download Audio</string>
+    <string name="audio_download_pending_notebook">Download Pending</string>
+    <string name="audio_downloading_notebook">Downloading Audio</string>
+    <string name="audio_max_duration_reached_notebook">"Sorry, but audio recordings can only 30 minutes long. We've stopped recording."</string>
+    <string name="audio_note">Audio Note</string>
+    <string name="audio_note_created_notebook">Audio Note Created</string>
+    <string name="audio_pause_notebook">Audio Recording Paused</string>
+    <string name="audio_play_notebook">Audio Playing…</string>
+    <string name="audio_record_failed_notebook">Audio Recording Failed</string>
+    <string name="audio_record_notebook">Audio Recording…</string>
+    <string name="audio_saved_notebook">Audio Saved</string>
+    <string name="audiohead_enable_dialog">Do you wish to enable audio head?</string>
+    <string name="authentication_failed">Authentication failed.</string>
+    <string name="beta_program_caption">Beta Program</string>
+    <string name="book_cover_change">bookCoverChange</string>
+    <string name="bookmark_create_tip"><b>Tap here to create Smart Card</b></string>
+    <string name="bookmark_note">Link Note</string>
+    <string name="bookmark_note_created_notebook">Link Card Created</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="bsd_capt">"Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+Neither the name of the ez-vCard nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."</string>
+    <string name="c_id">1002.9C86RZ7EJWAT06015T94LAVOMY6JDI</string>
+    <string name="camera_focusing">"Hang on just a sec. We're waiting for your camera to focus."</string>
+    <string name="camera_picture_failed">Sorry, but something went wrong. Please try again.</string>
+    <string name="camera_storage">To use this feature, you need to allow Notebook to access your Camera and Storage. You can update this permission in settings.</string>
+    <string name="camera_storage_permission_rationale_notebook">Needs camera and storage permissions to add images to Notebook.</string>
+    <string name="cannot_connect_to_camera">"Sorry, but we're having trouble connecting with your camera."</string>
+    <string name="cannot_record_audio_msg">Please end the current recording to continue</string>
+    <string name="capture">Captured</string>
+    <string name="cellular_data_media_download_caption">Media Download On Cellular Data</string>
+    <string name="cellular_data_media_files">Files</string>
+    <string name="cellular_data_media_photos">Photos</string>
+    <string name="change_passphrase">Change Password</string>
+    <string name="character_caption"> Character(s)</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="check_for_updates">Check For Updates</string>
+    <string name="check_note">Check Note</string>
+    <string name="check_note_created">Check list Note Created</string>
+    <string name="checked">CHECKED ITEMS</string>
+    <string name="checking_for_updates_caption">Checking for Updates…</string>
+    <string name="choose_notebook">Choose Notebook</string>
+    <string name="choose_valid_import_file_notebook">Choose a valid import file</string>
+    <string name="clear_external_memory_to_continue">"Sorry, but we can't create any more note cards until there's more space on your device."</string>
+    <string name="clip_data">Clip Data</string>
+    <string name="closer">Move closer</string>
+    <string name="com.crashlytics.android.build_id">6527f503-be64-4a73-8bb6-7b9643ddffdc</string>
+    <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
+    <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_like_button_liked">Liked</string>
+    <string name="com_facebook_like_button_not_liked">Like</string>
+    <string name="com_facebook_loading">Loading…</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_loginview_log_in_button">Log in</string>
+    <string name="com_facebook_loginview_log_in_button_continue">Continue with Facebook</string>
+    <string name="com_facebook_loginview_log_in_button_long">Log in with Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="com_facebook_send_button_text">Send</string>
+    <string name="com_facebook_share_button_text">Share</string>
+    <string name="com_facebook_smart_device_instructions">To connect your account, open the Facebook app on your mobile device and check for notifications.</string>
+    <string name="com_facebook_smart_device_instructions_or">- OR -</string>
+    <string name="com_facebook_smart_login_confirmation_cancel">Not you?</string>
+    <string name="com_facebook_smart_login_confirmation_continue_as">Continue as %1$s</string>
+    <string name="com_facebook_smart_login_confirmation_title">Confirm Login</string>
+    <string name="com_facebook_tooltip_default">"You're in control - choose what info you want to share with apps."</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play services availability</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="confirm_email_to_sync">Confirm Email to sync notes</string>
+    <string name="confirm_your_pin">Confirm Your Password</string>
+    <string name="contact_support">Contact Support</string>
+    <string name="continue_string">Continue</string>
+    <string name="convert_as_bookmark">Create a Link card</string>
+    <string name="covers">Covers</string>
+    <string name="create">Create</string>
+    <string name="create_as">Create As</string>
+    <string name="create_notebook">Create Notebook</string>
+    <string name="crop">Crop</string>
+    <string name="custom">Custom (Notes will stay in the order your place them)</string>
+    <string name="custom_title">Notebook</string>
+    <string name="cyanogenmod_os_name">CyanogenMod</string>
+    <string name="date_created_newest_first">Created Date (Newest First)</string>
+    <string name="date_created_oldest_first">Created Date (Oldest First)</string>
+    <string name="date_modified_newest_first">Updated Date (Newest First)</string>
+    <string name="date_modified_oldest_first">Updated Date (Oldest First)</string>
+    <string name="decryption_error_notebook">Decryption Error</string>
+    <string name="def_time">00:00</string>
+    <string name="default_editor_font">ProximaNova</string>
+    <string name="default_nb_multiselect">"You can't delete \" %1$s \".Its a default notebook. Deselect this notebook and perform delete."</string>
+    <string name="default_notebook_delete_msg">"Pssst! You can't delete your default notebook."</string>
+    <string name="default_web_client_id">850210050075-7ff96o3mvhbip3cl6r29jg6d619pn16t.apps.googleusercontent.com</string>
+    <string name="delete_message">Are you sure want to delete?</string>
+    <string name="deselect_all_notebook">Deselect All</string>
+    <string name="detail_view_file_deleted_text">  was deleted in Zoho Docs</string>
+    <string name="device_invalidated_notebook">Device Invalidated</string>
+    <string name="disable_feature">Disable feature</string>
+    <string name="docscanner_caption">Looking for document edges</string>
+    <string name="document">Document</string>
+    <string name="dont_ask_again">"Don't ask again"</string>
+    <string name="dont_have_account">"Don't have a Zoho account?"</string>
+    <string name="dont_move">"Don't Move"</string>
+    <string name="dont_show_again">"Don't show again"</string>
+    <string name="dot">.</string>
+    <string name="drawer_mail">mail@zoho.com</string>
+    <string name="duplicate_note">Duplicate Note</string>
+    <string name="edit_group_title">Edit Group Title</string>
+    <string name="editor_alignment_alert_notebook">"Oops! Can't change alignment here."</string>
+    <string name="editor_character_limit_alert_for_paste_notebook">"Sorry, but we can't handle more than 10,000 characters."</string>
+    <string name="editor_character_limit_alert_notebook">"Sorry, but you can't use more than 10,000 characters."</string>
+    <string name="editor_link_disabled_alert">This feature is unavailable</string>
+    <string name="email_not_verified_title">Email address not verified!</string>
+    <string name="empty_email_error">Please add your email.</string>
+    <string name="enable">ENABLE</string>
+    <string name="enable.logs">true</string>
+    <string name="enable_hyperlink">Linkify phone numbers</string>
+    <string name="enable_smart_parse">Generate Smart Cards</string>
+    <string name="enable_spell_check">Enable Spell Check</string>
+    <string name="encrypted_note_notebook">Encrypted note</string>
+    <string name="encryption_warning">This file cannot be recovered if the password is forgotten.</string>
+    <string name="english_words_caption"> English word(s)</string>
+    <string name="enter_new_pattern">New Pattern</string>
+    <string name="enter_new_pin">New Password</string>
+    <string name="enter_old_pattern">Old Pattern</string>
+    <string name="enter_password_notebook">Enter password:</string>
+    <string name="enter_your_pin">Enter Your Password</string>
+    <string name="enter_your_pin_text">Enter your pin</string>
+    <string name="enter_your_security_ques">Enter Your Security Question</string>
+    <string name="error">Oops!</string>
+    <string name="evernote_migration">Migrate your data from Evernote</string>
+    <string name="evernote_migration_caption">Migrate from Evernote</string>
+    <string name="every_time">Immediately</string>
+    <string name="exit_caption">Exit</string>
+    <string name="exit_confirm_caption_notebook">Press back again to exit Notebook.</string>
+    <string name="export_as_caption">Export as</string>
+    <string name="export_as_pdf">Export as pdf</string>
+    <string name="export_caption">Export</string>
+    <string name="f77_mH_U6Q_text">Remember: You will no longer be able to use the old Notebook after your data is migrated.</string>
+    <string name="facebook_app_authKey">com.facebook.app.FacebookContentProvider1506529409653086</string>
+    <string name="facebook_app_id">1506529409653086</string>
+    <string name="facebook_not_installed">Sorry, but we were unable to find Facebook on your device.</string>
+    <string name="failed_to_send_feedback">Failed to Send Feedback</string>
+    <string name="faq_caption">FAQ</string>
+    <string name="feedback_attach_log">Attach User Log</string>
+    <string name="feedback_attach_name">Include User Name</string>
+    <string name="feedback_attach_screenshot">Attach screenshot</string>
+    <string name="feedback_device_name">Device</string>
+    <string name="feedback_message">Would you also like to give us a quick feedback? This will help us do better.</string>
+    <string name="feedback_no_comment_confirmation">Are you sure you want to send your feedback without commenting?</string>
+    <string name="feedback_platform">Platform</string>
+    <string name="feedback_sent_success">Feedback Sent</string>
+    <string name="feedback_title">Feedback</string>
+    <string name="feedback_your_comment">Your Comment</string>
+    <string name="fetch_in_bg">Fecth in Backgroud</string>
+    <string name="file_broken_notebook">File</string>
+    <string name="file_card_storage_exceeded_msg">"Sorry, but you don't have enough space to add this file. Your file will not be saved or synced. Please contact support for more information."</string>
+    <string name="file_deleted_in_docs">File was deleted in Zoho Docs</string>
+    <string name="file_download_notebook">Download File</string>
+    <string name="file_downloading_notebook">Downloading File</string>
+    <string name="file_missing">Sorry, but this file is still syncing. Please try again shortly.</string>
+    <string name="file_not_download">File was not downloaded</string>
+    <string name="file_not_exist">"Sorry, but something's going wrong. Try adding your file again in a little bit."</string>
+    <string name="file_note">File Note</string>
+    <string name="file_note_created_notebook">File Card Created</string>
+    <string name="file_size_exceed_text">"Sorry, but you can't add a file that's larger than 30 MB."</string>
+    <string name="fingerprint_attempts_failed">Too many failed attempts, you cannot use your finger print for sometime. Please enter your password</string>
+    <string name="fingerprint_not_configured">Register at least one fingerprint in Settings</string>
+    <string name="fingerprint_permission_disabled">Fingerprint authentication permission not enabled</string>
+    <string name="fingerprint_success">Fingerprint recognized</string>
+    <string name="five_minutes">After 5 minutes</string>
+    <string name="font_alegreya">Alegreya-Regular.otf</string>
+    <string name="font_lato">Lato-Regular.ttf</string>
+    <string name="font_libre_baskerville">LibreBaskerville-Regular.ttf</string>
+    <string name="font_montserrat">Montserrat-Regular.ttf</string>
+    <string name="font_notebook_bold_default">ProximaNova-Semibold.otf</string>
+    <string name="font_notebook_bold_italic_default">ProximaNova-Semibold.otf</string>
+    <string name="font_notebook_default">ProximaNova-Regular.otf</string>
+    <string name="font_notebook_editor">ProximaNova-Regular.otf</string>
+    <string name="font_notebook_italic_default">ProximaNova-Regular.otf</string>
+    <string name="font_notebook_medium_default">ProximaNova-Semibold.otf</string>
+    <string name="font_notebook_semibold_default">ProximaNova-Semibold.otf</string>
+    <string name="font_notebook_semibold_italic_default">ProximaNova-Semibold.otf</string>
+    <string name="font_noto">NotoSans-Regular.ttf</string>
+    <string name="font_noto_bold">NotoSans-Bold.ttf</string>
+    <string name="font_noto_serif">NotoSerif-Regular.ttf</string>
+    <string name="font_open_sans">OpenSans-Regular.ttf</string>
+    <string name="font_preview_text">"Whether you’re capturing a thought, creating a checklist, recording an idea, or snapping a moment, note-taking can be fun with Notebook.
+
+We are excited to announce Notebook, a beautifully simple app designed to make note-taking enjoyable. It is available on iOS and Android, optimized for smartphones and tablets.
+
+Notebook introduces the concept of ‘Note Cards’. Note Cards are built-in templates for capturing various types of content inside Notebook. The Text Card lets you capture anything in a note, while a Checklist Card lets you create, well, checklists. There’s also an Audio Card to record voice notes, and a Photo Card to snap moments. All Note Cards feature randomly generated colors that can be customized."</string>
+    <string name="font_pt_sans">PT_Sans-Web-Regular.ttf</string>
+    <string name="font_pt_serif">PTF55F.ttf</string>
+    <string name="font_quattrocento">Quattrocento-Regular.ttf</string>
+    <string name="font_quotes_title">LibreBaskerville-Italic.ttf</string>
+    <string name="font_roboto">Roboto-Regular.ttf</string>
+    <string name="font_roboto_bold">Roboto-Bold.ttf</string>
+    <string name="font_roboto_medium">Roboto-Medium.ttf</string>
+    <string name="font_ruda">Ruda-Regular.ttf</string>
+    <string name="font_san_francisco">SanFranciscoText-Regular.otf</string>
+    <string name="font_ubuntu">Ubuntu-Regular.ttf</string>
+    <string name="force_update_message">Notebook has an update. Please update the app to the latest version</string>
+    <string name="force_update_title">Update App</string>
+    <string name="ga_trackingId">UA-65247049-5</string>
+    <string name="gallery">Gallery</string>
+    <string name="gcm_defaultSenderId">850210050075</string>
+    <string name="gcm_fallback_notification_channel_label">Miscellaneous</string>
+    <string name="google_api_key">AIzaSyBd_LceIYojVqqxx7I_I8RRtKSylPQX8xg</string>
+    <string name="google_app_id">1:850210050075:android:dbb8df3b7a0d1e28</string>
+    <string name="google_crash_reporting_api_key">AIzaSyBd_LceIYojVqqxx7I_I8RRtKSylPQX8xg</string>
+    <string name="google_maps_api_key" />
+    <string name="goto_settings">Go To Settings</string>
+    <string name="grid_view_notebook">Grid view</string>
+    <string name="group_deleted">Group Deleted</string>
+    <string name="group_trashed">Group Trashed</string>
+    <string name="iam_server_url">https://accounts.zoho.com</string>
+    <string name="iambanner">false</string>
+    <string name="image_check_failed">Selected One is not a Image.</string>
+    <string name="image_download_notebook">Download Image</string>
+    <string name="image_downloading_notebook">Downloading Image</string>
+    <string name="image_note">Image Note</string>
+    <string name="image_note_created_notebook">Photo Card Created</string>
+    <string name="image_options">Image Options</string>
+    <string name="image_saved_in_gallery">Image has been saved in gallery.</string>
+    <string name="import_from_file_browser">Browse</string>
+    <string name="info_menu_suggestions">Suggestions</string>
+    <string name="info_move_copy_caption">This note card will be moved/copied to selected notebook</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="interval_caption">Auto-Lock</string>
+    <string name="invalid_email_error">"Sorry, but it seems you've entered in invalid email address."</string>
+    <string name="ios_name">iOS</string>
+    <string name="keep_changes">Keep Changes</string>
+    <string name="last_synced_on">Last Synced on</string>
+    <string name="limit_exceeded_notebook">Limit Exceeded</string>
+    <string name="list_view_notebook">List view</string>
+    <string name="loading_capt">Loading…</string>
+    <string name="loading_image_notebook">Loading Image</string>
+    <string name="location">Enabling location services lets you organize notes based on where you took them. You can update this permission in settings.</string>
+    <string name="lock_now">Lock now</string>
+    <string name="lock_screen_title">Security</string>
+    <string name="log_out_confirmation">Are you sure you want to log out?</string>
+    <string name="login_fullscreen">true</string>
+    <string name="login_to_app_notebook">We love your enthusiasm. Please login to Notebook.</string>
+    <string name="logout_deregister_failed_notebook">Logging Out…Deregistration Failed!</string>
+    <string name="logout_message_notebook">"You've been logged out. Please login again"</string>
+    <string name="logout_prevention">"You have some unsynced data which prevents you from logging out. Please try 'Sync Now' or contact support@zohonotebook.com."</string>
+    <string name="lost_internet">It seems your device has lost its internet connection. Please reconnect.</string>
+    <string name="map_message_notebook">Open location in map application</string>
+    <string name="mark_as_done_caption">Mark as done</string>
+    <string name="media">Media</string>
+    <string name="media_limit_exceeded_on_share">Only fifteen photos will be added to the Note Card.</string>
+    <string name="messenger_send_button_text">Send</string>
+    <string name="mic_permission_rationale_notebook">Needs microphone permission to add audio in Note Card.</string>
+    <string name="microphone">To use this feature, you need to allow Notebook to access your Microphone. You can update this permission in settings.</string>
+    <string name="migrate_old_data">Migrate your old notebook data</string>
+    <string name="migration_started">Migrating…</string>
+    <string name="migration_url_not_found">Migration URL not found.</string>
+    <string name="mit_license_capt">"Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the Software), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."</string>
+    <string name="mixed_file_selection_not_support_text">"Sorry, but Notebook doesn't support some of file format."</string>
+    <string name="multi_select_gallery_limit_exceed">Limit exceed</string>
+    <string name="multiple_image_check_failed">Some files you selected are not Images.</string>
+    <string name="name">Name</string>
+    <string name="native_sign_id">850210050075-7ff96o3mvhbip3cl6r29jg6d619pn16t.apps.googleusercontent.com</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="new_note">New Note Card</string>
+    <string name="new_note_book">New Notebook</string>
+    <string name="next">Next</string>
+    <string name="no_audio_found">No Audio Found to Play</string>
+    <string name="no_data_found_migration">"Sorry, but we didn't find any data to migrate."</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="no_mic_found">No microphone found</string>
+    <string name="no_notes">No Note Cards</string>
+    <string name="no_notes_to_copy_notebook">"Sorry, but there doesn't seem to be another notebook to copy a note to."</string>
+    <string name="no_notes_to_move_notebook">"Sorry, but there doesn't seem to be another notebook to move a note to."</string>
+    <string name="no_reminder_text">No reminders found</string>
+    <string name="no_space_audio_stopped_notebook">"Sorry, but there isn't any more space on your device. Recording has been stopped."</string>
+    <string name="no_space_available_tip_msg">Notebook can only hold up to 5GB worth of attachments. For more information, please contact support</string>
+    <string name="no_space_available_tip_title">File card storage space exceeded</string>
+    <string name="no_space_for_storing_notes_notebook">"Sorry, but it seems there isn't enough space on your device to create a new note."</string>
+    <string name="no_support_migration">"Sorry, but your data isn't compatible for migration."</string>
+    <string name="no_updates_available">No Updates available</string>
+    <string name="nope_string">Nope</string>
+    <string name="not_able_to_add">Sorry, but you can only add 30 note cards to a group.</string>
+    <string name="not_able_to_group">You can only group Note Cards inside a Notebook.</string>
+    <string name="not_able_to_select_all_notes_folder">You cannot select this folder</string>
+    <string name="not_clear">Picture is not clear, Tap to focus</string>
+    <string name="not_now_create_onaccount_later">Not now, create an account later</string>
+    <string name="not_support_file_text">"Sorry, but Notebook doesn't support this file format."</string>
+    <string name="note_card_info_capt">Note info</string>
+    <string name="note_conflict_choose_version_notebook">"We're embarrassed to say this, but it seems there's a version conflict with your note. Sorry about that. Please check version history and pick the correct version of your note card."</string>
+    <string name="note_conflicted_notebook">Note Card Conflicted</string>
+    <string name="note_copied">Note Card Copied</string>
+    <string name="note_cover_capt">NoteBook Covers</string>
+    <string name="note_decrypted_notebook">Note decrypted.</string>
+    <string name="note_duplicated">Note duplicated</string>
+    <string name="note_editor_edit_alert">"This note card contains data that hasn't been synced from your other device. If you edit the content you might lose data from the other device."</string>
+    <string name="note_editor_version_confirm_notebook">Revert</string>
+    <string name="note_encrypted_notebook">Note encrypted.</string>
+    <string name="note_group_copied">Group Copied</string>
+    <string name="note_group_moved">Group Moved</string>
+    <string name="note_modified">Note Cards Modified</string>
+    <string name="note_moved">Note Card Moved</string>
+    <string name="note_too_large_mail_notebook">Sorry, but this note is too big to email.</string>
+    <string name="note_type_version_mismatch">This note format is not supported in the current version. Please update your app to the latest version.</string>
+    <string name="notebook_access_denied_notebook">"This Notebook's owner has logged out."</string>
+    <string name="notebook_id_null">Notebook ID Null</string>
+    <string name="notebook_limit_exceed_notebook">"Wow, you've created a lot of notebooks.Too many for us to keep track of, in fact. Please delete a notebook to create a new one."</string>
+    <string name="notebook_provider">com.zoho.notebook.resourceProvider</string>
+    <string name="notebook_restored_notebook">Notebook Restored.</string>
+    <string name="notebook_trashed_notebook">Notebook Trashed</string>
+    <string name="notecard_limit_exceed">"Wow, you've created a lot of note cards. Too many for us to keep track of, in fact. Please delete a note card to create a new one."</string>
+    <string name="notes_from_other_device_notebook">from other device</string>
+    <string name="notes_move_check_notebook">This note card has been moved to</string>
+    <string name="notes_trash_check_notebook">This note was trashed.</string>
+    <string name="numeric_new_pwd_screen_title">Choose your password</string>
+    <string name="o30_lz_0ha_normalTitle">Start Migration</string>
+    <string name="onboarding_already_have_account">Already have an account?</string>
+    <string name="one_minute">After 1 minute</string>
+    <string name="open_in_browser">Open in Browser</string>
+    <string name="open_source_capt">"Open Source License
+
+This document is part of the ORMLite project.
+
+Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that this permission notice appear in all copies.
+
+THE SOFTWARE IS PROVIDED \"AS IS\" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE."</string>
+    <string name="open_using">Open using</string>
+    <string name="optional_text">(optional)</string>
+    <string name="or_caption">or</string>
+    <string name="or_text">or</string>
+    <string name="pMj_jj_jhv_text">Migrate your old Notebook data to the new Notebook mobile app.</string>
+    <string name="passcode_forgot_caption">Forgot your passcode?</string>
+    <string name="passcode_reset_email_sending">Sending RESET Link…</string>
+    <string name="password_empty_warning">This field cannot be empty.</string>
+    <string name="password_match_error">Passwords do not match</string>
+    <string name="password_reset_success">The Password link is generated and sent to your mail. Please check.</string>
+    <string name="password_rules">Your password must be at least 6 characters.</string>
+    <string name="password_toggle_content_description">Toggle password visibility</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="pause">PAUSE</string>
+    <string name="pdf_license1">"
+APPENDIX: How to apply the Apache License to your work.To apply the Apache License to your work,attach the following
+boilerplate notice, with the fields enclosed by brackets replaced with your own identifying information.The text should be enclosed in the appropriate comment syntax for the file format.We also recommend that a file or class name and description of purpose be included on the same printed page as the copyright notice for easier identification within third-party archives.
+Copyright yyyy name of copyright owner
+Licensed under the Apache License, Version 2.0 
+you may not use this file except in compliance with the License.You may obtain a copy of the License at
+http://www.apache.org/licenses/LICENSE-2.0
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an AS IS BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See he License for the specific language governing permissions and limitations under the License.
+EXTERNAL COMPONENTS
+Apache PDFBox includes a number of components with separate copyright notices and license terms. Your use of these components subject to the terms and conditions of the following licenses.
+Contributions made to the original PDFBox and FontBox projects:
+Copyright (c) 2002-2007, www.pdfbox.org
+All rights reserved."</string>
+    <string name="pdf_license2">"
+Adobe Font Metrics AFM for PDF Core 14 Fonts
+This file and the 14 PostScript AFM files it accompanies may be used,copied, and distributed for any purpose and without charge, with or without modification, provided that all copyright notices are retained; that the AFM files are not distributed without this file that all modifications to this file or any of the AFM files are prominently noted in the modified files and that this paragraph is not modified. Adobe Systems has no responsibility or obligation to support the use of the AFM files. 
+CMaps for PDF Fonts 
+Copyright 1990-2009 Adobe Systems Incorporated.
+All rights reserved."</string>
+    <string name="pdf_license3">"
+PaDaF PDF/A preflight 
+ http://sourceforge.net/projects/padaf
+Copyright 2010 Atos Worldline SAS
+Licensed by Atos Worldline SAS under one or more contributor license agreements. See the NOTICE file distributed with this work for additional information regarding copyright ownership.Atos Worldline SAS licenses this file to You under the Apache License, Version 2.0 you may not use this file except in compliance with the License. You may obtain a copy of the License at
+http://www.apache.org/licenses/LICENSE-2.0
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an AS IS BASIS,WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License."</string>
+    <string name="pdf_undefined_char">Some characters in this note might not be supported in the exported PDF.</string>
+    <string name="permission_mic">"Notebook is about to ask permission to access your device's microphone. This will allow you to create audio notes."</string>
+    <string name="phone_lock_not_enabled">Lock screen security not enabled in Settings</string>
+    <string name="photo_card_black_white">Black &amp; White</string>
+    <string name="photo_card_discard_dialog_title">Discard Changes?</string>
+    <string name="photo_card_gray_scale">Grayscale</string>
+    <string name="photo_card_normal">Original</string>
+    <string name="photocard_discard">Discard</string>
+    <string name="photocard_keep_editing">Keep Editing</string>
+    <string name="photocard_maxlimit">Sorry, you can add 15 images to photocard</string>
+    <string name="photocard_save_alert">Your changes are not saved</string>
+    <string name="please_wait">Please wait</string>
+    <string name="preparation">Preparation</string>
+    <string name="press_back_on_share_note">Press back again to skip saving note</string>
+    <string name="print">Print</string>
+    <string name="privacy_caption">Privacy</string>
+    <string name="proj_id">850210050075</string>
+    <string name="project_id">steam-verve-93913</string>
+    <string name="pwd_hint_text">Password Hint :  </string>
+    <string name="quote_author">author</string>
+    <string name="random_note_text">"To choose a default Note Card color,please turn off this 'Random Note Card Color'."</string>
+    <string name="rate_app_caption">Rate Our App</string>
+    <string name="rate_later">Later</string>
+    <string name="rate_notebook">Rate Notebook</string>
+    <string name="rate_notebook_desc">We would really appreciate if you take time to share your experiences. How is your experience with Notebook app?</string>
+    <string name="rate_now">Rate Now</string>
+    <string name="rateapp_string">Rate App</string>
+    <string name="rateexp_string">How is your experience with Notebook?</string>
+    <string name="rateus_string">Rate Us</string>
+    <string name="rating_newmessage">Thanks for your positive feedback. We would really appreciate if you could also rate us in google play store.</string>
+    <string name="receive_reminder_emails">Receive Reminder Emails</string>
+    <string name="recognize">Recognizing</string>
+    <string name="refer_friend">Refer a friend &amp; Win Gifts</string>
+    <string name="referral_code">Referral Code</string>
+    <string name="referral_content">"Hey there! I just tried Zoho Notebook and it's awesome. I really think you should try it too. Here's the link:"</string>
+    <string name="referral_know_more">Learn more</string>
+    <string name="refresh_data_desc">Re-Fetch all data from cloud?</string>
+    <string name="remind_me_tomorrow_caption">Remind Me Tomorrow</string>
+    <string name="reminder_caption">Set Reminder</string>
+    <string name="reminder_locked_audio_note_title">"You're reminded about this locked audio note!"</string>
+    <string name="reminder_locked_check_note_title">"You're reminded about this locked check note!"</string>
+    <string name="reminder_locked_file_note_title">"You're reminded about this locked file note!"</string>
+    <string name="reminder_locked_image_note_title">"You're reminded about this locked image note!"</string>
+    <string name="reminder_locked_recipe_note_title">"You're reminded about this locked recipe note!"</string>
+    <string name="reminder_locked_sketch_note_title">"You're reminded about this locked sketch note!"</string>
+    <string name="reminder_locked_text_note_title">"You're reminded about this locked text note!"</string>
+    <string name="reminder_settings_caption">Reminders</string>
+    <string name="reminder_title">Reminders</string>
+    <string name="remove_all">Remove All</string>
+    <string name="remove_link_caption">Remove</string>
+    <string name="remove_lock_text">Remove Lock</string>
+    <string name="rename_group">Rename Group</string>
+    <string name="reorder">Reorder</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="restrict_reorder_for_notebooks">You can organize notebooks only when it is in custom order</string>
+    <string name="restrict_reorder_for_notecards">You can organize notes only when it is in custom order</string>
+    <string name="resume">RESUME</string>
+    <string name="rewards_notebook">Rewards</string>
+    <string name="samsung_device">samsung</string>
+    <string name="save_as_image">Save as Image</string>
+    <string name="save_as_pdf">Save as PDF</string>
+    <string name="save_notebook">Save</string>
+    <string name="scan_document">Scan Documents</string>
+    <string name="scene_transition">REVEAL</string>
+    <string name="search_menu_title">Search</string>
+    <string name="security_answer_title">Enter security answer</string>
+    <string name="security_caption">Security</string>
+    <string name="select_device_to_deregister">Please select a device to Deregister</string>
+    <string name="select_your_pattern">Select Your Pattern</string>
+    <string name="selectall_caption_notebook">Select All</string>
+    <string name="selected_notebook">Selected</string>
+    <string name="send_as_email">Send as email</string>
+    <string name="send_feedback">Send Feedback</string>
+    <string name="server_down">"Sorry, it seems we're having trouble due to a server error. Please try again."</string>
+    <string name="server_timeout">Sorry, the request has timed out. Please try again later.</string>
+    <string name="service_cover_process">:NotebookCoverServices</string>
+    <string name="service_process">:NotebookAppServices</string>
+    <string name="set_as_notebook_cover">Set as notebook cover</string>
+    <string name="set_text">Set</string>
+    <string name="set_title_group">Set title for this group</string>
+    <string name="settings_auto_download_media_on_wifi_only_notebook">Auto download Media on Wi-Fi Only</string>
+    <string name="settings_never_sync">Never Synced</string>
+    <string name="settings_save_to_gallery_notebook">Save to Gallery</string>
+    <string name="settings_sync_only_wifi_notebook">Sync only on Wi-Fi</string>
+    <string name="shake_to_send_feedback">"It seem you're shaking your device. Would you like to send feedback?"</string>
+    <string name="shake_to_send_feedback_notebook">Shake to Send Feedback</string>
+    <string name="share">Share</string>
+    <string name="share_text_note">Text Note</string>
+    <string name="share_using">Share using</string>
+    <string name="shorcut_message_notebook">Create shortcut in homescreen to access this Notebook</string>
+    <string name="shorcut_message_without_name_notebook">Create shortcut in homescreen to access</string>
+    <string name="shortcut_created">Shortcut created. You can now access %s from Home Screen.</string>
+    <string name="show_password_notebook">Show password</string>
+    <string name="showfs">false</string>
+    <string name="size_caption">Size</string>
+    <string name="sketch_note">Sketch Note</string>
+    <string name="sketch_note_created">Sketch Note Created</string>
+    <string name="snackbar_Cover_notebook">Cover Deleted</string>
+    <string name="snackbar_action_reload_notebook">Reload</string>
+    <string name="snackbar_action_undo_notebook">Undo</string>
+    <string name="snackbar_check_text">Item Deleted</string>
+    <string name="snackbar_group">Notegroup Trashed</string>
+    <string name="snackbar_image_text">Image Deleted</string>
+    <string name="snackbar_migration_completed">Migration Completed</string>
+    <string name="snackbar_sync_update_notebook">Note Card Updated</string>
+    <string name="snackbar_text_notebook">Note Card Trashed</string>
+    <string name="snap_audio_count">more audio</string>
+    <string name="snapshot_delete_text_notebook">Note Card Deleted</string>
+    <string name="something_went_wrong">Something went wrong.</string>
+    <string name="something_wrong">Something went wrong.</string>
+    <string name="sort_by">Sort By</string>
+    <string name="sort_by_description">The selected sort order will be synced across all your devices except the custom sort order. Custom sort order works only on the device it is selected.</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop">STOP</string>
+    <string name="storage">To use this feature, you need to allow Notebook to access your Storage. You can update this permission in settings.</string>
+    <string name="storage_permission_rationale_notebook">Needs storage permissions to add new Note cards.</string>
+    <string name="successfully_pin_saved">Password successfully saved</string>
+    <string name="sync_caption">Sync</string>
+    <string name="sync_disabled">Sync Disabled</string>
+    <string name="sync_in_progress">You can not log out from the app while synchronization is in progress. Please try when it is completed</string>
+    <string name="sync_pending_msg">"We're experiencing few sync issues in this device."</string>
+    <string name="sync_settings_note">NOTE: Media will always be downloaded automatically in Wi-Fi for the best experience.</string>
+    <string name="sync_status">Sync Status</string>
+    <string name="tablet_check_caption">We are almost there, will reach you soon in tablets</string>
+    <string name="tag_notebook_pos">3</string>
+    <string name="tap_to_unlock_text">Tap to unlock</string>
+    <string name="tap_to_view_text">Tap to view</string>
+    <string name="tell_us_exp">"How's it going?"</string>
+    <string name="ten_minutes">After 10 minutes</string>
+    <string name="text_note">Text Note</string>
+    <string name="text_note_choose_image_alert">File not Supported</string>
+    <string name="text_note_created_notebook">Text Card Created</string>
+    <string name="text_note_url_description">Text (optional)</string>
+    <string name="text_open_link_browser_choose">Choose Browser</string>
+    <string name="three_minutes">After 3 minutes</string>
+    <string name="title_a_to_z">Title (Ascending)</string>
+    <string name="title_activity_iam_login">LoginActivity</string>
+    <string name="title_activity_iam_scope_enhance">ScopeEnhance</string>
+    <string name="title_z_to_a">Title (Descending)</string>
+    <string name="today_text">Today</string>
+    <string name="tomorrow_text">Tomorrow</string>
+    <string name="total_cards">Total cards</string>
+    <string name="total_item">Total item</string>
+    <string name="total_items">Total items</string>
+    <string name="tray__authority">com.zoho.notebook.tray</string>
+    <string name="try_again_after_one_minute">Try again after 1 minute</string>
+    <string name="try_again_notebook">Try Again</string>
+    <string name="trying_to_get_note_again_notebook">"Trying to get note again. Sorry, but this note type isn't supported in Notebook's current version."</string>
+    <string name="tweet_caption">Tweet about Notebook</string>
+    <string name="twitter_not_installed">Sorry, but we were unable to find Twitter on your device.</string>
+    <string name="twitter_share">Loving the Notebook app. Such a beautiful way to take notes. http://zoho.com/notebook</string>
+    <string name="twitters_text">Tweet us</string>
+    <string name="unable_to_access_image">Unable to access image</string>
+    <string name="unchecked">Unchecked</string>
+    <string name="unknown_capt">Unknown</string>
+    <string name="unknown_error">Sorry, but it seems something went wrong.</string>
+    <string name="unknown_note_type">Unknown Note Card Type</string>
+    <string name="unlock_msg_for_note">Unlock and then delete the note</string>
+    <string name="unlock_msg_for_notebook">Unlock and then delete the notebook</string>
+    <string name="unlock_msg_for_notegroup">Unlock and then delete the notegroup</string>
+    <string name="unsupported_audio">"Unsupported Audio.
+Open in another app."</string>
+    <string name="unsupported_image">"Unsupported Image.
+Open in another app."</string>
+    <string name="unsupported_type">Unsupported Type.</string>
+    <string name="until_the_app_is_open">Until the app is open</string>
+    <string name="update_available">New Update Available!</string>
+    <string name="update_text">Update</string>
+    <string name="url_invalid">Link card creation failed, the URL is not valid.</string>
+    <string name="use_finger_print">Use Finger Print</string>
+    <string name="use_password">USE PASSWORD</string>
+    <string name="user_permission_error">Permission not Enabled</string>
+    <string name="verify_email">Verify</string>
+    <string name="version_dialog_message">Are you sure you want to revert this note card?</string>
+    <string name="view_in">View in</string>
+    <string name="view_link_browser">Open Link in Browser</string>
+    <string name="wait_until_download">Please wait until the file gets downloaded</string>
+    <string name="warning">Warning</string>
+    <string name="watsapp_not_installed">Sorry, but we were unable to find Whatsapp on your device.</string>
+    <string name="we_are_glad">We are glad that you like the app.</string>
+    <string name="we_are_sad">We are sorry that you did not like the app.</string>
+    <string name="whats_new_text">Whats New</string>
+    <string name="widgetBackgroundColor">setBackgroundColor</string>
+    <string name="widget_choose_notebook">Choose Notebook</string>
+    <string name="widget_configure_title">Choose Note Cards</string>
+    <string name="with_format">HTML</string>
+    <string name="without_format">Text with attachment</string>
+    <string name="word_count_caption">Word Count</string>
+    <string name="words_caption"> Word(s)</string>
+    <string name="yesterday_text">Yesterday</string>
+    <string name="zero">0</string>
+    <string name="znml_version_mismatch">This note format is not supported in the current version. Please update your app to the latest version.</string>
+    <string name="zoho_crm_link">Please visit http://crm.zoho.com to activate your Zoho CRM Account.</string>
+</resources>

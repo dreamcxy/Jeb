@@ -1,0 +1,1773 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="accept">Accept</string>
+    <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
+    <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_like_button_liked">Liked</string>
+    <string name="com_facebook_like_button_not_liked">Like</string>
+    <string name="com_facebook_loading">Loading…</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_loginview_log_in_button">Log in</string>
+    <string name="com_facebook_loginview_log_in_button_continue">Continue with Facebook</string>
+    <string name="com_facebook_loginview_log_in_button_long">Log in with Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="com_facebook_send_button_text">Send</string>
+    <string name="com_facebook_share_button_text">Share</string>
+    <string name="com_facebook_smart_device_instructions">To connect your account, open the Facebook app on your mobile device and check for notifications.</string>
+    <string name="com_facebook_smart_device_instructions_or">- OR -</string>
+    <string name="com_facebook_smart_login_confirmation_cancel">Not you?</string>
+    <string name="com_facebook_smart_login_confirmation_title">Confirm Login</string>
+    <string name="com_facebook_tooltip_default">"You're in control - choose what info you want to share with apps."</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
+    <string name="create_calendar_title">Create calendar event</string>
+    <string name="debug_menu_ad_information">Ad Information</string>
+    <string name="debug_menu_creative_preview">Creative Preview</string>
+    <string name="debug_menu_title">Select a Debug Mode</string>
+    <string name="debug_menu_troubleshooting">Troubleshooting</string>
+    <string name="decline">Decline</string>
+    <string name="exo_controls_fastforward_description">Fast forward</string>
+    <string name="exo_controls_next_description">Next track</string>
+    <string name="exo_controls_pause_description">Pause</string>
+    <string name="exo_controls_play_description">Play</string>
+    <string name="exo_controls_previous_description">Previous track</string>
+    <string name="exo_controls_rewind_description">Rewind</string>
+    <string name="exo_controls_stop_description">Stop</string>
+    <string name="messenger_send_button_text">Send</string>
+    <string name="search_menu_title">Search</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="store_picture_message">Allow Ad to store image in Picture gallery?</string>
+    <string name="store_picture_title">Save image</string>
+    <string name="AUTH_MSG_NETWORK_FAIL">Cannot access the Internet. Please try again after checking the network condition.</string>
+    <string name="COLLECTION_AGREE_URL_CYMERA">http://m.cymera.com/agree/en?h=n</string>
+    <string name="LOCATION_AGREE_URL_CYMERA">http://m.cymera.com/lbs/en?h=n</string>
+    <string name="PRIVACY_AGREE_URL_CYMERA">http://m.cymera.com/privacy/en?h=n</string>
+    <string name="Photoupload_network_error">"Image cannot be loaded.
+Check your network connection and try again."</string>
+    <string name="ResponseNo_error">"Sorry.
+We're carrying out a routine or urgent inspection.
+Please try again later."</string>
+    <string name="ResponseNo_incorrect">"Sorry.
+A request error occurred.
+Please try again later."</string>
+    <string name="ResponseNo_neterror">"Sorry.
+We cannot bring data due to the failure in connection.
+Please try again later."</string>
+    <string name="ResponseNo_noContent">"Sorry.
+We don't have information."</string>
+    <string name="SERVICE_AGREE_URL_CYMERA">http://m.cymera.com/terms/en?h=n</string>
+    <string name="Unknown_user">Unknown user</string>
+    <string name="access_sd_fail">Cannot access to the SD card.</string>
+    <string name="action_member_block">MemberBlock</string>
+    <string name="action_myitem">myItem</string>
+    <string name="activity_before_login">"Receive the latest news of friends’ creations &amp;
+reactions of your activities!"</string>
+    <string name="activity_greeting">"Decorate your beautiful moments with Cymera's all in one photo editor."</string>
+    <string name="activity_update_text">Update</string>
+    <string name="add_friends">Select members</string>
+    <string name="album_block_blank_text">No blocked members.</string>
+    <string name="album_block_blank_text_sub">"Only the creator can block members and the blocked members can't access the album again."</string>
+    <string name="album_block_member">Manage blocked members</string>
+    <string name="album_block_member_invite_noti">"Sorry! You can't join %1$s album."</string>
+    <string name="album_block_member_management">Manage members</string>
+    <string name="album_block_popup">Would you block %1$s to access %2$s album?</string>
+    <string name="album_invite_cancel">Would you cancel to invite %1$s?</string>
+    <string name="album_join_alert_text">Do you want to join %1$s?</string>
+    <string name="album_join_alert_text2">Only members who have joined the album can retouch photos.</string>
+    <string name="album_subtext_friend_singular">Joined by %1$s</string>
+    <string name="album_subtext_friends">Joined by %1$s friends</string>
+    <string name="album_subtext_my">Joined album</string>
+    <string name="albumlist_item_menu_anymore_recommend">Not receive album recommendations</string>
+    <string name="albumlist_popup_anymore_recommend_comment">Delete the album %1$s from Discover list and do not get more recommendations.</string>
+    <string name="alert">Alert</string>
+    <string name="alert_item_download_info">"It's necessary to download the new item.
+Do you want to download it?"</string>
+    <string name="already_detail_report_photo">It has been reported already.</string>
+    <string name="ap_hour_minute">"'Today at' h:mm a"</string>
+    <string name="app_name">Cymera</string>
+    <string name="auth_find_password_comment">To reset your password, enter the e-mail address you use to sign up to Cymera.</string>
+    <string name="banned_desc">Contains banned words.</string>
+    <string name="before_day">1d</string>
+    <string name="before_day_pl">%1$sd</string>
+    <string name="before_hour">1h</string>
+    <string name="before_minute">1min</string>
+    <string name="before_month">1m</string>
+    <string name="before_month_pl">%1$sm</string>
+    <string name="before_week">1w</string>
+    <string name="before_week_pl">%1$sw</string>
+    <string name="before_year">1y</string>
+    <string name="before_year_pl">%1$sy</string>
+    <string name="border_category_1">Simple</string>
+    <string name="border_category_2">Pattern</string>
+    <string name="border_category_3">Theme</string>
+    <string name="bottom_menu_item">Item</string>
+    <string name="brush_category_border">Border</string>
+    <string name="brush_category_dashed">Dashed</string>
+    <string name="brush_category_line">Line</string>
+    <string name="brush_category_pattern">Pattern</string>
+    <string name="camera_beauty_cleanskin">Softening</string>
+    <string name="camera_beauty_darkcircle">Dark Circles</string>
+    <string name="camera_beauty_off">Beauty-Off</string>
+    <string name="camera_beauty_slimface">Slim</string>
+    <string name="camera_error_title">Camera error</string>
+    <string name="camera_gridlens_timer_toast">Take photos manually with the timer OFF!</string>
+    <string name="camera_lens_action4">Action 4</string>
+    <string name="camera_lens_basic">Basic</string>
+    <string name="camera_lens_event">Event</string>
+    <string name="camera_lens_fisheye">Fisheye</string>
+    <string name="camera_lens_half">Double</string>
+    <string name="camera_lens_pop4">Pop 4</string>
+    <string name="camera_lens_sproket">Sprocket</string>
+    <string name="camera_lens_super4">Super 4</string>
+    <string name="camera_livefilter_popup_description">"Peach, Summer, and etc are now
+newly born in the &lt;Natural> Filter Package!"</string>
+    <string name="camera_livefilter_popup_title">Filter Arrangement Notice</string>
+    <string name="camera_mode_antishake">Anti-Shake</string>
+    <string name="camera_mode_antishake_desc_l1">The picture will be taken</string>
+    <string name="camera_mode_antishake_desc_l2">once the device stabilizes.</string>
+    <string name="camera_mode_basic_desc_l1">This is the default.</string>
+    <string name="camera_mode_basic_desc_l2">shooting mode</string>
+    <string name="camera_mode_default">Normal</string>
+    <string name="camera_mode_timer">Timer</string>
+    <string name="camera_mode_timer_desc_l1">The picture will be taken</string>
+    <string name="camera_mode_timer_desc_l2">according to the set timer.</string>
+    <string name="camera_mode_touchshot">Touch Shots</string>
+    <string name="camera_mode_touchshot_desc_l1">The picture will be taken</string>
+    <string name="camera_mode_touchshot_desc_l2">when you touch the screen.</string>
+    <string name="camera_popup_start_camera_desc">Now, you can start Cymera with camera mode at Settings >Camera Settings.</string>
+    <string name="camera_popup_widget">"Take photos quickly with 
+Cymera's widget."</string>
+    <string name="camera_popup_widget_desc1">"1. Select the widget on the Cymera's home screen."</string>
+    <string name="camera_popup_widget_desc2">2. Long press the widget and then drop it in the desired location.</string>
+    <string name="camera_popup_widget_desc3">3. You can use the camera and the gallery on the Home screen.</string>
+    <string name="camera_settings_start_camera">Start with camera mode</string>
+    <string name="camera_settings_start_daily">Back</string>
+    <string name="camera_settings_start_selfie">Front (Beauty Camera)</string>
+    <string name="camera_settings_start_title">Start Settings</string>
+    <string name="camera_zoom_0">0</string>
+    <string name="camera_zoom_1">1</string>
+    <string name="camera_zoom_2">2</string>
+    <string name="camera_zoom_3">3</string>
+    <string name="camera_zoom_4">4</string>
+    <string name="camera_zoom_5">5</string>
+    <string name="camera_zoom_6">6</string>
+    <string name="camera_zoom_7">7</string>
+    <string name="camera_zoom_8">8</string>
+    <string name="camera_zoom_9">9</string>
+    <string name="camera_zoom_dot">.</string>
+    <string name="camera_zoom_x">x</string>
+    <string name="cancel">Cancel</string>
+    <string name="cannot_connect_camera">Cannot connect to the camera.</string>
+    <string name="cannot_open_file">"Unable to open file. 
+Please try again."</string>
+    <string name="close">Close</string>
+    <string name="collage_free_max_alert">Up to %1$s can be applied at once</string>
+    <string name="collage_photo_edit_change">Change</string>
+    <string name="collage_photo_edit_fill">Fill</string>
+    <string name="collage_photo_edit_inside">Inside</string>
+    <string name="collage_photo_edit_reverse">Reverse</string>
+    <string name="collage_pick_none">Select a photo to replace.</string>
+    <string name="collage_template_btn">All Layout</string>
+    <string name="collage_template_view_all">View All</string>
+    <string name="collage_template_view_cut">%1$s Layout</string>
+    <string name="comment_blank">No comments.</string>
+    <string name="comment_blank_sub">Describe how you feel about the picture.</string>
+    <string name="comment_layer_info_comment">1 comment</string>
+    <string name="comment_layer_info_comment_pl">%1$s comments</string>
+    <string name="comment_layer_info_stamp">1 stamp</string>
+    <string name="comment_layer_info_stamp_pl">%1$s stamps</string>
+    <string name="confirm">OK</string>
+    <string name="confirm_join_album">Join album</string>
+    <string name="confirm_no">No</string>
+    <string name="confirm_yes">Yes</string>
+    <string name="connect_period">Connecting period</string>
+    <string name="create_new_album">Create Album</string>
+    <string name="ctag_info">Information about ⓒtag</string>
+    <string name="cymera_featured_default_text">...</string>
+    <string name="cymera_popular_photos">"Cymera's Popular Photos"</string>
+    <string name="cymera_setting_dl_inquiry">Go to: Cymera settings>Feedback>1:1 Questions and get more information.</string>
+    <string name="cymera_sns_close_menu1">Please backup your photos.</string>
+    <string name="cymera_sns_close_menu2">Export download URL</string>
+    <string name="cymera_sns_dl_close">Backup time expired.</string>
+    <string name="cymera_sns_dl_urlexport">Backup Photos</string>
+    <string name="cymera_update_info">[Update Information]</string>
+    <string name="cymera_update_popup_text">Update now to enjoy the new professional and easier version of Cymera.</string>
+    <string name="deco_beauty_bigeye_manual_button">Would you like to change the edition to the manual mode?</string>
+    <string name="deco_beauty_smile_manual_button">Would you like to change the edition to the manual mode?</string>
+    <string name="deco_folder_close">Hide</string>
+    <string name="deco_folder_delete">Delete</string>
+    <string name="deco_text_align">Align</string>
+    <string name="deco_text_date_format">EN</string>
+    <string name="deco_text_dialog_title">Add phrase</string>
+    <string name="deco_text_hello">Hello</string>
+    <string name="deco_text_hint">Type your message here…</string>
+    <string name="deco_text_no_history">No texts have been applied lately.</string>
+    <string name="deco_text_style">Style</string>
+    <string name="delete">Delete</string>
+    <string name="delete_photo">Delete</string>
+    <string name="detail_comment_count_text">Comment %1$d</string>
+    <string name="detail_comment_fail_delete">Failed to delete comment.</string>
+    <string name="detail_comment_stemp_comment">"Stamp on friend's photos."</string>
+    <string name="detail_date">Date</string>
+    <string name="detail_delete_comment">Do you want to delete this comment?</string>
+    <string name="detail_deleted_photo">This photo has been deleted/blocked.</string>
+    <string name="detail_exposuretime">ExposureTime</string>
+    <string name="detail_fail_add_comment">Failed to add comment.</string>
+    <string name="detail_fail_add_stamp">Failed to add stamp.</string>
+    <string name="detail_fail_load_data">There was a temporary problem with data loading. Please refresh and try again.</string>
+    <string name="detail_fail_save_photo">Failed to save the photo.</string>
+    <string name="detail_flength">FocalLength</string>
+    <string name="detail_fnumber">FNumber</string>
+    <string name="detail_height">Height</string>
+    <string name="detail_input_comment">Leave a comment…</string>
+    <string name="detail_iso">ISO</string>
+    <string name="detail_lens">Lens</string>
+    <string name="detail_maker">Maker</string>
+    <string name="detail_map">ViewMap</string>
+    <string name="detail_model">Model</string>
+    <string name="detail_no_picture">No photos.</string>
+    <string name="detail_path">Path</string>
+    <string name="detail_photo_fail_delete">Failed to delete photo.</string>
+    <string name="detail_place">Place</string>
+    <string name="detail_prohibit_delete">Only the person who uploaded the photo can delete the photo.</string>
+    <string name="detail_report_information">"Reported posts will be handled by Cymera's policies and you can be penalized for false reporting."</string>
+    <string name="detail_report_photo">Report</string>
+    <string name="detail_size">Size</string>
+    <string name="detail_stamp_delete">Do you want to delete this stamp?</string>
+    <string name="detail_stamp_fail_delete">Failed to delete stamp.</string>
+    <string name="detail_stamp_success_delete">Stamp deleted.</string>
+    <string name="detail_success_delete_comment">Comment deleted.</string>
+    <string name="detail_success_delete_photo">The Photo is deleted.</string>
+    <string name="detail_success_report_photo">Reported a photo.</string>
+    <string name="detail_success_save_photo">The photo has been saved.</string>
+    <string name="detail_success_set_album_cover">The photo has been set as your album cover photo.</string>
+    <string name="detail_title">Title</string>
+    <string name="detail_width">Width</string>
+    <string name="details_ok">OK</string>
+    <string name="dialog_color_picker_arrow">→</string>
+    <string name="dialog_color_picker_hex">HEX</string>
+    <string name="dialog_for_join_member">Only available for album members.</string>
+    <string name="dialog_info">Info</string>
+    <string name="discover_more_delete">Delete the album %1$s from Discover list and do not get more recommendations.</string>
+    <string name="done">Done</string>
+    <string name="dont_show_7days">"Don't show for 7 days"</string>
+    <string name="dont_show_again">"Don't show me anymore"</string>
+    <string name="dont_show_today_again">"Don't show again today"</string>
+    <string name="download">Download</string>
+    <string name="edit_beauty_bigeye">Big eyes</string>
+    <string name="edit_beauty_body">Body</string>
+    <string name="edit_beauty_body_hip">Hip</string>
+    <string name="edit_beauty_body_hip_tooltip">Select the hip area.</string>
+    <string name="edit_beauty_body_legs">Legs</string>
+    <string name="edit_beauty_body_legs_tooltip">Select the thighs, calves, and ankles.</string>
+    <string name="edit_beauty_body_legs_tooltip2">"Select your calf (leg)
+ area (the large area)."</string>
+    <string name="edit_beauty_body_slim">Slim</string>
+    <string name="edit_beauty_body_slim_tooltip">Select the waist area.</string>
+    <string name="edit_beauty_body_stretch">Stretch</string>
+    <string name="edit_beauty_body_stretch_tooltip">Select the hip, knee and ankle.</string>
+    <string name="edit_beauty_brighten">Whitening</string>
+    <string name="edit_beauty_cleanskin">Softening</string>
+    <string name="edit_beauty_darkcircles">Dark Circles</string>
+    <string name="edit_beauty_hair">Hair</string>
+    <string name="edit_beauty_makeup">Make-up</string>
+    <string name="edit_beauty_mosaic">Mosaic</string>
+    <string name="edit_beauty_onetouch">One Touch</string>
+    <string name="edit_beauty_slimface">Slim</string>
+    <string name="edit_beauty_smile">Smile</string>
+    <string name="edit_beauty_spotremoval">Concealer</string>
+    <string name="edit_beauty_touch">Liquify</string>
+    <string name="edit_beauty_tzone_tooltip">T-Zone Contouring</string>
+    <string name="edit_beauty_tzone_tooltip_msg">"Contour and highlight your
+T-zone to get your perfect look!"</string>
+    <string name="edit_button_apply">Apply</string>
+    <string name="edit_button_cancel">Cancel</string>
+    <string name="edit_cancel_confirm">"There is a photo being edited now.
+Do you want to stop now?"</string>
+    <string name="edit_colorsplash_tooltip">Choose an area to paint</string>
+    <string name="edit_crop_16_9">16:9</string>
+    <string name="edit_crop_3_2">3:2</string>
+    <string name="edit_crop_4_3">4:3</string>
+    <string name="edit_crop_4_6">4:6</string>
+    <string name="edit_crop_5_7">5:7</string>
+    <string name="edit_crop_8_10">4:5</string>
+    <string name="edit_crop_freeform">Freeform</string>
+    <string name="edit_crop_original">Original</string>
+    <string name="edit_crop_popup_desc">Crop for Instagram</string>
+    <string name="edit_crop_square">1:1</string>
+    <string name="edit_deco_brush">Brush</string>
+    <string name="edit_deco_character">Characters</string>
+    <string name="edit_deco_daily">Daily</string>
+    <string name="edit_deco_event">Event</string>
+    <string name="edit_deco_event_end2">Wait for the next offers!</string>
+    <string name="edit_deco_frame">Fancy frame</string>
+    <string name="edit_deco_mask">Comic mask</string>
+    <string name="edit_deco_recent">Recent List</string>
+    <string name="edit_deco_select_sticker">Select stickers</string>
+    <string name="edit_deco_shapes">Shapes</string>
+    <string name="edit_deco_sticker">Sticker</string>
+    <string name="edit_deco_text">Text</string>
+    <string name="edit_facelift_face">Face</string>
+    <string name="edit_facelift_leye">Left eye</string>
+    <string name="edit_facelift_mouth">Mouth</string>
+    <string name="edit_facelift_reye">Right eye</string>
+    <string name="edit_fail_save_photo">Failed to save the photo.</string>
+    <string name="edit_fail_save_photosize">Your photo was saved in 1024px because of insufficient memory.</string>
+    <string name="edit_fail_save_photosize_function">The Collage/ Instafit/ Mirror Effect offers up to 2048 Pixels.</string>
+    <string name="edit_film_blur">Blur</string>
+    <string name="edit_film_border">Border</string>
+    <string name="edit_film_filter">Filter</string>
+    <string name="edit_film_light">Light</string>
+    <string name="edit_filter_favorites">Favorites</string>
+    <string name="edit_filter_favorites_none_toast">No filter have been added to the Favorites.</string>
+    <string name="edit_filter_favorites_toast">You can add up to 20 filters to Favorites.</string>
+    <string name="edit_filter_favorites_toast2">Only filters that are available on the shooting screen can be added to Favorites.</string>
+    <string name="edit_filter_favorites_tooltip">"Press and hold your favorite filter.
+You can collect up to 20 in Favorites!"</string>
+    <string name="edit_instafit_straw_desc">Choose a background color for your photo.</string>
+    <string name="edit_item_settings">Manage items</string>
+    <string name="edit_meme_snapchat_guide">"Hold it long enough
+to adjust text's position!"</string>
+    <string name="edit_meme_text1">Enter Text 1</string>
+    <string name="edit_meme_text2">Enter Text 2</string>
+    <string name="edit_menu_collage">Collage</string>
+    <string name="edit_menu_colorsplash">Color</string>
+    <string name="edit_menu_contrast">Contrast</string>
+    <string name="edit_menu_crop">Crop</string>
+    <string name="edit_menu_exposure">Brightness</string>
+    <string name="edit_menu_instafit">InstaFit</string>
+    <string name="edit_menu_level">Auto level</string>
+    <string name="edit_menu_mirror">Mirror</string>
+    <string name="edit_menu_redeye">RED EYE</string>
+    <string name="edit_menu_rotate">Rotate</string>
+    <string name="edit_menu_rotate_90">90 ° Rotation</string>
+    <string name="edit_menu_saturation">Saturation</string>
+    <string name="edit_menu_scenemode">Scene Mode</string>
+    <string name="edit_menu_sharpen">Sharpen</string>
+    <string name="edit_menu_straignten">Straighten</string>
+    <string name="edit_promotion_alert_extension">Get one more chance to download these limited items for free!</string>
+    <string name="edit_promotion_alert_extension_button">Extend period</string>
+    <string name="edit_promotion_expirynotice">Expiry notice</string>
+    <string name="edit_promotion_expirynotice_button_delete">Delete</string>
+    <string name="edit_promotion_expirynotice_button_moreitems">More items</string>
+    <string name="edit_promotion_expirynotice_content">Do you want to exlore more free items?</string>
+    <string name="edit_promotion_expirynotice_deletealert">You can manage downloaded items at [Item Shop > My].</string>
+    <string name="edit_promotion_expirynotice_deletealert2">[Item Shop > My].</string>
+    <string name="edit_promotion_expirynotice_itemname">has passed the expiration date.</string>
+    <string name="edit_promotion_useuntil">Use until:</string>
+    <string name="edit_reco_item_down_detail">More item details</string>
+    <string name="edit_reco_item_down_popup">Would you like to download the package &lt;font color=#74B6AD>%1$s&lt;/font> (%2$sEA)?</string>
+    <string name="edit_reco_item_down_wifi">The download will be faster with WiFi connection.</string>
+    <string name="edit_redeye_toast">Erase red eyes with simple touches!</string>
+    <string name="edit_restart_popup_btn">Continue</string>
+    <string name="edit_restart_popup_msg">"There is a photo in edition.
+Do you want to continue editing?
+If you cancel, the photo will be deleted and you will return to home screen."</string>
+    <string name="edit_review_popup_desc">"If you like our app,
+please take a moment to rate it!"</string>
+    <string name="edit_review_popup_go">Rate us</string>
+    <string name="edit_review_popup_title">Enjoy Cymera?</string>
+    <string name="edit_rotate_flip_h">Flip H</string>
+    <string name="edit_rotate_flip_v">Flip V</string>
+    <string name="edit_rotate_left">Left</string>
+    <string name="edit_rotate_right">Right</string>
+    <string name="edit_save_popup_onemore">Edit another pic</string>
+    <string name="edit_save_popup_recent_photos">Recent Photos</string>
+    <string name="edit_save_popup_saved">The edited photo has been saved.</string>
+    <string name="edit_savephoto_avg_size">Average</string>
+    <string name="edit_savephoto_done">Image saved</string>
+    <string name="edit_savephoto_done_review">Please review this app</string>
+    <string name="edit_savephoto_large_size">Large</string>
+    <string name="edit_savephoto_max_size">Max.</string>
+    <string name="edit_savephoto_orginal_size">Original</string>
+    <string name="edit_savephoto_small_size">Small</string>
+    <string name="edit_watermark">Add Watermark</string>
+    <string name="edit_watermark_toast">You can switch ON/OFF in settings.</string>
+    <string name="error_msg_failed_network">There seems to be a problem with the server.</string>
+    <string name="event">Event</string>
+    <string name="event_address_hint">Please fill a delivered address out correctly.</string>
+    <string name="event_address_info">Input a delivered address</string>
+    <string name="event_album_condition">"Participating in the event is 
+only open to those who create a private album."</string>
+    <string name="event_all_agreement">Agree all</string>
+    <string name="event_join">Apply for Events</string>
+    <string name="event_join_fail">Temporary server error.</string>
+    <string name="event_join_phone">Apply&amp; register contact number</string>
+    <string name="event_join_progress">In progress</string>
+    <string name="event_join_simple">Apply</string>
+    <string name="event_join_success">Success to Apply.</string>
+    <string name="event_join_success_phonenumber">"Success to Apply.
+Move to input a contact number."</string>
+    <string name="export_title_cymera">" @Cymera"</string>
+    <string name="export_title_cymera_collage">" @Cymera Collage"</string>
+    <string name="export_title_cymera_filter">" @Cymera Filter"</string>
+    <string name="export_title_cymera_instafit">" @Cymera InstaFit"</string>
+    <string name="export_title_cymera_sticker">" @Cymera Sticker"</string>
+    <string name="facedecection_failed">"Sorry.
+Failed to recognize the face.
+Please try again with a picture of upright and full face."</string>
+    <string name="facefail_desc">"Facial recognition failed. 
+Select the eye and lips area."</string>
+    <string name="facefail_desc2">Select the eye and lips area.</string>
+    <string name="facelift_desc">Zoom-in and move the area to apply.</string>
+    <string name="fail_to_upload">Failed to upload photo! Please try again.</string>
+    <string name="featured_people">"User's Recommendation"</string>
+    <string name="feed_comment_count">%1$s Comment</string>
+    <string name="feed_comment_counts">%1$s Comments</string>
+    <string name="feed_following_text">"Follow Cymera friends and explore photos
+of our millions of users!"</string>
+    <string name="feed_login_msg">"Sign in to share your photo editing styles
+with more friends on Cymera!"</string>
+    <string name="feed_login_title">Sign In or Sign Up</string>
+    <string name="feed_more_text">... More</string>
+    <string name="feed_newposts_button">New posts</string>
+    <string name="feed_retouch_count">%1$s Retouch</string>
+    <string name="feed_retouch_counts">%1$s Retouches</string>
+    <string name="feed_share_url">Share URL</string>
+    <string name="feed_stamp_count">%1$s Stamp</string>
+    <string name="feed_stamp_counts">%1$s Stamps</string>
+    <string name="filter_atomic">Atomic</string>
+    <string name="filter_canvas">canvas</string>
+    <string name="filter_category_1">Basic</string>
+    <string name="filter_category_2">Art</string>
+    <string name="filter_cellophane">Cellophane</string>
+    <string name="filter_charcoal">Charcoal</string>
+    <string name="filter_clear">Clear</string>
+    <string name="filter_cloudy">Cloudy</string>
+    <string name="filter_download_free">Download (Free)</string>
+    <string name="filter_download_guide">Download &lt;font color=#FF0000> &lt;b>%1$s&lt;/b> &lt;/font> filters?&lt;br> (%2$s)</string>
+    <string name="filter_embers">Embers</string>
+    <string name="filter_fallow">Fallow</string>
+    <string name="filter_float">Float</string>
+    <string name="filter_halftone">Halftone</string>
+    <string name="filter_haze">Haze</string>
+    <string name="filter_organic">Organic</string>
+    <string name="filter_original">Original</string>
+    <string name="filter_paleblue">Pale blue</string>
+    <string name="filter_pensketch">Pen Sketch</string>
+    <string name="filter_popart">Pop Art</string>
+    <string name="filter_popart_a">Pop Art 1</string>
+    <string name="filter_popart_b">Pop Art 2</string>
+    <string name="filter_popart_c">Pop Art 3</string>
+    <string name="filter_popart_d">Pop Art 4</string>
+    <string name="filter_retro">Retro</string>
+    <string name="filter_skyblue">Sky blue</string>
+    <string name="filter_sparkly">Sparkly</string>
+    <string name="filter_stain">Stain</string>
+    <string name="filter_stippling">Stippling</string>
+    <string name="filter_sumie">Sumie</string>
+    <string name="filter_sunlit">Sunlit</string>
+    <string name="filter_sunset">Sunset</string>
+    <string name="filter_sweet">Sweet</string>
+    <string name="filter_tuner">Tuner</string>
+    <string name="filter_vanilla">Vanilla</string>
+    <string name="filter_warmth">Warmth</string>
+    <string name="finish">Quit</string>
+    <string name="follow">FOLLOW</string>
+    <string name="follower">Followers</string>
+    <string name="follower_my_blank">"There are no friends following you.
+Search for recommended friends and follow them first."</string>
+    <string name="follower_others_blank">There are no followers.</string>
+    <string name="following">Following</string>
+    <string name="following_btn">FOLLOWING</string>
+    <string name="following_my_blank">"You are not following any friend.
+Check out the popular users and find people you want to follow."</string>
+    <string name="following_my_button">See popular users</string>
+    <string name="following_others_blank">There are no following friends.</string>
+    <string name="friend_already_request_cancel">Your friend request has already been cancelled.</string>
+    <string name="friend_invite_weibo_hour">According to the policy of Weibo, you can invite 1 time every 1 hour. Please invite after 1 hour.</string>
+    <string name="friend_invite_weibo_info">Invite Friends (up to 10 friends).</string>
+    <string name="friends_album_invited">Joined</string>
+    <string name="friends_banned">Manage Blocked Friends</string>
+    <string name="friends_banned_blank_text">There are no blocked friends.</string>
+    <string name="friends_banned_comment">"Blocked friends will not receive any news about you and you won't receive any news about them."</string>
+    <string name="friends_banned_contents">"Do you want to block %1$s?
+This person will not receive any news about you and you won't receive any news about %1$s."</string>
+    <string name="friends_banned_nbtn">Cancel</string>
+    <string name="friends_banned_pbtn">Block</string>
+    <string name="friends_contact_permission">Cymera wants to access your Contacts to find your friends.</string>
+    <string name="friends_contact_title">Contacts</string>
+    <string name="friends_cymera_title">[Cymera]</string>
+    <string name="friends_delete">Delete</string>
+    <string name="friends_deny_contents">Do you want to decline this friend request?</string>
+    <string name="friends_find">Find Friends</string>
+    <string name="friends_invite">Invite Friends</string>
+    <string name="friends_invite_address">Contacts (%1$s)</string>
+    <string name="friends_invite_address_nobody">There are no friends you can invite in the Contacts.</string>
+    <string name="friends_invite_addressbook">Contacts</string>
+    <string name="friends_invite_facebook">Facebook (%1$s)</string>
+    <string name="friends_invite_facebook_nobody">There are no friends you can invite on Facebook.</string>
+    <string name="friends_invite_google_nobody">There are no friends you can invite on Google.</string>
+    <string name="friends_invite_service">%1$s has invited you to Cymera, a social playground where people communicate with photos. %2$s</string>
+    <string name="friends_list_text">Friends (%1$s)</string>
+    <string name="friends_newlist_text">New Friends</string>
+    <string name="friends_reclist_blank_text">"You don't have suggested friends.
+Explore new friends to follow through popular users."</string>
+    <string name="friends_reclist_delete_noti1">Delete %1$s from recommended friends and receive no more recommendations.</string>
+    <string name="friends_reclist_text">Recommended Friends</string>
+    <string name="friends_recommend_title">Find Friends</string>
+    <string name="friends_search_noresult">No results found.</string>
+    <string name="friends_search_text">Search</string>
+    <string name="friends_unlock">Cancel</string>
+    <string name="friends_unlock_noti">%1$s has been unblocked.</string>
+    <string name="frontfacing_notice">"The Self-shot mode works on devices with a front camera and that are running on OS 2.3 (Ginger bread) or higher. Please verify if your device needs updates on your phone manufacturer's homepage."</string>
+    <string name="frontfacing_notice2">"Sorry! You cannot use the Self-shot mode since your device doesn't have a front camera."</string>
+    <string name="frontfacing_notice3">Self-shot can only be used when the phone is open.</string>
+    <string name="func_menu_adjs">Correct</string>
+    <string name="func_menu_deco">Decorate</string>
+    <string name="func_menu_edit">Edit</string>
+    <string name="func_menu_face">Beauty</string>
+    <string name="func_menu_film">Effect</string>
+    <string name="gallery_all">View all</string>
+    <string name="gallery_best">Best</string>
+    <string name="gallery_cancel">Cancel</string>
+    <string name="gallery_copied_msg">%1$s photo(s) copied to %2$s album.</string>
+    <string name="gallery_copy">Copy</string>
+    <string name="gallery_date_format">MMM d</string>
+    <string name="gallery_delete_album_msg">Would you like to delete this album?</string>
+    <string name="gallery_delete_msg">%1$s photos deleted.</string>
+    <string name="gallery_delete_msg1">1 photo deleted.</string>
+    <string name="gallery_deletealbum">Delete Album</string>
+    <string name="gallery_detect_faces">Detect faces</string>
+    <string name="gallery_detect_faces_msg">"Detecting faces.
+The time required to scan the photos can vary depending on the photo load."</string>
+    <string name="gallery_device_permission_alert">"Please run Cymera to verify the app's permission."</string>
+    <string name="gallery_face_detection">Face detection</string>
+    <string name="gallery_face_detection_completed">Face detection completed.</string>
+    <string name="gallery_face_detection_stop">The face recognition has been stopped.</string>
+    <string name="gallery_fri">FRI</string>
+    <string name="gallery_home_btn">Gallery</string>
+    <string name="gallery_lg_pocket_photo">LG Pocket Photo</string>
+    <string name="gallery_mon">MON</string>
+    <string name="gallery_move">Move</string>
+    <string name="gallery_moved_msg">%1$s photo(s) moved to %2$s album.</string>
+    <string name="gallery_new_album">New album</string>
+    <string name="gallery_new_album_msg">Do you want to move or copy the selected photo to the new folder?</string>
+    <string name="gallery_new_album_temp_name">New album</string>
+    <string name="gallery_no_best_photos">"Rank the photos you like the most with a ★ 
+ and they will automatically come out to the best folder."</string>
+    <string name="gallery_no_face_photos">"There are no photos.
+Press Detect Faces below to store your portraits here."</string>
+    <string name="gallery_no_photos">Album has no photos.</string>
+    <string name="gallery_no_self_photos">"The album has no photos.
+All your selfies will come out here automatically."</string>
+    <string name="gallery_ok">OK</string>
+    <string name="gallery_rename">Rename</string>
+    <string name="gallery_sat">SAT</string>
+    <string name="gallery_select_1">1 photo selected</string>
+    <string name="gallery_select_album">Select Album</string>
+    <string name="gallery_select_photos">%1$s photos selected</string>
+    <string name="gallery_self">Selfie</string>
+    <string name="gallery_stop">Stop</string>
+    <string name="gallery_sun">SUN</string>
+    <string name="gallery_thu">THU</string>
+    <string name="gallery_tue">TUE</string>
+    <string name="gallery_wed">WED</string>
+    <string name="goto_album">Back to Album</string>
+    <string name="hash_tag_try">Share your photo with this tag</string>
+    <string name="home_activity">ACTIVITY</string>
+    <string name="home_banner_default1">Easy, fast and extraordinary.</string>
+    <string name="home_banner_default2">Enjoy and create Insta photos!</string>
+    <string name="home_banner_default3">Try now</string>
+    <string name="home_collage_info">Select photos to combine into one. (max. 9 pics)</string>
+    <string name="home_discover">EXPLORE</string>
+    <string name="home_edit_info">Select a photo to edit.</string>
+    <string name="home_feed">FEED</string>
+    <string name="home_hot_people">Popular users of Cymera</string>
+    <string name="home_menu_edit">Edit</string>
+    <string name="home_recommend_detail">Would you like to appreciate more photos?</string>
+    <string name="home_recommend_tag_title">Cymera Featured</string>
+    <string name="home_tag_title">Hot Item</string>
+    <string name="home_top_find_friends">Search</string>
+    <string name="http_status_bad_request">"Sorry.
+A request error occurred.
+Please try it later."</string>
+    <string name="http_status_internal_server_error">"Sorry.
+The service connection is bad at the moment.
+Please try again later."</string>
+    <string name="http_status_network_error">"Sorry.
+We cannot bring the data because of server disconnection.
+Please try it later."</string>
+    <string name="image_file_name_format">"'CYMERA'_yyyyMMdd_HHmmss"</string>
+    <string name="image_loading_fail">Failed to load image.</string>
+    <string name="image_viewer_title_divider">/</string>
+    <string name="init_task_regi_phone_number_btn_skip">Skip</string>
+    <string name="init_task_regi_phone_number_promise_desc1">It is used to search for friends. I agree to preserve the information until the account removal.</string>
+    <string name="init_task_regi_phone_number_promise_desc2">It will safely be managed with strict encryption.</string>
+    <string name="init_task_regi_phone_number_promise_desc3">It will never be exposed to other users.</string>
+    <string name="init_task_regi_phone_number_promise_title">We promise!</string>
+    <string name="interest_tag_title">%1$s favorite tag</string>
+    <string name="intro_3_message1">Your virtual beauty camera</string>
+    <string name="intro_3_message2">"One touch edition and
+fast photo sharing"</string>
+    <string name="intro_3_message3">All trendy items for FREE!</string>
+    <string name="intro_3_title1">Beauty Camera</string>
+    <string name="intro_3_title2">Amazingly Easy Editor</string>
+    <string name="intro_3_title3">Free Items</string>
+    <string name="intro_3_title4">"Get a Perfect Selfie &amp;
+Daily Picture Every Time"</string>
+    <string name="intro_message_1">"One-touch beautifying effect
+with camera filters"</string>
+    <string name="intro_message_2">Everything you need for editing is here!</string>
+    <string name="intro_message_3">"All-new photo trends
+organized by tags"</string>
+    <string name="intro_message_4">"Show &amp; Share your editing styles
+to 200 millions Cymera users!"</string>
+    <string name="intro_start">START</string>
+    <string name="intro_title_1">CAPTURE</string>
+    <string name="intro_title_2">ALL-IN-ONE EDITOR</string>
+    <string name="intro_title_3">EXPLORE</string>
+    <string name="invite">Invite</string>
+    <string name="invite_eventalbum_msg">%1$s invited you on event album.</string>
+    <string name="invite_expired_msg">"Request a invite link 
+ to friend again."</string>
+    <string name="invite_expired_title">Invalid request</string>
+    <string name="invite_member_more">Find more request</string>
+    <string name="invite_member_msg">Make an album by inviting friends!</string>
+    <string name="invite_member_title">Invite your members</string>
+    <string name="invite_url_msg">"Paste an address 
+ in where you want to share."</string>
+    <string name="invite_url_title">Success to copy an album address.</string>
+    <string name="invite_welcome_msg">To join the album where you’ve been invited, please click the received link again!</string>
+    <string name="invite_welcome_title">"Wait! 
+ Did you receive an invitation?"</string>
+    <string name="itemshop_alert_btn_later">Later</string>
+    <string name="itemshop_cannot_load_purchasedItemList">"Failed to load the list of purchased items.
+Please try again."</string>
+    <string name="itemshop_cannot_start_inapp_billing">"Failed to start in-app purchase.
+ Please try again later."</string>
+    <string name="itemshop_category_hot">Hot items</string>
+    <string name="itemshop_category_new">New items</string>
+    <string name="itemshop_category_noproduct">"The relevant category is under construction.
+We'll be done soon!"</string>
+    <string name="itemshop_category_todaysfree">"Today's Free"</string>
+    <string name="itemshop_category_todaysfree_description">"After you complete the mission (video ad, visit the website, etc.),
+is possible to use for free for a limited time"</string>
+    <string name="itemshop_category_todaysfree_description_googleadmob">Instant ADs will be seen after downloading items for free.</string>
+    <string name="itemshop_category_todaysfree_description_tapjoy">Download items for free after carrying out a mission.</string>
+    <string name="itemshop_category_todaysfree_description_video">You can download free items after watching a short advertisement.</string>
+    <string name="itemshop_category_todaysfree_detail_dialog_download">Download after mission</string>
+    <string name="itemshop_count_border">%1$s Borders</string>
+    <string name="itemshop_count_filter">%1$s Filters</string>
+    <string name="itemshop_count_light">%1$s Lights</string>
+    <string name="itemshop_detail_dialog_download">Download</string>
+    <string name="itemshop_detail_dialog_downloaded">Downloaded</string>
+    <string name="itemshop_down_buy">Purchase</string>
+    <string name="itemshop_down_cancle_toast">Download canceled.</string>
+    <string name="itemshop_down_complete_title">Item download completed</string>
+    <string name="itemshop_down_fail">Insufficient storage available. Check the available memory on your device and try again.</string>
+    <string name="itemshop_down_fail_alert">Download failed. Do you want to try again?</string>
+    <string name="itemshop_down_fail_description">"There is an issue with your internet connection.
+Please make sure you have proper connection and try again."</string>
+    <string name="itemshop_download_availableDay">%1$s days</string>
+    <string name="itemshop_download_period">Download by:</string>
+    <string name="itemshop_email_popup_button1">Skip</string>
+    <string name="itemshop_email_popup_button2">Register</string>
+    <string name="itemshop_email_popup_description">Enter your email and password if you want to continue to use your downloaded items after changing devices or reinstalling the app.</string>
+    <string name="itemshop_email_popup_title">Email registration</string>
+    <string name="itemshop_failedPurchasingItem">"Failed to purchase items.
+Please try again."</string>
+    <string name="itemshop_freeitem_ad_msg">"Ads will show after downloading free items.
+Advertising revenue will be used to improve Cymera service."</string>
+    <string name="itemshop_guide_account_confirmation">Account confirmation</string>
+    <string name="itemshop_have_no_purchase_history">"There are no purchased items.
+Do you wish to purchase items?"</string>
+    <string name="itemshop_home_recommend_free">Free</string>
+    <string name="itemshop_home_tab_text_1">DECO</string>
+    <string name="itemshop_home_tab_text_2">CATEGORY</string>
+    <string name="itemshop_home_tab_text_3">EFFECT</string>
+    <string name="itemshop_inapp_msg_purchase_excess">"Store account does not correspond with Cymera account for purchased items. 
+Please sign in with Cymera account that was used when purchasing."</string>
+    <string name="itemshop_info_brand_name">Publisher</string>
+    <string name="itemshop_info_category_name">Category</string>
+    <string name="itemshop_info_desc_faq">Settings>FAQ</string>
+    <string name="itemshop_info_desc_type1">"The selected item cannot admit cancellation of order according to 'ACT ON THE CONSUMER PROTECTION IN THE ELECTRONIC COMMERCE TRANSACTIONS, ETC.' and 'the Contents Industry Promotion Act'."</string>
+    <string name="itemshop_info_desc_type2">For more details about the items, please refer to %1$s.</string>
+    <string name="itemshop_info_duration_type">Effective date</string>
+    <string name="itemshop_info_product_name">Item</string>
+    <string name="itemshop_info_product_price">Price</string>
+    <string name="itemshop_info_supported_os">OS Support</string>
+    <string name="itemshop_login_description">"In order to enjoy paid/free items in a safer way,
+sign in or sign up now!"</string>
+    <string name="itemshop_login_title">Sign In/Sign Up</string>
+    <string name="itemshop_main_reco">Recommended</string>
+    <string name="itemshop_main_title">Item shop</string>
+    <string name="itemshop_main_title2">Item shop</string>
+    <string name="itemshop_migration">Optimizing service...</string>
+    <string name="itemshop_my_deleteitem_title">Delete item</string>
+    <string name="itemshop_my_deleteitem_toast">Deleting completed.</string>
+    <string name="itemshop_my_down_cancle_description">There is an item download in process. Do you wish to cancel?</string>
+    <string name="itemshop_my_down_cancle_title">Cancel download</string>
+    <string name="itemshop_my_title">My items</string>
+    <string name="itemshop_myitem_alert_expiry">The expiration date has been alrealdy passed.</string>
+    <string name="itemshop_myitem_all">All</string>
+    <string name="itemshop_myitem_available">Available</string>
+    <string name="itemshop_myitem_delete_noti_msg">Would you like to delete downloaded %1$s item?</string>
+    <string name="itemshop_myitem_delete_noti_msg2">"Would you like to delete downloaded %1$s item? 
+ For purchased items, you can re-download them at My items."</string>
+    <string name="itemshop_myitem_download_completed">Item has been downloaded.</string>
+    <string name="itemshop_myitem_expired">Expired</string>
+    <string name="itemshop_myitem_no_downloadable_items">All the items have been downloaded already.</string>
+    <string name="itemshop_no_item_title">"You don't have any items yet. 
+Discover awesome new items in the item shop!"</string>
+    <string name="itemshop_popup_download_mission">Unlock to download</string>
+    <string name="itemshop_popup_downloaded_retry">"This item has been purchased in other Cymera account. 
+
+Would you like to download it now?"</string>
+    <string name="itemshop_popup_downloaded_toast">You already downloaded this item.</string>
+    <string name="itemshop_popup_itemtag_button">See more</string>
+    <string name="itemshop_popup_itemtag_editalert">"If you move to the next page, the photo you are editing will not be saved.
+Do you still want to move?"</string>
+    <string name="itemshop_popup_itemtag_editalert_cancle">Cancel</string>
+    <string name="itemshop_popup_itemtag_editalert_go">Move</string>
+    <string name="itemshop_popup_itemtag_message">"Do you want to see
+more pictures that applied this item?"</string>
+    <string name="itemshop_popup_unlimited_period">Unlimitied</string>
+    <string name="itemshop_popup_usenow">Use now</string>
+    <string name="itemshop_preload_item_dialog_message_01">Add personality to your photo edits with Cymera</string>
+    <string name="itemshop_preload_item_dialog_message_02">Basic Items</string>
+    <string name="itemshop_preload_item_dialog_message_03">Download now!</string>
+    <string name="itemshop_preload_item_dialog_message_04">(Total size:%1$s)</string>
+    <string name="itemshop_preload_item_dialog_message_05">After downloading you can use the “Menu” mode normally.</string>
+    <string name="itemshop_preload_item_dialog_message_06">We recommend downloading when you are in a Wi-Fi network.</string>
+    <string name="itemshop_preload_item_intro_message">"Cymera Basic Items for Photo Editing (10MB) was not downloaded.
+
+Would you like to download now?
+※An additional fee can be charged depending on the circumstance of your data."</string>
+    <string name="itemshop_preload_state_connecting">Waiting for download to start.</string>
+    <string name="itemshop_preload_state_sdcard_unavailable">Download failed because the external storage is full.</string>
+    <string name="itemshop_preload_state_unzip">Preloaded items is being extracted..</string>
+    <string name="itemshop_promotion_info">This is a promotional package so it will NOT be preserved in case of changing the device or deleting Cymera.</string>
+    <string name="itemshop_promotion_itemlist">Promotional Items</string>
+    <string name="itemshop_promotion_msg_cancel">You can re-download event items at Itemshop> My menu.</string>
+    <string name="itemshop_promotion_msg_complete">"Downloaded event items can be used at '%1$s' menu."</string>
+    <string name="itemshop_promotion_msg_download">Do you wish to download event items?</string>
+    <string name="itemshop_promotion_msg_sto">"Download has stopped.
+You can either try again now, or re-download the item(s) later at Itemshop>My."</string>
+    <string name="itemshop_promotion_msg_title">Item shop open celebration</string>
+    <string name="itemshop_push_agree">I agree to receive push notifications related to event information and marketing.</string>
+    <string name="itemshop_push_aos_subtext">To push notification setting on Android device go to: Device Settings > Apps > Cymera > and turn off the Show Notifications arrow.</string>
+    <string name="itemshop_push_off_alert_btn">Set up</string>
+    <string name="itemshop_push_popup_agree">"The acceptance of the receipt of push notification was completed. 
+
+%1$s"</string>
+    <string name="itemshop_push_refuse">"The denial of the receipt of push notification was completed.
+
+%1$s"</string>
+    <string name="itemshop_push_title">Marketing event notifications</string>
+    <string name="itemshop_search_hint">Search for items</string>
+    <string name="itemshop_search_tab_item">ITEMS</string>
+    <string name="itemshop_search_tab_tag">TAGS</string>
+    <string name="itemshop_specialitems_title">Collection</string>
+    <string name="itemshop_todaysfree_info_video">If you watch the commercial without stopping it, you can download and use free items for a limited time.</string>
+    <string name="itemshop_todaysfree_mission_back_alert">Sorry, failed to confirm if the mission has been carried out.</string>
+    <string name="label_cymera_album">Cymera Gallery</string>
+    <string name="lg_pp_detail">Details</string>
+    <string name="light_category_1">Color</string>
+    <string name="light_category_2">Shape</string>
+    <string name="light_category_3">Theme</string>
+    <string name="login">Sign In</string>
+    <string name="login_regist">Sign Up</string>
+    <string name="make_new_album">Create Album</string>
+    <string name="meme_bottomtext">Bottom text</string>
+    <string name="meme_entertext">Enter text here</string>
+    <string name="meme_subtext">Sub text</string>
+    <string name="meme_title">MEME</string>
+    <string name="meme_titletext">Headline text</string>
+    <string name="meme_toptext">Top text</string>
+    <string name="menu">Menu</string>
+    <string name="menu_my_profile">PROFILE</string>
+    <string name="month_day_ap_time">"MM/dd 'at' h:mm a"</string>
+    <string name="more_Evaluate">Assessment</string>
+    <string name="more_Search">Search</string>
+    <string name="more_youtube">YouTube</string>
+    <string name="mosaic_desc">Rub the area to apply the effects.</string>
+    <string name="my_activity_title">My News</string>
+    <string name="nation_spiner_code">code</string>
+    <string name="nation_spiner_korea">korea</string>
+    <string name="network_error_retry">Retry</string>
+    <string name="network_error_text">The content cannot be marked.</string>
+    <string name="network_fail">Cannot access the Internet.</string>
+    <string name="new_version_update">"There is a new feature.
+Do you want to update now?"</string>
+    <string name="no_album">No albums created.</string>
+    <string name="no_photo">There are no photos that you shared.</string>
+    <string name="no_recent_applied_item">No items have been applied lately.</string>
+    <string name="no_storage">Insert SD card.</string>
+    <string name="not_enough_space">SD card storage is full.</string>
+    <string name="noti_AM">AM</string>
+    <string name="noti_PM">PM</string>
+    <string name="noti_album_reject">Would you reject joining %1$s album?</string>
+    <string name="noti_album_reject_again">"Don't get the invitation again."</string>
+    <string name="noti_app_update">Cymera</string>
+    <string name="noti_app_update_desc">A new version of Cymera is available. Please check new features of Cymera now.</string>
+    <string name="noti_blank_desc">No updated news.</string>
+    <string name="noti_day">day</string>
+    <string name="noti_facefail_change_touch1">"Convert to 'manual mode' as it failed to recognize the face.
+Touch the range directly."</string>
+    <string name="noti_facefail_change_touch2">"Failed to recognize the face.
+Move to manual Liquify?"</string>
+    <string name="noti_go">Go</string>
+    <string name="noti_hourago">%1$sh</string>
+    <string name="noti_ignore">Ignore</string>
+    <string name="noti_justbefore">1s</string>
+    <string name="noti_minago">%1$smin</string>
+    <string name="noti_month">month</string>
+    <string name="noti_type01">"%1$s invited you to %2$s.
+Share new photos!"</string>
+    <string name="noti_type01_accept">Accept</string>
+    <string name="noti_type01_reject">Decline</string>
+    <string name="noti_type05">%1$s left a comment on my photo.</string>
+    <string name="noti_type06">Your friend %1$s started Cymera.</string>
+    <string name="noti_type07">"%1$s shared a new photo in %2$s.
+Retouch your friend's photo."</string>
+    <string name="noti_type08">%1$s changed %2$s album to %3$s album.</string>
+    <string name="noti_type09">%1$s retouched my photo.</string>
+    <string name="noti_type13">"%1$s also left a comment on %2$s's photo."</string>
+    <string name="noti_type15">%1$s is now your friend.</string>
+    <string name="noti_type16">%1$s joined %2$s.</string>
+    <string name="noti_type17">%1$s is happy with my photo.</string>
+    <string name="noti_type18">%1$s laughs at my photo.</string>
+    <string name="noti_type19">%1$s loves my photo.</string>
+    <string name="noti_type20">%1$s is startled by my photo.</string>
+    <string name="noti_type21">%1$s sobs at my photo.</string>
+    <string name="noti_type22">%1$s snarls at my photo.</string>
+    <string name="noti_type23">%1$s is happy with the photo I retouched.</string>
+    <string name="noti_type24">%1$s laughed at the photo I retouched.</string>
+    <string name="noti_type25">%1$s loves the photo I retouched.</string>
+    <string name="noti_type26">%1$s is startled by the photo I retouched.</string>
+    <string name="noti_type27">%1$s sobbed at the photo I retouched.</string>
+    <string name="noti_type28">%1$s snarled at the photo I retouched.</string>
+    <string name="noti_type29">%1$s was happy at my photo and sent a message.</string>
+    <string name="noti_type30">%1$s laughed at my photo and sent a message.</string>
+    <string name="noti_type31">%1$s loved my photo and sent a message.</string>
+    <string name="noti_type32">%1$s was startled at my photo and sent a message.</string>
+    <string name="noti_type33">%1$s sobbed at my photo and sent a message.</string>
+    <string name="noti_type34">%1$s snarled at my photo and sent a message.</string>
+    <string name="noti_type35">%1$s was happy at my retouched photo and sent a message.</string>
+    <string name="noti_type36">%1$s laughed at my retouched photo and sent a message.</string>
+    <string name="noti_type37">%1$s loved my retouched photo and sent a message.</string>
+    <string name="noti_type38">%1$s was startled at my retouched photo and sent a message.</string>
+    <string name="noti_type39">%1$s sobbed at my retouched photo and sent a message.</string>
+    <string name="noti_type40">%1$s snarled at my retouched photo and sent a message.</string>
+    <string name="noti_type43">%1$s left a comment on my retouched photo.</string>
+    <string name="noti_type44">"%1$s retouched %2$s's photo."</string>
+    <string name="noti_type45">"%1$s facepoped %2$s's photo."</string>
+    <string name="noti_type47">%1$s retouched my photo using facepop.</string>
+    <string name="noti_type49">%1$s is following you.</string>
+    <string name="noti_type50">%1$s is following you.</string>
+    <string name="pageloading_error">Page loading failed.</string>
+    <string name="period">Period</string>
+    <string name="permission_camera_toast">Cymera permission for [Camera] needs to be ON.</string>
+    <string name="permission_popup_button_settings">Set permissions</string>
+    <string name="permission_popup_content">"Permission for access needs to be allowed for a normal funtioning of the usage. Please turn the Cymera's permission ON."</string>
+    <string name="permission_popup_title">Permission Settings</string>
+    <string name="photo_attach_max_alert">"You can upload up to 10 photos.
+Please adjust the number of photos to add."</string>
+    <string name="photo_collage_max_alert">You can select up to %1$s photos.</string>
+    <string name="photo_comments">Comment</string>
+    <string name="photo_saved">Saved picture</string>
+    <string name="photo_stamp">Stamp</string>
+    <string name="photo_upload_select_alert">Please select a photo.</string>
+    <string name="photobox_camera_nophoto">There are no photos taken with Cymera.</string>
+    <string name="photobox_date_num_pic">1Photo</string>
+    <string name="photobox_date_num_pics">%1$sPhotos</string>
+    <string name="photobox_date_today">Today</string>
+    <string name="photobox_delete_photo">"Do you want to delete?
+All of the selected photos will be deleted permanently."</string>
+    <string name="photobox_delete_photos">"Would you like to delete %1$s photos?
+All of the selected photos will be deleted permanently."</string>
+    <string name="photobox_select_picture">Please select a photo.</string>
+    <string name="plus_generic_error">Failed to Google sign-in</string>
+    <string name="popular_user">Popular users</string>
+    <string name="popular_user_desc">"These are popular users of Cymera. 
+Follow 5 of them and subscribe their wonderful pictures."</string>
+    <string name="popular_user_done">Perfect!</string>
+    <string name="popup_button_close">Close</string>
+    <string name="preparing_sd">SD card recognizing in process…</string>
+    <string name="preset_item_food">Food</string>
+    <string name="preset_item_land">Scenery</string>
+    <string name="preset_item_port">Portrait</string>
+    <string name="preset_item_text">Text</string>
+    <string name="preview_shot">Preview</string>
+    <string name="profile_before_login">Show your best editing styles!</string>
+    <string name="profile_loading_fail_msg">Failed loading profile information.</string>
+    <string name="profile_setting">Profile Settings</string>
+    <string name="push_notification_update">There is a new feature. Do you want to update now?</string>
+    <string name="recent_search_history">Recent search history</string>
+    <string name="recommend_album">Recommended Albums</string>
+    <string name="recommend_album_desc">Recommended album description</string>
+    <string name="recommend_photo_guide_message">"Edit your photos
+with just one touch"</string>
+    <string name="recommend_title">Recommended Photos</string>
+    <string name="report_photo">Report</string>
+    <string name="report_photo_fail">Failed to report</string>
+    <string name="report_photo_success">Successfully reported.</string>
+    <string name="retouch_actionbar_title">Face Pop</string>
+    <string name="retouch_album_join_alert">Only members who have joined the album can retouch photos.Do you want to join %1$s?</string>
+    <string name="retouch_cant_join_album">"It's not possible to retouch on albums that you are not authorized."</string>
+    <string name="retouch_default_text1">Live, Laugh, Love</string>
+    <string name="retouch_default_text2">"It's all good"</string>
+    <string name="retouch_default_text3">Enjoy the little things</string>
+    <string name="retouch_default_text4">Forever Young!</string>
+    <string name="retouch_time_0001">Midnight</string>
+    <string name="retouch_time_0205">The night is young</string>
+    <string name="retouch_time_0607">Hello, sunshine</string>
+    <string name="retouch_time_0811">New day!</string>
+    <string name="retouch_time_1213">Happy Lunchtime</string>
+    <string name="retouch_time_1417">Living the dream!</string>
+    <string name="retouch_time_1819">Great meal!</string>
+    <string name="retouch_time_2023">Out with Friends</string>
+    <string name="retouch_trymessage1">Sign-up now to photoplay with your friends!</string>
+    <string name="retouch_trymessage2">Share this pic and have fun retouching!</string>
+    <string name="save_large_size">2048px</string>
+    <string name="save_max_size">4096px</string>
+    <string name="save_normal_size">1024px</string>
+    <string name="save_original_size">%1$dpx</string>
+    <string name="save_photo">Save photo</string>
+    <string name="save_small_size">700px</string>
+    <string name="sdcard_kitkatos_message">Android 4.4 or later OS version does not support the external storage feature.</string>
+    <string name="search_album_member">%1$s Member</string>
+    <string name="search_album_members">%1$s Members</string>
+    <string name="search_bar_text">Search tags,people,albums</string>
+    <string name="search_keyword_blank">There are no recent search history.</string>
+    <string name="search_tab_album">ALBUMS</string>
+    <string name="search_tab_people">PEOPLE</string>
+    <string name="search_tab_tag">TAGS</string>
+    <string name="select_album">Select an album</string>
+    <string name="send01">Send</string>
+    <string name="service_better_crash_title">Crash Report</string>
+    <string name="service_better_detail">"Send an error information to server automatically in case of unexpected closing. 
+- Sending information: Device, OS, App version, error detail.
+- Privacy is not included."</string>
+    <string name="service_better_ga_message">"Active data of app and device information is transmitted to Google Inc. to analyze the Service use by users.
+- Privacy is not included."</string>
+    <string name="service_better_ga_title">Google Analytics</string>
+    <string name="service_better_title">Service improvement</string>
+    <string name="set_album_cover">Set as album cover photo</string>
+    <string name="setting_SyncDesc">If your connection is disabled, you cannot synchronize or export your friend list.</string>
+    <string name="setting_account_fb">Facebook</string>
+    <string name="setting_account_gp">Google</string>
+    <string name="setting_account_pw_register">Enter Password</string>
+    <string name="setting_account_pw_register_desc">If you register a password, you can sign in with your e-mail address even if you delete your external verification account (Facebook,Google+,Sina Weibo).</string>
+    <string name="setting_account_weibo">Sina Weibo</string>
+    <string name="setting_agree_friendauto">"Cymera wants to access your Contacts to find your friends. 
+Register your phone number in Settings > My Profile to enable your friends to find you."</string>
+    <string name="setting_alarm_group_title1">Basic Settings</string>
+    <string name="setting_alarm_group_title2">Advanced Settings</string>
+    <string name="setting_alarm_title1">Get Notifications</string>
+    <string name="setting_alarm_title10">Following notifications</string>
+    <string name="setting_alarm_title11">Sign up of friends</string>
+    <string name="setting_alarm_title1_desc">You will get push notifications of friend requests, retouches/comments, album invitations, etc.</string>
+    <string name="setting_alarm_title2">Sounds</string>
+    <string name="setting_alarm_title3">Vibration</string>
+    <string name="setting_alarm_title4">Notifications of album invitations</string>
+    <string name="setting_alarm_title5">Comments</string>
+    <string name="setting_alarm_title6">Stamps</string>
+    <string name="setting_alarm_title7">Retouches</string>
+    <string name="setting_alarm_title8">Comments on my comments</string>
+    <string name="setting_album">Album Settings</string>
+    <string name="setting_album_add_member">Invite members</string>
+    <string name="setting_album_member">Members</string>
+    <string name="setting_album_member_invite_result">The selected friends have been invited.</string>
+    <string name="setting_album_member_invited">Invited</string>
+    <string name="setting_album_membercounttitle">Members(%1$s)</string>
+    <string name="setting_album_noti_desc">You will receive notifications for all album updates, new photos, comments, retouches, etc.</string>
+    <string name="setting_album_noti_info">Receive notifications of my comments.</string>
+    <string name="setting_album_noti_new">Album Notification</string>
+    <string name="setting_album_open">Album privacy</string>
+    <string name="setting_album_open_all">Public Album</string>
+    <string name="setting_album_open_desc">The album will be open to the public and anyone can join.</string>
+    <string name="setting_album_open_member">Private Album</string>
+    <string name="setting_album_out">Exit Album</string>
+    <string name="setting_album_out_desc1">Do you want to exit %1$s?</string>
+    <string name="setting_album_out_desc2">Your uploaded photos/comments will remain even though you exit the album.</string>
+    <string name="setting_album_private_desc">The album will be private to you and those you invited.</string>
+    <string name="setting_album_public_join">Public Album Settings</string>
+    <string name="setting_album_public_join_off">"Only people invited by me can join my album, even if it's a public one."</string>
+    <string name="setting_album_public_join_on">Anyone can join my public album.</string>
+    <string name="setting_album_rename">Change Album Name</string>
+    <string name="setting_album_rename_hint">Enter an album name.</string>
+    <string name="setting_bugreport_agree">Collection and Usage of Personal Information Agreement</string>
+    <string name="setting_bugreport_agree2">I agree to the Collection and Usage of Personal Information Agreement mentioned above</string>
+    <string name="setting_bugreport_agree_description">"• Collection purpose: To check errors and reply questions or comments
+• Information collected: Email, OS, terminal and language information
+• Period of storage: will be destroyed after 3 years"</string>
+    <string name="setting_bugreport_bug">Report a bug</string>
+    <string name="setting_bugreport_emailvalidate">E-mail format is not valid.</string>
+    <string name="setting_bugreport_fail_code">Your suggestion could not be sent. Please try sending it again.</string>
+    <string name="setting_bugreport_fail_empty">Input contents</string>
+    <string name="setting_bugreport_id">Email (optional)</string>
+    <string name="setting_bugreport_info">"Please type your ideas for Cymera. 
+(Be careful not to insert your personal information)."</string>
+    <string name="setting_bugreport_info_bug">"Type detailed information about the errors.
+(Be careful not to insert your personal information)."</string>
+    <string name="setting_bugreport_inputemail">"If you don't insert it will be
+impossible to answer."</string>
+    <string name="setting_bugreport_maxlimit">You can input up to 1500 characters.</string>
+    <string name="setting_bugreport_note">Contents</string>
+    <string name="setting_bugreport_propose">Suggestions</string>
+    <string name="setting_bugreport_question">1:1 Questions</string>
+    <string name="setting_bugreport_sort">Type</string>
+    <string name="setting_bugreport_succeed">Report has been sent. Your suggestion will be of great help for us to make a better Cymera.</string>
+    <string name="setting_cannot_save_original">Saving the original image.</string>
+    <string name="setting_category_00_title">Account Settings</string>
+    <string name="setting_category_01_title">Image Settings</string>
+    <string name="setting_category_02_title">Shoot Settings</string>
+    <string name="setting_category_03_title">Front Camera Settings</string>
+    <string name="setting_category_05_title">Camera Settings</string>
+    <string name="setting_category_07_title">Service Help</string>
+    <string name="setting_category_16_title">General Settings</string>
+    <string name="setting_change_pw">Change Password</string>
+    <string name="setting_delete_account1">Do you really want to delete your account?</string>
+    <string name="setting_delete_account2">"If you delete your account, all the information stored in your Cymera account such as your profile information, friends list, album list, items etc. will be deleted.
+
+Even after your account has been deleted, you cannot delete the comments and photos in the albums you have already shared with your friends."</string>
+    <string name="setting_delete_account3">Delete your Cymera account and all of your information.</string>
+    <string name="setting_done">Done</string>
+    <string name="setting_download_all">Download All</string>
+    <string name="setting_download_network_warning">Mobile data users: there might be extra charges depending on your data plan with your service provider. Would you like to continue?</string>
+    <string name="setting_download_stop_working">Download is progressing. Stop now?</string>
+    <string name="setting_downloading_items">Downloading...</string>
+    <string name="setting_drop_original">OFF</string>
+    <string name="setting_editing_description">You can set the editing mode after taking photos.</string>
+    <string name="setting_friend_syncdesc">Your Contacts will be synchronized and Cymera will recommend friends who are using the service. Click the Refresh button if you want to synchronize your friends list manually.</string>
+    <string name="setting_frontcam_off">OFF</string>
+    <string name="setting_frontcam_on">ON</string>
+    <string name="setting_frontcam_vert_desc">If the photos do not appear properly on the self-shot mode, you can switch the direction of the display here.</string>
+    <string name="setting_gallery_start_all">All</string>
+    <string name="setting_gallery_start_cymera">Cymera</string>
+    <string name="setting_guideline_off">OFF</string>
+    <string name="setting_guideline_on">ON</string>
+    <string name="setting_help_init">Service Help has been set to be displayed for each feature.</string>
+    <string name="setting_inline_editing">Edit immediately</string>
+    <string name="setting_large_size">High resolution (2048px)</string>
+    <string name="setting_location_off">OFF</string>
+    <string name="setting_location_on">ON</string>
+    <string name="setting_login_bt">Sign In</string>
+    <string name="setting_max_size">Max.</string>
+    <string name="setting_max_size_alert">Shooting will be available in the maximum size supported in accordance with the terminal, and the use of the service may not be smooth if the memory is insufficient.</string>
+    <string name="setting_menu_001_title">My Profile</string>
+    <string name="setting_menu_002_title">Manage Friends</string>
+    <string name="setting_menu_02_title">Sharing</string>
+    <string name="setting_menu_03_title">Camera Settings</string>
+    <string name="setting_menu_04_title">Notices</string>
+    <string name="setting_menu_05_title">FAQ</string>
+    <string name="setting_menu_06_title">Service Information</string>
+    <string name="setting_menu_06_update_no_message">This version is up-to-date.</string>
+    <string name="setting_menu_07_title">Official Page</string>
+    <string name="setting_menu_08_title">Feedback</string>
+    <string name="setting_menu_09_title">Show Service Help Again</string>
+    <string name="setting_menu_10_title">Download item</string>
+    <string name="setting_menu_11_title">Video Tutorial</string>
+    <string name="setting_menu_21_title">Share to Facebook</string>
+    <string name="setting_menu_22_title">Share to Twitter</string>
+    <string name="setting_menu_23_title">Export to Mixi</string>
+    <string name="setting_menu_24_title">Share to Sina Weibo</string>
+    <string name="setting_menu_27_title">Share to Tumblr</string>
+    <string name="setting_menu_29_title">Volume Button Setting</string>
+    <string name="setting_menu_30_title">Watermark</string>
+    <string name="setting_menu_31_title">Edit Option</string>
+    <string name="setting_menu_32_title">Image Size</string>
+    <string name="setting_menu_33_title">Gridline</string>
+    <string name="setting_menu_34_title">Timer</string>
+    <string name="setting_menu_35_title">Location Service</string>
+    <string name="setting_menu_36_title">Sequence Time Interval</string>
+    <string name="setting_menu_37_title">Flip-H</string>
+    <string name="setting_menu_38_title">Silent Mode</string>
+    <string name="setting_menu_39_title">Save Original Image</string>
+    <string name="setting_menu_40_title">Flip-V</string>
+    <string name="setting_menu_63_title">Storage location</string>
+    <string name="setting_menu_65_title">Friend Recommendations &amp; Searches</string>
+    <string name="setting_menu_66_title">Push Notifications</string>
+    <string name="setting_menu_67_title">Signed out</string>
+    <string name="setting_menu_68_title">Manage Blocked Friends</string>
+    <string name="setting_menu_70_title">Sign In or Sign up</string>
+    <string name="setting_menu_71_title">Synchronize Friends List</string>
+    <string name="setting_menu_72_title">Updated : %1$s</string>
+    <string name="setting_menu_gallery_startup">Main Album</string>
+    <string name="setting_menu_opensource_title">Open Source Information</string>
+    <string name="setting_needto_autoregister">Turn on auto friend synchronization.</string>
+    <string name="setting_no_item_title">Item does not exist.</string>
+    <string name="setting_normal_size">Large (1024px)</string>
+    <string name="setting_notice_important">[Update]</string>
+    <string name="setting_ok">OK</string>
+    <string name="setting_opinion_device_info">Device</string>
+    <string name="setting_opinion_email">E-mail</string>
+    <string name="setting_opinion_language_info">Language</string>
+    <string name="setting_opinion_nodevice">"An e-mail account is required to continue.
+Please try again after setting up your e-mail account."</string>
+    <string name="setting_opinion_os_info">OS</string>
+    <string name="setting_opinion_title">Feedback</string>
+    <string name="setting_opinion_version_info">Version</string>
+    <string name="setting_outline_editing">Edit later</string>
+    <string name="setting_profile_delete_account">Delete Account</string>
+    <string name="setting_profile_emailregister">Register e-mail</string>
+    <string name="setting_profile_emailregister_desc">If you register an e-mail, you can signed out.</string>
+    <string name="setting_profile_name">Name</string>
+    <string name="setting_profile_phonenum">Phone number</string>
+    <string name="setting_profile_pw_agree">Accept and complete</string>
+    <string name="setting_profile_pw_desc">I agree to preserve my password when my account on another social network is deleted (We will keep your password safe until you delete the Cymera).</string>
+    <string name="setting_profile_rename_desc">Name</string>
+    <string name="setting_pwregister_desc">The account used for registration cannot be disconnected.</string>
+    <string name="setting_register_friend_off">OFF</string>
+    <string name="setting_register_friend_on">ON</string>
+    <string name="setting_remove_all">Delete All</string>
+    <string name="setting_rename_disablecharacter">Invalid characters are included.</string>
+    <string name="setting_save_external">External</string>
+    <string name="setting_save_internal">Internal</string>
+    <string name="setting_save_later">Edit after taking photo</string>
+    <string name="setting_save_original">ON</string>
+    <string name="setting_search_friend_desc">You will be recommended to other people who may know you, and your friends will be able to find you by using the member search function.</string>
+    <string name="setting_small_size">Profile (700px)</string>
+    <string name="setting_sound_off">OFF</string>
+    <string name="setting_sound_on">ON</string>
+    <string name="setting_sound_on_info">The flash can’t be used in the silent mode. This feature is for not disrupting others in public.</string>
+    <string name="setting_svcinfo_currentver">Current Version: %1$s</string>
+    <string name="setting_svcinfo_latest">Latest Version: %1$s</string>
+    <string name="setting_svcinfo_text1"><u>Terms of Service</u></string>
+    <string name="setting_svcinfo_text2"><u>Privacy Policy</u></string>
+    <string name="setting_svcinfo_update">Update</string>
+    <string name="setting_syncoff_desc">If you disable the synchronization, you will not receive recommendations of friends who use Cymera</string>
+    <string name="setting_timer_cont_desc">Adjust the time interval for the burst mode.</string>
+    <string name="setting_timer_type">Sec</string>
+    <string name="setting_title">Settings</string>
+    <string name="setting_title_aux_account">Connect External Account</string>
+    <string name="setting_use_location">"The following function would like to use your current location : Cymera
+Would you like to use the location service?"</string>
+    <string name="setting_volume_desc">Select your desired function with the volume button.</string>
+    <string name="setting_volume_shoot">Photo Shooting</string>
+    <string name="setting_volume_zoom">Zoom in/out</string>
+    <string name="setting_watermark_desc">Watermark will appear in the picture during editing.</string>
+    <string name="share_app_caption">Easy, Fun, Life Share</string>
+    <string name="share_app_name">Cymera</string>
+    <string name="share_btn">SHARE</string>
+    <string name="share_cymera">Share to cymera album</string>
+    <string name="share_dialog_export">Export</string>
+    <string name="share_dialog_setwallpaper">Set as wallpaper.</string>
+    <string name="share_dialog_setwallpaper_confirm">Do you want to set this picture as wallpaper?</string>
+    <string name="share_dialog_setwallpaper_fail">Failed to set wallpaper.</string>
+    <string name="share_dialog_title">Share Photos</string>
+    <string name="share_dialog_wallpaper">Set as backgound</string>
+    <string name="share_email">E-mail</string>
+    <string name="share_export_warning">You can only share one photo at a time.</string>
+    <string name="share_extra_default_text">From Cymera</string>
+    <string name="share_facebook">Facebook</string>
+    <string name="share_fail_connect">Connection to %1$s failed.</string>
+    <string name="share_fail_create_album">Failed to create an album.</string>
+    <string name="share_friends_noti">Share this photo with your Cymera friends.</string>
+    <string name="share_from_gallery">Select from Gallery</string>
+    <string name="share_info_members">and %1$d other members</string>
+    <string name="share_info_text_ctag">Functions and items used for photo editing.</string>
+    <string name="share_load_fail_albumlist">Failed to bring the album list.</string>
+    <string name="share_maxlimit_tag">You can input up to 30 characters.</string>
+    <string name="share_maxlimit_text">You can input up to 300 characters.</string>
+    <string name="share_member_only_info">"The album will be private to you 
+and those you invited."</string>
+    <string name="share_members">Members</string>
+    <string name="share_no_selected_album">There are no selected albums or photos.</string>
+    <string name="share_noti_noapp">"Not installed.
+Try again after installing."</string>
+    <string name="share_one_member">Member</string>
+    <string name="share_one_photo">Photo</string>
+    <string name="share_other_sns">Share together</string>
+    <string name="share_others">Others</string>
+    <string name="share_photo_cancel_msg">"There is a post currently processing.
+Do you want to stop the upload?"</string>
+    <string name="share_photo_text">\#Express yourself about the pictures</string>
+    <string name="share_photos">Photos</string>
+    <string name="share_prohibit_upload">You cannot upload photos directly to profile or cover album.</string>
+    <string name="share_public_info">The album will be open to the public and anyone can join.</string>
+    <string name="share_recommend_info">Share it!</string>
+    <string name="share_sms">Messages</string>
+    <string name="share_take_photo">Take photo</string>
+    <string name="share_tumblr">Tumblr</string>
+    <string name="share_twitter">Twitter</string>
+    <string name="share_url">URL</string>
+    <string name="share_weibo">Sina Weibo</string>
+    <string name="shooting_again">Retake</string>
+    <string name="skauth_agree_personal_info_text">Collection and Usage of Personal Information Agreement</string>
+    <string name="skauth_agree_svc_text">Terms of Service</string>
+    <string name="skauth_bridge_main">Sign In or Sign up</string>
+    <string name="skauth_bridge_sub">"Create an album with your friends 
+and have fun
+by retouching photos!"</string>
+    <string name="skauth_change_email">Change e-mail</string>
+    <string name="skauth_change_phonenumber">Change Phone number</string>
+    <string name="skauth_changed_phonenum">Your phone number has been changed to %1$s.</string>
+    <string name="skauth_current_email">Current e-mail</string>
+    <string name="skauth_delete_errormessage_text">An error occurred while deleting your account.</string>
+    <string name="skauth_delete_succmessage_text">Your account has been deleted.</string>
+    <string name="skauth_dialog_calcelbtn_text">Cancel</string>
+    <string name="skauth_dialog_loginbtn_text">Sign In</string>
+    <string name="skauth_dialog_regbtn_text">Sign up</string>
+    <string name="skauth_dialog_regist_desc">"The phone number you entered already exists. 
+Select one of the following:"</string>
+    <string name="skauth_done">Done</string>
+    <string name="skauth_email_hint">Enter e-mail Address</string>
+    <string name="skauth_error_sms_text">Enter your authentication number correctly.</string>
+    <string name="skauth_findpwd_btn">Send e-mail</string>
+    <string name="skauth_findpwd_confirmemail">Check Email</string>
+    <string name="skauth_findpwd_email_messsage">Enter correct e-mail address.</string>
+    <string name="skauth_findpwd_guide">Insert your registered email and will be sent a link to change your password.</string>
+    <string name="skauth_findpwd_phone_messsage">Please enter a valid phone number.</string>
+    <string name="skauth_findpwd_sentemail">A link was sent to %1$s , to reset the password.</string>
+    <string name="skauth_invite_weibo">Would you like to invite %1$s friends?</string>
+    <string name="skauth_invite_weibo_btn">Invite</string>
+    <string name="skauth_invite_weibo_info">It may be impossible to invite friends to Cymera if you have not sent or received messages of them.</string>
+    <string name="skauth_invite_weibo_result">Between %1$s friends invited, %2$s have been invited to the Cymera.</string>
+    <string name="skauth_location_agree_text">I agree to the Terms of Location-Based Services.</string>
+    <string name="skauth_login_desc">Already registered?</string>
+    <string name="skauth_login_errormessage_text">Enter correct e-mail address.</string>
+    <string name="skauth_login_nationtitlelist">Select your country</string>
+    <string name="skauth_login_neverpost_desc">Cymera does not post anything without your permission.</string>
+    <string name="skauth_login_passwd_text">Find Password</string>
+    <string name="skauth_login_passwd_text_bt">Find Password</string>
+    <string name="skauth_login_register_email_desc">If you register an e-mail, you can import information from your Cymera account even after your device/phone number changes.</string>
+    <string name="skauth_login_register_email_later">Register Later</string>
+    <string name="skauth_login_title">Sign In</string>
+    <string name="skauth_my_curpasswd_message">Enter current password</string>
+    <string name="skauth_my_email_comment_text2">The e-mail format is not valid.</string>
+    <string name="skauth_my_email_comment_text3">The e-mail format is not valid.</string>
+    <string name="skauth_my_email_hint">Enter your correct e-mail.</string>
+    <string name="skauth_my_email_save">Register</string>
+    <string name="skauth_my_email_sub_text">Enter e-mail address</string>
+    <string name="skauth_my_newpasswd_message">Enter 6 to 20 characters for your password.</string>
+    <string name="skauth_my_passwd_change">Change password</string>
+    <string name="skauth_my_passwd_cur_hint">Current password</string>
+    <string name="skauth_my_passwd_hint">Enter password</string>
+    <string name="skauth_my_passwd_message">Enter 6 to 20 characters for your password.</string>
+    <string name="skauth_my_passwd_new_hint">New password</string>
+    <string name="skauth_my_passwd_save_message">Your password has been changed.</string>
+    <string name="skauth_my_passwd_sub_small_text">(6 to 20 characters)</string>
+    <string name="skauth_my_passwd_sub_text">Enter password</string>
+    <string name="skauth_my_repasswd_hint">Re-enter password</string>
+    <string name="skauth_my_repasswd_message">Password does not match.</string>
+    <string name="skauth_my_title">Register e-mail</string>
+    <string name="skauth_nameform_message_text1">Please enter at least 2 characters.</string>
+    <string name="skauth_nameform_message_text2">You can enter up to 50 characters.</string>
+    <string name="skauth_next1_text">Verify authentication number.</string>
+    <string name="skauth_next2_text">Next</string>
+    <string name="skauth_phone_title">Change Phone number</string>
+    <string name="skauth_profile_none_text">Enter your name.</string>
+    <string name="skauth_reg_duplication_email_message_text2">%1$s is already being used.</string>
+    <string name="skauth_reg_phone_wrongmessage_text">Incorrect phone number!</string>
+    <string name="skauth_reg_profile_errormessage_text">There was a temporary problem loading data.</string>
+    <string name="skauth_reg_regist_btn_text">Sign Up</string>
+    <string name="skauth_regi_phonenumber">Register phone number</string>
+    <string name="skauth_send_retry"><u>Get a new verification number</u></string>
+    <string name="skauth_sign_email">Email Address</string>
+    <string name="skauth_sign_or">Or</string>
+    <string name="skauth_sign_pckeyboard">PC Keyboard</string>
+    <string name="skauth_sign_pwd">Password</string>
+    <string name="skauth_sign_pwdhide">Hide</string>
+    <string name="skauth_sign_pwdshow">Show</string>
+    <string name="skauth_signin_facebook">Sign in with Facebook</string>
+    <string name="skauth_signin_google">Sign in with Google</string>
+    <string name="skauth_signin_signup">SIGN UP</string>
+    <string name="skauth_signin_signupyet">Not a member yet?</string>
+    <string name="skauth_signin_social">There is no information about your account. Go to the registration page?</string>
+    <string name="skauth_signin_socialsignup">You have been automatically logged in with your %1$s account.</string>
+    <string name="skauth_signin_weibo">Sign in with Sina Weibo</string>
+    <string name="skauth_signup_agree">I have read and agree to all &lt;a href=%1$s>Terms of Service&lt;/a> and &lt;a href=%2$s>Personal Information Collection and Usage Agreement&lt;/a></string>
+    <string name="skauth_signup_agreeko">I have read and agree to all Terms of Service, Personal Information Collection and Usage Agreement.</string>
+    <string name="skauth_signup_agreesignup">Agree and sign up</string>
+    <string name="skauth_signup_facebook">Sign up with Facebook</string>
+    <string name="skauth_signup_google">Sign up with Google</string>
+    <string name="skauth_signup_guide">Edit photos with a variety of items and share them with friends after sign in.</string>
+    <string name="skauth_signup_pwdguide">Choose and enter a combination of 6~20 characters, numbers or special characters.</string>
+    <string name="skauth_signup_readall">Read All Terms</string>
+    <string name="skauth_signup_required">Required</string>
+    <string name="skauth_signup_termsguide">Regarding the Cymera service offered by SK Communications, the conditions and procedures of usage between the company and users, their rights, duties, and responsibilities are regulated.</string>
+    <string name="skauth_signup_weibo">Sign up with Sina Weibo</string>
+    <string name="skauth_sms_retry_send_text">An authentication number has been sent again to <b>%1$s</b>.</string>
+    <string name="skauth_sms_send_text">"A verification number has been sent to
+"<b>%1$s</b>.</string>
+    <string name="skauth_string_phone">phone number (excluding -)</string>
+    <string name="skauth_string_title1">Enter your phone number</string>
+    <string name="skauth_string_title2">Enter verification Number</string>
+    <string name="skauth_string_title3">Profile</string>
+    <string name="skauth_summitform_text">4-digit number</string>
+    <string name="skauth_tochange_email">New e-mail</string>
+    <string name="skauth_welcome">Welcome!</string>
+    <string name="skauth_welcome_desc">"Start creating fun memories
+by decorating and sharing photos with your friends!"</string>
+    <string name="skauth_welcome_makealbum">Create Album</string>
+    <string name="skauth_wrong_phonenumber">Incorrect phone number!</string>
+    <string name="slider_0">0</string>
+    <string name="slider_1">1</string>
+    <string name="slider_2">2</string>
+    <string name="slider_3">3</string>
+    <string name="slider_4">4</string>
+    <string name="slider_5">5</string>
+    <string name="slider_6">6</string>
+    <string name="slider_7">7</string>
+    <string name="slider_8">8</string>
+    <string name="slider_9">9</string>
+    <string name="slider_alpha">Transparency</string>
+    <string name="slider_border">Border Width</string>
+    <string name="slider_color">Color</string>
+    <string name="slider_dot">.</string>
+    <string name="slider_edge">Round Corners</string>
+    <string name="slider_minus">-</string>
+    <string name="slider_plus">+</string>
+    <string name="sns_album_cover">Album cover</string>
+    <string name="sns_bottom_default_recommend_item_message">Mirrored art with just one tap.</string>
+    <string name="sns_bottom_menu_beauty_camera">Beauty Camera</string>
+    <string name="sns_bottom_menu_camera">Camera</string>
+    <string name="sns_bottom_menu_daily_camera">Filter Camera</string>
+    <string name="sns_bottom_menu_gallery">Gallery</string>
+    <string name="sns_bottom_menu_share_photo">Share Photo</string>
+    <string name="sns_comment_more_prev_comment">View previous comments</string>
+    <string name="sns_common_popup_cancel">Cancel</string>
+    <string name="sns_common_popup_ok">OK</string>
+    <string name="sns_friends_recommened_find_addressbook">Find friends via Contacts</string>
+    <string name="sns_friends_recommened_find_facebook">Find friends via Facebook</string>
+    <string name="sns_friends_recommened_find_google">Find friends via Google+</string>
+    <string name="sns_friends_recommened_find_weibo">Find friends via Sina Weibo</string>
+    <string name="sns_friends_request_result_failed">There was a temporary problem in connecting to the server. Please try again later.</string>
+    <string name="sns_invite_comment">%1$s invites you.</string>
+    <string name="sns_menu_home">HOME</string>
+    <string name="sns_menu_profile_album">Album %1$s</string>
+    <string name="sns_menu_profile_albums">Albums %1$s</string>
+    <string name="sns_menu_profile_info_album">%1$s Album</string>
+    <string name="sns_menu_profile_info_albums">%1$s Albums</string>
+    <string name="sns_menu_profile_info_photo">%1$s Photo</string>
+    <string name="sns_menu_profile_info_photos">%1$s Photos</string>
+    <string name="sns_menu_profile_photo">Photo %1$s</string>
+    <string name="sns_menu_profile_photos">Photos %1$s</string>
+    <string name="sns_profile_albums">Albums</string>
+    <string name="sns_profile_change">Change Photo</string>
+    <string name="sns_profile_choose_existing">Select from Gallery</string>
+    <string name="sns_profile_cover_change">Change Cover Photo</string>
+    <string name="sns_profile_cover_picture">Cover Photo</string>
+    <string name="sns_profile_delete">Delete</string>
+    <string name="sns_profile_delete_comment">Do you want to delete this photo?</string>
+    <string name="sns_profile_edit">Change Photo</string>
+    <string name="sns_profile_photos">Photos</string>
+    <string name="sns_profile_profile_picture">Profile Photo</string>
+    <string name="sns_profile_profile_picture_alert">I accept the retention and use of my profile picture for others to identify me, until the moment I delete the picture or my account</string>
+    <string name="sns_profile_take_a_photo">Take photo</string>
+    <string name="sns_profile_toast_delete_cover_photo">Your cover photo has been deleted.</string>
+    <string name="sns_profile_toast_delete_profile_photo">Your profile photo has been deleted.</string>
+    <string name="sns_retouch">Retouch</string>
+    <string name="sns_server_maintanence">"The service is currently undergoing maintenance.
+Sorry for any inconvenience."</string>
+    <string name="sns_setting_album_friend_invited_toast">failed to change ablum information.</string>
+    <string name="sns_share_default_album_name">MM dd yyyy</string>
+    <string name="sns_share_default_album_name_post">"%1$s's Story"</string>
+    <string name="sns_share_enter_album_name">Enter album name.</string>
+    <string name="sns_signin_social_toast">There is no information about your account.</string>
+    <string name="sns_tag_item_download">"Download
+%1$s Item"</string>
+    <string name="sns_tag_try_function">"Try
+%1$s"</string>
+    <string name="sns_tag_try_item">Try %1$s item</string>
+    <string name="sns_tag_try_item_1">Try item</string>
+    <string name="sns_unknown_profile_comment">Invalid user</string>
+    <string name="sns_unknown_profile_name">Unknown user</string>
+    <string name="stamp_more">view previous stamps</string>
+    <string name="stemp_error_message">Please try again later.</string>
+    <string name="sticker_editor_color">Color</string>
+    <string name="sticker_editor_flip_h">Flip H</string>
+    <string name="sticker_editor_flip_v">Flip V</string>
+    <string name="sticker_editor_rotate_90">Rotate</string>
+    <string name="sticker_editor_transparency">Transparency</string>
+    <string name="storage_change_notice">"Unable to find external memory. Content will be saved on internal memory.
+You can reset settings in settings > Camera settings > Storage location."</string>
+    <string name="storage_goto_setting">Storage Settings</string>
+    <string name="storage_goto_setting_alert">"Not enough space on current storage device.
+
+You can reset settings on settings>Camera settings>Storage location."</string>
+    <string name="storage_label_expansion">Expansion SD Card</string>
+    <string name="storage_label_external">External Memory</string>
+    <string name="storage_label_internal">Internal Memory</string>
+    <string name="storage_label_primary">Primary SD Card</string>
+    <string name="storage_label_secondary">Secondary SD Card</string>
+    <string name="str_common_alert">Notification</string>
+    <string name="str_common_cancel">Cancel</string>
+    <string name="str_common_close">Close</string>
+    <string name="str_common_ok">OK</string>
+    <string name="str_dialog_back_explain">"If you go back to the previous stage, you will need a new verification number.
+Do you want to return to the previous stage?"</string>
+    <string name="str_dialog_delete_explain">Do you really want to delete your account?</string>
+    <string name="str_dialog_duplication_explain">"The phone number you entered already exists.
+
+You may continue, but
+ if the account you are using with this phone number does not have a registered e-mail address, the account will be deleted."</string>
+    <string name="str_dialog_login_phone_confirm">Did you change your phone number?</string>
+    <string name="str_dialog_modify_duplication_explain">The phone number you entered already exists. Do you want to continue?</string>
+    <string name="str_oauth_bfa_message">Exceeded the limit of signing in for 5 times. Plese reset your password and sign in again.</string>
+    <string name="str_oauth_error_message">There was a temporary problem in connecting to the server.</string>
+    <string name="str_oauth_invalid_consumer_message">"You have infringed our terms of services. Please refer to our customer's service center."</string>
+    <string name="str_oauth_invalid_key_message">You are signed out. Please sign in again.</string>
+    <string name="str_oauth_invalid_token_message">You are signed out. Please sign in again.</string>
+    <string name="str_oauth_wrong_id_pwd_message">"There is no relevant account information
+Please try again."</string>
+    <string name="str_social_facebook">Facebook</string>
+    <string name="svc_check_title">Service checking</string>
+    <string name="system_activity_title">Notices</string>
+    <string name="tag_edit_message">%1$s function is applied in this photo.</string>
+    <string name="tag_item_message">%1$s item is applied in this photo.</string>
+    <string name="tag_sub_title">Edit with Cymera</string>
+    <string name="tag_try_now">Try it now</string>
+    <string name="tagablum_loading">Page Loading...</string>
+    <string name="temshop_info_file_size">Capacity</string>
+    <string name="timeline_delete_stamp">Delete</string>
+    <string name="timeline_friend_album_share_text">%1$s Photos %2$s Members</string>
+    <string name="timeline_more">More</string>
+    <string name="tooltip_album_a">You can see all your pictures in one place!</string>
+    <string name="tooltip_album_b">"Rank the photos you like the most with a ★ 
+ and they will automatically
+ come out on the best folder."</string>
+    <string name="tooltip_album_c">All your self-portraits will be stored here automatically!</string>
+    <string name="tooltip_beauty_color_a">Color/Transparency</string>
+    <string name="tooltip_beauty_color_b">"Adjust the color and transparency
+of the items by moving the gauge."</string>
+    <string name="tooltip_beauty_more_a">More</string>
+    <string name="tooltip_beauty_more_b">"Use the 'More' button
+to explore more diverse items."</string>
+    <string name="tooltip_bigeye_touch_msg">"As you touch the eyes more,
+the size will be bigger!"</string>
+    <string name="tooltip_brush_brush_a">Select brush</string>
+    <string name="tooltip_brush_brush_b">"Select the brush
+of your preference!"</string>
+    <string name="tooltip_brush_eraser">Eraser</string>
+    <string name="tooltip_brush_size_a">Thickness</string>
+    <string name="tooltip_brush_size_b">"Adjust the thickness
+of the brush!"</string>
+    <string name="tooltip_camera_lens">Select lens</string>
+    <string name="tooltip_camera_mode_a">Shoot mode</string>
+    <string name="tooltip_camera_mode_b">"Shoot photos using Timer,
+Touch shot, Anti-shake mode."</string>
+    <string name="tooltip_camera_outfocus_a">Tilt-Shift effect</string>
+    <string name="tooltip_camera_outfocus_b">"Sharpen the selected area,
+ and make the other areas blurry!"</string>
+    <string name="tooltip_camera_shutter_a">"Shoot /
+Zoom button"</string>
+    <string name="tooltip_camera_shutter_b">"Adjust zoom by moving shoot
+button left and right."</string>
+    <string name="tooltip_collage_dragndrop_a">Drag&amp;Drop</string>
+    <string name="tooltip_collage_dragndrop_b">"Long-press the photo’s 
+thumbnail and Drag&amp;Drop it
+to add it to the collage."</string>
+    <string name="tooltip_collage_more_a">More</string>
+    <string name="tooltip_collage_more_b">"Use the 'More' button
+to check out
+other fun items!"</string>
+    <string name="tooltip_collage_myphoto_a">My photo</string>
+    <string name="tooltip_collage_myphoto_b">"Import pictures and
+use them as background."</string>
+    <string name="tooltip_collage_photoadd_a">Add Photo</string>
+    <string name="tooltip_collage_photoadd_b">"Press the + button
+to add or delete the photos
+for your collage."</string>
+    <string name="tooltip_collage_random_a">Random Collage</string>
+    <string name="tooltip_collage_random_b">"Use the random button
+to make collages easier."</string>
+    <string name="tooltip_edit_auto_a">Auto correction</string>
+    <string name="tooltip_edit_auto_b">"Try it if you need to correct 
+the photo quickly!"</string>
+    <string name="tooltip_edit_save">Save</string>
+    <string name="tooltip_edit_upload">Share</string>
+    <string name="tooltip_facelift_move_a">"Zoom-in and
+move the photo"</string>
+    <string name="tooltip_facelift_move_b">"You can zoom-in or
+move the photo"</string>
+    <string name="tooltip_facelift_touch_a">Adjust touch area</string>
+    <string name="tooltip_facelift_touch_b">"You can adjust the touch area
+where you want to apply the effect!"</string>
+    <string name="tooltip_outfocus">"Stretch back and forth to adjust the location 
+and range of "<font color="#F98A05">Tilt-Shift</font> effect!</string>
+    <string name="tooltip_photobox_more">You can move, copy or make a new album with the selected photos.</string>
+    <string name="tooltip_select_facepop_title">Select Area</string>
+    <string name="tooltip_setting_a">Settings</string>
+    <string name="tooltip_setting_b">"Press the Menu button on your device
+to see options such as
+picture size and notifications."</string>
+    <string name="tooltip_share_title">Share</string>
+    <string name="tooltip_smile_touch_degree">Adjust intensity</string>
+    <string name="tooltip_smile_touch_msg">"Draw a lips pattern and set up a proper smile
+by moving the gauge."</string>
+    <string name="unknown">There was a temporary problem in connecting to the server. Please try again later.</string>
+    <string name="update_intro_3_sub1">"Take a super-fast selfie and
+the perfect photo effect"</string>
+    <string name="update_intro_3_sub2">"Experience beautifying effects
+to get your favorite look"</string>
+    <string name="update_intro_3_sub3">"Add a stunning art effects
+to your pictures"</string>
+    <string name="update_intro_3_title1">All I Ever Wanted is Here!</string>
+    <string name="update_intro_3_title2">Perfect Beauty Camera</string>
+    <string name="update_intro_3_title3">New Color Splash Tool!</string>
+    <string name="update_intro_3_title4">"Check Out The New
+Updated Version!"</string>
+    <string name="update_intro_4_sub1">"Your dream body
+can be a reality"</string>
+    <string name="update_intro_4_sub2">"Don't worry if you mess up
+your editing, just undo it!"</string>
+    <string name="update_intro_4_title1">Body Shaping</string>
+    <string name="update_intro_4_title2">New Undo/Redo Function</string>
+    <string name="update_intro_5_event_desc">"V3.2 UPDATE
+Learn More"</string>
+    <string name="update_intro_5_sub1">"Give Your Skin a Tune-Up!
+Cover your blemishes!"</string>
+    <string name="update_intro_5_sub2">"Create your own collection of
+favorite filters"</string>
+    <string name="update_intro_5_sub3">"Create a masterpiece
+unlike anything else!"</string>
+    <string name="update_intro_5_title1">Beauty Function in Real Time</string>
+    <string name="update_intro_5_title2">Favorites</string>
+    <string name="update_intro_5_title3">The Easiest Collage Maker</string>
+    <string name="update_intro_event_desc">"V3.1 UPDATE
+Learn More"</string>
+    <string name="update_intro_subtitle_1">"Manual face detection technology
+for your own personal style"</string>
+    <string name="update_intro_subtitle_2">"Advanced red-eye 
+removal function"</string>
+    <string name="update_intro_subtitle_3">"Choose your favorite resolution 
+to save your photos."</string>
+    <string name="update_intro_title_1">Great facial recognition!</string>
+    <string name="update_intro_title_2">Goodbye red-eye pictures!</string>
+    <string name="update_intro_title_3">Pick your perfect image resolution</string>
+    <string name="update_intro_title_4">"We make it easy for you
+ to take perfect photos!
+ Meet the new app update"</string>
+    <string name="upload_photo_ing">Uploading in process. Please try again.</string>
+    <string name="use_preview_shot">Use</string>
+    <string name="warning_authority_album">The invitation might have been canceled or you might have no right to access the album.</string>
+    <string name="warning_delete_album">The album has been deleted or you have left this album.</string>
+    <string name="widget_title_cymera_camera">" Cymera Camera"</string>
+    <string name="widget_title_cymera_gellary">" Cymera Gallery"</string>
+    <string name="year_month_day">dd MM yyyy</string>
+    <string name="com_sina_weibo_sdk_login">登录</string>
+    <string name="com_sina_weibo_sdk_login_with_weibo_account">用微博登录</string>
+    <string name="com_sina_weibo_sdk_logout">注销</string>
+    <string name="com_facebook_smart_login_confirmation_continue_as">Continue as %1$s</string>
+    <string name="COMPANY_INFO">http://m.cymera.com/introduce/ko</string>
+    <string name="DEV_OAUTH_HOST_DOMAIN">https://oauthdev.nate.com</string>
+    <string name="DEV_OPENAPI_HOST_DOMAIN">https://oauthdev.nate.com</string>
+    <string name="FACEBOOK_CYMERA_URL">http://m.facebook.com/CymeraApp</string>
+    <string name="FAIR_TRADE_COMMISSION">http://www.ftc.go.kr/info/bizinfo/communicationViewPopup.jsp?wrkr_no=2208137906</string>
+    <string name="FILE_UPLOAD_URL_KR">http://upload.cymera.com/PSNS/upload</string>
+    <string name="OAUTH_ACCOUNT_DELETE">/XAuth/GPhoneID/DeleteMyAccount</string>
+    <string name="OAUTH_ACCOUNT_REGIST">/XAuth/GPhoneID/GetAccessTokenForRegister</string>
+    <string name="OAUTH_CHECK_EMAIL">/OApi/RestApiSSL/PS/800010/GPhID_VerifyParameterForRegister/v1</string>
+    <string name="OAUTH_HOST_DOMAIN">https://oauth.cymera.com</string>
+    <string name="OAUTH_LOGIN">/XAuth/GPhoneID/GetAccessToken</string>
+    <string name="OAUTH_LOGOUT">/OAuth/RemoveAccessToken/V1a</string>
+    <string name="OAUTH_SOCIAL_AUTH">/XAuth/GPhoneID/GetAccessTokenBySocialAuth</string>
+    <string name="OAUTH_SOCIAL_REGISTER">/XAuth/GPhoneID/GetAccessTokenBySocialRegister</string>
+    <string name="OPENAPI_FIND_PASSWORD">/OApi/RestApiSSL/PS/800010/GPhID_ForgotPassword/v1</string>
+    <string name="OPENAPI_GET_COUNTRY_BY_IP">/OApi/RestApiSSL/CY/200900/ip2country/v1</string>
+    <string name="OPENAPI_GET_INFO">/OApi/RestApiSSL/PS/800010/GPhID_GetMyInfo/v1</string>
+    <string name="OPENAPI_GET_PROFILE">/OApi/RestApiSSL/PS/800010/GPhID_GetMyProfile/v1</string>
+    <string name="OPENAPI_HOST_DOMAIN">https://openapi.cymera.com</string>
+    <string name="OPENAPI_HOST_DOMAIN_KR">https://openapi.cymera.com</string>
+    <string name="OPENAPI_MODIFY_VERIFY_SMS">/OApi/RestApiSSL/PS/800010/GPhID_GetSMSAuthKeyForMyInfo/v1</string>
+    <string name="OPENAPI_SEND_RETRY_SMS">/OApi/RestApiSSL/PS/800010/GPhID_GetRetrySMSAuthKey/v1</string>
+    <string name="OPENAPI_SEND_SMS">/OApi/RestApiSSL/PS/800010/GPhID_GetTicketForRegister/v1</string>
+    <string name="OPENAPI_SET_INSERT_INFO">/OApi/RestApiSSL/PS/800010/GPhID_PostMyInfo/v1</string>
+    <string name="OPENAPI_SET_PASSWORD">/OApi/RestApiSSL/PS/800010/GPhID_PutPassword/v1</string>
+    <string name="OPENAPI_SET_PROFILE">/OApi/RestApiSSL/PS/800010/GPhID_PutMyProfile/v1</string>
+    <string name="OPENAPI_SET_PUBLICKEY">/OApi/RestApiSSL/PS/800010/GPhID_GetRSAPublicKey/v1</string>
+    <string name="OPENAPI_SET_UPDATE_INFO">/OApi/RestApiSSL/PS/800010/GPhID_PutMyInfo/v1</string>
+    <string name="OPENAPI_VERIFY_SMS">/OApi/RestApiSSL/PS/800010/GPhID_VerifyTicketForRegister/v1</string>
+    <string name="OPEN_HOST_DOMAIN_SSL">https://openapi.cymera.com</string>
+    <string name="OPEN_URL_GET_NOTICE_LIST">/OApi/RestApiSSL/CY/200900/notice_list_cy/v1</string>
+    <string name="OPEN_URL_GET_PACKAGE_LIST">/OApi/RestApiSSL/CY/200900/deco_pkglist_cy/v1</string>
+    <string name="OPEN_URL_GET_PACKAGE_VIEW">/OApi/RestApiSSL/CY/200900/deco_pkgview_cy/v1</string>
+    <string name="OPEN_URL_STAT_DUMMY_SEND">/OApi/RestApiSSL/PS/800010/common_stat/v1</string>
+    <string name="OPEN_URL_STAT_GLOBAL_MENBER">/OApi/RestApiSSL/CY/200110/cycam_global_member_cnt/v1</string>
+    <string name="OPEN_URL_STAT_LOCAL_MENBER">/OApi/RestApiSSL/CY/200110/cycam_local_member_cnt/v1</string>
+    <string name="OPEN_URL_STAT_SEND">/OApi/RestApiSSL/PS/800010/common_stat/v1</string>
+    <string name="OPEN_URL_STAT_UNIQUE_DOWNLOAD">/OApi/RestApiSSL/CY/200110/cycam_android_stat/v1</string>
+    <string name="OPEN_URL_STAT_UNIQUE_UPDATE">/OApi/RestApiSSL/MO/400010/app_updated_stat/v1</string>
+    <string name="WEIBO_CYMERA_URL">http://weibo.com/u/5622363034?is_all=1</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="ad_block">AD-BLOCK</string>
+    <string name="ad_block_info_message">"해당 구매 내용은 '전자 상거래 등에서의
+소비자 보호에 관한 법률' 및 '콘텐츠 산업
+진흥법'에 따라 청약 철회가 불가합니다.
+구매에 관한 자세한 내용은
+%1$s를 확인해주세요."</string>
+    <string name="ad_block_message_01">"광고 때문에 싸이메라 이용이
+불편하셨나요?"</string>
+    <string name="ad_block_message_02">"커피 한 잔 대신
+광고 없는 싸이메라를
+즐겨보세요!♥"</string>
+    <string name="ad_block_purchase_fail">구매에 실패하였습니다.</string>
+    <string name="ad_block_purchase_success">구매가 완료되었습니다.</string>
+    <string name="ad_block_restore"><u>복원</u></string>
+    <string name="ad_block_restore_fail">구매 기록이 없습니다.</string>
+    <string name="ad_block_restore_success">복원 완료</string>
+    <string name="ad_unit_admob_native_gallery_trigger_id">ca-app-pub-5764417516463217/1772042487</string>
+    <string name="ad_unit_admob_native_post_save_id">ca-app-pub-5764417516463217/8585157687</string>
+    <string name="ad_unit_detail_id">ca-app-pub-5764417516463217/6784008080</string>
+    <string name="ad_unit_external_id">ca-app-pub-5764417516463217/9330078085</string>
+    <string name="ad_unit_fb_home_thumbnail_id">175414755846883_998202816901402</string>
+    <string name="ad_unit_fb_native_gallery_trigger_id">175414755846883_1148764275178588</string>
+    <string name="ad_unit_fb_native_post_save_id">175414755846883_1063100107078339</string>
+    <string name="ad_unit_home_banner_mediation_id">ca-app-pub-5764417516463217/5328178888</string>
+    <string name="ad_unit_id">ca-app-pub-5764417516463217/3118480884</string>
+    <string name="ad_unit_save_photo_id">ca-app-pub-5764417516463217/3770720487</string>
+    <string name="ad_unit_wall_id">ca-app-pub-5764417516463217/7713744088</string>
+    <string name="ad_unit_wall_mediation_id">ca-app-pub-5764417516463217/1226385688</string>
+    <string name="ad_vungle_id">com.cyworld.camera</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="baidu_api_key">p283F8SGLnUHi9gHG32KGciHwkXXczcU</string>
+    <string name="beauty_slider_100">100</string>
+    <string name="beauty_slider_20">20</string>
+    <string name="beauty_slider_40">40</string>
+    <string name="beauty_slider_60">60</string>
+    <string name="beauty_slider_80">80</string>
+    <string name="beauty_slider_off">OFF</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="camera_mode_off">Off</string>
+    <string name="camera_mode_on">On</string>
+    <string name="camera_multishot_timer_off">OFF</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="com.crashlytics.android.build_id">2fab1b4c-3ed3-4e0e-bd3c-7e0e8dbf455e</string>
+    <string name="default_web_client_id">519512073375-tic2hdm2lc6kfvmfu9pmfalvnbpu5o2f.apps.googleusercontent.com</string>
+    <string name="edit_crop_1_91_1">1.91:1</string>
+    <string name="edit_crop_4_5">4:5</string>
+    <string name="edit_fail_memory">메모리가 부족합니다.</string>
+    <string name="facebook_app_id">175414755846883</string>
+    <string name="fair_trade_commision_agreement">이용약관</string>
+    <string name="fair_trade_commision_company">회사정보</string>
+    <string name="fair_trade_commision_company_name">SK communications</string>
+    <string name="fair_trade_commision_info">공정거래위원회 정보</string>
+    <string name="filter_comics1">Comics1</string>
+    <string name="filter_comics2">Comics2</string>
+    <string name="firebase_database_url">https://api-project-519512073375.firebaseio.com</string>
+    <string name="font_light">sans-serif-light</string>
+    <string name="font_medium">sans-serif-medium</string>
+    <string name="font_regular">sans-serif</string>
+    <string name="ga_trackingId">UA-60142974-4</string>
+    <string name="gcm_defaultSenderId">519512073375</string>
+    <string name="google_api_key">AIzaSyAss2qASaNMIYLo_M3VTYILw3h3P3OFxTg</string>
+    <string name="google_api_key_server">AIzaSyCXRd9mNy2tZU_sipRsUMTjz2sQ-OkjHQU</string>
+    <string name="google_api_shortenurl_url">https://www.googleapis.com/urlshortener/v1/url</string>
+    <string name="google_app_id">1:519512073375:android:d9bcce4922d2d370</string>
+    <string name="google_crash_reporting_api_key">AIzaSyAss2qASaNMIYLo_M3VTYILw3h3P3OFxTg</string>
+    <string name="google_project_number">519512073375</string>
+    <string name="google_public_api">AIzaSyBnaC8CBExz0NOnzw0GCKm7c2o5YfjghrQ</string>
+    <string name="google_storage_bucket">api-project-519512073375.appspot.com</string>
+    <string name="live_filter_btn_text_original">ORIGINAL</string>
+    <string name="live_filter_main_title_text_autumn">AUTUMN</string>
+    <string name="live_filter_main_title_text_caramel">CARAMEL</string>
+    <string name="live_filter_main_title_text_cream">CREAM</string>
+    <string name="live_filter_main_title_text_crystal">CRYSTAL</string>
+    <string name="live_filter_main_title_text_foggy">FOGGY</string>
+    <string name="live_filter_main_title_text_goldsand">GOLDSAND</string>
+    <string name="live_filter_main_title_text_lavender">LAVENDER</string>
+    <string name="live_filter_main_title_text_lovely">LOVELY</string>
+    <string name="live_filter_main_title_text_mist">MIST</string>
+    <string name="live_filter_main_title_text_modern">MODERN</string>
+    <string name="live_filter_main_title_text_olive">OLIVE</string>
+    <string name="live_filter_main_title_text_original">ORIGINAL</string>
+    <string name="live_filter_main_title_text_peach">PEACH</string>
+    <string name="live_filter_main_title_text_shine">SHINE</string>
+    <string name="live_filter_main_title_text_summer">SUMMER</string>
+    <string name="live_filter_main_title_text_sunny">SUNNY</string>
+    <string name="live_filter_preview_1_1">1 : 1</string>
+    <string name="live_filter_preview_4_3">4 : 3</string>
+    <string name="password_toggle_content_description">Toggle password visibility</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="setting_ad_block">광고 제거 설정</string>
+    <string name="setting_ad_block_restore">구매 항목 복원</string>
+    <string name="setting_timer_type_five_sec">5\"</string>
+    <string name="setting_timer_type_seven_sec">7\"</string>
+    <string name="setting_timer_type_ten_sec">10\"</string>
+    <string name="setting_timer_type_three_sec">3\"</string>
+    <string name="share_instagram">Instagram</string>
+    <string name="share_instagram_official">Cymera Instagram</string>
+    <string name="share_kakaostory">KakaoStory</string>
+    <string name="share_qq">QQ</string>
+    <string name="share_vk">VK</string>
+    <string name="share_wechat">Wechat</string>
+    <string name="share_weibo_official">官方微博</string>
+    <string name="share_youtube">YouTube</string>
+    <string name="skauth_consumer_key">dd44a58c32667ac0451e2e93896ff17c04ef18d64</string>
+    <string name="skauth_consumer_key_secret">f6b5d5b8b23de5a81dd1267da3ea769b</string>
+    <string name="skauth_login_fb">Facebook</string>
+    <string name="skauth_login_google">Google</string>
+    <string name="sklogin_consumer_key">dd44a58c32667ac0451e2e93896ff17c04ef18d64</string>
+    <string name="sklogin_consumer_key_secret">f6b5d5b8b23de5a81dd1267da3ea769b</string>
+    <string name="slider_white_0">0</string>
+    <string name="slider_white_1">1</string>
+    <string name="slider_white_2">2</string>
+    <string name="slider_white_3">3</string>
+    <string name="slider_white_4">4</string>
+    <string name="slider_white_5">5</string>
+    <string name="slider_white_6">6</string>
+    <string name="slider_white_7">7</string>
+    <string name="slider_white_8">8</string>
+    <string name="slider_white_9">9</string>
+    <string name="slider_white_dot">.</string>
+    <string name="slider_white_minus">-</string>
+    <string name="slider_white_plus">+</string>
+    <string name="titleClear">Clear</string>
+    <string name="titleQuit">Quit</string>
+    <string name="titleResult">Result</string>
+    <string name="titleTest">Test</string>
+    <string name="txtAPIKey">API KEY</string>
+    <string name="txtResult">Result</string>
+    <string name="weibo_app_key">2308922912</string>
+    <string name="weibo_app_secret">b7b3c43e9e138a85420a9bd5a06d51f3</string>
+    <string name="weibo_redirect_url">http://dummy.cymera.cyworld.com/weibo</string>
+    <string name="weibo_scope">email,invitation_write,friendships_groups_read</string>
+</resources>

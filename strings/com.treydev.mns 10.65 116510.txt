@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="accessibility_desc">"This service allows users to automate clicking system toggles. Data received from this service is not stored, collected or used in any other way than to automatically click your requested tile. 
+
+ Permissions: 
+
+ - Observe your actions: Receives a response from the system when the notification tray is pulled down. This informs the app when to perform the click on the tile you requested. 
+
+ -Retrieve window content: Needed to search for specific tiles (quick settings) that you choose to be automatically clicked."</string>
+    <string name="accessibility_desc_quick_settings">Quick settings.</string>
+    <string name="accessibility_qs_edit_position_label">Position %1$d. Double tap to select.</string>
+    <string name="app_name">Material Notification Shade</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="auto_start">Automatically start</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="camera">Camera</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="clear_all_notifications_text">Clear all</string>
+    <string name="clock">Clock</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="cpv_custom">Custom</string>
+    <string name="cpv_default_title">Select a Color</string>
+    <string name="cpv_presets">Presets</string>
+    <string name="cpv_select">Select</string>
+    <string name="cpv_transparency">Transparency</string>
+    <string name="crop_image_activity_no_permissions">Cancelling, required permissions are not granted</string>
+    <string name="crop_image_activity_title" />
+    <string name="crop_image_menu_crop">Crop</string>
+    <string name="crop_image_menu_flip">Flip</string>
+    <string name="crop_image_menu_flip_horizontally">Flip horizontally</string>
+    <string name="crop_image_menu_flip_vertically">Flip vertically</string>
+    <string name="crop_image_menu_rotate_left">Rotate counter clockwise</string>
+    <string name="crop_image_menu_rotate_right">Rotate</string>
+    <string name="define_materialintro" />
+    <string name="detail_heads_style">Choose your notifications style</string>
+    <string name="detail_panel">Choose your notification panel style</string>
+    <string name="drag_to_add_tiles">Drag to add tiles</string>
+    <string name="drag_to_remove_tiles">Drag here to remove</string>
+    <string name="email_clients">There are no email clients installed.</string>
+    <string name="empty_shade_text">No notifications</string>
+    <string name="enable_services">Please enable the following permissions to allow the app to work correctly:</string>
+    <string name="help">Help</string>
+    <string name="help_tiles">"You may have noticed that a few tiles here can not perform the quick action assigned.
+That is because they require additional permission that is considered \"system-level\" or \"dangerous\" to be granted to apps. If you want to use those quick tiles there are 2 options to grant this permission."</string>
+    <string name="hide_notification_content">Hide notification content on lock screen</string>
+    <string name="key_auto_start">autoStart</string>
+    <string name="keyboard_picker">Keyboard Picker</string>
+    <string name="launcher_shortcut_name">Pull down shade</string>
+    <string name="library_materialintro_author">Jan Heinrich Reimer</string>
+    <string name="library_materialintro_authorWebsite">https://heinrichreimer.com</string>
+    <string name="library_materialintro_classPath">com.heinrichreimersoftware.materialintro</string>
+    <string name="library_materialintro_isOpenSource">true</string>
+    <string name="library_materialintro_libraryDescription">A simple material design app intro with cool animations and a fluent API.</string>
+    <string name="library_materialintro_libraryName">material-intro</string>
+    <string name="library_materialintro_libraryVersion">1.6.2</string>
+    <string name="library_materialintro_libraryWebsite">https://github.com/HeinrichReimer/material-intro/</string>
+    <string name="library_materialintro_licenseId">mit</string>
+    <string name="library_materialintro_repositoryLink">https://github.com/HeinrichReimer/material-intro/</string>
+    <string name="licence">"Copyright 2015 © paolorotolo - App Intro library
+Copyright 2013 Philip Schiffer
+Copyright © 2011 The Android Open Source Project
+Copyright © 2014 Google Inc.
+Copyright 2015 Marcin Korniluk Zielony - carbon library
+Copyright © 2017 James Fen - signalstrengths library The following changes have been made to the software provided in the nougat-release branch from platform_frameworks_base_SystemUI: 
+All these mentioned changes are subjected to new entries. 
+Also soon I'll start looking on those bugs and TODO's that are mentioned (or not mentioned) and will submit GitHub pull-requests. :) 
+Changes to SettingsButton: 
+made it open up MainActivity on TunerClick 
+made it open Settings on Click 
+Changes to ToggleSlider for brightness: 
+implemented it's listener into the holder's service to update the screen brightness making use of WindowManager's LayoutParams and updateViewLayout() 
+Changes to TouchAnimator: 
+used reflection to invoke Path.approximate() on API 21+ and disabled the PathInterpolator altogether on API 19 and lower 
+Changes to NotificationPanelView and StatusBarWindowView: 
+refactored code that uses PhoneStatusBar and PhoneStatusBarView to not use it anymore and transferred current needed methods that were funneled through PhoneStatusBar over to NotificationPanelView (ie: ScrimController and BrightnessMirrorController). 
+Changes to NotificationStackScrollLayout: 
+no significant changes that visually alter the function of the software. Several changes at ExpandableNotificationRow to allow more customization 
+Changed BroadcastReceiver in DateView to lister for ACTION_DATE_CHANGED 
+Added a check for null QsTile.State in setIcon(). 
+Added customization of the PanelView's background color. 
+Added preference to customize number of columns 
+Added custom made tiles that use the current public APIs to toggle whatever settings are changeable. 
+Added customization of the PanelView's background color. Will also work on: Tint of the foreground elements (ie: imageviews, textview,..) 
+Added a preference to choose the number of qquick tiles from the app's settings. 
+Added customization of the ToggleSlider's brightness color. 
+Added option for the user to choose a pic from storage inside app's settings and use that as MultiUserSwitch ImageView's source 
+Added fallbacks for lower API levels."</string>
+    <string name="mi_content_description_back">Back</string>
+    <string name="mi_content_description_next">Next</string>
+    <string name="mi_content_description_next_finish">Next/Finish</string>
+    <string name="mi_content_description_skip">Skip</string>
+    <string name="mi_label_button_cta">Get started</string>
+    <string name="mute">Mute</string>
+    <string name="nav_community">Community</string>
+    <string name="nav_rate">Rate</string>
+    <string name="nav_translate">Translate</string>
+    <string name="notices_close">Close</string>
+    <string name="notices_default_style">p.license { background:grey; } body { font-family: sans-serif; overflow-wrap: break-word; } pre { background-color: #eeeeee; padding: 1em; white-space: pre-wrap; }</string>
+    <string name="notices_title">Notices</string>
+    <string name="notification_group_overflow_indicator">+ %s</string>
+    <string name="notification_header_divider_symbol">•</string>
+    <string name="notification_header_divider_symbol_with_spaces">" • "</string>
+    <string name="notification_hidden_text">Content hidden</string>
+    <string name="notification_messaging_title_template">%1$s: %2$s</string>
+    <string name="notification_text">Touch to configure</string>
+    <string name="notification_theme">Notification theme</string>
+    <string name="notification_title">MNS is running</string>
+    <string name="panel_theme">Panel Theme</string>
+    <string name="password_toggle_content_description">Toggle password visibility</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="pendingintent_null_exception">"App didn't define any action"</string>
+    <string name="pick_image_intent_chooser_title">Select source</string>
+    <string name="profile_pic">Choose Profile Picture</string>
+    <string name="quick_settings_bluetooth_label">Bluetooth</string>
+    <string name="quick_settings_cast_title">Cast</string>
+    <string name="quick_settings_cellular_detail_title">Mobile data</string>
+    <string name="quick_settings_connecting">Connecting...</string>
+    <string name="quick_settings_dnd_alarms_label">Alarms only</string>
+    <string name="quick_settings_dnd_label">Do not disturb</string>
+    <string name="quick_settings_dnd_none_label">Total silence</string>
+    <string name="quick_settings_dnd_priority_label">Priority only</string>
+    <string name="quick_settings_done">Done</string>
+    <string name="quick_settings_flashlight_label">Flashlight</string>
+    <string name="quick_settings_hotspot_label">Hotspot</string>
+    <string name="quick_settings_inversion_label">Invert colors</string>
+    <string name="quick_settings_location_label">Location</string>
+    <string name="quick_settings_more_settings">More settings</string>
+    <string name="quick_settings_nfc_label">NFC</string>
+    <string name="quick_settings_night_display_label">Night Light</string>
+    <string name="quick_settings_rotation_locked_landscape_label">Landscape</string>
+    <string name="quick_settings_rotation_locked_portrait_label">Portrait</string>
+    <string name="quick_settings_rotation_unlocked_label">Auto-rotate</string>
+    <string name="quick_settings_tiles_default">wifi,cell,battery,dnd,location,flashlight,rotation,bt,airplane,brightness,hotspot,cast,sync,ss</string>
+    <string name="quick_settings_tiles_more">,keyboard,ringer,timeout,clock,camera,inversion,nfc,night</string>
+    <string name="quick_settings_wifi_detail_empty_text">No Wi-Fi networks available</string>
+    <string name="quick_settings_wifi_detail_empty_text_marshmallow">"There's a bug in Android 6.0 that doesn't allow apps to scan for wifi networks if the Location service is disabled.
+Please enable it and try again.
+Click on the above marker to be directed to settings."</string>
+    <string name="quick_settings_wifi_label">Wi-Fi</string>
+    <string name="reset">Reset</string>
+    <string name="search_menu_title">Search</string>
+    <string name="select_image">Select Image</string>
+    <string name="send_email">Send email…</string>
+    <string name="service_drawing">Drawing</string>
+    <string name="service_notifications">Notifications</string>
+    <string name="snooze_option_15_min">15 minutes</string>
+    <string name="snooze_option_1_hour">1 hour</string>
+    <string name="snooze_option_2_hour">2 hours</string>
+    <string name="snooze_option_30_min">30 minutes</string>
+    <string name="snooze_undo">UNDO</string>
+    <string name="snoozed_for_time">Snoozed for %1$s</string>
+    <string name="sound">Sound</string>
+    <string name="status_bar_airplane">Airplane mode</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="sum_grid_column">Sets the number of columns</string>
+    <string name="sum_grid_row">Sets the number of rows</string>
+    <string name="sum_header_num">Sets the number of tiles that you see on your first swipe</string>
+    <string name="sum_max_children">Maximum allowed notifications in a group (default of 8)</string>
+    <string name="summary_auto_start">Auto start when phone boots up.</string>
+    <string name="switch_bar_off">Off</string>
+    <string name="switch_bar_on">On</string>
+    <string name="sync">Sync</string>
+    <string name="system_ui_date_pattern">EEE, MMM d</string>
+    <string name="tile_not_found" formatted="false">"Cannot access the %s tile.
+
+Please check your DEFAULT quick settings and make sure %s is added there and is NOT the very last one."</string>
+    <string name="timeout">"Screen
+timeout"</string>
+    <string name="title_brightness_color">Brightness slider color</string>
+    <string name="title_default_color">Shade Background color</string>
+    <string name="title_fg_color">Shade Foreground color (icons)</string>
+    <string name="title_grid_column">Grid Columns</string>
+    <string name="title_grid_row">Grid Rows</string>
+    <string name="title_header_num">Number of header tiles</string>
+    <string name="title_max_children">Max grouped children</string>
+    <string name="v7_preference_off">OFF</string>
+    <string name="v7_preference_on">ON</string>
+    <string name="velocity_tracker_impl">platform</string>
+    <string name="vibrate">Vibrate</string>
+</resources>

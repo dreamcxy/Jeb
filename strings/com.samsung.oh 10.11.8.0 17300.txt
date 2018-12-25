@@ -1,0 +1,2225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="date_time">%1$s, %2$s</string>
+    <string name="exo_controls_fastforward_description">Fast forward</string>
+    <string name="exo_controls_next_description">Next track</string>
+    <string name="exo_controls_pause_description">Pause</string>
+    <string name="exo_controls_play_description">Play</string>
+    <string name="exo_controls_previous_description">Previous track</string>
+    <string name="exo_controls_rewind_description">Rewind</string>
+    <string name="exo_controls_stop_description">Stop</string>
+    <string name="mdtp_date_v1_monthyear">MMMM yyyy</string>
+    <string name="mdtp_date_v2_daymonthyear">EEE, MMM dd</string>
+    <string name="mdtp_day_picker_description">Month grid of days</string>
+    <string name="mdtp_deleted_key">%1$s deleted</string>
+    <string name="mdtp_done_label">Done</string>
+    <string name="mdtp_hour_picker_description">Hours circular slider</string>
+    <string name="mdtp_item_is_selected">%1$s selected</string>
+    <string name="mdtp_minute_picker_description">Minutes circular slider</string>
+    <string name="mdtp_select_day">Select month and day</string>
+    <string name="mdtp_select_hours">Select hours</string>
+    <string name="mdtp_select_minutes">Select minutes</string>
+    <string name="mdtp_select_year">Select year</string>
+    <string name="mdtp_year_picker_description">Year list</string>
+    <string name="preposition_for_date">on %s</string>
+    <string name="preposition_for_time">at %s</string>
+    <string name="relative_time">%1$s, %2$s</string>
+    <string name="search_menu_title">Search</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="rsup_applock_desc">Do you accept to share your applications with personal information?</string>
+    <string name="rsup_common_no">No</string>
+    <string name="rsup_common_processkill">has been terminated</string>
+    <string name="rsup_common_support">Samsung Assist active</string>
+    <string name="rsup_common_yes">Yes</string>
+    <string name="rsup_err_bind">"Call to the engine has failed.
+ Try again later."</string>
+    <string name="rsup_err_connno">Invalid connection code.</string>
+    <string name="rsup_err_failnetwork">"Failed to connect to the network.
+Check network status."</string>
+    <string name="rsup_err_nohost">"Failed to connect to the server.
+Contact the Tech expert."</string>
+    <string name="rsup_err_reconnfail">"Failed to restore connection. 
+Please, try again."</string>
+    <string name="rsup_err_server">"Server returned error while processing your request.
+Contact the Tech expert."</string>
+    <string name="rsup_err_wrongphoneno">Connection failed. Try using connection codes.</string>
+    <string name="rsup_error_code">Error Code</string>
+    <string name="rsup_operationrecord_app_del">%s has been deleted.</string>
+    <string name="rsup_operationrecord_app_end">%s has been closed.</string>
+    <string name="rsup_operationrecord_app_end_fail">%s could not be closed.</string>
+    <string name="rsup_operationrecord_app_install">%s has been installed.</string>
+    <string name="rsup_operationrecord_app_run">%s has been opened.</string>
+    <string name="rsup_operationrecord_app_run_fail">%s could not be opened.</string>
+    <string name="rsup_operationrecord_file_cancel">The Tech expert cancelled the transfer of the file %s.</string>
+    <string name="rsup_operationrecord_file_download">The Tech expert downloaded the file %s from your mobile.</string>
+    <string name="rsup_operationrecord_file_upload">The Tech expert uploaded the file %s to your mobile.</string>
+    <string name="rsup_operationrecord_loginfo_send">The Tech expert is viewing the log.</string>
+    <string name="rsup_operationrecord_paint_end">Drawing has been cancelled.</string>
+    <string name="rsup_operationrecord_paint_start">Drawing has started.</string>
+    <string name="rsup_operationrecord_rc_end">Remote control has been completed.</string>
+    <string name="rsup_operationrecord_rc_start">Samsung Assist has started.</string>
+    <string name="rsup_operationrecord_scn_record_end">Screen recording has stopped.</string>
+    <string name="rsup_operationrecord_scn_record_start">Screen recording has started.</string>
+    <string name="rsup_operationrecord_screen_capture">The Tech expert captured the screen.</string>
+    <string name="rsup_operationrecord_setting_change">The Tech expert modified the configuration.</string>
+    <string name="rsup_operationrecord_sysinfo_send">The Tech expert is viewing system information.</string>
+    <string name="rsup_screencaptur_reqest">Tech expert requested to capture the screen. Do you accept?</string>
+    <string name="rsup_screenlock_protection">Screen locked</string>
+    <string name="rsup_screenlock_unlock_request">"Tech expert requested to unlock the screen.
+Do you accept?"</string>
+    <string name="rsup_speakerphone_off">Tech expert turned OFF the Speakerphone.</string>
+    <string name="rsup_speakerphone_on">Tech expert turned ON the Speakerphone.</string>
+    <string name="rsup_web_error">"Communication with the server has failed.
+ Try again later."</string>
+    <string name="md_day">day</string>
+    <string name="md_day_at">{day} at {hour}</string>
+    <string name="md_days">days</string>
+    <string name="md_hour">hour</string>
+    <string name="md_hour_prefix">h</string>
+    <string name="md_hours">hours</string>
+    <string name="md_minute">minute</string>
+    <string name="md_minute_prefix">m</string>
+    <string name="md_minutes">minutes</string>
+    <string name="md_month">month</string>
+    <string name="md_months">months</string>
+    <string name="md_now">Now</string>
+    <string name="md_second">second</string>
+    <string name="md_second_prefix">s</string>
+    <string name="md_seconds">seconds</string>
+    <string name="md_time_ago">{radix} {units} ago</string>
+    <string name="md_today">Today</string>
+    <string name="md_tomorrow">Tomorrow</string>
+    <string name="md_unknown">Unknown</string>
+    <string name="md_week">week</string>
+    <string name="md_weeks">weeks</string>
+    <string name="md_year">year</string>
+    <string name="md_years">years</string>
+    <string name="md_yesterday">Yesterday</string>
+    <string name="pg_alert_battery_health_description">The monitoring software embedded inside of your battery is reporting the following warning: {health}. Sometimes these issues go away after a few charge cycles. If that happens, this alert will automatically go away.</string>
+    <string name="pg_alert_battery_health_state_dead">dead</string>
+    <string name="pg_alert_battery_health_state_over_voltage">overvoltage</string>
+    <string name="pg_alert_battery_health_state_unspecified_failure">unspecified failure</string>
+    <string name="pg_alert_battery_health_title">Battery is reporting a problem</string>
+    <string name="pg_alert_group_app_battery_consumption_description">Certain apps use too much battery by constantly syncing or running in the background. {app_name} warns you against such apps that drain battery faster than usual.</string>
+    <string name="pg_alert_group_app_battery_consumption_title">App Battery Usage</string>
+    <string name="pg_alert_group_app_data_usage_description">Certain apps can make a big dent in your data plan and cause overage charges. {app_name} helps you conserve your data by warning you against such apps.</string>
+    <string name="pg_alert_group_app_data_usage_title">App Data Usage</string>
+    <string name="pg_alert_group_battery_health_description">Your phone battery can wear out over time depending on your usage. {app_name} lets you stay on top of your battery health with timely alerts for such issues.</string>
+    <string name="pg_alert_group_battery_health_title">Battery Health</string>
+    <string name="pg_alert_group_battery_performance_description">{app_name} measures several aspects of battery performance, such as voltage, battery life, charging and discharging rates, and alerts you of any related issues.</string>
+    <string name="pg_alert_group_battery_performance_title">Battery Performance</string>
+    <string name="pg_alert_group_battery_temperature_description">"{app_name} monitors your device temperature to make sure it doesn't get damaged in extremely hot or cold temperatures."</string>
+    <string name="pg_alert_group_battery_temperature_title">Temperature</string>
+    <string name="pg_alert_group_data_overage_description" formatted="false">Stay under your data limit and avoid data overages with {app_name}. It will alert you when you reach 90% and then 99% of your data plan limit every month.</string>
+    <string name="pg_alert_group_data_overage_title">Data Plan Overage</string>
+    <string name="pg_alert_group_insecure_wifi_description">Wireless networks with poor/no encryption can give people in the same network access to your personal info. {app_name} alerts you every time you connect to such networks.</string>
+    <string name="pg_alert_group_insecure_wifi_title">Wi-Fi Security</string>
+    <string name="pg_alert_group_low_battery_description">Batteries can drain quickly with heavier usage like playing games or streaming videos. {app_name} warns you when battery is running low and helps preserve some battery life to get through the day.</string>
+    <string name="pg_alert_group_low_battery_title">Low Battery</string>
+    <string name="pg_alert_group_low_storage_description">{app_name} detects when your device is running low on storage and helps you get rid of larger apps and system caches to gain additional storage space.</string>
+    <string name="pg_alert_group_low_storage_title">Storage Usage</string>
+    <string name="pg_alert_group_poor_signal_battery_consumption_description">Your battery can drain rapidly in a poor reception area. {app_name} alerts you to help you conserve battery until you reach better coverage.</string>
+    <string name="pg_alert_group_poor_signal_battery_consumption_title">Signal Quality</string>
+    <string name="pg_alert_group_rapid_power_description">You might experience charging issues if your device constantly connects and disconnects from the charger. {app_name} detects such issues and helps you resolve them.</string>
+    <string name="pg_alert_group_rapid_power_title">Irregular Charging</string>
+    <string name="pg_alert_group_reboot_description">Rebooting your device might help resolve minor issues and boost performance. {app_name} alerts you when it detects that it has been 7 days since you last rebooted your device.</string>
+    <string name="pg_alert_group_reboot_title">Reboot</string>
+    <string name="pg_alert_group_rooted_description">Rooting your device might grant it additional privileges. {app_name} detects when you are using a rooted device and warns you of the risks associated with rooting.</string>
+    <string name="pg_alert_group_rooted_title">Root Status</string>
+    <string name="pg_alert_group_unused_files_description">{app_name} detects when there are unused apps and files on your device and helps you clean them to gain additional storage space.</string>
+    <string name="pg_alert_group_unused_files_title">Unused Files</string>
+    <string name="pg_alert_group_weak_charger_description">Charging with a faulty charger, or running multiple apps at once might drain battery faster than it can charge. {app_name} can detect such charging issues on your device.</string>
+    <string name="pg_alert_group_weak_charger_title">Weak Charging</string>
+    <string name="pg_app_battery_consumption_alert_message">{app_name} has consumed {percent}% of your battery in the last half hour.</string>
+    <string name="pg_app_battery_consumption_alert_title">High battery usage detected</string>
+    <string name="pg_app_high_data_usage_alert_message">{app_name} has consumed an excessive amount of cellular data in the last 24 hours. If you are not on an unlimited data plan, this could lead to overages.</string>
+    <string name="pg_app_high_data_usage_alert_title">High data usage detected</string>
+    <string name="pg_battery_performance_alert_message">Your battery performance has started to degrade and may no longer be working as expected. If this alert persists after a few charge cycles, it might be time for a replacement. Sometimes these issues go away after a few charge cycles. If that happens, this alert will automatically close.</string>
+    <string name="pg_battery_performance_alert_title">Battery is performing poorly</string>
+    <string name="pg_battery_temperature_high_alert_message">Using your device when it is too hot can harm your battery. Typically, high temperatures result from running too many apps and services at the same time. When your device cools, this alert will automatically close.</string>
+    <string name="pg_battery_temperature_high_alert_title">Battery temperature is high</string>
+    <string name="pg_battery_temperature_low_alert_message">Using your device when it is too cold can harm your screen and battery. Protect your device in extremely low temperatures by moving it to a warmer location. When your device warms up, this alert will automatically close.</string>
+    <string name="pg_battery_temperature_low_alert_title">Battery temperature is low</string>
+    <string name="pg_data_plan_overage_alert_message_one">There is {days} more day before your current cycle ends. Consider limiting your data usage by using a Wi-Fi connection when available and/or disabling mobile data.</string>
+    <string name="pg_data_plan_overage_alert_message_other">There are about {days} more days before your current cycle ends. Consider limiting your data usage by using a Wi-Fi connection when available and/or disabling mobile data.</string>
+    <string name="pg_data_plan_overage_alert_title">"You've used about {data_usage_percent} of your {data_plan_limit} data plan"</string>
+    <string name="pg_data_plan_overage_alert_title_over_data_limit">"You're over your {data_plan_limit} data plan by {over_data_usage}"</string>
+    <string name="pg_gb_suffix">GB</string>
+    <string name="pg_inconsistent_charging_alert_description">There is an issue with the connection between your charger and device. Your device might not be charging as expected. This alert will automatically close once charging improves.</string>
+    <string name="pg_inconsistent_charging_alert_title">Irregular charging detected</string>
+    <string name="pg_insecure_wifi_alert_description">Using Wi-Fi without encryption or weak encryption such as WEP or WPA is unsafe and can put your personal information at risk. Open the article below for more additional information on Wi-Fi security.</string>
+    <string name="pg_insecure_wifi_alert_title_no">No Wi-Fi security detected</string>
+    <string name="pg_insecure_wifi_alert_title_weak">Weak Wi-Fi security detected</string>
+    <string name="pg_low_battery_alert_message">At {end_time}, {x_hours_or_minutes} from now, your battery will be empty. Charge now or save battery by turning off any unnecessary settings below. This alert will automatically close after recharging your device.</string>
+    <string name="pg_low_battery_alert_title">Battery is running low</string>
+    <string name="pg_mb_suffix">MB</string>
+    <string name="pg_poor_signal_battery_consumption_alert_message">A poor mobile signal is causing your battery to drain faster than normal. Switching to Airplane mode will help conserve battery until you reach better coverage. This alert will automatically close after the signal improves.</string>
+    <string name="pg_poor_signal_battery_consumption_alert_title">Battery draining due to poor reception</string>
+    <string name="pg_rooted_alert_message">Your device is rooted. Rooting your device bypasses security features designed to keep you safe and can cause your device to perform poorly.</string>
+    <string name="pg_rooted_alert_title">Device is Rooted</string>
+    <string name="pg_storage_alert_message">Your device is running low on storage space. Try removing unused files to free up additional space. This alert will automatically go away when additional storage space is cleared.</string>
+    <string name="pg_storage_alert_title">Storage space almost full</string>
+    <string name="pg_twelve_hour_time">h:mm a</string>
+    <string name="pg_unused_files_alert_message">Unused files can slow down your device and consume storage space. Use the Junk Cleaner tool to get rid of these files and gain more space.</string>
+    <string name="pg_unused_files_alert_title">Time to tidy up those junk files</string>
+    <string name="pg_uptime_notification_message">It has been {uptime} days since you last restarted. Periodically restarting may speed your device up and resolve minor issues.</string>
+    <string name="pg_uptime_notification_title">Device restart suggested</string>
+    <string name="pg_weak_charger_alert_message">Your battery is draining faster than it can charge. Usually this occurs when charging via USB or running several battery intensive apps at once. This alert will automatically close once charging improves.</string>
+    <string name="pg_weak_charger_alert_title">Weak charging detected</string>
+    <string name="rsup_screen_name_android_gsf_login_AccountIntroActivity">Settings > Accounts and sync > Add account > Google</string>
+    <string name="rsup_screen_name_android_gsf_settings_SettingsTosActivity">Settings > About phone > Legal information > Google legal</string>
+    <string name="rsup_screen_name_android_gsf_update_SystemUpdateActivity">Settings > About phone > System updates</string>
+    <string name="rsup_screen_name_android_inputmethod_korean_KoreanImeSettings">Settings > Language and keyboard > Korean keyboard</string>
+    <string name="rsup_screen_name_android_voicesearch_VoiceSearchPreferences">Settings > Voice input and output > Voice recognizer settings</string>
+    <string name="rsup_screen_name_email_activity_setup_AccountSetupBasics">Settings > Accounts and sync > Add account > Corporate</string>
+    <string name="rsup_screen_name_email_activity_setup_AccountSetupExchange">Settings > Accounts and sync > Add account > Corporate > Server setting</string>
+    <string name="rsup_screen_name_inputmethod_latin_LatinIMESettings">Settings > Language and keyboard > Android keyboard</string>
+    <string name="rsup_screen_name_phone_CallFeaturesSetting">Settings > Call settings</string>
+    <string name="rsup_screen_name_phone_FdnList">Settings > Call settings > Fixed Dialing Numbers > FDN list</string>
+    <string name="rsup_screen_name_phone_FdnSetting">Settings > Call settings > Fixed Dialing Numbers</string>
+    <string name="rsup_screen_name_phone_GsmUmtsAdditionalCallOptions">Settings > Call settings > Additional settings</string>
+    <string name="rsup_screen_name_phone_GsmUmtsCallForwardOptions">Settings > Call settings > Call forwarding</string>
+    <string name="rsup_screen_name_phone_NetworkSetting">Settings > Wireless and networks > Mobile networks > Network operators</string>
+    <string name="rsup_screen_name_phone_Settings">Settings > Wireless and networks > Mobile networks</string>
+    <string name="rsup_screen_name_phone_sip_SipEditor">Settings > Call settings > Accounts > Add account</string>
+    <string name="rsup_screen_name_phone_sip_SipSettings">Settings > Call settings > Accounts</string>
+    <string name="rsup_screen_name_pico_EngineSettings">Settings > Voice input and output > Text-to-speech settings > Pico TTS</string>
+    <string name="rsup_screen_name_settings_AccessibilitySettings">Settings > Accessibility</string>
+    <string name="rsup_screen_name_settings_AddAccountSettings">Settings > Accounts and sync > Add account</string>
+    <string name="rsup_screen_name_settings_ApnSettings">Settings > Wireless and networks > Mobile networks > Access Point Names</string>
+    <string name="rsup_screen_name_settings_ApplicationSettings">Settings > Applications</string>
+    <string name="rsup_screen_name_settings_BackUp">Settings > BackupReset</string>
+    <string name="rsup_screen_name_settings_ChooseLockGeneric">Settings > Location and security > Set up screen lock</string>
+    <string name="rsup_screen_name_settings_ChooseLockPassword">Settings > Location and security > Set up screen lock > PIN</string>
+    <string name="rsup_screen_name_settings_ChooseLockPattern">Settings > Location and security > Set up screen lock > Pattern</string>
+    <string name="rsup_screen_name_settings_ChooseLockPatternExample">Settings > Location and security > Set up screen lock > Pattern > Example pattern</string>
+    <string name="rsup_screen_name_settings_DataUsage">Settings > Data Usage</string>
+    <string name="rsup_screen_name_settings_DateTimeSettings">Settings > Date and time</string>
+    <string name="rsup_screen_name_settings_DevelopmentSettings">Settings > Applications > Development</string>
+    <string name="rsup_screen_name_settings_DeviceAdminSettings">Settings > Location and security > Select device administrators</string>
+    <string name="rsup_screen_name_settings_DeviceInfoSettings">Settings > About phone</string>
+    <string name="rsup_screen_name_settings_DisplaySettings">Settings > Display</string>
+    <string name="rsup_screen_name_settings_IccLockSettings">Settings > Location and security > Set up SIM card lock</string>
+    <string name="rsup_screen_name_settings_LanguageSettings">Settings > Language and keyboard</string>
+    <string name="rsup_screen_name_settings_LocalePicker">Settings > Language and keyboard > Select language</string>
+    <string name="rsup_screen_name_settings_ManageAccountsSettings">Settings > Accounts and sync</string>
+    <string name="rsup_screen_name_settings_ManageApplications">Settings > Applications > Manage applications</string>
+    <string name="rsup_screen_name_settings_MasterClear">Settings > Privacy > Factory data reset</string>
+    <string name="rsup_screen_name_settings_MediaFormat">Settings > Storage > Erase USB storage</string>
+    <string name="rsup_screen_name_settings_PrivacySettings">Settings > Privacy</string>
+    <string name="rsup_screen_name_settings_RunningServices">Settings > Applications > Running services</string>
+    <string name="rsup_screen_name_settings_SecuritySettings">Settings > Location and security</string>
+    <string name="rsup_screen_name_settings_Settings">Settings</string>
+    <string name="rsup_screen_name_settings_SettingsLicenseActivity">Settings > About phone > Legal information > Open source licenses</string>
+    <string name="rsup_screen_name_settings_SoundSettings">Settings > Sound</string>
+    <string name="rsup_screen_name_settings_TetherSettings">Settings > Wireless and networks > Tethering and portable hotspot</string>
+    <string name="rsup_screen_name_settings_TextToSpeechSettings">Settings > Voice input and output > Text-to-speech settings</string>
+    <string name="rsup_screen_name_settings_UserDictionarySettings">Settings > Language and keyboard > User dictionary</string>
+    <string name="rsup_screen_name_settings_VoiceInputOutputSettings">Settings > Voice input and output</string>
+    <string name="rsup_screen_name_settings_WirelessSettings">Settings > Wireless and networks</string>
+    <string name="rsup_screen_name_settings_ZoneList">Settings > Date and time > Select time zone</string>
+    <string name="rsup_screen_name_settings_applications_StorageUse">Settings > Applications > Storage use</string>
+    <string name="rsup_screen_name_settings_bluetooth_BluetoothSettings">Settings > Wireless and networks > Bluetooth</string>
+    <string name="rsup_screen_name_settings_deviceinfo_Memory">Settings > Storage</string>
+    <string name="rsup_screen_name_settings_deviceinfo_Status">Settings > About phone > Status</string>
+    <string name="rsup_screen_name_settings_fuelgauge_PowerUsageSummary">Settings > About phone > Battery use</string>
+    <string name="rsup_screen_name_settings_vpn_VpnSettings">Settings > Wireless and networks > VPN settings</string>
+    <string name="rsup_screen_name_settings_vpn_VpnTypeSelection">Settings > Wireless and networks > VPN settings > Add VPN</string>
+    <string name="rsup_screen_name_settings_wifi_WifiApSettings">Settings > Wireless and networks > Tethering and portable hotspot > Portable Wi-Fi hotspot settings</string>
+    <string name="rsup_screen_name_settings_wifi_WifiSettings">Settings > Wireless and networks > Wi-Fi settings</string>
+    <string name="rsup_screen_name_settings_wifi_WifiSettings_advance">Settings > Wireless and networks > Wi-Fi settings > Advanced</string>
+    <string name="mdtp_cancel">@android:string/cancel</string>
+    <string name="rsup_download_completed">Download is Completed</string>
+    <string name="rsup_upload_completed">Upload is Completed</string>
+    <string name="rsup_ftp_download">Download</string>
+    <string name="rsup_ftp_upload">Upload</string>
+    <string name="mdtp_day_of_week_label_typeface">sans-serif</string>
+    <string name="GB">GB</string>
+    <string name="MB">MB</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="about">About</string>
+    <string name="about_header">Legal</string>
+    <string name="about_version">%1$s</string>
+    <string name="about_version_with_build_flavor">%1$s (%2$s-%3$s)</string>
+    <string name="about_your_device">About Your Device</string>
+    <string name="about_your_device_desc">Get to know your Galaxy device.</string>
+    <string name="accept">Accept</string>
+    <string name="accessibility_service_description">"Show Me How is an interactive step-by-step tutorial. Use it when you are on the go and don't have time to read an article, or want a more hands-on experience."</string>
+    <string name="accessibility_service_name">Show me how</string>
+    <string name="accessibility_service_summary">Show Me How helps you learn how to use your phone.</string>
+    <string name="account">Account</string>
+    <string name="accountVerificationErrorMessage">Please try again while we investigate any technical issues in the application.</string>
+    <string name="accountVerificationErrorTitle">Account Verification Issue</string>
+    <string name="account_manage">Manage Samsung Account</string>
+    <string name="account_manage_community">Manage Community Account</string>
+    <string name="account_verification">Account Verification</string>
+    <string name="activity">Activity</string>
+    <string name="add_product_camera_msg">To use barcode scanner grant \"CAMERA\" permission.</string>
+    <string name="add_product_camera_title">Missing Camera Permission</string>
+    <string name="add_product_invalid_barcode_msg">Barcode type is not supported.</string>
+    <string name="add_product_invalid_barcode_title">Invalid Barcode</string>
+    <string name="add_product_title">Register a product</string>
+    <string name="additional_information">Additional Information</string>
+    <string name="address_1">Address 1</string>
+    <string name="address_2">Address 2</string>
+    <string name="agent_rating_info">"You've rated %s"</string>
+    <string name="alert_dialog_continue">Continue</string>
+    <string name="alert_ignore_error">Unable to ignore this alert!</string>
+    <string name="align_barcode_message">Align barcode inside the viewfinder</string>
+    <string name="all_apps_have_been_closed">All apps have been closed</string>
+    <string name="allow">Allow</string>
+    <string name="allow_community_notification">Allow Notifications</string>
+    <string name="already_downloaded">You have already downloaded this file.</string>
+    <string name="already_downloaded_dialog_title">Already downloaded</string>
+    <string name="alternate_phone">Alternate Phone</string>
+    <string name="always">Always</string>
+    <string name="android_version">Android Version</string>
+    <string name="anr_information">ANR information</string>
+    <string name="answers">Answers</string>
+    <string name="app_name">Samsung+</string>
+    <string name="app_native_log">dumpstate_app_native.txt</string>
+    <string name="app_picker_name">Applications</string>
+    <string name="app_update_body">"It looks like you're running an outdated version of Samsung+.
+Help us bring you the best experience and latest features by tapping below.
+
+Need help? Call 1.855.795.0509"</string>
+    <string name="app_update_button">Update</string>
+    <string name="app_update_title">App Update</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="appointment_notifications">Appointment Notifications</string>
+    <string name="approval_screen_message">You have taken a photo</string>
+    <string name="approval_screen_retake">retake</string>
+    <string name="approval_screen_save">save</string>
+    <string name="apt_suite">Apt/Suite</string>
+    <string name="archive">ARCHIVE</string>
+    <string name="archived_issue">Archived Issue</string>
+    <string name="ask_and_report_recording_button_contents_description">Record screen</string>
+    <string name="ask_and_report_screenshot_button_contents_description">Capture screen</string>
+    <string name="ask_and_report_screenshot_recording_complete">DONE</string>
+    <string name="asterisk">*</string>
+    <string name="attachment_limitation_fmt">%1$d files or %2$d MB</string>
+    <string name="attachments">Attachments</string>
+    <string name="audio">Audio</string>
+    <string name="auto_attached_information">Auto Attached Information</string>
+    <string name="auto_brightness">Auto-brightness: %1$s</string>
+    <string name="autofocus_string">AUTOFOCUS</string>
+    <string name="average_rating">"Average
+rating"</string>
+    <string name="back">Back</string>
+    <string name="back_of_device">Back of Device</string>
+    <string name="back_of_device_title">Back of Device Photo</string>
+    <string name="bad_char_user">User Name invalid</string>
+    <string name="bad_connection">Bad Connection</string>
+    <string name="badges">Badges</string>
+    <string name="battery">Battery</string>
+    <string name="battery_charge_improve">Can Improve</string>
+    <string name="battery_charge_not_optimal">Not Optimal</string>
+    <string name="battery_charge_optimal">Optimal</string>
+    <string name="battery_forecast">Battery Forecast</string>
+    <string name="battery_life">Battery Life</string>
+    <string name="battery_optimizer">Battery Optimizer</string>
+    <string name="battery_performance_dialog_description">You will not receive this alert again if you disable it. You can turn it back on in Samsung+ settings under diagnostics notifications.</string>
+    <string name="battery_performance_dialog_title">Disable this Alert</string>
+    <string name="beta_already_registered_banner">Good news! You are already enrolled in this program.</string>
+    <string name="beta_faq">Beta FAQ</string>
+    <string name="beta_program_card_text">"Experience Android 8.0 Oreo for Galaxy S8, S8 plus earlier than others by Galaxy Beta Program. First come, first served.
+Click on \"Enroll Now\" to apply now."</string>
+    <string name="beta_program_snackbar">Thank you for supporting the Galaxy Beta Program!</string>
+    <string name="beta_unregister">You will be unsubscribed from Galaxy Beta Program.</string>
+    <string name="beta_unregister_success">Unsubscribed successfully</string>
+    <string name="birth_date">Birth Date*</string>
+    <string name="bluetooth">Bluetooth: %1$s</string>
+    <string name="bookmark_picker_name">Bookmarks</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="build_number">Build Number</string>
+    <string name="button_add_calendar">Add to calendar</string>
+    <string name="button_add_contact">Add contact</string>
+    <string name="button_book_search">Book Search</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_custom_product_search">Custom search</string>
+    <string name="button_dial">Dial number</string>
+    <string name="button_email">Send email</string>
+    <string name="button_get_directions">Get directions</string>
+    <string name="button_mms">Send MMS</string>
+    <string name="button_ok">OK</string>
+    <string name="button_open_browser">Open browser</string>
+    <string name="button_product_search">Product search</string>
+    <string name="button_search_book_contents">Search contents</string>
+    <string name="button_share_app">Application</string>
+    <string name="button_share_bookmark">Bookmark</string>
+    <string name="button_share_by_email">Share via email</string>
+    <string name="button_share_by_sms">Share via SMS</string>
+    <string name="button_share_clipboard">Clipboard</string>
+    <string name="button_share_contact">Contact</string>
+    <string name="button_show_map">Show map</string>
+    <string name="button_sms">Send SMS</string>
+    <string name="button_web_search">Web search</string>
+    <string name="button_wifi">Connect to Network</string>
+    <string name="call">Call</string>
+    <string name="call_customer_care">CALL CUSTOMER CARE</string>
+    <string name="call_now">CALL NOW</string>
+    <string name="call_support">Call Support</string>
+    <string name="calling">Calling...</string>
+    <string name="camera">Camera</string>
+    <string name="cancel">Cancel</string>
+    <string name="cancel_request">CANCEL REQUEST</string>
+    <string name="cancel_service_request">CANCEL SERVICE REQUEST</string>
+    <string name="cancel_submit">Cancel</string>
+    <string name="capture_close_dialog_cancel">Continue Test</string>
+    <string name="capture_close_dialog_confirm">End Test</string>
+    <string name="capture_close_dialog_message">You are about to leave the device qualification process. This is required in order to qualify and purchase Premium Care.</string>
+    <string name="capture_close_dialog_title">Exit device qualification</string>
+    <string name="capture_picture_des_back">Take a picture of the back of your device.</string>
+    <string name="capture_picture_des_front">Take a picture of the front of your device.</string>
+    <string name="capture_picture_des_volume_update">"Use the \"volume\" button to 
+capture the photo."</string>
+    <string name="capture_screen">Capture screen</string>
+    <string name="card_removed">Card Removed</string>
+    <string name="category_fmt">%1$s > %2$s</string>
+    <string name="cause">Cause</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="charge_for">If you charge for</string>
+    <string name="charge_for_time_hrs">%s hours</string>
+    <string name="charge_for_time_mins">%s minutes</string>
+    <string name="charge_remaining_format">%d%%</string>
+    <string name="chat_session">Chat Session</string>
+    <string name="check_out_learn">CHECK OUT LEARN</string>
+    <string name="checkout_skills">Check Out Skills</string>
+    <string name="choose_a_product_type">1. Choose a Product Type</string>
+    <string name="choose_your_product_type">Choose Your Product Type</string>
+    <string name="city">City*</string>
+    <string name="class_name">Class Name</string>
+    <string name="clean">Clean</string>
+    <string name="clear_alerts">Clear Alerts</string>
+    <string name="clear_response">ClearResponse</string>
+    <string name="close">Close</string>
+    <string name="close_running_apps">Close running apps</string>
+    <string name="close_running_apps_dialog_description">Closing running apps can help reduce CPU usage and cool your device. When your device cools this alert will automatically go away.</string>
+    <string name="close_running_apps_dialog_title">Close running apps?</string>
+    <string name="close_running_apps_weak_charger_dialog_description">Closing running apps can help improve charging speeds.</string>
+    <string name="coach_mark_got_it">TAKE ME TO THE APP</string>
+    <string name="coach_mark_navigation">New navigation</string>
+    <string name="coach_mark_swipe_to_explore">Swipe to explore</string>
+    <string name="code">code=</string>
+    <string name="community">Community</string>
+    <string name="community_notification">Community Notification</string>
+    <string name="community_notifications">Community Notifications</string>
+    <string name="community_notifications_desc">Turn on or off community notifications</string>
+    <string name="community_settings">Community Settings</string>
+    <string name="community_statistics">Statistics</string>
+    <string name="community_statistics_desc">See your community statistics</string>
+    <string name="complete_message">Congratulation! You have completed this interactive walkthrough.</string>
+    <string name="complete_registration">Complete Registration</string>
+    <string name="complete_setup">Complete Setup</string>
+    <string name="compose_a_feedback">Compose Feedback</string>
+    <string name="confirm">Confirm</string>
+    <string name="confirm_date_of_purchase">Please confirm the date of purchase of your:</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="consuming_battery">Consuming Battery</string>
+    <string name="content_not_available">Content not available</string>
+    <string name="contents_contact">Contact info</string>
+    <string name="contents_email">Email address</string>
+    <string name="contents_location">Geographic coordinates</string>
+    <string name="contents_phone">Phone number</string>
+    <string name="contents_sms">SMS address</string>
+    <string name="contents_text">Plain text</string>
+    <string name="conversation_date_fmt">%1$s %2$s</string>
+    <string name="copy">Copy</string>
+    <string name="copyright_and_licenses">Copyright &amp; Licenses</string>
+    <string name="copyright_and_licenses_text">"© 2017 Samsung Electronics America, Inc. Samsung, Galaxy S, ChatON Square, S Translator, Samsung Health, My Magazine, Multi Window, S Beam, Smart Pause, Air View, S Pen, S Voice, Air Gestures, Samsung Galaxy Gear, Samsung Milk Music, Samsung Smart TV and AllShare are all trademarks of Samsung Electronics Co., Ltd. Google, Google Play, Gmail, Android, and other marks are trademarks of Google, Inc. Bluetooth is a registered trademark of Bluetooth SIG, Inc. Wi-Fi is a registered trademark of the Wi-Fi Alliance. All other brands, products and services, and their respective trademarks, names and logos are the property of their respective owners. This content is provided for entertainment and information purposes only. Consult user manual for more complete information. All information included herein is subject to change without notice. Samsung is not responsible for any direct or indirect damages, arising from or related to use or reliance of the content herein. Screen images may differ from one wireless service provider to another. Appearance of the device may vary.
+
+Samsung+ 3rd PARTY SOFTWARE
+
+Samsung+ includes or is distributed together with the following third party software:
+
+A.   Items A.1–27 below are licensed under the Apache License, Version 2.0 (the \"License\"): you may not use these files except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE–2.0.  Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+
+The full text of the Apache License, Version 2.0 is reproduced below in Appendix A.
+
+1. Dagger
+
+This library can be found at:  http://square.github.io/dagger/
+
+Copyright © 2013 Square, Inc.
+
+2. Showcase View
+
+This library can be found at: https://github.com/amlcurran/ShowcaseView
+
+Copyright Alex Curran (@amlcurran) © 2012–2014. All rights reserved.
+
+3. Apache Commons Language 3.3.2
+
+This library can be found at:  http://commons.apache.org/proper/commons–lang/
+
+Copyright © 2001–2014 The Apache Software Foundation
+
+4. Http Core http client 4.2.2
+
+This library can be found at:  https://hc.apache.org/httpcomponents–client–4.3.x/android–port.html
+
+Copyright © 2005–2014 The Apache Software Foundation. All Rights Reserved
+
+5. Http Mime 4.2.3
+
+This library can be found at:  http://hc.apache.org/httpcomponents–client–ga/httpmime/dependency–info.html
+
+Copyright © 1999–2014 The Apache Software Foundation
+
+6.\u0009Joda Time 2.3
+
+This library can be found at:  http://www.joda.org/joda–time/
+
+Copyright © 2002–2014 Joda.org. All Rights Reserved.
+
+7. Joda Convert 1.5
+
+This library can be found at:  http://www.joda.org/joda–convert/
+
+Copyright © 2010–2014 Joda.org. 
+
+8. CommonsWare Android Components: CWAC Adapter
+
+This library can be found at:  https://github.com/commonsguy/cwac–adapter
+
+Copyright © 2015 CommonsWare, LLC — All Rights Reserved
+
+9.\u0009CommonsWare Android Components: CWAC AndDown 0.2.0
+
+This library can be found at:  https://github.com/commonsguy/cwac–anddown
+
+Copyright © 2015 CommonsWare, LLC — All Rights Reserved
+
+10. CommonsWare Android Components – EndlessAdapter 1.2.3
+
+This library can be found at:  https://github.com/commonsguy/cwac–endless
+
+Copyright © 2015 CommonsWare, LLC — All Rights Reserved
+
+11. Zebra Crossing Barcode Library 2.0
+
+This library can be found at:  https://github.com/zxing/zxing
+
+Copyright © 2002–2010 Jeremias Märki
+Copyright 2005–2006 Dietmar Bürkle
+
+Portions of this software were contributed under section 5 of the
+Apache License. Contributors are listed under:
+http://barcode4j.sourceforge.net/contributors.html
+
+12. Edge Effect Override 1.0.1
+
+This library can be found at:  https://github.com/AndroidAlliance/EdgeEffectOverride
+
+Copyright © 2014 Android Alliance Ltd 
+
+13. Jackson Mapper ASL 1.9.11
+
+This library can be found at: http://wiki.fasterxml.com/JacksonDownload*
+
+Copyright © 2009 FasterXML, LLC
+* Note that this library is made available under either the Apache Software License v. 2.0 or the LGPL 2.1.  We have selected Apache 2.0. 
+
+14. Volley and Volley/progard.cg 
+
+This library can be found at:  http://developer.android.com/training/volley/index.html
+
+Copyright © 2011 The Android Open Source Project
+
+15. Multidex 1.0
+
+This library can be found at:  https://developer.android.com/reference/android/support/multidex/MultiDex.html
+
+Copyright © 2013 The Android Open Source Project
+
+16. AppCompat V7 Support Library 21.0.3
+
+This library can be found at:  http://developer.android.com/tools/support–library/index.html
+Copyright © 2010–2014 The Android Open Source Project
+
+17. Google Play Services 6.1.11
+
+This library can be found at:  https://developer.android.com/google/play–services/index.html
+
+Copyright © 2005–2008 The Android Open Source Project
+
+18. RenderScript v.8 jar
+
+This library can be found at:  https://developer.android.com/guide/topics/renderscript/compute.html
+
+Copyright © 2008–2012 The Android Open Source Project
+
+19. Findbugs:jsr305:2.0.2
+
+This library can be found at: https://www.versioneye.com/java/com.google.code.findbugs:jsr305/2.0.1
+
+Copyright © VersionEye
+
+20. Mixpanel–Android
+
+This library can be found at: https://github.com/mixpanel/mixpanel–android
+
+Copyright © 2012 Mixpanel, Inc.
+
+21. Commons–Codec 1.9
+
+This library can be found at: http://commons.apache.org/proper/commons–codec/index.html
+
+Copyright 2002–2014 The Apache Software Foundation. All Rights Reserved.
+
+22. Sliding TabsBasic
+
+This library can be found at https://developer.android.com/samples/SlidingTabsBasic/index.html
+
+Copyright © The Android Open Source Project
+
+23. ExoPlayer
+
+This library can be found at https://github.com/google/ExoPlayer
+
+Copyright © The Android Open Source Project
+
+24. EventBus: greenrobot
+
+This library can be found at: http://greenrobot.org/eventbus/ 
+
+Copyright © 2012-2016 Markus Junginger
+
+25. Bluetooth–crash–resolver
+
+This library can be found at https://github.com/RadiusNetworks/bluetooth–crash–resolver
+
+Copyright © 2014 David G Young
+
+B.  ORMLite – android and core  4.46
+
+This library can be found at:  http://ormlite.com/
+Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that this permission notice appear in all copies. 
+THE SOFTWARE IS PROVIDED \"AS IS\" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE. 
+The author may be contacted via http://ormlite.com/
+
+Copyright © 2010 to 2011 by Gray Watson
+
+C. Markdown 4J 2.2–cj–1.0
+
+This library can be found at:  http://daringfireball.net/projects/markdown/
+
+Copyright © 2004, John Gruber 
+http://daringfireball.net/ 
+All rights reserved.
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+•\u0009Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+•\u0009Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+•\u0009Neither the name “Markdown” nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+This software is provided by the copyright holders and contributors “as is” and any express or implied warranties, including, but not limited to, the implied warranties of merchantability and fitness for a particular purpose are disclaimed. In no event shall the copyright owner or contributors be liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, procurement of substitute goods or services; loss of use, data, or profits; or business interruption) however caused and on any theory of liability, whether in contract, strict liability, or tort (including negligence or otherwise) arising in any way out of this software, even if advised of the possibility of such damage.
+
+D. New Relic Android Agent Jar 4.120.0
+
+This library can be found at http://mvnrepository.com/artifact/com.newrelic.agent.android/android–agent/4.120.0
+©2008–15 New Relic, Inc. All rights reserved
+
+Copyright © 2008–2014 New Relic, Inc.  All rights reserved.  Certain inventions disclosed in this file may be claimed within patents owned or patent applications filed by New Relic, Inc. or third parties.  Subject to the terms of this notice, New Relic grants you a nonexclusive, nontransferable license, without the right to sublicense, to (a) install and execute one copy of these files on any number of workstations owned or controlled by you and (b) distribute verbatim copies of these files to third parties.  As a condition to the foregoing grant, you must provide this notice along with each copy you distribute and you must not remove, alter, or obscure this notice. All other use, reproduction, modification, distribution, or other exploitation of these files is strictly prohibited, except as may be set forth in a separate written license agreement between you and New Relic.  The terms of any such license agreement will control over this notice.  The license stated above will be automatically terminated and revoked if you exceed its scope or violate any of the terms of this notice.  This License does not grant permission to use the trade names, trademarks, service marks, or product names of New Relic, except as required for reasonable and customary use in describing the origin of this file and reproducing the content of this notice.  You may not mark or brand this file with any trade name, trademarks, service marks, or product names other than the original brand (if any) provided by New Relic.  Unless otherwise expressly agreed by New Relic in a separate written license agreement, these files are provided AS IS, WITHOUT WARRANTY OF ANY KIND, including without any implied warranties of MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, or NON–INFRINGEMENT.  As a condition to your use of these files, you are solely responsible for such use. New Relic will have no liability to you for direct, indirect, consequential, incidental, special, or punitive damages or for lost profits or data.
+
+E.   YouTube Android API Library v. 1.2.1 
+ 
+This library can be found here:  https://developers.google.com/youtube/android/player/downloads/  and is provided subject to the terms of service found at https://developers.google.com/youtube/android/player/downloads/
+ 
+Appendix A – Full License Texts
+
+1.  Apache Software License, version 2.0
+Apache License
+Version 2.0, January 2004
+http://www.apache.org/licenses/
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions.
+
+\"License\" shall mean the terms and conditions for use, reproduction,and distribution as defined by Sections 1 through 9 of this document.
+
+\"Licensor\" shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.
+
+\"Legal Entity\" shall mean the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity. For the purposes of this definition, \"control\" means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.
+
+\"You\" (or \"Your\") shall mean an individual or Legal Entity exercising permissions granted by this License.
+
+\"Source\" form shall mean the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files.
+
+\"Object\" form shall mean any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types.
+
+\"Work\" shall mean the work of authorship, whether in Source or Object form, made available under the License, as indicated by a copyright notice that is included in or attached to the work (an example is provided in the Appendix below).
+
+\"Derivative Works\" shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. For the purposes of this License, Derivative Works shall not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the Work and Derivative Works thereof.
+
+\"Contribution\" shall mean any work of authorship, including the original version of the Work and any modifications or additions to that Work or Derivative Works thereof, that is intentionally submitted to Licensor for inclusion in the Work by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner. For the purposes of this definition, \"submitted\" means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Work, but excluding communication that is conspicuously marked or otherwise designated in writing by the copyright owner as \"Not a Contribution.\"
+
+\"Contributor\" shall mean Licensor and any individual or Legal Entity on behalf of whom a Contribution has been received by Licensor and subsequently incorporated within the Work.
+
+2. Grant of Copyright License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non–exclusive, no–charge, royalty–free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form.
+
+3. Grant of Patent License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non–exclusive, no–charge, royalty–free, irrevocable (except as stated in this section) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Work, where such license applies only to those patent claims licensable by such Contributor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Work to which such Contribution(s) was submitted. If You institute patent litigation against any entity (including a cross–claim or counterclaim in a lawsuit) alleging that the Work or a Contribution incorporated within the Work constitutes direct or contributory patent infringement, then any patent licenses granted to You under this License for that Work shall terminate as of the date such litigation is filed.
+
+4. Redistribution. You may reproduce and distribute copies of the Work or Derivative Works thereof in any medium, with or without modifications, and in Source or Object form, provided that You meet the following conditions:
+
+(a) You must give any other recipients of the Work or Derivative Works a copy of this License; and
+
+(b) You must cause any modified files to carry prominent notices stating that You changed the files; and
+
+(c) You must retain, in the Source form of any Derivative Works that You distribute, all copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+
+(d) If the Work includes a \"NOTICE\" text file as part of its distribution, then any Derivative Works that You distribute must include a readable copy of the attribution notices contained within such NOTICE file, excluding those notices that do not pertain to any part of the Derivative Works, in at least one of the following places: within a NOTICE text file distributed as part of the Derivative Works; within the Source form or documentation, if provided along with the Derivative Works; or, within a display generated by the Derivative Works, if and wherever such third–party notices normally appear. The contents of the NOTICE file are for informational purposes only and do not modify the License. You may add Your own attribution notices within Derivative Works that You distribute, alongside or as an addendum to the NOTICE text from the Work, provided that such additional attribution notices cannot be construed as modifying the License.
+
+You may add Your own copyright statement to Your modifications and may provide additional or different license terms and conditions for use, reproduction, or distribution of Your modifications, or for any such Derivative Works as a whole, provided Your use, reproduction, and distribution of the Work otherwise complies with the conditions stated in this License.
+
+5. Submission of Contributions. Unless You explicitly state otherwise, any Contribution intentionally submitted for inclusion in the Work by You to the Licensor shall be under the terms and conditions of this License, without any additional terms or conditions. Notwithstanding the above, nothing herein shall supersede or modify the terms of any separate license agreement you may have executed with Licensor regarding such Contributions.
+
+6. Trademarks. This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use in describing the origin of the Work and reproducing the content of the NOTICE file.
+
+7. Disclaimer of Warranty. Unless required by applicable law or agreed to in writing, Licensor provides the Work (and each Contributor provides its Contributions) on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON–INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using or redistributing the Work and assume any risks associated with Your exercise of permissions under this License.
+
+8. Limitation of Liability. In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Work (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if such Contributor has been advised of the possibility of such damages.
+
+9. Accepting Warranty or Additional Liability. While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability.
+
+END OF TERMS AND CONDITIONS
+
+APPENDIX: How to apply the Apache License to your work.
+
+To apply the Apache License to your work, attach the following boilerplate notice, with the fields enclosed by brackets \"[]\" replaced with your own identifying information. (Don't include the brackets!) The text should be enclosed in the appropriate comment syntax for the file format. We also recommend that a file or class name and description of purpose be included on the same \"printed page\" as the copyright notice for easier identification within third–party archives.
+
+Copyright [yyyy] [name of copyright owner]
+
+Licensed under the Apache License, Version 2.0 (the \"License\"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE–2.0
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+
+Copyright © 2017 Samsung Electronics America, Inc. Samsung is a registered trademark of Samsung Electronics Co., Ltd. All Rights Reserved."</string>
+    <string name="course_progress_description" formatted="false">%d of %d Articles Completed</string>
+    <string name="coverage_date">Coverage Estimated</string>
+    <string name="crash_information">Crash information</string>
+    <string name="create_all_alerts">Create All Alerts</string>
+    <string name="create_app_battery_consumption_alert">Create App Battery Consumption Alert</string>
+    <string name="create_app_data">Create App Data Alert</string>
+    <string name="create_battery_performance_alert">Create Battery Performance Alert</string>
+    <string name="create_data_overage_alert">Create Data Overage Alert</string>
+    <string name="create_insecure_wifi_alert">Create Insecure Wi-Fi Alert</string>
+    <string name="create_low_battery_alert">Create Low Battery Alert</string>
+    <string name="create_low_storage">Create Low Storage Alert</string>
+    <string name="create_new">NEW</string>
+    <string name="create_poor_signal_battery_consumption_alert">Create Poor Signal Battery Consumption Alert</string>
+    <string name="create_rapid_power">Create Rapid Power Alert</string>
+    <string name="create_reboot">Create Reboot Alert</string>
+    <string name="create_rooted">Create Rooted Alert</string>
+    <string name="create_weak_charge">Create Weak Charging Alert</string>
+    <string name="crop">Crop</string>
+    <string name="crop_image">Crop image</string>
+    <string name="crop_image_activity_title" />
+    <string name="crop_image_menu_crop">Crop</string>
+    <string name="crop_image_menu_rotate_left">Rotate counter clockwise</string>
+    <string name="crop_image_menu_rotate_right">Rotate</string>
+    <string name="crop_overlay_confirm">Crop</string>
+    <string name="crop_overlay_text">"Crop the image to show only
+the device."</string>
+    <string name="custom_camera_activity_header_approve">approve</string>
+    <string name="custom_camera_activity_header_blurry">This photo appears to be blurry, consider retaking it</string>
+    <string name="custom_camera_activity_header_dark">This photo appears to be dark, consider retaking it</string>
+    <string name="custom_camera_activity_header_light">This photo appears to be bright, consider retaking it</string>
+    <string name="custom_camera_activity_header_retake">retake</string>
+    <string name="custom_camera_activity_header_volume_button">Use <b>Volume +</b> to capture photo</string>
+    <string name="custom_status_msg">Place the BarCode inside the viewfinder</string>
+    <string name="cwac_cam2_ok">OK</string>
+    <string name="cwac_cam2_retry">Try again</string>
+    <string name="data_limit">data limit</string>
+    <string name="data_monitor">Data Monitor</string>
+    <string name="data_monitor_configure">Add your data plan to view data usage</string>
+    <string name="data_monitor_info">%1$s</string>
+    <string name="data_usage">Data Usage</string>
+    <string name="day">Day</string>
+    <string name="debug_options">Debug options</string>
+    <string name="decline">Decline</string>
+    <string name="deeplink">deeplink</string>
+    <string name="default_customer_care_phone_number">8448765861</string>
+    <string name="default_display_name">Samsung Device</string>
+    <string name="default_tab">For You</string>
+    <string name="desc_APP_BATTERY_CONSUMPTION">Measuring the amount of battery consumed by applications.</string>
+    <string name="desc_APP_DATA_USAGE">Consuming an excessive amount of cellular data if you are not on an unlimited data plan could lead to overages.</string>
+    <string name="desc_BATTERY_HEALTH">The monitoring software embedded inside of your battery can sometimes issue alerts. These issues may go away after a few charge cycles.</string>
+    <string name="desc_BATTERY_LOW">Charging your device on time to avoid battery drain.</string>
+    <string name="desc_BATTERY_PERFORMANCE">Evaluating your battery performance to ensure it is working as expected.</string>
+    <string name="desc_BATTERY_TEMPERATURE">Using your device when it is too hot can harm your battery. Using your device when it is too cold can harm your screen and battery.</string>
+    <string name="desc_DATA_OVERAGE">You can limit your data usage by using a Wi-Fi connection when available and/or disabling mobile data.</string>
+    <string name="desc_INSECURE_WIFI">Using Wi-Fi without encryption or weak encryption such as WEP or WPA is unsafe and can put your personal information at risk.</string>
+    <string name="desc_POOR_SIGNAL_BATTERY_CONSUMPTION">A poor mobile signal can cause your battery to drain faster than normal.</string>
+    <string name="desc_RAPID_POWER">Checking the connection between your charger and device.</string>
+    <string name="desc_REBOOT">Periodically restarting may speed your device up and resolve minor issues.</string>
+    <string name="desc_ROOTED">Rooting your device bypasses security features designed to keep you safe and can cause your device to perform poorly.</string>
+    <string name="desc_STORAGE">Measuring the available storage on your device. Removing unused files may free up additional space.</string>
+    <string name="desc_WEAK_CHARGER">Evaluating if your battery is draining faster than it can charge. Usually this occurs when charging via USB or running several battery intensive apps at once.</string>
+    <string name="desktop_quick_help">Desktop Active Help</string>
+    <string name="desktop_quick_help_desc">Active help displays on your device home screen</string>
+    <string name="device_detail_coverage_title">"You're covered:"</string>
+    <string name="device_detail_model">Model</string>
+    <string name="device_detail_serial_number">Serial Number</string>
+    <string name="device_detail_title">Product Detail</string>
+    <string name="device_health">Overall Device Health</string>
+    <string name="device_information">Device information</string>
+    <string name="device_not_qualified">Your device is not qualified</string>
+    <string name="device_not_qualified_msg">Looks like your device is not qualified for Premium Care. For help please call %s</string>
+    <string name="device_settings">Device Settings</string>
+    <string name="diagnostics">Diagnostics</string>
+    <string name="diagnostics_notifications">Diagnostics Notifications</string>
+    <string name="diagnostics_notifications_desc">Turn on or off all diagnostics notifications</string>
+    <string name="diagnostics_tools">Diagnostics Tools</string>
+    <string name="dialog_desc_app_info">Selecting Go To Application Info will take you to device settings. You can view app info here. Use the back button to return to Samsung+.</string>
+    <string name="dialog_desc_data_usage">Selecting Go To Application data usage will take you to device settings. You can view app settings here. Use the back button to return to Samsung+.</string>
+    <string name="dialog_desc_disable_mobile_data">Selecting ok will take you to device settings. You can turn off mobile data here. Use the back button to return to Samsung+.</string>
+    <string name="dialog_desc_rooted">You will not receive this alert again if you turn it off. You can turn it back on in Samsung+ settings under Notification Settings.</string>
+    <string name="dialog_desc_wifi">"By switching the Wi-Fi setting to 'saving power', you are disabling your Wi-Fi connection and may no longer have internet access."</string>
+    <string name="dialog_positive_button_app_info">Go to App Info</string>
+    <string name="dialog_positive_button_data_usage">Go to Data Usage</string>
+    <string name="dialog_positive_button_disable_mobile_data">Go To mobile data</string>
+    <string name="dialog_positive_button_turn_off">Turn Off</string>
+    <string name="dialog_title_app_info">App Info</string>
+    <string name="dialog_title_data_usage">Data usage</string>
+    <string name="dialog_title_disable_mobile_data">Disable mobile data</string>
+    <string name="dialog_title_rooted">Turn off this alert</string>
+    <string name="dialog_title_wifi">Attention</string>
+    <string name="directly_expert_chat">Text Chat</string>
+    <string name="directly_notify_description">Tap here to chat with Samsung Expert</string>
+    <string name="directly_notify_message_desc">You have a new reply to your question.</string>
+    <string name="directly_notify_message_title">New Message</string>
+    <string name="directly_notify_messages_decs">You have new replies to your question.</string>
+    <string name="directly_notify_messages_title">New Messages</string>
+    <string name="directly_notify_multi_conv_messages_decs">You have new replies to your questions.</string>
+    <string name="directly_notify_title">New Message from Expert</string>
+    <string name="disable_monitoring">Disable Monitoring</string>
+    <string name="disable_this_alert">Turn off this alert</string>
+    <string name="disabled">disabled</string>
+    <string name="discard">DISCARD</string>
+    <string name="discard_draft">Discard Draft</string>
+    <string name="discard_draft_desc">Would you like to discard this draft?</string>
+    <string name="discarded_message">Your draft has been discarded.</string>
+    <string name="discover">Discover</string>
+    <string name="dismiss">DISMISS</string>
+    <string name="dismiss_card_title">%s Card Dismissed</string>
+    <string name="dismiss_message_string">See more in</string>
+    <string name="dismiss_message_string_learn">LEARN ></string>
+    <string name="dismissing_beta_program_card">Dismissing Beta Program Card...</string>
+    <string name="display_blurry">blurry</string>
+    <string name="display_case_on">the case was on</string>
+    <string name="display_obscured">obscured</string>
+    <string name="display_too_far">too far away</string>
+    <string name="dispute_warranty_cta">REQUEST WARRANTY REVIEW</string>
+    <string name="dispute_warranty_desc">Warranty Status: Valid through %s</string>
+    <string name="dispute_warranty_desc_out_of_warranty">Warranty Status: Out of warranty</string>
+    <string name="dispute_warranty_desc_unknown">Warranty Status: Validity unknown</string>
+    <string name="dispute_warranty_title">Product Warranty</string>
+    <string name="dlc_sdk_api_context">/api</string>
+    <string name="dlc_sdk_api_host_production">api.pocketgeek.com</string>
+    <string name="dlc_sdk_api_host_staging">staging-api.pocketgeek.com</string>
+    <string name="dlc_sdk_api_port">443</string>
+    <string name="dlc_sdk_api_transport">https</string>
+    <string name="do_not_report">DO NOT REPORT</string>
+    <string name="do_not_show_again">"Don't show again"</string>
+    <string name="do_not_show_this_again">"Don't show this again"</string>
+    <string name="done">Done</string>
+    <string name="done_button">DONE</string>
+    <string name="dont_see_products">"I Don't See My Product"</string>
+    <string name="dont_see_products_msg">"If you don't see your product, make sure your product is on and connected to the same Wi-Fi network as your phone.
+
+If you are still not able to see your product, try to register your product manually by selecting its type, and entering the serial number."</string>
+    <string name="download">Download</string>
+    <string name="download_limit">Download limit reached!</string>
+    <string name="download_thank_you">Thank you for downloading</string>
+    <string name="download_this_file">Download</string>
+    <string name="drawer_add_device">REGISTER A PRODUCT</string>
+    <string name="drawer_default_user_name">Samsung User</string>
+    <string name="drawer_get_help">Get Help</string>
+    <string name="drawer_li_profile">Community Profile</string>
+    <string name="drawer_my_samsung">My Samsung</string>
+    <string name="drawer_register_product_desc">Get help for all your Samsung products</string>
+    <string name="drawer_settings">Settings</string>
+    <string name="drawer_signin">SIGN IN</string>
+    <string name="drawer_user_name">Guest User</string>
+    <string name="drawer_welcome">Welcome</string>
+    <string name="dsr_1_800_SAMSUNG">18007267864</string>
+    <string name="dsr_attachment_limitation">5 MB photo</string>
+    <string name="dsr_attachment_limitation_video">1 GB video</string>
+    <string name="dsr_cancelling_service_request">Cancelling Service Request. Please wait ...</string>
+    <string name="dsr_close_dlg_cancel">Discard</string>
+    <string name="dsr_close_dlg_message">You have not completed the Service request. Do you want to discard or save the service request as a draft?</string>
+    <string name="dsr_close_dlg_ok">Save Draft</string>
+    <string name="dsr_close_dlg_title">Closing Service Request</string>
+    <string name="dsr_contact_description">If you have any further questions or concerns, please refer to the ticket number shown above when you communicate with Samsung.</string>
+    <string name="dsr_contact_num">1-800-SAMSUNG</string>
+    <string name="dsr_dialog_desc_attachment_failed">The image or video you have attached is either too large or has an incorrect file type.</string>
+    <string name="dsr_dialog_desc_attachment_override">By uploading this file, you will be overwriting the existing one.</string>
+    <string name="dsr_dialog_desc_cannot_edit">Service request changes are not available within 24 hours of the appointment.</string>
+    <string name="dsr_dialog_desc_generic_error">An error has occurred while processing your request. Please try again or call us at 1–800–SAMSUNG</string>
+    <string name="dsr_dialog_desc_generic_try_later">An error has occurred while processing your request. Please try again later</string>
+    <string name="dsr_dialog_desc_issue_resolved">If the issue has been resolved, we will remove this service request.</string>
+    <string name="dsr_dialog_desc_out_warranty">Since your product is out of warranty, additional costs may incur.</string>
+    <string name="dsr_dialog_desc_request_cancel">Are you sure you want to cancel the service you requested?</string>
+    <string name="dsr_dialog_desc_slot_warning">If you go back, you will be required to select the appointment date and time again. Do you want to go back?</string>
+    <string name="dsr_dialog_desc_ticket_exists">There is a service request scheduled for this product already. To continue creating this service request, the other service request needs to be cancelled first.</string>
+    <string name="dsr_dialog_desc_warranty_review">You will be able to start a service request once your proof of purchase has been reviewed.</string>
+    <string name="dsr_dialog_desc_warranty_review_exists">There is a warranty review requested for this product already. Status will be updated soon.</string>
+    <string name="dsr_dialog_positive_cta_issue_resolved">Issue Resolved</string>
+    <string name="dsr_dialog_title_attachment_failed">Attachment Failed</string>
+    <string name="dsr_dialog_title_attachment_override">Uploading Attachment</string>
+    <string name="dsr_dialog_title_cannot_edit">Cannot Edit the Service</string>
+    <string name="dsr_dialog_title_generic_error">Something went wrong</string>
+    <string name="dsr_dialog_title_issue_resolved">Issue Resolved</string>
+    <string name="dsr_dialog_title_out_warranty">Out of Warranty</string>
+    <string name="dsr_dialog_title_request_cancel">Cancel Service Request</string>
+    <string name="dsr_dialog_title_slot_warning">Please note</string>
+    <string name="dsr_dialog_title_ticket_exists">Existing Service Request</string>
+    <string name="dsr_dialog_title_warranty_review">Warranty Under Review</string>
+    <string name="dsr_dialog_title_warranty_review_exists">Existing Warranty Review Request</string>
+    <string name="dsr_discarding_draft">Discarding draft. Please wait ...</string>
+    <string name="dsr_disclaimer">"Requested service date and time is subject to parts availability and service technician availability. 
+
+Availability of service and response-time estimates may vary according to the remoteness or accessibility of product location."</string>
+    <string name="dsr_feedback_button_text">TELL US ABOUT YOUR EXPERIENCE</string>
+    <string name="dsr_feedback_title">We would like to hear from you about your experience with this service request creation.</string>
+    <string name="dsr_hint">Describe your issue here.</string>
+    <string name="dsr_loading_serial">Looking up product serial. Please wait ...</string>
+    <string name="dsr_loading_service_details">Fetching Service details. Please wait ...</string>
+    <string name="dsr_myproduct_entry_cta">Having trouble with a product you haven’t registered? Have a Samsung technician help you.</string>
+    <string name="dsr_posting_request">Posting request. Please wait ...</string>
+    <string name="dsr_recalled_product">This product has been recalled.</string>
+    <string name="dsr_reschedule">Edit Date And Time</string>
+    <string name="dsr_saving_request">Saving request. Please wait ...</string>
+    <string name="dsr_saving_service_details">Saving Service details. Please wait ...</string>
+    <string name="dsr_scheduling_service_request">Scheduling Service Request. Please wait ...</string>
+    <string name="dsr_survey">Service completed on %s</string>
+    <string name="dsr_survey_brand_id">seasamsung</string>
+    <string name="dsr_survey_intercept_id">SI_b8BabblpiF7MUER</string>
+    <string name="dsr_survey_zone_id">zn9xowqszdbqtbfwx</string>
+    <string name="dsr_ticket_exists">Close this request</string>
+    <string name="dsr_ticket_number">Ticket Number: %s</string>
+    <string name="dsr_upcoming">Service requested for %1$s at %2$s</string>
+    <string name="dsr_uploading_image">Uploading images. Please wait ...</string>
+    <string name="dsr_uploading_video">Uploading video. Please wait ...</string>
+    <string name="dsr_view_service_history">VIEW SERVICE HISTORY</string>
+    <string name="duplicate_device">Duplicate Device</string>
+    <string name="duplicate_imei_msg">This product has been already registered.</string>
+    <string name="edge_device_health">Device Health</string>
+    <string name="edge_single_plus_description">"Diagnostic and Live Support
+Powered by Samsung+"</string>
+    <string name="edge_single_plus_title">Support &amp; More</string>
+    <string name="edit">edit</string>
+    <string name="edit_device_id_default">Enter Serial Number</string>
+    <string name="email">Email Address</string>
+    <string name="email_address">emailAddress=</string>
+    <string name="email_label">Email</string>
+    <string name="email_sta">Email STA</string>
+    <string name="empty_by">Empty by</string>
+    <string name="empty_by_format">EEEE h:mm a</string>
+    <string name="empty_id_add_product">Device %s cannot be empty</string>
+    <string name="enable_airplane_mode">Enable Airplane Mode</string>
+    <string name="enable_airplane_mode_desc">Enabling Airplane mode while having weak signal can prevent battery drain.</string>
+    <string name="enable_monitoring">Enable Monitoring</string>
+    <string name="enable_sso">Enable Samsung Account</string>
+    <string name="enabled">enabled</string>
+    <string name="end_chat">End Video Chat</string>
+    <string name="end_chat_message">Are you sure you want to exit this conversation?</string>
+    <string name="end_chat_title">Done?</string>
+    <string name="enroll_now">Enroll Now</string>
+    <string name="enter_a_date">Enter a date</string>
+    <string name="enter_imei">Enter IMEI Number</string>
+    <string name="enter_mac_address">2. Enter MAC Address</string>
+    <string name="enter_serial">ENTER SERIAL NUMBER</string>
+    <string name="enter_serial_number">Enter Serial number</string>
+    <string name="entry_point_title">Service Request</string>
+    <string name="error_data_monitor_message">Please enter a value between 1 and 999 GB.</string>
+    <string name="error_data_monitor_title">Value outside range</string>
+    <string name="error_favorite_item">There was an error while favoriting an article.</string>
+    <string name="error_loading_content">Content is not available for this account!</string>
+    <string name="error_message">That is not quite what I expected… Please try again.</string>
+    <string name="error_no_accounts">Should have at least one Gmail account on your device</string>
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+    <string name="estimate">(Estimate)</string>
+    <string name="exception_message">Exception Message</string>
+    <string name="exit_pc_msg">"You're about to exit the Premium Care application process. Are you sure you want to continue?"</string>
+    <string name="exit_pc_title">Premium Care</string>
+    <string name="exit_tutorial">EXIT TUTORIAL</string>
+    <string name="expected_result_code">Expected result code:</string>
+    <string name="explanation_camera_capture_permissions">Samsung+ needs access to the camera for capturing profile image. Go to Settings > Permissions.</string>
+    <string name="explanation_camera_permissions">Samsung+ needs access to the camera for video chat support. Go to Settings > Permissions.</string>
+    <string name="explanation_contacts_permission"><b>Contacts</b> to identify your Samsung account</string>
+    <string name="explanation_contacts_permissions">Samsung+ guest mode requires a Gmail address. “Access to contacts” permission allows us to identify your Gmail address. Go to Settings > Permissions.</string>
+    <string name="explanation_location_permission"><b>Location</b> to receive local offers &amp; event information</string>
+    <string name="explanation_mandatory_permissions">Samsung+ needs access to Phone, Contacts, and Location to run. Go to Settings > Permissions.</string>
+    <string name="explanation_microphone_permissions">Samsung+ needs access to the microphone for video chat support. Go to Settings > Permissions.</string>
+    <string name="explanation_overlay_permissions">Samsung+ needs this permission to show notifications about your conversations. Go to Settings > Permissions.</string>
+    <string name="explanation_phone_permission"><b>Phone</b> to provide device-specific support</string>
+    <string name="explanation_phone_permissions">Samsung+ needs access to the phone for video chat support. Go to Settings > Permissions.</string>
+    <string name="explanation_save_receipt_permission">Samsung+ needs access to device storage to save receipt photo. Go to Settings > Permissions.</string>
+    <string name="explanation_storage_permissions">Samsung+ needs access to storage to estimate storage allocation.</string>
+    <string name="explanation_system_settings">Samsung+ needs access to the system settings to boost the battery performance.</string>
+    <string name="explanation_take_photo_permission">Samsung+ needs access to the camera to take a photo of your receipt. Go to Settings > Permissions.</string>
+    <string name="explanation_write_permissions">Samsung+ needs access to device storage to save downloaded content.</string>
+    <string name="facebook">FACEBOOK</string>
+    <string name="facebook_app_id">1215010668525040</string>
+    <string name="fair">Fair</string>
+    <string name="faq">Answers</string>
+    <string name="favorites_no_content_desc">Learn more about your products and save content</string>
+    <string name="favorites_sign_in_desc">Sign in to your Samsung account to save content</string>
+    <string name="favorites_sign_in_desc2">you like by tapping the</string>
+    <string name="favorites_sign_in_desc3">icon.</string>
+    <string name="favorites_sign_in_title">Save Your Favorite Content</string>
+    <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
+    <string name="feedback_content_max_character_fmt">/%d</string>
+    <string name="feedback_explanation_draw_overlay_permission">Samsung+ needs access to the special permissions to assist with screen capturing and video recording.</string>
+    <string name="feedback_explanation_read_storage_permission">Samsung+ needs access to device storage for retrieving files to attach.</string>
+    <string name="feedback_explanation_write_storage_permission">Samsung+ needs access to device storage to retrieve system log.</string>
+    <string name="feedback_inbox">Feedback Inbox</string>
+    <string name="feedback_inbox_fmt">Feedback Inbox %1$d</string>
+    <string name="feedback_sent_message">Your feedback was sent successfully.</string>
+    <string name="file_num_and_size_fmt">%1$d file/ %2$.1fMB</string>
+    <string name="file_num_and_size_limitation_divider">/</string>
+    <string name="first_name">First Name*</string>
+    <string name="flash_string">FLASH</string>
+    <string name="fmm_desc">Find My Mobile allows you to locate your lost device. It also helps protect your personal information by allowing you to Lock or Wipe your device remotely if necessary.</string>
+    <string name="fmm_instruction">If you lose your device, go to:</string>
+    <string name="fmm_instruction_link"><u>https://findmymobile.samsung.com/sso</u></string>
+    <string name="fmm_instruction_link_desc">"You can bookmark this URL now on your laptop or desktop's web browser in case you need it later."</string>
+    <string name="fmm_settings">Go to Find My Mobile in Settings/Security</string>
+    <string name="fmm_status">Find my Mobile is %s</string>
+    <string name="force_upload">Force Upload</string>
+    <string name="forecast">Forecast</string>
+    <string name="free_storage_space">Free up storage space</string>
+    <string name="front_of_device">Front of Device</string>
+    <string name="front_of_device_title">Front of Device Photo</string>
+    <string name="galaxy_beat_program_registration">Experience Android 8.0 Oreo for Galaxy S8, S8 plus earlier than others by Galaxy Beta Program.First come, first served. Click on the below image to apply now.[S8/ S8 plus users (only available with Sprint, T-Mobile contract or unlocked version), First 10,000 only]</string>
+    <string name="galaxy_beta_program">Galaxy Beta Program</string>
+    <string name="galaxy_beta_program_full_message">We are sorry, but you cannot register the O OS beta program because it is just full.</string>
+    <string name="galaxy_beta_program_full_title">Beta Program Just Got Full!</string>
+    <string name="galaxy_beta_program_join_success">Thank you for participating in the Galaxy Beta Program. You can upgrade your software when the final official version is released.</string>
+    <string name="galaxy_labs">Galaxy Labs</string>
+    <string name="galaxy_labs_desc">Try out new experimental features on your devices</string>
+    <string name="galaxy_labs_launch_error">Unable to launch Galaxy apps</string>
+    <string name="galaxy_life">Galaxy Life</string>
+    <string name="gallery">Gallery</string>
+    <string name="general_feedback">General Feedback</string>
+    <string name="general_feedback_desc">Have a suggestion or comment? We welcome your feedback.</string>
+    <string name="general_feedback_hint">Enter your feedback in detail.</string>
+    <string name="generic_error_message">Oops! Something went wrong. Please try again at a later time.</string>
+    <string name="generic_error_message_with_phone_number">Oops! Something went wrong. Please try again at a later time. If you continue to experience problems with registering for this promotion, you can contact Customer Support at: %1$s</string>
+    <string name="genie_call">Call Us</string>
+    <string name="genie_community">Community</string>
+    <string name="genie_email_us">Email Us</string>
+    <string name="genie_help_title">Need Help?</string>
+    <string name="genie_scan">Scan</string>
+    <string name="genie_search">Search</string>
+    <string name="genie_social">Social</string>
+    <string name="genie_text_chat">Text Chat</string>
+    <string name="genie_video_chat">Video Chat</string>
+    <string name="get_help">GET HELP</string>
+    <string name="get_promo_api">Get Promo:</string>
+    <string name="get_started">GET STARTED</string>
+    <string name="getting_system_log">Getting system log…</string>
+    <string name="go_to_text_chat">GO TO TEXT CHAT</string>
+    <string name="got_answered">CONVERSATION</string>
+    <string name="gps_upgrad_desc">"You are running older version of Google Play Service on this device. 
+
+Please upgrade and try again. 
+
+App will now close!."</string>
+    <string name="gps_upgrade_title">Google Play Service Upgrade</string>
+    <string name="great">Great</string>
+    <string name="help_assist_desc">Receive remote support from our customer support team.</string>
+    <string name="help_assist_title">Samsung Assist</string>
+    <string name="help_call_desc_always">"We're waiting to hear from you, 24/7."</string>
+    <string name="help_call_desc_partial">Call us from %s</string>
+    <string name="help_call_title">Call Support</string>
+    <string name="help_chat_expert_desc">Get quick answers to common questions, 24/7.</string>
+    <string name="help_chat_expert_title">Chat with an Expert</string>
+    <string name="help_community_desc">Ask questions and share solutions with Samsung users.</string>
+    <string name="help_community_title">Community Support</string>
+    <string name="help_dsr_desc">"If one of your products is having issues, we'll fix it for you."</string>
+    <string name="help_dsr_title">Request Service</string>
+    <string name="help_email_desc">"Send us your questions and we'll respond within 48 hours."</string>
+    <string name="help_email_dialog_title">Send mail...</string>
+    <string name="help_email_subject">Samsung+ Support Request</string>
+    <string name="help_email_title">Email Support</string>
+    <string name="help_header">Self Search</string>
+    <string name="help_header_desc">Browse our collection of useful information on your Samsung device.</string>
+    <string name="help_header_title">Looking for answers?</string>
+    <string name="help_social_desc">"Contact us on social media and we'll reply with an answer."</string>
+    <string name="help_social_dlg_desc">"Send us message on Twitter or Facebook and we'll reply with an answer to your question or issue."</string>
+    <string name="help_social_dlg_title">Contact Us on Social Media</string>
+    <string name="help_social_title">Social Support</string>
+    <string name="help_videochat_desc_always">"We're waiting to chat with you 24/7"</string>
+    <string name="help_videochat_desc_partial">Chat with live support from %s.</string>
+    <string name="help_videochat_title">Video Chat Support</string>
+    <string name="hide_this_card">Hide this card</string>
+    <string name="highlights">Highlights</string>
+    <string name="history_clear_one_history_text">Clear</string>
+    <string name="history_clear_text">Clear history</string>
+    <string name="history_email_title">Barcode Scanner history</string>
+    <string name="history_empty">Empty</string>
+    <string name="history_empty_detail">No barcode scans have been recorded</string>
+    <string name="history_send">Send history</string>
+    <string name="history_ticket_number">"Ticket Number: "</string>
+    <string name="history_title">History</string>
+    <string name="how_to_gear_imei">Go to Settings > Gear Info > About Device</string>
+    <string name="how_to_imei">Go to Settings > About Device > Status</string>
+    <string name="how_to_serial">Go to Settings > About Device</string>
+    <string name="i_am_done">"I'M DONE"</string>
+    <string name="identify_imei_number">Identify IMEI number</string>
+    <string name="identify_serial_number">Identify Serial Number</string>
+    <string name="imei">imei=</string>
+    <string name="imei_length_error">IMEI number is at least 15-digits</string>
+    <string name="imei_number">IMEI</string>
+    <string name="inbox">INBOX</string>
+    <string name="incomplete_error">Please complete items highlighted in red</string>
+    <string name="info">Info</string>
+    <string name="insecure_wifi_desc">Ignore security warnings for %s</string>
+    <string name="insecure_wifi_primary">Whitelist this Wi-Fi</string>
+    <string name="insecure_wifi_title">Whitelist Network</string>
+    <string name="insecure_wifi_whitelist">Wi-Fi %s whitelisted</string>
+    <string name="instruction">Additional Instructions</string>
+    <string name="instruction_view_content_description">InstructionView</string>
+    <string name="invalid_id">Valid %s Required</string>
+    <string name="invalid_id_msg">Something is not quite right. Please check your product type and %s, then try again.</string>
+    <string name="invalid_id_verify_msg">This product cannot be validated. Please check the product type and %s, then try again.</string>
+    <string name="invalid_number_message">The number you entered is not valid. Please try re-entering the number.</string>
+    <string name="invalid_number_title">Invalid Number</string>
+    <string name="invalid_phone_number">Invalid phone number</string>
+    <string name="issue_details">Issue Details</string>
+    <string name="item_appInfo">App Info</string>
+    <string name="item_close">Close Alert</string>
+    <string name="item_dataOverage_99">Remind me at 99%</string>
+    <string name="item_dataOverage_nextPeriod">Remind me next Data Period</string>
+    <string name="item_dataUsage">Data Usage</string>
+    <string name="last_name">Last Name* (No Initials)</string>
+    <string name="last_scan_text">%1$s</string>
+    <string name="last_scan_text_lable">Last updated :</string>
+    <string name="learn">Learn</string>
+    <string name="learn_more">Learn more</string>
+    <string name="li_abuse_report_error">Abuse reporting failed</string>
+    <string name="li_abuse_reported">Abuse reported Successfully</string>
+    <string name="li_accept_reply">Accept solution</string>
+    <string name="li_accepted_noti">%s accepted your reply</string>
+    <string name="li_accepted_solution">Accepted solution</string>
+    <string name="li_add_attach">Add Image</string>
+    <string name="li_ago">ago</string>
+    <string name="li_attaching_file">Uploading attachment!</string>
+    <string name="li_attachment_policy">1 file/5 MB Maximum</string>
+    <string name="li_attachment_to_big">"Attached image exceeds size limit. 
+Please choose different image"</string>
+    <string name="li_by_author">by: %s</string>
+    <string name="li_community_boards">Community Boards</string>
+    <string name="li_community_other_boards">Other Community Boards</string>
+    <string name="li_error_uploading_attachment">Error Uploading the attachment. Please try later</string>
+    <string name="li_file_too_big">Attachment exceeds 5mb maximum.</string>
+    <string name="li_fre_community_profile">Find Community profile inside Settings</string>
+    <string name="li_fre_community_search">Quickly search community from anywhere</string>
+    <string name="li_inappropriate">Tell us why you believe this content is inappropriate</string>
+    <string name="li_just_now">Just now</string>
+    <string name="li_kudo_down">dn</string>
+    <string name="li_kudo_up">up</string>
+    <string name="li_login_complete_broadcast_intent">lithium.sdk.auth.HANDLE_AUTHORIZATION_RESPONSE</string>
+    <string name="li_login_in_progress">Logging in…</string>
+    <string name="li_max_chars">%1$d / %2$d</string>
+    <string name="li_menu_board_subscribe">Subscribe to Board</string>
+    <string name="li_menu_board_toggle_read">Mark all read/unread</string>
+    <string name="li_menu_board_unsubscribe">UnSubscribe to Board</string>
+    <string name="li_menu_topic_abuse">Report abuse</string>
+    <string name="li_menu_topic_share">Share</string>
+    <string name="li_menu_topic_subscribe">Subscribe to Topic</string>
+    <string name="li_menu_topic_toggle_read">Mark Read/Unread</string>
+    <string name="li_menu_topic_unsubscribe">UnSubscribe to Topic</string>
+    <string name="li_message_hint">Message</string>
+    <string name="li_message_kudo_notif_alert_text">Kudo Alert!</string>
+    <string name="li_message_kudo_notif_content_text">%s thinks your post is awesome and just gave you kudos!</string>
+    <string name="li_message_limitation">Please enter at least %1d characters to proceed</string>
+    <string name="li_message_messages_notif_alert_text">Message Alert!</string>
+    <string name="li_message_messages_notif_content_text">%s replied to your message.</string>
+    <string name="li_message_solution_notif_alert_text">Solution Alert!</string>
+    <string name="li_message_solution_notif_content_text">%s accepted your message as a solution.</string>
+    <string name="li_messages">Messages</string>
+    <string name="li_new_liked_noti">%s liked your post</string>
+    <string name="li_new_message_noti">%s replied to reply</string>
+    <string name="li_new_post">Start new thread!</string>
+    <string name="li_new_post_desc">Be the first one to start a post under this board.</string>
+    <string name="li_new_topic">New Topic</string>
+    <string name="li_new_topic_noti">%s replied to a post you have subscribed to</string>
+    <string name="li_no_attachments">Attachments will appear here!</string>
+    <string name="li_no_content">No content here yet!</string>
+    <string name="li_no_valid_message">Please enter valid Message</string>
+    <string name="li_no_valid_subject">Please enter valid Subject</string>
+    <string name="li_notification_message">Go to Community</string>
+    <string name="li_notify_moderator">Notify Moderator</string>
+    <string name="li_openingLoginPage">Please wait…</string>
+    <string name="li_pinned">Pinned By moderator</string>
+    <string name="li_plural">s</string>
+    <string name="li_post">Post</string>
+    <string name="li_post_success">Message posted Successfully</string>
+    <string name="li_posted_on">Posted: %s</string>
+    <string name="li_posting">Posting! Please wait...</string>
+    <string name="li_posting_reply">Posting reply. Please wait...</string>
+    <string name="li_posting_to">Posting to</string>
+    <string name="li_posting_topic">Posting topic. Please wait...</string>
+    <string name="li_profile_update_error">Error updating profile. Please try again later!</string>
+    <string name="li_profile_update_success">Profile was updated successfully!</string>
+    <string name="li_replace_attach">Replace Image</string>
+    <string name="li_reply_topic">Reply To Topic</string>
+    <string name="li_report_inappropriate">Report</string>
+    <string name="li_server_error">"We'll be back shortly"</string>
+    <string name="li_server_error_desc">Community Server is down for maintenance, please check again after some time.</string>
+    <string name="li_show_more">Show More ...</string>
+    <string name="li_sign_in_required">Please login using Samsung Account, to complete this action!</string>
+    <string name="li_start_topic">Start A Topic</string>
+    <string name="li_subject_hint">Subject</string>
+    <string name="li_updated_on">Updated: %s</string>
+    <string name="li_upload_attach">Attach</string>
+    <string name="li_uploading_attach">Uploading Attachment. Please wait ...</string>
+    <string name="li_user_name_hint">User Name</string>
+    <string name="li_user_profile">User Profile</string>
+    <string name="li_username_not_changed">Please type new username!</string>
+    <string name="live_help">Get Help</string>
+    <string name="load">LOAD</string>
+    <string name="load_draft">You have a draft</string>
+    <string name="load_draft_desc">Do you want to load it?</string>
+    <string name="loading">Loading...</string>
+    <string name="loading_warranty_information">"Loading Warranty Information.
+Please wait…"</string>
+    <string name="location_services">Location Services</string>
+    <string name="location_services_desc">To receive local offers &amp; event information</string>
+    <string name="log_file_size">Log file: %s</string>
+    <string name="log_in_title">Access Premium Features with Your Samsung Account</string>
+    <string name="logged_in_as">"You're logged in as:
+%1$s"</string>
+    <string name="mac">mac=</string>
+    <string name="mac_address">MAC addresss</string>
+    <string name="mailing_address">Mailing Address* (No P.O. Boxes)</string>
+    <string name="maint_black_listed_message">The service is not currently available. Please try again later.</string>
+    <string name="maint_black_listed_title">Samsung Account Issue</string>
+    <string name="maint_check_back_shortly">Please Check Back Shortly.</string>
+    <string name="maint_data_connection_issue">Data Connection Issue</string>
+    <string name="maint_email">s-plus@samsung.com</string>
+    <string name="maint_email_sta_message">"Samsung+ Team,
+
+I received a Samsung+ device error on the following Galaxy device:"</string>
+    <string name="maint_email_sta_title">Samsung+ Device Error</string>
+    <string name="maint_go_back">Go Back</string>
+    <string name="maint_message">"Samsung+ is down for maintenance, but we'll be up and running soon. Thank you for your patience."</string>
+    <string name="maint_requires_internet">This application requires an Internet connection. Please connect via Wi-Fi or your cellular network.</string>
+    <string name="maint_settings">Settings</string>
+    <string name="maint_special_chars_message">Please provide your name using only characters A-z (special characters and numbers not currently supported).</string>
+    <string name="maint_special_chars_title">Samsung Account Error</string>
+    <string name="maint_title">"We'll be back shortly."</string>
+    <string name="maint_try_again">Try Again</string>
+    <string name="maint_unexpected_error">"An unexpected error has occurred, but we'll be up and running soon. Thank you for your patience."</string>
+    <string name="maint_unexpected_error_email_phone">"An unexpected error has occurred.
+
+Please contact the Samsung+ Support team at #1s-plus@samsung.com#1 or call toll-free ##(855) 795-0509## and we will try to help you resolve this issue."</string>
+    <string name="maint_unexpected_error_email_tablet">"An unexpected error has occurred.
+
+Please contact the Samsung+ Support team at #1s-plus@samsung.com#1 and we will try to help you resolve this issue."</string>
+    <string name="manual_register_product">Register Your Product Manually</string>
+    <string name="manually_input">Manually Input</string>
+    <string name="manufacturer_warranty_desc">Extend warranty for eligible hardware, software repairs and services. Includes device replacements.</string>
+    <string name="manufacturer_warranty_title">Get Premium Care</string>
+    <string name="mark_content_complete">MARK AS READ</string>
+    <string name="mark_course_complete">MARK SKILL AS COMPLETE</string>
+    <string name="mdtp_am">am</string>
+    <item type="string" name="mdtp_ampm_circle_radius_multiplier">0.22</item>
+    <item type="string" name="mdtp_circle_radius_multiplier">0.82</item>
+    <item type="string" name="mdtp_circle_radius_multiplier_24HourMode">0.85</item>
+    <string name="mdtp_date">Date</string>
+    <item type="string" name="mdtp_numbers_radius_multiplier_inner">0.6</item>
+    <item type="string" name="mdtp_numbers_radius_multiplier_normal">0.81</item>
+    <item type="string" name="mdtp_numbers_radius_multiplier_outer">0.83</item>
+    <string name="mdtp_ok">@android:string/ok</string>
+    <string name="mdtp_pm">pm</string>
+    <string name="mdtp_radial_numbers_typeface">sans-serif</string>
+    <string name="mdtp_sans_serif">sans-serif</string>
+    <string name="mdtp_second_picker_description">Seconds circular slider</string>
+    <string name="mdtp_select_seconds">Select seconds</string>
+    <item type="string" name="mdtp_selection_radius_multiplier">0.16</item>
+    <item type="string" name="mdtp_text_size_multiplier_inner">0.11</item>
+    <item type="string" name="mdtp_text_size_multiplier_normal">0.12</item>
+    <item type="string" name="mdtp_text_size_multiplier_outer">0.08</item>
+    <string name="mdtp_time">Time</string>
+    <string name="mdtp_time_placeholder">00</string>
+    <string name="mdtp_time_separator">:</string>
+    <string name="menu_encode_mecard">Use MECARD</string>
+    <string name="menu_encode_vcard">Use vCard</string>
+    <string name="menu_help">Help</string>
+    <string name="menu_history">History</string>
+    <string name="menu_item_discover">Discover</string>
+    <string name="menu_item_settings">Settings</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_share">Share</string>
+    <string name="merge_accounts_desc">More than one email address is associated with your account. Please confirm they belong to you:</string>
+    <string name="merge_accounts_title">Multiple Addresses Found</string>
+    <string name="message_chat_bot">Type something</string>
+    <string name="metric_upload_on_wifi_only">Upload on Wi-Fi only</string>
+    <string name="mic">Mic</string>
+    <string name="minute">min</string>
+    <string name="mobile">Mobile</string>
+    <string name="mobile_phone">Mobile Phone</string>
+    <string name="mock_json_host">Host of mock json:</string>
+    <string name="model_no">Model No.: %s</string>
+    <string name="model_number">Model Number</string>
+    <string name="month">Month</string>
+    <string name="monthly">Monthly</string>
+    <string name="more_skills">More Skills</string>
+    <string name="msg_ask_rating">How was your overall experience?</string>
+    <string name="msg_bulk_mode_scanned">Bulk mode: barcode scanned and saved</string>
+    <string name="msg_camera_framework_bug">Sorry, the Android camera encountered a problem. You may need to restart the device.</string>
+    <string name="msg_default_format">Format</string>
+    <string name="msg_default_meta">Metadata</string>
+    <string name="msg_default_mms_subject">Hi</string>
+    <string name="msg_default_status">Place a QR code inside the viewfinder rectangle to scan it.</string>
+    <string name="msg_default_time">Time</string>
+    <string name="msg_default_type">Type</string>
+    <string name="msg_enable">Please enable \"%s\" app then try again.</string>
+    <string name="msg_enable_GP">Google Play should be enabled to complete this action</string>
+    <string name="msg_enable_GP_or_GA">Google Play or Galaxy Apps should be enabled to complete this action</string>
+    <string name="msg_encode_contents_failed">Could not encode a barcode from the data provided.</string>
+    <string name="msg_error">Error</string>
+    <string name="msg_google_books">Google</string>
+    <string name="msg_google_product">Google</string>
+    <string name="msg_intent_failed">Sorry, the requested application could not be launched. The barcode contents may be invalid.</string>
+    <string name="msg_invalid_birthdate">Please enter a valid birth date.</string>
+    <string name="msg_invalid_value">Invalid value</string>
+    <string name="msg_missing_app_by_intent">"Please enable a system app by intent:
+    %1$s
+in your work profile then try again."</string>
+    <string name="msg_missing_browser">Please enable Internet/Browser app in your work profile then try again.</string>
+    <string name="msg_missing_video_player">Please enable Video app in your work profile then try again.</string>
+    <string name="msg_redirect">Redirect</string>
+    <string name="msg_resolved">Your conversation has concluded.</string>
+    <string name="msg_sbc_book_not_searchable">Sorry, this book is not searchable.</string>
+    <string name="msg_sbc_failed">Sorry, the search encountered a problem.</string>
+    <string name="msg_sbc_no_page_returned">No page returned</string>
+    <string name="msg_sbc_page">Page</string>
+    <string name="msg_sbc_results">Results</string>
+    <string name="msg_sbc_searching_book">Searching book…</string>
+    <string name="msg_sbc_snippet_unavailable">Snippet not available</string>
+    <string name="msg_share_explanation">You can share data by displaying a barcode on your screen and scanning it with another phone.</string>
+    <string name="msg_share_text">Or type some text and press Enter</string>
+    <string name="msg_sure">Are you sure?</string>
+    <string name="msg_unmount_usb">Sorry, the SD card is not accessible.</string>
+    <string name="my_current_device">This device</string>
+    <string name="my_other_devices">My Products</string>
+    <string name="my_plan">My Plan</string>
+    <string name="my_products_add_products">ADD SAMSUNG PRODUCT</string>
+    <string name="my_products_header">OTHER REGISTERED PRODUCTS</string>
+    <string name="my_skills">My Skills</string>
+    <string name="mysamsung_favorites_noFavYet">No Favorites Yet?</string>
+    <string name="mysamsung_my_products">My Products</string>
+    <string name="mysamsung_myfavorites">My Favorites</string>
+    <string name="mysamsung_myworkshops">My Workshops</string>
+    <string name="mysamsung_profile">Profile</string>
+    <string name="mysamsung_settings">Settings</string>
+    <string name="mysamsung_tier_program_rules">Program Rules</string>
+    <string name="mysamsung_tier_program_rules_link">http://www.samsung.com/us/samsungplus/programdetails/</string>
+    <string name="name_label">Name</string>
+    <string name="need_live_help">Need Help?</string>
+    <string name="need_live_help_desc">To get self service, send us a question or talk with our professional agents.</string>
+    <string name="need_more_help">NEED MORE HELP?</string>
+    <string name="needs_attention">%1$d item need your attention.</string>
+    <string name="needs_attentions">%1$d items need your attention.</string>
+    <string name="networkTimeoutErrorMessage">This application requires an internet connection. Please make sure your device is connected to a Wi-Fi or cellular network and try again.</string>
+    <string name="networkTimeoutErrorTitle">Poor connection quality</string>
+    <string name="network_timeout">Network timeout</string>
+    <string name="new_device_coach_mark">"Discover support, tips and tricks and more for
+your registered products"</string>
+    <string name="new_feedback_action">GO TO MY FEEDBACK</string>
+    <string name="new_feedback_message">You got new messages from Feedback</string>
+    <string name="new_feedback_plural">s</string>
+    <string name="new_feedback_prefix">You got</string>
+    <string name="new_feedback_suffix_fmt">message%s from Feedback Inbox</string>
+    <string name="new_feedback_title">FEEDBACK</string>
+    <string name="new_messages_body">Response from Feedback</string>
+    <string name="new_messages_body_fmt">%d responses from Feedback</string>
+    <string name="new_messages_title">New messages</string>
+    <string name="new_messages_title_fmt">%d new messages</string>
+    <string name="new_notification_prefix">You have</string>
+    <string name="new_notification_suffix_fmt">unread message%s</string>
+    <string name="next">Next</string>
+    <string name="ni_action_clear">Clear</string>
+    <string name="ni_clear_all">Clear All</string>
+    <string name="ni_clear_all_alert">Are you sure you want to clear all of your notifications? Once these notifications are cleared, you will not see them here again.</string>
+    <string name="ni_clear_all_title">Clear All Notifications</string>
+    <string name="ni_community">Community</string>
+    <string name="ni_diagnostic">Diagnostic</string>
+    <string name="ni_dsr">Service Request</string>
+    <string name="ni_menu_title">Notification Inbox</string>
+    <string name="ni_no_notification">You are up to date!</string>
+    <string name="ni_no_notification_desc">No notifications to display at this time</string>
+    <string name="ni_pc_coverage_declined">Coverage declined</string>
+    <string name="ni_promotions">Samsung+</string>
+    <string name="ni_text_chat">Text Chat</string>
+    <string name="ni_view_title">Notifications</string>
+    <string name="ni_voc">Feedback</string>
+    <string name="ni_warranty">Premium Care</string>
+    <string name="no">No</string>
+    <string name="no_content">No Content on Server for this Section</string>
+    <string name="no_course_msg">No skills at this time. Check back later</string>
+    <string name="no_feedback">No Feedback</string>
+    <string name="no_feedback_desc">Your feedback messages will appear here.</string>
+    <string name="no_products_found">"We Couldn't Find Any Product"</string>
+    <string name="no_products_found_msg">"Make sure your product is on and connected to your Wi-Fi network.
+
+Please note that not all Samsung products support wifi registration. For these products use the manual registration option."</string>
+    <string name="no_recommended_content">"That's all the recommended content we have right now."</string>
+    <string name="no_recommended_content_desc">For more ideas on how to get the most out of your device…</string>
+    <string name="no_replies">No replies yet!</string>
+    <string name="no_results">No Results</string>
+    <string name="no_results_description">Sorry, no results found. Please try something else.</string>
+    <string name="no_serial_number">Serial Number Not Detected</string>
+    <string name="no_serial_number_msg">We were not able to detect the serial number for this product. Please enter the serial number to complete registration.</string>
+    <string name="no_wifi_connection">No WiFi Connection</string>
+    <string name="no_wifi_connection_desc_fmt">"Sending the attached files using your mobile data service will result in data use up to %1$.1f MB.
+Additional charges from your wireless provider may apply."</string>
+    <string name="no_wifi_connection_msg">Please make sure your phone is connected to the same Wi-Fi your Samsung product is connected to.</string>
+    <string name="non_sa_guest_sign_in">Guest Sign In:</string>
+    <string name="non_sa_guest_sign_in_google">START WITH GOOGLE</string>
+    <string name="non_sa_sign_in_btn">SIGN IN TO SAMSUNG ACCOUNT</string>
+    <string name="nonsa_dlg_sign_in_button">Sign In</string>
+    <string name="nonsa_dlg_sing_in_information">"Don't have a Samsung account?"</string>
+    <string name="nonsa_dlg_subtitle">This premium feature requires a Samsung account.</string>
+    <string name="nonsa_dlg_title">Sign In Required</string>
+    <string name="nonsa_feature_community"><b> Community: </b>Post and reply to comments</string>
+    <string name="nonsa_feature_favorites"><b> Favorites: </b>Bookmark the content you like</string>
+    <string name="nonsa_feature_r_support"><b> Samsung Assist: </b>Remote troubleshooting help</string>
+    <string name="nonsa_feature_video_chat"><b> Video Chat: </b>Live support from customer care</string>
+    <string name="nonsa_feature_workshops"><b> Multi Device Support: </b>All your registered devices</string>
+    <string name="normal_range">Normal Range</string>
+    <string name="not_available">Not available</string>
+    <string name="not_available_description">Something is not right. Check your connection and try refreshing the page.</string>
+    <string name="not_eligible_message">This device is not eligible for this offer.</string>
+    <string name="not_now">NOT NOW</string>
+    <string name="not_this_time">Not this time</string>
+    <string name="not_your_product">Not Your Product?</string>
+    <string name="note_provide_number">Please provide us with numbers where we can reach you.</string>
+    <string name="note_sa_update">Any changes made will also update your Samsung account information.</string>
+    <string name="notif_alert_title">Device Health Alerts</string>
+    <string name="notif_chat_progress">Chat session in progress</string>
+    <string name="notif_chat_resume">Tap to resume</string>
+    <string name="notif_chat_return_app">Tap to return to Samsung+</string>
+    <string name="notif_chat_timeout">Chat session timed out</string>
+    <string name="notif_generic_body">New Update from Samsung+</string>
+    <string name="notif_generic_title">Samsung+</string>
+    <string name="notif_multiple_alert_body">%1$s alerts need your attention</string>
+    <string name="notification_body">Message from an Agent.</string>
+    <string name="notification_body_question_expired">"This conversation has ended because we didn't hear back."</string>
+    <string name="notification_body_question_expired_warning">Conversation will end soon.</string>
+    <string name="notification_email">Email</string>
+    <string name="notification_phone_call">Phone Call</string>
+    <string name="notification_sms">SMS</string>
+    <string name="notification_title_new_message_fmt">%1$d New message%2$s</string>
+    <string name="notification_title_question_expired">Conversation has ended</string>
+    <string name="notification_title_question_expired_warning">Waiting for your response</string>
+    <string name="notifications">Notifications</string>
+    <string name="notifications_description">You will get notifications about your schedule appointments through these channels.</string>
+    <string name="notifications_settings">Notification Settings</string>
+    <string name="notifications_settings_desc">Manage individual diagnostics notifications</string>
+    <string name="notifications_settings_individual">Individual Settings</string>
+    <string name="oauth_api">OAuth2:</string>
+    <string name="off">Off</string>
+    <string name="ok">OK</string>
+    <string name="okay">OKAY</string>
+    <string name="on">On</string>
+    <string name="onboarding_back">Back</string>
+    <string name="onboarding_continue">Continue</string>
+    <string name="onboarding_get_started">Get Started</string>
+    <string name="onboarding_mirror_desc">You will need a mirror to take a photo of the front and back of your device.</string>
+    <string name="onboarding_mirror_title">Use a mirror</string>
+    <string name="onboarding_permission_denial_message">In order to continue the device qualification process these device permissions are required.</string>
+    <string name="onboarding_permission_denial_negative">End test</string>
+    <string name="onboarding_permission_denial_positive">Go to settings</string>
+    <string name="onboarding_permission_denial_title">Device Permissions are Required</string>
+    <string name="onboarding_picture_title">Take a picture</string>
+    <string name="onboarding_started_desc">To purchase Premium Care, we must first check if your device is qualified.</string>
+    <string name="onboarding_started_title">"Let's get started"</string>
+    <string name="onboarding_use_volume">"Use the \"volume\" button to
+capture the photo"</string>
+    <string name="one_new_message_body_fmt">1 response from Feedback [%s]</string>
+    <string name="one_new_message_title">1 new message</string>
+    <string name="one_notification_title_new_message_fmt">New message</string>
+    <string name="one_on_one_file_limit">Maximum total size of attachments (%1$d %2$s) exceeded or maximum number of attachments (%3$d) reached. Remove some files and try again.</string>
+    <string name="one_on_one_file_limit_big">Maximum total size of attachments (%1$d %2$s) exceeded or maximum number of attachments (%3$d) reached. Remove some files and try again.</string>
+    <string name="open_link">Open Link</string>
+    <string name="open_url_fetch_failed">Error fetching Media from the server. Please try again later!</string>
+    <string name="optimize">Optimize</string>
+    <string name="optimize_all_settings">Optimize All Settings</string>
+    <string name="optimize_device_settings">Optimize battery</string>
+    <string name="optimized">Optimized</string>
+    <string name="or">Or</string>
+    <string name="out_of_warranty">Out of Warranty</string>
+    <string name="out_of_warranty_desc">Your device is currently out of warranty. As a valued Samsung customer, you will still have access to 24/7 lifetime support services.</string>
+    <string name="out_of_warranty_help_title">For authorized repair services</string>
+    <string name="package_name">Package</string>
+    <string name="partially_registered_status">Complete Registration</string>
+    <string name="passed_tests">Passed Tests</string>
+    <string name="password_toggle_content_description">Toggle password visibility</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="pause_this_content">Pause</string>
+    <string name="pc_coverage_declined">See your application status.</string>
+    <string name="pc_coverage_declined_device_case_on">The device case was on.</string>
+    <string name="pc_coverage_declined_physical_damage">The device has physical damage.</string>
+    <string name="pc_coverage_photos_rejected">Your application requires action.</string>
+    <string name="pc_coverage_reasons">Reasons</string>
+    <string name="pc_coverage_retake_generic">There was an error with your photos for Premium Care application. %s</string>
+    <string name="pc_desc">"Your coverage covers everything from setup to troubleshooting to repair and replacement, with a team of experts ready to come to you to get it done.
+Warranty limitation apply."</string>
+    <string name="pc_eligible_text">This device is qualified for Premium Care extend warranty.</string>
+    <string name="pc_help_info">Please confirm your warranty coverage dates by calling Samsung customer support at %s</string>
+    <string name="pc_notification_declined_msg">Your Premium Care application was not approved. %s</string>
+    <string name="pc_notification_msg">There was an error with your photo for Premium Care application. %s</string>
+    <string name="pc_photo_submitted">You have successfully re-submitted your photo for approval.</string>
+    <string name="pc_retake_four_reason">The device was %1$s, %2$s, %3$s and %4$s.</string>
+    <string name="pc_retake_one_reason">The device was %s.</string>
+    <string name="pc_retake_three_reason">The device was %1$s, %2$s and %3$s.</string>
+    <string name="pc_retake_two_reason">The device was %1$s and %2$s.</string>
+    <string name="pc_title">Your Premium Care Warranty</string>
+    <string name="pc_title_trial_day">%d day Trial</string>
+    <string name="pc_title_trial_days">%d days Trial</string>
+    <string name="permalink_v2_fmt">slra://permalink/v2?activity=%1$s&amp;fragment=%2$s</string>
+    <string name="pg_sdk_api_context">/api</string>
+    <string name="pg_sdk_api_host_production">api.pocketgeek.com</string>
+    <string name="pg_sdk_api_host_staging">staging-api.pocketgeek.com</string>
+    <string name="pg_sdk_api_port">443</string>
+    <string name="pg_sdk_api_transport">https</string>
+    <string name="phone">Phone</string>
+    <string name="phone_group">Phones</string>
+    <string name="phone_number">Phone Number*</string>
+    <string name="photo_submit_ack">By clicking “submit photos” you agree that your device is in good working condition. Please note some device information will be attached with your photos.</string>
+    <string name="pick_image_intent_chooser_title">Select source</string>
+    <string name="ping">Ping</string>
+    <string name="play_now">Listen now</string>
+    <string name="play_this_content">Play</string>
+    <string name="poor">Poor</string>
+    <string name="poor_signal">Poor Signal</string>
+    <string name="post_promo_api">Post Promo:</string>
+    <string name="prd_reg_step_select_enter_imei">3. Enter IMEI Number</string>
+    <string name="prd_reg_step_select_enter_serial">3. Enter Serial Number</string>
+    <string name="prd_reg_step_select_prd_type">1. Select Product Type</string>
+    <string name="prd_reg_step_select_purchase_date">2. Select Purchase Date</string>
+    <string name="prd_type_negative_button">Cancel</string>
+    <string name="prd_type_positive_button">Countinue</string>
+    <string name="prd_type_title">Product Types</string>
+    <string name="preferences_actions_title">When a barcode is found…</string>
+    <string name="preferences_auto_focus_title">Use auto focus</string>
+    <string name="preferences_auto_open_web_title">Open web pages automatically</string>
+    <string name="preferences_bulk_mode_summary">Scan and save many barcodes continuously</string>
+    <string name="preferences_bulk_mode_title">Bulk scan mode</string>
+    <string name="preferences_copy_to_clipboard_title">Copy to clipboard</string>
+    <string name="preferences_custom_product_search_summary" formatted="false">Substitutions: %s = contents, %f = format, %t = type</string>
+    <string name="preferences_custom_product_search_title">Custom search URL</string>
+    <string name="preferences_decode_1D_industrial_title">1D Industrial</string>
+    <string name="preferences_decode_1D_product_title">1D Product</string>
+    <string name="preferences_decode_Aztec_title">Aztec</string>
+    <string name="preferences_decode_Data_Matrix_title">Data Matrix</string>
+    <string name="preferences_decode_PDF417_title">PDF417 (β)</string>
+    <string name="preferences_decode_QR_title">QR Codes</string>
+    <string name="preferences_device_bug_workarounds_title">Device Bug Workarounds</string>
+    <string name="preferences_disable_barcode_scene_mode_title">No barcode scene mode</string>
+    <string name="preferences_disable_continuous_focus_summary">Use only standard focus mode</string>
+    <string name="preferences_disable_continuous_focus_title">No continuous focus</string>
+    <string name="preferences_disable_exposure_title">No exposure</string>
+    <string name="preferences_disable_metering_title">No metering</string>
+    <string name="preferences_flash">Flash</string>
+    <string name="preferences_front_light_auto">Automatic</string>
+    <string name="preferences_front_light_off">Off</string>
+    <string name="preferences_front_light_on">On</string>
+    <string name="preferences_front_light_summary">Improves scanning in low light on some phones, but may cause glare. Does not work on all phones.</string>
+    <string name="preferences_front_light_title">Use front light</string>
+    <string name="preferences_general_title">General settings</string>
+    <string name="preferences_invert_scan_summary">Scan for white barcodes on black background. Not available on some devices.</string>
+    <string name="preferences_invert_scan_title">Invert scan</string>
+    <string name="preferences_name">Settings</string>
+    <string name="preferences_orientation_title">No automatic rotation</string>
+    <string name="preferences_play_beep_title">Beep</string>
+    <string name="preferences_remember_duplicates_summary">Store multiple scans of the same barcode in History</string>
+    <string name="preferences_remember_duplicates_title">Remember duplicates</string>
+    <string name="preferences_result_title">Result settings</string>
+    <string name="preferences_scanning_title">When scanning for barcodes, decode…</string>
+    <string name="preferences_search_country">Search country</string>
+    <string name="preferences_supplemental_summary">Try to retrieve more information about the barcode contents</string>
+    <string name="preferences_supplemental_title">Retrieve more info</string>
+    <string name="preferences_vibrate_title">Vibrate</string>
+    <string name="preferred_date_hint">Select a preferred date</string>
+    <string name="preferred_date_remider_text">Sorry, there are no appointment times currently available. Please select a preferred appointment date and time slot. The date you select may or may not be your final appointment date. We will contact you in 1–2 business days to finalize your appointment date.</string>
+    <string name="preferred_date_title">PREFERRED DATE &amp; TIME</string>
+    <string name="preferred_date_warning">Please remember, your appointment is not yet scheduled. We will contact you in 1–2 days to finalise your appointment date.</string>
+    <string name="previous">Prev</string>
+    <string name="prf_reg_step_1_of_2">STEP 1 of 2</string>
+    <string name="prf_reg_step_1_of_3">STEP 1 of 3</string>
+    <string name="prf_reg_step_2_of_2">STEP 2 of 2</string>
+    <string name="prf_reg_step_2_of_3">Step 2 of 3</string>
+    <string name="prf_reg_step_3_of_3">Step 3 of 3</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="privacy_policy_link">https://account.samsung.com/membership/pp</string>
+    <string name="privacy_policy_underline"><u>Privacy Policy</u></string>
+    <string name="problem_report">Problem Report</string>
+    <string name="process">Process</string>
+    <string name="product_identification">Product Identification</string>
+    <string name="product_imei">IMEI</string>
+    <string name="product_registered_message">Your \"%s\" has been registered successfully.</string>
+    <string name="product_registered_successfully">Your product has been registered successfully.</string>
+    <string name="product_registration_cta">If you don’t see your product on this list, you can still register and request service here.</string>
+    <string name="product_registration_desc">You can now register your SAMSUNG product using your Wi-Fi network!</string>
+    <string name="product_registration_method_select_title">Select a Method</string>
+    <string name="product_registration_method_slide_step">Step 1 of 3</string>
+    <string name="product_registration_method_title">Select the method you like to register your product:</string>
+    <string name="product_registration_title">Product Registration</string>
+    <string name="product_registration_up_sell_message_1">1: Identify the product through your Wi-Fi network.</string>
+    <string name="product_registration_up_sell_message_2">2: Confirm the date of purchase.</string>
+    <string name="product_registration_up_sell_message_3">If no product was found after scanning your wifi you can try registering your product manually</string>
+    <string name="product_registration_up_sell_title">Only 2 Steps to Register Your Samsung Product!</string>
+    <string name="product_registration_up_sell_wifi_connected">Make sure your devices are on and connected to your network.</string>
+    <string name="product_selection_already_reistered">This product has already been registered</string>
+    <string name="product_serial">Serial Number</string>
+    <string name="product_type">Product Type</string>
+    <string name="product_type_appliance">TV, Home Appliances, and Other</string>
+    <string name="product_type_bluetooth_smartwatch">Bluetooth Smartwatch</string>
+    <string name="product_type_cell_smartwatch">3G/4G Smartwatch</string>
+    <string name="product_type_cell_tablet">4G Tablet</string>
+    <string name="product_type_other">TV, Home Appliance and Others</string>
+    <string name="product_type_phone">Phone</string>
+    <string name="product_type_smartwatch">Bluetooth Smartwatch</string>
+    <string name="product_type_wifi_tablet">Wi-Fi Only Tablet</string>
+    <string name="promotion_customer_support">For additional assistance and inquiries, contact Promotion Customer Support at: %1$s</string>
+    <string name="proof_of_purchase">Proof of Purchase</string>
+    <string name="provide_feedback">PROVIDE FEEDBACK</string>
+    <string name="purchase_date">Enter Purchase date</string>
+    <string name="qa_endpoints">QA endpoints:</string>
+    <string name="question_title_formatter" formatted="false">%d. %s</string>
+    <string name="quick_reg_wifi">Quick Registration Using Wi-Fi</string>
+    <string name="quick_reg_wifi_middle">Make sure your devices are on and connected to your network.</string>
+    <string name="quick_reg_wifi_title">Scan Wi-Fi</string>
+    <string name="quick_reg_wifi_top">Identify Samsung product through your connected Wi-Fi network.</string>
+    <string name="quote_date_fmt">On %1$s, Samsung agent wrote:</string>
+    <string name="radio_button_no">No</string>
+    <string name="radio_button_yes">Yes</string>
+    <string name="rank">Rank:</string>
+    <string name="rate_app_message">If you enjoy using Samsung+, please take a moment to rate it.</string>
+    <string name="rate_app_negative">SKIP</string>
+    <string name="rate_app_positive">RATE</string>
+    <string name="rate_app_title">Rate Our App</string>
+    <string name="rate_us">Rate Us</string>
+    <string name="rate_us_title">Rate Samsung+</string>
+    <string name="rate_your_service">Rate your service</string>
+    <string name="rating_count_plural_fmt">%s ratings</string>
+    <string name="rating_count_single_fmt">%d rating</string>
+    <string name="rating_question_article">Was this content helpful?</string>
+    <string name="read_more">READ MORE</string>
+    <string name="recommendations">Recommendations</string>
+    <string name="refresh">Refresh</string>
+    <string name="reg_manual_middle">ENTER SERIAL OR IMEI NUMBER</string>
+    <string name="reg_manual_title">ENTER SERIAL OR IMEI NUMBER</string>
+    <string name="reg_manual_top">Manually input the serial number or IMEI of your product</string>
+    <string name="register">Register</string>
+    <string name="register_a_product">Register a Product</string>
+    <string name="register_cellular_device">Cellular</string>
+    <string name="register_date" formatted="false">%s %d, %d</string>
+    <string name="register_device_identity_instructions">Enter your IMEI/MEID or MAC Address below.</string>
+    <string name="register_device_type_directions">Is this a cellular or WIFI-Only device?</string>
+    <string name="register_dsr_desc">This product is not properly registered. Complete registration.</string>
+    <string name="register_eula_error">Please accept the user agreement to continue.</string>
+    <string name="register_eula_hyperlink">http://www.samsung.com/us/samsungplus/terms/</string>
+    <string name="register_eula_link_text">End User Licensing Agreement</string>
+    <string name="register_eula_static_label">*I have read and agree to the Samsung</string>
+    <string name="register_hint">Tap on register and complete the registration.</string>
+    <string name="register_imei_or_meid">IMEI/MEID</string>
+    <string name="register_imei_required">IMEI required</string>
+    <string name="register_imei_tooltip">To locate your device IMEI/MEID go to:</string>
+    <string name="register_imei_tooltip_desc">"Settings > General > About Device > Status
+
+OR
+
+Settings > More > About Device > Status
+
+OR
+
+Settings > About Device > Status"</string>
+    <string name="register_invalid_imei">invalid IMEI</string>
+    <string name="register_invalid_mac">invalid MAC address</string>
+    <string name="register_mac_address">MAC Address</string>
+    <string name="register_mac_required">MAC address required</string>
+    <string name="register_mac_tooltip">To locate your MAC address go to:</string>
+    <string name="register_mac_tooltip_desc">"Settings > General > About Device > Status
+
+OR
+
+Settings > More > About Device > Status
+
+OR
+
+Settings > About Device > Status"</string>
+    <string name="register_product_desc">Discover features of your newly registered devices. Plus get support, tips and tricks and more.</string>
+    <string name="register_register_your_device">Register Your Device</string>
+    <string name="register_tooltip_imei_invalid">Your IMEI is Invalid</string>
+    <string name="register_tooltip_imei_invalid_desc">Please contact our customer support team for assistance.</string>
+    <string name="register_wifi_device">WIFI-Only</string>
+    <string name="registered_devices">Registered Devices</string>
+    <string name="registering">Registering…</string>
+    <string name="registration_in_progress">"Registration in progress,
+please wait…"</string>
+    <string name="registration_tooltip_desc">Discover features of your newly registered devices. Plus get support, tips and tricks and more.</string>
+    <string name="registration_tooltip_title">Benefits of registering a Samsung Product</string>
+    <string name="related_articles">Related</string>
+    <string name="related_links">Related links</string>
+    <string name="remaining_course">%d Remaining</string>
+    <string name="reminder">REMINDER</string>
+    <string name="reminder_text">Available appointments are displayed for the next 2 weeks. If you require an appointment beyond 2 weeks, please come back to request your service.</string>
+    <string name="remote_support_chat_message_full">Tap to authorize ##Samsung Assist##</string>
+    <string name="remote_support_chat_message_short">\##Samsung Assist##</string>
+    <string name="remote_support_code">Samsung Assist Code</string>
+    <string name="remote_support_code_hint">0</string>
+    <string name="remote_support_confirm">Confirm</string>
+    <string name="remote_support_connection_problem">Connection Problem</string>
+    <string name="remote_support_desc">During a support phone or video call, Samsung Assist allows our tech experts to remotely operate and fine tune your device.</string>
+    <string name="remote_support_enter_message">In order to enable Samsung Assist, you must be on a phone call or video chat with a Samsung Customer Service agent.</string>
+    <string name="remote_support_enter_title">Entering Samsung Assist</string>
+    <string name="remote_support_explanation_draw_overlay_permission">"Samsung+ needs access to the special permissions so that support agent can draw on user's screen."</string>
+    <string name="remote_support_explanation_write_settings_permission">Samsung+ needs access to the system settings to allow support agent check your device settings.</string>
+    <string name="remote_support_explanation_write_storage_permission">Samsung+ needs access to device storage to write the support logs.</string>
+    <string name="remote_support_message">Please check with the support agent. Reference Error Code: %1$d</string>
+    <string name="remove_photo">Remove photo</string>
+    <string name="reply">Reply</string>
+    <string name="report">REPORT</string>
+    <string name="report_problem">Report a Problem</string>
+    <string name="report_problem_desc">"Let us know if you have an error or there's something we need to fix."</string>
+    <string name="report_problem_hint">"Enter your problem in detail.
+For example: Gallery crashes every time I play videos that I recorded with my device camera.
+
+Try to send the system log data within 3 minutes of the problem occurring."</string>
+    <string name="report_system_error_message_fmt">"Your device has reported the error at %s. To analyze and correct the error, we need to review the log data stored on your device which may also contain usage data from third party apps.
+
+The received data will be used solely by Samsung Electronics Co., Ltd. for improvement purpose only and it will be deleted once the error is resolved."</string>
+    <string name="report_system_error_title">Send Error Report</string>
+    <string name="required">*Required</string>
+    <string name="required_fields">*REQUIRED FIELDS</string>
+    <string name="reset_ignored_alerts">Reset Ignored Alerts</string>
+    <string name="result_address_book">Found contact info</string>
+    <string name="result_calendar">Found calendar event</string>
+    <string name="result_email_address">Found email address</string>
+    <string name="result_geo">Found geographic coordinates</string>
+    <string name="result_isbn">Found book</string>
+    <string name="result_product">Found product</string>
+    <string name="result_sms">Found SMS address</string>
+    <string name="result_tel">Found phone number</string>
+    <string name="result_text">Found plain text</string>
+    <string name="result_uri">Found URL</string>
+    <string name="result_wifi">Found WLAN Configuration</string>
+    <string name="resume_dsr_desc">Your warranty status has been reviewed. Continue completing the request down below</string>
+    <string name="resume_service_requesst">Resume service request</string>
+    <string name="resume_service_request">RESUME SERVICE REQUEST</string>
+    <string name="retake_photos">Retake Photos</string>
+    <string name="retry">Retry</string>
+    <string name="review">Review</string>
+    <string name="review_dsr_desc">"Since we're reviewing your product's warranty status, you can only view your product's service history"</string>
+    <string name="review_your_photos_title">Review Your Photos Before Submission</string>
+    <string name="rewards_section_music">Music</string>
+    <string name="rewards_section_offers">Offers</string>
+    <string name="rewards_section_tvfilm">TV/Film</string>
+    <string name="rotate">Rotate</string>
+    <string name="rr_log">RR.p</string>
+    <string name="rsup_disconnect">Disconnect</string>
+    <string name="rsup_finish_support_activity_label">Samsung Assist Session has ended</string>
+    <string name="rsup_finish_support_activity_message">Elapsed time: %1$d minutes and %2$d seconds</string>
+    <string name="rsup_notification_service_desc">Samsung Assist is active</string>
+    <string name="rsup_notification_service_title">Samsung+</string>
+    <string name="rsup_remote_support_activity_label">Samsung Assist is Active</string>
+    <string name="rsup_remote_support_activity_msg">To disconnect, tap disconnect button below or from any screen on the notification panel.</string>
+    <string name="rsup_waiting_activity_label">Connecting Samsung Assist</string>
+    <string name="rsup_waiting_activity_msg">Connecting to a tech expert</string>
+    <string name="run_oheartbeat">Run Heartbeat</string>
+    <string name="run_tests">TEST AGAIN</string>
+    <string name="sam_bot">Samsung bot</string>
+    <string name="sample_brand_id">qcorp</string>
+    <string name="sample_intercept_id">SI_0MP6TsiAzrh4Z0x</string>
+    <string name="sample_zone_id">zn9tytbrytlrptdsf</string>
+    <string name="samsung_account_signed_out">"You're signed out of Samsung+. Please use your Samsung Account to sign in again and access exclusive downloads, giveaways and how-to tips."</string>
+    <string name="samsung_account_signed_out_short">Samsung+ Signed Out</string>
+    <string name="samsung_agent">Samsung Agent</string>
+    <string name="samsung_cares">Samsung Cares</string>
+    <string name="samsung_cares_help">As our valued customer you will also have access to 24/7 lifetime support services.</string>
+    <string name="samsung_customer_care_chatbot">Samsung bot</string>
+    <string name="save">Save</string>
+    <string name="saved_message">Your draft has been saved.</string>
+    <string name="saving_battery">Saving Battery</string>
+    <string name="sbc_name">Google Book Search</string>
+    <string name="scan_barcode">Scan Barcode</string>
+    <string name="scan_barcode_qr_code">Scan Barcode / QR Code</string>
+    <string name="scan_barcode_top">Identify Samsung product through Barcode/QR code of the serial number</string>
+    <string name="scan_partial_passed_message">Your device needs attention</string>
+    <string name="scan_passed_message">Your device passed all tests</string>
+    <string name="scan_result_ok_text">All items passed the tests.</string>
+    <string name="scan_success_string">Scan Successful</string>
+    <string name="scanning">Scanning</string>
+    <string name="schedule_dsr_desc">Having trouble with this product? Schedule an appointment here to get your problems fixed</string>
+    <string name="schedule_service_request">SCHEDULE SERVICE REQUEST</string>
+    <string name="scheduled_maintenance">Schedule Maintenance</string>
+    <string name="screen_timeout">Screen Timeout: %1$d %2$s</string>
+    <string name="search_hint">Search</string>
+    <string name="second">sec</string>
+    <string name="see_less">See Less</string>
+    <string name="see_terms_and_conditions">See the Promotion Terms and Conditions for complete details and restrictions.</string>
+    <string name="see_warranty_details">See Warranty Details</string>
+    <string name="see_warranty_information">See Warranty Information</string>
+    <string name="select">Select</string>
+    <string name="select_category">Select Category</string>
+    <string name="select_feedback_type">Select Feedback Type</string>
+    <string name="select_product_typet">1. Selected Product Type</string>
+    <string name="send_feedback">Send Feedback</string>
+    <string name="send_feedback_desc">If you have any suggestions you can</string>
+    <string name="send_feedback_get_help_desc">Report a problem or share your comments and suggestions.</string>
+    <string name="send_now">CONTINUE</string>
+    <string name="send_system_log_data">Send system log data</string>
+    <string name="send_system_log_data_desc">"To analyze and repair the issue, we need to review the log data stored on your device. Note: This data may contain information from third-party apps.
+
+The received data will be used solely by Samsung Electronics Co., Ltd. for improvement purposes only and will be deleted immediately after the error is resolved."</string>
+    <string name="send_system_log_data_info">Send system log to help resolve your questions quickly and accurately.</string>
+    <string name="send_us_feedback">Send Feedback</string>
+    <string name="sending">Sending…</string>
+    <string name="serial_no">S/N: %s</string>
+    <string name="serial_number">Serial Number</string>
+    <string name="service_details">Service Details</string>
+    <string name="service_provider_and_network_type">Service Provider and Network Type</string>
+    <string name="service_request_completed">You have successfully completed your service request.</string>
+    <string name="service_request_draft">Saved service request draft. Awaiting updates.</string>
+    <string name="service_summary_title">Please review the information below.</string>
+    <string name="session_is_ended_fmt">%s session is ended</string>
+    <string name="set_response">SetResponse</string>
+    <string name="setting_notifications_switch_label_format">Notifications %s</string>
+    <string name="setting_off">Off</string>
+    <string name="setting_on">On</string>
+    <string name="setting_switch_alerts__appData_label_format_accessibility">HIGH APP DATA USAGE: switch</string>
+    <string name="setting_switch_alerts__app_hog_label_format_accessibility">HIGH BATTERY DRAIN:APP HOG: switch</string>
+    <string name="setting_switch_alerts__batteryHealth_label_format_accessibility">BATTERY HEALTH: switch</string>
+    <string name="setting_switch_alerts__batteryTemp_label_format_accessibility">BATTERY TEMPERATURE: switch</string>
+    <string name="setting_switch_alerts__battery_level_label_format_accessibility">BATTERY LEVEL: switch</string>
+    <string name="setting_switch_alerts__battery_performance_label_format_accessibility">BATTERY PERFORMANCE: switch</string>
+    <string name="setting_switch_alerts__data_overage_label_format_accessibility">DATA OVERAGE: switch</string>
+    <string name="setting_switch_alerts__insecureWifi_label_format_accessibility">INSECURE WI-FI: switch</string>
+    <string name="setting_switch_alerts__reboot_label_format_accessibility">REBOOT RECOMMENDED: switch</string>
+    <string name="setting_switch_alerts__rooted_label_format_accessibility">ROOTED DEVICE: switch</string>
+    <string name="setting_switch_alerts__storage_label_format_accessibility">LOW STORAGE SPACE: switch</string>
+    <string name="setting_switch_alerts__unstableCharge_label_format_accessibility">UNSTABLE CHARGING: switch</string>
+    <string name="setting_switch_alerts__weakCharge_label_format_accessibility">WEAK CHARGING: switch</string>
+    <string name="setting_switch_alerts_appData_label_format">High App Data Usage %s</string>
+    <string name="setting_switch_alerts_app_hog_label_format">High Battery Drain:App Hog %s</string>
+    <string name="setting_switch_alerts_batteryHealth_label_format">Battery Health %s</string>
+    <string name="setting_switch_alerts_batteryTemp_label_format">Battery Temperature %s</string>
+    <string name="setting_switch_alerts_battery_level_label_format">Battery Level %s</string>
+    <string name="setting_switch_alerts_battery_performance_label_format">Battery Performance %s</string>
+    <string name="setting_switch_alerts_data_overage_label_format">Data Overage %s</string>
+    <string name="setting_switch_alerts_insecureWifi_label_format">Insecure Wi-Fi %s</string>
+    <string name="setting_switch_alerts_label_format">Diagnostics Notifications %s</string>
+    <string name="setting_switch_alerts_poor_signal_label_format">High Battery Drain:Poor Signal %s</string>
+    <string name="setting_switch_alerts_poor_signal_label_format_accessibility">HIGH BATTERY DRAIN:POOR SIGNAL: switch</string>
+    <string name="setting_switch_alerts_reboot_label_format">Reboot Recommended %s</string>
+    <string name="setting_switch_alerts_rooted_label_format">Rooted Device %s</string>
+    <string name="setting_switch_alerts_storage_label_format">Low Storage Space %s</string>
+    <string name="setting_switch_alerts_unstableCharge_label_format">Unstable Charging %s</string>
+    <string name="setting_switch_alerts_weakCharge_label_format">Weak Charging %s</string>
+    <string name="setting_switch_promotions_label_format">Promotional Reminders %s</string>
+    <string name="settings_error">Unable to update. Please try again.</string>
+    <string name="settings_find_my_mobile">Find My Mobile</string>
+    <string name="settings_find_my_mobile_desc">Find My Mobile allows you to locate your lost device</string>
+    <string name="settings_gps_dialog_title">GPS Is Disabled</string>
+    <string name="settings_gps_disabled">Please set your Location to On and ensure your Location method is set to High Accuracy</string>
+    <string name="settings_notif_diagnostic">Diagnostics Notifications</string>
+    <string name="settings_notif_diagnostic_desc">"By enabling diagnostic notifications, you'll be alerted when device health and security scans reveal potential issues with your device."</string>
+    <string name="settings_notifications_label_format_accessibility">Notifications: switch</string>
+    <string name="settings_settings">Settings</string>
+    <string name="settings_switch_alerts_label_format_accessibility">DEVICE HEALTH ALERTS: switch</string>
+    <string name="settings_switch_promotions_label_format_accessibility">NEW PROMOTIONS: switch</string>
+    <string name="show_me_how">SHOW ME HOW</string>
+    <string name="show_me_how_cta">SHOW ME HOW</string>
+    <string name="show_me_how_start_message">"The following experience will take you through a live, interactive tutorial.
+
+This feature uses Accessibility services."</string>
+    <string name="show_me_how_start_message_enable_accessibility_service">"The following experience will take you through a live, interactive tutorial.
+
+Turning on this service allows you to access the Show Me How feature.
+
+This feature uses Accessibility services."</string>
+    <string name="show_me_more">SHOW ME MORE</string>
+    <string name="sign_in_choose_gmail">Choose Your Email Address</string>
+    <string name="sign_in_choose_gmail_id">Please select which Google account you would like to continue with:</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="signinUpdateSA">Your Samsung Account must be updated to complete sign-in.</string>
+    <string name="sim_card_required">SIM Card Required</string>
+    <string name="sim_card_required_desc">Please check your SIM card or contact your service provider.</string>
+    <string name="skill">Skill</string>
+    <string name="skill_completed">Skill Set Complete!</string>
+    <string name="skill_set_complete">Skill Set Complete:</string>
+    <string name="skills">Skills</string>
+    <string name="skills_desc">Gain insight to utilize your Samsung device to its full potential.</string>
+    <string name="skills_desc_2">Start a Skill to get more insights of your products.</string>
+    <string name="skills_empty_msg">No Skills Yet?</string>
+    <string name="skip_button">SKIP</string>
+    <string name="sorry">Response Pending</string>
+    <string name="sorry_desc">You cannot reply at the moment. Please wait until an agent responds.</string>
+    <string name="sound">Sound: %1$s</string>
+    <string name="speed_test">Connection Speed</string>
+    <string name="speed_test_cancelled">Test cancelled</string>
+    <string name="speed_test_connected_cellular">Connected to %s Network</string>
+    <string name="speed_test_connected_wifi">Connected to \"%s\" Wi-Fi Network</string>
+    <string name="speed_test_connecting">Connecting to %s</string>
+    <string name="speed_test_date">%1$s at %2$s</string>
+    <string name="speed_test_default_string">---</string>
+    <string name="speed_test_download">@string/download_this_file</string>
+    <string name="speed_test_history">History</string>
+    <string name="speed_test_history_menu">Speed Test History</string>
+    <string name="speed_test_history_signal">Signal</string>
+    <string name="speed_test_lc">Speed Test</string>
+    <string name="speed_test_measurement_MBPS">MBPS</string>
+    <string name="speed_test_measurement_MS">MS</string>
+    <string name="speed_test_measurement_Mbps">Mbps</string>
+    <string name="speed_test_measurement_ms">ms</string>
+    <string name="speed_test_mobile">Mobile</string>
+    <string name="speed_test_mobile_message">This may result in unexpected charges.</string>
+    <string name="speed_test_mobile_title">You will use a mobile data connection</string>
+    <string name="speed_test_nw_error">No Known Networks Available</string>
+    <string name="speed_test_nw_failed">%s Failed to Enable</string>
+    <string name="speed_test_nw_retry">Retry</string>
+    <string name="speed_test_ping">Ping</string>
+    <string name="speed_test_searching">Searching for a Network</string>
+    <string name="speed_test_start">Start Speed Test</string>
+    <string name="speed_test_stop">Stop Speed Test</string>
+    <string name="speed_test_upload">Upload</string>
+    <string name="speed_test_wifi">Wi-Fi</string>
+    <string name="splash_please_wait">Please Wait</string>
+    <string name="spp_desc">"Your coverage covers mechanical and electrical breakdowns after the manufacturer's warranty expires, and accidental damage. It allows up to two replacements in a 12 month period for accidental damage claims. Warranty limitations apply."</string>
+    <string name="spp_title">Your Samsung Protection Plus</string>
+    <string name="sso_apk_disabled">Samsung Account required</string>
+    <string name="sso_apk_disabled_desc">Samsung+ requires that your Samsung account is enabled.</string>
+    <string name="sso_disabled">SSO Disabled</string>
+    <string name="start_over">START OVER</string>
+    <string name="start_over_message">Are you sure you want to start from the beginning?</string>
+    <string name="start_over_title">Start over?</string>
+    <string name="start_tests">TEST</string>
+    <string name="state">State*</string>
+    <string name="step_fmt">Step %d</string>
+    <string name="storage">STORAGE</string>
+    <string name="storage_app_size">App Size</string>
+    <string name="storage_apps">Apps</string>
+    <string name="storage_audio">Audio</string>
+    <string name="storage_clear_system_cache">Clear All System Cache</string>
+    <string name="storage_docs">Docs</string>
+    <string name="storage_free_up">Free Up Storage</string>
+    <string name="storage_junk_files">Junk Files</string>
+    <string name="storage_list_empty">No additional applications can be deleted from your device at this time.</string>
+    <string name="storage_manager">Storage Manager</string>
+    <string name="storage_manager_info">%1$s / %2$s Full</string>
+    <string name="storage_others">Other</string>
+    <string name="storage_photo">Photos</string>
+    <string name="storage_remove_applications">Remove Applications</string>
+    <string name="storage_user_data">User Data</string>
+    <string name="storage_videos">Videos</string>
+    <string name="submit">Submit</string>
+    <string name="submit_button">SUBMIT</string>
+    <string name="submit_photos">Submit Photos</string>
+    <string name="submitted">RESPONSE PENDING</string>
+    <string name="subscribe_desc">"To change your notification
+preferences, visit the Settings menu."</string>
+    <string name="subscribe_to_notifications">Subscribe to Notifications</string>
+    <string name="success">Success!</string>
+    <string name="success_registration">Successfully Registered Device</string>
+    <string name="success_registration_msg">You still have unregistered Samsung products detected. Would you like to register them now?</string>
+    <string name="summary_label_address1">"Address1: "</string>
+    <string name="summary_label_address2">"Address2: "</string>
+    <string name="summary_label_attachments">"Attachments: "</string>
+    <string name="summary_label_city">"City: "</string>
+    <string name="summary_label_costs">"Repair Costs: "</string>
+    <string name="summary_label_costs_desc">Since your product is out of warranty, additional costs may incur.</string>
+    <string name="summary_label_date">"Date: "</string>
+    <string name="summary_label_issue">"Issues: "</string>
+    <string name="summary_label_mobile_numb">"Mobile Number: "</string>
+    <string name="summary_label_name">"Name: "</string>
+    <string name="summary_label_problemDesc">"Problem Description: "</string>
+    <string name="summary_label_state">"State: "</string>
+    <string name="summary_label_time">"Time: "</string>
+    <string name="summary_label_zipcode">"ZIP Code: "</string>
+    <string name="summary_model">Model: %s</string>
+    <string name="summary_serial">Serial Number: %s</string>
+    <string name="support_call_camera_disabled">Camera disabled.</string>
+    <string name="support_call_chat_text_header">Live Chat with</string>
+    <string name="support_call_chat_text_header_default">Live Chat</string>
+    <string name="support_call_chat_text_header_textonly">CONNECTED WITH</string>
+    <string name="support_call_closed">Site is closed</string>
+    <string name="support_call_connecting">Connecting you with an agent…</string>
+    <string name="support_call_dialog_connection_description">Please retry or check your mobile data connection and return to Live Help to chat.</string>
+    <string name="support_call_dialog_connection_quit">Back</string>
+    <string name="support_call_dialog_connection_title">"We can't connect right now."</string>
+    <string name="support_call_dialog_connection_try">Retry</string>
+    <string name="support_call_dialog_enter_start_chat">Start Chat</string>
+    <string name="support_call_dialog_enter_text">By continuing with this chat, you understand this session may be recorded for quality and training purposes. You will not be visible to the agent unless you turn your camera on during the video chat session.</string>
+    <string name="support_call_dialog_enter_title">Start live video chat session?</string>
+    <string name="support_call_dialog_enter_title_textonly">Entering live chat</string>
+    <string name="support_call_dialog_open_wifi_settings">Open Wi-Fi Settings</string>
+    <string name="support_call_dialog_quit_description">Press Yes to disconnect or No to return.</string>
+    <string name="support_call_dialog_quit_ok">Yes</string>
+    <string name="support_call_dialog_quit_title">Do you wish to end this chat?</string>
+    <string name="support_call_dialog_wifi_desc">Live video chat works best with a Wi-Fi connection.</string>
+    <string name="support_call_ended">Chat session has ended</string>
+    <string name="support_call_ended_textonly">CHAT SESSION HAS ENDED</string>
+    <string name="support_call_no_answer">Connection time-out. Please retry.</string>
+    <string name="support_call_operator_typing">is typing.</string>
+    <string name="support_call_queue">Queue position</string>
+    <string name="support_call_queue_connecting_textonly">CONNECTING:</string>
+    <string name="support_call_queue_textonly">TO NEXT AVAILABLE AGENT</string>
+    <string name="support_call_started">Connected with</string>
+    <string name="support_call_video_chat">Video Chat</string>
+    <string name="support_hours_one">Sorry, video chat is only available from</string>
+    <string name="support_hours_one_textonly">Sorry, live chat is only available from</string>
+    <string name="support_hours_three">For immediate assistance, please return to the Live Help section and select the phone support option.</string>
+    <string name="support_hours_two">to</string>
+    <string name="support_info">"Learn about Samsung's limited warranty coverage for your product."</string>
+    <string name="support_info_clickable">"Samsung's limited warranty"</string>
+    <string name="support_remote_dialog_agent">agent</string>
+    <string name="support_remote_dialog_description">Allow %1$s to see and share control of your device?</string>
+    <string name="support_remote_dialog_title">Allow Remote Support?</string>
+    <string name="support_text_hint">Enter message</string>
+    <string name="support_text_switch_instruction">To initiate text chat along with video, tap the icon. The chat will end if a phone call is answered during the session.</string>
+    <string name="survey_dialog_cta_begin">Begin the survey</string>
+    <string name="survey_dialog_cta_finish">Let me finish the survey</string>
+    <string name="survey_dialog_cta_no_thanks">No Thanks</string>
+    <string name="survey_dialog_title">We value your input</string>
+    <string name="survey_entry_dialog_desc">If you enjoy using Samsung+, please take a moment to complete this short survey.</string>
+    <string name="survey_message">Your information has been sent.</string>
+    <string name="survey_not_send_message">Your information cannot be sent at the moment.</string>
+    <string name="survey_not_send_title">"Something's not quite right"</string>
+    <string name="survey_quit_dialog_desc">"You haven't finished the survey. Are you sure you want to quit?"</string>
+    <string name="survey_title">Thank You</string>
+    <string name="swipe_to_see_more">Swipe to see more</string>
+    <string name="switch_server">Switch Server</string>
+    <string name="sys_error_log">dumpstate_sys_error.txt</string>
+    <string name="sys_watchdog_log">dumpstate_sys_watchdog.txt</string>
+    <string name="system_errors">System Errors</string>
+    <string name="tablet">Tablet</string>
+    <string name="take_a_photo_of_your_receipt">Take a photo of your receipt</string>
+    <string name="tb_active_help">Samsung Plus Active help button</string>
+    <string name="tb_go_back">Go Back</string>
+    <string name="tb_home">Samsung Plus Home</string>
+    <string name="tb_navigate">Navigation drawer</string>
+    <string name="tb_search">Search for articles with keywords</string>
+    <string name="temperature">%1$s˚%2$s</string>
+    <string name="terms_and_conditions">Terms and Conditions</string>
+    <string name="terms_of_service">Terms of Service</string>
+    <string name="terms_of_service_link">http://www.samsung.com/us/samsungplus/terms/</string>
+    <string name="terms_of_service_underline">the <u>Terms of Service</u></string>
+    <string name="text_billing_cycle">Billing cycle ends %s</string>
+    <string name="text_chat">Text Chat</string>
+    <string name="text_chat_error_dlg_msg">"Sorry about the error message, we're looking into this. In the meantime, please try again."</string>
+    <string name="text_chat_error_dlg_title">Something Went Wrong</string>
+    <string name="text_chat_escalate">Chat with Samsung Care Pro</string>
+    <string name="text_chat_nw_error_msg">Network Error, please check your network connection.</string>
+    <string name="text_chat_question_hint">Type a question/issue</string>
+    <string name="text_chat_splash_please_wait">Fetching messages ...</string>
+    <string name="text_data_cycle">Data Cycle</string>
+    <string name="text_data_limit">Data Limit</string>
+    <string name="text_data_used">Data used this cycle</string>
+    <string name="text_start_date">"Next data period begins on the  "</string>
+    <string name="thank_you_dialog_message">Thanks for your feedback!</string>
+    <string name="this_month">This Month</string>
+    <string name="this_time">This time</string>
+    <string name="this_week">This Week</string>
+    <string name="ticket_number">Ticket Number: %s</string>
+    <string name="time_of_day">Time of day</string>
+    <string name="time_slot_afternoon">12 PM - 4 PM</string>
+    <string name="time_slot_evening">4 PM - 8 PM</string>
+    <string name="time_slot_morning">8 AM - 12 PM</string>
+    <string name="tip_page">%1$s of %2$s</string>
+    <string name="tip_title">TIP</string>
+    <string name="title_APP_BATTERY_CONSUMPTION">App Battery Consumption</string>
+    <string name="title_APP_DATA_USAGE">App Data Usage</string>
+    <string name="title_BATTERY_HEALTH">Battery Health</string>
+    <string name="title_BATTERY_LOW">Low Battery</string>
+    <string name="title_BATTERY_PERFORMANCE">Battery Performance</string>
+    <string name="title_BATTERY_TEMPERATURE">Battery Temperature</string>
+    <string name="title_DATA_OVERAGE">Data Plan Overage</string>
+    <string name="title_INSECURE_WIFI">Wi-Fi security</string>
+    <string name="title_POOR_SIGNAL_BATTERY_CONSUMPTION">Signal Quality</string>
+    <string name="title_RAPID_POWER">Irregular Charging</string>
+    <string name="title_REBOOT">Reboot</string>
+    <string name="title_ROOTED">Root status</string>
+    <string name="title_STORAGE">Storage usage</string>
+    <string name="title_WEAK_CHARGER">Weak Charging</string>
+    <string name="title_app_is_disabled">App is disabled</string>
+    <string name="toast_alert_closed">This alert instance has been dismissed</string>
+    <string name="toast_alert_remind">"OK, we'll remind you."</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="tools_additional_info">you may also like</string>
+    <string name="total_registration_steps">3 Steps to Register a Product!</string>
+    <string name="try_again">TRY AGAIN</string>
+    <string name="turn_on_notifications">TURN ON NOTIFICATIONS</string>
+    <string name="tv_homeAppliance">TV, Home Appliance, other products</string>
+    <string name="twitter">TWITTER</string>
+    <string name="unable_to_send">Unable to send</string>
+    <string name="unable_to_send_exceed_character_limit">Your message exceeds the limits. Type a maximum of 1000 characters.</string>
+    <string name="unable_to_send_file_num_desc_fmt">Attachments are exceeding the limits. Send a maximum of %1$d files or less files.</string>
+    <string name="unable_to_send_file_size_desc_fmt">Attachments are exceeding the limits. Send a maximum of %1$d MB total.</string>
+    <string name="unable_to_send_missing_desc">No text has been entered. Please enter your feedback.</string>
+    <string name="unable_to_send_system">System error, your feedback has not been sent out.</string>
+    <string name="unable_to_unsubscribe_beta">Unable to cancel subscription at this time</string>
+    <string name="unavailable_technicians_message">There are no service technicians in your area. Please call Samsung Customer Care for further assistance.</string>
+    <string name="unavailable_time_slots">Unavailable Time Slots</string>
+    <string name="unavailable_time_slots_message">There are currently no available time slots for this day. Please check again later or select a new date.</string>
+    <string name="unavailable_time_slots_select">SELECT ANOTHER DATE</string>
+    <string name="undo">Undo</string>
+    <string name="unexpected">Unexpected</string>
+    <string name="unit_mb">MB</string>
+    <string name="unknown_error">Unknown Error</string>
+    <string name="unknown_error_msg">Something is not quite right. Please try again.</string>
+    <string name="unlimited">Unlimited</string>
+    <string name="unregister">Unsubscribe</string>
+    <string name="unregistered_product_service_request">REQUEST SERVICE</string>
+    <string name="unregistering">Unsubscribe…</string>
+    <string name="unsubscribe_desc">"We'll let you know how to optimize device performance and security."</string>
+    <string name="unsupported_android_message">You are using an unsupported Android version. Please update to Android 5.0+ then try again.</string>
+    <string name="updating_profile">Updating Profile. Please Wait...</string>
+    <string name="upgrade_warranty">UPGRADE WARRANTY</string>
+    <string name="upload">Upload</string>
+    <string name="usage">Usage %1$d%%</string>
+    <string name="use_mock_json">Use mock json</string>
+    <string name="used">Used</string>
+    <string name="user_blocked">User Blocked</string>
+    <string name="user_city">City</string>
+    <string name="user_first_name">First Name</string>
+    <string name="user_last_name">Last Name</string>
+    <string name="user_location_only_city">%1$s</string>
+    <string name="user_name_requirements">Username should be more than 6 chars</string>
+    <string name="user_name_taken">Username not available</string>
+    <string name="user_name_taken_error">Error Checking Username availability</string>
+    <string name="user_zip_code">Zip Code</string>
+    <string name="validate_device_api">Validate Device:</string>
+    <string name="verification_error__generic_title">Something Went Wrong</string>
+    <string name="verification_error_description">"Sorry about the error message, we're looking into this. In the meantime, please try again."</string>
+    <string name="verification_error_generic_description">"Sorry about the error message, we're looking into this. In the meantime, please try again."</string>
+    <string name="verification_error_imei_description">Possible reasons for the error include serial/IMEI number is not valid, product is older than 3 years, product was purchased outside the U.S.</string>
+    <string name="verification_error_imei_title">Invalid Serial/IMEI</string>
+    <string name="verification_error_title">Something Went Wrong</string>
+    <string name="verification_in_progress">"Verification in progress,
+please wait…"</string>
+    <string name="verify">verify</string>
+    <string name="verifying">Verifying…</string>
+    <string name="version_title">Software Version</string>
+    <string name="video">Video</string>
+    <string name="video_chat_survey_problem_solved_question">1. Was your problem solved?</string>
+    <string name="video_chat_survey_satisfaction_question">2. How would you rate your overall satisfaction with Samsung+ today?</string>
+    <string name="video_limit">Maximum size of video file (%s MB) reached.</string>
+    <string name="video_limit_big">Maximum size of video file (%s MB) reached.</string>
+    <string name="view">View</string>
+    <string name="view_article">VIEW ARTICLE</string>
+    <string name="view_details">VIEW DETAILS</string>
+    <string name="view_dsr_desc">"You've started a service request. You can view the ticket information here"</string>
+    <string name="view_faq">View our FAQ</string>
+    <string name="view_more">View more</string>
+    <string name="view_report">View Report</string>
+    <string name="view_results">View Results</string>
+    <string name="view_service_request">VIEW SERVICE REQUEST</string>
+    <string name="view_tc">View our T&amp;C</string>
+    <string name="view_this_content">View</string>
+    <string name="warranty_dialog_title">Confirm Warranty Coverage</string>
+    <string name="warranty_expires_soon">Warranty expires within 90 days</string>
+    <string name="warranty_loading">Warranty Status: Loading…</string>
+    <string name="warranty_manufacturer">Standard Limited Warranty</string>
+    <string name="warranty_premium_care">Premium Care</string>
+    <string name="warranty_premium_care_trail">Status: Premium Care - One Month Trial</string>
+    <string name="warranty_spp">Samsung Protection Plus</string>
+    <string name="warranty_status">Status:%s</string>
+    <string name="warranty_status_pc_pending">Status: Premium Care - Pending Approval</string>
+    <string name="warranty_status_pc_photo_rejected">Status: Premium Care - Photos Rejected</string>
+    <string name="warranty_under_review">Warranty Under Review</string>
+    <string name="warranty_under_review_message">We will get back to you as soon as your proof of purchase is reviewed.</string>
+    <string name="welcome_description">"With Samsung+ it's easy to get the help you need to make the most of your Samsung products."</string>
+    <string name="welcome_explanation">To Continue, Please Grant Samsung+ Permission to Access</string>
+    <string name="welcome_get_started">GET STARTED</string>
+    <string name="welcome_get_started_lower">Get Started</string>
+    <string name="welcome_login_create_sa">Login or Create a Samsung Account</string>
+    <string name="welcome_next">NEXT</string>
+    <string name="welcome_settings">SETTINGS</string>
+    <string name="welcome_to_samsung_plus">Live Support in the Palm of Your Hand</string>
+    <string name="wifi">Wi-Fi: %1$s</string>
+    <string name="wifi_changing_network">Requesting connection to network…</string>
+    <string name="wifi_net_scan">Wi-Fi Network Scan</string>
+    <string name="wifi_scan_product_selection_title">Please confirm if this is the product you would like to register.</string>
+    <string name="wifi_scan_products_selection_title">Please select and confirm the product you would like to register.</string>
+    <string name="wifi_scan_samsung_message">"Application will scan for products in your Wi-Fi network. If your product is not detected, please use manual registration
+
+Your product must be on for wi-fi detection."</string>
+    <string name="wifi_scan_samsung_title">Identifying your Samsung Product</string>
+    <string name="wizard_title" formatted="false">Step %d of %d</string>
+    <string name="workshops_edit_reservation">Edit Reservation</string>
+    <string name="workshops_info">Find a skills workshops to get help from Samsung Experience Consultants at a Best Buy near you.</string>
+    <string name="workshops_more_workshops">More Workshops</string>
+    <string name="workshops_my_reservations">My Reservations</string>
+    <string name="workshops_no_reservation_desc">Find nearby workshops to get help from Samsung Experience Consultants.</string>
+    <string name="workshops_no_reservations">No Reservations Yet?</string>
+    <string name="workshops_schedule">Discover and Reserve Workshops</string>
+    <string name="workshops_schedule_cta">Discover &amp; Reserve Workshops</string>
+    <string name="workshops_sign_in_desc">Sign in to your Samsung Account to find workshops and get help nearby.</string>
+    <string name="year">Year</string>
+    <string name="yes">YES</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="yesterday_param">Yesterday, %1$s</string>
+    <string name="your_information">Your Information</string>
+    <string name="zip_code">ZIP Code*</string>
+</resources>

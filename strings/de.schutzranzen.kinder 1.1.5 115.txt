@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text_phone">"%1$s won't run without Google Play services, which are missing from your phone."</string>
+    <string name="common_google_play_services_install_text_tablet">"%1$s won't run without Google Play services, which are missing from your tablet."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. If the problem persists, please contact the developer for assistance.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s relies on Google Play services, which is not supported by your device. Contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_updating_title">Google Play services are updating</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="zxing_app_name">Barcode Scanner</string>
+    <string name="zxing_button_ok">OK</string>
+    <string name="zxing_msg_camera_framework_bug">Sorry, the Android camera encountered a problem. You may need to restart the device.</string>
+    <string name="zxing_msg_default_status">Place a barcode inside the viewfinder rectangle to scan it.</string>
+    <string name="abo_info">In order to make yourself visible or to send an emergency call you must first buy or unlock your subscription</string>
+    <string name="activate_code">Activate Code</string>
+    <string name="activity_walkthrough_finish">Here we go</string>
+    <string name="activity_walkthrough_skip">Skip</string>
+    <string name="app_name">SchutzRanzen - Children</string>
+    <string name="battery_low_push">%s reports low battery.</string>
+    <string name="battery_normal_push">%s announces battery level back to normal.</string>
+    <string name="cancel_emergency_call">Abort</string>
+    <string name="cancel_emergency_push">The emergency signal from %s was ended.</string>
+    <string name="code">Code</string>
+    <string name="code_buy">Buy code</string>
+    <string name="code_invalid">The code you entered is invalid.</string>
+    <string name="code_online">" "<a href="https://schutzranzen.com/gutscheincode-bestellen">Buy Code online</a>" "</string>
+    <string name="current_location">Current Location</string>
+    <string name="emergency_add_contact_info">Does someone want to add you?</string>
+    <string name="emergency_call_info">"Who should receive the emergency call?
+Scan the code from e.g. your mom or your dad to include them on the list."</string>
+    <string name="emergency_call_is_active">Your emergency signal is active</string>
+    <string name="emergency_call_time">%s min</string>
+    <string name="emergency_push">%s sends an emergency signal.</string>
+    <string name="error_add_tracker">An error occurred when you registered the tracker.</string>
+    <string name="error_authorization_failed">Authorization Error</string>
+    <string name="error_connect_tracker">An error occurred when you connected the tracker.</string>
+    <string name="error_coupon_code_is_invalid">The code is invalid</string>
+    <string name="error_coupon_has_already_been_redeemed">The code has already been redeemed</string>
+    <string name="error_deviceid_and_coupon_doesnt_match">The code has been redeemed for another device</string>
+    <string name="error_disconnect_tracker">An error occurred when you removed the tracker.</string>
+    <string name="error_get_tracker_data">The tracker data could not be found.</string>
+    <string name="error_no_position">The position could not be determined</string>
+    <string name="error_ok">No error</string>
+    <string name="error_push_not_registered">The device is not registered for Push, please check Internet connection and restart the app.</string>
+    <string name="error_send_command_failed">"The request could not be sent, please connect to the Internet and try again. "</string>
+    <string name="error_send_push_failed">The request could not be sent, please connect to the Internet and try again.</string>
+    <string name="error_the_coupon_is_expired">The code has expired</string>
+    <string name="error_unkown_error">Unknown Error</string>
+    <string name="error_validation_failed">Validation Error</string>
+    <string name="heading_code">ENTER THE CODE</string>
+    <string name="heading_contact">ENTER NAME</string>
+    <string name="heading_contact_name">WHO IS THIS?</string>
+    <string name="heading_contact_persons">YOUR CONFIDANT</string>
+    <string name="heading_current_location">CURRENT LOCATION</string>
+    <string name="heading_error">Error</string>
+    <string name="heading_in_app">IN APP PURCHASE</string>
+    <string name="heading_location_list">LOCATION HISTORY</string>
+    <string name="heading_own_name">"HELLO, WHAT'S YOUR NAME?"</string>
+    <string name="heading_qr_code">YOUR IDENTIFICATION CODE</string>
+    <string name="heading_qr_code_no_tracking">"YOUR DETECTION CODE
+WITHOUT TRACKING"</string>
+    <string name="heading_qr_code_with_tracking">"YOUR DETECTION CODE
+WITH TRACKING"</string>
+    <string name="heading_scan_code">CODE SCANNING</string>
+    <string name="hint_app_user_name">Name</string>
+    <string name="in_app_purchase">Buy a monthly subscription for 1€</string>
+    <string name="info_heading1">We take care of you</string>
+    <string name="info_heading2">Imprint</string>
+    <string name="info_heading3">UX Design &amp; Implementation</string>
+    <string name="info_text1">"We make you visible in road traffic.
+Discover more at: "<a href="http://www.schutzranzen.de">www.schutzranzen.de</a>" "</string>
+    <string name="info_text2">"CooDriver GmbH
+Dr. Maxstr.14
+82031 Grünwald
+E-Mail: support@coodriver.com"</string>
+    <string name="info_text_contact">What name shall be displayed as the trusted person to the child.</string>
+    <string name="info_text_contact_normal">"We have identified %s.
+Press save to add that person."</string>
+    <string name="info_text_contact_tracking">"We have identified %s.
+Press save so that person can locate you."</string>
+    <string name="info_text_qr_code">With this code, you enable a person you trust to locate you.</string>
+    <string name="invalid_qr_code">Invalid code, please try it again.</string>
+    <string name="invalid_tracker_code">Invalid tracker code</string>
+    <string name="label_activate">Activate</string>
+    <string name="label_arrived_safely">arrived safely</string>
+    <string name="label_battery_low">Low Battery</string>
+    <string name="label_later">Later</string>
+    <string name="label_location_map">Map</string>
+    <string name="label_not_visible">not visible</string>
+    <string name="label_sends_emergency">sends an emergency call</string>
+    <string name="label_visible">visible</string>
+    <string name="label_with_tracking">Can locate you as well</string>
+    <string name="location_push">%s will send its position.</string>
+    <string name="message_adult_remove_child">%s has been removed as a trusted person.</string>
+    <string name="message_child_arrived">%s has arrived</string>
+    <string name="message_child_arrived_to">" to "</string>
+    <string name="message_child_register_adult">%s has added you as a trusted person.</string>
+    <string name="message_child_remove_adult">%s has removed you as a trusted person.</string>
+    <string name="msg_ask_delete_child">Do you really want to delete %s from your list?</string>
+    <string name="msg_ask_delete_contact">Do you really want to delete your trusted person %s?</string>
+    <string name="msg_ask_enable_monitoring">Background monitoring is disabled! Do you want to enable it?</string>
+    <string name="msg_please_enable_monitoring">Please turn on background monitoring</string>
+    <string name="no_speed">You are standing here</string>
+    <string name="notification_battery">Warning: Battery level is too low!</string>
+    <string name="notification_children">Careful: Children</string>
+    <string name="notification_emergency">Emergency</string>
+    <string name="notification_no_danger">No Hazards or Warnings</string>
+    <string name="notification_roadworker">Careful: Roadworkers</string>
+    <string name="notification_roadworker_1000m" formatted="false">"Careful!
+Roadworkers in %dm, %d seconds"</string>
+    <string name="notification_roadworker_100m">"Careful!
+Roadworkers 100m"</string>
+    <string name="notification_roadworker_200m">"Careful!
+Roadworkers 200m"</string>
+    <string name="notification_roadworker_500m">"Careful!
+Roadworkers in 500m, %d seconds"</string>
+    <string name="notification_save_arrival">Arrived safely</string>
+    <string name="notification_school">Careful: School</string>
+    <string name="notification_speed">Please pay attention to your speed</string>
+    <string name="pref_app_language">Language</string>
+    <string name="pref_app_user_name">Your Name</string>
+    <string name="pref_debug_disable_map">Disable Map</string>
+    <string name="pref_title_debug_logging">Logging</string>
+    <string name="pref_title_driver_acoustic_warnings">Acoustic Warning</string>
+    <string name="pref_title_driver_background_monitoring">Background monitoring</string>
+    <string name="pref_title_driver_mobile_data_enabled">Use mobile data</string>
+    <string name="pref_title_driver_warn_during_the_day_info">The app alerts you during the day from 6:30 to 18:00.</string>
+    <string name="pref_title_driver_warn_only_during_the_day">Alert only during the day</string>
+    <string name="pref_title_energie_battery_level">Battery level</string>
+    <string name="pref_title_energie_on_low_info">When the defined battery level is reached, background monitoring is suspended.</string>
+    <string name="pref_title_energie_warn_on_low">Low battery warning</string>
+    <string name="push_adult_send_success">A message was sent to the child.</string>
+    <string name="push_child_send_success">A message was sent to your trusted person.</string>
+    <string name="push_send_locate_success">A Location request was sent to %s.</string>
+    <string name="push_tracker_send_success">A message was sent to the tracker.</string>
+    <string name="save">Save</string>
+    <string name="save_contact">Save trust person</string>
+    <string name="scan_code">Add Manager</string>
+    <string name="scanner_default_status">Position the barcode inside the rectangle.</string>
+    <string name="send_arrived">Arrived</string>
+    <string name="send_emergency_call">Send emergency signal</string>
+    <string name="settings_change_language_dialog_message">The app will be rebooted to make changes effective.</string>
+    <string name="settings_change_language_dialog_title">Change Language</string>
+    <string name="settings_common">General</string>
+    <string name="settings_energie">Energy</string>
+    <string name="settings_feedback_body">Do you have any suggestions or feedback about the App?</string>
+    <string name="settings_feedback_fail">Sorry, no email app was found to send feedback…</string>
+    <string name="settings_feedback_subject">My feedback and suggestions for the CooDriver App</string>
+    <string name="settings_header_info">Info</string>
+    <string name="settings_title_faq">FAQ</string>
+    <string name="settings_title_feedback">Feedback</string>
+    <string name="settings_title_impress">Imprint</string>
+    <string name="show_code">Show my code</string>
+    <string name="the_adult">The Trusted Person</string>
+    <string name="the_child">The Child</string>
+    <string name="visibility_activate">Become visible</string>
+    <string name="visibility_car_notice">"If you sit longer in the car, you can turn off the visibility.
+Be careful, do not forget to turn on your visibility when you get off the car."</string>
+    <string name="visibility_deactivate">Become invisible</string>
+    <string name="visibility_false_push">%s has deactivated its visibility.</string>
+    <string name="visibility_info_activate">Become visible</string>
+    <string name="visibility_info_is_active">You are visible</string>
+    <string name="visibility_info_is_active_until">You are visible till %s</string>
+    <string name="visibility_is_inactive">You are invisible</string>
+    <string name="visibility_true_push">%s has activated its visibility.</string>
+    <string name="your_speed_is">Your speed is %d km/h</string>
+    <string name="accept_button">Accept</string>
+    <string name="add_tracker_phone_number">Your Phone Number</string>
+    <string name="cancel">Cancel</string>
+    <string name="com.crashlytics.android.build_id">e7970464-1e0f-411d-bc26-e3349b7f6a64</string>
+    <string name="credits_page_texts_1">"https://www.zetetic.net/sqlcipher/, Zetetic BSD-style license
+
+ Copyright (c) 2008-2012 Zetetic LLC
+
+ All rights reserved.
+
+ Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+ * Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+ * Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+ * Neither the name of the ZETETIC LLC nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+ THIS SOFTWARE IS PROVIDED BY ZETETIC LLC \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL ZETETIC LLC BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+"</string>
+    <string name="credits_page_texts_2">"https://github.com/adjust/android_sdk, MIT License
+
+ Copyright (c) 2012-2016 adjust GmbH, http://www.adjust.com
+
+ Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the Software), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+ THE SOFTWARE IS PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+"</string>
+    <string name="credits_page_texts_3">"https://github.com/JakeWharton/ViewPagerIndicator, Apache License
+
+ Apache License (http://www.apache.org/licenses/LICENSE-2.0)
+
+ Version 2.0, January 2004
+
+ http://www.apache.org/licenses/
+
+ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+ 1. Definitions.
+
+ License shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through 9 of this document.
+ Licensor shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.
+ Legal Entity shall mean the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity. For the purposes of this definition, control means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.
+ You (or Your) shall mean an individual or Legal Entity exercising permissions granted by this License.
+ Source form shall mean the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files.
+ Object form shall mean any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types.
+ Work shall mean the work of authorship, whether in Source or Object form, made available under the License, as indicated by a copyright notice that is included in or attached to the work (an example is provided in the Appendix below).
+ Derivative Works shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. For the purposes of this License, Derivative Works shall not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the Work and Derivative Works thereof.
+ Contribution shall mean any work of authorship, including the original version of the Work and any modifications or additions to that Work or Derivative Works thereof, that is intentionally submitted to Licensor for inclusion in the Work by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner. For the purposes of this definition, submitted means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Work, but excluding communication that is conspicuously marked or otherwise designated in writing by the copyright owner as Not a Contribution.
+ Contributor shall mean Licensor and any individual or Legal Entity on behalf of whom a Contribution has been received by Licensor and subsequently incorporated within the Work.
+
+ 2. Grant of Copyright License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form.
+
+ 3. Grant of Patent License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Work, where such license applies only to those patent claims licensable by such Contributor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Work to which such Contribution(s) was submitted. If You institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Work or a Contribution incorporated within the Work constitutes direct or contributory patent infringement, then any patent licenses granted to You under this License for that Work shall terminate as of the date such litigation is filed.
+
+ 4. Redistribution. You may reproduce and distribute copies of the Work or Derivative Works thereof in any medium, with or without modifications, and in Source or Object form, provided that You meet the following conditions:
+ • You must give any other recipients of the Work or Derivative Works a copy of this License; and
+ • You must cause any modified files to carry prominent notices stating that You changed the files; and
+ • You must retain, in the Source form of any Derivative Works that You distribute, all copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+ • If the Work includes a NOTICE text file as part of its distribution, then any Derivative Works that You distribute must include a readable copy of the attribution notices contained within such NOTICE file, excluding those notices that do not pertain to any part of the Derivative Works, in at least one of the following places: within a NOTICE text file distributed as part of the Derivative Works; within the Source form or documentation, if provided along with the Derivative Works; or, within a display generated by the Derivative Works, if and wherever such third- party notices normally appear. The contents of the NOTICE file are for informational purposes only and do not modify the License. You may add Your own attribution notices within Derivative Works that You distribute, alongside or as an addendum to the NOTICE text from the Work, provided that such additional attribution notices cannot be construed as modifying the License.
+ You may add Your own copyright statement to Your modifications and may provide additional or different license terms and conditions for use, reproduction, or distribution of Your modifications, or for any such Derivative Works as a whole, provided Your use, reproduction, and distribution of the Work otherwise complies with the conditions stated in this License.
+
+ 5. Submission of Contributions. Unless You explicitly state otherwise, any Contribution intentionally submitted for inclusion in the Work by You to the Licensor shall be under the terms and conditions of this License, without any additional terms or conditions. Notwithstanding the above, nothing herein shall supersede or modify the terms of any separate license agreement you may have executed with Licensor regarding such Contributions.
+
+ 6. Trademarks. This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use in describing the origin of the Work and reproducing the content of the NOTICE file.
+
+ 7. Disclaimer of Warranty. Unless required by applicable law or agreed to in writing, Licensor provides the Work (and each Contributor provides its Contributions) on an AS IS BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using or redistributing the Work and assume any risks associated with Your exercise of permissions under this License.
+
+ 8. Limitation of Liability. In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Work (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if such Contributor has been advised of the possibility of such damages.
+
+ 9. Accepting Warranty or Additional Liability. While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability.
+
+ END OF TERMS AND CONDITIONS"</string>
+    <string name="credits_page_texts_4">"https://github.com/anthonycr/Grant, Apache License
+
+ Apache License (http://www.apache.org/licenses/LICENSE-2.0)
+
+ Version 2.0, January 2004
+
+ http://www.apache.org/licenses/
+
+ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+ 1. Definitions.
+
+ License shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through 9 of this document.
+ Licensor shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.
+ Legal Entity shall mean the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity. For the purposes of this definition, control means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.
+ You (or Your) shall mean an individual or Legal Entity exercising permissions granted by this License.
+ Source form shall mean the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files.
+ Object form shall mean any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types.
+ Work shall mean the work of authorship, whether in Source or Object form, made available under the License, as indicated by a copyright notice that is included in or attached to the work (an example is provided in the Appendix below).
+ Derivative Works shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. For the purposes of this License, Derivative Works shall not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the Work and Derivative Works thereof.
+ Contribution shall mean any work of authorship, including the original version of the Work and any modifications or additions to that Work or Derivative Works thereof, that is intentionally submitted to Licensor for inclusion in the Work by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner. For the purposes of this definition, submitted means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Work, but excluding communication that is conspicuously marked or otherwise designated in writing by the copyright owner as Not a Contribution.
+ Contributor shall mean Licensor and any individual or Legal Entity on behalf of whom a Contribution has been received by Licensor and subsequently incorporated within the Work.
+
+ 2. Grant of Copyright License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form.
+
+ 3. Grant of Patent License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Work, where such license applies only to those patent claims licensable by such Contributor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Work to which such Contribution(s) was submitted. If You institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Work or a Contribution incorporated within the Work constitutes direct or contributory patent infringement, then any patent licenses granted to You under this License for that Work shall terminate as of the date such litigation is filed.
+
+ 4. Redistribution. You may reproduce and distribute copies of the Work or Derivative Works thereof in any medium, with or without modifications, and in Source or Object form, provided that You meet the following conditions:
+ • You must give any other recipients of the Work or Derivative Works a copy of this License; and
+ • You must cause any modified files to carry prominent notices stating that You changed the files; and
+ • You must retain, in the Source form of any Derivative Works that You distribute, all copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+ • If the Work includes a NOTICE text file as part of its distribution, then any Derivative Works that You distribute must include a readable copy of the attribution notices contained within such NOTICE file, excluding those notices that do not pertain to any part of the Derivative Works, in at least one of the following places: within a NOTICE text file distributed as part of the Derivative Works; within the Source form or documentation, if provided along with the Derivative Works; or, within a display generated by the Derivative Works, if and wherever such third- party notices normally appear. The contents of the NOTICE file are for informational purposes only and do not modify the License. You may add Your own attribution notices within Derivative Works that You distribute, alongside or as an addendum to the NOTICE text from the Work, provided that such additional attribution notices cannot be construed as modifying the License.
+ You may add Your own copyright statement to Your modifications and may provide additional or different license terms and conditions for use, reproduction, or distribution of Your modifications, or for any such Derivative Works as a whole, provided Your use, reproduction, and distribution of the Work otherwise complies with the conditions stated in this License.
+
+ 5. Submission of Contributions. Unless You explicitly state otherwise, any Contribution intentionally submitted for inclusion in the Work by You to the Licensor shall be under the terms and conditions of this License, without any additional terms or conditions. Notwithstanding the above, nothing herein shall supersede or modify the terms of any separate license agreement you may have executed with Licensor regarding such Contributions.
+
+ 6. Trademarks. This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use in describing the origin of the Work and reproducing the content of the NOTICE file.
+
+ 7. Disclaimer of Warranty. Unless required by applicable law or agreed to in writing, Licensor provides the Work (and each Contributor provides its Contributions) on an AS IS BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using or redistributing the Work and assume any risks associated with Your exercise of permissions under this License.
+
+ 8. Limitation of Liability. In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Work (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if such Contributor has been advised of the possibility of such damages.
+
+ 9. Accepting Warranty or Additional Liability. While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability.
+
+ END OF TERMS AND CONDITIONS"</string>
+    <string name="credits_page_texts_5">"https://github.com/zxing/zxing, Apache License v2.0
+
+
+
+ Version 2.0, January 2004
+
+ http://www.apache.org/licenses/
+
+ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+ 1. Definitions.
+
+ License shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through 9 of this document.
+ Licensor shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.
+ Legal Entity shall mean the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity. For the purposes of this definition, control means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.
+ You (or Your) shall mean an individual or Legal Entity exercising permissions granted by this License.
+ Source form shall mean the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files.
+ Object form shall mean any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types.
+ Work shall mean the work of authorship, whether in Source or Object form, made available under the License, as indicated by a copyright notice that is included in or attached to the work (an example is provided in the Appendix below).
+ Derivative Works shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. For the purposes of this License, Derivative Works shall not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the Work and Derivative Works thereof.
+ Contribution shall mean any work of authorship, including the original version of the Work and any modifications or additions to that Work or Derivative Works thereof, that is intentionally submitted to Licensor for inclusion in the Work by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner. For the purposes of this definition, submitted means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Work, but excluding communication that is conspicuously marked or otherwise designated in writing by the copyright owner as Not a Contribution.
+ Contributor shall mean Licensor and any individual or Legal Entity on behalf of whom a Contribution has been received by Licensor and subsequently incorporated within the Work.
+
+ 2. Grant of Copyright License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form.
+
+ 3. Grant of Patent License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Work, where such license applies only to those patent claims licensable by such Contributor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Work to which such Contribution(s) was submitted. If You institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Work or a Contribution incorporated within the Work constitutes direct or contributory patent infringement, then any patent licenses granted to You under this License for that Work shall terminate as of the date such litigation is filed.
+
+ 4. Redistribution. You may reproduce and distribute copies of the Work or Derivative Works thereof in any medium, with or without modifications, and in Source or Object form, provided that You meet the following conditions:
+ • You must give any other recipients of the Work or Derivative Works a copy of this License; and
+ • You must cause any modified files to carry prominent notices stating that You changed the files; and
+ • You must retain, in the Source form of any Derivative Works that You distribute, all copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+ • If the Work includes a NOTICE text file as part of its distribution, then any Derivative Works that You distribute must include a readable copy of the attribution notices contained within such NOTICE file, excluding those notices that do not pertain to any part of the Derivative Works, in at least one of the following places: within a NOTICE text file distributed as part of the Derivative Works; within the Source form or documentation, if provided along with the Derivative Works; or, within a display generated by the Derivative Works, if and wherever such third- party notices normally appear. The contents of the NOTICE file are for informational purposes only and do not modify the License. You may add Your own attribution notices within Derivative Works that You distribute, alongside or as an addendum to the NOTICE text from the Work, provided that such additional attribution notices cannot be construed as modifying the License.
+ You may add Your own copyright statement to Your modifications and may provide additional or different license terms and conditions for use, reproduction, or distribution of Your modifications, or for any such Derivative Works as a whole, provided Your use, reproduction, and distribution of the Work otherwise complies with the conditions stated in this License.
+
+ 5. Submission of Contributions. Unless You explicitly state otherwise, any Contribution intentionally submitted for inclusion in the Work by You to the Licensor shall be under the terms and conditions of this License, without any additional terms or conditions. Notwithstanding the above, nothing herein shall supersede or modify the terms of any separate license agreement you may have executed with Licensor regarding such Contributions.
+
+ 6. Trademarks. This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use in describing the origin of the Work and reproducing the content of the NOTICE file.
+
+ 7. Disclaimer of Warranty. Unless required by applicable law or agreed to in writing, Licensor provides the Work (and each Contributor provides its Contributions) on an AS IS BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using or redistributing the Work and assume any risks associated with Your exercise of permissions under this License.
+
+ 8. Limitation of Liability. In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Work (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if such Contributor has been advised of the possibility of such damages.
+
+ 9. Accepting Warranty or Additional Liability. While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability.
+
+ END OF TERMS AND CONDITIONS"</string>
+    <string name="credits_page_titles_1">SQLCipher</string>
+    <string name="credits_page_titles_2">Adjust</string>
+    <string name="credits_page_titles_3">ViewPagerIndicator</string>
+    <string name="credits_page_titles_4">Grant</string>
+    <string name="credits_page_titles_5">ZXing</string>
+    <string name="debug_log_filename">kinder_log.html</string>
+    <string name="decline_button">Decline</string>
+    <string name="dialog_disclaimer">Disclaimer</string>
+    <string name="disclaimer">"Terms of Use for the Schutzranzen Apps of Coodriver GmbH
+
+ Date: 29 November 2016
+
+ Content
+
+ 1 Scope of Application
+ 2 Subject Matter of the Contract
+ 3 Conclusion of the Contract, Acquisition of Virtual Goods
+ 4 Obligations and Responsibilities of the User; Exemption
+ 5 Rights and Obligations of Coodriver
+ 6 Granting of Rights
+ 7 Legally Required Information
+ 8 Warranty
+ 9 Liability
+ 10 Right of Withdrawal
+ 11 Final Provisions
+
+ These terms of use are a binding contract between Coodriver GmbH, Dr. Maxstraße 14, 82031 Grünwald, Germany (hereinafter referred to as “Coodriver”) and you (hereinafter referred to as “You” or “User”).
+
+ 1 Scope of Application
+
+ 1.1 For the use of the Coodriver Apps “Schutzranzen – die Autofahrer-App” and the “Schutzranzen – die Kinder App” (both together hereinafter referred to as “App” or “Application”), the terms of use apply exclusively. In addition to these terms of use, the general terms and conditions of the distribution platform used for the distribution of the App (“Apple App Store”, “Google Play”, together “App Store”) apply, insofar as these relate to the processing of purchasing and the download of content. In case of inconsistencies, these terms of use have priority.
+
+ 2 Subject Matter of the Contract
+
+ 2.1 The subject matter of this contract is the provision of the Application. The app is pro-vided free of charge. Within the App you have the possibility to subscribe to additional services which are subject to a fee (e.g. additional functions, etc.).
+
+ 2.2 Coodriver makes the Application available via the Apple App Store and Google Play Store. Coodriver provides no support or technical assistance for this Application. The use of the App requires a compatible device. The respective system requirements are given in the respective product page within the distribution platform. Use of the App may also be possible by devices other than those expressly listed. However the range of functions or the display may be limited, depending on the individual characteristics of the device. The use of the App is for entertainment purposes only; use for commer-cial purposes is not permitted. The Applications do not guarantee absolute safety in traffic. The User must therefore not rely upon the warning functions or missing warn-ings of the Applications. The User is responsible for complying with the duty of care re-quired by road transport at all times. The User uses the Applications at their own risk. Use of the Applications while conducting a vehicle may be prohibited according to local laws.
+
+ 3 Conclusion of the Contract, Acquisition of Virtual Goods
+
+ 3.1 The contract relating to the use of the App including the granting rights of use enters into force when the User installs the App.
+
+ 3.2 Coodriver can offer extensions within the App which are subject to a fee, such as addi-tional functions (hereinafter referred to as “In-App Purchases”).
+
+ 3.3 An agreement on an In-App Purchase expires automatically at the end of the agreed term. Both parties’ right of extraordinary termination for cause remains unaffected.
+
+ 3.4 The prices for the In-App Purchases can be found by the User in the “purchases” sec-tion of the App. All prices are gross prices and include the statutory sales tax.
+
+ 4 Obligations and Responsibilities of the User; Exemption
+
+ 4.1 The User is responsible for the regular backing up of his data.
+
+ 4.2 The App may not be put to improper use, in particular
+
+ – the use of software for the systematic or automatic control of the Application or other functions (e.g. bots, macros, etc.), for the purposes of reproducing the software, or for the analysis of the Applications or elements of the Applications is prohibited;
+
+ – the User is prohibited from reverse engineering the App or otherwise attempting to discover the source code of the App;
+
+ – the User is prohibited to make use of bugs or mistakes in the programming for his own uses.
+
+ 4.3 Detected bugs should be reported as soon as possible via email to info@coodriver.com.
+
+ 4.4 The User will inform Coodriver if he knows of or discovers any improper use of the Applications by third parties or other Users. To guarantee an effective intervention, the User is requested to do this in writing (e.g. by email).
+
+ 4.5 The User agrees to indemnify and compensate Coodriver for all damages which arise from his not complying with the obligations arising under these terms of use. The User hereby takes on responsibility for the costs of the necessary legal defence of Coodriv-er, including all court and legal costs. This does not apply, insofar as the User is not responsible for the breach.
+
+ 4.6 Coodriver retains the right to lock the User’s account in the App for a breach of Clause 4.2.
+
+ 5 Rights and Obligations of Coodriver
+
+ 5.1 Coodriver retains all right, title and interest in and to the Applications. Coodriver can modify the Applications. Accordingly, the User receives only a right of use of the re-spective Application and the services in the respective current version.
+
+ 5.2 There is no claim afforded to the User for permanent use of the Application in the ver-sion which existed at the time of download. Coodriver reserves the right to suspend the operation of an Application at any time without justification. Coodriver will immediately inform the User of the suspension.
+
+ 6 Granting of Rights
+
+ 6.1 Coodriver grants You a worldwide, temporally unlimited, non-exclusive (bare), non-transferrable, non-sublicensable right to use the App for personal purposes, including documentation and usage instructions contained within the App. The User can down-load and use the App exclusively on such devices which are connected to the user ac-count used for the purchase on the respective distribution platform (e.g. Apple-ID).
+
+ 6.2 Subject matter of the license is the respective current version of the Application.
+
+ 6.3 Producing copies of the App is only allowed insofar as this is necessary for the use of the App in accordance with the contract. The User is not permitted to make the App accessible to third parties, to rent or lend to another for a limited period of time. Any rights which have not been expressly granted remain reserved.
+
+ 7 Legally Required Information
+
+ 7.1 The offers of Coodriver are not binding.
+
+ 7.2 The language for the closing of the contract is exclusively English.
+
+ 8 Warranty
+
+ 8.1 THE APP IS PROVIDED “AS-IS” AND WITH ALL FAULTS. COODRIVER DISCLAIMS ALL EXPRESS, IMPLIED AND STATUTORY WARRANTIES, INCLUDING BUT NOT LIMITED TO ANY IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY, NON-INFRINGEMENT OF THIRD PARTY RIGHTS AND FITNESS FOR A PARTICULAR PURPOSE. COODRIVER DOES NOT WARRANT THAT THE APP WILL MEET THE USER’S REQUIREMENTS, THE USE OF THE APP WILL BE UNINTERRUPTED, TIMELY, ERROR-FREE, SECURE OR FREE OF VIRUSES, WORMS, DISABLING CODE OR CONDITIONS OR THE LIKE, OR THAT THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE APP WILL BE ACCURATE OR RELIABLE. THE USER AGREES TO ASSUME ALL RISK OF ANY AND ALL DAMAGES AND LOSS FROM USE OF, OR INABILITY TO USE, THE APP.
+
+ 9 Liability
+
+ 9.1 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE TOTAL LIABILITY OF COODRIVER FOR ALL DIRECT DAMAGES RELATING TO OR ARISING FROM THIS CONTRACT OR THE APP, IN THE AGGREGATE, WHETHER ARISING FROM HID’S BREACH OF THIS CONTRACT, NEGLIGENCE (WHETHER ACTIVE, AFFIRMATIVE OR GROSS), STRICT LIABILITY, OR OTHER TORT, OR ANY SERVICE PROVIDED IN CONNECTION WITH THE APPS OR OTHERWISE, SHALL IN NO EVENT EXCEED THE AMOUNT COODRIVER RECEIVED FROM THE USER FOR THE PARTICULAR PUCHASE GIVING RISE TO THE LIABILITY.
+
+ 9.2 TO THE EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL COODRIVER BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR RELATING TO THIS CONTRACT OR THE APP, INCLUDING BUT NOT LIMITED TO LOSS OF BUSINESS, REVENUE, PROFITS, GOODWILL, USE, DATA OR OTHER ECONOMIC ADVANTAGE AND ANY NON-ECONOMIC LOSSES, REGARDLESS OF THE LEGAL THEORY ON WHICH ANY SUCH DAMAGES MAY BE BASED AND EVEN IF COODRIVER HAS BEEN ADVISED IN ADVANCE OF THE POSSIBILITY OF SUCH DAMAGES. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING THE FAILURE OF THE ESSENTIAL PURPOSE OF ANY LIMITED REMEDY SPECIFIED HEREIN.
+
+ 9.3 Without limiting the foregoing, Coodriver is not liable for damages resulting from altera-tions to the App by the User or a software or hardware environment which differs from the system requirements.
+
+ 9.4 Coodriver is furthermore not liable for damages or losses of data which may arise through the installation of software which is not provided by Coodriver on the Smartphone or other device.
+
+ 10 Right of Withdrawal
+
+ 10.1 The contract on the provision of the App is concluded gratuitously; therefore in this respect there is no right of withdrawal.
+
+ 10.2 The User has the right to withdrawal every In-App Purchase in accordance with the following cancellation policy.
+
+ 10.2.1 Cancellation Policy
+
+ Instructions on withdrawal
+
+ Right of withdrawal
+
+ You have the right to withdrawal this contract within 14 days without giving any reason.
+
+ The withdrawal period is 14 days from the day of the conclusion of the contract.
+
+ To exercise the right of withdrawal, you must inform us (Coodriver GmbH, Dr. Maxstraße 14, 82031 Grünwald, Tel.: +49-89-66066-957, Fax: +49-89-66066-958 E-Mail: info@coodriver.com) of your decision to withdrawal this contract by an unequivocal statement (e.g. a letter sent by post, fax or e-mail). You may use the attached model withdrawal form, but it is not ob-ligatory.
+
+ To meet the withdrawal deadline, it is sufficient for you to send your notification concerning your exercise of the right of withdrawal before the withdrawal period has expired.
+
+ Effects of withdrawal
+
+ If you withdrawal this contract, we shall reimburse to you all payments received from you, in-cluding the costs of delivery (with the exception of the supplementary costs resulting from your choice of a type of delivery other than the least expensive type of standard delivery offered by us), without undue delay and in any event not later than 14 days from the day on which we are informed about your decision to withdrawal this contract. We will carry out such reimbursement using the same means of payment as you used for the initial transaction, unless you have ex-pressly agreed otherwise; in any event, you will not incur any fees as a result of such reim-bursement.
+
+ If you agreed that the service shall be performed within the withdrawal period, you have to pay an appropriate amount which is in proportion to the extent of the service already provided in comparison with the full coverage of the contract.
+
+ 10.2.2 Special Notice
+
+ Your right of withdrawal in relation to the digital content which forms parts of this contract shall expire early in accordance with § 356 (5) of the German Civil Code (BGB) if Coodriver has be-gun with the performance of the contract, after You expressly agreed that Coodriver could begin with the performance of the contract prior to the end of the period for withdrawal and You have confirmed that You know that with the commencement of the performance of the contract You will lose your right of withdrawal. The performance of the contract begins with the first transfer of data or, as the case may be, unlocking of the functions of an In-App Purchase by Coodriver.
+
+ 10.2.3 Model Withdrawal Form
+
+ (complete and return this form only if you wish to withdrawal the contract)
+
+ – To:
+
+ Coodriver GmbH, Dr. Maxstraße 14, 82031 Grünwald
+
+ Fax: +49-89-66066-958
+
+ E-Mail: info@coodriver.com
+
+ I/We (*) hereby give notice that I/we (*) withdrawal my/our (*) contract of sale of the following goods (*)/for the provision of the following service (*),
+
+ Ordered on (*)/received on (*),
+
+ Name of consumer(s),
+
+ Address of consumer(s),
+
+ Signature of consumer(s) (only if this form is on paper),
+
+ Date
+
+ __________
+
+ (*) Delete as appropriate
+
+ 11 Final Provisions
+
+ 11.1 The place for fulfilment of the contract is Munich, Germany.
+
+ 11.2 The wording of the contract will not be saved by Coodriver and cannot, therefore, be made available to You again.
+
+ 11.3 The law of the Federal Republic of Germany applies, with the exception of its conflict of laws rules.
+
+ 11.4 If the User has no legal domicile in Germany or gives this up after the conclusion of the contract, if the place of habitual residence of the User at the time of the institution of the proceedings is unknown, or if the User is a businessperson, a legal entity of public law, or a special fund under public law, the exclusive place of jurisdiction for all dis-putes arising out of this contract is Munich, Germany. In all other cases, the legal provisions relating to the establishment of the place of jurisdiction apply.
+
+ 11.5 If a provision of the contract or these terms of use is held to be invalid, the overall va-lidity of the contract shall not be affected thereby. The parties to the contract will coop-erate to replace invalid provisions with provisions which correspond as closely as pos-sible to the invalid provisions. The aforementioned provision also applies accordingly for omissions.
+
+ 11.6 As to the iOS version, the User acknowledge and agree that Apple, and Apple's sub-sidiaries, are third party beneficiaries of the contract, and that Apple will have the right (and will be deemed to have accepted the right) to enforce the contract against the Us-er as a third party beneficiary thereof.
+
+"</string>
+    <string name="disclaimer_declined">You must accept the disclaimer to use the app.</string>
+    <string name="hello">Hello World!</string>
+    <string name="hidden_settings_title">Choose Endpoint</string>
+    <string name="language_english">English</string>
+    <string name="language_german">Deutsch</string>
+    <string name="message_geofence_added">%s added a Geofence.</string>
+    <string name="message_geofence_removed">%s removed a Geofence.</string>
+    <string name="ok">OK</string>
+    <string name="password">Enter password</string>
+    <string name="password_error">Wrong password</string>
+    <string name="settings_debug">Debug</string>
+    <string name="settings_feedback_recipient">support@coodriver.com</string>
+    <string name="settings_title_licenses">Licenses</string>
+    <string name="settings_url_faq">https://schutzranzen.com/faq/</string>
+    <string name="settings_url_impress">https://schutzranzen.com/impressum/</string>
+    <string name="walkthrough_app_start_0_texts">"More security for children in traffic
+
+Cool and always on"</string>
+    <string name="walkthrough_app_start_0_titles">Digital warning shield</string>
+    <string name="walkthrough_app_start_1_texts">"Warn drivers around elementary schools and protect children
+
+Basic protection for schools"</string>
+    <string name="walkthrough_app_start_1_titles">Digital guardian angel</string>
+    <string name="walkthrough_app_start_2_texts">"Locate your child and receive emergency calls without ads
+
+Peace of mind for parents"</string>
+    <string name="walkthrough_app_start_2_titles">Family function</string>
+    <string name="walkthrough_app_start_4_texts">"More security for children in traffic
+
+Cool and always on"</string>
+    <string name="walkthrough_app_start_4_titles">Digital security</string>
+    <string name="walkthrough_connect_3">You can pair your device with others by scanning a QR-code.</string>
+    <string name="walkthrough_connect_3_title">Build trust</string>
+    <string name="walkthrough_connect_4">You can pair your device with others by scanning a QR-code.</string>
+    <string name="walkthrough_connect_4_title">Carry out device pairing</string>
+    <string name="walkthrough_connect_5">Devices are now successfully paired.</string>
+    <string name="walkthrough_connect_5_title">Device successfully paired</string>
+</resources>

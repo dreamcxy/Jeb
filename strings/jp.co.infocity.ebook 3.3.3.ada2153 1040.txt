@@ -1,0 +1,1508 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Get Google Play services</string>
+    <string name="common_google_play_services_install_text_phone">"%1$s won't run without Google Play services, which are missing from your phone."</string>
+    <string name="common_google_play_services_install_text_tablet">"%1$s won't run without Google Play services, which are missing from your tablet."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. If the problem persists, please contact the developer for assistance.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s relies on Google Play services, which is not supported by your device. Contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_updating_title">Google Play services are updating</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="HoloEverywhere_license">"HoloEverywhere
+Copyright © 2013 Sergey Shatunov
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."</string>
+    <string name="account">Account</string>
+    <string name="addcontents_error_alreadyadded">This file has already been added.</string>
+    <string name="addcontents_error_notsupported">This file type is not supported.</string>
+    <string name="addcontents_error_unknown">An unknown error has occurred.</string>
+    <string name="agree">Agree</string>
+    <string name="apache_license">"This product includes software developed by The Apache Software Foundation.(
+&lt;a href=http://www.apache.org/licenses/LICENSE–2.0.html>http://www.apache.org/licenses/LICENSE–2.0&lt;/a>)"</string>
+    <string name="apacheant_license">"Apache Ant
+Copyright 1999–2015 The Apache Software Foundation"</string>
+    <string name="app_evaluation_button_cancel">No thank you</string>
+    <string name="app_evaluation_button_goole_play">Yes,Rate Kinoppy</string>
+    <string name="app_evaluation_button_no_thanks">Not now</string>
+    <string name="app_evaluation_dialog_massage">"Thank you for using Kinoppy.
+Would you mind taking a moment to rate it?"</string>
+    <string name="app_evaluation_dialog_title">Request Kinoppy evaluation</string>
+    <string name="app_fullname">紀伊國屋書店Kinoppy</string>
+    <string name="app_name">Kinoppy</string>
+    <string name="app_name_extra">HyBook</string>
+    <string name="app_preference_name">紀伊國屋書店Kinoppy for Android</string>
+    <string name="author">Author</string>
+    <string name="author_kana">Author (Kana)</string>
+    <string name="auto">Automatic</string>
+    <string name="back">Back</string>
+    <string name="barcode_camera_error">A problem has occurred with the Android camera. Please restart the device.</string>
+    <string name="barcode_capture_caution">"The barcode will be automatically scanned.
+Please do not place in shadow or glaring light."</string>
+    <string name="barcode_capture_guide">"Search books by ISBN code.
+Please match the barcode to the screen."</string>
+    <string name="barcode_capture_search">Searching ISBN: %s</string>
+    <string name="barcode_check_ebook">e-book only</string>
+    <string name="barcode_help">Help</string>
+    <string name="barcode_help_attention">Warning</string>
+    <string name="barcode_help_attention_text">"Some android devices have difficulty reading the barcode. If the search doesn't begin, please adjust the camera and position for shadow or glare."</string>
+    <string name="barcode_help_format">Supported formats</string>
+    <string name="barcode_help_format_text">Compatible with an ISBN code formatted as a 13-digit EAN barcode.</string>
+    <string name="barcode_help_isbn">Place the ISBN barcode you would like to search within the black borders to begin. In the case where there are 2 barcodes, please use the upper barcode.</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="bookmark_add">New bookmark</string>
+    <string name="bookmark_count_over_info">"You can create up to %d bookmarks.
+Would you like to delete set bookmarks?"</string>
+    <string name="bookmark_delete">Delete</string>
+    <string name="bookmark_delete_complete">Deleted.</string>
+    <string name="bookmark_delete_info">Please select the bookmark you would like to delete.</string>
+    <string name="bookmark_delete_nocheck">Please select the bookmark to be deleted.</string>
+    <string name="bookmark_remove">Delete bookmark</string>
+    <string name="bookmark_replace_complete">Delete current and create new bookmark.</string>
+    <string name="brackets_string_1">%s</string>
+    <string name="brackets_string_2">[%s]</string>
+    <string name="calenderpicker_license">"CalendarView
+Copyright © 2010 The Android Open Source Project"</string>
+    <string name="cancel">Cancel</string>
+    <string name="canceled">Cancelled.</string>
+    <string name="colorfilter">Filter</string>
+    <string name="common_error_enter_text">Enter text here</string>
+    <string name="common_error_invalid_name">Invalid name</string>
+    <string name="continuations">Continuations Book</string>
+    <string name="continue_processing">Continue</string>
+    <string name="datepicker_license">"DatePicker
+Copyright © 2007 The Android Open Source Project"</string>
+    <string name="defaultBookShelfName">Main Bookshelf</string>
+    <string name="dialog_annotation_color">Mark color</string>
+    <string name="dialog_annotation_comment">Comment</string>
+    <string name="dialog_annotation_marker">Marker</string>
+    <string name="dialog_annotation_type">Type</string>
+    <string name="dialog_annotation_underline">Line</string>
+    <string name="doroidsansfallback_licence">"DroidSansFallback.ttf
+Copyright © 2008 The Android Open Source Project"</string>
+    <string name="dotbook_license">This product uses the \".book\" format developed by Voyager Japan, Inc.</string>
+    <string name="doulos_licence">"\"Doulos\" and \"SIL\"
+This Font Software is Copyright © 1994–2014, SIL International (http://scripts.sil.org/) with Reserved Font Names \"Doulos\" and \"SIL\".
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+SIL OPEN FONT LICENSE Version 1.1 – 26 February 2007
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.
+The OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works. The fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.
+DEFINITIONS
+\"Font Software\" refers to the set of files released by the Copyright Holder(s) under this license and clearly marked as such. This may include source files, build scripts and documentation.
+\"Reserved Font Name\" refers to any names specified as such after the copyright statement(s).
+\"Original Version\" refers to the collection of Font Software components as distributed by the Copyright Holder(s).
+\"Modified Version\" refers to any derivative made by adding to, deleting, or substituting –– in part or in whole –– any of the components of the Original Version, by changing formats or by porting the Font Software to a new environment.
+\"Author\" refers to any designer, engineer, programmer, technical writer or other person who contributed to the Font Software.
+PERMISSION &amp; CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:
+1) Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself.
+2) Original or Modified Versions of the Font Software may be bundled,redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand–alone text files, human–readable headers or in the appropriate machine–readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.
+3) No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.
+5) The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, ansd must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.
+TERMINATION
+This license becomes null and void if any of the above conditions are not met.
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE."</string>
+    <string name="download_complete">Download complete.</string>
+    <string name="download_error">Download failed. Please re-download form the store.</string>
+    <string name="download_error_dropbox">Download failed.</string>
+    <string name="download_error_filenotfound">File could not be found.</string>
+    <string name="download_error_gotHTML">Download failed. Using a FreeWifiSpot that require WebBrowserAuthentication?</string>
+    <string name="download_error_ssl">Failed to communicate with the server.</string>
+    <string name="download_error_strage">There is not enough open storage. Please delete unneeded files and re-start the download.</string>
+    <string name="email_address">e-mail address</string>
+    <string name="email_address_call_center">ebook@kinokuniya.co.jp</string>
+    <string name="email_address_call_center_ecommerce">e–commerce@kinokuniya.co.jp</string>
+    <string name="email_subject_login">For inquiries before use</string>
+    <string name="error">Error</string>
+    <string name="error_network">Cannot connect to the internet</string>
+    <string name="error_network_connection">Failed to connect</string>
+    <string name="error_network_need_connection">You need to connect to the Internet.</string>
+    <string name="error_network_title">Network error</string>
+    <string name="errorcode_11001">Failed to obtain data</string>
+    <string name="errorcode_11002">Failed to obtain data</string>
+    <string name="errorcode_11003" />
+    <string name="errorcode_11004" />
+    <string name="errorcode_11005" />
+    <string name="errorcode_11006" />
+    <string name="errorcode_11007" />
+    <string name="errorcode_11008">Cannot have less than five shelves</string>
+    <string name="errorcode_11009" />
+    <string name="errorcode_11010" />
+    <string name="errorcode_11011" />
+    <string name="errorcode_11012" />
+    <string name="errorcode_11013" />
+    <string name="errorcode_11014">Processing was aborted due to existence of a book shelf with less than 5 shelves</string>
+    <string name="errorcode_11015">The name of the main bookshelf cannot be changed.</string>
+    <string name="errorcode_11016">A name is required for all bookshelves, smart bookshelves.</string>
+    <string name="errorcode_11017">The main bookshelf cannot be erased.</string>
+    <string name="errorcode_12001" />
+    <string name="errorcode_12002" />
+    <string name="errorcode_12003" />
+    <string name="errorcode_12004" />
+    <string name="errorcode_12005" />
+    <string name="errorcode_12006" />
+    <string name="errorcode_12007" />
+    <string name="errorcode_12008" />
+    <string name="errorcode_13001" />
+    <string name="errorcode_13002" />
+    <string name="errorcode_13003" />
+    <string name="errorcode_13004" />
+    <string name="errorcode_13005" />
+    <string name="errorcode_13006" />
+    <string name="errorcode_13007" />
+    <string name="errorcode_13008" />
+    <string name="errorcode_13009" />
+    <string name="errorcode_13010" />
+    <string name="errorcode_13011" />
+    <string name="errorcode_14001" />
+    <string name="errorcode_14002" />
+    <string name="errorcode_14003" />
+    <string name="errorcode_14004" />
+    <string name="errorcode_14005" />
+    <string name="errorcode_14006" />
+    <string name="errorcode_14007" />
+    <string name="errorcode_15001" />
+    <string name="errorcode_15002" />
+    <string name="errorcode_15003" />
+    <string name="errorcode_15004" />
+    <string name="errorcode_15005" />
+    <string name="errorcode_15006" />
+    <string name="errorcode_15007" />
+    <string name="errorcode_15008" />
+    <string name="errorcode_15009" />
+    <string name="errorcode_15010" />
+    <string name="errorcode_15011" />
+    <string name="errorcode_15012" />
+    <string name="errorcode_15013" />
+    <string name="errorcode_15014" />
+    <string name="errorcode_15015" />
+    <string name="errorcode_15016" />
+    <string name="errorcode_15017" />
+    <string name="errorcode_15018" />
+    <string name="errorcode_15019" />
+    <string name="errorcode_15020" />
+    <string name="errorcode_15021" />
+    <string name="errorcode_15022" />
+    <string name="errorcode_15023" />
+    <string name="errorcode_15024" />
+    <string name="expat_license">"Expat
+Copyright © 1998, 1999, 2000 Thai Open Source Software Center Ltd and Clark Cooper
+Copyright © 2001, 2002, 2003, 2004, 2005, 2006 Expat maintainers.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."</string>
+    <string name="fix">Enter</string>
+    <string name="flets_cancel_process_text">"FLET'S collective payment aborted."</string>
+    <string name="flets_check_process_text">Confirming network status.</string>
+    <string name="flets_error_2002">"There is an error in the FLET'S passport ID.
+(Error code:%d)"</string>
+    <string name="flets_error_2003">"There is an error in the FLET'S Passport password.
+(Error code: %d)"</string>
+    <string name="flets_error_2004">"The FLET'S collective payment has been interrupted.
+(Error code: %d)"</string>
+    <string name="flets_error_2005">"Failed to authenticate the FLET'S passport ID.
+(Error code: %d)"</string>
+    <string name="flets_error_2006">"Your FLET'S passport ID can not currently be used.
+(Error code: %d)"</string>
+    <string name="flets_error_2007">"Your FLET'S passport ID is not currently active.
+(Error code: %d)"</string>
+    <string name="flets_error_2008">"Failed to authenticate FLET'S passport ID line. Please refer to your contract to confirm if you are utilizing a FLET'S line.
+(Error code: %d)"</string>
+    <string name="flets_error_2013">"Purchase process was interrupted.
+(Error code: %d)"</string>
+    <string name="flets_error_2020">"Purchase process was interrupted due to a system error.
+(Error code: %d)"</string>
+    <string name="flets_error_2023">"Can only be used from the FLET'S line you are contracted with.
+(Error code: %d)"</string>
+    <string name="flets_error_2024">"Purchase process was interrupted due to a system error.
+(Error code: %d)"</string>
+    <string name="flets_error_2025">"Failed to authenticate the FLET'S passport ID.
+(Error code: %d)"</string>
+    <string name="flets_error_2026">This item exceeds 80% of your set spending limit. Do you wish to proceed with the purchase?</string>
+    <string name="flets_error_2027">"Unable to confirm customer purchase consent.
+(Error code: %d)"</string>
+    <string name="flets_error_2996">"Purchase process was interrupted due to a system error.
+(Error code: %d)"</string>
+    <string name="flets_error_2997">"Purchase process was interrupted.
+(Error code: %d)"</string>
+    <string name="flets_error_2998">"Purchase process was interrupted due to a connection time out.
+(Error code: %d)"</string>
+    <string name="flets_error_2999">"Purchase process was interrupted due to a system error.
+(Error code: %d)"</string>
+    <string name="flets_error_9001">"FLET's collective payment is under system maintenance and cannot be used.
+(Error code: %d)"</string>
+    <string name="flets_error_9002">"A system error has occurred.
+(Error code: %d)"</string>
+    <string name="flets_error_9901">"A login status error has occurred.
+(Error code: %d)"</string>
+    <string name="flets_error_9999">"A system error has occurred.
+(Error code: %d)"</string>
+    <string name="flets_execute_process_text">"Processing FLET'S collective payment."</string>
+    <string name="flets_input_id_text">"Please input your FLET'S Passport ID and password."</string>
+    <string name="flets_login_account">"FLET'S Passport ID"</string>
+    <string name="flets_login_password">Password</string>
+    <string name="flets_ntt_east">NTT EAST</string>
+    <string name="flets_ntt_west">NTT WEST</string>
+    <string name="flets_payment_url">http://ebooks.kinokuniya.co.jp/store/member/payment.php</string>
+    <string name="flets_preprocess_text">"Preparing FLET'S collective payment."</string>
+    <string name="flets_purchase_title">"FLET'S collective payment"</string>
+    <string name="flets_select_area_text">"Please select the FLET'S Hikari area you reside in."</string>
+    <string name="flets_select_payment_credit">Credit card</string>
+    <string name="flets_select_payment_flets">"FLET'S collective payment"</string>
+    <string name="flets_select_payment_text">Please select your payment method.</string>
+    <string name="flets_warning_continue">Continue</string>
+    <string name="font">Font</string>
+    <string name="forgotten_password">Forgot your password?</string>
+    <string name="freetype_license">"FreeType
+Portions of this software are copyright © 2014 The FreeType Project (www.freetype.org). All rights reserved."</string>
+    <string name="giflib_license">"GIFLIB
+The GIFLIB distribution is Copyright © 1997 Eric S. Raymond
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."</string>
+    <string name="glide_license">"glide
+License for everything not in third_party and not otherwise marked:
+
+Copyright 2014 Google, Inc. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY GOOGLE, INC. 'AS IS' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL GOOGLE, INC. OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+The views and conclusions contained in the software and documentation are those of the authors and should not be interpreted as representing official policies, either expressed or implied, of Google, Inc.
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+License for third_party/disklrucache:
+
+Copyright 2012 Jake Wharton
+Copyright 2011 The Android Open Source Project
+
+Licensed under the Apache License, Version 2.0 (the \"License\");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+ http://www.apache.org/licenses/LICENSE–2.0
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+License for third_party/gif_decoder:
+
+Copyright © 2013 Xcellent Creations, Inc.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+License for third_party/gif_encoder/AnimatedGifEncoder.java and
+third_party/gif_encoder/LZWEncoder.java:
+
+No copyright asserted on the source code of this class. May be used for any purpose, however, refer to the Unisys LZW patent for restrictions on use of the associated LZWEncoder class. Please forward any corrections to
+kweiner@fmsware.com.
+
+–––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––––
+License for third_party/gif_encoder/NeuQuant.java
+
+Copyright © 1994 Anthony Dekker
+
+NEUQUANT Neural–Net quantization algorithm by Anthony Dekker, 1994. See \"Kohonen neural networks for optimal colour quantization\" in \"Network: Computation in Neural Systems\" Vol. 5 (1994) pp 351–367. for a discussion of the algorithm.
+
+Any party obtaining a copy of these files from the author, directly or indirectly, is granted, free of charge, a full and unrestricted irrevocable, world–wide, paid up, royalty–free, nonexclusive right and license to deal in this software and documentation files (the \"Software\"), including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons who receive copies from any such party to do so, with the only requirement being that this copyright notice remain intact."</string>
+    <string name="guest_login">Register Later</string>
+    <string name="hbcore_book_cover">Cover</string>
+    <string name="hbcore_book_toc">Table of Contents</string>
+    <string name="hbcore_progressive_message">Now Loading…</string>
+    <string name="help">Help</string>
+    <string name="hybook_license">"This product uses the INFOCITY Inc's \"HyBook Systems\"."</string>
+    <string name="icu4c_license">"ICU4C
+ Copyright © 1995–2014 International Business Machines Corporation and others
+All rights reserved.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, provided that the above copyright notice(s) and this permission notice appear in all copies of the Software and that both the above copyright notice(s) and this permission notice appear in supporting documentation.
+THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF THIRD PARTY RIGHTS. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR HOLDERS INCLUDED IN THIS NOTICE BE LIABLE FOR ANY CLAIM, OR ANY SPECIAL INDIRECT OR CONSEQUENTIAL DAMAGES, OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+Except as contained in this notice, the name of a copyright holder shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software without prior written authorization of the copyright holder."</string>
+    <string name="imageviewzoom_license">"ImageViewZoom
+This software is provided under the MIT license.
+Alessandro Crugnola – alessandro.crugnola@gmail.com
+The MIT License (MIT)
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."</string>
+    <string name="import_progress_message">Registering books…</string>
+    <string name="import_select_check_text">Do not show next time</string>
+    <string name="import_select_message">Please select the books you would like to register.</string>
+    <string name="inquiry">Contact</string>
+    <string name="invert">Invert</string>
+    <string name="ipa_license">"This product uses IPA Fonts developed by Information–technology Promotion Agency, Japan
+&lt;a href=http://ipafont.ipa.go.jp/ipa_font_license_v1.html>IPA Font License v.1.0&lt;/a>"</string>
+    <string name="left">Left</string>
+    <string name="libcurl_license">"libcurl
+Copyright © 1996 – 2014, Daniel Stenberg, &lt;daniel@haxx.se>.
+All rights reserved.
+Permission to use, copy, modify, and distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
+THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF THIRD PARTY RIGHTS. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Except as contained in this notice, the name of a copyright holder shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software without prior written authorization of the copyright holder."</string>
+    <string name="libguess_license">"libguess
+Copyright (c) 2000–2003 Shiro Kawai
+Copyright (c) 2005–2010 Yoshiki Yazawa
+Copyright (c) 2007–2010 William Pitcock
+All rights reserved.
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+3. Neither the name of the authors nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."</string>
+    <string name="libjpeg_turbo_license">"libjpeg–turbo
+this software is based in part on the work of the Independent JPEG Group
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+– Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+– Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+– Neither the name of the libjpeg–turbo Project nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\",AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDERS OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."</string>
+    <string name="libpng_license">"libpng
+libpng versions 1.2.6, August 15, 2004, through 1.6.10, March 6, 2014, are Copyright © 2004, 2006–2014 Glenn Randers–Pehrson, and are distributed according to the same disclaimer and license as libpng–1.2.5 with the following individual added to the list of Contributing Authors
+ Cosmin Truta
+libpng versions 1.0.7, July 1, 2000, through 1.2.5 – October 3, 2002, are Copyright © 2000–2002 Glenn Randers–Pehrson, and are distributed according to the same disclaimer and license as libpng–1.0.6 with the following individuals added to the list of Contributing Authors
+ Simon–Pierre Cadieux
+ Eric S. Raymond
+ Gilles Vollant
+and with the following additions to the disclaimer:
+There is no warranty against interference with your enjoyment of the library or against infringement. There is no warranty that our efforts or the library will fulfill any of your particular purposes or needs. This library is provided with all faults, and the entire risk of satisfactory quality, performance, accuracy, and effort is with the user.libpng versions 0.97, January 1998, through 1.0.6, March 20, 2000, are Copyright © 1998, 1999 Glenn Randers–Pehrson, and are distributed according to the same disclaimer and license as libpng–0.96, with the following individuals added to the list of Contributing Authors:
+ Tom Lane
+ Glenn Randers–Pehrson
+ Willem van Schaik
+libpng versions 0.89, June 1996, through 0.96, May 1997, are Copyright © 1996, 1997 Andreas Dilger Distributed according to the same disclaimer and license as libpng–0.88, with the following individuals added to the list of Contributing Authors:
+ John Bowler
+ Kevin Bracey
+ Sam Bushell 
+ Magnus Holmgren
+ Greg Roelofs
+ Tom Tanner
+libpng versions 0.5, May 1995, through 0.88, January 1996, are Copyright © 1995, 1996 Guy Eric Schalnat, Group 42, Inc.
+For the purposes of this copyright and license, \"Contributing Authors\" is defined as the following set of individuals:
+ Andreas Dilger
+ Dave Martindale
+ Guy Eric Schalnat
+ Paul Schmidt
+ Tim Wegner
+The PNG Reference Library is supplied \"AS IS\". The Contributing Authors and Group 42, Inc. disclaim all warranties, expressed or implied, including, without limitation, the warranties of merchantability and of fitness for any purpose. The Contributing Authors and Group 42, Inc. assume no liability for direct, indirect, incidental, special, exemplary, or consequential damages, which may result from the use of the PNG Reference Library, even if advised of the possibility of such damage.
+Permission is hereby granted to use, copy, modify, and distribute this source code, or portions hereof, for any purpose, without fee, subject to the following restrictions:
+1. The origin of this source code must not be misrepresented.
+2. Altered versions must be plainly marked as such and must not be misrepresented as being the original source.
+3. This Copyright notice may not be removed or altered from any source or altered source distribution.
+The Contributing Authors and Group 42, Inc. specifically permit, without fee, and encourage the use of this source code as a component to supporting the PNG file format in commercial products. If you use this source code in a product, acknowledgment is not required but would be appreciated."</string>
+    <string name="library">Bookshelf</string>
+    <string name="library_add_bookshelf">Add bookshelf</string>
+    <string name="library_add_bookshelf_message">Please enter the bookshelf name</string>
+    <string name="library_add_bookshelf_warnning_message">The new bookshelf will not be synchronized with app versions below 2.0.</string>
+    <string name="library_add_series_add_toast">It was summarized in an existing shelf</string>
+    <string name="library_add_series_go_store">Go store</string>
+    <string name="library_add_series_name_input">Please,input shelf name</string>
+    <string name="library_add_series_network_error">Because it is not connected to the network, to display only books in the bookshelf.</string>
+    <string name="library_add_series_new_toast">It has created a new shelf</string>
+    <string name="library_add_series_select_bookshelf">Select the bookshelf</string>
+    <string name="library_add_series_select_exist_bookshelf">Select the bookshelf</string>
+    <string name="library_add_series_select_exist_shelf">Select the shelf</string>
+    <string name="library_add_series_select_shelf">Select the shelf</string>
+    <string name="library_add_series_shelf">Add Series Bookshelf</string>
+    <string name="library_add_series_shelf_add">To move to an existing shelf</string>
+    <string name="library_add_series_trial_version">Trial version</string>
+    <string name="library_add_series_view_rating">View Rating</string>
+    <string name="library_add_series_view_store">View Store</string>
+    <string name="library_add_shelf">Add now shelf</string>
+    <string name="library_alert_overseaMembers">Those living overseas member does not offer any store.</string>
+    <string name="library_background_dark">Dark</string>
+    <string name="library_background_light">Light</string>
+    <string name="library_background_wallpaper">Select an image</string>
+    <string name="library_background_wood">Woodie</string>
+    <string name="library_book_size_byte">Byte</string>
+    <string name="library_book_size_gigabyte">GB</string>
+    <string name="library_book_size_kilobyte">KB</string>
+    <string name="library_book_size_megabyte">MB</string>
+    <string name="library_breadcrumbs_top">Top</string>
+    <string name="library_check_next">Series</string>
+    <string name="library_cloud_fail_to_regist">Failed to register bookshelf</string>
+    <string name="library_cloud_list_all">All</string>
+    <string name="library_cloud_list_invisible">Without Shelf</string>
+    <string name="library_cloud_loading_data">Acquiring cloud data. Please wait.</string>
+    <string name="library_cloud_notfound_message">There is no matching book.</string>
+    <string name="library_cloud_progress_regist">Bookshelf is registered.</string>
+    <string name="library_cloud_regist_confirm">Add %s to bookshelf</string>
+    <string name="library_cloud_regist_title">Add bookshelf</string>
+    <string name="library_cloud_registed_message">Book is already registered.</string>
+    <string name="library_cloud_setting_order_author">Sort by author</string>
+    <string name="library_cloud_setting_order_history">Sort by registration</string>
+    <string name="library_cloud_settings_order">Sort by display</string>
+    <string name="library_condition_add">Add conditions…</string>
+    <string name="library_condition_all">All</string>
+    <string name="library_condition_all_cannot_change">You cannot change the condition of All.</string>
+    <string name="library_condition_all_exsist">You cannot add conditions when All is selected.</string>
+    <string name="library_condition_author">Author</string>
+    <string name="library_condition_bookshelf">Bookshelf</string>
+    <string name="library_condition_change">Change conditions…</string>
+    <string name="library_condition_delete">Delete conditions</string>
+    <string name="library_condition_download">Download date</string>
+    <string name="library_condition_downloaded">Download status of book</string>
+    <string name="library_condition_format_text">%s</string>
+    <string name="library_condition_genre">Genre</string>
+    <string name="library_condition_message_after_date">After the following day</string>
+    <string name="library_condition_message_donwloaded_completed">Completed</string>
+    <string name="library_condition_message_donwloaded_uncompleted">Uncompleted</string>
+    <string name="library_condition_message_include">Including the following text</string>
+    <string name="library_condition_message_is_year">For the following year</string>
+    <string name="library_condition_message_undelivery">Undelivery</string>
+    <string name="library_condition_message_unread">Unread</string>
+    <string name="library_condition_message_within_days">Within the following number of days</string>
+    <string name="library_condition_message_within_months">Within the following number of months</string>
+    <string name="library_condition_message_within_weeks">Within the following number of weeks</string>
+    <string name="library_condition_preorder">Of the reservation book distribution start date</string>
+    <string name="library_condition_publisher">Publisher</string>
+    <string name="library_condition_purchased">Purchased on</string>
+    <string name="library_condition_rating">Ranking</string>
+    <string name="library_condition_reading">Last day read</string>
+    <string name="library_condition_section_and">The following meet all conditions</string>
+    <string name="library_condition_section_or">The following meet some conditions</string>
+    <string name="library_condition_select_all">Other conditions will be deleted. Continue?</string>
+    <string name="library_condition_smartbookshelf">Smart Bookshelf</string>
+    <string name="library_condition_suffix_after">below %s</string>
+    <string name="library_condition_suffix_day">%s days</string>
+    <string name="library_condition_suffix_include">includes %s</string>
+    <string name="library_condition_suffix_is">is %s</string>
+    <string name="library_condition_suffix_is_year">%s year</string>
+    <string name="library_condition_suffix_month">%s months</string>
+    <string name="library_condition_suffix_week">%s weeks</string>
+    <string name="library_condition_suffix_within">within %s</string>
+    <string name="library_condition_suffix_within_days">within %s days</string>
+    <string name="library_condition_suffix_within_months">within %s months</string>
+    <string name="library_condition_suffix_within_weeks">within %s weeks</string>
+    <string name="library_condition_suffix_year">%s years</string>
+    <string name="library_condition_tag">Tag</string>
+    <string name="library_condition_title">Title</string>
+    <string name="library_condition_type">Type</string>
+    <string name="library_condition_undelivery">Undelivery</string>
+    <string name="library_condition_unread">Unread</string>
+    <string name="library_dbconfig_bookshelfnameTemplate">Bookshelf %d</string>
+    <string name="library_dbconfig_sectionAuthorUnknown">Unknown Author</string>
+    <string name="library_dbconfig_sectionMonth">A month ago</string>
+    <string name="library_dbconfig_sectionNotRead">Unread</string>
+    <string name="library_dbconfig_sectionToday">Today</string>
+    <string name="library_dbconfig_sectionUnknown">Unknown</string>
+    <string name="library_dbconfig_sectionWeek">A week ago</string>
+    <string name="library_dbconfig_shelfnameTemplate">Shelf %d</string>
+    <string name="library_dbconfig_smartShelfTitleNameAthor">Others</string>
+    <string name="library_dbconfig_smartShelfYearMonth" formatted="false">%m/%Y</string>
+    <string name="library_delete_book_result">Book has been deleted.</string>
+    <string name="library_delete_bookshelf_all">Delete all content</string>
+    <string name="library_delete_bookshelf_confirm">Deleting bookshelf. Would you like to move the books and shelves to another bookshelf?</string>
+    <string name="library_delete_bookshelf_movebooks">Move to other bookshelf</string>
+    <string name="library_delete_bookshelf_nobook_confirm">Will delete bookshelves with no books. Would you like to move shelves to another bookshelf?</string>
+    <string name="library_delete_confirm">Would you like to delete from this device?</string>
+    <string name="library_delete_file_only">Delete leaving cover</string>
+    <string name="library_delete_own_confirm">These book covers will be deleted, but the files will not be deleted.</string>
+    <string name="library_delete_shelf_confirm">All the books on this shelf will be deleted. OK?</string>
+    <string name="library_delete_shelf_nobook_confirm">There are no books in this shelf. Would you like to delete?</string>
+    <string name="library_delete_shelf_result">Shelf has been deleted.</string>
+    <string name="library_download_cancel">Abort</string>
+    <string name="library_download_cancel_message">Cancel download.</string>
+    <string name="library_download_confirm_cancel">Download is in progress. Do you want to stop?</string>
+    <string name="library_download_message_addbook">Now register the books</string>
+    <string name="library_download_rethumbnail">Beginning reacquisition of cover image.</string>
+    <string name="library_download_start">Download</string>
+    <string name="library_download_start_message">Begin download.</string>
+    <string name="library_download_unable">This book cannot be downloaded.</string>
+    <string name="library_dropbox_dialog_title">Books on Dropbox</string>
+    <string name="library_dropbox_download_confirm_text">"Matches registered books.
+Would you like to download?"</string>
+    <string name="library_dropbox_error_export_noitem">There is no file available for upload</string>
+    <string name="library_dropbox_error_export_noitem_hint">"Files added via OpenIn or detected additional
+contents can be uploaded to Dropbox."</string>
+    <string name="library_dropbox_error_metadata">Failed to acquire Dropbox information.</string>
+    <string name="library_dropbox_error_non_compliant">This content is not supported on Android.</string>
+    <string name="library_dropbox_error_unlinked">Dropbox link is disabled. Please access the settings and enable the Dropbox link.</string>
+    <string name="library_dropbox_link_confirm_text">"Matches registered books.
+Would you like to link?"</string>
+    <string name="library_dropbox_list_distination">Save to</string>
+    <string name="library_dropbox_list_export">Upload</string>
+    <string name="library_dropbox_list_export_list_title">Uploadable contents</string>
+    <string name="library_dropbox_list_import">Import</string>
+    <string name="library_dropbox_list_select_destination_text">Please select the upload location.</string>
+    <string name="library_dropbox_list_title">Dropbox</string>
+    <string name="library_dropbox_open_confirm_text">"Matches registered books.
+Would you like to open in the viewer?"</string>
+    <string name="library_dropbox_process_confirming_text">Checking file…</string>
+    <string name="library_dropbox_upload">Upload</string>
+    <string name="library_dropbox_upload_dialog_title">Upload to Dropbox</string>
+    <string name="library_dropbox_upload_error">Failed to upload.</string>
+    <string name="library_dropbox_upload_error_cancel">Upload was cancelled.</string>
+    <string name="library_dropbox_upload_error_nofile">File not found.</string>
+    <string name="library_dropbox_upload_error_server">A server error has occurred.</string>
+    <string name="library_dropbox_upload_error_size">Size was too large.</string>
+    <string name="library_dropbox_upload_error_unlinked">Dropbox link is invalid.</string>
+    <string name="library_dropbox_upper">Up</string>
+    <string name="library_edit_book">Edit book</string>
+    <string name="library_edit_book_collect">Create shelf form the selected book</string>
+    <string name="library_edit_book_covermode">Set to Cover mode</string>
+    <string name="library_edit_book_discard">Delete book</string>
+    <string name="library_edit_book_move">Move book</string>
+    <string name="library_edit_book_move_bookshelf">Select new bookshelf</string>
+    <string name="library_edit_book_move_shelf">Select new shelf</string>
+    <string name="library_edit_book_other_book_shelf">Other bookshelf</string>
+    <string name="library_edit_book_other_shelf">Other Shelf</string>
+    <string name="library_edit_book_profile">Book Detailed Information</string>
+    <string name="library_edit_book_redownload_thumbnail">Reacquire cover image</string>
+    <string name="library_edit_book_related_book_shelf">Bookshelf containing the same series</string>
+    <string name="library_edit_book_related_shelf">Shelf containing the same series</string>
+    <string name="library_edit_book_spinemode">Set to Back Cover mode</string>
+    <string name="library_edit_bookshelf_discard">Delete bookshelf</string>
+    <string name="library_edit_bookshelf_rename">Change bookshelf name</string>
+    <string name="library_edit_bookshelf_rename_message">Please enter the bookshelf name</string>
+    <string name="library_edit_only_one">Please select only 1.</string>
+    <string name="library_edit_shelf_create">Create a new shelf here</string>
+    <string name="library_edit_shelf_discard">delete shelf</string>
+    <string name="library_edit_shelf_move">Move shelf</string>
+    <string name="library_edit_shelf_move_bookshelf">Select new bookshelf</string>
+    <string name="library_edit_shelf_move_bottom">Move shelf to bottom shelf</string>
+    <string name="library_edit_shelf_move_format">Above the shelf %s</string>
+    <string name="library_edit_shelf_move_last">Move to bottom</string>
+    <string name="library_edit_shelf_move_position">New location for shelf</string>
+    <string name="library_edit_shelf_move_sort">Sort in select shelf</string>
+    <string name="library_edit_shelf_move_sort_asc">Ascending</string>
+    <string name="library_edit_shelf_move_sort_desc">Descending</string>
+    <string name="library_edit_shelf_move_sort_ditial">Sort in select shelf</string>
+    <string name="library_edit_shelf_move_sort_ditial_massage">※If there is more than one series on the shelf, it will align for each series</string>
+    <string name="library_edit_shelf_move_sort_select_end">Sort from new book</string>
+    <string name="library_edit_shelf_move_sort_select_first">Sort from first</string>
+    <string name="library_edit_shelf_move_top">Move shelf to top shelf</string>
+    <string name="library_edit_shelf_name">Change shelf name</string>
+    <string name="library_enlarge_cover_reload">reload</string>
+    <string name="library_error_displaymode_uneditable">Changing the front cover / back cover can only be done in standard mode.</string>
+    <string name="library_error_download_limit_over">Download period has expired.</string>
+    <string name="library_error_no_conditions">No conditions have been set.</string>
+    <string name="library_error_no_keyword">Please insert a keyword.</string>
+    <string name="library_error_notfound">There is no matching book.</string>
+    <string name="library_error_reading_limit_over">Reading period has expired.</string>
+    <string name="library_error_smartbookshelf_uneditable">Cannot edit the shelf for the smart bookshelf.</string>
+    <string name="library_error_sortedbookshelf_uneditable">Cannot edit the shelf in sorting.</string>
+    <string name="library_error_sync_dl_content">Cannot synchronize while downloading books.</string>
+    <string name="library_error_sync_dl_thumbnail">Cannot synchronize while downloading covers.</string>
+    <string name="library_information_books">books</string>
+    <string name="library_information_loading">Acquiring</string>
+    <string name="library_label_author">Author</string>
+    <string name="library_label_filesize">File size</string>
+    <string name="library_label_lastdate">Last day read</string>
+    <string name="library_label_publisher">Publisher</string>
+    <string name="library_label_summary">Outline</string>
+    <string name="library_label_title">Title</string>
+    <string name="library_leftmenu_bookshelf_condition_change">Change conditions</string>
+    <string name="library_leftmenu_bookshelf_discard">Delete bookshelf</string>
+    <string name="library_leftmenu_bookshelf_rename">Change bookshelf name</string>
+    <string name="library_leftmenu_header_help">Help</string>
+    <string name="library_leftmenu_header_tutorial">Tutorial</string>
+    <string name="library_leftmenu_header_update">Update Information</string>
+    <string name="library_leftmenu_newbook">New Release</string>
+    <string name="library_menu_bookshelf">Bookshelf</string>
+    <string name="library_menu_cloud">Import</string>
+    <string name="library_menu_cloud_bookshelf">Cloud Bookshelf</string>
+    <string name="library_menu_cloud_dropbox">Dropbox</string>
+    <string name="library_menu_cloud_import">Local content</string>
+    <string name="library_menu_finish_editing">End edit mode</string>
+    <string name="library_menu_locked_bookshelf">Locked Bookshelf</string>
+    <string name="library_menu_secret_bookshelf">Secret Bookshelf</string>
+    <string name="library_menu_smart_bookshelf">Smart Bookshelf</string>
+    <string name="library_menu_switch_viewmode">Change display mode</string>
+    <string name="library_mode_edit">Edit mode</string>
+    <string name="library_new_title_bookshelf">New Bookshelf</string>
+    <string name="library_new_title_shelf">New Shelf</string>
+    <string name="library_new_title_smartbookshelf">New Smart Bookshelf</string>
+    <string name="library_no_book_selection">Selected book does not exist.</string>
+    <string name="library_no_shelf_selection">Selected shelf does not exist.</string>
+    <string name="library_permission_caution_negative">Quit the application</string>
+    <string name="library_permission_caution_storage">"In order to use Kinoppy, it is necessary to validate the usage rights of storage.
+Please change the setting with \"authority\" on the application information screen of the terminal.
+Open the application information screen?"</string>
+    <string name="library_permission_caution_toast">When the application information is displayed, please tap \"authority\"</string>
+    <string name="library_preorder_dialog_delete_maessage1">Cancellation of the reservation in this operation is not performed.</string>
+    <string name="library_preorder_dialog_delete_maessage2">Are you sure you want to delete the books?</string>
+    <string name="library_preorder_dialog_delivary_maessage">Reserved delivery of books has been started.</string>
+    <string name="library_preorder_dialog_delivary_title">Delivery start</string>
+    <string name="library_preorder_dialog_message">To cancel the reservation?</string>
+    <string name="library_preorder_dialog_message_end">"Cancel a reservation has been completed.
+It will be removed from the bookshelf at the next synchronization."</string>
+    <string name="library_preorder_dialog_title">Confirmation of reservation cancellation</string>
+    <string name="library_preorder_menu_cancel">Reservatin cancel</string>
+    <string name="library_preorder_menu_delivary">Delivary</string>
+    <string name="library_read_continue">Continue</string>
+    <string name="library_read_first">Beginning</string>
+    <string name="library_reading_limit">Reading period</string>
+    <string name="library_reading_limit_message">Reading period is until %s</string>
+    <string name="library_redownload_limit">Download period</string>
+    <string name="library_redownload_limit_message">Download period is until %s</string>
+    <string name="library_reinstall">Re-install</string>
+    <string name="library_search_book">Search books</string>
+    <string name="library_search_book_result">Search results</string>
+    <string name="library_search_book_result_count">Search results: %d books</string>
+    <string name="library_secret_bookshelf_lock_set">Setting completed. This bookshelf is hidden.</string>
+    <string name="library_secret_bookshelf_lock_set_title">Setting completed</string>
+    <string name="library_secret_bookshelf_set">Setting completed. Bookshelf lock is enabled.</string>
+    <string name="library_secret_bookshelf_unset">Also displays the bookshelf at the time of the lock</string>
+    <string name="library_secret_edit_password_message">Please set a unlock key for use with bookshelf lock.(Alphanumeric 4 to 12 characters)</string>
+    <string name="library_secret_edit_password_title">Change unlock key</string>
+    <string name="library_secret_enter_password_message">Please enter the unlock key for the bookshelf lock.</string>
+    <string name="library_secret_enter_password_title">Unlock key for bookshelf lock</string>
+    <string name="library_secret_lock">To enable the bookshelf lock</string>
+    <string name="library_secret_lock_cannot">During synchronization can not be changed in the bookshelf lock state.</string>
+    <string name="library_secret_lock_notification">"if you lock your bookshelf, your books are hidden. however they still appear in Wish-List or 'new books' and 'continued books' by you owned in store.
+
+If you not wish to be displayed on the 'new books' and 'continued books' by you owned, please execute the Delete from the notification for new books for the book details page in store."</string>
+    <string name="library_secret_lock_notification_checkbox">Do not show next time</string>
+    <string name="library_secret_lock_notification_title">Caution</string>
+    <string name="library_secret_password_checker">Display unlock key</string>
+    <string name="library_secret_password_dialog_checkbox_text">Show unlock key</string>
+    <string name="library_secret_password_edit">Unlock key setting Complete.</string>
+    <string name="library_secret_password_empty_error">Please enter a unlock key</string>
+    <string name="library_secret_password_empty_error_regist">Please set lock release key to use with bookshelf lock.</string>
+    <string name="library_secret_password_former_opinion">"Bookshelf lock will not work with older Kinoppy than Ver3.0.
+(Locked bookshelf will also be displayed in older than Ver3.0)
+If you want to lock the bookshelf, please update the Kinoppy to Ver3.0 and later in your all devices."</string>
+    <string name="library_secret_password_hint">Bookshelf unlock key</string>
+    <string name="library_secret_password_hint_confirm">Confirm Unlock key</string>
+    <string name="library_secret_password_hint_new">New unlock key</string>
+    <string name="library_secret_password_hint_new_confirm">New unlock key(confirm)</string>
+    <string name="library_secret_password_hint_old">Old unlock key</string>
+    <string name="library_secret_password_hint_unlockkey">Unlock key</string>
+    <string name="library_secret_password_invalid_error">The unlock key is not correct. Please try again.(Alphanumeric 4 to 12 characters)</string>
+    <string name="library_secret_password_notequal_error">Entered the two unlock keys is differ. Please try again.</string>
+    <string name="library_secret_password_registed">Unlock key setting Complete.</string>
+    <string name="library_secret_password_sync_caution">The bookshelf lock setting is not synchronized with other terminals. If you set the bookshelf lock even on the terminal of the synchronization destination, please set it on this terminal.</string>
+    <string name="library_secret_regist_password_message">"Please set a unlock key for use with bookshelf lock.
+(Alphanumeric 4 to 12 characters)"</string>
+    <string name="library_secret_regist_password_title">Set unlock key for bookshelf lock</string>
+    <string name="library_secret_reset_app_dialog_message">"When you perform a forced reset, the unlock key and bookshelf lock are released and the logout state is entered.
+Do you want to continue?"</string>
+    <string name="library_secret_reset_done">Resetting bookshelf lock settings is done.</string>
+    <string name="library_secret_reset_message">Are you sure to reset all settings?</string>
+    <string name="library_secret_reset_password_message">Please enter the unlock key for the bookshelf lock.</string>
+    <string name="library_secret_reset_password_message_accept">"When you perform a reset, unlock key is initialized, bookshelf that had been locked will be displayed.
+
+Are you sure you want to do this?"</string>
+    <string name="library_secret_set_locked">Was Lock the bookshelf.</string>
+    <string name="library_secret_set_locked_no_lockshelf">There is no lock target of bookshelf</string>
+    <string name="library_secret_set_unlocked">"We've unlocked the bookshelf."</string>
+    <string name="library_secret_touchid_check_message">"Match the fingerprint.
+Please put your finger in place."</string>
+    <string name="library_secret_touchid_failed_message">It failed to match.</string>
+    <string name="library_secret_touchid_first_message">"When you use the FingerprintAuthentication, the next and subsequent authentication is easy.
+Do you want to use the FingerprintAuthentication?"</string>
+    <string name="library_secret_touchid_limit_message">"It failed to match.
+Migrate to the release of a password."</string>
+    <string name="library_secret_touchid_unregistered_message">"FingerprintAuthentication function of the terminal is not completed set or disabled.
+To use the FingerprintAuthentication is, after setting in the FingerprintAuthentication in the terminal settings, please select the bookshelf lock>Use the FingerprintAuthentication from the app settings."</string>
+    <string name="library_secret_touchid_use_message">Unlocked fingerprintAuthentication Compleate. will be available from next time.</string>
+    <string name="library_secret_unlock">To cancel the bookshelf lock</string>
+    <string name="library_secret_unlock_password_title">Bookshelf unlock</string>
+    <string name="library_selector_title">Library</string>
+    <string name="library_series_addbookshelf">add to bookshelf</string>
+    <string name="library_series_serieslist">series list</string>
+    <string name="library_setting_add_shelf">Add shelf</string>
+    <string name="library_setting_background_flat">Flat</string>
+    <string name="library_setting_background_not_sync">The background image is not synchronized with other devices.</string>
+    <string name="library_setting_background_original">Choose an image</string>
+    <string name="library_setting_background_pattern">Pattern</string>
+    <string name="library_setting_default_scale">Restore display size to standard</string>
+    <string name="library_setting_displaytype_grid">Grid</string>
+    <string name="library_setting_displaytype_list">List</string>
+    <string name="library_setting_displaytype_shelf">Standard</string>
+    <string name="library_setting_only_ebook">Display only e-books</string>
+    <string name="library_setting_sectiontype_author">Sort by author</string>
+    <string name="library_setting_sectiontype_auto">Sort automatically</string>
+    <string name="library_setting_sectiontype_comment">Shelf edit is disabled.</string>
+    <string name="library_setting_sectiontype_none">None</string>
+    <string name="library_setting_sectiontype_reading">Sort by latest read</string>
+    <string name="library_setting_sectiontype_regist">Sort by registration date</string>
+    <string name="library_setting_sectiontype_title">Sort by title</string>
+    <string name="library_setting_set_secret_bookshelf">Set secret bookshelf</string>
+    <string name="library_setting_unset_secret_bookshelf">Unset secret bookshelf</string>
+    <string name="library_settings_background">Change background</string>
+    <string name="library_settings_displaytype">Display mode</string>
+    <string name="library_settings_others">Others</string>
+    <string name="library_settings_sectiontype">Sort</string>
+    <string name="library_shelfname_format">Bookshelf %d</string>
+    <string name="library_shelfname_message">Please enter the shelf name.</string>
+    <string name="library_smart_added">Smart bookshelf created.</string>
+    <string name="library_smart_condition_all">All books</string>
+    <string name="library_smart_condition_recent_purchased">Recently purchased books</string>
+    <string name="library_smart_condition_recent_read">Recently read books</string>
+    <string name="library_smart_condition_unread">Unread books</string>
+    <string name="library_smart_edited">Smart bookshelf updated.</string>
+    <string name="library_smart_preview_empty">There are no books matching set conditions.</string>
+    <string name="library_smart_preview_format">There were %d hits.</string>
+    <string name="library_task_background_task">Background task</string>
+    <string name="library_task_checking_books">Checking books</string>
+    <string name="library_task_checking_bookshelf">Checking bookshelf</string>
+    <string name="library_task_checking_marks">Checking marks</string>
+    <string name="library_task_checking_reading_information">Checking reading information</string>
+    <string name="library_task_download_books">Download books</string>
+    <string name="library_task_download_covers">Download covers</string>
+    <string name="library_task_failed_to_synchronize">Failed to Synchronize</string>
+    <string name="library_task_no_performing">No performing task</string>
+    <string name="library_task_no_record">No record</string>
+    <string name="library_task_show_status">Show Status</string>
+    <string name="library_task_start_the_synchronization">Start the synchronization</string>
+    <string name="library_task_synchronization_is_complete">Synchronization is complete</string>
+    <string name="library_task_synchronizing_books">Synchronizing books</string>
+    <string name="library_task_synchronizing_bookshelf">Synchronizing bookshelf</string>
+    <string name="library_task_synchronizing_marks">Synchronizing marks</string>
+    <string name="library_task_synchronizing_reading_information">Synchronizing reading information</string>
+    <string name="library_task_upload_to_Dropbox">Upload to Dropbox</string>
+    <string name="library_title_default">Bookshelf</string>
+    <string name="library_title_smart_add">Add a smart bookshelf</string>
+    <string name="library_title_smart_edit">Edit smart bookshelf</string>
+    <string name="library_wallpaper_download_failed">Download wallpaper faild.</string>
+    <string name="library_wallpaper_load_failed">Failed to load image.</string>
+    <string name="library_wallpaper_unsupported_format">Unsupported format.</string>
+    <string name="libxml_license">"libxml2
+Copyright © 1998–2003 Daniel Veillard. All Rights Reserved.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE DANIEL VEILLARD BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Except as contained in this notice, the name of Daniel Veillard shall not be used in advertising or otherwise to promote the sale, use or other dealings in this Software without prior written authorization from him."</string>
+    <string name="log_license">"Ultimately minimal (yet very convenient) logger for Android and Java
+The MIT License (MIT)
+Copyright (c) 2015 zserge
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+ The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."</string>
+    <string name="login">Login</string>
+    <string name="login_message">If you have a account of Kinokuniya Books web store, Please login with your account.</string>
+    <string name="logout">Logout</string>
+    <string name="logout_confirm">Would you like to logout?</string>
+    <string name="logout_error_downloading">Cannot logout while downloading a book.</string>
+    <string name="logout_error_downloading_thumbnail">Cannot logout while downloading a cover.</string>
+    <string name="logout_error_syncronizing">Cannot logout during synchronization.</string>
+    <string name="logout_maindl_message">Book is downloading. If you select the OK, Downloading will abort.</string>
+    <string name="logout_subdl_message">Thumbnail is downloading. If you select the OK, Downloading will abort.</string>
+    <string name="lowcontrast">Low contrast</string>
+    <string name="max">Maximize</string>
+    <string name="media_error_unmounted">No external storage exists.</string>
+    <string name="member_select_url">/store/member/</string>
+    <string name="memory_error">Kinoppy has stopped, because of lack of memory.</string>
+    <string name="menu_annotaion">Mark</string>
+    <string name="menu_back_library">Bookshelf</string>
+    <string name="menu_before_and_next">Before and Next Volume</string>
+    <string name="menu_before_read">Read before book</string>
+    <string name="menu_bookindex">Content</string>
+    <string name="menu_bookmark">Bookmark</string>
+    <string name="menu_next_read">Read next book</string>
+    <string name="menu_note">※( ) is the page number displayed in the sentence</string>
+    <string name="menu_recentread">Recently read books</string>
+    <string name="menu_store">Store</string>
+    <string name="menu_store_search_author">Search for more books by this author</string>
+    <string name="menu_store_search_series">Search for more volumes to this book</string>
+    <string name="menu_store_view_rating">See book evaluation</string>
+    <string name="message_general_personalinfo">【紀伊國屋書店　個人情報保護方針】&lt;br> &lt;br> 株式会社 紀伊國屋書店は、書籍・雑誌を中心とする商品の販売ならびに関連する各種サービスの提供を通じて、豊かで平和な社会の実現に貢献することを目指しております。当社は、店舗、営業所、通販部門などにおける営業活動をはじめ社業を進めるなかで、お客様やお取引先、従業員の個人情報を適切に取扱い、保護することが重要な社会的責任であると認識しております。このため、以下のとおり「個人情報保護方針」を定め、役員並びに従業員に周知徹底し、お預かりした個人情報の一層の保護に取り組んでまいります。&lt;br> &lt;br> （1） 個人情報の取得・利用・提供及び取扱の委託について&lt;br> 当社は、全国に展開する店舗、営業所およびインターネットを通じた書籍等の販売、また書籍や映像商品の製作・出版事業、ホールの経営など、それぞれの事業内容に応じ個人情報保護のための管理体制を整備、確立いたします。また個人情報は法令等の定めに従い公正な手段によって利用目的の達成に必要な範囲で適正に取得し、取得した個人情報は利用目的の範囲内で利用し、目的外の利用は禁止し、個人情報の第三者への提供、個人情報に関わる業務委託等においては所定の規則に従い適切に取扱います。&lt;br> &lt;br> （2） 法令・指針・規範の遵守&lt;br> 当社は、個人情報の取扱いに関する法令および国が定める指針その他の規範を特定し、常に全従業員が認識し、遵守するよう努めます。&lt;br> &lt;br> （3） 個人情報の安全管理及び是正について&lt;br> 当社は個人情報保護管理者のもと、管理体制・管理規程を定め、全従業員に対して個人情報保護に関する継続的な教育を行い、様々な面から安全管理に必要な対策を行うことにより、個人情報の漏えい、滅失またはき損の防止および是正に努めます。&lt;br> &lt;br> （4） 苦情および相談について&lt;br> 当社は、取得した個人情報の取扱いに関するご本人からの苦情・相談、利用目的の開示、訂正、追加・削除、および利用や提供の停止についての要求に適切かつ迅速に対応するための社内体制を整備し、「お問い合わせ窓口」を設置致します。&lt;br> &lt;br> （5）「個人情報保護に関するマネジメントシステム」の継続的改善&lt;br> 当社は、個人情報を確実に保護し利用するために「個人情報保護に関するマネジメントシステム」の継続的改善を図ってまいります。&lt;br> &lt;br> 平成20年7月1日 制定&lt;br> 平成20年12月1日 改定&lt;br> 平成21年2月5日 改定&lt;br> 株式会社 紀伊國屋書店&lt;br> 代表取締役社長 高井 昌史&lt;br> &lt;br> 【個人情報保護に関するお問合せ窓口】&lt;br> 〒153−8504　東京都目黒区下目黒3丁目7番10号&lt;br> 株式会社 紀伊國屋書店&lt;br> 総務部 個人情報問合せ窓口担当&lt;br> ＴＥＬ：03-6910-0502&lt;br> ＦＡＸ：03-6420-1350&lt;br> mail：pv01@kinokuniya.co.jp&lt;br> &lt;br> 【個人情報のお取扱いについて】&lt;br> &lt;br> 当社は、個人情報保護方針に基づき、お客様からお預かりした個人情報を適切にお取扱い致します。以下に、当社における個人情報の取扱いについてご説明致します。&lt;br> &lt;br> 1.個人情報を取得する際の利用目的に関して&lt;br> 当社は、当社の行なう事業に関連して、以下の利用目的でお客様・お取引先の皆様、株主の皆様、当社の役員・従業員その他から個人情報を取得し、それぞれの利用目的の範囲内およびご本人の同意の範囲内で利用させていただきます。なお個別に利用目的をご通知または公表する場合には、その利用目的によるものと致します。&lt;br> 1.当社取扱い商品・サービスのご注文、ご予約の業務を行なうため。&lt;br> 2.お買い上げ商品の配送、またはアフターサービス業務を行なうため。&lt;br> 3.ご提供する商品・サービスの代金決済に関する業務のため。&lt;br> 4.商品・催事・セミナー等に関し、ご同意いただいた範囲で情報やご案内を差し上げるため。また催事やセミナーの運営に関する諸対応を行なうため。&lt;br> 5.各種会員制サービスの運営・管理のため。また、そのサービスに関する特典・ご案内等をご提供するため。&lt;br> 6.お問合わせやご意見に対し、ご回答を差し上げるため。&lt;br> 7.紀伊國屋三井住友VISAカード等提携クレジットカードのお申込み受付等の業務を行なうため。&lt;br> 8.お取引先様に対する業務上・取引上の諸連絡のため。&lt;br> 9.株主様に対して会社法等に基づき適正なご連絡をし、また義務の履行等をするため。&lt;br> 10.社員募集に係る選考業務を行なうため。&lt;br> 11.当社の事業推進の上で必要な社員情報の管理のため。&lt;br> 12.各種資格試験運営団体や資格試験受験予備校などから委託されている受験申込受付業務を行なうため。&lt;br> 13.当社がお取引先の大学・公共図書館・企業から受託する図書館運営サポート業務を遂行するため。&lt;br> &lt;br> 以上に列記した以外の利用につきましては、ご本人から個人情報をお預かりするその都度、利用目的を明示致します。当社がお預かりするお客様の個人情報は、お客様ご自身の任意でご提供いただくものと考えております。お客様のご意思により個人情報のご提供がいただけない場合、当社の取扱い商品・サービス等をご利用いただけない場合がございますことを、あらかじめご了承下さいますようお願い申し上げます。上記の利用目的の達成に必要な業務の範囲内で、宅配会社や印刷会社など、個人情報の保護を適切に実施している企業・団体にお客様等の個人情報を委託する場合がございますことをあらかじめご了承下さいますようお願い申し上げます。&lt;br> &lt;br> 2. 個人情報の第三者提供について&lt;br> 当社は、お客さまから事前に同意をいただかない限り、上述の利用目的を遂行するために業務委託先へ委託する場合を除き、第三者へ個人情報を提供いたしません。但し「個人情報の保護に関する法律」第23条第1項に定める第三者提供の制限の例外事項に当たる場合は例外とさせていただきます。&lt;br> ＜個人情報の第三者提供の制限の例外事項＞ 1.法令に基づく場合&lt;br> 2.人の生命、身体または財産の保護のために必要がある場合であって、本人の同意を得ることが困難であるとき。&lt;br> 3.公衆衛生の向上または児童の健全な育成の推進のために特に必要がある場合であって、本人の同意を得ることが困難であるとき。&lt;br> 4.国の機関若しくは地方公共団体またはその委託を受けた者が法令の定める事務を遂行することに対して協力する必要がある場合であって、本人の同意を得ることにより当該事務の遂行に支障を及ぼすおそれがあるとき。&lt;br> &lt;br> 3. 個人情報の開示等の申請に関する手続について&lt;br> 当社は、当社がお預かりしている個人情報に関して、ご本人もしくはその代理人から利用目的の通知、開示、内容の訂正、追加又は削除、利用の停止、消去及び第三者への提供の停止について請求をいただいた場合には、速やかに対応させていただきます。&lt;br> 当社の保有する「開示対象個人情報」（※）について、ご本人もしくはその代理人からの開示・削除・訂正、利用停止等の手続きについては、以下の通りとさせていただきます。&lt;br> &lt;br> ※「開示対象個人情報」とは&lt;br> 電子計算機を用いて検索することができるように体系的に構成した情報の集合物又は一定の規則に従って整理、分類し、目次、索引、符合などを付すことによって特定の個人情報を容易に検索できるように体系的に構成した情報の集合物を構成する個人情報であって、当社が、本人から求められる開示、内容の訂正、追加又は削除、利用の停止、消去及び第三者への提供の停止の求めに応じることができる権限を有するものを言います。&lt;br> なお上記利用目的の⑫⑬は、開示対象個人情報ではございません。&lt;br> ＜ご対応窓口＞　 •店舗・営業所のお客様は、最寄の店舗・営業所が窓口として対応致します。&lt;br> •お取引先の皆様は、当社の各業務担当部署が窓口として対応致します。&lt;br> •担当部門が不明の場合は、下記（4.）に記載しました当社の代表窓口をご利用下さい。&lt;br> &lt;br> ＜手続き＞&lt;br> お手続きは、基本的に以下の流れとなります。&lt;br> 　お客様もしくは代理人のご本人確認&lt;br> 　　　　↓　↓&lt;br> 　担当窓口より、個人情報を保管管理している部署の担当者へ照会&lt;br> 　　　　↓　↓&lt;br> 　個人情報の保管管理部署からの回答&lt;br> 　　　　↓　↓&lt;br> 　担当窓口より、お客様へのご報告&lt;br> &lt;br> 手続きは原則として書面またはウェブサイト上の所定画面へのご記入により行わせていただきます。具体的なご本人確認の方法、所定の書式やその記入の仕方につきましては、担当窓口にてご説明いたします。対応は出来る限り速やかに進めますが、お問い合わせやご請求自体が個人情報のお預かりを伴い、また当社の個人情報管理諸規程に従い手続きを踏むことから、一定以上のお時間をいただくことになりますことをあらかじめご了承下さるようお願い申し上げます。&lt;br> &lt;br> ＜手数料＞&lt;br> 当社から郵送によるお手続きが生じる場合は、手数料として切手にて500円を頂きます。&lt;br> ご来店による場合やウェブサイトでのご請求の場合は、原則として手数料は頂きません。&lt;br> &lt;br> なお、お客さまからのご注文や各種サービスに関してお預かりしたご住所などの変更事項、定期購読物や各種ご案内郵便・Eメールサービスの発送停止に伴う個人情報利用停止のご依頼は、当該の取扱商品やサービスを運営している担当部門（最寄りの店舗・営業所など）の窓口にお申し出の上、所定の手続きをおとり下さい。この場合も、お客様から手数料をいただくことはございません。&lt;br> &lt;br> 4. 個人情報の取扱いに関するお問合せ窓口&lt;br> 当社の個人情報の取扱いに関してお気付きの点や苦情がございましたら下記窓口までご連絡下さるようお願いいたします。下記窓口では直接ご来社いただいてのお申し出はお受け致しかねますので、その旨ご了承賜わりますようお願い申し上げます。&lt;br> 窓口の営業時間：月曜日〜金曜日（祝日・正月時期を除く）の午前9時30分〜午後5時30分&lt;br> &lt;br> 【個人情報保護管理者について】&lt;br> 担当常務取締役&lt;br> &lt;br> 【個人情報保護に関するお問合せ窓口】&lt;br> 〒153−8504　東京都目黒区下目黒3丁目7番10号&lt;br> 株式会社 紀伊國屋書店&lt;br> 総務部 個人情報問合せ窓口担当&lt;br> ＴＥＬ：03-6910-0502&lt;br> ＦＡＸ：03-6420-1350&lt;br> mail：pv01@kinokuniya.co.jp&lt;br> &lt;br> 5. 認定個人情報保護団体の名称及び苦情の解決の申出先&lt;br> 当社は認定個人情報保護団体の対象事業者です。当社の個人情報の取扱いに関する苦情については、下記へ申出することもできます。&lt;br> &lt;br> 【認定個人情報保護団体の名称】&lt;br> 　　一般財団法人日本情報経済社会推進協会&lt;br> &lt;br> 【苦情の解決の申出先】&lt;br> 　　一般財団法人日本情報経済社会推進協会&lt;br> 　　個人情報保護苦情相談室&lt;br> 　　〒106-0032　東京都港区六本木1-9-9　六本木ファーストビル12F&lt;br> 　　電話番号　03-5860-7565　または　0120-700-779&lt;br> &lt;br> 2009年2月&lt;br> 株式会社紀伊國屋書店&lt;br> &lt;br> 【WEBサイトにおける個人情報の取扱いについて】&lt;br> &lt;br> 株式会社 紀伊國屋書店 （以下「当社」と言います）は、運営するWEBサイトにおいて、お客様からお預かりした個人情報は、「紀伊國屋書店 個人情報保護方針」に基づき適切にお取扱致します。&lt;br> 以下に、当社のWEBサイトにおける個人情報の取扱いについてご説明致します。&lt;br> &lt;br> 1. 個人情報を取得する際の利用目的について&lt;br> &lt;br> 当社は、以下の利用目的でお客様の個人情報（氏名、出生年、性別、ご住所、電話番号、メールアドレス、クレジットカード情報等）をお伺いし、それぞれの利用目的の範囲内で利用させていただきます。&lt;br> ①書籍・雑誌・DVD等商品のご注文に際し、商品のお届け先・ご連絡先・代金決済方法を伺うため。&lt;br> ②会員登録していただいたお客様への、メールマガジンの配信や各種情報のご提供のため。&lt;br> ③会員登録情報の照会または変更のご希望にお答えするため。&lt;br> ④新商品やサービスに関する情報をお知らせするため。&lt;br> ⑤お問合せやご意見に対し、ご回答を差し上げるため。&lt;br> ⑥クレジットカード決済に必要なクレジットカード決済代行事業者との間での確認業務のため。&lt;br> &lt;br> なお、当社がお預かりするお客様の個人情報は、お客様ご自身の任意でご提供いただくものと考えております。お客様のご意思により個人情報のご提供がいただけない場合、当社の取扱商品・サービス等をご利用いただけない場合がございます。&lt;br> また、上記の利用目的の範囲内で、宅配会社や印刷会社など、個人情報の保護を適切に実施している企業・団体にお客様等の個人情報を委託する場合がございますことをあらかじめご了承下さいますようお願い致します。&lt;br> &lt;br> 2. 個人情報の第三者提供について&lt;br> &lt;br> 当社は、法令等に定められた以外に、お客様の個人情報を事前の同意なく、第三者に提供することはありません。&lt;br> &lt;br> 3. 個人情報の開示・訂正・削除等について&lt;br> &lt;br> 当社は、お客様の個人情報に関して、ご本人もしくはその代理人から利用目的の通知、開示、内容の訂正、追加又は削除、利用の停止、消去及び第三者への提供の停止について請求をいただいた場合には、法令に定められた場合を除いて速やかに対応させていただきます。 &lt;br> 当社の保有する個人情報について、開示・削除・訂正、利用停止等の手続きについては、 「個人情報のお取扱について」の３．「個人情報の開示対象個人情報等の申請に関する手続について」をご確認下さい。&lt;br> &lt;br> 4. セキュリティ対策について&lt;br> &lt;br> ①SSLについて&lt;br> 当社のWEBサイトでは会員登録時や、会員様による登録済の会員情報の閲覧、変更の際など、個人情報が送受信されるページにおいて、SSL（Secure Socket Layer）による通信の暗号化を行い、個人情報を外部の第三者が通信傍受できないような対策を実施しております。&lt;br> ②ウィルス対策等について&lt;br> 当社のWEBサイトが置かれているサーバーには厳重なファイアウォールが設置されており、ハッカーなど外部からの不法侵入を防ぐとともに、可能な限り最新のウィルスを検出し防御できる仕組みになっております。また社内の端末においても社外からのメールは全てウィルスチェックを行い、送信に当っても細心の注意を払って操作しております。&lt;br> ③クッキー（Cookie）について&lt;br> お客様が当社のWEBサイトのご利用時に、より便利に閲覧していただくために、お客様がご使用のコンピュータを識別するクッキー（Cookie）と呼ばれるデータを送付し、ハードディスクに記録することがあります。なお、当社WEBサイトで使用するクッキーにはお客様の個人情報は含まれておらず、また、クッキーはお客様のプライバシーに関わる情報の取得等の目的では、一切使用しておりません。当社WEBサイトご利用の際に、お客様の利便性を高める目的でのみ使用するものです。お客様が、ご使用されるインターネットの閲覧ソフトの設定により、クッキーの受け取りを拒否することも可能ですが、これにより当社WEBサイト内の一部のサービスが正常にご利用いただけない場合がございますので、あらかじめご了承下さい。&lt;br> &lt;br> 5. アクセスログと広告配信について&lt;br> &lt;br> 当社のWEBサイトでは、よりよいサービスを提供するためにお客様のアクセスログを収集しています。アクセスログには個人を特定する情報を含まず、また特定することは致しません。アクセスログの分析には第三者の提供するサービスを利用することがあり、その際には第三者がお客様のアクセスログを収集します。当社のWEBサイトでアクセスログを収集している第三者の名称およびプライバシーポリシーについては下記をご参照下さい。&lt;br> &lt;br> ・Google Analytics&lt;br> &lt;a href=http://www.google.co.jp/intl/ja/policies/privacy/>プライバシーポリシー&lt;/a>&lt;br> &lt;a href=http://www.google.co.jp/intl/ja/analytics/privacyoverview.html>オプトアウトについて&lt;/a>&lt;br> &lt;br> ・User Insight&lt;br> &lt;a href=http://userlocal.jp/attention/>プライバシーポリシー&lt;/a>&lt;br> &lt;a href=http://userlocal.jp/notice/>オプトアウトについて&lt;/a>&lt;br> &lt;br> また当社のWEBサイトでは第三者の提供する広告を掲載する場合があり、その際に第三者がクッキーを用いて行動情報を収集することがあります。当社のWEBサイトで広告を掲載している第三者の名称およびプライバシーポリシーについては下記をご参照下さい。&lt;br> ・Google AdSense&lt;br> &lt;a href=http://www.google.co.jp/intl/ja/policies/privacy/>プライバシーポリシー&lt;/a>&lt;br> &lt;a href=http://www.google.com/ads/preferences/>オプトアウトについて&lt;/a>&lt;br> &lt;br> 6. 個人情報の取扱いに関するお問合せ窓口&lt;br> &lt;br> 当社の個人情報の取扱いに関してお気付きの点がございましたら、下記窓口までご連絡下さるようお願い致します。&lt;br> 下記窓口では直接ご来社いただいてのお申し出はお受け致しかねますので、その旨ご了承賜わりますようお願い申し上げます。&lt;br> &lt;br> 窓口の営業時間：月曜日～金曜日（祝日・正月時期を除く）の午前9時30分～午後5時30分&lt;br> &lt;br> 【個人情報保護管理者について】&lt;br> 担当常務取締役&lt;br> 【個人情報保護に関するお問合せ窓口】&lt;br> 〒153－8504　東京都目黒区下目黒3丁目7番10号&lt;br> 株式会社 紀伊國屋書店&lt;br> 総務部 個人情報問合せ窓口担当&lt;br> TEL：03-6910-0502&lt;br> FAX：03-6420-1350&lt;br> Email：pv01@kinokuniya.co.jp&lt;br></string>
+    <string name="message_general_specifiedcommercialtransactionlaw" />
+    <string name="message_general_termsofuse" />
+    <string name="message_limited_feature">Currently not supported.</string>
+    <string name="message_not_downloadable">Cannot browse on the current device.</string>
+    <string name="min">Minimize</string>
+    <string name="moshi_license">"Moshi
+Copyright 2015 Square, Inc."</string>
+    <string name="network_cannnot_internet">Cannot connect to the internet.</string>
+    <string name="network_error">Communication error has occurred.</string>
+    <string name="network_noresponse">Unable to confirm a response.</string>
+    <string name="network_notconnect_server">Failed to connect to the server. Please try again in a short while.</string>
+    <string name="network_parse_error">Failed to connect to the server.</string>
+    <string name="network_password_incorrect">The password is incorrect.</string>
+    <string name="network_success">Success</string>
+    <string name="network_timeout">Failed to connect to the server. Please try again in a short while.</string>
+    <string name="new_arrivals">New Arrival</string>
+    <string name="new_release">New Book</string>
+    <string name="nineold_license">"Nine Old Androids
+Copyright 2012 Jake Wharton"</string>
+    <string name="no">No</string>
+    <string name="none">None</string>
+    <string name="normal">Standard</string>
+    <string name="numberpicker_license">"NumberPicker
+Copyright © 2006–2008 The Android Open Source Project"</string>
+    <string name="ok">OK</string>
+    <string name="okhttp_license">"OkHttp
+Copyright 2016 Square, Inc."</string>
+    <string name="online_help_url">http://k-kinoppy.jp/help3/android.html</string>
+    <string name="openssl_license">"OpenSSL
+Copyright © 1998–2011 The OpenSSL Project. All rights reserved.
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+3. All advertising materials mentioning features or use of this software must display the following acknowledgment:
+\"This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit. (http://www.openssl.org/)\"
+4. The names \"OpenSSL Toolkit\" and \"OpenSSL Project\" must not be used to endorse or promote products derived from this software without prior written permission. For written permission, please contact openssl–core@openssl.org.
+5. Products derived from this software may not be called \"OpenSSL\" nor may \"OpenSSL\" appear in their names without prior written permission of the OpenSSL Project.
+6. Redistributions of any form whatsoever must retain the following acknowledgment:
+\"This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/)\"
+THIS SOFTWARE IS PROVIDED BY THE OpenSSL PROJECT \"AS IS\" AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE OpenSSL PROJECT OR ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+This product includes cryptographic software written by Eric Young (eay@cryptsoft.com). This product includes software written by Tim Hudson (tjh@cryptsoft.com)."</string>
+    <string name="original_ssleay_license">"–––––––––––––––––––––––
+Original SSLeay License
+–––––––––––––––––––––––
+Copyright © 1995–1998 Eric Young (eay@cryptsoft.com) All rights reserved.
+This package is an SSL implementation written by Eric Young (eay@cryptsoft.com).
+The implementation was written so as to conform with Netscapes SSL.
+This library is free for commercial and non–commercial use as long as the following conditions are aheared to. The following conditions apply to all code found in this distribution, be it the RC4, RSA, lhash, DES, etc., code; not just the SSL code. The SSL documentation included with this distribution is covered by the same copyright terms except that the holder is Tim Hudson (tjh@cryptsoft.com).
+Copyright remains Eric Young's, and as such any Copyright notices in the code are not to be removed.
+If this package is used in a product, Eric Young should be given attribution as the author of the parts of the library used.
+This can be in the form of a textual message at program startup or in documentation (online or textual) provided with the package.
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+1. Redistributions of source code must retain the copyright notice, this list of conditions and the following disclaimer.
+2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+3. All advertising materials mentioning features or use of this software must display the following acknowledgement:
+\"This product includes cryptographic software written by Eric Young (eay@cryptsoft.com)\"
+The word 'cryptographic' can be left out if the rouines from the library being used are not cryptographic related :–).
+4. If you include any Windows specific code (or a derivative thereof) from the apps directory (application code) you must include an acknowledgement:
+\"This product includes software written by Tim Hudson (tjh@cryptsoft.com)\"
+THIS SOFTWARE IS PROVIDED BY ERIC YOUNG \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+ The licence and distribution terms for any publicly available version or derivative of this code cannot be changed. i.e. this code cannot simply be copied and put under another distribution licence [including the GNU Public Licence.]"</string>
+    <string name="other_error">Kinoppy has stopped, because of error occured.</string>
+    <string name="otto_license">"Otto
+Copyright 2013 Square, Inc."</string>
+    <string name="password">Password</string>
+    <string name="pause">Cancel</string>
+    <string name="pdfium_license">"PDFium
+Copyright 2014 PDFium Authors. All rights reserved.
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+* Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+* Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+* Neither the name of Google Inc. nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."</string>
+    <string name="permissiondispatcher_license">"PermissionsDispatcher
+Copyright 2015 Shintaro Katafuchi, Marcel Schnelle"</string>
+    <string name="picojson_license">"picojson
+Copyright 2009–2010 Cybozu Labs, Inc.
+Copyright 2011–2014 Kazuho Oku
+All rights reserved.
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."</string>
+    <string name="preference_about_campany">Infocity</string>
+    <string name="preference_about_developer">Developed by</string>
+    <string name="preference_about_license">License</string>
+    <string name="preference_about_os">for Android</string>
+    <string name="preference_about_summary">The above is a comprehensive e-book and e-magazine bookstore service for Android operated by Kinokuniya.</string>
+    <string name="preference_about_version">Ver.</string>
+    <string name="preference_agreement_dialog_mailer">Cannot use mailer.</string>
+    <string name="preference_badge_new">New</string>
+    <string name="preference_category_general">General</string>
+    <string name="preference_category_service_link">Connect service</string>
+    <string name="preference_destination_default">Standard</string>
+    <string name="preference_destination_internal">Internal storage</string>
+    <string name="preference_destination_sdcard">SD Card</string>
+    <string name="preference_destination_selected">Selecting</string>
+    <string name="preference_destination_tag">Save to</string>
+    <string name="preference_destination_text">It may take several minutes to complete changes to save to location.</string>
+    <string name="preference_destination_usb">USB Storage</string>
+    <string name="preference_device_clear_check">Confirm registered devices</string>
+    <string name="preference_device_clear_err_message">Failed to unregister</string>
+    <string name="preference_device_clear_explanation">Registered Devices (tap to unregister)</string>
+    <string name="preference_device_clear_menu">Unregistration screen for registered devices</string>
+    <string name="preference_device_clear_message">Unregistering device %1$s.</string>
+    <string name="preference_device_management">Manage registered devices</string>
+    <string name="preference_device_management_sammary">"This device can not be unregistered here.
+It will be automatically unregistered when you logout."</string>
+    <string name="preference_device_management_tag">Registered devices</string>
+    <string name="preference_device_register_err_message">Unable to register device due to an unexpected error.</string>
+    <string name="preference_general_about_application">About Kinokuniya Books Kinoppy</string>
+    <string name="preference_general_inquiry_about_ebook">Inquiries regarding e-Books</string>
+    <string name="preference_general_inquiry_about_paperbook">Inquiries regarding general books</string>
+    <string name="preference_general_personalinfo">Privacy Policy</string>
+    <string name="preference_general_specifiedcommercialtransactionlaw">Display based on specified commercial transaction law</string>
+    <string name="preference_general_termsofuse">Terms of use</string>
+    <string name="preference_general_use">General usage</string>
+    <string name="preference_library_auto_download">Automatic download</string>
+    <string name="preference_library_auto_download_summary">Will automatically download after synchronization.</string>
+    <string name="preference_library_destination">Content save settings</string>
+    <string name="preference_library_import">Load local content</string>
+    <string name="preference_library_import_nofile">There is not loadable file.</string>
+    <string name="preference_library_information">Bookshelf information</string>
+    <string name="preference_library_information_bought">Purchased books</string>
+    <string name="preference_library_information_count">Number of books</string>
+    <string name="preference_library_information_imported">Imported books</string>
+    <string name="preference_library_information_preinstalled">Shipped books</string>
+    <string name="preference_library_information_size">File size</string>
+    <string name="preference_library_information_total">Total</string>
+    <string name="preference_library_information_unlocked">Bookshelf information(unlocked)</string>
+    <string name="preference_library_lookup_books">Load at startup</string>
+    <string name="preference_library_lookup_books_summary">Local content will be loaded at app startup.</string>
+    <string name="preference_library_rebuild_path">Rebuild file path</string>
+    <string name="preference_library_rebuild_path_summary">Re-register the path of book file to bookshelf.</string>
+    <string name="preference_library_rebuilding_path">Rebuilding file path.</string>
+    <string name="preference_library_secret_description">Description</string>
+    <string name="preference_library_secret_do_reset">Reset the setting of the bookshelf lock.</string>
+    <string name="preference_library_secret_do_reset_summary">The Unlock key for the booksheld lock and Setting for the lock of each bookshelf to return to the initial state.All of the bookshelf will be unlocked.</string>
+    <string name="preference_library_secret_lock">Lock</string>
+    <string name="preference_library_secret_lock_description">Change the state of the bookshelf lock. ※can not change the state of the bookshelf lock in reading.</string>
+    <string name="preference_library_secret_lock_do">To enable the bookshelf lock</string>
+    <string name="preference_library_secret_lock_do_lite">To enable the bookshelf lock</string>
+    <string name="preference_library_secret_lock_unlock">To cancel the bookshelf lock</string>
+    <string name="preference_library_secret_lock_unlock_lite">To enable the bookshelf lock</string>
+    <string name="preference_library_secret_main_title">Library lock</string>
+    <string name="preference_library_secret_password_edit">Change unlock key</string>
+    <string name="preference_library_secret_password_edit_summary">Change the unlock key to be used in the bookshelf lock.</string>
+    <string name="preference_library_secret_reminder">Initialize application</string>
+    <string name="preference_library_secret_section_lock">Chenge Locked</string>
+    <string name="preference_library_secret_section_new">Initial setting</string>
+    <string name="preference_library_secret_section_new_password">Set a new unlock key</string>
+    <string name="preference_library_secret_section_new_password_summary">Please set a unlock key for use with bookshelf lock.</string>
+    <string name="preference_library_secret_section_password">Unlock key for Bookshelf</string>
+    <string name="preference_library_secret_section_reminder">If you forgot the unlock key...</string>
+    <string name="preference_library_secret_section_reminder_summary">We will send you an e-mail with a link to reset your unlock key.</string>
+    <string name="preference_library_secret_section_reset">Reset</string>
+    <string name="preference_library_secret_title">Lock Settings</string>
+    <string name="preference_library_secret_touchid">FingerprintAuthentication</string>
+    <string name="preference_library_secret_touchid_summary">If you want to use the FingerprintAuthentication in unlocking the bookshelf, put a check by tapping.</string>
+    <string name="preference_library_secret_touchid_title">Use the FingerprintAuthentication</string>
+    <string name="preference_library_secret_unlock">Unlock</string>
+    <string name="preference_library_use_old_control">Change tap operation</string>
+    <string name="preference_library_use_old_control_summary">Will open book on tap. Double tap will switch between front cover and back cover.</string>
+    <string name="preference_link_dictionary">Link to dictionary</string>
+    <string name="preference_link_dropbox">Link to Dropbox</string>
+    <string name="preference_link_dropbox_disable">Disable link to Dropbox</string>
+    <string name="preference_link_dropbox_enable">Enable link to Dropbox</string>
+    <string name="preference_link_twitter">Link to Twitter</string>
+    <string name="preference_no_regist_user">"This device is not registered.
+Please register the device from the WEB."</string>
+    <string name="preference_notification">Notification settings</string>
+    <string name="preference_notification_digitized">Notification for e-books</string>
+    <string name="preference_notification_download">Download progress</string>
+    <string name="preference_notification_error_register">Failed to register notifications.</string>
+    <string name="preference_notification_error_unregister">Failed to unregister notifications.</string>
+    <string name="preference_notification_error_update">Failed to update your information.</string>
+    <string name="preference_notification_preorder">Delivery notification of the reservation</string>
+    <string name="preference_notification_process_registering">Registering notification settings.</string>
+    <string name="preference_notification_process_unregistering">Unregistering notification settings.</string>
+    <string name="preference_notification_process_updating">Updating notification settings</string>
+    <string name="preference_notification_sequel">Notification for new volumes.</string>
+    <string name="preference_notification_summary_digitized">A notification will be provided when an e-book from your wish list becomes available.</string>
+    <string name="preference_notification_summary_preorder">When the reserved book of delivery has been started will be announced .</string>
+    <string name="preference_notification_summary_sequel">A notification will be provided when new volumes of purchased books are released.</string>
+    <string name="preference_register_request">"Please input the e-mail address you wish to register and tap the \"Send\" button.
+
+You will shortly receive an e-mail at that address with the URL for new member registration."</string>
+    <string name="preference_register_request_complete">"A new member registration e-mail has been sent.
+
+If you do not receive this e-mail, it is possible you either entered a previously registered e-mail address or the e-mail has been relegated to your junk mail folder.
+
+Please confirm if either case is true, if this doesn't solve your issue, please contact customer support via the inquiry form."</string>
+    <string name="preference_reminder_complete">"An e-mail has been sent to reset your password.
+If you do not receive this e-mail, please contact customer support via the inquiry form."</string>
+    <string name="preference_reminder_description">"To set a new password,
+
+please input your registered e-mail address and tap Send."</string>
+    <string name="preference_reminder_send">Send</string>
+    <string name="preference_usage_situation">Notification of device usage status</string>
+    <string name="preference_use_notification">Utilize device notification</string>
+    <string name="process_delete_content">Deleting content…</string>
+    <string name="process_get_cloud_list">Obtaining cloud list…</string>
+    <string name="process_get_registered_machines_info">Obtaining information on registered devices…</string>
+    <string name="process_unregist_device">Unregistering…</string>
+    <string name="process_user_login">Logging in…</string>
+    <string name="process_user_logout">Logging out…</string>
+    <string name="process_wait">Just a moment please…</string>
+    <string name="processing">Processing…</string>
+    <string name="processing_login">Logging in</string>
+    <string name="rapidxml_license">"RapidXml
+Copyright © 2006, 2007 Marcin Kalicinski
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the \"Software\"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE."</string>
+    <string name="readon_ask_registered">"Do you register this book？
+
+If you select a YES,the viewer will start after registered this book."</string>
+    <string name="register">Register</string>
+    <string name="register_membership">Register</string>
+    <string name="reopen">Resume</string>
+    <string name="reservation">Reservation</string>
+    <string name="reserve">Reserve Book</string>
+    <string name="resume">Resume</string>
+    <string name="right">Right</string>
+    <string name="root_preinstall_contents">Registering books for immediate reading…</string>
+    <string name="root_update_database">Database is being updated…</string>
+    <string name="sample">Sample</string>
+    <string name="sample_downloading">Downloading</string>
+    <string name="sample_error">Download failed.</string>
+    <string name="sample_is_nothing">Sample is not found.</string>
+    <string name="search">Search</string>
+    <string name="search_close">OK</string>
+    <string name="search_hint">Enter search phrase</string>
+    <string name="search_next">Next</string>
+    <string name="search_next_arrow">＜</string>
+    <string name="search_noresult">No search results found.</string>
+    <string name="search_prev">Back</string>
+    <string name="search_prev_arrow">＞</string>
+    <string name="search_wait">Searching…</string>
+    <string name="select_unregist_device">Please select the device to release from registration.</string>
+    <string name="sepia">Sepia</string>
+    <string name="setting">Settings</string>
+    <string name="setting_binding">Binding orientation</string>
+    <string name="setting_binding_auto">Automatic</string>
+    <string name="setting_binding_left">Left</string>
+    <string name="setting_binding_left_tab">Left</string>
+    <string name="setting_binding_right">Right</string>
+    <string name="setting_binding_right_tab">Right</string>
+    <string name="setting_blank">Space</string>
+    <string name="setting_blank_large">Large</string>
+    <string name="setting_blank_normal">Regular</string>
+    <string name="setting_blank_small">Small</string>
+    <string name="setting_brightness">Brightness</string>
+    <string name="setting_brightness_default">Use system settings</string>
+    <string name="setting_brightness_sleep_off">Disable screen auto-off function</string>
+    <string name="setting_color">Color</string>
+    <string name="setting_color_invert">Inverted</string>
+    <string name="setting_color_lowcontrast">Low contrast</string>
+    <string name="setting_color_none">Original</string>
+    <string name="setting_color_sepia">Sepia</string>
+    <string name="setting_control">Operation</string>
+    <string name="setting_control_doubletap">Double tap to enlarge</string>
+    <string name="setting_control_graffiti">Draw mark on image</string>
+    <string name="setting_control_tap">Tap to change page</string>
+    <string name="setting_control_tap_both">Tap both left/right sides for next page</string>
+    <string name="setting_control_tap_disabled">Do not use</string>
+    <string name="setting_control_tap_hint">When using a right sided binding, tap left to go to the next page and right to return to the previous page.</string>
+    <string name="setting_control_tap_left">Tap left side for next page</string>
+    <string name="setting_control_tap_normal">Standard</string>
+    <string name="setting_control_tap_right">Tap right side for next page</string>
+    <string name="setting_control_volume">Change pages with the volume button</string>
+    <string name="setting_control_volume_disabled">Do not use</string>
+    <string name="setting_control_volume_normal">+ button for next page</string>
+    <string name="setting_control_volume_reverse">- button for next page</string>
+    <string name="setting_display">Display</string>
+    <string name="setting_display_nombre">View book name and page number</string>
+    <string name="setting_display_statusbar">Always display status bar</string>
+    <string name="setting_font">Font</string>
+    <string name="setting_font_ipa_g">IPA Gothic</string>
+    <string name="setting_font_ipa_m">IPA Mincho</string>
+    <string name="setting_font_yu_g">Yu Gothic</string>
+    <string name="setting_font_yu_m">Yu Mincho</string>
+    <string name="setting_style">Style</string>
+    <string name="setting_style_book">Book</string>
+    <string name="setting_style_scroll">Scroll</string>
+    <string name="setting_style_scroll_h">Scroll Horiz</string>
+    <string name="setting_style_scroll_v">Scroll Vert</string>
+    <string name="setting_style_simple">Simple</string>
+    <string name="setting_style_slide">Slide</string>
+    <string name="setting_textsize">Font size</string>
+    <string name="settings_sidemenu">Side menu</string>
+    <string name="settings_sidemenu_large">Widen swipe reactivity width</string>
+    <string name="settings_sidemenu_notalways">Only enable swipes when operations bar is displayed</string>
+    <string name="settings_sidemenu_small">Narrow swipe reactivity width</string>
+    <string name="settings_siderange">Side menu area</string>
+    <string name="settings_siderange_large">Wide</string>
+    <string name="settings_siderange_none">None</string>
+    <string name="settings_siderange_normal">Standard</string>
+    <string name="settings_siderange_small">Narrow</string>
+    <string name="shadow">Shadow</string>
+    <string name="shadow_both">Both</string>
+    <string name="shadow_drop">Drop shadow</string>
+    <string name="shadow_inner">Inner shadow</string>
+    <string name="shueitai_license">"This product uses the 「秀英体フォント」format developed by Dai Nippon Printing Co., Ltd.
+「秀英体」is a registered trademark of Dai Nippon Printing Co., Ltd."</string>
+    <string name="skia_license">"skia 2D Graphics Library
+Copyright © 2011 Google Inc. All rights reserved.
+ Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+ * Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+ * Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+ * Neither the name of Google Inc. nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."</string>
+    <string name="skip">Skip</string>
+    <string name="slidingmenu_license">"SlidingMenu
+Copyright 2012–2014 Jeremy Feinstein"</string>
+    <string name="storage_change_confirm_text">Change the Save to location to %1$s ? If changed to this location all data in the currently stored location will be moved to %2$s. Continue?</string>
+    <string name="storage_change_continue">Continue</string>
+    <string name="storage_change_error_database">Failed to update database.</string>
+    <string name="storage_change_error_io">Failed to write file.</string>
+    <string name="storage_change_error_mkdirs">Failed to make a directory in destination.</string>
+    <string name="storage_change_error_nospace">Capacity of the destination is not enough.</string>
+    <string name="storage_change_error_other">Failed to move.</string>
+    <string name="storage_change_error_syncronizing">Cannot change the Save to location while synchronizing.</string>
+    <string name="storage_change_text_checking">Checking open storage.…</string>
+    <string name="storage_change_text_finishing">Complete processing…</string>
+    <string name="storage_change_text_moving">Moving files…</string>
+    <string name="storage_change_text_updating">Updating database…</string>
+    <string name="storage_change_warning_text">"Size of downloaded books is over 500MB.
+Recommend to delete redownloadable books leaving cover.
+Continue?"</string>
+    <string name="storage_default">Standard</string>
+    <string name="storage_externalsd">SD Card</string>
+    <string name="storage_notfound_text">"Cannot find the SD Card.
+Please change to standard storage
+ or cancel and close the application."</string>
+    <string name="storage_reset_confirm_text">"Reacquiring bookshelf data will start. Please change to standard storage.
+(It may take several minutes to reacquiring. Please try in good communication state place.)"</string>
+    <string name="store">Store</string>
+    <string name="store_action_feature">feature</string>
+    <string name="store_action_notifylist">notifylist</string>
+    <string name="store_action_osusume">osusume</string>
+    <string name="store_action_pickup">pickup</string>
+    <string name="store_action_ranking">ranking</string>
+    <string name="store_action_serch">search</string>
+    <string name="store_action_series">series</string>
+    <string name="store_action_tweet">tweet</string>
+    <string name="store_action_wishlist">wishlist</string>
+    <string name="store_advanced_search">Detailed search</string>
+    <string name="store_book_search">Search books</string>
+    <string name="store_btn_back_text">＜Back</string>
+    <string name="store_btn_name_sort">Sort</string>
+    <string name="store_btn_seleday_sort">By Publication Date</string>
+    <string name="store_btn_sort_sub">Filter</string>
+    <string name="store_bulk_buying">store/select.php</string>
+    <string name="store_check_ebook_only">Search e-books only</string>
+    <string name="store_continue_shopping">Continue shopping</string>
+    <string name="store_count_hits">hits</string>
+    <string name="store_count_text" />
+    <string name="store_dialog_ask_library">"Thank you for your purchase.
+
+Would you like to go to your bookshelf?"</string>
+    <string name="store_dialog_attention">Warning</string>
+    <string name="store_dialog_back">Back</string>
+    <string name="store_dialog_login_massage">"You are not logged in.
+Would you like to login?"</string>
+    <string name="store_dialog_massage_delete_new_release">"Delete this item from the New book notification.
+Is that OK?"</string>
+    <string name="store_dialog_newbook_info_title">New book notification</string>
+    <string name="store_dialog_no_item">There is no corresponding product.</string>
+    <string name="store_dialog_not_login">Not login</string>
+    <string name="store_dialog_pass_visible">Show Password</string>
+    <string name="store_dialog_password">Password</string>
+    <string name="store_dialog_purchase">Purchase complete</string>
+    <string name="store_dialog_safe_search_confirm">"Turning off safe search will include adult books in the displayed results.
+
+Is that OK?"</string>
+    <string name="store_dialog_search_massage">"There is no further volumes for this book.
+Will search by author."</string>
+    <string name="store_dialog_search_title">Search Volumes</string>
+    <string name="store_dialog_select_cart_url">Select Cart</string>
+    <string name="store_genre_comic">Comics</string>
+    <string name="store_genre_lightnovel">Light reading</string>
+    <string name="store_genre_literature">Literature</string>
+    <string name="store_genre_magazine">Magazines</string>
+    <string name="store_genre_mystore">My Store</string>
+    <string name="store_genre_practical">Practical Study</string>
+    <string name="store_go_library">Go to bookshelf</string>
+    <string name="store_image_enlarge">/store/enlarge.php</string>
+    <string name="store_leftmenu_newbook">New Release</string>
+    <string name="store_list_wait">Loading</string>
+    <string name="store_massage_back">Back</string>
+    <string name="store_massage_no_item">No information was found matching your search terms.</string>
+    <string name="store_massage_select">Please select.</string>
+    <string name="store_menu_bcreader">Barcode Reader</string>
+    <string name="store_menu_cart">Cart</string>
+    <string name="store_menu_feature">Feature</string>
+    <string name="store_menu_index">Menu</string>
+    <string name="store_menu_left_cheack">Checked list</string>
+    <string name="store_menu_left_feature">Feature</string>
+    <string name="store_menu_left_menu">Menu</string>
+    <string name="store_menu_limit">Restrictions</string>
+    <string name="store_menu_mode_list">List</string>
+    <string name="store_menu_mode_thumbnail">Grid</string>
+    <string name="store_menu_mode_tile">tile</string>
+    <string name="store_menu_mode_view">Display mode</string>
+    <string name="store_menu_myaccount">My account</string>
+    <string name="store_menu_myaccount_text">Display your membership information</string>
+    <string name="store_menu_preorder">Preoder display</string>
+    <string name="store_menu_search">Filter</string>
+    <string name="store_menu_viewed_products">Recently viewed products</string>
+    <string name="store_menu_viewer">Display mode</string>
+    <string name="store_menu_viewer_smartphone">Display for smartphone</string>
+    <string name="store_menu_viewer_tablet">Display for tablet</string>
+    <string name="store_new_arrival">New Arrival</string>
+    <string name="store_new_have_books">New Release</string>
+    <string name="store_new_release">NewRelease</string>
+    <string name="store_password_input">Please input your password</string>
+    <string name="store_password_title">Kinokuniya ID, Password</string>
+    <string name="store_permission_caution_camera">"In order to use the bar code search function, it is necessary to validate the use authority of the camera.
+Please change the setting with \"authority\" on the application information screen of the terminal.
+Open the application information screen?"</string>
+    <string name="store_reload">Update</string>
+    <string name="store_reserve">Reserve</string>
+    <string name="store_search_iap">Apple payment supported</string>
+    <string name="store_search_reader">Only display products supported by reader</string>
+    <string name="store_search_safe">Turn on Safe Search</string>
+    <string name="store_search_zoom">Trace zoom support</string>
+    <string name="store_summary_genre">Genre list</string>
+    <string name="store_summary_publisher">Publisher list</string>
+    <string name="store_summary_writer">Author list</string>
+    <string name="store_torst_bookmark_massage">Items checked will be add to the menu on the left.</string>
+    <string name="store_wishlist_text">Wish list</string>
+    <string name="styleddialogs_license">"StyledDialogs for Android
+Copyright 2013 Inmite s.r.o. (www.inmite.eu)"</string>
+    <string name="switchwidgetbackport_license">"Android Switch Widget Backport
+Copyright 2012 Benoit \"BoD\" Lubek (BoD@JRAF.org). All Rights Reserved.
+Copyright © 2012 Intrications (intrications.com)
+Copyright © 2005–2008, The Android Open Source Project"</string>
+    <string name="textbinding">Binding orientation</string>
+    <string name="textsearch">Search</string>
+    <string name="textsize">Font Size</string>
+    <string name="title">Title</string>
+    <string name="title_kana">Title (Kana)</string>
+    <string name="title_select">Select text</string>
+    <string name="tool">Tools</string>
+    <string name="tutorial_close">CLOSE</string>
+    <string name="tutorial_tutorial">Tutorial</string>
+    <string name="tutorial_update">What’s New</string>
+    <string name="tutorial_url_smartphone">http://k-kinoppy.jp/forapp_tutorial/?type=androidsp</string>
+    <string name="tutorial_url_tablet">http://k-kinoppy.jp/forapp_tutorial/?type=android7</string>
+    <string name="tutorial_url_tablet_10">http://k-kinoppy.jp/forapp_tutorial/?type=android10</string>
+    <string name="tweet">Tweet</string>
+    <string name="twitter_button_raiting_and_tweet">Share impressions</string>
+    <string name="twitter_button_raiting_only">send review</string>
+    <string name="twitter_button_tweet">Tweet</string>
+    <string name="twitter_button_verified">Verified</string>
+    <string name="twitter_close">Close</string>
+    <string name="twitter_hashtag_2nd">\#Bookshelf boast</string>
+    <string name="twitter_massage_confirm">"To authorize the tweets from this app, you can transition to an external browser.
+Are you sure you want?
+
+(approval confirmation is only the first time)"</string>
+    <string name="twitter_massage_no_connection">No Connection!</string>
+    <string name="twitter_massage_shelf_image_check">"Use this bookshelf image to the post. 
+OK?"</string>
+    <string name="twitter_menu_item_shelf_image">Boast about my bookshelf</string>
+    <string name="twitter_message_authentication_fail">Authentication failed.</string>
+    <string name="twitter_message_authentication_success">Authentication successful.</string>
+    <string name="twitter_message_verified">To authorize the tweets from this app.</string>
+    <string name="twitter_select_share">Select the share App</string>
+    <string name="twitter_title_confirm">Twitter APP Authorization</string>
+    <string name="twitter_title_evaluate">Evaluate this book</string>
+    <string name="twitter_title_shelf_image_check">Check</string>
+    <string name="twitter_title_tweet">Twitter</string>
+    <string name="unregist_device_complete">Registration release complete.</string>
+    <string name="unregist_device_failed">Failed to release from registration.</string>
+    <string name="unregister">Release</string>
+    <string name="update_information_url">http://k-kinoppy.jp/forapp.html?os=android</string>
+    <string name="url_support" />
+    <string name="viewer">Viewer</string>
+    <string name="viewer_annotation_add_done">Mark added.</string>
+    <string name="viewer_annotation_delete_done">Mark deleted.</string>
+    <string name="viewer_annotation_edit_done">Mark edited.</string>
+    <string name="viewer_appendix_action_back_bookshelf">Return to bookshelf</string>
+    <string name="viewer_appendix_action_buy">Check in store</string>
+    <string name="viewer_appendix_action_download">Download to read</string>
+    <string name="viewer_appendix_action_download_error">Download Error</string>
+    <string name="viewer_appendix_action_downloading">now loading</string>
+    <string name="viewer_appendix_action_gocloud">Open in cloud</string>
+    <string name="viewer_appendix_action_read">Read</string>
+    <string name="viewer_appendix_action_request_download">Please wait</string>
+    <string name="viewer_appendix_closebook">Close a book</string>
+    <string name="viewer_appendix_getting_deta">Data in getting</string>
+    <string name="viewer_appendix_readingpoint_alert">Will be also reflected in other books</string>
+    <string name="viewer_appendix_readingpoint_message">Back to the first page after reading to the end</string>
+    <string name="viewer_appendix_readingpoint_setting">Setting the reading position</string>
+    <string name="viewer_appendix_section_before">Before volume</string>
+    <string name="viewer_appendix_section_next">Next volume</string>
+    <string name="viewer_appendix_section_rate">Review this book?</string>
+    <string name="viewer_appendix_section_rate_message">Rating will be posted to the Kinokuniya Web Store</string>
+    <string name="viewer_appendix_subtitle_buy">Not purchased book</string>
+    <string name="viewer_appendix_subtitle_download">Not downloaded</string>
+    <string name="viewer_appendix_subtitle_gocloud">Is in cloud</string>
+    <string name="viewer_appendix_subtitle_read">Is in a bookshelf</string>
+    <string name="viewer_appendix_subtitle_unreleased">Next volume UnReleased</string>
+    <string name="viewer_appendix_subtitle_unreleased_before">Before volume UnReleased</string>
+    <string name="viewer_appendix_tweetbutton">Tweet impressions</string>
+    <string name="viewer_appendix_view_rating">See book evaluation</string>
+    <string name="viewer_audio">Audio Playing</string>
+    <string name="viewer_audio_notsupported">Audio not supported at this model</string>
+    <string name="viewer_before_checking">Last Volume checking…</string>
+    <string name="viewer_before_open">Open previous book.</string>
+    <string name="viewer_before_unknown">Previous book was not found.</string>
+    <string name="viewer_bibliography_author">Author</string>
+    <string name="viewer_bibliography_description">Description</string>
+    <string name="viewer_bibliography_fileinfo">Book File Infomation</string>
+    <string name="viewer_bibliography_genre">Genre</string>
+    <string name="viewer_bibliography_publisher">Publisher</string>
+    <string name="viewer_bibliography_series">Series</string>
+    <string name="viewer_bibliography_share">Share</string>
+    <string name="viewer_bibliography_title">Title</string>
+    <string name="viewer_bibliography_wiki">Search with Wikipedia</string>
+    <string name="viewer_binding_message">"Horizontal writing is not a display format publisher has set.
+It may not be displayed correctly."</string>
+    <string name="viewer_bookmark_add_done">Bookmark added.</string>
+    <string name="viewer_bookmark_delete_done">Bookmark deleted.</string>
+    <string name="viewer_copy_text_done">Copied.</string>
+    <string name="viewer_copy_text_over_5percent">You have copied more than 5% of the total text.</string>
+    <string name="viewer_copy_text_over_640">Cannot copy more than 640 characters at one time.</string>
+    <string name="viewer_copy_text_over_quota">Cannot copy any more of this page.</string>
+    <string name="viewer_delete_annotation">Delete mark</string>
+    <string name="viewer_delete_annotation_message">Would you like to delete this mark?</string>
+    <string name="viewer_delete_bookmark">Delete bookmark</string>
+    <string name="viewer_delete_bookmark_message">Would you like to delete this bookmark?</string>
+    <string name="viewer_download_cancel">Cancelling download</string>
+    <string name="viewer_download_downloading_format">Downloading %s…</string>
+    <string name="viewer_download_failed">Download failed.</string>
+    <string name="viewer_download_font_title">Download font</string>
+    <string name="viewer_download_installing_format">Installing %s…</string>
+    <string name="viewer_edit">Edit</string>
+    <string name="viewer_edit_annotation">Edit mark</string>
+    <string name="viewer_error_download_graffiti">Failed to download mark.</string>
+    <string name="viewer_error_license_domain">License error</string>
+    <string name="viewer_error_license_info">Unable to acquire license.</string>
+    <string name="viewer_error_license_over">You have exceed the limit for license acquisitions. Please try again after a short while.</string>
+    <string name="viewer_error_need_update">"This file cannot be opened with this application version.
+Please update to the latest version."</string>
+    <string name="viewer_error_nofile_domain">Cannot find the file.</string>
+    <string name="viewer_error_nofile_info">Please add a content file.</string>
+    <string name="viewer_error_noread_comicflow_info">XMDF comic flow formats are not supported.</string>
+    <string name="viewer_error_noread_domain">Cannot read the file.</string>
+    <string name="viewer_error_noread_info">"Either the file format is not supported or the file is corrupted.
+Please delete the file and resynchronize."</string>
+    <string name="viewer_error_timeout_domain">Timeout error</string>
+    <string name="viewer_error_timeout_info">File is taking a long time to load. Please wait a bit before trying.</string>
+    <string name="viewer_error_unknown_domain">Unknown error</string>
+    <string name="viewer_error_unknown_info">An unknown error has occurred.</string>
+    <string name="viewer_error_upload_graffiti">Failed to upload mark.</string>
+    <string name="viewer_first_page">First page</string>
+    <string name="viewer_font_download_canceled">Download cancelled.</string>
+    <string name="viewer_font_download_completed">Download complete.</string>
+    <string name="viewer_font_download_confirm">Would you like to download?</string>
+    <string name="viewer_freescroll">Free scroll</string>
+    <string name="viewer_graffiti_clear_message">Would you like to clear all mark in this page?</string>
+    <string name="viewer_graffiti_clear_title">Clear Mark</string>
+    <string name="viewer_graffiti_limit_message">No more marks can be accepted, delete another.</string>
+    <string name="viewer_hint_control_tap">"You can change pages by tapping the settings
+from the menu on the right."</string>
+    <string name="viewer_indexes">Contents</string>
+    <string name="viewer_last_page">Last page</string>
+    <string name="viewer_next_checking">Next Volume checking…</string>
+    <string name="viewer_next_deleted_message">Please synchronize bookshelf to regist deleted book to bookshelf.</string>
+    <string name="viewer_next_download_and_open">Download and open next book.</string>
+    <string name="viewer_next_incloud">Regist to bookshelf, download and open next book.</string>
+    <string name="viewer_next_network_unconnected">Cannot connect to internet.</string>
+    <string name="viewer_next_open">Open next book.</string>
+    <string name="viewer_next_open_store">Go detail page.</string>
+    <string name="viewer_next_unknown">Next book was not found.</string>
+    <string name="viewer_next_unreleased">Next book is not released.</string>
+    <string name="viewer_no_annotations">There are no marks.</string>
+    <string name="viewer_no_bookmarks">There are no bookmarks.</string>
+    <string name="viewer_now_reflowing">Analyzing page…</string>
+    <string name="viewer_pageview">Page view</string>
+    <string name="viewer_reflow_textsize_format">"Font size %s
+Tap to confirm."</string>
+    <string name="viewer_relay_error_message">"You'll be back to bookshelf. Please select the book again."</string>
+    <string name="viewer_relay_error_title">Viewer</string>
+    <string name="viewer_remove">Delete</string>
+    <string name="viewer_search_by_google">Search with Google</string>
+    <string name="viewer_search_by_wikipedia">Search with Wikipedia</string>
+    <string name="viewer_search_by_yahoo">Search with Yahoo dictionary</string>
+    <string name="viewer_search_in_another_app">Search in app</string>
+    <string name="viewer_search_in_book">Search inside this book</string>
+    <string name="viewer_search_next">Next</string>
+    <string name="viewer_search_prev">Back</string>
+    <string name="viewer_subcontents_close">Close</string>
+    <string name="viewer_sync_reading_message">This books reading position has been updated. Would you like to move to latest reading position?</string>
+    <string name="viewer_sync_reading_title">Update reading position</string>
+    <string name="viewer_text_select_compose">Compose Mark</string>
+    <string name="viewer_text_select_copy">Copy Text</string>
+    <string name="viewer_text_select_discard">Delete Mark</string>
+    <string name="viewer_text_select_edit">Edit Mark</string>
+    <string name="viewer_text_select_search">Search Text</string>
+    <string name="viewer_text_select_share">Share Text</string>
+    <string name="viewer_thumbnails">Page List</string>
+    <string name="viewer_thumbnails_all">All</string>
+    <string name="viewer_thumbnails_annotations">Marks</string>
+    <string name="viewer_thumbnails_bookmarks">Bookmarks</string>
+    <string name="viewer_tracezoom">Trace Zoom</string>
+    <string name="viewer_tracezoom_autoplay">Auto Playing</string>
+    <string name="viewer_tracezoom_mask_transparent">Frame transparency</string>
+    <string name="viewer_tracezoom_play_speed">Display time for each frame: %.1f seconds</string>
+    <string name="viewer_url_help_control">http://hybooksystems.com/tips/tap_en.html</string>
+    <string name="viewer_url_help_style">http://hybooksystems.com/tips/style_en.html</string>
+    <string name="viewer_url_search_google">http://www.google.co.jp/search?q=%s</string>
+    <string name="viewer_url_search_wikipedia">http://ja.wikipedia.org/w/index.php?search=%s</string>
+    <string name="viewer_viewport">Viewport</string>
+    <string name="xmdf_license">"This product uses the XMDF format developed by Sharp Corporation.
+XMDF is a registered trademark of Sharp Corporation."</string>
+    <string name="yes">Yes</string>
+    <string name="yumincyo_ic_license">"This product uses INFOCITY Inc's 游明朝体IC外字 licensed by JIYUKOBO Ltd.
+游書体ライブラリー is a registered trademark of JIYUKOBO Ltd."</string>
+    <string name="yumincyo_license">"This product uses the 「游明朝 Pr6N M」format developed by JIYUKOBO Ltd.
+游書体ライブラリー is a registered trademark of JIYUKOBO Ltd."</string>
+    <string name="zlib_license">"zlib.h –– interface of the 'zlib' general purpose compression library
+version 1.2.8, April 28th, 2013
+Copyright (C) 1995–2013 Jean–loup Gailly and Mark Adler
+This software is provided 'as–is', without any express or implied warranty. In no event will the authors be held liable for any damages arising from the use of this software.
+Permission is granted to anyone to use this software for any purpose, including commercial applications, and to alter it and redistribute it freely, subject to the following restrictions:
+1. The origin of this software must not be misrepresented; you must not claim that you wrote the original software. If you use this software in a product, an acknowledgment in the product documentation would be appreciated but is not required.
+2. Altered source versions must be plainly marked as such, and must not be misrepresented as being the original software.
+3. This notice may not be removed or altered from any source distribution.
+Jean–loup Gailly Mark Adler
+jloup@gzip.org madler@alumni.caltech.edu"</string>
+    <string name="zutubi_license">"Zutubi Android Ant Tasks
+Copyright 2006–2013 Zutubi Pty Ltd"</string>
+    <string name="zxing_license">"ZXing
+Copyright 2014 ZXing authors"</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="default_web_client_id">487634076518-erd3hcpk3kf4ifjv0r77h8nvmsj1ap0r.apps.googleusercontent.com</string>
+    <string name="firebase_database_url">https://default-demo-app-a7f61.firebaseio.com</string>
+    <string name="gcm_defaultSenderId">487634076518</string>
+    <string name="google_api_key">AIzaSyA2CHYJFx002ohWf0KpzilXjYvEAcgPFjc</string>
+    <string name="google_app_id">1:487634076518:android:744a9d47616d1226</string>
+    <string name="google_crash_reporting_api_key">AIzaSyA2CHYJFx002ohWf0KpzilXjYvEAcgPFjc</string>
+    <string name="google_storage_bucket">default-demo-app-a7f61.appspot.com</string>
+    <string name="register_address">https://www.kinokuniya.co.jp/member/CMmMemberEntry.jsp</string>
+    <string name="v7_preference_off">OFF</string>
+    <string name="v7_preference_on">ON</string>
+</resources>

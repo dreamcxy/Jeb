@@ -1,0 +1,1805 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="accept">Accept</string>
+    <string name="cast_notification_connected_message">Connected to %1$s</string>
+    <string name="cast_notification_connecting_message">Connecting to %1$s</string>
+    <string name="cast_notification_disconnect">Disconnect</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
+    <string name="create_calendar_title">Create calendar event</string>
+    <string name="day_picker_description">Month grid of days</string>
+    <string name="debug_menu_ad_information">Ad Information</string>
+    <string name="debug_menu_creative_preview">Creative Preview</string>
+    <string name="debug_menu_title">Select a Debug Mode</string>
+    <string name="debug_menu_troubleshooting">Troubleshooting</string>
+    <string name="decline">Decline</string>
+    <string name="deleted_key"><g example="4" id="key">%1$s</g> deleted</string>
+    <string name="done_label">Done</string>
+    <string name="hour_picker_description">Hours circular slider</string>
+    <string name="item_is_selected">%1$s selected</string>
+    <string name="minute_picker_description">Minutes circular slider</string>
+    <string name="mr_button_content_description">Cast button</string>
+    <string name="mr_cast_button_connected">Cast button. Connected</string>
+    <string name="mr_cast_button_connecting">Cast button. Connecting</string>
+    <string name="mr_cast_button_disconnected">Cast button. Disconnected</string>
+    <string name="mr_chooser_searching">Finding devices</string>
+    <string name="mr_chooser_title">Connect to device</string>
+    <string name="mr_controller_album_art">Album art</string>
+    <string name="mr_controller_casting_screen">Casting screen</string>
+    <string name="mr_controller_close_description">Close</string>
+    <string name="mr_controller_collapse_group">Collapse</string>
+    <string name="mr_controller_disconnect">Disconnect</string>
+    <string name="mr_controller_expand_group">Expand</string>
+    <string name="mr_controller_no_info_available">No info available</string>
+    <string name="mr_controller_no_media_selected">No media selected</string>
+    <string name="mr_controller_pause">Pause</string>
+    <string name="mr_controller_play">Play</string>
+    <string name="mr_controller_stop_casting">Stop casting</string>
+    <string name="mr_controller_volume_slider">Volume slider</string>
+    <string name="mr_system_route_name">System</string>
+    <string name="mr_user_route_category_name">Devices</string>
+    <string name="search_menu_title">Search</string>
+    <string name="select_day">Select month and day</string>
+    <string name="select_hours">Select hours</string>
+    <string name="select_minutes">Select minutes</string>
+    <string name="select_year">Select year</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="store_picture_message">Allow Ad to store image in Picture gallery?</string>
+    <string name="store_picture_title">Save image</string>
+    <string name="year_picker_description">Year list</string>
+    <string name="__account_confirmation">Confirmation</string>
+    <string name="__account_confirmation_description">"You've successfully created your account"</string>
+    <string name="__account_confirmation_title">Congratulations</string>
+    <string name="__account_error_credentials">Wrong login and/or password</string>
+    <string name="__account_error_info_missing">Please fill in the blank fields</string>
+    <string name="__account_error_mail_exists">This email is already associated with an account.</string>
+    <string name="__account_error_password_cap">Password should have at least one uppercase character</string>
+    <string name="__account_error_password_matching">Passwords do not match</string>
+    <string name="__account_error_wrong_parameters">Error wrong parameters</string>
+    <string name="__account_forgot_password">Forgotten password</string>
+    <string name="__account_forgot_password_an_error_occured_send_mail">An error occured while sending your e-mail.</string>
+    <string name="__account_forgot_password_desc">Enter your e-mail</string>
+    <string name="__account_forgot_password_send">Send</string>
+    <string name="__account_forgot_password_send_success">"Please check your email.
+We've sent you an email that will allow you to reset your password quickly and easily."</string>
+    <string name="__account_no_product">No product</string>
+    <string name="__account_payment">Payment</string>
+    <string name="__account_registration">Registration</string>
+    <string name="__account_subscribe_form_title">Create Account Form</string>
+    <string name="__add_team_to_favorites">Add to favorites</string>
+    <string name="__add_to_favorites">Add to favorites !</string>
+    <string name="__address">Address</string>
+    <string name="__advertising">Information</string>
+    <string name="__alert_event">Alert me of this event</string>
+    <string name="__alert_title">Alerts</string>
+    <string name="__alert_view_webview_title">Redirection</string>
+    <string name="__all">All</string>
+    <string name="__all_filter">All</string>
+    <string name="__all_leaders_by_category">All Leaders By Category</string>
+    <string name="__america">America</string>
+    <string name="__an_error_occured_while_adding_the_tweet_to_your_favorites">An error occured while adding the tweet to your favorites</string>
+    <string name="__an_error_occured_while_deleting_your_retweet">An error occured while deleting your retweet.</string>
+    <string name="__an_error_occured_while_removing_the_tweet_from_your_favorites">An error occured while removing the tweet from your favorites</string>
+    <string name="__an_error_occured_while_sending_your_retweet">An error occured while sending your retweet.</string>
+    <string name="__are_you_sure_you_want_to_add_that_tweet_to_your_favorites">Are you sure you want to add that Tweet to your favorites ?</string>
+    <string name="__are_you_sure_you_want_to_retweet_that_tweet">Are you sure you want to retweet that tweet ?</string>
+    <string name="__autorise_photo_setting">Please go to Settings > Confidential > Photos, to allow access to your gallery</string>
+    <string name="__av_d1_l1">AV D1 L1</string>
+    <string name="__av_d1_l2">AV D1 L2</string>
+    <string name="__av_d2_l1">AV D2 L1</string>
+    <string name="__av_d2_l2">AV D2 L2</string>
+    <string name="__average_speed">AV Speed :</string>
+    <string name="__avg_lap">AV Lap</string>
+    <string name="__avg_speed">Avg Speed</string>
+    <string name="__avg_time">AV Time</string>
+    <string name="__back_to_live">Back to live</string>
+    <string name="__barhein">Barheïn</string>
+    <string name="__become_wec_member">Become a FIA WEC Member</string>
+    <string name="__best_highlights">Best Highlights</string>
+    <string name="__best_lap">Best lap</string>
+    <string name="__buy_now">Buy now</string>
+    <string name="__buy_race_pack">Buy the race pack to relive the last race</string>
+    <string name="__cancel">Cancel</string>
+    <string name="__cancel_modal">Cancel</string>
+    <string name="__car">Car</string>
+    <string name="__car_filter">Cars</string>
+    <string name="__cars_average">"Car's average"</string>
+    <string name="__cars_best_lap">"Car's Best lap"</string>
+    <string name="__category_filter">Categories</string>
+    <string name="__ccl_cancel">Cancel</string>
+    <string name="__ccl_casting_to">"Casting to "</string>
+    <string name="__ccl_connect_to_device">Connect to device</string>
+    <string name="__ccl_disconnect">"Disconnect "</string>
+    <string name="__ccl_error">Error</string>
+    <string name="__ccl_failed_no_connection">Failed to connect</string>
+    <string name="__ccl_ready_to_cast_to">Ready to cast to</string>
+    <string name="__checking_new_app_version">Checking new app version ...</string>
+    <string name="__chk">Chk</string>
+    <string name="__circuit">Circuit</string>
+    <string name="__close">Close</string>
+    <string name="__confirm_password_placeholder">Confirm password</string>
+    <string name="__connect">Connect</string>
+    <string name="__connect_to_account">Connect to your account</string>
+    <string name="__connect_your_twitter_account_to_react_in_live">"Log in with your Twitter account
+to react in live."</string>
+    <string name="__connect_your_twitter_account_to_react_in_live_and_get_the_tweets_from_FIA_WEC">"Log in with your Twitter account
+to get our selection of tweets
+and to react in live."</string>
+    <string name="__connection_lost">"Connection lost - The data won't be updated"</string>
+    <string name="__convert_local_time">Convert to local time</string>
+    <string name="__convert_race_time">Convert to race time</string>
+    <string name="__copy_photo">Your picture has been copied</string>
+    <string name="__copy_the_link">Copy the link</string>
+    <string name="__copy_the_link_of_the_tweet">Copy the link of the tweet</string>
+    <string name="__country">Country</string>
+    <string name="__country_placeholder">Country</string>
+    <string name="__create_an_account">Create an account</string>
+    <string name="__create_an_account_description">Create your account now and follow the 2017 season on all your devices</string>
+    <string name="__create_an_account_subtitle">Create account subtitle</string>
+    <string name="__date_format">yyyy-MM-dd</string>
+    <string name="__day_abbrev_countdown">Day</string>
+    <string name="__days">DAY</string>
+    <string name="__dnr">DNR</string>
+    <string name="__driver1">Driver 1</string>
+    <string name="__driver2">Driver 2</string>
+    <string name="__driver_filter">Drivers</string>
+    <string name="__drivers">Drivers</string>
+    <string name="__enter_comment_share">Type your description here...</string>
+    <string name="__error">Error</string>
+    <string name="__facebook">Facebook</string>
+    <string name="__failed_to_get_init">Sorry an error occured, please check your connection.</string>
+    <string name="__fastest_laps">Fastest Laps</string>
+    <string name="__favorites">Favorites</string>
+    <string name="__fia_wec_twitter">FIA WEC</string>
+    <string name="__fia_wec_twitter_old">24 Heures du Mans</string>
+    <string name="__filter">Filter</string>
+    <string name="__first_name_placeholder">First Name</string>
+    <string name="__follow_lemans_message">Sign up to receive notifications of the latest news and updates throughout the event</string>
+    <string name="__follow_lemans_title">Follow the 24 Hours of Le Mans with Rolex</string>
+    <string name="__fp_result_by_category">Free Practice Result By Category</string>
+    <string name="__frames">Frames</string>
+    <string name="__francorchamps">Francorchamps</string>
+    <string name="__free_practice">Free practice</string>
+    <string name="__fuji">Fuji</string>
+    <string name="__full_grid">Full Grid</string>
+    <string name="__full_live_timing">Full Live Timing</string>
+    <string name="__gap">Gap</string>
+    <string name="__go_to_settings_twitter_to_add_a_new_account">Go to Settings > Twitter to add a new account.</string>
+    <string name="__heure_debut_fin">" Start time: %1$s | Finish time: %2$s"</string>
+    <string name="__highlight_copyright">© FIA WEC 2016</string>
+    <string name="__highlight_copyright_old">© 24h Le Mans 2016</string>
+    <string name="__highlights">Highlights</string>
+    <string name="__highlights_best_of_season">Best Of Season</string>
+    <string name="__highlights_live_race">Live Race</string>
+    <string name="__highlights_no_info">No highlights are available</string>
+    <string name="__home">Home</string>
+    <string name="__home_highlight_date_formatter">EEE, MMM d</string>
+    <string name="__home_media_date_formatter">EEE, MMM d - h:mm a</string>
+    <string name="__home_subscribtion">Subscription</string>
+    <string name="__home_subscribtion_description">Reach the exclusive contents of all races</string>
+    <string name="__hour_abbrev_countdown">Hrs</string>
+    <string name="__hour_format">h:mm a</string>
+    <string name="__hrs">HRS</string>
+    <string name="__hybrid">Hybrid</string>
+    <string name="__in_pit">Pit</string>
+    <string name="__info_modal">Information</string>
+    <string name="__info_update_text">A new version of the application is available. Do you want to update the app now ?</string>
+    <string name="__information">Information</string>
+    <string name="__informations">informations</string>
+    <string name="__init_data_error">The application was unable to open. Please try again later</string>
+    <string name="__inside_categories">Categories</string>
+    <string name="__inside_categories_desc_lmp1">"\"LE MANS\" PROTOTYPE 1 category includes :
+
+- \"LE MANS\" PROTOTYPE 1 Hybrid: with Energy Recovery System (ERS).
+- \"LE MANS\" PROTOTYPE 1 : with no Energy Recovery System (ERS) reserved only for privateers.
+
+The LMP1 Private Teams category is reserved exclusively for independent private teams. A team that is independent of a manufacturer means a team that does not benefit from any support from a manufacturer other than for the single supply of engines, services relating to these engines or commercial support. Any support from a manufacturer relating to the chassis or to chassis systems is prohibited. It is understood that traction control is considered as a chassis system.
+
+Engines :
+Engine is free except following restrictions:
+- Only Petrol or Diesel 4 stroke engines with reciprocating pistons are permitted.
+- Engine cubic capacity is free for \"LM\" P1-Hybrid cars
+- Engine cubic capacity must not exceed 5500 cm3 for \"LM\" P1 cars.
+
+Number panels :
+Pantone red 485, with white numbers.
+
+Driver Categories :
+Bronze drivers are not permitted.
+
+Minimum Weight :
+870 kg for LMP1-Hybrid
+850 kg for LMP1
+
+Fuel Tank Capacity :
+Petrol: 68.3 litres
+Diesel: 54.2 litres
+
+Dimensions :
+- Wheelbase: Free but it must be identical to that registered in the Homologation Form.
+- Overall length: 4650 mm maximum.
+- The front overhang is limited to 1000 mm.
+- The rear overhang is limited to 750 mm.
+- Overall width: 1900 mm maximum and 1800mm minimum.
+- Height: No part of the bodywork is permitted to be more than 1050 mm above the reference surface.
+
+Fuel Flow Metering :
+Homologated \"Fuel Flow Meters\" (Technical List n°45) described in Appendix D must be integrated into the fuel system according to the specification included in Appendix D.
+A homologated sensor must be fitted which directly measures the fuel pressure in the feed line of the main fuel flow meter. This signal must be supplied to the FIA data logger.
+
+Fuel Energy per Kilogram :
+The fuel energy is the amount of chemical energy contained in one kilogram of fuel. It is calculated from the calorific values given by the official fuel supplier.
+
+Fuel Energy per Lap :
+The fuel energy per lap is the total amount of fuel energy contained in the fuel mass allocated for one lap. It is obtained by multiplying the fuel mass allocated for one lap expressed in kilogram by the Fuel Energy per kilogram.
+
+Technology Factor :
+The Fuel Technology Factor is a function of the ratio of Diesel over Petrol efficiencies.
+The K Technology Factor is a function of Diesel and Gasoline Power Trains Weight and ERS options (See Appendix B).
+The Technology Factor is the product of Fuel and K
+
+Technology Factors :
+The Fuel Energy per lap allocated for the Diesel engine is result of the Fuel Energy per lap allocated for the Petrol Engine divided by the technology factor."</string>
+    <string name="__inside_categories_desc_lmp2">"\"LE MANS\" PROTOTYPE 2 (\"LM\" P2) is a racing car with no production minimum required.
+Open or closed (*) car, destined only to teams independent of manufacturers and/or engine suppliers.
+
+The cars that may be considered as \"factory cars\", whose technical characteristics and level of development are clearly not complying with the objectives of the LMP2 regulations may be refused by the Endurance Committee.
+
+The selling price of the complete new car without the engine, but with all available options must not exceed 370 000€. For closed cars, the selling price must not exceed 450.000€.
+
+All projects for the construction of a new car, or evolution of an existing model, must be submitted to the Endurance Committee for approval prior the homologation procedure.
+
+Engine :
+Engine Homologated
+
+Maximum cylinder capacity :
+Normally aspirated petrol: 5000cc 8 cyl. maximum
+Turbo/ supercharged petrol: 3200cc 6 cyl. maximum
+
+Number panels :
+Pantone blue 653, with white numbers.
+
+Driver Categories :
+A crew of 2 or 3 drivers must include at least one Silver or Bronze driver.
+
+Minimum weight :
+900 kg
+The minimum weight includes the skid block defined in Article 3.5.6.
+
+Fuel Tank Capacity :
+75 Litres
+ 
+Dimensions :
+- Wheelbase : Free but it must be identical to that registered in the Homologation Form.
+- Height : No part of the bodywork is permitted to be more than 1030 mm (*) above the reference surface, except the rear rollover structure fairing that may be 10 mm maximum above the rear rollover structure. 
+(*) 1050 mm for LMP2 equiped with a chassis in compliance with the 2014 LMP1 regulations.
+- The front overhang is limited to 1000 mm.
+- The rear overhang is limited to 750 mm (including the rear wing)."</string>
+    <string name="__inside_categories_desc_lmpgteam">"\"Le Mans\" GRAND TOURING ENDURANCE (\"LM\" GTE) is a car having an aptitude for sport with 2 doors, 2 or 2+2 seats, opened or closed, which can be used perfectly legally on the open road and available for sale thanks to the dealer network of a manufacturer recognised by the Endurance Committee.
+
+LMGTE-AM is a group destined only to amateurs. In this group only cars having 1 year old or fully in compliance with the specifications of the previous year car - unless specified in these regulations - will be admitted.
+
+Engine :
+Normally aspirated engines: 5500 cc maximum
+Turbocharged / Supercharged engines: 4000 cc maximum.
+
+Driver Categories :
+A crew of 2 or 3 drivers must include at least 1 Bronze and 1 bronze or Silver.
+
+Dimensions :
+Maximum dimensions :
+- Overall length: 480 cm
+- Front overhang: 125 cm
+- Rear overhang: 110 cm
+- Overall width: 205 cm (excluding rear view mirrors)
+
+Number Panels :
+Pantone orange 021C, with white numbers.
+
+Minimum weight :
+1245 kg. Except for the weighing procedure used during the practice sessions, it is the weight of the car with no driver and no fuel on board.
+
+Fuel Tank Capacity :
+90 litres"</string>
+    <string name="__inside_categories_desc_lmpgtepro">"\"Le Mans\" GRAND TOURING ENDURANCE (\"LM\" GTE) is a car having an aptitude for sport with 2 doors, 2 or 2+2 seats, opened or closed, which can be used perfectly legally on the open road and available for sale thanks to the dealer network of a manufacturer recognised by the Endurance Committee.
+
+LMGTE-PRO is a group destined more especially to professional.
+
+Engine :
+Normally aspirated engines: 5500 cc maximum
+Turbocharged / Supercharged engines: 4000 cc maximum.
+
+Driver Categories :
+The composition of the crews is free.
+
+Dimensions :
+Maximum dimensions :
+- Overall length: 480 cm
+- Front overhang: 125 cm
+- Rear overhang: 110 cm
+- Overall width: 205 cm (excluding rear view mirrors)
+
+Number Panels :
+Pantone green 355, with white numbers.
+
+Minimum weight :
+1245 kg. Except for the weighing procedure used during the practice sessions, it is the weight of the car with no driver and no fuel on board.
+
+Fuel Tank Capacity :
+90 litres"</string>
+    <string name="__inside_categories_gtam">GT AM</string>
+    <string name="__inside_categories_gtpro">GT PRO</string>
+    <string name="__inside_categories_lmp1">LM P1</string>
+    <string name="__inside_categories_lmp2">LM P2</string>
+    <string name="__inside_categories_text">"Check out all
+the categories"</string>
+    <string name="__inside_official_cars">Official Cars</string>
+    <string name="__inside_official_fuel">Official Fuel Partners</string>
+    <string name="__inside_official_manufacurers">Official Manufacturers</string>
+    <string name="__inside_official_partners">Official Partners</string>
+    <string name="__inside_official_timing">Official Timing Partner</string>
+    <string name="__inside_partners">Partners/Manufacturers</string>
+    <string name="__inside_partners_text">"Discover the list
+of our partners/manufacturers"</string>
+    <string name="__inside_presentation">Presentation</string>
+    <string name="__inside_presentation_p1">"When the FIA World Endurance Championship took to the tracks in March 2012, it marked the dawning of a new era in endurance racing.Just three seasons later, some of the world’s most prestigious and successful motor manufacturers including Aston Martin, Audi, Corvette, Ferrari, Nissan, Porsche and Toyota are participating in this most technically relevant of motorsport disciplines.  
+In 2016, teams representing these marques will be among the 35 entries battling it out for World Championship titles in front of an ever-growing audience of fans and followers.  The WEC will race on four continents and continue to bring the ‘Spirit of Le Mans’ to motorsport fans in the UK, Belgium, Germany, USA, Japan, China and Bahrain.  The cornerstone of the Championship, the 24 Hours of Le Mans, will once again be the third round and bring together the crème de la crème of international endurance racing for the greatest sportscar race in the world.
+In 2014 the new LMP1 regulations for renewable energy were implemented and endurance racing is once again at the forefront of the technological research and development which goes into our road cars of tomorrow. The fact that 30 percent less fuel was used to achieve lap times that matched, or even surpassed, those of 2013 demonstrates what can be achieved through relevant motorsport."</string>
+    <string name="__inside_presentation_p2">"Beyond the manufacturer teams and professional drivers in the LMP1 category, the competition in LMP2 and the GTE categories is sure to once again be fierce. The LMP2 class will benefit from the presence of a number of new, high-level entrants, while in the GTE category Aston Martin and Porsche will be determined to challenge three-time GT World Champions, Ferrari.  Endurance Racing is nothing without the private teams and gentlemen drivers who race in some of these categories, and their participation adds to the challenge, excitement and spirit of the discipline.  
+With one new venue, the legendary Nürburgring in Germany, new teams, new drivers and the prospect of even closer competition, 2016 will see another thrilling World Endurance Championship season.  Welcome to our world!"</string>
+    <string name="__inside_presentation_text">"All you need
+to know about WEC"</string>
+    <string name="__inside_presentation_title">"FIA WEC:  THE LEGEND CONTINUES"</string>
+    <string name="__inside_rules">Rules</string>
+    <string name="__inside_rules_sport">Sportive</string>
+    <string name="__inside_rules_sport_desc_admin_scruteneering">"Before every race, it is not only the cars which are checked by a team of officially appointed scrutineers.  The team manager and drivers from each team must present themselves and all the necessary documents, licences and authorisations for Administrative checks.  
+
+In sports car racing driver line ups do not always remain constant throughout the season, and it is therefore important that this takes place at every event to ensure that everyone complies with the regulations.  
+
+Drivers must also present their equipment for checks including helmet, HANS device, fireproof race suits, boots and gloves."</string>
+    <string name="__inside_rules_sport_desc_autograph_sessions">"Our fans are a very important part of our championship season, and we are proud that we offer more access to the drivers and teams than many other series.  
+
+As part of this access, all WEC drivers take part in a scheduled autograph session at every event, usually in front of their open pit garages.  "</string>
+    <string name="__inside_rules_sport_desc_briefing_practice_unformatted">"A briefing session for all drivers entered in the event and their Team Managers will be held by the Race Director at every event.  This is primarily to highlight the sporting regulations particular to each track, safety issues or any changes to procedures.
+
+If, for example, changes are made to the layout of the track following a practice session and before the race, and the Race Director considers that another briefing is necessary, this will be organised.
+
+Only drivers and cars that have passed the administrative checks and scrutineering are authorised to take part in official practice.  All drivers must take part in practice sessions, and set a minimum qualifying time.  If the race will run at night or in the hours of darkness, all drivers must complete at least three laps, crossing the start/finish line at least once.
+
+Drivers in the LMP1, LMP2 and LMGTE Pro categories must set a time which is equal to:
+a) 120 percent of the average of the best 3 times set by 3 cars of different makes 
+b) 110 percent of the best time set by the fastest car in its category 
+
+Drivers in the LMGTE Am category: 
+a) During one of the official practice sessions, the car must set a time at least equal to 120 percent of the average of the best 3 times set by three cars of different makes. 
+b) During one of the official practice sessions, drivers must set a time at least equal to 110 percent of the best time set by the fastest car in its category. "</string>
+    <string name="__inside_rules_sport_desc_cars_allowed">"The events are reserved exclusively for \"Le Mans Prototype\" cars (LMP1 and LMP2) and \"Le Mans Grand Touring Endurance\" cars (LMGTE Pro and LMGTE Am) as defined in the applicable Technical Regulations and homologated by the FIA and/or the ACO, in accordance with the 2016 Technical Regulations.
+
+Full details for each category can be found in the 2016 Technical Regulations.
+
+Reserve cars – a car that is not intended to take part in the event but to substitute for the one registered by the competitor as the principal race car – are not permitted.
+ 
+Exceptionally, and depending on the interest that they might represent for the Championship, the Selection Committee may admit one or more additional cars, subject to their conformity with the applicable Technical and Homologation regulations.   These cars will be visible in the final classification but will not score points.
+
+For the 24-Hour Event only, the manufacturers registered for the FIA World Endurance Championship may enter a 3rd car; however only the points of the 2 best cars will count for the Manufacturers’ Championship title.  The drivers of this 3rd car will nevertheless be able to score points in the Drivers' World Championship. "</string>
+    <string name="__inside_rules_sport_desc_classification_unformatted">"The car placed first is the one that has covered the greatest distance up to the showing of the chequered flag (note: the position of the cars on the starting grid is not taken into account). 
+
+To be classified, a car must cross the finish line on the race track when the chequered flag is shown and have covered at least 70 percent of the distance covered by the car classified in first place. 
+
+"</string>
+    <string name="__inside_rules_sport_desc_discipline_entrants">"        •        It is prohibited to drive a car in the opposite direction to that of the race unless, and only when instructed to do, a driver is asked to move from a dangerous position by marshals.
+
+        •        The drivers must imperatively keep to the race track and must respect at all times the rules and regulations outlined in the Sporting Regulations. 
+
+        •        Cars stopped on track will be cleared from the track by the marshals so as not to constitute a danger or hamper the running of the practice session or race.  No one except the driver may touch a stopped car unless it is in its designated area in the pit lane, in its garage, or on the starting grid.
+ 
+        •        If the driver is unable to move his car from a dangerous position by himself, the marshals will assist him.  However, during the race, the driver must not benefit from that assistance to restart the engine.  During the race, if a car stops, the engine must be restarted with the starter or any other on-board equipment by the driver alone.
+ 
+        •        During the race, unless instructed by the marshals, if the driver moves more than 10 metres away from his car, the car may be considered as having retired from the race.
+
+        •        During the race, nobody except the marshals may come within 10 metres of the car and/or driver.  This means he must not receive outside assistance from any member of his team other than verbal instructions.
+
+        •        At any moment during the event, whenever a driver leaves his car on the track he must leave it in neutral or with the driveline disengaged, the hybrid system secured and with the steering wheel in place. This provision also applies to the Parc Fermé. 
+ 
+        •        Any replenishment of any energy or liquid on the track is prohibited.
+
+        •        As soon as the grid is clear and until the cars have entered the Parc Fermé after the finish, nobody may be on the track with the exception of the marshals in the exercise of their duties or drivers either racing or under the orders of the marshals. 
+
+        •        All personnel must wear the correct, appropriate clothing at all times.
+
+"</string>
+    <string name="__inside_rules_sport_desc_drive_times">"For the LMP1 and LMGTE Pro categories: 
+To be able to score points, a driver must drive for a minimum of 40 minutes during the race.   A driver may not drive for more than 4 hours and 30 minutes in total. 
+
+For the LMP2 category: 
+A driver must imperatively have driven for a minimum of 1 hour and 15 minutes during the race.  A driver may not drive for more than 3 hours and 30 minutes in total.
+
+For the LMGTE Am category: 
+A driver must imperatively have driven for a minimum of 1 hour and 45 minutes during the race. A driver may not drive for more than 3 hours and 30 minutes in total. "</string>
+    <string name="__inside_rules_sport_desc_driver_changes">"Driver changes within a designated crew are allowed when the car is in its pit and must be made under the supervision of the pit marshal, who must be alerted by the team.  The driver may receive assistance from one person from the team.
+
+Driver changes must be made so that the minimum and maximum driving times for each category are adhered to during the race.  
+
+Team and race strategy can determine when the driver changes are carried out and is an important, and unique, part of endurance racing "</string>
+    <string name="__inside_rules_sport_desc_driver_composition">"All sports car drivers are subject to an individual categorisation set by an FIA committee and based upon their record of achievements.  These are separated into four categories:  Platinum, Gold, Silver and Bronze.  
+
+At the end of each season, the FIA Drivers’ Categorisation Committee will revise all the categorisations according to the drivers' performance in the races and a new list will be published. 
+
+In the WEC, there are specific regulations about the composition of driver line ups in each category, according to a driver’s rating:
+
+LMP1:                 Bronze drivers are not permitted 
+LMP2:                 A crew of 2 or 3 drivers must include at least one Silver or Bronze driver. LMGTE Pro:         The composition of the crews is free 
+LMGTE Am:         A crew of 2 or 3 drivers must include at least 1 Bronze and 1 Bronze or Silver 
+
+More details on the FIA Drivers’ categorisations regulations can be found at: (http://www.fia.com/sport/competitors-area/fia-driver-categorisation). "</string>
+    <string name="__inside_rules_sport_desc_driver_weight_lmp1">"Competitors in LMP1 must declare the minimum weight in kilogrammes of each driver entered.  The minimum weight declared must take into account a possible loss of weight during the event.
+An average weight of all the drivers is then calculated and the average must be 80kg.
+If the average weight is under 80kg driver ballast must be added to the car.  The ballast that will be added is calculated as 80kg minus the average driver weight.
+The minimum weight of the car will thus be the basic imposed minimum weight + driver ballast."</string>
+    <string name="__inside_rules_sport_desc_entry_conditions">"Entrants must commit to enter the whole championship season, in 2016 this being comprised of 8 events including the Le Mans 24 Hours.  Entries are limited to a maximum of two cars per team in each category.
+
+Entries are lodged with the promoter and then subject to examination and selection by a Selection Committee of six members, put together by the Endurance Commission (composition of committee is available on the FIA website).
+
+Entry to the Le Mans 24 Hours, which as a round of the WEC, is mandatory but subject to a separate procedure and – for additional, non-full season championship entries, selection by a separate Selection Committee.
+
+A competitor who does not for any reason report on time for the administrative checks at an Event may be penalised by the Panel of Stewards.  The only exceptions are:
+ 
+- A case of force majeure (e.g. extreme weather conditions, social unrest…)
+- An accident during the previous event in the Championship, as a result of which the car sustained damage, noted by the Championship Technical Delegate, that could not be repaired within the given time"</string>
+    <string name="__inside_rules_sport_desc_equivalence_unformatted">"Equivalence systems between the different LMP1 propulsion technologies. 
+
+A. The reference will be the calculation of the average lap time of the fastest car in each technology. The average lap time will be calculated over the number of laps corresponding to 20 percent of the distance of the races (average of the best laps). 
+
+The models of the cars with the slowest technologies must have participated in at least two races and must have been properly classified in order to be able to benefit from the application of the rule. 
+
+The first adjustment of performance may be applied at any time by the Endurance Committee. 
+
+The Committee will have the right to request any necessary information from the manufacturers and/or the competitors, in order to the shed light on the issue at hand. Any such information will be treated in a strictly confidential manner. 
+
+Any competitor having deliberately provided false information or having attempted to influence an adjustment by hiding its true level of performance will be penalised by the FIA. 
+
+B. The Endurance Committee may adjust the allocation of energy by + or – 10 MJ (reference for a lap of the Le Mans 24 Hours circuit) for all LMP1 cars in order to adjust the global level of performance. 
+
+C. Equivalence of Technology of the LMP1 cars 
+
+The principles of the EoT, calculated on the basis of the data collected from the «best in class» of each technology (as defined in the specific note that will be published by the Endurance Committee on 1 January 2016 at the latest), will be applied up to the 2016 Le Mans event inclusive, based on the manufacturers’ declarations the values specified in the Committee’s Decision 14-D0027-LMP1 and set out in Appendix B to the 2016 Technical Regulations. 
+The calculation formulae, the list of data to be communicated by the manufacturers and the list of sensors required will be published by the Endurance Committee in this same note. If, during the Le Mans 24 Hours event, any discrepancy is noted in relation to the declared values, a dissuasive penalty system will be applied.
+
+Upon examination of the data collected during the 2016 Le Mans 24 Hours event, the criteria of the EoT will be defined for application up to the 2016 Le Mans 24 Hours event inclusive. It will be up to the Endurance Committee to settle any questions that might arise concerning the application and/ or interpretation of these elements in the last resort."</string>
+    <string name="__inside_rules_sport_desc_fuel_unformatted">"One type of fuel for the gasoline engines and one type of fuel for the diesel engines with be provided.
+
+Specification
+Petrol - 20 percent bio basis
+Diesel - 10 percent bio basis"</string>
+    <string name="__inside_rules_sport_desc_general_discipline">"All participants (including teams, drivers, VIP guests, suppliers, safety workers, organisation or media) must wear his or her pass in such a way that it is clearly visible.  Each pass is for one person only.
+
+Competitors must enter the circuit(s) only at a time communicated by the Promoter, and their race transporters must not exceed an overall length of 19 metres.  Set up times for the paddock and pits are strictly controlled and all installations must satisfy the safety standards of the Promoter.  Dismantling must be completed by 12 noon on the day following the last day of the event.  
+
+An order of priority for the choice of pits for the LMP1 competitors entered in the World Endurance Championship for Manufacturers on each of the Events in the 2016 Championship will be determined according to the 2014 manufacturers' classification. "</string>
+    <string name="__inside_rules_sport_desc_information_signalling">"Official information is communicated to the drivers by means of radio, telemetry and boards. The \"signalling area\" is located in the pit area.
+
+The boards used for informing the drivers may be sliding or pivoting and must not be coloured red, yellow or green. They must be taken out and shown to the driver concerned only when he is level with the signalling area while driving past on the track."</string>
+    <string name="__inside_rules_sport_desc_licenses">"All drivers, competitors and officials participating in the Championship must hold current and valid licences. 
+
+For LMP1 hybrid cars, the minimum requirement for competition is a Grade A FIA international Driver’s licence.
+ 
+For the LMP1 Privateer, LMP2, GTE Pro and Am classes, the minimum requirement is a Grade B FIA international Driver’s licence."</string>
+    <string name="__inside_rules_sport_desc_neutralisation">"The Race Director has two options to neutralise the race for safety reasons.  This could be for a number of reasons but include debris on the track, a crash involving one or more cars or a car stranded in a dangerous position.  
+
+He may decide to use a Full Course Yellow and/or deploy the Safety Car
+
+Full Course Yellow \"FCY\"
+The Race Director may declare a Full Course Yellow period. Once under FCY, cars will slow down to 80 kph, in single file, and maintain their distance to the car in front and the car behind. Overtaking is strictly prohibited under the FCY.
+
+Once the message is displayed on the monitors, all cars must immediately slow down.
+
+All marshal posts will display a waved yellow flag and a board with the indication FCY 
+
+The pit lane entry and exit remain open and cars are free to pit.
+
+Once the problem is solved, the Race Director will return the track to green; this is done by posting a message on the monitors and all marshal posts will replace the yellow flags and FCY boards with waved green flags.
+
+Racing and overtaking will normally resume without restrictions, regardless of the positions of the cars relative to one another and to the line.
+
+An FCY period may be followed by a Safety Car intervention if the problem remains unsolved and safety may be at risk.
+
+Safety Car SC
+When the Race Director gives the order to deploy the safety car all marshal posts will display waved yellow flags and \"SC\" boards and the orange lights will be illuminated, for the duration of the intervention.
+
+Once the \"Safety Car\" message is displayed on the monitors, all cars will slow down, and the \"Pit Entry Closed\" signal will be activated.
+
+The safety car will start from the pit lane with its orange lights illuminated and will join the track regardless of where the race leader is.
+
+All the competing cars must then form up in line behind the safety car and overtaking, unless signalled to do so by the safety car, is forbidden until the cars reach the start-finish line after the safety car has returned to the pits.
+
+When ordered to do so the observer in the safety car will use a green light to signal to any cars between it and the race leader that they should pass. These cars will continue at reduced speed and without overtaking until they reach the line of cars behind the safety car.
+
+If deemed appropriate, the Race Director will authorise the \"Pass-Around\" for any car that has their class leader behind them in the order circulating behind the safety car.
+
+The safety car shall be used at least until the car in the lead is behind it and all remaining cars are lined up behind the leader.
+
+During the first three laps of the safety car, the pit entry will be closed. Any car entering the pits during these first three laps shall be allowed to refuel for only 5 seconds and/or replace a damaged tyre, on the condition that after the third lap, or as soon as the pit entry opens, the car comes back in again for a normal pit stop.
+
+When the Clerk of the Course calls in the safety car, its orange lights will be extinguished; this will be the signal that it will be entering the pit lane at the end of that lap. At this point, the first car in line behind the safety car may dictate the pace and, if necessary, fall more than five car lengths behind it.
+
+As the safety car is approaching the pit entry, the yellow flags and SC boards at the marshal posts will be withdrawn and replaced by waved green flags and green lights."</string>
+    <string name="__inside_rules_sport_desc_officials_delegates">"As an FIA-sanctioned event, the governing body has appointed permanent officials to the Championship who will officiate at each of its events, namely: 
+
+        •        The Chairman and the 2nd International Steward of the Panel of Stewards, who must be of different nationalities
+        •        The Race Director
+        •        The Permanent Technical Delegate
+        •        The Chief Scrutineer
+        •        The Medical Delegate of the Championship 
+        •        The official timekeeper
+ 
+The following officials will be appointed by the ASN and their names notified to the FIA at the same time as the application to organise an Event:
+ 
+        •        A Steward chosen from among the licence-holders of the ASN concerned, i.e. on the territory on which a Championship event is taking place 
+        •        The Clerk of the Course 
+Additional to these posts is the Adviser to the Stewards who is necessarily an experienced former endurance driver. "</string>
+    <string name="__inside_rules_sport_desc_operating_procedures">"Persons authorised to be in the working area are limited during refuelling, wheel changes and maintenance.
+
+Any person belonging to a team and who is inside the working area is considered as working on the car.
+
+A driver carrying out work on the car is counted as a mechanic.
+
+Persons authorised in the working area during refuelling:
+
+        •        1 Team Manager
+        •        1 or 2 refuellers
+        •        1 \"fire\" attendant
+        •        1 driver's aid (safety harness and possible assistance)
+        •        1 \"tyre\" technician (checks only)
+        •        1 \"brakes\" technician (checks only)
+        •        2 people for cleaning the windscreen and connecting the cable for downloading data
+        •        1 person in charge of changing the memory card in the ACO's data logger.
+        •        1 person in charge of changing the flow meter for LMP1-H and LMP1-L cars.
+        •        2 rope-men whose job is to hold a rope to keep people out of the working area as the car is about to arrive in the pit, during and after the pit stop.
+
+Persons authorised in the working area during wheel changes:
+        •        1 Team Manager
+        •        1 \"fire\" attendant
+        •        1 driver's aid (safety harness and possible assistance)
+        •        1 \"tyre\" technician (checks only)
+        •        1 \"brakes\" technician (checks only)
+        •        2 people for cleaning the windscreen and connecting the cable for downloading data
+        •        2 mechanics for changing the wheels
+        •        1 person in charge of changing the memory card in the ACO's data logger
+        •        2 rope-men whose job is to hold a rope to keep people out of the working area as the car is about to arrive in the pit, during and after the pit stop.
+
+Persons authorised in the working area for repairs and maintenance:
+        •        1 Team Manager
+        •        4 mechanics
+        •        1 driver's aid (safety harness and possible assistance)
+        •        1 \"fire\" attendant
+        •        1 \"tyre\" technician (checks only)
+        •        1 \"brakes\" technician (checks only)
+        •        1 person in charge of changing the memory card in the ACO's data logger.
+        •        2 rope-men whose job is to hold a rope to keep people out of the working area as the car is about to arrive in the pit, during and after the pit stop."</string>
+    <string name="__inside_rules_sport_desc_press_conference">"All Pole Position drivers must attend a press conference in the Media Centre, reserved solely for accredited media and taking place immediately after the qualifying session(s). All other drivers who have taken part in qualifying, but who did not win a pole position, must attend a Mixed Zone event in the Media Centre, reserved solely for accredited media. "</string>
+    <string name="__inside_rules_sport_desc_refuelling">"Refuelling is authorised at the beginning of a pit stop and exclusively in the \"working area\", except if the car has entered the garage for repairs, in which case the refuelling can be done at the end of the pit stop but only in the \"working area\".
+
+The car must be parked in front of its garage and parallel to the track.
+
+The car must remain on its wheels in case it needs to be pushed in an emergency.
+
+During practice and the race, refuelling must be carried out using the pit’s autonomous tank bearing the number of the car and with the fuel delivered by the organiser. It is prohibited to move the refuelling rig in order to facilitate refuelling operations during a car's pit stop.
+
+The driver may remain on board the car during refuelling but the engine must be switched off.
+
+There must be a maximum of two people specially assigned for refuelling, plus an assistant with an extinguisher standing by. They must all be wearing full fireproof safety clothing."</string>
+    <string name="__inside_rules_sport_desc_regulations">"The pit lane is a high-risk area
+
+During practice and the race, access to the pit lane is reserved exclusively for people wearing a fireproof overall who have a specific task to do there.
+
+Each competitor is responsible for the people coming out of his pit, whether or not they are part of his team.
+
+Nobody is allowed on the pit wall except the officials or essential staff (3 people maximum for each car entered) of the racing teams bearing a specific armband. 
+
+The presence of any person in this area is formally prohibited during the start of the race. 
+
+Team personnel are allowed in the working area in the pit lane only immediately before intervening once the car is immobilised with the engine switched off, and must evacuate and clear the working area the pit lane as soon as the work is finished before the engine is re-started and the car leaves."</string>
+    <string name="__inside_rules_sport_desc_regulations_tests">"The number and type of private tests that can be undertaken by competitors in LMP1 are limited to control costs, and have been updated for 2016. The allocation is such that one car per test day equals one unit (car/days) and two cars per test day equals two units (car/days). The numbers of car/days now allowed are as follows: 
+
+For LMP1 competitors only 
+
+        •        A maximum of 10 closed private testing car/days are allowed. 
+        •        A maximum of 20 closed private testing car/days are allowed for any new car manufacturer entering the Manufacturers’ World Endurance Championship.
+        •        A maximum of 10 open private testing car/days respecting the pre-announcement period of 30 days are allowed.
+        •        A maximum of 30 open private testing car/days respecting the pre-announcement period of 90 days are allowed. 
+
+For LMP2, GTE Pro and GTE Am competitors 
+
+Open private testing days are not limited; however, they must be declared by the competitor, respecting the 30-day pre-announcement period. Each car joining a test already declared by another competitor must respect the pre-announcement period of 24 hours before the beginning of the test. 
+
+        •        A maximum of 10 closed private testing car/days are allowed.
+        •        A maximum of 10 open private testing car/days respecting the pre-announcement period of 30 days are allowed. "</string>
+    <string name="__inside_rules_sport_desc_repairs_maintenance">"During the race, apart from in those areas situated outside or inside the garages and on the starting grid, repairs must be carried out by the driver alone with the tools and components available on board his car.
+Before a car stops at its pit, only one person is authorised to enter the \"working area\" to give instructions. This person will be holding a handle, with a board on the end displaying the relevant car number to direct their driver to the correct pit area.
+
+During the pit stop, this person must have no other function than supervision.
+
+A maximum of 2 people wearing fireproof overalls, gloves, a balaclava, goggles, long underwear, shoes, and a helmet,are authorised to intervene before, during and after refuelling and the change of tyres only in order:
+        •        to clean the windscreen, headlights and rear lights, cameras and rear-view mirrors,
+        •        to connect the cable for downloading the data,
+        •        to earth and unearth the car electrically.
+
+These people:
+        •        must leave the working area as soon as the above interventions are over.
+        •        must not in any way help the 2 refuellers and the 2 mechanics assigned to changing the wheels.
+
+A third person is authorised to intervene during the same period, only to change the memory card in the ACO's data logger. 
+
+One additional person is authorised to intervene during refuelling to change the flow meter on LMP1 Hybrid cars. This person must be wearing fireproof overalls, gloves, a balaclava, goggles, long underwear, shoes, and a helmet.
+
+A maximum of 4 people, mandatorily wearing fireproof overalls, long underwear, shoes, and a helmet are authorised to intervene after the refuelling and when the mechanics in charge of changing the wheels and the equipment are no longer in the working area, to carry out maintenance operations, top up liquids (other than fuel), make repairs or any other operations whatsoever (other than tyre changes).
+
+\"Tyre\" and \"brake\" technicians
+At any time during a car's pit stop, a single \"tyre\" technician and a single \"brake\" technician are authorised to carry out checks only. 
+
+Wheel/Tyre changes are authorised only on the starting grid up to the \"5 minutes\" board or outside the garages during practice and the race.
+
+Tyre changes can only take place once refuelling of the car has finished,
+
+A maximum of 2 people with only one pneumatic wheel gun or torque wrench are allowed in the working area to conduct all the operations necessary for changing the wheels. 
+
+A maximum of 4 separate people may take part successively in these operations during a pit stop.  A maximum of two pneumatic wheel guns may be used successively (one after the other) for these operations.
+
+They may access the working area:
+During refuelling wearing the full safety clothing, only to lay on the ground next to the car the two wheels that must be fitted on the car on the \"track\" side. 
+
+When refuelling has finished the two mechanics must:
+        •        Bring and connect the air hose to the air jacks,
+        •        Bring only one wheel gun onto the working area
+        •        Without external assistance take the new wheels and remove the old ones from the working lane.
+        •        They are not permitted to throw the wheels or drop them,
+        •        Once all the tyres are fitted they must disconnect the air jacks and remove the equipment from the working area.
+
+The car cannot leave the pit until the mechanics in charge of the wheel changes and their equipment are no longer in the working area. 
+
+The tyres may be changed inside the garage only if the car has been pushed there for the purpose of carrying out mechanical operations on it.
+
+It is prohibited to equipment to warm the tyres and/or keeping them up to temperature in the \"working area\", in the garage and on the starting grid.  This means that tyres cannot be covered. 
+
+During a pit stop, one additional person (or the driver exiting the car) is allowed to help the driver, only to fasten his safety harness, assist him, and open and close the doors. A change of drink bottle is also allowed.
+
+If a car has been pushed inside the garage the rule regarding the maximum of 4 people  authorised to work on a car does not apply.
+
+When the car is ready to rejoin the race, it must be pushed outside the garage and placed in the \"working area\" parallel to the track. The engine must then be started by the driver alone.
+
+During the race, on pain of exclusion of the car, it is prohibited to change:
+        •        The engine or any of its components, i.e. the cylinder head(s), the cylinder head gasket(s), the oil pan and engine block, components that are fixed to one another by means of seals,
+        •        The main gearbox and differential housings,
+        •        The chassis or the monocoque structure.
+
+During a pit stop the engine must always be switched off:
+
+Any external assistance, for example pushing, is prohibited when a car leaves its pit to rejoin the race.
+
+"</string>
+    <string name="__inside_rules_sport_desc_safety">"General 
+As a general principle, it is the duty of the competitor to demonstrate that the car is of safe construction. 
+
+Fire extinguishers  
+All cars must be equipped with an extinguishing system.  The car must be fitted with an outside extinguisher switch so that a marshal can trigger the extinguisher from the outside and to switch off all electrical circuits (auxiliary and power circuits) inside the car.
+ 
+Safety belts
+Two shoulder straps, one abdominal strap and two straps between the legs are compulsory
+Safety belts with two buckles are prohibited.
+Safety belt mounting points must be capable of resisting a 25 g deceleration.
+
+Rear view mirrors
+Two rear view mirrors (one each side) must provide an efficient vision to the rear.
+The driver must be able to clearly see the vehicles following him.
+They must have a day/night mode.
+
+Camera 
+It is permitted to add cameras on the car and screens inside the cockpit for rear and front/side vision. The screens must have a day/night mode. A rear facing camera is mandatory for LMGTE.
+
+Headrest and head protection
+All cars must be equipped with three areas of padding for the driver’s head protection which are positioned so as to be the first point of contact for the driver's helmet in the event of an impact projecting his head towards them during an accident.
+
+Unintentional movement of the vehicle (LMP1 Only)
+A device must prevent powered movement of the vehicle whenever the driver is not fully seated in the driver's seat.
+
+Safe / Live Signage (LMP1 hybrid only)
+The Safe / Live Signage must be directly linked to the ERS status whatever incident may occur.
+In order to clearly show that it could be life-threatening to work on the Power Circuit.
+
+Rollover structures 
+Two safety rollover structures (front and rear) are mandatory for LMP1 and LMP2.  A safety cage meeting the requirements of the International Sporting Code is required for LMGTE.
+
+Rear Impact absorbing structure (LMP1 Only)
+An impact absorbing structure must be fitted behind the gearbox symmetrically about the car centre line.
+
+Survival cell and frontal protection
+The chassis structure must include a survival cell including the fuel tank, extending at least 150 mm in front of the driver's feet to behind the fuel tank.  
+
+Firewalls
+A perfectly sealed metallic firewall preventing the passage of flames from the engine compartment into the cockpit is fitted to all cars"</string>
+    <string name="__inside_rules_sport_desc_sanctions_protests">"During a race event the Stewards may impose penalties set out in the present regulations.  These range from imposing a fine, a stop-go or drive through penalty, right up to exclusion from the race and results.
+
+If a competitor wishes to appeal the decision of the Stewards they have the option to take their case to the International Court of Appeal (ICA).  If an appeal is lodged then the results of the event are left as provisional until the ICA has reviewed the case and ruled."</string>
+    <string name="__inside_rules_sport_desc_start_procedure">"For all WEC races there will be a rolling start.
+
+The start procedure begins at least 30 minutes before the start of the formation lap.  The cars will leave their pits to cover one or more reconnaissance laps before taking their place in a Le Mans-style “ear of corn” formation along the pit wall, facing the grandstands on the opposite side of the track. 
+
+After the closing of the pit lane exit, any car that is still in the pits will start the race from the pit lane exit. 
+
+Before the national anthem is played, the driver or drivers who are not taking the start must line up across the track level with the front of their car towards the grandstand.  A maximum of four mechanics and two other people from each team are permitted to stand with the drivers.
+
+Countdown to the start of the race will be signalled by the showing of boards reading \"5 minutes\", \"3 minutes\", \"1 minute\" and \"30 sec.\", accompanied by an audible warning.
+
+When the green flag is shown, the pole position car will start and each car will follow one after the other away from the grid behind the Leading Car.  Cars must take up and maintain their grid positions until the race starts at the end of the formation lap(s)."</string>
+    <string name="__inside_rules_sport_desc_starting_grid">"The starting grid for each race is announced 1 hour after the end of qualifying.
+Two drivers from each crew must set at least one timed lap during the 20-minute qualifying period. 
+
+The average of the two best lap times (the best lap of each driver) will serve as the reference time for establishing the grid.
+
+NOTE:  In 2014 two drivers were required to set at least two timed laps during qualifying and the four best laps (the best two laps for each driver) served as the reference time."</string>
+    <string name="__inside_rules_sport_desc_stops">"The pit lane is divided into three areas:
+Fast lane - this is the lane closest to the pit wall.
+Acceleration and deceleration lane -  this is the central lane.
+Working lane area - this is the are closest to the garage, where work may be carried out on the cars. It is formed on one side by a wall or by a line painted in front of the pit shutter and on the other by a line separating it from the central lane.
+
+When a car stops in the working lane area, it must park at least 50 cm from the wall or from the line marking the working area (the 2.50 m line).
+
+Speed limit: 60 kph in the pit lane.
+
+Only when the car is stopped outside its garage may the driver:
+        •        Remove the safety harness,
+        •        Switch off the lights,
+        •        Cut the engine.
+        •        Open the door.
+
+If a car needs to be worked on in its garage, it must have been parked beforehand in the \"working area\" parallel to the track, and then pushed by a maximum of 4 mechanics, with the engine switched off.
+
+When the car is to rejoin the fast lane, it must be pushed outside the garage and placed on the \"working area\" parallel to the track. The engine must then be started by the driver alone.
+
+Before leaving his pit, the driver must:
+        •        Fasten the safety harness,
+        •        Switch on the lights.
+
+It is strictly prohibited to spin the wheels when a car leaves its pit.
+
+If a driver overruns the pit area, or breaks down on leaving the pit area, the car can only be moved back to it by the team's mechanics (a maximum of 4). The use of the reverse gear is strictly prohibited.
+
+Cars in the fast lane have priority over those leaving the working lane area.  The team are responsible for the safe release of a car from its pit area."</string>
+    <string name="__inside_rules_sport_desc_suspension">"The decision to stop practice or the race lies with the Race Director and this will be done by declaring a Red Flag.
+
+Should it become necessary to suspend the race because the circuit is blocked by an accident or because weather or other conditions make it dangerous to continue, the Clerk of the Course will order the red flag to be shown simultaneously at the start line and at all marshal posts and will order the red lights switched on around the circuit.
+
+When the signal to suspend the race is given, overtaking is prohibited, the pit entry and exit will be closed, and all drivers must drive their cars slowly to the red flag line, situated before the pit entry.
+
+The safety car will be placed in front of the cars lined up behind the red flag line.
+
+Driving time during a red flag period will not be counted and the stewards will confirm the updated driving times before the restart of the race.
+
+If the circumstances so require, the Stewards may take the decision to stop and/or modify the race time set. 
+
+The drivers are allowed to get out of their cars but they must remain with them.
+
+Driver changes are prohibited
+
+No repairs are authorised in the pits
+
+If the race is suspended due to a sudden weather change, The Race Director, for safety reasons, may decide to authorise a tyre change from slicks to wet-weather tyres.  If this is the case, the tyre change must be carried out after the 10 minute board for the restart of the race.
+
+The restart of the race will follow the same procedure as the normal start with a 10 minute countdown."</string>
+    <string name="__inside_rules_sport_desc_tech_scrutineering">"Before any car is authorised to compete in a round of the WEC, it must be submitted for Technical Scrutineering by a team of officially appointed Scrutineers from the ACO to ensure that it complies with the latest technical and safety regulations.
+
+Each car has a ‘passport’ which includes all its homologation documents and history and this is presented by the team manager or race engineer to the Scrutineers.
+
+The day before practice starts each car is taken to a garage in the pit lane devoted to these checks.  It is weighed, measured and thoroughly checked for compliance, particularly in the case where as accident has taken place in the preceding event and it has been repaired, or when new parts are introduced. 
+
+A car is not permitted to take part in the event if it has not passed Technical Scrutineering."</string>
+    <string name="__inside_rules_sport_desc_titles_unformatted" formatted="false">"Because endurance racing features multi-class racing, there are effectively four different championship battles being fought out at the same time, within the one event.  There is only one overall winner of the race, usually a car from the fastest LMP1 category, but the winners of the LMP2, LMGTE Pro and LMGTE Am classes are also recognised.
+Titles for which prizes and trophies are awarded at the end of the season are:
+        •        FIA World Endurance Drivers' Championship:  Reserved for LMP1 and LMP2 drivers (combined classification of LMP categories).  Driver line ups of two or three, having formed a permanent crew throughout the Championship season, will all score the same number of points and, if applicable, may all be awarded the Drivers' title.
+
+        •        FIA World Endurance Manufacturers' Championship:  \"Manufacturer\" means the association constituted by the manufacturer of the chassis and the manufacturer of the engine.  Those eligible for 2016 are Audi, Nissan, Porsche and Toyota. The results obtained at each event by the two best classified cars of the same manufacturer entered for the full season count towards this championship. 
+
+        •        FIA World Endurance Cup for GT Drivers:  Reserved for GT drivers (Pro and Am combined) and, as above, can be awarded to more than one driver from a crew during the championship season.
+
+        •        FIA World Endurance Cup for GT Manufacturers:  Reserved for Manufacturers entered in LMGTE (Pro and Am combined). The results obtained at each event by the two best classified cars of the same manufacturer entered for the full season count towards this championship. 
+
+        •        FIA Endurance Trophy for Private LMP1 Teams:  The LMP1 Private Teams category is reserved exclusively for private teams, independent of a manufacturer apart from supply of engines.  These LMP1 cars are non-hybrid and the trophy is awarded only if at least three cars are entered for the full season.
+
+        •        FIA Endurance Trophy for Private LMP1 Team Drivers:  Awarded to the drivers who have gained the most points during the championship season and reserved for the drivers of cars entered in the LMP1 category as Private Teams.
+
+        •        FIA Endurance Trophy for LMP2 Teams:  Awarded to the LMP2 team which has gained the most points during the championship season. 
+
+        •        FIA Endurance Trophy for LMP2 Drivers:  Awarded to the drivers who have gained the most points during the championship season and reserved for the drivers of cars entered in the LMP2 category.
+
+        •        FIA Endurance Trophy for LMGTE Pro Teams:   Awarded to the LMGTE Pro team which has gained the most points during the championship season. 
+
+        •        FIA Endurance Trophy for LMGTE Am Teams:  Awarded to the LMGTE Am team which has gained the most points during the championship season. 
+
+        •        FIA Endurance Trophy for GTE Am Drivers:  Awarded to the drivers who have gained the most points during the championship season and reserved for the drivers of cars entered in the LMGTE Am category.
+
+POINTS
+
+At all six-hour races (i.e. all WEC races except the Le Mans 24 Hours), points will be awarded for the following places providing the leader has completed more than 75% of the original race time:
+
+1st         25 points
+2nd         18 points
+3rd         15 points
+4th         12 points
+5th         10 points
+6th         8 points
+7th         6 points
+8th         4 points
+9th         2 points
+10th         1 point
+
+And beyond: 0.5 point* (awarded to any car classified lower than 10th in the general classification of an event).
+
+For the Le Mans 24 Hours race only, double points are awarded. 
+
+- One additional point will be awarded to the “pole position” team at each event, as well as to all the drivers making up the crew of the car concerned, in each of the four categories.
+
+- Additional cars, such as those sometimes entered by manufacturers or from other endurance championships on a race-by-race basis, do not score points for the Championship titles, but do retain their place in the classification at the end of each Championship Event. 
+
+- Half points will be awarded to the crews if the leader has completed more than two laps but less than 75% of the original race time. 
+
+- In the event of any ties for position, the team or drivers with superior race results (based on descending order, from number of wins to numbers of second-places down) will take the title."</string>
+    <string name="__inside_rules_sport_desc_trophies">"Immediately after the race the podium ceremony will be held for the top three crews in the general classification and in each category. 
+
+Trophies will be presented to all members of the top three driver crews plus a representative from the winning team.
+
+The podiums will be held in the following order
+        •        Overall classification with the 1st LMP1 Privateer
+        •        LMGTE Pro
+        •        LMP2
+        •        LMGTE Am"</string>
+    <string name="__inside_rules_sport_desc_tyres">"A set of tyres is a set of 4 tyres, made up of 2 front and 2 rear tyres.
+
+SLICK TYRES
+For the LMP1 and LMGTE Pro categories:
+The number of tyres used for each event is limited. All the tyres must be identifiable via a barcode that can be read by optical scanner to check:
+- that these tyres are designated by the manufacturer for the event;
+- that the maximum authorised number of tyres is duly respected.
+
+For the LMP2 and LMGTE Am categories:
+The different tyre manufacturers may declare a maximum of 3 tyre specifications for all the models of cars entered in LMP2 and per model of car entered in LMGTE Am. 
+
+WET WEATHER TYRES
+The number of wet-weather tyres is unlimited.
+The different tyre manufacturers may declare 1 specification for wet-weather tyres and 1 specification for intermediate tyres for all of the models of cars entered in LMP2 and per model of car entered in LMGTE Am.
+
+For the LMP1 and LMGTE Pro categories:
+The use of wet-weather tyres is unlimited.
+
+4) Summary table of tyre limitations per event 
+Summary table of tyre limitations per event (do not apply to the 24 Hours of Le Mans)
+
+LMP1                        Free Practice                4 sets
+LMP1                        Qualify + Race                6 sets*
+LMP1 / LMP2/ LMGTE        Single Tyres                2
+LMP2                        Free Practice                3 sets
+LMP2                        Qualifying + Race        4 sets
+LMGTE Pro + Am        Free Practice                4 sets
+LMGTE Pro + Am        Qualifying + Race        6 sets
+
+        •        * 8 sets for Bahrain and Shanghai
+        •        The tyre limitations for any new circuit (which did not form part of the 2014 calendar) or race duration will be confirmed by the Endurance Committee 3 months prior to the event.
+
+For all categories: 
+Tyres used for going from the pits to the starting grid before the race are free in (dry or wet) specs and must respect the quantities indicated on the table “limitation for slick tyres” mentioned above. 
+Tyres to be used are counted once the equipped car has left the pit lane exit. "</string>
+    <string name="__inside_rules_sport_desc_warm_up">Soon</string>
+    <string name="__inside_rules_sport_text">Find out more about Sporting Rules</string>
+    <string name="__inside_rules_sport_title_admin_scruteneering">Administrative Scrutineering</string>
+    <string name="__inside_rules_sport_title_autograph_sessions">Autograph Sessions</string>
+    <string name="__inside_rules_sport_title_briefing_practice">Briefing and official practice</string>
+    <string name="__inside_rules_sport_title_cars_allowed">Cars Allowed</string>
+    <string name="__inside_rules_sport_title_classification">Race - Classification</string>
+    <string name="__inside_rules_sport_title_discipline_entrants">"General Discipline of Competitors and Drivers "</string>
+    <string name="__inside_rules_sport_title_drive_times">Race - Drive times</string>
+    <string name="__inside_rules_sport_title_driver_changes">Race - Driver changes</string>
+    <string name="__inside_rules_sport_title_driver_composition">Composition of driver line ups</string>
+    <string name="__inside_rules_sport_title_driver_weight_lmp1">LMP1 Driver Weight</string>
+    <string name="__inside_rules_sport_title_entry_conditions">Conditions of entry</string>
+    <string name="__inside_rules_sport_title_equivalence">"Equivalence of Technology "</string>
+    <string name="__inside_rules_sport_title_fuel">Fuel</string>
+    <string name="__inside_rules_sport_title_general_discipline">General discipline</string>
+    <string name="__inside_rules_sport_title_information_signalling">Pits - Information and Signalling</string>
+    <string name="__inside_rules_sport_title_licenses">"Licences "</string>
+    <string name="__inside_rules_sport_title_neutralisation">Race - Neutralisation</string>
+    <string name="__inside_rules_sport_title_officials_delegates">Officials and FIA Delegates</string>
+    <string name="__inside_rules_sport_title_operating_procedures">Pits - operating procedures</string>
+    <string name="__inside_rules_sport_title_press_conference">Press Conference - Mixed Zones</string>
+    <string name="__inside_rules_sport_title_refuelling">Pits - Refuelling</string>
+    <string name="__inside_rules_sport_title_regulations">Pits - Regulations</string>
+    <string name="__inside_rules_sport_title_regulations_tests">Regulations - private tests</string>
+    <string name="__inside_rules_sport_title_repairs_maintenance">Pits - Repairs and Maintenance</string>
+    <string name="__inside_rules_sport_title_safety">Safety</string>
+    <string name="__inside_rules_sport_title_sanctions_protests">Sanctions - Protests</string>
+    <string name="__inside_rules_sport_title_start_procedure">Race - Start Procedure</string>
+    <string name="__inside_rules_sport_title_starting_grid">Starting Grid</string>
+    <string name="__inside_rules_sport_title_stops">Pit Stops</string>
+    <string name="__inside_rules_sport_title_suspension">Race - Suspension</string>
+    <string name="__inside_rules_sport_title_tech_scrutineering">Technical Scrutineering</string>
+    <string name="__inside_rules_sport_title_titles">Titles/points</string>
+    <string name="__inside_rules_sport_title_trophies">Podium - Trophies</string>
+    <string name="__inside_rules_sport_title_tyres">Tyres</string>
+    <string name="__inside_rules_sport_title_warm_up">Warm Up</string>
+    <string name="__inside_rules_sporting_regulations">Sporting regulations</string>
+    <string name="__inside_rules_sporting_regulations_desc">Discover our sportive rules</string>
+    <string name="__inside_rules_technic">Technic</string>
+    <string name="__inside_rules_technic_text">Find out more about Technical Regulations</string>
+    <string name="__inside_rules_technical_regulations">Technical regulations</string>
+    <string name="__inside_rules_technical_regulations_desc">Discover our technic rules</string>
+    <string name="__inside_rules_text">"Discover the rules
+of the WEC"</string>
+    <string name="__inside_wec">Inside WEC</string>
+    <string name="__issue">Issue</string>
+    <string name="__issue_mail_title">[FIA WEC][APP] Issue</string>
+    <string name="__issue_mail_title_old">[24h Le Mans][APP] Issue</string>
+    <string name="__issue_on_my_application">on my application</string>
+    <string name="__issue_other">other</string>
+    <string name="__issue_with_my_purchase">with my purchase / pack</string>
+    <string name="__issue_with_my_video_player">with my video player</string>
+    <string name="__laps">Laps</string>
+    <string name="__last_lap">Last lap</string>
+    <string name="__last_name_placeholder">Last Name</string>
+    <string name="__layers">Layers</string>
+    <string name="__le_mans">Le Mans</string>
+    <string name="__leader">leader</string>
+    <string name="__length">Length</string>
+    <string name="__link_preview">LINK PREVIEW</string>
+    <string name="__live">Live</string>
+    <string name="__live_cam">Live Cam</string>
+    <string name="__live_cams">Live cams</string>
+    <string name="__live_text">Live text</string>
+    <string name="__live_timing">Live timing</string>
+    <string name="__live_timing_media_date_formatter">"EEE, MMM d "</string>
+    <string name="__loading_in_app_items">Loading In App purchase items</string>
+    <string name="__loading_initial_data_text">Loading init data ...</string>
+    <string name="__log_out">Log out</string>
+    <string name="__login">Login</string>
+    <string name="__login_placeholder">Login</string>
+    <string name="__mail_placeholder">E-Mail</string>
+    <string name="__mail_sharing_source">Sent from FIA WEC mobile app</string>
+    <string name="__mail_sharing_source_old">Sent from 24h Le Mans mobile app</string>
+    <string name="__mail_sharing_subject">"[FIA WEC] "</string>
+    <string name="__mail_sharing_subject_old">"[24h Le Mans] "</string>
+    <string name="__map">Map</string>
+    <string name="__medias">Medias</string>
+    <string name="__michelin_highlights_ad_title">Presented by Michelin</string>
+    <string name="__michelin_highlights_title">Michelin motorsports TV</string>
+    <string name="__min">MIN</string>
+    <string name="__minute_abbrev_countdown">Min</string>
+    <string name="__my_subscriptions">My subscriptions</string>
+    <string name="__nat">Nat</string>
+    <string name="__nature_affiche">Affiche</string>
+    <string name="__nature_ambiance">Atmosphere</string>
+    <string name="__nature_backstage">Backstage</string>
+    <string name="__nature_carte_postale">Carte postale</string>
+    <string name="__nature_ceremonie_de_remise_des_prix">Ceremonie-de-Remise-des-prix</string>
+    <string name="__nature_conference_de_presse">Press conference</string>
+    <string name="__nature_depart">Start</string>
+    <string name="__nature_exclusif">Exclusif</string>
+    <string name="__nature_fan_area">Fan-area</string>
+    <string name="__nature_grid_girl">Grid-girl</string>
+    <string name="__nature_grille_de_depart">Start Grid</string>
+    <string name="__nature_heure_par_heure">Heure-par-heure</string>
+    <string name="__nature_highlights">Highlights</string>
+    <string name="__nature_insolite">Insolite</string>
+    <string name="__nature_interview">Interview</string>
+    <string name="__nature_la_minute_technique">La-minute-technique</string>
+    <string name="__nature_meteo">Weather</string>
+    <string name="__nature_on_board">Onboard camera</string>
+    <string name="__nature_pit_lane">Pit Lane</string>
+    <string name="__nature_pit_walk">Pit walk</string>
+    <string name="__nature_podium">Podium</string>
+    <string name="__nature_portrait">Portrait</string>
+    <string name="__nature_ravitaillement">Refueling</string>
+    <string name="__nature_replay">Replay</string>
+    <string name="__nature_seance_d_autographe">Seance-d-autographe</string>
+    <string name="__nature_team">Team</string>
+    <string name="__nc">NC</string>
+    <string name="__news">News</string>
+    <string name="__next_event">Next event</string>
+    <string name="__no_autorise_photo">Your picture could not be saved. Please go to Settings > Confidential > Photos, to allow access to your gallery.</string>
+    <string name="__no_cam_fotofan">Your device has no camera</string>
+    <string name="__no_data">No Data Available</string>
+    <string name="__no_highlight_available">"No highlights are available for the current race as it has not yet started. 
+
+Would you like to view highlights from previous races?"</string>
+    <string name="__no_live_available">No live is available now. Come back few minutes before the race starts.</string>
+    <string name="__no_live_available_date_android">"No live is available now. Come back the %1$s at  %2$s."</string>
+    <string name="__no_live_race">There is actually no live race</string>
+    <string name="__no_live_timing_available_pre_event_date_android">"Live Timing is not available at this time. Please check back from %1$s to %2$s. 
+
+Would you like to view Live Timings from previous races?"</string>
+    <string name="__no_results">Available soon</string>
+    <string name="__no_results_home_live">No live race for the moment</string>
+    <string name="__not_hybrid">No Hybrid</string>
+    <string name="__not_now">Not now</string>
+    <string name="__notification_description">Stay connected with the WEC and receive major events notifications before, during and after the races. To do so, subscribe to the notifications below.</string>
+    <string name="__notification_disclaimer">Settings</string>
+    <string name="__num">N°</string>
+    <string name="__ok_modal">Ok</string>
+    <string name="__onboard">Onboard</string>
+    <string name="__other_account">Other account ?</string>
+    <string name="__out">Out</string>
+    <string name="__overview">Overview</string>
+    <string name="__partners_official_suppliers">Official Suppliers</string>
+    <string name="__partners_url_astonmartin">http://www.astonmartin.com/</string>
+    <string name="__partners_url_audi">http://www.audi.com/index.html</string>
+    <string name="__partners_url_dhl">http://www.dhl.fr/fr.html</string>
+    <string name="__partners_url_ferrari">http://www.ferrari.com/choose-your-country?IgnoreCookie=True&amp;C=0</string>
+    <string name="__partners_url_michelin">http://www.michelin.fr/</string>
+    <string name="__partners_url_nissan">http://www.nissan-motorsports.com/ENN/index.html</string>
+    <string name="__partners_url_porche">http://www.porsche.com/</string>
+    <string name="__partners_url_shell">http://www.shell.com/global/future-energy/innovation/chief-scientists/warnecke.html</string>
+    <string name="__partners_url_toyota">http://www.toyota-global.com/</string>
+    <string name="__partners_url_tudor">http://www.tudorwatch.com/</string>
+    <string name="__partnership">partnership</string>
+    <string name="__password_informations">Password should have at least 6 characters and one uppercase:</string>
+    <string name="__password_placeholder">Password</string>
+    <string name="__password_too_short">Password should have at least 6 characters</string>
+    <string name="__paste_your_image">Now you can paste your image where you want .</string>
+    <string name="__petrol">Petrol</string>
+    <string name="__picture_preview">PICTURE PREVIEW</string>
+    <string name="__pictures_filter">Pictures</string>
+    <string name="__pits">Pits</string>
+    <string name="__pos">Pos</string>
+    <string name="__presentation">Presentation</string>
+    <string name="__profile">Profile</string>
+    <string name="__purchase_error_message">An error occured while purchasing the product.</string>
+    <string name="__purchase_successful_message">The purchase was made successfully. You can now enjoy the full featured application.</string>
+    <string name="__qualification">Qualification</string>
+    <string name="__qualifying_result_by_category">Qualifying Result By Category</string>
+    <string name="__quit">Quit</string>
+    <string name="__race">Race</string>
+    <string name="__race_live_is_over">The live streaming is over for this race. You can still watch the highlights. Have a look at the races section of the app to see the coming events.</string>
+    <string name="__race_pole">Race (Pole)</string>
+    <string name="__race_replay_pack">Race replay pack</string>
+    <string name="__race_result_by_category">Last Race Result By Category</string>
+    <string name="__race_results">Race results</string>
+    <string name="__race_status">Status:</string>
+    <string name="__races">Races</string>
+    <string name="__races_date_format">LLLL d</string>
+    <string name="__ref">Ref.</string>
+    <string name="__remaining">remaining</string>
+    <string name="__remaining_time">Time remaining</string>
+    <string name="__replay">Replay</string>
+    <string name="__report_an_issue">Report an issue</string>
+    <string name="__report_app_version">App version</string>
+    <string name="__report_describe_bug">Bug description</string>
+    <string name="__report_device">Device</string>
+    <string name="__report_network_quality">Network quality</string>
+    <string name="__report_os_version">OS version</string>
+    <string name="__report_push_token">Push token</string>
+    <string name="__report_screen_resolution">Screen resolution</string>
+    <string name="__restore">Restore</string>
+    <string name="__restore_error_message">An error occured while restoring the in app purchase transaction.</string>
+    <string name="__restore_not_found_message">No valid in app purchase found in your restored items.</string>
+    <string name="__restore_successful_message">The restore was made successfully. You can now enjoy the full featured application.</string>
+    <string name="__retired">Ret</string>
+    <string name="__retry">Retry</string>
+    <string name="__retweet">Retweet</string>
+    <string name="__retweet_count">RETWEETS</string>
+    <string name="__retweeted_by">Retweeted by</string>
+    <string name="__retweets_count">RETWEET</string>
+    <string name="__run">Run</string>
+    <string name="__sao_paulo">Sao Paulo</string>
+    <string name="__save">Save</string>
+    <string name="__save_done">Your picture has been saved</string>
+    <string name="__save_error">Error</string>
+    <string name="__schedule">Schedule</string>
+    <string name="__schedule_loading">Schedule is loading</string>
+    <string name="__season">Season</string>
+    <string name="__season_2015">Season 2015</string>
+    <string name="__season_2016">Season 2016</string>
+    <string name="__season_2017">Season 2017</string>
+    <string name="__sec">SEC</string>
+    <string name="__seconde_abbrev_countdown">Sec</string>
+    <string name="__select_country_title">Select your country</string>
+    <string name="__select_country_valid">OK</string>
+    <string name="__select_highlight_on_the_left">Play highlights by selecting them in the left column</string>
+    <string name="__select_live_on_the_left">Play live videos by selecting them in the left column</string>
+    <string name="__select_replay_on_the_left">Play replay by selecting them in the left column</string>
+    <string name="__selected_team">Selected car</string>
+    <string name="__send_the_link_by_mail">Send the link by mail</string>
+    <string name="__send_this_tweet_by_mail">Send this tweet by mail</string>
+    <string name="__settings">Settings</string>
+    <string name="__settings_alertes_nb">Settings : Alerts</string>
+    <string name="__settings_alertes_subtitle">Subscribe to our main alerts</string>
+    <string name="__settings_alertes_text">Stay connected with the WEC and receive major events notifications before, during and after the races. To do so, subscribe to the notifications below.</string>
+    <string name="__settings_credits_title">Credits</string>
+    <string name="__settings_vod_alertes_text">Activate Highlight alerts on the Live screen.</string>
+    <string name="__shanghai">Shanghai</string>
+    <string name="__share">Share</string>
+    <string name="__share_by_mail">Share by email</string>
+    <string name="__share_on_facebook">Share on facebook</string>
+    <string name="__share_on_twitter">Share on twitter</string>
+    <string name="__silverstone">Silverstone</string>
+    <string name="__skip">Skip</string>
+    <string name="__social">Social</string>
+    <string name="__social_corner_title">"Follow WEC on your favorite
+social medias"</string>
+    <string name="__speed">Speed</string>
+    <string name="__standings">Standings</string>
+    <string name="__standings_info">"INFORMATION
+
+NC : not classified
+
+DNR : did not race
+
+POINTS
+
+At all six-hour races (i.e. all WEC races except the Le Mans 24 Hours), points will be awarded for the following places providing the leader has completed more than 75% of the original race time:
+
+1st 25 points
+
+2nd 18 points
+
+3rd 15 points
+
+4th 12 points
+
+5th 10 points
+
+6th 8 points
+
+7th 6 points
+
+8th 4 points
+
+9th 2 points
+
+10th 1 point
+
+And beyond: 0.5 point (awarded to any car classified lower than 10th in the general classification of an event).
+
+For the Le Mans 24 Hours race only, double points are awarded."</string>
+    <string name="__standings_no_result">No ranking available yet</string>
+    <string name="__start_grid">Official Starting Grid</string>
+    <string name="__start_grid_provisional">Provisional Starting Grid</string>
+    <string name="__start_next_season">- Next season start -</string>
+    <string name="__state">State</string>
+    <string name="__status">Status</string>
+    <string name="__subscribe">Buy</string>
+    <string name="__subscribe_full_saeson_descr">Full live timing of all sessions, live cams, replays, highlights of all races.</string>
+    <string name="__subscribe_lemans_premium_race_pack_descr">"LIVE FROM THE STANDS
+Live access to images from the stands: interviews in the pit lane / images in the stands..."</string>
+    <string name="__subscribe_lemans_premium_race_pack_title">"LIVE AND UNCUT STREAMING
+Including a LIVE STREAM the weekend of 24 Heures du Mans®:From June 11th (4 p.m.) to June 15th (3:15 p.m.)"</string>
+    <string name="__subscribe_next_race_descr">Live cams, full live timing, replays for all sessions of the race.</string>
+    <string name="__subscribe_next_race_title">Next race pack</string>
+    <string name="__subscribe_to_main_alerts">Subscribe to our main alerts</string>
+    <string name="__t">T</string>
+    <string name="__team">Team</string>
+    <string name="__team_age">Age</string>
+    <string name="__team_car_legend">Car</string>
+    <string name="__team_engine_legend">Engine</string>
+    <string name="__team_filter">Teams</string>
+    <string name="__team_manufacturer_legend">Cons.</string>
+    <string name="__team_points_legend">Pts.</string>
+    <string name="__team_position_legend">Rank</string>
+    <string name="__team_standing_legend">Ranking</string>
+    <string name="__team_standing_legend_hybrid">Manufacturer</string>
+    <string name="__team_standing_small">Rank</string>
+    <string name="__team_transmission_legend">Trans.</string>
+    <string name="__team_tyres_legend">Tyres</string>
+    <string name="__teams">Teams</string>
+    <string name="__telephone">Telephone</string>
+    <string name="__terms_conditions_check">I have read and agree to FIA WEC Terms &amp; conditions</string>
+    <string name="__terms_conditions_url">http://www.netcosports.com</string>
+    <string name="__the_circuit">The Circuit</string>
+    <string name="__time">Time :</string>
+    <string name="__to_connect_to_my_account">to connect to my account</string>
+    <string name="__total_points">"Total
+Points"</string>
+    <string name="__track_status_0">Green flag</string>
+    <string name="__track_status_1">Yellow flag</string>
+    <string name="__track_status_2">Red flag</string>
+    <string name="__track_status_3">Not started</string>
+    <string name="__track_status_4">Safety car</string>
+    <string name="__track_status_5">Finished</string>
+    <string name="__track_status_6">Full Course Yellow</string>
+    <string name="__transmission_four_wheel">Four wheel</string>
+    <string name="__transmission_front_wheel">Front wheel</string>
+    <string name="__transmission_rear_engine">Rear engine</string>
+    <string name="__turn">Turn</string>
+    <string name="__turns">Turns</string>
+    <string name="__twitter">Twitter</string>
+    <string name="__unit_km">km</string>
+    <string name="__unit_miles">miles</string>
+    <string name="__update">Update</string>
+    <string name="__user_account">Account</string>
+    <string name="__user_subscribe">Subscribe</string>
+    <string name="__videos_filter">Videos</string>
+    <string name="__view_full_timing">View full timing</string>
+    <string name="__want_account">Create an account</string>
+    <string name="__watch_now">Watch now</string>
+    <string name="__watch_races_highlights">Race highlights</string>
+    <string name="__watch_races_highlights_live_timing">Live Timing</string>
+    <string name="__watch_races_highlights_replay">Replay</string>
+    <string name="__watch_replay">Watch the Replay</string>
+    <string name="__watch_replay_last_race">Watch the replay of the last race</string>
+    <string name="__website">Website</string>
+    <string name="__welcome">Welcome</string>
+    <string name="__which_account_would_you_like_to_use">Which account would you like to use ?</string>
+    <string name="__you_havent_linked_a_twitter_account">"You haven't linked a Twitter account to that application.
+Go to Settings > Twitter to activate your account."</string>
+    <string name="__you_must_allow_twitter_access_to_that_application">You must allow Twitter access to this application.</string>
+    <string name="__you_must_have_an_email_account_set_up">You must have an email account set up</string>
+    <string name="__you_must_update_the_application_to_continue_using_it">You must update the application to continue using it</string>
+    <string name="__you_watch_now">"You
+watch
+now"</string>
+    <string name="__you_will_be_redirected_to_safari_are_you_sure">You will be redirected to Safari. Are you sure ?</string>
+    <string name="__your_reply_was_sent">Your reply was sent.</string>
+    <string name="__your_tweet_was_sent">Your tweet was sent.</string>
+    <string name="_nature_filter_no_selection">Filter</string>
+    <string name="air_temperature">Air Temperature</string>
+    <string name="app_name">WEC</string>
+    <string name="average_short">Avg</string>
+    <string name="behind_leader">behind leader</string>
+    <string name="btn_envoyer">SEND</string>
+    <string name="category_leader">category leader</string>
+    <string name="category_position">Category position</string>
+    <string name="category_small">Cat</string>
+    <string name="ccl_cancel">Cancel</string>
+    <string name="ccl_casting_to">Casting to</string>
+    <string name="ccl_connect_to_device">Connect to Device</string>
+    <string name="ccl_disconnect">Disconnect</string>
+    <string name="ccl_error">Error</string>
+    <string name="ccl_failed_app_launch_timeout">The request to launch the application has timed out!</string>
+    <string name="ccl_failed_authorization_timeout">Authorization timed out</string>
+    <string name="ccl_failed_no_connection">No connection to the cast device is present.</string>
+    <string name="ccl_failed_no_connection_short">No connection</string>
+    <string name="ccl_failed_no_connection_trans">Connection to the cast device has been lost. Application is trying to re-establish the connection, if possible. Please wait for a few seconds and try again.</string>
+    <string name="ccl_failed_perform_action">Failed to perform the action</string>
+    <string name="ccl_failed_receiver_player_error">Receiver player has encountered a severe error</string>
+    <string name="ccl_failed_seek">Failed to seek to the new position on the cast device</string>
+    <string name="ccl_failed_setting_volume">Failed to set the volume</string>
+    <string name="ccl_failed_status_request">Failed to sync up with the cast device</string>
+    <string name="ccl_failed_to_connect">Could not connect to the device</string>
+    <string name="ccl_failed_to_find_app">The application you are trying to launch is not available on your Cast device</string>
+    <string name="ccl_failed_to_launch_app">Failed to launch application</string>
+    <string name="ccl_failed_to_pause">Failed to pause the playback of media</string>
+    <string name="ccl_failed_to_play">Failed to start the playback of media</string>
+    <string name="ccl_failed_to_set_track_style">Failed to update the captions style.</string>
+    <string name="ccl_failed_to_stop">Failed to stop the playback of media</string>
+    <string name="ccl_forward">Forward</string>
+    <string name="ccl_info_na">Information Not Available</string>
+    <string name="ccl_live">Live</string>
+    <string name="ccl_loading">Loading…</string>
+    <string name="ccl_media_route_menu_title">Play on…</string>
+    <string name="ccl_mini_upnext">Up Next</string>
+    <string name="ccl_no_media_info">No media information available</string>
+    <string name="ccl_none">None</string>
+    <string name="ccl_off">Off</string>
+    <string name="ccl_ok">OK</string>
+    <string name="ccl_on">On</string>
+    <string name="ccl_pause">Pause</string>
+    <string name="ccl_play">Play</string>
+    <string name="ccl_ready_to_cast_to">Ready to cast to</string>
+    <string name="ccl_rewind">Rewind</string>
+    <string name="ccl_skip_next">Skip Next</string>
+    <string name="ccl_skip_previous">Skip Previous</string>
+    <string name="chromecast_casting_to_android">Casting to %s</string>
+    <string name="chromecast_introduction">"Touch to cast 
+videos to your TV"</string>
+    <string name="connexion_error">An error occurred, please check your connection.</string>
+    <string name="country_bahrain">Bahrain</string>
+    <string name="country_belgium">Belgium</string>
+    <string name="country_china">China</string>
+    <string name="country_france">France</string>
+    <string name="country_germany">Germany</string>
+    <string name="country_japan">Japan</string>
+    <string name="country_mexico">Mexico</string>
+    <string name="country_united_kingdom">Great Britain</string>
+    <string name="country_usa">USA</string>
+    <string name="demo_app_restricted_feature_popup">Feature not enabled for this demo</string>
+    <string name="demo_app_splash">This version of FIA WEC® has been created specifically for demonstration purposes</string>
+    <string name="dgts__call_me">Call me</string>
+    <string name="dgts__calling">Calling…</string>
+    <string name="dgts__confirmation_code">Confirmation code</string>
+    <string name="dgts__confirmation_edit_hint">Enter the 6-digit code we sent you</string>
+    <string name="dgts__confirmation_error">Unable to confirm your phone number</string>
+    <string name="dgts__confirmation_error_alternative">Sorry, we are having trouble sending you a confirmation code.</string>
+    <string name="dgts__confirmation_expired">This code has expired. Please resend confirmation code.</string>
+    <string name="dgts__continue">Continue</string>
+    <string name="dgts__create_account">Create account</string>
+    <string name="dgts__digits_logo_desc">digits logo icon</string>
+    <string name="dgts__digits_logo_name_desc">digits logo name</string>
+    <string name="dgts__dismiss">Dismiss</string>
+    <string name="dgts__done">Done</string>
+    <string name="dgts__email_request_edit_hint">Email address</string>
+    <string name="dgts__email_request_title">Enter email address</string>
+    <string name="dgts__find_your_friends">Find your friends</string>
+    <string name="dgts__image_header_description">Image header for login</string>
+    <string name="dgts__invalid_email">Invalid Email. Try Again</string>
+    <string name="dgts__login_digits_text">Use my phone number</string>
+    <string name="dgts__network_error">Please check your network and try again.</string>
+    <string name="dgts__not_now">Not now</string>
+    <string name="dgts__okay">Okay</string>
+    <string name="dgts__phone_number_edit_hint">Your Number</string>
+    <string name="dgts__phone_number_text">Enter your phone number</string>
+    <string name="dgts__pin_code_verification_title">Enter 2-step verification code</string>
+    <string name="dgts__resend_confirmation_button_code">Resend code</string>
+    <string name="dgts__resend_confirmation_text">Resend confirmation code</string>
+    <string name="dgts__send_confirmation_code">Send confirmation code</string>
+    <string name="dgts__sending">Sending…</string>
+    <string name="dgts__success_desc">Success Icon</string>
+    <string name="dgts__terms_email_request">By tapping %1$sContinue%1$s above, you are adding this email to your Digits account. You agree that this app and %7$sall apps listed in your Digits account%5$s can access this email address and their users can discover you by email.</string>
+    <string name="dgts__terms_text">By tapping %1$sSend confirmation code%1$s above, %6$sDigits by Twitter%5$s will send you an SMS to confirm your phone number. On the next screen, you can choose “Resend code” to receive a new SMS or “Call me” to initiate a phone call to confirm your phone number. Message, call &amp; data rates may apply.</string>
+    <string name="dgts__terms_text_call_me">By tapping %1$sCall me%1$s above, %6$sDigits by Twitter%5$s will send you a voice call to confirm your phone number. Call &amp; data rates may apply.</string>
+    <string name="dgts__terms_text_create">By tapping %1$sCreate account%1$s above, you agree to the %8$sTerms of Service%5$s, %9$sPrivacy Policy%5$s, and %10$sCookies Use%5$s of %6$sDigits by Twitter%5$s, to share your phone number with %4$s, and that other users of %4$s can discover you by phone number.</string>
+    <string name="dgts__terms_text_sign_in">By tapping %1$sContinue%1$s above, your %7$sDigits phone number and/or email address%5$s will be shared with %4$s and other users of %4$s can discover you by phone number and/or email.</string>
+    <string name="dgts__terms_text_updated">By tapping %1$sContinue%1$s above, you agree to the %8$sTerms of Service%5$s, %9$sPrivacy Policy%5$s, and %10$sCookies Use%5$s of %6$sDigits by Twitter%5$s, to share your %7$sDigits phone number and/or email address%5$s with %4$s, and other users of %4$s can discover you by phone number and/or email.</string>
+    <string name="dgts__try_again">Try Again</string>
+    <string name="dgts__try_again_confirmation">Please check your code and try again.</string>
+    <string name="dgts__try_again_email">Please check your email and try again</string>
+    <string name="dgts__try_again_phone_number">Please check your number and try again.</string>
+    <string name="dgts__try_another_phone">Try a different phone number</string>
+    <string name="dgts__unsupported_operator_error">Unable to send this number an SMS message.</string>
+    <string name="dgts__upload_contacts">"We use Digits by Twitter to find more of your friends who use this app. When you tap Okay, we'll upload your address book to Digits by Twitter so that we can help you find users of %1$s that you know or help other users of %1$s find you."</string>
+    <string name="dgts__verification_code">Verification code</string>
+    <string name="dgts_pin_code_terms">You have previously set a 2-step verification code on digits.com</string>
+    <string name="dialog_annuler">Cancel</string>
+    <string name="dialog_button_retweet">Retweet</string>
+    <string name="dialog_button_star">Star</string>
+    <string name="dialog_connection_needed">You must be connected with your Twitter account to do this.</string>
+    <string name="dialog_retweet_confirmation">Are you sure you want to retweet this?</string>
+    <string name="dialog_star_confirmation">Are you sure you wan to star this tweet?</string>
+    <string name="disable_notifications">Disable Notifications</string>
+    <string name="driver1">Driver 1</string>
+    <string name="driver2">Driver 2</string>
+    <string name="ecrire_un_tweet_">Type your tweet here…</string>
+    <string name="enable_notifications">Enable Notifications</string>
+    <string name="gc_bd_invalid">Invalid birthday</string>
+    <string name="gc_connexion_error">An error occurred, please try again later</string>
+    <string name="gc_dob_has_to_be_specified">Your date of birth is required</string>
+    <string name="gc_email_bad_format">Your e-mail address is not valid.</string>
+    <string name="gc_email_used">E-mail already used</string>
+    <string name="gc_firstname_has_to_be_specified">Your first name is required</string>
+    <string name="gc_hint_birthday">Date of birth MM/DD/YYYY *</string>
+    <string name="gc_lastname_has_to_be_specified">Your last name is required</string>
+    <string name="gc_login_already_used_subscribe">This login has already been used.</string>
+    <string name="gc_mdp_invalid">Invalid password</string>
+    <string name="gc_must_accept_cgu_warning">You must accept the terms and conditions before subscribing.</string>
+    <string name="gc_not_same_passwords">The passwords are not the same.</string>
+    <string name="gt_drivers_endurance_cup_classification">World Endurance Cup for GT drivers</string>
+    <string name="gt_manufacturers_endurance_cup_classification">Manufacturer GTE</string>
+    <string name="highlights_share_application_message">%s to discover on FIA WEC application</string>
+    <string name="highlights_share_application_message_old">%s to discover on 24h Le Mans application</string>
+    <string name="km_in_h">km/h</string>
+    <string name="language_android">en</string>
+    <string name="lmgte_am_drivers_endurance_trophy">FIA Endurance Trophy for GTE am Drivers</string>
+    <string name="lmgte_am_teams_trophy">GTE AM</string>
+    <string name="lmgte_pro_teams_endurance_trophy">GTE PRO</string>
+    <string name="lmp1_private_teams_drivers_trophy_classification">FIA Endurance Trophy for LMP1</string>
+    <string name="lmp1_private_teams_endurance_trophy">LMP1</string>
+    <string name="lmp2_drivers_endurance_trophy">FIA Endurance Trophy for LMP2</string>
+    <string name="lmp2_teams_endurance_trophy">LMP2</string>
+    <string name="lmp_drivers_championship_classification">World Endurance Cup for LMP drivers</string>
+    <string name="lmp_qualifying">LMP Qualifying</string>
+    <string name="manufacturer_championship_classification">Manufacturer LMP</string>
+    <string name="media_route_menu_title">Play on…</string>
+    <string name="mr_controller_stop">Disconnect</string>
+    <string name="next_season">Next Season</string>
+    <string name="no_spoiler_dialog_desc">"There is currently a live race,
+ where do you want to go?"</string>
+    <string name="no_spoiler_dialog_desc_after_race">The race is over, where do you want to go?</string>
+    <string name="no_spoiler_dialog_homepage">Homepage</string>
+    <string name="no_spoiler_dialog_replay">Replay</string>
+    <string name="no_spoiler_dialog_settings">Get to the Settings</string>
+    <string name="no_spoiler_dialog_title">No-spoiler mode:</string>
+    <string name="overall">Overall</string>
+    <string name="overall_position">Overall position</string>
+    <string name="partners_official_digital_media_partner">Official Digital Media Partner</string>
+    <string name="partners_official_logistic_partner">Official Logistic Partner</string>
+    <string name="partners_official_lubricant_partner">Official Lubricant Partner</string>
+    <string name="partners_url_amp">http://www.ampvisualtv.tv/</string>
+    <string name="partners_url_ford">http://www.ford.com</string>
+    <string name="partners_url_m_and_c_travel">http://www.mc-travel-events.de/</string>
+    <string name="partners_url_motorsports">http://www.motorsport.com</string>
+    <string name="partners_url_motul">https://www.motul.com/fr/en</string>
+    <string name="partners_url_mrtc">http://www.mrtc.co.uk</string>
+    <string name="partners_url_rolex">http://www.rolex.com</string>
+    <string name="points_1">25</string>
+    <string name="points_10">1</string>
+    <string name="points_2">18</string>
+    <string name="points_3">15</string>
+    <string name="points_4">12</string>
+    <string name="points_5">10</string>
+    <string name="points_6">8</string>
+    <string name="points_7">6</string>
+    <string name="points_8">4</string>
+    <string name="points_9">2</string>
+    <string name="position_1">1st</string>
+    <string name="position_10">10th</string>
+    <string name="position_2">2nd</string>
+    <string name="position_3">3rd</string>
+    <string name="position_4">4th</string>
+    <string name="position_5">5th</string>
+    <string name="position_6">6th</string>
+    <string name="position_7">7th</string>
+    <string name="position_8">8th</string>
+    <string name="position_9">9th</string>
+    <string name="poster_un_tweet">TWEET</string>
+    <string name="progress_no_results">No results</string>
+    <string name="race_live">Race - Live</string>
+    <string name="race_over">Race over</string>
+    <string name="rafraichir">Refresh</string>
+    <string name="results_by_category">Results By Category</string>
+    <string name="se_connecter">LOGIN</string>
+    <string name="settings_language_change_to">Do you want to change the language to:</string>
+    <string name="settings_language_dialog_confirm">Yes</string>
+    <string name="settings_language_dialog_deny">Cancel</string>
+    <string name="settings_language_name_ar">Arabian</string>
+    <string name="settings_language_name_de">German</string>
+    <string name="settings_language_name_en">English</string>
+    <string name="settings_language_name_es">Spanish</string>
+    <string name="settings_language_name_fr">French</string>
+    <string name="settings_language_name_it">Italian</string>
+    <string name="settings_language_name_jp">Japanese</string>
+    <string name="settings_language_name_pt">Portugese</string>
+    <string name="settings_language_name_zh">Chinese</string>
+    <string name="settings_language_of_the_app">Language of the app</string>
+    <string name="settings_no_spoiler_mode">"During a live race or when a race is over,
+do you want to display the no-spoiler pop-up?"</string>
+    <string name="settings_see_tutorial">See the tutorial</string>
+    <string name="settings_terms">Terms of use</string>
+    <string name="settings_terms_link">http://fiawec.com/en/terms-of-use-app/62</string>
+    <string name="settings_terms_link_en">http://fiawec.com/en/terms-of-use-app/62</string>
+    <string name="settings_terms_link_fr">http://fiawec.com/fr/terms-of-use-app/62</string>
+    <string name="share_this_page">Share this page</string>
+    <string name="sorry_twitter_authentication_failed">Sorry the authentication failed</string>
+    <string name="standings_dialog_bottom_html_1">Au-delà : &lt;font color=\"#B9EB11\">0.5 point&lt;/font> (accordé à toute voiture ayant terminé au-delà de la dixième place du classement dénéral d’une course).</string>
+    <string name="standings_dialog_bottom_html_2">Pour la course des 24 Heures du Mans uniquement, les point sont &lt;font color=\"#B9EB11\">doublés&lt;/font>.</string>
+    <string name="standings_dialog_points_desc">The points for the races of 6 hours (all the WEC races except for 24h du Mans) are attributed at each race following this grid, in the case that the leader did 75% of the planned race time :</string>
+    <string name="standings_dialog_points_title">Pts.</string>
+    <string name="standings_dialog_position_title">Pos.</string>
+    <string name="standings_not_participated">DNR</string>
+    <string name="standings_status_not_classified">NC</string>
+    <string name="standings_type_1">"FIA World Endurance Drivers' Championship"</string>
+    <string name="standings_type_10">FIA Endurance Trophy for LMP2 Drivers</string>
+    <string name="standings_type_11">FIA Endurance Trophy for LMP1 Private Team Drivers</string>
+    <string name="standings_type_12">FIA Endurance Trophy for GT AM Drivers</string>
+    <string name="standings_type_2">"FIA World Endurance Manufacturers' Championship"</string>
+    <string name="standings_type_3">FIA World Endurance Cup for GT Manufacturers</string>
+    <string name="standings_type_4">FIA Endurance Trophy for Private LMP1 Teams</string>
+    <string name="standings_type_5">FIA Endurance Trophy for LMP2 Teams</string>
+    <string name="standings_type_6">FIA Endurance Trophy for LMGTE Pro Teams</string>
+    <string name="standings_type_7">FIA Endurance Trophy for LMGTE Am Teams</string>
+    <string name="standings_type_9">FIA Endurance Cup for GT Drivers</string>
+    <string name="text_starts_in">starts in</string>
+    <string name="toast_impossible_d_ouvrir_cet_url">This URL cannot be opened</string>
+    <string name="toast_tweet_non_poste">An error occured while sending your tweet.</string>
+    <string name="toast_tweet_poste">Your tweet has been sent.</string>
+    <string name="total">Total</string>
+    <string name="track_temperature">Track Temperature</string>
+    <string name="tutorial_favorites_title">Follow your &lt;font color=\"#B9EB11\">favorite&lt;/font> cars</string>
+    <string name="tutorial_green_flag_desc">Fully enjoy the WEC experience by subscribing to our race and season packs :&lt;br /> &lt;font color=\"#B9EB11\">Full Live &amp; OnBoard (race &amp; qualifying session)&lt;/font>&lt;br />&lt;font color=\"#B9EB11\">Full race &amp; qualifications replays&lt;/font>&lt;br />&lt;font color=\"#B9EB11\">Live Timing&lt;/font></string>
+    <string name="tutorial_green_flag_title">Green Flag</string>
+    <string name="tutorial_live_and_replay_desc_text_1">Live &amp; Replay</string>
+    <string name="tutorial_live_and_replay_desc_text_2">Enjoy the videos of the &lt;font color=\"#B9EB11\">live&lt;/font> races and the &lt;font color=\"#B9EB11\">replays&lt;/font> in a single race pack. &lt;br />Make the experience last during the whole season thanks to our &lt;font color=\"#B9EB11\">season packs&lt;/font>.</string>
+    <string name="tutorial_live_and_replay_title">"Discover what's &lt;font color=\"#B9EB11\">new in 2017&lt;/font> in the FIAWEC app"</string>
+    <string name="tutorial_live_timing_desc_text_1">Enriched Livetiming</string>
+    <string name="tutorial_live_timing_title">Follow all the &lt;font color=\"#B9EB11\">session statistics&lt;/font> in real time.</string>
+    <string name="tutorial_no_spoiler_activate_text">Do you want to activate the no-spoiler pop-up?</string>
+    <string name="tutorial_no_spoiler_title">Discover the &lt;font color=\"#B9EB11\">no-spoiler mode&lt;/font>, in order to fully enjoy the replays without knowing the final results.</string>
+    <string name="tutorial_skip">Skip</string>
+    <string name="tutorial_welcome">Welcome</string>
+    <string name="tw__allow_btn_txt">Allow</string>
+    <string name="tw__like_tweet">Like Tweet</string>
+    <string name="tw__liked_tweet">Undo Like</string>
+    <string name="tw__loading_tweet">Loading Tweet</string>
+    <string name="tw__login_btn_txt">Log in with Twitter</string>
+    <string name="tw__not_now_btn_txt">Not now</string>
+    <string name="tw__pause">pause</string>
+    <string name="tw__play">play</string>
+    <string name="tw__relative_date_format_long">MM/dd/yy</string>
+    <string name="tw__relative_date_format_short">MMM dd</string>
+    <string name="tw__replay">replay</string>
+    <string name="tw__retweeted_by_format">Retweeted by %1$s</string>
+    <string name="tw__share_content_format">"Check out @%1$s's Tweet: https://twitter.com/%1$s/status/%2$s"</string>
+    <string name="tw__share_email_desc">Allow %1$s to access the email address associated with your Twitter account @%2$s so that %1$s can use it according to its privacy policy. For example, %1$s could send you updates and other information at that address.</string>
+    <string name="tw__share_email_title">Share your email address</string>
+    <string name="tw__share_subject_format">Tweet from %1$s (@%2$s)</string>
+    <string name="tw__share_tweet">Share Tweet</string>
+    <string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string>
+    <string name="tweet_star_toast">This tweet has been starred.</string>
+    <string name="twitter_ajouter_un_autre_compte">ADD AN OTHER ACCOUNT</string>
+    <string name="twitter_apercu_du_lien">LINK OVERVIEW:</string>
+    <string name="twitter_connect_text">LOGIN WITH YOUR TWITTER ACCOUNT</string>
+    <string name="twitter_deconnexion">DISCONNECT</string>
+    <string name="twitter_dialog_choisir_un_compte_twitter">CHOOSE YOUR ACCOUNT</string>
+    <string name="twitter_dialog_confirm_disconnect_title">Disconnect</string>
+    <string name="twitter_dialog_non">No</string>
+    <string name="twitter_dialog_oui">Yes</string>
+    <string name="twitter_dialog_partager">Share</string>
+    <string name="twitter_fia_wec_live_screen_name">FIAWEC_Live</string>
+    <string name="twitter_fia_wec_live_screen_name_fr">FIAWEC_Live_Fr</string>
+    <string name="twitter_fia_wec_screen_name">FIAWEC</string>
+    <string name="twitter_fia_wec_screen_name_fr">FIAWEC</string>
+    <string name="twitter_item_retweet_par">%s retweeted this</string>
+    <string name="twitter_mon_fil">MY TIMELINE</string>
+    <string name="twitter_s_identifier">Login</string>
+    <string name="twitter_se_connecter">LOGIN</string>
+    <string name="twitter_share_title">Tweet from %1$s (@%2$s)</string>
+    <string name="cannot_load_image">Cannot load the image!</string>
+    <string name="crop">Crop</string>
+    <string name="crop_label">Crop picture</string>
+    <string name="save">Save</string>
+    <string name="select_image">Select photo</string>
+    <string name="setting_wallpaper">Setting wallpaper</string>
+    <string name="app_unlicensed">This app is not licensed</string>
+    <string name="app_unlicensed_close">Close</string>
+    <string name="app_unlicensed_description">This application is not licensed nor valid. Please download the app from a trusted source.</string>
+    <string name="library_piracychecker_libraryDescription">PiracyChecker prevents your app from being pirated / cracked using Google Play Licensing (LVL), APK signature protection and more.</string>
+    <string name="__error_products_unavailable">Race packs are unavailable. Please try again later.</string>
+    <string name="__subscribe_full_saeson_title">Season Pack</string>
+    <string name="__subscribe_replay_descr">Live cams, full live timing, replays for all sessions of the race.</string>
+    <string name="__subscribe_replay_title">Last race pack with replay</string>
+    <string name="__subscribe_seven_races_descr">Full live timing of all sessions, live cams, replays, highlights of all races.</string>
+    <string name="__subscribe_seven_races_title">Season Pack without Le Mans</string>
+    <string name="clock_web_url_phone">http://storage.googleapis.com/static-production.netcosports.com/wec/html/home_latest/android/phone/fr/iframe.html</string>
+    <string name="clock_web_url_tablet">http://storage.googleapis.com/static-production.netcosports.com/wec/html/home_latest/android/tablet/fr/iframe.html</string>
+    <string name="home_right_corner_sponsor_url">http://static.rolex.com/clocks/WEC_2016/en/index.html</string>
+    <string name="notif_format"><b>%1$s</b>: %2$s</string>
+    <string name="ok">OK</string>
+    <string name="progress_loading">Loading…</string>
+    <string name="standings_dialog_dnr">DNR : Non Partant</string>
+    <string name="standings_dialog_legend">Legende</string>
+    <string name="standings_dialog_nc">NC : Non Classé</string>
+    <string name="standings_dialog_points">Points</string>
+    <string name="timeagohelper_day">a day</string>
+    <string name="timeagohelper_days">" days"</string>
+    <string name="timeagohelper_hour">about an hour</string>
+    <string name="timeagohelper_hours">" hours"</string>
+    <string name="timeagohelper_minute">about a minute</string>
+    <string name="timeagohelper_minutes">" minutes"</string>
+    <string name="timeagohelper_month">about a month</string>
+    <string name="timeagohelper_months">" months"</string>
+    <string name="timeagohelper_prefix_order">%1$s %2$s</string>
+    <string name="timeagohelper_seconds">less than a minute</string>
+    <string name="timeagohelper_suffixAgo">ago</string>
+    <string name="timeagohelper_year">about a year</string>
+    <string name="timeagohelper_years">" years"</string>
+    <string name="utils_no_results">No results</string>
+    <string name="version_can_update_dialog_message">Do you want to download the latest version of this application ?</string>
+    <string name="version_dialog_cancel">Skip</string>
+    <string name="version_market_not_found">No application found to install the application</string>
+    <string name="version_must_update_dialog_message">To continue, you must download the latest version of this application</string>
+    <string name="version_update_dialog_telecharger">Download</string>
+    <string name="version_update_dialog_title">New version available</string>
+    <string name="dfp_home_activity_splash">/101423922/splashwec</string>
+    <string name="dfp_home_pre_event">/101423922/wec_home_countdown_phone</string>
+    <string name="dfp_homepage_banner">/101423922/homeandtabletcornerwec</string>
+    <string name="day_of_week_label_typeface">sans-serif</string>
+    <string name="VideoView_error_button">OK</string>
+    <string name="VideoView_error_text_invalid_progressive_playback">Sorry, this video is not valid for streaming to this device.</string>
+    <string name="VideoView_error_text_unknown">Sorry, this video cannot be played.</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="akamai_key">81EC4BB32A8B6ABEEBDD743691CD89EA</string>
+    <item type="string" name="ampm_circle_radius_multiplier">0.19</item>
+    <string name="app_id">andwec</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="cant_find_image_crop_app">Cannot find image to crop</string>
+    <string name="ccl_caption">Caption</string>
+    <string name="ccl_caption_audio">Audio</string>
+    <string name="ccl_caption_no_audio_tracks">No Audio Tracks Available</string>
+    <string name="ccl_caption_no_text_tracks">No Text Tracks Available</string>
+    <string name="ccl_caption_no_tracks_available">No tracks available</string>
+    <string name="ccl_caption_subtitles">Subtitles</string>
+    <string name="ccl_casting_to_device">Casting to %1$s</string>
+    <string name="ccl_failed_to_load_media">Failed to load the media</string>
+    <string name="ccl_intro_overlay_button_text">@android:string/ok</string>
+    <string name="ccl_key_caption_background_color">ccl_caption_background_color</string>
+    <string name="ccl_key_caption_background_opacity">ccl_caption_font_background_opacity</string>
+    <string name="ccl_key_caption_edge_type">ccl_caption_edge_type</string>
+    <string name="ccl_key_caption_enabled">ccl_caption_enabled</string>
+    <string name="ccl_key_caption_font_family">ccl_caption_font_family</string>
+    <string name="ccl_key_caption_font_scale">ccl_caption_font_scale</string>
+    <string name="ccl_key_caption_text_color">ccl_caption_text_color</string>
+    <string name="ccl_key_caption_text_opacity">ccl_caption_text_opacity</string>
+    <string name="ccl_pick_tracks">Tracks</string>
+    <string name="ccl_prefs_caption_background_color_title">Background Color</string>
+    <string name="ccl_prefs_caption_background_color_value_default">\#000000</string>
+    <string name="ccl_prefs_caption_background_opacity_title">Background Opacity</string>
+    <string name="ccl_prefs_caption_background_opacity_value_default">FF</string>
+    <string name="ccl_prefs_caption_disabled">Disabled</string>
+    <string name="ccl_prefs_caption_edge_color_title">Edge Color</string>
+    <string name="ccl_prefs_caption_edge_type_title">Edge Type</string>
+    <string name="ccl_prefs_caption_edge_type_value_default">EDGE_TYPE_NONE</string>
+    <string name="ccl_prefs_caption_enabled">Enabled</string>
+    <string name="ccl_prefs_caption_enabled_title">Caption Availability</string>
+    <string name="ccl_prefs_caption_font_family_title">Font Family</string>
+    <string name="ccl_prefs_caption_font_family_value_default">FONT_FAMILY_SERIF</string>
+    <string name="ccl_prefs_caption_font_scale_title">Text Size</string>
+    <string name="ccl_prefs_caption_font_scale_value_default">1.0</string>
+    <string name="ccl_prefs_caption_text_color_title">Text Color</string>
+    <string name="ccl_prefs_caption_text_color_value_default">\#FFFFFF</string>
+    <string name="ccl_prefs_caption_text_opacity_title">Text Opacity</string>
+    <string name="ccl_prefs_caption_text_opacity_value_default">FF</string>
+    <string name="ccl_version">2.9.1</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="check_version_url_nsapi">http://static-production.netcosports.com/versions/android/%1$s/%2$s</string>
+    <item type="string" name="circle_radius_multiplier">0.82</item>
+    <item type="string" name="circle_radius_multiplier_24HourMode">0.85</item>
+    <string name="com.crashlytics.android.build_id">b23b9a5a-eb34-42b0-86f5-09a88deed3bd</string>
+    <string name="config_lang_ar">RIxT1WlP71</string>
+    <string name="config_lang_de">u5zUtkDdRI</string>
+    <string name="config_lang_default">Ub9XMioBeG</string>
+    <string name="config_lang_es">nuDOqMWbDw</string>
+    <string name="config_lang_fr">9ADQsVKAlq</string>
+    <string name="config_lang_it">bTHI3E4XQ2</string>
+    <string name="config_lang_ja">YTEhzoA5qL</string>
+    <string name="config_lang_pt">s0G45pRr9n</string>
+    <string name="config_lang_zh">MOwtutr6TC</string>
+    <string name="connection_lost">No connection to the cast device exist</string>
+    <string name="connection_lost_retry">Connection to the cast device has been temporarily lost. Application is trying to recover connection, please try again later</string>
+    <string name="connection_recovered">Connection to the cast device is recovered</string>
+    <string name="connection_temp_lost">Connection to the cast device is temporarily lost</string>
+    <string name="consumer_key">ZWLWqbpGYndKYH3zy6yFCbkyw</string>
+    <string name="consumer_secret">fvmyTUm6fnNSckWyU1Uez19aG23as3dvSBRflQXzFDbMFclFkm</string>
+    <string name="define_piracychecker" />
+    <string name="delete">Supprimer</string>
+    <string name="delete_photo">Supprimer la photo</string>
+    <string name="dfp_home_activity">/101423922/homebannerwec</string>
+    <string name="dgts__country_spinner_format">%1$s +%2$d</string>
+    <string name="dgts__digits_com_settings_url">https://www.digits.com/settings</string>
+    <string name="dgts__digits_com_url">https://www.digits.com</string>
+    <string name="dgts__twitter_cookies_policy_url">https://support.twitter.com/articles/20170514</string>
+    <string name="dgts__twitter_privacy_url">https://twitter.com/privacy</string>
+    <string name="dgts__twitter_tos_url">https://twitter.com/tos</string>
+    <string name="do_not_subscribe">"Ne pas s'inscrire"</string>
+    <string name="drawer_close">Close menu</string>
+    <string name="drawer_open">Open menu</string>
+    <string name="drm_error_not_supported">Protected content not supported on API levels below 18</string>
+    <string name="drm_error_unknown">An unknown DRM error occurred</string>
+    <string name="drm_error_unsupported_scheme">This device does not support the required DRM scheme</string>
+    <string name="error">Erreur : %1$s</string>
+    <string name="error_upload_img">Error when trying to upload the image. Please try again later</string>
+    <string name="failed_to_perform_action">Sorry, ran into issues performing the task you wanted</string>
+    <string name="faye_base_url">https://minijast-production.netcosports.com/</string>
+    <string name="faye_namespace">faye</string>
+    <string name="feed_url_facebook">https://www.facebook.com/%s</string>
+    <string name="feed_url_twitter" formatted="false">https://twitter.com/%s/status/%s</string>
+    <string name="focus_failed">Autofocus indisponible</string>
+    <string name="fotofan_default_hashtag">\#Fotofan</string>
+    <string name="fotofan_save_error">"Erreur lors de la sauvegarde de l'image"</string>
+    <string name="fotofan_save_success">"Sauvegarde de l'image…"</string>
+    <string name="fotofan_share">Partager</string>
+    <string name="ga_trackingId">UA-12122112-27</string>
+    <string name="gc_base_url">https://gc-production.netcosports.com/</string>
+    <string name="gc_cgu_url" />
+    <string name="gc_version">1</string>
+    <string name="gcm_register_url_nsapi">https://push-production.netcosports.com/api/1/registration</string>
+    <string name="gcm_sender_id">20582534431</string>
+    <string name="gcm_unregister_url_nsapi">https://push-production.netcosports.com/api/1/registration/%1$s/%2$s</string>
+    <string name="gcm_update_tags_nsapi">https://push-production.netcosports.com/api/1/tags/%1$s/%2$s</string>
+    <string name="hashtag">\#Fotofan</string>
+    <string name="inapp_key">eFx6+zMZbQ1f1u3baXR1hG0hd5ar1man0Ybw/xlLKzOf9CroPFHP8nV6EbwIDAQAB</string>
+    <string name="inscription">Inscription</string>
+    <string name="kit_name">Twitter</string>
+    <string name="library_piracychecker_author">Javier Santos</string>
+    <string name="library_piracychecker_authorWebsite">https://github.com/javiersantos</string>
+    <string name="library_piracychecker_isOpenSource">true</string>
+    <string name="library_piracychecker_libraryName">PiracyChecker</string>
+    <string name="library_piracychecker_libraryWebsite">https://github.com/javiersantos/PiracyChecker</string>
+    <string name="library_piracychecker_licenseId">apache_2_0</string>
+    <string name="library_piracychecker_repositoryLink">https://github.com/javiersantos/PiracyChecker</string>
+    <string name="loading_message">Chargement…</string>
+    <string name="localeIdentifier" />
+    <string name="media_control_fullscreen_button">full screen button</string>
+    <string name="media_control_play_button">play button</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_share">Share</string>
+    <string name="my_photos">Mes photos</string>
+    <string name="no">non</string>
+    <string name="no_email_clients">There are no email clients installed.</string>
+    <string name="no_result_line_1">VOUS TROUVEREZ ICI</string>
+    <string name="no_result_line_2">TOUTES VOS PHOTOS</string>
+    <string name="no_result_line_3">APRES LEUR TELECHARGEMENT</string>
+    <string name="not_premium_message">You are currently not subscribed as a premium user on the application.</string>
+    <string name="notification_title">@string/app_name</string>
+    <string name="nsapi_base_url">https://nsapi-production.netcosports.com/</string>
+    <string name="nsapi_client_id">c87d1a87-00fa-4229-aa8c-6b151ba25f99</string>
+    <string name="nsapi_secret">364a30eba38250ff90fb8c34e1ddc1b87bbe1ed7</string>
+    <string name="nsapi_version">1</string>
+    <item type="string" name="numbers_radius_multiplier_inner">0.6</item>
+    <item type="string" name="numbers_radius_multiplier_normal">0.81</item>
+    <item type="string" name="numbers_radius_multiplier_outer">0.83</item>
+    <string name="one_month_subs_success">You have successfully registered to premium for one month.</string>
+    <string name="one_year_subs_success">You have successfully registered to premium for one year.</string>
+    <string name="oops">Oops</string>
+    <string name="options_menu_back_tablet">Retour</string>
+    <string name="options_menu_next_tablet">Suivant</string>
+    <string name="password_toggle_content_description">Toggle password visibility</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="pipeline_base_url">http://pipeline-production.netcosports.com/wec/1/</string>
+    <string name="player_view_background">player background</string>
+    <string name="player_view_play_button">play button</string>
+    <string name="quit">Quitter</string>
+    <string name="radial_numbers_typeface">sans-serif</string>
+    <string name="rankings_api_base_url">http://ecm.host/</string>
+    <string name="rankings_api_password">3cm+4cc3ss</string>
+    <string name="rankings_api_username">api4ecm</string>
+    <string name="sans_serif">sans-serif</string>
+    <string name="search">Search…</string>
+    <string name="select_or_take_image">Select or take a new Picture</string>
+    <item type="string" name="selection_radius_multiplier">0.16</item>
+    <string name="subscribe">"s'inscrire"</string>
+    <string name="support_email_receiver">support+wec-android@netcosports.com</string>
+    <item type="string" name="text_size_multiplier_inner">0.14</item>
+    <item type="string" name="text_size_multiplier_normal">0.17</item>
+    <item type="string" name="text_size_multiplier_outer">0.11</item>
+    <string name="time_placeholder">--</string>
+    <string name="time_separator">:</string>
+    <string name="title_fotofan">Fotofan</string>
+    <string name="tw__composer_hint">"What's Happening?"</string>
+    <string name="tw__install">Install</string>
+    <string name="tw__max_tweet_chars">140</string>
+    <string name="tw__play_store">Google Play</string>
+    <string name="tw__post_tweet">Tweet</string>
+    <string name="tw_auth_required_message">You need authorize twitter to perform this action.</string>
+    <string name="tw_auth_required_title">Authorization required</string>
+    <string name="tw_retweeted_status">%s retweeted</string>
+    <string name="unauthorized_app_blocked">License is invalid because you have been using an unauthorized app such as Lucky Patcher. Please reinstall the app when the unauthorized app is completely uninstalled.</string>
+    <string name="unauthorized_app_found">License is invalid because we have found you have %1$s app installed on your device.</string>
+    <string name="user_agent_app_name" />
+    <string name="utils_loader_message">Loading…</string>
+    <string name="visit_website">http://www.netcosports.com</string>
+    <string name="write_caption_here">Saisissez votre légende ici</string>
+    <string name="yes">oui</string>
+</resources>

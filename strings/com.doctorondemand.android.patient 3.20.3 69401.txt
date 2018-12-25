@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ab_see_doctor_now">See a Medical Doctor Now</string>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="action_create_account">Create Account</string>
+    <string name="action_example">Example action</string>
+    <string name="action_register">Register</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="action_text_toggle">Need more availability?</string>
+    <string name="activity_title_confirm_visit">Your visit</string>
+    <string name="add_allergy_txt">Add Another Allergy</string>
+    <string name="add_appointment_action">Add Appointment</string>
+    <string name="add_health_title">Add Health Insurance</string>
+    <string name="add_medication_btn_txt">Add Another Medication</string>
+    <string name="add_other_condition">Add Other Condition…</string>
+    <string name="add_to_calendar">Add to Calendar</string>
+    <string name="all_set_appt_button_text">View My Appointments</string>
+    <string name="all_set_appt_message">Come back on %1$s, %2$s, at %3$s</string>
+    <string name="all_set_continue_button_text">Continue</string>
+    <string name="all_set_dialog">"You're All Set!"</string>
+    <string name="all_set_message">"Please be ready at the
+time of your appointment.
+
+The Doctor will call you at
+some point during your
+appointment window."</string>
+    <string name="all_set_on_demand_button_text">Start My Visit Now</string>
+    <string name="all_set_on_demand_message">"When you're ready, tap below and we'll connect you with your doctor."</string>
+    <string name="allergies">Medical Allergies</string>
+    <string name="allergies_heading">Please list your drug allergies below:</string>
+    <string name="allergies_hint">Allergy</string>
+    <string name="allergies_title">DRUG ALLERGIES</string>
+    <string name="allergies_title_TEMPLATE">Allergies as of %1$s</string>
+    <string name="allow_permission">Allow</string>
+    <string name="android_not_supported">This version of Android is no longer supported. Please upgrade to the most recent OS, or visit www.doctorondemand.com to connect via our website.</string>
+    <string name="app_name">Doctor On Demand</string>
+    <string name="app_title">on demand</string>
+    <string name="app_update_available">UPDATE AVAILABLE!</string>
+    <string name="app_update_cancel">Update Later</string>
+    <string name="app_update_message">"Good news! There is a new and improved version of Doctor On Demand available.
+
+Updating will improve your experience."</string>
+    <string name="app_update_ok">Update Now</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="apply_coupon">Apply Coupon</string>
+    <string name="appointment_for_custodial_TEMPLATE">%1$s for %2$s</string>
+    <string name="appointment_medical">Medical Visit</string>
+    <string name="appointment_psychiatry">Psychiatry Visit</string>
+    <string name="appointment_psychology">Therapy Session</string>
+    <string name="appointment_start_range">"Your appointment will
+begin between"</string>
+    <string name="appointments_home">Appointments</string>
+    <string name="appointments_home_badged">Appts</string>
+    <string name="appt_soon_txt">Your appointment is starting soon!</string>
+    <string name="audio_only_txt">"Audio
+Only"</string>
+    <string name="back_txt">Back</string>
+    <string name="bio_name_creds_TEMPLATE">%1$s, %2$s</string>
+    <string name="book_medical_visit_title">Book a medical visit</string>
+    <string name="book_therapy_visit_subtitle">Psychiatrists • Psychologists</string>
+    <string name="book_therapy_visit_title">Book a mental health session</string>
+    <string name="book_visit_description">Choose your doctor and time</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="browsing_txt">"No thanks, I'm just browsing…"</string>
+    <string name="bs_more">More</string>
+    <string name="call_cancelled_msg">Your call has been cancelled</string>
+    <string name="call_cancelled_not_charged_msg">Your call has been cancelled and your card has not been charged</string>
+    <string name="call_cancelled_title">CANCELLED</string>
+    <string name="call_failed_msg">"We are unable to connect you to your visit. Please try again.
+
+If this happens once more, please contact customer support."</string>
+    <string name="camera_permission_rational_message">We need permission to use your Camera and Audio to make a call!</string>
+    <string name="camera_retake">Retake Photo</string>
+    <string name="camera_send_photo">Send to Doctor</string>
+    <string name="cancel">Cancel</string>
+    <string name="cancel_appt_txt">Cancel Appointment</string>
+    <string name="cancel_visit_txt">Cancel Visit</string>
+    <string name="cancellation_charge_text">"Your credit card will still be charged. 
+
+"</string>
+    <string name="cancellation_no_charge_text">"Your credit card will not be charged. 
+
+"</string>
+    <string name="cancellation_policy_md">You can cancel your appointment up to 4 hours before the start time without being charged.</string>
+    <string name="cancellation_policy_psych">You can cancel your appointment up to 24 hours before the start time without being charged.</string>
+    <string name="cancelled_txt">Cancelled</string>
+    <string name="capturer_preview_content_description">Camera capturer preview</string>
+    <string name="center">Center</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="child_allergies_qeustion">Does your child have any known drug allergies?</string>
+    <string name="child_between_8_and_17">"My Child: &lt;font color='#888888'>8-17 years old&lt;/font>"</string>
+    <string name="child_med_qeustion">Is your child currently taking any medications?</string>
+    <string name="child_past_visits">"%1$s's past visits"</string>
+    <string name="child_under_8">"My Child: &lt;font color='#888888'>under age 8&lt;/font>"</string>
+    <string name="choose_environment_confirm">This will change the endpoint and log you out so you can start fresh.</string>
+    <string name="city_state_zip_TEMPLATE">%1$s, %2$s %3$s</string>
+    <string name="com.crashlytics.android.build_id">bf3fe3df-c4bf-4cfa-bb36-963c57f22a4c</string>
+    <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
+    <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_like_button_liked">Liked</string>
+    <string name="com_facebook_like_button_not_liked">Like</string>
+    <string name="com_facebook_loading">Loading…</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_loginview_log_in_button">Log in</string>
+    <string name="com_facebook_loginview_log_in_button_continue">Continue with Facebook</string>
+    <string name="com_facebook_loginview_log_in_button_long">Log in with Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="com_facebook_send_button_text">Send</string>
+    <string name="com_facebook_share_button_text">Share</string>
+    <string name="com_facebook_smart_device_instructions">To connect your account, open the Facebook app on your mobile device and check for notifications.</string>
+    <string name="com_facebook_smart_device_instructions_or">- OR -</string>
+    <string name="com_facebook_smart_login_confirmation_cancel">Not you?</string>
+    <string name="com_facebook_smart_login_confirmation_continue_as">Continue as %1$s</string>
+    <string name="com_facebook_smart_login_confirmation_title">Confirm Login</string>
+    <string name="com_facebook_tooltip_default">"You're in control - choose what info you want to share with apps."</string>
+    <string name="com_mixpanel_android_close">Close</string>
+    <string name="com_mixpanel_android_done">Done</string>
+    <string name="com_mixpanel_android_exit">Exit</string>
+    <string name="com_mixpanel_android_logo">By Mixpanel</string>
+    <string name="com_mixpanel_android_next">Next question</string>
+    <string name="com_mixpanel_android_no_thanks">No, Thanks</string>
+    <string name="com_mixpanel_android_notification_image">Image not displayed</string>
+    <string name="com_mixpanel_android_previous">Previous question</string>
+    <string name="com_mixpanel_android_sure">Sure</string>
+    <string name="com_mixpanel_android_survey_prompt_dialog_message">Mind taking a quick survey?</string>
+    <string name="com_mixpanel_android_survey_prompt_dialog_title">"We'd love your feedback!"</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="conditions_noun">Conditions</string>
+    <string name="conditions_title">MEDICAL CONDITIONS</string>
+    <string name="conditions_title_TEMPLATE">Conditions as of %1$s</string>
+    <string name="confirm_appointment">Confirm Appointment</string>
+    <string name="confirm_skip_policyholder">Are you sure?</string>
+    <string name="confirm_skip_policyholder_message">"Your insurance information might help cover the cost of your visit. If you skip now, you can proceed and pay full price.
+
+To add it later, go to
+My Account > Insurance"</string>
+    <string name="confirm_txt">Confirm</string>
+    <string name="confirm_visit_add_coupon">Add</string>
+    <string name="confirm_visit_bh_cancel_TEMPLATE">CANCELLATION POLICY: You can cancel your appointment up to %1$d hours before the start time without being charged.</string>
+    <string name="confirm_visit_first_med_doctor">First Available Medical Doctor</string>
+    <string name="confirm_visit_insurance_ineligible_TEMPLATE">Your insurance doesn’t cover %1$s visits</string>
+    <string name="confirm_visit_md_cancel_TEMPLATE">CANCELLATION POLICY: You can cancel your appointment up to %1$d minutes before the start time without being charged.</string>
+    <string name="confirm_visit_no_coupon">Can’t be combined with insurance</string>
+    <string name="confirm_visit_title_section_appt_TEMPLATE">For: %1$s • %2$d min</string>
+    <string name="confirm_visit_title_section_on_demand_TEMPLATE">Estimated Wait: %1$d min</string>
+    <string name="confirm_visit_toolbar_appt_TEMPLATE">Visit with Dr. %1$s</string>
+    <string name="confirm_visit_toolbar_on_demand_TEMPLATE">"%1$s's visit"</string>
+    <string name="confirm_visit_toolbar_on_demand_cust">"Your Child's visit"</string>
+    <string name="contact_support">" contact support."</string>
+    <string name="context_afternoon">AFTERNOON</string>
+    <string name="context_early_morning">EARLY MORNING</string>
+    <string name="context_evening">EVENING</string>
+    <string name="context_morning">MORNING</string>
+    <string name="continue_without_insurance_price">Or, pay without insurance %1$s</string>
+    <string name="coupon_message">(Note: Coupons cannot be used for visits subsidized by your insurance or employer.)</string>
+    <string name="coupon_success_message">"Your coupon has been added to your account.
+
+
+Note: Coupons cannot be used for visits subsidized by your insurance or employer"</string>
+    <string name="coupon_title">Enter coupon code:</string>
+    <string name="coverage_txt">Coverage</string>
+    <string name="coworker_share_text">I just used an app called Doctor On Demand. It’s available through work, and allows you to see a doctor wherever you are. Download here: http://bit.ly/workbenefit</string>
+    <string name="coworker_share_text_long">"I wanted to send you a quick note about an app that I just tried. It’s called Doctor On Demand. It’s available through work, and allows you to see a doctor wherever you are on your phone.
+
+I had a great experience, you should give it a try. Download here: http://bit.ly/workbenefit"</string>
+    <string name="coworker_share_title">Have you heard about Doctor On Demand?</string>
+    <string name="credentials_txt">, %1$s</string>
+    <string name="cust_allergies_heading">Please list your child’s drug allergies below:</string>
+    <string name="cust_medications_heading">Please list the medications your child is currently taking:</string>
+    <string name="cust_started_when_title_txt">When did your child start feeling this way?</string>
+    <string name="cust_tap_conditions">Please let us know if your child has any medical conditions. Tap all that apply.</string>
+    <string name="cust_tap_symptoms">"&lt;b>Does your child have any of these
+symptoms?&lt;/b> Tap all that apply."</string>
+    <string name="cust_update_allergies_heading_txt">Please update your child’s drug allergies</string>
+    <string name="cust_update_medications_heading_txt">Please update to reflect your child’s current medications:</string>
+    <string name="default_permission_rational_message">"We need the following permissions to make a call!
+
+Location - To find the nearest doctor.
+Camera and Audio - To connect you to a live call with your doctor."</string>
+    <string name="default_web_client_id">492158283327-7oee5c0bpaocbe8dqhvk93di23qrga6o.apps.googleusercontent.com</string>
+    <string name="denied_permission_rational_title">Permission Denied! :(</string>
+    <string name="dialog_go_back">GO BACK</string>
+    <string name="dialog_skip">SKIP FOR NOW</string>
+    <string name="dob">Date of birth</string>
+    <string name="doctor_name">Dr. %1$s</string>
+    <string name="doctor_ready">Your doctor is ready!</string>
+    <string name="done">Done</string>
+    <string name="duration">Duration:</string>
+    <string name="edit_txt">edit</string>
+    <string name="employer_not_listed_txt">Not in this list?</string>
+    <string name="empty_order_list_header">No lab orders or results</string>
+    <string name="empty_order_list_subtext">Lab work ordered by your doctor will appear here</string>
+    <string name="enable_fingerprint_button">Enable Fingerprint</string>
+    <string name="enable_fingerprint_description">We noticed you logged in with a different account. Would you like to enable Fingerprint with this login.</string>
+    <string name="enable_fingerprint_message">Enable Fingerprint for login</string>
+    <string name="enable_fingerprint_question">Enable Fingerprint for login?</string>
+    <string name="end_call_confirm_message">Are you sure you want to end your video visit?</string>
+    <string name="end_call_confirm_title">END VISIT?</string>
+    <string name="end_txt">End</string>
+    <string name="end_visit_msg">Ending your visit</string>
+    <string name="enter_duration_txt">"Please enter how long you've taken this medication"</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+    <string name="est_cost_insurance_text">"Even if Doctor On Demand doesn’t accept your insurance, the lab might. To find out your coverage before you go, please contact your health plan directly.
+
+The above estimates do not apply to patients who use their insurance."</string>
+    <string name="expand_all_md">Expand to all doctors</string>
+    <string name="extend_visit">Would you like to extend your visit by %1$d minutes for a fee of %2$s</string>
+    <string name="extend_visit_title">EXTEND VISIT</string>
+    <string name="extended_text">Extended</string>
+    <string name="faux_wait_layout">"Just a moment.
+
+We're using your profile information to look up your coverage."</string>
+    <string name="fb_app_id">663724473694016</string>
+    <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
+    <string name="fingerprint_description">Confirm fingerprint to continue</string>
+    <string name="fingerprint_error">"Fingerprint not recognized
+Try again."</string>
+    <string name="fingerprint_hint">Touch sensor</string>
+    <string name="fingerprint_password">Use Password</string>
+    <string name="fingerprint_success">Fingerprint recognized</string>
+    <string name="finish_dissapointing_txt">Sorry we did not deliver you an amazing experience today. We take your feedback seriously, and our customer service team reviews feedback regularly. We look forward to seeing you again/n/nYou can review the details of your visit under My Health.</string>
+    <string name="finish_message">You can find notes from your doctor and more under My Health</string>
+    <string name="finish_message_labs">You can find notes from your doctor and details about your lab order under My Health</string>
+    <string name="finish_thank_you">Thank you for your visit!</string>
+    <string name="finish_visit_history_text">My Health > Visit History</string>
+    <string name="firebase_database_url">https://dod-android-51dd2.firebaseio.com</string>
+    <string name="first_available">First Available Doctor</string>
+    <string name="first_available_doctor">First Available Doctor</string>
+    <string name="follow_up_dialog">"Setting up your
+follow-up visit"</string>
+    <string name="follow_up_dialog_psychology">"Setting up your
+next session"</string>
+    <string name="follow_up_due">Due %1$s</string>
+    <string name="follow_up_due_custodial">Due %1$s for %2$s</string>
+    <string name="follow_up_medical">Medical Follow-up</string>
+    <string name="follow_up_psych">Next Session</string>
+    <string name="follow_up_request_span">Dr. %1$s requests %2$s have a follow-up visit</string>
+    <string name="follow_up_request_span_past">Dr. %1$s requests %2$s have a follow-up visit.</string>
+    <string name="friday">Friday</string>
+    <string name="gcm_defaultSenderId">492158283327</string>
+    <string name="gcm_fallback_notification_channel_label">Miscellaneous</string>
+    <string name="generic_error_message">There was a problem. Please try again later.</string>
+    <string name="generic_error_title">OOPS!!</string>
+    <string name="get_care">Get care</string>
+    <string name="get_care_sch_med_visit">Schedule a medical visit</string>
+    <string name="get_care_sch_mental_visit">Schedule a mental health session</string>
+    <string name="get_care_subtitle">Select the type of visit you would like</string>
+    <string name="get_care_welcome_template">"
+How can we help?"</string>
+    <string name="give_care">Give care</string>
+    <string name="go_back_txt">Go Back</string>
+    <string name="google_api_key">AIzaSyAv42tiga4w-8zHdzNlHJXv6x51oiyK_ac</string>
+    <string name="google_app_id">1:492158283327:android:09a5a8d4261b2867</string>
+    <string name="google_crash_reporting_api_key">AIzaSyAv42tiga4w-8zHdzNlHJXv6x51oiyK_ac</string>
+    <string name="google_storage_bucket">dod-android-51dd2.appspot.com</string>
+    <string name="health_insurance_txt">Health Insurance</string>
+    <string name="help">Help</string>
+    <string name="image_upload_failed">Image not sent. Please try again</string>
+    <string name="image_upload_success">Image sent (Uploading to your doctor)</string>
+    <string name="instructions_title">Instructions:</string>
+    <string name="insurance_example_txt">e.g. Highmark, UnitedHealthcare</string>
+    <string name="insurance_no_recognize">"Sorry, we don't recognize that insurance"</string>
+    <string name="lab_accepted">ACCEPTED BY INSURANCE</string>
+    <string name="lab_appt_message">Visit your selected lab within one week to complete your test.</string>
+    <string name="lab_appt_title">No appointment necessary</string>
+    <string name="lab_blood_prep">• Wear sleeves that roll up easily</string>
+    <string name="lab_choose_location">Choose your location</string>
+    <string name="lab_confirmed_title">Lab Confirmed</string>
+    <string name="lab_cost_title">Estimated Cost for Self-Pay Patients</string>
+    <string name="lab_cost_title_TEMPLATE">Estimated Cost at %1$s (Self-Pay Only)</string>
+    <string name="lab_doctor_request_TEMPLATE">Dr. %1$s requests you visit a lab</string>
+    <string name="lab_doctor_request_custodial_TEMPLATE">Dr. %1$s requested %2$s visit a lab</string>
+    <string name="lab_est_cost_TEMPLATE">$%1$s* (tap for details)</string>
+    <string name="lab_est_cost_disclaimer_labcorp">"This pricing is available to self-pay patients who are uninsured or choose not to use their insurance. Payment due to LabCorp at time of service.
+
+*If blood is drawn there will be an additional $10 fee."</string>
+    <string name="lab_est_cost_disclaimer_quest">"This is a cost estimate for your test(s) when no insurance is applied. This is based on independent research conducted by Doctor On Demand and is not guaranteed as labs pricing can change at any time. Payment due to Quest at time of service.
+
+*If blood is drawn there will be an additional $22 fee."</string>
+    <string name="lab_estimated_cost_message_with_insurance">Contact your health plan or the lab to confirm</string>
+    <string name="lab_fasting_prep">"Fast for 8 hours before your visit.
+Drinking water is encouraged."</string>
+    <string name="lab_fasting_prep_title">Fasting Required</string>
+    <string name="lab_follow_up_button_text">Schedule Follow-up</string>
+    <string name="lab_hours_title">"Today's Hours (Walk-in)"</string>
+    <string name="lab_in_network">IN-NETWORK</string>
+    <string name="lab_insurance_prep">• Bring any insurance and a photo Id</string>
+    <string name="lab_nation_account_no">73911402</string>
+    <string name="lab_open_order">You Have an Open Lab Order</string>
+    <string name="lab_order_button">Send order to this lab</string>
+    <string name="lab_order_form_message">Please present this form to the front desk at the lab.</string>
+    <string name="lab_order_form_not_ready">"Your form is being generated. This process usually takes about 30 seconds.
+
+Please check back soon."</string>
+    <string name="lab_order_form_not_ready_TEMPLATE">"Your form is taking longer than usual to generate.
+
+If you plan to visit the lab today, please contact us immediately with your Lab Order ID: %1$s.
+
+(800) 997 – 6196"</string>
+    <string name="lab_order_form_not_ready_title">Processing</string>
+    <string name="lab_order_form_title">Order/Requisition Form</string>
+    <string name="lab_order_sent">Order sent</string>
+    <string name="lab_phone_title">Phone</string>
+    <string name="lab_phone_title_unknown">Unknown</string>
+    <string name="lab_preferred">PREFERRED BY INSURANCE</string>
+    <string name="lab_prep_intro_message">"Your doctor recommends you visit the lab within the next few days.
+"</string>
+    <string name="lab_prep_title">No Appointment Necessary</string>
+    <string name="lab_prompt_message">Choose a location</string>
+    <string name="lab_ready">The lab is ready when you are</string>
+    <string name="lab_requested_tests_title">Your physician has requested the following labs:</string>
+    <string name="lab_results_dr_title">Medical Doctor</string>
+    <string name="lab_search_dialog_message">Finding labs near you</string>
+    <string name="lab_see_doctor_button_text">See First Available Doctor</string>
+    <string name="lab_skip_dialog_message">"To finalize your lab order, you need to select a location. 
+
+If you're unable to choose now, we'll remind you later."</string>
+    <string name="lab_skip_dialog_title">Are you sure?</string>
+    <string name="lab_summary_at_lab_title">At the lab</string>
+    <string name="lab_summary_at_results_text">We’ll email you when your results are ready — within 7 days of your lab visit.</string>
+    <string name="lab_summary_at_results_title">Lab Results</string>
+    <string name="lab_test_TEMPLATE">%1$s (#%2$s)</string>
+    <string name="lab_test_est_cost_TEMPLATE">$%1$s</string>
+    <string name="lab_test_requested">Lab test requested</string>
+    <string name="lab_test_requested_custodial_TEMPLATE">Lab test requested for %1$s</string>
+    <string name="lab_urine_prep">• Remember to come with a full bladder</string>
+    <string name="lab_view_order_summary">View Order Summary</string>
+    <string name="lab_view_results">View results</string>
+    <string name="lab_when_to_show_text">We recommend you visit the lab within the next couple days.</string>
+    <string name="lab_when_to_show_title">When to show up</string>
+    <string name="labs_hours_closed">Closed</string>
+    <string name="labs_new_request">NEW REQUEST</string>
+    <string name="labs_open">OPEN ORDERS</string>
+    <string name="labs_results">MY RESULTS</string>
+    <string name="labs_results_family">RESULTS FOR %1$s</string>
+    <string name="last_first_name_title">Last name, First Name</string>
+    <string name="learn_more">Learn more</string>
+    <string name="left">Left</string>
+    <string name="lets_get_started_dialog_first_text">We need some info to get you the best possible care.</string>
+    <string name="lets_get_started_dialog_second_text_1a">&lt;br>&lt;br>Your visit with a Doctor On Demand doctor is %1$s</string>
+    <string name="lets_get_started_dialog_second_text_1b">&lt;br>&lt;br>Your visit with a Doctor On Demand doctor only costs %1$s</string>
+    <string name="lets_get_started_dialog_second_text_2">&lt;br>&lt;br>This should only take a few minutes.</string>
+    <string name="lets_get_started_title">"Let's Get Started!"</string>
+    <string name="lets_go_text">"Let's Go!"</string>
+    <string name="limit_to_dr">Show only Dr. %1$s</string>
+    <string name="location_permission_rational_message">We need permission to use your location to connect to a doctor!</string>
+    <string name="md_no_availability">Looks like Dr. %1$s has limited or no availability, try expanding to all doctors.</string>
+    <string name="me_txt">Me</string>
+    <string name="medical_card_subtitle">Board-certified doctors</string>
+    <string name="medical_conditions_title">MEDICAL CONDITIONS</string>
+    <string name="medical_doctor_text">Medical Doctor</string>
+    <string name="medical_treatment_text">Our doctors can treat hundreds of issues, including:</string>
+    <string name="medication_hint_txt">Medication</string>
+    <string name="medications_heading">Please list the medications you are currently taking</string>
+    <string name="medications_heading_txt">Please tell us if you are currently taking any medications, and if so, how long?</string>
+    <string name="medications_title">MEDICATIONS</string>
+    <string name="medications_title_TEMPLATE">Medications as of %1$s</string>
+    <string name="mental_card_subtitle">Psychologists • Psychiatrists</string>
+    <string name="mental_health_text">Mental health</string>
+    <string name="messenger_send_button_text">Send</string>
+    <string name="min_txt">MIN</string>
+    <string name="missing_insurance_heading">Continue getting discounted visits</string>
+    <string name="missing_insurance_msg">Our records show your health insurance is out of date. Please update it below.</string>
+    <string name="monday">Monday</string>
+    <string name="month_hint">MM</string>
+    <string name="more">More</string>
+    <string name="more_caps">MORE</string>
+    <string name="my_child_txt">My Child</string>
+    <string name="my_health_title">My Health</string>
+    <string name="my_tests_text">Lab Tests</string>
+    <string name="na_account_no">National Account #</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="new_reg_appt_text">Book an appointment</string>
+    <string name="new_reg_high_wait_text">First available doctor</string>
+    <string name="new_reg_low_wait_text">Current wait time: %1$d min</string>
+    <string name="new_reg_med_text">Medical doctors &amp; psychologists</string>
+    <string name="new_reg_med_wait_text">High Demand(Current wait time: %1$d min)</string>
+    <string name="new_reg_pharm_text">Pick your pharmacy</string>
+    <string name="new_reg_prescription_text">Nearby prescription pickup</string>
+    <string name="new_reg_see_md_text">See a medical doctor now</string>
+    <string name="new_reg_welcome_template">"Hi %1$s,
+what's next?"</string>
+    <string name="next">Next</string>
+    <string name="next_available_txt">%1$s (%2$d times)</string>
+    <string name="no_appointments_scheduled">No Upcoming Appointments</string>
+    <string name="no_availability_all_docs">There is no availability on this day. Please select another day.</string>
+    <string name="no_availability_day">Dr. %1$s has no availability on this day.</string>
+    <string name="no_availability_day_md_choices">Choose another day or expand to all doctors.</string>
+    <string name="no_availability_day_psych">"Dr. %1$s has no availability on this day.
+Closest appointments:"</string>
+    <string name="no_availability_psych_action">Contact Support</string>
+    <string name="no_follow_up_text">Select a time for your visit.</string>
+    <string name="no_thanks">No, thanks</string>
+    <string name="no_txt">No</string>
+    <string name="none_allergies_text">No known allergies</string>
+    <string name="none_conditions_txt">No known medical conditions</string>
+    <string name="none_medications_txt">No active medications</string>
+    <string name="none_text">None</string>
+    <string name="note_from_dr_TEMPLATE">Note from Dr. %1$s</string>
+    <string name="off">Off</string>
+    <string name="ok_text">Ok</string>
+    <string name="on">On</string>
+    <string name="overdue_custodial_text">Overdue for %1$s</string>
+    <string name="overdue_text">Overdue</string>
+    <string name="password_toggle_content_description">Toggle password visibility</string>
+    <string name="past_visits">My Past Visits</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="patient_name_fmt_txt">Patient: %1$s</string>
+    <string name="pediatrician">Pediatrics</string>
+    <string name="pending_appt_md_dialog_txt">Your visit will start between %1$s and %2$s. You will be notified in the app when your doctor is ready.</string>
+    <string name="pending_appt_psych_dialog_txt">Your visit is scheduled to begin at %1$s. You will be notified in the app when your provider is ready</string>
+    <string name="pics_txt">Pics</string>
+    <string name="policy_holder_missing_txt">Please confirm details for the primary subscriber of your insurance plan.</string>
+    <string name="prescription_directions_TEMPLATE">Direction: %1$s</string>
+    <string name="prescription_quantity_TEMPLATE">Quantity: %1$s %2$s, Refills: %3$d</string>
+    <string name="prescriptions_and_labwork">Prescriptions and Lab Work</string>
+    <string name="prescriptions_title">Prescriptions ordered:</string>
+    <string name="previously_scheduled_error_message">"Sorry, you can only have one medical appointment scheduled at a time. 
+
+ If you need a new appointment, please go to \"Appointments\" and cancel your existing one."</string>
+    <string name="previously_scheduled_error_title">"You're Already Scheduled"</string>
+    <string name="primary_allergies_qeustion">Do you have any known drug allergies?</string>
+    <string name="primary_med_qeustion">Are you currently taking any medications?</string>
+    <string name="project_id">dod-android-51dd2</string>
+    <string name="prompt_email">Email Address</string>
+    <string name="prompt_password">Password</string>
+    <string name="provider_joining">Connecting to your %1$s…</string>
+    <string name="provider_label">Provider:</string>
+    <string name="provider_missed_dialog_msg">We’re sorry, your provider is unable to make your appointment. Your account will not be charged. /n/n Would you like a support agent to help you reschedule?</string>
+    <string name="provider_missed_dialog_title">Appointment Cancelled</string>
+    <string name="provider_name_template">"%1$s 
+Physician"</string>
+    <string name="provider_reviewing_chart">Your %1$s is reviewing your chart…</string>
+    <string name="provider_window_time_exceeded">Your doctor’s previous visit is taking longer than expected. We will alert you if your doctor arrives before %1$s</string>
+    <string name="psych_no_availability">Dr. %1$s has no availability at this time.</string>
+    <string name="psychia_ready">Your psychiatrist is ready!</string>
+    <string name="psychiatrist">psychiatrist</string>
+    <string name="psychiatrist_text">Psychiatrist</string>
+    <string name="psycho_ready">Your psychologist is ready!</string>
+    <string name="psychologist">psychologist</string>
+    <string name="psychologist_text">Psychologist</string>
+    <string name="purchase_txt">Purchase</string>
+    <string name="quest_help_title">Please present this information to the lab and tell them to<b><u> search nationally</u></b> to locate your order.</string>
+    <string name="questions_contact">Questions? Please</string>
+    <string name="recent_visit">Recent visit</string>
+    <string name="ref_physician">Ref Physician</string>
+    <string name="retake">Retake</string>
+    <string name="review_profile_title">Please review the following and edit if anything has changed:</string>
+    <string name="review_profile_title_txt">Review Profile</string>
+    <string name="right">Right</string>
+    <string name="saturday">Saturday</string>
+    <string name="save_txt">Save</string>
+    <string name="sch_next_session">Schedule next session</string>
+    <string name="search_another_company_txt">Search for another company.</string>
+    <string name="search_menu_title">Search</string>
+    <string name="search_not_found_txt">"Sorry, we don't recognize that insurance"</string>
+    <string name="search_txt">Search</string>
+    <string name="section_appt_request">Appointment Requests</string>
+    <string name="section_pending_appointments">Upcoming Appointments</string>
+    <string name="see_first_available_title">See first available</string>
+    <string name="see_md_subtitle">Board-certified doctors</string>
+    <string name="select_employer_header">"Select the company that helps
+ cover your video visits:"</string>
+    <string name="session_title">Choose your Next Session</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="skip">Skip</string>
+    <string name="skip_ask_title">Why do you want to skip?</string>
+    <string name="skip_insurance">Skip Insurance</string>
+    <string name="skip_insurance_message">To apply insurance, please go back and fill in details for the primary subscriber.</string>
+    <string name="skip_insurance_reason_information_not_nearby">"Information isn't nearby"</string>
+    <string name="skip_insurance_reason_just_browsing">Just browsing</string>
+    <string name="skip_insurance_reason_not_using_insurance">Not using insurance</string>
+    <string name="skip_insurance_reason_other">Other</string>
+    <string name="skip_insurance_title">Skip Insurance?</string>
+    <string name="someone_else_txt">Someone Else</string>
+    <string name="spread_the_word">Spread the word</string>
+    <string name="start_txt">Start Now</string>
+    <string name="started_when_title_txt">When did you start feeling this way?</string>
+    <string name="state">State</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="str_choose_environment">Choose new Environment</string>
+    <string name="submit">Submit</string>
+    <string name="submit_to_dr">Submit to Dr</string>
+    <string name="sunday">Sunday</string>
+    <string name="tab_account">Account</string>
+    <string name="tab_appt">My Appts</string>
+    <string name="tab_care">Get Care</string>
+    <string name="tab_health">My Health</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_meetus">Meet Us</string>
+    <string name="tab_sign_up">Sign Up</string>
+    <string name="take_health_insurance_msg">"Search for your insurance provider to see if you're covered."</string>
+    <string name="take_health_insurance_title">We take health insurance</string>
+    <string name="tap_conditions">Please let us know if you have any medical conditions. Tap all that apply.</string>
+    <string name="tap_conditions_lc">"&lt;b>Please let us know if any of these apply to you.&lt;/b>
+Tap all that apply."</string>
+    <string name="tap_symptoms">"&lt;b>Do you have any of these
+symptoms?&lt;/b> Tap all that apply."</string>
+    <string name="tap_symptoms_lc">"&lt;b>Do you have any of these?&lt;/b>
+Tap all that apply."</string>
+    <string name="tap_symptoms_psych">"&lt;b>What would you like to discuss?&lt;/b>
+Tap all that apply."</string>
+    <string name="test_title">Test</string>
+    <string name="text_window_text_bh">Your appointment is in</string>
+    <string name="text_window_text_med">Your appointment window opens</string>
+    <string name="there">there</string>
+    <string name="thursday">Thursday</string>
+    <string name="tip_four"><b>Bright lighting.</b>"
+Light should be directed toward your face."</string>
+    <string name="tip_one"><b>Strong Internet Connection.</b>"
+If possible, connect to Wifi."</string>
+    <string name="tip_three"><b>Safe and private space.</b>"
+So you feel comfortable discussing personal information."</string>
+    <string name="tip_two"><b>Safe and private space.</b>"
+In case your provider requires a remote physical exam (e.g. moles)."</string>
+    <string name="tips_header">For the best possible experience, look for the following:</string>
+    <string name="tips_hint_txt">Your video visit start in the app. Please make sure you sign in a few minutes before your appointment.</string>
+    <string name="tips_short">Your video visit will start in the app. Please make sure you sign in a few minutes before your appointment.</string>
+    <string name="tips_title_txt">Tips for a Successful Visit</string>
+    <string name="title_account_activity">My Account</string>
+    <string name="title_activity_basic_info">Basic Info</string>
+    <string name="title_activity_create_account">Create Account</string>
+    <string name="title_activity_estimated_costs">Estimated Cost</string>
+    <string name="title_activity_lab_details">Order Details</string>
+    <string name="title_activity_lab_hours">Hours</string>
+    <string name="title_activity_lab_order_summary">Lab Order</string>
+    <string name="title_activity_lab_results">Review Results</string>
+    <string name="title_activity_labs_maps">Choose a Lab</string>
+    <string name="title_activity_labs_overview">Lab Tests</string>
+    <string name="title_activity_my">MyActivity</string>
+    <string name="title_followup">Choose a Follow-up</string>
+    <string name="title_my_appointments_list">My Appointments</string>
+    <string name="title_section1">Home</string>
+    <string name="title_section2">Logout</string>
+    <string name="title_section_home">On Demand</string>
+    <string name="toolbar_subtitle_ftu">Welcome to Doctor On Demand</string>
+    <string name="toolbar_subtitle_returning_user">Welcome back</string>
+    <string name="toolbar_title_default">Hi there,</string>
+    <string name="toolbar_title_template">Hi %1$s,</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="txt_policyholder_relationship">Your Relationship to Primary Subscriber</string>
+    <string name="upcoming_appt_TEMPLATE">Your appointment is in %1$d minutes</string>
+    <string name="update_allergies_heading_txt">Please update your drug allergies:</string>
+    <string name="update_allergies_title">Update Allergies</string>
+    <string name="update_conditions_title">Please let us know if you have any medical conditions.</string>
+    <string name="update_conditions_title_txt">Update Conditions</string>
+    <string name="update_insurance_heading">"Let's update your insurance"</string>
+    <string name="update_insurance_title">Update Health Insurance</string>
+    <string name="update_medications_heading_txt">Please update to reflect your current medications:</string>
+    <string name="update_medications_title">Update Medications</string>
+    <string name="update_now">Update Now</string>
+    <string name="update_required_txt">In order to provide the best experience at Doctor on Demand, we require you install the latest version of our application!</string>
+    <string name="view_earlier_time_slots">View earlier times</string>
+    <string name="view_full_summary">View full summary</string>
+    <string name="view_visit_summary">View visit summary</string>
+    <string name="visit_details_add_fav_text">Add Doctor to Favorites</string>
+    <string name="visit_details_default_patient_instructions">The doctor has not finished entering notes from your call yet. This is typically done within 24 hours. Check back soon.</string>
+    <string name="visit_details_document_title">Documents</string>
+    <string name="visit_details_follow_up_cta_text">Schedule follow-up</string>
+    <string name="visit_details_follow_up_date_TEMPLATE">Requested for %1$s</string>
+    <string name="visit_details_follow_ups_title">Follow-up</string>
+    <string name="visit_details_header_date_title">Date and Time</string>
+    <string name="visit_details_lab_cta_text">Complete your Lab Test Request</string>
+    <string name="visit_details_lab_date_title_TEMPLATE">%1$s by Dr. %2$s</string>
+    <string name="visit_details_patient_instructions_title">Patient instructions</string>
+    <string name="visit_details_patient_title">Patient</string>
+    <string name="visit_details_pharmacy">Selected pharmacy</string>
+    <string name="visit_details_prescriptions">Prescriptions ordered</string>
+    <string name="visit_details_read_less">Read Less</string>
+    <string name="visit_details_read_more">Read More</string>
+    <string name="visit_details_remove_fav_text">Remove Doctor from Favorites</string>
+    <string name="visit_details_title">Visit Details</string>
+    <string name="visit_soon_title">Visit starting soon</string>
+    <string name="visit_starting_soon_txt">Your visit is starting soon</string>
+    <string name="visit_time_txt">%1$s*</string>
+    <string name="visit_time_txt_bh">%1$s</string>
+    <string name="visit_window_length_txt">*Your visit will start between %1$s and %2$s</string>
+    <string name="visits_activity_label">Visits</string>
+    <string name="visits_empty_state_text">"You haven't had any visits yet."</string>
+    <string name="waiting_next_txt">Your doctor is finishing up with another patient. Your visit will start by %1$s.</string>
+    <string name="waiting_next_txt_bh">Please wait here while we contact your %1$s.</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="welcome_message_signed_in_TEMPLATE">Welcome, %1$s</string>
+    <string name="welcome_message_signed_out">Welcome</string>
+    <string name="welcome_message_subtext">How can we help you today?</string>
+    <string name="who_is_the_patient">Who is the patient?</string>
+    <string name="why_skip_insurance">Why are you skipping insurance?</string>
+    <string name="window_open_txt">in %1$d min</string>
+    <string name="window_open_txt_bh">%1$d min</string>
+    <string name="window_time_text_med">*Your visit will start between %1$s and %2$s.</string>
+    <string name="year_hint">YY</string>
+    <string name="yes_txt">Yes</string>
+    <string name="you">you</string>
+</resources>

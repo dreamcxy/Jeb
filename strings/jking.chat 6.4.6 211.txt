@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_notification_needs_installation_title">An application requires installation of Google Play services.</string>
+    <string name="common_google_play_services_notification_needs_update_title">An application requires an update for Google Play services.</string>
+    <string name="common_google_play_services_needs_enabling_title">An application requires Google Play services to be enabled.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Requested by %1$s</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_install_text_phone">"This app won't run without Google Play services, which are missing from your phone."</string>
+    <string name="common_google_play_services_install_text_tablet">"This app won't run without Google Play services, which are missing from your tablet."</string>
+    <string name="common_google_play_services_install_button">Get Google Play services</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_enable_text">"This app won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_button">Enable Google Play services</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_update_text">"This app won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_network_error_title">Network Error</string>
+    <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
+    <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
+    <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
+    <string name="common_google_play_services_unknown_issue">Unknown issue with Google Play services.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string name="common_google_play_services_unsupported_text">Google Play services, which some of your applications rely on, is not supported by your device. Please contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_date_text">The date on the device appears to be incorrect. Please check the date on the device.</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="wallet_buy_button_place_holder">Buy with Google</string>
+    <string name="hello">Hello World, MessageActivity!</string>
+    <string name="app_name">Chatro</string>
+    <string name="main_empty_list">There is no recent conversation, write new message to start one.</string>
+    <string name="sprache">EN</string>
+    <string name="bitteWarten">Please wait</string>
+    <string name="laden">Loading</string>
+    <string name="verbindungsfehler">Connection Error try again later.</string>
+    <string name="loginBenutzername">Username</string>
+    <string name="loginPasswort">Password</string>
+    <string name="loginGebannt">You are banned.</string>
+    <string name="bistdusicher">Are you sure?</string>
+    <string name="newProfilLogout">Logout</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="bildview">Touch the screen to show the picture</string>
+    <string name="oldpremium">"You use a old Premium Version.
+You must first update your Premium Upgrade in Playsore"</string>
+    <string name="mainAnErrorGCM">Google Cloud Messaging error try again later.</string>
+    <string name="mainAnStartGCM">Starting Google Cloud Messaging</string>
+    <string name="mainAnConnect">Connect to server</string>
+    <string name="permissionsPhone">Chatro requires this authorization to support all functions</string>
+    <string name="loginButton">Login</string>
+    <string name="loginButtonNewAccount">Create new Account</string>
+    <string name="loginBenutzerOrPwWrong">Invalid username or password</string>
+    <string name="regTitle">Create new account</string>
+    <string name="regPwWiederholen">Repeat password</string>
+    <string name="regText">"With your registration you agree to these general terms (T&amp;C) , the rules and that you are over 16 years old.
+The registration is for free."</string>
+    <string name="regAGB">T&amp;C</string>
+    <string name="regRegeln">Rules</string>
+    <string name="regReg">Register</string>
+    <string name="regBack">Back</string>
+    <string name="reg24Stundenban">Solange du von den Chaträumen gebannt bist, kannst du 24 Stunden keinen neuen Account anlegen</string>
+    <string name="regBenutzernameVergeben">Username already taken</string>
+    <string name="regError1">Error no username</string>
+    <string name="regError2">Symbols and special chars e.g. Ä,Ü,Ö banned</string>
+    <string name="regError3">Username can be between 4 and 12 characters long</string>
+    <string name="regError4">Error no password</string>
+    <string name="regError5">Password can be between 4 and 12 characters long</string>
+    <string name="regError6">Please repeat password</string>
+    <string name="regError7">Password does not match</string>
+    <string name="newProfilTitle">Create profile</string>
+    <string name="newProfilBday">Date of birth</string>
+    <string name="newProfilNext">Next</string>
+    <string name="newProfilError1">Error : no Sessionid. Please relog</string>
+    <string name="newProfilError2">You have to be between 16 and 99 years old</string>
+    <string name="newProfilError3">Please choose your date of birth</string>
+    <string name="newProfilError4">Please choose your gender</string>
+    <string name="newProfilError5">Geburtsdatum ungültig</string>
+    <string name="editProfilTitel">Edit profile</string>
+    <string name="editProfil2">Hometown</string>
+    <string name="editProfil3">wants to chat with</string>
+    <string name="editProfil4">Male</string>
+    <string name="editProfil5">Female</string>
+    <string name="editProfil6">both</string>
+    <string name="editProfil7">aged between</string>
+    <string name="editProfil8">and</string>
+    <string name="editProfil9">from</string>
+    <string name="editProfil10">Please write somethink about you</string>
+    <string name="editProfilError1">Choose the age for your chat partner</string>
+    <string name="editProfilError2">Your chat partner should be at least 16</string>
+    <string name="editProfilError21">Your chat partner should be at least 18</string>
+    <string name="editProfilError3">Your chat partner age difference is to low</string>
+    <string name="editProfilError4">You chat partner should be not more than 99</string>
+    <string name="chatauswahlL1">Add friend</string>
+    <string name="chatauswahlL2">Matching chat partner</string>
+    <string name="chatauswahlL3">Random chat partner</string>
+    <string name="chatauswahlL4">Chat rooms</string>
+    <string name="chatauswahlL5">Private group chat</string>
+    <string name="chatauswahlL6">Search</string>
+    <string name="chatauswahlAF1">want not write with you</string>
+    <string name="chatauswahlAF2">not found</string>
+    <string name="chatauswahlPCP1">"Search for a chat partner where your profile matches.
+
+This can take a long time.
+
+Premium user are preferred."</string>
+    <string name="chatauswahlPCP2">Search</string>
+    <string name="chatauswahlPCP3">The search has been started in the background</string>
+    <string name="chatauswahlPCP4">Found new chat partner</string>
+    <string name="chatauswahlCGC1">New groupchat</string>
+    <string name="chatauswahlCGC2">Groupname</string>
+    <string name="chatauswahlCGC3">Gruppename can be between 4 and 10 characters long</string>
+    <string name="chatauswahlCGC4">server: groupchat successfully added. Click above to add users</string>
+    <string name="chatauswahlCGC5">Groupname already used</string>
+    <string name="chatauswahlCGC6">Only the characters a-Z are allowed</string>
+    <string name="chatauswahlList1">Profile</string>
+    <string name="chatauswahlList2">Chatro Premium Upgrade</string>
+    <string name="chatauswahlList3">Chatro Shop</string>
+    <string name="chatauswahlList4">About</string>
+    <string name="chatauswahlList2P1">Show profile</string>
+    <string name="chatauswahlList2P2">Edit profile</string>
+    <string name="chatauswahlList2P3">Edit profile picture</string>
+    <string name="chatauswahlList2P4">Link Instagram</string>
+    <string name="chatauswahlList2P5">Notifications settings</string>
+    <string name="chatauswahlList2P6">Delete account</string>
+    <string name="chatauswahlListAPB1">Inappropriate pictures e.g. nude, sex, racism lead to a permanent ban</string>
+    <string name="chatauswahlListAPB2">Attention</string>
+    <string name="chatauswahlListAPB3">Profile picture</string>
+    <string name="chatauswahlListAPB4">Delete</string>
+    <string name="chatauswahlListAPB5">Profile picture deleted</string>
+    <string name="chatauswahlListAPB6">Gallery</string>
+    <string name="chatauswahlListAPB7">Camera</string>
+    <string name="chatauswahlInsta1">Link Instagram</string>
+    <string name="chatauswahlInsta2">Link your Instagram profile with your Chatro profile</string>
+    <string name="chatauswahlInsta3">Connect</string>
+    <string name="chatauswahlInsta4">Delete link</string>
+    <string name="chatauswahlInsta5">Link deleted</string>
+    <string name="chatauswahlAccountDelete1">Delete account</string>
+    <string name="chatauswahlAccountDelete2">Write YES to delete your account</string>
+    <string name="chatauswahlAccountDelete3">YES</string>
+    <string name="chatauswahlAccountDelete4">Your account has been successfully deleted</string>
+    <string name="chatauswahlAccountDelete5">You have not written YES in the window.</string>
+    <string name="chatauswahlLogout1">"Attention!
+Nobody can write to you while you are not logged in!"</string>
+    <string name="chatauswahlLogout2">minimize</string>
+    <string name="chatauswahlbroadcast1">Delete chat</string>
+    <string name="chatauswahlbroadcast2">Want to remove this chat ?</string>
+    <string name="chatauswahlbroadcast3">Want to leave this groupchat?</string>
+    <string name="chatauswahlbroadcast4">Leave</string>
+    <string name="chatauswahlbroadcast5">successfully left</string>
+    <string name="chatauswahlbroadcast6">Show profile</string>
+    <string name="chatauswahlbroadcast7">Delete chat</string>
+    <string name="chatauswahlbroadcast8">Block user</string>
+    <string name="chatauswahlbroadcast9">"Do you really want to remove this chat ?
+
+This cannot be undone."</string>
+    <string name="chatauswahlbroadcast10">"Do you really want to block this user ?
+
+This cannot be undone"</string>
+    <string name="chatauswahlbroadcast11">Block</string>
+    <string name="chatauswahlbroadcast12">successfully blocked</string>
+    <string name="chatauswahlBildUpdload1">You choosed no picture</string>
+    <string name="chatauswahlBildUpdload2">Upload successful</string>
+    <string name="chatauswahlBildUpdload3">Change profile picture</string>
+    <string name="chatauswahl1">You are banned</string>
+    <string name="chatauswahl2">If you like chatro , we are looking forward to a review in the Play Store</string>
+    <string name="chatauswahl3">Rate</string>
+    <string name="chatauswahl4">Not now</string>
+    <string name="message1">Write here</string>
+    <string name="message2">Load messages</string>
+    <string name="message3">Send picture</string>
+    <string name="message4">You can not send pictures here</string>
+    <string name="message5">Disallowed characters</string>
+    <string name="message6">Click here to send again</string>
+    <string name="message7">The group has been deleted or you were kicked out of the group</string>
+    <string name="message8">You are blocked</string>
+    <string name="message9">Picture successfully sent</string>
+    <string name="message10">Send picture to</string>
+    <string name="ein1">Settings</string>
+    <string name="ein2">Notifications</string>
+    <string name="ein3">You can turn notifications on and off</string>
+    <string name="ein4">Private messages</string>
+    <string name="ein5">Group messages</string>
+    <string name="sql1">Add</string>
+    <string name="sql2">Press and hold to add a random chat partner quickly</string>
+    <string name="fb1">What can we do better ?</string>
+    <string name="fb2">Send feedback</string>
+    <string name="fb3">Thanks for your feedback</string>
+    <string name="fb4">Please write more</string>
+    <string name="gp1">How much costs is the premium membership ?</string>
+    <string name="gp2">"The Premium membership costs one time
+29,99 Euro"</string>
+    <string name="gp3">50 % Discount only 14,99 € for a short time</string>
+    <string name="gp4">What advantages do premium members have?</string>
+    <string name="gp5">"- Find faster chat partner
+
+- Smileys
+
+- Endless chat requests
+
+- Write direct messages to woman"</string>
+    <string name="gp6">Buy Premium</string>
+    <string name="gp7">Chatro Shop</string>
+    <string name="report1">Why do you want to report this user?</string>
+    <string name="report2">"Bad behaviour
+(e.g. insult or racist utterance etc.)"</string>
+    <string name="report3">Inappropriate profile picture</string>
+    <string name="report4">Fake profile</string>
+    <string name="report5">Report user</string>
+    <string name="report6">For other problems write a e-mail to info@chatro.de</string>
+    <string name="profil1">Loading</string>
+    <string name="profil2">About me</string>
+    <string name="profil3">Chat request</string>
+    <string name="profil4">Write to</string>
+    <string name="profil5">Report user</string>
+    <string name="profil6">You have reported this person already</string>
+    <string name="profil7">Thank you for your report</string>
+    <string name="profil8">To send chat requests you have to use a profile picture</string>
+    <string name="profil9">You already have sent a chat request</string>
+    <string name="profil10">"You have used up your free requests for today.
+
+Wait until tomorrow or set your daily limit for 5 chatro points back.
+
+Chatro Points can be earned for free.
+
+Premium members can send unlimited chat request."</string>
+    <string name="profil11">Thank you for your purchase</string>
+    <string name="profil12">You do not have enough CP. Chatro Points can be earned for free</string>
+    <string name="profil13">Free CP</string>
+    <string name="profil14">You have already purchased this</string>
+    <string name="profil15">Chat request successfully sent</string>
+    <string name="profil16">"Free user can not send messages directly to woman!
+
+Premium members can leave women directly a message.
+
+You can also write uniquely for 10 chatro points ( CP )."</string>
+    <string name="profil17">Info: Chat successfully added</string>
+    <string name="profil18">Austria</string>
+    <string name="profil19">Switzerland</string>
+    <string name="profil20">International</string>
+    <string name="profil21">Not specified</string>
+    <string name="gruppenadmin1">Only the group admin can add users</string>
+    <string name="gruppenadmin2">Add friend</string>
+    <string name="gruppenadmin3">Username</string>
+    <string name="gruppenadmin4P1">You are not friends with</string>
+    <string name="gruppenadmin4P2">. You need to have the person in the chat history.</string>
+    <string name="gruppenadmin5">No friend</string>
+    <string name="gruppenadmin6">A maximum of 50 users possible</string>
+    <string name="gruppenadmin7">Are you sure that the user should be kicked?</string>
+    <string name="gruppenadmin8">got kicked</string>
+    <string name="gruppenadmin9">You are not the group admin</string>
+    <string name="gruppenadmin10">Kick</string>
+    <string name="chatanfrage1">Accept</string>
+    <string name="chatanfrage2">Refuse</string>
+    <string name="chatanfrage3">Chat request</string>
+    <string name="chatanfrage4">There is no new request.</string>
+    <string name="chatanfrage5">Chat request confirmed</string>
+    <string name="shop1">Earn free CP</string>
+    <string name="shop2">Please relog first.</string>
+    <string name="shop3">There was no video found. Probably you have seen all the currently available videos. Please try again tomorrow.</string>
+    <string name="shop4">Earn free chatro points to buy great things</string>
+    <string name="shop5">Earn free points</string>
+    <string name="shop6">10 - 1000 Chatro Points per action</string>
+    <string name="shop7">Note: It can take up to 3 hours until the points are credited</string>
+    <string name="shop8">The smiley package consists of 20 smileys</string>
+    <string name="shop9">This will remove all ads from Chatro</string>
+    <string name="shop10">"With Premium you can use all Premium Features permanently and indefinitely.
+
+Upgrade also includes:
+[Smiley package]
+[Remove ads]"</string>
+    <string name="shop11">Smiley package</string>
+    <string name="shop12">Remove ads</string>
+    <string name="shop13">Premium Upgrade</string>
+    <string name="shop14">Buy</string>
+    <string name="shop15P1">Do you want to buy</string>
+    <string name="shop15P2">for</string>
+    <string name="shop15P3">CP</string>
+    <string name="shop15P3V2">CP or 14,99 Euro</string>
+    <string name="shop16">Price</string>
+    <string name="shop17">Already bought</string>
+    <string name="shop18">or 29,99 € // 50% discount only 14,99 €</string>
+    <string name="insta1">The profile</string>
+    <string name="insta2">added successfully</string>
+    <string name="dm1">"You have no new Daily Matches.
+Please try it agian later.
+
+Daily matches will find chat partners where the search criteria match."</string>
+    <string name="dm2">Keine Daily Matches</string>
+    <string name="dm3">"Enough for today. Check back again tomorrow.
+
+Normal users have up to 10 matches each day.
+Premium up to 50."</string>
+    <string name="dm4">Daily Matches</string>
+    <string name="gcm1P1">Messages from</string>
+    <string name="gcm1P2">chats</string>
+    <string name="nextgame1">If he / she will like you too, you will be notified</string>
+    <string name="nextgame2">"Free user can not send messages directly!
+
+Premium members can leave directly a message.
+
+You can also write uniquely for 10 chatro points ( CP )"</string>
+    <string name="nextgame3">Who likes you?</string>
+    <string name="nextgame4">Info: Next Game match</string>
+    <string name="nextgame5">"Free user can not accept women directly!
+
+Premium user can accept women directly.
+
+You can also accept uniquely for 10 chatro points ( CP )"</string>
+    <string name="search1">Search</string>
+    <string name="search2">Male</string>
+    <string name="search3">Female</string>
+    <string name="search4">both</string>
+    <string name="search5">Alter</string>
+    <string name="search6">Min alter muss mindestens 18 sein</string>
+    <string name="search7">Min alter muss mindestens 16 sein</string>
+    <string name="search8">Max alter darf höchstens 99 sein</string>
+    <string name="search9">Min alter muss kleiner Max alter sein</string>
+</resources>

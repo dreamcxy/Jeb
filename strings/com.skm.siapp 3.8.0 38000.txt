@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
+    <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_like_button_liked">Liked</string>
+    <string name="com_facebook_like_button_not_liked">Like</string>
+    <string name="com_facebook_loading">Loading…</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_loginview_log_in_button">Log in</string>
+    <string name="com_facebook_loginview_log_in_button_continue">Continue with Facebook</string>
+    <string name="com_facebook_loginview_log_in_button_long">Log in with Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="com_facebook_send_button_text">Send</string>
+    <string name="com_facebook_share_button_text">Share</string>
+    <string name="com_facebook_smart_device_instructions">To connect your account, open the Facebook app on your mobile device and check for notifications.</string>
+    <string name="com_facebook_smart_device_instructions_or">- OR -</string>
+    <string name="com_facebook_smart_login_confirmation_cancel">Not you?</string>
+    <string name="com_facebook_smart_login_confirmation_continue_as">Continue as %1$s</string>
+    <string name="com_facebook_smart_login_confirmation_title">Confirm Login</string>
+    <string name="com_facebook_tooltip_default">"You're in control - choose what info you want to share with apps."</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="search_menu_title">Search</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="accept_push_notification">接受提醒</string>
+    <string name="accumulate_dollar">累計 %s 元</string>
+    <string name="accumulate_points">累計 %s 點</string>
+    <string name="action_clear">CLEAR LIST</string>
+    <string name="action_dump">DUMP CSV</string>
+    <string name="action_license">LICENSE</string>
+    <string name="action_scan">SCAN</string>
+    <string name="action_scan_tips">請將條碼對準掃描框。</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_stop">STOP</string>
+    <string name="activate_tips">為保障您的權益，請輸入正確資料。首次使用的開通碼，將以簡訊方式傳送至您輸入的手機門號。如您手機有開啟阻擋商業簡訊之功能，需請您先進行關閉，即可順利收取開通碼。</string>
+    <string name="activity_info">活動說明</string>
+    <string name="address">現居地址</string>
+    <string name="address_detail">巷弄門牌號</string>
+    <string name="address_number">門牌號</string>
+    <string name="address_number_title">路 ( 街 ) 名或鄉里名稱</string>
+    <string name="address_region">現居地區</string>
+    <string name="address_street">現居路段</string>
+    <string name="address_zip_code">郵遞區號</string>
+    <string name="alert_enable_bluetooth_title">開啟藍芽和定位</string>
+    <string name="alert_request_enable_bluetooth">請問是否開啟藍芽和定位，接收最新的到店優惠推播通知?</string>
+    <string name="all_coupon">全部Coupon</string>
+    <string name="all_gift">全部贈品</string>
+    <string name="allow">好</string>
+    <string name="analytics_content_type_featured_product">精選優惠</string>
+    <string name="analytics_content_type_home">App首頁曝光數</string>
+    <string name="analytics_content_type_home_icon">回首頁icon點擊</string>
+    <string name="analytics_content_type_home_member_info">首頁會員資訊</string>
+    <string name="analytics_content_type_home_top_banner">首頁上方活動BN</string>
+    <string name="analytics_content_type_latest_activity">首頁最新活動</string>
+    <string name="analytics_content_type_launch_member_card">開啟會員卡</string>
+    <string name="analytics_content_type_main_tab_bar">Tab bar 選單</string>
+    <string name="analytics_content_type_member">會員專區</string>
+    <string name="analytics_content_type_member_card">會員卡內頁</string>
+    <string name="analytics_content_type_member_more">會員專區-其他</string>
+    <string name="analytics_content_type_multiple_device_login">其他裝置綁定訊息</string>
+    <string name="analytics_content_type_navigation_drawer">側邊欄選項</string>
+    <string name="analytics_content_type_select_store">館別選擇</string>
+    <string name="analytics_content_type_share_icon">分享icon點擊</string>
+    <string name="analytics_content_type_store_list">分店資訊</string>
+    <string name="analytics_item_id_app_reset_click">App帳號重新登入</string>
+    <string name="analytics_item_id_back_home">回首頁</string>
+    <string name="analytics_item_id_brand_info">品牌資訊</string>
+    <string name="analytics_item_id_click_card">點擊開啟會員卡</string>
+    <string name="analytics_item_id_click_card_image">點擊首頁會員資訊開啟會員卡</string>
+    <string name="analytics_item_id_exchange_gift">消費折抵/贈獎兌換</string>
+    <string name="analytics_item_id_home">App首頁曝光數</string>
+    <string name="analytics_item_id_home_member_bonus">我的點數</string>
+    <string name="analytics_item_id_home_member_right">卡友權益</string>
+    <string name="analytics_item_id_home_member_voucher">電子禮券</string>
+    <string name="analytics_item_id_member_bonus">我的點數</string>
+    <string name="analytics_item_id_member_coupon">我的優惠券</string>
+    <string name="analytics_item_id_member_edit_profile">編輯會員資料</string>
+    <string name="analytics_item_id_member_favorite">我的收藏</string>
+    <string name="analytics_item_id_member_message">訊息中心</string>
+    <string name="analytics_item_id_member_more">其他</string>
+    <string name="analytics_item_id_member_more_privacy">隱私設定</string>
+    <string name="analytics_item_id_member_more_service">客服中心</string>
+    <string name="analytics_item_id_member_my_gift">我的電子禮券</string>
+    <string name="analytics_item_id_member_my_voucher">我的電子抵用金</string>
+    <string name="analytics_item_id_member_receipt">消費明細</string>
+    <string name="analytics_item_id_member_redeem_history">贈品兌換紀錄</string>
+    <string name="analytics_item_id_member_vip_login">@string/member_vip_login</string>
+    <string name="analytics_item_id_member_voucher_history">禮券使用記錄</string>
+    <string name="analytics_item_id_shake_card">搖晃開啟會員卡</string>
+    <string name="analytics_item_id_share">分享點擊</string>
+    <string name="analytics_item_id_sort">排序</string>
+    <string name="analytics_item_id_sort_date_end_asc">活動截止日：近 → 遠</string>
+    <string name="analytics_item_id_sort_hot">熱門程度優先</string>
+    <string name="analytics_item_id_sort_latest">最新上架優先</string>
+    <string name="analytics_item_id_sort_point_asc">兌換點數：低 → 高</string>
+    <string name="analytics_item_id_sort_point_desc">兌換點數：高 → 低</string>
+    <string name="analytics_item_id_sort_price_asc">價格由低到高</string>
+    <string name="analytics_item_id_sort_price_desc">價格由高到低</string>
+    <string name="analytics_item_id_sort_suggest">為您推薦</string>
+    <string name="analytics_item_id_switch_card">切換卡片</string>
+    <string name="analytics_item_id_tab_home">首頁</string>
+    <string name="analytics_item_id_tab_member">會員專區</string>
+    <string name="analytics_item_id_tab_online_dm">線上DM</string>
+    <string name="analytics_item_id_tab_parking">停車服務</string>
+    <string name="analytics_item_id_tab_product">精選優惠</string>
+    <string name="api_response">API Response</string>
+    <string name="app_logout">帳號登出</string>
+    <string name="app_name">新光三越</string>
+    <string name="app_reset_title">App帳號重新登入</string>
+    <string name="app_update_msg">%1$s 已更新至版本 %2$s ，請立即更新。</string>
+    <string name="app_update_msg_not_force">%1$s 已更新至版本 %2$s ，是否立即更新？</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="ask_activate">申請開通碼</string>
+    <string name="ask_again_card_check_code">重新寄送</string>
+    <string name="ask_forget_password">忘記密碼申請</string>
+    <string name="ask_forget_password_success_desc">請至所填寫的手機號碼接收新密碼，此密碼將於 5 分鐘後失效，請登入後立即變更密碼。</string>
+    <string name="ask_forget_password_success_title">已成功送出忘記密碼申請</string>
+    <string name="ask_success">申請完成</string>
+    <string name="backend">補登發票</string>
+    <string name="base_info">基本資料</string>
+    <string name="binging_card">綁定卡片</string>
+    <string name="birthday">生日</string>
+    <string name="ble_not_supported">BLE not supported on this device.</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="brand_detail">品牌資訊</string>
+    <string name="browse_on_browser">在瀏覽器開啟</string>
+    <string name="bt_not_enabled">Bluetooth is not enabled, turn it on.</string>
+    <string name="bt_not_supported">Bluetooth not supported on this device.</string>
+    <string name="button">按鈕</string>
+    <string name="call_phone">撥打電話</string>
+    <string name="can_use_gift">可兌換贈品</string>
+    <string name="cancel">取消</string>
+    <string name="cant_in">已停滿</string>
+    <string name="card_check_code">開通碼</string>
+    <string name="card_expired_msg">卡片已失效</string>
+    <string name="card_expired_title">卡片已失效</string>
+    <string name="card_level_g">金卡</string>
+    <string name="card_level_n">貴賓卡</string>
+    <string name="card_level_s">銀卡</string>
+    <string name="card_level_v">尊榮卡</string>
+    <string name="card_name_class_g">黑卡</string>
+    <string name="card_name_class_r">貴賓卡</string>
+    <string name="card_name_class_s">銀卡</string>
+    <string name="card_name_class_v">尊榮卡</string>
+    <string name="card_status">卡片類別</string>
+    <string name="card_title">手機條碼</string>
+    <string name="category_more">更多</string>
+    <string name="changed">已兌換</string>
+    <string name="changed_via_app">APP 已兌換</string>
+    <string name="changed_via_brand">現場已兌換</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="check_detail">查看明細</string>
+    <string name="check_exchangeable_gift">檢查贈獎活動</string>
+    <string name="check_password">確認密碼</string>
+    <string name="check_reward_point">我的點數</string>
+    <string name="checkbox_o2o_agreement">我要獲得更多商品優惠資訊服務</string>
+    <string name="choose_a_membercard">選擇卡片</string>
+    <string name="choose_a_store">選擇店別</string>
+    <string name="close">關閉</string>
+    <string name="com.crashlytics.android.build_id">ed351c12-b259-4f6f-bda0-9e02ecffb935</string>
+    <string name="confirm">確定</string>
+    <string name="confirm_card_check_code">開通使用</string>
+    <string name="confirm_modify">確定變更</string>
+    <string name="connected">Client connected</string>
+    <string name="connection_failed">Connection failed</string>
+    <string name="coupon_alert_msg">因為您已登入會員卡，消費達檻後系統已自動為您兌換電子贈品禮券。請直接查看「我的贈品」。</string>
+    <string name="coupon_alert_title">會員提醒</string>
+    <string name="coupon_choose">選取兌換贈獎品項</string>
+    <string name="coupon_code">優惠碼 : %1$s</string>
+    <string name="coupon_current_activity">當期兌換活動</string>
+    <string name="coupon_current_period_desc">&lt;font color=#FF3C3C>2&lt;/font> 個步驟找到喜歡的</string>
+    <string name="coupon_option">贈品選擇</string>
+    <string name="coupon_use">現場使用的電子贈品禮券</string>
+    <string name="coupon_walkthrough">贈獎兌換攻略</string>
+    <string name="coupon_walkthrough_desc">快速了解如何換贈品</string>
+    <string name="credit_activity">信用卡活動</string>
+    <string name="cumulative">累計</string>
+    <string name="cumulative_receipt_amount">累計金額總計</string>
+    <string name="cumulative_receipt_info">累計發票明細</string>
+    <string name="current_can_redeem_gift">可兌換之贈品</string>
+    <string name="current_time">現在時間</string>
+    <string name="data_is_null">很抱歉！因系統繁忙中，請您30秒後再試一次或是重新啟動網路後再行登入嘗試！</string>
+    <string name="deal_buy">索取優惠</string>
+    <string name="deal_buy_sold_out">已售完</string>
+    <string name="deal_timesup">販售時間已結束</string>
+    <string name="default_store_name">信義新天地</string>
+    <string name="default_web_client_id">865058157501-0tg02nb7gnei7l48qoauec3rsgcf87bk.apps.googleusercontent.com</string>
+    <string name="degree">%s°</string>
+    <string name="delete">刪除</string>
+    <string name="device_text_off">授權</string>
+    <string name="device_text_on">取消授權</string>
+    <string name="dialog_set">設定</string>
+    <string name="dialog_tel_ok">通話</string>
+    <string name="disconnected">Client disconnected</string>
+    <string name="discount">折抵 $</string>
+    <string name="discount_hour">折抵小時數</string>
+    <string name="discount_receipt">發票折抵</string>
+    <string name="discount_receipt_count">折抵發票數</string>
+    <string name="discount_receipt_detail">折抵發票明細</string>
+    <string name="dump_failed">Dump Failed.</string>
+    <string name="dump_succeeded_suffix">Dump Succeeded.</string>
+    <string name="edit_info">編輯資料</string>
+    <string name="email">電子信箱</string>
+    <string name="emptyData">目前查無資料。</string>
+    <string name="empty_object">無</string>
+    <string name="empty_receipt">"您本月尚未有消費記錄，
+請點選下方「 + 補登發票」按鈕"</string>
+    <string name="empty_shopping_activity">該分店無贈品活動</string>
+    <string name="empty_shopping_today">您今日尚未有消費記錄</string>
+    <string name="empty_string" />
+    <string name="empty_unRedeem_receipt">無可兌換發票</string>
+    <string name="entity_str">%1$s ( %2$s 個 )</string>
+    <string name="event_web">活動專區</string>
+    <string name="exchange_coupon">贈獎兌換</string>
+    <string name="expired_date">使用期限：%s</string>
+    <string name="expiring_reward_point">即將失效的點數</string>
+    <string name="expiring_warning_text">即將失效，請務必在期限內使用完畢</string>
+    <string name="facebook_app_id">1035076623212102</string>
+    <string name="featured_product">精選優惠</string>
+    <string name="finish">結束</string>
+    <string name="firebase_database_url">https://skm-app-f57d1.firebaseio.com</string>
+    <string name="first_time_setting_card_msg">綁定新光三越會員卡，啟用您的行動貴賓卡。</string>
+    <string name="forget_password">忘記密碼</string>
+    <string name="forget_password_tips">資料驗證無誤後，將依您所填寫的手機號碼發送新密碼。</string>
+    <string name="free_in">自由入場</string>
+    <string name="gained_bonus">獲得點數</string>
+    <string name="gcm_defaultSenderId">865058157501</string>
+    <string name="gcm_sender_id">393074994270</string>
+    <string name="gift_and_coupon">贈獎兌換</string>
+    <string name="gift_and_coupon_member_goto_my_coupon">贈獎兌換_會員_前往我的贈品</string>
+    <string name="gift_and_coupon_member_my_coupon">贈獎兌換_會員_我的贈品</string>
+    <string name="gift_and_coupon_not_member_my_coupon">贈獎兌換_非會員_我的贈品</string>
+    <string name="gift_and_coupon_not_member_redeem_success">贈獎兌換_非會員_兌換成功</string>
+    <string name="gift_and_coupon_redeem_record">贈獎兌換_兌換記錄</string>
+    <string name="gift_and_coupon_use_record">贈獎兌換_使用記錄</string>
+    <string name="gift_main_page">贈品首頁</string>
+    <string name="gift_point">集點點數</string>
+    <string name="gift_teach_coupon_outline">購物後的發票能做什麼？</string>
+    <string name="gift_teach_coupon_outline2">《 換電子贈品禮券的選擇 》</string>
+    <string name="gift_teach_point_outline">購物後的發票能做什麼？</string>
+    <string name="gift_teach_point_outline2">《 集點數換贈品的選擇 》</string>
+    <string name="gift_tips">"提醒您！本贈獎兌換活動限於今日 23:00 前完成兌換作業，逾期恕不受理。
+
+已兌換發票之餘額，恕不併入下次兌換累計及參加其他贈獎活動。"</string>
+    <string name="gift_transaction_name_return">退貨</string>
+    <string name="gift_voucher">電子商品禮券</string>
+    <string name="goods_coupon">電子贈品禮券</string>
+    <string name="goods_coupon_gift">消費折抵/贈獎兌換</string>
+    <string name="goods_coupon_gift_introduction"> 消費折抵/贈獎兌換說明</string>
+    <string name="goods_coupon_gift_introduction_msg">請開啓「消費折抵/贈獎兌換條碼」來使用您的電子贈品禮劵或兌換贈品。為維護您的使用權益，條碼將會以亂數動態條碼方式呈現，請於限定時間內兌換使用，逾時條碼將失效。</string>
+    <string name="goods_coupon_gift_use">使用電子贈品禮券/贈獎兌換</string>
+    <string name="goods_coupon_introduction">消費折抵/贈獎兌換說明</string>
+    <string name="google_api_key">AIzaSyBvVmLcbETeIPTUOpXTV795BnCnBRjXyYk</string>
+    <string name="google_app_id">1:865058157501:android:522528b13ef1875c</string>
+    <string name="google_crash_reporting_api_key">AIzaSyBvVmLcbETeIPTUOpXTV795BnCnBRjXyYk</string>
+    <string name="google_storage_bucket">skm-app-f57d1.appspot.com</string>
+    <string name="goto_my_coupon">前往我的贈品</string>
+    <string name="guest">一般訪客</string>
+    <string name="guest_card">訪客身份序號（條碼卡）</string>
+    <string name="guest_card_title">訪客身份序號</string>
+    <string name="guest_right">訪客權益</string>
+    <string name="guest_transfer">移轉會員</string>
+    <string name="guest_transfer_msg">綁定卡片後即可快速查詢會員相關資料。</string>
+    <string name="guide_home">立即體驗 》</string>
+    <string name="have_paid">已繳金額</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hint_address_detail">請輸入其餘地址</string>
+    <string name="hint_address_number">選擇門牌範圍</string>
+    <string name="hint_address_region">選擇居住地區</string>
+    <string name="hint_address_street">選擇居住路段</string>
+    <string name="hint_birthday">生日八碼（例：19820125）</string>
+    <string name="hint_card_check_code">請輸入開通碼</string>
+    <string name="hint_check_password">再次輸入同樣密碼</string>
+    <string name="hint_email">請輸入電子信箱</string>
+    <string name="hint_id">身分證字號（例：A123456789）</string>
+    <string name="hint_member_check_code">身分證字號末五碼數字</string>
+    <string name="hint_mobile">用以接收新密碼</string>
+    <string name="hint_new_password">請輸入英數字 8 至 20 碼</string>
+    <string name="hint_old_password">請輸入舊密碼</string>
+    <string name="hint_password">預設生日八碼（例：19820125）</string>
+    <string name="hint_record_floor">樓層</string>
+    <string name="hint_record_space">停車格</string>
+    <string name="hint_record_space_all">樓層＋停車格</string>
+    <string name="hint_unknown">----</string>
+    <string name="home_index">首頁</string>
+    <string name="hour">%d 小時</string>
+    <string name="id_verify">身分驗證</string>
+    <string name="identify_no">帳號</string>
+    <string name="in_time">進場時間</string>
+    <string name="internetTimeOut">連線逾時，點選畫面重新整理。</string>
+    <string name="ismember_msg">請先登入新光三越會員</string>
+    <string name="ismember_notification">會員提醒</string>
+    <string name="kilometer">%s km</string>
+    <string name="known">知道了</string>
+    <string name="label_ibeacon">This is iBeacon!</string>
+    <string name="label_not_ibeacon">This is not iBeacon.</string>
+    <string name="latest_campaign">最新活動</string>
+    <string name="license_body">"RadiusNetworks / android-ibeacon-service
+https://github.com/RadiusNetworks/android-ibeacon-service"</string>
+    <string name="license_title">OSS LICENSE</string>
+    <string name="login">登入</string>
+    <string name="login_again">帳號重新登入</string>
+    <string name="login_member">登入卡友會員</string>
+    <string name="login_privacy">隱私權政策</string>
+    <string name="login_tips">本功能僅提供貴賓卡卡友使用。</string>
+    <string name="logout">帳號登出</string>
+    <string name="logout_member">會員登出</string>
+    <string name="main_member_card">貴賓卡</string>
+    <string name="main_member_go_to_reward">前往贈獎兌換</string>
+    <string name="main_member_voucher">電子禮券</string>
+    <string name="main_page">首頁</string>
+    <string name="member_card">會員身份序號（條碼卡）</string>
+    <string name="member_card_title">會員身份序號</string>
+    <string name="member_card_visitor_remind">"此條碼僅適用於停車服務功能
+，若您需消費集點，請至
+會員專區-新光三越會員登入即可。"</string>
+    <string name="member_check_code">識別碼</string>
+    <string name="member_check_point">我的點數</string>
+    <string name="member_coupon">我的優惠券</string>
+    <string name="member_edit_info">編輯會員資料</string>
+    <string name="member_favorite">我的收藏</string>
+    <string name="member_gift_inquire">贈獎查詢</string>
+    <string name="member_hello">%s，您好！</string>
+    <string name="member_login">會員登入</string>
+    <string name="member_must_know">申辦須知</string>
+    <string name="member_my_gift">我的電子禮券</string>
+    <string name="member_my_reward_point">我的點數</string>
+    <string name="member_my_voucher">我的電子抵用金</string>
+    <string name="member_o2o_agreement">會員條款</string>
+    <string name="member_push_notification_setting">新優惠通知</string>
+    <string name="member_right">卡友權益</string>
+    <string name="member_scanner">行動掃描</string>
+    <string name="member_service">客服中心</string>
+    <string name="member_setting">隱私設定</string>
+    <string name="member_status">使用身份</string>
+    <string name="member_verify">驗證身份</string>
+    <string name="member_vip_login">新光三越貴賓卡登入</string>
+    <string name="membercard_type">會員身份 - </string>
+    <string name="membership_zone">會員專區</string>
+    <string name="membership_zone_login_fail">會員專區_登入_失敗</string>
+    <string name="membership_zone_login_success">會員專區_登入_成功</string>
+    <string name="membership_zone_search_gift">會員專區_贈獎查詢</string>
+    <string name="message_alert_logout_confirm">點選帳號登出後，您必須再次登入帳號密碼後，方能繼續使用</string>
+    <string name="message_alert_user_multiple_login">此卡號已於其他裝置登入使用，請點選下方【帳號重新登入】即可，該帳號權益不受影響。</string>
+    <string name="message_center">訊息中心</string>
+    <string name="message_collection">訊息列表</string>
+    <string name="message_delete_tip">您確定要刪除此訊息？</string>
+    <string name="message_permission_camera">掃瞄功能需要您的相機功能授權</string>
+    <string name="message_permission_not_granted">您已經拒絕過授權，欲開通授權請至手機設定</string>
+    <string name="message_permission_phone">「新光三越APP」需要您的電話號碼做認證</string>
+    <string name="messenger_send_button_text">Send</string>
+    <string name="meter">%s m</string>
+    <string name="minor_total">小計：</string>
+    <string name="minute">%d 分鐘</string>
+    <string name="mobile">手機號碼</string>
+    <string name="mobile_tip">請輸入手機號碼共10碼</string>
+    <string name="modify_mobile">修改手機號碼</string>
+    <string name="money_decrement_str">扣除 %s 元</string>
+    <string name="money_increment_str">增加 %s 元</string>
+    <string name="money_str">%s 元</string>
+    <string name="more_service">更多服務</string>
+    <string name="msg_action_not_match_format">您掃描的條碼無法辨識。</string>
+    <string name="msg_ask_again_card_check_code_success">開通碼已傳送至您輸入的手機門號。</string>
+    <string name="msg_ask_for_location">「新光三越 APP 」想要使用您目前的位置，請到「設定」中開啟定位權限。</string>
+    <string name="msg_ask_login_with_new_password">您於網站修正密碼，是否輸入新的密碼登入？</string>
+    <string name="msg_backend_success">補登成功。</string>
+    <string name="msg_bulk_mode_scanned">Bulk mode: barcode scanned and saved</string>
+    <string name="msg_camera_framework_bug">很抱歉，Camera 發生錯誤</string>
+    <string name="msg_check_password_not_correct">新密碼不一致</string>
+    <string name="msg_default_status">Place a barcode inside the viewfinder rectangle to scan it.</string>
+    <string name="msg_error">目前系統繁忙，請您稍候再試。</string>
+    <string name="msg_error_account">帳號和初次登入所使用的帳號不符，請確認您所輸入的帳號是否正確。</string>
+    <string name="msg_error_password">密碼和初次登入所使用的密碼不符，請確認您所輸入的密碼是否正確。</string>
+    <string name="msg_internetTimeOut">連線逾時。</string>
+    <string name="msg_internet_error">網路發生錯誤</string>
+    <string name="msg_logout_tips">是否確定登出？</string>
+    <string name="msg_noInternet">目前偵測不到網路，請檢查您的網路設定。</string>
+    <string name="msg_phone_call_store">您將撥打電話至%s</string>
+    <string name="msg_receipt_duplicate">該筆發票補登記錄已存在。</string>
+    <string name="msg_receipt_not_match_format">掃描錯誤，請重新掃描下方條碼。</string>
+    <string name="msg_receipt_overdue">補登失敗，非當日發票無法補登。</string>
+    <string name="msg_receipt_scanner_error">掃描錯誤，請重新掃描下⽅方條碼。</string>
+    <string name="msg_save_failed">儲存失敗！</string>
+    <string name="msg_save_success">儲存成功！</string>
+    <string name="msg_scan_failed">掃描失敗</string>
+    <string name="msg_scan_success">掃描成功</string>
+    <string name="msg_select_delete">刪除已選取的訊息(%1$s)</string>
+    <string name="msg_select_favorite">刪除已選取的收藏(%1$s)</string>
+    <string name="msg_server_busy">目前系統繁忙中，點選畫面重新連線。</string>
+    <string name="msg_server_http">"發生錯誤了，請稍候再試。
+錯誤代碼：%1$d"</string>
+    <string name="msg_type_error">訊息格式檢查錯誤。</string>
+    <string name="my_coupon">我的電子禮券</string>
+    <string name="my_current_reward_point">我目前的點數</string>
+    <string name="my_gift_desc">您於新光三越指定店舖之各別使用餘額</string>
+    <string name="my_voucher_desc">您於新光三越指定店舖可使用滿額抵用金</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="near_store">其他分店</string>
+    <string name="nearest_store">離我最近</string>
+    <string name="new_password">新密碼</string>
+    <string name="noInternet">未偵測到您的網路，請確認網路連接正常後，點選畫面重新連線。</string>
+    <string name="no_data_msg">查無資料</string>
+    <string name="no_enquiry_service">無查詢服務</string>
+    <string name="not_allow">不允許</string>
+    <string name="not_enough_msg">空間不足</string>
+    <string name="not_login">親愛的訪客，您好！</string>
+    <string name="not_match_format">格式不符</string>
+    <string name="off">折</string>
+    <string name="old_password">舊密碼</string>
+    <string name="online_dm">線上DM</string>
+    <string name="open_parking_service">"目前無網路訊號，
+請點選下方「開啟條碼」按鈕或右上角圖示以開啟條碼使用停車服務。"</string>
+    <string name="open_serial_no">開啟條碼</string>
+    <string name="other">其他</string>
+    <string name="overdue">已過期</string>
+    <string name="paid_bonus">折抵點數</string>
+    <string name="parking_fees_spreadsheet">停車費試算</string>
+    <string name="parking_hour">停車時數</string>
+    <string name="parking_info">停車資訊</string>
+    <string name="parking_level_choose">停車場樓層選擇</string>
+    <string name="parking_main_page">停車首頁</string>
+    <string name="parking_payment">停車金額</string>
+    <string name="parking_remind">溫馨提醒</string>
+    <string name="parking_remind_desc">若消費折抵後無須繳費，仍需至自動繳費機驗證後才能刷條碼離場。</string>
+    <string name="parking_service">停車服務</string>
+    <string name="parking_service_desc">"以現場實際狀況為主
+台北站前店、新竹中華店無提供停車 APP 服務"</string>
+    <string name="parking_service_parking_fees_spreadsheet">停車服務_停車費試算</string>
+    <string name="parking_service_receipt_add">停車服務_發票補登</string>
+    <string name="parking_store">停車店別</string>
+    <string name="parking_teach_advance">停車流程教學</string>
+    <string name="parking_teach_advance_outline">如何便捷使用 APP 的停車服務？</string>
+    <string name="parking_teach_advance_outline2">讓您連停放愛車都快人一步！</string>
+    <string name="parking_teach_simple">實機使用教學</string>
+    <string name="parking_time_out">離開時間已過，請確認補繳費用後繳費才能刷卡離開。</string>
+    <string name="parking_timer_info">請於倒數計時為零前離場，若逾時需補繳費用，補繳費用請查看停車費試算。</string>
+    <string name="parking_walkthrough">停車攻略</string>
+    <string name="password">密碼</string>
+    <string name="password_toggle_content_description">Toggle password visibility</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="pay_info">繳費須知</string>
+    <string name="payment_detail">繳費訊息</string>
+    <string name="play_services_available">Location Services is available</string>
+    <string name="play_services_unavailable">Location Services is unavailable</string>
+    <string name="please_choose">請選擇</string>
+    <string name="plus">＋</string>
+    <string name="point">點</string>
+    <string name="point_coupon">集點活動券</string>
+    <string name="point_exchange_confirm">您將以%1$d點兌換此商品</string>
+    <string name="point_exchange_failed_dialog_51_button">確定</string>
+    <string name="point_exchange_failed_dialog_51_message">點數不足</string>
+    <string name="point_exchange_failed_dialog_button">請稍候再試</string>
+    <string name="point_exchange_failed_dialog_message">「網路連線」暫時異常</string>
+    <string name="point_exchange_failed_dialog_network_message">"「網路連線」暫時異常
+錯誤代碼:-1000"</string>
+    <string name="point_exchange_failed_dialog_title">兌換失敗</string>
+    <string name="point_exchange_success_dialog_button">立即領取</string>
+    <string name="point_exchange_success_dialog_message">請至我的優惠券領取</string>
+    <string name="point_exchange_success_dialog_title">兌換成功</string>
+    <string name="point_to_coupon">集點換好禮</string>
+    <string name="price">兌換價 $</string>
+    <string name="privacy_policy">"隱私權聲明 
+
+新光三越百貨官網或新光三越APP（以下簡稱本網站或APP）係由「新光三越百貨股份有限公司」（以下稱本公司）所經營，為尊重您個人資料之隱私權及保護您使用本網站或APP之網路安全，我們謹以下列聲明（以下簡稱本聲明），向您說明本網站或APP於線上蒐集您個人資料之目的、方式、範圍、運用以及您於就您所提供之個人資料得行使之相關權利等事項。 您在使用本網站或APP時，應詳細閱讀並遵從本聲明，當您繼續使用本網站或APP服務時，即視為已閱讀、瞭解並完全同意本聲明的所有約定，且同意本公司蒐集、處理及利用您的個人資料，如您不同意本聲明之內容，您應立即停止使用本網站或APP。 
+
+ 「隱私權聲明」適用範圍 
+ 
+一、本聲明適用於本網站或APP之平台與網域，以及您參與本網站或APP活動時，所涉及的個人資料之蒐集與運用；惟當您經由本網站或APP連結至其他網站後，於您相關權益之保障，概適用該等網站之規範，而與本網站或APP無涉。 
+二、當您透過本網站或APP提供之其他網站連結瀏覽該等網站時，您將會離開本網站，故就您相關權益之保障，概適用該等網站之規範，而與本網站或APP無涉，本網站或APP亦不負連帶責任。 
+
+ 一、個人資料蒐集之目的 
+ 
+本網站蒐集您的個人資料，主要目的條列如下，惟為提供個別服務時，本網站或APP亦可能於下述目的外利用個人資料，但於此等利用時將於該次蒐集時另行載明之。 
+‧ 行銷 
+‧ 非公務機關依法定義務所進行個人資料之蒐集處理及利用 
+‧ 消費者、客戶管理與服務 
+‧ 稅務行政 
+‧ 網路購物及其他電子商務服務 
+
+ 二、蒐集之個人資料類別 
+ 
+本網站或APP於網站或APP內蒐集之個人資料類別如下： 
+‧ 識別個人者：姓名、職稱、住址、工作地址與電話、住家電話號碼、行動電話、通訊及戶籍地址、電子郵件地址等。 
+‧ 政府資料中之識別者：身分證統一編號、護照號碼等。 
+‧ 個人描述：年齡、性別、出生年月日、國籍等。 
+‧ 家庭情形：結婚有無/子女數等。 
+‧ 休閒活動及興趣：嗜好、運動及其他興趣等。 
+‧ 生活格調：使用消費品之種類及服務之細節、個人之消費模式。 
+‧ 職業/年收入。 
+‧ 資格或技術：學歷資格等。 
+
+ 三、個人資料取得與使用之方式 
+ 
+‧ 本網站或APP在您使用顧客意見回饋、廠商合作提案等互動性功能時，會保留您所提供之個人資料，以利進行聯繫。 
+‧ 當您欲註冊成為「本網站或APP會員」時，本網站或APP會請您提供相關會員個人資料。 
+‧ 本公司會依據本網站或APP所提供的服務或所舉行的活動之需求，請使用者提供個人資料。 
+‧ 於一般瀏覽時，伺服器會自行記錄相關行徑，包括您使用連線設備的IP位址、使用時間、使用的瀏覽器、瀏覽及點選資料記錄等，做為我們增進網站與APP服務的參考依據，此記錄為內部應用，絕不對外公佈。 
+‧ 為提供精確的服務，我們會將收集的問卷調查內容進行統計與分析。 
+‧ 除下列情形外，非經您的同意或其他法令之特別規定，本網站或APP絕不會將您的個人資料揭露予第三人或使用於蒐集目的以外之其他用途。 
+ (1) 本公司與其他第三者合辦活動時，需與該第三者共用、傳遞您的資料，方能提供您相關的服務。使用者應自行斟酌是否參與該活動，如您選擇參與該活動，即表示您瞭解並同意將個人資料提供予合辦或協辦之第三者。 
+ (2) 本公司若因法律規定、法院命令、行政調查或其他法律程序的要求，而必須提供您的資料。 
+
+ 四、個人資料利用之期間 
+ 
+除本聲明另有約定者外，您可隨時終止您與本公司之會員關係。利用之期間為本公司及受託單位於您成為會員之起始日起，至您請求本公司停止蒐集、處理、利用或刪除您的個人資料之日止。 
+
+ 五、個人資料利用之地區 
+ 
+本網站或APP所蒐集的顧客之個人資料將不會被移轉至台灣、澎湖、金門、馬祖以外之地區，本網站或APP及受託機關之個人資料主機、相關網路伺服器主機所在地及本公司/本網站/APP相關服務或行銷地區，以上皆為您的個人資料利用之地區。 
+
+ 六、個人資料利用之對象 
+ 
+本公司、本公司之關係企業、相關受託機關及委外之合作廠商商，為您個人資料利用之對象。 
+
+ 七、個人資料之保護 
+ 
+‧ 本網站主機均設有防火牆、防毒系統等相關的各項資訊安全設備及必要的安全防護措施，加以保護網站及您的個人資料採用嚴格的保護措施。 
+‧ 本網站與APP將使用相應的技術，儘量防止您的個人資料遺失、被盜用或遭篡改，惟因非可歸責於本網站或APP之事由導致您的個人資料遺失、被盜用或遭篡改者，本網站與APP不負任何連帶責任。 
+‧ 本網站傳送商業性資料或電子郵件時，除了在該郵件上註明發送人資訊，亦會在資料中提供顧客停止接收該訊息之方法、說明或功能連結。 
+
+ 八、個人資料之權利行使 
+ 
+在不違反相關法律的情況下，經本網站或APP確認該個人資料為您本人所有後，您可透過本公司服務信箱service1@skm.com.tw或撥打0800免付費電話： 0800-008-801(服務時間為上午11:00~晚上10:00，不便之處，敬請見諒)。依個人資料保護法對本網站與APP告知行使以下權利。惟如拒絕提供本網站或APP所要求之必要資料者，將可能無法完整享受本網站或APP之服務或完全無法使用本網站或APP之服務： 
+‧ 請求查詢或閱覽您的個人資料 
+‧ 請求製給您個人資料的複製本 
+‧ 請求補充或更正您的個人資料 
+‧ 請求停止蒐集、處理或利用您的個人資料 
+‧ 請求刪除您的個人資料 
+
+ 九、Cookie之使用 
+ 
+‧ 為了提供您最佳的服務，本網站與APP會在您的電腦中放置並取用我們的Cookie，以追蹤您在本網站的活動，協助本公司進行站台的各種分析、資料蒐集，進而提供您更好的服務。 
+‧ 本網站透過第三方Google Analytics(分析)與Firebase工具使用Cookie，來瞭解您與本網站或APP的互動方式(包括顧客的造訪次數、時間、地理位置等)，我們將透過數據呈現了解內容或活動執行方向。因此，當您瀏覽本網站或APP時，只會搜集您的瀏覽次數記錄及網路位址（IPaddress）。瀏覽次數記錄的蒐集，是為了解本網站或APP的每日瀏覽人次及流量分析，相關資料僅作為統計網站或APP使用率與網站或APP經營之用。相關Google Analytics(分析)與Firebase隱私權政策與如何拒絕向Google Analytics(分析)透露資訊，您可直接前往Google Analytics(分析)隱私權政策與Google隱私權政策網頁瀏覽進行瞭解。 
+‧ 由本網站所寄發的行銷訊息之電子郵件中，使用「點選到網站的網址」技術，可連結至目標網頁之內容。顧客點選此網址時，於其到達目的網頁之前，會先經過另一個網路伺服器，本網站會追蹤本項點選資料，以協助判斷顧客對某特定行銷主題的興趣，並衡量顧客的溝通效益。若您不希望受到本項追蹤，請不要點選行銷訊息電子郵件上的文字或圖片連結。 
+‧ 若您不願接受本網站的Cookie寫入，您可在您使用的瀏覽器之功能項中，設定隱私權等級為高，即可拒絕Cookie的寫入，但可能會導至本網站部分功能無法正常執行。 
+
+ 十、隱私權聲明之修正 
+本聲明將因應相關法規修訂、本網站與APP政策或其他環境變遷因素，隨時進行適當之修正，修正後的條款將更新於本網站上以告知顧客相關事項。 
+
+ 十一、隱私權聲明之諮詢 
+若您對本網站或APP的隱私權聲明有任何問題，歡迎來信透過本公司服務信箱service1@skm.com.tw諮詢。 
+
+"</string>
+    <string name="product_code">商品條碼 : %1$s</string>
+    <string name="product_tab_description">詳細說明</string>
+    <string name="product_tab_overview">優惠方案</string>
+    <string name="product_tab_precautions">注意事項</string>
+    <string name="product_tab_store">店家資訊</string>
+    <string name="purchase_allowance">折讓：</string>
+    <string name="purchase_coupon">折抵：</string>
+    <string name="purchase_discount">折扣（%s折）</string>
+    <string name="purchase_returned">已退貨</string>
+    <string name="qr_confirm">確認</string>
+    <string name="qr_error_tip">此Coupon可能已使用或是已過期，請先至您的Coupon專區查詢使用狀況</string>
+    <string name="rebinging_card">重新綁定</string>
+    <string name="receipt_card_type">無紙化發票載具 - </string>
+    <string name="receipt_check">發票查詢</string>
+    <string name="receipt_check_receipt_add">發票查詢_發票補登</string>
+    <string name="receipt_count">發票張數總計</string>
+    <string name="receipt_detail">消費明細</string>
+    <string name="receipt_exchange_coupon">發票兌換的贈品記錄</string>
+    <string name="receipt_number">發票號碼:</string>
+    <string name="receipt_record">發票記錄</string>
+    <string name="receipt_scan_tips">請將銷貨明細表上的條碼置於框內進行掃描。</string>
+    <string name="receipt_sum">發票金額</string>
+    <string name="receipt_unit">%d 張</string>
+    <string name="receipt_unit_red">&lt;font color=#FF3C3C>%s&lt;/font> 張</string>
+    <string name="recommend_price">推薦價 $</string>
+    <string name="record_space">記錄車位</string>
+    <string name="red_money_str">%1$s&lt;font color=#FF3C3C> %2$s&lt;/font> 元</string>
+    <string name="red_point_str">%1$s&lt;font color=#FF3C3C> %2$s&lt;/font> 點</string>
+    <string name="red_remaining_str">%1$s&lt;font color=#797979>（餘額&lt;/font> &lt;font color=#FF3C3C> %2$s&lt;/font> &lt;font color=#797979> 元）&lt;/font></string>
+    <string name="redeem_failed">兌換失敗</string>
+    <string name="redeem_history">贈品兌換記錄</string>
+    <string name="redeem_now">確認兌換</string>
+    <string name="redeem_success">兌換成功</string>
+    <string name="redeem_success_desc">感謝您參與新光三越贈獎活動，請留意使用效期，如欲使用請於現場出示手機條碼抵用。</string>
+    <string name="redeem_success_msg">恭喜您成功兌換！</string>
+    <string name="redeemed_date">兌換日期：%s</string>
+    <string name="redeemed_difference">再消費滿 %s 元可達下一門檻</string>
+    <string name="redeemed_receipt_hint">已兌換發票之餘額，恕不累計。</string>
+    <string name="refresh">重新整理</string>
+    <string name="remain">剩餘 %s</string>
+    <string name="required_field">必填</string>
+    <string name="reset_app">帳號重新登入</string>
+    <string name="retake_picture">重拍</string>
+    <string name="retry">重試</string>
+    <string name="retry_login">重新登入</string>
+    <string name="save">儲存</string>
+    <string name="scan_in">掃條碼入場</string>
+    <string name="scan_out">掃條碼離場</string>
+    <string name="scan_pay">掃條碼繳費</string>
+    <string name="search_gifts">贈獎查詢</string>
+    <string name="search_space">空位查詢</string>
+    <string name="security_info">認證資料</string>
+    <string name="select_login">選擇登入身份</string>
+    <string name="select_store_title">館別選擇</string>
+    <string name="send">送出</string>
+    <string name="serial">%s</string>
+    <string name="service_center">客服中心</string>
+    <string name="shopping_payment">消費總金額</string>
+    <string name="should_pay">應繳金額</string>
+    <string name="should_pay_time_out">逾時應繳</string>
+    <string name="skm_activity">新光卡友</string>
+    <string name="skm_member">會員</string>
+    <string name="sms_card_check_code_end">」，輸入後即可開通。</string>
+    <string name="sms_card_check_code_start">感謝您下載新光三越APP，您的開通碼為「</string>
+    <string name="special_bank_gift">信用卡活動電子贈品禮券</string>
+    <string name="store_info">分店資訊</string>
+    <string name="store_main_page">分店首頁</string>
+    <string name="store_name">店別</string>
+    <string name="switch_member_card">切換卡片</string>
+    <string name="take_picture_record_space">拍照記錄車位</string>
+    <string name="the_redeemed_gift">獲得贈品</string>
+    <string name="the_redeemed_receipt">本次已兌換發票</string>
+    <string name="this_time_redeem">本次兌換</string>
+    <string name="tips_member_check_code">識別碼請輸入身分證字號或護照號末五碼數字</string>
+    <string name="tips_member_info">為維護您的貴賓卡會員權益，請確實填寫。</string>
+    <string name="title_activity_member_verify">MemberVerifyActivity</string>
+    <string name="to_be_continue">繼續</string>
+    <string name="today_parking">今日停車</string>
+    <string name="today_store_choose">選取今日消費店別</string>
+    <string name="total">總計：</string>
+    <string name="traction_name_already_return">已退貨</string>
+    <string name="unknown_weather">無法取得目前天氣</string>
+    <string name="unused_coupon">未使用Coupon</string>
+    <string name="update">更新</string>
+    <string name="update_address">修改地址</string>
+    <string name="update_password">變更密碼</string>
+    <string name="update_time">更新時間：</string>
+    <string name="url_customer_service">http://m.skm.com.tw/AboutSKM/Cusfeedback</string>
+    <string name="url_privacy">http://m.skm.com.tw/AboutSkm/privacy</string>
+    <string name="use_brand_history">使用櫃位記錄</string>
+    <string name="use_history">禮券使用記錄</string>
+    <string name="use_now">立即抵用</string>
+    <string name="use_record">使用記錄</string>
+    <string name="verify">驗證</string>
+    <string name="verify_get_app_card_number">驗證_獲得APP卡號</string>
+    <string name="verify_input_card_check_code">驗證_輸入開通碼</string>
+    <string name="verify_input_cellphone">驗證_輸入手機號碼</string>
+    <string name="verify_login_fail">驗證_登入_失敗</string>
+    <string name="verify_login_success">驗證_登入_成功</string>
+    <string name="verify_member_transfer_no">驗證_綁定_否</string>
+    <string name="verify_member_transfer_yes">驗證_綁定_是</string>
+    <string name="verify_tips">修改資料需驗證身份，以確保您的資料安全。</string>
+    <string name="version_code">2.8.0</string>
+    <string name="version_title">目前版本</string>
+    <string name="view_all_card">瀏覽全部卡片</string>
+    <string name="visitor_member_card_remind">切換卡片</string>
+    <string name="wait">稍後</string>
+    <string name="zero_card_number">000000000000000</string>
+    <string name="zipCode">現居地址路段</string>
+</resources>

@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="messenger_send_button_text">Send</string>
+    <string name="search_menu_title">Search</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="wallet_buy_button_place_holder">Buy with Google</string>
+    <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_loading">Loading...</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_loginview_log_in_button">Log in</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="core_device_size">handset</string>
+    <string name="EventActionPaymentAddCardFinished">PaymentAddCardFinished</string>
+    <string name="EventActionPaymentAddCardStarted">PaymentAddCardStarted</string>
+    <string name="EventActionPaymentEditCardFinished">PaymentEditCardFinished</string>
+    <string name="EventActionPaymentEditCardStarted">PaymentEditCardStarted</string>
+    <string name="EventActionPaymentScanCardFinished">PaymentScanCardFinished</string>
+    <string name="EventActionPaymentScanCardStarted">PaymentScanCardStarted</string>
+    <string name="EventActionToggleFavoriteFromRestaurantMenu">ToggleFavoriteFromRestaurantMenu</string>
+    <string name="EventCategoryFavorites">Favorites</string>
+    <string name="EventCategoryPayment">Payment</string>
+    <string name="FirebaseEventTypeScreenView">view_%s</string>
+    <string name="OK">@android:string/ok</string>
+    <string name="ScreenAccount">Account</string>
+    <string name="ScreenAddressList">DeliveryAddressList</string>
+    <string name="ScreenBitcoin">Bitcoin</string>
+    <string name="ScreenBitcoinLearnMore">BitcoinLearnMore</string>
+    <string name="ScreenCartEditor">OrderEditor</string>
+    <string name="ScreenCartList">OrderList</string>
+    <string name="ScreenCheckout">Checkout</string>
+    <string name="ScreenEditAddress">DeliveryAddressEditor</string>
+    <string name="ScreenEditCreditCard">CreditCardEditor</string>
+    <string name="ScreenEditLocation">Location</string>
+    <string name="ScreenEditSearchQuery">Edit Search Query</string>
+    <string name="ScreenEditTip">TipEditor</string>
+    <string name="ScreenGiftCodeEntry">GiftCardRedeemer</string>
+    <string name="ScreenGroupOrderFinished">GroupOrderCompletion</string>
+    <string name="ScreenHelpAndFeedback">HelpAndFeedback</string>
+    <string name="ScreenHome">Home</string>
+    <string name="ScreenInviteToOrderViaEmail">GroupInvitePicker</string>
+    <string name="ScreenInviteToOrderViaLink">GroupInviteLinkSharer</string>
+    <string name="ScreenLevelUp">LevelUp</string>
+    <string name="ScreenLogIn">Login</string>
+    <string name="ScreenLoyalty">Loyalty</string>
+    <string name="ScreenLoyaltyAbout">LoyaltyAbout</string>
+    <string name="ScreenLoyaltyFoodlerBucks">LoyaltyFoodlerBucks</string>
+    <string name="ScreenLoyaltyMemberLevel">LoyaltyMemberLevel</string>
+    <string name="ScreenMenuItemEditor">MenuItemOrderEditor</string>
+    <string name="ScreenNewAddress">DeliveryAddressEditor</string>
+    <string name="ScreenNewCreditCard">CreditCardEditor</string>
+    <string name="ScreenOrderDetails">OrderDetail</string>
+    <string name="ScreenOrderList">OrderList</string>
+    <string name="ScreenOrderPlaced">CheckoutCompletion</string>
+    <string name="ScreenOrderTracking">TrackingMap</string>
+    <string name="ScreenPaymentMethodList">PaymentList</string>
+    <string name="ScreenPizzaToppings">PizzaToppingsEditor</string>
+    <string name="ScreenPointsRedeemed">PointRedemptionCompletion</string>
+    <string name="ScreenRestaurant">Restaurant</string>
+    <string name="ScreenRestaurantMenuCategory">RestaurantMenu</string>
+    <string name="ScreenRestaurantMoreInfo">RestaurantAbout</string>
+    <string name="ScreenRestaurantPastOrders">RestaurantOrderHistory</string>
+    <string name="ScreenRestaurantRatings">RestaurantRateIt</string>
+    <string name="ScreenRestaurantSpecials">RestaurantSpecials</string>
+    <string name="ScreenRewards">Rewards</string>
+    <string name="ScreenSearchResults">Search</string>
+    <string name="ScreenSignUp">NewAccount</string>
+    <string name="ScreenSplash">Welcome</string>
+    <string name="ScreenThirdPartyLicenses">ThirdPartyLicenses</string>
+    <string name="ScreenTileRestaurantList">Results</string>
+    <string name="ScreenVenmo">Venmo</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="about">About</string>
+    <string name="about_loyalty_generic_text">Earn FoodlerBucks back with every $100 spent at a participating restaurant.</string>
+    <string name="about_loyalty_text">Earn FoodlerBucks back with every $100 spent at this restaurant.</string>
+    <string name="about_loyalty_title">Restaurant Loyalty</string>
+    <string name="about_points_text">Earn Points with every order and redeem them for cool prizes. Larger orders earn more Points and some restaurants offer double and triple Points.</string>
+    <string name="about_points_title">Points</string>
+    <string name="about_ratings_txt">You can only rate restaurants you have ordered from.</string>
+    <string name="about_rebates_text">Earn FoodlerBucks back after your first order at a participating restaurant.</string>
+    <string name="about_rebates_title">Instant Rebates</string>
+    <string name="about_rewards_subheader">We appreciate you and here’s how we show it.</string>
+    <string name="about_rewards_title">Foodler Rewards</string>
+    <string name="account">Account</string>
+    <string name="accurate_location_notfound_text">Please enter an address to search.</string>
+    <string name="accurate_location_notfound_title">Accurate Location Not Found</string>
+    <string name="add_item">Add Item</string>
+    <string name="add_menu_items">Add Menu Items</string>
+    <string name="add_more">Add More From Menu</string>
+    <string name="address1">Street Address</string>
+    <string name="address2">Apt/Suite</string>
+    <string name="address_not_recognized">We don’t recognize that address.</string>
+    <string name="address_not_set"><i>Address not set</i></string>
+    <string name="admin_will_handle_checkout">&lt;b>%s&lt;/b> will handle checkout.</string>
+    <string name="amazon_app_store">the Amazon Appstore</string>
+    <string name="amount_due">Amount Due</string>
+    <string name="app_name">Foodler</string>
+    <string name="app_shortcut_orders">orders</string>
+    <string name="app_shortcut_rewards">rewards</string>
+    <string name="app_shortcut_support">support</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="application_id">com.foodler.android.foodlerapp</string>
+    <string name="apply_bucks">Apply Now</string>
+    <string name="arriving">Arriving</string>
+    <string name="arriving_in">Arriving in</string>
+    <string name="average_rating">(Average Customer Rating: %s)</string>
+    <string name="begin_checkout">Begin Checkout</string>
+    <string name="bitcoin_address_copied">Address Copied</string>
+    <string name="bitcoin_button_copy_address">Copy Address</string>
+    <string name="bitcoin_button_send">Send Bitcoin</string>
+    <string name="bitcoin_exchange_rate">1 Bitcoin = %s</string>
+    <string name="bitcoin_exchange_rate_updated">Last updated %s</string>
+    <string name="bitcoin_info_head_1">Foodler accepts Bitcoin</string>
+    <string name="bitcoin_info_head_2">Turn Bitcoin to FoodlerBucks in no time</string>
+    <string name="bitcoin_info_head_3">No exchange fees</string>
+    <string name="bitcoin_info_text_1">Use your Bitcoins to get food delivery and pickup from any restaurant on Foodler. Your Bitcoin deposit will be converted to FoodlerBucks that you can use at checkout.</string>
+    <string name="bitcoin_info_text_2">It takes about 15 minutes after you deposit for your FoodlerBucks to credit to your account. Once they appear, they are ready to use instantly.</string>
+    <string name="bitcoin_info_text_3">The current exchange rate is used with no additional fees. Include your wallet’s default transaction fee for instant deposit. Don’t worry, we add %1$s BTC to every deposit of %2$s BTC or more.</string>
+    <string name="bitcoin_learn_more"><u>Learn More</u></string>
+    <string name="bitcoin_learn_more_title">Bitcoin Info</string>
+    <string name="bitcoin_subhead">Turn Bitcoin into FoodlerBucks</string>
+    <string name="bitcoin_text">Send Bitcoin to this address and FoodlerBucks will be credited to your account in about 15 minutes.</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="browse_local_restaurants">Browse Restaurants</string>
+    <string name="bucks_applied">FoodlerBucks Applied</string>
+    <string name="bugsnag_api_key">8e311528253010e1ed37dbd48178f4e7</string>
+    <string name="cancel">@android:string/cancel</string>
+    <string name="cancelled">Cancelled</string>
+    <string name="cancelled_order">This order has been cancelled</string>
+    <string name="card_io_apptoken">7b3f823cca9548898ebd805b849a15f3</string>
+    <string name="card_type_not_accepted">"Card Type
+Not Accepted"</string>
+    <string name="cart">Cart</string>
+    <string name="cart_action">Cart</string>
+    <string name="cart_empty">Your cart is empty.</string>
+    <string name="cash">Cash</string>
+    <string name="ccv">Security Code (CVV)</string>
+    <string name="change_fulfillment">Change</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="checkout">Checkout</string>
+    <string name="checkout_address_placeholder"><b>Enter your delivery address</b></string>
+    <string name="checkout_credit_card_id">%1$s • • • %2$s</string>
+    <string name="checkout_dashed">Fast delivery with live order tracking</string>
+    <string name="checkout_order_time_label">When</string>
+    <string name="checkout_payment_label">Payment</string>
+    <string name="checkout_payment_placeholder"><b>Select a payment method</b></string>
+    <string name="checkout_phone_placeholder"><b>Enter your phone number</b></string>
+    <string name="checkout_promo_code">Promo Code</string>
+    <string name="checkout_promo_code_instructions">Enter promo or gift code</string>
+    <string name="choose_location">Choose Location</string>
+    <string name="city">City</string>
+    <string name="clear_location">Clear location</string>
+    <string name="com_facebook_like_button_liked">Liked</string>
+    <string name="com_facebook_like_button_not_liked">Like</string>
+    <string name="com_facebook_loginview_log_in_button_long">Log in with Facebook</string>
+    <string name="com_facebook_send_button_text">Send</string>
+    <string name="com_facebook_share_button_text">Share</string>
+    <string name="com_facebook_tooltip_default">"New! You're in control - choose what info you want to share with apps."</string>
+    <string name="confirm_log_out">Are you sure you want to log out?</string>
+    <string name="connect_with_levelup">Link Your Account</string>
+    <string name="connected">Account Linked</string>
+    <string name="contact_foodler_support">Contact Foodler Support</string>
+    <string name="contact_not_yet_supplied">Phone number not yet supplied</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="contacts_permission_button">Show Contacts</string>
+    <string name="contacts_permission_prompt">Invite friends from contacts</string>
+    <string name="copyright_foodler">© 2016 Foodler LLC</string>
+    <string name="costs">Costs</string>
+    <string name="country">Country</string>
+    <string name="credit_cards">Credit Cards</string>
+    <string name="current_location">Current Location</string>
+    <string name="current_password">Current Password</string>
+    <string name="dashed">Dashed</string>
+    <string name="db_name">foodler.db</string>
+    <string name="decline">Decline</string>
+    <string name="decrease_quantity">Decrease Quantity</string>
+    <string name="default_web_client_id">40439820420-5siph0ka8avakit0rkpla5t8t11v6n1s.apps.googleusercontent.com</string>
+    <string name="delete">Delete</string>
+    <string name="delete_credit_card">Delete this card</string>
+    <string name="delete_credit_card_confirm">Delete this card?</string>
+    <string name="delete_order">Delete Order</string>
+    <string name="delete_saved_address">Delete this address</string>
+    <string name="delete_saved_address_confirm">Delete this address?</string>
+    <string name="deleteorderquestion">Delete Order?</string>
+    <string name="deliver_to">Deliver to</string>
+    <string name="delivery">Delivery</string>
+    <string name="delivery_addresses">Addresses</string>
+    <string name="delivery_closed">Delivery &lt;font color=#ff6666>&lt;b>CLOSED&lt;/b>&lt;/font></string>
+    <string name="delivery_closed_until">Delivery &lt;font color=#ff6666>&lt;b>CLOSED&lt;/b>&lt;/font> until %1$s</string>
+    <string name="delivery_closing_soon">Delivery &lt;font color=#ff6666>&lt;b>CLOSING SOON&lt;/b>&lt;/font> at %s</string>
+    <string name="delivery_information">Delivery Information</string>
+    <string name="delivery_minimum_add_more_food">Add more food</string>
+    <string name="delivery_minimum_add_x_more_food">Add %s more food</string>
+    <string name="delivery_minimum_choose_address">Choose delivery address for exact delivery minimum.</string>
+    <string name="delivery_minimum_not_met">"%s Minimum
+Not Met"</string>
+    <string name="delivery_minimum_not_met_title">%s delivery minimum not yet met</string>
+    <string name="delivery_minimum_not_met_title_range">%1$s–%2$s delivery minimum not yet met</string>
+    <string name="delivery_minimum_switch_to_pickup">or switch to pickup.</string>
+    <string name="delivery_open">Delivery &lt;font color=#5ebb41>&lt;b>OPEN&lt;/b>&lt;/font></string>
+    <string name="delivery_open_until">Delivery &lt;font color=#5ebb41>&lt;b>OPEN&lt;/b>&lt;/font> until %1$s</string>
+    <string name="delivery_opening_soon">Delivery &lt;font color=#e15d2a>&lt;b>OPENING SOON&lt;/b>&lt;/font> at %s</string>
+    <string name="delivery_time">Delivery Time</string>
+    <string name="delivery_unavailable">Delivery Unavailable</string>
+    <string name="delivery_via">Delivery via</string>
+    <string name="delivery_via_dashed">Delivery via Dashed</string>
+    <string name="did_you_mean">Did you mean?</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="dollar_sign">$</string>
+    <string name="done">Done</string>
+    <string name="driver_on_the_way">%s is on the way</string>
+    <string name="driver_rating_header">Rate Your Dashed Driver</string>
+    <string name="edit">Edit</string>
+    <string name="editAddress">Address</string>
+    <string name="editCard">Credit Card</string>
+    <string name="edit_item">Edit Item</string>
+    <string name="edit_location_hint">Enter a New Address…</string>
+    <string name="email">Email</string>
+    <string name="email_foodler">Email Foodler</string>
+    <string name="email_foodler_support">Email Foodler Support</string>
+    <string name="enjoy_foodler_question">Enjoying the app?</string>
+    <string name="enter_new_address">+ Add a New Address</string>
+    <string name="enter_new_credit_card">+ Add a Credit Card</string>
+    <string name="enter_your_address">Enter your address</string>
+    <string name="entergiftcode">Enter Gift Code:</string>
+    <string name="eta_now">Now</string>
+    <string name="every_order_earns_points">Every order earns points toward rewards.</string>
+    <string name="everyone">Everyone</string>
+    <string name="expiration_date">Expiration</string>
+    <string name="extension">Phone Ext.</string>
+    <string name="facebook">Facebook</string>
+    <string name="facebook_app_id">112845845274</string>
+    <string name="facebook_foodler_uri">fb://profile/7209821362</string>
+    <string name="facebook_foodler_url">https://www.facebook.com/foodler/</string>
+    <string name="feedback_email">android-feedback@foodler.com</string>
+    <string name="feedback_follow_us">Follow us for specials, contests, and updates</string>
+    <string name="fees_deliver_fee">Delivery Fee</string>
+    <string name="fees_min">Delivery Minimum</string>
+    <string name="fifteenpercent">15%</string>
+    <string name="finish">Finish</string>
+    <string name="firstName">First</string>
+    <string name="foodler_bucks_details_available">FoodlerBucks Balance</string>
+    <string name="foodler_bucks_details_description">"FoodlerBucks are account credits you can use to pay for orders.
+
+Earn them by redeeming Points or by ordering from restaurants that offer FoodlerBucks back.
+
+FoodlerBucks never expire."</string>
+    <string name="foodler_bucks_details_description_title">About FoodlerBucks</string>
+    <string name="foodler_bucks_details_no_earning_description">FoodlerBucks are account credits you can use to pay for orders.</string>
+    <string name="foodlerbucks">FoodlerBucks</string>
+    <string name="foodlerpoints">Points</string>
+    <string name="forgotPasswordDialog">Please enter a valid email address.</string>
+    <string name="forgot_password">Forgot your Password?</string>
+    <string name="from">from</string>
+    <string name="full_menu">Full Menu</string>
+    <string name="ga_trackingId">UA-307211-7</string>
+    <string name="gcm_defaultSenderId">40439820420</string>
+    <string name="gcm_sender_id">@string/gcm_defaultSenderId</string>
+    <string name="generic_error_text">Please try again later.</string>
+    <string name="generic_error_title">Error</string>
+    <string name="giftcode">Gift Code</string>
+    <string name="gold">Gold</string>
+    <string name="gold_benefits_item_1">Earn 30% more Points on every order</string>
+    <string name="gold_benefits_item_2">Get rewards for less Points</string>
+    <string name="gold_benefits_item_3">Share Gold Level with 3 friends each month on Foodler.com</string>
+    <string name="gold_benefits_title">Gold Level Benefits</string>
+    <string name="google_api_browser_key">AIzaSyCK83XSWg4OX8ATzWUkftTCbK_Hz2UBBuQ</string>
+    <string name="google_api_key">AIzaSyDxtRStKX1D2UhgTJcJe5S4L9TUTewrba0</string>
+    <string name="google_app_id">1:40439820420:android:67c550bfe6d58c1e</string>
+    <string name="google_crash_reporting_api_key">@string/google_api_key</string>
+    <string name="google_play">Google Play</string>
+    <string name="google_play_services_error_text">Please install the latest Google Play Services for Foodler to work properly.</string>
+    <string name="google_play_services_error_title">Google Play Services</string>
+    <string name="group_order_everyone_items_header">Everyone</string>
+    <string name="group_order_finished">finished  </string>
+    <string name="group_order_friend_items_header">%s</string>
+    <string name="group_order_organizer_items_header">%s (Organizer)</string>
+    <string name="group_order_your_items_header">Your Items</string>
+    <string name="halfpizza">Select toppings on each half:</string>
+    <string name="help_and_feedback">Help &amp; Feedback</string>
+    <string name="history_bucks_subtitle">@string/history_points_subtitle</string>
+    <string name="history_bucks_title">@string/foodlerbucks</string>
+    <string name="history_points_subtitle">Earned All Time</string>
+    <string name="history_points_title">Points</string>
+    <string name="how_to_earn_gold_body">Earn 1250 Points in one calendar month to qualify. Look for double and triple Points restaurants to qualify faster.</string>
+    <string name="how_to_earn_gold_title">How to earn Gold Level</string>
+    <string name="how_to_keep_gold_title">How to keep Gold Level</string>
+    <string name="howmany">Quantity</string>
+    <string name="http_error_code_text">"HTTP %1$d
+Please try again later."</string>
+    <string name="http_error_message_text">"%s
+Please try again later."</string>
+    <string name="http_error_server_title">Server Error</string>
+    <string name="increase_quantity">Increase Quantity</string>
+    <string name="instagram">Instagram</string>
+    <string name="instagram_foodler_url">http://instagram.com/_u/foodler</string>
+    <string name="instructions">Instructions</string>
+    <string name="invalid_email">“%s” is not a valid email address.</string>
+    <string name="invite_message">%1$s invited you to join an order from %2$s</string>
+    <string name="invite_message_anonymous">Please log in or sign up to start a group order</string>
+    <string name="invite_more_friends">Invite More Friends</string>
+    <string name="invite_textview_hint">user@example.com</string>
+    <string name="invite_to_active_order">Invite Friends</string>
+    <string name="invite_to_order_by_email_button">Invite by Email</string>
+    <string name="invite_to_order_explanation_1_text">Invite anyone by email address or by sharing an invitation link.</string>
+    <string name="invite_to_order_explanation_1_title">Invite your friends and family.</string>
+    <string name="invite_to_order_explanation_2_text">People you invite can browse the menu and add items to your cart from their own device.</string>
+    <string name="invite_to_order_explanation_2_title">They add items to your cart</string>
+    <string name="invite_to_order_explanation_3_text">As the organizer you are responsible for full payment. Check splitting is not yet supported, but a cost breakdown will be provided on your receipt.</string>
+    <string name="invite_to_order_explanation_3_title">You check out and pay.</string>
+    <string name="invite_to_order_explanation_4_text">The restaurant will label each item with the name of the person it is for.</string>
+    <string name="invite_to_order_explanation_4_title">Food arrives wrapped and labeled.</string>
+    <string name="invite_to_order_explanation_title">How It Works</string>
+    <string name="invite_to_order_intro_explanation_link"><u>Learn How It Works</u></string>
+    <string name="invite_to_order_intro_title">Invite Friends &amp; Family to Your Order</string>
+    <string name="invite_to_order_via_email_title">Add Friends</string>
+    <string name="invite_to_order_via_link_button">Invite with a Link</string>
+    <string name="invite_to_order_via_link_clipboard_label">Invite Link</string>
+    <string name="invite_to_order_via_link_copied">Link Copied</string>
+    <string name="invite_to_order_via_link_copy_button">Copy Link</string>
+    <string name="invite_to_order_via_link_share_button">Share</string>
+    <string name="invite_to_order_via_link_share_title">Share via…</string>
+    <string name="invite_to_order_via_link_subtitle">Share with Friends and Family</string>
+    <string name="invite_to_order_via_link_text">Anyone with this link can join your order.</string>
+    <string name="invite_to_order_via_link_title">Share Link</string>
+    <string name="invites_sent_text">Items they add will appear in your cart.</string>
+    <string name="invites_sent_title">Invitations Sent</string>
+    <string name="item_ratings">Item Ratings</string>
+    <string name="item_unavailable_at_requested_time">Item unavailable at requested time.</string>
+    <string name="item_unavailable_now">Item unavailable at this time.</string>
+    <string name="join_group_order">Join Order</string>
+    <string name="label_for">Label For</string>
+    <string name="lastName">Last</string>
+    <string name="last_minute_change">Last minute change?</string>
+    <string name="learn_more">Learn More</string>
+    <string name="leave_order">Leave Order</string>
+    <string name="left_group_order">You Left the Order</string>
+    <string name="left_group_order_delete_action">No Thanks</string>
+    <string name="left_group_order_save_action">Save Order</string>
+    <string name="left_group_order_save_items">If you’d like, you can save your items from &lt;b>%s&lt;/b> and continue the order on your own.</string>
+    <string name="lefthalf">Left Half</string>
+    <string name="levelup">LevelUp</string>
+    <string name="levelup_api_key">6093b1a208cddd1245b500e6c2b201a0ce0b215b960ffbda429305c1f8fec0af</string>
+    <string name="levelup_app_id">125</string>
+    <string name="levelup_app_url_host_authorization">authorization</string>
+    <string name="levelup_app_url_scheme">thelevelup</string>
+    <string name="levelup_deep_link_auth_install_message">It looks like you don’t have the LevelUp app installed, but that’s an easy fix! It’s easy to set up and free.</string>
+    <string name="levelup_deep_link_auth_install_negative_button">No Thanks</string>
+    <string name="levelup_deep_link_auth_install_package">com.scvngr.levelup.app</string>
+    <string name="levelup_deep_link_auth_install_positive_button">Get LevelUp</string>
+    <string name="levelup_deep_link_auth_install_title">Get LevelUp</string>
+    <string name="levelup_description">You can pay with LevelUp if you link your account.</string>
+    <string name="levelup_disconnect_prompt">Unlink your LevelUp account?</string>
+    <string name="levelup_learn_more"><u>Learn About LevelUp</u></string>
+    <string name="levelup_unlink">Unlink Your Account</string>
+    <string name="levelup_unlink_button">Unlink</string>
+    <string name="levelupisconnected">Your LevelUp account is now linked and can be used as payment.</string>
+    <string name="levelupisconnected_for_checkout">Your LevelUp account is now linked and will be used as payment.</string>
+    <string name="library_name">levelup-deeplinkauth-lib</string>
+    <string name="license">License</string>
+    <string name="location_error">Sorry, we couldn’t locate “%s”. Include the city and state (or ZIP code) for best results.</string>
+    <string name="location_off_text">Please turn on Location in your device’s settings.</string>
+    <string name="location_off_title">Location Turned Off</string>
+    <string name="loginDialog">You must enter a valid email address and password</string>
+    <string name="logout">Log Out</string>
+    <string name="member_level">Member Level</string>
+    <string name="menu_item_from_recommended_restaurant">%s (Recommended)</string>
+    <string name="menu_suggestions">Suggestions</string>
+    <string name="menu_title">Menu</string>
+    <string name="most_popular">Popular</string>
+    <string name="nav_log_in">Log In</string>
+    <string name="needassistance">Need help?</string>
+    <string name="network_error_text">Check your device’s network settings.</string>
+    <string name="network_error_title">Network Error</string>
+    <string name="network_not_connected_title">No Internet Connection</string>
+    <string name="new_password">New Password</string>
+    <string name="new_pill">New</string>
+    <string name="newaddress">Address</string>
+    <string name="newcard">Credit Card</string>
+    <string name="no_average_rating">(No Average Rating Yet)</string>
+    <string name="no_cash">"Cash Not
+Accepted"</string>
+    <string name="no_favorites">"You have no favorites near
+%s."</string>
+    <string name="no_location_permission_text">Please allow access to this device’s location.</string>
+    <string name="no_location_permission_title">No Location Permission</string>
+    <string name="no_orders">You haven’t placed any orders yet.</string>
+    <string name="no_ratings_yet">No Ratings Yet</string>
+    <string name="no_results">No results.</string>
+    <string name="not_enough_points">Not enough yet</string>
+    <string name="not_enough_points_yet">"Not Enough
+Points Yet"</string>
+    <string name="nothing_here">Nothing here.</string>
+    <string name="num_points_earned">+ %s points</string>
+    <string name="number">Card Number</string>
+    <string name="ok">@android:string/ok</string>
+    <string name="oops_address">Please enter your delivery address.</string>
+    <string name="oops_address_and_payment">Please enter your delivery address and select a payment method.</string>
+    <string name="oops_payment">Please select a payment method.</string>
+    <string name="oops_phone">Please enter your phone number.</string>
+    <string name="oops_phone_and_payment">Please enter your phone number and select a payment method.</string>
+    <string name="open_source_license">"This application uses Open Source components. You can find the source code of their open source projects along with license information below. We acknowledge and are grateful to these developers for their contributions to open source.
+
+ Project: The Android Open Source project
+ License: (Apache 2.0)
+ 
+ Project: Joda Time
+ License: (Apache 2.0)
+ http://www.joda.org/joda-time/license.html
+ 
+ Project: Picasso
+ https://github.com/square/picasso
+ Copyright 2013 Square, Inc.
+ License: (Apache 2.0)
+ 
+ Project: EventBus
+ https://github.com/greenrobot/EventBus/
+ License: (Apache 2.0)
+ 
+ Project: EnhancedListView
+ https://github.com/timroes/EnhancedListView
+ License: (Apache 2.0)
+ 
+ Project: ActiveAndroid
+ https://github.com/pardom/ActiveAndroid
+ License: (Apache 2.0)
+ 
+ Project: Card.io
+ https://www.card.io/
+ License: (Apache 2.0)
+ 
+ Project: fastJSON
+ http://fastjson.codeplex.com/
+ License: (Apache 2.0)
+ 
+ Project: Android Flow Layout
+ https://github.com/ApmeM/android-flowlayout
+ License: (Apache 2.0)
+ 
+ Project: FormEditText
+ https://github.com/vekexasia/android-edittext-validator
+ License: (Apache 2.0)
+ 
+ Project: StickyListHeaders
+ https://github.com/emilsjolander/StickyListHeaders 
+License: (Apache 2.0)
+ 
+ Project: TokenAutoComplete
+ https://github.com/splitwise/TokenAutoComplete 
+License: (Apache 2.0) 
+ Project: LoopingViewPager 
+ https://github.com/imbryk/LoopingViewPager 
+License: (Apache 2.0)"</string>
+    <string name="or">or</string>
+    <string name="order_completed_contact">For changes or questions about your order, call %1$s at &lt;font color=%3$s>%2$s&lt;/font>.</string>
+    <string name="order_completed_expected_delivery">Expected Delivery: &lt;b>%s&lt;/b></string>
+    <string name="order_completed_expected_pick_up">Pick Up: &lt;b>%s&lt;/b></string>
+    <string name="order_completed_gold_earned">Gold Level Achieved</string>
+    <string name="order_completed_gold_earned_subtitle">Learn More</string>
+    <string name="order_completed_you_currently_have_points">You currently have <b>%s</b> points.</string>
+    <string name="order_completed_you_earned_bucks">%s FoodlerBucks Earned</string>
+    <string name="order_completed_you_earned_points">%s Points Earned</string>
+    <string name="order_completed_you_have_bucks">You now have %s.</string>
+    <string name="order_completed_you_now_have_points">You now have %s points.</string>
+    <string name="order_completed_you_will_earn_points">You will earn %s Points</string>
+    <string name="order_delivered_title">Success</string>
+    <string name="order_details">Order Details</string>
+    <string name="order_finished">You’re all set</string>
+    <string name="order_item_added">Successfully added</string>
+    <string name="order_item_instructions_hint">e.g: No cheese please</string>
+    <string name="order_item_removed">Successfully removed</string>
+    <string name="order_item_updated">Successfully updated</string>
+    <string name="order_number">Order #%s</string>
+    <string name="order_placed_punchcard_summary">With this order you’re now only&lt;br>&lt;b>%1$s&lt;/b> away from earning &lt;font color=%3$s>%2$s&lt;/font> back</string>
+    <string name="orderplaced">Order Submitted</string>
+    <string name="other_payment_methods">Other Methods</string>
+    <string name="out_of_delivery_range">"Out of the
+Delivery Range"</string>
+    <string name="out_of_stock">Out Of Stock</string>
+    <string name="overall_restaurant_rating">Overall Restaurant Rating</string>
+    <string name="password">Password</string>
+    <string name="password_expired">Your session expired. Please log in again.</string>
+    <string name="password_restore_check_email">A new password has been emailed to %1$s.</string>
+    <string name="password_toggle_content_description">Toggle password visibility</string>
+    <string name="past_items">Past Items</string>
+    <string name="past_picks_and_orders">Past Orders &amp; Items</string>
+    <string name="past_picks_menu_no_items">No past picks available right now.</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="payment">Payment</string>
+    <string name="payment_method_android_pay">Android Pay</string>
+    <string name="payment_method_bitcoin">Bitcoin</string>
+    <string name="payment_methods">Payment Methods</string>
+    <string name="pending_invites">Pending Invites</string>
+    <string name="phone">Phone</string>
+    <string name="pickup">Pickup</string>
+    <string name="pickup_address">Pickup at</string>
+    <string name="pickup_at">Pickup</string>
+    <string name="pickup_phone">Your Phone</string>
+    <string name="pickup_phone_hint">Phone Number</string>
+    <string name="pickup_time">Pickup Time</string>
+    <string name="please_update">Please update to the latest version on %s.</string>
+    <string name="points_balance">Points Balance</string>
+    <string name="points_earned">Points Earned</string>
+    <string name="popular_menu_no_items">No popular suggestions right now.</string>
+    <string name="powered_by_google">powered by Google</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="problem_with_your_order">Problem with your order?</string>
+    <string name="processed">Processed</string>
+    <string name="punchcard_summary">Only &lt;b>%1$s&lt;/b> more to earn &lt;font color=%3$s>%2$s back&lt;/font></string>
+    <string name="rate_in_app_store_subtext">Like the app? Give us a review! It means a lot.</string>
+    <string name="rate_in_app_store_title">Rate us on %s</string>
+    <string name="rate_notification_instructions">Rate your order and earn points</string>
+    <string name="rate_now">Rate Now</string>
+    <string name="rate_restaurant_title">Ratings</string>
+    <string name="rate_your_driver">Rate Your Driver</string>
+    <string name="rate_your_driver_hint">Was your driver timely, friendly, and professional?</string>
+    <string name="rate_your_driver_label">Rate Your Driver:</string>
+    <string name="rate_your_driver_thanks">Thanks For Rating Your Driver:</string>
+    <string name="rebate_applied">Applied! You’ll get &lt;b>%s&lt;/b> in FoodlerBucks after this order.</string>
+    <string name="receipt_split_text">Here is what we suggest. This includes items ordered, fees, and tip.</string>
+    <string name="receipt_split_title">Splitting the bill?</string>
+    <string name="recent_contacts">Recent</string>
+    <string name="recommendations">Recommended</string>
+    <string name="recommended">Recommended</string>
+    <string name="recommended_menu_no_items">No recommendations right now.</string>
+    <string name="recreate">Recreate</string>
+    <string name="recreate_now">Recreate Now</string>
+    <string name="redeem">Redeem</string>
+    <string name="redeem_now">Redeem Now</string>
+    <string name="redeem_points">Redeem points</string>
+    <string name="remove">Remove</string>
+    <string name="required_bold"><b>Required</b></string>
+    <string name="restaurant_about_about_header">About</string>
+    <string name="restaurant_about_address">Address</string>
+    <string name="restaurant_about_fees_header">Delivery Info</string>
+    <string name="restaurant_about_fees_subheader">The fees and minimums depend on the delivery address.</string>
+    <string name="restaurant_about_hours_header">Hours</string>
+    <string name="restaurant_about_hours_unavailable">%s Unavailable</string>
+    <string name="restaurant_about_info_header">Restaurant Info</string>
+    <string name="restaurant_about_payments_accepted_header">Payments Accepted</string>
+    <string name="restaurant_about_photos_header">Photos</string>
+    <string name="restaurant_about_price_range">Price Range</string>
+    <string name="restaurant_about_title">About</string>
+    <string name="restaurant_more_info">Info &amp; Photos</string>
+    <string name="restaurant_more_info_title">More Information</string>
+    <string name="restaurant_not_active">%s is no longer on Foodler.</string>
+    <string name="retry">Retry</string>
+    <string name="review_order">View Order Details</string>
+    <string name="reward_completed_points_remaining">You still have %s points.</string>
+    <string name="reward_completed_used_points">Redeem More Points</string>
+    <string name="reward_history_not_shown">Reward history before %s not shown</string>
+    <string name="reward_history_view_order">View Order Details</string>
+    <string name="reward_history_view_restaurant">View Restaurant</string>
+    <string name="reward_mailing_address">Mailing Address</string>
+    <string name="reward_please_choose_an_address"><i>Please Choose an Address</i></string>
+    <string name="reward_success">Success</string>
+    <string name="rewards">Rewards</string>
+    <string name="rewards_bucks_total">FoodlerBucks</string>
+    <string name="rewards_catalog">@string/use_your_points</string>
+    <string name="rewards_description">Earn Rewards with Every Order</string>
+    <string name="rewards_enter_location">Enter an address</string>
+    <string name="rewards_history">Rewards History</string>
+    <string name="rewards_member_level">Member Level</string>
+    <string name="rewards_near_x">Rewards near %s</string>
+    <string name="rewards_no_location">Enter an address to view participating restaurants near you.</string>
+    <string name="rewards_no_restaurants">No restaurants near %s offer bonus rewards at this time.</string>
+    <string name="rewards_points_total">@string/use_your_points</string>
+    <string name="righthalf">Right Half</string>
+    <string name="save">Save</string>
+    <string name="scanCard">Scan Your Card</string>
+    <string name="search_header_categories">Categories</string>
+    <string name="search_header_cuisines">Cuisines</string>
+    <string name="search_header_items">Items</string>
+    <string name="search_header_menu_items">Menu Items</string>
+    <string name="search_header_restaurants">Restaurants</string>
+    <string name="search_hint">Search restaurants and menus</string>
+    <string name="search_menu_hint">Search menu</string>
+    <string name="search_option_asap">ASAP</string>
+    <string name="search_option_schedule">Schedule a time</string>
+    <string name="search_options_title">Options</string>
+    <string name="select_address">Please select a delivery address</string>
+    <string name="select_size_please">Please select an option</string>
+    <string name="select_time"><b>Select a time</b></string>
+    <string name="select_valid_day">Please select a valid day.</string>
+    <string name="select_valid_time">Please select a valid time.</string>
+    <string name="selected">Selected</string>
+    <string name="selection_mode_title">%d selected</string>
+    <string name="send_invites">Next</string>
+    <string name="send_invites_button">Send Invitations</string>
+    <string name="send_invites_checkout">You’ll still be responsible for payment at checkout.</string>
+    <string name="send_invites_explanation_link">How It Works</string>
+    <string name="send_invites_subhead">Friends to Invite</string>
+    <string name="send_invites_text">They can add items and the restaurant will label everything.</string>
+    <string name="send_invites_title">Invite</string>
+    <string name="show_less">Show less</string>
+    <string name="show_more">Show more</string>
+    <string name="sign_in">Log In</string>
+    <string name="sign_in_button">Already have an account? <b>Log In</b></string>
+    <string name="sign_up">Sign Up</string>
+    <string name="silver">Silver</string>
+    <string name="solo_order_your_items_header">Items</string>
+    <string name="sort">Sort</string>
+    <string name="special">Special</string>
+    <string name="special_applied">Applied!</string>
+    <string name="special_delivery_only">Delivery Orders Only</string>
+    <string name="special_instructions">Special Instructions</string>
+    <string name="special_instructions_hint"><i>e.g. Please provide chopsticks.</i></string>
+    <string name="special_pickup_only">Pickup Orders Only</string>
+    <string name="specials">Specials</string>
+    <string name="spending_limit_exceeded">You’ve exceeded the spending limit for your payment method.</string>
+    <string name="splash_promo">Order. Track. Enjoy.</string>
+    <string name="start_group_order">Start Group Order</string>
+    <string name="state">State</string>
+    <string name="submit">Submit</string>
+    <string name="submit_order">Place Order</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="support">Support</string>
+    <string name="support_email">support@foodler.com</string>
+    <string name="takeout_closed">Pickup &lt;font color=#ff6666>&lt;b>CLOSED&lt;/b>&lt;/font></string>
+    <string name="takeout_closed_until">Pickup &lt;font color=#ff6666>&lt;b>CLOSED&lt;/b>&lt;/font> until %1$s</string>
+    <string name="takeout_closing_soon">Pickup &lt;font color=#ff6666>&lt;b>CLOSING SOON&lt;/b>&lt;/font> at %s</string>
+    <string name="takeout_open">Pickup &lt;font color=#5ebb41>&lt;b>OPEN&lt;/b>&lt;/font></string>
+    <string name="takeout_open_until">Pickup &lt;font color=#5ebb41>&lt;b>OPEN&lt;/b>&lt;/font> until %1$s</string>
+    <string name="takeout_opening_soon">Pickup &lt;font color=#e15d2a>&lt;b>OPENING SOON&lt;/b>&lt;/font> at %s</string>
+    <string name="takeout_unavailable">Pickup Unavailable</string>
+    <string name="tap_heart_to_add_favorites">"Tap the heart icon when viewing a
+restaurant to add it to your favorites."</string>
+    <string name="taxesfees">Taxes &amp; Fees</string>
+    <string name="tenpercent">10%</string>
+    <string name="terms_of_use">Terms of Use</string>
+    <string name="text_foodler_support">Text Foodler Support</string>
+    <string name="thank_you">Thank You</string>
+    <string name="time_not_set"><i>Time not set</i></string>
+    <string name="time_validation_closed_title">%s is currently closed.</string>
+    <string name="time_validation_delivery_closed_subtitle">Switch to pickup or schedule for another time below.</string>
+    <string name="time_validation_delivery_closed_title">%s is currently closed for delivery.</string>
+    <string name="time_validation_pickup_closed_subtitle">Switch to delivery or schedule for another time below.</string>
+    <string name="time_validation_pickup_closed_title">%s is currently closed for pickup.</string>
+    <string name="time_validation_schedule_subtitle">You can schedule the order for another time below.</string>
+    <string name="time_validation_unavailable_title">%s is unavailable at your requested time.</string>
+    <string name="tip">Driver’s Tip</string>
+    <string name="tip_subtotal">Percentages based off subtotal: %s</string>
+    <string name="tip_total_before_tip">Total before tip: %s</string>
+    <string name="tip_upon_delivery">Tip in cash upon delivery</string>
+    <string name="toggle_favorite">Favorite</string>
+    <string name="top_rated_menu_no_items">No top rated suggestions right now.</string>
+    <string name="toppings">Toppings</string>
+    <string name="toprated">Top Rated</string>
+    <string name="total">Total</string>
+    <string name="track_order">Track Order</string>
+    <string name="track_your_order">Track Your Order</string>
+    <string name="tracking_cancelled_text">Uh oh something went wrong.</string>
+    <string name="tracking_cancelled_title">Order Cancelled</string>
+    <string name="tracking_delivered">Order Delivered</string>
+    <string name="tracking_enjoy">Enjoy your meal.</string>
+    <string name="tracking_get_ready">We’ll let you know.</string>
+    <string name="tracking_not_yet_ready">Live tracking will be enabled when your driver is on the way.</string>
+    <string name="twentyfivepercent">25%</string>
+    <string name="twentypercent">20%</string>
+    <string name="twitter">Twitter</string>
+    <string name="twitter_foodler_url">http://twitter.com/foodler</string>
+    <string name="unapply_bucks">Remove FoodlerBucks</string>
+    <string name="unavailable_at_requested_time">Unavailable at requested time</string>
+    <string name="unknown_driver">Foodler</string>
+    <string name="update_item">Update Item</string>
+    <string name="upgrade_delivery_to_dashed_subtext">Upgrade to get live order tracking</string>
+    <string name="use_previous_instructions">Use</string>
+    <string name="use_your_points">Redeem Points</string>
+    <string name="venmo">Venmo</string>
+    <string name="venmo_description">You can pay with Venmo if you link your account. Tap the button to link your account.</string>
+    <string name="venmo_disconnect_prompt">Unlink your Venmo account?</string>
+    <string name="venmo_is_connected">Your Venmo account is now linked and can be used as payment.</string>
+    <string name="venmo_is_connected_for_checkout">Your Venmo account is now linked and will be used as payment.</string>
+    <string name="venmo_learn_more"><u>Learn About Venmo</u></string>
+    <string name="venmo_not_installed">You must install the Venmo app to link your account.</string>
+    <string name="venmo_not_installed_cancel">@string/cancel</string>
+    <string name="venmo_not_installed_get">Get Venmo</string>
+    <string name="via_dashed">via Dashed</string>
+    <string name="view_rewards_history"><u>View History</u></string>
+    <string name="welcome">Find Nearby Restaurants</string>
+    <string name="wholepizza">Select toppings on whole pizza:</string>
+    <string name="you_applied_bucks">%s Applied</string>
+    <string name="you_could_earn_points">You could earn %s points</string>
+    <string name="you_have_bucks">%s Available</string>
+    <string name="your_current_location">your current location</string>
+    <string name="your_orders">Orders</string>
+    <string name="zerodollar">Add a tip</string>
+    <string name="zip_or_postal_code">Zip/Postal</string>
+</resources>

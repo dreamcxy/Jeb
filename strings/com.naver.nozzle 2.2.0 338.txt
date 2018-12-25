@@ -1,0 +1,1773 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
+    <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_like_button_liked">Liked</string>
+    <string name="com_facebook_like_button_not_liked">Like</string>
+    <string name="com_facebook_loading">Loading…</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_loginview_log_in_button">Log in</string>
+    <string name="com_facebook_loginview_log_in_button_continue">Continue with Facebook</string>
+    <string name="com_facebook_loginview_log_in_button_long">Log in with Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="com_facebook_send_button_text">Send</string>
+    <string name="com_facebook_share_button_text">Share</string>
+    <string name="com_facebook_smart_device_instructions">To connect your account, open the Facebook app on your mobile device and check for notifications.</string>
+    <string name="com_facebook_smart_device_instructions_or">- OR -</string>
+    <string name="com_facebook_smart_login_confirmation_cancel">Not you?</string>
+    <string name="com_facebook_smart_login_confirmation_title">Confirm Login</string>
+    <string name="com_facebook_tooltip_default">"You're in control - choose what info you want to share with apps."</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="exo_controls_fastforward_description">Fast forward</string>
+    <string name="exo_controls_next_description">Next track</string>
+    <string name="exo_controls_pause_description">Pause</string>
+    <string name="exo_controls_play_description">Play</string>
+    <string name="exo_controls_previous_description">Previous track</string>
+    <string name="exo_controls_repeat_all_description">Repeat all</string>
+    <string name="exo_controls_repeat_off_description">Repeat none</string>
+    <string name="exo_controls_repeat_one_description">Repeat one</string>
+    <string name="exo_controls_rewind_description">Rewind</string>
+    <string name="exo_controls_shuffle_description">Shuffle</string>
+    <string name="exo_controls_stop_description">Stop</string>
+    <string name="messenger_send_button_text">Send</string>
+    <string name="s1">Save image</string>
+    <string name="s2">Allow Ad to store image in Picture gallery?</string>
+    <string name="s3">Accept</string>
+    <string name="s4">Decline</string>
+    <string name="s5">Create calendar event</string>
+    <string name="s6">Allow Ad to create a calendar event?</string>
+    <string name="search_menu_title">Search</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="com_facebook_smart_login_confirmation_continue_as">Continue as %1$s</string>
+    <string name="ai_clova_cic_clientlib_agree_terms_of_use">Agree</string>
+    <string name="ai_clova_cic_clientlib_alarm_sound_name_01">Dolce</string>
+    <string name="ai_clova_cic_clientlib_alarm_sound_name_02">Legato</string>
+    <string name="ai_clova_cic_clientlib_alarm_sound_name_03">Marcato</string>
+    <string name="ai_clova_cic_clientlib_terms_of_use_disagree_confirmation_message">Do you cancel login?</string>
+    <string name="SCR_briefing">brf</string>
+    <string name="SCR_briefing_CAT_cmd">cmd</string>
+    <string name="SCR_briefing_CAT_cmd_ACT_deleterecent">deleterecent</string>
+    <string name="SCR_briefing_CAT_cmd_ACT_deleterecmd">deleterecmd</string>
+    <string name="SCR_briefing_CAT_cmd_ACT_recentlist">recentlist</string>
+    <string name="SCR_briefing_CAT_cmd_ACT_recmdlist">recmdlist</string>
+    <string name="SCR_briefing_CAT_music">music</string>
+    <string name="SCR_briefing_CAT_music_ACT_preferenceMaking">taste</string>
+    <string name="SCR_briefing_CAT_music_ACT_station1toN">list</string>
+    <string name="SCR_briefing_CAT_music_ACT_viewAll">browse</string>
+    <string name="SCR_briefing_CAT_pims">pims</string>
+    <string name="SCR_briefing_CAT_pims_ACT_schedule">schedule</string>
+    <string name="SCR_briefing_CAT_pims_ACT_schedule_VAL_delete">캘린더 삭제</string>
+    <string name="SCR_briefing_CAT_pims_ACT_schedule_VAL_list">캘린더 목록 1~n</string>
+    <string name="SCR_briefing_CAT_pims_ACT_schedule_VAL_more">캘린더 더보기</string>
+    <string name="SCR_card">card</string>
+    <string name="SCR_card_CAT_cardAlarm">alarm</string>
+    <string name="SCR_card_CAT_cardAlarm_ACT_create">set</string>
+    <string name="SCR_card_CAT_cardButtons">button</string>
+    <string name="SCR_card_CAT_cardButtons_ACT_call">call</string>
+    <string name="SCR_card_CAT_cardButtons_ACT_listen">listen</string>
+    <string name="SCR_card_CAT_cardListType1">cardlist1</string>
+    <string name="SCR_card_CAT_cardListType2">cardlist2</string>
+    <string name="SCR_card_CAT_cardListType3">cardlist3</string>
+    <string name="SCR_card_CAT_cardMemo">memo</string>
+    <string name="SCR_card_CAT_cardMemo_ACT_create">set</string>
+    <string name="SCR_card_CAT_cardReminder">reminder</string>
+    <string name="SCR_card_CAT_cardReminder_ACT_create">set</string>
+    <string name="SCR_card_CAT_cardSchedule">schedule</string>
+    <string name="SCR_card_CAT_cardSchedule_ACT_create">set</string>
+    <string name="SCR_card_CAT_cardSpecial">spccard</string>
+    <string name="SCR_card_CAT_cardSpecial_ACT_humidity">hmd</string>
+    <string name="SCR_card_CAT_cardSpecial_ACT_weatherToday">wthtoday</string>
+    <string name="SCR_card_CAT_cardSpecial_ACT_weatherWeekly">wthweek</string>
+    <string name="SCR_card_CAT_cardSpecial_ACT_wind">wind</string>
+    <string name="SCR_card_CAT_cardTimer">timer</string>
+    <string name="SCR_card_CAT_cardTimer_ACT_create">set</string>
+    <string name="SCR_card_CAT_cardTimer_ACT_pause">pause</string>
+    <string name="SCR_card_CAT_cardTimer_ACT_stop">stop</string>
+    <string name="SCR_card_CAT_common_ACT_url">linksource</string>
+    <string name="SCR_card_CAT_imageTextType1">imgtext1</string>
+    <string name="SCR_card_CAT_imageTextType2">imgtext2</string>
+    <string name="SCR_card_CAT_imageTextType3">imgtext3</string>
+    <string name="SCR_card_CAT_imageTextType4">imgtext4</string>
+    <string name="SCR_card_CAT_imageTextType5">imgtext5</string>
+    <string name="SCR_card_CAT_textType1">text1</string>
+    <string name="SCR_card_CAT_textType2">text2</string>
+    <string name="SCR_card_CAT_textType3">text3</string>
+    <string name="SCR_card_CAT_textType4">text4</string>
+    <string name="SCR_card_CAT_textType5">text5</string>
+    <string name="SCR_guide">guide</string>
+    <string name="SCR_guide_CAT_close">close</string>
+    <string name="SCR_guide_CAT_close_ACT_close">close</string>
+    <string name="SCR_guide_CAT_cmd">cmd</string>
+    <string name="SCR_guide_CAT_cmd_ACT_run">run</string>
+    <string name="SCR_guide_CAT_cmd_ACT_select">select</string>
+    <string name="SCR_guide_CAT_domain">domain</string>
+    <string name="SCR_guide_CAT_domain_ACT_select">select</string>
+    <string name="SCR_home">home</string>
+    <string name="SCR_home_CAT_canvas">canvas</string>
+    <string name="SCR_home_CAT_canvas_ACT_cursor">cursor</string>
+    <string name="SCR_home_CAT_canvas_ACT_microphone">micicon</string>
+    <string name="SCR_home_CAT_human_answer">human_answer</string>
+    <string name="SCR_home_CAT_human_answer_ACT_close">close</string>
+    <string name="SCR_home_CAT_human_answer_ACT_confirm">confirm</string>
+    <string name="SCR_home_CAT_human_answer_ACT_imp">imp</string>
+    <string name="SCR_home_CAT_human_toast">human_toast</string>
+    <string name="SCR_home_CAT_human_toast_ACT_close">close</string>
+    <string name="SCR_home_CAT_human_toast_ACT_imp">imp</string>
+    <string name="SCR_home_CAT_human_toast_ACT_request">request</string>
+    <string name="SCR_home_CAT_iconsTop">menu</string>
+    <string name="SCR_home_CAT_iconsTop_ACT_briefing">brficon</string>
+    <string name="SCR_home_CAT_iconsTop_ACT_miniAlarm">minialarm</string>
+    <string name="SCR_home_CAT_iconsTop_ACT_miniTimer">minitimer</string>
+    <string name="SCR_home_CAT_iconsTop_ACT_settings">seticon</string>
+    <string name="SCR_home_CAT_musicPlayerBar">playbar</string>
+    <string name="SCR_home_CAT_musicPlayerBar_ACT_buttonX">barclose</string>
+    <string name="SCR_home_CAT_musicPlayerBar_ACT_touch">bartouch</string>
+    <string name="SCR_musicPlayer">뮤직 플레이어</string>
+    <string name="SCR_musicPlayer_CAT_nowPlaying">나우플레잉</string>
+    <string name="SCR_musicPlayer_CAT_nowPlaying_ACT_closeScreen">재생화면 닫기</string>
+    <string name="SCR_musicPlayer_CAT_nowPlaying_ACT_coverSwype">앨범 커버 스와이프</string>
+    <string name="SCR_musicPlayer_CAT_nowPlaying_ACT_like">좋아요</string>
+    <string name="SCR_musicPlayer_CAT_nowPlaying_ACT_likeCancel">좋아요 취소</string>
+    <string name="SCR_musicPlayer_CAT_nowPlaying_ACT_lyrics">가사 보기</string>
+    <string name="SCR_musicPlayer_CAT_nowPlaying_ACT_play">재생</string>
+    <string name="SCR_musicPlayer_CAT_nowPlaying_ACT_playlist">플레이리스트</string>
+    <string name="SCR_musicPlayer_CAT_nowPlaying_ACT_playlist_VAL_expand">확장</string>
+    <string name="SCR_musicPlayer_CAT_nowPlaying_ACT_playlist_VAL_shrink">축소</string>
+    <string name="SCR_musicPlayer_CAT_nowPlaying_ACT_playlist_VAL_trackChangeOrder">트랙 순서 변경</string>
+    <string name="SCR_musicPlayer_CAT_nowPlaying_ACT_playlist_VAL_trackDel">트랙 삭제</string>
+    <string name="SCR_musicPlayer_CAT_nowPlaying_ACT_playlist_VAL_trackDelCancel">트랙 삭제 취소</string>
+    <string name="SCR_musicPlayer_CAT_nowPlaying_ACT_playlist_VAL_trackSel">축소</string>
+    <string name="SCR_musicPlayer_CAT_nowPlaying_ACT_repeatSingle">한곡 반복</string>
+    <string name="SCR_musicPlayer_CAT_nowPlaying_ACT_repeatSingleCancel">한곡 반복 취소</string>
+    <string name="SCR_musicPlayer_CAT_nowPlaying_ACT_stationBrowse">스테이션 브라우징</string>
+    <string name="SCR_musicPlayer_CAT_nowPlaying_ACT_stop">정지</string>
+    <string name="SCR_musicPlayer_CAT_prefMaking">취향 길들이기</string>
+    <string name="SCR_musicPlayer_CAT_prefMaking_ACT_exit">종료</string>
+    <string name="SCR_musicPlayer_CAT_prefMaking_ACT_in">진입</string>
+    <string name="SCR_musicPlayer_CAT_prefMaking_ACT_like">좋아요</string>
+    <string name="SCR_musicPlayer_CAT_prefMaking_ACT_likeNot">싫어요</string>
+    <string name="SCR_musicPlayer_CAT_prefMaking_ACT_skip2next">다음 곡으로 스킵</string>
+    <string name="SCR_musicPlayer_CAT_stationBrowse">스테이션 브라우징</string>
+    <string name="SCR_musicPlayer_CAT_stationBrowse_ACT_in">스테이션 진입</string>
+    <string name="SCR_musicPlayer_CAT_stationBrowse_ACT_out">브라우징 종료</string>
+    <string name="SCR_settings">setting</string>
+    <string name="SCR_settings_CAT_accounts">profile</string>
+    <string name="SCR_settings_CAT_accounts_ACT_checkAge">연령 확인</string>
+    <string name="SCR_settings_CAT_accounts_ACT_homeAddressAdd">집 주소 추가</string>
+    <string name="SCR_settings_CAT_accounts_ACT_homeAddressDelete">집 주소 삭제</string>
+    <string name="SCR_settings_CAT_accounts_ACT_homeAddressFindCurrent">집 주소 - 현재위치로 찾기</string>
+    <string name="SCR_settings_CAT_accounts_ACT_homeAddressModify">집 주소 변경</string>
+    <string name="SCR_settings_CAT_accounts_ACT_naverMusicPass">네이버 뮤직 이용권</string>
+    <string name="SCR_settings_CAT_accounts_ACT_schoolAddressAdd">학교/회사 주소 추가</string>
+    <string name="SCR_settings_CAT_accounts_ACT_schoolAddressDelete">학교/회사 주소 삭제</string>
+    <string name="SCR_settings_CAT_accounts_ACT_schoolAddressFindCurrent">학교/회사 주소 - 현재위치로 찾기</string>
+    <string name="SCR_settings_CAT_accounts_ACT_schoolAddressModify">학교/회사 주소 변경</string>
+    <string name="SCR_settings_CAT_announcement">공지사항</string>
+    <string name="SCR_settings_CAT_appVersion">앱 버전</string>
+    <string name="SCR_settings_CAT_appVersion_ACT_update">업데이트</string>
+    <string name="SCR_settings_CAT_calendar">캘린더 설정</string>
+    <string name="SCR_settings_CAT_calendar_ACT_default">기본 캘린더</string>
+    <string name="SCR_settings_CAT_calendar_ACT_intergrated">연동된 캘린더</string>
+    <string name="SCR_settings_CAT_customerCenter">고객센터</string>
+    <string name="SCR_settings_CAT_logout">로그아웃</string>
+    <string name="SCR_settings_CAT_voiceCommnad">음성안내 설정</string>
+    <string name="SCR_settings_CAT_voiceCommnad_ACT_always">항상</string>
+    <string name="SCR_settings_CAT_voiceCommnad_ACT_earphone">이어폰 사용 중일 때만</string>
+    <string name="SCR_settings_CAT_voiceCommnad_ACT_noUse">사용 안 함</string>
+    <string name="SCR_settings_CAT_voiceCommnad_ACT_ringer">폰 벨소리 사용 중 일때만</string>
+    <string name="SCR_stt">STT</string>
+    <string name="SCR_stt_CAT_timing">timing</string>
+    <string name="SCR_stt_CAT_timing_ACT_speech2nlu">발화부터 결과 화면 출력까지</string>
+    <string name="SCR_stt_CAT_timing_ACT_speech2text">발화부터 음성인식된 첫 글자까지</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="accessibility_add_reminder">새로운 리마인더 추가</string>
+    <string name="accessibility_back">뒤로</string>
+    <string name="accessibility_brief">브리핑</string>
+    <string name="accessibility_cancel">취소</string>
+    <string name="accessibility_close">닫기</string>
+    <string name="accessibility_delete">삭제</string>
+    <string name="accessibility_hours">시간</string>
+    <string name="accessibility_land_to_web_browser">웹 브라우저로 연결</string>
+    <string name="accessibility_like">좋아요</string>
+    <string name="accessibility_like_cancel">좋아요 취소</string>
+    <string name="accessibility_minutes">분</string>
+    <string name="accessibility_option">옵션</string>
+    <string name="accessibility_pause">일시정지</string>
+    <string name="accessibility_pause_timer">타이머 일시정지</string>
+    <string name="accessibility_play">재생</string>
+    <string name="accessibility_play_next">다음 곡 재생</string>
+    <string name="accessibility_resume_timer">타이머 재개</string>
+    <string name="accessibility_save">저장</string>
+    <string name="accessibility_seconds">초</string>
+    <string name="accessibility_settings">설정</string>
+    <string name="accessibility_tts_off">음성안내 끄기</string>
+    <string name="accessibility_tts_on">음성안내 켜기</string>
+    <string name="accessibility_wave">WAVE 스피커</string>
+    <string name="account_setting">계정설정</string>
+    <string name="account_type">com.naver.nozzle</string>
+    <string name="action_purchase_ticket">チケット管理</string>
+    <string name="add">추가하기</string>
+    <string name="ai_clova_cic_clientlib_disagree_terms_of_use">@android:string/cancel</string>
+    <string name="alarm_sound">알람시 사운드</string>
+    <string name="api_client_id">1398ef2e1b1d4a4ea505bded02b75cc9</string>
+    <string name="api_host">10.110.240.51:10005</string>
+    <string name="app_icon_name">네이버 클로바β</string>
+    <string name="app_name">네이버 클로바</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="auth_token_type">com.naver.nozzle</string>
+    <string name="auto_play_content_when_finish_alarm">알람 종료시 컨텐츠 자동재생</string>
+    <string name="avoid_music_tab_ginie_message">"지니뮤직의 뮤직 메뉴는 준비 중입니다.
+조금만 기다려주세요"</string>
+    <string name="bedroom">"침실 "</string>
+    <string name="bluetooth">블루투스</string>
+    <string name="bluetooth_device_disconnect">연결해제</string>
+    <string name="bluetooth_device_remove">기기삭제</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="brown_connect_popup_title">"BROWN을 발견했어요.
+연결하시겠어요?"</string>
+    <string name="call_name">호출명</string>
+    <string name="call_name_desc">"명령하기 전, 기기를 깨우는 이름입니다.
+ex.“샐리야 지금 몇시야”"</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="connect">연결하기</string>
+    <string name="connect_friends_to_other_speakers_and_give_friends_a_voice_command">&lt;font color=#f65971>Friends를 다른 스피커와 연결하고, &lt;/font>Friends에게 음성으로 명령해 보세요.</string>
+    <string name="connect_wifi_recent_title">최근 연결한 Wi-Fi</string>
+    <string name="connected_wifi_alert_button">다른 Wi-Fi 연결</string>
+    <string name="connected_wifi_alert_desc">"에 연결 중
+다른 와이파이로 바꾸시겠어요?"</string>
+    <string name="connected_wifi_alert_title">연결된 와이파이가 있어요.</string>
+    <string name="default_web_client_id">1031218777796-7vgjrsskedj091saim04df4s1bs4t69e.apps.googleusercontent.com</string>
+    <string name="desc_wave_calendar_not_created">사용할 수 없습니다. 잠시 후 다시 시도해주세요.</string>
+    <string name="description_add_remote_controller">"%1$sとWAVEの間に障害物がないことを確認してください。
+%1$sついている場合には電源を消し、ついていない場合には電源を入れることができます。"</string>
+    <string name="description_add_remote_controller_done_without_item_name">音声コマンドで指示してください。</string>
+    <string name="description_add_settop_remote_controller_done">음성으로 %1$s를 제어해보세요.</string>
+    <string name="description_add_stb_remote_controller">"WAVE를 셋톱박스 가까이 놓고,
+사이에 장애물이 없는지 확인해주세요.
+시작하기 전 연결된 TV를 켜주시고,
+셋톱박스는 꺼주세요."</string>
+    <string name="description_add_tv_remote_controller">"WAVE를 TV가까이 놓고,
+사이에 장애물이 없는지 확인해주세요.
+시작하기 전 TV는 꺼주세요."</string>
+    <string name="description_add_wifi">네트워크를 추가해주세요</string>
+    <string name="description_age_check_done">%1$s에 인증 됨</string>
+    <string name="description_age_check_not_done_yet">본인 인증 안 됨</string>
+    <string name="description_agree_policy">로그인 후 네이버 클로바 약관에 동의해 주세요</string>
+    <string name="description_agreed_event_push">이벤트 소식 알림 서비스 수신 동의 처리가 완료 되었습니다.</string>
+    <string name="description_alarm_delete_guide">"알람을 삭제할땐 이렇게 말하세요
+\"아침 7시 알람 삭제해줘\""</string>
+    <string name="description_already_turned_off_alarm">종료된 알람입니다.</string>
+    <string name="description_already_turned_off_timer">종료된 타이머입니다.</string>
+    <string name="description_ask_logout">로그아웃 하시겠습니까?</string>
+    <string name="description_battery_status">남은 배터리 %1$d%%</string>
+    <string name="description_bluetooth_connection_failed">기기가 근처에 있고 블루투스가 켜져있는지 확인해주세요.</string>
+    <string name="description_brief_calendar_count">"%1$s님
+%2$d개 일정이 있습니다."</string>
+    <string name="description_brief_calendar_count_short">%1$d개 일정이 있습니다.</string>
+    <string name="description_calendar_deactivate">Googleカレンダーとアカウント連動を解除しますか？</string>
+    <string name="description_call_button">\"%1$s\" 부르지 않고 음성명령</string>
+    <string name="description_call_name">"명령하기 전, 기기를 깨우는 이름입니다.
+\"%s, 지금 몇 시야?"</string>
+    <string name="description_call_name_setting">한글 최대 4자 / 공백, 영문, 숫자, 특수기호 불가</string>
+    <string name="description_call_phone_to">"%1$s님에게
+전화거는 중"</string>
+    <string name="description_call_wave">\"%1$s\"と呼びかけて、音声で話してみてください。</string>
+    <string name="description_cannot_check">확인할 수 없음</string>
+    <string name="description_cannot_play_wave_music">연결된 기기가 없어서 음악을 재생할 수 없습니다. 기기 연결 후 다시 시도해주세요.</string>
+    <string name="description_charge_wave_device">"%1$s의 배터리가 %2$d%%이하입니다.
+충전해주세요."</string>
+    <string name="description_check_wave_power">모바일 기기를 %1$s에 가까이 가져가거나 %1$s가 켜져있는지 확인해주세요.</string>
+    <string name="description_clova_answer_arrived">Clova 답변이 도착했습니다.</string>
+    <string name="description_clova_home_aircon_guide">\"에어컨 온도 낮춰줘\"</string>
+    <string name="description_clova_home_guide">"기기를 등록해서
+이렇게 클로바 홈을 사용해요"</string>
+    <string name="description_clova_home_humidity_guide">\"가습기 틀어줘\"</string>
+    <string name="description_clova_home_light_guide">\"조명 켜줘\"</string>
+    <string name="description_clova_home_plug_guide">\"플러그 꺼줘\"</string>
+    <string name="description_clova_home_purifier_guide">\"공기청정기 틀어줘\"</string>
+    <string name="description_clova_home_robot_vacuum_guide">\"로봇청소기 켜줘\"</string>
+    <string name="description_clova_home_stb_guide">\"셋탑박스 켜줘\"</string>
+    <string name="description_clova_home_switch_guide">\"3번 스위치 켜줘\"</string>
+    <string name="description_clova_home_temperature_guide">\"온도조절기 외출모드로 설정해줘\"</string>
+    <string name="description_congratulation_connect_wave_device">"\"%1$s\"를 부르고,
+다양한 %2$s 기능을 이용해보세요.
+여러명이 사용할 경우 타인의 메모,
+캘린더 접근에 주의해주세요."</string>
+    <string name="description_connect_wave_device">WAVE 스피커를 연결해주세요</string>
+    <string name="description_connect_wave_device_done">"여러명이 사용할 경우 타인의 메모,
+캘린더 접근에 주의해주세요."</string>
+    <string name="description_current_device_disconnected">기기와의 연결이 끊겼습니다.</string>
+    <string name="description_default_wave_location">현위치를 사용할 수 없어 네이버 위치 [경기도 성남시 분당구 불정로 6]로 안내합니다.</string>
+    <string name="description_device_call_name_setting">"최대 10자, 한글, 영어, 일본어, 숫자, '-' 가능"</string>
+    <string name="description_device_check_wifi_1">연결할 와이파이를</string>
+    <string name="description_device_check_wifi_2">확인해주세요</string>
+    <string name="description_device_detected_sub_title">당신의 기기를 연결해 주세요.</string>
+    <string name="description_device_detected_title">기기를 찾았습니다.</string>
+    <string name="description_device_light">미디어 재생시 무드등 효과</string>
+    <string name="description_device_status_does_not_match">&lt;u>그림과 달라요&lt;/u></string>
+    <string name="description_device_status_does_not_match_with_device_name">&lt;u>%1$s反応しない場合&lt;/u></string>
+    <string name="description_disconnect_device_fw_ver_low">스피커 펌웨어 버전이 낮아 이 기능을 사용하실 수 없습니다. 펌웨어 업데이트 후 사용해 주세요. 방해금지 중에는 업데이트 되지 않습니다.</string>
+    <string name="description_disconnect_wave">기기 연결을 해제하시겠습니까? 연결 해제시 다른 사용자가 연결할 수 있는 상태가 됩니다.</string>
+    <string name="description_dnb_time_not_correct">시작시간과 종료시간이 같습니다. 다시 설정해주세요.</string>
+    <string name="description_dnd_now_later_firmware_version_needed">스피커 펌웨어 버전이 낮아 이 기능을 사용하실 수 없습니다. 펌웨어 업데이트 후 사용해 주세요. 방해금지 중에는 업데이트 되지 않습니다.</string>
+    <string name="description_empty_answers">대답을 등록해야 명령어를 사용할 수 있어요.</string>
+    <string name="description_empty_lyrics">가사 정보가 없습니다.</string>
+    <string name="description_empty_question_will_be_deleted_message">대답이 없는 명령어는 삭제됩니다. 나가시겠어요?</string>
+    <string name="description_empty_question_will_be_deleted_title">명령어가 삭제됩니다.</string>
+    <string name="description_eng_talk_end_see_you_later">"'See you later'라고 말해도 종료됩니다."</string>
+    <string name="description_eng_talk_start">영어 스피킹을 시작합니다.</string>
+    <string name="description_eng_talk_without_touch">"마이크 버튼을
+누르지 않아도
+대화할 수 있습니다."</string>
+    <string name="description_ensure_device_on">%1$s의 전원이 켜진 상태에서 다음 버튼을 눌러주세요.</string>
+    <string name="description_error_to_launch_app">앱을 실행할 수 없습니다.</string>
+    <string name="description_example_welcome">"안녕하세요
+무엇을 도와드릴까요?"</string>
+    <string name="description_extension_disconnect_message">계정연동을 해지하시면 로그인 정보도 초기화됩니다.</string>
+    <string name="description_extension_disconnect_title">계정연동을 해지할까요?</string>
+    <string name="description_failed_block_friend">친구 Block을 실패하였습니다.</string>
+    <string name="description_failed_delete_message">잠시 후 다시 한 번 삭제해 주세요.</string>
+    <string name="description_failed_delete_title">삭제하지 못했어요.</string>
+    <string name="description_failed_load_address">현재 위치 찾기를 실패했습니다.</string>
+    <string name="description_failed_reset_device">기기 초기화에 실패했습니다</string>
+    <string name="description_failed_reset_device_wifi">기기 네트워크 초기화에 실패했습니다</string>
+    <string name="description_failed_to_reset_account">WAVE LINE계정 삭제에 실패하였습니다.</string>
+    <string name="description_failed_unbind">기기 연결 해제에 실패했습니다</string>
+    <string name="description_failed_unblock_friend">친구를 대화 가능한 친구로 등록하지 못했습니다.</string>
+    <string name="description_failure_call">"연락처에 없는
+번호에요"</string>
+    <string name="description_failure_understand">"죄송해요
+못 알아 들었어요"</string>
+    <string name="description_file_download_completed">다운로드가 완료되었습니다.</string>
+    <string name="description_friends_reset_wifi">"다시 설정하려면
+제품 하단의 마이크 음소거 버튼을
+5초 이상 누른 후 '다음'을 선택하세요."</string>
+    <string name="description_go_to_link_account">%1$s 서비스에 등록된 기기 정보를 불러오기 위해 로그인 페이지로 이동합니다.</string>
+    <string name="description_google_calendar">계정을 추가하면 WAVE에서 구글 캘린더 일정을 조회할 수 있습니다. 구글 캘린더 이외의 다른 캘린더들은 추후 업데이트될 예정입니다.</string>
+    <string name="description_google_calendar_enabled">캘린더에 등록한 일정을 WAVE에서 \"오늘 일정알려줘\" 등의 명령으로 확인할 수 있습니다. 타인과 같이 사용할 경우 아래의 「스피커에서 캘린더 사용」을 OFF로 해주세요</string>
+    <string name="description_grant_permission_next">"다음 화면에서 네이버 클로바 앱에
+필요한 권한을 허용해주세요."</string>
+    <string name="description_guide_for_va">"마이크 버튼을 누르거나
+\"클로바\"라고 부른 후
+명령어를 말해보세요."</string>
+    <string name="description_guide_listening">듣는 중..</string>
+    <string name="description_guide_searching">검색 중입니다</string>
+    <string name="description_guide_talk">말하세요</string>
+    <string name="description_home_location_save">주소는 교통, 날씨, 시간, 지역정보 등의 맞춤형 콘텐츠를 제공하는데 사용되며, 언제든지 계정 화면에서 직접 변경 또는 삭제 가능합니다. 본 내용에 동의할 경우, 주소를 입력해 주세요.</string>
+    <string name="description_input_hint">텍스트를 입력해주세요</string>
+    <string name="description_input_hint_ptt">마이크 버튼을 누른 상태로 말해주세요</string>
+    <string name="description_input_hint_touch">터치해서 텍스트 입력</string>
+    <string name="description_intro">"내 손안의
+인공지능 비서,
+지금 만나보세요"</string>
+    <string name="description_intro_permission">"네이버 클로바앱에서
+음성으로 대화해보세요"</string>
+    <string name="description_iot_device_linked_name_message">"새로운 이름으로 클로바의
+스피커와 앱에서 제어할 수 있어요."</string>
+    <string name="description_iot_device_linked_name_title">&lt;font color=#1c90d3>%1$s&lt;/font> 등록 완료</string>
+    <string name="description_iot_device_no_linked_devices">연결된 기기가 없습니다.\\n서비스에 기기를 연결해주세요.</string>
+    <string name="description_ir_power_work_confirm">%1$s가 켜졌나요？</string>
+    <string name="description_ir_work_confirm">%1$sが反応しますか？</string>
+    <string name="description_label_wave_use_line">"WAVE LINE계정으로 메시지를 주고 받습니다.
+누구나 음성으로 메시지를 보낼 수 있으니 주의하세요."</string>
+    <string name="description_launch_by_wave">WAVE에서 실행됩니다.</string>
+    <string name="description_liked_music">이 곡을 좋아요 표시했습니다.</string>
+    <string name="description_liked_this_track">이 노래를 좋아요 표시했습니다.</string>
+    <string name="description_liked_track_on_stream">이 노래를 좋아요 표시했습니다.</string>
+    <string name="description_line_account">"LINE 앱에서 보여지는
+WAVE 계정의 프로필입니다."</string>
+    <string name="description_line_app_install">LINE 앱 설치 후 사용 가능합니다. 설치하시겠어요?</string>
+    <string name="description_line_example_1">\"클로바, 라인보내줘\"</string>
+    <string name="description_line_example_2">\"클로바, [친구 이름]에게 라인보내줘\"</string>
+    <string name="description_line_example_3">\"클로바, 라인 읽어줘\"</string>
+    <string name="description_line_example_4">\"클로바, Stop\"</string>
+    <string name="description_line_messenger_not_available">LINE 가족계정 기능은 곧 공개됩니다.</string>
+    <string name="description_line_oa">LINE Clova 공식 계정을 LINE 친구 추가하시면 LINE Clova로부터 새로운 소식, 이벤트 정보 등을 메시지로 받아볼 수 있습니다.</string>
+    <string name="description_line_oa_add_done">"LINE 친구 추가가 완료되었습니다.
+LINE Clova가 보내는 메시지는
+LINE App에서 확인하실 수 있습니다."</string>
+    <string name="description_line_oa_setting">공식 어카운트에서는 Clova의 신기능, 판매정보 등, 최신정보를 알려드립니다.</string>
+    <string name="description_location_confirm">WAVE의 위치를 확인해주세요</string>
+    <string name="description_location_does_not_match">&lt;u>위치가 다른가요?&lt;/u></string>
+    <string name="description_location_info">위치정보 활용을 허용해주세요</string>
+    <string name="description_location_info_hint">"주변 정보나 날씨 안내를 위해
+현위치를 웨이브 위치로 설정합니다."</string>
+    <string name="description_login_canceled">로그인이 취소되었습니다</string>
+    <string name="description_logout_failed">로그아웃에 실패했습니다.</string>
+    <string name="description_logout_from_extension">"%1$s에서 로그아웃 하시겠습니까?
+등록된 기기는 삭제됩니다."</string>
+    <string name="description_long_press_to_talk">"마이크 버튼을
+누른 상태로 말해주세요"</string>
+    <string name="description_max_readable_name">최대 5개까지만 선택 가능합니다.</string>
+    <string name="description_min_readable_name">최소한 하나의 호출 이름을 가지고 있어야 합니다.</string>
+    <string name="description_morning_starter">아침에 알람을 끄면 컨텐츠 자동 재생</string>
+    <string name="description_music_device_select_for_start">재생할 기기를 선택해주세요.</string>
+    <string name="description_n_devices_connected">%1$d개 연결중</string>
+    <string name="description_naver_id_login_failed">네이버 아이디로 로그인에 실패하였습니다.</string>
+    <string name="description_naver_id_login_failed_certification_error">인증서 오류로 인해 네이버 아이디로 로그인에 실패하였습니다.</string>
+    <string name="description_naver_id_login_failed_server_error">서버 오류로 인해 네이버 아이디로 로그인에 실패하였습니다.</string>
+    <string name="description_naver_id_login_failed_user_cancel">로그인을 중지하셨습니다.</string>
+    <string name="description_need_permission_to_change_brightness">화면밝기를 조절하려면 설정 권한이 필요합니다. 권한을 허용해주세요.</string>
+    <string name="description_need_permission_to_change_ring_mode">벨소리 모드를 변경하려면 방해금지모드 권한이 필요합니다. 권한을 허용해주세요.</string>
+    <string name="description_network_error">"네트워크에 연결할 수 없습니다
+네트워크 상태를 확인해주세요"</string>
+    <string name="description_no_devices_connected">연결하기</string>
+    <string name="description_no_more_recommended_songs">더 이상 추천할 곡이 없습니다.</string>
+    <string name="description_no_notifications">아직 새로운 알림이 없어요</string>
+    <string name="description_no_playing_info">재생중인 곡이 없습니다.</string>
+    <string name="description_no_playing_music">재생중인 곡이 없습니다.</string>
+    <string name="description_order_example_stb">\"%1$s, 셋톱박스 꺼줘\"</string>
+    <string name="description_order_example_tv">"\"%1$s, 텔레비전 꺼줘\"
+\"%2$s, 텔레비전 볼륨 올려\"
+\"%3$s, 텔레비전 2번 틀어줘\"
+\"%4$s, 10분 뒤에 텔레비전 켜줘\""</string>
+    <string name="description_pairing_available">페어링 가능</string>
+    <string name="description_pairing_new_device">\"%1$s, 블루투스 페어링해줘\"</string>
+    <string name="description_pairing_new_device_ready">WAVE와 연결하려는 기기의 블루투스 목록에서 \"%1$s\"을 선택하세요.</string>
+    <string name="description_pairing_new_device_tip">"WAVE에 음성으로 명령하거나 '페어링 하기'
+버튼을 눌러 연결 가능한 기기를 찾습니다."</string>
+    <string name="description_permission_audio">AI인 클로바와의 음성 대화를 위해 오디오 기능에 접근합니다.</string>
+    <string name="description_permission_location">날씨, 주변 맛집 정보, 교통상황과 관련된 정보를 알려드려요.</string>
+    <string name="description_permission_needed">&lt;font color=#19c080>권한 허용&lt;/font> 후 앱을&lt;br/>사용하실 수 있습니다</string>
+    <string name="description_play_music_by_speaker">스피커로 음악을 재생할까요?</string>
+    <string name="description_please_turn_on_notification">알림을 켜주세요</string>
+    <string name="description_preempted_shortcut">"다른 단축버튼에 지정된 항목입니다.
+다시 선택해주세요."</string>
+    <string name="description_push_notification">Clova가 보내는 소식을 앱에서 실시간으로 알림 받을 수 있습니다.</string>
+    <string name="description_rejected_event_push">이벤트 소식 알림 서비스 수신 거부 처리가 완료 되었습니다.</string>
+    <string name="description_remote_controller_action_send">WAVE에서 %1$s로 신호를 보냅니다.</string>
+    <string name="description_remote_controller_work">"위의 %1$s 버튼을 눌러
+%2$s가 작동하는지 확인하세요"</string>
+    <string name="description_remote_controller_work_again">"위의 %1$s 버튼을 다시 눌러
+%2$s가 작동하는지 확인하세요"</string>
+    <string name="description_remote_controller_work_confirm">버튼이 작동하나요?</string>
+    <string name="description_remove_birthday_confirm">저장된 생년월일 정보를 삭제하시겠습니까?</string>
+    <string name="description_remove_controller">%s 삭제</string>
+    <string name="description_remove_controller_confirm">%1$s 리모컨을 삭제하시겠습니까?</string>
+    <string name="description_removed_track_on_stream">이 노래를 재생목록에서 삭제했습니다.</string>
+    <string name="description_repeat_this_track">이 노래를 반복해서 재생합니다.</string>
+    <string name="description_reset_wifi">"다시 설정하려면
+제품 하단의 마이크 음소거 버튼을
+3초 이상 누른 후 '다음'을 선택하세요."</string>
+    <string name="description_scan_wifi">%1$s에 연결할 와이파이를 찾고있어요</string>
+    <string name="description_search_manufacturer">%1$sのメーカーを検索してください。</string>
+    <string name="description_search_stb_manufacturer">셋톱박스 제조사를 검색해보세요</string>
+    <string name="description_search_tv_manufacturer">TV 제조사를 검색해보세요</string>
+    <string name="description_search_with_address_building">도로명 주소 건물명 또는 지번 입력</string>
+    <string name="description_select_channel">채널을 선택해주세요.</string>
+    <string name="description_select_manufacturer">%1$s메이커 선택</string>
+    <string name="description_select_music_service">"클로바에서 사용할 음악 서비스를 선택해주세요.
+계정 연동 후 사용할 수 있습니다."</string>
+    <string name="description_select_settop_manufacturer">셋톱박스 제조사 선택</string>
+    <string name="description_select_tv_manufacturer">TV 제조사 선택</string>
+    <string name="description_send_sms_complete">"메시지 전송이
+완료 되었습니다."</string>
+    <string name="description_send_voice_to_wave_failed_dnd">방해금지 모드일 때는 음성메시지를 보낼 수 없습니다.</string>
+    <string name="description_send_voice_to_wave_message">"버튼을 누른 채로 말해보세요.
+손을 떼면 말한 내용이 스피커로 전송됩니다."</string>
+    <string name="description_send_voice_to_wave_succeess">전송되었습니다.</string>
+    <string name="description_session_expired">로그인이 해제되었습니다. 다시 로그인을 시도합니다.</string>
+    <string name="description_set_call_name">"클로바가 부를
+당신의 이름을 정해주세요"</string>
+    <string name="description_settop_remote_controller_add">셋톱박스가 있다면 지금 등록하세요. TV와 셋톱박스가 한 명령으로 제어되어 편리합니다.</string>
+    <string name="description_shall_send_voice_message">스피커로 음성을 보낼까요?</string>
+    <string name="description_shall_you_change_music_service_message">"'%1$s' 으로 서비스를 변경하면 기존 서비스와의 연동이 해제됩니다."</string>
+    <string name="description_shall_you_change_music_service_title">뮤직 서비스를 변경할까요?</string>
+    <string name="description_similar_names">"연락처에 있는
+비슷한 이름입니다."</string>
+    <string name="description_similar_names_none">"연락처를 찾을 수 없습니다.
+연락처의 이름으로 다시 말씀해주세요."</string>
+    <string name="description_smart_home">"TV/셋톱박스 리모컨을 등록하면 전원,
+채널, 볼륨을 음성으로 제어할 수 있습니다."</string>
+    <string name="description_speaker_is_dnd_mode_now">지금 스피커는 방해금지 모드입니다.</string>
+    <string name="description_speaker_needs_firmware_update">스피커의 버전이 낮아 해당 기능을 사용하실 수 없습니다. 스피커는 오전에 최신버전으로 업데이트 됩니다.</string>
+    <string name="description_speaker_unsupported">Friends에서는 아직 해당 기능을 사용하실 수 없습니다. 준비 중이니 조금만 기다려주세요.</string>
+    <string name="description_success_play_music">노래를 재생합니다.</string>
+    <string name="description_talking_guide_hint">"아래로 내리면
+도움말을 볼 수 있어요"</string>
+    <string name="description_tos_cancelation_alert_dialog">약관에 동의하지 않으면 클로바 앱을 사용하실 수 없습니다.</string>
+    <string name="description_turn_on_bluetooth_to_connect">웨이브 연결을 위해서 블루투스를 켜시겠어요?</string>
+    <string name="description_turn_on_location_service">위치 서비스가 꺼져있습니다. 기기 설정에서 절전모드(Wi-Fi 및 모바일 네트워크) 이상의 위치 인식 방식을 선택해주세요.</string>
+    <string name="description_turn_on_notification_guide">스마트폰 알림 설정에서 네이버 클로바앱 알림을 켜주세요.</string>
+    <string name="description_tutorial_call_sally">"이번에는
+\"클로바\" 라고
+불러보세요"</string>
+    <string name="description_tutorial_call_sally_error">"이해하지 못했어요
+다시 한 번
+\"클로바\" 라고
+불러보세요"</string>
+    <string name="description_tutorial_click_mic_button">"마이크 버튼을
+눌러보세요"</string>
+    <string name="description_tutorial_click_mic_button_again">"\"클로바\"
+라고 부르거나
+마이크 버튼을
+눌러보세요"</string>
+    <string name="description_tutorial_click_mic_button_again_error">"이해하지 못했어요
+마이크 버튼을
+다시 눌러보세요"</string>
+    <string name="description_tutorial_click_mic_button_error">"이해하지 못했어요
+마이크 버튼을
+다시 눌러보세요"</string>
+    <string name="description_tutorial_complete">"잘했어요!
+이제 클로바를
+사용해보세요"</string>
+    <string name="description_tutorial_gourmet_hint">"\"근처 맛집 알려줘\"
+라고 말해보세요"</string>
+    <string name="description_tutorial_gourmet_hint_query">근처 맛집 알려줘</string>
+    <string name="description_tutorial_intro">"환영합니다!
+간단한 사용법부터
+알려드릴게요"</string>
+    <string name="description_tutorial_let_me_play_the_music">"차분한 음악을
+추천해 드릴게요"</string>
+    <string name="description_tutorial_music_hint">"\"차분한 음악 들려줘\"
+라고 말해보세요"</string>
+    <string name="description_tutorial_music_hint_query">차분한 음악 들려줘</string>
+    <string name="description_tutorial_not_recognized">"음성이 인식되지
+않았습니다"</string>
+    <string name="description_tutorial_quit">사용법 배우기를 그만할까요?</string>
+    <string name="description_tutorial_quit_message">다시 배우기 모드로 진입할 수 없습니다.</string>
+    <string name="description_tutorial_say_like_this">이렇게 말해보세요</string>
+    <string name="description_tutorial_success_1">"잘했어요!
+다음을 눌러보세요"</string>
+    <string name="description_tutorial_success_2">"참 쉽죠?
+다음 단계도 쉬워요"</string>
+    <string name="description_tutorial_weather_hint">"\"오늘 날씨 어때\"
+라고 말해보세요"</string>
+    <string name="description_tutorial_weather_hint_query">오늘 날씨 어때</string>
+    <string name="description_tv_remote_controller_add">TV가 있다면 지금 등록하세요. TV와 셋톱박스가 한 명령으로 제어되어 편리합니다.</string>
+    <string name="description_unhealthy_network">서비스가 원활하지 않습니다. 영어 스피킹을 종료합니다.</string>
+    <string name="description_unknown_host">네트워크에 연결할 수 없습니다. 네트워크 상태를 확인해주세요.</string>
+    <string name="description_usage_wave_answer">WAVE가 소리로 대답합니다</string>
+    <string name="description_usage_wave_ask">말을 걸어 보세요</string>
+    <string name="description_usage_wave_ask_exmaple">\"지금 몇 시야?\"</string>
+    <string name="description_usage_wave_call">먼저 이름을 부르세요</string>
+    <string name="description_usage_wave_ringing">(띠링)</string>
+    <string name="description_use_do_not_disturb_mode">알람, 타이머를 제외한 알림의 소리를 끕니다.</string>
+    <string name="description_userqna_already_exist_question_message">동일한 명령어가 이미 등록되어 있어요.</string>
+    <string name="description_userqna_already_exist_question_title">명령어를 확인해주세요.</string>
+    <string name="description_userqna_blank">아직 내 명령어가 없어요</string>
+    <string name="description_userqna_block_keyword_message">앗, 클로바가 할 수 없는 말이 들어있네요.</string>
+    <string name="description_userqna_block_keyword_title">대답을 확인해주세요.</string>
+    <string name="description_userqna_one_answer_needed_message">내 명령어에 최소 하나의 대답은 남겨 주세요.</string>
+    <string name="description_userqna_one_answer_needed_title">이 대답은 삭제할 수 없어요.</string>
+    <string name="description_userqna_remove_question_message">이 명령어와 명령어의 대답이 모두 삭제됩니다.</string>
+    <string name="description_userqna_remove_question_title">삭제 하시겠어요?</string>
+    <string name="description_voice_recording_example">"클로바,
+신나는 음악 틀어줘"</string>
+    <string name="description_voice_recording_ready">준비 중이에요</string>
+    <string name="description_voice_recording_started">듣고 있어요</string>
+    <string name="description_voice_recording_thinking">생각 중이에요</string>
+    <string name="description_wave_authentication">서비스 인증 중입니다</string>
+    <string name="description_wave_call_sound_effect">"호출명을 부른 후 기기에서 나오는 효과음을
+끄거나 켤 수 있습니다."</string>
+    <string name="description_wave_connect_1">"전원 어댑터를 연결하고, WAVE를 켜주세요.
+전원이 켜지면 하단의 전원버튼에 표시등이
+들어옵니다. WAVE가 이미 켜져있다면
+상단의 버튼을 터치해 WAVE를 깨워주세요."</string>
+    <string name="description_wave_connect_2">"사용중인 WAVE의 설정을 변경하려면
+하단의 마이크 음소거 버튼을 3초간 눌러 WAVE를
+설정 모드로 만들어주세요."</string>
+    <string name="description_wave_connect_3">"WAVE가 모바일기기 근처에 있고
+사이에 큰장애물이 없는지 확인해주세요."</string>
+    <string name="description_wave_connect_canceled">WAVE 연결이 취소되었습니다.</string>
+    <string name="description_wave_device_connected">%1$s 연결 끝!</string>
+    <string name="description_wave_device_found">%1$s 찾았어요</string>
+    <string name="description_wave_device_location_dialog_body">주변 정보나 날씨 안내를 위해 현위치[%1$s]를 기기 위치로 설정합니다.</string>
+    <string name="description_wave_device_location_dialog_body_2">현위치를 사용할 수 없어 네이버 위치로 안내합니다.</string>
+    <string name="description_wave_device_no_light">조명이 보이지 않을 때</string>
+    <string name="description_wave_device_no_light_hint">"기기 하단의 전원버튼을 눌러
+웨이브를 켜주세요."</string>
+    <string name="description_wave_device_not_found">%1$s 찾지 못했습니다</string>
+    <string name="description_wave_device_orange_light_not_moving">주황색 조명이 움직이지 않을 때</string>
+    <string name="description_wave_device_orange_light_not_moving_hint">"그림처럼 웨이브 하단에 주황색 조명이
+돌아가고 있는지 확인해주세요."</string>
+    <string name="description_wave_device_reset">"기기를 초기화하시겠습니까?
+기기에 설정된 정보가 삭제되며, Wi-Fi 연결이 해제됩니다."</string>
+    <string name="description_wave_device_setting_wait">"설정을 완료하고 있습니다
+잠시만 기다려주세요"</string>
+    <string name="description_wave_device_white_light_moving">하얀색 조명이 움직일 때</string>
+    <string name="description_wave_device_white_light_moving_hint">"웨이브를 켜는 중입니다.
+주황색 조명이 들어오면 재시도 하세요."</string>
+    <string name="description_wave_guide_1">&lt;font color=#1c90d3>\"%1$s\"&lt;br>\"10분 타이머해줘\"&lt;/font></string>
+    <string name="description_wave_guide_2">&lt;font color=#1c90d3>\"%1$s, 뉴스 틀어줘\"&lt;br />\"%1$s, 뉴스 꺼줘\"&lt;/font></string>
+    <string name="description_wave_guide_2_jp">何か音楽を再生して</string>
+    <string name="description_wave_guide_3">&lt;font color=#1c90d3>\"%1$s, 음악 틀어줘\"&lt;br />\"%1$s, 음악 꺼줘\"&lt;font></string>
+    <string name="description_wave_guide_3_jp">この曲の曲名を教えて</string>
+    <string name="description_wave_guide_4_1">%1$s&lt;br/>&lt;font color=#1c90d3>음악 꺼줘&lt;/font></string>
+    <string name="description_wave_guide_4_2">\"지금 몇 시야\"</string>
+    <string name="description_wave_guide_4_jp">今日の天気を教えて</string>
+    <string name="description_wave_guide_5_1">\"오늘 날씨 어때\"</string>
+    <string name="description_wave_guide_5_2">\"아침 8시에 깨워줘\"</string>
+    <string name="description_wave_guide_6_1">%1$s&lt;br/>&lt;font color=#1c90d3>뉴스 들려줘&lt;/font></string>
+    <string name="description_wave_guide_6_2">%1$s&lt;br/>&lt;font color=#1c90d3>뉴스 꺼줘&lt;/font></string>
+    <string name="description_wave_guide_follow">직접 따라해보세요.</string>
+    <string name="description_wave_guide_header">"%1$s、名前を歌ってみてください。
+WAVEが声で返事します。"</string>
+    <string name="description_wave_guide_multi">"초록 불일 때는
+ %1$s를 부르지 않아도 돼요."</string>
+    <string name="description_wave_guide_multi_double_title_1">소리를 끄거나 켤 땐</string>
+    <string name="description_wave_guide_multi_double_title_2">짧게 누르기</string>
+    <string name="description_wave_guide_multi_double_title_3">클로바를 부르지 않고 말을 걸 땐</string>
+    <string name="description_wave_guide_multi_double_title_4">길게 누르기</string>
+    <string name="description_wave_ir_menu_update_soon">音声で照明を操作する赤外線リモコン機能は現在準備中です。</string>
+    <string name="description_wave_ir_network_error">네트워크 오류로 인해 처음 단계부터 다시 설정을 시작합니다.</string>
+    <string name="description_wave_line_account_delete">삭제시 WAVE 라인 메신저 설정을 새로 해야합니다.</string>
+    <string name="description_wave_line_cannot_use_this_friend_name">"현재 설정된 이름으로 사용할 수 없습니다.
+호출이 가능한 이름으로 설정해주세요."</string>
+    <string name="description_wave_line_delete_history">"삭제시 모든 대화 히스토리가
+삭제됩니다."</string>
+    <string name="description_wave_line_friends_name_set_done">"친구 이름을 설정했습니다. 이렇게 말해보세요.
+\"%1$s에게 LINE보내줘\""</string>
+    <string name="description_wave_message_notification">메시지 수신시 WAVE가 보라색으로 깜빡입니다.</string>
+    <string name="description_wave_reset_canceled">WAVE의 네트워크 재설정이 취소되었습니다.</string>
+    <string name="description_wave_share_account">"이 계정을 등록한 사용자에게만
+WAVE로 메시지를 보낼 수 있습니다."</string>
+    <string name="description_wave_shortcut_1">"단축버튼 2번과 3번에
+음악 재생목록을 지정할 수 있어요"</string>
+    <string name="description_wave_shortcut_2">재생목록을 지정할 수 있어요.</string>
+    <string name="description_wave_shortcut_not_in_service">"재생목록 지정은 준비 중인 기능입니다.
+다음 업데이트를 기다려주세요."</string>
+    <string name="description_wave_smart_home_help">"화면의 버튼이 작동하지 않는다면
+아래항목을 확인해보세요."</string>
+    <string name="description_wave_smart_home_help_1">WAVE와 TV/셋톱박스 사이가 너무 멀지 않은지 확인해주세요.</string>
+    <string name="description_wave_smart_home_help_2">WAVE와 TV/셋톱박스 사이에 큰 장애물이 없는지 확인해주세요.</string>
+    <string name="description_wave_smart_home_help_3">TV/셋톱박스의 전원 선이 잘 연결되었는지 확인해주세요.</string>
+    <string name="description_wave_smart_home_help_4">제조사를 다시 확인하고 선택해주세요.</string>
+    <string name="description_wave_state_light_1">"전원 어댑터를 연결하고, 디바이스를 켜주세요.
+전원이 켜지면 뒷면의 전원 LED에 표시등이 들어옵니다.
+디바이스가 이미 켜져있다면 아무버튼을 눌러 디바이스를 깨워주세요."</string>
+    <string name="description_wave_state_light_2">"사용중인 디바이스의 설정을 변경하려면
+하단의 마이크 음소거 버튼을 3초간 눌러 디바이스를 설정 모드로 만들어주세요."</string>
+    <string name="description_wave_state_light_3">"디바이스가 모바일기기 근처에 있고 사이에
+큰 장애물이 없는지 확인해주세요."</string>
+    <string name="description_wave_usage_alarm_default">"\"毎日8時にアラーム鳴らして\"
+\"10分後にアラーム鳴らして\""</string>
+    <string name="description_wave_usage_calendar_default">"\"今日の予定を教えて\"
+\"明日午後の予定を教えて\"
+\"今週の予定を教えて\"
+\"週末の予定を教えて\"
+\"12月1日の予定を教えて\""</string>
+    <string name="description_wave_usage_chat_default">"\"音量を上げて, 音量を下げて\"
+\"織田信長って誰？\"
+\"いま何時？\"
+\"今日は何曜日？\"
+\"Bluetoothペアリングを開始\"
+\"Bluetooth接続を解除\""</string>
+    <string name="description_wave_usage_fortune_default">"\"今日の運勢を教えて\"
+\"山羊座の運勢を教えて\"
+\"今日のラッキーアイテムは？\""</string>
+    <string name="description_wave_usage_guide_title_1">"%1$s를 부른 후 '띠링'
+소리가 들리면 말을 걸어보세요."</string>
+    <string name="description_wave_usage_ir_default">"\"テレビをつけて\"
+\"テレビを消して\"
+\"テレビのチャンネルを変えて\"
+\"テレビの音量を下げて\""</string>
+    <string name="description_wave_usage_messenger_default">"\"LINE送って\"
+\"お母さんにLINE送って\"
+\"LINE読んで\"
+\"新しいLINE読んで\""</string>
+    <string name="description_wave_usage_music_default">"\"西野カナの曲をかけて\"
+\"何か音楽かけて\""</string>
+    <string name="description_wave_usage_news_default">"\"今日のニュースを教えて\"
+\"スポーツニュースを教えて\""</string>
+    <string name="description_wave_usage_radio_default">"\"ラジオをつけて\"
+\"TBSラジオをかけて\"
+\"ラジオ局を次にして\"
+\"今のラジオ局はなに？\"
+\"ラジオ止めて\""</string>
+    <string name="description_wave_usage_weather_default">"\"渋谷区の天気は\"
+\"台風情報を教えて\""</string>
+    <string name="description_wave_while_wifi_connect">와이파이 연결 중입니다.</string>
+    <string name="description_wave_wifi_connect_done">와이파이를 연결했어요</string>
+    <string name="description_wave_wifi_connect_time">최대 2분이 걸릴 수 있습니다.</string>
+    <string name="description_wave_wifi_incorrect_password">비밀번호가 맞지 않습니다. 다시 입력해주세요.</string>
+    <string name="description_wave_wifi_network_not_connected">네트워크 연결에 실패하였습니다.</string>
+    <string name="description_wave_wifi_network_not_found">네트워크를 찾지 못했습니다.</string>
+    <string name="description_wave_wifi_reset_done">WAVE 연결 끝!</string>
+    <string name="description_wave_wifi_server_auth_failed">인증에 실패하였습니다.</string>
+    <string name="description_while_find_device">%1$s 찾는 중이에요</string>
+    <string name="description_while_find_device_hint">"하단에 주황색 조명이 깜빡이는지
+확인해주세요."</string>
+    <string name="description_wifi_connection">사용할 수 없습니다. Wi-Fi를 확인해보세요.</string>
+    <string name="description_wifi_not_connected">와이파이가 연결되지 않았어요</string>
+    <string name="description_wifi_not_found">%1$s에 연결할 와이파이를 찾지 못했습니다.</string>
+    <string name="description_you_can_ask_to_clova">%1$s에게 이런 걸 물어볼 수 있어요</string>
+    <string name="dev_activity_main_edittext_query_text_input_content_hint">입력하세요</string>
+    <string name="dev_activity_main_textview_query_pending_result_message_format">"“%1$s”
+찾는중"</string>
+    <string name="dev_activity_main_textview_query_voice_input_message_default">무엇을 도와드릴까요?</string>
+    <string name="dev_activity_main_textview_query_voice_input_message_format">"“%1$s”
+"</string>
+    <string name="dev_activity_main_textview_recommend_query_format">“%1$s”</string>
+    <string name="dev_home_textview_no_history">"아직 히스토리가 없습니다
+편하게 물어보세요"</string>
+    <string name="dev_update_complete_title">%1$s 업데이트 완료</string>
+    <string name="dev_update_processing_title">%1$s 업데이트 중...</string>
+    <string name="dev_update_start_sub_title">"%1$s에 충전기를 연결해주시고,
+완료전까지 분리하지 마세요."</string>
+    <string name="dev_update_start_title">%1$s 업데이트 시작</string>
+    <string name="device_add">디바이스 추가</string>
+    <string name="device_add_desc">"클로바가 탑재된
+새로운 기기가 있다면
+추가해보세요."</string>
+    <string name="device_add_desc_first">"클로바가 탑재된 기기를 가지고 있다면
+연결하기 버튼을 눌러보세요."</string>
+    <string name="device_add_title">디바이스</string>
+    <string name="device_assistant_login_error">클로바앱 로그인 후 디바이스 도우미앱을 사용해주세요.</string>
+    <string name="device_assistant_network_error">네트워크 상태 확인 후 디바이스 도우미앱을 사용해주세요.</string>
+    <string name="device_init_bluetooth_connect_fail">디바이스 Bluetooth 연결에 오류가 발생했습니다. 다시 시도해 주세요.</string>
+    <string name="device_init_bluetooth_not_support">Bluetooth 어댑터를 찾을 수 없습니다. Bluetooth 인터페이스가 있어야 초기화를 진행할 수 있습니다.</string>
+    <string name="device_init_cdk_device_pre_auth_fail">기기 인증에 실패했습니다.</string>
+    <string name="device_init_complete_brown_message">BROWN 연결 완료!</string>
+    <string name="device_init_complete_doraemon_message">DORAEMON 연결 완료!</string>
+    <string name="device_init_complete_fall_back_message">기기 연결 완료!</string>
+    <string name="device_init_complete_friends_plus_message">프렌즈+ 연결 완료!</string>
+    <string name="device_init_complete_minions_message">MINIONS 연결 완료!</string>
+    <string name="device_init_complete_sally_message">SALLY 연결 완료!</string>
+    <string name="device_init_complete_usamaru_message">USAMARU 연결 완료!</string>
+    <string name="device_init_complete_wave_message">WAVE 연결 완료!</string>
+    <string name="device_init_server_auth_fail">기기를 Clova Platform에 인증하는 데 실패했습니다. 다시 시도해 주세요.</string>
+    <string name="device_init_uplus_connect_fail">U+tv와 연결이 되지 않았습니다. 프렌즈+ > U+tv 설정 메뉴에서 확인해 주세요.</string>
+    <string name="device_location">기기위치</string>
+    <string name="device_name_0">BROWN</string>
+    <string name="device_name_1">나의 BROWN</string>
+    <string name="device_name_2">우리집 BROWN</string>
+    <string name="device_name_3">거실 BROWN</string>
+    <string name="device_name_4">침실 BROWN</string>
+    <string name="device_name_5">부엌 BROWN</string>
+    <string name="device_name_6">사무실 BROWN</string>
+    <string name="device_name_setting">기기 이름 설정</string>
+    <string name="device_search_brown">BROWN을 찾았어요.</string>
+    <string name="device_search_doraemon">DORAEMON을 찾았어요.</string>
+    <string name="device_search_friends_plus">프렌즈+를 찾았어요.</string>
+    <string name="device_search_minions">MINIONS를 찾았어요.</string>
+    <string name="device_search_sally">SALLY를 찾았어요.</string>
+    <string name="device_search_subtitle">"이제 기기에 연결할
+와이파이를 찾아볼게요."</string>
+    <string name="device_search_uplus_subtitle">"U+ ID 로그인한 후
+기기에 연결할 와이파이를
+선택해 주세요."</string>
+    <string name="device_search_usamaru">USAMARU를 찾았어요.</string>
+    <string name="device_search_wave">WAVE를 찾았어요.</string>
+    <string name="device_searching">기기를 찾는 중..</string>
+    <string name="device_searching_cancel">연결취소</string>
+    <string name="device_searching_help">도움말 보기</string>
+    <string name="device_searching_subtitle">"기기 하단에 주황색 조명이
+깜빡이는지 확인해주세요"</string>
+    <string name="device_select_connect_error">기기가 네트워크에 연결되어 있지 않습니다. 기기의 네트워크 상태를 확인해주세요.</string>
+    <string name="device_select_error">서비스가 원활하지 않습니다. 잠시 후 다시 시도해주세요</string>
+    <string name="device_setting">기기설정</string>
+    <string name="device_tab_voice_select">목소리 선택</string>
+    <string name="dialog_device_title">출력기기 선택</string>
+    <string name="dialog_msg_app_music_shall_play">WAVE에서 재생 중인 음악은 중지됩니다.</string>
+    <string name="dialog_msg_app_music_stopped">WAVE에서 음악 재생을 시작하여 현재 기기에서 재생 중인 음악은 중지되었습니다.</string>
+    <string name="dialog_title_app_music_shall_play">앱에서 음악을 재생할까요?</string>
+    <string name="direct_input">직접 입력하기</string>
+    <string name="disconnect">연결 해제</string>
+    <string name="disconnect_wifi">Wi-Fi가 연결되지 않았어요.</string>
+    <string name="disconnect_wifi_desc">"재설정 하려면 제품 뒷면의
+마이크 음소거 버튼을 5초 이상
+누른 후 '다음'을 선택하세요."</string>
+    <string name="do_not_disturb">방해금지</string>
+    <string name="do_not_disturb_doing">방해금지 모드 실행 중</string>
+    <string name="do_not_disturb_doing_desc">"방해금지 모드 실행 중 입니다
+스피커로 메세지를 보내시겠어요?"</string>
+    <string name="doraemon_connect_popup_title">"DORAEMON을 발견했어요.
+연결하시겠어요?"</string>
+    <string name="except_alarm_timer">알람 타이머를 제외한 모든 알림의 소리를</string>
+    <string name="external_speaker">외부 스피커</string>
+    <string name="facebook_app_id">353851521679190</string>
+    <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
+    <string name="firebase_database_url">https://clova-a69b4.firebaseio.com</string>
+    <string name="firmware_version">펌웨어 버전</string>
+    <string name="friends_plus_connect_popup_title">"프렌즈+를 발견했어요.
+연결하시겠어요?"</string>
+    <string name="gcm_defaultSenderId">1031218777796</string>
+    <string name="general_add">추가</string>
+    <string name="general_add_long">추가하기</string>
+    <string name="general_agree">동의</string>
+    <string name="general_assistant_name">클로바</string>
+    <string name="general_assistant_plain_name">클로바</string>
+    <string name="general_cancel">취소</string>
+    <string name="general_close">닫기</string>
+    <string name="general_clova">NAVER Clova</string>
+    <string name="general_confirm">확인</string>
+    <string name="general_connect">연결</string>
+    <string name="general_continue">계속</string>
+    <string name="general_count_piece">%1$d개</string>
+    <string name="general_day">일</string>
+    <string name="general_default">기본</string>
+    <string name="general_disagree">비동의</string>
+    <string name="general_disagree_2">동의 안 함</string>
+    <string name="general_disconnect">연결 해제</string>
+    <string name="general_done">완료</string>
+    <string name="general_edit">수정</string>
+    <string name="general_find">찾기</string>
+    <string name="general_finish">종료</string>
+    <string name="general_in_use">사용중</string>
+    <string name="general_info">정보</string>
+    <string name="general_install">설치</string>
+    <string name="general_later">나중에</string>
+    <string name="general_month">월</string>
+    <string name="general_name_title">%1$s님</string>
+    <string name="general_next">다음</string>
+    <string name="general_no">아니오</string>
+    <string name="general_not_have">없음</string>
+    <string name="general_not_in_use">사용 안 함</string>
+    <string name="general_not_save">저장 안함</string>
+    <string name="general_not_use">사용 안 함</string>
+    <string name="general_off">끄기</string>
+    <string name="general_off_eng">OFF</string>
+    <string name="general_on">켜기</string>
+    <string name="general_on_eng">ON</string>
+    <string name="general_or">또는</string>
+    <string name="general_remove">삭제</string>
+    <string name="general_retry">재시도</string>
+    <string name="general_save">저장</string>
+    <string name="general_send">전송</string>
+    <string name="general_skip">건너뛰기</string>
+    <string name="general_start">시작하기</string>
+    <string name="general_today">오늘</string>
+    <string name="general_tutorial">알아보기</string>
+    <string name="general_undo">Undo</string>
+    <string name="general_wave">WAVE</string>
+    <string name="general_year">년</string>
+    <string name="general_yes">네</string>
+    <string name="geo_api_key">AIzaSyA6MPQ0j8208sDbCwFG7671ZxmSiPUtmtw</string>
+    <string name="google_api_key">AIzaSyCPHO6ENYVEt_o9xINmqIpe1DzR6gvXyCQ</string>
+    <string name="google_app_id">1:1031218777796:android:4c0df8c9f33abb3a</string>
+    <string name="google_crash_reporting_api_key">AIzaSyCPHO6ENYVEt_o9xINmqIpe1DzR6gvXyCQ</string>
+    <string name="google_storage_bucket">clova-a69b4.appspot.com</string>
+    <string name="help_guide">이용안내</string>
+    <string name="hidden_wifi_popup_item_text0">설정안함</string>
+    <string name="hidden_wifi_popup_item_text1">WPA/WPA2/FT PSK</string>
+    <string name="hidden_wifi_popup_item_text2">WEP</string>
+    <string name="hidden_wifi_popup_item_text3">802.1x EAP</string>
+    <string name="history_weather_ref">네이버 날씨</string>
+    <string name="in_app_browser_menu_open_with_browser">브라우저에서 열기</string>
+    <string name="in_app_browser_menu_refresh">새로 고침</string>
+    <string name="in_app_browser_menu_share_link">링크 공유</string>
+    <string name="info_dnd_now_rest_time_fmt">%1$d시간 %2$d분 남았습니다.</string>
+    <string name="info_dnd_now_rest_time_nofmt_less_than_1m">1분 미만 남았습니다.</string>
+    <string name="kakao_app_key">4ffb13c15e957547e837825a6c0761ad</string>
+    <string name="kitchen">"부엌 "</string>
+    <string name="knowledge_label">지식 iN 자동 전달</string>
+    <string name="label_abbr_friday">금</string>
+    <string name="label_abbr_monday">월</string>
+    <string name="label_abbr_one">한번만</string>
+    <string name="label_abbr_saturday">토</string>
+    <string name="label_abbr_sunday">일</string>
+    <string name="label_abbr_thursday">목</string>
+    <string name="label_abbr_tuesday">화</string>
+    <string name="label_abbr_wednesday">수</string>
+    <string name="label_account">계정</string>
+    <string name="label_account_info">계정 정보</string>
+    <string name="label_account_setting_needed">"가족 계정이 없어 설정할 수 없습니다.
+계정을 새로 만들어 주세요."</string>
+    <string name="label_activity_device_preference_title">%1$s 설정</string>
+    <string name="label_add">추가하기</string>
+    <string name="label_add_answer">대답추가</string>
+    <string name="label_add_ap">네트워크 추가</string>
+    <string name="label_add_name">이름 추가</string>
+    <string name="label_add_new_wave_device">새로운 기기 추가</string>
+    <string name="label_add_oa_friend">LINE Clova 친구 추가</string>
+    <string name="label_add_oa_friend_action">LINE 친구 추가</string>
+    <string name="label_add_remote_controller">%1$s 리모컨을 연결해요</string>
+    <string name="label_add_settop_remote_controller_done">%1$s 리모컨이 등록되었어요</string>
+    <string name="label_add_wave">WAVE 추가</string>
+    <string name="label_age_check">연령 확인</string>
+    <string name="label_agree_with_location_tos">개인정보 수집 및 이용동의 (선택)</string>
+    <string name="label_air_conditioner">エアコン</string>
+    <string name="label_aircon_remote_controller">エアコンのリモコン</string>
+    <string name="label_alarm">알람 설정</string>
+    <string name="label_alarm_delete">알람 삭제</string>
+    <string name="label_alarm_edit">알람편집</string>
+    <string name="label_alarm_music">알람 음악</string>
+    <string name="label_alarm_timer">알람 설정</string>
+    <string name="label_alarm_title_hint">알람 내용을 입력</string>
+    <string name="label_album">앨범</string>
+    <string name="label_albums_count_with_value">%1$d개의 앨범</string>
+    <string name="label_alert_when_answered">"질문이 전달되었습니다.
+답변이 등록되면
+알려드리겠습니다."</string>
+    <string name="label_alerts_alarm_add">알람 추가</string>
+    <string name="label_alerts_alarm_create_failed">알람을 추가 할 수 없습니다</string>
+    <string name="label_alerts_alarm_created">알람을 추가했습니다</string>
+    <string name="label_alerts_alarm_delete_confirm_message">이 알람을 삭제 하시겠습니까?</string>
+    <string name="label_alerts_alarm_delete_failed">요청하신 알람을 삭제 할 수 없습니다</string>
+    <string name="label_alerts_alarm_delete_to_brief">알람 삭제는 브리핑에서 가능합니다</string>
+    <string name="label_alerts_alarm_deleted">알람을 삭제 했습니다</string>
+    <string name="label_alerts_alarm_duplicate_message">같은 시간에 이미 설정된 알람/타이머가 있습니다 다른 시간으로 변경해주세요.</string>
+    <string name="label_alerts_alarm_duplicate_title">알람 변경 불가</string>
+    <string name="label_alerts_alarm_select_to_brief">설정된 알람은 브리핑에서 확인할 수 있습니다</string>
+    <string name="label_alerts_reminder_created">리마인더를 추가했습니다</string>
+    <string name="label_alerts_reminder_deleted">리마인더를 삭제했습니다</string>
+    <string name="label_alerts_timer_add">타이머 설정</string>
+    <string name="label_alerts_timer_create_failed">타이머를 설정 할 수 없습니다</string>
+    <string name="label_alerts_timer_created">타이머를 시작합니다</string>
+    <string name="label_alerts_timer_delete_failed">타이머를 종료할 수가 없습니다</string>
+    <string name="label_alerts_timer_deleted">타이머를 종료합니다</string>
+    <string name="label_alerts_timer_edit_exit_confirm_message">타이머를 설정 하시겠습니까?</string>
+    <string name="label_always">항상</string>
+    <string name="label_am">오전</string>
+    <string name="label_app_service_setting">앱 서비스 설정</string>
+    <string name="label_app_version_description">현재 %1$s 최신 %2$s</string>
+    <string name="label_app_version_description_short">현재 %1$s</string>
+    <string name="label_app_version_title">앱 버전</string>
+    <string name="label_artist">아티스트</string>
+    <string name="label_ask">문의하기</string>
+    <string name="label_ask_to_cony_re_register">다른 답변을 찾아드릴까요?</string>
+    <string name="label_ask_to_cony_request">요청하기</string>
+    <string name="label_ask_to_cony_review">답변이 도움이 되셨나요?</string>
+    <string name="label_ask_to_cony_thankyou">도움이 되었다니 저도 기뻐요!</string>
+    <string name="label_audio_channel">오디오 구독 채널</string>
+    <string name="label_audio_clip">오디오 클립 - 동화/오디오북</string>
+    <string name="label_audioclip_in_manage_channel">오디오클립 구독 채널 추가</string>
+    <string name="label_audioclip_subscribe_channel">오디오클립 구독 채널</string>
+    <string name="label_bad">별로예요</string>
+    <string name="label_birthday">생년월일</string>
+    <string name="label_block_friend">차단</string>
+    <string name="label_block_friend_noti">친구를 차단하였습니다.</string>
+    <string name="label_bluetooth">블루투스</string>
+    <string name="label_bluetooth_address">Bluetooth</string>
+    <string name="label_bluetooth_connected">블루투스 연결됨</string>
+    <string name="label_bluetooth_connection_failed">블루투스 연결 실패</string>
+    <string name="label_bluetooth_connection_failed_popup">블루투스 연결에 실패하였습니다. 기기의 전원이나 페어링 준비 상태를 확인해주세요.</string>
+    <string name="label_bluetooth_out">외부 스피커</string>
+    <string name="label_bluetooth_state_off">블루투스 꺼짐</string>
+    <string name="label_breif_calendar_all_day">종일</string>
+    <string name="label_breif_calendar_today">오늘</string>
+    <string name="label_brief">브리핑</string>
+    <string name="label_brief_alarm">알람</string>
+    <string name="label_brief_alarm_delete">알람을 삭제했습니다.</string>
+    <string name="label_brief_calendar">일정</string>
+    <string name="label_brief_calendar_delete">일정을 삭제했습니다.</string>
+    <string name="label_brief_calendar_no_title">(제목없음)</string>
+    <string name="label_brief_command_delete">최근 명령어를 삭제했습니다.</string>
+    <string name="label_brief_memo">메모</string>
+    <string name="label_brief_memo_delete">메모를 삭제했습니다.</string>
+    <string name="label_brief_music_history">음악 히스토리</string>
+    <string name="label_brief_music_taste">취향설정</string>
+    <string name="label_brief_music_taste_desc">"당신의 음악 취향을 가르쳐 주세요
+선곡이 달라집니다"</string>
+    <string name="label_brief_quote">\"</string>
+    <string name="label_brief_recent_command">언제든 물어보세요</string>
+    <string name="label_brief_recommend_command_delete">추천 명령어를 삭제했습니다.</string>
+    <string name="label_brief_reminder">리마인더</string>
+    <string name="label_brief_reminder_delete">리마인더를 삭제했습니다.</string>
+    <string name="label_brief_timer">타이머</string>
+    <string name="label_brief_timer_delete">타이머를 삭제했습니다.</string>
+    <string name="label_brief_title_12_1_1">"%s님
+점심 맛집 궁금하세요?"</string>
+    <string name="label_brief_title_12_1_2">"오늘 점심은
+근처 파스타집 어떠세요?"</string>
+    <string name="label_brief_title_1_6_1">"나른한 오후엔
+따듯한 커피 한 잔"</string>
+    <string name="label_brief_title_1_6_2">"지치고 힘들 땐
+하하 크게 웃어보세요"</string>
+    <string name="label_brief_title_6_12">"%s님
+상쾌한 하루 시작하세요"</string>
+    <string name="label_brief_title_6_6_1">"%s님
+내일 일정 미리 확인하세요"</string>
+    <string name="label_brief_title_6_6_2">"%s님
+기상 알람 해드릴까요?"</string>
+    <string name="label_brief_title_fri">"%s님
+행복한 불금 보내세요!"</string>
+    <string name="label_brief_title_mon">"새로운 한 주
+활기차게 맞이하세요!"</string>
+    <string name="label_brief_title_sat">"즐거운 토요일
+보내고 계신가요?"</string>
+    <string name="label_brief_title_sun">"다가올 한주
+미리 계획을 세워보세요"</string>
+    <string name="label_brief_title_thu">"금요일까지
+딱 하루 남았어요!"</string>
+    <string name="label_brief_view_more">전체 보기</string>
+    <string name="label_briefing">브리핑</string>
+    <string name="label_bt_re_scan">다시 찾기</string>
+    <string name="label_bt_scan_empty">연결 가능한 스피커가 없습니다.&lt;br/>연결하려는 기기의 블루투스를 활성화 한 후&lt;br/>다시 찾기 해주세요.</string>
+    <string name="label_calendar">캘린더</string>
+    <string name="label_calendar_deactivate">カレンダー連動を解除</string>
+    <string name="label_calendar_default_setting">기본 캘린더</string>
+    <string name="label_calendar_link">追加する</string>
+    <string name="label_calendar_naver_enable_desc">누구나 음성으로 일정을 확인 할 수 있으니 주의하세요.</string>
+    <string name="label_calendar_naver_enable_max_count">최대 10개까지만 선택 가능합니다.</string>
+    <string name="label_calendar_naver_enable_title">스피커에서 사용</string>
+    <string name="label_calendar_naver_setting">네이버 캘린더</string>
+    <string name="label_calendar_naver_setting_desc">"WAVE에서 일정 확인시
+선택된 캘린더만 조회 됩니다."</string>
+    <string name="label_calendar_setting">캘린더</string>
+    <string name="label_calendar_setting_desc">"일정 확인시
+선택된 캘린더만 조회 됩니다."</string>
+    <string name="label_calendar_unlink_confirm">解除</string>
+    <string name="label_calendar_view_setting">연동 된 캘린더</string>
+    <string name="label_call_button">단축버튼 1</string>
+    <string name="label_call_keyword_setting">호출명</string>
+    <string name="label_call_name">호출명</string>
+    <string name="label_cancel">취소</string>
+    <string name="label_cancel_connect">연결취소</string>
+    <string name="label_change_user">사용자 전환</string>
+    <string name="label_choose_image">사진 선택</string>
+    <string name="label_clova_home_connect">연결하기</string>
+    <string name="label_clova_home_disconnect">연결끊기</string>
+    <string name="label_clova_home_not_answering">미응답</string>
+    <string name="label_clova_tos">네이버 클로바 서비스 약관</string>
+    <string name="label_connect_device">기기연결</string>
+    <string name="label_connect_extension_guide">"등록하실 기기를 제공하는
+서비스에 먼저 연결해 주세요."</string>
+    <string name="label_connect_now">지금 연결</string>
+    <string name="label_connected">연결됨</string>
+    <string name="label_connected_wifi">연결했던 Wi-Fi</string>
+    <string name="label_connecting">연결중</string>
+    <string name="label_connection_setting">연결 설정</string>
+    <string name="label_cony_answered_to_question">"'%1$s' 답변이 등록되었습니다. 지금 확인해 보세요."</string>
+    <string name="label_date_month_and_day_formatted">%1$d월 %2$d일</string>
+    <string name="label_day_of_week_fri">금요일</string>
+    <string name="label_day_of_week_mon">월요일</string>
+    <string name="label_day_of_week_sat">토요일</string>
+    <string name="label_day_of_week_sun">일요일</string>
+    <string name="label_day_of_week_thu">목요일</string>
+    <string name="label_day_of_week_tue">화요일</string>
+    <string name="label_day_of_week_wed">수요일</string>
+    <string name="label_default_call_name">클로바</string>
+    <string name="label_detail_setting">상세 설정</string>
+    <string name="label_detected_device_info">&lt;font color=#1c90d3>연결 기기 정보&lt;/font></string>
+    <string name="label_device_info">기기 정보</string>
+    <string name="label_device_light">무드등</string>
+    <string name="label_device_location">기기 위치</string>
+    <string name="label_device_location_edit">다른 위치 설정</string>
+    <string name="label_device_location_setting">기기 위치</string>
+    <string name="label_device_location_setting_title">기기 위치 설정</string>
+    <string name="label_device_name">기기 이름</string>
+    <string name="label_device_name_brown">브라운</string>
+    <string name="label_device_name_friends_plus">프렌즈+</string>
+    <string name="label_device_name_sally">샐리</string>
+    <string name="label_device_name_setting">기기 이름 설정</string>
+    <string name="label_device_name_wave">WAVE</string>
+    <string name="label_device_reset">기기 초기화</string>
+    <string name="label_dialog_wifi_id">아이디를 입력하세요.</string>
+    <string name="label_dialog_wifi_password">비밀번호를 입력하세요.</string>
+    <string name="label_disconnect_wave">연결 해제</string>
+    <string name="label_disconnected">연결안됨</string>
+    <string name="label_do_not_disturb">방해금지</string>
+    <string name="label_do_not_disturb_mode">방해금지 모드</string>
+    <string name="label_edit_account_name">이름 변경</string>
+    <string name="label_edit_calendar_all_day">하루종일</string>
+    <string name="label_edit_calendar_end">종료</string>
+    <string name="label_edit_calendar_start">시작</string>
+    <string name="label_edit_calendar_title_hint">제목입력</string>
+    <string name="label_edit_friend_name">친구의 호출명 변경</string>
+    <string name="label_edit_location">위치변경</string>
+    <string name="label_edit_name">클로바가 부르는 이름</string>
+    <string name="label_edit_readable_name">호출 이름 설정</string>
+    <string name="label_empty_alarm">등록 된 알람이 없습니다.</string>
+    <string name="label_empty_calendar">등록 된 일정이 없습니다.</string>
+    <string name="label_empty_memo">등록 된 메모가 없습니다.</string>
+    <string name="label_empty_reminder">등록 된 리마인더가 없습니다.</string>
+    <string name="label_empty_timer">등록 된 타이머가 없습니다.</string>
+    <string name="label_enable_pairing_mode">페어링 하기</string>
+    <string name="label_end_time">종료시간</string>
+    <string name="label_english_chat">영어 대화</string>
+    <string name="label_english_speaking">English Speaking</string>
+    <string name="label_error">오류</string>
+    <string name="label_error_create_shared_account">WAVE LINE계정 생성에 실패하였습니다.</string>
+    <string name="label_everyday">매일</string>
+    <string name="label_extension_connect">계정 연동</string>
+    <string name="label_extension_connected">연동 해지</string>
+    <string name="label_extension_header_description">설명</string>
+    <string name="label_extension_header_example_phrases">호출 방법</string>
+    <string name="label_extension_header_information">정보</string>
+    <string name="label_extension_header_support_clients">이용 가능한 기기</string>
+    <string name="label_extension_menu_privacy_policy">개발자 개인정보 정책</string>
+    <string name="label_extension_menu_terms_of_use">개발자 이용 약관</string>
+    <string name="label_extension_setting">확장 서비스 관리</string>
+    <string name="label_extension_sub_header_category_name">카테고리</string>
+    <string name="label_extension_sub_header_invocation_name">호출명</string>
+    <string name="label_extension_sub_header_optional_info">안내사항</string>
+    <string name="label_fine_dust">미세먼지</string>
+    <string name="label_firmware_version">펌웨어 버전</string>
+    <string name="label_first_ai_speaker">네이버의 첫 인공지능 스피커</string>
+    <string name="label_freshness">최신성</string>
+    <string name="label_friends_connectable_speaker">연결 가능한 스피커</string>
+    <string name="label_friends_connected_speaker">등록된 스피커</string>
+    <string name="label_friends_help">FRIENDS 고객지원</string>
+    <string name="label_friends_home_page">FRIENDS 홈페이지</string>
+    <string name="label_go_to_link_account">로그인 페이지로 이동</string>
+    <string name="label_good">좋아요</string>
+    <string name="label_google_account">Google 계정</string>
+    <string name="label_goto_link">바로 가기</string>
+    <string name="label_help">고객센터</string>
+    <string name="label_hide">숨기기</string>
+    <string name="label_higher">높게</string>
+    <string name="label_home_address">집 주소</string>
+    <string name="label_home_location_save">개인정보 수집 및 이용 동의</string>
+    <string name="label_home_page">제품 홈페이지</string>
+    <string name="label_id_hint">아이디</string>
+    <string name="label_information_provider">정보제공처</string>
+    <string name="label_input_account_info">로그인 정보를 직접 입력</string>
+    <string name="label_input_with_keyboard">키보드로 입력</string>
+    <string name="label_insert_network_ssid">네트워크 이름을 입력하세요</string>
+    <string name="label_intro_start">시작하기</string>
+    <string name="label_introduce_speaker">제품소개</string>
+    <string name="label_iot_device_connected_service">연결 서비스 정보</string>
+    <string name="label_iot_device_detail">기기정보</string>
+    <string name="label_iot_device_example_phrases">명령문 예시</string>
+    <string name="label_iot_device_location">위치</string>
+    <string name="label_iot_device_name">기기명</string>
+    <string name="label_iot_device_service">서비스</string>
+    <string name="label_iot_new_device">기기 추가</string>
+    <string name="label_ir_help">&lt;u>登録フローをチェック&lt;/u></string>
+    <string name="label_it_is_ok">괜찮아요</string>
+    <string name="label_knowledge_in_enable_desc">"일부 질문을 네이버 지식iN에 '클로바 공식 계정'으로 자동 전달하여 더 좋은 답변을 알려드립니다."</string>
+    <string name="label_knowledge_in_enable_title">더 좋은 답변 자동 요청</string>
+    <string name="label_knowledge_in_setting">지식iN 답변 설정</string>
+    <string name="label_knowledge_in_setting_enable_desc">"일부 질문을 네이버 지식iN에 '클로바 공식 계정'으로 전달하고 답변을 받으면 알려드립니다."</string>
+    <string name="label_knowledge_in_setting_enable_title">더 좋은 답변 알림 받기</string>
+    <string name="label_knowledge_in_toast_desc">"지식iN과 함께 30분 안에
+더 좋은 답을 찾으면 알려드릴게요."</string>
+    <string name="label_knowledge_in_toast_done">&lt;font color=#51dc87>지식iN 자동 답변&lt;/font>이 설정되었습니다.&lt;br/>답변 받기는 설정 메뉴에서 제어할 수 있습니다.</string>
+    <string name="label_knowledge_in_toast_title">더 좋은 답변을 원하시나요?</string>
+    <string name="label_let_me_know">알려주세요</string>
+    <string name="label_license">법적고지</string>
+    <string name="label_light">조명</string>
+    <string name="label_light_remote_controller">조명 리모컨</string>
+    <string name="label_like">좋아요</string>
+    <string name="label_line">라인</string>
+    <string name="label_line_device_account_name_length_guide">최대 14자 가능</string>
+    <string name="label_line_login">로그인</string>
+    <string name="label_line_messenger_agreement">LINE 메신저 이용약관 동의</string>
+    <string name="label_line_music">LINE MUSIC</string>
+    <string name="label_line_music_info">LINE MUSIC 정보</string>
+    <string name="label_line_music_new_song">NEW SONGS</string>
+    <string name="label_line_music_ticket_not_on_subscription">산 티켓은 없습니다.</string>
+    <string name="label_line_music_ticket_not_on_subscription_subtitle">티켓을 구입하고 제한 없는 음악 재생을 즐기세요.</string>
+    <string name="label_line_music_ticket_remain_daily">유효기간 %1$s</string>
+    <string name="label_line_music_ticket_remain_hourly">나머지 시간 %1$d시간 %2$d분</string>
+    <string name="label_line_music_top_100">SONGS TOP 100</string>
+    <string name="label_line_setting">LINE 설정</string>
+    <string name="label_line_step_1_description">"계정을 생성하고 대화를 나눌 친구를
+초대하세요. 약관 동의 후 사용 가능합니다."</string>
+    <string name="label_line_step_1_subject">WAVE로 LINE을 사용</string>
+    <string name="label_line_step_2_description">"이 계정으로 메시지를 보내고 받습니다.
+생성된 계정은 나의 LINE 친구로 등록됩니다."</string>
+    <string name="label_line_step_2_subject">새로운 계정을 생성</string>
+    <string name="label_line_step_3_1_description">"친구가 QR 코드를 스캔하면
+WAVE LINE계정을 친구 추가할 수 있습니다."</string>
+    <string name="label_line_step_3_1_subject">QR코드를 스캔</string>
+    <string name="label_line_step_3_description">"이 계정을 등록한 사용자에게만
+WAVE로 메시지를 보낼 수 있습니다."</string>
+    <string name="label_line_step_3_subject">대화할 친구에게 공유</string>
+    <string name="label_line_step_3_title">친구 추가</string>
+    <string name="label_line_step_4_1_title">QR코드</string>
+    <string name="label_line_step_4_description">"친구가 초대를 수락하면 친구의
+이름을 설정해주세요"</string>
+    <string name="label_line_step_4_subject">계정 설정을 완료</string>
+    <string name="label_location_tos">위치정보 이용약관</string>
+    <string name="label_login">로그인</string>
+    <string name="label_logout">로그아웃</string>
+    <string name="label_logout_extension">로그아웃</string>
+    <string name="label_lower">낮게</string>
+    <string name="label_major_brand">주요 브랜드</string>
+    <string name="label_media_sound">미디어 볼륨</string>
+    <string name="label_memo">메모</string>
+    <string name="label_memo_edit">메모편집</string>
+    <string name="label_message_history">아직 대화 히스토리가 없어요</string>
+    <string name="label_minor_brand">전체 브랜드</string>
+    <string name="label_morning_starter">모닝스타터</string>
+    <string name="label_music_station_sub_title">"'좋아요' 누른 노래를 마음껏 즐기세요"</string>
+    <string name="label_music_station_title">"%s님을 위한
+끝없는 취향저격 선곡"</string>
+    <string name="label_music_taste_complete_message">%s님의 음악 취향을 알게되어서 추천을 더 잘할 수 있겠어요</string>
+    <string name="label_music_taste_complete_title">취향파악 완료!</string>
+    <string name="label_music_taste_default">"노래가 마음에 드신다면
+하트를 눌러주세요."</string>
+    <string name="label_music_taste_dislike_1">"싫어하시는 곡도
+체크해둘게요."</string>
+    <string name="label_music_taste_dislike_2">"앗, 그런 노래는
+안 좋아하시는군요."</string>
+    <string name="label_music_taste_dislike_3">"마음에 드실 만한 곡을
+좀 더 찾아볼게요."</string>
+    <string name="label_music_taste_like_1">"멋진 취향을 갖고 계시네요.
+기억해 놓을게요."</string>
+    <string name="label_music_taste_like_2">"아하, 이런 곡을
+좋아하시는군요."</string>
+    <string name="label_music_taste_like_3">"앞으로의 선곡에
+취향을 반영할게요."</string>
+    <string name="label_music_taste_page_no">%1$d / %2$d</string>
+    <string name="label_music_taste_promotion_accept_btn">뮤직 이용권 받기</string>
+    <string name="label_music_taste_promotion_message">이제 네이버 뮤직 100곡 무료 이용권으로 클로바의 추천 음악을 즐기세요!</string>
+    <string name="label_music_taste_skip_1">"클로바가 더 나은 음악을
+찾고 있어요."</string>
+    <string name="label_music_taste_skip_2">"귀에 꽂히는 음악이 분명
+있을거에요."</string>
+    <string name="label_music_taste_skip_3">이번 곡은 어떤가요?</string>
+    <string name="label_music_title">모든 음악</string>
+    <string name="label_naver_login">네이버 로그인</string>
+    <string name="label_naver_music">네이버 뮤직</string>
+    <string name="label_naver_music_promotion_event">네이버뮤직 무료 이벤트</string>
+    <string name="label_naver_music_voucher">네이버 뮤직 이용권</string>
+    <string name="label_need_wave_line_tos_agree">LINE 메신저 이용약관에 동의하지 않으면 이용하실 수 없습니다.</string>
+    <string name="label_negative">아니요</string>
+    <string name="label_network">Wi-Fi</string>
+    <string name="label_new_wifi">새로운 Wi-Fi</string>
+    <string name="label_no_connected_wave_device">연결된 기기가 없습니다</string>
+    <string name="label_no_friends">"아직 등록된 친구가 없어요
+LINE 가족계정을 친구에게 공유하세요"</string>
+    <string name="label_no_location">위치없음</string>
+    <string name="label_no_name">이름없음</string>
+    <string name="label_not_configure">설정 안 함</string>
+    <string name="label_noti_alarm_content">이 시간에 어울리는 음악을 재생합니다.</string>
+    <string name="label_noti_alarm_title">%s 알람</string>
+    <string name="label_noti_with_num">요청하신 답변이 %1$d개 도착해있습니다.</string>
+    <string name="label_noti_without_num">요청하신 답변이 도착해있습니다.</string>
+    <string name="label_notice">공지사항</string>
+    <string name="label_notification_setting">알림 설정</string>
+    <string name="label_notifications">알림</string>
+    <string name="label_notifications_setting">알림 푸시 설정</string>
+    <string name="label_now">지금</string>
+    <string name="label_only_headphone_plugged">이어폰 사용 중일 때만</string>
+    <string name="label_only_ringtone_volume_on">폰 벨소리 사용 중일 때만</string>
+    <string name="label_open_help">&lt;u>도움말 보기&lt;/u></string>
+    <string name="label_open_line">LINE App 열기</string>
+    <string name="label_paired_device">페어링된 기기</string>
+    <string name="label_pairing_mode_enabled">페어링 가능</string>
+    <string name="label_pairing_new_device">새로운 기기 페어링</string>
+    <string name="label_password_hint">비밀번호 입력</string>
+    <string name="label_permission_audio">오디오 사용</string>
+    <string name="label_permission_location">사용자 위치</string>
+    <string name="label_pims_calendar_add">일정 추가</string>
+    <string name="label_pims_calendar_cannot_create_invalid">일정 시작 시간을 종료 시간보다 이전으로 변경하세요</string>
+    <string name="label_pims_calendar_create_failed">요청하신 일정을 등록할 수 없습니다</string>
+    <string name="label_pims_calendar_created">일정에 추가했습니다</string>
+    <string name="label_pims_calendar_date_format">%1$s월 %2$s일 %3$s</string>
+    <string name="label_pims_calendar_delete_confirm_message">이 일정을 삭제 하시겠습니까?</string>
+    <string name="label_pims_calendar_delete_failed">요청하신 일정을 삭제 할 수 없습니다</string>
+    <string name="label_pims_calendar_delete_to_brief">일정 삭제는 브리핑에서 가능합니다</string>
+    <string name="label_pims_calendar_deleted">일정을 삭제 했습니다</string>
+    <string name="label_pims_calendar_select">요청하신 일정을 찾았습니다</string>
+    <string name="label_pims_calendar_select_count">일정이 %d개 있습니다</string>
+    <string name="label_pims_calendar_select_failed">요청하신 일정을 찾을 수 없습니다</string>
+    <string name="label_pims_calendar_select_to_brief">일정 목록은 브리핑에서 확인할 수 있습니다</string>
+    <string name="label_pims_exit_confirm_message">변경하신 내용을 저장 하시겠습니까?</string>
+    <string name="label_pims_memo_add">메모 추가</string>
+    <string name="label_pims_memo_add_hint">메모 내용 입력</string>
+    <string name="label_pims_memo_create_failed">메모를 추가 할 수 없습니다</string>
+    <string name="label_pims_memo_created">메모를 추가했습니다</string>
+    <string name="label_pims_memo_delete_confirm_message">이 메모를 삭제 하시겠습니까?</string>
+    <string name="label_pims_memo_delete_to_brief">메모 삭제는 브리핑에서 가능합니다</string>
+    <string name="label_pims_memo_select_to_brief">저장된 메모는 브리핑에서 확인할 수 있습니다</string>
+    <string name="label_pims_memo_wave_not_editable">WAVE에서 작성한 메모는 편집할 수 없습니다</string>
+    <string name="label_pims_reminder_add">리마인더 추가</string>
+    <string name="label_pims_reminder_create_failed">리마인더에 추가 할 수 없습니다</string>
+    <string name="label_pims_reminder_created">리마인더에 추가했습니다</string>
+    <string name="label_pims_reminder_date_format">%1$s.%2$s %3$s</string>
+    <string name="label_pims_reminder_delete_to_brief">리마인더 삭제는 브리핑에서 가능합니다</string>
+    <string name="label_pims_reminder_select_to_brief">리마인더 목록은 브리핑에서 확인할 수 있습니다</string>
+    <string name="label_pims_wave_not_available_message">"WAVE를 사용할 수 없습니다
+설정 메뉴에서 와이파이 연결 상태를 확인해주세요"</string>
+    <string name="label_pims_wave_not_available_title">%s 사용 불가</string>
+    <string name="label_plan_info">이용권 정보</string>
+    <string name="label_play_repeat_one">반복듣기</string>
+    <string name="label_play_same_artist">아티스트의 다른 곡</string>
+    <string name="label_play_similar_artist">비슷한 아티스트의 음악</string>
+    <string name="label_play_similar_track">비슷한 음악</string>
+    <string name="label_pm">오후</string>
+    <string name="label_podcast_channel">팟빵 구독 채널</string>
+    <string name="label_podcast_in_manage_channel">팟빵 구독 채널 추가</string>
+    <string name="label_podcast_in_playing">팟빵</string>
+    <string name="label_podcast_in_setting">팟캐스트 설정</string>
+    <string name="label_podcast_subscribe">구독 채널 추가</string>
+    <string name="label_podcast_subscribe_channel">팟빵 구독 채널</string>
+    <string name="label_popup_connect_new_device">"WAVE가 있다면
+연결하세요"</string>
+    <string name="label_popup_new_device_found">"%1$s를 발견했어요.
+연결하시겠어요?"</string>
+    <string name="label_popup_new_device_found_connect">%1$s 연결</string>
+    <string name="label_positive">네</string>
+    <string name="label_pref_account_setting">계정 설정</string>
+    <string name="label_pref_clova_home_iot">클로바홈 IoT 설정</string>
+    <string name="label_privacy">개인정보 처리방침</string>
+    <string name="label_privacy_policy">개인정보 처리방침</string>
+    <string name="label_promotion_event_notification">이벤트, 프로모션 소식</string>
+    <string name="label_properly">적당하게</string>
+    <string name="label_push_notification">알림</string>
+    <string name="label_push_notification_setting">알림설정</string>
+    <string name="label_qr">QR코드</string>
+    <string name="label_recently_used_network">최근 연결한 Wi-Fi 입니다.</string>
+    <string name="label_recommend_find_device">기기찾기</string>
+    <string name="label_recommended_station">추천 음악</string>
+    <string name="label_refresh">새로고침</string>
+    <string name="label_refresh_bt_list">스피커 다시찾기</string>
+    <string name="label_register_new_device">새로운 기기 추가</string>
+    <string name="label_register_new_device_short">+ 새로운 기기 추가</string>
+    <string name="label_register_now">지금 등록</string>
+    <string name="label_registered_answers">등록된 대답</string>
+    <string name="label_registered_question">등록된 명령어</string>
+    <string name="label_reminder">리마인더</string>
+    <string name="label_remote_controller_connect">%1$s리모컨 등록</string>
+    <string name="label_remove">삭제하기</string>
+    <string name="label_repeat">반복</string>
+    <string name="label_rescan_wifi">Wi-Fi 다시찾기</string>
+    <string name="label_reset">초기화</string>
+    <string name="label_ring_normal">벨소리</string>
+    <string name="label_ring_silent">무음</string>
+    <string name="label_ring_vibrate">진동</string>
+    <string name="label_ringing">띠링</string>
+    <string name="label_schedule">일정</string>
+    <string name="label_screen_saver_clock_date_format">%1$s월 %2$s일, %3$s</string>
+    <string name="label_search">검색</string>
+    <string name="label_search_current_location">현재 위치로 설정</string>
+    <string name="label_search_from_knowledge_in">지식iN 답변 확인</string>
+    <string name="label_search_from_naver">네이버에서 검색</string>
+    <string name="label_search_from_naver_maps">네이버 지도에서 길찾기</string>
+    <string name="label_search_manufacturer">메이커 검색</string>
+    <string name="label_search_result_album_with_value">"'%1$s' 앨범 검색 결과"</string>
+    <string name="label_search_result_artist_with_value">"'%1$s' 아티스트 검색 결과"</string>
+    <string name="label_search_result_track_with_value">"'%1$s' 곡 검색 결과"</string>
+    <string name="label_security">보안</string>
+    <string name="label_see_more">더보기</string>
+    <string name="label_select_bluetooth_device">WAVE와 연결할 블루투스 장비를 선택해주세요</string>
+    <string name="label_select_manufacturer">제조사 선택</string>
+    <string name="label_select_music_service">뮤직서비스 선택</string>
+    <string name="label_select_wifi">Wi-Fi 선택</string>
+    <string name="label_send_cs">의견 보내기</string>
+    <string name="label_send_voice_to_wave_title">스피커에 음성보내기</string>
+    <string name="label_serial_number">시리얼 번호</string>
+    <string name="label_service_account_linked">이용중</string>
+    <string name="label_service_in_use">사용 서비스</string>
+    <string name="label_session_refresh_test">로그인 세션 테스트</string>
+    <string name="label_set_wifi">Wi-Fi 설정</string>
+    <string name="label_set_wifi_connect_another_wifi">다른 Wi-Fi 연결</string>
+    <string name="label_set_wifi_connected_wifi">연결된 Wi-Fi</string>
+    <string name="label_setting_change_calendar">변경하기</string>
+    <string name="label_setting_change_calendar_desc">"일정 추가시
+선택한 캘린더에 자동 저장됩니다."</string>
+    <string name="label_setting_default_calendar_sub">일정 추가시 저장되는 캘린더</string>
+    <string name="label_setting_view_calendar_sub">일정 확인시 조회되는 캘린더</string>
+    <string name="label_settings">설정</string>
+    <string name="label_settings_music">뮤직 설정</string>
+    <string name="label_settop">셋톱박스</string>
+    <string name="label_settop_remote_controller">셋톱박스 리모컨</string>
+    <string name="label_settop_remote_controller_add">셋톱박스 리모컨 추가</string>
+    <string name="label_settop_remote_controller_connect">셋톱박스 리모컨 등록</string>
+    <string name="label_share_family_account">&lt;u>家族アカウントをシェア&lt;/u></string>
+    <string name="label_shortcut">단축버튼</string>
+    <string name="label_shortcut_id">단축버튼 %1$d</string>
+    <string name="label_shortcut_setting">단축버튼</string>
+    <string name="label_show">보이기</string>
+    <string name="label_show_example">&lt;u>예시 보기&lt;/u></string>
+    <string name="label_show_lyrics">가사보기</string>
+    <string name="label_smart_home">리모컨</string>
+    <string name="label_smart_home_setting">리모컨</string>
+    <string name="label_sound">소리</string>
+    <string name="label_sound_alarm">알람 소리</string>
+    <string name="label_sound_morning_starter">모닝 스타터</string>
+    <string name="label_speaker_setting_done">%1$s 설정 완료</string>
+    <string name="label_start_link_account">계정 연동하기</string>
+    <string name="label_start_time">시작시간</string>
+    <string name="label_start_unlink_account">계정 연동 해제</string>
+    <string name="label_station_empty">목록이 비어 있습니다.</string>
+    <string name="label_station_group_award">수상</string>
+    <string name="label_station_group_chart">차트</string>
+    <string name="label_station_group_emotion">감정을 알아주는 노래</string>
+    <string name="label_station_group_etc">기타</string>
+    <string name="label_station_group_festival">페스티벌</string>
+    <string name="label_station_group_genre">장르별 노래</string>
+    <string name="label_station_group_kid1">랄라라~ 신나는 동요</string>
+    <string name="label_station_group_kid2">쏙쏙~ 이해되는 동화</string>
+    <string name="label_station_group_kid3">내 아이 연령에 맞게~!</string>
+    <string name="label_station_group_liked">좋아요한 노래</string>
+    <string name="label_station_group_naver_music">네이버 뮤직 내 리스트</string>
+    <string name="label_station_group_normal_title">"마음에 드는 음악을
+찾아보세요"</string>
+    <string name="label_station_group_recommendation">요즘 뜨는 노래</string>
+    <string name="label_station_group_situation">지금 어울리는 노래</string>
+    <string name="label_station_now_play">마이 스테이션</string>
+    <string name="label_style_check">취향 체크</string>
+    <string name="label_thumb_image_type_person">인물</string>
+    <string name="label_timer">타이머</string>
+    <string name="label_timer_pause">일시 정지</string>
+    <string name="label_timer_restart">다시 시작</string>
+    <string name="label_timer_stop">중지</string>
+    <string name="label_today_date">%1$d월 %2$d일 %3$s</string>
+    <string name="label_today_home_title">"%1$s,
+무엇을 할까요?"</string>
+    <string name="label_tomorrow">내일</string>
+    <string name="label_tos">서비스 이용약관</string>
+    <string name="label_tos_short">이용약관</string>
+    <string name="label_track">곡</string>
+    <string name="label_tts">음성 안내</string>
+    <string name="label_tts_play_setting">음성안내</string>
+    <string name="label_tutorial_complete">시작하기</string>
+    <string name="label_tv">TV</string>
+    <string name="label_tv_remote_controller">TV 리모컨</string>
+    <string name="label_tv_remote_controller_add">TV 리모컨 추가</string>
+    <string name="label_tv_remote_controller_connect">TV 리모컨 등록</string>
+    <string name="label_type_name_air_conditioner">エアコン</string>
+    <string name="label_type_name_light">조명</string>
+    <string name="label_type_name_settop">STB</string>
+    <string name="label_type_name_tv">テレビ</string>
+    <string name="label_unblock_friend">해제</string>
+    <string name="label_undo_block">차단 취소</string>
+    <string name="label_unlike">좋아요 취소</string>
+    <string name="label_update">업데이트</string>
+    <string name="label_usage_info">사용안내</string>
+    <string name="label_usage_policy">이용약관</string>
+    <string name="label_use_calendar_on_device">WAVE에서 캘린더 사용</string>
+    <string name="label_use_do_not_disturb_mode">방해금지 모드 사용</string>
+    <string name="label_user_call_name">클로바가 부르는 이름</string>
+    <string name="label_userqna_answers_count">등록된 대답 %1$d</string>
+    <string name="label_userqna_input_record">음성으로 입력</string>
+    <string name="label_userqna_input_text">텍스트로 입력</string>
+    <string name="label_userqna_new_answer_hint">"듣고싶은
+대답을 입력해주세요"</string>
+    <string name="label_userqna_new_question_hint">"설정해놓고 싶은
+명령어를 입력해주세요"</string>
+    <string name="label_userqna_setting">내 명령어 설정</string>
+    <string name="label_userqna_title">"원하는대로
+대화를 만들 수 있어요"</string>
+    <string name="label_variety">다양성</string>
+    <string name="label_verification_info">본인인증 확인여부</string>
+    <string name="label_voice_record_done">저장하기</string>
+    <string name="label_voice_record_please_start">녹음을 시작해주세요</string>
+    <string name="label_voice_record_restart">다시하기</string>
+    <string name="label_volume">볼륨</string>
+    <string name="label_wave_account_profile">WAVE 계정 프로필</string>
+    <string name="label_wave_account_profile_visible">(WAVE)로 보여집니다.</string>
+    <string name="label_wave_action_control_stop">음악 재생 종료</string>
+    <string name="label_wave_action_device_off">%1$s 끄기</string>
+    <string name="label_wave_action_device_on">%1$s 켜기</string>
+    <string name="label_wave_action_light_off">WAVE 무드등 끄기</string>
+    <string name="label_wave_action_light_on">WAVE 무드등 켜기</string>
+    <string name="label_wave_action_play_track">음악 재생 시작</string>
+    <string name="label_wave_action_sleep_mode">취침모드</string>
+    <string name="label_wave_action_stb">셋톱박스</string>
+    <string name="label_wave_action_tv">TV</string>
+    <string name="label_wave_alarm">알람</string>
+    <string name="label_wave_calendar_setting">캘린더 설정</string>
+    <string name="label_wave_call_keyword_seetting">호출명 설정</string>
+    <string name="label_wave_call_sound_effect">호출 후 효과음</string>
+    <string name="label_wave_connect_1">WAVE가 켜져 있나요?</string>
+    <string name="label_wave_connect_2">이미 사용 중인 WAVE는 아닌가요?</string>
+    <string name="label_wave_connect_3">기기를 WAVE 가까이 가져가세요.</string>
+    <string name="label_wave_connect_done">%1$s 연결 완료</string>
+    <string name="label_wave_connect_title">WAVE 찾기 도움말</string>
+    <string name="label_wave_device_name_setting">기기 이름 설정</string>
+    <string name="label_wave_have_no_alarm">설정 된 알람이 없습니다.</string>
+    <string name="label_wave_help">WAVE 고객지원</string>
+    <string name="label_wave_home_page">WAVE 홈페이지</string>
+    <string name="label_wave_info">기기 정보</string>
+    <string name="label_wave_line_account_delete">削除しますか？</string>
+    <string name="label_wave_line_account_name_hint">WAVE 계정 이름 입력</string>
+    <string name="label_wave_line_account_profile">WAVE 계정 프로필</string>
+    <string name="label_wave_line_account_profile_name_hint">이름을 입력해주세요</string>
+    <string name="label_wave_line_already_chosen_name">이미 사용 중인 호칭이라 선택할 수 없습니다</string>
+    <string name="label_wave_line_blocked_friend">차단된 친구</string>
+    <string name="label_wave_line_chat_history">대화 히스토리</string>
+    <string name="label_wave_line_delete_history">모두 삭제하시겠습니까?</string>
+    <string name="label_wave_line_device_name_hint">이름/호칭 검색</string>
+    <string name="label_wave_line_friends_needs_rename">이름 설정이 필요한 친구</string>
+    <string name="label_wave_line_friends_setting">친구 설정</string>
+    <string name="label_wave_line_history">대화 히스토리</string>
+    <string name="label_wave_line_music_play_status">&lt;font color=\"#000000\">%1$s&lt;/font> ・ &lt;font color=\"#999999\">%2$s&lt;/font></string>
+    <string name="label_wave_line_notification">WAVE에서 수신 알림</string>
+    <string name="label_wave_line_readable_friend">トークできる友たち</string>
+    <string name="label_wave_line_set_readable_name_title">%1$s님의 이름 설정</string>
+    <string name="label_wave_line_setting_remove">모든 설정 및 사용내역 삭제</string>
+    <string name="label_wave_line_share_account">계정 공유</string>
+    <string name="label_wave_line_unusable_friend_name">검색 결과 없음 (히라가나/가타카나만 가능, 공백불가)</string>
+    <string name="label_wave_line_unusable_name">사용 불가, 다른 이름 입력(히라가나, 가타카나)</string>
+    <string name="label_wave_line_unusable_name_not_found">검색된 이름 없음, 다른 이름 입력</string>
+    <string name="label_wave_manual">WAVE 사용 설명서</string>
+    <string name="label_wave_manual_ask_after_call">"'클로바' 라고 부른 후,
+말해보세요."</string>
+    <string name="label_wave_manual_download">WAVE 사용 설명서 다운로드</string>
+    <string name="label_wave_manual_example_calendar">&lt;font color=#181818>일정 뭐 있어?&lt;/font>&lt;br/>내일 바빠?&lt;br/>주말 약속 있어?&lt;br/>&lt;font color=#1c90d3>캘린더 설정&lt;/font></string>
+    <string name="label_wave_manual_example_smart_home">&lt;font color=#181818>텔레비전 켜줘&lt;/font>&lt;br/>텔레비전 2번 틀어줘&lt;br/>텔레비전 볼륨 올려줘&lt;br/>1시간 뒤에 텔레비전 꺼줘&lt;br/>&lt;font color=#1c90d3>TV/셋톱박스 리모컨 추가&lt;/font></string>
+    <string name="label_wave_manual_example_smart_home_aircon">"\"Clova, 에어컨 켜줘\"
+\"Clova, 에어컨 꺼줘\""</string>
+    <string name="label_wave_manual_example_smart_home_light">"\"조명 켜줘\"
+\"조명 꺼줘\""</string>
+    <string name="label_wave_manual_example_smart_home_tv">"\"Clova, TV 켜줘\"
+\"Clova、TV 볼륨 올려줘"</string>
+    <string name="label_wave_manual_example_weather">&lt;font color=#181818>오늘 날씨 어때?&lt;/font>&lt;br/>주말에 비와?&lt;br/>오늘 미세먼지 어때?&lt;br/>오늘 더워?</string>
+    <string name="label_wave_morning_briefing">브리핑</string>
+    <string name="label_wave_morning_music">아침 추천 음악</string>
+    <string name="label_wave_name_less_friends_count">이름 미설정 %1$d</string>
+    <string name="label_wave_setting">%1$s 설정</string>
+    <string name="label_wave_share_account">대화할 친구에게 공유</string>
+    <string name="label_wave_smart_home_help_title">스마트홈 도움말</string>
+    <string name="label_wave_smart_home_setting">TV/셋톱박스 리모컨 추가</string>
+    <string name="label_wave_sound_dolce">돌체</string>
+    <string name="label_wave_sound_legato">레가토</string>
+    <string name="label_wave_sound_marcato">마르카토</string>
+    <string name="label_wave_state_light_1">디바이스가 켜져 있나요?</string>
+    <string name="label_wave_state_light_2">이미 사용 중인 디바이스는 아닌가요?</string>
+    <string name="label_wave_state_light_3">"모바일 단말을 디바이스 가까이
+가져가세요."</string>
+    <string name="label_wave_state_title">상태 확인 도움말</string>
+    <string name="label_wave_timer">타이머</string>
+    <string name="label_wave_usage_card_alarm_timer">ALARM / TIMER</string>
+    <string name="label_wave_usage_card_calendar">カレンダー</string>
+    <string name="label_wave_usage_card_chat">その他</string>
+    <string name="label_wave_usage_card_fortune">占い</string>
+    <string name="label_wave_usage_card_ir">音声リモコン</string>
+    <string name="label_wave_usage_card_messenger">MESSENGER</string>
+    <string name="label_wave_usage_card_music">MUSIC</string>
+    <string name="label_wave_usage_card_news">ニュース</string>
+    <string name="label_wave_usage_card_radio">ラジオ</string>
+    <string name="label_wave_usage_card_weather">WEATHER</string>
+    <string name="label_wave_use_line">WAVE에서 LINE 사용</string>
+    <string name="label_wave_welcome_card">"WAVE WELCOME MESSAGE
+(MOCK UP)"</string>
+    <string name="label_wave_wifi_connect">Wi-Fi 연결</string>
+    <string name="label_wep">WEP</string>
+    <string name="label_wifi">Wi-Fi</string>
+    <string name="label_wifi_address">Wi-Fi 주소</string>
+    <string name="label_wifi_reset">WAVE 설정</string>
+    <string name="label_wifi_user_locale">Wi-Fi</string>
+    <string name="label_workplace">학교/회사 주소</string>
+    <string name="label_wpa_psk">WPA/WPA2 PSK</string>
+    <string name="label_year_month_day">%1$d년 %2$d월 %3$d일</string>
+    <string name="less_than_a_minute_left">1분 미만 남았습니다.</string>
+    <string name="livingroom">"거실 "</string>
+    <string name="location_default_address">기기위치를 추가하지 않은 경우 네이버위치 [경기도 성남시 분당구 불정로 6]로 안내됩니다.</string>
+    <string name="location_device">기기위치</string>
+    <string name="location_setting">현재 위치로 설정</string>
+    <string name="login_failed">로그인에 실패하였습니다.</string>
+    <string name="message_unknown_error">알 수 없는 오류가 발생하였습니다.</string>
+    <string name="minions_connect_popup_title">"MINIONS를 발견했어요.
+연결하시겠어요?"</string>
+    <string name="my">"나의 "</string>
+    <string name="my_home">"우리집 "</string>
+    <string name="my_voice">내 목소리</string>
+    <string name="naver_speech_api_client_id">E40JyeQfn3wsW23VR6Q4</string>
+    <string name="naver_speech_api_client_secret">12GL7ZKODv</string>
+    <string name="not_found_contact">"연락처를 찾을 수 없습니다.
+다른 연락처의 이름으로 다시 말씀해주세요."</string>
+    <string name="not_used">사용안함</string>
+    <string name="office">"사무실 "</string>
+    <string name="password_toggle_content_description">Toggle password visibility</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="permission_call_phone">* 통화 권한: 전화 발신 명령을 위해 필요한 권한</string>
+    <string name="permission_first_request_body">앱의 정상적인 실행을 위해 다음 화면에서 전화, SMS, 주소록, 캘린더 권한을 허용해주세요. 거부시 앱 실행이 불가능합니다.</string>
+    <string name="permission_first_request_title">네이버 클로바앱 권한 허용 안내</string>
+    <string name="permission_how_to_allow">"아래의 설정하기 버튼을 눌러
+권한을 허용해주세요."</string>
+    <string name="permission_how_to_allow_each">"아래의 설정하기 버튼을 눌러
+권한 > 각 권한을 허용으로 변경해주세요."</string>
+    <string name="permission_location_description">* 위치 권한: 주변 정보나 날씨의 안내를 위해 필요한 권한</string>
+    <string name="permission_needed_title">&lt;b>다음 권한&lt;/b>이 없어서&lt;br/>Clova를 실행할 수 없습니다.</string>
+    <string name="permission_phone_description">* 전화 권한: 앱 사용 중 전화 수신시에 필요한 권한</string>
+    <string name="permission_record_audio">* 녹음 권한: 음성 명령을 위해 필요한 권한</string>
+    <string name="permission_setting">설정하기</string>
+    <string name="phone_call">전화 걸기</string>
+    <string name="pims_remainder_cancel">취소</string>
+    <string name="pims_remainder_delete">삭제</string>
+    <string name="pims_remainder_done">확인</string>
+    <string name="pims_remainder_edit_content_hint">제목을 입력하세요</string>
+    <string name="pims_remainder_error_empty_content">리마인더 내용을 입력해주세요.</string>
+    <string name="pims_remainder_error_old_time">지나간 시간의 리마인더는 설정할 수 없습니다.</string>
+    <string name="pims_remainder_not_repeat">반복 안함</string>
+    <string name="pims_remainder_repeat">요일 반복</string>
+    <string name="podcast_edit_query_hint">채널명을 검색해 보세요.</string>
+    <string name="query_voice_input_message_default">듣고 있어요</string>
+    <string name="repeat_execution">반복 실행</string>
+    <string name="route_map_bus_station_label">버스정류장</string>
+    <string name="route_map_client_id">dfp63soqMA7Q7CPtFXdk</string>
+    <string name="route_map_distance_label">이동거리</string>
+    <string name="route_map_distance_value">%.2fkm</string>
+    <string name="route_map_end_marker">도착</string>
+    <string name="route_map_hour_min_value_1" formatted="false">%d시간 %d분</string>
+    <string name="route_map_hour_min_value_2" formatted="false">%d시간 %d분 소요</string>
+    <string name="route_map_link_text">"네이버 지도로 이동해서 더 자세한
+위치정보를 확인하시겠어요?"</string>
+    <string name="route_map_link_title">네이버 지도 보기</string>
+    <string name="route_map_min_value_1">%d분</string>
+    <string name="route_map_min_value_2">%d분 소요</string>
+    <string name="route_map_navigate_by_format">"%s
+경로 안내"</string>
+    <string name="route_map_open_by_format">"%s
+열기"</string>
+    <string name="route_map_start_marker">출발</string>
+    <string name="route_map_station_value">%d개</string>
+    <string name="route_map_subway_bus_station_value" formatted="false">지하철%d + 버스%d</string>
+    <string name="route_map_subway_station_label">지하철역</string>
+    <string name="route_map_time_to_take_label">소요시간</string>
+    <string name="sally_connect_popup_title">"SALLY를 발견했어요.
+연결하시겠어요?"</string>
+    <string name="search_knowledge_btn_no">괜찮아요</string>
+    <string name="search_knowledge_btn_request">알려주세요</string>
+    <string name="search_knowledge_btn_soso">별로에요</string>
+    <string name="search_knowledge_btn_yes">좋아요</string>
+    <string name="search_knowledge_in_another_question">다른 답변을 찾아드릴까요?</string>
+    <string name="search_knowledge_in_another_question_ans">요청하신 답변이 등록되면 알려드리겠습니다</string>
+    <string name="search_knowledge_in_first_ans">"지식iN 자동 답변이 설정되었습니다
+답변 받기는 설정 메뉴에서 제어할 수 있습니다."</string>
+    <string name="search_knowledge_in_first_question">"지식iN과 함께 더 좋은 답을
+찾으면 알려드릴까요?"</string>
+    <string name="search_knowledge_in_first_question_check">"답변이 질문에 도움이
+되었나요?"</string>
+    <string name="security_network">네트워크 보안</string>
+    <string name="select_wifi_item">"연결할 와이파이를
+선택해주세요"</string>
+    <string name="send_sms">문자 보내기</string>
+    <string name="send_sound">스피커에 음성보내기</string>
+    <string name="send_sound_listining">"
+듣고 있어요"</string>
+    <string name="send_sound_send_done">"
+전송 되었습니다"</string>
+    <string name="send_sound_wait">"버튼을 누른채로
+말을 하고 스피커로 보내세요"</string>
+    <string name="serial_number">시리얼 번호</string>
+    <string name="set_no_sound">무음으로 변경합니다.</string>
+    <string name="set_up_mood_light_when_playback">" 자동으로 WAVE 상단 및 하단 조명이 켜지도록 설정합니다."</string>
+    <string name="set_up_mood_light_when_playback_red">음악 등 미디어 재생중</string>
+    <string name="setting_uplus_command_0">"\"유플티비,
+tvN 틀어줘\""</string>
+    <string name="setting_uplus_command_1">"\"유플티비,
+7번틀어줘\""</string>
+    <string name="setting_uplus_command_2">"\"유플티비,
+볼륨13으로높여줘\""</string>
+    <string name="setting_uplus_command_3">"\"유플티비,
+아이들나라틀어줘\""</string>
+    <string name="setting_uplus_command_4">"\"유플티비,
+로맨스영화추천해줘\""</string>
+    <string name="setting_uplus_command_5">"\"유플티비,
+어벤져스같은영화찾아줘\""</string>
+    <string name="setting_uplus_command_6">"\"유플티비,
+야구관련영화찾아줘\""</string>
+    <string name="setting_uplus_command_7">"\"유플티비,
+브래드피트나온1990년대영화찾아줘\""</string>
+    <string name="setting_uplus_command_8">"\"유플티비,
+나영석PD가만든예능찾아줘\""</string>
+    <string name="setting_uplus_command_9">"\"유플티비,
+잭블랙나온무한도전찾아줘\""</string>
+    <string name="setting_uplus_command_example">"LG U+의 U+tv를 리모콘 없이 음성으로 제어할 수 있습니다.
+U+tv 서비스는 \"클로바\" 대신에 \"유플티비\"라고 불러주세요."</string>
+    <string name="setting_uplus_guide">"\"유플티비 음성 명령이 동작하려면 셋톱박스를 연결해야 합니다.
+셋톱박스가 연결되지 않았거나 변경하고 싶다면, 프렌즈+의 와이파이를 재설정해주세요."</string>
+    <string name="setting_uplus_tv">U+tv설정</string>
+    <string name="shipped_ffmpeg_version">n2.4.2</string>
+    <string name="short_button">단축버튼</string>
+    <string name="sound">사운드</string>
+    <string name="sound_after_call">호출 후 효과음</string>
+    <string name="sound_after_call_desc">"호출명을 부른 후 기기에서 나오는 효과음을
+끄거나 켤 수 있습니다."</string>
+    <string name="sound_name_0">돌체</string>
+    <string name="sound_name_1">레가토</string>
+    <string name="sound_name_2">마르가토</string>
+    <string name="talking_guide_text_format">\"%s\"</string>
+    <string name="text_input">텍스트 입력</string>
+    <string name="the_answer_card_more">답변 자세히 보기</string>
+    <string name="the_answer_good_end_message">도움이 되었다니 저도 기뻐요!</string>
+    <string name="the_answer_new_register_message">답변이 등록되면 알려드리겠습니다</string>
+    <string name="the_answer_request_other_message">다른 답변 찾아드릴까요?</string>
+    <string name="tmap_app_key">7c3949be-a970-3b8d-97da-e726f5023488</string>
+    <string name="toast_music_preplay">30초 미리듣기중입니다. LINE Music 티켓을 구입해주세요.</string>
+    <string name="toast_wave_music_preplay">1분 미리듣기 중입니다. 네이버 뮤직의 스트리밍 이용권으로 전곡 듣기가 가능합니다. (한 번 듣기 이용권 제외)</string>
+    <string name="unit_hour">%1$s시</string>
+    <string name="unit_percent">%1$s%%</string>
+    <string name="unit_temperature">%1$s°</string>
+    <string name="unknown">확인할 수 없음</string>
+    <string name="up_to_12_hours_can_be_set">최대 12시간 설정 가능</string>
+    <string name="uplus_agreed_fail">U+ 약관 동의를 처리할 수 없습니다.</string>
+    <string name="uplus_auth_fail">U+ 인증을 처리할 수 없습니다.</string>
+    <string name="uplus_desc_3">"TV가 여러 대일 경우, 원하는 TV를 켜신 후 화면에서 '연결하기'를 리모콘으로 선택해주세요."</string>
+    <string name="uplus_desc_4">"TV에서 'AI스피커가 연결되었습니다' 팝업이 보이면, 이제 \"유플티비\" 음성 명령으로 TV를 제어할 수 있어요"</string>
+    <string name="uplus_login_cancel_popup_title">기기 연결을 위해 U+ ID 로그인과 개인정보 제3자 제공동의가 필요합니다. 다시 시도해 주세요.</string>
+    <string name="usamaru_connect_popup_title">"USAMARU를 발견했어요.
+연결하시겠어요?"</string>
+    <string name="user_name">사용자 이름</string>
+    <string name="va_dialog_msg">이제 마이크 버튼을 누르지 않고도 \"클로바\"라고 부른 후 명령어를 말할 수 있어요.</string>
+    <string name="va_dialog_title">새로운 기능 안내</string>
+    <string name="version_latest">최신버전입니다</string>
+    <string name="version_not_latest">최신버전이 아닙니다</string>
+    <string name="voice_sand">음성전송</string>
+    <string name="voice_select_desc">디바이스에서 흘러나오는 목소리를 원하는 높낮이, 음색, 빠르기를 설정할 수 있습니다.</string>
+    <string name="volume">음량</string>
+    <string name="volume_alarm_control_used">알람 사운드의 음량 조절 사용</string>
+    <string name="wave_connect_popup_title">"WAVE를 발견했어요.
+연결하시겠어요?"</string>
+    <string name="wave_device_name_0">나의 %s</string>
+    <string name="wave_device_name_1">우리집 %s</string>
+    <string name="wave_device_name_2">거실 %s</string>
+    <string name="wave_device_name_3">침실 %s</string>
+    <string name="wave_device_name_4">부엌 %s</string>
+    <string name="wave_device_name_5">사무실 %s</string>
+    <string name="wave_device_name_custom">직접 입력하기</string>
+    <string name="wave_now_playing_title">WAVE 재생 중</string>
+    <string name="wave_now_playing_title_with_device_name">%1$s 재생 중</string>
+    <string name="wave_preplay_popup">"1분 미리듣기 중입니다. 네이버 뮤직의
+스트리밍 이용권으로 전곡 듣기가
+가능합니다.(한 번 듣기 이용권 제외)"</string>
+    <string name="wifi_address">Wi-Fi 주소</string>
+    <string name="wifi_authorizing_default_message">"설정을 완료하고 있습니다.
+잠시만 기다려 주세요."</string>
+    <string name="wifi_authorizing_friends_plus_message">"잠시만 기다려 주세요.
+연결할 셋톱박스를 찾습니다."</string>
+    <string name="wifi_confirm_title">"연결할 와이파이를
+확인해 주세요."</string>
+    <string name="wifi_connected_default_message">"설정을 완료하고 있습니다.
+잠시만 기다려 주세요."</string>
+    <string name="wifi_connected_friends_plus_message">잠시만 기다려 주세요.</string>
+    <string name="wifi_connecting_title">"와이파이 연결 중입니다.
+최대 2분정도 걸릴 수 있어요."</string>
+    <string name="wifi_password_error">Wi-Fi 비밀번호 등을 다시 확인하고 연결해주세요.</string>
+    <string name="wifi_password_input">Wi-Fi 비밀번호를 입력해주세요.</string>
+    <string name="wifi_password_invisible">숨기기</string>
+    <string name="wifi_password_visible">보이기</string>
+</resources>

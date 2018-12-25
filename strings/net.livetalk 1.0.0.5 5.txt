@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="app_name">라이브톡</string>
+    <string name="old_app_name">라이브톡</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_title">라이브톡(음성,영상통화)</string>
+    <string name="intput_content">내용을 입력하세요.</string>
+    <string name="title_memo_who">%s님과의 쪽지</string>
+    <string name="title_memo">쪽지</string>
+    <string name="send_memo">쪽지 보내기</string>
+    <string name="view_memo">쪽지 보기</string>
+    <string name="send_memo_input">쪽지의 내용을 입력하세요.</string>
+    <string name="send_memo_input_warning">(부적절한 내용 전송시 이용이 제한 될 수 있습니다.)</string>
+    <string name="send_memo_success">쪽지가 정상적으로 전송되었습니다.</string>
+    <string name="send_memo_fail">쪽지 보내기에 실패하셨습니다.</string>
+    <string name="send_memo_input_content">쪽지 내용을 입력해주세요.</string>
+    <string name="send_memo_nick">%s님이 쪽지를 보내셨습니다.</string>
+    <string name="send_request_video_chat_nick">%s님이 영상통화 신청을 하셨습니다.</string>
+    <string name="send_request_audio_chat_nick">%s님이 음성통화 신청을 하셨습니다.</string>
+    <string name="send_ask_video_chat_nick">%s님이 영상통화를 요청 하였습니다.</string>
+    <string name="send_ask_audio_chat_nick">%s님이 음성통화를 요청 하였습니다.</string>
+    <string name="send_request_video_chat">영상통화 신청.</string>
+    <string name="send_request_audio_chat">음성통화 신청.</string>
+    <string name="send_ask_request_video_chat">영상통화 요청.</string>
+    <string name="send_ask_request_audio_chat">음성통화 요청.</string>
+    <string name="audio_chat">음성통화</string>
+    <string name="video_chat">영상통화</string>
+    <string name="ask_audio_chat">음성통화</string>
+    <string name="ask_video_chat">영상통화</string>
+    <string name="fail_audio_chat">음성 통화 요청에 실패하였습니다.</string>
+    <string name="fail_video_chat">영상 통화 요청에 실패하였습니다.</string>
+    <string name="menu_go_memo_room_out">나가기</string>
+    <string name="ask_memo_room_out">"대화방에서 나가시겠습니까?
+
+나가기를하면 대화내용이 모두 삭제 됩니다."</string>
+    <string name="send_chat">전송</string>
+    <string name="send_extra">+</string>
+    <string name="new_connect">새연결</string>
+    <string name="close">닫기</string>
+    <string name="waitingsignup">가입 중입니다..</string>
+    <string name="waitinglogin">로그인 중입니다..</string>
+    <string name="waitingloagding">로딩중입니다..</string>
+    <string name="waitingImageUploading">이미지 업로드중..</string>
+    <string name="fail_to_connect">"서버에 연결하는데 실패하였습니다. 
+와이파이를 다시 셋팅하거나 데이터 모드로 사용하여 주세요."</string>
+    <string name="videocall_cancel">상대방이 통화를 취소하였습니다.</string>
+    <string name="videocall_busy">상대방이 통화중입니다.</string>
+    <string name="videocall_not_ready">"상대방이 영상통화, 음성통화를 할 수 없는 상태입니다.
+상대방이 대화방에 입장중에만 요청을 받을 수 있습니다.
+
+(채팅방 입장 확인후 다시 시도하세요)"</string>
+    <string name="disconnect_no_point">남성 회원님의 포인트가 부족하여 채팅이 종료 되었습니다.</string>
+    <string name="gallery">사진</string>
+    <string name="camera">카메라</string>
+    <string name="request_audio_chat">음성통화 신청</string>
+    <string name="request_video_chat">영상통화 신청</string>
+    <string name="requested_audio_chat">음성통화 수락</string>
+    <string name="requested_video_chat">영상통화 수락</string>
+    <string name="chat_close">통화종료</string>
+    <string name="success">성공</string>
+    <string name="fail">실패</string>
+    <string name="ok">확인</string>
+    <string name="cancel">취소</string>
+    <string name="view_photo_msg">사진 보기</string>
+    <string name="accept_video_chat">영상통화 수락</string>
+    <string name="accept_audio_chat">음성통화 수락</string>
+    <string name="request_videochat_msg">"상대방에게 영상통화을 신청하시겠습니까?
+신청 후 상대방이 영상통화를 수락하면 시작됩니다.
+
+(영상통화시 30초당 별풍선 60개가 차감됩니다.)"</string>
+    <string name="request_audiochat_msg">"상대방에게 음성통화을 신청하시겠습니까?
+신청 후 상대방이 음성통화를 수락하면 시작됩니다.
+
+(음성통화시 30초당 별풍선 60개가 차감됩니다.)"</string>
+    <string name="ask_request_audio_chat">음성통화 요청</string>
+    <string name="ask_request_video_chat">영상통화 요청</string>
+    <string name="ask_request_videochat_msg">"상대방에게 영상통화을 요청합니다.
+요청 후 상대방이 영상통화를 수락하면 연결됩니다.
+
+(영상통화시 30초당 별풍선 60개가 적립됩니다.)"</string>
+    <string name="ask_request_audiochat_msg">"상대방에게 음성통화을 요청합니다.
+요청 후 상대방이 음성통화를 수락하면 시작됩니다.
+
+(음성통화시 30초당 별풍선 60개가 적립됩니다.)"</string>
+    <string name="reject_audio_chat">죄송합니다. 지금은 음성통화를 할 수 없습니다.</string>
+    <string name="reject_video_chat">죄송합니다. 지금은 영상통화를 할 수 없습니다.</string>
+    <string name="requested_videochat_msg">"남성회원 분이 영상통화를 신청하셨습니다
+수락후 남성회원 분과 영상통화를 하실수 있습니다
+(30초 이후부터 30초당 별풍선 60개가 적립됩니다)
+별풍선는 상품권으로 교환가능합니다."</string>
+    <string name="requested_audiochat_msg">"남성회원 분이 음성통화를 신청하셨습니다
+수락후 여성회원 분과 음성통화를 하실수 있습니다
+(30초 이후부터 30초당 별풍선 60개가 적립됩니다)
+별풍선는 상품권으로 교환가능합니다."</string>
+    <string name="ask_requested_videochat_msg">"여성회원 분이 영상통화를 신청하셨습니다.
+수락후 여성회원 분과 영상통화를 하실수 있습니다.
+(영상 통화시 30초당 별풍선 60개가 차감됩니다)"</string>
+    <string name="ask_requested_audiochat_msg">"여성회원 분이 음성통화를 신청하셨습니다.
+수락후 여성회원 분과 음성통화를 하실수 있습니다.
+(음성 통화시 30초당 별풍선 60개가 차감됩니다)"</string>
+    <string name="export_chat_content">대화내용 내보내기</string>
+    <string name="export_photo">[사진]</string>
+    <string name="export_video_chat">[영상통화 요청]</string>
+    <string name="setting_menu_write_review">리뷰 남기기</string>
+    <string name="setting_menu_version">버전 정보</string>
+    <string name="backpressed_msg">뒤로 버튼을 한번 더 누르시면 종료됩니다.</string>
+    <string name="today_no_open">오늘 하루 열지 않기</string>
+    <string name="network_error">네트워크 오류</string>
+    <string name="no_network_message">네트워크 연결이 필요합니다. 와이파이 또는 모바일네트워크(3G/4G/LTE)를 켜주세요.</string>
+    <string name="no_network_retry">네트워크 연결 상태 확인 후 다시 시도해 주십시요.</string>
+    <string name="format_age">(%d세)</string>
+    <string name="chat_send">전송</string>
+    <string name="id">아이디</string>
+    <string name="pw">비밀번호</string>
+    <string name="pw_confirm">비밀번호 확인</string>
+    <string name="nickname">닉네임</string>
+    <string name="email">Email</string>
+    <string name="profile_msg">자기소개</string>
+    <string name="birth_year">태어난해</string>
+    <string name="region">지역</string>
+    <string name="sex">성별</string>
+    <string name="male">남자</string>
+    <string name="female">여자</string>
+    <string name="profile_photo">프로필사진</string>
+    <string name="login_id_hint">아이디</string>
+    <string name="login_password_hint">비밀번호</string>
+    <string name="sign_up">회원가입</string>
+    <string name="edit_profile">회원정보 수정</string>
+    <string name="search_idpw">아이디/비밀번호 찾기</string>
+    <string name="hp_number">핸드폰번호</string>
+    <string name="search_id">아이디 찾기</string>
+    <string name="search_pw">비밀번호 찾기</string>
+    <string name="search_id_result">"회원님의 아이디는
+%s
+입니다."</string>
+    <string name="search_pw_result">"회원님의 비밀번호는
+%s
+입니다."</string>
+    <string name="search_fail">일치하는 정보가 없습니다.</string>
+    <string name="upgrade">업그레이드</string>
+    <string name="upgrade_msg">"라이브톡 신규버전이 출시 되었습니다.
+업데이트를 하셔야 이용 가능합니다. 
+다운로드 페이지로 이동하겠습니다."</string>
+    <string name="enter_id">아이디를 입력해 주세요.</string>
+    <string name="enter_password">비밀번호를 입력해 주세요.</string>
+    <string name="enter_confirm_password">비밀번호 확인을 입력해 주세요.</string>
+    <string name="enter_birth_year">나이를 선택해주세요.</string>
+    <string name="error_account_badcredential">이메일 또는 비밀번호가 맞지 않습니다.</string>
+    <string name="login_fail">로그인 실패</string>
+    <string name="signup_fail">회원가입 실패</string>
+    <string name="signup_fail_msg">회원가입에 실패하였습니다. 다시 시도해주세요.</string>
+    <string name="enter_email">이메일을 입력해 주세요.</string>
+    <string name="error_invalid_email">이메일 주소가 유효하지 않습니다.</string>
+    <string name="nickname_input_3min">닉네임은 최소 3자이상 입력해주세요.</string>
+    <string name="nickname_input">닉네임을 입력해 주세요</string>
+    <string name="id_input_4min">아이디는 최소 4자이상 입력해주세요.</string>
+    <string name="error_account_already_exist">이미 사용중인 아이디입니다. 다른 아이디을 입력해주세요.</string>
+    <string name="error_nickname_already_exist">이미 사용중인 닉네임입니다. 다른 닉네임을 입력해주세요.</string>
+    <string name="incorrect_password">비밀번호가 일치하지 않습니다..</string>
+    <string name="no_select">선택안함</string>
+    <string name="enter_hp">핸드폰 번호를 입력해주세요.</string>
+    <string name="profile_who">님의 프로필</string>
+    <string name="profile_edit_success">회원정보 변경에 성공하였습니다.</string>
+    <string name="profile_edit_fail">회원정보 변경에 실패하였습니다.</string>
+    <string name="nickname_already_exist">닉네임이 이미존재합니다. 다른 닉네임을 입력해주세요.</string>
+    <string name="setting_alarm">알림 설정</string>
+    <string name="setting_auto_login">자동로그인</string>
+    <string name="board_write">글쓰기</string>
+    <string name="board_write_title">제목</string>
+    <string name="board_write_content">내용</string>
+    <string name="community_all_list">전체</string>
+    <string name="community_location_list">지역</string>
+    <string name="community_me_list">내가쓴글</string>
+    <string name="community_write_title">글쓰기</string>
+    <string name="community_title">게시판</string>
+    <string name="community_view">내용</string>
+    <string name="community_delete_title">게시글삭제</string>
+    <string name="community_delete_fail">삭제를 실패헀습니다.</string>
+    <string name="community_delete">삭제</string>
+    <string name="ask_delete_community">해당 게시글을 삭제하시겠습니까?</string>
+    <string name="community_write_reply">댓글달기</string>
+    <string name="community_reply_delete_title">댓글삭제</string>
+    <string name="community_upload_fail">올리기 실패입니다. 네트워크상태를 확인후 다시 시도하세요.</string>
+    <string name="community_input_title">제목을 입력해주세요.</string>
+    <string name="community_input_content">내용을 입력해주세요.</string>
+    <string name="community_attach_image_content">사진 1장을 필수로 선택하셔야 합니다.</string>
+    <string name="community_upload_day_limit">게시판 1일 등록건수를 초과하셨습니다.</string>
+    <string name="community_write_content_hint">"부적합 내용 전송시 삭제 및 이용제한 됩니다
+[200자 제한]"</string>
+    <string name="community_write_title_hint">내용을 입력하세요.</string>
+    <string name="help_desk">고객센터</string>
+    <string name="info">이용안내</string>
+    <string name="terms">이용약관</string>
+    <string name="terms_msg">이용약관 및 개인정보보호정책에 동의함</string>
+    <string name="terms_check_msg">이용약관 및 개인정보보호정책에 동의하셔야 이용하실수 있습니다.</string>
+    <string name="privacy_policy">개인정보 보호정책</string>
+    <string name="ars_agree">동의합니다.</string>
+    <string name="ars_no_agree">동의하지 않습니다.</string>
+    <string name="notice">공지사항</string>
+    <string name="info1">이용약관이란 특정 서비스의 이용조건과 절차 등에 관한 사항을 규정하고 이를 명시한 문서를 말한다. 이용약관은 서비스 이용자에게 공시함으로써 효력이 발생하며, 영업상 중요 사유가 있을 시 변경할 수 있다. 이용약관에는 이용계약의 체결, 서비스 이용, 이용자의 의무 등에 관한 조항을 상세히 명시해야 한다. 또 이용 요금 납부, 계약 해지 등의 사항을 구체적으로 기재하도록 한다. 그 밖에 면책조항을 기재하여 차후 발생할 수 있는 고객과의 갈등 상황을 사전에 방지하도록 한다. [네이버 지식백과] 이용약관 [利用約款, access terms] (예스폼 서식사전, 2013, 예스폼)</string>
+    <string name="info2">개인정보보호정책 (Privacy Policy)는 어떤 당사자가 고객의 개인정보를 어떻게 수집, 사용, 공개, 관리하는지를 밝히는 선언 또는 법적 문서를 말한다. 개인 정보는 이름 · 주소 · 생년월일 · 혼인여부 · 연락처 · ID번호 및 유효기간 · 재정정보 · 신용정보 · 의료기록 등 개인이 여행하거나, 매매계약을 체결하는 등의 상황에 있어서, 개인을 식별할 수 있는 정보들을 말한다. [1]어떤 개인정보들이 수집되고, 그것이 비밀로 유지되는지, 협력업체들과 공유하는지 또 다른 회사들에 어떻게 양도되는지 하는 등에 대하여 밝혀 놓고 있다. [2] 개인정보 보호정책은 그것이 개인의 신체와 도덕의 자치권에 기반하고 있으므로 현대국가에 있어서 중요한 의미를 지닌다. 그러한 이유로, 이것은 헌법적 보호를 받을 가치가 있다. [3] 보호정책에 담겨야 할 내용들은 보호정책을 요구하는 관할 법률에 따라 달라질 수 있다. 대부분의 국가들은 누가 보호되고, 어떤 정보들이 수집되고 사용될 수 있는지에 대한 입법과 지침을 가지고 있다. 일반적으로, 유럽에서의 데이터 보호법은 민간영역과 공공영역으로 나누어 정보를 보호하고 있다. 이 법은 정부의 개인정보 관리에 뿐만 아니라, 민간회사들과 상업 거래에서서도 적용된다. 북미에서 정보보호법은(퀘백 제외) 공공영역에서만 적용될 뿐, 민간 영역에는 적용되지 않는다. 그러나, 북미의 민간 사업체들 대다수는 자신의 보호정책과 윤리강령을 발전시킬 동기를 가지고 있다.</string>
+    <string name="helpdesk_write">문의하기</string>
+    <string name="helpdesk_input_title">제목을 입력해주세요.</string>
+    <string name="helpdesk_input_content">내용을 입력해주세요.</string>
+    <string name="helpdesk_send_success">문의사항을 등록하였습니다.</string>
+    <string name="block_user">차단</string>
+    <string name="ask_block_user">"차단 하시겠습니까?
+
+차단을 하면 차단한 유저가 보내는 메시지를 받을 수 없으며 목록에서 사라집니다."</string>
+    <string name="payment">결제하기</string>
+    <string name="payment_confirm">회원님의 결제 여부를 확인중입니다.</string>
+    <string name="payment_waiting">잠시만 기다려 주세요.</string>
+    <string name="purchase_fail">결제를 실패하였습니다.</string>
+    <string name="purchase_getinfo_fail">결제정보를 가져오는데 실패하였습니다.</string>
+    <string name="purchase_complete">결제를 완료하였습니다.</string>
+    <string name="purchase_cancel">결제를 실패하였습니다.</string>
+    <string name="purchase_cancel2">결제를 취소하셨습니다.</string>
+    <string name="already_consume">구매후 지급처리 되었습니다. 정상적으로 지급되지 않았다면 고객센터로 문의해주세요.</string>
+    <string name="consume_fail">지급이 실패하였습니다.</string>
+    <string name="alert">알 림</string>
+    <string name="payment_msg_free">오픈기념 이벤트 무료 채팅이 끝나셨습니다.</string>
+    <string name="payment_msg_board">죄송합니다. 라이브톡은 회원전용 서비스 입니다.</string>
+    <string name="payment_msg_expire">정회원 가입기간이 만료 되었습니다.</string>
+    <string name="payment_msg_chat">이어서 대화하기 원하시면 결제를 하신 후 사용하시기 바랍니다.</string>
+    <string name="payment_msg1">회원가입 후</string>
+    <string name="payment_msg2">대화, 음성통화, 영상통화</string>
+    <string name="payment_msg3">에 참여하실 수 있으며</string>
+    <string name="payment_msg4">대기중인 더 많은 여성들과의 대화나 실질적인 만남을 가지실 수 있습니다.</string>
+    <string name="payment_msg5">결제금액 : 29,900원(부가세별도) - 월정회원</string>
+    <string name="payment_msg6">(별풍선은 영상통화, 음성통화시 사용가능합니다)</string>
+    <string name="payment_msg_video_min">영상통화 신청은 별풍선을 최소 6개이상 보유하셔야 가능합니다.</string>
+    <string name="payment_msg_audio_min">음성통화 신청은 별풍선을 최소 6개이상 보유하셔야 가능합니다.</string>
+    <string name="payment_msg_point">별풍선이 부족합니다.</string>
+    <string name="payment_msg_pay_point">별풍선을 충천합니다.</string>
+    <string name="payment_point_msg1">별풍선 구매 후</string>
+    <string name="payment_point_msg2"> 음성통화, 영상통화, 선물하기</string>
+    <string name="payment_point_msg3">에 참여 하실 수 있습니다.</string>
+    <string name="payment_point_1">별풍선 10개    ￦1,000원</string>
+    <string name="payment_point_2">별풍선 30개    ￦3,000원</string>
+    <string name="payment_point_3">별풍선 50개    ￦5,000원</string>
+    <string name="payment_point_4">별풍선 110개   ￦10,000원</string>
+    <string name="payment_point_5">별풍선 220개   ￦20,000원</string>
+    <string name="payment_point_6">별풍선 330개   ￦30,000원</string>
+    <string name="send_gift_jewel">선물하기</string>
+    <string name="gift_jewel1">10</string>
+    <string name="gift_jewel2">30</string>
+    <string name="gift_jewel3">50</string>
+    <string name="gift_jewel4">100</string>
+    <string name="gift_jewel5">200</string>
+    <string name="gif_msg_point">상대방에게 별풍선을 선물해보세요.</string>
+    <string name="chat_waiting">연결중입니다. 잠시만 기다리세요...</string>
+    <string name="chat_connect">연결완료.</string>
+    <string name="chat_disconnect">.</string>
+    <string name="gift_point_1">별풍선 1개</string>
+    <string name="gift_point_2">별풍선 5개</string>
+    <string name="gift_point_3">별풍선 10개</string>
+    <string name="gift_point_4">별풍선 50개</string>
+    <string name="gift_point_5">별풍선 100개</string>
+    <string name="send_gift_presented">%s개의 별풍선을 선물 받았습니다.</string>
+    <string name="send_gift_send">%s개의 별풍선을 선물 하였습니다.</string>
+    <string name="send_gift_nick">%1$s님이 %2$s개의 별풍선을 선물하였습니다.</string>
+    <string name="send_gift_only_man">남자회원만 선물하기가 가능합니다.</string>
+    <string name="send_gift">별풍선 선물 %s개</string>
+    <string name="receive_gift_msg">가 도착하였습니다.</string>
+    <string name="send_gift_msg">를 보내셨습니다.</string>
+    <string name="expire_date">%s 까지 VIP</string>
+    <string name="expire_date_vip">VIP 회원</string>
+    <string name="normal_member">일반회원</string>
+    <string name="now_point">" / 현재 별풍선 : %s "</string>
+    <string name="now_point2">"%s 개 "</string>
+    <string name="remain_free_chat">남은 채팅 횟수 : %s</string>
+    <string name="remain_free_create_room">남은 방생성 횟수 : %s</string>
+    <string name="unlimited">무제한</string>
+    <string name="no_member_msg">유료 회원에 가입 하시면 음성통화, 영상통화에 참여하실수 있습니다.</string>
+    <string name="accept">수 락</string>
+    <string name="reject">거 절</string>
+    <string name="wallet_who">님의 지갑</string>
+    <string name="jewel_msg">보유별풍선  </string>
+    <string name="jewel_charge">충전하기</string>
+    <string name="jewel_exchange">상품권교환</string>
+    <string name="reply_email">답변 받을 메일 주소</string>
+    <string name="vcall_delay_msg">%d초후 신청가능합니다.</string>
+    <string name="certify_error">인증 오류</string>
+    <string name="certify_error_msg">인증 정보가 남아있지 않습니다. 프로그램 종료후 재시작하세요.</string>
+    <string name="title_activity_blank">BlankActivity</string>
+    <string name="init">초기화</string>
+    <string name="save_point_msg">별풍선 %s개가 적립되었습니다.</string>
+    <string name="new_list">최신</string>
+    <string name="location_list">전국</string>
+    <string name="old_version_delete_msg">이전 버전이 남아있습니다. 확인버튼을 누르면 삭제 화면으로 이동합니다.</string>
+    <string name="ss_pay_premium">월회원 결제</string>
+    <string name="ss_pay_jewel">별풍선 결제</string>
+    <string name="input_profile_msg">상태메세지를 입력하세요</string>
+    <string name="enter_chatting">입장하기</string>
+    <string name="format_f_sex_age">여%s세</string>
+    <string name="format_m_sex_age">남%s세</string>
+    <string name="format_f_sex_age2">[여%s세]</string>
+    <string name="format_m_sex_age2">[남%s세]</string>
+    <string name="format_age_loc">(%1$s세/%2$s)</string>
+    <string name="room_out">나가기</string>
+    <string name="report_user">신고</string>
+    <string name="report_user_msg">신고하기</string>
+    <string name="input_max_200">200자 제한</string>
+    <string name="report_success">신고가 완료되었습니다.</string>
+    <string name="report_fail">신고가 실패하였습니다..</string>
+    <string name="add_friend">친구추가</string>
+    <string name="add_friend_success">친구추가를 성공하였습니다.</string>
+    <string name="add_friend_alreaay">이미 친구로 등록되어 있습니다.</string>
+    <string name="add_friend_fail">친구추가를 실패 하였습니다.</string>
+    <string name="community_photo">사진(갤러리)</string>
+    <string name="community_camera">사진(카메라)</string>
+    <string name="friend_ired">내가 등록한</string>
+    <string name="friend_regme">나를 등록한</string>
+    <string name="friend_block">차단한</string>
+    <string name="block_clear_success">복구되었습니다.</string>
+    <string name="block_clear_fail">복구를 실패 하였습니다.</string>
+    <string name="do_date">쪽지 보내기</string>
+    <string name="re_date">새로 소개받기</string>
+    <string name="chat_use_msg">채팅이용권한  </string>
+    <string name="alarm_sound">  소리</string>
+    <string name="alarm_vibe">  진동</string>
+    <string name="alarm_slient">  무음</string>
+    <string name="alarm_on">  On</string>
+    <string name="alarm_off">  Off</string>
+    <string name="version_info">버전정보</string>
+    <string name="save">저장</string>
+    <string name="version_info_msg">"현재 버전 : %1$s
+
+최신 버전 : %2$s"</string>
+    <string name="charge">충전</string>
+    <string name="refund">환급</string>
+    <string name="refund_title">환급신청</string>
+    <string name="refund_guide_msg">"1. 신청 별풍선은 1개당 4원씩 지급 됩니다.(세금 원천징수 3.3% 공제) 
+(1만개부터 신청가능합니다.) 
+
+2. 환급 신청 금액은 매주 금요일 진행되며, 지급일 이전에 신청된 경우에만 환급됩니다."</string>
+    <string name="select_sex">성별을 선택해주세요.</string>
+    <string name="fail_msg">실패하였습니다.</string>
+    <string name="payment_google_pay_error">구글계정 결제정보에 문제가 있습니다. 고객센터에 문의해주세요</string>
+    <string name="send_memo_hint">부적합 내용 전송시 이용제한 됩니다</string>
+    <string name="send_memo_guide">* 건당 별풍선 %1$d개가 차감됩니다. 보유별풍선 : %2$s 개</string>
+    <string name="format_user_info">%1$s (%2$s세/%3$s)</string>
+    <string name="attend_point_msg">출석 포인트를 발급받으셨습니다.</string>
+    <string name="name">이름</string>
+    <string name="hp">휴대폰 번호</string>
+    <string name="star_msg">보유별풍선 : </string>
+    <string name="request_refund_point">신청 별풍선 :</string>
+    <string name="refund_cash">실입금액 :</string>
+    <string name="request_refund_hint">만개단위로 신청 가능</string>
+    <string name="request_refund_count">만 개</string>
+    <string name="format_start_count">%1$s 개</string>
+    <string name="format_cash_count">%1$s 원</string>
+    <string name="request_refund">신청</string>
+    <string name="refund_input_name">이름을 입력해주세요.</string>
+    <string name="refund_input_hp">휴대폰 번호를 입력해주세요.</string>
+    <string name="refund_input_star">환급받을 별풍선를 입력하세요.</string>
+    <string name="refund_check_count">보유한 별풍선이 부족합니다.</string>
+    <string name="refund_success">환급신청을 완료하였습니다.</string>
+    <string name="refund_fail">환급신청을 실패하였습니다.</string>
+    <string name="refund_min_point">별풍선을 최소 10,000개 이상 보유하셔야 신청 가능합니다.</string>
+</resources>

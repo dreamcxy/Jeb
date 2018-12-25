@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="GoMemoIcon">GoMemo Memory Game</string>
+    <string name="ResizedScreenTitle">Resized Photos</string>
+    <string name="SelectedImageViewDescription">View displaying selected image</string>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="accept">Accept</string>
+    <string name="actionbar_menu_resize">Resize</string>
+    <string name="actionbar_menu_share">Share</string>
+    <string name="alert_OOMError">"Resizer don't have enough memory to resize the photo. Please: 1) Restart the app or 2) Reduce resize dimensions or 3) Close other running apps and try again."</string>
+    <string name="alert_cannotPicTheImage_title">Cannot pick the photo</string>
+    <string name="alert_cannotPicXImages_title">"%1$d photos weren't loaded"</string>
+    <string name="alert_cannotPickTheImage">Please try to use different app to choose a photo (eg. Gallery)</string>
+    <string name="alert_cannotPickTheImage_doesNotExist">Most probable reason: Photo does not exist. Please try to select other photo.</string>
+    <string name="alert_cannotPickXImages_doesNotExist">Unable to load photos. Most probable reason: Photos not exist.</string>
+    <string name="alert_cannotResizePhoto">Cannot resize the photo</string>
+    <string name="alert_insertSDCard">Your SD-Card is not plugged in. Please plug in the SD-Card and try again.</string>
+    <string name="alert_insertSDCard_title">SD-Card is missing</string>
+    <string name="alert_noSelectPhotoActivity">Gallery app is required by Resizer to select a picture. Please install Gallery app and try again. Sorry for the inconvenience.</string>
+    <string name="alert_percentageMustBeBetween1And100">Value must be in range 1 – 300</string>
+    <string name="alert_percentageMustBeBetween1And100_title">Wrong percentage</string>
+    <string name="alert_resizedButCannotBeDisplayBecauseOfOOMError">Resized photo is large-sized and cannot be displayed now but is available in PhotoResizer folder in the standard Gallery App. You can select and resize next photo.</string>
+    <string name="alert_resizedButCannotBeDisplayBecauseOfOOMError_title">Cannot display resized photo</string>
+    <string name="alert_saveError">"Resizer don't have write access to Your SD-Card and your picture cannot be saved. Please make the SD-Card accessible and try again."</string>
+    <string name="alert_saveError_title">Cannot save the photo</string>
+    <string name="alert_widthOrHeightCannotBeZero">Width/Height must be greater than 0. Please change width/height and try again.</string>
+    <string name="alert_widthOrHeightCannotBeZero_title">Wrong width/height</string>
+    <string name="all_images">All pictures</string>
+    <string name="all_videos">All videos</string>
+    <string name="app_name">Photo &amp; Picture Resizer</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="appsToTry">Apps To Try</string>
+    <string name="areYouSure">Are you sure?</string>
+    <string name="batchResizeScreenTitle">Batch Resize</string>
+    <string name="batchResize_resized">Resized</string>
+    <string name="batchResize_selected">Selected</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="camera_attach">Attach</string>
+    <string name="camera_cancel">Cancel</string>
+    <string name="camera_crop">Crop</string>
+    <string name="camera_label">Camera</string>
+    <string name="camera_pick_wallpaper">Pictures</string>
+    <string name="camera_play">Play</string>
+    <string name="camera_set">Set as</string>
+    <string name="camera_setas_wallpaper">Wallpaper</string>
+    <string name="camera_share">Share</string>
+    <string name="camera_toss">Delete</string>
+    <string name="camerasettings">Settings</string>
+    <string name="cancelButtonLabel">Cancel</string>
+    <string name="cancel_label">Cancel</string>
+    <string name="capture_picture">Capture picture</string>
+    <string name="capture_video">Capture video</string>
+    <string name="change_folder_no_permissions_for_selected">"App does not have permission to store pictures in this folder. 
+
+Please select another folder."</string>
+    <string name="change_folder_no_permissions_for_selected_show_eg_folder">"App does not have permission to store pictures in this folder. 
+
+Please select another folder (eg."</string>
+    <string name="change_folder_output_folder_settings_label">Output folder</string>
+    <string name="change_folder_settings_action_link_change">Change</string>
+    <string name="change_folder_unable">Unable to change folder</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="com.crashlytics.android.build_id">80573e35-1a4f-4794-a987-21388883d914</string>
+    <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
+    <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_like_button_liked">Liked</string>
+    <string name="com_facebook_like_button_not_liked">Like</string>
+    <string name="com_facebook_loading">Loading…</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_loginview_log_in_button">Log in</string>
+    <string name="com_facebook_loginview_log_in_button_continue">Continue with Facebook</string>
+    <string name="com_facebook_loginview_log_in_button_long">Log in with Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="com_facebook_send_button_text">Send</string>
+    <string name="com_facebook_share_button_text">Share</string>
+    <string name="com_facebook_smart_device_instructions">To connect your account, open the Facebook app on your mobile device and check for notifications.</string>
+    <string name="com_facebook_smart_device_instructions_or">- OR -</string>
+    <string name="com_facebook_smart_login_confirmation_cancel">Not you?</string>
+    <string name="com_facebook_smart_login_confirmation_continue_as">Continue as %1$s</string>
+    <string name="com_facebook_smart_login_confirmation_title">Confirm Login</string>
+    <string name="com_facebook_tooltip_default">"You're in control - choose what info you want to share with apps."</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="compare_no_resized_image">"no resized image
+resize to see it here"</string>
+    <string name="compare_original">[Original]</string>
+    <string name="compare_resized">[Resized]</string>
+    <string name="confirm_delete_message">Delete this picture?</string>
+    <string name="confirm_delete_multiple_message">Delete these media files?</string>
+    <string name="confirm_delete_title">Delete</string>
+    <string name="confirm_delete_video_message">Delete this video?</string>
+    <string name="confirm_label">Confirm</string>
+    <string name="context_menu_header">Picture options</string>
+    <string name="crash_toast_text">Ooooops ! I crashed, but a report has been sent to my developer to help fix the issue !</string>
+    <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
+    <string name="create_calendar_title">Create calendar event</string>
+    <string name="create_folder_error">Could not create folder</string>
+    <string name="create_folder_error_already_exists">Folder already exists</string>
+    <string name="create_folder_error_no_write_access">Cannot write to this folder</string>
+    <string name="create_folder_label">Create folder</string>
+    <string name="create_folder_msg">Create new folder with name %1$s?</string>
+    <string name="create_folder_success">Created new folder</string>
+    <string name="crop_discard_text">Discard</string>
+    <string name="crop_label">Crop picture</string>
+    <string name="crop_method_exact_width_height">"Pixel size crop 
+(set width and height in pixels)"</string>
+    <string name="crop_method_manual">"Manual crop 
+(touch box edge to control size)"</string>
+    <string name="crop_save_text">Save</string>
+    <string name="customDimensionsDialog_Title">Define: Width x Height</string>
+    <string name="customDimensionsDialog_validationError_emptyHeight">Please set image height</string>
+    <string name="customDimensionsDialog_validationError_emptyWidth">Please set image width</string>
+    <string name="customDimensionsLandscapePortraitDialog_Title">Define</string>
+    <string name="customPercentageDialog_Title">Define: %</string>
+    <string name="custom_resize_method_percentage">%</string>
+    <string name="custom_resize_method_widhtxheight">width x height</string>
+    <string name="custom_select_how">Select how</string>
+    <string name="debug_menu_ad_information">Ad Information</string>
+    <string name="debug_menu_creative_preview">Creative Preview</string>
+    <string name="debug_menu_title">Select a Debug Mode</string>
+    <string name="debug_menu_troubleshooting">Troubleshooting</string>
+    <string name="decline">Decline</string>
+    <string name="default_value_pref_gallery_size">1</string>
+    <string name="default_value_pref_gallery_slideshow_interval">2</string>
+    <string name="default_value_pref_gallery_slideshow_transition">0</string>
+    <string name="default_value_pref_gallery_sort">descending</string>
+    <string name="default_web_client_id">740290937867-odt3trcpqlrcpaqth9rba1gu59uc41u7.apps.googleusercontent.com</string>
+    <string name="delete_images_message">Deleting images…</string>
+    <string name="deletingPictures">Deleting pictures...</string>
+    <string name="details">Details</string>
+    <string name="details_bit_rate">Bit rate:</string>
+    <string name="details_codec">Codec:</string>
+    <string name="details_date_taken">Date taken:</string>
+    <string name="details_dimension_x">%1$d x %2$d</string>
+    <string name="details_duration">Duration:</string>
+    <string name="details_file_size">File size:</string>
+    <string name="details_format">Format:</string>
+    <string name="details_fps">%1$d fps</string>
+    <string name="details_frame_rate">Frame rate:</string>
+    <string name="details_hms">%1$d:%2$02d:%3$02d</string>
+    <string name="details_image_latitude">GPS latitude:</string>
+    <string name="details_image_location">Location:</string>
+    <string name="details_image_longitude">GPS longitude:</string>
+    <string name="details_image_make">Manufacturer:</string>
+    <string name="details_image_model">Model:</string>
+    <string name="details_image_resolution">Resolution:</string>
+    <string name="details_image_whitebalance">WhiteBalance:</string>
+    <string name="details_kbps">%1$d Kbps</string>
+    <string name="details_mbps">%1$g Mbps</string>
+    <string name="details_ms">%1$02d:%2$02d</string>
+    <string name="details_ok">OK</string>
+    <string name="details_panel_title">Details</string>
+    <string name="dimensionList_CustomPercentage">Custom %</string>
+    <string name="dimensionList_CustomSize">Custom</string>
+    <string name="dimensionList_Title">Select dimensions</string>
+    <string name="dimension_left_header_wxh">Width x Height</string>
+    <string name="done">Done</string>
+    <string name="drawer_about">About</string>
+    <string name="drawer_help">Help</string>
+    <string name="drawer_how_to_resize_image">How to resize photos?</string>
+    <string name="drawer_send_logs">Send Logs To Developer</string>
+    <string name="drawer_send_message">Send Message To Developer</string>
+    <string name="drawer_settings">Settings</string>
+    <string name="drawer_upgrade_to_premium">Upgrade to Premium</string>
+    <string name="email_footer_app">App</string>
+    <string name="email_footer_picturesresizedby">Pictures resized by</string>
+    <string name="email_title_onepicture">Resized picture</string>
+    <string name="email_title_xpictures">Resized pictures</string>
+    <string name="error_androidHadSmallProblem">Android had a small problem. Please select and resize the image once again.</string>
+    <string name="error_androidIsBusy">Your Android is busy and is unable to load picture. Please try again.</string>
+    <string name="error_could_not_take_photo">Could not take a photo</string>
+    <string name="error_noImageToShare">No image to share. Please select the image again.</string>
+    <string name="error_sd_card_not_mounted">Please insert SD card before using camera.</string>
+    <string name="exo_controls_fastforward_description">Fast forward</string>
+    <string name="exo_controls_next_description">Next track</string>
+    <string name="exo_controls_pause_description">Pause</string>
+    <string name="exo_controls_play_description">Play</string>
+    <string name="exo_controls_previous_description">Previous track</string>
+    <string name="exo_controls_rewind_description">Rewind</string>
+    <string name="exo_controls_stop_description">Stop</string>
+    <string name="facebook_app_id">1713332325617223</string>
+    <string name="file_already_exists_overwrite_it">already exists, overwrite it?</string>
+    <string name="file_info_title">File info:</string>
+    <string name="filename_is_too_long">Filename is too long. Max is 100 chars.</string>
+    <string name="firebase_database_url">https://photopictureresizer.firebaseio.com</string>
+    <string name="firstScreen_OtherAppsButton">See Other Apps</string>
+    <string name="firstScreen_RateButton">Rate the app</string>
+    <string name="firstScreen_SelectImageButton">Select a photo</string>
+    <string name="firstScreen_SelectImagesButton">Select photos</string>
+    <string name="firstScreen_TakePhotoButton">Take a photo</string>
+    <string name="firstScreen_UpgradesButton">Buy Premium</string>
+    <string name="firstScreen_messageForUser1">"Multiple photos resizing
+ enabled for free until 2016.01.31."</string>
+    <string name="firstScreen_messageForUser2">"See how to resize multiple images.
+"</string>
+    <string name="firstScreen_messageForUser3">If you like it, please leave positive review. Enjoy!</string>
+    <string name="firstScreen_messageForUser4_close">Close</string>
+    <string name="fromTheTopMenu">from the top menu</string>
+    <string name="fund_a_feature_title">Fund a Feature</string>
+    <string name="fund_button_text_1dollar">$1</string>
+    <string name="fund_done_thankyou_fundscreen">"You've funded above features.
+Thank You!"</string>
+    <string name="fund_done_thankyou_popup_message">Thank you for funding quality improvement!</string>
+    <string name="fund_why0">"We exist for you and thanks to you. Together we've achieved over 1 million downloads. Two of the things you have asked us to improve on are providing you with a better quality of resized images and better app design."</string>
+    <string name="fund_why1">"Therefore based on your requests we want to:
+* improve the quality of resized images,
+* implement material design."</string>
+    <string name="fund_why2">With your help we can make the Resizer better. If you would like to assist in implementing the above changes please make a small donation of $1 by clicking on the button below. Your help is greatly appreciated.</string>
+    <string name="gadget_title">Picture frame</string>
+    <string name="gallery_camera_bucket_name">Camera pictures</string>
+    <string name="gallery_camera_media_bucket_name">Camera media</string>
+    <string name="gallery_camera_videos_bucket_name">Camera videos</string>
+    <string name="gallery_label">Gallery</string>
+    <string name="gallery_picker_label">Gallery</string>
+    <string name="gcm_defaultSenderId">740290937867</string>
+    <string name="goMemoDescription">"Boost your memory power, concentration and learning ability by playing GoMemo. 
+This classic memory game is simple and perfect to warm up your brain at the beginning of the day. GoMemo is an awesome game to improve memory and brain condition. Playing it regularly you can train your memory and keep yourself mentally sharp, all while enjoying time well spent challenging yourself to improve your game score. You will love the fantastic graphics and unique symbols on the matching tiles. 
+Try and rate GoMemo!"</string>
+    <string name="goMemoName">GoMemo Memory Game</string>
+    <string name="google_api_key">AIzaSyCxM7RFwIRk531XA9f0MOBpMfWgk6DIuc4</string>
+    <string name="google_app_id">1:740290937867:android:23de58f64d8ff916</string>
+    <string name="google_crash_reporting_api_key">AIzaSyCxM7RFwIRk531XA9f0MOBpMfWgk6DIuc4</string>
+    <string name="google_storage_bucket">photopictureresizer.appspot.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="help_app_cannot_load_selected_images_text">Select images in other app (eg. Gallery) click icon share and select this app from the list. Photos will be loaded and ready to resize.</string>
+    <string name="help_app_cannot_load_selected_images_title">App cannot load selected images.</string>
+    <string name="help_app_cannot_resize_selected_images_text">"Send us message using option 'Send message to dev team' from the menu, describe exactly what you did step by step and what error did you see."</string>
+    <string name="help_app_cannot_resize_selected_images_title">App cannot resize selected images.</string>
+    <string name="help_custom_define_dimenesions_dialog_aspect_info">You can specify only one dimension (width or height), the second one will be calculated to preserve image aspect ratio.</string>
+    <string name="help_how_to_delete_resized_images_text">"Click 'Resized photos' button, select images to delete and click trash icon."</string>
+    <string name="help_how_to_delete_resized_images_title">How to delete resized images?</string>
+    <string name="help_how_to_find_resized_images_text">"Click 'Resized photos' button and you will see all.
+On the top of the screen is exact path to folder where resized photos are stored."</string>
+    <string name="help_how_to_find_resized_images_title">How to find resized images?</string>
+    <string name="help_how_to_save_resized_images_text">"You don't have to, because resized images are automatically saved. To access them, click button 'Resized photos'."</string>
+    <string name="help_how_to_save_resized_images_title">How to save resized images?</string>
+    <string name="help_how_to_select_multiple_images_text">"Click 'Select photos' button, tap first photo and press a little bit longer then select next photos."</string>
+    <string name="help_how_to_select_multiple_images_title">How to select multiple images?</string>
+    <string name="help_resized_image_has_bad_quality_text">"Try to increase width and height (or %) of the new image. 
+We are constantly improving our resize algorithm. If you think that quality of resized image is not good please send as an email to farluner@gmail.com with attached original and resized image."</string>
+    <string name="help_resized_image_has_bad_quality_title">Resized image has bad quality.</string>
+    <string name="help_what_about_original_images_text">"App doesn't change your original images. Why? Because our first main goal during the app design was to not modify your pictures."</string>
+    <string name="help_what_about_original_images_title">What about original images?</string>
+    <string name="howIsTheAppDialog_CancelBtn">Cancel</string>
+    <string name="howIsTheAppDialog_GreatDialogBtn">Great</string>
+    <string name="howIsTheAppDialog_GreatDialogMessage">If you are feeling generous with your time please take a moment and write positive review or give us stars rating. Thanks!</string>
+    <string name="howIsTheAppDialog_GreatDialogMessage_auto">Help Resizer out by writing review or giving us stars review. Thanks for your support!</string>
+    <string name="howIsTheAppDialog_GreatDialogTitle">Good to hear!</string>
+    <string name="howIsTheAppDialog_GreatDialog_WritePlayReviewBtn">OK</string>
+    <string name="howIsTheAppDialog_NotGreatDialogBtn">Not Great</string>
+    <string name="howIsTheAppDialog_NotGreatDialogTitle">"Let's talk..."</string>
+    <string name="howIsTheAppDialog_NotGreatDialog_CanWeMakeItBetter">If you are feeling generous with your time please take a moment and write us what we can do better? Thanks!</string>
+    <string name="howIsTheAppDialog_NotGreatDialog_CanWeMakeItBetter_auto">Write us what we can do better. Thanks for your support!</string>
+    <string name="howIsTheAppDialog_NotGreatDialog_EmailHint">your@email.here</string>
+    <string name="howIsTheAppDialog_NotGreatDialog_EmailLabel">Your email:</string>
+    <string name="howIsTheAppDialog_NotGreatDialog_FeedbackHint">Please write your feedback here...</string>
+    <string name="howIsTheAppDialog_NotGreatDialog_FeedbackLabel">Feedback:</string>
+    <string name="howIsTheAppDialog_NotGreatDialog_SubmitUserFeedback">Send feedback</string>
+    <string name="howIsTheAppDialog_NotGreatDialog_ThanksForFeedback">Thanks for your meaningful feedback!</string>
+    <string name="howIsTheAppDialog_Survey_NoButton">No, thanks</string>
+    <string name="howIsTheAppDialog_Survey_NotGreatDialogTitle">Would you mind giving us some feedback?</string>
+    <string name="howIsTheAppDialog_Survey_YesButton">OK, sure</string>
+    <string name="howIsTheAppDialog_title">"How's the Resizer for you?"</string>
+    <string name="howIsTheAppDialog_title_auto"><Data>We don’t feel comfortable interrupting your resizing experience to ask for reviews, but if you are feeling generous with your time please take a moment and let us know &lt;b>How’s Resizer for you?&lt;/b></Data></string>
+    <string name="how_to_resize_photos_step1">1. Select one or multiple photos</string>
+    <string name="how_to_resize_photos_step1_how_select_multiple">"To select multiple photos:
+ tap first photo and press a little 
+ bit longer, then select next photos."</string>
+    <string name="how_to_resize_photos_step2">2. Click icon resize</string>
+    <string name="how_to_resize_photos_step3">"3. Select new photo size from the list 
+ (eg. 40%)"</string>
+    <string name="how_to_resize_photos_step4">4. Done. Resized</string>
+    <string name="how_to_resize_photos_step5">5. Send resized photos, using icon</string>
+    <string name="how_to_resize_photos_title">How to resize photos?</string>
+    <string name="image_gallery_NoImageView_text">No media found.</string>
+    <string name="keep_exif_data">Keep EXIF data</string>
+    <string name="loadingPictures">Loading pictures...</string>
+    <string name="loading_video">Loading video…</string>
+    <string name="messenger_send_button_text">Send</string>
+    <string name="more_dimensions_left_label">More dimensions</string>
+    <string name="more_dimensions_show">Show More</string>
+    <string name="movieviewlabel">Movies</string>
+    <string name="msg_resizedToAxB">Resized to</string>
+    <string name="msg_tipResizedImageLocation">Resized photo was saved in PhotoResizer album in Gallery</string>
+    <string name="msg_tipResizedImageLocationFolder">Saved in folder SD Card/Pictures/PhotoResizer</string>
+    <string name="msg_tipUseGestureToBrowsePictures">Tip: Use Swipe gesture to browse pictures.</string>
+    <string name="multiface_crop_help">Touch a face to begin.</string>
+    <string name="multiselect">Multiselect</string>
+    <string name="multiselect_cancel">Cancel</string>
+    <string name="multiselect_delete">Delete</string>
+    <string name="multiselect_share">Share</string>
+    <string name="no">No</string>
+    <string name="no_location_image">"There's no location information stored in this image."</string>
+    <string name="no_storage">You need to insert an SD card before using the camera.</string>
+    <string name="no_way_to_share">"There's no app available to share the media file(s)."</string>
+    <string name="no_way_to_share_image">"There's no app available to share the picture."</string>
+    <string name="no_way_to_share_video">"There's no app available to share the video."</string>
+    <string name="not_enough_space">Your SD card is full.</string>
+    <string name="okButtonLabel">OK</string>
+    <string name="onboardingAutoSaveInformation">"For your convenience the resized photos
+are automatically saved 
+in the 'Pictues/PhotoResizer' folder."</string>
+    <string name="onboarding_GotIt">Got It</string>
+    <string name="onboarding_step1_text">See how this simple app helps you easily reduce your pictures size</string>
+    <string name="onboarding_step1_title">"Thanks for installing
+\"Photo &amp; Picture Resizer\""</string>
+    <string name="onboarding_step2_text">Helps you resize multiple photos at once and easily share or send via email.</string>
+    <string name="onboarding_step2_title">Batch Resize</string>
+    <string name="onboarding_step35_text">Replace original picture by resized.</string>
+    <string name="onboarding_step35_title">Free up storage space</string>
+    <string name="onboarding_step3_text">Helps you resize and share one picture.</string>
+    <string name="onboarding_step3_title">Resize</string>
+    <string name="onboarding_step4_text">Helps you cut the selected photo.</string>
+    <string name="onboarding_step4_title">Crop</string>
+    <string name="onboarding_step6_text">"Questions?
+Bugs?
+New feature?
+Cooperation? 
+Drop us a line. 
+
+Start your journey with the Resizer App..."</string>
+    <string name="onboarding_step6_title">farluner@gmail.com</string>
+    <string name="photos_gallery_title">Gallery</string>
+    <string name="pick_photos_gallery_title">Choose picture</string>
+    <string name="pick_videos_gallery_title">Choose video</string>
+    <string name="pref_gallery_category">General settings</string>
+    <string name="pref_gallery_confirm_delete_summary">Show confirmation before deleting a picture or video</string>
+    <string name="pref_gallery_confirm_delete_title">Confirm deletions</string>
+    <string name="pref_gallery_size_dialogtitle">Picture size</string>
+    <string name="pref_gallery_size_summary">Choose the display size of pictures and videos</string>
+    <string name="pref_gallery_size_title">Display size</string>
+    <string name="pref_gallery_slideshow_interval_dialogtitle">Slideshow interval</string>
+    <string name="pref_gallery_slideshow_interval_summary">Choose how long each slide displays in the show</string>
+    <string name="pref_gallery_slideshow_interval_title">Slideshow interval</string>
+    <string name="pref_gallery_slideshow_repeat_summary">Play slideshow more than once</string>
+    <string name="pref_gallery_slideshow_repeat_title">Repeat slideshow</string>
+    <string name="pref_gallery_slideshow_shuffle_summary">Show pictures in random order</string>
+    <string name="pref_gallery_slideshow_shuffle_title">Shuffle slides</string>
+    <string name="pref_gallery_slideshow_transition_dialogtitle">Slideshow transition</string>
+    <string name="pref_gallery_slideshow_transition_summary">Choose the effect used when moving from one slide to the next</string>
+    <string name="pref_gallery_slideshow_transition_title">Slideshow transition</string>
+    <string name="pref_gallery_sort_dialogtitle">Picture sort</string>
+    <string name="pref_gallery_sort_summary">Choose the sort order of pictures and videos</string>
+    <string name="pref_gallery_sort_title">Sort order</string>
+    <string name="pref_slideshow_category">Slideshow settings</string>
+    <string name="preferences_label">Camera settings</string>
+    <string name="preparing_sd">Preparing SD card…</string>
+    <string name="processingPictures">Processing pictures...</string>
+    <string name="purchase_pleaseRetryInAFewSeconds">Please retry in a few seconds.</string>
+    <string name="qasteDescription">"Want to be better every day?
+One important idea a day to improve yourself, eg.:
+Stop trying to control the things you can't.
+
+Self-esteem is not something you have, it is something you nurture.
+
+You will never reach your own potential if you follow someone else thoughts.
+
+Why do you care what people think of you if nothing in your life depends on them?"</string>
+    <string name="qasteTitle">Qaste Ideas</string>
+    <string name="rename_action_link">Rename</string>
+    <string name="rename_file_dialog_title">Rename image</string>
+    <string name="replace_areYouSure">This will replace original picture by resized picture. Are you sure?</string>
+    <string name="replace_failed">"Ups... 
+Replace original picture failed!"</string>
+    <string name="replace_original_action_link">Replace original photo</string>
+    <string name="replace_warningCannotBeReversed">Warning: This operation cannot be reversed!</string>
+    <string name="resizeScreenTitle">Resize</string>
+    <string name="resizedPicturesButtonText">Resized photos</string>
+    <string name="resume_playing_message">Resume playing video from %s?</string>
+    <string name="resume_playing_restart">Start over</string>
+    <string name="resume_playing_resume">Resume playing</string>
+    <string name="resume_playing_title">Resume video</string>
+    <string name="rotate">Rotate</string>
+    <string name="rotate_left">Rotate left</string>
+    <string name="rotate_right">Rotate right</string>
+    <string name="runningFaceDetection">Please wait…</string>
+    <string name="savingImage">Saving picture…</string>
+    <string name="savings">Savings</string>
+    <string name="search_menu_title">Search</string>
+    <string name="see_in_resized_photos">See in resized photos</string>
+    <string name="select_crop_method">Select crop method</string>
+    <string name="select_photos_alternative">Select photos - alternative</string>
+    <string name="select_video">Select video</string>
+    <string name="selected_folder_doesnt_exist">"Selected folder doesn't exist"</string>
+    <string name="selected_folder_label">Selected folder:</string>
+    <string name="sendImage">Share picture via</string>
+    <string name="sendVideo">Share video via</string>
+    <string name="send_email_to_n_farluner_gmail_com">Click to send email to farluner@gmail.com</string>
+    <string name="send_media_files">Share media files via</string>
+    <string name="setImage">Set picture as</string>
+    <string name="settings_disable_email_title_and_footer_text">Disable default email title and footer</string>
+    <string name="settings_exif_is_available_only_in_premium">Available only in Premium</string>
+    <string name="settings_link_buy_premium">Buy Premium</string>
+    <string name="show_on_map">Show on Maps</string>
+    <string name="skip">Skip</string>
+    <string name="slide_show">Slideshow</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="store_picture_message">Allow Ad to store image in Picture gallery?</string>
+    <string name="store_picture_title">Save image</string>
+    <string name="tap">Tap</string>
+    <string name="testBeta_moreinfo">More info about beta tests</string>
+    <string name="testBeta_why0">"We've implemented new modern User Interface (material design).
+Plus a few new features like % resize, savings calculation, smooth pics browsing, etc. 
+Space is limited to 1000."</string>
+    <string name="testBeta_why1">"
+
+How to install new version?
+1. Click the button \"Start testing\".
+2. You will be redirected to app's play store page.
+3. Scroll down to the end of the page - section \"Became beta tester\".
+4. Click button \"I'M IN\" and \"JOIN\", wait few minutes and install new Resizer version.
+5. Give us a feedback - write a review. Reviews for beta are not public."</string>
+    <string name="test_new_version">Try new app version</string>
+    <string name="toResizePicture">to resize picture(s)</string>
+    <string name="toSendResizedPicture">to send resized picture(s)</string>
+    <string name="toolbar_crop">Crop</string>
+    <string name="toolbar_resized_delete">Delete</string>
+    <string name="tryGoMemoButton">Try GoMemo</string>
+    <string name="tryQasteButton">Try Qaste Ideas</string>
+    <string name="up_label">Up</string>
+    <string name="upgradeScreenTitle">Upgrade</string>
+    <string name="upgradeScreenTitleText">Upgrade to Premium</string>
+    <string name="upgradeScreenTitleTextAfterPurchase">You have a Premium</string>
+    <string name="upgrade_1_year_subscription">1 year subscription</string>
+    <string name="upgrade_onetime_payment">Onetime payment</string>
+    <string name="upgrades_buy_button_text">Buy</string>
+    <string name="upgrades_purchased_button_text">Purchased</string>
+    <string name="v7_preference_off">OFF</string>
+    <string name="v7_preference_on">ON</string>
+    <string name="video_context_menu_header">Video options</string>
+    <string name="video_exceed_mms_limit">The video you recorded is too large to send via MMS. Try recording a shorter length clip.</string>
+    <string name="video_play">Play</string>
+    <string name="videos_gallery_title">Gallery</string>
+    <string name="view">View</string>
+    <string name="view_label">View picture</string>
+    <string name="wait">Please wait…</string>
+    <string name="wallpaper">Setting wallpaper…</string>
+    <string name="warning_dialog_title">Warning</string>
+    <string name="why_premium_version">"Why Premium version?
+★ No ads,
+
+★ Preserve EXIF data,
+
+★ No default subject and footer while emailing or sharing photos,
+
+★ Small tip for our hard work."</string>
+    <string name="why_premium_versionAfterBuy">"★ No ads,
+★ Preserve EXIF data"</string>
+    <string name="why_premium_version_43">"Why Premium version?
+★ No ads,
+★ Preserve EXIF data,
+★ Small tip for our hard work."</string>
+    <string name="yes">Yes</string>
+</resources>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World!</string>
+    <string name="app_name">My Firestone</string>
+    <string name="ga_api_key">UA-4801949-25</string>
+    <string name="google_map_key">0viy5I2qDWrqbxFPrVa-9fZCZf7CbXNOEKYfgjQ</string>
+    <string name="network_error">Service not available, please check your connection and try again.</string>
+    <string name="maintenance_no_info">Sorry, there is no recommended maintenance for your vehicle yet, please check back later.</string>
+    <string name="service_history_by_phone_error">Please enter at least ONE valid phone number.</string>
+    <string name="service_history_by_invoice_error">Please enter both Invoice Number and Store Number.</string>
+    <string name="service_history_search_fail">"We couldn't find any service records that match your {0} using the information provided. 
+
+It can take up to 10 days following service for your cars records to be available."</string>
+    <string name="service_history_download_error">Please select the at least one matching vehicle to continue.</string>
+    <string name="service_history_no_invoices">No invoices found for your vehicle at this time, please Download Service Records or Add Service Record.</string>
+    <string name="service_history_offline">Service History database is undergoing routine maintenance. We apologize for the inconvenience. Please try again later.</string>
+    <string name="schedule_appt_services_error">Please select at least one service.</string>
+    <string name="schedule_appt_dates_times_error">Please complete Month/Date/Time for TWO choices.</string>
+    <string name="schedule_appt_plus_dates_times_error">Please complete Month/Date/Time.</string>
+    <string name="schedule_appt_dates_times_no_duplicate">You may not select the same appointment time more than once.</string>
+    <string name="schedule_appt_dates_times_no_30mins">You may not select appointment times less than 15 minutes apart.</string>
+    <string name="schedule_appt_dates_times_no_saturday_before_noon">You may not select both appointment times before noon on Saturdays.</string>
+    <string name="schedule_appt_dates_times_no_info">Sorry we cannot get schedule information, please try again later.</string>
+    <string name="schedule_appt_dates_times_no_info_msg">Sorry, we ran into a problem while loading your store availability. Please call the store directly to schedule your appointment.</string>
+    <string name="schedule_appt_save_schedule_error">Sorry we cannot save your schedule, please verify your data entry and try again.</string>
+    <string name="schedule_appt_contact_error">Please enter all the information.</string>
+    <string name="schedule_appt_contact_validate">Please enter correct information.</string>
+    <string name="driver_info_no_contact">Press edit to update your contact information such as name, address, and phone number for use throughout the app.</string>
+    <string name="driver_info_no_store">Press edit to select your preferred store for use throughout the app.</string>
+    <string name="driver_info_no_vehicle">Press edit to add cars and use them throughout the app.</string>
+    <string name="driver_info_form_error">Please enter all the information.</string>
+    <string name="contact_us_no_contact">Press edit to update your contact information we can use to respond to your message.</string>
+    <string name="contact_us_error">Please enter the required contact information and message.</string>
+    <string name="contact_us_form_error">Please enter the required First Name, Last Name and Email.</string>
+    <string name="contact_us_service_error">Sorry we cannot submit your information at this time, please try again later.</string>
+    <string name="find_gas_no_station">No stations found for your search, please try again.</string>
+    <string name="find_gas_no_station_radius">No gas stations were found for your search. Please increase your search radius.</string>
+    <string name="find_gas_change_radius">Choose your search radius from the list below. My Firestone will display the top 30 cheapest gas stations within that area.</string>
+    <string name="find_gas_form_error">Please enter ZIP or City, State</string>
+    <string name="find_gas_no_gps">We cannot locate you at this time. Please use ZIP or City, State to find cheap gas.</string>
+    <string name="find_gas_validation_error">Please enter either a 5 digit zipcode or your city and state separated by a comma with the state as a two-digit abbreviation (e.g. Chicago, IL).</string>
+    <string name="find_store_no_store">No stores found for your search, please try again.</string>
+    <string name="find_store_no_store_radius">No stores found, please increase your search radius.</string>
+    <string name="find_store_change_radius">Choose your search radius from the list below. My Firestone will display the top 15 closest stores within that area.</string>
+    <string name="find_store_form_error">Please enter ZIP or City, State</string>
+    <string name="find_store_no_gps">We cannot locate you at this time. Please use ZIP or City, State to find store.</string>
+    <string name="find_store_validation_error">Please enter either a 5 digit zipcode or your city and state separated by a comma with the state as a two-digit abbreviation (e.g. Chicago, IL).</string>
+    <string name="parking_reminder_form_error">Please enter a note, add a photo or get a GPS location.</string>
+    <string name="parking_reminder_save_no_gps">We cannot locate you at this time. Do you want to save parking reminder without GPS?</string>
+    <string name="parking_reminder_recall_no_gps">"Sorry, GPS couldn't find your location, please try again."</string>
+    <string name="mileage_tracker_fillup_error">"Please enter your vehicle's odometer, price/gal and amount filled."</string>
+    <string name="vehicle_add_edit_error">Please select your vehicle year, make, model, submodel, driving conditions, and enter its correct mileage.</string>
+    <string name="vehicle_save_error">Sorry we cannot save your vehicle, please verify your data entry and try again.</string>
+    <string name="vehicle_no_engine">There is no engine info for your vehicle at this time.</string>
+    <string name="vehicle_no_driving_condition">There is no driving conditions for your vehicle at this time.</string>
+    <string name="vehicle_no_info">Sorry we cannot get your vehicle information, please try again later.</string>
+    <string name="vehicle_max_reached">"You've reached the maximum allowed vehicles for this app."</string>
+    <string name="driving_condition_prompt">Select Driving Conditions - For maintenance milestones, your auto manufacturer requires that you select an option matching your driving habits and local conditions.</string>
+    <string name="vehicle_change_warning">This change may affect other apps, like Mileage Tracker and Vehicle History, are you sure you want to continue?</string>
+    <string name="no_vehicle_title">Vehicle Required</string>
+    <string name="no_vehicle_message">This tool requires at least one car to be setup within the app. Please click Add Car below to setup your first vehicle.</string>
+    <string name="search_radius_prompt">Search Radius</string>
+    <string name="find_tires_form_copy">Please enter your ZIP code and press Search to find tires for your {0} at a nearby {1} store.</string>
+    <string name="find_tires_form_error">Please enter your ZIP code.</string>
+    <string name="my_firestone_welcome_msg">"We've added a new Backup and Restore feature allowing you to save all of your important My Firestone data to your very own My Firestone Cloud account and then share the data across all of your mobile devices where My Firestone is installed. You can find the new feature under the My Info button on the dashboard. 
+
+My Firestone will continue to have even more benefits down the road, so look for future updates. 
+
+Thanks for using My Firestone – the one tool every driver needs."</string>
+    <string name="backup_sync_announcement">"We've added a new Backup and Restore feature allowing you to save all of your important My Firestone data to your very own My Firestone Cloud account and then share the data across all of your mobile devices where My Firestone is installed. You can find the new feature under the My Info button on the dashboard. 
+
+Thanks for using My Firestone – the one tool every driver needs."</string>
+    <string name="title_activity_special_offers_coupon">SpecialOffersCouponActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_special_offers_coupon2">SpecialOffersCoupon2Activity</string>
+    <string name="user_id">User ID</string>
+    <string name="passsword">Password</string>
+    <string name="login">Login</string>
+    <string name="registration">Registration</string>
+    <string name="btn_create">Create</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="profile">My Firestone Account</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="backup">Backup</string>
+    <string name="reg_email">My Profile Email</string>
+    <string name="last_backup_date">Last Backup Date</string>
+    <string name="driver_info_no_account">Press edit to manage your My Firestone Cloud account on this device. You may either enter your credentials for an existing account or create a new account. This will allow you to backup and restore your data to the My Firestone Cloud.</string>
+    <string name="profile_not_registered">Please create a new account or enter the credentials for an existing account to use the backup or restore feature.</string>
+    <string name="progress_backup_title">Backup</string>
+    <string name="progress_restore_title">Restore</string>
+    <string name="progress_backup">My Firestone Cloud Backup</string>
+    <string name="progress_restore">My Firestone Cloud Restore</string>
+    <string name="progress_wait">Please wait …</string>
+    <string name="profile_account_msg_title">Account Sign In</string>
+    <string name="passsword_confirm">Confirm Password</string>
+    <string name="password_confim_not_match">"Password doesn't match."</string>
+    <string name="sign_in_failed">Login failed. Email and/or password do not match.</string>
+    <string name="empty" />
+    <string name="default_nav_title">Nav Title</string>
+    <string name="back_to_myinfo">Back To My Info</string>
+    <string name="hint_email">Email address</string>
+    <string name="account_locked">Your My Firestone Account has been locked. Too many attempts were made to unsuccessfully access your My Firestone Cloud account. Please use the Reset Password function to unlock your Account.</string>
+    <string name="account_email_invalid">Invalid Email Address</string>
+    <string name="account_relogin">Your account credentials may have been updated recently on one of your other devices. Please enter your updated credentials to re-authenticate this device with the My Firestone Cloud.</string>
+    <string name="account_password_empty">Password cannot be empty.</string>
+    <string name="account_password_confirm_empty">Confirm password cannot be empty.</string>
+    <string name="account_password_not_match">Confirm password does not match.</string>
+    <string name="account_userid_empty">User ID cannot be empty.</string>
+    <string name="account_password_not_valid">Passwords must be at least 8 characters long and must contain three out of four of the following: One upper case character, One lowercase character, One digit and One special character such as @ # % / _ = - ( ) ! + ^ * [ ] { } | $</string>
+    <string name="account_password_format">"*Note: Passwords must be at least 8 characters 
+and must contain three of four of the following: 
+ One upper case character.
+ One lowercase character.
+ One digit.
+ One special character such as (@ # % / _ = - ( ) ! + ^ * [ ] { } | $)"</string>
+    <string name="title_activity_driver_info_account_update">DriverInfoAccountUpdateActivity</string>
+    <string name="current_id">My Firestone ID</string>
+    <string name="my_firestone_pwd">My Firestone Password</string>
+    <string name="current_pwd">Current Password</string>
+    <string name="resetpwd">Reset My Firestone Account Password</string>
+    <string name="reg_pwd">My Profile Password</string>
+    <string name="account_update_go">Go</string>
+    <string name="account_update_retry">Retry</string>
+    <string name="account_update_cancel">Cancel</string>
+    <string name="change_email">New Email Address</string>
+    <string name="new_pwd">New Password</string>
+    <string name="new_pwd_confirm">Confirm New Password</string>
+    <string name="btn_resetpwd">Reset Password</string>
+    <string name="hint_forget_pwd_email">Registered Email address</string>
+    <string name="backup_success">Backup successfully saved to My Firestone Cloud.</string>
+    <string name="restore_success">Your data was successfully restored to this device.</string>
+    <string name="restore_no_backup_db">No backup was found in the My Firestone Cloud. You must first backup your device data before attempting to restore.</string>
+    <string name="restore_confirm_user">Please confirm restore to this device. All existing data on this device will be overwritten!</string>
+    <string name="disclaimer_title">Disclaimer</string>
+    <string name="disclaimer_text">BSRO, the Recipient, agrees that all Confidential Information shall remain the property of Discloser, and that Discloser may use such Confidential Information for any purpose without obligation to Recipient. Nothing contained herein shall be construed as granting or implying any transfer of rights to Recipient in the Confidential Information, or any patents or other intellectual property protecting or relating to the Confidential Information.</string>
+    <string name="appt_plus_other_comment_required">Please note any symptoms or issues you are experiencing in the Other (Miscellaneous Repair) box in order to proceed to the next step</string>
+    <string name="odometer_alert_title">Odometer Inconsistency</string>
+    <string name="schedule_appt_plus_vehicle_drop">I will leave my vehicle</string>
+    <string name="schedule_appt_plus_vehicle_wait">I will wait for service completion</string>
+    <string name="try_again_msg">Failed to fetch service type. Please Retry.</string>
+    <string name="try_again">RETRY</string>
+    <string name="military_msg">*This location is only available to customers with military exchange privileges.</string>
+    <string name="no_appointment_msg">*This store does not provide the facility to schedule appointment online. Call store for appointment</string>
+    <string name="err_no_image_loaded">Image is not loaded properly. Please wait</string>
+    <string name="key_adobe_mc">adobe_mc</string>
+    <string name="key_mcid">MCAID%3D</string>
+    <string name="key_appid">appid</string>
+    <string name="no_friendly_id">No friendlyId</string>
+    <string name="no_title">No Title</string>
+    <string name="ok_">OK</string>
+    <string name="no_offers_found_title">No Offers Found</string>
+    <string name="no_offers_found_msg">No offers found for the selected category</string>
+    <string name="stores_count_title">Stores Count</string>
+    <string name="find_store_change_store_count">Choose number of stores to display. My Firestone will display the selected number of stores within 250 miles area.</string>
+    <string name="server_error">Issue with server. Try again after sometime</string>
+</resources>

@@ -1,0 +1,867 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="cast_casting_to_device">Casting to %1$s</string>
+    <string name="cast_closed_captions">Closed captions</string>
+    <string name="cast_closed_captions_unavailable">Closed captions unavailable</string>
+    <string name="cast_disconnect">Disconnect</string>
+    <string name="cast_expanded_controller_background_image">Album art</string>
+    <string name="cast_expanded_controller_loading">Loading…</string>
+    <string name="cast_forward">Forward</string>
+    <string name="cast_forward_10">Forward ten seconds</string>
+    <string name="cast_forward_30">Forward thirty seconds</string>
+    <string name="cast_intro_overlay_button_text">@android:string/ok</string>
+    <string name="cast_mute">Mute</string>
+    <string name="cast_notification_connected_message">Connected to %1$s</string>
+    <string name="cast_notification_connecting_message">Connecting to %1$s</string>
+    <string name="cast_notification_disconnect">Disconnect</string>
+    <string name="cast_pause">Pause</string>
+    <string name="cast_play">Play</string>
+    <string name="cast_rewind">Rewind</string>
+    <string name="cast_rewind_10">Rewind ten seconds</string>
+    <string name="cast_rewind_30">Rewind thirty seconds</string>
+    <string name="cast_seek_bar">Playback seek control</string>
+    <string name="cast_skip_next">Skip to next item</string>
+    <string name="cast_skip_prev">Skip to previous item</string>
+    <string name="cast_stop">Stop</string>
+    <string name="cast_stop_live_stream">Stop live stream</string>
+    <string name="cast_tracks_chooser_dialog_audio">Audio</string>
+    <string name="cast_tracks_chooser_dialog_cancel">Cancel</string>
+    <string name="cast_tracks_chooser_dialog_default_track_name">Track %1$d</string>
+    <string name="cast_tracks_chooser_dialog_no_audio_tracks">No Audio Tracks Available</string>
+    <string name="cast_tracks_chooser_dialog_no_text_tracks">No Text Tracks Available</string>
+    <string name="cast_tracks_chooser_dialog_no_tracks_available">No tracks available</string>
+    <string name="cast_tracks_chooser_dialog_none">None</string>
+    <string name="cast_tracks_chooser_dialog_ok">OK</string>
+    <string name="cast_tracks_chooser_dialog_subtitles">Subtitles</string>
+    <string name="cast_unmute">Unmute</string>
+    <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_like_button_liked">Liked</string>
+    <string name="com_facebook_like_button_not_liked">Like</string>
+    <string name="com_facebook_loading">Loading...</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_loginview_log_in_button">Log in</string>
+    <string name="com_facebook_loginview_log_in_button_long">Log in with Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="com_facebook_send_button_text">Send</string>
+    <string name="com_facebook_share_button_text">Share</string>
+    <string name="com_facebook_tooltip_default">"New! You're in control - choose what info you want to share with apps."</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Get Google Play services</string>
+    <string name="common_google_play_services_install_text_phone">"%1$s won't run without Google Play services, which are missing from your phone."</string>
+    <string name="common_google_play_services_install_text_tablet">"%1$s won't run without Google Play services, which are missing from your tablet."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. If the problem persists, please contact the developer for assistance.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s relies on Google Play services, which is not supported by your device. Contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_updating_title">Google Play services are updating</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="messenger_send_button_text">Send</string>
+    <string name="mr_media_route_button_content_description">Cast</string>
+    <string name="mr_media_route_chooser_searching">Searching for devices…</string>
+    <string name="mr_media_route_chooser_title">Connect to device</string>
+    <string name="mr_media_route_controller_disconnect">Disconnect</string>
+    <string name="mr_media_route_controller_no_info_available">No info available</string>
+    <string name="mr_media_route_controller_pause">Pause</string>
+    <string name="mr_media_route_controller_play">Play</string>
+    <string name="mr_media_route_controller_settings_description">Route settings</string>
+    <string name="mr_media_route_controller_stop">Stop casting</string>
+    <string name="mr_system_route_name">System</string>
+    <string name="mr_user_route_category_name">Devices</string>
+    <string name="place_autocomplete_clear_button">Clear search</string>
+    <string name="place_autocomplete_search_hint">Search</string>
+    <string name="search_menu_title">Search</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="wallet_buy_button_place_holder">Buy with Google</string>
+    <string name="y_photopicker_all_image">All</string>
+    <string name="y_photopicker_cancel">No</string>
+    <string name="y_photopicker_confirm_to_delete">Delete?</string>
+    <string name="y_photopicker_delete">Delete</string>
+    <string name="y_photopicker_deleted_a_photo">This photo has been deleted.</string>
+    <string name="y_photopicker_done">choice</string>
+    <string name="y_photopicker_done_with_count">Done(%1$d/%2$d)</string>
+    <string name="y_photopicker_effect">Crop</string>
+    <string name="y_photopicker_image_count">%1$d</string>
+    <string name="y_photopicker_image_index">%1$d/%2$d</string>
+    <string name="y_photopicker_image_select_title">Select Image</string>
+    <string name="y_photopicker_over_max_count_tips">You can select up to %1$d</string>
+    <string name="y_photopicker_undo">Cancel</string>
+    <string name="y_photopicker_yes">Yes</string>
+    <string name="com_kakao_account_cancel">Cancel</string>
+    <string name="com_kakao_alert_appKey">need to declare com.kakao.sdk.AppKey in your AndroidManifest.xml</string>
+    <string name="com_kakao_alert_install_kakaotalk">There is no installed KakaoTalk version higher than 4.2.0</string>
+    <string name="com_kakao_cancel_button">Cancel</string>
+    <string name="com_kakao_confirm_logout">Are you sure to log out from this app?</string>
+    <string name="com_kakao_confirm_unlink">Are you sure to unlink from this app?</string>
+    <string name="com_kakao_kakaostory_account">with KakaoStory</string>
+    <string name="com_kakao_kakaotalk_account">with KakaoTalk</string>
+    <string name="com_kakao_login_button">Log in with KakaoAccount</string>
+    <string name="com_kakao_logout_button">Log out</string>
+    <string name="com_kakao_ok_button">OK</string>
+    <string name="com_kakao_other_kakaoaccount">with another KakaoAccount</string>
+    <string name="com_kakao_profile_userId">Kakao User ID</string>
+    <string name="com_kakao_tokeninfo_button">Token Info</string>
+    <string name="com_kakao_unlink_button">Unlink</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="accept">Accept</string>
+    <string name="account">계정등록</string>
+    <string name="action_settings">Settings</string>
+    <string name="agree">동의함</string>
+    <string name="alert">알림</string>
+    <string name="alert_loacation">알림</string>
+    <string name="all_Check">필수 값을 모두 입력해주세요</string>
+    <string name="already_registered">Device is already registered on server.</string>
+    <string name="app_brand">브랜드 APPS</string>
+    <string name="app_brand_1">이니스프리</string>
+    <string name="app_brand_2">라네즈</string>
+    <string name="app_brand_3">에뛰드 하우스</string>
+    <string name="app_brand_4">아리따움</string>
+    <string name="app_hp_blank">휴대폰 번호가 올바르지 않습니다.</string>
+    <string name="app_hp_blank_back">핸드폰 끝번호는 숫자 4개가 필요합니다.</string>
+    <string name="app_hp_blank_front">핸드폰 중간번호는 숫자 3~4개가 필요합니다.</string>
+    <string name="app_mnc">매거진&amp;캘린더 APPS</string>
+    <string name="app_mnc_1">"아리따움
+매거진"</string>
+    <string name="app_mnc_2">향장 매거진</string>
+    <string name="app_mnc_3">핑크 캘린더</string>
+    <string name="app_mnc_4">AP ZINE</string>
+    <string name="app_name">뷰티포인트</string>
+    <string name="app_name_blank">이름을 입력해주세요.</string>
+    <string name="app_name_sub">Beauty Point</string>
+    <string name="app_snb">쇼핑&amp;뷰티 APPS</string>
+    <string name="app_snb_1">뷰티Q</string>
+    <string name="app_snb_2">AP MALL</string>
+    <string name="app_snb_3">뷰티엔젤</string>
+    <string name="app_title">아모레퍼시픽 APP</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="ars_content">고객이 ARS로 접근할 경우 음성뿐만 아니라 App서비스의 화면을 사용하여 편리하게 ARS를 이용할 수 있는 서비스입니다.</string>
+    <string name="ars_title">스마트 ARS란</string>
+    <string name="auto_login">자동로그인</string>
+    <string name="auto_login_txt">자동로그인으로 편리하게 앱을 사용하실 수 있습니다.</string>
+    <string name="barcode_text">"마지막으로 로그인 시 저장된 바코드 정보입니다.
+변경사항이 있을경우 다시 로그인 해주시기 바랍니다."</string>
+    <string name="base_save">기본 적립</string>
+    <string name="base_save_point">기본 적립포인트</string>
+    <string name="beacon_agree">"위치기반 서비스
+이용 동의 처리되었습니다."</string>
+    <string name="beacon_agree1">위치기반서비스 이용약관 동의</string>
+    <string name="beacon_agree2">위치정보사업자 이용약관 동의</string>
+    <string name="beacon_all_agree">전체 동의</string>
+    <string name="beacon_bluetooth">"뷰티포인트 위치기반 서비스를 정상적으로 이용하시기 위해서는
+[블루투스] 연결이 필요합니다."</string>
+    <string name="beacon_content">"위치기반 서비스 이용동의 설정을 하실 수 있습니다.
+위치기반 서비스 이용에 동의하지 않는 경우, 고객님의 위치에 따라 제공받을 수 있는 이벤트 정보와 쿠폰은 확인하실 수 없습니다."</string>
+    <string name="beacon_detail">자세히 보기</string>
+    <string name="beacon_disagree">"위치기반 서비스
+이용 동의안함 처리되었습니다."</string>
+    <string name="beacon_not_all_agree">모두 동의하시지 않으면 서비스 이용이 불가합니다.</string>
+    <string name="beacon_popup_disagree">"위치기반 서비스에 동의하지 않으셨습니다.
+이벤트 정보와 쿠폰을 받고 싶으실 경우 설정을 통해 변경 가능합니다."</string>
+    <string name="beacon_title">위치기반 서비스 이용동의</string>
+    <string name="beacon_version">해당 디바이스 버전은 위치기반 서비스를 지원하지 않습니다.</string>
+    <string name="beautifullife_alert">신고</string>
+    <string name="beautifullife_delete">삭제</string>
+    <string name="beautifullife_edit">수정</string>
+    <string name="beautifullife_sharing">공유할 대상이 없습니다.</string>
+    <string name="beauty_before">지난주제</string>
+    <string name="beauty_camera">사진을 등록해주세요.</string>
+    <string name="beauty_cancel">취소</string>
+    <string name="beauty_confirm">확인</string>
+    <string name="beauty_delete">해당 게시물을 삭제하시겠습니까?</string>
+    <string name="beauty_done">완료</string>
+    <string name="beauty_edit">수정이 완료되었습니다.</string>
+    <string name="beauty_event">이벤트</string>
+    <string name="beauty_event_date">이벤트 기간</string>
+    <string name="beauty_event_done">응모완료</string>
+    <string name="beauty_event_end">종료</string>
+    <string name="beauty_event_ing">진행중</string>
+    <string name="beauty_event_start">응모</string>
+    <string name="beauty_image_no">사진을 등록해주세요.</string>
+    <string name="beauty_no_search">검색결과가 없습니다.</string>
+    <string name="beauty_notice">뷰티포인트 공지사항</string>
+    <string name="beauty_pop1">MY 게시물</string>
+    <string name="beauty_pop2">지난주제보기</string>
+    <string name="beauty_pop3">혜택안내</string>
+    <string name="beauty_pop4">전체 게시물</string>
+    <string name="beauty_pop_text1">뷰티풀라이프</string>
+    <string name="beauty_pop_text10">게시물 등록 완료 <b>100P</b> 및 스탬프 4개 완성으로 추가 <b>100P</b>"가
+적립되셨습니다."</string>
+    <string name="beauty_pop_text11">축하드립니다!</string>
+    <string name="beauty_pop_text2"><b>게시물을 등록하시면 뷰티포인트 <b>100P</b>"와 스탬프
+1개가 적립됩니다! (단, 한 주제 당 1회에 한함)"</b></string>
+    <string name="beauty_pop_text3">등록 후 스템프 1개를 더 받으세요.</string>
+    <string name="beauty_pop_text4">현재까지의 적립 스탬프 :</string>
+    <string name="beauty_pop_text5">각 주제별 게시물 등록 시 적립되는 스탬프를 4개</string>
+    <string name="beauty_pop_text5_2">완성하시면 100P가 추가 적립됩니다.</string>
+    <string name="beauty_pop_text6">적립된 포인트의 유효기간은 적립일로부터 1년입니다.</string>
+    <string name="beauty_pop_text7">확인</string>
+    <string name="beauty_pop_text8">등록완료!</string>
+    <string name="beauty_pop_text9">뷰티포인트 <b>100P</b>가 적립되셨습니다</string>
+    <string name="beauty_search">\#검색</string>
+    <string name="beauty_search_hint">해시태그를 입력하세요.</string>
+    <string name="beauty_search_rank">인기 해시태그</string>
+    <string name="beauty_service">혜택안내</string>
+    <string name="beauty_service_point">•</string>
+    <string name="beauty_service_text1">뷰티풀라이프</string>
+    <string name="beauty_service_text10">주제가 종료된 경우 게시물에 대한 수정/삭제가 불가합니다.</string>
+    <string name="beauty_service_text2">"나의 뷰티풀라이프를 공유하고 포인트를
+적립받으세요!"</string>
+    <string name="beauty_service_text3">게시물 등록시 <b>100포인트</b>"와
+스탬프 1개 적립
+(단, 주제 당 1회에 한함)"</string>
+    <string name="beauty_service_text4">"스탬프 4개를 모으면
+"<b>100포인트</b> 추가 적립</string>
+    <string name="beauty_service_text5">BEST 선정시 <b>1,000포인트</b> 지급</string>
+    <string name="beauty_service_text6">뷰티풀라이프 게시물 등록시 이벤트 응모 가능</string>
+    <string name="beauty_service_text7">특정 이벤트의 경우 뷰티풀라이프 참여횟수에 따라 응모가 제한될 수 있음</string>
+    <string name="beauty_service_text8">"BEST 선정시 PUSH 알림 및 마이페이지에서
+확인가능"</string>
+    <string name="beauty_service_text9">적립된 포인트의 경우 적립일로부터 1년 후 소멸</string>
+    <string name="beauty_singo1">신고하시겠습니까?</string>
+    <string name="beauty_singo2">이미 신고 완료된 게시물입니다.</string>
+    <string name="beauty_singo3">신고가 완료되었습니다.</string>
+    <string name="beauty_write">글쓰기</string>
+    <string name="beauty_write_cancel">"작성중인 글이 취소됩니다.
+계속 진행하시겠습니까?"</string>
+    <string name="beauty_write_complete">등록이 완료 되었습니다.</string>
+    <string name="beauty_write_hint">"\#해시태그를 사용해서 게시글을 작성해주세요.
+
+•선정적인 내용, 저작권 침해 등 문제가 되는 게시물을 등록하실 경우 임의로 삭제될 수 있습니다.(최대 140자)"</string>
+    <string name="beauty_write_no">내용을 입력해주세요.</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="brand_choice">전체브랜드</string>
+    <string name="business_detail_time"> %1$s ~ %2$s</string>
+    <string name="business_time">영업시간 : %1$s ~ %2$s</string>
+    <string name="buy_detail_productdetail">제품내역</string>
+    <string name="buy_detail_selldetail">결제내역</string>
+    <string name="buy_detail_title">구매내역조회</string>
+    <string name="buy_detail_total">구매금액</string>
+    <string name="call">전화걸기</string>
+    <string name="cancel">취소</string>
+    <string name="card_alert">"보유하신 뷰티포인트 카드가 없습니다.
+카드발급 화면으로 이동합니다."</string>
+    <string name="cast_invalid_stream_duration_text">--:--</string>
+    <string name="cast_invalid_stream_position_text">--:--</string>
+    <string name="cf_coupon_view">CF쿠폰 보기</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="childsp">"14세 미만 회원님의 
+ 개인정보 특별 보호를 위해 이용이 제한됩니다."</string>
+    <string name="clear_point_schedule">%s 소멸예정</string>
+    <string name="close">닫기</string>
+    <string name="com_kakao_profile_nickname">Nickname</string>
+    <string name="confirm">확인</string>
+    <string name="content_msg1">새로운 메세지 : %1$s개</string>
+    <string name="contetnregalert">"좋은 점, 아쉬운 점은 30자 이상
+ 작성하셔야 등록 가능합니다."</string>
+    <string name="core_com_kakao_sdk_loading">Loading…</string>
+    <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
+    <string name="create_calendar_title">Create calendar event</string>
+    <string name="customer_service">고객센터</string>
+    <string name="decline">Decline</string>
+    <string name="default_web_client_id">223462126877-u4oumcspcihmusbpe39cj56r3fb0c6o5.apps.googleusercontent.com</string>
+    <string name="detail_distance">현 위치에서의 거리 : %1$d m</string>
+    <string name="disagree">동의안함</string>
+    <string name="distance">(%1$d m)</string>
+    <string name="end_event">종료된 이벤트가 없습니다.</string>
+    <string name="error_config">Please set the %1$s constant and recompile the app.</string>
+    <string name="etc_menu_0">회원등급</string>
+    <string name="etc_menu_1">뷰티포인트 가이드</string>
+    <string name="etc_menu_1_0">뷰티포인트 이용안내</string>
+    <string name="etc_menu_1_1">회원등급 안내</string>
+    <string name="etc_menu_1_2">포인트서비스 안내</string>
+    <string name="etc_menu_2">이벤트 &amp; 혜택</string>
+    <string name="etc_menu_3">공지사항</string>
+    <string name="etc_menu_4">FAQ</string>
+    <string name="etc_menu_5">1:1문의</string>
+    <string name="etc_menu_6">아모레퍼시픽 APP</string>
+    <string name="etc_menu_7">매장찾기</string>
+    <string name="etc_menu_8">설정</string>
+    <string name="event_prize_list">당첨자 리스트</string>
+    <string name="event_save">이벤트 적립</string>
+    <string name="event_save_point">이벤트 적립포인트</string>
+    <string name="expire_date_txt">유효기간 일 %1$s일전 </string>
+    <string name="facebook_app_id">281540042188443</string>
+    <string name="fail_autologin">"자동 로그인에 실패하였습니다.
+다시 시도하시겠습니까?"</string>
+    <string name="fail_relogin">"로그인 연장에 실패하였습니다.
+로그인 페이지로 이동합니다."</string>
+    <string name="fail_session_relogin">"로그인 연장에 실패하였습니다.
+다시 시도하시겠습니까?"</string>
+    <string name="find_id">아이디 찾기</string>
+    <string name="find_pw">비밀번호찾기</string>
+    <string name="finger_event">두 손가락을 이용해 아래로 당겨주세요.</string>
+    <string name="firebase_database_url">https://api-project-223462126877.firebaseio.com</string>
+    <string name="format_date_ymd">yyyy-MM-dd</string>
+    <string name="format_date_ymd2">yyyyMMdd</string>
+    <string name="gcm_defaultSenderId">223462126877</string>
+    <string name="gcm_deleted">From GCM: server deleted %1$d pending messages!</string>
+    <string name="gcm_error">From GCM: error (%1$s).</string>
+    <string name="gcm_message">From GCM: you got message!</string>
+    <string name="gcm_recoverable_error">From GCM: recoverable error (%1$s).</string>
+    <string name="gcm_registered">From GCM: device successfully registered!</string>
+    <string name="gcm_type_c">아모레퍼시픽 쿠폰 안내입니다.</string>
+    <string name="gcm_type_e">화장품 유효기간 안내입니다.</string>
+    <string name="gcm_type_m">아모레퍼시픽 MDM 발송 안내입니다.</string>
+    <string name="gcm_type_n">아모레퍼시픽 공지사항 입니다.</string>
+    <string name="gcm_type_s">아모레퍼시픽 매장 안내입니다.</string>
+    <string name="gcm_unregistered">From GCM: device successfully unregistered!</string>
+    <string name="geo_alert">"위치기반 서비스 이용에
+동의하시겠습니까?"</string>
+    <string name="go_bp_detail">포인트 내역 확인</string>
+    <string name="go_weather">바로가기></string>
+    <string name="google_api_key">AIzaSyC42KxtOS9S5ZQBkoBaoA7UHZGBMk8HueY</string>
+    <string name="google_app_id">1:223462126877:android:772b33da6d4657e6</string>
+    <string name="google_crash_reporting_api_key">AIzaSyC42KxtOS9S5ZQBkoBaoA7UHZGBMk8HueY</string>
+    <string name="google_storage_bucket">api-project-223462126877.appspot.com</string>
+    <string name="guidance">안내</string>
+    <string name="hashlimit">"해시태그는 최대 15개까지
+ 등록 가능합니다."</string>
+    <string name="hint_id">아모레퍼시픽 회원 아이디</string>
+    <string name="hint_pw">비밀번호</string>
+    <string name="hint_site_search">예) 동을 입력해 주세요...</string>
+    <string name="home_exchange_text">내 포인트로 교환 가능한 상품</string>
+    <string name="hp_birthday">생년월일</string>
+    <string name="hp_cellurar">통신사</string>
+    <string name="hp_check">휴대폰 본인 인증</string>
+    <string name="hp_country">국적</string>
+    <string name="hp_forein">외국인</string>
+    <string name="hp_hp">휴대폰</string>
+    <string name="hp_kis">SMS 인증번호 발송 실패하였습니다.</string>
+    <string name="hp_kish0001">분실 또는 정지된 휴대폰번호는 사용할 수 없습니다.</string>
+    <string name="hp_kish0002">사업자(법인)명의의 휴대폰번호는 사용할 수 없습니다.</string>
+    <string name="hp_kish0003">휴대폰 번호 혹은 통신사 불일치입니다. 입력하신 정보를 확인해주세요.</string>
+    <string name="hp_kish0004">생년월일 또는 성별정보 불일치입니다. 입력하신 정보를 확인해주세요.</string>
+    <string name="hp_kish0005">생년월일 또는 성별정보 불일치입니다. 입력하신 정보를 확인해주세요.</string>
+    <string name="hp_kish0006">입력정보 불일치입니다. 입력하신 정보를 확인해주세요.</string>
+    <string name="hp_kish0008">제한 요금제 가입중에는 사용할 수 없습니다.</string>
+    <string name="hp_kish0009">선불 휴대폰 번호는 사용할 수 없습니다.</string>
+    <string name="hp_kish0014">회사의 정책 및 아동의 개인정보를 특별히 보호하기 위하여 만 14세 미만 아동의 회원가입을 제한하고 있습니다.</string>
+    <string name="hp_kish9117">입력하신 성명 정보를 확인 해주세요.</string>
+    <string name="hp_kish9207">"SMS 인증번호 발송 실패하였습니다.
+(일 5회 인증 실패)"</string>
+    <string name="hp_kt">KT</string>
+    <string name="hp_ktprice">KT알뜰폰</string>
+    <string name="hp_lg">LGU+</string>
+    <string name="hp_lgprice">LG알뜰폰</string>
+    <string name="hp_man">남자</string>
+    <string name="hp_name">이름</string>
+    <string name="hp_name_hint">이름을 입력해주세요.</string>
+    <string name="hp_nationals">내국인</string>
+    <string name="hp_nocheck">휴대폰 번호 또는 통신사가 일치하지 않습니다. 입력하신 정보를 확인해주세요.</string>
+    <string name="hp_nocheck_num">인증번호가 일치하지 않습니다. 확인 후 다시 입력해주세요.</string>
+    <string name="hp_overtime_msg">인증시간이 초과되었습니다. 인증번호를 재요청해주세요.</string>
+    <string name="hp_re_return_num">인증번호 재전송</string>
+    <string name="hp_resend_num">인증번호를 재전송하였습니다.</string>
+    <string name="hp_return_num">인증번호</string>
+    <string name="hp_return_num_hint">인증번호를 입력하세요.</string>
+    <string name="hp_return_text1">•신규 고객님의 경우 인증 후 회원가입이 가능합니다.</string>
+    <string name="hp_return_text2">•본인인증 후 ID 존재시 해당 ID로 자동 로그인됩니다.</string>
+    <string name="hp_return_text3">•본인인증 5회 실행 시 당일 휴대폰 인증이 제한됩니다.</string>
+    <string name="hp_return_text4">•본인명의 휴대폰 사용 고객님만 로그인 가능합니다.</string>
+    <string name="hp_return_text5">•이후 접속시에는 로그인 상태가 유지됩니다.</string>
+    <string name="hp_return_text6">"•휴대폰 인증을 통한 로그인은 일부 서비스 이용에 제한이
+있으므로 온라인 회원가입을 해주시기 바랍니다."</string>
+    <string name="hp_return_time">남은시간</string>
+    <string name="hp_sex">성별</string>
+    <string name="hp_skprice">SK알뜰폰</string>
+    <string name="hp_skt">SKT</string>
+    <string name="hp_sms">SMS 발송</string>
+    <string name="hp_title">휴대폰 번호 로그인</string>
+    <string name="hp_woman">여자</string>
+    <string name="igaworks_app_key">873376182</string>
+    <string name="igaworks_hash_key">b4a422ce5bf94b7a</string>
+    <string name="imgdelet_review_reg">"등록된 이미지/동영상을
+삭제하시겠습니까?"</string>
+    <string name="imglimit">"사진등록은 최대 10개까지 가능합니다.
+ 선택한 이미지를 삭제 후 등록해주세요."</string>
+    <string name="inbox_header_footer">최근 50개의 알림만 확인할 수 있습니다.</string>
+    <string name="inbox_header_title">"뷰티포인트의 알림과 내 소식을
+한눈에 살펴보세요."</string>
+    <string name="indicator_inquire">업로드중</string>
+    <string name="ing_event">진행중인 이벤트가 없습니다.</string>
+    <string name="join">회원가입</string>
+    <string name="join_check_01">아이디를 입력해주세요.</string>
+    <string name="join_check_02">비밀번호를 입력해주세요.</string>
+    <string name="join_check_03">비밀번호 확인을 입력해주세요.</string>
+    <string name="join_check_04">이미 사용중인 아이디 입니다.</string>
+    <string name="join_check_05">사용할 수 없는 아이디 입니다.</string>
+    <string name="join_check_06">사용할 수 없는 비밀번호 입니다.</string>
+    <string name="join_check_07">비밀번호가 일치하지 않습니다.</string>
+    <string name="join_check_08">서비스이용약관 동의는 필수사항입니다.</string>
+    <string name="join_check_09">개인정보처리방침 동의는 필수사항입니다.</string>
+    <string name="join_check_10">회원가입이 완료되었습니다.</string>
+    <string name="kakao_app_key">553cd6efde5008692b1e57a200be3c44</string>
+    <string name="kakao_scheme">intent</string>
+    <string name="kakaolink_host">kakaolink</string>
+    <string name="label_login">아모레퍼시픽 로그인</string>
+    <string name="location_guidance">위치정보사용</string>
+    <string name="location_title">위치정보 동의</string>
+    <string name="login">로그인</string>
+    <string name="login_auto">자동 로그인</string>
+    <string name="login_failed">로그인 실패</string>
+    <string name="login_find_id">아이디 찾기</string>
+    <string name="login_find_pw">비밀번호 찾기</string>
+    <string name="login_hp">휴대폰 번호 로그인</string>
+    <string name="login_id">아이디</string>
+    <string name="login_introduct">휴대폰 번호 인증으로 간편하게 이용하세요.</string>
+    <string name="login_login">로그인</string>
+    <string name="login_pw">비밀번호</string>
+    <string name="login_reg">회원가입</string>
+    <string name="loginalert">"로그인 후 이용 가능한 서비스입니다.
+ 로그인 하시겠습니까?"</string>
+    <string name="logout">로그아웃</string>
+    <string name="main_body_1">"내 포인트로 교환
+할 수 있는 상품"</string>
+    <string name="main_card_1">포인트내역</string>
+    <string name="main_card_2">포인트전환</string>
+    <string name="main_card_3">포인트선물</string>
+    <string name="main_card_4">모바일 카드 신청</string>
+    <string name="main_menu01">HOME</string>
+    <string name="main_menu02">뷰티풀라이프</string>
+    <string name="main_menu03">쇼핑</string>
+    <string name="main_menu04">더보기</string>
+    <string name="main_mybeautypoint">"My
+Beauty Point"</string>
+    <string name="map_brand">브랜드 전체</string>
+    <string name="map_radius">반경 %1$sKm</string>
+    <string name="map_site">매장 리스트</string>
+    <string name="map_title">전체브랜드</string>
+    <string name="marketing_agree">"마케팅 수신
+동의 처리되었습니다."</string>
+    <string name="marketing_agree_msg">해당 기기로 새로운 서비스 및 이벤트 소식, 상품할인 정보 등을 전송하려고 합니다.</string>
+    <string name="marketing_disagree">"마케팅 수신
+동의안함 처리되었습니다."</string>
+    <string name="marketing_select_msg">저장되었습니다.</string>
+    <string name="memberNo_agree">"동의안함을 선택하시면 등록하신
+뷰티 프로필이 삭제되며
+맞춤 컨텐츠 서비스를
+받으실 수 없습니다.
+동의안함을 선택하시겠습니까?"</string>
+    <string name="member_all_alert">"뷰티포인트 회원이 아닙니다.
+회원가입 화면으로 이동합니다."</string>
+    <string name="member_dateCheck">생년월일(YYYYMMDD)을 입력해주세요.</string>
+    <string name="member_detaildateCheck">정확한 생년월일(YYYYMMDD)을 입력해주세요.</string>
+    <string name="member_false">나중에 하기</string>
+    <string name="member_login_alert">"님 환영합니다.
+뷰티포인트 웹사이트 회원이십니다.
+해당 아이디로 자동 로그인됩니다."</string>
+    <string name="member_online_alert">"온라인 회원이 아닙니다.
+회원가입을 하시면 뷰티포인트의 모든 서비스
+이용이 가능합니다."</string>
+    <string name="member_sexCheck">성별을 선택해주세요.</string>
+    <string name="member_skinBrightCheck">피부밝기를 선택해주세요.</string>
+    <string name="member_skinTroubleCheck">피부고민(최대 3개)을 선택해주세요.</string>
+    <string name="member_skintonCheck">피부톤을 선택해주세요.</string>
+    <string name="member_skintypeCheck">피부타입을 선택해주세요.</string>
+    <string name="member_sleep_alert">"휴면계정입니다.
+뷰티포인트 웹사이트(www.beautypoint.co.kr)에서 휴면계정 해제 후 이용 부탁드립니다."</string>
+    <string name="member_true">온라인 회원가입</string>
+    <string name="member_wrong_number_5_alert">인증번호가 일치하지 않습니다. 확인하신 후 다시 입력해주세요.</string>
+    <string name="member_wrong_number_alert">인증번호가 일치하지 않습니다. 확인하신 후 다시 입력해주세요.</string>
+    <string name="memberfilter_skintrouble_1">모공</string>
+    <string name="memberfilter_skintrouble_10">민감성</string>
+    <string name="memberfilter_skintrouble_11">아토피</string>
+    <string name="memberfilter_skintrouble_12">색소침착</string>
+    <string name="memberfilter_skintrouble_13">피부톤</string>
+    <string name="memberfilter_skintrouble_14">다크서클</string>
+    <string name="memberfilter_skintrouble_2">주름</string>
+    <string name="memberfilter_skintrouble_3">탄력</string>
+    <string name="memberfilter_skintrouble_4">블랙헤드</string>
+    <string name="memberfilter_skintrouble_5">트러블</string>
+    <string name="memberfilter_skintrouble_6">각질</string>
+    <string name="memberfilter_skintrouble_7">잡티</string>
+    <string name="memberfilter_skintrouble_8">피지과다</string>
+    <string name="memberfilter_skintrouble_9">건조함</string>
+    <string name="menu1">MY AMOREPACIFIC</string>
+    <string name="menu2">PRODUCT</string>
+    <string name="menu3">BRAND</string>
+    <string name="menu31">PRODUCT</string>
+    <string name="menu32">COUPON</string>
+    <string name="menu4">BENEFIT</string>
+    <string name="menu5">STORE</string>
+    <string name="menu6">AMOREPACIFIC APP</string>
+    <string name="menu7">SETTING</string>
+    <string name="menu8">CUSTOMER</string>
+    <string name="menu9">MART STORY</string>
+    <string name="menu_settings">Settings</string>
+    <string name="msg_app_update">앱이 최신 버전으로 업데이트 되었습니다. 확인을 누르시면 앱스토어로 이동합니다.</string>
+    <string name="msg_back_key_press">한 번 더 누르시면 종료됩니다.</string>
+    <string name="msg_cancel_search">검색을 취소합니다.</string>
+    <string name="msg_err_nerwork_server_failure_retry">"인터넷 연결상태가 불안합니다.
+인터넷 연결상태를 확인해주시고, 앱을 다시 실행해주세요."</string>
+    <string name="msg_err_network_not_found">"인터넷 연결이 차단되어 있습니다.
+인터넷 접속을 허용 상태로 변경한 후 사용하시기 바랍니다."</string>
+    <string name="msg_err_network_server_failure_callcenter">서버에서 응답에러가 발생하였습니다.</string>
+    <string name="msg_forget">아이디 또는 비밀번호가 생각나지 않으세요?</string>
+    <string name="msg_gcm_account_regi">"Google GCM ID를 받지 못하였습니다.
+ 다시 시도해주세요."</string>
+    <string name="msg_inquire_sussece">파일이 정상적으로 업로드 되었습니다.</string>
+    <string name="msg_join1">처음 방문하셨다면</string>
+    <string name="msg_join2"> 회원가입 </string>
+    <string name="msg_join3">버튼을 눌러 가입해주세요.</string>
+    <string name="msg_loacation">아모레퍼시픽에서 현재 위치정보를 사용하고자 합니다.</string>
+    <string name="msg_location_cancel">"고객님의 현 위치정보를 사용하기 위해서는
+'위치 서비스' 설정을 변경하시기 바랍니다."</string>
+    <string name="msg_location_not_permission">"고객님의 현 위치정보를 사용하기 위해서는 '위치정보' 권한 허용이 필요합니다.
+
+'다시 묻지 않기'를 체크 하신 경우
+[설정] > [권한] 에서 해당 권한을 허용해주세요."</string>
+    <string name="msg_login_empty">정확한 아이디와 비밀번호를 입력해주세요.</string>
+    <string name="msg_multi_login_check">"다른 폰에서 로그인이 되었습니다.
+다시 로그인해주세요."</string>
+    <string name="msg_network_error">네트워크 상태를 확인해주세요.</string>
+    <string name="msg_now_search_location">검색하신 위치를 찾고있습니다.</string>
+    <string name="msg_request_login">로그인해주세요.</string>
+    <string name="msg_save_mobile_coupon">쿠폰이 저장되었습니다.</string>
+    <string name="msg_searching_my_location">현재 위치를 찾고 있습니다.....</string>
+    <string name="msg_unavaiable_subscribe_bpc">로그인 후 사용 가능합니다.</string>
+    <string name="msg_unsave_mobile_coupon">쿠폰이 저장되지 않았습니다.</string>
+    <string name="mypage_1vs1">"1:1
+문의내역"</string>
+    <string name="mypage_1vs1_single">1:1 문의내역</string>
+    <string name="mypage_3month">최근3개월</string>
+    <string name="mypage_buy_content">구매내역</string>
+    <string name="mypage_buy_detail">자세히보기</string>
+    <string name="mypage_buy_text">"※구매이력은 반영시점과 경로에 따라 이력이 추가되지 않거나, 누락될 수 있습니다.
+※외부 온라인몰에서 구매하여 포인트 적립한 제품의 구입일자는 포인트 적립일자로 반영됩니다."</string>
+    <string name="mypage_change">전환하기</string>
+    <string name="mypage_conversion">"다른 포인트를 뷰티포인트로
+전환해보세요."</string>
+    <string name="mypage_coupon">"포인트
+쿠폰등록"</string>
+    <string name="mypage_delete_point">자세히보기</string>
+    <string name="mypage_event">"이벤트
+참여내역"</string>
+    <string name="mypage_event_single">이벤트 참여내역</string>
+    <string name="mypage_gift">선물하기</string>
+    <string name="mypage_giftbox">뷰티포인트 선물함</string>
+    <string name="mypage_giftbox_go">바로가기</string>
+    <string name="mypage_giftbox_point">%d포인트 선물 도착</string>
+    <string name="mypage_only">"포인트상품
+주문배송 조회"</string>
+    <string name="mypage_only_single">주문배송 조회</string>
+    <string name="mypage_p">P</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="negative">다음에 하기</string>
+    <string name="network_alert">네트워크 연결상태가 불안정합니다. 잠시 후 다시 시도해주세요.</string>
+    <string name="network_tms_error">"
+Push 알림을 이용하고 싶으시면 [더보기] > [설정]에서 Push 알림 수신동의 및 광고성 Push 수신동의를 변경 해주세요."</string>
+    <string name="no_card">카드신청</string>
+    <string name="no_card_data">모바일 카드가 없습니다. 카드를 신청해 주세요.</string>
+    <string name="no_point_shopping">"현재 교환 가능한 상품이 없습니다.
+포인트를 조금 더 모아서 교환 가능한 
+추천상품을 만나보세요!"</string>
+    <string name="no_search_beautyful">지난 주제가 없습니다.</string>
+    <string name="no_search_data">조회된 상품이 없습니다.</string>
+    <string name="no_search_product">조회된 내역이 없습니다.</string>
+    <string name="notice">APP 공지사항</string>
+    <string name="ok">확인</string>
+    <string name="open">보기</string>
+    <string name="open_evet_close">닫기</string>
+    <string name="open_evet_today">오늘 다시보지 않기</string>
+    <string name="open_evet_weekend">일주일간 보지 않기</string>
+    <string name="open_popup_not_showing">%s 다시보지 않기</string>
+    <string name="options_clear">Clear</string>
+    <string name="options_exit">Exit</string>
+    <string name="options_register">Register</string>
+    <string name="options_unregister">Unregister</string>
+    <string name="password_toggle_content_description">Toggle password visibility</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="permission_beacon">"위치기반 서비스를 이용 시 '위치정보' 권한 허용이 필요합니다.
+
+'다시 묻지 않기'를 체크 하신 경우
+[설정] > [권한] 에서 해당 권한을 허용해주세요."</string>
+    <string name="permission_content_1">현재 아래 권한이 거부되어 있습니다</string>
+    <string name="permission_content_2">"뷰티포인트의 'Push' 및 '스마트 ARS' 서비스
+이용을 위해서는 다음 접근 권한을 필요로 합니다."</string>
+    <string name="permission_content_3">전화</string>
+    <string name="permission_content_4">"PUSH서비스 이용을 위한
+사용자 인증에 필요합니다."</string>
+    <string name="permission_content_5">전화</string>
+    <string name="permission_content_6">[설정] > [권한]에서 권한을 허용해 주세요.</string>
+    <string name="permission_no">"Push 알림 수신동의 및 광고성 Push 수신동의를 하셨어도
+'전화' 및 '저장공간'에 대한 권한을
+허용하지 않으시면, 뷰티포인트에서 제공하는
+Push를 받으실 수 없습니다.
+[설정] > [권한]에서 권한을 허용해주세요."</string>
+    <string name="permission_read">"게시글에 사진 업로드 시 '저장공간' 권한 허용이 필요합니다.
+
+'다시 묻지 않기'를 체크하신 경우
+[설정] > [권한] 에서 해당 권한을 허용해주세요."</string>
+    <string name="permission_title">뷰티포인트앱 이용 안내</string>
+    <string name="permission_tms">"'전화' 및 '저장공간'에 대한 권한을 허용하지 않으셨습니다.
+해당 권한을 허용하지 않았을 경우 뷰티포인트에서 제공하는
+'Push 및 스마트 ARS 서비스'를 받으실 수 없습니다.
+[설정] > [권한]에서 권한을 허용해 주세요."</string>
+    <string name="permission_write">"게시글에 사진 촬영 후 업로드 시 '저장공간' 및 '카메라' 권한 허용이 필요합니다.
+
+'다시 묻지 않기'를 체크 하신 경우
+[설정] > [권한] 에서 해당 권한을 허용해주세요."</string>
+    <string name="personal_info_use">개인정보처리방침</string>
+    <string name="point_change">포인트 전환</string>
+    <string name="point_coupon">포인트 쿠폰등록</string>
+    <string name="point_detail_12m">12개월</string>
+    <string name="point_detail_3m">3개월</string>
+    <string name="point_detail_6m">6개월</string>
+    <string name="point_detail_afterday">까지의 사용내역</string>
+    <string name="point_detail_beforeday">부터</string>
+    <string name="point_detail_bt1">서비스 안내</string>
+    <string name="point_detail_bt2">적립/사용안내</string>
+    <string name="point_detail_clearpoint">소멸예정 포인트</string>
+    <string name="point_detail_clearpoint_day">소멸예정일</string>
+    <string name="point_detail_clearpoint_title">소멸예정 포인트</string>
+    <string name="point_detail_dayset">기간설정</string>
+    <string name="point_detail_event">(이벤트)</string>
+    <string name="point_detail_point">My Beauty Point</string>
+    <string name="point_detail_pop_text">"•포인트 소멸은 소멸예정일 자정에 완료되므로, 소멸예정일까지 사용하시기 바랍니다.
+예) 2015.07.30 소멸 예정포인트 : 2015.07.30에서 2015.07.31로 넘어가는 밤 12시에 소멸"</string>
+    <string name="point_detail_save">(적립)</string>
+    <string name="point_detail_save_buy">(적립-구매)</string>
+    <string name="point_detail_savepoint">적립포인트</string>
+    <string name="point_detail_search">상세내역 조회</string>
+    <string name="point_detail_searchdate">조회기간</string>
+    <string name="point_detail_text1">"쌓을수록 아름다워지는
+아모레퍼시픽 통합 멤버십"</string>
+    <string name="point_detail_text2">"뷰티포인트 서비스는 아모레퍼시픽의 모든 브랜드의
+고객들에게 제공되는 통합멤버십 서비스입니다.
+브랜드에 관계업이 자유롭게 사용할 수 있으며,
+다양한 제휴 서비스도 누릴 수 있는 뷰티포인트 서비스를
+지금 시작해보세요!"</string>
+    <string name="point_detail_title">뷰티포인트 상세내역</string>
+    <string name="point_detail_usepoint">사용포인트</string>
+    <string name="point_gift">포인트 선물</string>
+    <string name="point_giftBox">선물함</string>
+    <string name="point_only">포인트 전용상품</string>
+    <string name="popup_page">PAGE %1$s</string>
+    <string name="positive">확인</string>
+    <string name="product_expiration_date">알림 시기</string>
+    <string name="project_id">api-project-223462126877</string>
+    <string name="push_agree">"푸쉬 수신
+동의 처리 되었습니다."</string>
+    <string name="push_alarm">Push알림</string>
+    <string name="push_cf_event">CF광고 이벤트</string>
+    <string name="push_cf_event_txt">지상파방송 및 YouTube에서 방송되는 CF광고를 보며 앱을 실행시키면 다양한 혜택을 받으실 수 있습니다.</string>
+    <string name="push_close">닫기</string>
+    <string name="push_cupon">쿠폰 알림</string>
+    <string name="push_cupon_txt">브랜드별 쿠폰 정보를 알림으로 받으실 수 있습니다.</string>
+    <string name="push_descripton1">즐겨찾기에 등록한 브랜드의 쿠폰 정보 및 아모레퍼시픽의 각종 이벤트 정보를 받을 수 있습니다.</string>
+    <string name="push_descripton2">나의 화장품 건강 관리에 등록된 상품의 유효기간 만료일을 알림으로 받을 수 있습니다.</string>
+    <string name="push_descripton3">지상파 방송 및 YouTube에서 방송되는 CF광고를 보며 앱을 실행시키면 다양한 혜택을 받을 수 있습니다.</string>
+    <string name="push_disagree">"푸쉬 수신
+동의안함 처리되었습니다."</string>
+    <string name="push_evennt">온라인 이벤트 알림</string>
+    <string name="push_evennt_txt">이벤트 및 DM정보를 알림으로 받으실 수 있습니다.</string>
+    <string name="push_go">바로가기</string>
+    <string name="push_product_expiration_date">화장품 건강 알림</string>
+    <string name="push_product_expiration_date_txt">화장품의 유효기간 만료일을 알림으로 받으실 수 있습니다.</string>
+    <string name="push_site_event">매장 이벤트 알림</string>
+    <string name="push_site_event_txt">방문한 매장에 대한 이벤트 및 쿠폰정보를 알림으로 받으실 수 있습니다.</string>
+    <string name="r_menu">CUPON BOX</string>
+    <string name="recommend_friend_close">추천코드를 입력하지 않을 시, 앱을 추천한 친구에게 포인트가 적립되지 않습니다. 반드시 이벤트 기간 내에 우측 상단 인박스에서 추천코드를 입력해주시기 바랍니다.</string>
+    <string name="recommend_friend_get_point">"뷰티포인트 앱 친구추천 이벤트에 대한
+뷰티포인트 적립이 완료되었습니다."</string>
+    <string name="recommend_friend_get_point_title">친구 추천 이벤트</string>
+    <string name="reg_id">아이디</string>
+    <string name="reg_id_hint">4~12자 영문, 숫자</string>
+    <string name="reg_pw">비밀번호</string>
+    <string name="reg_pw_confirm">비밀번호 확인</string>
+    <string name="reg_pw_hint">6~16자 영문, 숫자, 특수문자</string>
+    <string name="reg_text1">아모레퍼시픽 통합 멤버십 회원약관</string>
+    <string name="reg_text2">서비스이용약관 (필수)</string>
+    <string name="reg_text3">개인정보처리방침 (필수)</string>
+    <string name="reg_text4">전문보기</string>
+    <string name="reg_text5">"•회원가입 후 뷰티포인트 통합 아이디로
+아모레퍼시픽의 모든 서비스를 이용할 수 있습니다."</string>
+    <string name="reg_title">회원가입</string>
+    <string name="relogin">로그인 연장</string>
+    <string name="retry">재시도</string>
+    <string name="review_cancle_u">"지금까지 작성한 내용이
+삭제됩니다.
+리뷰 등록을 취소하시겠습니까?"</string>
+    <string name="review_detailRatingCheck">상품에 대한 상세 평가 항목을 선택해주세요.</string>
+    <string name="review_ok_I">등록하시겠습니까?</string>
+    <string name="review_ok_u">수정하시겠습니까?</string>
+    <string name="review_ratingCheck">상품에 대한 만족도를 선택해주세요.</string>
+    <string name="review_reg_cancle">"지금까지 작성한 내용이
+삭제됩니다.
+리뷰 등록을 취소하시겠습니까?"</string>
+    <string name="review_searchCheck">리뷰를 작성하고 싶은 상품을 선택해주세요.</string>
+    <string name="review_stCheck">좋은 점을 입력해주세요.(최소 30자)</string>
+    <string name="review_stMinCheck">좋은 점을 30자 이상 입력해주세요.</string>
+    <string name="review_titleCheck">리뷰 제목을 입력해주세요.</string>
+    <string name="review_waCheck">아쉬운 점을 입력해주세요.(최소 30자)</string>
+    <string name="review_waMinCheck">아쉬운 점을 30자 이상 입력해주세요.</string>
+    <string name="search">검색</string>
+    <string name="server_register_error">Could not register device on Demo Server after %1$d attempts.</string>
+    <string name="server_registered">From Demo Server: successfully added device!</string>
+    <string name="server_registering">Trying (attempt %1$d/%2$d) to register device on Demo Server.</string>
+    <string name="server_unregister_error">Could not unregister device on Demo Server (%1$s).</string>
+    <string name="server_unregistered">From Demo Server: successfully removed device!</string>
+    <string name="service_ready">서비스 준비중입니다.</string>
+    <string name="session_text">"장시간 서비스 이용이 없을 경우
+로그아웃 처리됩니다.
+로그인 시간을 연장하시겠습니까?"</string>
+    <string name="setting_menu_0">로그아웃</string>
+    <string name="setting_menu_001">마이 뷰티 프로필 수정</string>
+    <string name="setting_menu_1">자동로그인</string>
+    <string name="setting_menu_11">앱 서비스 이용약관</string>
+    <string name="setting_menu_2">PUSH 알림 설정</string>
+    <string name="setting_menu_2_1">스마트 ARS 설정</string>
+    <string name="setting_menu_3">위치정보 사용설정</string>
+    <string name="setting_menu_3_0">광고성 PUSH 수신동의</string>
+    <string name="setting_menu_3_1">위치기반 서비스 이용동의</string>
+    <string name="setting_menu_4">멤버십 서비스 이용약관</string>
+    <string name="setting_menu_5">개인정보 처리방침</string>
+    <string name="setting_menu_6">위치기반 서비스 이용약관</string>
+    <string name="setting_menu_7">서비스 탈퇴</string>
+    <string name="setting_menu_8">버전 정보</string>
+    <string name="setting_menu_8_1">최신버전 V 3.1.0</string>
+    <string name="setting_menu_9_1">업데이트</string>
+    <string name="shoping_filter_0_20">"0
+~
+20,000"</string>
+    <string name="shoping_filter_100_up">"100,000
+이상"</string>
+    <string name="shoping_filter_20_40">"20,000
+~
+40,000"</string>
+    <string name="shoping_filter_40_100">"40,000
+~
+100,000"</string>
+    <string name="shoping_filter_all">전체</string>
+    <string name="shoping_filter_default">초기화</string>
+    <string name="shoping_filter_point">포인트구간</string>
+    <string name="shoping_filter_save">설정적용</string>
+    <string name="shoping_filter_skintrouble">피부고민</string>
+    <string name="shoping_filter_skintrouble_1">건조</string>
+    <string name="shoping_filter_skintrouble_2">여드름</string>
+    <string name="shoping_filter_skintrouble_3">안티에이징</string>
+    <string name="shoping_filter_skintrouble_4">미백</string>
+    <string name="shoping_filter_skintrouble_5">모공/피지</string>
+    <string name="shoping_filter_skintrouble_6">민감성</string>
+    <string name="shoping_filter_skintrouble_7">각질</string>
+    <string name="shoping_filter_skintype">피부타입</string>
+    <string name="shoping_filter_skintype_1">민감성</string>
+    <string name="shoping_filter_skintype_2">건성</string>
+    <string name="shoping_filter_skintype_3">지성</string>
+    <string name="shoping_filter_skintype_4">중성</string>
+    <string name="shoping_filter_skintype_5">복합성</string>
+    <string name="shoping_filter_skintype_6">모든피부</string>
+    <string name="shoping_filter_title">필터설정</string>
+    <string name="shoping_freesend">무료배송</string>
+    <string name="shoping_no_search">검색결과가 없습니다.</string>
+    <string name="shoping_no_sell">일시품절</string>
+    <string name="shoping_now_beautycollection">ONLY 뷰티포인트</string>
+    <string name="shoping_now_bestnew">BEST &amp; NEW</string>
+    <string name="shoping_now_hotdeal">HOT DEAL</string>
+    <string name="shoping_rest_time">남은시간</string>
+    <string name="shoping_search">상품검색</string>
+    <string name="shoping_search_hint">상품명을 입력해주세요.</string>
+    <string name="shoping_search_rank">실시간 판매순위</string>
+    <string name="shoping_title_1">NOW</string>
+    <string name="shoping_title_2">맞춤상품</string>
+    <string name="shoping_title_3">포인트상품</string>
+    <string name="shoping_title_4">카테고리</string>
+    <string name="shoping_title_5">브랜드</string>
+    <string name="shortcut">바로가기</string>
+    <string name="site_info">매장 정보</string>
+    <string name="site_list">매장 리스트</string>
+    <string name="site_search">지역 검색</string>
+    <string name="store_picture_message">Allow Ad to store image in Picture gallery?</string>
+    <string name="store_picture_title">Save image</string>
+    <string name="str_app_hash">변조된 앱으로 판명되어 안정성을 보장할 수 없기에 종료됩니다.</string>
+    <string name="str_jailbreak_device">본 기기는 OS 변조(탈옥)된 기기로 판명되어 안정성을 보장할 수 없기에 종료됩니다.</string>
+    <string name="suckcontent">"금칙어가 포함되어 있는 경우 
+리뷰 등록이 불가능 합니다.
+ 작성글 포함 금칙어 :"</string>
+    <string name="tagmanager_preview_dialog_button">Continue</string>
+    <string name="tagmanager_preview_dialog_message">Preview mode updated.</string>
+    <string name="tagmanager_preview_dialog_title">Preview</string>
+    <string name="text_for_login_kakao_account">Log in with Kakao</string>
+    <string name="text_for_search_not">검색어를 입력해주세요.</string>
+    <string name="title_main_activity">AMOREPACIFIC</string>
+    <string name="title_menu1_activity">@string/menu1</string>
+    <string name="title_menu2_activity">@string/menu2</string>
+    <string name="title_menu3_activity">@string/menu3</string>
+    <string name="title_menu4_activity">@string/menu4</string>
+    <string name="title_menu5_activity">@string/menu5</string>
+    <string name="title_menu6_activity">@string/menu6</string>
+    <string name="title_radius_dlg">반경설정</string>
+    <string name="tms_msg_1">"일시적인 서버 불안으로
+'Push 서비스'가 비활성화되었습니다."</string>
+    <string name="tms_msg_2">"'Push 서비스'를 이용하시기 위한 권한이 거부되어있습니다."</string>
+    <string name="top_title_1">Beauty Point</string>
+    <string name="top_title_2">뷰티풀라이프</string>
+    <string name="top_title_3">쇼핑</string>
+    <string name="top_title_4">더보기</string>
+    <string name="tutorial_end">뷰티풀라이프 시작하기</string>
+    <string name="tutorial_next">다음</string>
+    <string name="update">업데이트</string>
+    <string name="update_text_double">"새로운 버전이 출시되었습니다.
+최신버전으로 업데이트 후 이용해보세요!"</string>
+    <string name="update_text_single">"새로운 버전이 출시되었습니다.
+최신버전으로 업데이트 후 이용 가능합니다."</string>
+    <string name="user_id">회원ID</string>
+    <string name="version">버전 v.%1$s</string>
+    <string name="version_title">어플리케이션 버전</string>
+    <string name="web_common">Beauty Point</string>
+    <string name="web_event">이벤트</string>
+    <string name="webmember_text">"포인트 선물하기 서비스는 웹 ID 보유 고객만 이용 가능합니다.
+웹 ID 생성 후 해당 서비스를 이용해주시기 바랍니다."</string>
+    <string name="webmember_text2">"포인트 쿠폰등록 서비스는 웹 ID 보유 고객만 이용 가능합니다.
+웹 ID 생성 후 해당 서비스를 이용해주시기 바랍니다."</string>
+    <string name="webmember_text3">"포인트 선물함 서비스는 웹 ID 보유 고객만 이용 가능합니다.
+웹 ID 생성 후 해당 서비스를 이용해주시기 바랍니다."</string>
+    <string name="webmember_text4">"모바일 카드 신청 서비스는 웹 ID 보유 고객만 이용 가능합니다.
+웹 ID 생성 후 해당 서비스를 이용해주시기 바랍니다."</string>
+    <string name="widget_no_login">로그인이 필요합니다.</string>
+    <string name="won">원</string>
+</resources>

@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DOCWAY_KEY">c5136f01eb59535a570d5c43c8bd2601</string>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="app_name">Docway</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="com.crashlytics.android.build_id">b744d464-dba4-4ba3-b088-b3cf06c24488</string>
+    <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
+    <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_like_button_liked">Liked</string>
+    <string name="com_facebook_like_button_not_liked">Like</string>
+    <string name="com_facebook_loading">Loading…</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_loginview_log_in_button">Log in</string>
+    <string name="com_facebook_loginview_log_in_button_continue">Continue with Facebook</string>
+    <string name="com_facebook_loginview_log_in_button_long">Log in with Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="com_facebook_send_button_text">Send</string>
+    <string name="com_facebook_share_button_text">Share</string>
+    <string name="com_facebook_smart_device_instructions">To connect your account, open the Facebook app on your mobile device and check for notifications.</string>
+    <string name="com_facebook_smart_device_instructions_or">- OR -</string>
+    <string name="com_facebook_smart_login_confirmation_cancel">Not you?</string>
+    <string name="com_facebook_smart_login_confirmation_continue_as">Continue as %1$s</string>
+    <string name="com_facebook_smart_login_confirmation_title">Confirm Login</string>
+    <string name="com_facebook_tooltip_default">"You're in control - choose what info you want to share with apps."</string>
+    <string name="com_mixpanel_android_close">Close</string>
+    <string name="com_mixpanel_android_done">Done</string>
+    <string name="com_mixpanel_android_exit">Exit</string>
+    <string name="com_mixpanel_android_logo">By Mixpanel</string>
+    <string name="com_mixpanel_android_notification_image">Image not displayed</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play services availability</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="default_web_client_id">655780172827-ts5b1kvf5bp6regno1i64jfgpr46559i.apps.googleusercontent.com</string>
+    <string name="facebook_app_id">102822603464464</string>
+    <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
+    <string name="firebase_database_url">https://docway-cc558.firebaseio.com</string>
+    <string name="gcm_defaultSenderId">655780172827</string>
+    <string name="gcm_fallback_notification_channel_label">Miscellaneous</string>
+    <string name="google_api_key">AIzaSyCLEQKJsNUiNWS1JnDT_Bm7TEPERIEV-io</string>
+    <string name="google_app_id">1:655780172827:android:83aa7f610f2a784c</string>
+    <string name="google_crash_reporting_api_key">AIzaSyCLEQKJsNUiNWS1JnDT_Bm7TEPERIEV-io</string>
+    <string name="google_storage_bucket">docway-cc558.appspot.com</string>
+    <string name="messenger_send_button_text">Send</string>
+    <string name="password_toggle_content_description">Toggle password visibility</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="project_id">docway-cc558</string>
+    <string name="s_abbr_friday">Sex</string>
+    <string name="s_abbr_monday">Seg</string>
+    <string name="s_abbr_saturday">Sáb</string>
+    <string name="s_abbr_sunday">Dom</string>
+    <string name="s_abbr_thursday">Qui</string>
+    <string name="s_abbr_tuesday">Ter</string>
+    <string name="s_abbr_wednesday">Qua</string>
+    <string name="s_about">sobre</string>
+    <string name="s_add">Adicionar</string>
+    <string name="s_add_new_address">Adicionar novo endereço</string>
+    <string name="s_add_new_credit_card">Adicionar novo cartão de crédito</string>
+    <string name="s_add_new_profile">Adicionar novo perfil</string>
+    <string name="s_add_payment">Adicionar cartão</string>
+    <string name="s_add_picture">Adicionar foto</string>
+    <string name="s_add_to_my_calendar">Adicionar ao meu calendário</string>
+    <string name="s_addding">Adicionando...</string>
+    <string name="s_address">Endereço</string>
+    <string name="s_address_created">Endereço criado com sucesso!</string>
+    <string name="s_address_for_consult">Endereço para atendimento:</string>
+    <string name="s_address_line_one">%1$s, %2$s</string>
+    <string name="s_address_line_two">%1$s - %2$s</string>
+    <string name="s_address_pattern">ENDEREÇO PADRÃO</string>
+    <string name="s_address_placeholder">Clique em EDITAR</string>
+    <string name="s_address_updated">Endereço editado com sucesso!</string>
+    <string name="s_afternoon_five">17:00</string>
+    <string name="s_afternoon_four">16:00</string>
+    <string name="s_afternoon_one">13:00</string>
+    <string name="s_afternoon_six">18:00</string>
+    <string name="s_afternoon_three">15:00</string>
+    <string name="s_afternoon_times">Horários tarde</string>
+    <string name="s_afternoon_two">14:00</string>
+    <string name="s_agenda_for_vaccines">Agenda de vacinação</string>
+    <string name="s_all_fields_necessary">Você precisa preencher todos os campos para poder continuar</string>
+    <string name="s_allergies">Alergias e Reações</string>
+    <string name="s_ask_for_medications">Solicitar um medicamento</string>
+    <string name="s_ask_for_vaccine">Pedir vacina</string>
+    <string name="s_ask_later">Agende aqui</string>
+    <string name="s_ask_later_message">"Escolha seu médico, verifique a agenda e
+peça o atendimento onde você estiver."</string>
+    <string name="s_ask_now">Peça agora</string>
+    <string name="s_ask_now_message">Clique aqui e você será atendido em até 3h.</string>
+    <string name="s_atention">Atenção</string>
+    <string name="s_attendence_title">Dados do atendente</string>
+    <string name="s_attention">Atenção!</string>
+    <string name="s_available_times">Horários disponíveis</string>
+    <string name="s_back_to_beginning">ACOMPANHE SEU ATENDIMENTO</string>
+    <string name="s_birth_hint">Informar Data</string>
+    <string name="s_birthday">Nascimento</string>
+    <string name="s_blood_type">Grupo sanguíneo</string>
+    <string name="s_born_date">Nascimento</string>
+    <string name="s_born_date_wrong">"Sua data de nascimento está errada!
+
+Calculamos a sua idade e ela é menor do que 1 ano!
+
+"<b>Por favor utilize sua real data de nascimento para poder salvar suas informações</b></string>
+    <string name="s_call_category">Categoria: %1$s</string>
+    <string name="s_call_clinic">Chamar clínica</string>
+    <string name="s_call_date_appointment">Data:</string>
+    <string name="s_call_doctor">Chamar médico</string>
+    <string name="s_call_exam_type">Tipo do exame: %1$s</string>
+    <string name="s_call_lab">Chamar laboratório</string>
+    <string name="s_call_payment_method">Forma de pagamento: %1$s</string>
+    <string name="s_call_vaccine_type">Tipo da vacina: %1$s</string>
+    <string name="s_calling_clinic">Chamando clínica...</string>
+    <string name="s_calling_doctor">Chamando médico...</string>
+    <string name="s_cancel">Cancelar</string>
+    <string name="s_cancel_call">Cancelar pedido</string>
+    <string name="s_cancel_consult">Cancelar consulta</string>
+    <string name="s_cancel_consult_confirmation_message">"Você tem certeza que deseja cancelar essa consulta?
+
+"<b>O médico já aceitou e está pronto para lhe atender.</b></string>
+    <string name="s_cancel_subtitle">Diga-nos o que devemos melhorar em nosso aplicativo?</string>
+    <string name="s_cancel_title">Por que você cancelou?</string>
+    <string name="s_canceling">Cancelando...</string>
+    <string name="s_card_cvv_hint">CVV</string>
+    <string name="s_card_final_number">•••• %1$s</string>
+    <string name="s_card_info">Informe os dados do seu cartão</string>
+    <string name="s_card_month_hint">MM</string>
+    <string name="s_card_name">NOME COMO NO CARTÃO</string>
+    <string name="s_card_name_hint">NOME IMPRESSO NO CARTÃO</string>
+    <string name="s_card_number_hint">NÚMERO DO CARTÃO</string>
+    <string name="s_card_number_plus_brand">%1$s •••• %2$s</string>
+    <string name="s_card_year_hint">AA</string>
+    <string name="s_charged_value">Valor cobrado</string>
+    <string name="s_charged_value_atention_point">*Com reembolso da operadora de saúde. Saiba mais clicando aqui.</string>
+    <string name="s_choosen_doctor">Médico escolhido:</string>
+    <string name="s_city">Cidade</string>
+    <string name="s_city_hint">CIDADE</string>
+    <string name="s_click_here">Clique aqui</string>
+    <string name="s_click_to_select">Clique para selecionar</string>
+    <string name="s_click_to_select_monday">"Clique aqui para selecionar uma data.
+
+"<b>%1$s</b></string>
+    <string name="s_click_to_type">Clique para digitar</string>
+    <string name="s_clinic">Clínica</string>
+    <string name="s_clinic_data">Dados da clínica</string>
+    <string name="s_comment">Comentário</string>
+    <string name="s_complement">Complemento</string>
+    <string name="s_complement_hint">COMPLEMENTO</string>
+    <string name="s_confirm">Confirmar</string>
+    <string name="s_confirm_consult">Confirmar atendimento</string>
+    <string name="s_confirm_time">Confirmar horário</string>
+    <string name="s_confirmation">Confirmação</string>
+    <string name="s_confirmation_message">Nosso médico recebeu sua solicitação e responderá nos próximos 20 minutos confirmando ou não a consulta. Pedimos gentilmente que aguarde, e fique tranquilo, você receberá uma notificação quando o médico responder.</string>
+    <string name="s_confirmation_message_date">O atendimento foi</string>
+    <string name="s_confirmation_message_time">agendado para</string>
+    <string name="s_confirming">Confirmando...</string>
+    <string name="s_consult">Consulta</string>
+    <string name="s_consult_accepted">Consulta aceita</string>
+    <string name="s_consult_canceled">Consulta cancelada com sucesso!</string>
+    <string name="s_consult_details">Detalhes da consulta</string>
+    <string name="s_consult_finalized">Consulta finalizada</string>
+    <string name="s_consult_for">Atendimento para:</string>
+    <string name="s_consult_message">Peça sua consulta agora ou agendado.</string>
+    <string name="s_consult_type">Particular</string>
+    <string name="s_consult_value">Valor do atendimento</string>
+    <string name="s_convenance_data_title">Dados do convênio</string>
+    <string name="s_convenant">Convênio</string>
+    <string name="s_convenant_associate_number">Nº do associado</string>
+    <string name="s_convenant_data">Dados do convênio</string>
+    <string name="s_convenant_name">Operadora de saúde</string>
+    <string name="s_convenant_user_name">Nome do beneficiário</string>
+    <string name="s_convenant_user_number">Número do convênio</string>
+    <string name="s_cpf">CPF</string>
+    <string name="s_cpf_needed">Você precisa preencher um CPF válido para poder continuar</string>
+    <string name="s_create_account">Criar conta</string>
+    <string name="s_creating_account">Criando conta...</string>
+    <string name="s_cvv">CVV</string>
+    <string name="s_data_for_appointment">Dados para atendimento</string>
+    <string name="s_data_saved_succesfully">Dados salvos com sucesso</string>
+    <string name="s_date">Data</string>
+    <string name="s_date_and_time">Data e hora</string>
+    <string name="s_details">Detalhes</string>
+    <string name="s_dialog_image_error">"Ocorreu um erro ao obter a foto que você tirou/selecionou :(
+Por favor tente novamente"</string>
+    <string name="s_dialog_ok">OK, entendi</string>
+    <string name="s_dialog_title">Ops!</string>
+    <string name="s_doctor_about">Sobre</string>
+    <string name="s_doctor_has_ended_consult">Seu médico encerrou a consulta.</string>
+    <string name="s_doctor_schedule">Horários</string>
+    <string name="s_download">Baixar</string>
+    <string name="s_due_date_hint">Val.</string>
+    <string name="s_due_date_initial_text">•• / ••</string>
+    <string name="s_edit">Editar</string>
+    <string name="s_edit_address">Editar endereço</string>
+    <string name="s_edit_photo">Alterar foto</string>
+    <string name="s_edit_underline"><u>Editar</u></string>
+    <string name="s_email">Email</string>
+    <string name="s_email_needed">Você precisa preencher um e-mail válido para poder continuar</string>
+    <string name="s_email_not_disponible">E-mail não disponível</string>
+    <string name="s_emergency">Emergência</string>
+    <string name="s_emergency_is_called">"Seu pedido de emergência foi efetuado com sucesso!
+
+"<b>Estamos enviando uma ambulância para sua localização nesse exato momento!</b></string>
+    <string name="s_emergency_message">Solicite o atendimento de Emergência.</string>
+    <string name="s_emergency_sample_message">Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos.</string>
+    <string name="s_error_camera_permissions">O Docway precisa ter acesso as suas imagens e câmera para que você selecione uma imagem de perfil.</string>
+    <string name="s_error_invalid_email_and_or_password_api">"Usuário e/ou senha incorreta.
+
+"<b>Por favor, tente novamente com informações diferentes.</b></string>
+    <string name="s_error_invalid_email_api">"E-mail já em uso.
+
+Por favor tente novamente com um diferente."</string>
+    <string name="s_error_loading_agenda">Erro ao obter agenda.</string>
+    <string name="s_error_loading_cities">Não foi possível carregar as cidades cadastradas</string>
+    <string name="s_error_loading_map">"Ocorreu um erro ao obter sua localização no mapa.
+
+"<b>Por favor verifique sua conexão com a internet e tente outra vez clicando em<i> SAIR</i> e entrando novamente.</b></string>
+    <string name="s_error_login_facebook">"Ocorreu um erro ao logar com o seu facebook.
+
+Por favor, verifique as informações digitadas e tente novamente"</string>
+    <string name="s_error_login_facebook_api">"Ocorreu um erro ao fazer seu login com o Facebook.
+
+Por favor verifique sua conexão com a internet e tente novamente."</string>
+    <string name="s_error_login_facebook_email_pending">O login com o Facebook só é possível se tivermos acesso ao seu<b> e-mail</b>".
+
+Por favor tente novamente."</string>
+    <string name="s_error_on_credit_card">Selecione manualmente a bandeira do seu cartão de crédito no canto superior direito.</string>
+    <string name="s_error_saving_profile">"Ocorreu um erro e não foi possível salvar o perfil atual :(
+
+Por favor verifique sua conexão com a internet e tente novamente."</string>
+    <string name="s_error_saving_profile_picture">"Ocorreu um erro e não conseguimos fazer o upload da imagem para esse perfil :(
+
+Mas em compensação ele já está pronto para uso :)"</string>
+    <string name="s_exam">Exame</string>
+    <string name="s_exam_confirmation_message">*Valor referente a coleta do exame</string>
+    <string name="s_exam_message">Agende a coleta do seu exame aqui.</string>
+    <string name="s_exam_type">Tipo de exame</string>
+    <string name="s_facebook">Facebook</string>
+    <string name="s_fill_day">Informe o dia</string>
+    <string name="s_fill_time">Informe a hora</string>
+    <string name="s_fill_up">Informe</string>
+    <string name="s_forget_password">Esqueci minha senha</string>
+    <string name="s_four_dots">••••</string>
+    <string name="s_from_camera">Tirar com a câmera</string>
+    <string name="s_from_gallery">Escolher da galeria</string>
+    <string name="s_gender">Sexo</string>
+    <string name="s_gender_female">Feminino</string>
+    <string name="s_gender_male">Masculino</string>
+    <string name="s_generic_api_error">"Ocorreu um erro ao comunicar-se com os servidores do Docway :(
+
+Por favor verifique sua conexão com a internet e tente novamente"</string>
+    <string name="s_go_in">Entrar</string>
+    <string name="s_go_in_facebook">Entrar com Facebook</string>
+    <string name="s_going_in">Entrando...</string>
+    <string name="s_health_plan">Plano de saúde</string>
+    <string name="s_health_problems">Problemas de saúde</string>
+    <string name="s_height">Altura (cm)</string>
+    <string name="s_hold_on">Aguarde...</string>
+    <string name="s_home">Home</string>
+    <string name="s_home_age">idade</string>
+    <string name="s_home_another_services">Outros Serviços</string>
+    <string name="s_home_consult">Consulta Médica</string>
+    <string name="s_home_consult_message">Peça sua consulta agora ou agende um horário</string>
+    <string name="s_home_exam">EXAMES</string>
+    <string name="s_home_exam_message">Agende a coleta de seu exame aqui</string>
+    <string name="s_home_height">altura</string>
+    <string name="s_home_medtronic_message">Agende sua visita aqui</string>
+    <string name="s_home_select_service">Escolha um serviço</string>
+    <string name="s_home_vaccine">VACINA</string>
+    <string name="s_home_vaccine_message">Agende sua vacina aqui</string>
+    <string name="s_home_weight">peso</string>
+    <string name="s_image_uploaded">Imagem carregada com sucesso!</string>
+    <string name="s_includ_foto">É obrigatório incluir uma foto</string>
+    <string name="s_incorrect_address">Ocorreu um erro e não conseguimos identificar corretamente o seu endereço :(</string>
+    <string name="s_invalid_address_message">Por favor utilize o mapa novamente para escolher um endereço válido.</string>
+    <string name="s_invalid_address_title">Endereço inválido.</string>
+    <string name="s_label_clinic">Clínica %1$s</string>
+    <string name="s_landmark_hint">PONTO DE REFERÊNCIA</string>
+    <string name="s_loading">Carregando…</string>
+    <string name="s_locating_doctor">"Estamos localizando um médico
+próximo a você."</string>
+    <string name="s_location_of_the_call">Localização do atendimento</string>
+    <string name="s_logging_out">saindo...</string>
+    <string name="s_logout">sair</string>
+    <string name="s_main_profile">PRINCIPAL</string>
+    <string name="s_manage_address">Manage address</string>
+    <string name="s_manage_profile">Manage profile</string>
+    <string name="s_manage_profiles">Gerenciar meus perfis</string>
+    <string name="s_mark_as_primary">Marcar como principal</string>
+    <string name="s_mark_card_as_main">Marcar como cartão principal</string>
+    <string name="s_medical_data">Dados do médico</string>
+    <string name="s_medical_data_title">Ficha médica</string>
+    <string name="s_medicines">Medicamentos</string>
+    <string name="s_medtronic">Medtronic</string>
+    <string name="s_message_for_vaccines">"Calendário básico de vacinação
+da Criança, da Mulher, do Homem e do Idoso"</string>
+    <string name="s_message_hint">Escreva sua mensagem aqui...</string>
+    <string name="s_month_year">mm/yy</string>
+    <string name="s_month_year_hint">Mês/Ano</string>
+    <string name="s_morning_eight">08:00</string>
+    <string name="s_morning_eleven">11:00</string>
+    <string name="s_morning_nine">09:00</string>
+    <string name="s_morning_seven">07:00</string>
+    <string name="s_morning_ten">10:00</string>
+    <string name="s_morning_times">Horários manhã</string>
+    <string name="s_morning_twelve">12:00</string>
+    <string name="s_my_addresses">Meus Endereços</string>
+    <string name="s_my_calls">Meus atendimentos</string>
+    <string name="s_my_medical_data">Ficha médica</string>
+    <string name="s_my_perfil">Meu Perfil</string>
+    <string name="s_my_profiles">Meus Perfis</string>
+    <string name="s_name">Nome</string>
+    <string name="s_name_needed">Você precisa preencher um nome para poder continuar</string>
+    <string name="s_need_exam">Você precisa selecionar um exame antes de continuar.</string>
+    <string name="s_need_state_first">Você precisa selecionar um estado para então selecionar uma cidade :)</string>
+    <string name="s_need_to_select_credit_card_brand">Você precisa selecionar a bandeira do seu cartão antes de continuar</string>
+    <string name="s_need_vaccine">Você precisa selecionar uma vacina antes de continuar.</string>
+    <string name="s_neighboorhod_hint">BAIRRO</string>
+    <string name="s_neighborhood">Bairro</string>
+    <string name="s_new_card">Novo cartão</string>
+    <string name="s_next">Próximo</string>
+    <string name="s_night_five">23:00</string>
+    <string name="s_night_four">22:00</string>
+    <string name="s_night_one">19:00</string>
+    <string name="s_night_six">00:00</string>
+    <string name="s_night_three">21:00</string>
+    <string name="s_night_times">Horários noite</string>
+    <string name="s_night_two">20:00</string>
+    <string name="s_no">Não</string>
+    <string name="s_no_available_times">Não existem horários disponíveis para essa data.</string>
+    <string name="s_no_call">"Você ainda não tem
+nenhum atendimento"</string>
+    <string name="s_no_cards">"Você ainda não tem
+nenhum cartão de crédito cadastrado"</string>
+    <string name="s_no_city_on_your_address">"Ainda não é possível utilizar o PEÇA AGORA para a cidade de %1$s.
+
+Clique no botão AGENDE AQUI para solicitar um médico."</string>
+    <string name="s_no_clinics_founded">Nenhuma clínica encontrada.</string>
+    <string name="s_no_data_founded">Dados não encontrados para a sua região.</string>
+    <string name="s_no_doctor_founded">Nenhum médico foi encontrado :(</string>
+    <string name="s_no_doctors_description">Nenhuma descrição foi adicionada por esse(a) médico.</string>
+    <string name="s_no_doctors_founded">Nenhum médico encontrado.</string>
+    <string name="s_no_location_founded">"Não conseguimos encontrar sua última localização para atualizarmos o mapa.
+
+Tente usar um aplicativo como Google Maps e voltar para o Docway."</string>
+    <string name="s_no_notifications">"Você ainda não recebeu
+nenhuma notificação"</string>
+    <string name="s_no_permission_granted">"Você precisa dar permissão de acesso à sua localização para que o aplicativo funcione corretamente.
+
+"<b>Por favor clique em<i> TENTAR NOVAMENTE</i> para permitir</b></string>
+    <string name="s_no_results_for_search">Não existem resultados para a pesquisa atual :(</string>
+    <string name="s_no_search_data_found">Nenhum item encontrado</string>
+    <string name="s_none">-</string>
+    <string name="s_notifications">Notificações</string>
+    <string name="s_ok">OK</string>
+    <string name="s_other_reason">Outro Motivo</string>
+    <string name="s_password">Senha</string>
+    <string name="s_password_needed">Você precisa preencher uma senha de no mínimo 6 caracteres para poder continuar</string>
+    <string name="s_pattern">PADRÃO</string>
+    <string name="s_payment_method">Forma de pagamento</string>
+    <string name="s_payment_type">Forma de pagamento</string>
+    <string name="s_payments">Formas de Pagamento</string>
+    <string name="s_permission_call_error">O Docway precisa dessa permissão para poder efetuar uma ligação para a emergência.</string>
+    <string name="s_personal_data">Dados pessoais</string>
+    <string name="s_personal_data_title">Dados pessoais</string>
+    <string name="s_phone">Telefone</string>
+    <string name="s_phone_needed">Você precisa preencher um número de telefone válido para poder continuar</string>
+    <string name="s_pick_a_service">Escolha um serviço</string>
+    <string name="s_pick_doctor">Escolher médico</string>
+    <string name="s_pick_educator">Escolher educador(a)</string>
+    <string name="s_pre_confirmation_message">Confira as informações acima antes de confirmar seu pedido, é importante você se certificar de que estará presente no local e horário informados.</string>
+    <string name="s_prescription">Prescrição</string>
+    <string name="s_private">Particular</string>
+    <string name="s_promotion">Promoção</string>
+    <string name="s_promotion_hint">Clique aqui para adicionar o código</string>
+    <string name="s_promotional_code">Código promocional</string>
+    <string name="s_promotional_code_accepted">"Código promocional encontrado!
+
+Você terá um desconto de &lt;b>%1$s&lt;/b> no valor final. Aproveite!"</string>
+    <string name="s_promotional_code_accepted_percentage">"Código promocional encontrado!
+
+Você terá um desconto de &lt;b>%1$s&lt;/b> no valor final. Aproveite!"</string>
+    <string name="s_promotional_code_error">"Código promocional não existente ou esgotado!
+
+Por favor verifique o código digitado e tente novamente"</string>
+    <string name="s_rate_minimal_error">Você precisa escolher entre 1 e 5 estrelas antes de clicar em<b> Enviar avaliação</b></string>
+    <string name="s_rate_your_doctor">Avalie seu médico</string>
+    <string name="s_recover_password">Recuperar senha</string>
+    <string name="s_recover_password_message">Informe seu email, nós enviaremos para você uma senha temporária para acesso.</string>
+    <string name="s_recovering_password">Recuperando senha...</string>
+    <string name="s_register_succesful">Registro efetuado com sucesso</string>
+    <string name="s_register_unsuccesfull_email_taken">"O e-mail que você colocou já está sendo usado por outra pessoa :(
+
+Por favor tente novamente com um diferente."</string>
+    <string name="s_remove">Remover</string>
+    <string name="s_request_details">Detalhes do pedido</string>
+    <string name="s_save">Salvar</string>
+    <string name="s_saving">Salvando...</string>
+    <string name="s_say_to_a_friend">Indique para um amigo</string>
+    <string name="s_scan_card">ESCANEAR SEU CARTÃO</string>
+    <string name="s_schedule_time">%1$s:00</string>
+    <string name="s_search">Buscar</string>
+    <string name="s_search_city">Buscar Cidade</string>
+    <string name="s_search_city_hint">"Digite as 3 primeiras letras do
+nome da cidade para buscar :)"</string>
+    <string name="s_search_clinics">Buscar clínicas</string>
+    <string name="s_search_doctors">Buscar médicos</string>
+    <string name="s_search_state">Buscar Estado</string>
+    <string name="s_search_state_hint">"Digite as 3 primeiras letras do
+nome do estado para buscar :)"</string>
+    <string name="s_seconds">segundos</string>
+    <string name="s_secundary_profile">DEPENDENTE</string>
+    <string name="s_see_canceling_policy"><u>VEJA NOSSA POLÍTICA DE CANCELAMENTO</u></string>
+    <string name="s_select">Selecionar</string>
+    <string name="s_select_a_brand">Selecione uma bandeira</string>
+    <string name="s_select_address_before">Selecione um endereço</string>
+    <string name="s_select_creditcard_before">Selecione uma forma de pagamento</string>
+    <string name="s_select_service_before">Selecione um serviço</string>
+    <string name="s_select_speciality_before">Selecione uma especialidade</string>
+    <string name="s_select_the_moment">Selecione o momento</string>
+    <string name="s_select_voucher_before">Digite um voucher válido</string>
+    <string name="s_selected_date">Semana de %1$s a %2$s</string>
+    <string name="s_send">Enviar</string>
+    <string name="s_send_message">Enviar mensagem</string>
+    <string name="s_send_rate">Enviar avaliação</string>
+    <string name="s_sending_help_request">Enviando pedido de emergência...</string>
+    <string name="s_sending_rate">Enviando avaliação...</string>
+    <string name="s_service">Serviço</string>
+    <string name="s_speciality">Especialidade</string>
+    <string name="s_start_seconds">30</string>
+    <string name="s_state">Estado</string>
+    <string name="s_state_hint">ESTADO</string>
+    <string name="s_street">Rua</string>
+    <string name="s_street_hint">RUA</string>
+    <string name="s_street_number">Nº</string>
+    <string name="s_street_number_hint">NÚMERO</string>
+    <string name="s_success_sending_rate">Avaliação enviada com sucesso</string>
+    <string name="s_sure_about_canceling">Você tem certeza que deseja cancelar esse pedido de consulta?</string>
+    <string name="s_sure_about_deleting_card">Você tem certeza que deseja deletar esse cartão de crédito?</string>
+    <string name="s_sure_about_logout">Você tem certeza que deseja sair?</string>
+    <string name="s_sure_about_primary_card">"Você tem certeza que deseja marcar esse cartão como primário?
+
+"<b>Ele será o cartão prioritário para pagamentos no Docway.</b></string>
+    <string name="s_sure_want_mark_vaccine_as_taked">Você já tomou a vacina &lt;b>%1$s?&lt;/b></string>
+    <string name="s_symptoms">Sintomas</string>
+    <string name="s_symptoms_not_informed">Sintomas não informados</string>
+    <string name="s_tag_closed">closed</string>
+    <string name="s_tag_opened">opened</string>
+    <string name="s_three_dots">•••</string>
+    <string name="s_time">Hora</string>
+    <string name="s_today">Hoje</string>
+    <string name="s_tomorrow">Amanhã</string>
+    <string name="s_total_waiting_time">15:00</string>
+    <string name="s_try_again">Tentar novamente</string>
+    <string name="s_use_terms">"Tocando no botão abaixo você
+concorda com nossos"<b> termos de uso</b>.</string>
+    <string name="s_use_terms_title">Termos de uso</string>
+    <string name="s_user_created">Perfil criado com sucesso!</string>
+    <string name="s_user_info">%1$s KG | %2$s cm | %3$s</string>
+    <string name="s_user_updated">Perfil atualizado com sucesso!</string>
+    <string name="s_vaccine">Vacina</string>
+    <string name="s_vaccine_date_invalid_text">Você deve selecionar um dia útil</string>
+    <string name="s_vaccine_date_invalid_title">Data Inválida</string>
+    <string name="s_vaccine_five">dT - 3ª Dose (Dupla tipo adulto)</string>
+    <string name="s_vaccine_four">SCR - Dose única (Tríplice viral)</string>
+    <string name="s_vaccine_message">Agende sua vacina aqui.</string>
+    <string name="s_vaccine_one">dT - 1ª Dose (Dupla tipo adulto)</string>
+    <string name="s_vaccine_quantity">Quantidade</string>
+    <string name="s_vaccine_quantity_pattern">1</string>
+    <string name="s_vaccine_quantity_placeholder">Quantidade: %1$d</string>
+    <string name="s_vaccine_seven">dT - Reforço (Dupla tipo adulto)</string>
+    <string name="s_vaccine_six">dT (Dupla tipo adulto)</string>
+    <string name="s_vaccine_three">Febre Amarela Dose inicial</string>
+    <string name="s_vaccine_tip">"Dica
+Preencha sua"<b> Agenda de vacinação</b>"
+clicando aqui."</string>
+    <string name="s_vaccine_two">dT - 2ª Dose (Dupla tipo adulto)</string>
+    <string name="s_vaccine_type">Tipo de vacina</string>
+    <string name="s_vaccines">Vacinas</string>
+    <string name="s_validate">Validar código</string>
+    <string name="s_verifying_cities">Verificando cidades...</string>
+    <string name="s_version">Versão: %1$s (%2$d)</string>
+    <string name="s_voucher">Voucher</string>
+    <string name="s_waiting_doctor">Aguardando médico</string>
+    <string name="s_warning_about_no_address">Para pedir um médico é necessário ter pelo menos um endereço cadastrado!</string>
+    <string name="s_warning_no_payment">Você precisa selecionar uma forma de pagamento</string>
+    <string name="s_weight">Peso (kg)</string>
+    <string name="s_whatsapp">Whatsapp</string>
+    <string name="s_will_be">Será em</string>
+    <string name="s_write_comment">Adicionar comentário</string>
+    <string name="s_wrong_address">"Parece que o número do endereço que você está tentando cadastrar não é válido.
+
+Por favor verifique e tente novamente"</string>
+    <string name="s_yes">Sim</string>
+    <string name="s_you_need_credit_card">Você precisa cadastrar pelo menos um cartão de crédito para poder selecionar essa forma de pagamento.</string>
+    <string name="s_you_trying_login_as_doctor_in_pacient_app">"A conta que você está tentando acessar é uma conta de MÉDICO.
+Este aplicativo serve apenas para uso dos PACIENTES.
+
+Caso não tenha, clique em BAIXAR para obter o aplicativo do médico."</string>
+    <string name="s_you_will_receive_an_email">Se o e-mail que você digitou estiver cadastrado em nossa base de dados, você receberá um e-mail com as informações necessárias para recuperar sua senha.</string>
+    <string name="s_your_consult">Seu atendimento</string>
+    <string name="s_your_consult_is_sended_and_pending_accepting">"Sua consulta agendada foi enviada para o médico escolhido.
+
+"<b>A consulta ainda não está confirmada. Aguarde o aviso em seu celular sobre a aceitação ou não pelo médico.</b></string>
+    <string name="s_your_exam_is_sended_and_pending_accepting">Seu exame foi agendado com sucesso.</string>
+    <string name="s_your_name_card_hint">Seu nome</string>
+    <string name="s_your_vaccine_is_sended_and_pending_accepting">Sua vacina foi agendada com sucesso!</string>
+    <string name="search_menu_title">Search</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+</resources>

@@ -1,0 +1,903 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_like_button_liked">Liked</string>
+    <string name="com_facebook_like_button_not_liked">Like</string>
+    <string name="com_facebook_loading">Loading...</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_loginview_log_in_button">Log in</string>
+    <string name="com_facebook_loginview_log_in_button_long">Log in with Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="com_facebook_send_button_text">Send</string>
+    <string name="com_facebook_share_button_text">Share</string>
+    <string name="com_facebook_tooltip_default">"New! You're in control - choose what info you want to share with apps."</string>
+    <string name="common_google_play_services_api_unavailable_text">%1$s requires one or more Google Play services that are not currently available. Please contact the developer for assistance.</string>
+    <string name="common_google_play_services_enable_button">Enable Google Play services</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Get Google Play services</string>
+    <string name="common_google_play_services_install_text_phone">"%1$s won't run without Google Play services, which are missing from your phone."</string>
+    <string name="common_google_play_services_install_text_tablet">"%1$s won't run without Google Play services, which are missing from your tablet."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
+    <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
+    <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
+    <string name="common_google_play_services_network_error_title">Network Error</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_restricted_profile_text">Accessing accounts from a restricted profile is not supported.</string>
+    <string name="common_google_play_services_restricted_profile_title">Restricted Profile</string>
+    <string name="common_google_play_services_sign_in_failed_text">Error signing in the specified account. Please choose a different account.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Sign in failed</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. If the problem persists, please contact the developer for assistance.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s relies on Google Play services, which is not supported by your device. Contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_updating_title">Google Play services are updating</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="messenger_send_button_text">Send</string>
+    <string name="place_autocomplete_clear_button">Clear search</string>
+    <string name="place_autocomplete_search_hint">Search</string>
+    <string name="pull_to_refresh_pull_label">Pull to refresh…</string>
+    <string name="pull_to_refresh_refreshing_label">Loading…</string>
+    <string name="pull_to_refresh_release_label">Release to refresh…</string>
+    <string name="pull_to_refresh_from_bottom_pull_label">@string/pull_to_refresh_pull_label</string>
+    <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string>
+    <string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string>
+    <string name="acount_word">Account</string>
+    <string name="agreement_title">DECOPIC Terms of Use</string>
+    <string name="agreement_word">Terms of Use</string>
+    <string name="ais_label">greeting</string>
+    <string name="back">Back</string>
+    <string name="back_to_top_confirm_leaf">Sharing has not completed. Returning to home will not allow the process to complete, are you sure you want to leave?</string>
+    <string name="backtohome">Return to TOP</string>
+    <string name="backtoone">Back to the previous page</string>
+    <string name="btn_cancel_error_vc">Quit</string>
+    <string name="btn_comingsoon">Coming soon</string>
+    <string name="btn_download">Download</string>
+    <string name="btn_downloaded">Download completed</string>
+    <string name="btn_memberfree">Member Free</string>
+    <string name="btn_no_buy">NO</string>
+    <string name="btn_ok_buy">OK</string>
+    <string name="btn_ok_error_vc">Version up</string>
+    <string name="btn_overdue">Time limit</string>
+    <string name="btn_yes_buy">YES</string>
+    <string name="c2dm_all">Inromation from DECOPIC</string>
+    <string name="c2dm_deco_notify">Information from DecoSHOP</string>
+    <string name="c2dm_versionup">Information about version up</string>
+    <string name="camera_failer_take_picture">Shooting picture failed due to lack of memory.</string>
+    <string name="campaign_label">Campaign information</string>
+    <string name="check_addres">Please enter correct email address.</string>
+    <string name="coin_mng_word">Coins</string>
+    <string name="comment_hint">Add comments to photos (Option)</string>
+    <string name="complete_label">Save</string>
+    <string name="connect_failed">Failed to communicate with server</string>
+    <string name="current_point">Your coins now</string>
+    <string name="dark_label">Dark</string>
+    <string name="deco_buy_cancel">Cancel</string>
+    <string name="deco_buy_go_shop">To Shop</string>
+    <string name="deco_buy_message">The kinds of deco for trial use are limited. If you want to use other deco please download the regular version.</string>
+    <string name="deco_delete_content">Delete All Decorations?</string>
+    <string name="deco_dl_word">Deco-SHOP</string>
+    <string name="deco_shop_label">Deco-SHOP</string>
+    <string name="detail_default">details</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_cancel_auth">Cancel</string>
+    <string name="dialog_check">Verify</string>
+    <string name="dialog_error_code">(Error code: %1$s )</string>
+    <string name="dialog_go_market">Update</string>
+    <string name="dialog_later">Later</string>
+    <string name="dialog_message_auth">If you become a free member you can download deco.</string>
+    <string name="dialog_message_buy">Do you want to download %2$s box with %1$d coins?</string>
+    <string name="dialog_message_dling">Downloading..</string>
+    <string name="dialog_message_download">Do you want to start download?</string>
+    <string name="dialog_message_error_201">Process has been terminated due to the problem after we confirmed your purchasing information with the market. Please contact manager from Help page.(Error code: 201)</string>
+    <string name="dialog_message_error_202">Order process has been ceased in order to avoid double charge because the previous order has not been completed properly. Please contact manager from Help page if the problem persists. (Error code: 202)</string>
+    <string name="dialog_message_error_203">Process has been terminated due to the problem after we confirmed your purchasing information with the market. Please contact manager from Help page.(Error code: 203)</string>
+    <string name="dialog_message_error_204">Process has been terminated due to the problem after we confirmed your purchasing information with the market. Please contact manager from Help page.(Error code: 204)</string>
+    <string name="dialog_message_error_205">Process has been terminated due to the problem after we confirmed your purchasing information with the market. Please contact manager from Help page.(Error code: 205)</string>
+    <string name="dialog_message_error_206">Process has been terminated due to the problem after we confirmed your purchasing information with the market. Please contact manager from Help page.(Error code: 206)</string>
+    <string name="dialog_message_error_401">Download cannot be completed due to luck of coin.</string>
+    <string name="dialog_message_error_900">You cannot use our shop due to the maintenance. I am sorry for this inconvenience. Please wait until completion.</string>
+    <string name="dialog_message_error_download">Failed to download</string>
+    <string name="dialog_message_error_nw">Download has failed due to bad connection.Please check your connection and try again.If problems persist, consult the administrator via the help screen.</string>
+    <string name="dialog_message_error_pack">File transfer has been interrupted due to a bad connection.Please check your connection and try again.If problems persist, consult the administrator via the help screen.</string>
+    <string name="dialog_message_error_vc">Our shop functions are updated. You have to download the latest version of application to log in our shop.</string>
+    <string name="dialog_message_point_lack">Not enough coins for download</string>
+    <string name="dialog_message_waiting">Wait for a moment</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_ok_auth">Sign up</string>
+    <string name="dialog_title_auth">Verify</string>
+    <string name="dialog_title_buy">Verify</string>
+    <string name="dialog_title_error">Error</string>
+    <string name="dialog_title_waiting">Reading</string>
+    <string name="email_default">e-mail address</string>
+    <string name="error_friend_toast">Sharing with friends has failed.</string>
+    <string name="filter_default">no filter</string>
+    <string name="filter_label">filter</string>
+    <string name="finish_app">Do you really want to exit?</string>
+    <string name="font_sentence">ABCdecopic</string>
+    <string name="force_update">In order to guarantee this Apps functions, this version of the App has been disabled. Please update the App.</string>
+    <string name="frame_label">Frame</string>
+    <string name="help_label">Help</string>
+    <string name="help_other_answer_text">"Please send us
+ Contact form 
+for the questions which is not applicable to Help."</string>
+    <string name="help_other_question_text">Other question</string>
+    <string name="help_other_url_text">Contact form</string>
+    <string name="help_word">Help</string>
+    <string name="hit_label">phrase</string>
+    <string name="inpuery_bugs">Report bug</string>
+    <string name="inpuery_other">Other.</string>
+    <string name="inpuery_question">Questions</string>
+    <string name="inpuery_request">Demands</string>
+    <string name="inquery_label">Contact</string>
+    <string name="inquery_notice_message">"The following information will be sent:
+When authenticating, Account ID."</string>
+    <string name="kao_angry">angry</string>
+    <string name="kao_cheerup">cheer up</string>
+    <string name="kao_funny">funy</string>
+    <string name="kao_happy">happy</string>
+    <string name="kao_kawaii">Kawaii!</string>
+    <string name="kao_love">Love</string>
+    <string name="kao_others">others</string>
+    <string name="kao_sad">sad</string>
+    <string name="kao_surprised">surprised</string>
+    <string name="kim_label">feeling</string>
+    <string name="lang_2word">en</string>
+    <string name="login_label">Login</string>
+    <string name="logout_word">Logout</string>
+    <string name="lov_label">Love</string>
+    <string name="make_label">make-up</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_setting">Settings</string>
+    <string name="message_delete_title">Confirm Delete</string>
+    <string name="message_label">message</string>
+    <string name="neon_label">Neon</string>
+    <string name="no_change">Continue</string>
+    <string name="notice_label">Notifications</string>
+    <string name="notification_telop">DECOPIC News</string>
+    <string name="offline_content">"Can't update data due to connection failure"</string>
+    <string name="offline_title">Network Connection Error</string>
+    <string name="one_more_label">Again</string>
+    <string name="other_label">Others</string>
+    <string name="pastel_label">Pastel</string>
+    <string name="pen_label">Pen</string>
+    <string name="profile_word">Profile</string>
+    <string name="progress_content">Please Wait…</string>
+    <string name="progress_content_processing">Saving…</string>
+    <string name="registration_help_link_string">Privacy Policy and Terms of Agreement.</string>
+    <string name="restartcamera">Take a photo</string>
+    <string name="restartcancel">Modify</string>
+    <string name="restartgallery">Choose from photo library</string>
+    <string name="retry_label">Retry</string>
+    <string name="review_dialog_no">Later</string>
+    <string name="save_label">Save</string>
+    <string name="save_local_photo">Photo saved.</string>
+    <string name="save_local_photo_failed">"Error. Picture was not saved. Please check the device's memory."</string>
+    <string name="save_photo">The Photo Was Saved!</string>
+    <string name="sdcard_is_low_size">SD Card is low on memory. Pictures and files may fail to save correctly.</string>
+    <string name="sdcard_is_not_available">Pictures cannot be saved because Sdard cannot be used. Please be careful.</string>
+    <string name="select_picture">Gallery</string>
+    <string name="send_label">Send</string>
+    <string name="send_photo_complete">Transmission completed.</string>
+    <string name="send_photo_failed">Send error</string>
+    <string name="signin_label">Sign in</string>
+    <string name="signin_now_label">Signing in</string>
+    <string name="signout_label">Sign out</string>
+    <string name="sns_label">SNS Sharing</string>
+    <string name="sns_upload_setting_label">SNS(Upload destination)</string>
+    <string name="splash_album">Album</string>
+    <string name="splash_camera">Camera</string>
+    <string name="stamp_label">Stamp</string>
+    <string name="take_picture">Camera</string>
+    <string name="text_label">Text</string>
+    <string name="timeout_title">internet connection error</string>
+    <string name="to_top">Top page</string>
+    <string name="vivid_label">Vivid</string>
+    <string name="wlp_signin_message">"\"WeLovePic\"'s Account"</string>
+    <string name="add_coin">Buy</string>
+    <string name="add_coins">More coins</string>
+    <string name="adjuster_label">Adjust</string>
+    <string name="auth_add_facebook">Sign up through Facebook</string>
+    <string name="auth_add_telephone">Sign up by phone-NO.</string>
+    <string name="auth_dialog_add_member">Sign up as a member</string>
+    <string name="auth_dialog_already_member">You are already a member</string>
+    <string name="auth_login_facebook">Log in through Facebook</string>
+    <string name="auth_login_telephone">Log in by phone-No.</string>
+    <string name="c2dm_dialog_cancel">Not</string>
+    <string name="c2dm_dialog_message">You can receive Push-Notify from DECOPIC, campaign informations and so on. (Later you can change in the settings page)</string>
+    <string name="c2dm_dialog_ok">Receive</string>
+    <string name="camera_save_failed">Could not link photos from your selected camera application to DECOPIC. Please use a different camera application.</string>
+    <string name="camera_start_failed">It failed to activate camera. Please check if the camera is used by other app.</string>
+    <string name="category_buy">Buy coins</string>
+    <string name="category_campaign">Invitation campaign</string>
+    <string name="category_reword">EARN COINS</string>
+    <string name="category_use">Buy Deco Box</string>
+    <string name="check_reword">Reflecting information to acquired Coins takes time. Please check the Coin History Page. (You can move there from the button on the upper right corner of the screen.)</string>
+    <string name="check_reword_title">Your Coins are being updated with the latest information.</string>
+    <string name="clear_cache">This operation clears DecoSHOP’s cache. Please press OK to proceed.</string>
+    <string name="clear_cache_dialog">It is now being deleted. Please wait for a while.</string>
+    <string name="clear_cache_failed">Failed to clear app cache.</string>
+    <string name="clear_cache_success">App cache has been successfully cleared.</string>
+    <string name="clear_cache_title">clear cache</string>
+    <string name="close_dialog">Close</string>
+    <string name="coin_buy_ng_message">Failed to purchase coin.</string>
+    <string name="coin_rules_title">Terms of Coin use</string>
+    <string name="collaboration_dialog_text_cunpic">Install our sister app CunPic for easy skin lightening and beautification, and youll get a glitter stamp set ♡</string>
+    <string name="collaboration_dialog_text_install_cunpic">Install CunPic</string>
+    <string name="collaboration_dialog_text_petapic">Install our sister app Petapic which lets you make cute &amp; stylish photo combinations, and youll get a heart stamp set ♡</string>
+    <string name="collaboration_dialog_text_ycalendar">Install our sister app Petapic which lets you make cute &amp; stylish photo combinations, and youll get a stamp set ♡</string>
+    <string name="colorchip_b_label">Bright</string>
+    <string name="colorchip_no_label">Achromatic color</string>
+    <string name="colorchip_p_label">Pail</string>
+    <string name="colorchip_v_label">Vivid</string>
+    <string name="common_ok">OK</string>
+    <string name="connecting_msg">Connecting…</string>
+    <string name="crop_activity_not_found">The APP to edit images is not installed. Loading from albums will stop.</string>
+    <string name="deco_back_content">Images are not saved during editing.</string>
+    <string name="deco_header_back">Start over</string>
+    <string name="decoshop_ad_dialog">Deco SHOP will be opening soon♪Many new Deco will be available for download, so please wait a little longer!</string>
+    <string name="delete_label">Remove</string>
+    <string name="design_pen_label">Pattern</string>
+    <string name="device_size_over">Please check the Free space of device body.</string>
+    <string name="dialog_app_install">Install</string>
+    <string name="dialog_auth_understand">Got it</string>
+    <string name="dialog_c2dm_setting_off">"When you turn off the notification settings, you won't receive notices for campaigns where you can GET ♡ free coins, or additional free decorations. Are you sure you want to turn them off?"</string>
+    <string name="dialog_clear_all">Erase all decorations</string>
+    <string name="dialog_cun_message">"Give yourself a natural looking full makeover♪ It's easy♡
+CunPic is the best selfie photo shop app around♪"</string>
+    <string name="dialog_cun_title">With just one touch you can change your skin tone♡</string>
+    <string name="dialog_dlbox_msg">Please try using the display settings</string>
+    <string name="dialog_dlbox_ok">Set up</string>
+    <string name="dialog_dlbox_ttl">"Once I made the download,
+ I was able to organize the ingredients."</string>
+    <string name="dialog_exit">Quit</string>
+    <string name="dialog_free_download">Free download</string>
+    <string name="dialog_go_playmarket">Go to Google Play</string>
+    <string name="dialog_install">Install</string>
+    <string name="dialog_message_candy">Use %1$d candy to download %2$s packs?</string>
+    <string name="dialog_message_candy_lack">There is not enough Candy to download.Check out the app every day and get Candy♪</string>
+    <string name="dialog_message_coin">You need to sign in to purchase coins.</string>
+    <string name="dialog_message_dl_finish">Your decoration has finished downloading.</string>
+    <string name="dialog_message_error_sdsize">The download failed because the SD card memory does not contain enough free storage space.</string>
+    <string name="dialog_message_reward">Do you want to download %1$s box?</string>
+    <string name="dialog_never_disp">Do not show this recommendation from next time</string>
+    <string name="dialog_not_supported">This feature is unavailable, as it is not compatible with the hardware on your device.</string>
+    <string name="dialog_peta_message">"You can line up your cute and stylish photos.
+You can also customize your own screensaver and icons♪"</string>
+    <string name="dialog_peta_title">"It's so easy to make a cute collage, and it's free as well♪"</string>
+    <string name="dialog_prepare_app">Preparing to start using app…</string>
+    <string name="dialog_resolution_message">"Setting the image resolution enables you to decorate images in a quality of your choice. However, please be aware that the application can run slowly, depending on your device's specification.
+
+□How to set
+Application TOP > Settings button at bottom of screen > Image Resolution
+・To prioritize operating speed
+→Select low
+・To prioritize image quality
+→Select normal or high
+※Please note, some models will only have low and normal options. We appreciate your understanding."</string>
+    <string name="dialog_resolution_title">Image Resolution settings</string>
+    <string name="dialog_shot_msg">You can use this template if you DOWNLOAD from the SHOP ♡</string>
+    <string name="dialog_shot_msg_free">(no-charge)</string>
+    <string name="dialog_shot_msg_pay">(with charge)</string>
+    <string name="dialog_shot_ok">Go to SHOP</string>
+    <string name="dialog_title_coin">Verify</string>
+    <string name="dlbox_manage_no_item_label">You downloaded it but the decoration materials are not there.</string>
+    <string name="dlbox_manage_title_label">Display settings for decoration materials</string>
+    <string name="eraser_label">Eraser</string>
+    <string name="event_palette_dialog_message">Updating Deco to the latest data.</string>
+    <string name="filter_fantasy">Fantasy</string>
+    <string name="filter_nostalgic">Nostalgic</string>
+    <string name="filter_standard">Standard</string>
+    <string name="font_add_or_delete_label">Add or remove fonts</string>
+    <string name="font_dl_dialog_cancel">Interrupt</string>
+    <string name="font_error">Due to insufficient free space of the device, the font for the Text function could not be generated.Generate it again when you restart the app.If this does not work, please use the feedback form to let us know.</string>
+    <string name="fullsize">Keep original size</string>
+    <string name="get_font_list_dialog_message">Updating latest font data.</string>
+    <string name="go_coin_shop">Buy coins</string>
+    <string name="google_plus_not_photo">It has not been posted on Google+ yet.</string>
+    <string name="help_leave_answer_text">"You can leave the group by using the page below. Once you have left the group, all information related to the user will be deleted. Please note that it will not be possible to retrieve the information.
+Procedure for leaving the group"</string>
+    <string name="help_leave_question_text">I would like to leave “WeLovePic” account.</string>
+    <string name="help_leave_url_text">Procedure for leaving the group</string>
+    <string name="homee_banner_check">See right now</string>
+    <string name="homee_banner_message">"Give your smartphone home screen a supercute makeover☆
+Unlimited wallpapers and icons♪"</string>
+    <string name="homee_banner_text">Wallpapers and Icons</string>
+    <string name="homee_bannter_title">＼♡All free♡／</string>
+    <string name="image_pick_app_not_found">There is no application installed with which to select photos from an album.</string>
+    <string name="input_send_send">Send</string>
+    <string name="input_send_share">Post</string>
+    <string name="input_send_sns_choice">Choose a social networking site</string>
+    <string name="input_send_sns_share">Post to social networking site</string>
+    <string name="input_send_title">Saved！</string>
+    <string name="inputsend_dialog_failed">Failed</string>
+    <string name="inputsend_dialog_pre">Loading</string>
+    <string name="inputsend_dialog_share">Submitted</string>
+    <string name="inputsend_dialog_submitted">Submitting</string>
+    <string name="inputsend_share">Submit</string>
+    <string name="inquery_complate">Your enquiry has been sent.</string>
+    <string name="inquery_help_link">See the help page</string>
+    <string name="inquery_help_title">Before contacting us, please check the help page.</string>
+    <string name="inquery_message">If this does not resolve your problem, please use the following information to contact us.</string>
+    <string name="inquery_send_message">"We have received your inquiry.
+An automatic reply will be sent within 10 minutes, so please check your inbox.
+If you do not receive an automatic reply.
+It is possible that your email address was typed incorrectly, or that your email settings refused delivery from this domain.
+We apologize for the inconvenience, but please adjust your email settings and send the inquiry one more time."</string>
+    <string name="inquery_title">Queries</string>
+    <string name="introduction_title">Apps of Community Factory</string>
+    <string name="label_fixed_phrase_baby">Baby</string>
+    <string name="label_fixed_phrase_code">Coordinate</string>
+    <string name="label_fixed_phrase_date">Date</string>
+    <string name="label_fixed_phrase_event">Events</string>
+    <string name="label_fixed_phrase_feeling">Feelings</string>
+    <string name="label_fixed_phrase_friend">Friend</string>
+    <string name="label_fixed_phrase_greeting">Greetings</string>
+    <string name="label_fixed_phrase_halloween">Halloween</string>
+    <string name="label_fixed_phrase_kao">Kaomoji</string>
+    <string name="label_fixed_phrase_love">LOVE</string>
+    <string name="label_fixed_phrase_photo">Photo</string>
+    <string name="label_fixed_phrase_summer">Summer</string>
+    <string name="label_fixed_phrase_week_day">Week Day</string>
+    <string name="label_text_date">Date</string>
+    <string name="label_text_history">History</string>
+    <string name="label_text_phrase">Phrase</string>
+    <string name="leave_button_label">Leave the group</string>
+    <string name="leave_completed_text">Removal process has been completed.</string>
+    <string name="leave_confirm_text">"There are procedures to withdraw from WeLovePic
+If there are no issues, please press the OK button."</string>
+    <string name="leave_label">I would like to leave “WeLovePic” account.</string>
+    <string name="leave_page_text">"There are procedures to withdraw from WeLovePic
+All information related to the user would be deleted once the user leave the group.
+The user will not be able to use purchased coins and downloaded materials.
+Please note that the information cannot be restored after it has been deleted."</string>
+    <string name="leave_title">Procedure for leaving the group</string>
+    <string name="linno_dialog_title">WeLovePic Member registration</string>
+    <string name="login_before_leave_dialog">We cannot process your membership cancelation, because your user authentication has never been done. Please sign-in at least once, then try again.</string>
+    <string name="look_dialog">Take a look</string>
+    <string name="magazine_category_feed">Feed</string>
+    <string name="magazine_category_hot">Hot</string>
+    <string name="magazine_category_mypage">MyPage</string>
+    <string name="magazine_category_popular">Popular</string>
+    <string name="magazine_category_upload">Upload</string>
+    <string name="magazine_post_warning">※個人を特定できる情報・連絡先・IDの書き込みは禁止です</string>
+    <string name="main_msg_enable">Please enable GooglePlay or Browser.</string>
+    <string name="masking_tape_label">MaskingTape</string>
+    <string name="mem_is_low_size">Due to insufficient free space of the device, pictures and files may fail to save correctly.</string>
+    <string name="member">WeLovePic Member</string>
+    <string name="message_cancel_font_body">Font download has been interrupted.</string>
+    <string name="message_delete_font_body">Would you like to remove this font?</string>
+    <string name="message_download_font_body">Would you like to download this font?</string>
+    <string name="message_fltr_zip_extnsn">Initial setup being performed.</string>
+    <string name="message_fltr_zip_extnsn_failure">"setup processing has failed because the SD was not correctly set or there is a possibility that it is damaged.
+Please note that some functions are not usable."</string>
+    <string name="message_fltr_zip_extnsn_unusable">Because setup was not correctly finished the filter function cannot currently be used.</string>
+    <string name="message_memory_warning">Unable to execute process due to insufficient memory. Free up memory by closing other applications.</string>
+    <string name="message_memory_warning_end">The app closed because of the memory insufficiency. Please ensure enough memory for DECOPIC by closing other apps.</string>
+    <string name="message_memory_warning_shot">"The process could not be executed due to a lack of memory. Please try to allocate memory in the following ways.
+・Terminate other applications.
+・Process the square size picture.
+・Switch to low image quality mode from the settings page."</string>
+    <string name="morphing_view_new_toast">You may change the level of zoom in the lower-right window.</string>
+    <string name="next_label">Finish</string>
+    <string name="nickname_label">Name</string>
+    <string name="no_coin_history">There is no history yet</string>
+    <string name="no_notice">There is no news yet</string>
+    <string name="nobody_found_message_not_member">There is no valid address registered.</string>
+    <string name="notif_action">Notification action</string>
+    <string name="notif_decopic">DECOPIC notification settings</string>
+    <string name="notif_magazine">Magaine notification settings</string>
+    <string name="notif_setting">Notification settings</string>
+    <string name="notif_sound">Sound</string>
+    <string name="notif_vibrate">Vibration</string>
+    <string name="now_candy">Current candy</string>
+    <string name="now_coin">Current Coin</string>
+    <string name="oss_label">Copyright information</string>
+    <string name="pen_menu_thick">Thick</string>
+    <string name="pen_menu_thin">Thin</string>
+    <string name="petacal_banner_check">Try using right away</string>
+    <string name="petacal_banner_message">♥app used by 3 million people♥Try using the cute stamp♪</string>
+    <string name="photo_dialog_message">Are you OK to upload photo?</string>
+    <string name="photo_dialog_title">Upload</string>
+    <string name="photo_not_found">It failed to open selected photos in the album. Loading from albums stops.</string>
+    <string name="photo_upload">Uploading Photo…</string>
+    <string name="preparing_shop">Updating latest shop data…</string>
+    <string name="price_unit">yen</string>
+    <string name="push_button_cancel">Close</string>
+    <string name="push_button_open_app">Open App</string>
+    <string name="push_notification_label">Push Notification</string>
+    <string name="push_shot_unlock_0073">Perfect for photos of pets and desserts♪ Decorate your very own favorites with a new heart template ♡</string>
+    <string name="push_shot_unlock_0075">"Here's a heart template for any photo♡ Decorate your memories now♪"</string>
+    <string name="push_shot_unlock_0078">Limited time present♡ A template you can use to decorate your pictures and make them cute with one touch♪</string>
+    <string name="resolution">Resolution:</string>
+    <string name="resolution_high">High</string>
+    <string name="resolution_low">Low</string>
+    <string name="resolution_medium">Medium</string>
+    <string name="restore_cancel">Abandon</string>
+    <string name="restore_message">During your last session, the app was forced to close due to a lack of memory. Would you like to revert to your work in progress?</string>
+    <string name="restore_ok">Restore</string>
+    <string name="restore_title">Restoration of work in progress</string>
+    <string name="retry_get">Retry</string>
+    <string name="review_dialog_2nd_message">"Thank you for keeping on using DECOPIC! 
+We would be happy if you update your review one more time.
+If you like the application, please give it a 5★ rating!"</string>
+    <string name="review_dialog_candy">Thank you for reviewing!</string>
+    <string name="review_dialog_candy2">You have been rewarded %1$s Candy.</string>
+    <string name="review_dialog_message">"Everyone, please encourage us to make the app cuter by writing a review!
+If you like this application, give it a 5★ rating! ♪"</string>
+    <string name="review_dialog_title">Please write a review about DECOPIC</string>
+    <string name="review_dialog_yes">Now review</string>
+    <string name="review_toast_reviewd">Already reviewed</string>
+    <string name="reward_dialog_body">If you download free applications from our advertising page, you can acquire coins to download paid decorations.</string>
+    <string name="reward_dialog_notice">"You can download one regular decoration box with 100 coins.
+Kitty and expensive decoration boxes require 200 to 300 coins."</string>
+    <string name="reward_dialog_step_1">Download a free application from the advertising page.</string>
+    <string name="reward_dialog_step_2">Start up the application you downloaded and you acquire coins♪</string>
+    <string name="reward_dialog_step_3">Use the coins to download paid decorations!</string>
+    <string name="reward_dialog_title">EARN COINS and GET DECO !!</string>
+    <string name="save_confirm">Is it okay to save the photos?</string>
+    <string name="sd_size_over">Please check the Free space on the SD card.</string>
+    <string name="sdcard_error">This function cannot be used because the SD card has not been set correctly or may be damaged.</string>
+    <string name="sdcard_is_not_available_in_shop">"An error has occurred when inspecting the SD card.
+Because the SD card might not be placed properly or broken, you might not be able to save the deco onto the SD card properly."</string>
+    <string name="self_timer_10">10 seconds</string>
+    <string name="self_timer_20">20 seconds</string>
+    <string name="self_timer_5">5 seconds</string>
+    <string name="self_timer_message">Please select the number of seconds to set the timer.</string>
+    <string name="self_timer_off">Do not set</string>
+    <string name="self_timer_title">Self-timer photo</string>
+    <string name="self_timer_toast">Pressing down the shutter button starts the countdown.</string>
+    <string name="send_all_complete">Save/send process is completed.</string>
+    <string name="send_all_finish_with_failed">Save/end process failed. Please confirm.</string>
+    <string name="send_google_title">Google+</string>
+    <string name="send_kakao_title">Share on Kakao</string>
+    <string name="send_line_title">Share on LINE</string>
+    <string name="sendcomplate_campaign">★Campaign</string>
+    <string name="sendcomplate_recommend_app">★Recommended Apps</string>
+    <string name="shot_balloon_left_label">Tap &lt;font color=red>here&lt;/font> first!&lt;br/>With just one-touch,&lt;br/>You can decorate♪</string>
+    <string name="shot_balloon_right_label">"Second. You can do
+just by yourself!"</string>
+    <string name="shot_label">Template</string>
+    <string name="shot_prev_message">"Choose a design.
+Tap to change the position of the decoration.
+x3→You can choose from 3 types of layout."</string>
+    <string name="shot_prev_title">You can decorate your pictures easily with the templates!</string>
+    <string name="sns_login_failed">Login failed</string>
+    <string name="splash_cunpic">Skin whitening</string>
+    <string name="splash_petapic">Collage</string>
+    <string name="splash_recommend">Recommended introduction</string>
+    <string name="spray_pen_label">Spray</string>
+    <string name="square">Trim to fit square</string>
+    <string name="stamp_01_label">Trends</string>
+    <string name="stamp_02_label">Collaboration</string>
+    <string name="stamp_03_label">Simple</string>
+    <string name="stamp_04_label">Dressy</string>
+    <string name="stamp_05_label">Sweet</string>
+    <string name="stamp_06_label">Hearts</string>
+    <string name="stamp_07_label">Character</string>
+    <string name="stamp_08_label">Balloon</string>
+    <string name="stamp_menu_big">Enlarge</string>
+    <string name="stamp_menu_dustbox">Delete ALL</string>
+    <string name="stamp_menu_roll_left">Rotate Left</string>
+    <string name="stamp_menu_roll_right">Rotate Right</string>
+    <string name="stamp_menu_small">Shrink</string>
+    <string name="stamp_menu_undo">Previous</string>
+    <string name="stamp_plus_label">more Deco</string>
+    <string name="template_0000_label">Original</string>
+    <string name="text_ui_defalt_sample">Alphabet 123</string>
+    <string name="text_ui_edit_text_hint">Tap here → With the [Fixed Phrase Button] you can easily enter common phrases and emoticons!</string>
+    <string name="to_shop_label">To shop</string>
+    <string name="toast_c2dm_setting_off">DECOPIC notifications have been turned OFF.</string>
+    <string name="toast_c2dm_setting_on">DECOPIC notifications have been turned ON.</string>
+    <string name="toast_font_delete_completed">Font has been removed.</string>
+    <string name="toast_font_download_completed">Font has been downloaded.</string>
+    <string name="toast_magazine_setting_off">Magazine notifications have been turned OFF.</string>
+    <string name="toast_magazine_setting_on">Magazine notifications have been turned ON.</string>
+    <string name="toast_message_movie_not_found">There are currently no videos available to receive coins from.</string>
+    <string name="unzip_error">File uncompression has failed.</string>
+    <string name="usable_font_label">Available fonts</string>
+    <string name="user_id_label">UserID</string>
+    <string name="userinfoconfig_recommend_app">Recommended Apps</string>
+    <string name="wallpaper">Wallpaper Settings</string>
+    <string name="widget">Widget</string>
+    <string name="collaboration_dialog_color_ycalendar">\#F15EB4</string>
+    <string name="collaboration_dialog_text_coletto">Manage your schedule with this stylish notebook! Download the Coletto calendar and get Soft &amp; fuzzy stamps!</string>
+    <string name="collaboration_dialog_text_install_coletto">Install Coletto calendar</string>
+    <string name="collaboration_dialog_text_install_petatto">Install PETATTO CALENDAR</string>
+    <string name="collaboration_dialog_text_petatto">Manage your schedule in a cute and easy way ♪ Download PETATTO CALENDER and get stickers you can use for birthdays!</string>
+    <string name="collaboration_unlock_check_chatee">petapic</string>
+    <string name="color_alpha_txt">Opacity</string>
+    <string name="common_confirm">Confirm</string>
+    <string name="dialog_coinpage_prepare_failed">"Failed to set up the coin purchase screen.
+Please try again later."</string>
+    <string name="dialog_delete_search_history">Remove from search history</string>
+    <string name="dialog_edit">Edit</string>
+    <string name="dialog_get_product_list">Downloading product list…</string>
+    <string name="dialog_past_purchase">Reloading past purchase data. Please wait…</string>
+    <string name="dialog_purchase_failed">"Failed to purchase coins.
+Please contact us by going to Settings → Contact Us. We apologize for the inconvenience."</string>
+    <string name="dialog_purchasing">Making purchase arrangements. Please wait…</string>
+    <string name="dialog_share_browser_btn_open_browser">Open in browser</string>
+    <string name="dialog_share_browser_btn_share">Share</string>
+    <string name="dialog_share_browser_title_open_browser">Select browser</string>
+    <string name="dialog_share_browser_title_share">Share via</string>
+    <string name="filter_girly">girly</string>
+    <string name="native_decoshop_all">ALL</string>
+    <string name="native_decoshop_already_get_coin">You have already downloaded this app.</string>
+    <string name="native_decoshop_candy_deco_check">Check Candy DECOs</string>
+    <string name="native_decoshop_category">Search by category</string>
+    <string name="native_decoshop_coin_buy">Buy a Coin</string>
+    <string name="native_decoshop_coin_buy_title">■Collect Coins</string>
+    <string name="native_decoshop_deco_buy">Purchase</string>
+    <string name="native_decoshop_dialog_initialize">"We were unable to open DECOSHOP. Please try again.
+If the problem is not resolved, please contact us using the inquiry form."</string>
+    <string name="native_decoshop_download_dialog_candy">Download【 %2$s 】for %1$d Candy?</string>
+    <string name="native_decoshop_download_dialog_candy_shortage_contents">Check the app everyday to get Candy♪</string>
+    <string name="native_decoshop_download_dialog_candy_shortage_title">You need %1$d more Candy!</string>
+    <string name="native_decoshop_download_dialog_coin">Download【 %2$s 】for %1$d Coin?</string>
+    <string name="native_decoshop_download_dialog_coin_shortage_contents">Get Coin for free?</string>
+    <string name="native_decoshop_download_dialog_coin_shortage_title">You need %1$d more Coin!</string>
+    <string name="native_decoshop_download_dialog_complate">"Download complete.
+Check the stamps and frames menu right end element ♪"</string>
+    <string name="native_decoshop_download_dialog_free">Download【 %1$s 】for free?</string>
+    <string name="native_decoshop_download_list">No downloaded items.</string>
+    <string name="native_decoshop_download_list_sub">"You can download already purchased items for free.
+Log in using the menu button at the top right of the screen."</string>
+    <string name="native_decoshop_downloaded_list">Downloaded list</string>
+    <string name="native_decoshop_finish">Close the DECOSHOP?</string>
+    <string name="native_decoshop_free_coin_get">GET coins for free</string>
+    <string name="native_decoshop_free_coin_get_movie">Watch the video to get coins</string>
+    <string name="native_decoshop_get">GET</string>
+    <string name="native_decoshop_get_coin_complate">"You got %1$d Coin.
+*It may take some time to appear in your account."</string>
+    <string name="native_decoshop_get_coin_failed">"There was an error processing your request.
+Wait a few moments and then tap the [Get Coin] button."</string>
+    <string name="native_decoshop_getcoin">Collect Coins</string>
+    <string name="native_decoshop_how_to_get_coin">To get coins</string>
+    <string name="native_decoshop_member_regist">Membership registration</string>
+    <string name="native_decoshop_redownload">Download again for free</string>
+    <string name="native_decoshop_reward_confirmation">Get Coin</string>
+    <string name="native_decoshop_reward_detail">"(1) Tap the [Download] button to download an app.
+(2) Open the downloaded app.
+(3) Go to this page and tap the [Get Coin] button.
+
+*If you have already downloaded the app in the past, you will not receive any Coin."</string>
+    <string name="native_decoshop_reward_download">Download</string>
+    <string name="native_decoshop_reward_open">Open app</string>
+    <string name="push_shot_unlock_0080">Send it along with your New Year message♡ This new New Year template will set you apart from everybody else!</string>
+    <string name="push_shot_unlock_0081">Are you ready for the New Year? We are giving away a template to send along with your New Year messages♪</string>
+    <string name="push_shot_unlock_0082">Decorate your memories from the weekend cutely♡ New templates have been added♪</string>
+    <string name="push_shot_unlock_0083">Your regular pictures will become so much cuter in the blink of an eye♡ New templates have been added♪</string>
+    <string name="push_shot_unlock_dialog_0080">Perfect for New Year Greetings♡ 2 new templates have been added♪</string>
+    <string name="push_shot_unlock_dialog_0081">For your New Year messages♡ 2 new templates have been added♪</string>
+    <string name="request_token_failed">Launch DECOPIC regularly from the app list or your home screen.</string>
+    <string name="setting_connection_coletto">Have you already decided on your 2016 pocket notebook? A pocket notebook app that combines your schedule, diary, and photos♡</string>
+    <string name="setting_connection_petatto">"Very popular! Easy and cute calendar♡
+Enjoy managing your schedule with stickers♪"</string>
+    <string name="setting_friends_confirmation">Posted Confirmation</string>
+    <string name="setting_friends_failed">Posted failure</string>
+    <string name="setting_intoroduce_friends">"Easily add cute decorations to your photos with the free app DECOPIC!
+Free download here
+Android
+%1$s
+
+iPhone%2$s"</string>
+    <string name="setting_label_coletto">Cute Pocket Notebook</string>
+    <string name="setting_label_cunpic">Skin-whitening</string>
+    <string name="setting_label_friends">Tell your friends</string>
+    <string name="setting_label_petapic">Make a collage</string>
+    <string name="setting_label_petatto">Manage your schedule</string>
+    <string name="setting_label_qanda">Q&amp;A</string>
+    <string name="setting_label_setting">Settings</string>
+    <string name="setting_label_version">Versions</string>
+    <string name="shop">Shop</string>
+    <string name="shot_00_label">New</string>
+    <string name="shot_01_label">Season</string>
+    <string name="shot_02_label">Simple</string>
+    <string name="shot_03_label">Sweet</string>
+    <string name="shot_04_label">Pop</string>
+    <string name="shot_05_label">Cool</string>
+    <string name="sns_line_talk_send">Send it to Talk.</string>
+    <string name="sns_version_check">"Currently not supported on the latest version of %1$s.
+Please update to the latest version of %1$s."</string>
+    <string name="stamp_09_label">Event</string>
+    <string name="top_icon_coletto">Schedule</string>
+    <string name="top_icon_deco">Add stamp</string>
+    <string name="top_icon_homee">New stamp</string>
+    <string name="top_icon_petatto">Calendar</string>
+    <string name="top_icon_selene">health</string>
+    <string name="upper_layout_message_coletto">Have you already decided what schedule diary you will be using during 2016? With this trendy and cute schedule diary app for girls you can manage your schedule, diary, and pictures♡</string>
+    <string name="upper_layout_message_cunpic">Easy to use one tap app♪ This is the final version of this app, which allows you to enhance your white and beautiful skin just like a purikura★ Get a naturally beautiful skin♡</string>
+    <string name="upper_layout_message_homee">Completely free! If you are looking for cute wallpapers and icons, this is your app♡You can customize the clock and other icons to match the wallpaper, too♪</string>
+    <string name="upper_layout_message_petapic">Over 120 types of trendy templates♥︎ Cut your favorite pictures in any shape of your liking, such as hearts or stars, to create collages♪</string>
+    <string name="upper_layout_message_petatto">Very popular! Easy and cute calendar♡ Enjoy managing your schedule with stickers♪ You can also manage your diary, pictures and memo notes★</string>
+    <string name="upper_layout_message_selene">Simply record the starting date with one touch!The easiest period date management app♡</string>
+    <string name="upper_layout_title_coletto">"Calendar app
+ColettoCalender"</string>
+    <string name="upper_layout_title_cunpic">"Beautiful skin effect app
+Cunpic"</string>
+    <string name="upper_layout_title_homee">"Customizing app
+Homee"</string>
+    <string name="upper_layout_title_petapic">"Collage app
+PETAPIC"</string>
+    <string name="upper_layout_title_petatto">"Calendar app
+PetattoCalender"</string>
+    <string name="upper_layout_title_selene">"Health
+Selene"</string>
+    <string name="dialog_nosupported_title_msg">To our valued customers</string>
+    <string name="sns_name_kakao_talk">KaKao</string>
+    <string name="sns_name_line">LINE</string>
+    <string name="sns_name_renren">Renren</string>
+    <string name="sns_name_wechat">WeChat</string>
+    <string name="sns_name_weibo">Weibo</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="accept">Accept</string>
+    <string name="antibanding">Antibanding</string>
+    <string name="app_name">DECOPIC</string>
+    <string name="apps_recommend_calender">ペタットカレンダー</string>
+    <string name="apps_recommend_calender_detail">かわいいカレンダー手帳アプリ♥100種類以上のスタンプを貼ってスケジュールを楽しくカンタン管理♪</string>
+    <string name="apps_recommend_calender_package_name">com.cfinc.calendar</string>
+    <string name="apps_recommend_cunpic_package_name">com.cfinc.cunpic</string>
+    <string name="apps_recommend_gyao">GyaO!</string>
+    <string name="apps_recommend_gyao_detail">無料で映画・ドラマ・音楽・アニメ・お笑い・バラエティが見れる♪日本最大級の映像サイトGyaO!の公式アプリ★</string>
+    <string name="apps_recommend_gyao_package_name">jp.co.yahoo.gyao.android.app</string>
+    <string name="apps_recommend_kentei">みんなでケンテイ</string>
+    <string name="apps_recommend_kentei_detail">恋愛・芸能・おバカなケンテイが６万種類以上！友達と盛り上がろう♪</string>
+    <string name="apps_recommend_kentei_package_name">com.cfinc.Kentei</string>
+    <string name="apps_recommend_kokoro_package_name">com.cfinc.Kokoro</string>
+    <string name="apps_recommend_official">公式アカウント</string>
+    <string name="apps_recommend_official_facebook">DECOPIC Facebookページ</string>
+    <string name="apps_recommend_official_twitter">DECOPIC Twitter公式アカウント</string>
+    <string name="apps_recommend_petapic_package_name">com.cfinc.petapic</string>
+    <string name="apps_recommend_piqup">写真カンタン整理 Piqup</string>
+    <string name="apps_recommend_piqup_detail">軽い！早い！安心！写真をアルバムに整理したりFacebook,Twitter,mixiなどへの写真投稿が手軽にできる無料アプリ♪</string>
+    <string name="apps_recommend_piqup_package_name">com.cfinc.piqup</string>
+    <string name="apps_recommend_yahoo_loco">地図 Yahoo!ロコ</string>
+    <string name="apps_recommend_yahoo_loco_detail">お出かけに便利な機能満載！周辺検索や目的地までのルート探索ができる♪</string>
+    <string name="apps_recommend_yahoo_loco_package_name">jp.co.yahoo.android.apps.map</string>
+    <string name="apps_recommend_yahoo_weather">Yahoo!天気・災害</string>
+    <string name="apps_recommend_yahoo_weather_detail">Yahoo!天気・災害の公式アプリ★全国各地の天気予報がすぐチェックできるよ♪</string>
+    <string name="apps_recommend_yahoo_weather_package_name">jp.co.yahoo.android.weather.type1</string>
+    <string name="asct">■特定商取引法</string>
+    <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
+    <string name="auth_google_play_services_client_google_display_name">Google</string>
+    <string name="auto_focus">Auto Focus</string>
+    <string name="bir_search_create">search/on_create</string>
+    <string name="bir_search_create_browser">search/on_create/browser</string>
+    <string name="bir_search_create_slider">search/on_create/slider</string>
+    <string name="bir_search_use">search/use_search</string>
+    <string name="bir_search_use_browser">search/use_search/browser</string>
+    <string name="bir_search_use_slider">search/use_search/slider</string>
+    <string name="c2dm_magazine_move">Magazineへ</string>
+    <string name="c2dm_magazine_notify">Magazineからのお知らせ</string>
+    <string name="coin">coin</string>
+    <string name="coin_label">coin</string>
+    <string name="collaboration_dialog_text_install_chatee">Chateeをインストール</string>
+    <string name="comming_soon">Coming Soon</string>
+    <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
+    <string name="create_calendar_title">Create calendar event</string>
+    <string name="decline">Decline</string>
+    <string name="decopic_alert_cancel">登録しない</string>
+    <string name="decopic_alert_message">ユーザ登録をしないとDECOPICでダウンロードしたデコが消えます</string>
+    <string name="decopic_alert_ok">登録する</string>
+    <string name="decopic_alert_title">注意</string>
+    <string name="effect">Effect</string>
+    <string name="facebook_appId">229696143754450</string>
+    <string name="facebook_appName">DECOPIC Android</string>
+    <string name="facebook_consumerKey">229696143754450</string>
+    <string name="facebook_consumerSecret">160397497cb21b7269d1c42978539d63</string>
+    <string name="facebook_page">http://www.facebook.com/welovedecopic</string>
+    <string name="flash_mode">Flash Mode</string>
+    <string name="focus_mode">Focus Mode</string>
+    <string name="get_font_list_message">Now Loading…</string>
+    <string name="google_app_id">35013765870</string>
+    <string name="label_fixed_phrase_xmas">"X'mas"</string>
+    <string name="layout_plus">+</string>
+    <string name="magazine_dialog_btn_text">プロフィール登録へ</string>
+    <string name="magazine_dialog_text">"かわいい&amp;おしゃれな写真が毎日届く♪
+参考になる写真もいっぱい♥
+
+自分の写真も投稿できるから、
+人気者になっちゃうかも♥"</string>
+    <string name="magazine_dialog_title">Magazineをもっと見る♪</string>
+    <string name="magazine_hello_message">"みんなで撮った「カワイイ」をシェアする
+コミュニティができました♥
+マネしたくなるデコ上手な写真もいっぱい♪
+おしゃれ＆かわいいを毎日チェックしてね♥"</string>
+    <string name="magazine_hello_title">＼DECOPIC Magazineへようこそ／</string>
+    <string name="magazine_label">Magazine</string>
+    <string name="magazine_prof_add_body">"かわいい＆おしゃれな写真に
+どんどん かわいいねしてね♥
+自信がついたらあなたの写真も投稿しよう♪"</string>
+    <string name="magazine_prof_add_caution">注意：投稿した写真は全体に公開されます。</string>
+    <string name="magazine_prof_add_title">プロフィール登録完了♥</string>
+    <string name="mixi_appId">3211</string>
+    <string name="mixi_appName">DECOPIC Android</string>
+    <string name="mixi_consumerKey">0db3a626c846bbd80c98</string>
+    <string name="mixi_consumerSecret">9b01dc21d2580584f30d80b2618eae2dc68200b3</string>
+    <string name="mixi_use_function">r_profile r_voice w_voice r_profile_status r_updates r_profile_last_login r_message w_message w_diary r_photo w_photo</string>
+    <string name="my_label">my Box</string>
+    <string name="native_decoshop_candy">Candy</string>
+    <string name="native_decoshop_coin">Coin</string>
+    <string name="no_image">X</string>
+    <string name="no_stamp">X</string>
+    <string name="notice_msg_ctg_cnd_001">毎日もらえるCandyポイントって知ってる？集めると無料でかわいいスタンプがGETできるよ♡</string>
+    <string name="notice_msg_ctg_cnd_002">500Candyで交換できるスタンプパックが２個追加されたよ！今すぐチェック★</string>
+    <string name="notice_msg_ctg_evnt_001">誕生日のお祝いスタンプが２つ登場♪特別な日をかわいくデコっちゃおう★</string>
+    <string name="notice_msg_dmy_001">文字入れ機能は使った？オシャレでかわいいフォントがいっぱい！好きな言葉をデコっちゃおう♪</string>
+    <string name="notice_msg_dmy_002">撮った写真をかわいくデコってSNSにシェアしちゃおう♡</string>
+    <string name="notice_msg_dmy_003">これからもDECOPICを使ってかわいい写真加工を楽しんでね♡</string>
+    <string name="notice_msg_itm_10199">みんな待ってた♡実写のお花やウサギのスタンプでGirlyにデコっちゃおう♡</string>
+    <string name="notice_msg_itm_10213">Candyで交換できるパック追加♡カラフルでかわいい手書きスタンプだよ♪</string>
+    <string name="notice_msg_itm_10220">人気のスタンプ風デコが新登場♡おでかけフォトをガーリーに仕上げよう♡</string>
+    <string name="notice_msg_itm_11033">日頃の感謝を込めて♡無料のかわいいハートスタンプが追加されたよ！</string>
+    <string name="notice_msg_top_001">大人気♡CUTEな宇宙柄＆パステルカラーのおしゃれなスタンプが新登場！</string>
+    <string name="notice_msg_top_002">おしゃれ女子必見！ランチやカフェタイムを可愛くデコれる♡Candyパックが追加されたよ♪</string>
+    <string name="notice_msgdlg_ctg_cnd_002">500CandyでGETできるパックが新登場！かわいくデコっちゃおう♡</string>
+    <string name="notice_msgdlg_ctg_evnt_001">誕生日や記念日にぴったり！お祝いムードを盛り上げるスタンプが追加されたよ♡</string>
+    <string name="notice_msgdlg_dmy_001">名前や日付、思い出を文字入れしちゃおう♡使いやすいフォントが揃ってるよ！</string>
+    <string name="notice_msgdlg_dmy_002">SNSアップ前にひと手間♡フィルターやスタンプで写真をかわいく仕上げてみんなに差をつけよ！</string>
+    <string name="notice_msgdlg_dmy_003">いつもDECOPICを使ってくれてありがとう♡これからも写真加工はDECOPICにおまかせー♪</string>
+    <string name="notice_msgdlg_itm_10199">ガーリーな実写のお花がスタンプになったよ！コラージュ気分でおしゃれにデコろ♪</string>
+    <string name="notice_msgdlg_itm_10213">人気の手書き風スタンプでおしゃれ可愛く♡1000Candyで交換できるよ！</string>
+    <string name="notice_msgdlg_itm_10220">SNSアップ前の一手間がみんなと差をつけるポイント★フィルターやスタンプで写真をかわいく仕上げよう！</string>
+    <string name="notice_msgdlg_itm_11033">無料で使えるハートスタンプが登場♡写真をラブリーにデコろう♡</string>
+    <string name="notice_msgdlg_top_001">おしゃれでかわいいスタンプパックが２個追加されたよ！ショップを今すぐチェックしよう♪</string>
+    <string name="notice_msgdlg_top_002">ごはんフォトをCUTEにデコれるパックが３つ追加されたよ！今すぐチェック♡</string>
+    <string name="package_name">com.cfinc.decopic</string>
+    <string name="push_local">local</string>
+    <string name="push_remote">remote</string>
+    <string name="refund_amount_text">払戻し額: ¥%d</string>
+    <string name="refund_apply_label">"当社は、2017 年5 月8 日をもちましてDECOPIC アプリ内のDECOSHOP の提供を終了いたしました。
+これに伴い、Coin の取扱いも終了したため、資金決済に関する法律第20 条第１項に基づき、当社が発行する前払式支払手段について、未使用分の残高の払戻しをいたします。
+
+お客さまのeメールアドレスを入力後、「確認」ボタンを押してください。"</string>
+    <string name="refund_complete_text">ご入力いただいたeメールアドレス宛てに払戻し申し出フォームのURLを記載したご案内メールを送信しました。&lt;br />記載されているURLへアクセスし、払戻し申し出を継続してください。&lt;br />なお、記載されているURLは発行から2週間で無効となりますので、2週間以内にお手続きをお願いいたします。&lt;br />&lt;br />認証キー：%s&lt;br />&lt;br />参照：&lt;br />&lt;a href=http://www.econtext.jp/support/cp/guide_sp.html>CASH POST ご利用ガイド（口座振込）&lt;/a>（外部サイト）&lt;br />&lt;a href=http://www.econtext.jp/support/cp_ls/guide_sp.html>CASH POST ご利用ガイド（ローソン受取）&lt;/a>（外部サイト）</string>
+    <string name="refund_confirm_label">入力したeメールアドレスをご確認のうえ、よろしければ「送信」ボタンを押してください。&lt;br />入力したeメールアドレス宛てに no-reply@econ.ne.jp から払戻し手続きのご案内メールが届きます。&lt;br />&lt;font color=#ff46a4>&lt;b>迷惑メール設定をしている場合はメールが届かない場合がありますのでドメイン指定受信に econ.ne.jp を設定してください。&lt;/b>&lt;/font></string>
+    <string name="refund_confirm_text">eメールアドレス: %1$s</string>
+    <string name="refund_done_text">"当社は、2017 年5 月8 日をもちましてDECOPIC アプリ内のDECOSHOP の提供を終了いたしました。
+これに伴い、Coin の取扱いも終了したため、資金決済に関する法律第20 条第１項に基づき、当社が発行する前払式支払手段について、未使用分の残高の払戻しをいたします。
+
+お客さまへの払戻しは完了いたしました。"</string>
+    <string name="refund_in_progress_text">ご入力いただいたeメールアドレス宛てに払戻し申し出フォームのURLを記載したご案内メールを送信しました。&lt;br />記載されているURLへアクセスし、払戻し申し出を継続してください。&lt;br />なお、記載されているURLは発行から2週間で無効となりますので、2週間以内にお手続きをお願いいたします。&lt;br />&lt;br />すでに口座振込にて手続き完了されたお客さまは当日～翌銀行営業日に指定口座へ振り込まれますので、それまでお待ちください。&lt;br />&lt;br />認証キー：%s&lt;br />&lt;br />参照：&lt;br />&lt;a href=http://www.econtext.jp/support/cp/guide_sp.html>CASH POST ご利用ガイド（口座振込）&lt;/a>（外部サイト）&lt;br />&lt;a href=http://www.econtext.jp/support/cp_ls/guide_sp.html>CASH POST ご利用ガイド（ローソン受取）&lt;/a>（外部サイト）</string>
+    <string name="refund_nothing_text">"当社は、2017 年5 月8 日をもちましてDECOPIC アプリ内のDECOSHOP の提供を終了いたしました。
+これに伴い、Coin の取扱いも終了したため、資金決済に関する法律第20 条第１項に基づき、当社が発行する前払式支払手段について、未使用分の残高の払戻しをいたします。
+
+お客さまは払戻しの対象ではございません。"</string>
+    <string name="refund_notice_text">当社は、2017 年5 月8 日をもちましてDECOPIC アプリ内のDECOSHOP の提供を終了いたしました。&lt;br />また、2017 年8 月7 日をもちまして未使用分の前払式支払手段について、払戻し申し出の受付を終了いたしました。&lt;br />&lt;br />User情報: %s</string>
+    <string name="scene_mode">Scene Mode</string>
+    <string name="send_wechat_title">Share on WeChat</string>
+    <string name="setting_connection_ycalendar">サクッと予定登録できて、予定が見やすいカレンダーアプリ！使ってみてね♡</string>
+    <string name="setting_label_refund">払戻し申し出</string>
+    <string name="setting_label_ycalendar">かんたんカレンダー</string>
+    <string name="sns_name_ameba">Ameba</string>
+    <string name="sns_name_facebook">Facebook</string>
+    <string name="sns_name_instagram">Instagram</string>
+    <string name="sns_name_mixi">Mixi</string>
+    <string name="sns_name_pinterest">Pinterest</string>
+    <string name="sns_name_twitter">Twitter</string>
+    <string name="sns_name_whatsup">WhatsApp</string>
+    <string name="special_label">Special</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="store_picture_message">Allow Ad to store image in Picture gallery?</string>
+    <string name="store_picture_title">Save image</string>
+    <string name="template_0001_label">I♥U</string>
+    <string name="template_0002_label">LOVEXY</string>
+    <string name="template_0003_label">Sweetie!</string>
+    <string name="template_0004_label">It Girl</string>
+    <string name="template_0007_label">Fusion</string>
+    <string name="template_0009_label">AsianB</string>
+    <string name="template_0011_label">Hime</string>
+    <string name="template_0014_label">OneLove</string>
+    <string name="template_0015_label">Kyun</string>
+    <string name="template_0016_label">Daisuki</string>
+    <string name="template_0017_label">tiddy</string>
+    <string name="template_0018_label">ho</string>
+    <string name="template_0019_label">NLL</string>
+    <string name="template_0020_label">joyeux</string>
+    <string name="template_0021_label">Wow</string>
+    <string name="template_0022_label">show</string>
+    <string name="template_0023_label">wiiLove</string>
+    <string name="template_0024_label">Bang!</string>
+    <string name="template_0025_label">jaune</string>
+    <string name="template_0027_label">pafum</string>
+    <string name="template_0028_label">a girl</string>
+    <string name="template_0029_label">Ti Amo</string>
+    <string name="template_0030_label">white</string>
+    <string name="template_0031_label">Ennui</string>
+    <string name="template_0032_label">poem</string>
+    <string name="template_0033_label">"L'amour"</string>
+    <string name="template_0035_label">Star!Star!Star!</string>
+    <string name="template_0036_label">Time Flies</string>
+    <string name="template_0037_label">Love Winter</string>
+    <string name="template_0038_label">feu</string>
+    <string name="template_0039_label">Bonne année</string>
+    <string name="template_0042_label">PrettyBaby</string>
+    <string name="template_0043_label">DELICIOUS</string>
+    <string name="template_0044_label">SweetRibbon</string>
+    <string name="template_0045_label">garland white</string>
+    <string name="template_0046_label">miss u Darling</string>
+    <string name="template_0047_label">"Today's"</string>
+    <string name="template_0048_label">for you</string>
+    <string name="template_0049_label">Valentine!</string>
+    <string name="template_0050_label">LIP SERVICE</string>
+    <string name="template_0051_label">HappyWinter</string>
+    <string name="template_0052_label">COLLAGE</string>
+    <string name="template_0055_label">sweet</string>
+    <string name="template_0056_label">flower</string>
+    <string name="template_0057_label">Spring</string>
+    <string name="template_0058_label">NewLife</string>
+    <string name="template_0059_label">travel</string>
+    <string name="template_0061_label">retro film</string>
+    <string name="template_0062_label">Yummy!</string>
+    <string name="template_0064_label">Flowers</string>
+    <string name="template_0066_label">sweet heart</string>
+    <string name="template_0072_label">super model</string>
+    <string name="template_0073_label">i love you</string>
+    <string name="template_0074_label">DELICIOUS!</string>
+    <string name="template_0075_label">smile is</string>
+    <string name="template_0076_label">Autumn</string>
+    <string name="template_0078_label">Petite Fleur</string>
+    <string name="template_0079_label">Collage</string>
+    <string name="template_0080_label">NewYear2015</string>
+    <string name="template_0081_label">Collage2015</string>
+    <string name="template_0082_label">movie star</string>
+    <string name="template_0083_label">fallin love</string>
+    <string name="template_1001_label">XOXO</string>
+    <string name="template_1002_label">Vintage</string>
+    <string name="template_1003_label">Paris</string>
+    <string name="template_1004_label">Princess</string>
+    <string name="template_1006_label">jolie</string>
+    <string name="text_all_clear">ぜんぶけす</string>
+    <string name="top_icon_chatee">"Girl'sTalk"</string>
+    <string name="top_icon_cunpic">cunpic</string>
+    <string name="top_icon_petapic">petapic</string>
+    <string name="top_icon_ycalendar">かんたんカレンダー</string>
+    <string name="twitpic_api_key">103810d4bfc2300c5ca66dd7fd192363</string>
+    <string name="twitter_appId">1295952</string>
+    <string name="twitter_appName">DECOPIC Android</string>
+    <string name="twitter_consumerKey">EBf5vxQDdy2oV7skzYIDQ</string>
+    <string name="twitter_consumerSecret">x6rQhFivO8Iaq5wnAoyB0sCOLEYwO9zWw3OYCP8DFw</string>
+    <string name="twitter_page">http://twitter.com/decopic</string>
+    <string name="unknown">Unknown</string>
+    <string name="upper_layout_message_chatee">"ゆるくつながる♥
+女子応援コミュニティ！旬の話題をおしゃべりしたり、悩みを相談したり。
+匿名で参加できる女子限定の匿名掲示板♪"</string>
+    <string name="upper_layout_message_ycalendar">サクッと予定登録できて、予定が見やすいカレンダーアプリ！使ってみてね♡</string>
+    <string name="upper_layout_title_chatee">"女子トークアプリ
+Chatee"</string>
+    <string name="upper_layout_title_ycalendar">"カレンダーアプリ
+Yahoo!かんたんカレンダー"</string>
+    <string name="url_searchpage_web">http://www.google.co.jp/search?q=</string>
+    <string name="version_text">Version:</string>
+    <string name="white_balance">White Balance</string>
+    <string name="widget_name">DECOPIC</string>
+</resources>

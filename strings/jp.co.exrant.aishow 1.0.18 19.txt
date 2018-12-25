@@ -1,0 +1,929 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="com_facebook_dialogloginactivity_ok_button">OK</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_log_in_button">Log in with Facebook</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_logo_content_description">Facebook Logo</string>
+    <string name="com_facebook_usersettingsfragment_log_in_button">Log in…</string>
+    <string name="com_facebook_usersettingsfragment_logged_in">Logged in</string>
+    <string name="com_facebook_usersettingsfragment_not_logged_in">Not logged in</string>
+    <string name="com_facebook_placepicker_subtitle_format">%1$s • %2$,d were here</string>
+    <string name="com_facebook_placepicker_subtitle_catetory_only_format">%1$s</string>
+    <string name="com_facebook_placepicker_subtitle_were_here_only_format">%1$,d were here</string>
+    <string name="com_facebook_picker_done_button_text">Done</string>
+    <string name="com_facebook_choose_friends">Choose Friends</string>
+    <string name="com_facebook_nearby">Nearby</string>
+    <string name="com_facebook_loading">Loading...</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_requesterror_web_login">Your Facebook account is locked. Please log into www.facebook.com to continue.</string>
+    <string name="com_facebook_requesterror_relogin">Please log into this app again to reconnect your Facebook account.</string>
+    <string name="com_facebook_requesterror_password_changed">Your Facebook password has changed. Please log into this app again to reconnect your Facebook account.</string>
+    <string name="com_facebook_requesterror_reconnect">Please log into this app again to reconnect your Facebook account.</string>
+    <string name="com_facebook_requesterror_permissions">This app doesn’t have permission to do this. To change permissions, try logging into the app again.</string>
+    <string name="app_name">AiShow</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">AiShow</string>
+    <string name="title_dialog_error">お知らせ</string>
+    <string name="menu_menu">メニュー</string>
+    <string name="contentDescription">Content Description</string>
+    <string name="preview">プレビュー</string>
+    <string name="select_image_but_file_not_exist">選択された写真は削除されました。 再度更新くてください。</string>
+    <string name="button_refresh_gallery_text">更新</string>
+    <string name="text_cancel">キャンセル</string>
+    <string name="text_title_camera_create_album">表示画像の選択</string>
+    <string name="text_btn_camera_select_image_album_cover">ページの写真から選択</string>
+    <string name="text_btn_camera_select_image_library">フォトライブラリから選択する</string>
+    <string name="text_btn_camera_delete_image">表紙画像を削除</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="text_ischeck_image">画像はJPG/GIF/PNGで5MB以下にしてください。</string>
+    <string name="text_delete_image">プロフィール画像を削除しますか？</string>
+    <string name="text_delete_image_edit_album">表紙画像を削除しますか？</string>
+    <string name="text_download_image_from_picassa">画像をダウンロードします。宜しいですか？</string>
+    <string name="text_download_image_from_picassa_error">"画像のダウンロードは失敗しました。
+再度やり直してください。"</string>
+    <string name="camera_access_error_not_sdcard">SDCard がありません。</string>
+    <string name="camera_button_choose">使用</string>
+    <string name="camera_button_back">再撮影</string>
+    <string name="cannotLogoutAccountFacebookLogin">facebookアカウントは解除できません。</string>
+    <string name="alert_dialog_button_ok">OK</string>
+    <string name="alert_dialog_button_cancel">Cancel</string>
+    <string name="alert_dialog_title_error">エラー</string>
+    <string name="msg_protocol_exception">通信エラーが発生しました。</string>
+    <string name="msg_connection_timeout_exception">タイムアウトとなりました。</string>
+    <string name="msg_io_exception">通信エラーが発生しました。</string>
+    <string name="net_status_title">ネットワーク</string>
+    <string name="net_status_msg">ネットワーク接続に失敗しました。ネットワーク接続を確認して下さい。</string>
+    <string name="alert_sytemError">システムエラーが発生しました、Informationから管理者に問い合わせてください。</string>
+    <string name="alert_tokenExpired">トークンの有効期限が切れます</string>
+    <string name="alert_Serverproblem">システムエラー</string>
+    <string name="alert_out_of_memory">OOM</string>
+    <string name="image_friend_account">image friend account</string>
+    <string name="register_text_title">あなたの情報を入力してください※変更可能</string>
+    <string name="register_text_note1">・ヘッダー部分の変更。</string>
+    <string name="register_text_note2">・イメージ画像の消去。</string>
+    <string name="register_text_note3">・血液型表示を上下センターに。</string>
+    <string name="register_text_note4">・18歳以上のチェックボックスを普通の四角で。</string>
+    <string name="register_text_note5">・登録する⇒facebookではじめるに変更。</string>
+    <string name="register_text_note6">・可能なら血液型選択も削除したい</string>
+    <string name="header_register">AiShow無料会員登録</string>
+    <string name="register_confirm_yes">戻る</string>
+    <string name="text_input_user_id">ログインID</string>
+    <string name="text_input_password">パスワード</string>
+    <string name="text_input_confirm_password">パスワード確認入力</string>
+    <string name="text_input_email">メールアドレス</string>
+    <string name="text_input_confirm_email">メールアドレス確認入力</string>
+    <string name="text_input_nickname">nickname</string>
+    <string name="text_input_gender">gender</string>
+    <string name="text_input_age">age</string>
+    <string name="text_input_address_country">居住地</string>
+    <string name="text_input_address_state">state</string>
+    <string name="text_input_address_city">city</string>
+    <string name="text_input_boodType">血液型</string>
+    <string name="text_input_nationality">National</string>
+    <string name="text_input_object">Object</string>
+    <string name="text_input_language1">Language1</string>
+    <string name="text_input_language2">Language2</string>
+    <string name="text_input_language3">Language3</string>
+    <string name="text_input_hometown">Language3</string>
+    <string name="text_input_relationship_position">Rela_Position</string>
+    <string name="text_input_live_with">Live With</string>
+    <string name="text_input_height">height</string>
+    <string name="text_input_body">body</string>
+    <string name="text_input_attract_point">Attract Point</string>
+    <string name="text_description">原稿ご支給原稿ご支給原稿ご支給原稿ご支給原稿ご支給原稿ご支給原稿ご支給原稿ご支給原稿ご支給原稿ご支給原稿ご支給原稿ご支給原稿ご支給原稿ご支給原稿ご支給</string>
+    <string name="text_live_with_1">ひとり暮らし</string>
+    <string name="text_live_with_2">ルームメートがいる</string>
+    <string name="text_live_with_3">ペットと一緒に住んでいる</string>
+    <string name="text_live_with_4">両親と同居中</string>
+    <string name="text_live_with_5">その他</string>
+    <string name="text_body_1">スリム</string>
+    <string name="text_body_2">やや細め</string>
+    <string name="text_body_3">普通</string>
+    <string name="text_body_4">グラマー</string>
+    <string name="text_body_5">筋肉質</string>
+    <string name="text_body_6">ややぽっちゃり</string>
+    <string name="text_address">天気や栽培情報の配信などを予定しております。</string>
+    <string name="text_city">都道府県</string>
+    <string name="text_sex">性別</string>
+    <string name="text_rule">を確認しました</string>
+    <string name="text_info_mail">メールアドレス</string>
+    <string name="text_info_logout">ログアウトを行いました。</string>
+    <string name="text_info_logout1">再度ご利用になる場合、ログイン画面よりログインし直してください。</string>
+    <string name="text_info_logout2">10秒後にログイン画面へ自動的に戻ります。</string>
+    <string name="text_info_logout3">ログイン画面へ</string>
+    <string name="text_use_id">ユーザーID</string>
+    <string name="text_password">パスワード</string>
+    <string name="text_info_hearder">アカウント情報確認</string>
+    <string name="text_info_zipcode">郵便番号</string>
+    <string name="text_info_provine">都道府県</string>
+    <string name="text_info_city">市区町村</string>
+    <string name="text_info_image">プロフィール画像</string>
+    <string name="text_info_share">Ｃｒｏｐノート複製回数</string>
+    <string name="text_info_point">評価ポイント累計</string>
+    <string name="text_info_birthday">生年月日</string>
+    <string name="text_info_farm">育てる場所</string>
+    <string name="text_info_connect">各種アカウント連携</string>
+    <string name="text_info_pr">プロフィール（自己PR）</string>
+    <string name="text_info_follow">フォロー一覧</string>
+    <string name="text_info_edit">ユーザー情報を編集する</string>
+    <string name="text_edit_hearder">アカウントの編集</string>
+    <string name="text_edit_nick">ユーザネーム（表示名）</string>
+    <string name="text_edit_mail">メールアドレス</string>
+    <string name="text_edit_address">＊郵便番号、町名は非公開</string>
+    <string name="text_edit_btnimage">編集</string>
+    <string name="text_edit_birthday">他のユーザさんからは年代で見えます</string>
+    <string name="text_edit_btn_confirm">編集を完了する</string>
+    <string name="text_setting_btnedit">ユーザー情報の確認・編集</string>
+    <string name="text_setting_btn_change_pass">パスワード変更</string>
+    <string name="text_setting_btn_setting">各種設定</string>
+    <string name="text_register">新規登録をする</string>
+    <string name="text_confirm_register">登録する</string>
+    <string name="text_fb_checkrule">を確認しました</string>
+    <string name="text_edit_camera1">写真を撮影</string>
+    <string name="text_edit_camera2">ライブラリから選択</string>
+    <string name="text_edit_camera3">プロフィール画像を削除</string>
+    <string name="text_edit_camera4">キャンセル</string>
+    <string name="alert_input_userid">半角6～20文字以内</string>
+    <string name="alert_input_password">半角6～10文字以内</string>
+    <string name="alert_input_nickname">20文字以内</string>
+    <string name="alert_input_birthday">20文字以内</string>
+    <string name="alert_input_address">居住地を選択してください</string>
+    <string name="alert_input_height">120-240文字以内</string>
+    <string name="privatez">非公開</string>
+    <string name="aSpace">" "</string>
+    <string name="title_email_empty">メールアドレス</string>
+    <string name="text_format_email">メールアドレスは適切な形式で入力してください。</string>
+    <string name="alert_useid_incorect">ログインIDは半角6文字以上20文字以下です</string>
+    <string name="alert_password_contains_space">使用できない文字が含まれています。</string>
+    <string name="text_title_api_error">エラー</string>
+    <string name="text_acc1_nick20">ニックネームは20桁以内で入力してください。</string>
+    <string name="textbtn_rule">利用規約</string>
+    <string name="text_not_checkrule">利用規約に同意してください。</string>
+    <string name="text_address_empty">都道府県は必須の項目です。</string>
+    <string name="text_notmatch_email_confirm">メールアドレスと確認用メールアドレスが違います。再度入力してください。</string>
+    <string name="alert_email_empty">メールアドレスは必須の項目です。</string>
+    <string name="text_account1_userid_same">このログインIDはすでに利用されているため、設定できません。</string>
+    <string name="title_nickname_empty">ユーザネーム（表示名）</string>
+    <string name="title_userid">ログインID</string>
+    <string name="title_password">パスワード</string>
+    <string name="alert_nickname_empty">ユーザネームは必須の項目です。</string>
+    <string name="title_empty_confirm_pass">パスワード確認入力</string>
+    <string name="text_empty_confirm_pass">パスワード確認入力は必須の項目です。</string>
+    <string name="alert_password_incorect">パスワードは半角6文字以上10文字以下です</string>
+    <string name="text_empty_pass">パスワードは必須の項目です。</string>
+    <string name="text_acc1_user">ログインIDは必須の項目です。</string>
+    <string name="title_pass_notmatch">パスワード確認入力</string>
+    <string name="text_pass_notmatch">パスワードと確認用パスワードが違います。再度入力してください</string>
+    <string name="text_forget_title">メールアドレス</string>
+    <string name="text_setting_birthday">正しい生年月日を入力してください。</string>
+    <string name="text_gender_male">male</string>
+    <string name="text_gender_female">female</string>
+    <string name="text_gender_not_sure">not_sure</string>
+    <string name="confirm_favorite_list_msg">Are you sure?</string>
+    <string name="confirm_ban_list_msg">Are you sure?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="partner_conditions">相手の条件</string>
+    <string name="setup_compatition">相性順</string>
+    <string name="setup_sort_update">更新順</string>
+    <string name="facebook_rule">"恐れ入りますが、AiShowでは皆様に安心してご利用いただけるよう、以下の条件に当てはまる場合はご登録できません。 
+
+ ・Facebookでの登録内容が18歳以下の方
+ ・Facebookで登録している交際ステータスが「交際中」「婚約中」「既婚」の方
+ ・Facebookの友達が10名以下の方（※サクラ行為を防ぐため）
+ ・AiShowを退会してから三ヶ月以内の方
+
+※上記の条件に該当しない方で登録できない方は、お手数ですが、"<a href="mailto:info@aishow-jp.com">こちらまでお問い合せ</a>"をお願いします。 "</string>
+    <string name="startup_register_rule_text">"私は18歳以上で独身です。
+AiShow"<a href="ftp://aishowapp/startuptermofuse">利用規約</a>と<a href="ftp://aishowapp/startuppolicy">個人情報取り扱い</a>に同意します。</string>
+    <string name="register_register_rule_text">AiShow<a href="ftp://aishowapp/registertermofuse">利用規約</a>と<a href="ftp://aishowapp/registerpolicy">個人情報取り扱い</a>に同意します。</string>
+    <string name="register_rule_text">私は18歳以上で独身です。</string>
+    <string name="register_choose_text">選択してください</string>
+    <string name="text_Facebook_login">Facebookに戻る</string>
+    <string name="text_guide_title_page_1">AiShowへようこそ！</string>
+    <string name="text_guide_content_page_1">"AiShowはFacebookを活用した
+安心・安全な相性マッチングサービスです"</string>
+    <string name="text_guide_title_page_2">相性ピッタリな相手が見つかる</string>
+    <string name="text_guide_content_page_2">"AiShowでは生年月日統計学を活用し、
+あなたと相性の良い相手が見つかります"</string>
+    <string name="text_guide_title_page_3">気になる相手に「いいね」しよう</string>
+    <string name="text_guide_content_page_3">"気になった相手に「いいね！」を押して、
+あなたの好意のサインを届けることができます"</string>
+    <string name="text_guide_title_page_4">メッセージ交換で信頼関係を深めよう</string>
+    <string name="text_guide_content_page_4">相手が「いいね！」を返してくれたらマッチング成立匿名でメッセージ交換が可能になります</string>
+    <string name="text_guide_title_page_5">実名非公開だから安心・安全</string>
+    <string name="text_guide_content_page_5">"プライバシー情報は匿名で表示されますので、
+安心してご利用いただけます"</string>
+    <string name="text_guide_title_page_6">素敵なパートナーと出会おう</string>
+    <string name="text_guide_content_page_6">"メッセージ交換をして相手と仲良くなったら、
+実際に会ってみましょう"</string>
+    <string name="facebook_requriement_title">DUcLHError</string>
+    <string name="text_facebook_requirement">"恐れ入りますが、AiShowでは皆様に安心してご利用いただけるよう、以下の条件に当てはまる場合はご登録できません。 
+
+ ・Facebookでの登録内容が18歳以下の方
+ ・Facebookで登録している交際ステータスが「交際中」「婚約中」「既婚」の方
+ ・Facebookの友達が10名以下の方（※サクラ行為を防ぐため）
+ ・AiShowを退会してから三ヶ月以内の方
+
+※上記の条件に該当しない方で登録できない方は、お手数ですが、"<a href="mailto:info@aishow-jp.com">こちらまでお問い合せ</a>"をお願いします。 "</string>
+    <string name="text_btn_close">閉じる</string>
+    <string name="text_btn_facebook">Facebookでログイン</string>
+    <string name="terms_of_use_1"><u>利用規約</u></string>
+    <string name="terms_of_use_2">に同意して</string>
+    <string name="text_dont_public_fb_info">Facebookには一切投稿されません</string>
+    <string name="text_term_of_use">"Term of Use Term of UseTerm of UseTerm of UseTerm of UseTerm of Use
+
+ Term of UseTerm of UseTerm of UseTerm of UseTerm of Use
+ Term of UseTerm of UseTerm of UseTerm of UseTerm of Use
+ Term of UseTerm of UseTerm of UseTerm of Use
+ Term of UseTerm of UseTerm of UseTerm of UseTerm of Use"</string>
+    <string name="project_number">232705485203</string>
+    <string name="introduction">Welcome!</string>
+    <string name="clear_screen">Clear Screen</string>
+    <string name="first_launch">First Launch</string>
+    <string name="num_of_missed_messages">MissedMessageCount</string>
+    <string name="lines_of_message_count">LinesOfMessageCount</string>
+    <string name="preferences">PreferencesFile</string>
+    <string name="notification_number">1337</string>
+    <string name="logout_message">AiShowからログアウトしますか？</string>
+    <string name="logout_btn_cancel">いいえ</string>
+    <string name="logout_btn_ok">はい</string>
+    <string name="nodata_text_1">まだ該当する方がいません。</string>
+    <string name="nodata_text_2">素敵なお相手と出会えるよう、</string>
+    <string name="nodata_text_profile">プロフィール</string>
+    <string name="nodata_text_3">を充実させましょう！</string>
+    <string name="messageList_title">メッセージ</string>
+    <string name="messageList_new_friend">さんはあなたからのメッセージを待っています。メッセージを送りましょう！</string>
+    <string name="messageList_have_message">新着メッセージがあります。</string>
+    <string name="message_detail_alerttext_input">メッセージを入力してください。</string>
+    <string name="message_detail_alertcharge_row1">さんがあなたのお返事を待っています!</string>
+    <string name="message_detail_alertcharge_row2">2通目以降のメッセージの閲覧・やり取りは、有料会員のみ可能です。</string>
+    <string name="message_detail_alertcharge_btn_charge">有料会員について詳しくはこちら</string>
+    <string name="message_detail_alert_certificateold_row1">さんがあなたのお返事を待っています！</string>
+    <string name="message_detail_alert_certificateold_row2">メッセージの閲覧・やり取りには、年齢確認が必要です。</string>
+    <string name="message_detail_alert_certificateold_btn_certificate">年齢確認する</string>
+    <string name="button_send_message">送信</string>
+    <string name="message_detail_alert_top_1">"さんとマッチングしました！
+さっそくメッセージを送りましょう。"</string>
+    <string name="message_detail_alert_top_2">さっそくメッセージを送りましょう。</string>
+    <string name="message_detail_alert_top_3">初回のメッセージではメールアドレスやFacebookアカウント、携帯電話番号などのあなたを特定する情報は送信できません。</string>
+    <string name="message_detail_dialog_title_certificate">メッセージを送るには年齢認証が必要です。</string>
+    <string name="message_detail_dialog_title_charge">メッセージ開封には有料会員登録が必要です。</string>
+    <string name="message_detail_dialog_title_charge_when_send">メッセージのやり取りには、有料会員登録が必要です。</string>
+    <string name="message_detail_dialog_title_charge2">2通目以降のメッセージを送るには有料会員登録が必要です。</string>
+    <string name="message_detail_dialog_button_certificate">年齢認証について詳しくはこちら</string>
+    <string name="message_detail_dialog_button_charge">有料会員について詳しくはこちら</string>
+    <string name="likedialog_alerttext_limitcharacter">メッセージは400文字まで入力可能です。</string>
+    <string name="likedialog_text_title">さんに「スペシャルいいね！」を送ります。5pt消費で「いいね！」と一緒に、あなたの好意をメッセージで伝えることができます。</string>
+    <string name="likedialog_text_title2">さんへのメッセージを記入してください。</string>
+    <string name="likedialog_btn_cancel">キャンセル</string>
+    <string name="likedialog_btn_send">送る</string>
+    <string name="likedialog_btn_later">後で</string>
+    <string name="likedialog_btn_confirm">スペシャルいいね！を送る</string>
+    <string name="text_notice_nodata">お知らせを受信していません</string>
+    <string name="menubar_home_text">ホーム</string>
+    <string name="menubar_note_text">活動ノート</string>
+    <string name="menubar_message_text">メッセージ</string>
+    <string name="menubar_notice_text">お知らせ</string>
+    <string name="menubar_other_text">その他</string>
+    <string name="option_menu_setting">設定</string>
+    <string name="option_menu_menus">メニュー</string>
+    <string name="messdetail_subProfile">プロフィールを見る</string>
+    <string name="messdetail_subVisitFacebook">Facebookを見る</string>
+    <string name="messdetail_subPublicFacebook">Facebookを公開する</string>
+    <string name="messdetail_subBlock">ブロックする</string>
+    <string name="messdetail_subBannick">違反報告</string>
+    <string name="messdetail_subReport">違反報告</string>
+    <string name="menuother_hidelist">非表示リスト</string>
+    <string name="menuother_editprofile_title">プロフィール編集</string>
+    <string name="menuother_memberstatus_title">会員ステータス (Member status)</string>
+    <string name="menuother_certificateOld_title">年齢確認書類の提出 (Chứng nhận tuổi)</string>
+    <string name="menuother_notice_title">お知らせ(Notice)</string>
+    <string name="menuother_setting_title">設定 (Setting)</string>
+    <string name="menuother_campaign_title">キャンペーン (Campaign)</string>
+    <string name="menuother_usingguild_title">利用ガイド (Using guide)</string>
+    <string name="menuother_help_title">ヘルプ (Help)</string>
+    <string name="menuother_safetyfunction_title">安心の機能 (Các chức năng an toàn)</string>
+    <string name="menuother_invitefriend_title">友達を招待する (Invite friend)</string>
+    <string name="menuother_term_of_use_title">利用規約 (Terms of use)</string>
+    <string name="menuother_tipssuccess_title">活動を成功させるコツ</string>
+    <string name="menuother_privacypolicy_title">プライバシーポリシー (Privacy Policy)</string>
+    <string name="menuother_aboutus_title">会社概要 (About use)</string>
+    <string name="menuother_paymentrules_title">資金決済に関する法律に基づく表示</string>
+    <string name="menuother_transactionrule_title">特定商取引法 (Luật thương mại)</string>
+    <string name="menuother_contact_title">お問い合わせ (Contact)</string>
+    <string name="menuother_reportbug_title">バグレポート</string>
+    <string name="text_title_no_value">未設定</string>
+    <string name="likelist_title">活動ノート</string>
+    <string name="likelist_item2_titleHeight">身長 :</string>
+    <string name="likelist_item2_titleHumanoid">体型 :</string>
+    <string name="likelist_item2_titleIncome">年収 :</string>
+    <string name="likelist_item2_titleJob">職業 :</string>
+    <string name="likelist_item1_txtAproving">審査中</string>
+    <string name="likelist_item1_txtDenyAprove">審査却下</string>
+    <string name="likelist_item2_txtSubTitle">"さんからの
+「スペシャルいいね！」　メッセージです。"</string>
+    <string name="likelist_item2_alermessage">相手からのいいねが届きました！</string>
+    <string name="likeitem2_dialog_text1">"からの回答です。
+ぜひ「いいね！」をお返ししましょう。
+
+※お返しになるため、「いいね！」保持 数は減りません。"</string>
+    <string name="likeitem2_dialog_btnAnswer">閉じる</string>
+    <string name="certificate_old_row1_1">"AiShowをご利用いただくには、18歳以上であることを証明する年齢確認が必要です。
+クレジットカード、もしくは身分証明書にて年齢確認を完了してください。"</string>
+    <string name="certificate_old_row1_2">クレジットカードでの年齢確認</string>
+    <string name="certificate_old_row1_3">クレジットカードにて年齢確認の事務手数料として一度100円お支払いいただくだけで、年齢確認が完了します。</string>
+    <string name="certificate_old_row1_policy1">・VISA、MasterCardのみ100円。JCB、American Express、Diners Clubは300円です。その他の月額の利用料金等は一切発生しません。</string>
+    <string name="certificate_old_row1_policy2">・デビットカード、プリペイド形式のクレジットカード（Vプリカ等）には対応しておりません。</string>
+    <string name="certificate_old_row1_policy3">・年齢認証のため、クレジットカードはご本人名義のもののみ有効です。</string>
+    <string name="certificate_old_row1">出会い系サイト規約方に基づき、AiShowでは他の会員とのメッセージのやり取りが可能となる前に、年齢確認を必須としています。</string>
+    <string name="certificate_old_1_row0">年齢確認書類を１つお手元にご用意ください</string>
+    <string name="certificate_old_1_row1">ご注意</string>
+    <string name="certificate_old_1_row2">・ 日本国発行の証明書のが審査対象となります。他国発行のものは対象外となりますので予めご了承ください。</string>
+    <string name="certificate_old_1_row3">・ 以下の場合、年齢確認が却下されることがあります。</string>
+    <string name="certificate_old_1_row4">-証明書全体が確認できない場合</string>
+    <string name="certificate_old_1_row5">"-証明となる文字や数字がはっきりと認識できない場合
+事務局が不適切と判断した場合"</string>
+    <string name="certificate_old_1_row6">-文字がぼやけて見えにくいもの</string>
+    <string name="certificate_old_1_row7">-合成・加工されたもの</string>
+    <string name="certificate_old_2_row0">必須情報が見えるように撮影をしてください</string>
+    <string name="certificate_old_2_row1">以下３点が必ず見えるように撮影してください。それ以外の情報は紙などで隠してください。</string>
+    <string name="certificate_old_2_row2">（１）生年月日もしくは年齢</string>
+    <string name="certificate_old_2_row3">（２）書類の名称</string>
+    <string name="certificate_old_2_row4">（３）書類の発行者の名称</string>
+    <string name="certificate_old_2_row5">パスポートの場合</string>
+    <string name="certificate_old_2_row5_1">・生年月日が印字されている部分</string>
+    <string name="certificate_old_2_row5_2">・「旅券」の名称部分</string>
+    <string name="certificate_old_2_row5_3">・発行庁の名称部分</string>
+    <string name="certificate_old_2_row6">運転免許の場合</string>
+    <string name="certificate_old_2_row6_1">・生年月日が印字されている部分</string>
+    <string name="certificate_old_2_row6_2">・「運転免許証」の名称部分</string>
+    <string name="certificate_old_2_row6_3">・発行元の名称部分</string>
+    <string name="certificate_old_2_row8">健康保険証の場合</string>
+    <string name="certificate_old_2_row8_1">・生年月日が印字されている部分</string>
+    <string name="certificate_old_2_row8_2">・「健康保険証」の名称部分</string>
+    <string name="certificate_old_2_row8_3">・発行庁の名称部分</string>
+    <string name="certificate_old_2_row7_title">年齢確認書類の取り扱いについて</string>
+    <string name="certificate_old_2_row7">"個人情報保護法に基づき、お客様の個人情報を厳重に取り扱い致します。
+提出して頂いた画像は、原則として返却いたしません。
+また、サイト内に公開することはございません。
+カスタマーセンターにて確認後、一定の期間保存した後に責任をもって処分いたします。"</string>
+    <string name="certificate_old_btn_creditcard">クレジットカードでの年齢認証はこちら</string>
+    <string name="certificate_old_btn_uploadimage">年齢確認書類を送信する</string>
+    <string name="certificate_old_btn_uploadimage_done">審査中</string>
+    <string name="certificate_text_image_1">運転免許</string>
+    <string name="certificate_text_image_2">パスポート</string>
+    <string name="certificate_text_image_3">健康保険証</string>
+    <string name="certificate_dialog_get_image_message">画像を選択してください</string>
+    <string name="certificate_dialog_get_image_camera">カメラを起動</string>
+    <string name="certificate_dialog_get_image_library">ライブラリから選択</string>
+    <string name="certificate_old_tittle">年齢認証</string>
+    <string name="certificate_old_tittle_image">必要の無い箇所はなぞって塗りつぶせます。</string>
+    <string name="certificate_old_sendimage_btnClear">画像を固定して色塗り</string>
+    <string name="certificate_old_sendimage_btnClear_2">解除する</string>
+    <string name="certificate_old_sendimage_btnSend">送信する</string>
+    <string name="certificate_old_sendimage_row1">下記以外の個人情報は必要と致しませんので、必須情報以外を塗りつぶして提出してください。</string>
+    <string name="certificate_creditcard_row1">クレジットカードによる年齢確認を行います。</string>
+    <string name="member_status_title">会員ステータス</string>
+    <string name="member_status_titleStatus1">あなたの会員ステータス</string>
+    <string name="member_status_titleStatus2">ポイント残高／残り「いいね！」数</string>
+    <string name="memberstatus_freemember_btn">無料会員</string>
+    <string name="memberstatus_chargemamber_btn">有料会員に申し込む</string>
+    <string name="memberstatus_cancelCharge_btn">有料会員を解約する</string>
+    <string name="memberstatus_cancelPremium_btn">プレミアムを解約する</string>
+    <string name="memberstatus_premiummember_btn">プレミアムパック</string>
+    <string name="memberstatus_point_title">ポイント　／　残り「いいね！」数</string>
+    <string name="memberstatus_numPoint">%1$dpt　／　%2$d人</string>
+    <string name="memberstatus_dateupdate_likefree">※無料「いいね！」は %s に復活します。</string>
+    <string name="memberstatus_dateupdate_likefree2">ポイント購入で「いいね！」を増やせます。</string>
+    <string name="memberstatus_buyPoint_btn">ポイント購入</string>
+    <string name="memberstatus_chargeservice_history">有料サービス利用履歴</string>
+    <string name="memberstatus_googleplay_charge_btn">クレジットカードをお持ちでない方はこちら</string>
+    <string name="paymentSuccess_title">お申し込み完了</string>
+    <string name="paymentSuccess_message">"クレジット決済は正常に処理されました。
+ありがとうございました。さっそくマッチングした相手とのメッセージのやり取りを開始しましょう！"</string>
+    <string name="paymentError_title">クレジット決済処理エラー</string>
+    <string name="paymentError_message1">"クレジット決済が正常に処理されませんでした。
+入力内容に誤りがないかご確認ください。"</string>
+    <string name="paymentError_message2">解決できない場合、お手数ですが以下までお問い合わせください。</string>
+    <string name="paymentError_btn_BackInput">入力画面に戻る</string>
+    <string name="paymentError_certificateOld_title">年齢認証エラー</string>
+    <string name="paymentError_certificateOld_message">"年齢確認書類の提出が必要です。
+「年齢確認書類の提出」より手続きをお願いいたします。"</string>
+    <string name="paymentError_certificateOld_btn">年齢確認書類を提出する</string>
+    <string name="payment_chargemember_titlebar">有料会員プラン</string>
+    <string name="payment_chargemember_row1">マッチングした相手とはさっそくメッセージでやり取りを始めましょう。</string>
+    <string name="payment_chargemember_row2">有料会員になるとメッセージ交換ができるようになります。お互いのFacebookを公開したり食事の約束をしたりして、2人の関係をステップアップしていきましょう。</string>
+    <string name="payment_chargemember_row3">有料会員だからできる３つのPOINT！</string>
+    <string name="payment_chargemember_point1">POINT1</string>
+    <string name="payment_chargemember_point1_title">メッセージのやり取り無制限</string>
+    <string name="payment_chargemember_point1_1">無料会員の場合、メッセージを受け取っていないお相手に限り、最初の1通しか送ることができません。</string>
+    <string name="payment_chargemember_point1_2">有料会員はメッセージの送受信が無制限。お相手との信頼関係を築くことができます。</string>
+    <string name="payment_chargemember_point2">POINT2</string>
+    <string name="payment_chargemember_point2_title">「いいね！」回数が30人に回復</string>
+    <string name="payment_chargemember_point2_1">有料会員になると、「いいね！」を押せる人数が30人に回復します。</string>
+    <string name="payment_chargemember_point2_2">※有料会員登録後、すぐに30人に回復します。</string>
+    <string name="payment_chargemember_point2_3">毎月の30人に回復する更新タイミングは有料会員登録日から30日サイクルとなります。</string>
+    <string name="payment_chargemember_point3">POINT3</string>
+    <string name="payment_chargemember_point3_title">Facebookを公開設定できる</string>
+    <string name="payment_chargemember_point3_1">メッセージのやり取りが2往復以上になると、Facebookの公開設定ができます。お互いのFacebookを公開することで、よりお相手のことを知ることができます。</string>
+    <string name="payment_chargemember_point3_2">※公開の有無はご自身で設定できます。</string>
+    <string name="payment_chargemember_row4">有料会員の更新について</string>
+    <string name="payment_chargemember_row5">有料会員登録した日（決済日）を1日目とし、その日から31日目に自動更新されます。</string>
+    <string name="payment_chargemember_row6">ご注意</string>
+    <string name="payment_chargemember_row6_sub1">・更新日のAM0時の時点で解約していない場合、自動更新されるためご注意ください。</string>
+    <string name="payment_chargemember_row6_sub2">・「いいね！」の回復は、更新日の早朝になります。</string>
+    <string name="payment_chargemember_row6_sub3">・31日以内に解約・退会されたなどの場合でも、料金の日割り計算や払い戻しはできません。予めご了承ください。</string>
+    <string name="payment_chargemember_btnGoListPlan">有料会員に申し込む</string>
+    <string name="payment_chargemember_txt_privacy"><a href="ftp://aishowapp/privacyPolicy">プライバシーポリシー</a></string>
+    <string name="payment_chargemember_txt_termofuser"><a href="ftp://aishowapp/termofuse">利用規約</a></string>
+    <string name="payment_chargemember_btnChargeBilling">確認する</string>
+    <string name="payment_chargemember_note_header">ご注意</string>
+    <string name="payment_chargemember_note">"・複数月のプランは、お申込み時に一括払いとなります。
+・複数月プランの場合も、「いいね！」の回復は30日サイクルとなります。
+・お申し込後（決済後）は、解約した場合でも、全額返金、および、残期間の日割り/月割り返金は対応しておりません。予めご了承ください。
+・1ヵ月の日数は30日です。3ヵ月プランは90日間、6ヵ月プランは180日間、12ヵ月プランは360日間有効です。
+・プラン変更は、現在ご登録頂いている有料会員の更新日の30日前から24時間前までの期間でお手続き可能です。変更手続きがない場合は、お申し込み時と同じプラン、金額、期間で自動的に更新されます。
+・解約する場合は、更新日の前日までにお手続きください。"</string>
+    <string name="payment_premium_btn_Charge">プレミアムパックを購入する</string>
+    <string name="payment_premium_title_num_1">その1</string>
+    <string name="payment_premium_title1">「いいね！」が毎月50人に！</string>
+    <string name="payment_premium_content1">通常、1ヶ月30人までの制限がある「いいね！」ですが、プレミアムパックに入るとさらにプラス20人に送ることができます。</string>
+    <string name="payment_premium_title_num_2">その2</string>
+    <string name="payment_premium_title2">お相手がもらった「いいね！」数がわかる！</string>
+    <string name="payment_premium_content2">現在、お相手がいくつ「いいね！」をもらっているかがわかります。何人の人にアプローチされているかがわかるため、そのお相手に「いいね！」するかどうかの判断基準にすることができます。</string>
+    <string name="payment_premium_title_num_3">その3</string>
+    <string name="payment_premium_title3">プロフィールの公開設定ができる！</string>
+    <string name="payment_premium_content3">ライバルが少ない、登録したばかりのお相手をご紹介します。お相手はまだ「いいね！」をたくさんもらっていないため、マッチング率が高まります。</string>
+    <string name="payment_premium_title_num_4">その4</string>
+    <string name="payment_premium_title4">「いいね！」を優先的に送れる！</string>
+    <string name="payment_premium_content4">人気の女性はたくさんの「いいね！」を受け取っており、中々マッチングできません。プレミアムパックに入ると優先的に「いいね！」が通知される為、マッチングしやすくなります。</string>
+    <string name="payment_premium_title_plan">プレミアムパックの更新について</string>
+    <string name="payment_premium_plan_content">プレミアムパックに申し込んだ日（決済日）を1日目とし、その日から31日目に自動更新されます。</string>
+    <string name="payment_premium_note_title">ご注意</string>
+    <string name="payment_premium_note">"・更新日のAM0時の時点で解約していない場合、自動更新されるためご注意ください。
+・「いいね！」の回復は、更新日の早朝になります。
+・31日以内に解約・退会されたなどの場合でも、料金の日割り計算や払い戻しはできません。予めご了承ください。"</string>
+    <string name="leave_main_text_Title1">AiShowで運命のお相手に出会えた方へ</string>
+    <string name="leave_main_text_row1">この度は本当におめでとうございます！きっとご家族もお喜びのことと思います。また、私たちもAiShowで幸せなカップルが誕生したことをとても嬉しく思っています。</string>
+    <string name="leave_main_text_row2">AiShowでは、お相手と出会うまでのエピソードやAiShowへの感想などの体験談を募集しています。体験談をAiShowにてご紹介させていただく場合、謝礼としてAmazonギフト券2万円分をプレゼント♪</string>
+    <string name="leave_main_text_row3">サービス運営の励みともなりますので、ぜひご報告ください！</string>
+    <string name="leave_main_btn_send_personal_exp">体験談を応募する</string>
+    <string name="leave_main_text_Title2">その他の理由で退会される方へ</string>
+    <string name="leave_main_text_row4">AiShowでは、統計学に基づいてあなたとの相性が良いお相手をご紹介しています。これまでに良いお相手と出会えなかった方は、相性ランキングにてお相手を探してみてはいかがでしょうか。</string>
+    <string name="leave_main_btn_show_ranking_compatibility">自分の相性ランキングを見てみる</string>
+    <string name="leave_main_btn_continue_leave">退会手続きに進む</string>
+    <string name="leave_main_alert_nouser_matching">マッチングしていないため体験談を応募できません。</string>
+    <string name="leave_main_alert_have_report">体験談を送信済みです。</string>
+    <string name="leave_main2_text_title1">退会前に、必ず以下をご確認ください。</string>
+    <string name="leave_main2_text_row1">ご注意</string>
+    <string name="leave_main2_text_row2">※退会すると、すべてのサービスが停止となります。</string>
+    <string name="leave_main2_text_row3">※再度サービスをご利用頂く際は、新たに入会申し込みが必要です。また、退会後３ヶ月間は入会できません。</string>
+    <string name="leave_main2_text_row4">※両想いのお相手の情報、やり取りしたメッセージ、Facebookアカウントはすべて見ることができなくなります。</string>
+    <string name="leave_main2_text_grid_title">あなたに「いいね！」したお相手</string>
+    <string name="leave_main2_btn_confirm_mess_matching">お相手とのメッセージやり取りを確認する</string>
+    <string name="leave_main2_text_title2">お相手と出会えない原因 ワースト3</string>
+    <string name="leave_main2_text_sub1">ワースト1</string>
+    <string name="leave_main2_text_sub2">ワースト2</string>
+    <string name="leave_main2_text_sub3">ワースト3</string>
+    <string name="leave_main2_text_subtext1">プロフィールや自己紹介が充実していない。</string>
+    <string name="leave_main2_text_subtext2">サブ写真を登録していない。</string>
+    <string name="leave_main2_text_subtext3">いいね！を押す数が1日10人以下</string>
+    <string name="leave_main2_text_row5">"あなたがお相手のことをよく知りたいように、お相手もあなたのプロフィールや写真を見て判断しています。
+また、「いいね！」を押す回数が多いほど、出会いのチャンスは多くなります。
+もう一度見直して、活動してみましょう。"</string>
+    <string name="leave_main2_btn_edit_profile">プロフィールを編集する</string>
+    <string name="leave_main2_btn_search_target">お相手を探して「いいね！」する</string>
+    <string name="leave_main2_text_title3">誰かに見つかりそうで心配な方へ</string>
+    <string name="leave_main2_text_row6">AiShowでは、Facebookでつながっている友人に知られずに活動することができます。Facebookでつながっていない友人は、ブロックリストに追加しましょう。</string>
+    <string name="leave_main2_btn_add_blocklist">ブロックリストに友人・知人を追加する</string>
+    <string name="leave_main2_btn_cancel_leave">退会をやめる</string>
+    <string name="leave_main2_btn_Leave">退会フォームへ</string>
+    <string name="leave_confirm_title">退会</string>
+    <string name="leave_confirm_text_spinner">選択してください。</string>
+    <string name="leave_confirm_text_title1">以下のアンケートに回答の上、退会手続きをお願いします。</string>
+    <string name="leave_confirm_text_reason">退会理由</string>
+    <string name="leave_confirm_text_comments">ご意見・ご感想</string>
+    <string name="leave_confirm_text_comment_limit">※全角800文字以内</string>
+    <string name="leave_other_method_text">"※プルダウンから「退会方法」を選択できない場合は、以下のリンクからお進みください。
+
+"<a href="ftp://aishowapp/leave">退会方法のお問い合わせ</a></string>
+    <string name="leave_confirm_text_note">ご注意</string>
+    <string name="leave_confirm_text_note_row1">※退会すると、すべてのサービスが停止となります。</string>
+    <string name="leave_confirm_text_note_row2">※再度サービスをご利用頂く際は、新たに入会申し込みが必要です。また、退会後３ヶ月間は入会できません。</string>
+    <string name="leave_confirm_text_note_row3">※両想いのお相手の情報、やり取りしたメッセージ、Facebookアカウントはすべて見ることができなくなります。</string>
+    <string name="leave_confirm_text_note_row4">"※すでにお支払い済みのご利用料金は返金できません。
+サービス利用日数が残っている場合でも、日割りでの返金はできません。"</string>
+    <string name="leave_confirm_text_note_row5">※有料会員でAppleID決済の方は、退会する前に自動課金の解約の手続き行ってください。解約手続きを行わないまま退会した場合、自動課金が継続してしまいます</string>
+    <string name="leave_confirm_alert_noreason">退会理由を選択してください。</string>
+    <string name="leave_confirm_alert_nocomment">ご意見・ご感想を入力してください。</string>
+    <string name="leave_confirm_alert_overlimit">ご意見・ご感想は800文字まで入力可能です。</string>
+    <string name="leave_success_text_row1">"退会手続きが完了しました。
+AiShowをご利用いただき、誠にありがとうございました。"</string>
+    <string name="leave_success_btn_Back">ログイン画面に戻る</string>
+    <string name="leave_report_title">良縁報告</string>
+    <string name="leave_report_text_title1">AiShow 体験談</string>
+    <string name="leave_report_text_note1">"※お互いにFacebookアカウントを公開していることが条件となります。
+※お相手にも体験談受付の完了通知が届きます。"</string>
+    <string name="leave_report_text_Nicktitle">お相手のニックネーム</string>
+    <string name="leave_report_text_mandatory">※必須</string>
+    <string name="leave_report_text_experion">体験談</string>
+    <string name="leave_report_text_limit">※全角400文字以内</string>
+    <string name="leave_report_text_imagecouple">カップル写真</string>
+    <string name="leave_report_text_title2">プレゼントの送付先</string>
+    <string name="leave_report_text_addr">ご住所</string>
+    <string name="leave_report_text_addr_zipcode">郵便番号</string>
+    <string name="leave_report_text_addr_city">都道府県</string>
+    <string name="leave_report_text_addr_address">市町村以降の住所</string>
+    <string name="leave_report_text_addr_name">お名前</string>
+    <string name="leave_report_text_addr_mail">メールアドレス</string>
+    <string name="leave_report_text_addr_mail_confirm">確認用</string>
+    <string name="leave_report_text_addr_mandatory_halfsize">※半角英数</string>
+    <string name="leave_report_text_interview">メディア取材の可否</string>
+    <string name="leave_report_text_interview_note">取材にご協力いただける場合、さらに豪華プレゼントをご用意しています！</string>
+    <string name="leave_report_text_note2_title">ご注意</string>
+    <string name="leave_report_text_note2">"・体験談は、お相手の方へ掲載についての意思確認をさせていただきます。予めご了承ください。
+・体験談を掲載する掲載ページは、AiShow会員以外の方も閲覧可能なページとなります
+・体験談への謝礼プレゼント（Amazonギフト券 20,000円分）は、1カップルにつき1回限りとさせていただきます。
+・写真は、原則としてモザイクなしで掲載させていただきます。
+・謝礼プレゼントは、ページに掲載された方のみ対象となります。
+・体験談の掲載のご報告は、プレゼントの発送をもってかえさせていただきます。
+・体験談によっては、掲載不可とさせていただく場合がございます。恐れ入りますが、その場合は謝礼プレゼントの対象外となります。また、掲載不可の理由については一切開示できません。予めご了承ください。
+・謝礼プレゼント（Amazonギフト券 20,000円分）は電子ギフト券です。ご入力いただいたメールアドレスへ送付致します。
+・メールのドメイン指定受信をされている方は、「xxx@xxxxxxxxxxxxx」からのメールが受信できるように設定を変更お願いいたします。
+・メールアドレスに間違いが無いよう、十分ご注意ください。メールアドレスに誤りがあった場合は、謝礼プレゼントは無効となります。予めご了承ください。
+・メディアの取材が可能な方には、ご入力いただいたメールアドレスに弊社担当者よりご連絡させていただく場合がございます。
+"</string>
+    <string name="leave_report_btn_cancel">キャンセル</string>
+    <string name="leave_report_btn_confirm">内容を確認</string>
+    <string name="leave_report_btn_confirm2">送信する</string>
+    <string name="leave_report_text_spinner">選択してください</string>
+    <string name="leave_report_text_check1">プライバシーポリシー</string>
+    <string name="leave_report_text_check2">に同意のうえ、送信する。</string>
+    <string name="leave_report_text_check3"><a href="ftp://aishowapp/termofuse">プライバシーポリシー</a>に同意のうえ、送信する。</string>
+    <string name="leave_report_rb_0">取材NG</string>
+    <string name="leave_report_rb_1">取材OK/顔出しNG</string>
+    <string name="leave_report_rb_2">取材OK/顔出しOK</string>
+    <string name="leave_report_success_text">"体験談を受け付けました！ありがとうございます。
+引き続き、退会手続きを行ってください。"</string>
+    <string name="leave_report_success_btn">退会画面へ</string>
+    <string name="leave_report_alert_nickname">お相手のニックネームを選択してください。</string>
+    <string name="leave_report_alert_comment">体験談を入力してください。</string>
+    <string name="leave_report_alert_commentOverlimit">体験談は400文字まで入力可能です。</string>
+    <string name="leave_report_alert_couple">カップル写真を選択してください。</string>
+    <string name="leave_report_alert_zipcode">郵便番号を入力してください。</string>
+    <string name="leave_report_alert_city">都道府県を選択してください。</string>
+    <string name="leave_report_alert_address">送付先住所を入力してください。</string>
+    <string name="leave_report_alert_name">送付先のお名前を入力してください。</string>
+    <string name="leave_report_alert_mail">送付先メールアドレスを入力してください。</string>
+    <string name="leave_report_alert_mailsyntax">メールアドレスが正しくありません。</string>
+    <string name="leave_report_alert_mailconfirm">メールアドレスが一致していません。</string>
+    <string name="leave_report_alert_interview">メディア取材の可否を選択してください。</string>
+    <string name="leave_confirm_prompt">Choice a option</string>
+    <string name="search_reportbreach_text_title">違反報告</string>
+    <string name="search_reportbreach_text1">ご協力ありがとうございます。AiShowでは、全ユーザー様に利用規約を徹底していただくようお願いし、できる限り安心して皆様にご利用いただけるよう日々努力しております。</string>
+    <string name="search_reportbreach_text2">以下のユーザー様が利用規約違反されていると思われた場合、その理由についてお聞かせください。</string>
+    <string name="search_reportbreach_Nickname">違反している人</string>
+    <string name="search_reportbreach_reason_breach">違反報告</string>
+    <string name="search_reportbreach_text_spinner">違反理由を選択してください</string>
+    <string name="search_reportbreach_content">具体的な違反内容</string>
+    <string name="search_reportbreach_content_note">「既婚者だった」「嫌がらせを受けた」「他サイトでサクラ行為をしていた」「宗教やネットワークビジネスの勧誘を受けた」など、具体的な内容をご記入ください。</string>
+    <string name="search_reportbreach_note">"・違反報告をしても、相手には一切知らされることはございませんので、ご安心ください。
+・あなたの個人情報は記載しないようにご注意ください。
+・ご報告いただいた違反者に対して、AiShowが利用規約と判断した場合は警告や強制退会などの措置を取らせていただきます。ただし実際に措置を行ったかどうかの有無、措置の内容について回答することはいたしかねます。予めご了承ください。"</string>
+    <string name="search_reportbreach_btn_report">上記の内容で違反報告する</string>
+    <string name="search_reportbreach_btn_cancel">キャンセル</string>
+    <string name="search_reportbreach_text_dialog">"違反報告が完了しました。
+ご協力ありがとうございました。"</string>
+    <string name="search_reportbreach_text_btn_dialog">検索画面に戻る</string>
+    <string name="srp_sub_string">さん</string>
+    <string name="search_reportbreach_alert_noreason">違反理由を選択してください。</string>
+    <string name="search_reportbreach_alert_nocomment">違反内容を入力してください。</string>
+    <string name="search_reportbreach_alert_overlimit">違反内容は800文字まで入力可能です。</string>
+    <string name="mypage_btn_change_text">変更する</string>
+    <string name="mypage_btn_preview_text">プレビューを見る</string>
+    <string name="mypage_default_text" />
+    <string name="mypage_header_sub_photo_text">サブ写真</string>
+    <string name="mypage_header_member_status_text">ステータス</string>
+    <string name="mypage_header_profile_complete_text">プロフィール入力率</string>
+    <string name="mypage_header_introduction_text">自己紹介</string>
+    <string name="mypage_basic_plain_text">会員ステータス</string>
+    <string name="mypage_charged_plain_text">ポイント残高</string>
+    <string name="mypage_prenium_plain_text">年齢確認</string>
+    <string name="mypage_basic_content_text">会員ステータス</string>
+    <string name="mypage_charged_content_text">ポイント残高</string>
+    <string name="mypage_prenium_content_text">年齢確認</string>
+    <string name="mypage_default_introduction_text">"年齢確認年齢確認年齢確認
+年齢確認年齢確認年齢確認年齢確認
+年齢確認年齢確認年齢確認"</string>
+    <string name="mypage_profile_text">プロフィール</string>
+    <string name="mypage_target_text">理想の相手</string>
+    <string name="mypage_member_status_text">会員ステータスへ</string>
+    <string name="mypage_buy_point_text">ポイント購入</string>
+    <string name="mypage_apply_text">申請する</string>
+    <string name="mypage_wait_approve_text">審査中です。</string>
+    <string name="mypage_introdution_wait_approve_text">※ 審査中</string>
+    <string name="mypage_confirm_delete_photo">サブ写真を削除してもよろしいですか？</string>
+    <string name="mypage_photo_comfirming_text">審査中</string>
+    <string name="mypage_comfirming_choose_from_fb_text">facebookのプロフィール画像をメイン画像にします。よろしいですか？</string>
+    <string name="mypage_comfirming_update_fb_success_text">facebookからプロフィール画像を取得しました。審査が完了後、他のユーザーにも見えるようになります。</string>
+    <string name="mypage_comfirming_choose_source_image_text">端末のカメラで撮影するか、アルバムから画像を選択してください</string>
+    <string name="mypage_camera_text">撮影する</string>
+    <string name="mypage_gallery_text">アルバムから</string>
+    <string name="mypage_comfirming_save_before_leave">"プロフィールが変更されています。このまま移動すると元に戻りますがよろしいですか？
+（プロフィールに反映させる場合は右上の更新ボタンを押してください）"</string>
+    <string name="mypage_alert_address_input_text">居住地は選択してください。</string>
+    <string name="mypage_alert_bloodType_input_text">血液型を選択してください。</string>
+    <string name="mypage_alert_language_input_text">使用言語を選択してください。</string>
+    <string name="mypage_alert_nickname_input_text">ニックネームを入力してください。</string>
+    <string name="mypage_alert_nickname_input_length_10_text">ニックネームは10文字以内で入力してください。</string>
+    <string name="mypage_alert_hobby_input_length_20_text">趣味・関心は20文字まで入力可能です。</string>
+    <string name="mypage_alert_introduction_input_length_text">%1$d文字～%2$d文字まで入力可能です。</string>
+    <string name="mypage_alert_schoolName_input_length_text">学校名は20文字まで入力可能です。</string>
+    <string name="mypage_alert_favourite_input_length_20_text">好きな食べもの・お酒は20文字まで入力可能です。</string>
+    <string name="diagnosis_title_bracket">【%1$s】</string>
+    <string name="mypage_reference_text">［参考］</string>
+    <string name="mypage_check_famous_text"><u>同性人気会員のプロフィールを見る</u></string>
+    <string name="mypage_blank_text">未選択</string>
+    <string name="alert_max_choice_language">使用言語は%dつまで選択可能です。</string>
+    <string name="alert_max_choice_charmpoint">チャームポイントは%dつまで選択可能です。</string>
+    <string name="alert_max_choice_socialbility">社交性は%dつまで選択可能です。</string>
+    <string name="alert_max_choice_persomality">性格・タイプは%dつまで選択可能です。</string>
+    <string name="alert_max_choice_multichoice" formatted="false">%sは%dつまで選択可能です。</string>
+    <string name="search_delete_value">解除する</string>
+    <string name="search_setting">設定する</string>
+    <string name="search_item_edittext">設定</string>
+    <string name="text_search_button">検索する</string>
+    <string name="text_reset_search"><u>設定内容をリセットする</u></string>
+    <string name="text_save_search">自分のお気に入り条件として設定する</string>
+    <string name="text_japan_country">日本</string>
+    <string name="search_target_text">お相手を検索する</string>
+    <string name="mypage_target_condition_text">お相手が求めている条件で絞り込む</string>
+    <string name="sex">性別</string>
+    <string name="age">年齢</string>
+    <string name="from">from:</string>
+    <string name="to">to:</string>
+    <string name="address">居住地</string>
+    <string name="blood_type">血液型</string>
+    <string name="blood_type_A">A型</string>
+    <string name="blood_type_O">O型</string>
+    <string name="blood_type_B">B型</string>
+    <string name="blood_type_AB">AB型</string>
+    <string name="blood_type_unknow">わからない</string>
+    <string name="nationality">国籍</string>
+    <string name="language">使用言語</string>
+    <string name="birth_place">出身地</string>
+    <string name="immigration">移住できるか</string>
+    <string name="brothers">兄弟姉妹</string>
+    <string name="family">同居人</string>
+    <string name="tall">身長</string>
+    <string name="figure">体型</string>
+    <string name="charm_point">チャームポイント</string>
+    <string name="wedding">結婚歴</string>
+    <string name="child">子供の有無</string>
+    <string name="tobacco">タバコ</string>
+    <string name="liquor">お酒</string>
+    <string name="favorite_food">好きな食べ物・お酒</string>
+    <string name="school">学歴</string>
+    <string name="school_name">学校名</string>
+    <string name="job">職業</string>
+    <string name="salary">年収</string>
+    <string name="holiday">休日</string>
+    <string name="sociability">社交性</string>
+    <string name="personality">性格・タイプ</string>
+    <string name="meetup">出会うまでの希望</string>
+    <string name="choice_point">"パートナー
+選びのポイント"</string>
+    <string name="first_day">初回デート費用</string>
+    <string name="favorite">趣味・関心</string>
+    <string name="last_login">最終ログイン</string>
+    <string name="fb_friend_count">Facebook友達の数</string>
+    <string name="fb_status">Facebook交際ステータス</string>
+    <string name="about_me">自己紹介文</string>
+    <string name="sub_photo">サブ写真</string>
+    <string name="introduction_search">自己紹介</string>
+    <string name="tab_profile_search">プロフィール</string>
+    <string name="tab_target_search">理想の相手</string>
+    <string name="tab_diagnose_search">診断結果</string>
+    <string name="fb_info_search">Facebook情報</string>
+    <string name="basic_info_search">基本情報</string>
+    <string name="fbfriend_count_search">友達の数</string>
+    <string name="fbstatus_search">交際ステータス</string>
+    <string name="fbtarget_search">恋愛対象</string>
+    <string name="age_search">年齢</string>
+    <string name="address_search">居住地</string>
+    <string name="blood_type_search">血液型</string>
+    <string name="language_search">使用言語</string>
+    <string name="immigration_search">移住</string>
+    <string name="origin_search">出身地</string>
+    <string name="brothers_search">兄弟姉妹</string>
+    <string name="family_search">同居人</string>
+    <string name="height_search">身長</string>
+    <string name="figure_search">体型</string>
+    <string name="charmpoint_search">チャームポイント</string>
+    <string name="wedding_search">結婚歴</string>
+    <string name="child_search">子供の有無</string>
+    <string name="tobacco_search">タバコ</string>
+    <string name="liquor_search">お酒</string>
+    <string name="favorite_search">好きな食べ物・お酒</string>
+    <string name="endsuf_address">在住</string>
+    <string name="endsuf_national">国籍</string>
+    <string name="beginsuf_nickname">ニックネーム</string>
+    <string name="nomore_user_detail_like">全てのユーザーに「いいね！」を押しています。</string>
+    <string name="nomore_user_detail_hide">全てのユーザーに「キープ！」を押しています。</string>
+    <string name="nomore_user_detail_keep">全てのユーザーに「非表示！」を押しています。</string>
+    <string name="diagnose_error_message">Please charge to view this page.</string>
+    <string name="text_no_info">未設定</string>
+    <string name="text_no_introduction">"自己紹介文が設定されていません。
+
+
+"</string>
+    <string name="suf_nickname" />
+    <string name="suf_fbfriend">共通の友達は</string>
+    <string name="suf_fbstatus">交際ステータスは</string>
+    <string name="endsuf_fbfriend">人</string>
+    <string name="suf_fbfriend_count">友達</string>
+    <string name="confirm_yes">はい</string>
+    <string name="confirm_no">いいえ</string>
+    <string name="confirm_prophercy">閉じる</string>
+    <string name="confirm_see_notify">見る</string>
+    <string name="message_confirm_keep">さんをキープリストに追加しますか？</string>
+    <string name="message_confirm_hide">"さんを非表示リストに追加しますか？
+非表示にすると、「ホーム」「活動ノート」 「メッセージ」よりお相手が表示されなくなります（設定より解除できます）"</string>
+    <string name="searchdetail_message_confirm_like">さんに「いいね！」を送ります。</string>
+    <string name="searchdetail_confirm_Like_userLike">"さんに「いいね！」を送ります
+（1いいね！消費します）"</string>
+    <string name="searchdetail_confirm_Like_userPoint">"さんに「いいね！」を送ります
+（1pt消費します）"</string>
+    <string name="searchdetail_confirm_Like_success">さんに「いいね！」を送りました。</string>
+    <string name="searchdetail_confirm_likespecial_success">さんに「スペシャルいいね！」を送りました。</string>
+    <string name="friendlike_confirmLike_title">"さんに「いいね！ありがとう」を送ります
+（いいねの数を消費せずに送れます）"</string>
+    <string name="friendlike_comfirmLike">※相手にいいねを返すときは「いいね！」の数は減りません。</string>
+    <string name="friendlike_likesuccess">"マッチング成立しました！
+メッセージを送りますか？"</string>
+    <string name="message_confirm_unkeep">さんをキープリストから外しますか？</string>
+    <string name="message_confirm_unhide">さんを非表示してよろしいですか-unhide</string>
+    <string name="message_confirm_was_keep">さんをキープリストに追加しました。</string>
+    <string name="message_confirm_was_hide">"さんを非表示リストに追加しました。
+（設定より解除も可能です)"</string>
+    <string name="message_confirm_was_unkeep">さんをキープリストから外しました。</string>
+    <string name="message_request_certificate">スペシャルいいねを送信するためには、年齢認証が必要です。</string>
+    <string name="message_confirm_was_block">ブロックすると、自分とお相手の画面からお互いが非表示になり、コンタクトが取れなくなります（設定より解除できます）</string>
+    <string name="message_confirm_block">"さんをブロックリストに追加しますか?
+ブロックすると、自分とお相手の画面からお互いが非表示になり、コンタクトが取れなくなります（設定より解除できます）"</string>
+    <string name="like_question_tittle">"さんに「いいね！」を送るには、
+以下の質問に回答する必要があります。"</string>
+    <string name="like_question_require">（必須回答）</string>
+    <string name="like_question_require_edit_text">"※全角100文字以内
+※回答内容にあなたの携帯番号やメールアドレスなど、個人を特定する情報は入れられません。"</string>
+    <string name="like_question_error_message">必須回答です</string>
+    <string name="like_question_over_limit">回答は100文字以内入力可能です。</string>
+    <string name="total_record">件</string>
+    <string name="endsuf_age">歳</string>
+    <string name="endsuf_height">cm</string>
+    <string name="affinity_searchlist">相性診断</string>
+    <string name="keeplist_title">キープ中リスト</string>
+    <string name="search_title">検索条件</string>
+    <string name="text_alert_empty_result">"※該当するお相手が見つからなかったため、
+相性度の高いお相手をご紹介します。
+条件が多すぎる場合がありますので、
+検索内容を変更してください。"</string>
+    <string name="text_header_prophercy_dialog">本日の恋愛アドバイス</string>
+    <string name="text_nodata_searchlist">読み込んでいるデータがありません。リロードしてください。</string>
+    <string name="custom_dialog_button_confirm_text">Confirm</string>
+    <string name="custom_dialog_button_cancel_text">Cancel</string>
+    <string name="toolbar_clear_text">クリア</string>
+    <string name="otherSetting_title">設定</string>
+    <string name="otherSetting_set_question_tab_text">相手に質問</string>
+    <string name="otherSetting_hide_tab_text">非表示</string>
+    <string name="otherSetting_tab_text">その他設定</string>
+    <string name="otherSetting_block_list_header_text">ブロックリスト</string>
+    <string name="otherSetting_block_list_content">"Facebookでつながっていない友人・知人は、このブロックリストに登録しましょう。
+ ブロックリストに登録した相手は、AiShowであなたを見つけることはできません。"</string>
+    <string name="otherSetting_FB_URL_hint_text">ブロックしたい人のFacebookのURLを記入してください</string>
+    <string name="otherSetting_set_btn_text">設定する</string>
+    <string name="otherSetting_format_fb_text">例）https://www.facebook.com/xxxx</string>
+    <string name="otherSetting_block_list_text">ブロックリストに登録中</string>
+    <string name="otherSetting_update_friend_list_text">Facebookの友達情報を更新</string>
+    <string name="otherSetting_update_friend_list_content">"AiShowではあなたのFaceookの友達情報を取得し、その友達がAiShowであなたを見つけることができないように設定しています。あなたが友達の相手の検索結果に出ることはありません。
+
+ Facebookの友達情報は、1日に1回、自動で更新します。
+ もし今すぐ更新したい場合は、以下のボタンをクリックしてください。"</string>
+    <string name="otherSetting_last_update_time_text">最終更新：%s</string>
+    <string name="otherSetting_update_btn_text">更新する</string>
+    <string name="otherSetting_limit_like_text">いいね！受信制限</string>
+    <string name="otherSetting_limit_like_content">たくさん「いいね！」をもらって困っている場合など、以下で受け取る数を制限することができます。</string>
+    <string name="otherSetting_number_like_per_day_text">1日に「いいね！」を受け取る数</string>
+    <string name="otherSetting_number_notice_per_day_text">「いいね！」のお知らせ回数</string>
+    <string name="otherSetting_set_public_facebook_text">プロフィール公開範囲設定</string>
+    <string name="otherSetting_set_public_facebook_content_text">プレミアム会員の特典です。あなたのプロフィールを公開するお相手を設定するお相手を設定することができます。</string>
+    <string name="otherSetting_block_fb_confirm_message">削除すると、登録相手があなたを見つけることがありますがよろしいですか。</string>
+    <string name="diagnosis_result_header_text">"さっそくお相手を探してみましょう！
+まずは、統計学の結果から、自分について知ることから始めましょう！"</string>
+    <string name="diagnosis_result_for_who">%s.さんの診断結果</string>
+    <string name="diagnosis_result_btn_text">さっそく相性のいいお相手を見る</string>
+    <string name="payment_member_status_paymentDate_text">申し込み日</string>
+    <string name="payment_member_status_paymentContent_text">サービス内容</string>
+    <string name="payment_member_status_paymentAmount_text">ご利用料金</string>
+    <string name="confirm_cancel_billing_yes">解約する</string>
+    <string name="confirm_cancel_billing_no">キャンセル</string>
+    <string name="payment_charge_member_plan_text">プラン</string>
+    <string name="payment_charge_member_month_text">月換算で</string>
+    <string name="payment_charge_yen_text">¥</string>
+    <string name="payment_charge_yen_per_month">円（税込）</string>
+    <string name="payment_charge_cancel_message">"有料会員を解約します。よろしいですか？
+ 解約した場合、日割り／月割での返金は出来ませんので、ご了承ください。"</string>
+    <string name="payment_premium_cancel_message">"プレミアム会員を解約します。よろしいですか？
+ 解約した場合、日割り／月割りでの返金は出来ませんので、ご了承ください"</string>
+    <string name="payment_charge_price_total" formatted="false">一括払い%s￥%s(税込)</string>
+    <string name="paymentBuyPoint_confirm_checkbox">AiShow <a href="ftp://aishowapp/termofuse">利用規約</a>"に同意する "</string>
+    <string name="paymentBuyPoint_btn_Comfirm">確認する</string>
+    <string name="payment_buy_point_plan_text" formatted="false">%dpt%s¥%s</string>
+    <string name="payment_buy_point_plan_price_text">(1ptあたり¥%s)</string>
+    <string name="config_preview_title" formatted="false">%s%s%s歳</string>
+    <string name="foreign_text">海外</string>
+    <string name="function_is_comming_soon">こちらの機能は今後のアップデートで追加予定です。</string>
+    <string name="function_is_confirm_age_err">"年齢確認書類の提出が必要です。
+「年齢確認書類の提出」より手続きをお願いいたします。"</string>
+    <string name="text_mess_alert_error_value_selected_height_1">身長は</string>
+    <string name="text_mess_alert_error_value_selected_height_2">～</string>
+    <string name="text_mess_alert_error_value_selected_height_3">の数字を入力してください。</string>
+    <string name="text_mess_alert_error_value_selected_age_1">年齢は</string>
+    <string name="text_mess_alert_error_value_selected_age_2">歳～</string>
+    <string name="text_mess_alert_error_value_selected_age_3">歳を選択してください。</string>
+    <string name="ER_experience_header_text">AiShow 体験談</string>
+    <string name="ER_experience_content_text">"AiShowでお相手と出会うまでの嬉しい体験談をお聞かせください！
+AiShowにてご紹介させていただく場合、謝礼として20,000円分のAmazonギフト券をプレゼント♪"</string>
+    <string name="ER_experience_condition_text">"※お互いにFacebookアカウントを公開していることが条件となります。
+※お相手にも体験談受付の完了通知が届きます。"</string>
+    <string name="ER_nickname_of_target_text">お相手のニックネーム</string>
+    <string name="ER_required_text">※必須</string>
+    <string name="ER_user_content_title_text">体験談</string>
+    <string name="search_blank_text">問わない</string>
+    <string name="default_long_text">居住地居住地,居住地居住地居住地,居住地居住地居,住地居住地居住地,居住,地居住地居住地居住地居住地居住地居住地居住地居住地居住地居住地居住地居住地居住地居住地居住地居住地居住地居住地居住地居住地</string>
+    <string name="contact_screen_tittle">お問い合せ</string>
+    <string name="contact_subject_1">お問い合せ</string>
+    <string name="contact_subject_2">よくあるご質問は<a href="ftp://aishowapp/help">「ヘルプ」</a>"にございますのでご確認ください。
+"<a href="ftp://aishowapp/help">「ヘルプ」</a>にないご質問につきましては、以下のフォームよりご連絡ください。</string>
+    <string name="contact_content">お問い合せ内容</string>
+    <string name="contact_choose_content">お問い合せ内容を選択してください</string>
+    <string name="contact_environment">お客様の環境（不具合発生の場合）</string>
+    <string name="contact_choose_environment">現在の環境を選択してください</string>
+    <string name="contact_content_required">具体的な内容</string>
+    <string name="contact_information">"ご注意
+
+・お客様のFacebookにご登録頂いているメールアドレス宛てに、下記メールアドレスからご連絡させていただきます。受信制限設定をされている場合は、下記メールアドレスからの受信を許可してください。
+
+ info@aishow.com
+
+・お問い合わせ受付時間は平日の10～18時です。受付時間以外にお問い合わせいただいた場合、ご連絡は翌日以降となってしまう場合があります。予めご了承ください。"</string>
+    <string name="contact_confirm_button">内容を確認する</string>
+    <string name="contact_bug_payment">お支払いについて</string>
+    <string name="contact_bug_member_annoying">不正・不快な会員について</string>
+    <string name="contact_bug_technical">技術的な問題について</string>
+    <string name="contact_bug_policy">利用規約・プライバシーポリシーについて</string>
+    <string name="contact_bug_interface">取材について</string>
+    <string name="contact_bug_other">その他</string>
+    <string name="contact_bug_about_leave">退会方法</string>
+    <string name="contact_send_content_button">上記内容で問い合わせる</string>
+    <string name="contact_complete_title">お問い合せを受け付けいたしました。</string>
+    <string name="contact_complete_content">"\"AiShow\"カスタマーセンターよりお客様のメールアドレス(Facebookにログインする際に使用されているメールアドレス)に返信させていただきます。
+
+お問い合わせ内容・不具合の確認が難しい場合、返信が3営業日程かかる可能性がございます。
+何卒ご了承いただきますようお願い申し上げます。
+
+※「バグレポート」に対する返信は致しません。"</string>
+    <string name="button_contact_complete">お問い合わせフォームに戻る</string>
+    <string name="button_leave_page">退会ページへ</string>
+    <string name="contact_message_to_leave_page">AiShowからの退会ご希望の方は、退会ページへお進みください。</string>
+    <string name="contact_choose_content_notyet_message">お問い合わせ内容を選択してください。</string>
+    <string name="contact_content_required_notyet_message">具体的な内容を入力してください。</string>
+    <string name="contact_content_required_over_length_message">具体的な内容は800文字まで入力可能です。</string>
+    <string name="question_subject_screen">"相手があなたに「いいね！」するときに、あなたの質問に回答してもらえる機能です。
+メッセージの交換が始まる前に聞いておきたいことがあれば、質問内容を設定しておきましょう。
+質問は、最大3つ設定することができます"</string>
+    <string name="question_item_first_choice_tittle">質問1</string>
+    <string name="question_item_second_choice_tittle">質問2</string>
+    <string name="question_item_third_choice_tittle">質問3</string>
+    <string name="question_check_box_tittle">回答を必須にする</string>
+    <string name="question_duplicate_message">同じ質問が設定されています。</string>
+    <string name="question_not_choose_message">質問を選択してください。</string>
+    <string name="question_set_success">相手への質問の登録内容変更を受付けました。</string>
+    <string name="payment_for_googleplay_text">Google Playでのお支払いについて</string>
+    <string name="note_for_googleplay_text">"・Google　Playでのお支払いの場合は、クレジットカードでのお支払いと金額が異なりますのでご注意ください。
+・Google　Playギフトカードは、定期購入のご購入には使用できません。"</string>
+    <string name="googleplay_economic_text">Google Play決済</string>
+    <string name="googleplay_need_to_cancel_text">Googleウォレットの設定から現在のプランを解約してから再度登録ができます。</string>
+    <string name="itune_need_to_cancel_text">iTunes Connectの設定から現在のプランを解約してから再度登録ができます。</string>
+    <string name="text_to_test">200万円未満 200～400万円 400～600万円 600～800万円 800～1,000万円 1,000～1,500万円 1,500万円以上</string>
+    <string name="invite_friend_success_text">招待メールを送りました</string>
+    <string name="default_select_text">指定しない</string>
+</resources>

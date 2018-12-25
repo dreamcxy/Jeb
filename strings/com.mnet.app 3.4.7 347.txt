@@ -1,0 +1,2530 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CDQ">CDQ</string>
+    <string name="DRM">DRM</string>
+    <string name="FLAC">FLAC</string>
+    <string name="LOCAL_MUSIC">Local</string>
+    <string name="MP3">MP3</string>
+    <string name="STREAM">스트리밍</string>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="action_bar_toast_not_select_music">선택된 곡이 없습니다.</string>
+    <string name="action_bar_toast_not_select_video">선택된 영상이 없습니다.</string>
+    <string name="action_click">click</string>
+    <string name="action_download">download</string>
+    <string name="action_ficking">ficking</string>
+    <string name="action_input">input</string>
+    <string name="action_ma_albuminfo_header_play">헤더_앨범재생</string>
+    <string name="action_ma_albuminfo_in_list_play">수록곡_목록_바로재생</string>
+    <string name="action_ma_albuminfo_prefix_artist">아티스트</string>
+    <string name="action_ma_albuminfo_prefix_new">신규</string>
+    <string name="action_ma_albuminfo_prefix_search_result">검색</string>
+    <string name="action_ma_albuminfo_selected_menu">수록곡_선택메뉴</string>
+    <string name="action_ma_albuminfo_toolbar">수록곡_툴바</string>
+    <string name="action_ma_artistinfo_header_play">대표곡듣기</string>
+    <string name="action_ma_artistinfo_in_list_play">곡_목록_바로재생</string>
+    <string name="action_ma_artistinfo_selected_menu">곡_선택메뉴</string>
+    <string name="action_ma_artistinfo_toolbar">곡_툴바</string>
+    <string name="action_ma_chart_day_list_play">일간_목록_바로재생</string>
+    <string name="action_ma_chart_day_selected_menu">일간_선택메뉴</string>
+    <string name="action_ma_chart_day_toolbar">일간_툴바</string>
+    <string name="action_ma_chart_generation_list_play">시대별_목록_바로재생</string>
+    <string name="action_ma_chart_generation_selected_menu">시대별_선택메뉴</string>
+    <string name="action_ma_chart_generation_toolbar">시대별_툴바</string>
+    <string name="action_ma_chart_mcount_list_play">엠카_목록_바로재생</string>
+    <string name="action_ma_chart_mcount_selected_menu">엠카_선택메뉴</string>
+    <string name="action_ma_chart_mcount_toolbar">엠카_툴바</string>
+    <string name="action_ma_chart_real_list_play">실시간_목록_바로재생</string>
+    <string name="action_ma_chart_real_selected_menu">실시간_선택메뉴</string>
+    <string name="action_ma_chart_real_toolbar">실시간_툴바</string>
+    <string name="action_ma_chart_week_list_play">주간_목록_바로재생</string>
+    <string name="action_ma_chart_week_selected_menu">주간_선택메뉴</string>
+    <string name="action_ma_chart_week_toolbar">주간_툴바</string>
+    <string name="action_ma_genre_new_list_play">최신곡_목록_바로재생</string>
+    <string name="action_ma_genre_new_selected_menu">최신곡_선택메뉴</string>
+    <string name="action_ma_genre_new_toolbar">최신곡_툴바</string>
+    <string name="action_ma_genre_top_list_play">탑100_목록_바로재생</string>
+    <string name="action_ma_genre_top_selected_menu">탑100_선택메뉴</string>
+    <string name="action_ma_genre_top_toolbar">탑100_툴바</string>
+    <string name="action_ma_genrerebirth_list_play">목록_바로재생</string>
+    <string name="action_ma_genrerebirth_selected_menu">선택메뉴</string>
+    <string name="action_ma_genrerebirth_toolbar">툴바</string>
+    <string name="action_ma_hdvideo_last_update_clip_list">최근업데이트_클립_목록</string>
+    <string name="action_ma_hdvideo_last_update_concert_list">최근업데이트_공연_목록</string>
+    <string name="action_ma_hdvideo_last_update_video_list">최근업데이트_본편_목록</string>
+    <string name="action_ma_hdvideo_many_watch_list">많이본영상_목록</string>
+    <string name="action_ma_hdvideo_mv_new_list">뮤직비디오_최신_목록</string>
+    <string name="action_ma_hdvideo_mv_pop_list">뮤직비디오_인기_목록</string>
+    <string name="action_ma_hdvideo_onair">온에어</string>
+    <string name="action_ma_hdvideo_recom_list">추천_목록</string>
+    <string name="action_ma_home_chart_list_play">실시간차트_목록_바로재생</string>
+    <string name="action_ma_home_chart_toolbar">실시간차트_툴바</string>
+    <string name="action_ma_home_hd_video_clip">HD영상_방송클립_목록</string>
+    <string name="action_ma_home_hd_video_concert">HD영상_공연_목록</string>
+    <string name="action_ma_home_hd_video_list">HD영상_방송본편_목록</string>
+    <string name="action_ma_home_hd_video_onair">HD영상_방송본편_온에어</string>
+    <string name="action_ma_home_mv_newest">뮤직비디오_최신_목록</string>
+    <string name="action_ma_home_mv_popularity">뮤직비디오_인기_목록</string>
+    <string name="action_ma_miniplayer_control">컨트롤</string>
+    <string name="action_ma_musicvideo_new_list_play">최신_목록_바로재생</string>
+    <string name="action_ma_musicvideo_new_selected_menu">최신_선택메뉴</string>
+    <string name="action_ma_musicvideo_new_toolbar">최신_툴바</string>
+    <string name="action_ma_musicvideo_pop_list_play">인기_목록_바로재생</string>
+    <string name="action_ma_musicvideo_pop_selected_menu">인기_선택메뉴</string>
+    <string name="action_ma_musicvideo_pop_toolbar">인기_툴바</string>
+    <string name="action_ma_newalbum_list_play">최신앨범_목록_바로재생</string>
+    <string name="action_ma_newmusic_list_play">최신곡_목록_바로재생</string>
+    <string name="action_ma_newmusic_selected_menu">최신곡_선택메뉴</string>
+    <string name="action_ma_newmusic_toolbar">최신곡_툴바</string>
+    <string name="action_ma_player_nowplaying_list_play">목록_바로재생</string>
+    <string name="action_ma_playlist_detail_haeder">헤더_버튼바</string>
+    <string name="action_ma_playlist_detail_list_play">목록_바로재생</string>
+    <string name="action_ma_playlist_detail_selected_menu">선택메뉴</string>
+    <string name="action_ma_playlist_detail_toolbar">툴바</string>
+    <string name="action_ma_playlist_music_list_all_listen">음악_기본목록_전곡듣기</string>
+    <string name="action_ma_playlist_music_list_play">음악_목록_바로재생</string>
+    <string name="action_ma_playlist_video_list_all_listen">영상_기본목록_전곡보기</string>
+    <string name="action_ma_playlist_video_list_play">영상_목록_바로재생</string>
+    <string name="action_ma_schedule_onair">온에어</string>
+    <string name="action_ma_search_list_play">검색결과_목록_바로재생</string>
+    <string name="action_ma_search_selected_menu">검색결과_선택메뉴</string>
+    <string name="action_ma_search_toolbar">검색결과_툴바</string>
+    <string name="action_ma_video_clip_list_play">클립_목록_바로재생</string>
+    <string name="action_ma_video_clip_selected_menu">클립_선택메뉴</string>
+    <string name="action_ma_video_clip_toolbar">클립_툴바</string>
+    <string name="action_ma_video_concert_new_list_play">최신_목록_바로재생</string>
+    <string name="action_ma_video_concert_new_selected_menu">최신_선택메뉴</string>
+    <string name="action_ma_video_concert_new_toolbar">최신_툴바</string>
+    <string name="action_ma_video_concert_pop_list_play">인기_목록_바로재생</string>
+    <string name="action_ma_video_concert_pop_selected_menu">인기_선택메뉴</string>
+    <string name="action_ma_video_concert_pop_toolbar">인기_툴바</string>
+    <string name="action_ma_video_origin_list_play">본편_목록_바로재생</string>
+    <string name="action_ma_video_origin_selected_menu">본편_선택메뉴</string>
+    <string name="action_ma_video_origin_toolbar">본편_툴바</string>
+    <string name="action_ma_video_vod_info_haeder_play">헤더_영상재생</string>
+    <string name="action_ma_video_vod_info_rel_list_play">관련클립_목록_바로재생</string>
+    <string name="action_ma_video_vod_info_rel_selected_menu">관련클립_선택메뉴</string>
+    <string name="action_ma_video_vod_info_rel_toolbar">관련클립_툴바</string>
+    <string name="action_tab">tab</string>
+    <string name="action_used">used</string>
+    <string name="activity">활동</string>
+    <string name="activity_not_found_one_store">One Store가 설치되어 있지 않습니다</string>
+    <string name="activity_not_found_play_store">Play Store가 설치되어 있지 않습니다</string>
+    <string name="adult_alert_sns">"이 컨텐츠는 청소년 보호법규정에 따라 실명인증 없이는 이용이 불가능합니다.
+CJONE으로 로그인 하시면 실명인증이 가능합니다."</string>
+    <string name="adult_alert_under_age">이 컨텐츠는 청소년보호법 규정에 따라 19세미만은 감상할 수 없는 음악입니다.</string>
+    <string name="adult_alert_under_age_video">이 컨텐츠는 청소년보호법 규정에 따라 19세미만은 감상할 수 없는 영상입니다.</string>
+    <string name="adult_auth">성인인증 하기</string>
+    <string name="adult_auth_audio_item">재생목록에 성인인증이 필요한 곡이 포함되어 있습니다. 성인인증 후 해당 곡을 이용하실 수 있습니다.</string>
+    <string name="adult_auth_audio_ticket_info_view_message">성인인증 후 해당 곡을 이용하실 수 있습니다.</string>
+    <string name="adult_auth_audio_ticket_info_view_title">플레이리스트에 성인인증이 필요한 곡이 포함되어 있습니다.</string>
+    <string name="adult_auth_failed">성인인증을 실패했습니다.</string>
+    <string name="adult_auth_item">"성인인증이 필요한 컨텐츠입니다. '확인'을 누르시면 인증 화면으로 이동합니다."</string>
+    <string name="adult_auth_need_real_certificate">"성인인증을 위해서는
+실명인증을 먼저 진행해야 합니다.
+지금 실명인증을 하시겠습니까?"</string>
+    <string name="adult_auth_success">성인인증이 완료되었습니다.</string>
+    <string name="adult_cert_noti_message">성인 인증이 필요한 콘텐츠입니다.</string>
+    <string name="adult_confirm_over_age">"이 컨텐츠는 청소년보호법 규정에 따라 19세미만은 감상할 수 없는 음악입니다.
+성인인증 하시겠습니까?"</string>
+    <string name="adult_confirm_over_age_video">"이 컨텐츠는 청소년보호법 규정에 따라 19세미만은 감상할 수 없는 영상입니다.
+성인인증 하시겠습니까?"</string>
+    <string name="adult_login_alert_need_to_login">"이 컨텐츠는 청소년보호법 규정에 따라 19세미만 청소년이 이용할수 없습니다.
+나이 및 본인 확인을 위해 로그인이 필요 합니다."</string>
+    <string name="adult_realname_auth_audio_ticket_info_view_message">인증을 거친 후 해당 곡을 이용하실 수 있습니다.</string>
+    <string name="album">앨범</string>
+    <string name="album_introduce">앨범 소개</string>
+    <string name="albumnm">앨범명</string>
+    <string name="alert">알림</string>
+    <string name="alert_3g_network_alart">"현재 LTE/3G 데이터를 사용중입니다.
+실시간 방송 시청시 데이터 통화료가 발생할 수 있습니다."</string>
+    <string name="alert_add_to_content">작성하신 내용으로 글을 등록하시겠습니까?</string>
+    <string name="alert_add_to_review">작성하신 내용으로 리뷰를 등록하시겠습니까?</string>
+    <string name="alert_api_login_fail">로그인에 실패했습니다. 아이디 혹은 비밀번호를 확인해주세요.</string>
+    <string name="alert_api_login_fail_ctn">"전화번호가 정확하지 않습니다.
+ 사용가능한 번호 여부 확인 및 휴대폰 재부팅 후 다시 시도해 주세요. 
+ 지속적으로 발생 시 고객센터에 문의해 주세요."</string>
+    <string name="alert_api_login_fail_ctn_temp_id">"현재 임시 비밀번호를 발급받은 상태입니다. 
+임시 비밀번호를 발급받은 상태에서는 전화번호 로그인이 제한됩니다. 
+PC에서 임시비밀번호로 로그인하여 비밀번호 변경 후 다시 로그인 해주세요."</string>
+    <string name="alert_api_write_block">"죄송합니다. 고객님은 신고된 사용자로 이용이 불가 합니다. 
+자세한 내용은 고객센터로 문의해 주세요."</string>
+    <string name="alert_api_write_over">추천 또는 쓰기 제한을 넘어서 이용할 수 없습니다.</string>
+    <string name="alert_auth_error">인증이 만료되었습니다. 재로그인 해주세요.</string>
+    <string name="alert_auth_member_regist_message">회원가입이 되어 있지 않습니다. 가입을 진행하시겠습니까?</string>
+    <string name="alert_badrequest_error">"죄송합니다. 일시적인 오류가 발생하였습니다. 
+잠시 후 다시 시도해 주세요. 
+문제가 지속될 경우 화면캡쳐와 함께 고객센터로 문의해 주세요."</string>
+    <string name="alert_cjone_auth_message">"현재 고객님께서는 CJ ONE 회원으로 가입되어 있습니다.
+
+엠넷 서비스 이용을 위해서는 CJ ONE 통합회원 약관동의가 필요합니다.
+
+'확인'을 누르시면 약관동의 페이지로 이동합니다."</string>
+    <string name="alert_cjone_member_out">"CJ ONE 약관동의 철회 및 회원 탈퇴를 진행합니다.
+'확인'을 누르시면 앱에서 로그아웃되며, 탈퇴 페이지로 이동합니다.
+계속 하시겠습니까?"</string>
+    <string name="alert_data_error">"죄송합니다. 데이터 오류가 발생하였습니다. 
+잠시 후 다시 시도해 주세요.
+ 문제가 지속될 경우 화면캡쳐와 함께 고객센터로 문의해 주세요."</string>
+    <string name="alert_delete_to_comment">선택하신 댓글을 삭제하시겠습니까?</string>
+    <string name="alert_delete_to_content">선택하신 글을 삭제하시겠습니까?</string>
+    <string name="alert_delete_to_review">선택하신 리뷰를 삭제하시겠습니까?</string>
+    <string name="alert_empty_comment">내용을 입력해주세요.</string>
+    <string name="alert_etc_error">"죄송합니다. 네트워크 연결 상태를 재확인 해 주세요.
+ 문제가 지속될 경우 화면캡쳐와 함께 고객센터로 문의해 주세요."</string>
+    <string name="alert_fail_encrypt_aes128">사용자 인증 실패로 로그아웃 되었습니다.</string>
+    <string name="alert_fail_rooted_device">비정상 단밀기(루팅)에선 엠넷 앱을 실행할 수 없습니다.</string>
+    <string name="alert_failed_member_out">회원탈퇴에 실패했습니다. 자세한 내용은 고객센터로 문의해 주세요.</string>
+    <string name="alert_galaxy_player_unable_buy_ticket">070 플레이어 회원님께서는 별도의 이용권을 구매할 수 없습니다.</string>
+    <string name="alert_galaxy_player_unserviceability_message_common">서비스를 이용하실 수 없습니다. 이용을 원하시면 엠넷ID로 로그인해 주세요.</string>
+    <string name="alert_galaxy_player_unserviceability_message_download">"서비스를 이용하실수 없습니다.
+서비스 이용을 원하시면 엠넷ID로 로그인해 주세요."</string>
+    <string name="alert_galaxy_player_unserviceability_message_myalbum">"마이앨범 서비스를 이용하실수 없습니다.
+모바일 앨범 생성후 이용해 주세요."</string>
+    <string name="alert_galaxy_player_unserviceability_message_mymnet">"서비스를 이용하실수 없습니다.
+이용을 원하시면 엠넷ID로 로그인해 주세요."</string>
+    <string name="alert_login_failed_code">로그인에 실패했습니다.[%1$s]</string>
+    <string name="alert_login_failed_code2">로그인에 실패했습니다.</string>
+    <string name="alert_login_failed_exist">약관에 동의하지 않았거나 탈퇴한 회원입니다. 확인 후 로그인해 주시기 바랍니다.</string>
+    <string name="alert_login_failed_not_regist">존재하지 않는 아이디입니다. 확인 후 다시 로그인해 주시기 바랍니다.</string>
+    <string name="alert_main_network_error">"현재 페이지 접속이 어렵습니다.
+&lt;b>네트워크 연결상태 및 설정&lt;/b>을
+확인 후 다시 시도해 주세요."</string>
+    <string name="alert_main_network_error2">"오프라인 상태에서는 기기에 저장된
+음악을 감상하실 수 있습니다."</string>
+    <string name="alert_network_error">"서버에 연결할 수 없어 데이터를 가져올 수 없습니다.
+3G/4G 또는 wifi를 켜주세요."</string>
+    <string name="alert_nick_name_change_save_error">오류가 발생했습니다 잠시 후 다시 시도해주세요.</string>
+    <string name="alert_out_member">"약관에 동의하지 않았거나 탈퇴한 회원입니다.
+확인 후 로그인해주시기 바랍니다."</string>
+    <string name="alert_playlist_make_empty_text_with_on_public">제목을 입력하지 않을 경우 플레이리스트 공개 설정이 제한됩니다 공유·공감에 적절한 제목을 입력해 주세요.</string>
+    <string name="alert_routine_inspection_message">"안녕하세요. 엠넷닷컴입니다.
+
+안정적인 서비스 제공을 위해 
+정기 점검을 진행합니다.
+점검시간 동안 서비스 이용이 제한되니 양해 부탁드립니다.
+
+"</string>
+    <string name="alert_server_check_error">"죄송합니다. 안정적인 서비스 제공을 위한 정기 점검 중 입니다. 
+빠른 조치 후 새롭게 찾아뵙겠습니다."</string>
+    <string name="alert_server_error">"죄송합니다. 네트워크 연결 상태를 재확인 해 주세요.
+ 문제가 지속될 경우 화면캡쳐와 함께 고객센터로 문의해 주세요."</string>
+    <string name="alert_user_cancel">데이터 요청이 취소되었습니다.</string>
+    <string name="align_name">이름순</string>
+    <string name="align_new">최신순</string>
+    <string name="align_popu">인기순</string>
+    <string name="align_right">정확도순</string>
+    <string name="all_listen">전체듣기</string>
+    <string name="app_name">Mnet</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="appear">출연</string>
+    <string name="artist">아티스트</string>
+    <string name="artist_introduce">아티스트 소개</string>
+    <string name="audio_service_toast_songname_artist">%1$s - %2$s</string>
+    <string name="b2b_download_content">&lt;%1$s>다음 음원은 다운로드 후 이용 가능합니다.</string>
+    <string name="b2b_download_title">MNET</string>
+    <string name="before_day">%1$s일 전</string>
+    <string name="before_hour">%1$s시간 전</string>
+    <string name="before_minute">%1$s분 전</string>
+    <string name="before_week">일주일 전</string>
+    <string name="birthday">출생</string>
+    <string name="board">게시판</string>
+    <string name="board_input_hint_text">게시글을 입력해주세요.</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="broadcast_info">방송 정보</string>
+    <string name="broadcast_timetable">엠넷 프로그램 편성표</string>
+    <string name="buy">구매</string>
+    <string name="buy_album">앨범구매</string>
+    <string name="buy_ticket">이용권구매</string>
+    <string name="cancel">취소</string>
+    <string name="cast_notification_connected_message">Connected to %1$s</string>
+    <string name="cast_notification_connecting_message">Connecting to %1$s</string>
+    <string name="cast_notification_disconnect">Disconnect</string>
+    <string name="category_album">album_detail</string>
+    <string name="category_artist">artist_detail</string>
+    <string name="category_audio_player">music_player</string>
+    <string name="category_audio_player_eq">music_player/eq</string>
+    <string name="category_banner">banner</string>
+    <string name="category_banner_special">banner_special</string>
+    <string name="category_chart">chart</string>
+    <string name="category_curation">curation</string>
+    <string name="category_download_history">profile/download_history</string>
+    <string name="category_genre">hdmusic/genre</string>
+    <string name="category_left_menu">menu</string>
+    <string name="category_like_history">profile/like_history</string>
+    <string name="category_listen_history">profile/listen_history</string>
+    <string name="category_login">login</string>
+    <string name="category_ma_albuminfo">MA_앨범정보</string>
+    <string name="category_ma_artistinfo">MA_아티스트정보</string>
+    <string name="category_ma_chart">MA_엠넷차트</string>
+    <string name="category_ma_clip_info">MA_영상정보</string>
+    <string name="category_ma_genre">MA_장르별음악상세</string>
+    <string name="category_ma_genrerebirth">MA_장르의재탄생_상세</string>
+    <string name="category_ma_hdvideo">MA_HD영상</string>
+    <string name="category_ma_home">MA_홈</string>
+    <string name="category_ma_mainplayer1">MA_음악플레이어1</string>
+    <string name="category_ma_mainplayer2">MA_음악플레이어2</string>
+    <string name="category_ma_miniplayer">MA_미니음악플레이어</string>
+    <string name="category_ma_musicvideo">MA_뮤직비디오</string>
+    <string name="category_ma_newmusic">MA_최신음악</string>
+    <string name="category_ma_player_nowplaying">MA_현재재생목록</string>
+    <string name="category_ma_playlist">MA_플레이리스트</string>
+    <string name="category_ma_playlist_music_detail">MA_음악플레이리스트상세</string>
+    <string name="category_ma_playlist_video_detail">MA_영상플레이리스트상세</string>
+    <string name="category_ma_schedule">MA_편성표</string>
+    <string name="category_ma_search">MA_검색</string>
+    <string name="category_ma_videoclip">MA_방송영상</string>
+    <string name="category_ma_videoconcert">MA_공연영상</string>
+    <string name="category_ma_vod_info">MA_방송정보</string>
+    <string name="category_main_chart">hdmusic/chart_tab</string>
+    <string name="category_main_genre">hdmusic/genre_tab</string>
+    <string name="category_main_hdvideo">hdmusic/hdvideo_tab</string>
+    <string name="category_main_musicvideo">hdmusic/musicvideo_tab</string>
+    <string name="category_main_newalbum">hdmusic/newalbum_tab</string>
+    <string name="category_main_playlist">hdmusic/playlist_tab</string>
+    <string name="category_main_setting">hdmusic/setting_tab</string>
+    <string name="category_main_setting_click">hdmusic/setting</string>
+    <string name="category_main_webview">hdmusic/webview_tab</string>
+    <string name="category_menu">menu</string>
+    <string name="category_mnet_tv_program">mnet_tv/program</string>
+    <string name="category_more_mnet">more_mnet</string>
+    <string name="category_mpre_mnet_banner">more_mnet_banner</string>
+    <string name="category_musicstyler">musicstyler</string>
+    <string name="category_musicstyler_detail">musicstyler/</string>
+    <string name="category_mv">mnet_tv/mv</string>
+    <string name="category_mytune">mytune</string>
+    <string name="category_newgenre_ballads">genre/genre_ballads</string>
+    <string name="category_newgenre_ccm">genre/genre_ccm</string>
+    <string name="category_newgenre_classical">genre/genre_classical</string>
+    <string name="category_newgenre_dance">genre/genre_dance</string>
+    <string name="category_newgenre_electronica">genre/genre_electronica</string>
+    <string name="category_newgenre_hiphop">genre/genre_hiphop</string>
+    <string name="category_newgenre_hiphop_k">genre/genre_hiphop_k</string>
+    <string name="category_newgenre_indie">genre/genre_indie</string>
+    <string name="category_newgenre_jazz">genre/genre_jazz</string>
+    <string name="category_newgenre_jpop">genre/genre_jpop</string>
+    <string name="category_newgenre_kpop">genre/genre_kpop</string>
+    <string name="category_newgenre_musical">genre/genre_musical</string>
+    <string name="category_newgenre_ost">genre/genre_ost</string>
+    <string name="category_newgenre_ost_mov">genre/genre_ost_mov</string>
+    <string name="category_newgenre_ost_tv">genre/genre_ost_tv</string>
+    <string name="category_newgenre_pop">genre/genre_pop</string>
+    <string name="category_newgenre_rock">genre/genre_rock</string>
+    <string name="category_newgenre_rock_k">genre/genre_rock_k</string>
+    <string name="category_newgenre_trot">genre/genre_trot</string>
+    <string name="category_newgenre_worldmusic">genre/genre_worldmusic</string>
+    <string name="category_newmusic_album">newmusic_album</string>
+    <string name="category_newmusic_song">newmusic_song</string>
+    <string name="category_open_playlist">open_playlist</string>
+    <string name="category_open_playlist_detail">open_playlist/</string>
+    <string name="category_period">period</string>
+    <string name="category_playlist_id">playlist/</string>
+    <string name="category_playlist_mobile">playlist/mobile</string>
+    <string name="category_playlist_music">playlist/music</string>
+    <string name="category_playlist_user">playlist_user/</string>
+    <string name="category_playlist_video">playlist/video</string>
+    <string name="category_profile">profile</string>
+    <string name="category_profile_coupon">profile/coupon</string>
+    <string name="category_profile_open_playlist">profile/open_playlist</string>
+    <string name="category_profile_ticket">profile/ticket</string>
+    <string name="category_push">push</string>
+    <string name="category_push_auto">push_auto</string>
+    <string name="category_search">search</string>
+    <string name="category_setting">setting</string>
+    <string name="category_share">share</string>
+    <string name="category_song">song_detail</string>
+    <string name="category_subscribe">playlist/subscribe</string>
+    <string name="category_tvmusic">tvmusic</string>
+    <string name="category_tvmusic_detail">tvmusic/</string>
+    <string name="category_unlimit_drm">unlimit-drm</string>
+    <string name="category_video">video_detail</string>
+    <string name="ccl_cancel">Cancel</string>
+    <string name="ccl_casting_to_device">Casting to %1$s</string>
+    <string name="ccl_connected_to_device">Connected to %1$s</string>
+    <string name="ccl_connecting_device">Chromecast is now casting the video</string>
+    <string name="ccl_disconnect">Disconnect</string>
+    <string name="ccl_disconnect_from_video">If a video is to be played, connection to the Chromecast will be stopped.</string>
+    <string name="ccl_error">Error</string>
+    <string name="ccl_failed_app_launch_timeout">The request to launch the application has timed out!</string>
+    <string name="ccl_failed_authorization_timeout">Authorization timed out</string>
+    <string name="ccl_failed_no_connection">No connection to the cast device is present</string>
+    <string name="ccl_failed_no_connection_short">No connection</string>
+    <string name="ccl_failed_no_connection_trans">Connection to the cast device has been lost. Application is trying to re-establish the connection, if possible. Please wait for a few seconds and try again.</string>
+    <string name="ccl_failed_perform_action">Failed to perform the action</string>
+    <string name="ccl_failed_receiver_player_error">Receiver player has encountered a severe error</string>
+    <string name="ccl_failed_seek">Failed to seek to the new position on the cast device</string>
+    <string name="ccl_failed_setting_volume">Failed to set the volume</string>
+    <string name="ccl_failed_status_request">Failed to sync up with the cast device</string>
+    <string name="ccl_failed_to_connect">Could not connect to the device</string>
+    <string name="ccl_failed_to_find_app">The application you are trying to launch is not available on your Cast device</string>
+    <string name="ccl_failed_to_launch_app">Failed to launch application</string>
+    <string name="ccl_failed_to_pause">Failed to pause the playback of media</string>
+    <string name="ccl_failed_to_play">Failed to start the playback of media</string>
+    <string name="ccl_failed_to_set_track_style">Failed to update the captions style.</string>
+    <string name="ccl_failed_to_stop">Failed to stop the playback of media</string>
+    <string name="ccl_info_na">Information Not Available</string>
+    <string name="ccl_live">Live</string>
+    <string name="ccl_loading">Loading…</string>
+    <string name="ccl_media_route_menu_title">Play on…</string>
+    <string name="ccl_mini_upnext">Up Next</string>
+    <string name="ccl_no_media_info">No media information available</string>
+    <string name="ccl_none">None</string>
+    <string name="ccl_off">Off</string>
+    <string name="ccl_ok">OK</string>
+    <string name="ccl_on">On</string>
+    <string name="ccl_pause">Pause</string>
+    <string name="ccl_play">Play</string>
+    <string name="ccl_stop_casting">Stop Casting</string>
+    <string name="ccl_version">2.6.1</string>
+    <string name="cdq_info_message">CDQ란 Compact Disc Quality sound의 약어로서 CD음질 그대로 고품격의 음악을 감상할 수 있는 음원 서비스입니다. 오리지널 음원 그대로를 파일로 변환함으로써 음질이 거의 손상되지 않아 원음에 가까운 음질로 음악을 감상할 수 있습니다.</string>
+    <string name="cdq_info_title">CDQ 안내</string>
+    <string name="cdq_streaing_zone">CDQ 스트리밍 존</string>
+    <string name="cdq_stream_quality_message_set">&lt;font color=#3a3d3f>재생을 위해 스트리밍 음질 설정을&lt;/font> &lt;font color=#ff008c>CDQ&lt;/font>&lt;font color=#3a3d3f>음질로 변경하시겠습니까?&lt;/font>&lt;br/>&lt;br/>&lt;font color=#ff008c>CDQ&lt;/font>&lt;font color=#3a3d3f>음질을 선택하시면 원음에 가까운 스트리밍 음악을 감상할 수 있습니다. 단, 음질을 높이면 파일 크기(데이터 비용)도 함께 커지며, 통신망에 따라 저음질에 비해 버퍼링 속도가 트릴 수 있습니다.&lt;br/>&lt;br/>확인을 누르시면 현재 스트리밍 음질 설정을 자동으로&lt;/font> &lt;font color=#ff008c>CDQ&lt;/font>&lt;font color=#3a3d3f>음질로 변경하여 재생하며, 취소를 투르시면 해당 곡을 현재 설정된 음질로 재생합니다.&lt;/font></string>
+    <string name="cdq_stream_quality_set_limit_message">&lt;font color=#ff008c>CDQ&lt;/font>&lt;font color=#3a3d3f>음질 스트리밍은 안드로이드 버전 3.1 이상에서만 가능합니다.&lt;/font></string>
+    <string name="cdq_zone">CDQ 스트리밍 존</string>
+    <string name="change_member">계정 이관</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="chart_ccm">ccm</string>
+    <string name="chart_classic">classic</string>
+    <string name="chart_indie">indie</string>
+    <string name="chart_jazz">jazz</string>
+    <string name="chart_jpop">jpop</string>
+    <string name="chart_kpop">kpop</string>
+    <string name="chart_kpop_ballad">ballad</string>
+    <string name="chart_kpop_dance">dance</string>
+    <string name="chart_kpop_hiphop">hiphop</string>
+    <string name="chart_kpop_rock">rock</string>
+    <string name="chart_ost">ost</string>
+    <string name="chart_ost_movie">movie</string>
+    <string name="chart_ost_musical">musical</string>
+    <string name="chart_ost_tv">tv</string>
+    <string name="chart_pop">pop</string>
+    <string name="chart_pop_electronica">electronica</string>
+    <string name="chart_pop_hiphop">hiphop</string>
+    <string name="chart_pop_rock">rock</string>
+    <string name="chart_trot">trot</string>
+    <string name="chart_world">world</string>
+    <string name="close">닫기</string>
+    <string name="cm_alert_auth_error">인증이 만료되었습니다. 재로그인 해주세요.</string>
+    <string name="cm_alert_data_error">"죄송합니다. 데이터 오류가 발생하였습니다. 
+잠시 후 다시 시도해 주세요.
+ 문제가 지속될 경우 화면캡쳐와 함께 고객센터로 문의해 주세요."</string>
+    <string name="cm_alert_etc_error">"죄송합니다. 네트워크 연결 상태를 재확인 해 주세요.
+ 문제가 지속될 경우 화면캡쳐와 함께 고객센터로 문의해 주세요."</string>
+    <string name="cm_alert_network_error">"서버에 연결할 수 없어 데이터를 가져올 수 없습니다.
+3G/4G 또는 wifi를 켜주세요."</string>
+    <string name="cm_alert_server_error">"죄송합니다. 네트워크 연결 상태를 재확인 해 주세요.
+ 문제가 지속될 경우 화면캡쳐와 함께 고객센터로 문의해 주세요."</string>
+    <string name="cm_login_alert_need_to_login">"로그인이 필요한
+서비스입니다.
+로그인 하시겠습니까?"</string>
+    <string name="cm_playlist_add_add_message">플레이리스트를 담기했습니다.</string>
+    <string name="cm_playlist_add_cancel_message">플레이리스트를 담기 취소했습니다.</string>
+    <string name="cm_screen_comment">chmadi_comment</string>
+    <string name="cm_screen_detail">chmadi_detail/%s</string>
+    <string name="cm_screen_keep">chmadi_keep</string>
+    <string name="cm_screen_like">chmadi_like</string>
+    <string name="cm_screen_main">chmadi_main</string>
+    <string name="cm_screen_series">chmadi_series</string>
+    <string name="cm_screen_thumb">chmadi_thumb</string>
+    <string name="cm_string_album_info_show">앨범 정보 자세히</string>
+    <string name="cm_string_artist_info_show">아티스트 정보 자세히</string>
+    <string name="cm_string_comment_hint">댓글로 한마디 남기기</string>
+    <string name="cm_string_comment_more">댓글 더보기</string>
+    <string name="cm_string_common_active">Active</string>
+    <string name="cm_string_common_adult_check">성인인증하기</string>
+    <string name="cm_string_common_adult_check_retry">"성인인증
+재시도"</string>
+    <string name="cm_string_common_apply">적용</string>
+    <string name="cm_string_common_book_mark">나중에 보기</string>
+    <string name="cm_string_common_cancel">취소</string>
+    <string name="cm_string_common_close">Close</string>
+    <string name="cm_string_common_latest">최신순</string>
+    <string name="cm_string_common_like">좋아요</string>
+    <string name="cm_string_common_login">로그인</string>
+    <string name="cm_string_common_more">더보기</string>
+    <string name="cm_string_common_ok">확인</string>
+    <string name="cm_string_common_sympathy">공감순</string>
+    <string name="cm_string_ending_cancel_like">공감을 취소하였습니다.</string>
+    <string name="cm_string_ending_del">해당 댓글을 삭제하시겠습니까?</string>
+    <string name="cm_string_ending_do_like">공감 하였습니다</string>
+    <string name="cm_string_ending_empty">내용을 입력해주세요</string>
+    <string name="cm_string_ending_input">해당 내용으로 댓글을 등록하시겠습니까?</string>
+    <string name="cm_string_ending_modify">해당 댓글을 현재 입력한 내용으로 수정하시겠습니까?</string>
+    <string name="cm_string_ending_no_comment1">댓글 1등의 주인공은 바로 당신!</string>
+    <string name="cm_string_ending_no_comment2">댓글로 한마디 남기기</string>
+    <string name="cm_string_ending_report">해당 댓글을 신고하시겠습니까?</string>
+    <string name="cm_string_ending_report_input_reason">신고사유를 입력해주세요</string>
+    <string name="cm_string_ending_report_reason_eight">기타</string>
+    <string name="cm_string_ending_report_reason_five">인신 공격이나 명예훼손</string>
+    <string name="cm_string_ending_report_reason_four">타인에 대한 욕설이나 비방</string>
+    <string name="cm_string_ending_report_reason_one">음란성 내용이나 링크</string>
+    <string name="cm_string_ending_report_reason_seven">개인정보 유출</string>
+    <string name="cm_string_ending_report_reason_six">폭력 또는 사행심 조장</string>
+    <string name="cm_string_ending_report_reason_three">불법 정보 유출</string>
+    <string name="cm_string_ending_report_reason_two">상업적 광고, 싸이트 홍보</string>
+    <string name="cm_string_ending_report_title">신고하기</string>
+    <string name="cm_string_fhd_quality">FHD화질</string>
+    <string name="cm_string_hd_quality">HD화질</string>
+    <string name="cm_string_high_quality">고화질</string>
+    <string name="cm_string_label_left_menu_ch_madi">ch_madi</string>
+    <string name="cm_string_low_quality">저화질</string>
+    <string name="cm_string_main_day_like_text">콘텐츠가 일간인기순으로 정렬되었습니다.</string>
+    <string name="cm_string_main_series">시리즈</string>
+    <string name="cm_string_main_title">M2</string>
+    <string name="cm_string_main_week_like_text">콘텐츠가 주간인기순으로 정렬되었습니다.</string>
+    <string name="cm_string_on_air">ON-AIR :</string>
+    <string name="cm_string_play_list_listen">플레이리스트 듣기</string>
+    <string name="cm_string_play_list_push">플레이리스트 담기</string>
+    <string name="cm_string_play_list_push_cancel">플레이리스트 담기 취소</string>
+    <string name="cm_string_popup_day_popular">일간인기순</string>
+    <string name="cm_string_popup_latest_popular">최신순</string>
+    <string name="cm_string_popup_more_align">정렬</string>
+    <string name="cm_string_popup_more_book_mark_list">나중에 보기 목록</string>
+    <string name="cm_string_popup_more_like_list">좋아요 목록</string>
+    <string name="cm_string_popup_no_bookmark_list">나중에 보기 한 콘텐츠가 없습니다.</string>
+    <string name="cm_string_popup_no_like_list">좋아요 한 콘텐츠가 없습니다.</string>
+    <string name="cm_string_popup_toast_book_mark_delete">"해당 콘텐츠를
+나중에 보기 목록에서
+제거했습니다."</string>
+    <string name="cm_string_popup_toast_book_mark_insert">"해당 콘텐츠를
+나중에 보기 목록에
+추가했습니다."</string>
+    <string name="cm_string_popup_toast_like_delete">"'좋아요'
+취소 하였습니다"</string>
+    <string name="cm_string_popup_toast_like_insert">"'좋아요'
+하였습니다"</string>
+    <string name="cm_string_popup_week_popular">주간인기순</string>
+    <string name="cm_string_recommend_content">추천 컨텐츠</string>
+    <string name="cm_string_relation_contents">관련 컨텐츠</string>
+    <string name="cm_string_reply">답글(%s)</string>
+    <string name="cm_string_represent_listen">대표곡 듣기</string>
+    <string name="cm_string_search_no_result">"검색결과가 없습니다
+다른 키워드로 검색해 보세요"</string>
+    <string name="cm_string_search_result_title">총 %s건의 콘텐츠가 검색 되었습니다.</string>
+    <string name="cm_string_share_chmadi">[엠넷닷컴] %1$s</string>
+    <string name="cm_string_song_info_show">곡 정보 자세히</string>
+    <string name="cm_string_sympathy_bracket_ps">공감(%s)</string>
+    <string name="cm_string_vote_action">투표하기</string>
+    <string name="cm_string_vote_action_wave">투표하러 가기</string>
+    <string name="cm_string_vote_day_ps1_ps2">투표기간 : %1$s ~ %2$s</string>
+    <string name="cm_string_vote_must_one_guide">투표는 1 아이디당 1회 가능합니다.</string>
+    <string name="cm_string_vote_need_selected">투표할 후보를 선택해주세요.</string>
+    <string name="cm_string_vote_result_selected">해당 후보로 투표 완료하였습니다.</string>
+    <string name="com.crashlytics.android.build_id">4d43f7dd-eb58-4b11-a563-3d25debe9aff</string>
+    <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
+    <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_like_button_liked">Liked</string>
+    <string name="com_facebook_like_button_not_liked">Like</string>
+    <string name="com_facebook_loading">Loading…</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_loginview_log_in_button">Log in</string>
+    <string name="com_facebook_loginview_log_in_button_continue">Continue with Facebook</string>
+    <string name="com_facebook_loginview_log_in_button_long">Log in with Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="com_facebook_send_button_text">Send</string>
+    <string name="com_facebook_share_button_text">Share</string>
+    <string name="com_facebook_smart_device_instructions">To connect your account, open the Facebook app on your mobile device and check for notifications.</string>
+    <string name="com_facebook_smart_device_instructions_or">- OR -</string>
+    <string name="com_facebook_smart_login_confirmation_cancel">Not you?</string>
+    <string name="com_facebook_smart_login_confirmation_continue_as">Continue as %1$s</string>
+    <string name="com_facebook_smart_login_confirmation_title">Confirm Login</string>
+    <string name="com_facebook_tooltip_default">"You're in control - choose what info you want to share with apps."</string>
+    <string name="com_kakao_account_cancel">Cancel</string>
+    <string name="com_kakao_alert_appKey">need to declare com.kakao.sdk.AppKey in your AndroidManifest.xml</string>
+    <string name="com_kakao_alert_install_kakaotalk">There is no installed KakaoTalk version higher than 4.2.0</string>
+    <string name="com_kakao_cancel_button">Cancel</string>
+    <string name="com_kakao_confirm_logout">Are you sure to log out from this app?</string>
+    <string name="com_kakao_confirm_unlink">Are you sure to unlink from this app?</string>
+    <string name="com_kakao_kakaostory_account">with KakaoStory</string>
+    <string name="com_kakao_kakaotalk_account">with KakaoTalk</string>
+    <string name="com_kakao_login_button">Log in with KakaoAccount</string>
+    <string name="com_kakao_logout_button">Log out</string>
+    <string name="com_kakao_ok_button">OK</string>
+    <string name="com_kakao_other_kakaoaccount">with another KakaoAccount</string>
+    <string name="com_kakao_profile_nickname">Nickname</string>
+    <string name="com_kakao_profile_userId">Kakao User ID</string>
+    <string name="com_kakao_unlink_button">Unlink</string>
+    <string name="comment_list_empty_text_1">댓글이 없습니다.</string>
+    <string name="comment_list_empty_text_2">첫 댓글의 주인공이 되어보세요.</string>
+    <string name="comment_text">댓글</string>
+    <string name="common_google_play_services_api_unavailable_text">%1$s requires one or more Google Play services that are not currently available. Please contact the developer for assistance.</string>
+    <string name="common_google_play_services_enable_button">Enable Google Play services</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Get Google Play services</string>
+    <string name="common_google_play_services_install_text_phone">"%1$s won't run without Google Play services, which are missing from your phone."</string>
+    <string name="common_google_play_services_install_text_tablet">"%1$s won't run without Google Play services, which are missing from your tablet."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
+    <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
+    <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
+    <string name="common_google_play_services_network_error_title">Network Error</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_resolution_required_text">Please complete action required by %1$s.</string>
+    <string name="common_google_play_services_resolution_required_title">Google Play services requires an action</string>
+    <string name="common_google_play_services_restricted_profile_text">Accessing accounts from a restricted profile is not supported.</string>
+    <string name="common_google_play_services_restricted_profile_title">Restricted Profile</string>
+    <string name="common_google_play_services_sign_in_failed_text">Error signing in the specified account. Please choose a different account.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Sign in failed</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. If the problem persists, please contact the developer for assistance.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s relies on Google Play services, which is not supported by your device. Contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_updating_title">Google Play services are updating</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_pg_slideingtext_count">&lt;font color=#FF666666>%1$s&lt;/font> &lt;font color=#888888>%2$s&lt;/font></string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="common_top_title_count">&lt;font color=#000000>%1$s&lt;/font> &lt;font color=#E40076>%2$d&lt;/font></string>
+    <string name="compose_popular">작곡의 인기곡</string>
+    <string name="copy_to_clipboard">클립보드에 복사되었습니다.</string>
+    <string name="copy_to_clipboard_source">출처 : 엠넷닷컴</string>
+    <string name="copyright_noti_message">"이 곡은 사용 계약 협의 중입니다.
+담당자에게 고객님의 마음이 전달되었으며, 빠르게 서비스될 수 있도록 최선을 다하겠습니다."</string>
+    <string name="copyright_noti_message_video">"이 영상은 사용 계약 협의 중입니다.
+담당자에게 고객님의 마음이 전달되었으며, 빠르게 서비스될 수 있도록 최선을 다하겠습니다."</string>
+    <string name="core_com_kakao_sdk_loading">Loading…</string>
+    <string name="count">개</string>
+    <string name="creator">제작자</string>
+    <string name="creator_new">제작자 ·</string>
+    <string name="curataion_playgroup_music_styler">뮤직스타일러</string>
+    <string name="curataion_playgroup_popular_creator_list">인기 제작자</string>
+    <string name="curataion_playgroup_public_playlist">공개 플레이리스트</string>
+    <string name="curataion_playgroup_tvmusic">TV 음악</string>
+    <string name="curataion_select_max">테마는 총 3개까지 선택할 수 있습니다</string>
+    <string name="curation">큐레이션</string>
+    <string name="curation_celeb">스타추천</string>
+    <string name="curation_fine_theme_message">플레이리스트, 테마와 만나다!</string>
+    <string name="curation_fine_theme_title">"테마는 총 3개까지 선택할 수 있습니다
+선택한 테마는 재클릭하면 변경가능해요"</string>
+    <string name="curation_fine_theme_title_top">플레이리스트, 테마와 만나다!</string>
+    <string name="curation_mtune_title">나만을 위한 맞춤 추천 라디오!</string>
+    <string name="curation_period">시대별 추천</string>
+    <string name="curation_tvmusic">TV음악</string>
+    <string name="debut">데뷔</string>
+    <string name="delete">삭제</string>
+    <string name="detail_album">앨범 정보</string>
+    <string name="detail_album_comment_input_hint_text">댓글을 입력해주세요.</string>
+    <string name="detail_album_more">더보기</string>
+    <string name="detail_album_report">오류신고</string>
+    <string name="detail_album_request">서비스 신청</string>
+    <string name="detail_album_review">앨범 리뷰</string>
+    <string name="detail_album_review_input_hint_text">댓글을 입력해주세요.</string>
+    <string name="detail_album_review_register_text">등록</string>
+    <string name="detail_artist">아티스트 정보</string>
+    <string name="detail_artist_review">아티스트 리뷰</string>
+    <string name="detail_artist_song_domaincd_compose">작곡</string>
+    <string name="detail_artist_song_domaincd_join">참여</string>
+    <string name="detail_artist_song_domaincd_relese">발매</string>
+    <string name="detail_artist_song_domaincd_write">작사</string>
+    <string name="detail_artist_song_list_compose">작곡한 곡</string>
+    <string name="detail_artist_song_list_join">참여한 곡</string>
+    <string name="detail_artist_song_list_release">발매한 곡</string>
+    <string name="detail_artist_song_list_write">작사한 곡</string>
+    <string name="detail_content_function_playlist_radio">플레이리스트 듣기</string>
+    <string name="detail_content_function_radio">유사곡 라디오</string>
+    <string name="detail_content_function_radio_artist">인기곡 라디오</string>
+    <string name="detail_content_function_radio_song">유사곡 라디오</string>
+    <string name="detail_content_more_album_add">앨범 담기</string>
+    <string name="detail_content_more_album_photo">앨범 아트 보기</string>
+    <string name="detail_content_more_comment">댓글(%1$s)</string>
+    <string name="detail_content_more_edit">수정하기</string>
+    <string name="detail_content_more_share">공유하기</string>
+    <string name="detail_content_more_song_add">곡 담기</string>
+    <string name="detail_content_more_song_download">다운로드</string>
+    <string name="detail_content_more_star">별점</string>
+    <string name="detail_content_more_title">더보기</string>
+    <string name="detail_content_more_video_add">영상 담기</string>
+    <string name="detail_song">곡 정보</string>
+    <string name="detail_song_add_completed">선택하신 %1$d곡을 Now Playing에서 재생합니다.</string>
+    <string name="detail_song_arrangement">편곡</string>
+    <string name="detail_song_composition">작곡</string>
+    <string name="detail_song_genre">장르</string>
+    <string name="detail_song_lyricist">작사</string>
+    <string name="detail_song_lyrics">가사</string>
+    <string name="detail_song_review">곡 리뷰</string>
+    <string name="detail_song_similar_song_1">이 곡과 비슷한 스타일의</string>
+    <string name="detail_song_similar_song_2">을 들어보세요!</string>
+    <string name="detail_song_this_artist">이 곡의 아티스트</string>
+    <string name="detail_song_this_mood">곡 분위기</string>
+    <string name="detail_song_this_song_album">이 곡이 수록된 앨범</string>
+    <string name="detail_video">영상 정보</string>
+    <string name="detail_video_other_clip_count">이 곡이 들어간 다른 영상</string>
+    <string name="detail_video_review">영상 리뷰</string>
+    <string name="detail_video_same_artist_mv_count">같은 가수의 뮤직비디오</string>
+    <string name="detail_video_same_genre_mv_count">같은 장르의 뮤직비디오</string>
+    <string name="device_agree_duration">보유기간 :</string>
+    <string name="device_agree_duration_msg"> 회원탈퇴 후 30일까지</string>
+    <string name="device_agree_purpose">목적 :</string>
+    <string name="device_agree_purpose_msg"> Mnet 다운로드 기기 등록</string>
+    <string name="device_agree_sub_msg">"고객님의 소중한 정보는 암호화 되어 외부에
+제공되지 않으며, 서비스 제공 이외에 사용되지 않습니다."</string>
+    <string name="device_agree_title">"Mnet 서비스 사용을 위해
+기기 고유정보 이용 동의 해주세요"</string>
+    <string name="device_agree_type">항목 :</string>
+    <string name="device_agree_type_msg"> 단말식별번호</string>
+    <string name="device_disreg_download_cancel_confirm">"현재 다운로드가 진행중입니다.
+ 삭제하시면 현재 다운로드중인 곡과 대기중인 곡들은 다운로드가 취소됩니다.
+ 삭제하시겠습니까?"</string>
+    <string name="deviceid_empty_message">"기기정보가 불확실 합니다. 
+기기 리부팅 후 시도해 주세요."</string>
+    <string name="dgts__call_me">Call me</string>
+    <string name="dgts__calling">Calling…</string>
+    <string name="dgts__confirmation_code">Confirmation code</string>
+    <string name="dgts__confirmation_edit_hint">Enter confirmation code</string>
+    <string name="dgts__confirmation_error">Unable to confirm your phone number</string>
+    <string name="dgts__confirmation_error_alternative">Sorry, we are having trouble sending you a confirmation code.</string>
+    <string name="dgts__confirmation_expired">This code has expired. Please resend confirmation code.</string>
+    <string name="dgts__continue">Continue</string>
+    <string name="dgts__country_spinner_format">%1$s +%2$d</string>
+    <string name="dgts__digits_logo_desc">digits logo icon</string>
+    <string name="dgts__digits_logo_name_desc">digits logo name</string>
+    <string name="dgts__dismiss">Dismiss</string>
+    <string name="dgts__done">Done</string>
+    <string name="dgts__email_request_edit_hint">Email address</string>
+    <string name="dgts__email_request_title">Enter email address</string>
+    <string name="dgts__find_your_friends">Find your friends</string>
+    <string name="dgts__image_header_description">Image header for login</string>
+    <string name="dgts__invalid_email">Invalid Email. Try Again</string>
+    <string name="dgts__login_digits_text">Use my phone number</string>
+    <string name="dgts__network_error">Please check your network and try again.</string>
+    <string name="dgts__not_now">Not now</string>
+    <string name="dgts__okay">Okay</string>
+    <string name="dgts__phone_number_edit_hint">Your Number</string>
+    <string name="dgts__phone_number_text">Enter your phone number</string>
+    <string name="dgts__pin_code_verification_title">Enter 2-step verification code</string>
+    <string name="dgts__resend_confirmation_text">Resend confirmation code</string>
+    <string name="dgts__sending">Sending…</string>
+    <string name="dgts__success_desc">Success Icon</string>
+    <string name="dgts__terms_email_request">By tapping %1$sContinue%1$s you are adding this email to your Digits account. All your apps authenticated with Digits will have access to this email address, and their users will be able to discover you by email. Manage your account on %2$sDigits.com%3$s.</string>
+    <string name="dgts__terms_text">By tapping %1$sContinue%1$s above, %2$sDigits by Twitter%3$s will send you an SMS message to confirm your phone number. Message &amp; data rates may apply.</string>
+    <string name="dgts__terms_text_call_me">By tapping %1$sCall me%1$s above, %2$sDigits by Twitter%3$s will send you a voice call to confirm your phone number. Call &amp; data rates may apply.</string>
+    <string name="dgts__terms_text_create">By tapping %1$sContinue%1$s above, you agree to the %2$sTerms of Service%3$s, %2$sPrivacy Policy%3$s, and %2$sCookies Policy%3$s of Digits by Twitter, and that other users of this app can discover you by phone number and/or email.</string>
+    <string name="dgts__terms_text_sign_in">By tapping %1$sContinue%1$s above, you agree to the updated %2$sTerms of Service%3$s, %2$sPrivacy Policy%3$s, and %2$sCookies Policy%3$s of Digits by Twitter, and that other users of %1$s can discover you by phone number and/or email.</string>
+    <string name="dgts__try_again">Try Again</string>
+    <string name="dgts__try_again_confirmation">Please check your code and try again.</string>
+    <string name="dgts__try_again_email">Please check your email and try again</string>
+    <string name="dgts__try_again_phone_number">Please check your number and try again.</string>
+    <string name="dgts__try_another_phone">Try a different phone number</string>
+    <string name="dgts__unsupported_operator_error">Unable to send this number an SMS message.</string>
+    <string name="dgts__upload_contacts">"We use Digits by Twitter to find more of your friends who use this app. When you tap Okay, we'll upload your address book to Digits by Twitter so that we can help you find users of %1$s that you know or help other users of %1$s find you."</string>
+    <string name="dgts__verification_code">Verification code</string>
+    <string name="dgts_pin_code_terms">You have previously set a 2-step verification code on digits.com</string>
+    <string name="downalod_cdq_pay_info">"결제가 필요한 경우, 다운로드 전에 먼저 결제가 진행됩니다.
+계속 진행하시겠습니까?"</string>
+    <string name="download_all_cancel_mag">진행중인 다운로드를 모두 취소하시겠습니까?</string>
+    <string name="download_auto_download_alert">기기 메모리 잔여 용량이 10% 이하 입니다. 메모리 관리 후 다시 선택 해주세요.</string>
+    <string name="download_cdq_check">다운로드 확인</string>
+    <string name="download_cdq_count_message">선택하신 곡 중 CDQ로 다운로드 받을 수 있는 곡은 %1$d곡 입니다. %2$d곡을 CDQ로 다운 받으시겠습니까?</string>
+    <string name="download_cdq_limit_add_over">CDQ음원 다운로드는 한번에 최대 20개 까지만 가능합니다.</string>
+    <string name="download_cdq_not_enable_device_version">HoneyComb 3.1 미만 버전에서는 CDQ를 다운로드할 수 없습니다. OS를 업데이트 해 주세요.</string>
+    <string name="download_cdq_not_exist">결제를 진행할 CDQ음원이 존재하지 않습니다.</string>
+    <string name="download_cdq_pay_failed">[%1$s] CDQ 결제를 실패했습니다.</string>
+    <string name="download_cdq_payment">CDQ 음원 결재</string>
+    <string name="download_cdq_payment_failed">CDQ음원 결제를 실패했습니다.</string>
+    <string name="download_cdq_price">%1$d원</string>
+    <string name="download_cdq_tstore_iap_title">%1$s외 %2$d곡</string>
+    <string name="download_control_cancel">다운로드 취소</string>
+    <string name="download_control_delete">삭제</string>
+    <string name="download_control_order">우선 다운로드</string>
+    <string name="download_copyright_noti_message">"이 곡은 사용 계약 협의 중으로 현재 다운로드가 불가합니다.
+담당자에게 고객님의 마음이 전달되었으며, 서비스될 수 있도록 최선을 다하겠습니다"</string>
+    <string name="download_copyright_noti_message_all">"저작권 협의 음원, 19세 금지곡, 
+로컬 음원을 선택하여 다운로드가 불가합니다.
+다른 음원을 선택해 주세요."</string>
+    <string name="download_disable">다운로드불가</string>
+    <string name="download_empty_list_alert_pay">"특정 음질 미제공 음원, 저작권 협의 음원, 19세 금지곡, 로컬 음원을 선택하여 다운로드가 불가능합니다. 
+다른 음원을 선택해 주세요."</string>
+    <string name="download_empty_list_toast_pay">저작권 협의 음원, 19세 금지곡, 로컬 음원 %1$d곡은 다운로드에서 자동 제외 되었습니다.</string>
+    <string name="download_empty_select_list_alert">다운로드 할 곡을 선택해주세요</string>
+    <string name="download_error_message_mix">19금 음원 ,로컬음원은 다운로드가 제한 됩니다.</string>
+    <string name="download_error_message_only_adult_over">"이 컨텐츠는 청소년 보호법규정에 따라 19세 미만의 청소년이 다운로드 할 수 없는 컨텐츠입니다.
+성인인증 후 이용할 수 있습니다."</string>
+    <string name="download_error_message_only_adult_under">이 컨텐츠는 청소년 보호법규정에 따라 19세 미만은 다운로드 할 수 없는 음악입니다.</string>
+    <string name="download_error_message_only_local">로컬음원은 다운로드가 제한 됩니다.</string>
+    <string name="download_item_cancel_mag">선택하신 곡의 다운로드가 취소되고 진행중인 파일이 삭제됩니다. 계속하시겠습니까?</string>
+    <string name="download_item_empty_mag">다운로드 가능한 곡이 없습니다.</string>
+    <string name="download_list_count_label">X%1$s</string>
+    <string name="download_maq_limit_add_over">MAQ음원 다운로드는 한번에 최대 20개 까지만 가능합니다.</string>
+    <string name="download_maq_payment">MAQ 음원 결재</string>
+    <string name="download_message_only_local">로컬음원은 다운로드 하실수 없습니다.</string>
+    <string name="download_mp3_fail_create_folder">"죄송합니다. 폴더 생성을 실패하였습니다. 
+잠시 후 다시 시도해 주세요. 
+문제가 지속될 경우 화면캡쳐와 함께 고객센터로 문의해 주세요."</string>
+    <string name="download_mp3_path">SD카드가 없습니다.</string>
+    <string name="download_mp3_payment">MP3 음원 결재</string>
+    <string name="download_msg_cancel">다운로드가 취소 되었습니다.</string>
+    <string name="download_msg_fail">다운로드가 실패하였습니다.</string>
+    <string name="download_msg_logout">엠넷에서 로그아웃되어 다운로드가 중단되었습니다. 재로그인시 프로필 > 곡 구매 내역에서 다시 다운로드가 가능합니다.</string>
+    <string name="download_msg_noti_title_cancel">다운로드 중단</string>
+    <string name="download_msg_noti_title_complate">다운로드 완료</string>
+    <string name="download_msg_noti_title_ing">다운로드 진행중</string>
+    <string name="download_msg_start">%1$d곡이 다운로드 진행됩니다.</string>
+    <string name="download_msg_text_type_1">완료된 곡은 보관함에서 확인 가능합니다.</string>
+    <string name="download_msg_text_type_2">확인후 다시시도해주세요.</string>
+    <string name="download_msg_text_type_3">다운로드 진행 중인 곡이 없습니다.</string>
+    <string name="download_msg_text_type_4">총 %1$d곡 중 %2$d 곡이 다운로드 완료되었습니다</string>
+    <string name="download_msg_text_type_5">저장공간 용량을 확인해 주세요.</string>
+    <string name="download_msg_title_type_1">다운로드가 완료 되었습니다.</string>
+    <string name="download_msg_title_type_2">일부곡이 다운로드에 실패했습니다.</string>
+    <string name="download_msg_title_type_3">"네트워크 불안정으로 다운로드가 중지되었습니다.
+네트워크 연결상태 확인 후 다시 시도해주세요."</string>
+    <string name="download_msg_title_type_4">"기기의 저장공간이 부족하여 다운로드가 중지되었습니다.
+저장공간을 확보하신 후 다시 시도해주세요."</string>
+    <string name="download_msg_title_type_5">다운로드가 일시 중지되었습니다.</string>
+    <string name="download_msg_title_type_6">자동 다운로드 설정 해제</string>
+    <string name="download_msg_title_type_7">다운로드 가능한 공간 부족</string>
+    <string name="download_no_item_btn_text">라이브러리로 바로가기</string>
+    <string name="download_no_item_text1">다운로드 대기 중인 곡이 없습니다.</string>
+    <string name="download_no_item_text2">다운로드한 곡은 라이브러리에서</string>
+    <string name="download_no_item_text3">확인해 보세요.</string>
+    <string name="download_pay_fail_msg">결제가 실패하였습니다.</string>
+    <string name="download_select_title">다운로드 선택</string>
+    <string name="download_ticket_count_label">%1$s건</string>
+    <string name="download_ticket_count_zero">"이용권이 모두 소진되어 다운로드가 불가능합니다.
+추가이용권을 구매해 주세요."</string>
+    <string name="download_ticket_free">무료</string>
+    <string name="download_ticket_message_label_1">보유이용권</string>
+    <string name="download_ticket_message_label_2">잔여 다운로드 이용권</string>
+    <string name="download_ticket_message_label_3">이용권 차감</string>
+    <string name="download_ticket_message_payment_label_1">결제할 곡</string>
+    <string name="download_ticket_message_payment_label_2">결제 금액</string>
+    <string name="download_ticket_message_payment_label_3">결제방식</string>
+    <string name="download_ticket_money_label">%1$s원</string>
+    <string name="download_ticket_money_label_lgt">요금 청구서 내 합산</string>
+    <string name="download_ticket_money_label_pay">개별결제</string>
+    <string name="download_ticket_none">다운로드 이용권 없음</string>
+    <string name="download_ticket_redownload">재 다운로드</string>
+    <string name="download_ticket_tab_label_0">전체 %1$d곡</string>
+    <string name="download_ticket_tab_label_1">전체 %1$d</string>
+    <string name="download_ticket_tab_label_2">무료 %1$d</string>
+    <string name="download_ticket_tab_label_3">재 다운로드 %1$d</string>
+    <string name="download_ticket_tab_label_4">다운로드 불가 %1$d</string>
+    <string name="download_ticket_total_money_label_lgt">(부가세 10%별도)</string>
+    <string name="download_ticket_unlimit">"무제한 다운로드 이용권을 보유중입니다.
+다운로드가 가능합니다."</string>
+    <string name="download_title">다운로드</string>
+    <string name="download_toast_message_mix">"19금 음원 ,로컬음원은 다운로드가 제한 됩니다.
+해당음원을 제외한 나머지 음원을 다운로드 합니다."</string>
+    <string name="download_tstore_telecom_type_unknow">"결제가능한 통신사정보를 찾을수가 없습니다.
+ 3G네트웍을 확인해 주세요."</string>
+    <string name="download_type_cdq">CDQ(16bit)</string>
+    <string name="download_type_cdq_title">CDQ다운로드</string>
+    <string name="download_type_drm_mr">스마트폰 전용</string>
+    <string name="download_type_drm_mr_title">스마트폰 전용 다운로드</string>
+    <string name="download_type_lgt_drm">LGT DRM</string>
+    <string name="download_type_lgt_drm_title">DRM다운로드</string>
+    <string name="download_type_lgt_limit_alert">한 번에 %1$d곡 까지만 다운로드하실수 있습니다.다운로드하실 곡을 다시 선택해주세요.</string>
+    <string name="download_type_lgt_mp3">MP3(청구서 결제)</string>
+    <string name="download_type_lgt_mp3_title">MP3다운로드</string>
+    <string name="download_type_maq">MAQ(24bit)</string>
+    <string name="download_type_maq_title">MAQ다운로드</string>
+    <string name="download_type_mp3">MP3(이용권)</string>
+    <string name="download_type_mp3_title">MP3다운로드</string>
+    <string name="download_type_pay_mp3">MP3(개별결제)</string>
+    <string name="download_type_pay_mp3_title">MP3다운로드</string>
+    <string name="download_universal_noti">추가 이용권 차감 곡이 포함되어 있습니다. 권리사 요청에 따라 최대 2건의 추가 다운로드 이용권 차감이 발생할 수 있습니다.</string>
+    <string name="drm_error_install_fail">"DRM 연장 중 오류가 발생 하였습니다 
+해당음원을 다시 다운로드 해주세요"</string>
+    <string name="drm_error_message_A1">"로그인후 재생 할수있습니다.
+ 음원을 다운로드 받으신 ID로 로그인 하시겠습니까?"</string>
+    <string name="drm_error_message_A2">"로그인후 재생 할수있습니다.
+ 온라인 상태에서 음원을 다운로드 받으신 ID로 로그인 해주세요."</string>
+    <string name="drm_error_message_B1">"고객님, 이용권이 아직 없으시군요!
+엠넷닷컴 이용권을 구매하시고 즐거운 음악생활을 시작해보는건 어떠세요?"</string>
+    <string name="drm_error_message_B4">"고객님, 이용권이 아직 없으시군요!
+엠넷닷컴 이용권을 구매하시고 즐거운 음악생활을 시작해보는건 어떠세요?"</string>
+    <string name="drm_error_message_C1">"사용중인 아이디가 디바이스 인증을 하지 않았습니다.
+ 스트리밍으로 전환 합니다."</string>
+    <string name="drm_error_message_C2">"사용중인 아이디가 디바이스 인증을 하지 않았습니다.
+ 온라인 상태에서 디바이스를 인증해주세요."</string>
+    <string name="drm_error_message_D10">"고객님, 파일이 손상되어 음원을 정상적으로 재생할 수 없습니다.
+ 번거로우시겠지만 재 다운로드 후 이용해주세요."</string>
+    <string name="drm_error_message_D11">"이 음악은 파일이 손상되어 재생할 수 없습니다.
+ 다시 다운로드 해주세요."</string>
+    <string name="drm_error_message_D12">"고객님, 파일이 손상되어 음원을 정상적으로 재생할 수 없습니다.
+ 번거로우시겠지만 재 다운로드 후 이용해주세요."</string>
+    <string name="drm_error_message_D13">"이 음악은 파일이 손상되어 재생할 수 없습니다.
+ 다시 다운로드 해주세요."</string>
+    <string name="drm_error_message_D14">"고객님, 파일이 손상되어 음원을 정상적으로 재생할 수 없습니다.
+ 번거로우시겠지만 재 다운로드 후 이용해주세요."</string>
+    <string name="drm_error_message_D15">"%1$s음원 이용 권한이 없습니다.
+ 다른 디바이스에서 다운로드 받은 파일입니다."</string>
+    <string name="drm_error_message_D16">"이 음악은 파일이 손상되어 재생할 수 없습니다. 
+다시 다운로드 해주세요."</string>
+    <string name="drm_error_message_D17">"고객님, 파일이 손상되어 음원을 정상적으로 재생할 수 없습니다.
+ 번거로우시겠지만 재 다운로드 후 이용해주세요."</string>
+    <string name="drm_error_message_D18">"%1$s 음원 이용 권한이 없습니다.
+ %2$s 음원을 다운로드 받으신 ID로 로그인 하시겠습니까?"</string>
+    <string name="drm_error_message_D19">"%1$s 음원 이용 권한이 없습니다.
+ 온라인 상태에서 %2$s 음원을 다운로드 받으신 ID로 로그인 해주세요."</string>
+    <string name="drm_error_message_D2">"%1$s 음원 이용 권한이 없습니다.
+ 라이센스가 유효하지 않습니다."</string>
+    <string name="drm_error_message_D20">이 음악은 파일이 존재하지 않아 스트리밍으로 전환 합니다.</string>
+    <string name="drm_error_message_D21">"이 음악은 파일이 존재하지 않아 재생할 수 없습니다.
+ 온라인 상태에서 다시 다운로드 해주세요."</string>
+    <string name="drm_error_message_D5">"고객님, 파일이 손상되어 음원을 정상적으로 재생할 수 없습니다.
+ 번거로우시겠지만 재 다운로드 후 이용해주세요."</string>
+    <string name="drm_error_message_D6">"고객님, 파일이 손상되어 음원을 정상적으로 재생할 수 없습니다.
+ 번거로우시겠지만 재 다운로드 후 이용해주세요."</string>
+    <string name="drm_error_message_D7">"이 음악은 파일이 손상되어 재생할 수 없습니다.
+ 다시 다운로드 해주세요."</string>
+    <string name="drm_error_message_D8">"고객님, 파일이 손상되어 음원을 정상적으로 재생할 수 없습니다.
+ 번거로우시겠지만 재 다운로드 후 이용해주세요."</string>
+    <string name="drm_error_message_D9">"이 음악은 파일이 손상되어 재생할 수 없습니다.
+ 다시 다운로드 해주세요."</string>
+    <string name="drm_error_message_E1">"스마트폰 전용 이용권 사용기간이 만료되었습니다.
+ 이용권을 재구매하시면 다시 감상 하실 수 있습니다."</string>
+    <string name="drm_error_message_E2">"스마트폰 전용 이용권 사용기간이 만료되었습니다.
+ 온라인 상태에서 이용권을 재구매해주세요."</string>
+    <string name="drm_error_message_E3">이 음악은 사용기간이 만료된 곡입니다. 이 파일을 재생하시려면 스마트폰 전용 이용권 차감이 필요합니다. 차감하시겠습니까?</string>
+    <string name="drm_error_message_E4">이 음악은 사용기간이 만료된 곡입니다. 온라인 상태에서 해당 곡의 이용기간을 갱신하셔야 합니다.</string>
+    <string name="drm_error_message_E5">스마트폰 전용 이용권 1건 차감되었습니다. 이 음악의 이용기간이 갱신되었습니다.</string>
+    <string name="drm_error_message_E6">스마트폰 전용 이용권 차감에 실패하여 재생할 수 없습니다. 모바일 보관함 (스마트)에서 직접 이용기간을 갱신해주세요.</string>
+    <string name="drm_error_message_ETC">"파일이 손상되어 재생할 수 없습니다. 
+다시 한번 다운로드 후 이용해 주세요."</string>
+    <string name="drm_error_message_F1">"스마트폰 전용 이용권 사용기간이 만료되었습니다.
+ 이용권을 재구매하시면 다시 감상 하실 수 있습니다."</string>
+    <string name="drm_error_message_F2">"스마트폰 전용 이용권 사용기간이 만료되었습니다.
+ 온라인 상태에서 이용권을 재구매해주세요."</string>
+    <string name="drm_error_message_G1">"스마트Free 이용권 사용기간이 만료되었습니다.
+ 이용권을 재구매하시면 다시 감상 하실 수 있습니다."</string>
+    <string name="drm_error_message_G2">"스마트Free 이용권 사용기간이 만료되었습니다.
+ 온라인 상태에서 이용권을 재구매해주세요."</string>
+    <string name="drm_error_message_H1">"스마트Free 이용권이 없습니다. 
+ 스마트Free보다 업그레이드된 스마트폰 전용 이용권을 구입하시면 무제한 음악감상/무제한 다운로드/오프라인 음악감상이 가능합니다.
+스마트폰 전용 이용권을 구매하시겠습니까?"</string>
+    <string name="drm_error_message_H2">"스마트폰 전용 이용권이 없습니다. 
+ 이용권을 구매 하시겠습니까?"</string>
+    <string name="drm_error_message_LICENSE_OFFLINE">"이 음악은 파일의 라이센스가 만료 되었습니다.
+ 온라인 상태에서  재생 해 주세요."</string>
+    <string name="drm_error_message_LICENSE_ONLINE">"이 음악은 파일의 라이센스가 만료 되었습니다.
+ 라이센스업데이트가 정상적으로 이루어 지지 않았을 수 있습니다. 
+네트웍 상태를 확인 하신 후 다시 시도해  주세요."</string>
+    <string name="drm_error_message_N1">해당 기능은 온라인 상태에서만 사용이 가능합니다. 네트웍 상태를 체크해주세요.</string>
+    <string name="drm_error_message_N2">다른사용자아이디로 다운 받은 파일 입니다. 다운받은 사용자 아이디로 로그인 해주세요.</string>
+    <string name="drm_error_message_N3">"이용기간 연장에 실패 했습니다. 
+잠시후 다시 시도 해 주세요."</string>
+    <string name="drm_error_message_unlimit_expired">"스마트폰 다운로드 파일 유효기간이 만료되었습니다.
+해당 음원을 스트리밍으로 재생합니다."</string>
+    <string name="drm_error_title">스마트폰 다운로드 파일 재생 오류입니다.</string>
+    <string name="drm_install_success_message">스마트폰 다운로드 파일 유효기간이 갱신 완료되었습니다.</string>
+    <string name="drm_install_success_message_limit_pay">"스마트폰 다운로드 파일 유효기간이 갱신 완료되었습니다. 
+ 스마트폰 전용 이용권이 1회 차감됩니다."</string>
+    <string name="drm_product_name_mr">스마트폰 전용</string>
+    <string name="drm_product_name_smart_free">스마트Free</string>
+    <string name="drm_reg_device_cancel_message">"기기 등록이 취소 되었습니다.
+MP3 다운로드, 스마트폰 전용, 스마트Free 다운로드(재생) 시도 시 다시 기기 등록 가능합니다."</string>
+    <string name="drm_reg_device_confirm_check_agree">기기 정보 저장 동의</string>
+    <string name="drm_reg_device_confirm_check_agree_alert">기기 정보 저장 동의를 해주세요.</string>
+    <string name="drm_reg_device_confirm_message_1">"등록된 기기에서만 다운로드가 가능합니다.
+ 
+기기를 등록하시겠습니까?
+
+기기 등록 시 식별을 위한 휴대폰 번호 및 기기 정보가 서버에 저장되며, 등록 취소 즉시 삭제 됩니다."</string>
+    <string name="drm_reg_device_confirm_message_2">* 기기 등록 시 이전에 다운로드 된 스마트폰 전용, 스마트Free 음원은 삭제되며, 다운로드 된 MP3는 삭제되지 않습니다</string>
+    <string name="drm_session_create_fail">"오류가 발생했습니다.
+다시 한번 시도해주세요.(DRM Session 생성 실패)"</string>
+    <string name="empty_playlist_number_message">플레이리스트 번호가 없습니다.</string>
+    <string name="error_http_retry">죄송합니다. 네트워크 연결이 불안정 하여, 재시도 합니다. 잠시만 기다려주세요.(#http_retry_%1$s)</string>
+    <string name="error_request">오류 신고</string>
+    <string name="event">이벤트</string>
+    <string name="event_web_parameter" />
+    <string name="event_web_url">http://m.mnet.com/event/ongoing</string>
+    <string name="facebook">페이스북</string>
+    <string name="facebook_enm_app_id">204070852982419</string>
+    <string name="facebook_mnet_app_id">100654900097593</string>
+    <string name="fail_share">공유를 실패하였습니다.</string>
+    <string name="favorite_creator">인기 제작자</string>
+    <string name="favorite_off_toast">"'좋아요'를 취소
+하였습니다."</string>
+    <string name="favorite_on_toast">"'좋아요'
+하였습니다."</string>
+    <string name="floating_layout_artist_songname">%1$s - %2$s</string>
+    <string name="floating_layout_full_empty">&lt;등록된 가사가 없습니다.></string>
+    <string name="floating_layout_real_empty">&lt;전체 가사를 보려면 탭 해주세요.></string>
+    <string name="follow_add">구독</string>
+    <string name="follow_add_playlist_artist_message">선택하신 제작자의 플레이리스트를 구독하셨습니다.</string>
+    <string name="follow_add_playlist_theme_message">선택하신 테마의 플레이리스트를 구독하셨습니다.</string>
+    <string name="follow_delete">해지</string>
+    <string name="follow_delete_playlist_artist_message">선택하신 제작자의 플레이리스트를 구독 해지 하셨습니다.</string>
+    <string name="follow_delete_playlist_theme_message">선택하신 테마의 플레이리스트를 구독 해지 하셨습니다.</string>
+    <string name="follower_count">%1$s 명</string>
+    <string name="genre_classic">클래식</string>
+    <string name="genre_jpop">J-POP</string>
+    <string name="genre_korea">가요</string>
+    <string name="genre_music">장르별음악</string>
+    <string name="genre_ost">OST</string>
+    <string name="genre_pop">팝</string>
+    <string name="genre_rebirth">장르의 재탄생</string>
+    <string name="genre_rebirth_more">장르의 재탄생 더보기</string>
+    <string name="genre_total">종합</string>
+    <string name="go_to_hompage">홈페이지 바로가기</string>
+    <string name="goto_mobile_playlist">모바일 플레이리스트로 가기</string>
+    <string name="group">그룹</string>
+    <string name="hd_live">HD LIVE</string>
+    <string name="hd_live_clip">방송</string>
+    <string name="hd_live_musicvideo">뮤비</string>
+    <string name="hd_live_performance">공연</string>
+    <string name="hd_music">HD 뮤직</string>
+    <string name="hide">감추기</string>
+    <string name="home_curation_title">큐레이션</string>
+    <string name="home_exit_message">한번 더 누르면 엠넷닷컴을 빠져나갑니다.</string>
+    <string name="id">엠넷 / CJ One ID or 이메일</string>
+    <string name="id_password_find">아이디/비밀번호 찾기</string>
+    <string name="info_album_distribute">유통사</string>
+    <string name="info_album_genre">음악장르</string>
+    <string name="info_album_planing">기획사</string>
+    <string name="join_album">참여 앨범</string>
+    <string name="kakao">카카오</string>
+    <string name="kakao_app_key">b1f167dfff540bb005a9c26bcd67d587</string>
+    <string name="kakao_app_key_dev">aca6d9aec1906a9a28933f731e02195e</string>
+    <string name="kakao_host">kakaolink</string>
+    <string name="kakao_scheme">kakaob1f167dfff540bb005a9c26bcd67d587</string>
+    <string name="kakao_scheme_dev">kakaoaca6d9aec1906a9a28933f731e02195e</string>
+    <string name="kakaostory_host">kakaostory</string>
+    <string name="kakaostroy">카카오스토리</string>
+    <string name="kakaostroy_login_btn">카카오계정으로 로그인</string>
+    <string name="kakaotalk">카카오톡</string>
+    <string name="kakaotalk_btn_text">엠넷에서 감상하기</string>
+    <string name="kit_name">Twitter</string>
+    <string name="label_add">담기</string>
+    <string name="label_add_playlist">add_playlist</string>
+    <string name="label_album">album</string>
+    <string name="label_all">all</string>
+    <string name="label_all_listen">전체듣기</string>
+    <string name="label_artist">artist</string>
+    <string name="label_audio_more_link">more_link</string>
+    <string name="label_audio_player">music_player</string>
+    <string name="label_audio_player_effect_on">effecton</string>
+    <string name="label_audio_player_eq">music_player_eq</string>
+    <string name="label_audio_player_eq_on">on</string>
+    <string name="label_audio_player_like">like</string>
+    <string name="label_audio_player_lyrics">lyrics</string>
+    <string name="label_audio_player_more_link">more_link</string>
+    <string name="label_audio_player_timer">timer</string>
+    <string name="label_beacon_on">beacon_on</string>
+    <string name="label_bookletslide_player_on">bookletslide_player_on</string>
+    <string name="label_bookmark">bookmark</string>
+    <string name="label_ccm">ccm</string>
+    <string name="label_chart_daily">daily</string>
+    <string name="label_chart_mcountdown">mcountdown</string>
+    <string name="label_chart_now">now</string>
+    <string name="label_chart_weekly">weekly</string>
+    <string name="label_classical">classical</string>
+    <string name="label_comment">comment</string>
+    <string name="label_create">create</string>
+    <string name="label_curation_open_playlist">open_playlist</string>
+    <string name="label_curation_theme_item">theme_item</string>
+    <string name="label_detail">detail</string>
+    <string name="label_download">download</string>
+    <string name="label_download_history_cdq">cdq</string>
+    <string name="label_download_history_maq">maq</string>
+    <string name="label_download_history_mp3">mp3</string>
+    <string name="label_download_history_smart_only">smart_only</string>
+    <string name="label_drm_download_auto">auto</string>
+    <string name="label_drm_download_user">user</string>
+    <string name="label_facebook">facebook</string>
+    <string name="label_feed">feed</string>
+    <string name="label_find_account">find_account</string>
+    <string name="label_gracenote">gracenote</string>
+    <string name="label_help">help</string>
+    <string name="label_hot">hot</string>
+    <string name="label_image">image</string>
+    <string name="label_indie">indie</string>
+    <string name="label_info">info</string>
+    <string name="label_jazz">jazz</string>
+    <string name="label_join">join</string>
+    <string name="label_jpop">jpop</string>
+    <string name="label_kakaostory">kakaostory</string>
+    <string name="label_kakoatalk">kakoatalk</string>
+    <string name="label_korean_classical">korean_classical</string>
+    <string name="label_kpop">kpop</string>
+    <string name="label_left_menu_CDQ">CDQ</string>
+    <string name="label_left_menu_chart">chart</string>
+    <string name="label_left_menu_curation">curation</string>
+    <string name="label_left_menu_events">events</string>
+    <string name="label_left_menu_genre">genre</string>
+    <string name="label_left_menu_help">help</string>
+    <string name="label_left_menu_home">home</string>
+    <string name="label_left_menu_home_edit">home_edit</string>
+    <string name="label_left_menu_join">join</string>
+    <string name="label_left_menu_magazine">magazine</string>
+    <string name="label_left_menu_membership">membership</string>
+    <string name="label_left_menu_mnettv">mnettv</string>
+    <string name="label_left_menu_moremnet">moremnet</string>
+    <string name="label_left_menu_mytune">mytune</string>
+    <string name="label_left_menu_newmusic">newmusic</string>
+    <string name="label_left_menu_notice">notice</string>
+    <string name="label_left_menu_onair">onair</string>
+    <string name="label_left_menu_open_playlist">open_playlist</string>
+    <string name="label_left_menu_purchase">purchase</string>
+    <string name="label_left_menu_setting">setting</string>
+    <string name="label_left_menu_videoplayer">videoplayer</string>
+    <string name="label_library_playlis_action_click">click</string>
+    <string name="label_library_playlis_catagory">library</string>
+    <string name="label_library_playlis_label_drm">drm</string>
+    <string name="label_library_playlis_label_mp3">mp3</string>
+    <string name="label_library_playlis_screen">library</string>
+    <string name="label_like">like</string>
+    <string name="label_like_history">like_history</string>
+    <string name="label_like_history_album">album</string>
+    <string name="label_like_history_artist">artist</string>
+    <string name="label_like_history_musicstyler">musicstyler</string>
+    <string name="label_like_history_playlist">playlist</string>
+    <string name="label_like_history_song">song</string>
+    <string name="label_like_history_video">video</string>
+    <string name="label_listen_history">listen_history</string>
+    <string name="label_listen_mychart">mychart</string>
+    <string name="label_listen_recent_listen">recent_listen</string>
+    <string name="label_listen_recent_video">recent_video</string>
+    <string name="label_lock_player_on">lock_player_on</string>
+    <string name="label_login_facebook">facebook</string>
+    <string name="label_login_kakao">kakao</string>
+    <string name="label_login_twitter">twitter</string>
+    <string name="label_logout">logout</string>
+    <string name="label_mnet_tv_end_tv_program">end_tv_program</string>
+    <string name="label_mnet_tv_open_tv_program">open_tv_program</string>
+    <string name="label_mobile_playlist_screen">mobile_playlist</string>
+    <string name="label_more">더보기</string>
+    <string name="label_music_playlist_add">플레이리스트담기</string>
+    <string name="label_music_playlist_like_song">좋아요 한 곡</string>
+    <string name="label_music_playlist_like_video">좋아요 한 영상</string>
+    <string name="label_music_playlist_listen">플레이리스트듣기</string>
+    <string name="label_music_playlist_listen_song">많이 들은 곡</string>
+    <string name="label_music_playlist_nowplaing">NowPlaying</string>
+    <string name="label_music_playlist_screen">music_playlist</string>
+    <string name="label_musicstyler">musicstyler</string>
+    <string name="label_musicstyler_detail_comment">comment</string>
+    <string name="label_musicstyler_detail_like">like</string>
+    <string name="label_musicstyler_detail_share">share</string>
+    <string name="label_musicstyler_detail_subscribe">subscribe</string>
+    <string name="label_musicstyler_life">life</string>
+    <string name="label_musicstyler_mania">mania</string>
+    <string name="label_musicstyler_people">people</string>
+    <string name="label_musicstyler_place">place</string>
+    <string name="label_musicstyler_style">style</string>
+    <string name="label_musicstyler_today">today</string>
+    <string name="label_mytune">mytune</string>
+    <string name="label_mytune_info">info</string>
+    <string name="label_mytune_lyrics">lyrics</string>
+    <string name="label_new">new</string>
+    <string name="label_newage">newage</string>
+    <string name="label_newgenre_new">new</string>
+    <string name="label_newgenre_playlist">playlist</string>
+    <string name="label_newgenre_top100">top100</string>
+    <string name="label_newmusic_album_all">all</string>
+    <string name="label_newmusic_album_classical">classical</string>
+    <string name="label_newmusic_album_jpop">jpop</string>
+    <string name="label_newmusic_album_kpop">kpop</string>
+    <string name="label_newmusic_album_ost">ost</string>
+    <string name="label_newmusic_album_pop">pop</string>
+    <string name="label_newmusic_song_all">all</string>
+    <string name="label_newmusic_song_classical">classical</string>
+    <string name="label_newmusic_song_jpop">jpop</string>
+    <string name="label_newmusic_song_kpop">kpop</string>
+    <string name="label_newmusic_song_ost">ost</string>
+    <string name="label_newmusic_song_pop">pop</string>
+    <string name="label_notice">notice</string>
+    <string name="label_open_playlist_creator">creator</string>
+    <string name="label_open_playlist_detail_comment">comment</string>
+    <string name="label_open_playlist_detail_like">like</string>
+    <string name="label_open_playlist_detail_subscribe">subscribe</string>
+    <string name="label_open_playlist_eyecandy">eyecandy</string>
+    <string name="label_open_playlist_music">music</string>
+    <string name="label_open_playlist_video">video</string>
+    <string name="label_ost">ost</string>
+    <string name="label_period_1970">1970</string>
+    <string name="label_period_1980">1980</string>
+    <string name="label_period_1990">1990</string>
+    <string name="label_period_2000">2000</string>
+    <string name="label_period_2010">2010</string>
+    <string name="label_play">play</string>
+    <string name="label_player_next">다음곡</string>
+    <string name="label_player_pause">일시정지</string>
+    <string name="label_player_play">재생</string>
+    <string name="label_player_pre">이전곡</string>
+    <string name="label_playlist_like">like</string>
+    <string name="label_playlist_mostplayed">mostplayed</string>
+    <string name="label_playlist_nowplaying">nowplaying</string>
+    <string name="label_playlist_player_on">playlist_player_on</string>
+    <string name="label_playlist_playlike">playlike</string>
+    <string name="label_playlist_playmostplayed">playmostplayed</string>
+    <string name="label_playlist_playnowplaying">playnowplaying</string>
+    <string name="label_playlist_user_comment">comment</string>
+    <string name="label_playlist_user_music">music</string>
+    <string name="label_playlist_user_subscribe">subscribe</string>
+    <string name="label_playlist_user_subscribers">subscribers</string>
+    <string name="label_playlist_user_video">video</string>
+    <string name="label_pop">pop</string>
+    <string name="label_profile_adult">adult</string>
+    <string name="label_profile_coupon">coupon</string>
+    <string name="label_profile_image">image</string>
+    <string name="label_profile_info">info</string>
+    <string name="label_profile_open_playlist_music">music</string>
+    <string name="label_profile_open_playlist_video">video</string>
+    <string name="label_program">program</string>
+    <string name="label_purchase">purchase</string>
+    <string name="label_register">register</string>
+    <string name="label_related_artists">related_artists</string>
+    <string name="label_related_song">related_song</string>
+    <string name="label_score">score</string>
+    <string name="label_search_all">search_all</string>
+    <string name="label_search_history">search_history</string>
+    <string name="label_search_pop">search_pop</string>
+    <string name="label_search_voice">search_voice</string>
+    <string name="label_selected_add">담기</string>
+    <string name="label_selected_all">전체선택</string>
+    <string name="label_selected_download">다운로드</string>
+    <string name="label_selected_listen">선택듣기</string>
+    <string name="label_selected_share">공유하기</string>
+    <string name="label_selected_watch">선택보기</string>
+    <string name="label_setting">setting</string>
+    <string name="label_share">share</string>
+    <string name="label_song">song</string>
+    <string name="label_subscribe_playlist_screen">subscribe_playlist</string>
+    <string name="label_temp">temp</string>
+    <string name="label_trot">trot</string>
+    <string name="label_tvmusic_all">all</string>
+    <string name="label_tvmusic_audition">audition</string>
+    <string name="label_tvmusic_cf">cf</string>
+    <string name="label_tvmusic_detail_comment">comment</string>
+    <string name="label_tvmusic_detail_like">like</string>
+    <string name="label_tvmusic_detail_share">share</string>
+    <string name="label_tvmusic_detail_subscribe">subscribe</string>
+    <string name="label_tvmusic_drama">drama</string>
+    <string name="label_tvmusic_entertainment">entertainment</string>
+    <string name="label_tvmusic_movie">movie</string>
+    <string name="label_twitter">twitter</string>
+    <string name="label_user">user</string>
+    <string name="label_video">video</string>
+    <string name="label_video_player_action_click">click</string>
+    <string name="label_video_player_label_add_playlist">add_playlist</string>
+    <string name="label_video_player_label_facebook">facebook</string>
+    <string name="label_video_player_label_info">info</string>
+    <string name="label_video_player_label_kakaostory">kakaostory</string>
+    <string name="label_video_player_label_kakaotalk">kakaotalk</string>
+    <string name="label_video_player_label_like">like</string>
+    <string name="label_video_player_label_lock">lock</string>
+    <string name="label_video_player_label_morelink">more link</string>
+    <string name="label_video_player_label_setting">setting</string>
+    <string name="label_video_player_label_twitter">twitter</string>
+    <string name="label_video_player_screen">video_player</string>
+    <string name="label_video_playlist_listen">플레이리스트보기</string>
+    <string name="label_video_playlist_screen">video_playlist</string>
+    <string name="label_videoplayer">videoplayer</string>
+    <string name="label_voice">voice</string>
+    <string name="label_worldmusic">worldmusic</string>
+    <string name="like">좋아요</string>
+    <string name="like_album_empty_text">좋아요 한 앨범이 없습니다.</string>
+    <string name="like_artist_empty_text">좋아요 한 아티스트가 없습니다.</string>
+    <string name="like_genre_rebirth_empty_text">좋아요 한 장르의 재탄생이 없습니다.</string>
+    <string name="like_m2_empty_text">좋아요 한 M2가 없습니다.</string>
+    <string name="like_magazine_empty_text">좋아요 한 매거진이 없습니다.</string>
+    <string name="like_musicstyler_empty_text">좋아요 한 뮤직스타일러가 없습니다.</string>
+    <string name="like_off_private_playlist">"비공개 전환된 플레이리스트입니다.
+좋아요를 취소하시겠습니까?"</string>
+    <string name="like_playlist_empty_text">좋아요 한 플레이리스트가 없습니다.</string>
+    <string name="like_playlist_update_text">업데이트 </string>
+    <string name="like_song_empty_text">좋아요 한 곡이 없습니다.</string>
+    <string name="like_video_empty_text">좋아요 한 영상이 없습니다.</string>
+    <string name="list_songcount">%1$s곡</string>
+    <string name="listtypeview">리스트형 보기</string>
+    <string name="loading">로드 중...</string>
+    <string name="lockscreen_current_position">재생위치로</string>
+    <string name="lockscreen_date_format">M월 d일 EE요일</string>
+    <string name="lockscreen_playlist_name">%1$s (%2$s)</string>
+    <string name="login">로그인</string>
+    <string name="login_alert_id_pwd_empty">아이디와 비밀번호를 입력해 주세요.</string>
+    <string name="login_alert_id_pwd_error">"입력하신 ID 또는 Password가 일치하지 않습니다.
+
+확인 후 정확한 회원 정보를 입력해 주세요."</string>
+    <string name="login_alert_login_fail_070">"Mnet-LG U+ 통합회원으로 가입하셔야 전화번호로 로그인이 가능 합니다.
+* 070 Player및 Homeboy고객은 고객센터(101)에서 가입하실 수 있습니다.
+* 비즈보이 고객은 전화번호 로그인이 불가 합니다. 엠넷ID로 로그인 후 이용해 주시기 바랍니다. 관련문의 1544-0001"</string>
+    <string name="login_alert_login_fail_lgt">로그인에 실패하였습니다.</string>
+    <string name="login_alert_login_fail_lgt_1">Mnet에 가입된 회원이 아닙니다.</string>
+    <string name="login_alert_login_fail_lgt_1_1">"Mnet-LG U+ 통합회원으로 가입하셔야 서비스 이용이 가능합니다.
+Mnet-LG U+ 통합회원으로 가입하시겠습니까?"</string>
+    <string name="login_alert_login_sucess">로그인이 되었습니다.</string>
+    <string name="login_alert_login_sucess2">로그인이 완료 되었습니다.</string>
+    <string name="login_alert_login_sucess_lgt">로그인에 성공하였습니다.</string>
+    <string name="login_alert_login_sucess_lgt_070_sub">"LG U+ 인터넷 전화 %1$s 번호로 인증되지 않은 ID입니다.
+
+원활한 서비스 이용을 위해 LG U+ 인터넷 전화 %2$s 번호와 ID 인증이 필요합니다. 
+
+인증 시 식별을 위한 070 번호 및 기기 정보가 서버에 저장되며, 인증 해지 시 즉시 삭제됩니다.
+
+* 인증 해지는 Mnet 고객센터로 문의 주세요.
+
+지금 인증 하시겠습니까?"</string>
+    <string name="login_alert_login_sucess_lgt_message_1">회원님은 통합회원 임시 ID를 사용중입니다.</string>
+    <string name="login_alert_login_sucess_lgt_message_1_1">"임시ID 사용 시 엠넷에서 제공하는 소셜뮤직 서비스 및 기타 개인화 서비스 사용에 제한이 있습니다.
+원활한 서비스 이용을 위해 정식ID로 전환해 주세요."</string>
+    <string name="login_alert_login_sucess_lgt_message_2">"아직 통합회원으로 전환을 하지 않으셨습니다. 
+Mnet -LG U+ 통합회원으로 전환하시면 뮤직온과 이용권 연동 등 다양한 혜택을 누리실 수 있습니다.
+지금 전환하시겠습니까?"</string>
+    <string name="login_alert_logout_change_playlist">"로그아웃 되었습니다.
+재생 목록은 Now Playing으로 자동 전환됩니다."</string>
+    <string name="login_alert_logout_sucess">로그아웃 되었습니다.</string>
+    <string name="login_alert_need_to_adult_check">"본 컨텐츠는 19세 미만의 청소년에게 부적절한 내용을 포함하고 있습니다.
+성인인증 후 이용할 수 있습니다."</string>
+    <string name="login_alert_need_to_adult_check_fail">"성인인증에 실패했습니다.
+본 콘텐츠 감상을 위해선 성인인증이 필요하오니, 다시 한 번 성인인증을 시도해주세요."</string>
+    <string name="login_alert_need_to_adult_check_success">"성인인증에 성공했습니다.
+콘텐츠 감상 화면으로 이동합니다."</string>
+    <string name="login_alert_need_to_login">"로그인이 필요한
+서비스입니다.
+로그인 하시겠습니까?"</string>
+    <string name="login_alert_need_to_login_n_adult_check">"본 컨텐츠는 19세 미만의 청소년에게 부적절한 내용을 포함하고 있습니다.
+나이 및 본인확인을 위해 로그인이 필요합니다."</string>
+    <string name="login_alert_session_update_error">"없는 아이디거나 잘못된 비밀번호입니다.
+확인 후 다시 로그인해주시기 바랍니다."</string>
+    <string name="login_alert_sns_login_sucess">SNS 계정으로 로그인 되었습니다.</string>
+    <string name="login_alert_sns_logout">[%1$s]계정으로 로그인 된 상태입니다. [%2$s]연동 해지하시면 엠넷도 자동 로그아웃 처리 됩니다. 진행하시겠습니까?</string>
+    <string name="login_auto_login">자동 로그인</string>
+    <string name="login_change">전환</string>
+    <string name="login_change_member_logout">"고객님의 정보 보호를 위해 로그아웃 처리 됩니다.
+회원 전환 후 다시 로그인 해주세요."</string>
+    <string name="login_find_id_pw">아이디/비밀번호 찾기</string>
+    <string name="login_guide_lg">전화 번호로 엠넷에 로그인 하실 수 있습니다.</string>
+    <string name="login_guide_lg_select">휴대전화, 페이스북, 트위터계정으로도 이용이 가능합니다.</string>
+    <string name="login_guide_message_ctn">LG U+ 휴대폰 가입자를 위한 인증 방식으로 ID/PW없이 휴대폰 번호 로그인 하실수 있습니다.</string>
+    <string name="login_guide_message_mnet">보유하고 계신 엠넷ID로 로그인 하실 수 있습니다.</string>
+    <string name="login_guide_message_player">"엠넷 어플리케이션 서비스이용을 위해서는 로그인이 필요합니다. 
+
+별도의 ID/PW없이 간편하게 엠넷서비스를 이용하실수 있습니다.
+
+(단, 070번호 로그인 시에는 스트리밍 서비스만 이용하실 수 있습니다.)"</string>
+    <string name="login_hello">님 안녕하세요</string>
+    <string name="login_hello_070">070플레이어 회원님 안녕하세요</string>
+    <string name="login_id_save">아이디 저장</string>
+    <string name="login_join_member">모바일 회원가입</string>
+    <string name="login_join_member2">회원가입</string>
+    <string name="login_join_member_lgt">Mnet LG U+ 통합회원인증</string>
+    <string name="login_lgup_f_member_btn">통합회원 전환하기</string>
+    <string name="login_lgup_f_member_label">Mnet LGU+ 통합회원으로 전환 하세요!</string>
+    <string name="login_member_regist_complete">회원가입이 완료되었습니다.</string>
+    <string name="login_member_retist_failed">회원가입이 실패했습니다.</string>
+    <string name="login_name_result">&lt;font color=#E40076>%1$s&lt;/font>&lt;font color=#000000>님, 안녕하세요&lt;/font></string>
+    <string name="login_user_070">070플레이어 회원</string>
+    <string name="logout">로그아웃</string>
+    <string name="magazine_filter_name">MNET DIRECTOR 추천</string>
+    <string name="magazine_new_magazine">새로운 매거진</string>
+    <string name="magazine_old_magazine">이전 매거진 보기</string>
+    <string name="main_content_genre">장르별 음악</string>
+    <string name="main_content_hottv">HOT MNET TV</string>
+    <string name="main_content_magazine">MNET 매거진</string>
+    <string name="main_content_todaypick">오늘의 PICK</string>
+    <string name="main_content_whatshot">"What's Hot"</string>
+    <string name="main_footer_agreement">이용약관</string>
+    <string name="main_footer_center">고객센터</string>
+    <string name="main_footer_copyright_info">"씨제이디지털뮤직㈜ | 대표 신형관
+서울특별시 마포구 월드컵북로56 19,
+8층,9층(상암동, 드림타워) | 대표전화 1566-2226
+사업자번호 573-86-00690
+통신판매신고번호 2016-서울마포-2028"</string>
+    <string name="main_footer_ftc">사업자정보확인 ></string>
+    <string name="main_footer_process">개인정보처리방침</string>
+    <string name="main_lc">공연</string>
+    <string name="main_new">최신</string>
+    <string name="main_pop">인기</string>
+    <string name="main_prg">방송클립</string>
+    <string name="main_prg_main">방송본편</string>
+    <string name="main_promotion_notify_3day">3일간 보지 않기</string>
+    <string name="main_setting_complete">설정이 저장되었습니다.</string>
+    <string name="main_setting_desc">홈에서 메뉴를 노출하거나 순서를 바꿀 수 있습니다.</string>
+    <string name="main_setting_error">적용되지 않았습니다. 앱 종료 후 다시 실행해 주세요.</string>
+    <string name="main_setting_new_album">기본 메뉴로서 수정이 제한됩니다.</string>
+    <string name="main_setting_over">최소 5개는 선택이 필요해요.</string>
+    <string name="main_setting_rollback">홈메뉴 초기화</string>
+    <string name="main_setting_rollback_error">"네트워크 오류로 인해 홈화면 초기화에 실패하였습니다.
+잠시 후 다시 시도해주시기 바랍니다."</string>
+    <string name="main_setting_rollback_msg">홈메뉴 구성을 엠넷에서 제공하는 초기 설정으로 변경하시겠습니까?</string>
+    <string name="main_setting_rollback_success">초기화 하였습니다.</string>
+    <string name="main_setting_title">홈메뉴 설정</string>
+    <string name="main_tv_main_concert">공연</string>
+    <string name="man">남성</string>
+    <string name="maq_info_message">MAQ란 MAstered Quality Sound의 약자로 스튜디오 원음 그대로의 사운드를 즐길 수 있는 24bit FLAC 무손실 음원입니다.</string>
+    <string name="masterpiece_music_listen">대표곡 듣기</string>
+    <string name="masters_classic_magazine">클래식 매거진</string>
+    <string name="masters_collection">마스터즈 컬렉션</string>
+    <string name="masters_inside_classic">인사이드 클래식</string>
+    <string name="masters_inside_jazz">인사이드 재즈</string>
+    <string name="masters_jazz_magazine">재즈 매거진</string>
+    <string name="member">멤버</string>
+    <string name="member_change">계정 이관</string>
+    <string name="member_out">회원탈퇴</string>
+    <string name="member_regist">회원가입</string>
+    <string name="membership_web_url">http://m.mnet.com/event/membership/</string>
+    <string name="messenger_send_button_text">Send</string>
+    <string name="mini_palyer_ticket_b2b_button">쿠폰 등록</string>
+    <string name="mini_palyer_ticket_b2b_download_button">다운 로드</string>
+    <string name="mini_player_ticket_b2b_download_none_title">"다운로드 후 이용 가능한 음원입니다.
+다운로드 이용권이 모두 소진되어 이용 불가합니다."</string>
+    <string name="mini_player_ticket_b2b_download_title">다운로드 후 이용 가능합니다.</string>
+    <string name="mini_player_ticket_b2b_title">"발급된 쿠폰을 등록 후 사용하세요. 
+(프로필 > 쿠폰함에서도 쿠폰 등록 가능)"</string>
+    <string name="mixed">혼성</string>
+    <string name="mnet_chart">엠넷차트</string>
+    <string name="mnet_chart_daily">일간</string>
+    <string name="mnet_chart_mcountdown_end_vod">엠카운트다운 지난 영상 보기</string>
+    <string name="mnet_chart_mcountdown_end_vote">사전 투표마감</string>
+    <string name="mnet_chart_mcountdown_se_date">사전 투표 %1$s - %2$s</string>
+    <string name="mnet_chart_real">실시간</string>
+    <string name="mnet_chart_service_info">집계기준</string>
+    <string name="mnet_chart_top_1st_week">금주 1위 후보</string>
+    <string name="mnet_chart_weekly">주간</string>
+    <string name="mnet_chart_year_type_kpop">국내</string>
+    <string name="mnet_chart_year_type_pop">국외</string>
+    <string name="mnet_detail_vod_play_text">00:00</string>
+    <string name="mnet_login">엠넷로그인</string>
+    <string name="mnet_tv">Mnet TV</string>
+    <string name="mnet_tv_concert_title">공연영상</string>
+    <string name="mnet_tv_main_clip">클립</string>
+    <string name="mnet_tv_main_prgram">본편</string>
+    <string name="mnet_tv_main_title_best_hits_video">많이 본 영상</string>
+    <string name="mnet_tv_main_title_channel_ment_program">채널 엠넷 프로그램</string>
+    <string name="mnet_tv_main_title_recent_update">최근 업데이트</string>
+    <string name="mnet_tv_main_title_recommend_video">추천 영상</string>
+    <string name="mnet_tv_main_title_tab_new">최신</string>
+    <string name="mnet_tv_main_title_tab_popular">인기</string>
+    <string name="mnet_tv_musicvideo_title">뮤직비디오</string>
+    <string name="mnet_tv_program_title">방송영상</string>
+    <string name="mnet_tv_programlist_title">프로그램</string>
+    <string name="mnet_tv_schedule_title">편성표</string>
+    <string name="mnet_tv_title">엠넷TV</string>
+    <string name="mobile_device_regist">모바일 기기 등록</string>
+    <string name="mobile_device_regist_delete_success">등록된 기기가 삭제되었습니다.</string>
+    <string name="mobile_device_regist_main_current_device_n">추가 등록이 가능합니다.</string>
+    <string name="mobile_device_regist_main_item">기기 삭제</string>
+    <string name="mobile_device_regist_main_menu_1">등록된 기기</string>
+    <string name="mobile_device_regist_main_menu_2">등록 기기 삭제</string>
+    <string name="mobile_device_regist_main_use_device_y">(사용중)</string>
+    <string name="mobile_device_regist_modify_fail">죄송합니다. 기기변경은 월 1회로 제한되어 있습니다. 변경관련 자세한 내용은 고객센터로 문의해 주세요.</string>
+    <string name="mobile_device_regist_modify_string_1">- 등록기기 :</string>
+    <string name="mobile_device_regist_modify_string_2">- 등록일 :</string>
+    <string name="mobile_device_regist_modify_success">기기 변경이 완료되었습니다.</string>
+    <string name="mobile_device_regist_string_1">음악 다운로드 서비스 이용을 위해선 기기 등록이 필요합니다.</string>
+    <string name="mobile_device_regist_string_10">"기기 삭제시 이전에 다운로드 된 스마트폰 전용, 스마트Free 음원은 사용이 제한될 수 있습니다.
+현재 사용중인 기기로 변경 등록 하시겠습니까?"</string>
+    <string name="mobile_device_regist_string_11">기기 삭제 시 이전에 다운로드 된 스마트폰 전용, 스마트Free 음원은 사용이 제한 됩니다..</string>
+    <string name="mobile_device_regist_string_12">- 기기 삭제 : 등록 기기 당 월 1회 가능</string>
+    <string name="mobile_device_regist_string_13">삭제할 기기가 없습니다.</string>
+    <string name="mobile_device_regist_string_14">"죄송합니다. 이미 다른 사용자에게 등록된 기기 입니다. 
+등록된 계정에서 기기 해지 후 이용해 주세요."</string>
+    <string name="mobile_device_regist_string_15">사용중인 기기를 엠넷에 등록하시겠습니까?</string>
+    <string name="mobile_device_regist_string_16">죄송합니다. 이미 다른 사용자에게 등록된 기기 입니다. 등록된 계정에서 기기 해지 후 이용해 주세요.</string>
+    <string name="mobile_device_regist_string_17">"디바이스 등록이 되어 있지 않은 디바이스입니다.
+ 디바이스등록후 사용해 주세요."</string>
+    <string name="mobile_device_regist_string_2">기기 등록 시 이전에 다운로드 된 스마트폰 전용, 스마트Free 음원이 모두 삭제 됩니다.</string>
+    <string name="mobile_device_regist_string_3">음악 다운로드 서비스(스마트폰 전용, MP3 다운로드)를 위해서는 기기등록이 필요합니다.</string>
+    <string name="mobile_device_regist_string_4">- 한 ID당 2대까지 기기 등록이 가능합니다.</string>
+    <string name="mobile_device_regist_string_5">- 기기변경 : 월 1회 가능</string>
+    <string name="mobile_device_regist_string_6">- 대상기기 : 스마트폰, 태블릿PC, 아이팟 터치, 안드로이드 플레이어</string>
+    <string name="mobile_device_regist_string_7">등록된 기기가 없습니다.</string>
+    <string name="mobile_device_regist_string_8">변경 가능일 :</string>
+    <string name="mobile_device_regist_string_9">기기 변경은 월 1회에 한해 가능하며, 변경 시 기존에 등록된 기기는 삭제됩니다.</string>
+    <string name="modify">수정</string>
+    <string name="more">더보기</string>
+    <string name="more_mnet">More Mnet</string>
+    <string name="more_mnet_not_found_market">구글 플레이스토어에 연결할 수 없습니다. 단말기에 플레이스토어가 설치되어 있는지 확인해주세요.</string>
+    <string name="mr_button_content_description">Cast button</string>
+    <string name="mr_cast_button_connected">Cast button. Connected</string>
+    <string name="mr_cast_button_connecting">Cast button. Connecting</string>
+    <string name="mr_cast_button_disconnected">Cast button. Disconnected</string>
+    <string name="mr_chooser_searching">Finding devices</string>
+    <string name="mr_chooser_title">Cast to</string>
+    <string name="mr_controller_album_art">Album art</string>
+    <string name="mr_controller_casting_screen">Casting screen</string>
+    <string name="mr_controller_close_description">Close</string>
+    <string name="mr_controller_collapse_group">Collapse</string>
+    <string name="mr_controller_disconnect">Disconnect</string>
+    <string name="mr_controller_expand_group">Expand</string>
+    <string name="mr_controller_no_info_available">No info available</string>
+    <string name="mr_controller_no_media_selected">No media selected</string>
+    <string name="mr_controller_pause">Pause</string>
+    <string name="mr_controller_play">Play</string>
+    <string name="mr_controller_stop">Stop</string>
+    <string name="mr_controller_stop_casting">Stop casting</string>
+    <string name="mr_controller_volume_slider">Volume slider</string>
+    <string name="mr_system_route_name">System</string>
+    <string name="mr_user_route_category_name">Devices</string>
+    <string name="mtune">My tune</string>
+    <string name="music_player">음악 플레이어</string>
+    <string name="music_public_playlist">음악 공개 플레이리스트</string>
+    <string name="music_styler">뮤직스타일러</string>
+    <string name="music_styler_creator">뮤직스타일러 제작자</string>
+    <string name="music_styler_life">라이프</string>
+    <string name="music_styler_mania">매니아</string>
+    <string name="music_styler_people">피플</string>
+    <string name="music_styler_place">플레이스</string>
+    <string name="music_styler_style">스타일</string>
+    <string name="music_styler_type">뮤직스타일러 : %1$s</string>
+    <string name="music_video">뮤직비디오</string>
+    <string name="my_buy_list">곡 구매 내역</string>
+    <string name="my_buy_music">곡 구매 내역</string>
+    <string name="my_coupon">쿠폰함</string>
+    <string name="my_coupon_box">내 쿠폰함</string>
+    <string name="my_coupon_button_end">기간만료</string>
+    <string name="my_coupon_button_pay">사용하기</string>
+    <string name="my_coupon_button_tving_regist">티빙 등록</string>
+    <string name="my_coupon_button_use">사용완료</string>
+    <string name="my_coupon_enable">사용가능</string>
+    <string name="my_coupon_expiry_date_text">유효기간 : %1$s</string>
+    <string name="my_coupon_issue_text">발급처 : %1$s</string>
+    <string name="my_coupon_keep_empty">쿠폰이 없습니다.</string>
+    <string name="my_coupon_list_item_1">지급일 : %1$s</string>
+    <string name="my_coupon_list_item_2">유효기간 : %1$s</string>
+    <string name="my_coupon_list_item_3">사용시작일 : %1$s</string>
+    <string name="my_coupon_number_text">쿠폰번호 : %1$s</string>
+    <string name="my_coupon_number_type">[%1$s]</string>
+    <string name="my_coupon_regist">쿠폰 등록</string>
+    <string name="my_coupon_title">보관중인 쿠폰</string>
+    <string name="my_coupon_use">사용현황</string>
+    <string name="my_coupon_use_complate">이용권 사용설정이 완료되었습니다.</string>
+    <string name="my_coupon_use_complate_session_update_fail">"이용권 사용은 성공하였으나, 정보갱신에 실패하였습니다.
+로그아웃 후 다시 로그인해주세요."</string>
+    <string name="my_coupon_use_confirm">이용권을 사용하시겠습니까?</string>
+    <string name="my_coupon_use_fail">이용권 사용 설정이 실패했습니다. 다시 시도해주세요.</string>
+    <string name="my_download_manager">다운로드 관리자</string>
+    <string name="my_info">내 정보</string>
+    <string name="my_listen_history">감상내역</string>
+    <string name="my_public_playlist">공개 플레이리스트</string>
+    <string name="my_push_message_delete">선택하신 메시지를 삭제합니다.</string>
+    <string name="my_push_message_info">알림 메시지는 1주일간 보관됩니다</string>
+    <string name="my_string_24">저장된 곡이 없습니다.</string>
+    <string name="my_string_30">"DRM 서버가 로드되지 않아 ,
+보관함에 저장된 곡을 확인할 수 없습니다.
+ 다시 시도해 주세요."</string>
+    <string name="my_string_31">"보관함 초기화 중입니다.
+ 잠시만 기다려 주세요."</string>
+    <string name="my_ticket">내 이용권</string>
+    <string name="my_ticket_buy">이용권 구매</string>
+    <string name="my_ticket_expire">기간 만료</string>
+    <string name="my_ticket_item_extension">이용권 등록</string>
+    <string name="my_ticket_item_regular">정기 결제 관리</string>
+    <string name="my_ticket_item_regular_info_btn_out">정기결제해지</string>
+    <string name="my_ticket_item_regular_info_msg">· 정기 결제 관련 문의는 고객센터(1566-2226)으로 연락 바랍니다.</string>
+    <string name="my_ticket_item_regular_info_msg2">· 해지는 해당 링크를 통해 가능합니다.</string>
+    <string name="my_ticket_item_regular_info_next_pay_day">결제 예정일 :</string>
+    <string name="my_ticket_item_regular_info_next_price">결제 예정 금액 :</string>
+    <string name="my_ticket_item_regular_info_next_price_type">원(VAT별도)</string>
+    <string name="my_ticket_item_regular_info_pay_tool">결제 수단 :</string>
+    <string name="my_ticket_item_use">이용권 사용</string>
+    <string name="my_ticket_keep_empty">보관중인 이용권이 없습니다.</string>
+    <string name="my_ticket_keep_title">보관중인 이용권</string>
+    <string name="my_ticket_list_item">%1$s : %2$s (%3$s)</string>
+    <string name="my_ticket_regist">쿠폰 등록하기</string>
+    <string name="my_ticket_remain_cnt">다운로드 잔여 곡 수 :</string>
+    <string name="my_ticket_remain_unlimit">무제한</string>
+    <string name="my_ticket_use_empty">사용중인 이용권이 없습니다.</string>
+    <string name="my_ticket_use_message_1">(다음달 이용권을 미리 사용 설정하실 수 있습니다. )</string>
+    <string name="my_ticket_use_message_2">※ 보유하신 제휴이용권은 %1$s서비스를 이용하시는 동안 사용하실 수 있습니다. 단, 상품의 특성상 매월 보관중인 이용권 내역에서 사용 설정을 해주셔야 전곡 듣기 서비스를 이용하실 수 있습니다.</string>
+    <string name="my_ticket_use_msg1">기존에 스트리밍 이용권을 보유한 상태에서 스트리밍이 포함된 다른 이용권을 구매했을 경우</string>
+    <string name="my_ticket_use_msg2">"-스트리밍 기간은 기존 이용권의 기간이 만료된 직후부터 적용됩니다.
+-다운로드 기간은 구매 시점과 동시에 적용됩니다."</string>
+    <string name="my_ticket_use_title">사용중인 이용권</string>
+    <string name="myinfo_info_adult">성인 인증</string>
+    <string name="myinfo_info_certify">실명 인증</string>
+    <string name="myinfo_info_edit">회원정보 수정</string>
+    <string name="myinfo_info_leave">회원 탈퇴</string>
+    <string name="myinfo_info_transfer">계정 이관</string>
+    <string name="mytune">마이튠</string>
+    <string name="mytune_go_to_hd_music">엠넷 HD MUSIC 바로가기</string>
+    <string name="mytune_none_description1">엠넷닷컴에서 음악을 들어보세요~</string>
+    <string name="mytune_none_description2">감상 히스토리를 분석하여,</string>
+    <string name="mytune_none_description3">취향에 맞는 음악을 추천해드립니다.</string>
+    <string name="new_album">최신앨범</string>
+    <string name="new_album_all">종합</string>
+    <string name="new_album_for">국외</string>
+    <string name="new_album_kor">국내</string>
+    <string name="new_album_like">좋아요</string>
+    <string name="new_album_review">앨범리뷰</string>
+    <string name="new_album_star">별점주기</string>
+    <string name="new_music">최신음악</string>
+    <string name="no_detail_album">앨범이 없습니다.</string>
+    <string name="no_detail_photo">포토가 없습니다.</string>
+    <string name="no_detail_recomm_song">유사곡이 없습니다.</string>
+    <string name="no_detail_relation_magazine">관련기사가 없습니다.</string>
+    <string name="no_detail_relation_song">관련곡이 없습니다.</string>
+    <string name="no_detail_relation_video">관련영상이 없습니다.</string>
+    <string name="no_detail_song">곡이 없습니다.</string>
+    <string name="no_detail_video">영상이 없습니다.</string>
+    <string name="noplay">재생오류</string>
+    <string name="not_support_beacon_service">Beacon 서비스가 지원되지 않는 기기입니다.</string>
+    <string name="notice">공지사항</string>
+    <string name="notice_web_parameter">os_type=5003</string>
+    <string name="notice_web_url">http://hera.mnet.com/mobile/web/notice_list.asp</string>
+    <string name="ok">확인</string>
+    <string name="onair">ON AIR</string>
+    <string name="onair_channel_name">채널%s</string>
+    <string name="onair_comment_delete_msg">"선택한 메시지를
+삭제 하시겠습니까?"</string>
+    <string name="onair_comment_dirty_word_alert">입력하신 내용 중 금지된 단어가 포함되어 있습니다. 반복해서 사용할 경우 강제 퇴장조치 됩니다.</string>
+    <string name="onair_comment_duplication_alert">"중복 내용을 3번 이상 등록하여, 입력하신 내용은 전송할 수 없습니다.
+반복해서 사용할 경우, 강제 퇴장조치 됩니다."</string>
+    <string name="onair_comment_duplicatoin_msg">"라이브채팅 이용 시
+도배, 욕설, 비속어를 사용하거나
+상업적으로 이용 시 채팅 참여제한이
+있을 수 있습니다. 자세한 내용은
+공지사항을 확인해 주세요"</string>
+    <string name="onair_comment_error">"채팅 내용을 불러올 수 없습니다.
+잠시 후 다시 시도해주세요."</string>
+    <string name="onair_comment_hint">라이브채팅에 참여해 보세요</string>
+    <string name="onair_notice_title">공지</string>
+    <string name="onair_popup_look_detail">자세히보기</string>
+    <string name="onair_try_again">다시시도</string>
+    <string name="onair_user_count">%s명 시청 중</string>
+    <string name="online_service_center_url">http://mhelp.mnet.com/faq/faq_lst.asp?sortKey=REGDATE&amp;CateIdx=58&amp;CateNm=엠넷</string>
+    <string name="organize">결성</string>
+    <string name="other_album">다른 활동 앨범</string>
+    <string name="palyer_ticket_b2b_button">쿠폰 발급 및 등록</string>
+    <string name="palyer_ticket_b2b_download_button">다운로드</string>
+    <string name="password">패스워드</string>
+    <string name="password_toggle_content_description">Toggle password visibility</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="period_chart_info_icon_text">추천기준</string>
+    <string name="permission_bottom_msg">허용 또는 거부한 접근권한은 추후 설정 메뉴를 통해 재선택 하실 수 있습니다.</string>
+    <string name="permission_info_ok">바로가기</string>
+    <string name="permission_info_text1">"1. 내 기기의 '설정'에서 '어플리케이션 관리'
+ 메뉴를 선택합니다."</string>
+    <string name="permission_info_text2">"2. 목록에서 Mnet을 선택해 진입 한 뒤
+'권한'메뉴를 선택합니다."</string>
+    <string name="permission_info_text3">"3. 전체 4개의 권한 중, 필수 접근 권한이
+필요한 '전화', '저장공간' 2개 항목을
+모두 ON으로 설정해 주세요."</string>
+    <string name="permission_info_title">안드로이드 6.0이상의 버전에서 엠넷을 이용하기 위해서는 필수권한 설정이 필요합니다.</string>
+    <string name="permission_noti">엠넷 앱 사용을 위해 안드로이드 설정 > 일반 > 앱 > 엠넷 > 권한 설정에서 권한 사용을 ON으로 설정해주세요.</string>
+    <string name="permission_notice_access_storage_msg">내가 다운로드한 음원 콘텐츠 파일을 저장하고 재생, 관리할 때 해당 콘텐츠를 지속적으로 열람하기 위해 필요한 권한입니다.</string>
+    <string name="permission_notice_access_storage_title">저장공간</string>
+    <string name="permission_notice_call_msg">내 기기의 상태를 읽어 통화 중 여부를 파악하고, 수신 시 음원 재생을 중지하기 위해 필요한 권한입니다.</string>
+    <string name="permission_notice_call_title">전화</string>
+    <string name="permission_notice_camera_msg">프로필 이미지 등록, 변경할 때 내 기기의 사진 찍기 기능을 연동하기 위해 필요한 권한입니다.</string>
+    <string name="permission_notice_camera_title">카메라</string>
+    <string name="permission_notice_essential_right">필수 허용 권한</string>
+    <string name="permission_notice_mic_msg">내 기기의 녹음 기능을 연동해 음성검색을 실행하기 위해 필요한 권한입니다.</string>
+    <string name="permission_notice_mic_title">마이크</string>
+    <string name="permission_notice_selection_right">선택 허용 권한</string>
+    <string name="permission_notice_selection_storage_msg">프로필 이미지를 등록 변경할 때 내 기기의 사진앨범 파일을 참조하기 위해 필요한 권한입니다.(※단 음원 다운로드 시에는 필수적으로 필요한 권한이므로, 선택 권한으로서의 허용여부는 다시 확인하지 않습니다.)</string>
+    <string name="permission_notice_subtitle">엠넷 앱 이용을 위해 아래의 권한을 필수 혹은 선택적으로 허용할 수 있으며, 선택 접근 권한의 경우 동의하지 않아도 서비스 이용이 가능합니다.</string>
+    <string name="permission_notice_title">접근 권한 안내</string>
+    <string name="permission_popup">"엠넷 앱 설정 페이지 > 권한 설정에서 권한 승인을 모두 ON으로 설정해주세요.
+
+'확인'을 누르시면 엠넷 앱 설정 페이지로 이동합니다."</string>
+    <string name="permission_request_dialog_access_storage">음원 콘텐츠 다운로드를 위해 접근 권한 허용이 필요합니다.</string>
+    <string name="permission_request_dialog_call">음원 재생 중 통화 수신을 위해 접근 권한 허용이 필요합니다.</string>
+    <string name="permission_request_dialog_camera">프로필 사진 등록, 변경을 위해 접근 권한 허용이 필요합니다.</string>
+    <string name="permission_request_dialog_mic">음성으로 검색을 실행하기 위해 접근 권한 허용이 필요합니다.</string>
+    <string name="phone">휴대전화</string>
+    <string name="player_aod_pps_push_multi_message">"현재까지 음악 감상 %1$s회 차감되었습니다. 
+해당 곡은 재생 시간에 따라 최대 %2$s회 까지 이용권이 차감될 수 있습니다."</string>
+    <string name="player_aod_pps_use_push_message">권리사 요청에 의해 &lt;%1$s> 감상시 7분 단위로 최대 %2$s회 추가 이용권 차감이 발생합니다.</string>
+    <string name="player_b2b_already_download_msg">"보유하신 이용권은 권리사의 요청으로 스트리밍 재생 시 1분 미리듣기만 가능합니다.
+플레이리스트의 '저장한음악'에서 전곡을 즐겨보세요."</string>
+    <string name="player_content_type_drm">DRM</string>
+    <string name="player_content_type_mp3">MP3</string>
+    <string name="player_content_type_pps">남은 감상 횟수 %1$d</string>
+    <string name="player_content_type_stream">스트리밍</string>
+    <string name="player_drm_license_install">연장하기</string>
+    <string name="player_empty_btn">인기 TOP100 보러가기</string>
+    <string name="player_empty_message">"담겨있는 곡이 하나도 없습니다.
+ Mnet의 인기곡을 플레이리스트에 담아볼까요?"</string>
+    <string name="player_equalizer">Equalizer</string>
+    <string name="player_equalizer_error">"죄송합니다. 다른 앱에서 이퀄라이저를 사용중 입니다.
+ 해당 앱에서 이퀄라이저 종료 후 시도해 주세요."</string>
+    <string name="player_equalizer_preset_app_hd">HD Live</string>
+    <string name="player_equalizer_preset_app_hd_lgt_s4">S4 Live</string>
+    <string name="player_equalizer_preset_system">시스템설정</string>
+    <string name="player_equalizer_preset_user">사용자설정</string>
+    <string name="player_error_38">죄송합니다. 재생할 수 없는 음원입니다. 자세한 내용은 화면캡쳐와 함께 고객센터로 문의해 주세요.(#38 )</string>
+    <string name="player_error_default">죄송합니다. 재생할 수 없는 음원입니다. 자세한 내용은 화면캡쳐와 함께 고객센터로 문의해 주세요.(#%1$s)</string>
+    <string name="player_error_file_not_found">존재 하지 않는 음원입니다.</string>
+    <string name="player_error_incall">통화중엔 재생 할 수 없습니다.</string>
+    <string name="player_error_invalid">"죄송합니다. 재생할 수 없는 음원입니다. 
+자세한 내용은 화면캡쳐와 함께 고객센터로 문의해 주세요. (#is not at the start of the file )"</string>
+    <string name="player_error_invalid_music">"죄송합니다. 재생할 수 없는 음원입니다.
+ 자세한 내용은 화면캡쳐와 함께 고객센터로 문의해 주세요.(#000)"</string>
+    <string name="player_error_local_file_chrome_cast_skip">로컬곡은 크롬 케스트에서 재생 할 수 없습니다.</string>
+    <string name="player_error_network_skip">"이 곡은 온라인 상태에서만 재생 가능 합니다. 
+네트워크 연결 후 재생해 주세요."</string>
+    <string name="player_error_sdcard_none_skip">"메모리 사용이 불가능합니다. 
+내장 메모리 및 SD 카드 연결상태를 확인해 주세요."</string>
+    <string name="player_error_sdcard_none_stop">"메모리 사용이 불가능합니다. 
+내장 메모리 및 SD 카드 연결상태를 확인해 주세요."</string>
+    <string name="player_error_server_dead">"죄송합니다. 재생할 수 없는 음원입니다. 
+ 자세한 내용은 화면캡쳐와 함께 고객센터로 문의해 주세요. (#001)"</string>
+    <string name="player_error_unknown">"죄송합니다. 재생할 수 없는 음원입니다. 
+ 자세한 내용은 화면캡쳐와 함께 고객센터로 문의해 주세요 (#unknown )"</string>
+    <string name="player_listener_label">동시청취자</string>
+    <string name="player_lyrics_empty">등록된 가사가 없습니다.</string>
+    <string name="player_lyrics_empty_local">가사 정보가 없습니다.</string>
+    <string name="player_lyrics_loading">가사 로딩중</string>
+    <string name="player_lyrics_realtime_empty">실시간 가사가 존재 하지 않습니다.</string>
+    <string name="player_lyrics_realtime_empty_local">로컬곡에는 실시간 가사가 제공되지 않습니다.</string>
+    <string name="player_lyrics_show_full">&lt;전체가사보기></string>
+    <string name="player_msg_first_song">첫번째 곡입니다.</string>
+    <string name="player_msg_last_song">마지막 곡입니다.</string>
+    <string name="player_msg_last_video">마지막 영상입니다.</string>
+    <string name="player_nowplaying_song_limit_message">Now Playing에는 %1$d곡까지 추가 가능하며, 이를 초과시 기존 곡이 자동 삭제됩니다.</string>
+    <string name="player_nowplaying_video_limit_message">Now Playing에는 %1$d편까지 추가 가능하며, 이를 초과시 기존 영상이 삭제됩니다.</string>
+    <string name="player_playlist_empty_change_to_temp_message">플레이리스트가 비어 임시 플레이 리스트로 전환 합니다.</string>
+    <string name="player_pps_push_error_message">라이트 이용권 차감에 실패하여 재생이 중지됩니다.</string>
+    <string name="player_pps_push_message">음악감상 1회 차감되었습니다.</string>
+    <string name="player_section_repeate_on">구간 반복 기능은 최대 60초까지 설정 가능합니다</string>
+    <string name="player_section_repeate_over_60">"구간 반복 기능은 최대 60초까지 설정 가능합니다.
+재생 시점을 이동한 후 반복 구간을 다시 설정해주세요."</string>
+    <string name="player_sound_effect">Sound Effect</string>
+    <string name="player_sound_effect_chrome_cast_message">크롬캐스트로 재생 시에는 Sound Design Pro 설정이 적용되지 않습니다.</string>
+    <string name="player_sound_effect_control_bass">Bass</string>
+    <string name="player_sound_effect_control_enhance">Enhance</string>
+    <string name="player_sound_effect_control_mid">Mid</string>
+    <string name="player_sound_effect_control_spacious">Spacious</string>
+    <string name="player_sound_effect_control_treble">Treble</string>
+    <string name="player_sound_effect_preset_basic">BASIC</string>
+    <string name="player_sound_effect_preset_bright">BRIGHT</string>
+    <string name="player_sound_effect_preset_warm">WARM</string>
+    <string name="player_stop_no_action_user_long_time">"장시간 이용으로 네트워크 점검을 위해 재생이 중지되었습니다.
+이어서 듣기를 원하실 경우 알림을 닫으신 후 재생 버튼을 눌러주세요."</string>
+    <string name="player_ticket_b2b_download_message">"해당 음원을 이용하시려면 '다운로드' 버튼을 눌러주세요. 
+다운로드 후 '저장한음악'에서 감상하실 수 있습니다."</string>
+    <string name="player_ticket_b2b_download_none_message">다운로드 이용권을 모두 소진하여 이용이 불가합니다.</string>
+    <string name="player_ticket_b2b_download_none_title">특정 권리사의 음원에 한하여 스마트폰 전용 음원 다운로드 후에 이용하실 수 있습니다.</string>
+    <string name="player_ticket_b2b_download_title">특정 권리사의 음원에 한하여 스마트폰 전용 음원 다운로드 후에 이용하실 수 있습니다.</string>
+    <string name="player_ticket_b2b_message">"발급된 쿠폰을 등록 후 사용하세요. 
+(프로필 > 쿠폰함에서도 쿠폰 등록 가능)"</string>
+    <string name="player_ticket_b2b_regist_comp">"쿠폰 등록이 완료되었습니다. 
+다음 곡부터 정상적으로 재생됩니다."</string>
+    <string name="player_ticket_b2b_title">"'쿠폰 발급 및 등록' 버튼을 클릭하세요."</string>
+    <string name="player_ticket_buy">이용권 구매</string>
+    <string name="player_ticket_login">로그인</string>
+    <string name="player_ticket_pps_buy">이용권 구매</string>
+    <string name="player_ticket_pps_discount_buy">할인권 구매</string>
+    <string name="player_ticket_setting">엠넷닷컴 PC웹 > 마이페이지에서 설정을 변경할 수 있습니다.</string>
+    <string name="player_ticket_setting_title">"PPS이용권을 '사용하지 않음'으로 설정 되어 있습니다."</string>
+    <string name="player_ticket_sub_message_1">"비로그인 시에는 1분 미리듣기만 가능합니다. 
+로그인 후 전곡을 즐겨보세요."</string>
+    <string name="player_ticket_sub_message_2">온전히 즐길 수 있도록 이용권을 구매해보세요.</string>
+    <string name="player_ticket_sub_message_3">"음원권리사의 요청에 의해 재생이 제한됩니다.
+라이트이용권을 구매하시면 전곡청취 가능합니다."</string>
+    <string name="player_ticket_sub_message_4">"라이트 이용권이 OFF로 설정되어 있습니다.
+이용권 설정 변경 후 전곡청취 가능합니다."</string>
+    <string name="player_ticket_sub_message_5">"PC전용 이용권을 사용하고 계십니다.
+스트리밍 설정 변경 후 전곡청취 가능합니다."</string>
+    <string name="player_ticket_sub_message_6">상품으로는 1분 미리듣기만 가능합니다.</string>
+    <string name="player_ticket_title_message_1">현재 1분 미리 듣기 이용 중입니다.</string>
+    <string name="player_ticket_title_message_2">음원 재생이 가능한 이용권이 없으시네요.</string>
+    <string name="player_ticket_title_message_3">현재 이용 중이신 [클래식/재즈 마스터즈 음악감상]</string>
+    <string name="player_ticket_use">바로가기</string>
+    <string name="playlist">플레이리스트</string>
+    <string name="playlist_actionbar_music_text">개의 음악 플레이리스트</string>
+    <string name="playlist_actionbar_video_text">개의 영상 플레이리스트</string>
+    <string name="playlist_add">플레이리스트에 담기</string>
+    <string name="playlist_add_add_message">플레이리스트를 담기했습니다.</string>
+    <string name="playlist_add_cancel_message">플레이리스트를 담기 취소했습니다.</string>
+    <string name="playlist_add_imme_play">담은 후 바로 재생</string>
+    <string name="playlist_add_make_title">새로 만들기</string>
+    <string name="playlist_add_mobile">모바일 플레이리스트에 담기</string>
+    <string name="playlist_add_nowplaying">선택하신 %1$d곡을 Now Playing에 담았습니다.</string>
+    <string name="playlist_all_listen">전곡듣기</string>
+    <string name="playlist_bookbark_over_5">즐겨듣는 모바일 플레이리스트는 최대 5개까지 지정할 수 있습니다.</string>
+    <string name="playlist_bookmark_off_toast">"'즐겨듣기'
+취소 하였습니다"</string>
+    <string name="playlist_bookmark_on_toast">"'즐겨듣기'한 내용은
+플레이리스트 상단에서
+확인하세요"</string>
+    <string name="playlist_bookmark_video_off_toast">"'즐겨보기'
+취소 하였습니다"</string>
+    <string name="playlist_bookmark_video_on_toast">"'즐겨보기'한 내용은
+플레이리스트 상단에서
+확인하세요"</string>
+    <string name="playlist_change_page">다른 플레이리스트로 이동하시겠습니까? 편집한 내용은 저장되지 않습니다.</string>
+    <string name="playlist_count_video">총 %1$d개</string>
+    <string name="playlist_delete">플레이리스트 삭제</string>
+    <string name="playlist_delete_list_item">"선택하신 곡을 삭제 하시겠습니까?
+(기기 내 음원 파일이 삭제됩니다.)"</string>
+    <string name="playlist_delete_list_item_success">선택하신 %1$s개의 곡이 삭제 되었습니다.</string>
+    <string name="playlist_delete_popup_text">현재 재생중인 플레이리스트를 삭제하는 경우 재생이 중지되며, 플레이리스트는 Now Playing으로 자동 변환됩니다.</string>
+    <string name="playlist_detail_add">플레이리스트 담기</string>
+    <string name="playlist_detail_delete">플레이리스트 담기 취소</string>
+    <string name="playlist_edit">편집</string>
+    <string name="playlist_edit_completed">편집이 완료되었습니다.</string>
+    <string name="playlist_edit_list_zero">편집할 플레이리스트가 없습니다.</string>
+    <string name="playlist_edit_mode_change_data">"플레이리스트 내 변경된 내용이 있습니다.
+
+편집 내용을 저장하지 않고
+이전으로 돌아가시겠습니까?"</string>
+    <string name="playlist_edit_mode_completed">편집완료</string>
+    <string name="playlist_edit_mode_remove_duplication">중복곡 삭제</string>
+    <string name="playlist_edit_mode_remove_vod_duplication">중복 영상 삭제</string>
+    <string name="playlist_edit_mode_selected_list_number">%1$s개 선택</string>
+    <string name="playlist_edit_mode_sort">정렬</string>
+    <string name="playlist_edit_mode_total_list_number">전체%1$s개</string>
+    <string name="playlist_edit_no_list">리스트가 없습니다.</string>
+    <string name="playlist_edit_remove_duplication_empty_message">중복된 곡이 없습니다.</string>
+    <string name="playlist_edit_remove_duplication_message">"중복된 %1$s곡이 삭제되었습니다.
+편집완료 선택시 적용됩니다."</string>
+    <string name="playlist_edit_remove_vod_duplication_empty_message">중복된 영상이 없습니다.</string>
+    <string name="playlist_edit_remove_vod_duplication_message">"중복된 %1$s영상이 삭제되었습니다.
+편집완료 선택시 적용됩니다."</string>
+    <string name="playlist_footer">맨위로</string>
+    <string name="playlist_header_like">좋아요 한 곡</string>
+    <string name="playlist_header_manysong">많이 들은 곡</string>
+    <string name="playlist_individual_date">최종수정 %1$s</string>
+    <string name="playlist_item_add_completed">선택하신 %1$d곡을 &lt;%2$s>에 담았습니다.</string>
+    <string name="playlist_item_add_completed_duplication">중복 곡을 삭제하고 %1$d곡을 &lt;%2$s>에 담았습니다.</string>
+    <string name="playlist_item_add_include_mobile">선택하신 곡 중 로컬 음원이 포함되어 있어 모바일 플레이리스트에만 저장하실 수 있습니다.</string>
+    <string name="playlist_item_add_item_list_over_500">플레이리스트는 최대 %1$d곡까지 추가 가능합니다. 선택하신 곡 중 위에서부터 %2$d곡만 추가하시겠습니까?</string>
+    <string name="playlist_item_add_list_item_over_500">플레이리스트의 저장 곡 수가 %1$d곡을 초과 하였습니다. 다른 플레이리스트를 선택하거나, 새로운 플레이리스트를 생성하여 담아주세요.</string>
+    <string name="playlist_item_add_play_completed">선택하신 %1$d곡을 &lt;%2$s>에서 재생합니다.</string>
+    <string name="playlist_item_add_play_video_completed">선택하신 %1$d편을 &lt;%2$s>에 재생합니다.</string>
+    <string name="playlist_item_add_selected_item_over_500">담기는 최대 %1$d곡까지 가능합니다. 선택하신 곡 중 위에서부터 %2$d곡만을 추가하시겠습니까?</string>
+    <string name="playlist_item_add_selected_video_item_over_500">담기는 최대 %1$d편까지 가능합니다. 선택하신 영상 중 위에서부터 %2$d편만을 추가하시겠습니까?</string>
+    <string name="playlist_item_add_video_completed">선택하신 %1$d편을 &lt;%2$s>에 담았습니다.</string>
+    <string name="playlist_item_add_video_completed_duplication">중복 영상을 삭제하고 %1$d편을 &lt;%2$s>에 담았습니다.</string>
+    <string name="playlist_item_add_video_item_list_over_500">플레이리스트는 최대 %1$d편까지 추가 가능합니다. 선택하신 곡 중 위에서부터 %2$d편만 추가하시겠습니까?</string>
+    <string name="playlist_item_add_video_list_item_over_500">플레이리스트의 저장 영상 수가 %1$d편을 초과 하였습니다. 다른 플레이리스트를 선택하거나, 새로운 플레이리스트를 생성하여 담아주세요.</string>
+    <string name="playlist_item_creator">by</string>
+    <string name="playlist_item_delete_complete_toast">편집이 완료되었습니다.</string>
+    <string name="playlist_item_delete_popup_text">현재 재생 중인 곡을 삭제하는 경우 재생이 중지 됩니다.</string>
+    <string name="playlist_item_delete_toast">삭제되었습니다.</string>
+    <string name="playlist_item_play_item_list_over_500">플레이리스트는 최대 %1$d곡까지 추가 가능합니다. 선택하신 곡 중 위에서부터 %2$d곡만 추가하여 재생하시겠습니까?</string>
+    <string name="playlist_item_play_list_item_over_500">플레이리스트의 저장 곡 수가 %1$d곡을 초과 하였습니다. 다른 플레이리스트를 선택하거나, 현재 플레이리스트를 편집해주세요.</string>
+    <string name="playlist_item_play_video_item_list_over_500">플레이리스트는 최대 %1$d편까지 추가 가능합니다. 선택하신 곡 중 위에서부터 %2$d편만 추가하여 재생하시겠습니까?</string>
+    <string name="playlist_item_play_video_list_item_over_500">플레이리스트의 저장 영상 수가 %1$d편을 초과 하였습니다. 다른 플레이리스트를 선택하거나, 현재 플레이리스트를 편집해주세요.</string>
+    <string name="playlist_library_albumnolist">저장된 앨범이 없습니다.</string>
+    <string name="playlist_library_artistnolist">저장된 아티스트가 없습니다.</string>
+    <string name="playlist_library_button_left">"스마트폰 전용
+음원 보관함"</string>
+    <string name="playlist_library_button_right">"로컬 음원 보관함
+MP3, CDQ"</string>
+    <string name="playlist_library_songnolist">저장된 곡이 없습니다.</string>
+    <string name="playlist_list_add_over_999">플레이리스트는 음악과 영상을 합해 최대 999개까지 생성 가능합니다.</string>
+    <string name="playlist_list_delete_popup_text">현재 재생중인 곡을 삭제하는 경우 재생이 중지됩니다.</string>
+    <string name="playlist_list_public_delete_popup_text">"비공개 전환된 플레이리스트입니다.
+해당 플레이리스트를 삭제하시겠습니까?"</string>
+    <string name="playlist_listen_all_music">현재 재생 목록이 교체되어 %1$s의 첫번째 곡부터 재생합니다.</string>
+    <string name="playlist_listen_all_video">현재 재생 목록이 교체되어 %1$s의 첫번째 영상부터 재생합니다.</string>
+    <string name="playlist_listen_selected_music">현재 재생 목록이 교체되어 %1$s의 선택 곡부터 재생합니다.</string>
+    <string name="playlist_listen_some_music">선택하신 %1$d곡을 Now Playing에서 재생합니다.</string>
+    <string name="playlist_lock_off">공개</string>
+    <string name="playlist_lock_on">비공개</string>
+    <string name="playlist_main_btn_meet_theme">테마와 만나다</string>
+    <string name="playlist_main_btn_my_radio">나의 맞춤 추천 라디오</string>
+    <string name="playlist_main_btn_mytune">MY TUNE</string>
+    <string name="playlist_main_btn_playlist">PLAYLIST</string>
+    <string name="playlist_main_title_musicplaylist">음악 플레이리스트</string>
+    <string name="playlist_main_title_videoplaylist">영상 플레이리스트</string>
+    <string name="playlist_main_title_write">인기 제작자</string>
+    <string name="playlist_make">새 플레이리스트 만들기</string>
+    <string name="playlist_make_description">이 기기에서만 이용할 수 있으며 다른 기기 및 유저들과 공유할 수 없는 현재 기기의 전용 플레이리스트입니다.</string>
+    <string name="playlist_make_description_1">모바일 플레이리스트는 현재 기기에만 저장 가능한 전용 플레이리스트입니다.</string>
+    <string name="playlist_make_description_2">모바일 플레이리스트는 다른 기기(PC, 다른 모바일 기기)간 연동되지 않습니다.</string>
+    <string name="playlist_make_description_3">MP3, CDQ 음원은 모바일 플레이리스트와 Now Playing에만 담겨집니다.</string>
+    <string name="playlist_make_description_4">모바일 플레이리스트는 공개 설정이 불가능합니다.</string>
+    <string name="playlist_make_etc">기타 태그</string>
+    <string name="playlist_make_etc_hint">직접 입력(최대 5개, 총 글자수 100자 미만)</string>
+    <string name="playlist_make_event_btn">이달의 미션 보러가기</string>
+    <string name="playlist_make_event_msg">나만의 플레이리스트 만들고 우리 함께 공감해요!</string>
+    <string name="playlist_make_input_title">플레이리스트의 이름을 입력해주세요.</string>
+    <string name="playlist_make_list_title">"플레이리스트
+만들기"</string>
+    <string name="playlist_make_make">만들기</string>
+    <string name="playlist_make_mobile">이 기기에서만 이용합니다.</string>
+    <string name="playlist_make_modify">플레이리스트 수정</string>
+    <string name="playlist_make_modify_complete">수정완료</string>
+    <string name="playlist_make_no_login">로그아웃 시에는, 모바일 플레이리스트만 생성 가능합니다.</string>
+    <string name="playlist_make_selected_tag_over_5">최대 5개까지 입력 가능합니다.</string>
+    <string name="playlist_make_selected_tag_text_length_over">글자 수는 한글 100자, 영문 200자를 초과할 수 없습니다.</string>
+    <string name="playlist_make_selected_theme_over_9">최대 9개까지 선택 가능합니다.</string>
+    <string name="playlist_make_show_playlist">플레이리스트를 공개합니다.</string>
+    <string name="playlist_make_video">새 영상 플레이리스트 만들기</string>
+    <string name="playlist_make_video_modify">영상 플레이리스트 수정</string>
+    <string name="playlist_mobile">모바일</string>
+    <string name="playlist_mobile_description_1">모바일 플레이리스트는 현재 기기에만 저장 가능한 전용 플레이리스트입니다.</string>
+    <string name="playlist_mobile_description_2">모바일 플레이리스트는 다른 기기(PC, 다른 모바일 기기)간 연동되지 않습니다.</string>
+    <string name="playlist_mobile_description_3">MP3, CDQ 음원은 모바일 플레이리스트와 Now Playing에만 담겨집니다.</string>
+    <string name="playlist_mobile_description_4">모바일 플레이리스트는 공개 설정이 불가능합니다.</string>
+    <string name="playlist_mobile_list_add_over_100">모바일 플레이리스트는 최대 100개까지 생성 가능합니다.</string>
+    <string name="playlist_music">음악</string>
+    <string name="playlist_name_mytune">마이튠</string>
+    <string name="playlist_name_radio">Radio For Me</string>
+    <string name="playlist_name_temp">Now Playing</string>
+    <string name="playlist_no_like_item_description">좋아요 한 곡이 하나도 없습니다.</string>
+    <string name="playlist_no_like_video_item_description">좋아요 한 영상이 하나도 없습니다.</string>
+    <string name="playlist_no_list">조회된 플레이리스트가 없습니다.</string>
+    <string name="playlist_no_listen_item_description">감상 내역이 없습니다.</string>
+    <string name="playlist_no_login_go_to_login">로그인 하기</string>
+    <string name="playlist_no_login_popup_text">"플레이리스트의 모든 기능을 이용하기 위해서는 로그인이 필요합니다.
+로그인 하시겠습니까?"</string>
+    <string name="playlist_no_login_text">"음악, 영상, 구독 플레이리스트를
+이용하기 위해서는
+로그인이 필요합니다."</string>
+    <string name="playlist_no_music_item_button_text">인기 Top 100 보러가기</string>
+    <string name="playlist_no_music_item_description">"담겨있는 곡이 하나도 없습니다.
+엠넷닷컴의 인기곡을 플레이리스트에 담아볼까요?"</string>
+    <string name="playlist_no_music_item_description_for_publicplaylist">곡이 없습니다.</string>
+    <string name="playlist_no_video_item_button_text">엠넷TV 보러가기</string>
+    <string name="playlist_no_video_item_description">"담겨있는 영상이 하나도 없습니다.
+엠넷닷컴의 인기 영상을 플레이리스트에 담아볼까요?"</string>
+    <string name="playlist_nowplaying_music_item_add_list_item_over_1000">담기는 최대 5,000곡까지 가능합니다. 선택하신 곡 중 위에서부터 5,000곡만을 추가하시겠습니까?</string>
+    <string name="playlist_nowplaying_music_item_add_selected_item_over_1000">"Now Playing에는 &lt;font color=#E40076>최대 5,000곡&lt;/font>까지 담기 가능합니다.
+&lt;font color=#E40076>이를 초과시 기존 곡이 자동 삭제&lt;/font>됩니다."</string>
+    <string name="playlist_nowplaying_video_item_add_list_item_over_1000">담기는 최대 5,000편까지 가능합니다. 선택하신 곡 중 위에서부터 5,000편만을 추가하시겠습니까?</string>
+    <string name="playlist_nowplaying_video_item_add_selected_item_over_1000">"Now Playing에는 &lt;font color=#E40076>최대 5,000편&lt;/font>까지 담기 가능합니다.
+&lt;font color=#E40076>이를 초과시 기존 영상이 자동 삭제&lt;/font>됩니다."</string>
+    <string name="playlist_only_mobile">모바일 전용보기</string>
+    <string name="playlist_play">플레이리스트 듣기</string>
+    <string name="playlist_search">검색</string>
+    <string name="playlist_search_cancel">취소</string>
+    <string name="playlist_search_hint">플레이리스트 이름 입력</string>
+    <string name="playlist_search_hint_music">곡명, 아티스트명, 앨범명 입력</string>
+    <string name="playlist_search_hint_video">영상명, 아티스트명, 방송명 입력</string>
+    <string name="playlist_shared_all_mp3_cdq">MP3, CDQ 음원은 공유가 불가능 합니다.</string>
+    <string name="playlist_shared_some_mp3_cdq">"MP3, CDQ 음원은 공유가 불가능 합니다.
+해당 음원을 제외하고 공유하시겠습니까?"</string>
+    <string name="playlist_sort_name">이름 순 정렬</string>
+    <string name="playlist_sort_update">업데이트 순 정렬</string>
+    <string name="playlist_subscription">구독</string>
+    <string name="playlist_subscription_all_empty_text_bottom">"내 취향에 맞는 카테고리와
+공개 플레이리스트 제작자를 구독해보세요"</string>
+    <string name="playlist_subscription_all_empty_text_top">"구독 중인 플레이리스트가
+아직 없으신가요?"</string>
+    <string name="playlist_subscription_empty_button_left">"공개 플레이리스트
+제작자 구독하기"</string>
+    <string name="playlist_subscription_empty_button_right">"뮤직스타일러
+구독하기"</string>
+    <string name="playlist_subscription_empty_button_user">"공개 플레이리스트
+제작자 구독하기"</string>
+    <string name="playlist_subscription_music_styler_empty_text_bottom">"뮤직스타일러에서
+내 취향에 맞는 카테고리를 구독해보세요"</string>
+    <string name="playlist_subscription_music_styler_empty_text_top">"구독 중인 뮤직스타일러가
+아직 없으신가요?"</string>
+    <string name="playlist_subscription_new">NEW</string>
+    <string name="playlist_subscription_update">UPDATE</string>
+    <string name="playlist_subscription_user_bottom_text1">공개 플레이리스트 추가 구독하러 가기</string>
+    <string name="playlist_subscription_user_bottom_text2">뮤직스타일러 추가 구독하러 가기</string>
+    <string name="playlist_subscription_user_bottom_text3">공개 플레이리스트 제작자 추가 구독하기</string>
+    <string name="playlist_subscription_user_empty_text_bottom">"공개 플레이리스트에서
+내 취향에 맞는 제작자를 구독해보세요"</string>
+    <string name="playlist_subscription_user_empty_text_top">"구독 중인 공개 플레이리스트가
+아직 없으신가요?"</string>
+    <string name="playlist_subscription_user_update_text">업데이트 %1$s</string>
+    <string name="playlist_templist">Now Playing</string>
+    <string name="playlist_templist_title">"Now
+Playing"</string>
+    <string name="playlist_total_list_number">%1$s개의 %2$s 플레이리스트</string>
+    <string name="playlist_video">영상</string>
+    <string name="playlist_video_add">영상 플레이리스트에 담기</string>
+    <string name="playlist_video_header_like">좋아요 한 영상</string>
+    <string name="playlist_video_play">플레이리스트 보기</string>
+    <string name="playlist_visibile_mobile">모바일 플레이리스트 보기</string>
+    <string name="playlist_visibile_public">담은 플레이리스트 보기</string>
+    <string name="playlist_visibile_video_public">담은 플레이리스트 보기</string>
+    <string name="policy_agreement">약관 동의</string>
+    <string name="policy_agreement_alert_msg">%1$s에 동의해주시기 바랍니다.</string>
+    <string name="policy_agreement_all_agreements">"이용약관(필수), 개인정보 수집 및
+이용 동의(필수)에 모두 동의합니다."</string>
+    <string name="policy_agreement_broadcast_service">방송 서비스 관련</string>
+    <string name="policy_agreement_choice_privacy_alert_msg">개인정보 수집 및 이용동의(선택) 항목에 동의해주시기 바랍니다.</string>
+    <string name="policy_agreement_choice_privacy_using">개인정보 수집 및 이용 동의(선택)</string>
+    <string name="policy_agreement_close_alert_msg">약관 동의를 중단하시면 서비스를 사용하실 수 없습니다. 계속하시겠습니까?</string>
+    <string name="policy_agreement_completion">약관 동의 완료</string>
+    <string name="policy_agreement_completion_text">약관 동의 및 마케팅 수신 동의/거부가 완료되었습니다.</string>
+    <string name="policy_agreement_full_text">전문보기</string>
+    <string name="policy_agreement_marketing_agreement">마케팅 동의</string>
+    <string name="policy_agreement_marketing_all_agreements">"개인정보 수집 및 이용 동의(선택) 및
+모든 서비스에대한 마케팅 정보수신에
+모두 동의 합니다."</string>
+    <string name="policy_agreement_marketing_all_agreements_explanation">"고객님께 유용한 각종 이벤트 및 행사관련 정보를 안내해
+드리기 위해서는 마케팅 수신 동의가 필요합니다.
+미동의시에도 서비스 이용은 가능합니다."</string>
+    <string name="policy_agreement_mnet_music_service">엠넷 음악 서비스 관련</string>
+    <string name="policy_agreement_mtune_music_service">엠튠 음악 서비스 관련</string>
+    <string name="policy_agreement_mwave_service">Mwave 서비스 관련</string>
+    <string name="policy_agreement_network_error_alert_msg">네트워크 연결 또는 서버 접속에 실패하였습니다. 연결 상태를 확인하신 후 다시 시도해주시고, 문제가 지속될 경우 고객센터에 문의해주세요.</string>
+    <string name="policy_agreement_next_step">다음 단계</string>
+    <string name="policy_agreement_privacy_using">개인정보 수집 및 이용 동의(필수)</string>
+    <string name="policy_agreement_result">"%1$s CJ E&amp;M 회원가입 시
+선택동의/거부와 마케팅 수신동의/거부는
+아래와 같이 처리되었습니다."</string>
+    <string name="policy_agreement_result_agree">동의</string>
+    <string name="policy_agreement_result_disagree">미동의</string>
+    <string name="policy_agreement_result_explanation">각종 이벤트 및 행사관련 정보안내 및 경품 발송 등 제반&lt;br/>마케팅활동에 필요한 회원님의 휴대폰 번호&lt;br/>수집 및 이용에 &lt;font color=#E40076>%1$s&lt;/font> 하였습니다.</string>
+    <string name="policy_agreement_select_receiving_things_service">수신 대상 서비스 및 수단 선택</string>
+    <string name="policy_agreement_sms">SMS</string>
+    <string name="policy_agreement_terms_conditions">이용약관(필수)</string>
+    <string name="popular_creator_list">인기 제작자</string>
+    <string name="popular_creator_top">인기 제작자 TOP 20</string>
+    <string name="popular_public_playlist">BEST 플레이리스트</string>
+    <string name="profile">프로필</string>
+    <string name="program">프로그램</string>
+    <string name="program_grade_1519">프로그램 시청등급</string>
+    <string name="program_grade_comment">화면해설</string>
+    <string name="program_grade_live">생방송</string>
+    <string name="program_grade_re">재방송</string>
+    <string name="program_grade_regular">본방(초방)</string>
+    <string name="program_grade_sign">수화통역</string>
+    <string name="program_grade_subtitle">자막</string>
+    <string name="program_info">프로그램 정보</string>
+    <string name="program_introduce">프로그램 소개</string>
+    <string name="program_lastweek_tab">이전주</string>
+    <string name="program_nextweek_tab">다음주</string>
+    <string name="program_on_air_icon">ON AIR</string>
+    <string name="public_playlist">공개 플레이리스트</string>
+    <string name="public_playlist_all_playlist">모든 플레이리스트</string>
+    <string name="public_playlist_count_message">총 %1$s개의 플레이리스트가 있습니다.</string>
+    <string name="public_playlist_created_date">최초생성</string>
+    <string name="public_playlist_empty_message">플레이리스트가 없습니다.</string>
+    <string name="public_playlist_last_update_date">최종수정</string>
+    <string name="public_playlist_last_update_date_new">최종수정 ·</string>
+    <string name="public_playlist_more">더보기</string>
+    <string name="public_playlist_music_empty_message">음악 플레이리스트가 없습니다.</string>
+    <string name="public_playlist_user_name">님</string>
+    <string name="public_playlist_users_playlist">%1$s님의 플레이리스트</string>
+    <string name="public_playlist_video_empty_message">영상 플레이리스트가 없습니다.</string>
+    <string name="public_push_empty_message">알림이 없습니다</string>
+    <string name="push_box">알림함</string>
+    <string name="push_popup_allow">허용</string>
+    <string name="push_popup_content">"푸쉬알림을 설정하시면 실시간 앨범 발매정보, 아티스트 소식, 각종 이벤트 및 마케팅정보를 알림으로 받아보실 수 있어요!
+푸쉬알림 설정을 허용하시겠습니까?"</string>
+    <string name="push_popup_forbid">허용하지 않음</string>
+    <string name="push_popup_title">푸시 알림 수신에 동의하시겠습니까?</string>
+    <string name="quick_artist">다양한 음악을 즐겨보세요</string>
+    <string name="quick_title">HD 3.0 엠넷</string>
+    <string name="radio">라디오</string>
+    <string name="recent_listen">최근 감상곡</string>
+    <string name="recent_listen_title">감상내역</string>
+    <string name="recent_mychart_empty_text">많이 들은 곡 정보가 없습니다.</string>
+    <string name="recent_song_empty_text">최근 감상곡이 없습니다.</string>
+    <string name="recent_video_empty_text">최근 본 영상이 없습니다.</string>
+    <string name="recommend_music">추천곡</string>
+    <string name="regular_ticket_info">정기 결제 관리</string>
+    <string name="regular_ticket_list">정기 결제 내역</string>
+    <string name="related_video">관련영상</string>
+    <string name="relation_album">관련 앨범</string>
+    <string name="relation_artist">연관 아티스트</string>
+    <string name="relation_artist_see">연관 아티스트 보기</string>
+    <string name="relation_info_no_data">관련 정보가 없습니다.</string>
+    <string name="release_album">발매 앨범</string>
+    <string name="requesting">요청 중...</string>
+    <string name="retry">재시도</string>
+    <string name="review">리뷰</string>
+    <string name="screen_CDQ">CDQ</string>
+    <string name="screen_big_widget">big_widget</string>
+    <string name="screen_chart">chart</string>
+    <string name="screen_curation">curation</string>
+    <string name="screen_download_drm_mr_limit">download_drm_mr_limit</string>
+    <string name="screen_download_drm_mr_unlimit">download_drm_mr_unlimit</string>
+    <string name="screen_download_history">download_history</string>
+    <string name="screen_download_lgt_drm">download_lgt_drm</string>
+    <string name="screen_download_lgt_free">download_lgt_free</string>
+    <string name="screen_download_lgt_mp3">download_lgt_mp3</string>
+    <string name="screen_download_manager">download_manager</string>
+    <string name="screen_download_mp3">download_mp3</string>
+    <string name="screen_download_mp3_cdq">download_mp3_cdq</string>
+    <string name="screen_download_mp3_drm">download_mp3_drm</string>
+    <string name="screen_download_mp3_maq">download_mp3_maq</string>
+    <string name="screen_download_mp3_ticket">download_mp3_ticket</string>
+    <string name="screen_genre">genre</string>
+    <string name="screen_hdlive">hdlive</string>
+    <string name="screen_hdmusic">hdmusic</string>
+    <string name="screen_left_menu">menu</string>
+    <string name="screen_like_history">like_history</string>
+    <string name="screen_listen_history">listen_history</string>
+    <string name="screen_login">login</string>
+    <string name="screen_login_ctn">login_ctn</string>
+    <string name="screen_menu">menu</string>
+    <string name="screen_mnet_tv">mnet_tv</string>
+    <string name="screen_mnet_tv_detail">mnet_tv</string>
+    <string name="screen_mnet_tv_onair">mnet_tv</string>
+    <string name="screen_mnet_tv_schedule">mnet_tv_schedule</string>
+    <string name="screen_more_mnet">more_mnet</string>
+    <string name="screen_musicstyler">musicstyler</string>
+    <string name="screen_musicstyler_detail">musicstyler/</string>
+    <string name="screen_mv">mv</string>
+    <string name="screen_mytune">mytune</string>
+    <string name="screen_newalbum">newalbum</string>
+    <string name="screen_newgenre">genre</string>
+    <string name="screen_newgenre_ballads">genre_ballads</string>
+    <string name="screen_newgenre_ccm">genre_ccm</string>
+    <string name="screen_newgenre_classical">genre_classical</string>
+    <string name="screen_newgenre_dance">genre_dance</string>
+    <string name="screen_newgenre_electronica">genre_electronica</string>
+    <string name="screen_newgenre_hiphop">genre_hiphop</string>
+    <string name="screen_newgenre_hiphop_k">genre_hiphop_k</string>
+    <string name="screen_newgenre_indie">genre_indie</string>
+    <string name="screen_newgenre_jazz">genre_jazz</string>
+    <string name="screen_newgenre_jpop">genre_jpop</string>
+    <string name="screen_newgenre_kpop">genre_kpop</string>
+    <string name="screen_newgenre_musical">genre_musical</string>
+    <string name="screen_newgenre_newborn">genre_newborn</string>
+    <string name="screen_newgenre_newborn_page">genre_newborn_page</string>
+    <string name="screen_newgenre_ost">genre_ost</string>
+    <string name="screen_newgenre_ost_mov">genre_ost_mov</string>
+    <string name="screen_newgenre_ost_tv">genre_ost_tv</string>
+    <string name="screen_newgenre_pop">genre_pop</string>
+    <string name="screen_newgenre_rock">genre_rock</string>
+    <string name="screen_newgenre_rock_k">genre_rock_k</string>
+    <string name="screen_newgenre_trot">genre_trot</string>
+    <string name="screen_newgenre_worldmusic">genre_worldmusic</string>
+    <string name="screen_newmusic">newmusic</string>
+    <string name="screen_newmusic_album">newmusic_album</string>
+    <string name="screen_newmusic_song">newmusic_song</string>
+    <string name="screen_onair">onair</string>
+    <string name="screen_open_playlist">open_playlist</string>
+    <string name="screen_open_playlist_detail">open_playlist/</string>
+    <string name="screen_period">period</string>
+    <string name="screen_playlist_user">playlist_user_detail</string>
+    <string name="screen_popular_playlist_user">playlist_user</string>
+    <string name="screen_profile">profile</string>
+    <string name="screen_profile_coupon">profile_coupon</string>
+    <string name="screen_profile_open_playlist">profile_open_playlist</string>
+    <string name="screen_profile_regular_ticket">profile_regular_ticket</string>
+    <string name="screen_profile_ticket">profile_ticket</string>
+    <string name="screen_program_detail">program_detail</string>
+    <string name="screen_search">search</string>
+    <string name="screen_setting">setting</string>
+    <string name="screen_setting_alarm">setting_alarm</string>
+    <string name="screen_setting_device">setting_device</string>
+    <string name="screen_setting_opensource_licesnse">setting_opensource_license</string>
+    <string name="screen_setting_player">setting_player</string>
+    <string name="screen_setting_timer">setting_timer</string>
+    <string name="screen_setting_widget">setting_widget</string>
+    <string name="screen_small_widget">small_widget</string>
+    <string name="screen_theme">theme</string>
+    <string name="screen_tvmusic">tvmusic</string>
+    <string name="screen_tvmusic_detail">tvmusic/</string>
+    <string name="screen_type">phone</string>
+    <string name="search_auto_keyword_empty_message">"검색 결과가 없습니다.
+다른 키워드로 검색해 보세요."</string>
+    <string name="search_edittext_hint">  검색어 입력</string>
+    <string name="search_menu_title">Search</string>
+    <string name="search_msg_no_voicesearch">"구글 음성 검색이 설치되지 않았습니다.
+지금설치 하시겠습니까?"</string>
+    <string name="search_recent_empty_message">"선호하는 음악, 앨범, 아티스트, 영상을
+검색해보세요."</string>
+    <string name="search_recent_list_all_delete_message">검색기록 모두삭제</string>
+    <string name="search_result_all_album">앨범  </string>
+    <string name="search_result_all_artist">아티스트  </string>
+    <string name="search_result_all_clip">클립  </string>
+    <string name="search_result_all_lyrics">가사  </string>
+    <string name="search_result_all_mnet_tv">본편  </string>
+    <string name="search_result_all_music">곡  </string>
+    <string name="search_result_all_mv">뮤직비디오  </string>
+    <string name="search_result_all_playlist_music">플레이리스트 음악  </string>
+    <string name="search_result_all_playlist_video">플레이리스트 영상  </string>
+    <string name="search_result_no_artist_info">없는 아티스트입니다.</string>
+    <string name="search_result_playlist_domaincd_clip">영상</string>
+    <string name="search_result_playlist_domaincd_creator">제작자</string>
+    <string name="search_result_playlist_domaincd_song">음악</string>
+    <string name="search_result_program_onair_type_end">종영</string>
+    <string name="search_result_program_onair_type_onair">방영중</string>
+    <string name="search_result_song_domaincd_album">앨범명</string>
+    <string name="search_result_song_domaincd_all">전체</string>
+    <string name="search_result_song_domaincd_artist">아티스트명</string>
+    <string name="search_result_song_domaincd_song">곡명</string>
+    <string name="search_voicesearch_market_uri">market://search?q=Google 음성검색</string>
+    <string name="search_voicesearch_market_uri_froyo">market://details?id=com.google.android.voicesearch</string>
+    <string name="select_add">선택담기</string>
+    <string name="select_album">구매</string>
+    <string name="select_all">전체선택</string>
+    <string name="select_delete">삭제하기</string>
+    <string name="select_down">다운</string>
+    <string name="select_download">다운로드</string>
+    <string name="select_insert">담기</string>
+    <string name="select_like_cancel">좋아요 취소</string>
+    <string name="select_listen">선택듣기</string>
+    <string name="select_move_down">아래로</string>
+    <string name="select_move_down_bottom">맨 아래로</string>
+    <string name="select_move_up">위로</string>
+    <string name="select_move_up_top">맨 위로</string>
+    <string name="select_payment_and_download">결제 및 다운로드</string>
+    <string name="select_share">공유하기</string>
+    <string name="select_share_shot">공유</string>
+    <string name="service_center">고객센터</string>
+    <string name="service_center_web_url">http://hera.mnet.com/mobile/guide/mnet_guide.asp</string>
+    <string name="service_guide">서비스 안내</string>
+    <string name="service_guide_title">공개 플레이리스트 서비스 안내</string>
+    <string name="service_request_already_text">"이미 서비스 신청하신 콘텐츠입니다.
+조속히 서비스 될 수 있도록 노력하겠습니다"</string>
+    <string name="service_request_ok_text">"서비스 신청이 접수되었습니다.
+조속히 서비스 될 수 있도록 노력하겠습니다."</string>
+    <string name="setting">설정</string>
+    <string name="setting_alarm_day_fri">금</string>
+    <string name="setting_alarm_day_mon">월</string>
+    <string name="setting_alarm_day_sat">토</string>
+    <string name="setting_alarm_day_sun">일</string>
+    <string name="setting_alarm_day_thu">목</string>
+    <string name="setting_alarm_day_title">요일 반복</string>
+    <string name="setting_alarm_day_tue">화</string>
+    <string name="setting_alarm_day_wed">수</string>
+    <string name="setting_alarm_playlist_title">플레이리스트 설정</string>
+    <string name="setting_alarm_use_desc">"설정한 시각에 맞추어 자동으로 리스트의 곡을 재생합니다.
+선택한 곡이 없을 시에는 기본음을 재생합니다."</string>
+    <string name="setting_alarm_use_title">알람 사용</string>
+    <string name="setting_alarm_volume">알람 볼륨</string>
+    <string name="setting_audiofocus_setting">음량 자동조절 사용</string>
+    <string name="setting_audiofocus_setting_msg">"네비게이션 앱에서 음성안내를 제공할 때, 엠넷 앱
+음악 재생 음량을 일시적으로 낮춥니다."</string>
+    <string name="setting_beacon_push_used">Beacon 알림 사용(Beta)</string>
+    <string name="setting_beacon_push_used_msg">"Beacon 기능을 통해 주변에 엠넷에서 제공하는 추천 콘텐츠가 존재하는 경우 알림으로 받아봅니다.
+※ 안드로이드 4.3(젤리빈) 버전 이상부터 지원하며, 일부 기기의 경우 정상적인 지원이 어려울 수 있습니다."</string>
+    <string name="setting_confirm">적용하기</string>
+    <string name="setting_download_device">다운로드 기기 설정</string>
+    <string name="setting_download_device_alert_btn">기기 등록</string>
+    <string name="setting_download_device_alert_del_files">기기 등록시 기기에 저장된 스마트폰 전용 음원이 모두 삭제 됩니다.</string>
+    <string name="setting_download_device_alert_msg">지금 사용중인 기기를 엠넷에 등록하시겠습니까?</string>
+    <string name="setting_download_device_alert_terms">기기 정보 저장 동의</string>
+    <string name="setting_download_device_alert_terms_msg">기기 정보 저장 동의를 해주세요.</string>
+    <string name="setting_download_device_alert_title">다운로드 기기 등록</string>
+    <string name="setting_download_device_delete">삭제</string>
+    <string name="setting_download_device_delete_completed">기기가 삭제되었습니다.</string>
+    <string name="setting_download_device_delete_failed">기기 삭제에 실패하였습니다.</string>
+    <string name="setting_download_device_delete_invalid_date">"기기 변경 가능 기간이 아닙니다.
+기기 변경 / 삭제는 월 1회 가능합니다."</string>
+    <string name="setting_download_device_modify">변경</string>
+    <string name="setting_download_device_modify_completed">기기 변경이 완료되었습니다.</string>
+    <string name="setting_download_device_modify_date">변경가능일 : %s</string>
+    <string name="setting_download_device_modify_failed">기기 변경이 실패하였습니다.</string>
+    <string name="setting_download_device_msg">스마트폰 전용 음원 다운로드를 위해서는 기기 등록이 필요합니다.</string>
+    <string name="setting_download_device_noti_msg_fir">&lt;font color=#888888>한 개의 ID당 &lt;/font>&lt;font color=#666666>&lt;b>최대 2대의 기기&lt;/b>&lt;/font>&lt;font color=#888888> 등록이 가능합니다.&lt;/font></string>
+    <string name="setting_download_device_noti_msg_sec">기기 변경 / 삭제는 월 1회 가능하며, 불가피한 사유로 기한 내 기기 변경이 필요할 경우 고객센터(1566–2226)로 문의해 주시기 바랍니다.</string>
+    <string name="setting_download_device_noti_msg_third">등록된 기기를 삭제시 기존에 다운로드 된 스마트폰 전용 음원은 사용이 제한됩니다.</string>
+    <string name="setting_download_device_noti_msg_title">음원 다운로드를 위해서는 기기 등록이 필요합니다.</string>
+    <string name="setting_download_device_regist">등록</string>
+    <string name="setting_download_device_regist_completed">기기 등록이 완료되었습니다.</string>
+    <string name="setting_download_device_regist_failed">기기 등록이 실패하였습니다.</string>
+    <string name="setting_download_device_regist_failed_multiple_account">"다른 계정에 이미 등록된 기기입니다.
+해당 계정에서 기기 삭제 후 다시 시도해주시기 바랍니다."</string>
+    <string name="setting_download_device_regist_title">추가 등록이 가능합니다.</string>
+    <string name="setting_download_device_used">사용중</string>
+    <string name="setting_download_device_used_title">등록된 기기</string>
+    <string name="setting_download_mp3_quality">MP3 다운로드 음질</string>
+    <string name="setting_download_smart_auto">스마트폰 전용 자동 다운로드</string>
+    <string name="setting_download_smart_auto_msg">스마트폰 무제한 다운로드 이용권 이용시 한 번 재생한 음악을 자동으로 다운로드 합니다. 메모리 사용 가능한 용량이 전체 용량의 10%이하가 될 경우에는 자동 해제됩니다.</string>
+    <string name="setting_download_smart_quality">스마트폰 전용 다운로드 음질</string>
+    <string name="setting_download_title">다운로드</string>
+    <string name="setting_etc_cur_version">현재 버전</string>
+    <string name="setting_etc_new_version">최신 버전</string>
+    <string name="setting_etc_new_version_update">최신버전 업데이트</string>
+    <string name="setting_etc_opensource_license">오픈소스 라이선스</string>
+    <string name="setting_etc_title">기타</string>
+    <string name="setting_like_push_alert_msg">상단의 \"푸시 알림 사용\"을 ON해야만 좋아요 한 아티스트의 새 소식 알림을 받을 수 있습니다. \"푸시 알림 사용\"을 ON 하시겠습니까?</string>
+    <string name="setting_like_push_alert_msg_one">이제 좋아요 한 아티스트의</string>
+    <string name="setting_like_push_alert_msg_three">지금 ON해주세요</string>
+    <string name="setting_like_push_alert_msg_two">새 소식을 받아보실 수 있습니다!</string>
+    <string name="setting_like_push_used">좋아요 한 아티스트 푸시 알림 사용</string>
+    <string name="setting_like_push_used_msg">좋아요 한 아티스트의 새 소식을 푸시 알림으로 받아봅니다.</string>
+    <string name="setting_night_push_alert_msg">상단의 \"푸시 알림 사용\"을 ON해야만 야간 푸시 알림 사용에 동의할 수 있습니다. \"푸시 알림 사용\"을 ON 하시겠습니까?</string>
+    <string name="setting_night_push_used">야간 푸시 알림 사용</string>
+    <string name="setting_night_push_used_msg">"야간(21:00~08:00)에 엠넷의 새 소식을 푸시 알림으로 받아봅니다.
+동의하지 않으시면 해당 시간에는 알림을 받으실 수 없습니다."</string>
+    <string name="setting_onair_msg">"변경된 화질은 다음 영상 재생시부터 적용됩니다.
+일부 기기에서는 HD 화질 재생이 정상적으로 이루어지지 않을 수 있습니다."</string>
+    <string name="setting_onair_title">On-Air 스트리밍</string>
+    <string name="setting_player_booklet_slide">부클릿 이미지 슬라이드 쇼 사용</string>
+    <string name="setting_player_booklet_slide_msg">"앨범 부클릿 이미지가 등록되어 있을 시
+해당 이미지들을 슬라이드 쇼 형식으로 보여줍니다."</string>
+    <string name="setting_player_display">플레이어 화면에 플레이리스트 노출</string>
+    <string name="setting_player_display_dialog_msg">"플레이어 화면에 플레이리스트 노출 옵션을 OFF로 변경하는 경우, 현재 설정하신 구간 반복 기능이 해제됩니다.
+해당 옵션을 OFF로 변경하시겠습니까?"</string>
+    <string name="setting_player_display_msg">"음원 플레이어 화면에서 플레이리스트를 노출합니다.
+본 옵션을 ON하면, 구간 반복 기능을 사용할 수 있습니다."</string>
+    <string name="setting_player_floating">플로팅 플레이어 사용</string>
+    <string name="setting_player_floating_lyric">플로팅레이어 가사보기</string>
+    <string name="setting_player_floating_lyric_msg">"음악이 재생 중인 경우 모든 화면에서
+항상 맨 위에 가사보기 레이어가 노출됩니다"</string>
+    <string name="setting_player_floating_msg">화면에 항상 노출되는 플로팅 플레이어 기능을 사용합니다.</string>
+    <string name="setting_player_lock">잠금화면 플레이어</string>
+    <string name="setting_player_lock_msg">잠금화면 플레이어의 사용 여부를 설정합니다.</string>
+    <string name="setting_player_title">플레이어</string>
+    <string name="setting_playlist_add_playlist_msg">"재생 중인 플레이리스트가 있을 경우, 곡/영상 선택 재생 시 해당 플레이리스트에 곡/영상을 담아 재생합니다.
+
+공개 플레이리스트나 좋아요 곡/영상, 많이 들은 곡 리스트를 재생 중일 때는 선택 재생 시 Now Playing에서 재생합니다."</string>
+    <string name="setting_playlist_add_song_playlist">곡 선택 듣기 시 지금 재생중인 플레이리스트에 담아 재생</string>
+    <string name="setting_playlist_add_video_playlist">영상 선택 보기 시 지금 재생중인 플레이리스트에 담아 재생</string>
+    <string name="setting_playlist_duplicate">플레이리스트에 중복 항목 삭제하고 담기</string>
+    <string name="setting_playlist_duplicate_msg">곡/영상 담기 시 플레이리스트에 이미 있는 항목을 삭제합니다.</string>
+    <string name="setting_playlist_sort">플레이리스트 정렬</string>
+    <string name="setting_playlist_sort_msg">"플레이리스트 목록의 정렬 방법을 설정합니다. 
+단, 구독 플레이리스트는 최신순으로만 정렬됩니다."</string>
+    <string name="setting_playlist_storage">플레이리스트 담기 위치</string>
+    <string name="setting_playlist_storage_msg">"새로운 곡/영상을 플레이리스트에 추가할 때의 위치를 설정합니다.
+Now Playing에도 동일한 설정이 적용됩니다."</string>
+    <string name="setting_playlist_title">플레이리스트</string>
+    <string name="setting_push_title">푸시 알림</string>
+    <string name="setting_push_used">푸시 알림 사용</string>
+    <string name="setting_push_used_msg">실시간 앨범 발매정보, 아티스트 소식, 엠넷닷컴의 새 소식을 푸쉬알림으로 받아봅니다.</string>
+    <string name="setting_streaming_cdq_msg">기존에 다운로드 된 DRM파일이 있을 경우 CDQ 이상 음질 스트리밍 시도에도 DRM 파일을 우선 재생 합니다. CDQ이상의 초고음질 음원 감상을 위해서는 해당 옵션을 해제해 주세요.</string>
+    <string name="setting_streaming_cdq_title">CDQ이상 음질 스트리밍시 DRM 재생 연동</string>
+    <string name="setting_streaming_network">데이터 네트워크 사용시</string>
+    <string name="setting_streaming_sound_msg">재생 중 음질을 변경할 경우, 다음 곡 부터 변경된 음질이 적용되며, 비로그인시에는 [일반음질]로 재생됩니다.</string>
+    <string name="setting_streaming_sound_msg_premium">"재생 중 음질을 변경할 경우, 다음 곡 부터 변경된 음질이 적용되며, 비로그인시에는 [일반음질]로 재생됩니다.
+일부 기기에서는 CDQ 이상 음질의 재생이 정상적으로 이루어지지 않을 수 있습니다. 문제가 발생시 음질 설정을 변경해주세요.
+MAQ 음질 스트리밍시에는 Sound Design Pro 설정이 적용되지 않습니다."</string>
+    <string name="setting_streaming_sound_title">음원 스트리밍</string>
+    <string name="setting_streaming_video_msg">"변경된 화질은 다음 영상 재생시부터 적용됩니다.
+일부 기기에서는 Full HD 화질 재생이 정상적으로 이루어지지 않을 수 있습니다.
+비로그인시에는 [저화질]로 재생됩니다."</string>
+    <string name="setting_streaming_video_title">영상 스트리밍</string>
+    <string name="setting_streaming_wifi">Wifi 네트워크 사용시</string>
+    <string name="setting_template_cache">음원 캐싱 사용</string>
+    <string name="setting_template_cache_msg">"스트리밍된 음원을 임시 파일로 저장하여, 다음 재생시 데이터 사용량을 줄일 수 있습니다. 
+CDQ 이상의 음질 스트리밍시에는 캐싱 기능이 적용되지 않습니다."</string>
+    <string name="setting_template_delete">임시 저장 파일 삭제</string>
+    <string name="setting_template_delete_alert_msg">임시 저장된 음원 및 앨범 이미지 파일을 삭제 하시겠습니까?</string>
+    <string name="setting_template_delete_complete_msg">임시 저장 파일이 삭제되었습니다.</string>
+    <string name="setting_template_delete_content">임시 저장 이미지 및 기타 파일</string>
+    <string name="setting_template_delete_content_alert_msg">임시 저장 된 이미지 및 기타 파일을 삭제 하시겠습니까?</string>
+    <string name="setting_template_delete_msg">"내 기기에서 임시공간으로 사용할 최대 용량을 선택할 수 있습니다.
+변경한 용량 설정은 다음 번 앱 실행 시부터 적용됩니다."</string>
+    <string name="setting_template_delete_music">임시 저장 음원 파일</string>
+    <string name="setting_template_delete_music_alert_msg">임시 저장 된 음원파일을 삭제 하시겠습니까?</string>
+    <string name="setting_template_sub_title">임시 저장 공간 설정</string>
+    <string name="setting_template_title">임시 저장 파일</string>
+    <string name="setting_terms_title">이용약관 및 개인 정보 취급방침</string>
+    <string name="setting_timer_alarm">알람 설정</string>
+    <string name="setting_timer_alarm_msg">설정한 시각에 맞추어 음원을 재생합니다.</string>
+    <string name="setting_timer_stop">예약 정지 설정</string>
+    <string name="setting_timer_stop_msg">설정한 시간 이후 자동으로 음원 재생을 중지합니다.</string>
+    <string name="setting_timer_stop_off">예약정지 취소</string>
+    <string name="setting_timer_stop_on">예약정지</string>
+    <string name="setting_timer_stop_on_msg">%1$02d:%2$02d 후에 재생이 중지됩니다.</string>
+    <string name="setting_timer_title">타이머</string>
+    <string name="setting_update_setting">앱 업데이트 알림 받기</string>
+    <string name="setting_update_setting_msg">엠넷 앱의 새로운 버전이 있을경우 알림을 받습니다.</string>
+    <string name="setting_week_dialog_title">주차 설정</string>
+    <string name="setting_widget_artist">아티스트</string>
+    <string name="setting_widget_color_title">스킨</string>
+    <string name="setting_widget_mnet">엠넷</string>
+    <string name="setting_widget_nowplaying">Now Playing</string>
+    <string name="setting_widget_seekbar_info_end">100</string>
+    <string name="setting_widget_seekbar_info_start">0</string>
+    <string name="setting_widget_settings">위젯 설정</string>
+    <string name="setting_widget_settings_btn">적용하기</string>
+    <string name="setting_widget_settings_msg">위젯을 설정합니다.</string>
+    <string name="setting_widget_size_title">위젯 크기</string>
+    <string name="setting_widget_title">위젯</string>
+    <string name="setting_widget_transparency_title">투명도</string>
+    <string name="setting_year_dialog_title">연도 설정</string>
+    <string name="share_album_message">[엠넷닷컴] %1$s - %2$s</string>
+    <string name="share_artist_message">[엠넷닷컴] %1$s</string>
+    <string name="share_facebook_caption">www.mnet.com</string>
+    <string name="share_facebook_description">세상의 이야기를 듣다.엠넷닷컴</string>
+    <string name="share_facebook_type">공개대상:</string>
+    <string name="share_facebook_type_all">전체공개</string>
+    <string name="share_facebook_type_friend">친구만</string>
+    <string name="share_facebook_type_my">나만보기</string>
+    <string name="share_genre_rebirth_message">[엠넷닷컴] 장르의 재탄생 - %1$s</string>
+    <string name="share_limit_msg">공유하기는 한 번에 최대 100건까지 가능합니다.</string>
+    <string name="share_link_message">공유 가능한 링크가 복사되었습니다</string>
+    <string name="share_message">"%1$s
+%2$s
+%3$s"</string>
+    <string name="share_mnet_plus">[엠넷닷컴]</string>
+    <string name="share_more_link_text">링크복사</string>
+    <string name="share_more_more_text">더보기</string>
+    <string name="share_multiple_temp_clip_message">[엠넷닷컴] %1$s 외 %2$s편</string>
+    <string name="share_multiple_temp_song_message">[엠넷닷컴] %1$s - %2$s 외 %3$s곡</string>
+    <string name="share_multiple_temp_video_message">[엠넷닷컴] %1$s - %2$s 외 %3$s편</string>
+    <string name="share_onair_message">[엠넷닷컴] %1$s 실시간 방송! 매주 %2$s %3$s 엠넷닷컴에서 본방사수!</string>
+    <string name="share_playlist_temp_message">[엠넷닷컴] %1$s님의 [%2$s] 플레이리스트를 공유했습니다.</string>
+    <string name="share_styler_temp_message">[엠넷닷컴] %1$s님의 [%2$s] 뮤직스타일러를 공유했습니다.</string>
+    <string name="share_temp_message">[엠넷닷컴] %1$s - %2$s</string>
+    <string name="slidemenu_chart">엠넷차트</string>
+    <string name="slidemenu_chmadi">M2</string>
+    <string name="slidemenu_customer_center">고객센터</string>
+    <string name="slidemenu_event">이벤트</string>
+    <string name="slidemenu_genre_music">장르별음악</string>
+    <string name="slidemenu_home">홈</string>
+    <string name="slidemenu_home_edit">홈편집</string>
+    <string name="slidemenu_login_name_result">&lt;font color=#FFFFFF>%1$s&lt;/font></string>
+    <string name="slidemenu_login_name_suffix">님, 안녕하세요</string>
+    <string name="slidemenu_magazine">매거진</string>
+    <string name="slidemenu_manager_list">공지사항</string>
+    <string name="slidemenu_membership">멤버십</string>
+    <string name="slidemenu_mnet_tv">엠넷TV</string>
+    <string name="slidemenu_more_mnet">More Mnet</string>
+    <string name="slidemenu_new_music">최신음악</string>
+    <string name="slidemenu_onair">온에어</string>
+    <string name="slidemenu_public_playlist">공개 플레이리스트</string>
+    <string name="slidemenu_radio">마이튠</string>
+    <string name="slidemenu_recom_music">플레이리스트</string>
+    <string name="slidemenu_search">검색</string>
+    <string name="slidemenu_setting">설정</string>
+    <string name="slidemenu_super_music_room">마스터즈 전용관</string>
+    <string name="slidemenu_ticket">이용권</string>
+    <string name="slidemenu_video">영상플레이어</string>
+    <string name="sns_facebook_link_fail">Facebook 연동을 실패했습니다.</string>
+    <string name="sns_twitter_link_fail">트위터 연동에 실패 하였습니다.</string>
+    <string name="solo">솔로</string>
+    <string name="song">곡</string>
+    <string name="song_count_all">총 %1$s곡</string>
+    <string name="star_score_register">별점이 등록되었습니다.</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stream_user_duplication">"다른 플레이어에서 동일 아이디로 재생되었습니다. 
+현재 기기에서 재생하시면 다른 기기에서는 중단됩니다. 
+계속 재생 하시겠습니까?"</string>
+    <string name="subscription">구독</string>
+    <string name="success_share">공유를 성공하였습니다.</string>
+    <string name="tab_genre_rebirth">음악의 발견</string>
+    <string name="tab_music_public_playlist">음악</string>
+    <string name="tab_music_styler">뮤직스타일러</string>
+    <string name="tab_video_public_playlist">영상</string>
+    <string name="theme">테마</string>
+    <string name="theme_eng">THEME</string>
+    <string name="theme_eng_title">플레이리스트, 테마와 만나다!</string>
+    <string name="this_song_other_version">이 곡의 다른 버전</string>
+    <string name="ticket_regist">이용권 등록</string>
+    <string name="timer">타이머</string>
+    <string name="timer_setting_remain">남음</string>
+    <string name="timer_setting_time">예약 정지 시간</string>
+    <string name="top100_listen">TOP100듣기</string>
+    <string name="tstore_iap_cancel_request">결제를 취소 했습니다.</string>
+    <string name="tstore_iap_complete">구매가 완료되었습니다.</string>
+    <string name="tstore_iap_email_id_auth_email">E-mail 인증을 하지 않았습니다. E-mail 인증을 진행하시겠습니까?</string>
+    <string name="tstore_iap_fail_request">결제를 실패했습니다.</string>
+    <string name="tstore_iap_fail_request_purchase_item">이용권 결제를 실패했습니다.</string>
+    <string name="tstore_iap_fail_tid_error">TID발급을 실패했습니다.</string>
+    <string name="tstore_iap_fail_uri_error">잘못된 호출 입니다.</string>
+    <string name="tstore_iap_icinpi_not_auth">실명인증을 하지 않았습니다. 실명인증 후 이용권을 구매하실 수 있습니다. 실명인증을 진행하시겠습니까?</string>
+    <string name="tstore_iap_not_request">IAP 결제를 진행할 수 없습니다.</string>
+    <string name="tstore_iap_not_request_id">IAP 결제를 진행할 ReqiestID 발급을 실패했습니다.</string>
+    <string name="tstore_iap_payment_request_param_failed">잘못된 호출입니다.</string>
+    <string name="tstore_iap_policy_confirm">약관 동의</string>
+    <string name="tstore_iap_policy_not_confirm">이용 약관에 동의하지 않으셨습니다. 구매를 취소합니다.</string>
+    <string name="tstore_iap_promition_url">http://m.mnet.com/event/tstore/</string>
+    <string name="tstore_iap_response_data_null">IAP 결재 결과가 없습니다.</string>
+    <string name="tstore_iap_ticket_buy_complete">"이용권 구매가 완료되었습니다.
+엠넷닷컴과 함께 즐거운 음악생활을 바로 시작해볼까요?"</string>
+    <string name="tv_music">TV 음악</string>
+    <string name="tv_music_playlist">TV음악 플레이리스트</string>
+    <string name="tving_code_copy_clipboard">쿠폰 번호가 복사되었습니다.</string>
+    <string name="tving_coupon_regist">Tving 쿠폰 등록</string>
+    <string name="tw__allow_btn_txt">Allow</string>
+    <string name="tw__composer_hint">"What's Happening?"</string>
+    <string name="tw__favorite_tweet">Favorite Tweet</string>
+    <string name="tw__favorited_tweet">Favorited Tweet</string>
+    <string name="tw__install">Install</string>
+    <string name="tw__loading_tweet">Loading Tweet</string>
+    <string name="tw__login_btn_txt">Log in with Twitter</string>
+    <string name="tw__max_tweet_chars">140</string>
+    <string name="tw__not_now_btn_txt">Not now</string>
+    <string name="tw__play_store">Google Play</string>
+    <string name="tw__post_tweet">Tweet</string>
+    <string name="tw__relative_date_format_long">MM/dd/yy</string>
+    <string name="tw__relative_date_format_short">MMM dd</string>
+    <string name="tw__retweeted_by_format">Retweeted by %1$s</string>
+    <string name="tw__share_content_format">"Check out @%1$s's Tweet: https://twitter.com/%1$s/status/%2$s"</string>
+    <string name="tw__share_email_desc">Get updates and other information from %1$s when you allow them access to your email on your Twitter account @%2$s</string>
+    <string name="tw__share_email_title">Share your email address</string>
+    <string name="tw__share_subject_format">Tweet from %1$s (@%2$s)</string>
+    <string name="tw__share_tweet">Share Tweet</string>
+    <string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string>
+    <string name="twitter">트위터</string>
+    <string name="twitter_io_fabric_apikey">735f8605c20f6dd58fcf02dc8ba36f338a050593</string>
+    <string name="unselect_all">선택해제</string>
+    <string name="update">업데이트</string>
+    <string name="update_f_msg">중요한 업데이트 사항이 발생하여 업데이트를 진행합니다.</string>
+    <string name="update_r_msg">"엠넷 앱의 새로운 버전이 업데이트 되었습니다.
+업데이트된 엠넷 앱을 만나보세요!"</string>
+    <string name="user_nick_name_dialog_title">닉네임 설정</string>
+    <string name="user_nickname_char_alert">닉네임의 글자 수는 한글 5자, 영문 10자 이내로 제한됩니다. 수정 후 다시 시도해주세요.</string>
+    <string name="users_follower_list">%1$s님의 구독자 리스트</string>
+    <string name="users_follower_list_empty_message">구독자 리스트가 없습니다.</string>
+    <string name="v2_cdq_streaing_zone">초고음질관</string>
+    <string name="v2_curation">플레이리스트</string>
+    <string name="video">영상</string>
+    <string name="video_List_delete_confirm">"선택한 영상을 플레이리스트에서 삭제 하시겠습니까?
+플레이중인 영상은 자동 중지 됩니다."</string>
+    <string name="video_comming_soon">준비중인 영상입니다.</string>
+    <string name="video_hd_quality">HD화질</string>
+    <string name="video_hdlive_list_view">HD라이브 영상 보기</string>
+    <string name="video_list_add_limit_error_message">플레이리스트에 %1$d개까지 추가 가능합니다. 플레이리스트에서 영상 삭제 후 추가해 주시기 바랍니다.</string>
+    <string name="video_list_delete_all_confirm">"플레이리스트를 모두 삭제 하시겠습니까?
+ 플레이중인 영상은 자동 중지 됩니다."</string>
+    <string name="video_list_delete_confirm2">"선택한 영상을 플레이리스트에서 삭제 하시겠습니까?
+플레이중인 영상을 삭제할 경우 자동으로 다음 영상을 재생합니다."</string>
+    <string name="video_list_delete_message_empty_list">삭제할 영상이 없습니다.</string>
+    <string name="video_list_edit_no_count">편집할 영상이 없습니다.</string>
+    <string name="video_list_limit_over_confirm">"플레이리스트는 %1$d개까지 추가 가능 합니다.
+선택 하신 영상 중 위에서부터 %2$d개만 추가 가능 합니다.
+%3$d개를 추가 하시 겠습니까?"</string>
+    <string name="video_list_msg_first_video">마지막 영상 입니다.</string>
+    <string name="video_list_msg_last_video">마지막 영상 입니다.</string>
+    <string name="video_list_msg_no_selected_video">"선택된 영상이 없습니다. 
+영상을 선택 후 다시 한번 이용해 주세요."</string>
+    <string name="video_list_player_add_toast">선택하신 %1$s편을 Now Playing에서 재생합니다.</string>
+    <string name="video_list_player_nowplaying">Now Playing</string>
+    <string name="video_list_select_item_delete_message">선택한 영상을 플레이리스트에서 삭제했습니다.</string>
+    <string name="video_live">공연</string>
+    <string name="video_play_list">동영상 플레이리스트</string>
+    <string name="video_play_list_empty">재생 할 영상이 없습니다.</string>
+    <string name="video_play_list_empty_message">HD화질로 제공되는 Mnet의 인기 영상을 감상해 보세요</string>
+    <string name="video_player">동영상 플레이어</string>
+    <string name="video_player_more_hd">화질설정</string>
+    <string name="video_player_more_save">담기</string>
+    <string name="video_player_more_share">공유</string>
+    <string name="video_player_more_video">영상정보</string>
+    <string name="video_player_sub_title">동영상 플레이리스트를 만들어 좋아하는 영상을 쉽게 이어보세요!</string>
+    <string name="video_program">방송</string>
+    <string name="video_public_playlist">영상 공개 플레이리스트</string>
+    <string name="videoplayer_error_38">죄송합니다. 재생할 수 없는 영상입니다. 자세한 내용은 화면캡쳐와 함께 고객센터로 문의해 주세요.</string>
+    <string name="videoplayer_error_default">죄송합니다. 재생할 수 없는 영상입니다. 자세한 내용은 화면캡쳐와 함께 고객센터로 문의해 주세요.</string>
+    <string name="videoplayer_error_invalid">"죄송합니다. 재생할 수 없는 영상입니다. 
+자세한 내용은 화면캡쳐와 함께 고객센터로 문의해 주세요"</string>
+    <string name="videoplayer_error_server_dead">"죄송합니다. 재생할 수 없는 영상입니다. 
+ 자세한 내용은 화면캡쳐와 함께 고객센터로 문의해 주세요."</string>
+    <string name="videoplayer_error_unknown">"죄송합니다. 재생할 수 없는 영상입니다. 
+ 자세한 내용은 화면캡쳐와 함께 고객센터로 문의해 주세요"</string>
+    <string name="view_all">전체보기</string>
+    <string name="view_select">선택보기</string>
+    <string name="vr_video_supported">엠넷 VR 영상은 안드로이드 버전 4.1 이상부터 지원되며, 일부 기기에서는 정상적으로 재생되지 않을 수 있습니다.</string>
+    <string name="widget_empty_message">플레이리스트가 비었습니다.</string>
+    <string name="woman">여성</string>
+    <string name="write_popular">작사의 인기곡</string>
+    <string name="zoomview">크게보기</string>
+</resources>

@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="alert_common_update_body">"최신 버전으로 앱이 업데이트 되었습니다.
+업데이트 후 사용해 주세요."</string>
+    <string name="alert_dialog_camera">사진 찍기</string>
+    <string name="alert_dialog_gallery">기존 항목 선택</string>
+    <string name="alert_dialog_image_upload_fail">이미지 업로드에 실패하셨습니다.</string>
+    <string name="alert_dialog_title">알림</string>
+    <string name="alert_forbidden_spcial_character">특수기호는 사용하실 수 없습니다.</string>
+    <string name="alert_forced_update_body">"최신 버전으로 앱 업데이트를 하셔야 앱 사용이 가능합니다.
+업데이트 후 사용해 주세요.
+(취소를 선택하실 경우 앱이 종료됩니다.)"</string>
+    <string name="alert_input_keyword">검색어를 입력해주세요.</string>
+    <string name="alert_no_popular_keyword">인기 검색어를 불러오지 못했습니다.</string>
+    <string name="alert_no_recent_keyword">최근 검색어가 없습니다.</string>
+    <string name="alert_system_notice_title">서비스 점검중입니다.</string>
+    <string name="alert_update_button_cancel">취소</string>
+    <string name="alert_update_button_update">업데이트</string>
+    <string name="alert_update_title">업데이트 안내</string>
+    <string name="already_register_shopping_history">이미 찜한 상품입니다.</string>
+    <string name="app_name">CJmall</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="callgate_agree40_text_1">통화 종료 후 안내 페이지 보지 않기</string>
+    <string name="callgate_agree40_text_2">오늘하루 통화 종료 후 안내 페이지 보지 않기</string>
+    <string name="callgate_agree40_toast_1">통화 종료 후 안내 페이지가 팝업되지 않습니다</string>
+    <string name="callgate_agree40_toast_2">통화 종료 후 안내 페이지가 팝업됩니다</string>
+    <string name="callgate_agree40_toast_3">오늘하루 통화 종료 후 안내 페이지가 팝업되지 않습니다</string>
+    <string name="callgate_app_execute_not_installed">애플리케이션이 설치되어 있지 않습니다</string>
+    <string name="callgate_banner_default_text">통화가 끝나면 터치할 수 있습니다.</string>
+    <string name="callgate_bottom_text_color">\#FFFFFF</string>
+    <string name="callgate_cannot_call_cameara">카메라를 불러 올 수 없습니다.</string>
+    <string name="callgate_cannot_execute_fcc_service">FCC 서비스를 실행할 수 없습니다.</string>
+    <string name="callgate_cannot_provide_service">서비스를 제공할 수 없는 단말입니다.</string>
+    <string name="callgate_cannot_use_launcher_id">사용할 수 없는 LauncherID입니다.</string>
+    <string name="callgate_empty_photo">선택 가능한 사진이 없습니다.</string>
+    <string name="callgate_failed_ack">FCC ACK 처리가 실패하였습니다.</string>
+    <string name="callgate_guide_bottom_text">화면 터치 시 안내페이지가 사라집니다.</string>
+    <string name="callgate_launcher_id_expired">사용할 수 없는 Launcher입니다.</string>
+    <string name="callgate_need_to_gcm_registration">GCM 재등록이 필요합니다.</string>
+    <string name="callgate_network_error_occurred">네트워크 장애가 발생하여 FCC 서비스를 실행할 수 없습니다.</string>
+    <string name="callgate_not_fcc_service">지원하지 않는 서비스입니다.</string>
+    <string name="callgate_not_gcm_message_for_fcc">FCC 서비스를 위한 Google Cloud Message가 아닙니다.</string>
+    <string name="callgate_not_registered">등록된 사용자가 아닙니다.</string>
+    <string name="callgate_not_valid_payload_info">Payload의 정보가 유효하지 않습니다.</string>
+    <string name="callgate_parameter_info_error">파라미터 정보 오류입니다.</string>
+    <string name="callgate_payload_version_expired">지원하지 않는 Payload 버전입니다.</string>
+    <string name="callgate_permission_not_granted">READ_PHONE_STATE 권한 획득 실패</string>
+    <string name="callgate_photo_permission">사진 선택을 사용하려면 먼저 권한에 동의해 주세요</string>
+    <string name="callgate_popup_const_content">서비스 이용을 원하시면 확인을 눌러주세요.</string>
+    <string name="callgate_popup_const_title">[모바일 접속 서비스]</string>
+    <string name="callgate_rooting_device">루팅된 단말에서는 서비스를 실행 할 수 없습니다.</string>
+    <string name="callgate_succeed_fcc_service">FCC 서비스를 성공적으로 실행하였습니다.</string>
+    <string name="callgate_title_photo">사진선택</string>
+    <string name="callgate_unknown_error">FCC 서비스 실행 중 알 수 없는 에러가 발생하였습니다.</string>
+    <string name="callgate_usim_not_exist">USIM 카드를 인식할 수 없거나 정보를 읽을 수 없습니다.</string>
+    <string name="callgate_validation_failed">런처 유효성 확인에 실패하였습니다.</string>
+    <string name="callgate_vdp_bottom_text_close">여기를 누르면 팝업 창을 닫을 수 있습니다.</string>
+    <string name="callgate_vdp_bottom_text_open">여기를 누르면 팝업 창을 다시 열 수 있습니다.</string>
+    <string name="callgate_vv_network_error_msg">"데이터 연결이 불안정하여
+Visual ARS 이용이 중단되었습니다."</string>
+    <string name="callgate_vv_service_fail_msg">"사용자가 많아 Visual ARS
+이용이 원할하지 않습니다.
+다음 기회를 이용해 주세요."</string>
+    <string name="callgate_wv_network_error_msg">"데이터 연결이 불안정하여
+Web Voice 이용이 중단되었습니다."</string>
+    <string name="callgate_wv_service_fail_msg">"사용자가 많아 Web Voice
+이용이 원할하지 않습니다.
+다음 기회를 이용해 주세요."</string>
+    <string name="cancel">취소</string>
+    <string name="category_title">카테고리</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="chatting_admin_center_noti_message">"지금은 운영시간이 아닙니다.
+문의하신 내용은 잘 접수되었으며 빠른확인 후 답변드리겠습니다.
+감사합니다."</string>
+    <string name="chatting_admin_hello_message">"안녕하세요. 고객님
+문의하실 내용을 입력해주세요."</string>
+    <string name="chatting_admin_photo_message">사진</string>
+    <string name="chatting_admin_photo_noti">개인정보가 포함된 내용은 전송하지 마시기 바랍니다.</string>
+    <string name="chatting_admin_push_message">채팅창을 닫으셔도 상담은 진행되며 답변 등록시 알림으로 알려 드립니다.</string>
+    <string name="chatting_admin_select_new_room">추가문의</string>
+    <string name="chatting_admin_select_new_room_start">추가채팅 상담 하시겠습니까?</string>
+    <string name="chatting_admin_select_survey">만족도 평가</string>
+    <string name="chatting_admin_survey_bad">불만</string>
+    <string name="chatting_admin_survey_good">만족</string>
+    <string name="chatting_admin_survey_message">추가문의 or 만족도 평가는 아래버튼을 선택해 주세요.</string>
+    <string name="chatting_admin_survey_normal">보통</string>
+    <string name="chatting_admin_survey_thankyou">"감사합니다.
+더 좋은 서비스로 보답하겠습니다."</string>
+    <string name="chatting_admin_survey_title">추가문의 or 만족도 평가는 아래 버튼을 선택해주세요.</string>
+    <string name="chatting_center_close_title">"지금은 상담접수시간이 아닙니다.
+상담내용 조회만 가능합니다."</string>
+    <string name="chatting_disconnect">연결이 끊어졌습니다.</string>
+    <string name="chatting_dot_string">・</string>
+    <string name="chatting_empty_message">메시지를 입력하세요.</string>
+    <string name="chatting_failed_get_room_id">"신규 채팅상담이 생성되지 않았습니다.
+다시 한번 시도해주세요"</string>
+    <string name="chatting_go_to_center">1:1 게시판 문의</string>
+    <string name="chatting_go_to_center_noti">"%1$s 이상 등급의 고객님께만 1:1 채팅 상담서비스가 제공됩니다.
+1:1게시판에서 문의를 부탁 드립니다."</string>
+    <string name="chatting_input_message">내용을 입력하세요.</string>
+    <string name="chatting_list_adapter_last_time">마지막 전달 시간 :</string>
+    <string name="chatting_list_adapter_no_message">메세지가 없습니다.</string>
+    <string name="chatting_list_no_result">이전 상담 내역이 존재하지 않습니다.</string>
+    <string name="chatting_list_start">채팅 상담 시작하기</string>
+    <string name="chatting_msg_admin_setting">알림 허용 상태로 변경하기</string>
+    <string name="chatting_msg_read">읽음</string>
+    <string name="chatting_msg_unread">읽지않음</string>
+    <string name="chatting_notification1">상담접수시간 : 평일 %1$s ~ %2$s (주말/공휴일 제외)</string>
+    <string name="chatting_notification1_1">원활한 상담을 위해 미응답시 상담종료될 수 있습니다.</string>
+    <string name="chatting_notification2">채팅상담은 %1$s 이상 등급 고객 서비스입니다.</string>
+    <string name="chatting_notification3">최근 3년 내 1:1 채팅 상담 이력이 노출되며 회원등급과 관계없이 과거 내역 조회는 가능합니다.</string>
+    <string name="chatting_notification4">답변대기 상담은 답변시 알려드립니다.</string>
+    <string name="chatting_notification5"><u>알림 허용하기</u></string>
+    <string name="chatting_product_cart_noti">・ 장바구니에 담은 상품의 보관 기간은 30일 입니다.</string>
+    <string name="chatting_product_cart_title">장바구니 조회</string>
+    <string name="chatting_product_cjmall">CJmall 장바구니</string>
+    <string name="chatting_product_count">개</string>
+    <string name="chatting_product_not_selected">"선택된 상품이 없습니다.
+다시 선택해 주십시요."</string>
+    <string name="chatting_product_oclock">오클락 장바구니</string>
+    <string name="chatting_product_order_noti">・ 최근 3개월까지의 주문내역을 확인 하실 수 있습니다.</string>
+    <string name="chatting_product_order_title">주문내역 / 배송현황 조회</string>
+    <string name="chatting_product_send">선택 상품 문의하기</string>
+    <string name="chatting_product_status_approval">결제완료</string>
+    <string name="chatting_product_status_cancel">주문취소</string>
+    <string name="chatting_product_status_canceling">취소처리중</string>
+    <string name="chatting_product_status_coupon_delivery_completed">발급완료</string>
+    <string name="chatting_product_status_exchange">교환</string>
+    <string name="chatting_product_status_of_exchange">교환중</string>
+    <string name="chatting_product_status_processing_of_exchange">교환처리중</string>
+    <string name="chatting_product_status_processing_return_from">반품처리중</string>
+    <string name="chatting_product_status_products_coming_soon">상품준비중</string>
+    <string name="chatting_product_status_products_delivery_completed">배송완료</string>
+    <string name="chatting_product_status_products_shipping">배송중</string>
+    <string name="chatting_product_status_receiving_an_order">주문접수</string>
+    <string name="chatting_product_status_return">반품</string>
+    <string name="chatting_product_status_return_from">반품중</string>
+    <string name="chatting_room_option_photo">사진선택 문의</string>
+    <string name="chatting_room_option_product_cart">장바구니 문의</string>
+    <string name="chatting_room_option_product_order">주문내역 문의</string>
+    <string name="chatting_room_push_noti">"상담내용이 접수되었습니다.
+빠르게 답변드리겠습니다."</string>
+    <string name="chatting_room_send">전송</string>
+    <string name="chatting_room_title">1:1 채팅 상담</string>
+    <string name="chatting_send_msg_del">삭제</string>
+    <string name="chatting_send_msg_retry">재전송</string>
+    <string name="chatting_send_msg_retry_message">재전송 하시겠습니까?</string>
+    <string name="chatting_send_msg_warring">"입력하신 메세지가 전송되지 않았습니다.
+전송되지 않은 메세지는 재전송하지 않으면 삭제됩니다."</string>
+    <string name="chatting_send_survey_complete">만족도 평가가 완료 되었습니다.</string>
+    <string name="chatting_send_survey_failed">만족도 평가 등록에 실패하였습니다.</string>
+    <string name="com.crashlytics.android.build_id">ce549672-efb5-456b-b01d-1a2e7c04164f</string>
+    <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_like_button_liked">Liked</string>
+    <string name="com_facebook_like_button_not_liked">Like</string>
+    <string name="com_facebook_loading">Loading...</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_loginview_log_in_button">Log in</string>
+    <string name="com_facebook_loginview_log_in_button_long">Log in with Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="com_facebook_send_button_text">Send</string>
+    <string name="com_facebook_share_button_text">Share</string>
+    <string name="com_facebook_tooltip_default">"New! You're in control - choose what info you want to share with apps."</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="confirm">확인</string>
+    <string name="counsel_count">명 신청중</string>
+    <string name="data_fail_notice">데이터를 정상적으로 불러오지 못했습니다.</string>
+    <string name="default_web_client_id">364152695002-ov0iuc1jlind4bbb9gdnsfgl757j4frd.apps.googleusercontent.com</string>
+    <string name="delete_shopping_history">"쇼핑찜
+취소!"</string>
+    <string name="description_back">뒤로가기</string>
+    <string name="description_back_button">back 버튼</string>
+    <string name="description_banner">%s 배너</string>
+    <string name="description_banner_spread">배너 전체보기</string>
+    <string name="description_banner_start_swipe">배너 자동 스와이프 시작 버튼</string>
+    <string name="description_banner_stop_swipe">배너 자동 스와이프 정지 버튼</string>
+    <string name="description_button">%s 버튼</string>
+    <string name="description_cart">장바구니 버튼</string>
+    <string name="description_close">닫기</string>
+    <string name="description_close_button">닫기 버튼</string>
+    <string name="description_grade_family">패밀리</string>
+    <string name="description_grade_gold">골드</string>
+    <string name="description_grade_platinum">플래티넘</string>
+    <string name="description_grade_platinum_r">플래티넘R</string>
+    <string name="description_grade_silver">실버</string>
+    <string name="description_home">홈</string>
+    <string name="description_left_menu">좌측 메뉴</string>
+    <string name="description_left_menu_category_button">%s 카테고리 버튼, 페이지로 이동하시려면 두번 탭하세요</string>
+    <string name="description_left_menu_go_special_shop">%s 바로가기</string>
+    <string name="description_left_menu_grade_icon_button">%s 등급 버튼, 등급별 혜택 확인 바로가기</string>
+    <string name="description_left_menu_push_button">받은알림 버튼</string>
+    <string name="description_left_menu_setting_button">설정 버튼</string>
+    <string name="description_left_menu_show_recent_all">최근본상품 전체보기 버튼</string>
+    <string name="description_left_menu_show_recent_product">%s 상품 보기</string>
+    <string name="description_left_menu_show_shop_all">전문샵 전체보기 버튼</string>
+    <string name="description_main_cjmall_logo">CJmall 로고, 홈 화면 바로가기</string>
+    <string name="description_main_menu_tab_button">%s 탭 이동 버튼</string>
+    <string name="description_main_search">검색 화면 이동하기</string>
+    <string name="description_main_search_show_marketingcopy">%s 검색 바로가기</string>
+    <string name="description_myzone">마이존</string>
+    <string name="description_product_banner_spread">%s 상품 전체보기</string>
+    <string name="description_product_image">%s 상품 이미지</string>
+    <string name="description_product_spread">배너 상품 전체보기</string>
+    <string name="description_recent_view">최근본상품 버튼</string>
+    <string name="description_recentitem_delete">최근 본 상품 삭제</string>
+    <string name="description_recentitem_history">최근 본 상품 상품찜</string>
+    <string name="description_recentitem_row_date">%s 최근 본 상품 목록</string>
+    <string name="description_search">검색</string>
+    <string name="description_search_button">검색</string>
+    <string name="description_search_popular_button">인기검색어 버튼</string>
+    <string name="description_search_recent_button">최근검색어 버튼</string>
+    <string name="description_search_recent_delete">최근검색어 %s 삭제</string>
+    <string name="description_search_recent_delete_all_button">전체삭제 버튼</string>
+    <string name="description_search_recent_keyword_button">%s 검색 버튼</string>
+    <string name="description_show_next_banner">다음 배너 보기</string>
+    <string name="description_show_next_product_page">다음 상품 페이지 보기</string>
+    <string name="description_show_prev_banner">이전 배너 보기</string>
+    <string name="description_tab">%s 탭</string>
+    <string name="description_tab_selected">%s 탭, 선택 됨</string>
+    <string name="description_tv_play_video">%s, 상품 방송 시청</string>
+    <string name="description_tv_video_full_screen">동영상 전체보기</string>
+    <string name="description_tv_video_volumn_off">볼륨 활성화됨, 비활성화하려면 두 번 탭하세요</string>
+    <string name="description_tv_video_volumn_on">볼륨 비활성화됨, 활성화하려면 두 번 탭하세요</string>
+    <string name="dialog_common_title">알림</string>
+    <string name="dialog_no_app">실행할 수 있는 앱이 없습니다. 설치하신 후 다시 진행해주세요.</string>
+    <string name="dialog_payment">결제할 수 있는 앱이 없습니다. 설치하신 후 다시 결제해주세요.</string>
+    <string name="easter_egg_apply">적용</string>
+    <string name="easter_egg_chrome_debugging">크롬 디버깅:</string>
+    <string name="easter_egg_copy">복사되었습니다.</string>
+    <string name="easter_egg_cust_no">고객번호:</string>
+    <string name="easter_egg_debugging">디버깅:</string>
+    <string name="easter_egg_detail_fdrive">상품상세 FDrive:</string>
+    <string name="easter_egg_device_token">디바이스 토큰:</string>
+    <string name="easter_egg_fdrive">FDrive:</string>
+    <string name="easter_egg_remove_cache">캐시삭제:</string>
+    <string name="easter_egg_remove_cache_btn">캐시삭제</string>
+    <string name="easter_egg_title">Easter Egg</string>
+    <string name="easter_egg_udid">UDID:</string>
+    <string name="eatser_egg_server_status">서버 환경:</string>
+    <string name="ellipsize_end">…</string>
+    <string name="exit_message">종료하시겠습니까?</string>
+    <string name="facebook_app_id">495497117286596</string>
+    <string name="fail_adult_authentication">"본 상품은 청소년 유해매체물로
+청소년은 이용이 제한됩니다."</string>
+    <string name="firebase_database_url">https://api-project-364152695002.firebaseio.com</string>
+    <string name="flag_cjone_point">CJONE%1$sP</string>
+    <string name="flag_coupon">할인쿠폰</string>
+    <string name="flag_coupon_amount">쿠폰%1$s원</string>
+    <string name="flag_coupon_rate">쿠폰%1$s%%</string>
+    <string name="flag_discount">%할인</string>
+    <string name="flag_etv_mileage">추가적립%1$s원</string>
+    <string name="flag_fast_delivery">"빠른
+배송"</string>
+    <string name="flag_fast_delivery_value">빠른배송</string>
+    <string name="flag_free_delivery">"무료
+배송"</string>
+    <string name="flag_free_delivery_value">무료배송</string>
+    <string name="flag_mileage">적립금%1$s원</string>
+    <string name="flag_no_interest">무이자</string>
+    <string name="flag_sp_coupon_amount">쇼플%1$s원</string>
+    <string name="flag_sp_coupon_rate">쇼플%1$s%%</string>
+    <string name="flag_tv_discount">"TV
+선할인"</string>
+    <string name="gcm_defaultSenderId">364152695002</string>
+    <string name="google_api_key">AIzaSyDikldT8huo2xr8WCZ9JoELlcRWHsgrGes</string>
+    <string name="google_app_id">1:364152695002:android:ed65f634c7393f68</string>
+    <string name="google_crash_reporting_api_key">AIzaSyDikldT8huo2xr8WCZ9JoELlcRWHsgrGes</string>
+    <string name="google_storage_bucket">api-project-364152695002.appspot.com</string>
+    <string name="http_status_network_error">네트워크 상태가 불안하거나 접속이 되어 있지 않습니다.</string>
+    <string name="image_upload_fail">이미지 업로드에 실패하였습니다. 다시 시도해주세요.</string>
+    <string name="input_link">url을 입력하세요.</string>
+    <string name="item_expand_title">원본보기</string>
+    <string name="login">로그인</string>
+    <string name="login_title">로그인</string>
+    <string name="main_popup_alldays_close">오늘 하루 보지 않기</string>
+    <string name="main_popup_close">닫기</string>
+    <string name="messenger_send_button_text">Send</string>
+    <string name="month">월</string>
+    <string name="my_push_list_limit">수신일로부터 3일간 보관됩니다.</string>
+    <string name="my_push_list_no_list">새로운 알림이 없습니다.</string>
+    <string name="my_push_list_send_date">수신일 %1$s</string>
+    <string name="my_push_list_title">받은알림</string>
+    <string name="network_exception">네트워크 불안정</string>
+    <string name="network_exception_fragment">"상품리스트를 불러오지 못했습니다.
+연결상태를 확인한 후 다시 시도하세요."</string>
+    <string name="network_fault_404">요청한 페이지를 찾을 수 없습니다.</string>
+    <string name="network_fault_500">"알 수 없는 오류로 해당 페이지를
+찾을 수 없습니다
+
+잠시 후 다시 시도해주세요."</string>
+    <string name="network_fault_retry">다시 시도</string>
+    <string name="order_count">개 구매</string>
+    <string name="password_toggle_content_description">Toggle password visibility</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="permission_denied_product_comment">"카메라에 대한 권한 사용을 거부하였습니다.
+시스템 설정에서도 앱 권한을 변경 하실 수 있습니다."</string>
+    <string name="permission_denied_read_phone_state">"전화에 대한 권한 사용을 거부하였습니다.
+시스템 설정에서도 앱 권한을 변경 하실 수 있습니다."</string>
+    <string name="permission_denied_voice_search">"음성검색에 대한 권한 사용을 거부 하였습니다.
+시스템 설정에서도 앱 권한을 변경 하실 수 있습니다."</string>
+    <string name="permission_denied_write_external_storage">"저장에 대한 권한 사용을 거부하였습니다.
+시스템 설정에서도 앱 권한을 변경 하실 수 있습니다."</string>
+    <string name="permission_final_denied_product_comment">"카메라에 대한 권한 사용이 거부상태 입니다.
+시스템 설정으로 이동하여 허용 하시겠습니까?"</string>
+    <string name="permission_final_denied_write_external_storage">"저장에 대한 권한 사용이 거부상태 입니다.
+시스템 설정으로 이동하여 허용 하시겠습니까?"</string>
+    <string name="permission_granted_product_comment">카메라에 대한 권한 사용을 허용하였습니다.</string>
+    <string name="permission_granted_read_phone_state">전화에 대한 권한 사용을 허용하였습니다.</string>
+    <string name="permission_granted_voice_search">음성검색을 위한 권한 사용을 허용 하였습니다.</string>
+    <string name="permission_granted_write_external_storage">저장에 대한 권한 사용을 허용하였습니다.</string>
+    <string name="price_only_unit">원</string>
+    <string name="price_unit">원~</string>
+    <string name="product_counsel">상담신청상품</string>
+    <string name="product_option_match_price_title">맞춤가</string>
+    <string name="product_option_oclock_price_title">오클락가</string>
+    <string name="product_option_sell_price_title">판매가</string>
+    <string name="product_phone">단말기 가격</string>
+    <string name="product_rental">월 렌탈료</string>
+    <string name="product_status_permanent_suspension">"영구
+중단"</string>
+    <string name="product_status_sale_suspension">"판매
+종료"</string>
+    <string name="product_status_sold_out">매진</string>
+    <string name="push_accept">좋아요</string>
+    <string name="push_dialog_title">CJmall 알림 설정 안내</string>
+    <string name="push_event_message">"광고성 알림(PUSH) 수신 동의 처리 완료되었습니다.
+%1$s 수신 동의 유지 시
+%2$s을 받으실 수 있습니다."</string>
+    <string name="push_main_policy_first_title">"고객님께
+특가상품, 쿠폰, 적립금 등
+유용한 쇼핑정보를 제공해드리겠습니다."</string>
+    <string name="push_main_policy_second_title">"본 광고성 알림(PUSH) 수신 여부는
+좌측메뉴 > 설정 > 알림 설정에서 변경 가능
+(해당 기기에서만 유효함)"</string>
+    <string name="push_type_normal_first_title">"고객님께
+특가상품, 쿠폰, 적립금 등
+유용한 쇼핑정보를 제공해드리겠습니다."</string>
+    <string name="push_type_normal_second_title">"광고성 알림(PUSH) 수신 여부는
+좌측메뉴 > 설정 > 알림 설정에서 변경 가능"</string>
+    <string name="rate_unit">%</string>
+    <string name="recentview_item_goto_shopping_history">쇼핑찜 가기</string>
+    <string name="recentview_item_no_history_data">쇼핑 히스토리가 없습니다.</string>
+    <string name="recentview_item_no_product_data">최근 본 상품이 없습니다.</string>
+    <string name="recentview_item_remove_all">전체삭제</string>
+    <string name="recentview_item_remove_all_alert">전체 삭제하시겠습니까?</string>
+    <string name="recentview_item_title">최근 본 상품</string>
+    <string name="recentview_login_message">로그인하면 더 많은 쇼핑 히스토리를 확인할 수 있습니다.</string>
+    <string name="recentview_title">최근 본 상품</string>
+    <string name="refresh_text">다시 시도</string>
+    <string name="register_shopping_history">"쇼핑찜
+등록!"</string>
+    <string name="request_fail_delete_shopping_history">쇼핑찜 삭제에 실패하였습니다.</string>
+    <string name="request_fail_register_shopping_history">쇼핑찜 등록에 실패하였습니다.</string>
+    <string name="retry_button_title">다시시도</string>
+    <string name="retry_user_info_title">회원 정보를 불러올 수 없습니다</string>
+    <string name="s1">Save image</string>
+    <string name="s2">Allow Ad to store image in Picture gallery?</string>
+    <string name="s3">Accept</string>
+    <string name="s4">Decline</string>
+    <string name="s5">Create calendar event</string>
+    <string name="s6">Allow Ad to create a calendar event?</string>
+    <string name="search_auto_category_append">보러가기</string>
+    <string name="search_auto_special_append">바로가기</string>
+    <string name="search_close_btn">닫기</string>
+    <string name="search_edittext_hint"><font size="@dimen/font_3">검색어 입력</font></string>
+    <string name="search_menu_title">Search</string>
+    <string name="search_popular">인기검색어</string>
+    <string name="search_recent">최근검색어</string>
+    <string name="search_text_hint">검색어를 입력하세요.</string>
+    <string name="search_voice">버튼을 누르고 검색어를 말해주세요.</string>
+    <string name="search_voice_fail">음성을 인식하지 못했습니다.</string>
+    <string name="search_voice_recognizing">음성을 인식 중입니다.</string>
+    <string name="setting_do_login">CJmall 아이디로 로그인하세요.</string>
+    <string name="setting_is_current_version">최신버전입니다.</string>
+    <string name="setting_is_get_push_title">광고성 (PUSH) 알림 수신</string>
+    <string name="setting_login">로그인</string>
+    <string name="setting_logout">로그아웃</string>
+    <string name="setting_need_update_version">최신버전 업데이트</string>
+    <string name="setting_noti_title">알림 설정</string>
+    <string name="setting_now_version">현재 버전 </string>
+    <string name="setting_push_detail_notice">본 설정은 해당 기기에서만 유효하며, 수신 거부 시 1:1 채팅상담 답변 등의 알림도 발송되지 않습니다.</string>
+    <string name="setting_push_need_permission">"디바이스의
+알림 설정 변경이 필요합니다."</string>
+    <string name="setting_push_need_permission_sub">"어플리케이션 정보 > 알림 허용 여부를
+확인 해주세요."</string>
+    <string name="setting_push_status_accept">"광고성 알림(PUSH) 수신에
+동의하였습니다.
+CJ오쇼핑 %1$s"</string>
+    <string name="setting_push_status_alreay_accept">이미 수신에 동의하셨습니다.</string>
+    <string name="setting_push_status_denied">"광고성 알림(PUSH) 수신에
+미동의하였습니다.
+CJ오쇼핑 %1$s"</string>
+    <string name="setting_title">설정</string>
+    <string name="setting_user_logout_message">로그아웃 되셨습니다.</string>
+    <string name="setting_video_autoplay_always">항상 허용</string>
+    <string name="setting_video_autoplay_detail_notice">본 설정은 해당 기기에서만 유효하며 허용 시 동영상 배너 등의 영상이 자동 재생됩니다.</string>
+    <string name="setting_video_autoplay_notplay">허용 안 함</string>
+    <string name="setting_video_autoplay_set_playtype">재생 허용 여부 설정</string>
+    <string name="setting_video_autoplay_title">동영상 자동 재생</string>
+    <string name="setting_video_autoplay_wifi">wi-fi 연결 시에만 허용</string>
+    <string name="setting_video_playcount_one">1회만 재생</string>
+    <string name="setting_video_playcount_replay">반복재생</string>
+    <string name="setting_video_playcount_title">재생 횟수 설정</string>
+    <string name="show_all">전체보기</string>
+    <string name="slash">/</string>
+    <string name="special_shop_title">전문샵</string>
+    <string name="staff_mall">임직원몰</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="test">"쇼핑의로망
+매일3번 릴레이 혜택"</string>
+    <string name="timeout_error">timeout</string>
+    <string name="toast_failed_network">"네트워크 통신에 실패했습니다.
+데이터 설정을 확인해주세요."</string>
+    <string name="tv_compare">비교상품</string>
+    <string name="tv_counsel">상담신청</string>
+    <string name="tv_live">LIVE</string>
+    <string name="tv_live_benefit">생방송 혜택 적용</string>
+    <string name="tv_live_order">생방송중 주문 가능</string>
+    <string name="tv_live_remain_time_unit">남음</string>
+    <string name="tv_live_talk_default_message">라이브톡이 시작되었습니다~</string>
+    <string name="tv_live_title">오쇼핑라이브</string>
+    <string name="tv_next_broadcasting">다음방송</string>
+    <string name="tv_notification">방송알림</string>
+    <string name="tv_onair">ONAIR</string>
+    <string name="tv_order">구매하기</string>
+    <string name="tv_other_product">지금 방송중인 다른 상품</string>
+    <string name="tv_plus_title">오쇼핑플러스</string>
+    <string name="tv_prev_broadcasting">이전방송</string>
+    <string name="tv_prev_next_product">이전/다음 방송정보</string>
+    <string name="tv_save_5_percent">5% 적립신청</string>
+    <string name="tv_schedule">편성표</string>
+    <string name="tv_show_timetable">편성표 보기</string>
+    <string name="tv_simple_order">간편구매</string>
+    <string name="tv_video_type_live">live</string>
+    <string name="tv_video_type_plus">plus</string>
+    <string name="use_lte">"3G/LTE 등으로 접속시
+데이터 통화료가 발생할 수 있습니다."</string>
+    <string name="user_designation">님</string>
+    <string name="video_default_time">00:00</string>
+    <string name="video_error">방송상태가 원활하지 못해 죄송합니다. 뒤로가기 버튼을 클릭하시거나 잠시 후 다시 시도해주세요.</string>
+    <string name="video_error_msg">"뒤로 가기 버튼을 클릭하시거나
+잠시 후 다시 시도해주세요."</string>
+    <string name="video_error_title">방송생태가 원활하지 못해 죄송합니다.</string>
+    <string name="video_invalid">동영상 정보가 없습니다.</string>
+    <string name="video_live">LIVE</string>
+    <string name="video_module_check_network">3G/LTE 등으로 접속 시 데이터 통화료가 발생할 수 있습니다.</string>
+    <string name="video_module_finish_error_sub_title">잠시 후 다시 시도해 주세요</string>
+    <string name="video_module_finish_error_title">불편을 드려 죄송합니다.</string>
+    <string name="video_module_finish_live_error_sub_title">뒤로가기 버튼을 클릭하거나 잠시 후 다시 시도해 주세요</string>
+    <string name="video_module_finish_live_error_title">방송상태가 원활하지 못해 죄송합니다.</string>
+    <string name="video_module_finish_live_sub_title">시청해 주셔서 감사합니다.</string>
+    <string name="video_module_finish_live_title">생방송이 종료 되었습니다.</string>
+    <string name="video_module_finish_ready_to_nextitem_sub_title">잠시만 기다려주세요.</string>
+    <string name="video_module_finish_ready_to_nextitem_title">다음 생방송을 준비중입니다.</string>
+    <string name="video_module_is_live">라이브 방송</string>
+    <string name="video_module_loading">로딩 중입니다</string>
+    <string name="video_module_refresh_nextitem">다음 생방송을 보시려면 새로고침 버튼을 클릭해주세요</string>
+    <string name="video_pause">일시정지</string>
+    <string name="video_play">재생</string>
+    <string name="video_refresh">"다음 생방송을 보시려면
+새로고침 버튼을 클릭해주세요."</string>
+    <string name="video_replay">다시보기</string>
+    <string name="video_show_product">상품보기</string>
+    <string name="vip_club">VIP CLUB</string>
+    <string name="webview_ssl_error_default_message">"보안 인증서에 오류가 있습니다.
+계속 진행하시겠습니까?"</string>
+    <string name="webview_ssl_error_message">"이 사이트의 보안 인증서는 신뢰할 수 없습니다.
+계속 진행하시겠습니까?"</string>
+</resources>

@@ -1,0 +1,924 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="Alter_DIALOG_ARE_YOU_WALKMAN">您的路徑規劃選項目前為設定為行人模式，若您並非行人，請重新選擇路徑規劃選項!</string>
+    <string name="Alter_DIALOG_Clipboard">是否使用剪貼簿資料查詢？</string>
+    <string name="Alter_DIALOG_SPACE_NOT_ENOUGH">系統空間不足，請保留 2GB 的空間以供下載圖資。待確認系統空間已足夠或是已經增加之後，請重新開啟本程式嘗試下載。</string>
+    <string name="Alter_DIALOG_SPACE_NOT_ENOUGH_ULTIMA">系統空間不足，請保留 700MB 的空間以供下載圖資。待確認系統空間已足夠或是已經增加之後，請重新開啟本程式嘗試下載。</string>
+    <string name="Alter_Dialog_Btn_ContiuneTry">繼續嘗試</string>
+    <string name="Ultima_My_Events">我的路況分享</string>
+    <string name="Ultima_My_Mileage">我的累積里程</string>
+    <string name="Ultima_Report">回報</string>
+    <string name="VC_Actionbar_Address">查詢地址</string>
+    <string name="VC_Actionbar_Command">聲控指令</string>
+    <string name="VC_Actionbar_FindPOI">查詢景點</string>
+    <string name="VC_Actionbar_FindResult">搜尋結果</string>
+    <string name="VC_Actionbar_NavigatoionTo">導航</string>
+    <string name="VC_Command_Address">查詢地址</string>
+    <string name="VC_Command_Canecl">取消</string>
+    <string name="VC_Command_Confirm">確定</string>
+    <string name="VC_Command_Home">回家</string>
+    <string name="VC_Command_Office">回公司</string>
+    <string name="VC_Command_Poi">查詢景點</string>
+    <string name="VC_Command_Quit">離開</string>
+    <string name="VC_Command_ReSelect">重新輸入</string>
+    <string name="VC_Command_Select_1">1</string>
+    <string name="VC_Command_Select_2">2</string>
+    <string name="VC_Command_Select_3">3</string>
+    <string name="VC_Command_Select_4">4</string>
+    <string name="VC_Command_Select_5">5</string>
+    <string name="VC_TEXT_Address">"\u0009請說完整地址
+\u0009範例：台北市內湖區港墘路200號"</string>
+    <string name="VC_TEXT_CommandAddress">查詢地址</string>
+    <string name="VC_TEXT_CommandExit">離開</string>
+    <string name="VC_TEXT_CommandHome">回家</string>
+    <string name="VC_TEXT_CommandOffice">回公司</string>
+    <string name="VC_TEXT_CommandPOI">查詢景點</string>
+    <string name="VC_TEXT_CommandPlease">\u0009您可以說：</string>
+    <string name="VC_TEXT_Confirm">"\u0009確定導航到[%s]
+\u0009您可以說確定、取消或重新輸入"</string>
+    <string name="VC_TEXT_Poi">"\u0009您可以說：景點名稱 
+\u0009範例：台北火車站、台北101"</string>
+    <string name="VC_TEXT_Select">"\u0009請選擇辨識結果：
+\u0009您可以說：1,2,3,4,5，取消或重新輸入"</string>
+    <string name="VC_TTS_Address">請說地址</string>
+    <string name="VC_TTS_CommandAgain">請再說一次</string>
+    <string name="VC_TTS_CommandPlease">請說指令</string>
+    <string name="VC_TTS_Confirm">確定</string>
+    <string name="VC_TTS_Cyberon_NoFindResult">無辨識結果，請再說一次</string>
+    <string name="VC_TTS_Home">回家</string>
+    <string name="VC_TTS_NavigationTo">導航到[%s]</string>
+    <string name="VC_TTS_NoFindResult">搜尋不到</string>
+    <string name="VC_TTS_NoFindResult_phase2">請重新輸入</string>
+    <string name="VC_TTS_Office">回公司</string>
+    <string name="VC_TTS_PoiName">請說景點名稱</string>
+    <string name="VC_TTS_Quit">離開</string>
+    <string name="VC_TTS_SelectItem_Confirm_Phase_1">確定導航到[%s]</string>
+    <string name="VC_TTS_SelectItem_Confirm_Phase_2">確定, 取消, 或重新輸入</string>
+    <string name="VC_TTS_SelectResult">請選擇辨識結果</string>
+    <string name="VC_TTS_Thanks">謝寫</string>
+    <string name="abs__action_bar_home_description">Navigate home</string>
+    <string name="abs__action_bar_up_description">Navigate up</string>
+    <string name="abs__action_menu_overflow_description">More options</string>
+    <string name="abs__action_mode_done">Done</string>
+    <string name="abs__activity_chooser_view_see_all">See all...</string>
+    <string name="abs__activitychooserview_choose_application">Choose an application</string>
+    <string name="abs__searchview_description_clear">Clear query</string>
+    <string name="abs__searchview_description_query">Search query</string>
+    <string name="abs__searchview_description_search">Search</string>
+    <string name="abs__searchview_description_submit">Submit query</string>
+    <string name="abs__searchview_description_voice">Voice search</string>
+    <string name="abs__shareactionprovider_share_with">Share with</string>
+    <string name="abs__shareactionprovider_share_with_application">Share with %s</string>
+    <string name="activity_alert_dialog">PAPAGO! input</string>
+    <string name="alert_DIALOG_MSG_DOWNLOAD_LATER">稍候再試</string>
+    <string name="alert_DIALOG_MSG_DOWNLOAD_NOW">立即下載</string>
+    <string name="alert_DIALOG_MSG_NONAVI_DOWNLOADMAP">全新S1導航引擎須搭配新版圖資，是否進行S1圖資下載？</string>
+    <string name="alert_DIALOG_MSG_NONAVI_DOWNLOADMAP_ULTIMA">即將為您下載圖資</string>
+    <string name="alert_DIALOG_MSG_Re_DOWNLOADMAP">地圖資料異常，是否重新下載地圖？</string>
+    <string name="alert_dialog_DVRNoFile">行車紀錄器 無錄影檔案!</string>
+    <string name="alert_dialog_DVRNoSupport">您的機器不支援行車紀錄器!</string>
+    <string name="alert_dialog_DVRPortScreenError">請將手機橫放後再啟動行車紀錄器!</string>
+    <string name="alert_dialog_NO">否</string>
+    <string name="alert_dialog_OverDueContext">此軟體試用時限已到。請輸入授權碼正式使用</string>
+    <string name="alert_dialog_OverDueTilte">使用時限到期</string>
+    <string name="alert_dialog_Reboot">刪除完畢後，請重新開啟PAPAGO!</string>
+    <string name="alert_dialog_YES">是</string>
+    <string name="alert_dialog_cancel">取消</string>
+    <string name="alert_dialog_clean_Clipboard">清除剪貼簿</string>
+    <string name="alert_dialog_comfirm_cancel_mapdownload">正在下載圖資,按『確定』隱藏到背景下載圖資。</string>
+    <string name="alert_dialog_comment_bad">下次再說</string>
+    <string name="alert_dialog_comment_dontshow">不了謝謝</string>
+    <string name="alert_dialog_comment_good">鼓勵我們</string>
+    <string name="alert_dialog_comment_message">請跟我們說為什麽您喜歡PAPAGO!，收到您的鼓勵，我們會非常開心。</string>
+    <string name="alert_dialog_comment_title">鼓勵PAPAGO!</string>
+    <string name="alert_dialog_connecting">連線中，請稍候…</string>
+    <string name="alert_dialog_deleteOldNaviFolder">已更換新版圖資包，請問是否刪除舊版圖資以節省空間?</string>
+    <string name="alert_dialog_delete_all_askdvrfiles">刪除紀錄列表</string>
+    <string name="alert_dialog_delete_all_dvrfiles">請問是否刪除紀錄列表內所有檔案?</string>
+    <string name="alert_dialog_deleteing">刪除中，請稍候!</string>
+    <string name="alert_dialog_deletepoi">確定刪除景點?</string>
+    <string name="alert_dialog_downmapfile_usingnerwork">即將開始為您下載圖資。請注意！若使用行動數據連線 (GPRS / 3G / LTE)，則電信行動資料傳輸可能發生額外費用，相關資費請洽詢您的服務提供商。</string>
+    <string name="alert_dialog_gpssetting">GPS尚未開啟,是否前往設定?</string>
+    <string name="alert_dialog_iPoi_GetCurrent">取得目前目標</string>
+    <string name="alert_dialog_iPoi_NewDest">"是否導航至iPoiP2p :
+"</string>
+    <string name="alert_dialog_iPoi_No">取消</string>
+    <string name="alert_dialog_iPoi_Serach">"是否至 PAPAGO! 搜尋 
+"</string>
+    <string name="alert_dialog_iPoi_Yes">確定</string>
+    <string name="alert_dialog_ime_text">Text Input</string>
+    <string name="alert_dialog_install_service_package">請先安裝 GOLiFE 服務套件，並確定 GOLiFE 服務套件已升級至最新版本!</string>
+    <string name="alert_dialog_isRoutingCalIng">路徑規劃中</string>
+    <string name="alert_dialog_kitkat_move_navifolder_btn_never">不再提示</string>
+    <string name="alert_dialog_kitkat_move_navifolder_btn_notnow">暫不轉移</string>
+    <string name="alert_dialog_kitkat_move_navifolder_btn_yes">好</string>
+    <string name="alert_dialog_kitkat_move_navifolder_msg">Android系統升級到4.4後，圖資必須移動到指定位置才能正常使用。為了以免系統更新後，還要重新下載圖資，是否要先幫您轉移?</string>
+    <string name="alert_dialog_month_rent_show_Message_CheckBuy">"請確認您已成功購買PAPAGO!。
+若您已購買，請忽略此訊息，系統將直接進入。"</string>
+    <string name="alert_dialog_month_rent_show_Message_Exit">結束程式</string>
+    <string name="alert_dialog_month_rent_show_Message_FakeMember">台灣大會員</string>
+    <string name="alert_dialog_month_rent_show_Message_FreeTrialExpired">您的試用已過期，請至matchApps軟體商店重新申裝，才能繼續使用。</string>
+    <string name="alert_dialog_month_rent_show_Message_FreeTrialWelcome">歡迎您參加PAPAGO月租型方案60天免費試用活動。期滿之後，滿意再租用。</string>
+    <string name="alert_dialog_month_rent_show_Message_NotBuyer">您尚未申裝此服務，請至matchApps軟體商店申裝之後使用。</string>
+    <string name="alert_dialog_month_rent_show_Message_TC">您還可以免認證開啟%d次，請在到達０次前進行連網認證。</string>
+    <string name="alert_dialog_month_rent_show_Message_TCLAST">本次為最後一次離線使用，請於下次使用前進行連網認證。</string>
+    <string name="alert_dialog_month_rent_show_Message_TCOUT">離線使用次數已達上限，請進行連網認證之後繼續使用本軟體。</string>
+    <string name="alert_dialog_month_rent_show_Message_WithoutTCFile">您需連網認證後，才可繼續使用PAPAGO月租型方案。</string>
+    <string name="alert_dialog_month_rent_show_all_information">"無法取得matchMarket軟體購買認證!請將下列訊息提供給客服人員
+"</string>
+    <string name="alert_dialog_month_rent_show_not_TWNUser">非台灣大哥大用戶，請先申請台灣大哥大帳號。</string>
+    <string name="alert_dialog_myphone_authenticatefail01">"無法取得matchMarket軟體購買認證!請將下列訊息提供給客服人員
+"</string>
+    <string name="alert_dialog_myphone_turnoffwifi">"感謝您購買本軟體
+這是您第一次開啟本軟體，請您切換至台灣大哥大3G行動上網設定後再重新開啟軟體"</string>
+    <string name="alert_dialog_myphone_wrongapn">"無效的APN上網設定!
+請使用台灣大哥大Match上網設定以啟動有效的認證機制"</string>
+    <string name="alert_dialog_nativemsg001">無法開啟地圖檔!</string>
+    <string name="alert_dialog_nativemsg002">導航路徑上無即時交通路況</string>
+    <string name="alert_dialog_nonsupportdev1">無法支援解析度</string>
+    <string name="alert_dialog_nonsupportdev2">裝置</string>
+    <string name="alert_dialog_nonsupportdev3">讀取機碼失敗,請重新開啟程式</string>
+    <string name="alert_dialog_nonsupportproduct">無法開啟有效的導航程式套件資源檔案!</string>
+    <string name="alert_dialog_nopurchase">無法取得matchMarket軟體購買認證!您可以至 http://m.market.match.net.tw/ 購買本軟體</string>
+    <string name="alert_dialog_nosdcard">"無法讀取有效的地圖資訊!
+請將已安裝PAPAGO! 的存儲卡插入手機並重新啟動程式"</string>
+    <string name="alert_dialog_nosdcard_GT_P6800">"你的型號為GT-P6800，無法讀取有效的地圖資訊!
+請至PAPAGO! Samsung專區
+(http://www.papago.com.tw/apps/samsung/)
+下載後並存放到目錄底下(非Sd-Card)。"</string>
+    <string name="alert_dialog_ok">確定</string>
+    <string name="alert_dialog_password">Password:</string>
+    <string name="alert_dialog_reset_option_message">請確認是否恢復系統預設值？</string>
+    <string name="alert_dialog_reset_option_title">恢復預設值</string>
+    <string name="alert_dialog_service_title">PAPAGO! 客戶服務</string>
+    <string name="alert_dialog_startrecordError">無法正常啟動錄影功能!</string>
+    <string name="alert_dialog_startrecordMessage">使用此功能，請確認GPS已定位完成，以免影響定位功能</string>
+    <string name="alert_dialog_streetviewMessage">"1. 此功能需連線網路，可能會有行動網路數據費用產生。
+
+ 2. 此功能呈現方式視各手機系統資源而有所差異，當離開此功能返回導航時，按下返回鍵即可回到導航軟體介面，但若系統資源不足，返回導航時可能重新啟動導航軟體。"</string>
+    <string name="alert_dialog_text_entry">Text Entry dialog</string>
+    <string name="alert_dialog_thanks_and_mileage">"感謝您使用GOLiFE MOVE
+您本次的里程：約"</string>
+    <string name="alert_dialog_tmcdlfailed">TMC資料下載失敗!</string>
+    <string name="alert_dialog_username">Name:</string>
+    <string name="alert_dialog_usertitle">Input:</string>
+    <string name="alert_dialog_waitforconnection">正在搜尋網路，請稍待．</string>
+    <string name="alert_quit">離開</string>
+    <string name="app_id">229709833788165</string>
+    <string name="app_name">PAPAGO!</string>
+    <string name="dialogIMapUpdateBeginOptionsNotNow">不，現在不要</string>
+    <string name="dialogIMapUpdateBeginOptionsPromptMessage">有新的圖資可供更新；現在升級嗎？</string>
+    <string name="dialogIMapUpdateBeginOptionsPromptMessageFromServer">有新的圖資可供更新；現在升級嗎？</string>
+    <string name="dialogIMapUpdateBeginOptionsPromptMessageServiceCeased">我們很想替您更新圖資；可是您的 App 版本已經舊了…可以請您更新您的 App 版本到最新版嗎？</string>
+    <string name="dialogIMapUpdateBeginOptionsPromptMessageServiceCeasedButton1">好吧，幫我更新 App</string>
+    <string name="dialogIMapUpdateBeginOptionsPromptMessageServiceCeasedButton2">"有疑問嗎？
+非常歡迎您洽詢客服"</string>
+    <string name="dialogIMapUpdateBeginOptionsShowMe">是，顯示進度</string>
+    <string name="hami_msg_need_hami_app">請安裝Hami Apps 軟體商店</string>
+    <string name="hami_msg_update_hami_app">需更新Hami Apps 軟體商店</string>
+    <string name="iMapDownloadDesc">圖資下載中</string>
+    <string name="iMapDownloadError">圖資下載發生錯誤，請確認網路連線是否正常，並重新啓動 PAPAGO!</string>
+    <string name="iMapDownloadErrorInsufficientStorage1">空間不足。請確認手機 SD 卡或裝置記憶體還有至少</string>
+    <string name="iMapDownloadErrorInsufficientStorage2">的空間。</string>
+    <string name="iMapDownloadErrorInternetNeeded">"網路伺服器忙線中，
+請稍候再試，謝謝。"</string>
+    <string name="iMapDownloadErrorMediaNotAvailable">無法取得儲存空間，請確認 SD 卡有正確安裝，也請不要將手機連接到電腦。</string>
+    <string name="iMapDownloadErrorNullPointer">圖資下載發生錯誤，請重新啓動 PAPAGO!</string>
+    <string name="iMapDownloadProgressDownloading">正在為您下載圖資中…</string>
+    <string name="iMapDownloadProgressExtracting">正在解壓縮圖資…</string>
+    <string name="iMapDownloadProgressMessagePostfix">請保持開機，勿強制停止 PAPAGO!</string>
+    <string name="iMapDownloadProgressMessagePrefix">圖資下載過程需要讀寫您的 SD 卡，請勿移除 SD 卡，也請不要將手機連接到電腦。</string>
+    <string name="iMapUpdateDialogMessageAuthFailed">PAPAGO! 使用 GOLiFE 帳號為您更新圖資，請由 [圖資更新] 選單登入/註冊您的 GOLiFE 帳號</string>
+    <string name="iMapUpdateDialogMessageIsToResume">上次的圖資更新作業尚未完成；繼續嗎？</string>
+    <string name="iMapUpdateDialogMessageUpgradeProgress">圖資升級中，請稍候．．．</string>
+    <string name="iMapUpdateNaviMapDataVersionNumberInitial">(未經圖資自動更新功能)</string>
+    <string name="iMapUpdateToastAlreadyUpToDate">您的圖資已經是最新版</string>
+    <string name="iMapUpdateToastEmailBoxNotYetValidated">請先驗證您的電郵信箱地址以啟用圖資更新功能</string>
+    <string name="iMapUpdateToastPromptAutoStart">"已經為您展開圖資更新作業
+您可以到［主選單］→［圖資更新］檢查進度"</string>
+    <string name="iMapUpdateToastPromptAvailable">"有新的圖資可供更新
+到［主選單］→［圖資更新］確認是否進行升級"</string>
+    <string name="iPoiP2pEmailGoogleMapsHyperLink">按此連結利用 Google 地圖瀏覽此目的地</string>
+    <string name="iPoiP2pEmailPapagoHyperLink">按此連結利用 PAPAGO! 導航到此目的地</string>
+    <string name="iPoiP2pEmailPureTextHint">如果電郵程式未能正常顯示上述連結, 則您可以將下列文字複製進剪貼簿利用 PAPAGO! 導航</string>
+    <string name="iPoiP2pEmailSubjectCaption">PAPAGO! 導航</string>
+    <string name="iPoiP2pProfilePoiGpsDataDataDefaultCaption">自建點</string>
+    <string name="iPoiP2pSmsPrompt">您可以將本訊息整封文字複製進剪貼簿利用 PAPAGO! 導航</string>
+    <string name="ids_Confirm_Buy">請先註冊本軟體，才可進行聲控功能加購</string>
+    <string name="ids_Confirm_Buy_ERROR">查詢購買失敗</string>
+    <string name="ids_Confirm_Mapversion">請先將您的圖資更新至最新版本，才能正確使用聲控</string>
+    <string name="ids_Cyberon_Copyright">"
+
+語音合成/辨識核心：賽微科技提供"</string>
+    <string name="ids_NeedMapversion">崧圖科技-台灣地圖13Q206v1.0</string>
+    <string name="ids_VoiceCommand_TouchWarning">請待語音結束後再進行操控</string>
+    <string name="ids_appversion">PAPAGO! Mobile S1</string>
+    <string name="ids_cctv_nocamera_txt">本區段沒有有效攝影機可供觀察</string>
+    <string name="ids_etc_desc">"溫馨提示:
+本日行駛距離為透過GPS自動記錄，與實際情況不一定符合，僅供參考"</string>
+    <string name="ids_etc_discount_long">長途折扣</string>
+    <string name="ids_etc_discount_long_desc">超過240元之通行費，扣除25%金額</string>
+    <string name="ids_etc_discount_money">試算優惠</string>
+    <string name="ids_etc_dollars_unit">元</string>
+    <string name="ids_etc_free_km">優惠里程</string>
+    <string name="ids_etc_free_km_desc">20公里X1.2元/公里</string>
+    <string name="ids_etc_money">國道計程通行費約：%s元</string>
+    <string name="ids_etc_money_total">應繳通行費</string>
+    <string name="ids_etc_offical_money">依公告牌價試算金額</string>
+    <string name="ids_etc_offical_money_desc">未扣除優惠里程及長途折扣</string>
+    <string name="ids_etc_today_km">本日行駛</string>
+    <string name="ids_extracting">正在解壓縮語音檔案至指定資料夾…</string>
+    <string name="ids_extracting_do_not_exit">解壓縮中，請勿離開</string>
+    <string name="ids_fun_checkin_Email">Email : </string>
+    <string name="ids_fun_checkin_Name">姓名 : </string>
+    <string name="ids_fun_checkin_Phone">電話 : </string>
+    <string name="ids_fun_checkin_fish_Camera">自拍怪方蟹</string>
+    <string name="ids_fun_checkin_fish_Fish">鯛大叔</string>
+    <string name="ids_fun_checkin_fish_Fly">河豚弟</string>
+    <string name="ids_fun_checkin_fish_Light">水槍燈籠魚</string>
+    <string name="ids_fun_checkin_fish_Play">扯鈴阿魟</string>
+    <string name="ids_fun_checkin_fish_Snail">田螺坦克</string>
+    <string name="ids_fun_checkin_fish_Water">好蝦伯</string>
+    <string name="ids_fun_checkin_hint_Email">請輸入您的Email</string>
+    <string name="ids_fun_checkin_hint_Name">請輸入您的姓名</string>
+    <string name="ids_fun_checkin_hint_Phone">請輸入您的電話</string>
+    <string name="ids_fun_checkin_login_Already">"您已成功完成登錄並參加抽獎，
+抽獎結果將公布在GOLiFE MOVE MOBILE粉絲團。
+歡迎加入GOLiFE MOVE MOBILE粉絲團，隨時關注GOLiFE MOVE MOBILE最新動態。
+
+"</string>
+    <string name="ids_fun_checkin_login_EmptyEmail">Email 不可為空白!</string>
+    <string name="ids_fun_checkin_login_EmptyName">姓名 不可為空白!</string>
+    <string name="ids_fun_checkin_login_EmptyPhone">電話 不可為空白!</string>
+    <string name="ids_fun_checkin_loginbingo">登錄抽獎</string>
+    <string name="ids_fun_checkin_stampErrorLocation">您沒有在正確的位置上蓋章喔!這個章應該是要在 fish 完成。</string>
+    <string name="ids_fun_checkin_stampFirstMsg">歡迎參加童玩節蓋章活動，只要完成有趣的蓋章活動，登錄資料並上傳，就可以參加抽獎。</string>
+    <string name="ids_fun_checkin_stampOK">蓋章完成!</string>
+    <string name="ids_fun_checkin_stampbingo">童玩節蓋章</string>
+    <string name="ids_fun_checkin_times_Over">此活動已截止，感謝您的參與。</string>
+    <string name="ids_getpaevent_failed">事件取得失敗!</string>
+    <string name="ids_iab_dialog_description">資料確認中，請稍待…</string>
+    <string name="ids_iab_dialog_timeout">連線逾時，無法與Google Play進行連線。</string>
+    <string name="ids_iab_dialog_title">Google Play 驗證中</string>
+    <string name="ids_ipoi_CheckGoogleFailed">無法連線到網際網路，請確認連線狀態!</string>
+    <string name="ids_ipoi_CheckInternet">檢查連線中…</string>
+    <string name="ids_ipoi_ClearAllData">清除本地資料</string>
+    <string name="ids_ipoi_ConnectFailed">伺服器連線失敗，請稍候再試!</string>
+    <string name="ids_ipoi_DBListCrash">"很抱歉!發生問題了，
+請確認 GOLiFE 雲端服務是否正確!"</string>
+    <string name="ids_ipoi_FindResult_title">歷史記錄</string>
+    <string name="ids_ipoi_GoLifeAccount">GOLiFE 雲端帳號:</string>
+    <string name="ids_ipoi_ImagePathNull">"很抱歉!圖片讀取失敗。
+本功能僅支援本地端相簿，請重新選擇其他相簿。"</string>
+    <string name="ids_ipoi_InputMyPOIFailed">匯入我的景點資料失敗…</string>
+    <string name="ids_ipoi_NoAccount">"您尚未登入GOLiFE雲端服務，
+請先按左邊登入帳號按鈕，再進行同步。"</string>
+    <string name="ids_ipoi_NoDB">"無資料庫，
+請確認GOLiFE雲端服務是否正確!"</string>
+    <string name="ids_ipoi_NoPhoto">沒有相片了喔!</string>
+    <string name="ids_ipoi_OpenDBFailed">開啟資料庫失敗。</string>
+    <string name="ids_ipoi_Photo_Album">選取圖片加入景點</string>
+    <string name="ids_ipoi_Photo_Camera">照張相片加入景點</string>
+    <string name="ids_ipoi_Photo_Which">加入圖片至景點</string>
+    <string name="ids_ipoi_PoiNumber">"共有 【 %s 】筆景點資料。
+
+若要登出帳號，請至手機系統設定裡的【帳戶與同步處理】，
+進行移除帳戶。"</string>
+    <string name="ids_ipoi_ReadingList">讀取列表中，請稍候…</string>
+    <string name="ids_ipoi_SDKLevelTooLow">"您的手機系統版本過舊!
+建議您先將 %s 檔案先匯入GOLiFE網站，再回到手機進行景點同步。"</string>
+    <string name="ids_ipoi_SaveError">存檔錯誤!</string>
+    <string name="ids_ipoi_SearchKeyword">搜尋關鍵字</string>
+    <string name="ids_ipoi_SelectPhothFailed">選取圖片失敗…</string>
+    <string name="ids_ipoi_TakePhothFailed">照相失敗…</string>
+    <string name="ids_ipoi_VisFriend">好友</string>
+    <string name="ids_ipoi_VisJustMe">只有我</string>
+    <string name="ids_ipoi_VisPublic">公開</string>
+    <string name="ids_ipoi_VisibilitySet">瀏覽設定</string>
+    <string name="ids_ipoi_askpublicpoi">原有景點資料是否於GOLiFE雲端公開</string>
+    <string name="ids_ipoi_iPOICount">SSS，您好：本地端共有 DDD 筆景點資料。</string>
+    <string name="ids_ipoi_iPOITimeoutMessage">請至手機系統的設定，確認帳號自動同步功能是否已開啟。</string>
+    <string name="ids_ipoi_inputmsg">是否將原有景點資料匯入GOLiFE雲端景點</string>
+    <string name="ids_ipoi_inputmypoiing">景點匯入中，請稍候…</string>
+    <string name="ids_ipoi_inputmypoiok">景點匯入成功!</string>
+    <string name="ids_ipoi_sync_Error">同步失敗:</string>
+    <string name="ids_ipoi_sync_OK">同步成功!</string>
+    <string name="ids_ipoi_syncing">我的景點與GOLiFE雲端同步中…</string>
+    <string name="ids_ipoi_title">我的景點</string>
+    <string name="ids_java_setting_3gpformat">請先確定您的系統裝有支援3GP檔案格式的媒體撥放程式!</string>
+    <string name="ids_java_setting_bluegpsDeviceNoSupport">本裝置不支援藍芽功能!</string>
+    <string name="ids_java_setting_bluegpsSwitchOff">藍芽未開啟!</string>
+    <string name="ids_java_setting_bluegpsconnectError">藍芽GPS裝置連線失敗!</string>
+    <string name="ids_java_setting_bluegpsconnectOK">藍芽GPS裝置連線成功!</string>
+    <string name="ids_java_setting_bluegpsconnectfailed">藍芽GPS斷線…</string>
+    <string name="ids_java_setting_bluegpsconnecting">藍芽GPS裝置連線中…</string>
+    <string name="ids_java_setting_bluegpsonoff">啟動藍芽GPS裝置</string>
+    <string name="ids_java_setting_bluegpstitle">藍芽GPS裝置</string>
+    <string name="ids_java_setting_bluewillslow">開啟藍芽GPS裝置將可能使PAPAGO!程式變慢!</string>
+    <string name="ids_java_setting_dcrwillslow">開啟行車紀錄器將可能使程式變慢或影響定位速度!</string>
+    <string name="ids_java_setting_dvrbitrate">錄影畫質</string>
+    <string name="ids_java_setting_dvronoff">啟動行車紀錄器</string>
+    <string name="ids_java_setting_dvrrecsize">錄影尺寸</string>
+    <string name="ids_java_setting_dvrsizeratenosupport">您的系統無法支援調整錄影尺寸及畫質!</string>
+    <string name="ids_java_setting_dvrtitle">行車紀錄器</string>
+    <string name="ids_java_setting_selectbluegps">請選擇藍芽GPS裝置</string>
+    <string name="ids_login_btn_trail">我想先體驗看看!</string>
+    <string name="ids_login_description">透過 GOLiFE 雲端服務，您所收藏的景點與分享的記錄將可進行備份，再也不用怕遺失，而且享有每月免費圖資更新。</string>
+    <string name="ids_login_title">請選擇以下方式登入</string>
+    <string name="ids_mb_buy_7_11_btn">更多內容</string>
+    <string name="ids_mb_buy_7_11_des">"7-ELEVEN購買限量盒裝版，送精美車架，只要690元。
+因每家門市進貨數量不同，建議購買前請先詢問7-11"</string>
+    <string name="ids_mb_buy_7_11_txt">各大7-ELEVEN指定3000家門市販售\"</string>
+    <string name="ids_mb_buy_general_des">您將得到產品授權卡乙張，需進行註冊，並限單機使用。</string>
+    <string name="ids_mb_buy_general_pchome">我要前往 \" PCHOME線上購物\" 購買</string>
+    <string name="ids_mb_buy_general_txt">線上購物</string>
+    <string name="ids_mb_buy_general_yahoo">我要前往 \" YAHOO購物中心\" 購買</string>
+    <string name="ids_mb_buy_general_yellow">我要前往 \" 燦坤快8網路商城\" 購買</string>
+    <string name="ids_mb_buy_int_btn">我要前往Play商店購買</string>
+    <string name="ids_mb_buy_int_des">此為信用卡付款，購買後不綁機，不需註冊即可使用。</string>
+    <string name="ids_mb_buy_int_txt">Play商店購買\" 導航PAPAGO!正式版\"</string>
+    <string name="ids_mb_buy_title">您有以下購買方式：</string>
+    <string name="ids_mb_expire_buy_btn">立即購買</string>
+    <string name="ids_mb_expire_buy_txt">導航PAPAGO!還不錯，我想要進行購買。</string>
+    <string name="ids_mb_expire_regist_btn">註冊</string>
+    <string name="ids_mb_expire_regist_txt">我已經購買導航PAPAGO!我要進行註冊。</string>
+    <string name="ids_mb_expire_title_desc">感謝您的體驗，您已經過了產品試用期囉!</string>
+    <string name="ids_mb_expire_title_txt">歡迎使用 導航PAPAGO!</string>
+    <string name="ids_mb_main_account_not_reg">帳號尚未註冊授權碼</string>
+    <string name="ids_mb_main_buy_btn">立即購買</string>
+    <string name="ids_mb_main_buy_txt">導航PAPAGO!還不錯，我想要購買。</string>
+    <string name="ids_mb_main_device_not_reg">裝置尚未綁定帳號，或是已經超過綁定上限</string>
+    <string name="ids_mb_main_device_not_reg_goto_reg">啟用授權碼</string>
+    <string name="ids_mb_main_device_not_reg_hint">您的GOLiFE 帳號未啟用授權碼，是否要啟用授權碼？</string>
+    <string name="ids_mb_main_device_not_reg_to_try">繼續試用</string>
+    <string name="ids_mb_main_gotoreg">我要申請 GOLiFE 帳號, 以後換手機很方便</string>
+    <string name="ids_mb_main_loginaccount">我已經有 GOLiFE 帳號</string>
+    <string name="ids_mb_main_msg_txt">"Hi 給予支持的朋友~
+
+相信您還記得過去若將已經註冊過的授權碼轉移到新手機，需要與客服聯繫，感到困擾與不便，您的心聲，GOLiFE 團隊聽到了！
+以下為我們推出的全新功能！
+
+請您依照畫面指示，將產品授權碼與 GOLiFE 帳號綁定，未來您可以不分 iOS 或是 Android 系統手機，同時使用在五個裝置上。(五個裝置為上限) 只要登入 GOLiFE 帳號，就能使用，心動嗎? 快點跟著我們的步驟執行綁定吧！ *請注意，曾經用 IMEI 註冊過的客戶，需用 GOLiFE 帳號再註冊一次"</string>
+    <string name="ids_mb_main_old_reg">不了, 雖然麻煩, 我還是想用以前的方式</string>
+    <string name="ids_mb_main_register_btn">註冊</string>
+    <string name="ids_mb_main_register_txt">"我已經購買導航PAPAGO!
+我要進行註冊。"</string>
+    <string name="ids_mb_main_startup_authority_code">我要用 GOLiFE 帳號啟動授權碼，以後換手機很方便</string>
+    <string name="ids_mb_main_title_txt">歡迎使用 導航PAPAGO!</string>
+    <string name="ids_mb_main_trial_btn">試用</string>
+    <string name="ids_mb_main_trial_txt">我想先免費體驗導航PAPAGO!</string>
+    <string name="ids_mb_regist_email">Email</string>
+    <string name="ids_mb_regist_imei">IMEI</string>
+    <string name="ids_mb_regist_regist_btn">註冊</string>
+    <string name="ids_mb_regist_regist_code">授權碼</string>
+    <string name="ids_mb_regist_regist_des">註冊成功後，畫面上的 DEMO 將消失。</string>
+    <string name="ids_mb_regist_title_des">請填妥以下資訊，以完成註冊</string>
+    <string name="ids_mb_regist_title_txt">感謝您的支持!</string>
+    <string name="ids_mb_toast_trailday">"歡迎體驗導航PAPAGO!
+尚餘試用天數："</string>
+    <string name="ids_native_about_copyright">"http://www.papagomobile.com/
+ Copyright© 2001-2013,Allright reserved.
+
+ The following components are include in this application
+ Freetype 2 font rendering library / www.freetype.org
+ LZMA SDK lgor Pavlov / www.7-zip.org
+ Libjpeg Independent JPEG Group / www.ijg.org
+
+ The SnakeYAML library www.snakeyaml.org is 
+developed by the team of developers and it is 
+based on PyYAML module written by Kirill Simonov"</string>
+    <string name="ids_native_about_copyright_msg">"版權所有，翻拷必究
+ 研勤科技股份有限公司
+ 研鼎數位股份有限公司
+"</string>
+    <string name="ids_native_alert_iMapNeedUpgrade">"
+
+下次啟動 PAPAGO! 時將為您進行可能費時數分鐘的圖資升級作業；因此提醒您現在離開後就立刻手動重啟 PAPAGO! 以避免下次使用導航因等待而延誤"</string>
+    <string name="ids_native_alert_iMapUpdateOngoing">"
+
+現在離開 PAPAGO! 將會中斷仍在進行中的圖資更新作業，確定？"</string>
+    <string name="ids_native_alert_msg1">即將跳回桌面, 請確認是否繼續執行</string>
+    <string name="ids_native_alert_msg2">PAPAGO! 即將關閉，確定？</string>
+    <string name="ids_native_alert_msg3">目前無導航資訊,請先設定路徑</string>
+    <string name="ids_native_alert_msg4">尚未設定公司 ，請先設定之後使用此功能</string>
+    <string name="ids_native_alert_msg5">尚未設定家 ，請先設定之後使用此功能</string>
+    <string name="ids_native_alert_ultima_dialog_connect_warning">啟用服務會使用網路流量</string>
+    <string name="ids_native_alert_ultima_dialog_desc">簡單扼要吸引使用者使用 GOLiFE Move</string>
+    <string name="ids_native_alert_ultima_dialog_url"><b>"GOLiFE MOVE 服務授權聲明 ：
+"</b> http://www.google.com.tw</string>
+    <string name="ids_native_alert_ultima_later">下次再說</string>
+    <string name="ids_native_alert_ultima_no">不再提示</string>
+    <string name="ids_native_alert_ultima_yes">我要試試看</string>
+    <string name="ids_native_btn_registry">註冊</string>
+    <string name="ids_native_city_message">請選擇縣市，或按圖示選擇該縣市區域</string>
+    <string name="ids_native_citytown_range_all">全部範圍</string>
+    <string name="ids_native_find_clipboard_nodata">剪貼簿無資料</string>
+    <string name="ids_native_find_doornum">門牌</string>
+    <string name="ids_native_find_keyword">關鍵字</string>
+    <string name="ids_native_find_phone_poi_input_title">請輸入查詢號碼</string>
+    <string name="ids_native_findlist_address">地址列表</string>
+    <string name="ids_native_findlist_clipboard">剪貼簿列表</string>
+    <string name="ids_native_findlist_mypoi">我的景點列表</string>
+    <string name="ids_native_findlist_nearby">周邊景點列表</string>
+    <string name="ids_native_findlist_poi">景點列表</string>
+    <string name="ids_native_findnearby">週邊景點</string>
+    <string name="ids_native_findresult_alert_nodata">查詢無資料</string>
+    <string name="ids_native_findresult_alert_nodvr">無紀錄影片</string>
+    <string name="ids_native_findresult_alert_yes">確定</string>
+    <string name="ids_native_findtitle">查詢結果</string>
+    <string name="ids_native_findtype_crossroad">交叉路口</string>
+    <string name="ids_native_findtype_nearbypoi">週邊景點</string>
+    <string name="ids_native_findtype_poi">找景點</string>
+    <string name="ids_native_findtype_road">找地址</string>
+    <string name="ids_native_gps_status_off">未定位</string>
+    <string name="ids_native_gps_status_on">已定位</string>
+    <string name="ids_native_gps_status_on_BT">藍芽GPS定位</string>
+    <string name="ids_native_gps_status_on_GPS">GPS衛星定位</string>
+    <string name="ids_native_gps_status_on_NETWORK">無線網路(3G/WiFi)定位</string>
+    <string name="ids_native_gpsview_coor">座標</string>
+    <string name="ids_native_gpsview_datetime">日期時間</string>
+    <string name="ids_native_gpsview_gpsfix">已定位</string>
+    <string name="ids_native_gpsview_gpsnotfix">未定位</string>
+    <string name="ids_native_gpsview_status">定位狀態</string>
+    <string name="ids_native_highway_cctv">國道千里眼</string>
+    <string name="ids_native_highway_cctv_east">E</string>
+    <string name="ids_native_highway_cctv_n1">國道1號</string>
+    <string name="ids_native_highway_cctv_n10">國道10號</string>
+    <string name="ids_native_highway_cctv_n1h">汐止五股高架段</string>
+    <string name="ids_native_highway_cctv_n2">國道2號</string>
+    <string name="ids_native_highway_cctv_n3">國道3號</string>
+    <string name="ids_native_highway_cctv_n3a">國道3甲</string>
+    <string name="ids_native_highway_cctv_n4">國道4號</string>
+    <string name="ids_native_highway_cctv_n5">國道5號</string>
+    <string name="ids_native_highway_cctv_n6">國道6號</string>
+    <string name="ids_native_highway_cctv_n8">國道8號</string>
+    <string name="ids_native_highway_cctv_north">N</string>
+    <string name="ids_native_highway_cctv_south">S</string>
+    <string name="ids_native_highway_cctv_west">W</string>
+    <string name="ids_native_highway_roadcondition">國道路況</string>
+    <string name="ids_native_layerclass">景點分類</string>
+    <string name="ids_native_mapcoor_coro_e">E</string>
+    <string name="ids_native_mapcoor_coro_la">緯度(WGS84)</string>
+    <string name="ids_native_mapcoor_coro_lo">經度(WGS84)</string>
+    <string name="ids_native_mapcoor_coro_n">N</string>
+    <string name="ids_native_mapcoor_coro_s">S</string>
+    <string name="ids_native_mapcoor_coro_w">W</string>
+    <string name="ids_native_mapcoor_gis">坐標顯示</string>
+    <string name="ids_native_mapcoor_gis0">WGS84度分秒顯示</string>
+    <string name="ids_native_mapcoor_gis1">WGS84度顯示</string>
+    <string name="ids_native_mapcoor_gis_title">坐標輸入</string>
+    <string name="ids_native_msg_err_bmpbuffer_null">記憶體不足，請先關閉其他應用程式</string>
+    <string name="ids_native_msg_msgforunregistry">產品尚未註冊，請盡快註冊</string>
+    <string name="ids_native_msg_regtrydatecount">產品試用天數剩：%1$s 天</string>
+    <string name="ids_native_msg_thanksforregistry">已註冊，感謝您對本產品的支持</string>
+    <string name="ids_native_mypoi_ishome_alert">已有設定家，是否繼續？繼續將以新設定的家為主</string>
+    <string name="ids_native_mypoi_isoffice_alert">已有設定公司，是否繼續？繼續將以新設定的公司為主</string>
+    <string name="ids_native_mypoi_sortcnt">使用次數</string>
+    <string name="ids_native_mypoi_sortdist">距離</string>
+    <string name="ids_native_mypoi_sortlayer">分類</string>
+    <string name="ids_native_mypoi_sortmethod">排序方式</string>
+    <string name="ids_native_mypoi_sortrec">建立時間</string>
+    <string name="ids_native_mypoiedit_addr">地址</string>
+    <string name="ids_native_mypoiedit_alert">資料已變更，是否儲存？</string>
+    <string name="ids_native_mypoiedit_alert_cancel">取消</string>
+    <string name="ids_native_mypoiedit_alert_continue">繼續</string>
+    <string name="ids_native_mypoiedit_alert_save">儲存</string>
+    <string name="ids_native_mypoiedit_alert_title">提示</string>
+    <string name="ids_native_mypoiedit_layer">分類</string>
+    <string name="ids_native_mypoiedit_name">名稱</string>
+    <string name="ids_native_mypoiedit_note">景點描述</string>
+    <string name="ids_native_mypoiedit_tel">電話</string>
+    <string name="ids_native_navi_distance_km">Km</string>
+    <string name="ids_native_navi_distance_min">分</string>
+    <string name="ids_native_navi_info_arrival_time">離抵達時間</string>
+    <string name="ids_native_navi_info_arrival_time_s1">到達時間</string>
+    <string name="ids_native_navi_info_total_distance">距抵達距離</string>
+    <string name="ids_native_navi_info_total_distance_s1">剩餘距離</string>
+    <string name="ids_native_navi_info_total_time_s1">剩餘時間</string>
+    <string name="ids_native_navi_qf_coord">座標輸入</string>
+    <string name="ids_native_navi_qf_home">回家</string>
+    <string name="ids_native_navi_qf_mydata">個人資料</string>
+    <string name="ids_native_navi_qf_mymessage">通知</string>
+    <string name="ids_native_navi_qf_mypoi">我的景點</string>
+    <string name="ids_native_navi_qf_nearby">週邊景點</string>
+    <string name="ids_native_navi_qf_office">回公司</string>
+    <string name="ids_native_navi_qf_recent">查詢記錄</string>
+    <string name="ids_native_navi_qf_recent_addmypoi">加入我的景點</string>
+    <string name="ids_native_navi_qf_recent_cancel">取消</string>
+    <string name="ids_native_navi_qf_recent_del">刪除</string>
+    <string name="ids_native_navi_qf_recent_delall">全部刪除</string>
+    <string name="ids_native_navi_qf_recent_edit">編輯</string>
+    <string name="ids_native_naviscene_msg1">導航至目的地</string>
+    <string name="ids_native_naviscene_msg2">已加入我的景點</string>
+    <string name="ids_native_naviscene_title">快速設定</string>
+    <string name="ids_native_nearbytitle">周邊景點</string>
+    <string name="ids_native_options">選項</string>
+    <string name="ids_native_parkinginfo_by_citytown">地區停車場</string>
+    <string name="ids_native_parkinginfo_by_xy">附近停車場</string>
+    <string name="ids_native_parkinginfo_by_xy_alert">請選擇搜尋距離</string>
+    <string name="ids_native_parkinginfo_select_support_city">請選擇城市</string>
+    <string name="ids_native_parkinginfo_select_support_town">請選擇區域</string>
+    <string name="ids_native_parkinginfo_support_alart">停車場功能只支援台北市及高雄市</string>
+    <string name="ids_native_reg_btnRegist">註冊</string>
+    <string name="ids_native_reg_btnTrail">試用</string>
+    <string name="ids_native_reg_code">"請輸入註冊資訊
+尚餘試用天數:"</string>
+    <string name="ids_native_reg_email">Email : </string>
+    <string name="ids_native_reg_hintEmail">請輸入您的Email</string>
+    <string name="ids_native_reg_hintProsn">請輸入產品授權碼</string>
+    <string name="ids_native_reg_imei">IMEI : </string>
+    <string name="ids_native_reg_prosn">授權碼 : </string>
+    <string name="ids_native_reg_strBuyInfo">購買後將取得乙組授權碼(需信用卡)</string>
+    <string name="ids_native_reg_strBuyInfo2">使用此授權碼進行\"註冊\"即可開通</string>
+    <string name="ids_native_reg_strBuyNow"><u>立即購買PAPAGO!(需信用卡)</u></string>
+    <string name="ids_native_reg_strCheckProsn">"驗證授權中
+請稍候…"</string>
+    <string name="ids_native_reg_strErrorEmailFormat">Email格式錯誤</string>
+    <string name="ids_native_reg_strErrorRegCodeFormat">產品授權碼錯誤</string>
+    <string name="ids_native_reg_strgoBuyNow">前往購買</string>
+    <string name="ids_native_roadcondition">一般路況</string>
+    <string name="ids_native_route_option_endnavigation">結束導航</string>
+    <string name="ids_native_route_option_routeopt">規劃選項</string>
+    <string name="ids_native_route_option_simulation">模擬導航</string>
+    <string name="ids_native_routetitle">路徑規劃</string>
+    <string name="ids_native_routing_setas">設定[%1$s]為？</string>
+    <string name="ids_native_routing_startpoint">設為起始點</string>
+    <string name="ids_native_routing_target">立即導航</string>
+    <string name="ids_native_routing_to">導航到</string>
+    <string name="ids_native_setting_DisplayStraight">目的地方位參考線</string>
+    <string name="ids_native_setting_TmcSortType">TMC排序方式</string>
+    <string name="ids_native_setting_about">關於</string>
+    <string name="ids_native_setting_autoscale">自動縮放地圖</string>
+    <string name="ids_native_setting_avoid_toll">避走收費站</string>
+    <string name="ids_native_setting_background_navi">背景導航</string>
+    <string name="ids_native_setting_cctv_mode">國道千里眼畫面模式</string>
+    <string name="ids_native_setting_daynight">日夜模式切換</string>
+    <string name="ids_native_setting_dem">地形顯示</string>
+    <string name="ids_native_setting_disclaimer">注意與聲明</string>
+    <string name="ids_native_setting_dvrlist">紀錄列表</string>
+    <string name="ids_native_setting_facebook_like">按讚加入粉絲團</string>
+    <string name="ids_native_setting_general">一般</string>
+    <string name="ids_native_setting_gps">GPS</string>
+    <string name="ids_native_setting_gps_status">顯示GPS及系統狀態</string>
+    <string name="ids_native_setting_high">高</string>
+    <string name="ids_native_setting_inputmethod">預設輸入法</string>
+    <string name="ids_native_setting_juntionview">路口擬真顯示</string>
+    <string name="ids_native_setting_kwqpin">智慧型注音快拼</string>
+    <string name="ids_native_setting_low">低</string>
+    <string name="ids_native_setting_middle">中</string>
+    <string name="ids_native_setting_navi_3dbuilding">3D建築物顯示</string>
+    <string name="ids_native_setting_navi_arrowtype">車標圖示</string>
+    <string name="ids_native_setting_navi_dem">地形圖顯示</string>
+    <string name="ids_native_setting_navi_displaytrack">顯示行進軌跡</string>
+    <string name="ids_native_setting_navigation">導航</string>
+    <string name="ids_native_setting_north_2d">2D導航北方朝上</string>
+    <string name="ids_native_setting_off">關閉</string>
+    <string name="ids_native_setting_on">開啟</string>
+    <string name="ids_native_setting_other">其他</string>
+    <string name="ids_native_setting_play_startupwave">系統開機音效</string>
+    <string name="ids_native_setting_resetoption">恢復預設值</string>
+    <string name="ids_native_setting_road_reminder_title">路況提示</string>
+    <string name="ids_native_setting_route">路徑</string>
+    <string name="ids_native_setting_route_autoavoidtoll">是否迴避收費道路</string>
+    <string name="ids_native_setting_route_option">路徑規劃選項</string>
+    <string name="ids_native_setting_route_transporation">導航模式</string>
+    <string name="ids_native_setting_screen_option">螢幕方向設定</string>
+    <string name="ids_native_setting_service">客戶服務</string>
+    <string name="ids_native_setting_service_title">服務</string>
+    <string name="ids_native_setting_show_PAEVENT_title">在地圖顯示路況標示</string>
+    <string name="ids_native_setting_show_PAUSER_title">在地圖顯示車友</string>
+    <string name="ids_native_setting_software">軟體</string>
+    <string name="ids_native_setting_title">設定</string>
+    <string name="ids_native_setting_tmc_avoid_level">TMC路況迴避等級</string>
+    <string name="ids_native_setting_ui_language">使用者介面</string>
+    <string name="ids_native_setting_ultima">GOLiFE Move</string>
+    <string name="ids_native_setting_ultima_announce">授權聲明</string>
+    <string name="ids_native_setting_ultima_func_intro">功能介紹</string>
+    <string name="ids_native_setting_updatefreq_option">路況更新頻率</string>
+    <string name="ids_native_setting_version_app">版本</string>
+    <string name="ids_native_setting_version_map">地圖資料</string>
+    <string name="ids_native_setting_voice">語音</string>
+    <string name="ids_native_setting_voice_SpeedAlarm">速限提示</string>
+    <string name="ids_native_setting_voice_mute">靜音</string>
+    <string name="ids_native_setting_voice_speedcamera">測速照相提示</string>
+    <string name="ids_native_setting_voice_tts_speed">國語詳細語音播報速度</string>
+    <string name="ids_native_setting_voice_type">語音播報類型</string>
+    <string name="ids_native_string_disclaimer_accpet_btn">我已閱讀並同意本合約</string>
+    <string name="ids_native_string_disclaimer_msg">"使用說明
+
+重要安全訊息！
+
+請注意下列事項並遵守規定，否則可能會導致交通事故。
+
+本系統提供地理位置資訊僅供查閱參考，使用者須根據實際位置、路況、天氣等道路交通資訊，自行判斷並安全且守法地駕駛車輛。
+
+本系統提供的導航路徑及語音提示，為根據電子地圖計算之結果，無法取代使用者自身判斷。若規劃路線為不安全或違法的路線，請勿遵循。
+
+請勿在行車過程中操作本系統。若需操作，請安全地停靠在合法的位置後再操作。
+
+本系統僅提供個人非商業使用，並適用法律允許的最大限度內。
+
+研鼎崧圖股份有限公司對使用者因使用本系統而造成之損失不承擔任何責任。
+
+開始使用本系統視為同意以上聲明事項。
+"</string>
+    <string name="ids_native_string_event_alert_voice">前方 %1$s內，請注意 %2$s</string>
+    <string name="ids_native_string_event_info_title">即時路況</string>
+    <string name="ids_native_string_poi_layer_family">家人</string>
+    <string name="ids_native_string_poi_layer_friend">朋友</string>
+    <string name="ids_native_string_poi_layer_home">家</string>
+    <string name="ids_native_string_poi_layer_office">公司</string>
+    <string name="ids_native_string_poi_layer_speedcamera">測速照相</string>
+    <string name="ids_native_string_poi_layer_undefine">未定義</string>
+    <string name="ids_native_string_poi_layer_worl">工作</string>
+    <string name="ids_native_string_recent_msg_deleteall">清除所有查詢記錄？</string>
+    <string name="ids_native_string_tbook_allcity">全部縣市</string>
+    <string name="ids_native_string_tbook_alltype">全部類別</string>
+    <string name="ids_native_string_tbook_keyword_hint">輸入關鍵字</string>
+    <string name="ids_native_string_tbook_mapview">地圖瀏覽</string>
+    <string name="ids_native_string_tbook_navito">導航</string>
+    <string name="ids_native_string_tbook_select_city">縣市選擇</string>
+    <string name="ids_native_string_tbook_select_type">景點分類</string>
+    <string name="ids_native_string_tbook_title">景點書</string>
+    <string name="ids_native_string_ultima_MyGetThanksCount">我已得到%s個讚</string>
+    <string name="ids_native_string_ultima_accept">接受</string>
+    <string name="ids_native_string_ultima_account">帳號</string>
+    <string name="ids_native_string_ultima_account_title">個人資料</string>
+    <string name="ids_native_string_ultima_add_golife_failed">註冊 GOLiFE 失敗</string>
+    <string name="ids_native_string_ultima_authorization">"MOVE功能說明
+
+GOLiFE MOVE使用聲明感謝您開啟GOLiFE MOVE智慧路況社群功能，請閱讀使用聲明：
+
+GOLiFE MOVE會收集使用者位置及行車資訊，僅用於GOLiFE MOVE或其相關服務使用，不會將資料另作他用。本功能提供之路況，為網友分享及中心發佈，僅供使用者行車參考。使用者位置會顯示在地圖上，使用者可於設定中關閉此選項。本功能需要使用網路連線，網路連線費用由使用者自行負擔。
+
+若不希望使用網路，使用者可以在設定中關閉此功能。使用本功能視為同意以上聲明事項。
+"</string>
+    <string name="ids_native_string_ultima_declare">注意與聲明</string>
+    <string name="ids_native_string_ultima_iPOI_count">我的景點統計</string>
+    <string name="ids_native_string_ultima_input_restaurant_name1">請輸入餐廳名稱</string>
+    <string name="ids_native_string_ultima_input_restaurant_name2">請選擇以下餐廳或自行輸入</string>
+    <string name="ids_native_string_ultima_input_restaurant_title">餐廳</string>
+    <string name="ids_native_string_ultima_iwanttosay">我有話要說</string>
+    <string name="ids_native_string_ultima_login">登入</string>
+    <string name="ids_native_string_ultima_mygolife">我的GOLiFE</string>
+    <string name="ids_native_string_ultima_no_road_info">無道路資訊</string>
+    <string name="ids_native_string_ultima_notice">溫馨提示</string>
+    <string name="ids_native_string_ultima_paevent_passtime_day">%d日前</string>
+    <string name="ids_native_string_ultima_paevent_passtime_hour">%d小時前</string>
+    <string name="ids_native_string_ultima_paevent_passtime_just">剛剛</string>
+    <string name="ids_native_string_ultima_paevent_passtime_min">%d分前</string>
+    <string name="ids_native_string_ultima_paevent_passtime_sec">%d秒前</string>
+    <string name="ids_native_string_ultima_reject">拒絕</string>
+    <string name="ids_native_string_ultima_reportbywho">%s 於</string>
+    <string name="ids_native_string_ultima_reportinfo">請在描述裡寫出您要回報的資訊</string>
+    <string name="ids_native_string_ultima_reportok">感謝您的回報，資料已上傳成功</string>
+    <string name="ids_native_string_ultima_saveandwait">儲存至草稿</string>
+    <string name="ids_native_string_ultima_sayhi">跟大家打聲招呼說句話吧!</string>
+    <string name="ids_native_string_ultima_select_restaurant">請選擇目前餐廳狀況</string>
+    <string name="ids_native_string_ultima_select_weather">請選擇目前天氣狀況</string>
+    <string name="ids_native_string_ultima_selecticon">請選擇顯示圖示</string>
+    <string name="ids_native_string_ultima_share_location">讓大家看見我</string>
+    <string name="ids_native_string_ultima_show_icon">顯示圖示</string>
+    <string name="ids_native_string_ultima_sorrynogps">很抱歉，目前無GPS訊號或網路連線異常，請稍候再試!</string>
+    <string name="ids_native_string_ultima_tryagain">再試一次</string>
+    <string name="ids_native_string_ultima_user_motd">心情小語</string>
+    <string name="ids_native_string_ultima_user_name">使用者名稱</string>
+    <string name="ids_native_string_ultima_with_friend">與好友同行</string>
+    <string name="ids_native_system_alart_title">系統提示</string>
+    <string name="ids_native_tmctitle">即時路況</string>
+    <string name="ids_native_town_message">請選擇區域</string>
+    <string name="ids_native_wait_loading">資料讀取中，請稍候</string>
+    <string name="ids_native_weather_degree">°C</string>
+    <string name="ids_native_weather_type_today">今明天氣</string>
+    <string name="ids_native_weather_type_weeks">一週天氣</string>
+    <string name="ids_native_weather_week_afternoon">今日下午</string>
+    <string name="ids_native_weather_week_friday">星期五</string>
+    <string name="ids_native_weather_week_monday">星期一</string>
+    <string name="ids_native_weather_week_night">今日晚上</string>
+    <string name="ids_native_weather_week_saturday">星期六</string>
+    <string name="ids_native_weather_week_sunday">星期日</string>
+    <string name="ids_native_weather_week_thursday">星期四</string>
+    <string name="ids_native_weather_week_today">今日白天</string>
+    <string name="ids_native_weather_week_tomrrow_moring">明日早上</string>
+    <string name="ids_native_weather_week_tuesday">星期二</string>
+    <string name="ids_native_weather_week_wednesday">星期三</string>
+    <string name="ids_network_status_not_connection">"無法連線到網際網路，
+請確認連線狀態!"</string>
+    <string name="ids_notification_visible">"您已顯示在地圖上。若不想被顯示，
+請至「我的 GOLiFE 」變更設定。"</string>
+    <string name="ids_onlineshop_buynow">馬上購買</string>
+    <string name="ids_onlineshop_downloading_pic">下載圖片中</string>
+    <string name="ids_onlineshop_getting_saledata">更新資料中</string>
+    <string name="ids_onlineshop_marketname">超值嚴選</string>
+    <string name="ids_onlineshop_nts">NT$</string>
+    <string name="ids_onlineshop_plz_waiting">請稍候</string>
+    <string name="ids_onlineshop_refresh">重新整理</string>
+    <string name="ids_onlineshop_web_exit">是否離開</string>
+    <string name="ids_onlineshop_web_exit_no">取消</string>
+    <string name="ids_onlineshop_web_exit_title">離開購買頁</string>
+    <string name="ids_onlineshop_web_exit_yes">離開此頁面</string>
+    <string name="ids_onlineshop_web_loading">載入讀取中，請候後！</string>
+    <string name="ids_pls_input_keyword">請輸入關鍵字</string>
+    <string name="ids_pls_input_keyword_online">請輸入地址或景點名稱</string>
+    <string name="ids_pls_input_road">請輸入查詢地址</string>
+    <string name="ids_qp_serchhint">查詢範圍</string>
+    <string name="ids_service_desc">"週一至週五：9:00~12:00, 13:30~17:30
+《例假日與國定假日除外》"</string>
+    <string name="ids_service_mail"><b>E-mail：</b> service@goyourlife.com</string>
+    <string name="ids_service_tel"><b>電話：</b> +886–2–27962337</string>
+    <string name="ids_setting_dvrlistmessage">點此觀看紀錄影片</string>
+    <string name="ids_string_ask_drop_ipoi">登入帳戶後，是否要清除景點?</string>
+    <string name="ids_string_ask_login">目前尚未登入GOLiFE帳戶，是否登入?</string>
+    <string name="ids_string_cctv_InternetBad">影像資料結束，即將關閉攝影機!</string>
+    <string name="ids_string_cctv_download_failed">下載攝影機列表失敗，是否重新下載？</string>
+    <string name="ids_string_cctv_downloading">下載中，目前進度</string>
+    <string name="ids_string_cctv_initial_list">即將上網取得攝影機列表，是否繼續？</string>
+    <string name="ids_string_cctv_re_download">更新攝影機列表</string>
+    <string name="ids_string_connect_error">連接失敗，請稍後再試!</string>
+    <string name="ids_string_golife_account">GOLiFE帳號</string>
+    <string name="ids_string_golife_arrival_time">預計%s抵達</string>
+    <string name="ids_string_golife_connect_time">已連接 %s</string>
+    <string name="ids_string_golife_goto">行駛中</string>
+    <string name="ids_string_golife_gototarget">正前往%s</string>
+    <string name="ids_string_tmc_initial_list">即將上網取得即時資訊，是否繼續？</string>
+    <string name="ids_string_tmc_reflash">立即更新資料</string>
+    <string name="ids_string_tmc_title_tmc">即時資訊</string>
+    <string name="ids_string_tmc_update_old">上次更新時間為%s，是否更新即時資訊？</string>
+    <string name="ids_string_ultima_Coin">點</string>
+    <string name="ids_string_ultima_MyCoin">累積點數</string>
+    <string name="ids_string_ultima_MyMileage">累積里程</string>
+    <string name="ids_string_ultima_MyMileageOrder">查看里程排行榜</string>
+    <string name="ids_string_ultima_MyMileageRank">里程排行榜</string>
+    <string name="ids_string_ultima_RestrictedUserIPOI">"很抱歉，目前無法使用此功能，
+請立即使用FB帳號或正式GOLiFE帳號登入，
+方可使用完整功能!"</string>
+    <string name="ids_string_ultima_add_pic">加入圖片</string>
+    <string name="ids_string_ultima_ask_restaurant_name">"為了使您的回報成為更有幫助的資訊，請您輸入欲回報的餐廳名稱。
+
+範例：
+研鼎生猛海鮮"</string>
+    <string name="ids_string_ultima_cancel_post_fb">取消發布</string>
+    <string name="ids_string_ultima_connect_facebook">連接到Facebook</string>
+    <string name="ids_string_ultima_connect_fb_message">"連接Facebook，即可取得正在使用GOLiFE MOVE的Facebook好友。
+
+透過好友的位置與目的地分享，您可以看到好友的行車動態，並可同行前往，方便您群體出遊!
+
+"</string>
+    <string name="ids_string_ultima_delete_reply">刪除回覆</string>
+    <string name="ids_string_ultima_email_message">"GOLiFE MOVE，將社群、路況與導航做一個全新的結合，
+希望透過大家的力量，將用路環境變得更為人性，更為安全。
+立刻免費下載全新GOLiFE MOVE，全台順暢趴趴走!
+
+立即下載
+http://www.goyourlife.com/move_android"</string>
+    <string name="ids_string_ultima_email_subject">一同免費體驗GOLiFE MOVE</string>
+    <string name="ids_string_ultima_fb_goto_dest">目的地:%s</string>
+    <string name="ids_string_ultima_fb_goto_lefttime">預計時間:%s</string>
+    <string name="ids_string_ultima_fb_goto_place">我正在使用GOLiFE MOVE前往</string>
+    <string name="ids_string_ultima_fb_mil">累積里程:%s公里</string>
+    <string name="ids_string_ultima_fb_mil_title">我與GOLiFE MOVE 一起完成的里程</string>
+    <string name="ids_string_ultima_invite">邀請好友</string>
+    <string name="ids_string_ultima_km">公里</string>
+    <string name="ids_string_ultima_login_facebook">使用Facebook帳號登入</string>
+    <string name="ids_string_ultima_login_golife">使用GOLiFE帳號登入</string>
+    <string name="ids_string_ultima_logintime">登入於</string>
+    <string name="ids_string_ultima_message">留言</string>
+    <string name="ids_string_ultima_message_send_ok">訊息已傳送</string>
+    <string name="ids_string_ultima_messages">則留言</string>
+    <string name="ids_string_ultima_navi_to_this">導航到此</string>
+    <string name="ids_string_ultima_nofriends">您的好友還沒加入GOLife MOVE嗎?快發送郵件邀請他們吧!</string>
+    <string name="ids_string_ultima_nointernet">很抱歉，無法連線到網際網路，請確認連線狀態!</string>
+    <string name="ids_string_ultima_nologin">很抱歉，目前伺服器連線異常，請稍候再試!</string>
+    <string name="ids_string_ultima_paeventtype_accident_major_return">已排除</string>
+    <string name="ids_string_ultima_paeventtype_accident_minor_return">已排除</string>
+    <string name="ids_string_ultima_paeventtype_accident_return">已排除</string>
+    <string name="ids_string_ultima_paeventtype_hazard_breakdown_return">已解除</string>
+    <string name="ids_string_ultima_paeventtype_hazard_drops_return">已解除</string>
+    <string name="ids_string_ultima_paeventtype_hazard_return">已解除</string>
+    <string name="ids_string_ultima_paeventtype_hazard_weather_fog_return">已解除</string>
+    <string name="ids_string_ultima_paeventtype_hazard_weather_gale_return">已解除</string>
+    <string name="ids_string_ultima_paeventtype_hazard_weather_hail_return">已解除</string>
+    <string name="ids_string_ultima_paeventtype_hazard_weather_rain_return">已解除</string>
+    <string name="ids_string_ultima_paeventtype_hazard_weather_snow_return">已解除</string>
+    <string name="ids_string_ultima_paeventtype_jam_heavy_return">已暢通</string>
+    <string name="ids_string_ultima_paeventtype_jam_moderate_return">已暢通</string>
+    <string name="ids_string_ultima_paeventtype_jam_return">已暢通</string>
+    <string name="ids_string_ultima_paeventtype_jam_standstill_return">已暢通</string>
+    <string name="ids_string_ultima_paeventtype_police_hidden_return">已離開</string>
+    <string name="ids_string_ultima_paeventtype_police_return">已離開</string>
+    <string name="ids_string_ultima_paeventtype_police_spot_check_return">已離開</string>
+    <string name="ids_string_ultima_paeventtype_police_visible_return">已離開</string>
+    <string name="ids_string_ultima_paeventtype_restaurant_intermission_return">有營業</string>
+    <string name="ids_string_ultima_paeventtype_restaurant_longqueue_return">有空位了</string>
+    <string name="ids_string_ultima_paeventtype_restaurant_vacant_return">已客滿</string>
+    <string name="ids_string_ultima_post_to">導航&amp;發布</string>
+    <string name="ids_string_ultima_post_to_fb">發布至 Facebook</string>
+    <string name="ids_string_ultima_reg_date">註冊日期:</string>
+    <string name="ids_string_ultima_route_info">導航&amp;查看路徑</string>
+    <string name="ids_string_ultima_routeinfo">查看路徑規劃</string>
+    <string name="ids_string_ultima_share_facebook">自動發布至Facebook</string>
+    <string name="ids_string_ultima_share_to_myfriends">分享目的地給好友，並同意好友同行。</string>
+    <string name="ids_string_ultima_target_place">目的地</string>
+    <string name="ids_string_ultima_use_camera">選取現有圖片</string>
+    <string name="ids_string_ultima_use_photo">使用相機拍照</string>
+    <string name="ids_string_ultima_write_message_hint">寫點你的想法</string>
+    <string name="ids_together_btn_together">同行</string>
+    <string name="ids_together_prework">請先將讓大家看見我設為公開或僅限我的好友。</string>
+    <string name="ids_together_tv_cancel">您已退出與好友的同行。</string>
+    <string name="ids_together_tv_connected">已連結</string>
+    <string name="ids_together_tv_dest">正在前往</string>
+    <string name="ids_together_tv_driving">行駛中</string>
+    <string name="ids_together_tv_eta">預計%s抵達</string>
+    <string name="ids_together_txt_addpoi">好友位置</string>
+    <string name="ids_ultima_server_resp_403">帳號已變更，請至手機的設定，將 GOLiFE 帳號移除後，再重新登入本系統服務。</string>
+    <string name="ids_unzip_navilite">解壓縮圖資中，請稍候…</string>
+    <string name="move_dialog_agree_content">"是否同意開啟MOVE智慧路況功能，
+接受車友回報的各地路況?"</string>
+    <string name="move_dialog_agree_title">同意開啟MOVE智慧路況</string>
+    <string name="move_dialog_use_mobiledata">啟用服務會使用網路流量，確定啟用?</string>
+    <string name="naviFromClipBoard">從剪貼簿導航</string>
+    <string name="notificationNaviFromClipboardContentText">回到</string>
+    <string name="notificationNaviFromClipboardTicker">PAPAGO! 已經關閉</string>
+    <string name="prefCatIMapUpdateKey">PREF_CAT_IMAP_UPDATE_KEY</string>
+    <string name="prefCatIMapUpdateTitle">圖資更新</string>
+    <string name="prefCatSetWelcomeKey">PREF_CAT_SET_WELCOME_KEY</string>
+    <string name="prefCatSetWelcomeTitle">歡迎金句</string>
+    <string name="prefIMapUpdateAllowMobileDataKey">PREF_IMAP_UPDATE_ALLOW_MOBILE_DATA_KEY</string>
+    <string name="prefIMapUpdateAllowMobileDataSummary">請留意電信行動資料傳輸所可能造成的額外通話費</string>
+    <string name="prefIMapUpdateAllowMobileDataTitle">允許使用3G行動資料連線</string>
+    <string name="prefIMapUpdateAutoCheckKey">PREF_IMAP_UPDATE_AUTOCHECK_KEY</string>
+    <string name="prefIMapUpdateAutoCheckTitle">自動檢查是否有新圖資</string>
+    <string name="prefIMapUpdateCheckUpdateRspAvailable">PREF_IMAP_UPDATE_CHECK_UPDATE_RSP_AVAILABLE</string>
+    <string name="prefIMapUpdateCurrVerKey">PREF_IMAP_UPDATE_CURR_VER_KEY</string>
+    <string name="prefIMapUpdateCurrVerSummary" />
+    <string name="prefIMapUpdateCurrVerTitle">圖資版號</string>
+    <string name="prefIMapUpdateGoLifeAccountKey">PREF_IMAP_UPDATE_GOLIFE_ACCOUNT_KEY</string>
+    <string name="prefIMapUpdateGoLifeAccountNeedValdiate">PREF_IMAP_UPDATE_GO_LIFE_ACCOUNT_NEED_VALIDATE</string>
+    <string name="prefIMapUpdateGoLifeAccountNeedValdiateKey">PREF_IMAP_UPDATE_GOLIFE_ACCOUNT_NEED_VALIDATE_KEY</string>
+    <string name="prefIMapUpdateGoLifeAccountNeedValdiateSummary">請進您的電郵信箱點一下 GOLiFE 認證信內的連結，即可立即啟用您的 GOLiFE 帳號（若找不到，也請檢查一下是否被誤判為垃圾信)</string>
+    <string name="prefIMapUpdateGoLifeAccountNeedValdiateTitle">只差一步！信箱認證</string>
+    <string name="prefIMapUpdateGoLifeAccountSummary">GOLiFE MOVE 提供免費 GOLiFE 帳號為您更新圖資 — 按一下就可快速註冊</string>
+    <string name="prefIMapUpdateGoLifeAccountTitle">我的 GOLiFE 帳號</string>
+    <string name="prefIMapUpdateUserApprovalNeededKey">PREF_IMAP_UPDATE_AUTOSTART_KEY</string>
+    <string name="prefIMapUpdateUserApprovalNeededSummary">若您選擇不需詢問，則新圖資下載將自動啟動；請留意［允許使用3G行動資料連線］的設定</string>
+    <string name="prefIMapUpdateUserApprovalNeededTitle">新圖資下載前必須先詢問我</string>
+    <string name="prefSetWelcomeDialogDefaultVal">Default welcome message</string>
+    <string name="prefSetWelcomeDialogMessage">Provide a message</string>
+    <string name="prefSetWelcomeDialogTitle">歡迎金句</string>
+    <string name="prefSetWelcomeKey">PREF_SET_WELCOME_KEY</string>
+    <string name="prefSetWelcomeMessage">歡迎金句</string>
+    <string name="prefSetWelcomeSummary">Define the Welcome message to be shown</string>
+    <string name="preferences">Preferences</string>
+    <string name="shareUsing">郵件傳送當前目的地</string>
+    <string name="shareUsingSMS">簡訊傳送當前目的地</string>
+    <string name="toastGoBackHomeDuringIMapDownload">再按一次 [Back] 按鈕回到桌面</string>
+    <string name="toastIMapUnableToContDueToIllegalInstall">厄…真的很抱歉 PAPAGO! 無法再執行…請檢查是否 GoLife 服務套件與 PAPAGO! 都是正式版本，且版本吻合</string>
+    <string name="toastIMapUpdateCompleteFailed">圖資下載 / 更新失敗</string>
+    <string name="toastIMapUpdateCompleteSuccess">圖資更新即將完成；請關閉 PAPAGO!，下次重新啟動即進行升級。</string>
+    <string name="toastPrefIMapUpdateUnableToContDueToUsbStorage">手機被啟動為 USB 儲存裝置，很抱歉 PAPAGO! 無法再執行！</string>
+    <string name="using3GandWifiDownloadMap">允許使用3G</string>
+    <string name="usingWifiDownloadMap">使用Wifi下載</string>
+    <string name="com.crashlytics.android.build_id">33d1731c-e8ac-4af5-b33d-2f3466b9b7d9</string>
+    <string name="com_facebook_choose_friends">Choose Friends</string>
+    <string name="com_facebook_dialogloginactivity_ok_button">OK</string>
+    <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_like_button_liked">Liked</string>
+    <string name="com_facebook_like_button_not_liked">Like</string>
+    <string name="com_facebook_loading">Loading...</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_loginview_log_in_button">Log in with Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="com_facebook_logo_content_description">Facebook Logo</string>
+    <string name="com_facebook_nearby">Nearby</string>
+    <string name="com_facebook_picker_done_button_text">Done</string>
+    <string name="com_facebook_placepicker_subtitle_catetory_only_format">%1$s</string>
+    <string name="com_facebook_placepicker_subtitle_format">%1$s • %2$,d were here</string>
+    <string name="com_facebook_placepicker_subtitle_were_here_only_format">%1$,d were here</string>
+    <string name="com_facebook_requesterror_password_changed">Your Facebook password has changed. Please log into this app again to reconnect your Facebook account.</string>
+    <string name="com_facebook_requesterror_permissions">This app doesn’t have permission to do this. To change permissions, try logging into the app again.</string>
+    <string name="com_facebook_requesterror_reconnect">Please log into this app again to reconnect your Facebook account.</string>
+    <string name="com_facebook_requesterror_relogin">Please log into this app again to reconnect your Facebook account.</string>
+    <string name="com_facebook_requesterror_web_login">Your Facebook account is locked. Please log into www.facebook.com to continue.</string>
+    <string name="com_facebook_tooltip_default">"New! You're in control - choose what info you want to share with apps."</string>
+    <string name="com_facebook_usersettingsfragment_log_in_button">Log in…</string>
+    <string name="com_facebook_usersettingsfragment_logged_in">Logged in</string>
+    <string name="com_facebook_usersettingsfragment_not_logged_in">Not logged in</string>
+</resources>

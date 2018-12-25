@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="about">About</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_path">Add new path</string>
+    <string name="advanced_enable">You enabled advanced settings. If the recording does not work, turn off this option.</string>
+    <string name="advanced_preferences">Advanced (only if you know what you do)</string>
+    <string name="app1">RoadRecorder is an application dedicated to all drivers. It records your trip in video files, including sound. It can also record GPS position and allows you to replay your trip videos with location tracking.</string>
+    <string name="app2">RoadRecorder supports loop recording with automatic file deletion to save your memory card space.</string>
+    <string name="app3">The application is very useful in case of fender-bender, car accident or any other unusual situation on the road; RoadRecorder registers location, date, time, speed along with video and audio data.</string>
+    <string name="app4">RoadRecorder is your black box in every trip! Have a safe journey!</string>
+    <string name="app5">If you like the application, rate it and post your opinion.</string>
+    <string name="app6">"Visit our new website: 
+http://roadrecorder.eu"</string>
+    <string name="app__name">Road Recorder</string>
+    <string name="app_name">"Road
+Recorder"</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="application">App</string>
+    <string name="application_preferences">Application preferences</string>
+    <string name="appname">RoadRecorder</string>
+    <string name="author">Author</string>
+    <string name="auto">AUTO</string>
+    <string name="auto_deleting">Auto-deleting files</string>
+    <string name="auto_deleting_finished">Auto-deleting finished</string>
+    <string name="auto_deleting_started">Auto-deleting started</string>
+    <string name="background_rec_permission_required">This permission is required for background recording</string>
+    <string name="background_start">Start in background</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="busy_device">Device or resource busy, restart your phone and check path.</string>
+    <string name="buy">Buy</string>
+    <string name="buy_now">Buy now</string>
+    <string name="buy_pro">Buy PRO Version</string>
+    <string name="buy_pro_to_get">Buy PRO to get:</string>
+    <string name="call_emergency_number">Call emergency number</string>
+    <string name="camera_error">Failed to open camera</string>
+    <string name="camera_operation_error">Error. Probably your device is not able to do this operation while recording.</string>
+    <string name="cancel">Cancel</string>
+    <string name="cancel_label">Cancel</string>
+    <string name="changelog">ChangeLog</string>
+    <string name="changes">- added emergency call button on recording screen - marked emergency (locked) files on the list - fixed minor bugs</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="check_other_apps">Check other apps</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="confirm_label">Confirm</string>
+    <string name="contact">Contact us</string>
+    <string name="copied">Copied</string>
+    <string name="create_folder_error">Could not create folder</string>
+    <string name="create_folder_error_already_exists">Folder already exists</string>
+    <string name="create_folder_error_no_write_access">Cannot write to this folder</string>
+    <string name="create_folder_label">Create folder</string>
+    <string name="create_folder_msg">Create new folder with name %1$s?</string>
+    <string name="create_folder_success">Created new folder</string>
+    <string name="create_subtitle_file">Create subtitle file</string>
+    <string name="dark_mode">Dark theme</string>
+    <string name="days">days</string>
+    <string name="default_web_client_id">84148624803-9p3l0oufi15mdv0hp3p121ndvcd6fmiq.apps.googleusercontent.com</string>
+    <string name="delete">Delete</string>
+    <string name="delete_dir">Delete directory</string>
+    <string name="delete_question">Are you sure you want to delete?</string>
+    <string name="deleted_files">File(s) deleted.</string>
+    <string name="deleting_files">Deleting files...</string>
+    <string name="dialog_days_offset_preference">Type number of days</string>
+    <string name="dialog_message_empty_disc_preference">If you have less memory than this value, you will be informed. Type 0 to disable.</string>
+    <string name="dialog_path_preference">Type full path</string>
+    <string name="dialog_space_offset_preference">Type number in mb</string>
+    <string name="dialog_title_bitrate_preference">Type bitrate.</string>
+    <string name="dialog_title_emergency_number_preference">Type emergency number</string>
+    <string name="dialog_title_empty_disc_preference">Type megabytes.</string>
+    <string name="dialog_title_frame_rate_preference">Type frame rate.</string>
+    <string name="dialog_title_list_preference">Choose one</string>
+    <string name="dialog_title_prefix_preference">Type prefix.</string>
+    <string name="disabled">Disabled</string>
+    <string name="discount">"30%
+off"</string>
+    <string name="display">Display</string>
+    <string name="display_preferences">Display preferences</string>
+    <string name="do_nothing">Nothing</string>
+    <string name="donate">Donate</string>
+    <string name="donate_summary">Like the app? Want to help? Make a small donation</string>
+    <string name="dont_show_again">"Don't show again"</string>
+    <string name="emergency_number">Emergency number</string>
+    <string name="emergency_preferences">Emergency preferences</string>
+    <string name="empty_card_space">There is no space on the memory card</string>
+    <string name="empty_parameter_forbidden">Empty parameter is forbidden</string>
+    <string name="enabled">Enabled</string>
+    <string name="error">Error!</string>
+    <string name="error_write_xml">Error whilst writing file</string>
+    <string name="event1">eu.roadrecorder.pro.RECORDING_STOPPED</string>
+    <string name="event1_description">is sending to other apps when recording is stopped</string>
+    <string name="event2">eu.roadrecorder.pro.RECORDING_STARTED</string>
+    <string name="event2_description">is sending to other apps when recording is started</string>
+    <string name="event3">eu.roadrecorder.pro.STOP_BACKGROUND_RECORDING</string>
+    <string name="event3_description">is stopping background recording when active</string>
+    <string name="event4">eu.roadrecorder.pro.START_BACKGROUND_RECORDING</string>
+    <string name="event4_description">is starting background recording</string>
+    <string name="event5">eu.roadrecorder.pro.STOP_RECORDING</string>
+    <string name="event5_description">is stopping recording when active and closing screen when recording with gps is active</string>
+    <string name="event6">eu.roadrecorder.pro.START_RECORDING</string>
+    <string name="event6_description">is showing recording view and starting automatically when gps is not required</string>
+    <string name="event7">eu.roadrecorder.pro.CHECK_RECORDING_STATUS</string>
+    <string name="event7_description">asks about current recording status</string>
+    <string name="event8">eu.roadrecorder.pro.RECORDING_IN_PROGRESS</string>
+    <string name="event8_description">returns information that recording is in progress (on request CHECK_RECORDING_STATUS)</string>
+    <string name="event9">eu.roadrecorder.pro.RECORDING_OFF</string>
+    <string name="event9_description">returns information that recording is off (on request CHECK_RECORDING_STATUS)</string>
+    <string name="events">Events</string>
+    <string name="events_info">Road Recorder supports global events, which are divided into (click to copy):</string>
+    <string name="events_only_in_pro">Receiving events available only in PRO version.</string>
+    <string name="ex_msg_dialog_choice_confirm">Confirm button is only for multi choice lists. You must call setMultiChoiceItems first</string>
+    <string name="ex_msg_dialog_view_not_set">You must call method setView before calling configureView.</string>
+    <string name="exit">Exit</string>
+    <string name="exit_when_recording">Recording is in progress. What do you want to do?</string>
+    <string name="export_as_subtitles">Export as subtitles</string>
+    <string name="export_to_gpx">Export to GPX</string>
+    <string name="export_to_kml">Export to KML</string>
+    <string name="faboptions_vector_close_path">M 6 6 L 18 18, M 12 12 L 12 12, M 6 18 L 18 6</string>
+    <string name="faboptions_vector_overflow_path">M 6 12 L 6 12.1, M 12 12.1 L 12 12, M 18 12.1 L 18 12</string>
+    <string name="find_marker">Follow marker</string>
+    <string name="firebase_database_url">https://admob-app-id-1413186240.firebaseio.com</string>
+    <string name="full_screen">Full screen</string>
+    <string name="gcm_defaultSenderId">84148624803</string>
+    <string name="gcm_fallback_notification_channel_label">Miscellaneous</string>
+    <string name="google_api_key">AIzaSyDmEfiDRRQ08vX2sV3jgDuOOc3p4qZjczM</string>
+    <string name="google_app_id">1:84148624803:android:9bb822e4b19eee79</string>
+    <string name="google_crash_reporting_api_key">AIzaSyDmEfiDRRQ08vX2sV3jgDuOOc3p4qZjczM</string>
+    <string name="google_maps_v2_key">AIzaSyBmIOFHduOOMjYkJmAUZriTXo4Gaej4sms</string>
+    <string name="google_storage_bucket">admob-app-id-1413186240.appspot.com</string>
+    <string name="gps_off">GPS receiver is off.</string>
+    <string name="gps_on">Signal is OK!</string>
+    <string name="gps_preferences">GPS preferences</string>
+    <string name="gps_search">Searching signal…</string>
+    <string name="gps_settings">GPS Settings</string>
+    <string name="gps_settings_preference">Settings</string>
+    <string name="gps_title_off">Your GPS is turned off! Would you like to enable it?</string>
+    <string name="hide_map">Hide map</string>
+    <string name="hide_road">Hide road</string>
+    <string name="i_am">Yes, do it!</string>
+    <string name="i_am_not">No, stop.</string>
+    <string name="icon_background">Background</string>
+    <string name="icon_play">Play</string>
+    <string name="icon_preferences">Preferences</string>
+    <string name="icon_record">Record</string>
+    <string name="important">Important!</string>
+    <string name="incoming">INCOMING</string>
+    <string name="information">Information</string>
+    <string name="initialization">Initialization</string>
+    <string name="invalid_input">Invalid input</string>
+    <string name="keep_this_file">Keep this file</string>
+    <string name="lack_of_disc_space">Lack of disk space. Recording stopped.</string>
+    <string name="later">Later</string>
+    <string name="latitude_short">lat</string>
+    <string name="like_fanpage">Like us on Facebook</string>
+    <string name="loading_data">Please wait. Loading data…</string>
+    <string name="lock">Lock</string>
+    <string name="longitude_short">lon</string>
+    <string name="low_battery">Low battery: %1$s%%</string>
+    <string name="menu">Menu</string>
+    <string name="much_more_description">We do not want to betray all the aces in the beginning, but in the plans we have more interesting features and improvements. As a professional user, you have a real impact on what we do, just write us - we always write off!</string>
+    <string name="new_changes">Changes in this version:</string>
+    <string name="new_changes_data">"
+- added more details on files list 
+- added ability to enable/disable LED blinking when recording in background 
+- improved few screens 
+- fixed minor bugs"</string>
+    <string name="night_mode">Night Mode</string>
+    <string name="no_front_camera">No front camera available</string>
+    <string name="no_license_title">No license for Road Recorder</string>
+    <string name="no_memory">No disc space</string>
+    <string name="no_sd_card">No SD Card</string>
+    <string name="no_thanks">No, thanks</string>
+    <string name="no_write_permission">No permission to write file</string>
+    <string name="no_xml_file">No file with coordinates (map hidden)</string>
+    <string name="normal_mode">Normal Mode</string>
+    <string name="not_used">Only here to ensure that android-maven-plugin:4.4.3 creates an R.txt</string>
+    <string name="notification_searching">Searching GPS signal…</string>
+    <string name="notifications_preferences">Notifications preferences</string>
+    <string name="one_time_paid">One-time payment</string>
+    <string name="only_pro">Only in PRO version</string>
+    <string name="open">Open</string>
+    <string name="option_in_pro">This option is only available in the PRO version!</string>
+    <string name="other">Other</string>
+    <string name="outgoing">OUTGOING</string>
+    <string name="password_toggle_content_description">Toggle password visibility</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="permissions_required_message">We need all required permissions to properly record your trips. If you have any questions about them, contact us on contact@roadrecorder.eu</string>
+    <string name="permissions_required_title">Please accept the permissions</string>
+    <string name="photo">Photo</string>
+    <string name="photo_limit_reached">In FREE version you can take pictures every %1$d seconds. PRO version has no limit.</string>
+    <string name="picture_taken">Photo taken</string>
+    <string name="play">Play</string>
+    <string name="play_default">Play with default player</string>
+    <string name="preferences">Preferences</string>
+    <string name="previous_changes">Previous changes:</string>
+    <string name="previous_changes_data">"
+- fixed saving files on SD card 
+- added component to select path in simple way 
+- improved errors reporting 
+- added bulgarian language 
+- added feature to automatically take pictures at specified interval of time 
+- improved animations between views 
+- continue recording after call 
+- added recording in portrait mode 
+- added button for taking photos on screen 
+- ability to set night mode in background recording 
+- changed application icon 
+- added zoom feature 
+- ability to take pictures from recording window 
+- added night mode 
+- ability to change path without enabling advanced preferences 
+- confirm the exit while recording 
+- export data as subtitles to movie 
+- ability to disable sound of camera shutter 
+- improved settings screen 
+- minor fixes 
+- added new language (Russian) 
+- animations between screens 
+- information about PRO version 
+- added option with sharing files (Bluetooth, Dropbox, etc.) 
+- better way to select file path 
+- restored method to check disc space 
+- added link to website 
+- auto-deleting old files (configurable) 
+- display current location (Internet access required) 
+- ability to stop recording from notification 
+- location tracking on video playback 
+- ability to stop recording after disconnect charger 
+- new recording icon 
+- configurable video storage location 
+- export coordinates to KML or GPX"</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="pro">Pro</string>
+    <string name="pro_benefits">"
+• no ads 
+• unlimited recording length 
+• multiple files within a session recordings 
+• unlimited number of pictures per minute 
+• more frequent updates 
+• full support for events (sending and receiving from apps like Tasker) 
+• the ability to send video file with coordinates (Dropbox, e-mail, etc.) 
+• geotagging photos"</string>
+    <string name="pro_discount">Only now, the pro version costs half the price!</string>
+    <string name="pro_in_market">PRO Version already in Google Play!</string>
+    <string name="problems">Problems</string>
+    <string name="problems1">If the application does not work properly, check the following:</string>
+    <string name="problems2">1) The application does not support CyanogenMod. If the recording in this mod does not work, it is the fault of the system, not the application.</string>
+    <string name="problems3">2) Remember to turn off task killer (if you have one) or add Road Recorder to the list of exceptions.</string>
+    <string name="problems4">3) If your device loses GPS fix often or unexpectedly, turn off GPS location info in your camera options (geotagging) (in Android 4.0 or higher)</string>
+    <string name="problems5">In case none of the above works and the application still does not work properly, contact the developer and share your experience. Contact information can be found in About -> Contact us.</string>
+    <string name="problems6">4) If video recording stopped working after you changed video settings, experiment with different video resolution, codec or simply disable advanced settings. Your device may not support the selected options.</string>
+    <string name="professional_description">By buying a professional account you will receive<b> instant</b> access to<b> all functionality</b> and get rid of advertising.</string>
+    <string name="purchase_cancel">We hope you change your mind :)</string>
+    <string name="purchase_error">Payment failed.</string>
+    <string name="purchase_thanks">"Thank you for purchasing the PRO version.
+We have unlocked for you trip statistics:"</string>
+    <string name="rate_app">Rate app</string>
+    <string name="rate_app_summary">Rate application on Google Play</string>
+    <string name="rate_message">If you like the app, please leave 5 stars.</string>
+    <string name="rate_title">Rate the app!</string>
+    <string name="recheck">Re-Check</string>
+    <string name="record">Record</string>
+    <string name="recording">Recording</string>
+    <string name="recording_damaged">Damaged file</string>
+    <string name="recording_in_progress">Background recording is in progress...</string>
+    <string name="recording_preferences">Recording preferences</string>
+    <string name="recording_started">Recording started</string>
+    <string name="recording_stopped">Recording stopped</string>
+    <string name="refresh">Refresh</string>
+    <string name="reset">Reset</string>
+    <string name="resolution_changed">Resolution has been changed. Note that your device may not support a particular resolution or requires a different codec. If, after this operation, the recording has stopped working, try changing the codec, resolution, or disable the advanced settings.</string>
+    <string name="run_in_background">In background</string>
+    <string name="run_manually">Run manually</string>
+    <string name="running_out_card_space">Running out of space on your memory card</string>
+    <string name="s1">Save image</string>
+    <string name="s2">Allow Ad to store image in Picture gallery?</string>
+    <string name="s3">Accept</string>
+    <string name="s4">Decline</string>
+    <string name="s5">Create calendar event</string>
+    <string name="s6">Allow Ad to create a calendar event?</string>
+    <string name="s7">Test Ad</string>
+    <string name="sale">Big sale</string>
+    <string name="search_menu_title">Search</string>
+    <string name="selected_folder_label">Selected folder:</string>
+    <string name="services_out_of_date">Google Services are out of date. Update them to show map correctly!</string>
+    <string name="settings">Settings</string>
+    <string name="share">Share</string>
+    <string name="share_files">Share file with coordinates</string>
+    <string name="show_map">Show map</string>
+    <string name="show_road">Show road</string>
+    <string name="skip">Skip</string>
+    <string name="start_recording">Start recording</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop">Stop</string>
+    <string name="stop_exit">Stop and exit</string>
+    <string name="stop_recording">Stop recording</string>
+    <string name="subtitle_settings">Subtitle settings</string>
+    <string name="success_export">Exported to file:</string>
+    <string name="summary_brightness_preference">Set less than 10% to switch to AUTO mode. It works only if you have selected this option in your device.</string>
+    <string name="summary_days_offset_preference">Files which have more days than this value will be deleted.</string>
+    <string name="summary_frame_rate_preference">Does not work on all devices. If you set the low value, the recording may not start.</string>
+    <string name="summary_gps_settings_preference">Turn on/off GPS receiver</string>
+    <string name="summary_path_preference">Set empty to return default value.</string>
+    <string name="summary_space_offset_preference">If the free memory falls below the specified value, the oldest files are deleted.</string>
+    <string name="support_development_description">If you buy now you will also get access to all paid services that will appear in the future. Price will increase for new users when new features appear. You will keep access to the PRO version forever.</string>
+    <string name="take_picture">Take a picture</string>
+    <string name="tap_to_start">Tap to start</string>
+    <string name="tap_to_stop">Tap to stop</string>
+    <string name="title_advanced_preference">Advanced settings</string>
+    <string name="title_audio_bitrate_preference">Audio BitRate</string>
+    <string name="title_audio_quality_preference">Audio codec</string>
+    <string name="title_auto_deleting_preference">Auto-deleting files</string>
+    <string name="title_auto_taking_photos_preference">Auto taking photos interval</string>
+    <string name="title_autostop_preference">Stop when charger disconnected</string>
+    <string name="title_background_diode_preference">Blinking LED while working in the background</string>
+    <string name="title_bitrate_preference">Encoding BitRate</string>
+    <string name="title_brightness_preference">Brightness</string>
+    <string name="title_date_format_preference">Date format</string>
+    <string name="title_days_offset_preference">When older than</string>
+    <string name="title_deleting_old_preference">Delete old files</string>
+    <string name="title_deleting_space_preference">Delete when not enough space</string>
+    <string name="title_disable_camera_shutter">Sound of camera shutter</string>
+    <string name="title_duration_preference">Duration</string>
+    <string name="title_emergency_number_preference">Emergency number</string>
+    <string name="title_empty_battery_preference">Low battery level</string>
+    <string name="title_empty_disc_preference">Full memory card</string>
+    <string name="title_file_name_format_preference">File name format</string>
+    <string name="title_focus_preference">Focus</string>
+    <string name="title_frame_rate_preference">Frame rate</string>
+    <string name="title_gps_alert_preference">GPS status check</string>
+    <string name="title_gps_requirement_preference">GPS requirement</string>
+    <string name="title_is_prefix_preference">Notification prefix</string>
+    <string name="title_night_mode_background_preference">Night mode in background recording</string>
+    <string name="title_orientation_preference">Rotate camera</string>
+    <string name="title_path_preference">Path</string>
+    <string name="title_prefix_preference">Prefix</string>
+    <string name="title_quality_preference">Codec</string>
+    <string name="title_record_files_preference">Videos per session</string>
+    <string name="title_recording_start_stop_notification_preference">Start/stop recording</string>
+    <string name="title_resolution_preference">Resolution</string>
+    <string name="title_run_deleting_time_preference">Run every</string>
+    <string name="title_run_recording_after_start">Start recording when app opened</string>
+    <string name="title_show_coordinates_preference">Show current coordinates and speed</string>
+    <string name="title_show_datetime_preference">Show date and time</string>
+    <string name="title_show_location_preference">Show location</string>
+    <string name="title_sidebar_preference">Show action sidebar</string>
+    <string name="title_sound_preference">Record with sound</string>
+    <string name="title_space_offset_preference">When less than (MB)</string>
+    <string name="title_speed_preference">Speed unit</string>
+    <string name="title_zoom_button_preference">Show zoom button</string>
+    <string name="turn_off_flashlight">Turn off flashlight</string>
+    <string name="turn_on">Turn on</string>
+    <string name="turn_on_flashlight">Turn on flashlight</string>
+    <string name="unlicensed_app_message">This application is not licensed, please buy it from the play store. If you purchased the app legally, check if you have an Internet connection, and then click: Re-Check</string>
+    <string name="unlock_pro">Unlocked PRO version!</string>
+    <string name="up_label">Up</string>
+    <string name="usage">Usage</string>
+    <string name="usage1">It is recommended to shoot your first video using default settings. In case of poor recording quality, experiment with advanced settings to obtain the results that suit you. Note that it is impossble to run the application on all Android devices uniformly, therefore the application may not work correctly or even crash when the combination of advanced settings you set is not supported by your device. In case you experience problems with the application operation and/or performance, turn off advanced settings.</string>
+    <string name="usage2">Recording can be run in foreground (display will neither dim nor turn off) as well as in background. The application has been tested with all known navigation systems and is working properly without any interaction. If you plan to use the widget, install the application into main device memory. Otherwise the widget will be unavailable.</string>
+    <string name="usage3">If you set to record your trip with GPS tracking, recording starts when GPS position is fixed. Note that GPS fix can take up to 12 minutes with good signal reception, depending on your GPS receiver model, signal strength, and location settings in your device. Caution: Some GPS settings require data transfer.</string>
+    <string name="usage4">"Recorging models: 
+-"<b> not require GPS</b>" - recording does not collect location information. Your track will NOT be stored. Recording starts immediately. 
+-"<b> require GPS</b>" - recording starts when GPS position is fixed. If the GPS fix is lost, recording is interrupted and restarts automatically with next GPS fix. 
+-"<b> require GPS</b> only to start recording - recording starts with first GPS fix and it does not stop regardless of further GPS fix state changes. Last known position is stored until next GPS fix.</string>
+    <string name="version">Version</string>
+    <string name="visit_website">Visit our website</string>
+    <string name="website">Official WebSite</string>
+    <string name="write_to_author">Write to the author</string>
+    <string name="wrong_path">Wrong path or no SD card</string>
+    <string name="wrong_path_info">Wrong path</string>
+    <string name="wrong_path_message">Failed to create a directory in the specified location. Please enter another.</string>
+    <string name="wrong_settings">Something went wrong. Probably you have set wrong parameters in settings. Please check them out or disable advanced settings.</string>
+    <string name="x_distance">%.2f km</string>
+    <string name="x_photos">%d photo(s)</string>
+    <string name="x_recordings">%d recording(s)</string>
+    <string name="xml_damaged">XML file is damaged</string>
+</resources>

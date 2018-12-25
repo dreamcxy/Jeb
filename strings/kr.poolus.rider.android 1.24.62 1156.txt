@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_like_button_liked">Liked</string>
+    <string name="com_facebook_like_button_not_liked">Like</string>
+    <string name="com_facebook_loading">Loading...</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_loginview_log_in_button">Log in</string>
+    <string name="com_facebook_loginview_log_in_button_long">Log in with Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="com_facebook_send_button_text">Send</string>
+    <string name="com_facebook_share_button_text">Share</string>
+    <string name="com_facebook_tooltip_default">"New! You're in control - choose what info you want to share with apps."</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="messenger_send_button_text">Send</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="com_kakao_account_cancel">Cancel</string>
+    <string name="com_kakao_alert_appKey">need to declare com.kakao.sdk.AppKey in your AndroidManifest.xml</string>
+    <string name="com_kakao_alert_install_kakaotalk">There is no installed KakaoTalk version higher than 4.2.0</string>
+    <string name="com_kakao_cancel_button">Cancel</string>
+    <string name="com_kakao_confirm_logout">Are you sure to log out from this app?</string>
+    <string name="com_kakao_confirm_unlink">Are you sure to unlink from this app?</string>
+    <string name="com_kakao_kakaostory_account">with KakaoStory</string>
+    <string name="com_kakao_kakaotalk_account">with KakaoTalk</string>
+    <string name="com_kakao_login_button">Log in with KakaoAccount</string>
+    <string name="com_kakao_logout_button">Log out</string>
+    <string name="com_kakao_ok_button">OK</string>
+    <string name="com_kakao_other_kakaoaccount">with another KakaoAccount</string>
+    <string name="com_kakao_profile_userId">Kakao User ID</string>
+    <string name="com_kakao_unlink_button">Unlink</string>
+    <string name="ga_action_agreement">Btn_약관동의</string>
+    <string name="ga_action_btn_agree">Btn_약관</string>
+    <string name="ga_action_btn_available">Btn_이용정책</string>
+    <string name="ga_action_btn_bio">Btn_소개</string>
+    <string name="ga_action_btn_call">Btn_요청</string>
+    <string name="ga_action_btn_call_cancel">Btn_요청취소</string>
+    <string name="ga_action_btn_cancel">Btn_취소</string>
+    <string name="ga_action_btn_cellphone">Btn_휴대폰번호</string>
+    <string name="ga_action_btn_cerditcard">Btn_결제카드</string>
+    <string name="ga_action_btn_cert">Btn_인증하기</string>
+    <string name="ga_action_btn_chat">Btn_채팅</string>
+    <string name="ga_action_btn_copy">Btn_복사</string>
+    <string name="ga_action_btn_departure">Btn_출발지</string>
+    <string name="ga_action_btn_destination">Btn_도착지</string>
+    <string name="ga_action_btn_driver_phone">Btn_드라이버전화</string>
+    <string name="ga_action_btn_email">Btn_이메일</string>
+    <string name="ga_action_btn_find">Btn_찾기</string>
+    <string name="ga_action_btn_find_email">Btn_찾기(Email)</string>
+    <string name="ga_action_btn_find_pw">Btn_찾기(PW)</string>
+    <string name="ga_action_btn_finish">Btn_완료</string>
+    <string name="ga_action_btn_icon_change">Btn_변경아이콘</string>
+    <string name="ga_action_btn_kakao">Btn_카카오톡</string>
+    <string name="ga_action_btn_login">Btn_로그인하기</string>
+    <string name="ga_action_btn_map">Btn_지도</string>
+    <string name="ga_action_btn_matching">Btn_매칭요청</string>
+    <string name="ga_action_btn_menu">Btn_메뉴</string>
+    <string name="ga_action_btn_message">Btn_안심메시지</string>
+    <string name="ga_action_btn_modify">Btn_변경하기</string>
+    <string name="ga_action_btn_move_map">Btn_지도이동</string>
+    <string name="ga_action_btn_my_position">Btn_현재위치</string>
+    <string name="ga_action_btn_phone">Btn_전화</string>
+    <string name="ga_action_btn_problem">Btn_문제</string>
+    <string name="ga_action_btn_pw">Btn_비밀번호</string>
+    <string name="ga_action_btn_qa">Btn_문의하기</string>
+    <string name="ga_action_btn_qa_center">Btn_고객센터</string>
+    <string name="ga_action_btn_recall">Btn_재요청</string>
+    <string name="ga_action_btn_reg_org">Btn_소속기관</string>
+    <string name="ga_action_btn_register">Btn_등록하기</string>
+    <string name="ga_action_btn_sms">Btn_SMS</string>
+    <string name="ga_action_btn_trip_back">Btn_뒤로</string>
+    <string name="ga_action_email">Btn_Email</string>
+    <string name="ga_action_event_close">Btn_닫기</string>
+    <string name="ga_action_event_today">Btn_오늘</string>
+    <string name="ga_action_field_departure">Field_출발지</string>
+    <string name="ga_action_field_destination">Field_도착지</string>
+    <string name="ga_action_list_myposition">List_현재위치</string>
+    <string name="ga_action_list_place">List_장소</string>
+    <string name="ga_action_menu_logout">menu_로그아웃</string>
+    <string name="ga_action_menu_myinfo">menu_내정보</string>
+    <string name="ga_action_menu_profile">menu_프로필</string>
+    <string name="ga_action_menu_qa">menu_문의하기</string>
+    <string name="ga_action_menu_recommend">menu_친구추천</string>
+    <string name="ga_action_menu_service">menu_서비스정보</string>
+    <string name="ga_action_menu_trip_show">menu_여정내역</string>
+    <string name="ga_action_next">Btn_다음</string>
+    <string name="ga_action_profile_pic">Btn_사진</string>
+    <string name="ga_action_recommend_code">Field_코드</string>
+    <string name="ga_action_signup">Btn_가입완료</string>
+    <string name="ga_action_sns">Btn_SNS</string>
+    <string name="ga_call_category">요청</string>
+    <string name="ga_departure_category">여정_출발지</string>
+    <string name="ga_destination_category">여정_도착지</string>
+    <string name="ga_etc_category">기타</string>
+    <string name="ga_event_category">이벤트</string>
+    <string name="ga_label_add_credit_card">추가_결제카드</string>
+    <string name="ga_label_agree_all">가입_약관에 모두동의</string>
+    <string name="ga_label_agree_next">가입_약관(다음)</string>
+    <string name="ga_label_back_departure">출발지검색(뒤로)</string>
+    <string name="ga_label_back_destination">도착지지검색(뒤로)</string>
+    <string name="ga_label_back_find_email">이메일 찾기 (뒤로)</string>
+    <string name="ga_label_back_find_pw">비밀번호 찾기 (뒤로)</string>
+    <string name="ga_label_bio">변경_소개</string>
+    <string name="ga_label_cancel_call">요청취소</string>
+    <string name="ga_label_cancel_call_10m">10분후 요청취소</string>
+    <string name="ga_label_cancel_pickup">탑승대기_요청취소</string>
+    <string name="ga_label_change_bio">완료_소개변경</string>
+    <string name="ga_label_change_email">변경_이메일주소변경</string>
+    <string name="ga_label_change_org">완료_소속기관변경</string>
+    <string name="ga_label_chnage_profile_pic">변경_프로필사진 등록</string>
+    <string name="ga_label_click_cert">인증하기 버튼</string>
+    <string name="ga_label_depature">출발지 검색 호출</string>
+    <string name="ga_label_destination">도착지 검색 호출</string>
+    <string name="ga_label_drive_map">탑승중_지도</string>
+    <string name="ga_label_drive_problem">탑승중_문제</string>
+    <string name="ga_label_drive_problem_phone">탑승중문제_드라이버전화</string>
+    <string name="ga_label_drive_problem_qa">탑승중문제_고객센터접수</string>
+    <string name="ga_label_email">변경_이메일주소</string>
+    <string name="ga_label_event_close">이벤트 화면 닫기</string>
+    <string name="ga_label_event_today">오늘하루 그만보기</string>
+    <string name="ga_label_find_email">로그인_찾기(Email)</string>
+    <string name="ga_label_find_pw">로그인_찾기(PW)</string>
+    <string name="ga_label_login_email">이메일주소 로그인</string>
+    <string name="ga_label_login_login">로그인_로그인</string>
+    <string name="ga_label_matching">매칭요청하기</string>
+    <string name="ga_label_menu_credit">메뉴_크레딧받기</string>
+    <string name="ga_label_menu_logout">메뉴_로그아웃</string>
+    <string name="ga_label_menu_myinfo">메뉴_내정보</string>
+    <string name="ga_label_menu_profile">메뉴_프로필</string>
+    <string name="ga_label_menu_qa">메뉴_문의하기</string>
+    <string name="ga_label_menu_service">메뉴_서비스정보</string>
+    <string name="ga_label_menu_side">사이드메뉴 호출</string>
+    <string name="ga_label_menu_trip_show">메뉴_여정내역</string>
+    <string name="ga_label_modify_phone">완료_휴대폰번호변경</string>
+    <string name="ga_label_modify_pw">완료_비밀번호변경</string>
+    <string name="ga_label_modify_recommend">완료_추천인코드변경</string>
+    <string name="ga_label_mylocation">현재위치 찾기</string>
+    <string name="ga_label_mypos_in_departure">출발지검색리스트_현재위치</string>
+    <string name="ga_label_org">변경_소속기관</string>
+    <string name="ga_label_phone">변경_휴대폰번호</string>
+    <string name="ga_label_phone_next">가입_번호인증(다음)</string>
+    <string name="ga_label_pw">변경_비밀번호</string>
+    <string name="ga_label_recall_10m">10분후 재요청</string>
+    <string name="ga_label_recommend_kakao">추천인코드 전파_카카오톡</string>
+    <string name="ga_label_recommend_normal">추천인코드 전파_일반</string>
+    <string name="ga_label_recommend_view">변경_추천인코드</string>
+    <string name="ga_label_reg_profile_pic">가입_프로필사진 등록</string>
+    <string name="ga_label_reg_recommend">가입_추천인코드 등록</string>
+    <string name="ga_label_reget_phone_number">비밀번호 재발급 버튼</string>
+    <string name="ga_label_remove_credit_card">삭제_결제카드</string>
+    <string name="ga_label_repute">평가완료</string>
+    <string name="ga_label_safe_call">안심메세지_드라이버전화</string>
+    <string name="ga_label_safe_copy_sms">안심메세지_복사</string>
+    <string name="ga_label_safe_kakao">안심메세지_카카오톡</string>
+    <string name="ga_label_safe_msg">탑승중_안심메세지</string>
+    <string name="ga_label_safe_sms">안심메세지_SMS</string>
+    <string name="ga_label_set_departure">출발지 설정</string>
+    <string name="ga_label_set_destination">도착지 설정</string>
+    <string name="ga_label_show_agreement">서비스 정보 약관보기</string>
+    <string name="ga_label_show_service_info">서비스 이용정책 보기</string>
+    <string name="ga_label_signup_next">가입_회원가입(다음)</string>
+    <string name="ga_label_sns_email">이메일주소 가입</string>
+    <string name="ga_label_sns_facebook">페이스북 연동</string>
+    <string name="ga_label_sns_kakao">카카오톡 연동</string>
+    <string name="ga_label_sns_naver">네이버 연동</string>
+    <string name="ga_label_trip_qa_reg">여정내역_문의등록</string>
+    <string name="ga_label_trip_show_qa">여정내역_문의</string>
+    <string name="ga_label_wait_pickup_chat">탑승대기_채팅</string>
+    <string name="ga_login_category">로그인</string>
+    <string name="ga_membership_category">가입</string>
+    <string name="ga_menu_category">메뉴</string>
+    <string name="ga_message_category">안심메시지</string>
+    <string name="ga_modify_category">변경</string>
+    <string name="ga_problem_category">탑승문제</string>
+    <string name="ga_qa_category">문의</string>
+    <string name="ga_recommend_category">추천</string>
+    <string name="ga_repute_category">평가</string>
+    <string name="ga_ride_category">탑승</string>
+    <string name="ga_trip_category">여정</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="alert_delete_item">선택한 내역을 삭제하시겠습니까</string>
+    <string name="am">오전</string>
+    <string name="app_name">풀러스</string>
+    <string name="app_will_quit_if_back_pressed_one_more_time">한 번 더 누르시면 종료됩니다</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="arrival_comment">평가</string>
+    <string name="arrival_text_elapsed_time">"소요시간
+"</string>
+    <string name="arrival_text_fare">"카풀요금
+"</string>
+    <string name="arrival_text_rating">님은 어떠셨나요?</string>
+    <string name="back_pressed">뒤로가기</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="btn_agreement">다음</string>
+    <string name="btn_join">다음</string>
+    <string name="btn_sign_up_confirm_phone">인증하기</string>
+    <string name="cancel">취소</string>
+    <string name="cancel_call">요청취소</string>
+    <string name="cancel_text">아니요</string>
+    <string name="cancelled">Cancelled</string>
+    <string name="change_email">이메일변경</string>
+    <string name="change_password">비번변경</string>
+    <string name="change_phone">번호변경</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="checking_gps">현재 위치를 찾고 있습니다</string>
+    <string name="code_101">필수 파라미터가 빠졌음</string>
+    <string name="code_102">파라미터 값 일부 형식이 맞지 않음</string>
+    <string name="code_103">로그인 auth_token 이 없거나 expired 되었음. 새로 로그인이 필요함</string>
+    <string name="code_201">인증번호 발급시 에러 발생</string>
+    <string name="code_202">인증번호 검증 실패</string>
+    <string name="code_203">이메일 형식 오류</string>
+    <string name="code_204">패스워드 길이 오류</string>
+    <string name="code_205">패스워드 형식 오류</string>
+    <string name="code_206">인증되지 않은 핸드폰 번호 입력</string>
+    <string name="code_207">SNS 연동정보 확인 오류</string>
+    <string name="code_208">SNS 연동정보 확인 오류</string>
+    <string name="code_209">SNS 연동정보 오류</string>
+    <string name="code_210">SNS 연동 정보로 이미 가입한 계정임</string>
+    <string name="code_211">가입 프로세스 오류</string>
+    <string name="code_212">가입 프로세스 오류</string>
+    <string name="code_213">가입 프로세스 오류</string>
+    <string name="code_214">가입 프로세스 오류</string>
+    <string name="code_215">가입 성공 후 로그인 프로세스 오류</string>
+    <string name="code_216">가입 성공 후 로그인 프로세스 오류</string>
+    <string name="code_217">가입 성공 후 로그인 프로세스 오류</string>
+    <string name="code_218">가입 성공 후 로그인 프로세스 오류</string>
+    <string name="code_219">가입 성공 후 로그인 프로세스 오류</string>
+    <string name="code_220">로그인 프로세스 오류</string>
+    <string name="code_221">로그인 프로세스 오류</string>
+    <string name="code_222">로그인 오류</string>
+    <string name="code_223">로그인 오류</string>
+    <string name="code_224">SNS 로그인 정보 불일치</string>
+    <string name="code_225">가입한 계정이 있으나 SNS 에 연동되지 않음</string>
+    <string name="code_226">연동된 SNS 정보가 없음</string>
+    <string name="code_227">이미 약관 동의함</string>
+    <string name="code_228">성별/생년월일 중 하나만 입력함</string>
+    <string name="code_229">기존 입력된 생년월일에 대한 변경 시도</string>
+    <string name="code_230">프로필 이미지 업로드 실패</string>
+    <string name="code_231">운전면허 등록 실패</string>
+    <string name="code_232">드라이버 이용 형태 등록 또는 수정 실패</string>
+    <string name="code_301">검색 중 오류</string>
+    <string name="code_302">검색 범위 기준거리가 너무 큽니다</string>
+    <string name="code_303">경로 검색 중 오류</string>
+    <string name="code_304">여정 등록 중 오류 발생</string>
+    <string name="code_305">드라이버 여부 오류</string>
+    <string name="code_306">매칭되는 경로가 없음</string>
+    <string name="code_307">카풀 신청중이거나 신청받은 스케쥴</string>
+    <string name="code_308">매칭된 적 없는 카풀 요청</string>
+    <string name="code_309">여정이 존재하지 않음</string>
+    <string name="com.crashlytics.android.build_id">e58f79a3-15f1-474c-bb6f-6295a4ec0019</string>
+    <string name="com_kakao_profile_nickname">Nickname</string>
+    <string name="confirm">확인</string>
+    <string name="confirm_sms_confirm_number">인증번호</string>
+    <string name="confirm_sms_number_all_required">인증번호를 모두 입력해주세요</string>
+    <string name="confirm_sms_number_required">인증번호를 입력해주세요</string>
+    <string name="confirm_sms_phone">휴대폰 번호</string>
+    <string name="confirm_sms_request_resend">재전송</string>
+    <string name="confirm_sms_resend">"인증번호를 재전송했습니다.
+2분 안에 입력해주세요"</string>
+    <string name="confirm_sms_sended">SMS로 인증번호를 전송했습니다</string>
+    <string name="confirm_sms_time_out">"요청시간이 만료되었습니다.
+다시 시도해주세요"</string>
+    <string name="confirm_sms_wrong_number">"인증번호가 틀렸습니다.
+다시 인증해주세요"</string>
+    <string name="confirm_validate_phone">인증받을 휴대폰 번호가 맞나요?</string>
+    <string name="core_com_kakao_sdk_loading">Loading…</string>
+    <string name="data_scheme">tphoneQeCChpyYremPNLiN4/kkLFLJdOr+3eZLt9p53TVyIxE=</string>
+    <string name="day_title_today">Today</string>
+    <string name="default_web_client_id">753550425901-uvuuett136k7rjo3g8al9aob0b553i1t.apps.googleusercontent.com</string>
+    <string name="define_parallaxscroll" />
+    <string name="departure">출발</string>
+    <string name="destination">도착</string>
+    <string name="dialog_request_auth_code_complete">인증되었습니다</string>
+    <string name="dialog_request_email_complete">확인되었습니다</string>
+    <string name="dialog_title_notice">알림</string>
+    <string name="driver_location_error">드라이버 위치 업데이트 오류</string>
+    <string name="email_can_be_used">이메일주소를 사용하실 수 있습니다</string>
+    <string name="employment">소속기관</string>
+    <string name="error">오류가 발생했습니다</string>
+    <string name="error_chat">"접속에 실패하였습니다
+다시 시도해 주세요"</string>
+    <string name="error_check_agree1">약관에 동의해주셔야 가입하실 수 있습니다</string>
+    <string name="error_check_agree2">약관에 동의해주셔야 가입하실 수 있습니다</string>
+    <string name="error_check_agree3">개인 정보 보호정책에 동의해주셔야 가입하실 수 있습니다</string>
+    <string name="error_check_confirm_hp">휴대폰 번호를 인증해주세요</string>
+    <string name="error_check_confirm_no">인증번호를 정확히 입력해주세요</string>
+    <string name="error_check_email">이메일주소 형식이 맞지 않습니다</string>
+    <string name="error_check_input_birth">"생년월일이 잘못 입력되었습니다.
+주민번호 앞 6자리를 입력해주세요"</string>
+    <string name="error_check_input_confirm_no">인증번호를 입력하셔야 합니다</string>
+    <string name="error_check_input_email">"이메일 주소가 잘못 입력되었습니다.
+이메일 주소 형식에 맞게 입력해주세요"</string>
+    <string name="error_check_input_hp">휴대폰 번호가 잘못 입력되었습니다. 다시 한 번 확인 해주세요</string>
+    <string name="error_check_input_hp_please_retry">휴대폰번호를 확인할 수 없습니다. 다시 인증해주세요</string>
+    <string name="error_check_input_pw">"비밀번호가 잘못 입력되었습니다.
+영문, 숫자를 섞어 6자리 이상으로 입력해주세요"</string>
+    <string name="error_check_input_same_pw">"비밀번호가 일치하지 않습니다.
+다시 입력해 주세요"</string>
+    <string name="error_check_name">이름을 입력해주세요</string>
+    <string name="error_check_network">네트워크 연결을 확인해주세요</string>
+    <string name="error_driver_license_state_error">면허 상태를 확인하지 못하였습니다</string>
+    <string name="error_driver_license_state_none">드라이버 등록 후 이용 하실수 있습니다</string>
+    <string name="error_driver_license_state_pending">면허 정보 검증 중으로 드라이버 전환이 되지 않습니다</string>
+    <string name="error_driver_license_state_suspened">면허 재확인이 필요합니다</string>
+    <string name="error_email_in_use">"이미 사용중인 이메일주소입니다.
+기존 쏘카 회원은 쏘카 ID와 비밀번호로 로그인이 가능합니다"</string>
+    <string name="error_enter_confirm_no">인증번호를 입력해주세요</string>
+    <string name="error_enter_current_password">현재 비밀번호를 입력하세요</string>
+    <string name="error_enter_email">이메일주소를 입력해주세요</string>
+    <string name="error_enter_mobile">휴대폰번호를 입력해주세요</string>
+    <string name="error_enter_new_password">변경할 비밀번호를 입력하세요</string>
+    <string name="error_enter_new_password_twice">변경하실 비밀번호를 두번 동일하게 입력해주세요</string>
+    <string name="error_facebook_login_failed">페이스북으로 로그인 하지 못하였습니다</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_gcm_request_fail">죄송합니다. 기기의 정보를 가져오지 못했습니다. 앱을 재실행 해주세요</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_kakao_login_failed">카카오 계정으로 로그인 하지 못하였습니다</string>
+    <string name="error_network">네트워크 오류가 발생했습니다</string>
+    <string name="error_network_timeout">서버로부터 응답을 제한시간 내에 받지 못하였습니다</string>
+    <string name="error_no_search_result">검색결과가 없습니다</string>
+    <string name="error_not_available_driver_phone">기사 님의 전화번호를 찾지 못했습니다</string>
+    <string name="error_promotion_code">프로모션 코드를 다시 입력해주세요</string>
+    <string name="error_response_parse_failed">서버에서 결과를 받는 중 오류가 발생했습니다. 잠시 후 다시 시도해주세요</string>
+    <string name="error_select_birthday">생일을 입력해주세요</string>
+    <string name="error_select_license_area">면허번호의 지역을 선택해주세요</string>
+    <string name="error_select_license_issue_date">면허 발급일자를 입력해주세요</string>
+    <string name="error_select_license_number">면허번호를 입력해주세요</string>
+    <string name="error_select_license_number_length">면허번호 자리수가 맞지 않습니다. 다시 확인후 정확히 입력해주세요</string>
+    <string name="error_select_license_renew_date">갱신기간을 입력해주세요</string>
+    <string name="error_session_invalid">다시 로그인해주세요</string>
+    <string name="error_try_again">다시 한번 시도해주세요</string>
+    <string name="error_unknown">예상하지 못한 오류가 발생하였습니다</string>
+    <string name="error_user_must_agree_agreement">약관에 동의해주셔야 서비스를 이용하실 수 있습니다</string>
+    <string name="error_wait">잠시만 기다려주세요.</string>
+    <string name="exception">Exception: %1$s</string>
+    <string name="facebook">페이스북</string>
+    <string name="facebook_app_id">1011799778878201</string>
+    <string name="fb_label_back_search_end">r_aos_back_search_end</string>
+    <string name="fb_label_back_search_start">r_aos_back_search_start</string>
+    <string name="fb_label_call_matching">r_aos_call_matching</string>
+    <string name="fb_label_call_matching_after_10min">r_aos_call_matching_after_10min</string>
+    <string name="fb_label_cancel_after_10min">r_aos_cancel_after_10min</string>
+    <string name="fb_label_cancel_matched">r_aos_cancel_matched</string>
+    <string name="fb_label_cancel_now">r_aos_cancel_now</string>
+    <string name="fb_label_join_compelete">r_aos_join_compelete</string>
+    <string name="fb_label_join_email">r_aos_join_email</string>
+    <string name="fb_label_join_facebook">r_aos_join_facebook</string>
+    <string name="fb_label_join_kakaotalk">r_aos_join_kakaotalk</string>
+    <string name="fb_label_join_naver">r_aos_join_naver</string>
+    <string name="fb_label_reputation_compelete">r_aos_reputation_compelete</string>
+    <string name="fb_label_search_end_not_map">r_aos_search_end_not_map</string>
+    <string name="fb_label_search_list_end_place">r_aos_search_list_end_place</string>
+    <string name="fb_label_search_list_start_here">r_aos_search_list_start_here</string>
+    <string name="fb_label_search_list_start_place">r_aos_search_list_start_place</string>
+    <string name="fb_label_search_map_here">r_aos_search_map_here</string>
+    <string name="fb_label_search_point_end">r_aos_search_point_end</string>
+    <string name="fb_label_search_start">r_aos_search_start</string>
+    <string name="fb_label_search_start_not_map">r_aos_search_start_not_map</string>
+    <string name="fb_label_set_end">r_aos_set_end</string>
+    <string name="fb_label_set_start">r_aos_set_start</string>
+    <string name="find_email_btn_login">로그인하기</string>
+    <string name="find_email_fail_not_found">"가입되어있지 않은 휴대폰 번호입니다.
+이 번호로 새로 가입할까요?"</string>
+    <string name="find_email_input_hp">가입시 입력하신 휴대폰번호를 입력해주세요</string>
+    <string name="find_email_input_name">이름을 입력해주세요</string>
+    <string name="find_email_success">"회원님의 휴대폰 번호로
+이메일 주소를 보냈습니다"</string>
+    <string name="find_password_btn_login">로그인하기</string>
+    <string name="find_password_fail_not_found">"등록하신 회원정보가 맞지 않아요.
+다시 한번 확인해주세요"</string>
+    <string name="find_password_input_email">가입시 입력하신 이메일주소를 입력해주세요</string>
+    <string name="find_password_input_hp">가입시 입력하신 휴대폰번호를 입력해주세요</string>
+    <string name="find_password_input_name">이름을 입력해주세요</string>
+    <string name="find_password_success">"등록하신 이메일주소로
+임시 비밀번호를 보냈습니다"</string>
+    <string name="firebase_database_url">https://poolus-1209.firebaseio.com</string>
+    <string name="ga_label_click_map_depature">출발지 검색결과X- 지도화면 연결</string>
+    <string name="ga_label_click_map_destination">도착지 검색결과X- 지도화면 연결</string>
+    <string name="ga_label_dest_in_depature">출발지검색리스트_장소</string>
+    <string name="ga_label_dest_in_destination">도착지검색리스트_장소</string>
+    <string name="ga_label_wait_pickup_phone">탑승대기_전화</string>
+    <string name="gcm_call_accept_message">콜 수락되었습니다</string>
+    <string name="gcm_call_canceled_message">콜 취소되었습니다</string>
+    <string name="gcm_defaultSenderId">753550425901</string>
+    <string name="gcm_default_message">메시지가 도착했습니다</string>
+    <string name="gcm_driving_message">풀러스 차량에 탑승완료. 안심메세지를 보내보세요!</string>
+    <string name="gcm_end_drive_message">목적지에 도착했습니다. 오늘의 여정은 어땠나요?</string>
+    <string name="gcm_new_chat_message">새로운 메시지가 도착했습니다</string>
+    <string name="gcm_reserved_canceled_message">드라이버가 예약여정을 취소했습니다.</string>
+    <string name="google_api_key">AIzaSyCbihMJqm_o4hzUZtV80Znc8SBTilsZT-0</string>
+    <string name="google_app_id">1:753550425901:android:f504ff8d4fa3598d</string>
+    <string name="google_crash_reporting_api_key">AIzaSyCbihMJqm_o4hzUZtV80Znc8SBTilsZT-0</string>
+    <string name="google_maps_key">AIzaSyA9_9flRYbUjy3eBLte0gGCK4ue88cJoZk</string>
+    <string name="google_storage_bucket">poolus-1209.appspot.com</string>
+    <string name="gps_on_required">GPS를 켜주세요. GPS가 켜져 있지 않아 회원님의 위치를 찾을 수 없습니다</string>
+    <string name="hello_user">Hello %1$s!</string>
+    <string name="history">여정내역</string>
+    <string name="host">message</string>
+    <string name="introduce">내소개</string>
+    <string name="join">회원가입</string>
+    <string name="join_with_agreement">ODMS에 가입함으로, 아래 약관에 동의합니다</string>
+    <string name="kakao">카카오</string>
+    <string name="kakao_app_key">b379d6b005494ddd7fbf7c98d2d8b940</string>
+    <string name="kakao_scheme">kakaob379d6b005494ddd7fbf7c98d2d8b940</string>
+    <string name="kakaolink_host">kakaolink</string>
+    <string name="library_parallaxscroll_author">Nir Hartmann</string>
+    <string name="library_parallaxscroll_authorWebsite">https://github.com/nirhart</string>
+    <string name="library_parallaxscroll_isOpenSource">true</string>
+    <string name="library_parallaxscroll_libraryDescription">Parallax ListView and ScrollView for Android.</string>
+    <string name="library_parallaxscroll_libraryName">parallaxscroll</string>
+    <string name="library_parallaxscroll_libraryVersion">1.0</string>
+    <string name="library_parallaxscroll_libraryWebsite">https://github.com/nirhart/ParallaxScroll</string>
+    <string name="library_parallaxscroll_licenseId">mit</string>
+    <string name="library_parallaxscroll_repositoryLink">https://github.com/nirhart/ParallaxScroll.git</string>
+    <string name="link_text_agreement">이용약관 및 개인 정보 취급방침</string>
+    <string name="login">로그인하기</string>
+    <string name="login_by_email">이메일 주소로 로그인</string>
+    <string name="map">지도</string>
+    <string name="matching_accept">수락확인</string>
+    <string name="matching_in_progress">매칭 대기 중 입니다.</string>
+    <string name="message_modify_recent_search_destination">검색 내역 편집</string>
+    <string name="message_network_disconnected">네트워크 상태를 확인해주세요</string>
+    <string name="message_search_departure">출발지 검색</string>
+    <string name="message_search_departure_poi">출발지를 검색하세요</string>
+    <string name="message_search_destination">도착지 검색</string>
+    <string name="message_search_destination_poi">도착지를 검색하세요</string>
+    <string name="navdrawer_item_about">서비스 소개</string>
+    <string name="navdrawer_item_driver_modify">드라이버 정보변경</string>
+    <string name="navdrawer_item_driver_register">드라이버 등록</string>
+    <string name="navdrawer_item_home">홈</string>
+    <string name="navdrawer_item_logout">로그아웃</string>
+    <string name="navdrawer_item_notice">공지사항</string>
+    <string name="navdrawer_item_qna">건의/문의</string>
+    <string name="navdrawer_item_schedule_list">현재 등록된 카풀보기</string>
+    <string name="navdrawer_item_switch_to_driver">드라이버로 전환하기</string>
+    <string name="navdrawer_item_switch_to_rider">라이더로 전환하기</string>
+    <string name="naver">네이버</string>
+    <string name="navigation_drawer_close">메뉴 서랍 닫기</string>
+    <string name="navigation_drawer_open">메뉴 서랍 열기</string>
+    <string name="no_friends_selected">&lt;No friends selected></string>
+    <string name="no_place_selected">&lt;No place selected></string>
+    <string name="ok">OK</string>
+    <string name="ok_text">네</string>
+    <string name="pending_action">요청하신 작업을 처리 중입니다</string>
+    <string name="pending_gcm_request">요청을 처리 중입니다. 잠시만 기다려주세요</string>
+    <string name="permission_not_granted">Unable to perform selected action because permissions were not granted.</string>
+    <string name="photo_post">Photo Post</string>
+    <string name="pick_seattle_place">Pick a Seattle Place</string>
+    <string name="plus_disconnect">Disconnect from Google+</string>
+    <string name="plus_sign_out">Switch Google+ account</string>
+    <string name="pm">오후</string>
+    <string name="poolus_parallax_bottom_after_arrived_text">여정에 대한 <b>객관적인 평가</b>"를 해주세요
+여러분의 정확한 평가가 더욱
+즐거운 풀러스를 만들어요"</string>
+    <string name="poolus_parallax_bottom_after_matching_text"><b>무분별한 취소</b>"나 출발지에 나타나지 않는
+"<b>노쇼</b>는 <b>페널티</b>"가 부과됩니다
+상호 간의 매너를 꼭 지켜주세요"</string>
+    <string name="poolus_parallax_bottom_before_matching_text"><b>주말과 낮</b>에는 <b>매칭 대기시간</b>"이
+길어질 수 있어요
+ "<b>예약 기능</b>을 사용해보세요</string>
+    <string name="poolus_rent_popup_agree_cancel">요청 취소 시, 기사 포함 렌터카 시범 서비스를 다시 이용할 수 없습니다. 정말 취소하시겠어요?</string>
+    <string name="poolus_rent_popup_agree_desc">"기사 포함 렌터카 시범 서비스
+확인하고 탑승해보세요!"</string>
+    <string name="poolus_rent_popup_agree_title">개인 정보 확인 및 동의</string>
+    <string name="poolus_rent_popup_desc">풀러스에서 새롭게 제공하는 기사 포함 렌터카 시범 서비스는 주변에 카풀 드라이버가 부족한 경우, 엄선된 드라이버를 통해 편안하고 안전한 여정을 책임집니다.</string>
+    <string name="poolus_rent_popup_desc_bottom">현재 카풀과 동일한 요금을 제공하는 프로모션 진행중으로 내용을 확인하고 이용해보세요</string>
+    <string name="poolus_rent_popup_title">기사 포함 렌터카 서비스 안내</string>
+    <string name="poolus_rent_privacy_desc">기사 포함 렌터카 서비스 보험적용을 위해 개인 정보를 확인하였습니다</string>
+    <string name="poolus_rent_privacy_title">개인 정보 이용 동의</string>
+    <string name="poolus_rent_service_desc">기사 포함 렌터카 서비스 이용약관에 동의합니다</string>
+    <string name="poolus_rent_service_title">서비스 이용 약관 동의</string>
+    <string name="pref_default_display_name">John Smith</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact based on your message history</string>
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+    <string name="pref_header_general">General</string>
+    <string name="pref_header_notifications">Notifications</string>
+    <string name="pref_ringtone_silent">Silent</string>
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="profile">프로필</string>
+    <string name="profile_driver_manner">드라이버의 평점</string>
+    <string name="profile_guide_notification_1">프로필 사진을 등록해주세요</string>
+    <string name="profile_guide_notification_2">내 프로필의 완성도가 높을수록 카풀 매칭이 될 확률이 높습니다</string>
+    <string name="profile_manner">나의 평점</string>
+    <string name="profile_org_company_hint">소속기관 등록하면 매칭률 UP!</string>
+    <string name="profile_org_confirm_msg">"위의 메일함에 들어가 소속기관 인증메일의
+[인증하기]버튼을 눌러주세요"</string>
+    <string name="profile_trip">여정</string>
+    <string name="project_id">poolus-1209</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="qna">문의</string>
+    <string name="recommend">추천하기</string>
+    <string name="register_card">결제카드</string>
+    <string name="register_card_btn_card_scan">카드스캔</string>
+    <string name="register_card_btn_request">등록하기</string>
+    <string name="register_card_dialog_text">결제 카드를 등록해야만 서비스를 이용하실 수 있습니다</string>
+    <string name="register_card_dialog_title">카드를 등록해주세요</string>
+    <string name="register_card_fail">입력한 카드의 정보를 확인해주세요</string>
+    <string name="register_card_msg_cannot_find_card_info">카드 정보를 가져오지 못했습니다</string>
+    <string name="register_card_msg_insert_birthday">생년월일을 입력해주세요</string>
+    <string name="register_card_msg_insert_credit_card_expire_date">신용 카드 만료일자를 입력해주세요</string>
+    <string name="register_card_msg_insert_credit_card_number">신용 카드 번호를 입력해주세요</string>
+    <string name="register_card_msg_insert_credit_card_password">카드 비밀번호 앞 2자리를 입력해주세요</string>
+    <string name="register_card_success">"카드가 등록되었습니다
+1000원 결제에 놀라지 마세요
+10분 이내로 자동 결제 취소가 됩니다."</string>
+    <string name="register_card_text_birthday">생년월일 (YYMMDD)</string>
+    <string name="register_card_text_expire_month">월 (MM)</string>
+    <string name="register_card_text_expire_year">년 (YY)</string>
+    <string name="register_card_text_hint_birthday">생년월일 (YYMMDD)</string>
+    <string name="register_card_text_hint_card_number">카드번호 (1234 - 1234 - 1234 - 1234)</string>
+    <string name="register_card_text_hint_expire_month">월 (MM)</string>
+    <string name="register_card_text_hint_expire_year">년 (YY)</string>
+    <string name="register_card_text_hint_password">비밀번호(앞2자리)</string>
+    <string name="register_card_text_password">비밀번호(앞2자리)</string>
+    <string name="register_credit_card_text_card_number">카드번호</string>
+    <string name="request_auth_code_complete">인증됨</string>
+    <string name="request_email_complete">확인됨</string>
+    <string name="request_trip">여정요청</string>
+    <string name="requsted_confirm_no">SMS로 인증번호를 전송했습니다</string>
+    <string name="riding">탑승</string>
+    <string name="search">검색</string>
+    <string name="search_modify">검색내역편집</string>
+    <string name="second">초</string>
+    <string name="select_birthday">생년월일 선택</string>
+    <string name="select_car_color">차량 색상 선택</string>
+    <string name="select_gender">성별 선택</string>
+    <string name="select_license_area">면허 발급 지역 선택</string>
+    <string name="select_license_issue_date">면허 발급 일자</string>
+    <string name="select_license_renew_date">면허 갱신 기간</string>
+    <string name="select_license_type">면허 종별 선택</string>
+    <string name="select_number_of_seats">좌석수 선택</string>
+    <string name="server_error">네트워크 오류가 발생했습니다</string>
+    <string name="service_info">정보</string>
+    <string name="service_key">QeCChpyYremPNLiN4/kkLFLJdOr+3eZLt9p53TVyIxE=</string>
+    <string name="service_key_string">QeCChpyYremPNLiN4/kkLFLJdOr+3eZLt9p53TVyIxE=</string>
+    <string name="service_name">풀러스</string>
+    <string name="service_not_ready">서비스 준비중입니다.</string>
+    <string name="set_departure_point_button_text">출발지 설정</string>
+    <string name="set_destination_point_button_text">도착지 설정</string>
+    <string name="setting">설정</string>
+    <string name="signin_terms">"제1조 (목적)
+ 본 약관읜 주식회사 쏘카 약관.. 블라블라 
+ 본 약관읜 주식회사 쏘카 약관.. 블라블라 
+ 본 약관읜 주식회사 쏘카 약관.. 블라블라 
+ 본 약관읜 주식회사 쏘카 약관.. 블라블라 
+ 
+ 본 약관읜 주식회사 쏘카 약관.. 블라블라 
+ 본 약관읜 주식회사 쏘카 약관.. 블라블라 
+ 본 약관읜 주식회사 쏘카 약관.. 블라블라 
+ 본 약관읜 주식회사 쏘카 약관.. 블라블라 
+ 본 약관읜 주식회사 쏘카 약관.. 블라블라 
+ 
+ 본 약관읜 주식회사 쏘카 약관.. 블라블라 
+ 본 약관읜 주식회사 쏘카 약관.. 블라블라 
+ 본 약관읜 주식회사 쏘카 약관.. 블라블라 
+ 본 약관읜 주식회사 쏘카 약관.. 블라블라 
+ 본 약관읜 주식회사 쏘카 약관.. 블라블라 
+ 
+ 본 약관읜 주식회사 쏘카 약관.. 블라블라 
+ 본 약관읜 주식회사 쏘카 약관.. 블라블라 
+ 본 약관읜 주식회사 쏘카 약관.. 블라블라 
+ 본 약관읜 주식회사 쏘카 약관.. 블라블라 
+ 본 약관읜 주식회사 쏘카 약관.. 블라블라 
+ 
+ 본 약관읜 주식회사 쏘카 약관.. 블라블라 
+ 본 약관읜 주식회사 쏘카 약관.. 블라블라 
+ 본 약관읜 주식회사 쏘카 약관.. 블라블라 
+ 본 약관읜 주식회사 쏘카 약관.. 블라블라 
+ 본 약관읜 주식회사 쏘카 약관.. 블라블라 
+ 
+ 본 약관읜 주식회사 쏘카 약관.. 블라블라 
+ 본 약관읜 주식회사 쏘카 약관.. 블라블라 
+ 본 약관읜 주식회사 쏘카 약관.. 블라블라 
+ 본 약관읜 주식회사 쏘카 약관.. 블라블라 
+ 본 약관읜 주식회사 쏘카 약관.. 블라블라 
+ 
+ 본 약관읜 주식회사 쏘카 약관.. 블라블라 
+ 본 약관읜 주식회사 쏘카 약관.. 블라블라 
+ 본 약관읜 주식회사 쏘카 약관.. 블라블라 
+ 본 약관읜 주식회사 쏘카 약관.. 블라블라 
+ 본 약관읜 주식회사 쏘카 약관.. 블라블라 
+ 
+ 본 약관읜 주식회사 쏘카 약관.. 블라블라 
+ 본 약관읜 주식회사 쏘카 약관.. 블라블라 
+ 본 약관읜 주식회사 쏘카 약관.. 블라블라 
+ 본 약관읜 주식회사 쏘카 약관.. 블라블라 
+ 본 약관읜 주식회사 쏘카 약관.. 블라블라 
+"</string>
+    <string name="signup_back_pressed">"입력한 정보가 저장되지 않습니다.
+이전 화면으로 이동할까요?"</string>
+    <string name="signup_back_pressed_ok">네, 이동합니다</string>
+    <string name="status_update">Updating status for %1$s at %2$s</string>
+    <string name="success">Success</string>
+    <string name="successfully_posted_post">"Successfully posted '%1$s'.
+Post ID: %2$s"</string>
+    <string name="text_hint_birth">*주민번호 앞 6자리</string>
+    <string name="text_hint_name">이름(실명 입력)</string>
+    <string name="text_hint_promotion_code">추천인코드 넣고 5,000원 쿠폰 받기(선택)</string>
+    <string name="text_hint_sign_in_email">이메일주소</string>
+    <string name="text_hint_sign_in_password">비밀번호 (영문, 숫자 혼합 6자리 이상)</string>
+    <string name="text_hint_sign_up_password">비밀번호 (영문,숫자 혼합 6자리 이상)</string>
+    <string name="text_hint_sing_up_phone">휴대폰번호</string>
+    <string name="text_insurance_menu">"풀러스는 안전한 카풀을 위해
+"<b>라이더 보호 프로그램</b>을 제공합니다</string>
+    <string name="text_join_terms_1"><u>서비스 이용약관 동의(필수)</u></string>
+    <string name="text_join_terms_2"><u>위치기반 서비스 이용약관 동의(필수)</u></string>
+    <string name="text_join_terms_3"><u>개인 정보 수집 동의(필수)</u></string>
+    <string name="text_join_terms_4"><u>개인 정보 제 3자 제공 동의(필수)</u></string>
+    <string name="text_join_terms_5"><u>마케팅 광고 전체 수신 동의(선택)</u></string>
+    <string name="text_link_find_password">비밀번호 찾기</string>
+    <string name="text_link_find_username">이메일 주소 찾기</string>
+    <string name="text_sns_join_layout_title">다른 계정으로 가입하기</string>
+    <string name="text_sns_layout_title">다른 계정으로 로그인</string>
+    <string name="text_trip_cancel_real">정말 취소하시겠어요? 취소 사유를 선택해주세요</string>
+    <string name="text_trip_cancel_type_1">긴급한 사항이 생겼어요</string>
+    <string name="text_trip_cancel_type_2">드라이버가 너무 먼 거리에 있어요</string>
+    <string name="text_trip_cancel_type_3">다른 교통수단을 이용할래요</string>
+    <string name="text_trip_cancel_type_4">드라이버가 나타나지 않았어요(신고)</string>
+    <string name="text_trip_cancel_type_5">기타</string>
+    <string name="text_trip_cancel_type_hint">기타 사유를 200자 이내로 입력해주세요</string>
+    <string name="text_trip_cancel_wait">라이더가 기다리고 있습니다</string>
+    <string name="text_trip_cancel_warning_1">여정 취소가 누적되면</string>
+    <string name="text_trip_cancel_warning_2">서비스 이용 시 제한이 있을 수 있습니다</string>
+    <string name="title_activity_about">About Poolus.</string>
+    <string name="title_activity_agreement">가입_약관화면</string>
+    <string name="title_activity_auth_name_webview">실명인증</string>
+    <string name="title_activity_card">가입_카드등록</string>
+    <string name="title_activity_change_area">지역선택</string>
+    <string name="title_activity_change_auth">인증수정</string>
+    <string name="title_activity_change_credit_card">카드변경</string>
+    <string name="title_activity_change_email">메일변경</string>
+    <string name="title_activity_change_employment">기관인증</string>
+    <string name="title_activity_change_introduction">소개변경</string>
+    <string name="title_activity_change_invite_code">코드변경</string>
+    <string name="title_activity_change_myhistory">나의이력</string>
+    <string name="title_activity_change_password">비번변경</string>
+    <string name="title_activity_change_phone">번호변경</string>
+    <string name="title_activity_chat">대화</string>
+    <string name="title_activity_driver_profile">드라이버 프로필</string>
+    <string name="title_activity_event_popup">이벤트</string>
+    <string name="title_activity_find_email">이메일 찾기</string>
+    <string name="title_activity_find_password">비밀번호 찾기</string>
+    <string name="title_activity_fixed_trip">장거리 노선</string>
+    <string name="title_activity_guest">비회원_여정설정</string>
+    <string name="title_activity_guide">가이드</string>
+    <string name="title_activity_guide_first_pick">가이드_첫카풀</string>
+    <string name="title_activity_history">여정내역</string>
+    <string name="title_activity_insurance">가입_보험적용 정보입력</string>
+    <string name="title_activity_invite">친구추천</string>
+    <string name="title_activity_join">회원가입</string>
+    <string name="title_activity_main">여정설정</string>
+    <string name="title_activity_notice">공지사항</string>
+    <string name="title_activity_poolus">풀러스</string>
+    <string name="title_activity_poolus_alarm">풀러스 알리미</string>
+    <string name="title_activity_promotion">할인받기</string>
+    <string name="title_activity_qna">문의하기</string>
+    <string name="title_activity_register_credit_card">카드등록</string>
+    <string name="title_activity_reserve">단기예약</string>
+    <string name="title_activity_service_info">서비스 정보</string>
+    <string name="title_activity_service_info_agreement">서비스 정보 약관</string>
+    <string name="title_activity_setting">설정</string>
+    <string name="title_activity_settings">설정</string>
+    <string name="title_activity_side_menu">사이드메뉴</string>
+    <string name="title_activity_sign_in">로그인</string>
+    <string name="title_activity_sign_up">가입_프로필</string>
+    <string name="title_activity_sign_up_complete">가입 완료</string>
+    <string name="title_activity_sign_up_profile">프로필</string>
+    <string name="title_activity_splash">인트로</string>
+    <string name="title_activity_trip_cancel">요청취소</string>
+    <string name="title_activity_user_account">내정보</string>
+    <string name="title_activity_user_profile">프로필</string>
+    <string name="title_activity_validate_phone">가입휴대폰번호 인증화면</string>
+    <string name="title_activity_webview">웹페이지보기</string>
+    <string name="title_arrival">평가</string>
+    <string name="title_facebook_login">페이스북 로그인</string>
+    <string name="title_list_matching">여정요청10분대기</string>
+    <string name="title_matching">요청대기</string>
+    <string name="title_problem">탑승문제</string>
+    <string name="title_riding">탑승완료</string>
+    <string name="title_search_departure">출발지 검색</string>
+    <string name="title_search_destination">도착지 검색</string>
+    <string name="title_set_departure">출발지 설정</string>
+    <string name="title_set_destination">도착지 설정</string>
+    <string name="title_waiting_driver">탑승대기</string>
+    <string name="transition_search_departure">search_departure</string>
+    <string name="transition_search_destination">search_destination</string>
+    <string name="type_email_and_password">이메일 주소 또는 비밀번호가 맞지 않습니다. 다시 한번 확인해 주세요.</string>
+    <string name="type_password">비밀번호를 입력해주세요</string>
+    <string name="type_username">이메일주소를 입력해주세요</string>
+    <string name="unknown_error">오류가 발생했습니다</string>
+    <string name="user_account">내정보</string>
+    <string name="waiting_driver">대기</string>
+    <string name="waiting_driver_cancel_call">드라이버가 잠시 후 도착할 예정입니다. 정말로 요청을 취소하실 건가요? 요청을 자주 취소하면 서비스 이용 시 제한이 있을 수 있습니다</string>
+    <string name="waiting_driver_msg_on_cancel_call">드라이버가 매칭을 취소하였습니다.</string>
+    <string name="word_login">로그인</string>
+    <string name="word_trip_cancel">탑승취소</string>
+    <string name="word_trip_cancel_send">탑승취소 제출하기</string>
+    <string name="you_picked">You picked:</string>
+</resources>

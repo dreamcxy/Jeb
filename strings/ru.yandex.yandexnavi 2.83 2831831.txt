@@ -1,0 +1,2051 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
+    <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_like_button_liked">Liked</string>
+    <string name="com_facebook_like_button_not_liked">Like</string>
+    <string name="com_facebook_loading">Loading…</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_loginview_log_in_button">Log in</string>
+    <string name="com_facebook_loginview_log_in_button_continue">Continue with Facebook</string>
+    <string name="com_facebook_loginview_log_in_button_long">Log in with Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="com_facebook_send_button_text">Send</string>
+    <string name="com_facebook_share_button_text">Share</string>
+    <string name="com_facebook_smart_device_instructions">To connect your account, open the Facebook app on your mobile device and check for notifications.</string>
+    <string name="com_facebook_smart_device_instructions_or">- OR -</string>
+    <string name="com_facebook_smart_login_confirmation_cancel">Not you?</string>
+    <string name="com_facebook_smart_login_confirmation_title">Confirm Login</string>
+    <string name="com_facebook_tooltip_default">"You're in control - choose what info you want to share with apps."</string>
+    <string name="common_google_play_services_api_unavailable_text">%1$s requires one or more Google Play services that are not currently available. Please contact the developer for assistance.</string>
+    <string name="common_google_play_services_enable_button">Enable Google Play services</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Get Google Play services</string>
+    <string name="common_google_play_services_install_text_phone">"%1$s won't run without Google Play services, which are missing from your phone."</string>
+    <string name="common_google_play_services_install_text_tablet">"%1$s won't run without Google Play services, which are missing from your tablet."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
+    <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
+    <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
+    <string name="common_google_play_services_network_error_title">Network Error</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_resolution_required_text">Please complete action required by %1$s.</string>
+    <string name="common_google_play_services_resolution_required_title">Google Play services requires an action</string>
+    <string name="common_google_play_services_restricted_profile_text">Accessing accounts from a restricted profile is not supported.</string>
+    <string name="common_google_play_services_restricted_profile_title">Restricted Profile</string>
+    <string name="common_google_play_services_sign_in_failed_text">Error signing in the specified account. Please choose a different account.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Sign in failed</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. If the problem persists, please contact the developer for assistance.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s relies on Google Play services, which is not supported by your device. Contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_updating_title">Google Play services are updating</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="messenger_send_button_text">Send</string>
+    <string name="place_autocomplete_clear_button">Clear search</string>
+    <string name="place_autocomplete_search_hint">Search</string>
+    <string name="search_menu_title">Search</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="acc_list_add_new_account">Add account</string>
+    <string name="acc_list_placeholder">Tap Add and sign in to Yandex</string>
+    <string name="account_type_passport">Yandex.Passport</string>
+    <string name="account_type_passport_debug">Yandex.Passport.Debug</string>
+    <string name="accounts_list_add_button">Add</string>
+    <string name="am_already_loggedin">You have already signed in with a Yandex account</string>
+    <string name="am_already_loggedin_mail">You already have a %1$s Inbox</string>
+    <string name="am_already_loggedin_social">You have already signed in to Yandex via social network</string>
+    <string name="am_choose_account_for_enter">Choose an account to sign in with</string>
+    <string name="am_choose_another_account">Choose another account</string>
+    <string name="am_delete_account_question">Are you sure you want to delete account %1$s from this device?</string>
+    <string name="am_delete_account_title">Delete account</string>
+    <string name="am_error_service_unavailable">Service is temporarily unavailable. Try again later</string>
+    <string name="am_error_try_again">An error occurred; please try again later</string>
+    <string name="am_mail_google">Google</string>
+    <string name="am_mail_hotmail">Hotmail</string>
+    <string name="am_mail_mailru">Mail.Ru</string>
+    <string name="am_mail_microsoft">Microsoft</string>
+    <string name="am_mail_rambler">Rambler</string>
+    <string name="am_mail_yahoo">Yahoo</string>
+    <string name="am_other_service">Other service</string>
+    <string name="am_reg_confirm_code_number_music_ua">The confirmation code was sent to</string>
+    <string name="am_reg_phone_text_music_ua">your phone number</string>
+    <string name="am_register_on_yandex">Register on Yandex</string>
+    <string name="am_select_service">Select service</string>
+    <string name="am_social_fb">Facebook</string>
+    <string name="am_social_google">Google +</string>
+    <string name="am_social_login_from_list">Or use a social network account</string>
+    <string name="am_social_mailru">Mail.ru</string>
+    <string name="am_social_ok">OK</string>
+    <string name="am_social_phone">Phone number</string>
+    <string name="am_social_twitter">Twitter</string>
+    <string name="am_social_vk">VK</string>
+    <string name="am_social_yandex">Sign in with Yandex</string>
+    <string name="am_url_passport">https://passport.yandex.com/</string>
+    <string name="am_url_passport_test">https://passport-test.yandex.com/</string>
+    <string name="am_yandex">Yandex</string>
+    <string name="auth_error_expired_password">Your password has expired. Please change it</string>
+    <string name="auth_error_invalid_client">Invalid client, verify that a registered client is on the oauth server</string>
+    <string name="auth_error_password_change_required">Your account may have been hacked. Please change your password immediately</string>
+    <string name="auth_error_too_many_login_failures">You have entered the wrong password too many times. Please try again later</string>
+    <string name="auth_payment_login">Enter payment password for account %1$s</string>
+    <string name="auth_payment_title">Payment</string>
+    <string name="auth_token_label">Receiving new tokens \"X-Token\"</string>
+    <string name="authentication_service_name">Yandex authorization service</string>
+    <string name="authentication_service_name_debug">Yandex authorization service (debug)</string>
+    <string name="autologin_button_logout">Sign out</string>
+    <string name="autologin_button_ok">Continue</string>
+    <string name="autologin_text">Signed in as %1$s</string>
+    <string name="bad_swc_dialog_cancel_button">Enter manually</string>
+    <string name="bad_swc_dialog_select_button">Select another account</string>
+    <string name="bad_swc_dialog_text">It seems you once refused Safari from saving a password on a Yandex site, which means the username field might now show something strange. Sorry for the inconvenience.</string>
+    <string name="broker_url">https://passport.yandex.com/auth/social</string>
+    <string name="broker_url_test">https://passport-test.yandex.com/auth/social</string>
+    <string name="common_done">Done</string>
+    <string name="debug_version">You are using AM debug mode</string>
+    <string name="err_empty_login">Please enter a username</string>
+    <string name="err_empty_password">Please enter a password</string>
+    <string name="error_dialog_title">An error occurred</string>
+    <string name="error_load_scope_description">"
+ATTENTION
+
+Unable to retrieve description of Yandex account access rights requested by app.
+
+If you trust this app, please follow the access procedure or try again later."</string>
+    <string name="error_network">Network error</string>
+    <string name="error_no_browser">Page can not be displayed</string>
+    <string name="error_service_unavailable">Service temporarily unavailable. Please try again later.</string>
+    <string name="invalid_signature_dialog_text">It looks like app %s was modified. Please delete it, and then reinstall it via an official app store. Using modified apps can compromise your device and data security.</string>
+    <string name="invalid_signature_dialog_title">Verification error</string>
+    <string name="license_agreement_title">User Agreement</string>
+    <string name="logging_in_proggress">Signing in…</string>
+    <string name="login">Sign in</string>
+    <string name="login_accounts">Accounts</string>
+    <string name="login_cant_login">Unable to sign in</string>
+    <string name="login_create_new_account">Create new account</string>
+    <string name="login_description_kit_phone">Enter your Yandex credentials to automatically sign in to all Yandex apps on the phone.</string>
+    <string name="login_description_kit_tablet">Enter your Yandex username to automatically sign in to all Yandex apps on the tablet.</string>
+    <string name="login_forbidden_account_type">Account cannot be used in this application</string>
+    <string name="login_forgot_password">Forgot password?</string>
+    <string name="login_forgot_password_kit">" "<u>Forgot password?</u>" "</string>
+    <string name="login_hint">Username</string>
+    <string name="login_incorrect_password">Incorrect username or password</string>
+    <string name="login_network_error">Network error</string>
+    <string name="login_new_account">Register</string>
+    <string name="login_new_account_kit">Create account</string>
+    <string name="login_relogin">Please enter your password again</string>
+    <string name="login_relogin_required">You will need to re-enter the password</string>
+    <string name="login_remember_password_url">https://passport.yandex.com/restoration</string>
+    <string name="login_skip">Skip</string>
+    <string name="login_social_button_content_description">Sign in via</string>
+    <string name="login_social_title">Sign in with another account</string>
+    <string name="login_ssl_error">Unable to establish secure connection</string>
+    <string name="login_use_social_authorization">or sign in with social network</string>
+    <string name="mail_error_bad_email">Enter the correct email address in the username field</string>
+    <string name="mail_error_incorrect_password">Incorrect username or password</string>
+    <string name="mail_error_unknown_domain">Sorry, your mail service is not supported</string>
+    <string name="mail_list_title">Or use an account from another mail service</string>
+    <string name="mail_other_register">Get Yandex.Mail</string>
+    <string name="mail_other_text">Other email service</string>
+    <string name="mail_other_title">Select an email service</string>
+    <string name="main_screen_auth_am_code">Token by AM Code</string>
+    <string name="password_hint">Password</string>
+    <string name="payment_token_getter_password_hint">Account password</string>
+    <string name="payment_token_getter_purchase">Purchase</string>
+    <string name="permission_am_communication">Permission to communicate with others Account Managers</string>
+    <string name="permission_read_credentials">Read access of credentials to your Yandex accounts</string>
+    <string name="reg_account_cancel_action">Cancel</string>
+    <string name="reg_account_enter_phone_number">Phone number</string>
+    <string name="reg_account_eula">I accept the terms of %1$s</string>
+    <string name="reg_account_eula_checkbox">I accept the terms of the %1$s</string>
+    <string name="reg_account_eula_confidential">Privacy Policy</string>
+    <string name="reg_account_eula_confidential_url">https://yandex.com/legal/confidential/?mode=html</string>
+    <string name="reg_account_eula_next">By clicking Next, I accept the terms of the %1$s</string>
+    <string name="reg_account_eula_reg">By tapping Next, I accept the terms of the %1$s and consent that Yandex will process my personal information in accordance with the terms specified in the %2$s.</string>
+    <string name="reg_account_eula_user_agreement">User Agreement</string>
+    <string name="reg_account_eula_user_agreement_url">https://yandex.com/legal/rules/?lang=en&amp;mode=html</string>
+    <string name="reg_account_first_name_hint">First name</string>
+    <string name="reg_account_header">Registration</string>
+    <string name="reg_account_last_name_hint">Last name</string>
+    <string name="reg_account_login_hint">Username</string>
+    <string name="reg_account_password_hint">Password</string>
+    <string name="reg_account_password_retype_hint">Confirm password</string>
+    <string name="reg_account_recovery_answer_hint">Answer</string>
+    <string name="reg_account_recovery_phone">Phone</string>
+    <string name="reg_account_recovery_phone_hint">Mobile phone</string>
+    <string name="reg_account_recovery_question">Question</string>
+    <string name="reg_account_recovery_question_custom">Set your own security question</string>
+    <string name="reg_account_recovery_question_custom_hint">Custom question</string>
+    <string name="reg_account_recovery_question_id_hint">Not selected</string>
+    <string name="reg_account_recovery_type_header">Choose password recovery option</string>
+    <string name="reg_account_recovery_type_header_short">Password recovery</string>
+    <string name="reg_account_recovery_type_phone">Mobile phone</string>
+    <string name="reg_account_recovery_type_question">Security question</string>
+    <string name="reg_account_recovery_type_question_header">Security question</string>
+    <string name="reg_account_suggest_login_button_content_description">Suggest logins</string>
+    <string name="reg_account_suggested_logins_header">Choose username</string>
+    <string name="reg_cancel">Cancel</string>
+    <string name="reg_captcha_enter_digits_hint">Digits</string>
+    <string name="reg_captcha_enter_symbols_hint">Characters</string>
+    <string name="reg_captcha_error">CAPTCHA error</string>
+    <string name="reg_captcha_header">Captcha</string>
+    <string name="reg_captcha_image_content_description">CAPTCHA</string>
+    <string name="reg_captcha_refresh_button_content_description">Refresh captcha</string>
+    <string name="reg_captcha_text">"Please enter the CAPTCHA characters so that we know you're not a robot"</string>
+    <string name="reg_close">Close</string>
+    <string name="reg_confirm_header">Confirmation</string>
+    <string name="reg_continue">Continue</string>
+    <string name="reg_error_answer_empty">Answer must not be empty</string>
+    <string name="reg_error_code_attempts_exceeded">You have no more attempts</string>
+    <string name="reg_error_empty">Please enter a value</string>
+    <string name="reg_error_first_name_empty">Enter name</string>
+    <string name="reg_error_first_name_too_long">Name is too long</string>
+    <string name="reg_error_hint_question_answer_too_long">Enter a value less than 30 characters long</string>
+    <string name="reg_error_hint_question_id_too_hign">Enter a number less than or equal to 11</string>
+    <string name="reg_error_hint_question_id_too_low">Please choose a question</string>
+    <string name="reg_error_hint_question_too_long">Enter a value less than 37 characters long</string>
+    <string name="reg_error_last_name_empty">Enter last name</string>
+    <string name="reg_error_last_name_too_long">Last name is too long</string>
+    <string name="reg_error_login_dot_hyphen">"Has '.-'"</string>
+    <string name="reg_error_login_doubled_dot">"Has doubled '.'"</string>
+    <string name="reg_error_login_doubled_hyphen">"Has doubled '-'"</string>
+    <string name="reg_error_login_ends_with_dot">"Ends with '.'"</string>
+    <string name="reg_error_login_ends_with_hyphen">"Ends with '-'"</string>
+    <string name="reg_error_login_hyphen_dot">"Has '-.'"</string>
+    <string name="reg_error_login_occupied">Username unavailable</string>
+    <string name="reg_error_login_occupied_with_variants">This username is already taken. Try:</string>
+    <string name="reg_error_login_prohibited_symbols">Has prohibited characters</string>
+    <string name="reg_error_login_starts_with_digit">Starts with a digit</string>
+    <string name="reg_error_login_starts_with_dot">"Starts with '.'"</string>
+    <string name="reg_error_login_starts_with_hyphen">"Starts with '-'"</string>
+    <string name="reg_error_login_too_long">Too long</string>
+    <string name="reg_error_network">Network unavailable</string>
+    <string name="reg_error_parse">Parser error</string>
+    <string name="reg_error_password_like_login">Similar to username</string>
+    <string name="reg_error_password_like_phone">Looks like a phone number</string>
+    <string name="reg_error_password_prohibited_symbols">Prohibited characters</string>
+    <string name="reg_error_password_retype_didnt_match">Password retype does not match original! Please try again</string>
+    <string name="reg_error_password_too_long">Too long</string>
+    <string name="reg_error_password_too_short">Too short</string>
+    <string name="reg_error_password_weak">Weak</string>
+    <string name="reg_error_phone_already_confirmed">Phone has been confirmed already</string>
+    <string name="reg_error_phone_bad_number">Invalid phone number</string>
+    <string name="reg_error_phone_bind_limit_exceeded">The limit of accounts to which this telephone can be bound has been reached</string>
+    <string name="reg_error_session_expired">Registration session has expired</string>
+    <string name="reg_error_sms_send_limit_exceeded">Sent SMS limit exceeded</string>
+    <string name="reg_error_sms_send_too_early">Not enough time has passed since sending the previous SMS</string>
+    <string name="reg_error_unknown">Unknown error</string>
+    <string name="reg_finish_header">Saving user account…</string>
+    <string name="reg_finish_ok">OK</string>
+    <string name="reg_header_credentials_step">Username and password</string>
+    <string name="reg_header_info_step">Personal information</string>
+    <string name="reg_http_lang">en</string>
+    <string name="reg_next">Next</string>
+    <string name="reg_no_account">Other sign-in options</string>
+    <string name="reg_phone_confirmation_format">"Confirmation code sent to
+%1$s"</string>
+    <string name="reg_phone_confirmation_header">Code</string>
+    <string name="reg_phone_confirmation_invalid_code">You have entered wrong confirmation code</string>
+    <string name="reg_phone_confirmation_resend_code">Resend code</string>
+    <string name="reg_phone_confirmation_resend_timer">Resending code in %1$s</string>
+    <string name="reg_phone_confirmation_text">Enter the code from the SMS to confirm the telephone number</string>
+    <string name="reg_phonish_confirmation_text">SMS verification code</string>
+    <string name="reg_phonish_header">Authorization</string>
+    <string name="reg_phonish_placeholder">+• ••• ••• •• ••</string>
+    <string name="reg_phonish_resend_code_format">To confirm your phone number, enter the code from the text message. %1$s</string>
+    <string name="reg_phonish_resend_code_timer_format">To confirm your phone number, enter the code from the text message. You can resend the code in %1$s</string>
+    <string name="reg_phonish_short_text">Enter your phone number to sign in</string>
+    <string name="reg_phonish_text">Please enter your phone number to register</string>
+    <string name="reg_popup_bind_limit_unlink">This number has already been linked to three accounts. Click Continue to add this number and remove it from all other accounts.</string>
+    <string name="reg_refresh">Refresh</string>
+    <string name="reg_retail_reset">Reset</string>
+    <string name="reg_show_more_suggestions">Show more suggestions</string>
+    <string name="reg_social_choose">Choose account type</string>
+    <string name="reg_switch_to_phone_restoration">I will use a phone number</string>
+    <string name="reg_switch_to_question_restoration">"I don't have a phone number"</string>
+    <string name="reg_try_again">Try again</string>
+    <string name="restore_password_title">Password recovery</string>
+    <string name="sdk_ask_access">%1$s is requesting access to your Yandex account</string>
+    <string name="sdk_ask_access_allow_button">Allow</string>
+    <string name="sdk_ask_access_deny_button">Deny</string>
+    <string name="sdk_ask_access_title">App access</string>
+    <string name="sdk_invalid_token_error">Error. Please sign out of your account and sign in again</string>
+    <string name="sdk_other_user_button">Different account</string>
+    <string name="sdk_unknown_error">Something went wrong. Please try again. If the error occurs again, please let us know</string>
+    <string name="show_password">Show password</string>
+    <string name="social_base_url">https://social.yandex.com</string>
+    <string name="social_base_url_testing">https://social-test.yandex.com</string>
+    <string name="social_retpath">https://www.yandex.com</string>
+    <string name="ssl_pinning_dialog_cancel">Do not continue</string>
+    <string name="ssl_pinning_dialog_ok">Continue anyway</string>
+    <string name="ssl_pinning_dialog_text">"A secure server connection cannot be established. It's possible your data may be seized by hackers. We do not recommend that you continue."</string>
+    <string name="swc_toast_autofill">Go to AutoFill and turn on Names and Passwords</string>
+    <string name="swc_toast_ok">Got it</string>
+    <string name="swc_toast_safari">Select Safari</string>
+    <string name="swc_toast_settings">Open the Settings</string>
+    <string name="swc_toast_text">"You won't have to enter your username and password to sign in to Yandex services. Your account will sync up on all of your Apple devices."</string>
+    <string name="swc_toast_title">Quickly sign in to Yandex</string>
+    <string name="android_market_not_found">Android Market app not found.</string>
+    <string name="install_dialog_checkbox">Remember</string>
+    <string name="install_dialog_description">"App not installed. 
+
+Would you like to install it or go to the website?"</string>
+    <string name="install_dialog_install">Install</string>
+    <string name="install_dialog_web">Go to site</string>
+    <string name="launcher_name">Yandex</string>
+    <string name="omnibox_find_button_text">Search</string>
+    <string name="parmissions_request_language">en</string>
+    <string name="reg_login_domain">\@yandex.com</string>
+    <string name="searchlib_about_app_title">About</string>
+    <string name="searchlib_about_version_summary">"%1$s (Build %2$s)
+%3$s"</string>
+    <string name="searchlib_about_version_title">Version</string>
+    <string name="searchlib_btn_go_settings">Go to settings</string>
+    <string name="searchlib_btn_update">Update</string>
+    <string name="searchlib_homepage_url">https://www.yandex.com</string>
+    <string name="searchlib_main_screen_hint_update">A new version of Yandex.Search is available</string>
+    <string name="searchlib_promo_download_button">Download</string>
+    <string name="searchlib_promo_searchapp_text_description">The app features up-to-date news, weather, exchange rates, traffic, and much more</string>
+    <string name="searchlib_promo_searchapp_text_head">Yandex Search for Android</string>
+    <string name="searchlib_query_hint_example">&lt;i>For example:&lt;/i></string>
+    <string name="searchlib_record_audio_permission_rationale">Access is required to your microphone to use voice search</string>
+    <string name="searchlib_record_audio_rationale_with_settings">"Give the app access to your phone's microphone in your Settings in order to use voice search."</string>
+    <string name="searchlib_settings_btn_save">Save</string>
+    <string name="searchlib_settings_category_notification_bar">Notification panel</string>
+    <string name="searchlib_settings_category_search">Search</string>
+    <string name="searchlib_settings_enable_trends">Show relevant search requests</string>
+    <string name="searchlib_settings_general_group_title">General</string>
+    <string name="searchlib_settings_label">Settings</string>
+    <string name="searchlib_settings_lockscreen_notification_title">Show search bar on lock screen</string>
+    <string name="searchlib_settings_notification">Search bar</string>
+    <string name="searchlib_settings_rates">Exchange rates</string>
+    <string name="searchlib_settings_save_search_history_title">Save search history</string>
+    <string name="searchlib_settings_traffic">Traffic</string>
+    <string name="searchlib_settings_weather">Weather</string>
+    <string name="searchlib_speech_navigation_select_app">Open app</string>
+    <string name="searchlib_splashscreen_bar_and_widget_opt_in_description">See up-to-date info from Yandex in the widget and on your lock screen</string>
+    <string name="searchlib_splashscreen_btn_enable">Enable</string>
+    <string name="searchlib_splashscreen_btn_no_thanks">No</string>
+    <string name="searchlib_splashscreen_btn_ok">OK</string>
+    <string name="searchlib_splashscreen_opt_in_btn_negative">No</string>
+    <string name="searchlib_splashscreen_opt_in_btn_positive">Enable</string>
+    <string name="searchlib_splashscreen_opt_in_description">Useful information from Yandex on the notifications panel and lock screen</string>
+    <string name="searchlib_splashscreen_opt_in_head">"Search, weather, traffic
+at your fingertips"</string>
+    <string name="searchlib_splashscreen_opt_out_btn_positive">OK</string>
+    <string name="searchlib_splashscreen_opt_out_btn_settings">Settings</string>
+    <string name="searchlib_splashscreen_opt_out_settings_description">You can stop receiving useful information from Yandex by turning it off in the search bar settings</string>
+    <string name="searchlib_splashscreen_text">Instant access to Yandex search</string>
+    <string name="searchlib_splashscreen_text_description_opt_in">Traffic, weather, and exchange rates at a glance</string>
+    <string name="searchlib_splashscreen_text_description_opt_out">You can always remove it in the app settings</string>
+    <string name="searchlib_splashscreen_text_line1">Search box in notification panel</string>
+    <string name="searchlib_splashscreen_text_line2">Link to Yandex on home screen</string>
+    <string name="searchlib_splashscreen_text_opt_in">Add Yandex Search to your notification panel</string>
+    <string name="searchlib_splashscreen_text_opt_out">"Yandex Search bar 
+has been added to your notification panel"</string>
+    <string name="searchlib_splashscreen_text_searchplugin">Instant access to Yandex Search right from the notification panel</string>
+    <string name="searchlib_splashscreen_widget_opt_in_description">See up-to-date traffic, weather, and exchange rate info in the Yandex widget</string>
+    <string name="searchlib_suggest_menu_delete_from_history">Delete</string>
+    <string name="searchlib_weather_formatter_celsius_sign">C</string>
+    <string name="searchlib_weather_formatter_degree_sign">°</string>
+    <string name="searchlib_weather_formatter_negative_format">−%s</string>
+    <string name="searchlib_weather_formatter_positive_format">+%s</string>
+    <string name="searchlib_weather_formatter_zero_format">%s</string>
+    <string name="searchlib_widget_date_format">@string/searchlib_widget_date_format_en</string>
+    <string name="searchlib_widget_ext_label">Search and info</string>
+    <string name="searchlib_widget_install_result_already_installed">Widget already installed</string>
+    <string name="searchlib_widget_install_result_failed">"Unable to install the widget.
+Try installing it manually."</string>
+    <string name="searchlib_widget_install_result_successful">Widget installed</string>
+    <string name="searchlib_widget_install_result_unavailable">Your device is not supported</string>
+    <string name="searchlib_widget_preferences_element_battery_title">Battery</string>
+    <string name="searchlib_widget_preferences_element_list_section_title">Inactive</string>
+    <string name="searchlib_widget_preferences_element_news_title">News</string>
+    <string name="searchlib_widget_preferences_element_rates_eur_title">EUR exchange rate</string>
+    <string name="searchlib_widget_preferences_element_rates_usd_title">USD exchange rate</string>
+    <string name="searchlib_widget_preferences_element_time_title">Clock</string>
+    <string name="searchlib_widget_preferences_element_traffic_title">Traffic</string>
+    <string name="searchlib_widget_preferences_element_weather_title">Weather</string>
+    <string name="searchlib_widget_preferences_informers_count_title">Active</string>
+    <string name="searchlib_widget_preferences_screen_common_settings">General</string>
+    <string name="searchlib_widget_preferences_screen_informers">Informers</string>
+    <string name="searchlib_widget_preferences_screen_preference_background_transparency">Background transparency</string>
+    <string name="searchlib_widget_searchline_search_in_yandex">Search Yandex</string>
+    <string name="searchlib_widget_time_on_route_short">%1$d min</string>
+    <string name="service_all">"All
+services"</string>
+    <string name="service_dicts">Dictionaries</string>
+    <string name="service_mail">Mail</string>
+    <string name="service_main">Main</string>
+    <string name="service_maps">Maps</string>
+    <string name="service_market">Market</string>
+    <string name="service_news">News</string>
+    <string name="service_pictures">Images</string>
+    <string name="service_translate">Translate</string>
+    <string name="service_transport">Transport</string>
+    <string name="service_video">Video</string>
+    <string name="service_weather">Weather</string>
+    <string name="source_ApplicationsSearchProvider">Apps</string>
+    <string name="source_ContactsSearchProvider">Contacts</string>
+    <string name="source_SmsSearchProvider">SMS messages</string>
+    <string name="source_SuggestionsSearchProvider">Оnline</string>
+    <string name="ui_kit_yandex_name">Yandex</string>
+    <string name="uikit_icon_auth">@drawable/ui_kit_icon_auth_en</string>
+    <string name="uikit_icon_auth_debug">@drawable/ui_kit_icon_auth_en_debug</string>
+    <string name="uikit_yandex_logo_dark">@drawable/ui_kit_logo_dark_en</string>
+    <string name="uikit_yandex_logo_light">@drawable/ui_kit_logo_light_en</string>
+    <string name="voice_search_dialog_cancel_button">Cancel</string>
+    <string name="voice_search_dialog_hint">Ready</string>
+    <string name="voice_search_dialog_network">You must be connected to the internet to use the voice recognition feature</string>
+    <string name="voice_search_dialog_title">Are you looking for...</string>
+    <string name="voice_search_dialog_unrecognized">Unfortunately, this phrase was not recognized. Please try again.</string>
+    <string name="voice_search_dialog_wait">Please wait</string>
+    <string name="voice_search_dialog_wait_before">Just a sec</string>
+    <string name="ypl_feature_new">New</string>
+    <string name="ypl_feature_update">Update</string>
+    <string name="ypl_interstitial_btn_skip">Skip</string>
+    <string name="ypl_promo_apps">More apps</string>
+    <string name="ypl_shortcut_default_title">Yandex</string>
+    <string name="ypl_shortcut_default_url">http://yandex.com/?clid=2271223</string>
+    <string name="com_facebook_smart_login_confirmation_continue_as">Continue as %1$s</string>
+    <string name="CardScreenFeedback">Report an issue</string>
+    <string name="CommonAdvertising">Advertising</string>
+    <string name="CommonAuthorization">Log in</string>
+    <string name="CommonCacheStorageCorruptedMessage">Due to a glitch in the app, saved maps were deleted. Our apologies. Please download them again in Settings.</string>
+    <string name="CommonCacheStorageCorruptedMessageTitle">Warning</string>
+    <string name="CommonCancel">Cancel</string>
+    <string name="CommonDone">Done</string>
+    <string name="CommonErrorDiskFullMessage">Insufficient space on your device. Please delete unneeded files or apps so you can save these places.</string>
+    <string name="CommonErrorFullMessage">Insufficient space on your device. Please free up some space to add new places.</string>
+    <string name="CommonErrorNetworkMessage">No connection. Please check your internet connection.</string>
+    <string name="CommonErrorRemoteFullMessage">You have too many places saved and Navigator cannot save new ones. Please remove the ones you no longer need.</string>
+    <string name="CommonErrorRemoteMessage">No server connection. Please try again later.</string>
+    <string name="CommonErrorStorageMessage">Database error. Please reinstall Yandex.Navigator and restart your device. Your data will not be lost.</string>
+    <string name="CommonErrorUnknownMessage">"An error occurred. Try relaunching the app. If this doesn't help, please try reinstalling it."</string>
+    <string name="CommonErrorUnknownTitle">Unknown error</string>
+    <string name="CommonNetworkError">No network</string>
+    <string name="CommonNo">No</string>
+    <string name="CommonOk">OK</string>
+    <string name="CommonRemoteError">Server error</string>
+    <string name="CommonSend">Send</string>
+    <string name="CommonSettings">Settings</string>
+    <string name="CommonStorageCorruptedDismissButton">OK</string>
+    <string name="CommonWebErrorMessage">An error occurred while loading the page.</string>
+    <string name="CommonWebErrorOK">OK</string>
+    <string name="CommonWebErrorTitle">Error</string>
+    <string name="CommonYes">Yes</string>
+    <string name="IntroCardsNewSearchDescription">Searching while behind the wheel has become more convenient</string>
+    <string name="IntroCardsNewSearchTitle">New search function</string>
+    <string name="IntroCardsPublicMapRemovedDescription">"Important info from the Public map
+has been added to the main map"</string>
+    <string name="IntroCardsPublicMapRemovedTitle">View more detailed maps</string>
+    <string name="IntroCardsPushDescription">"Send your destinations
+to Yandex.Navigator from your desktop
+before you set off"</string>
+    <string name="IntroCardsPushTitle">Plan your journey in advance</string>
+    <string name="IntroCardsSearchHistoryDescription">Navigator shows you routes to places you find with Yandex.Maps.</string>
+    <string name="IntroCardsSearchHistoryTitle">Syncing</string>
+    <string name="IntroCardsTrafficDescription">"See traffic alerts
+and jams updated
+every minute"</string>
+    <string name="IntroCardsTrafficLightsDescription">Orient yourself more easily with stoplights marked on the map.</string>
+    <string name="IntroCardsTrafficLightsTitle">Stoplights</string>
+    <string name="IntroCardsTrafficTitle">Get around traffic congestion</string>
+    <string name="SearchCategories">Categories</string>
+    <string name="SearchCategoryATM">ATMs</string>
+    <string name="SearchCategoryATMQuery">ATM</string>
+    <string name="SearchCategoryBank">Banks</string>
+    <string name="SearchCategoryBankQuery">Bank</string>
+    <string name="SearchCategoryBar">Bars and pubs</string>
+    <string name="SearchCategoryBarQuery">Pub, bar</string>
+    <string name="SearchCategoryBrowser">Browser</string>
+    <string name="SearchCategoryCarRepair">Auto repair</string>
+    <string name="SearchCategoryCarRepairQuery">Car repairing service</string>
+    <string name="SearchCategoryCarWash">Car wash</string>
+    <string name="SearchCategoryCarWashQuery">Carwash</string>
+    <string name="SearchCategoryCinema">Movie theaters</string>
+    <string name="SearchCategoryCinemaQuery">Cinema</string>
+    <string name="SearchCategoryFastFood">Fastfood</string>
+    <string name="SearchCategoryFastFoodQuery">Fast Food</string>
+    <string name="SearchCategoryFood">Where to eat</string>
+    <string name="SearchCategoryFoodQuery">Where to eat</string>
+    <string name="SearchCategoryGas">Gas stations</string>
+    <string name="SearchCategoryGasExperiment">Gas stations</string>
+    <string name="SearchCategoryGasQuery">Gas stations</string>
+    <string name="SearchCategoryGroceries">Groceries</string>
+    <string name="SearchCategoryGroceriesQuery">Grocery store</string>
+    <string name="SearchCategoryHospital">Hospitals</string>
+    <string name="SearchCategoryHospitalQuery">Hospitals</string>
+    <string name="SearchCategoryHotel">Hotels</string>
+    <string name="SearchCategoryHotelQuery">Hotel</string>
+    <string name="SearchCategoryPharmacy">Pharmacies</string>
+    <string name="SearchCategoryPharmacyQuery">Pharmacy</string>
+    <string name="SearchCategoryReligion">Religion</string>
+    <string name="SearchCategoryReligionQuery">Religion</string>
+    <string name="SearchCategoryRestaurant">Restaurants</string>
+    <string name="SearchCategoryRestaurantQuery">Restaurant, cafe</string>
+    <string name="SearchCategorySearch">Search</string>
+    <string name="SearchCategoryShoppingMall">Shopping malls</string>
+    <string name="SearchCategoryShoppingMallQuery">Shopping mall</string>
+    <string name="SearchHistory">History</string>
+    <string name="SearchHistoryEmptyDescription" />
+    <string name="SearchHistoryEmptyTitle">Your search history is empty</string>
+    <string name="SearchHistoryUnauthorizedDescription">Log in to have the same search history across all of your mobile devices</string>
+    <string name="SearchOfflineModeTitle">Результаты из сохранённых данных</string>
+    <string name="SearchPlaceholder">Search for a place or address</string>
+    <string name="SearchPlaceholderModal">Enter address</string>
+    <string name="SearchSuggestEmpty">Not Found</string>
+    <string name="SearchSuggestEmptyDescription">Try entering a different address or place name</string>
+    <string name="SearchSuggestEmptyTitle">Nothing found</string>
+    <string name="SearchSuggestErrorCacheUnavailable">"Download an offline map to search when you aren't connected"</string>
+    <string name="SearchSuggestErrorCacheUnavailableTitle">No connection</string>
+    <string name="SearchSuggestErrorNetworkDescription">Check your network connection and try your search again</string>
+    <string name="SearchSuggestErrorNetworkTitle">No connection</string>
+    <string name="SearchSuggestErrorServerDescription">"Couldn't connect to server. Try searching again."</string>
+    <string name="SearchSuggestErrorServerTitle">No response from server</string>
+    <string name="SearchSuggestErrorUnknownDescription">Something went wrong</string>
+    <string name="SearchSuggestErrorUnknownTitle">Unknown error</string>
+    <string name="ShortcutHomeTitle">Маршрут домой</string>
+    <string name="ShortcutWorkTitle">Маршрут на работу</string>
+    <string name="about_about">About</string>
+    <string name="about_agreement_button">License Agreement</string>
+    <string name="about_build">Build</string>
+    <string name="about_copyrights">© 2012—2017 \"YANDEX\"</string>
+    <string name="about_from_date">released</string>
+    <string name="about_version">Version</string>
+    <string name="alert_cancel_button">Cancel</string>
+    <string name="alert_ok_button">OK</string>
+    <string name="alert_settings_button">Settings</string>
+    <string name="alert_title">Warning</string>
+    <string name="alpha_bank_banner_message">10% Cash Back на АЗС. Открыть в Альфа-Банке</string>
+    <string name="alpha_bank_pin_message">Вернем 10% за топливо! Карта Cash Back от Альфа-Банка</string>
+    <string name="alpha_bank_query">Альфа-Банк</string>
+    <string name="app_lang">en</string>
+    <string name="app_name">Yandex.Navi</string>
+    <string name="app_short_name">Yandex.Navi</string>
+    <string name="auto_ru_banner_message">Более 500 000 машин на Auto.ru. Найди свою!</string>
+    <string name="avis_pin_message">Avis Araç Kiralama ile Dünyayı Keşfet</string>
+    <string name="axess_banner_message">Axessleyenlere 200 TL’ye kadar chip‑para!</string>
+    <string name="axess_label">Axess</string>
+    <string name="axess_pin_message">Axessleyenlere 200 TL’ye kadar chip-para!</string>
+    <string name="axess_query">Benzin İstasyonları</string>
+    <string name="b_suffix">B</string>
+    <string name="banner_browser_subtitle">Интернет на красивом фоне</string>
+    <string name="banner_browser_title">Яндекс.Браузер</string>
+    <string name="banner_search_subtitle">Планируйте день с Яндексом</string>
+    <string name="banner_search_title">Яндекс</string>
+    <string name="bg_freedrive_notification_desc">Camera warnings enabled</string>
+    <string name="bg_freedrive_notification_title">Yandex Navigator</string>
+    <string name="bg_guidance_notification_running">Navigator is running</string>
+    <string name="bg_guidance_stop">Stop</string>
+    <string name="bg_guide_notification_action_finish">to your destination</string>
+    <string name="bookmarks_add_address">Add address</string>
+    <string name="bookmarks_add_folder_dialog_title">Add to list</string>
+    <string name="bookmarks_add_place_text">Add</string>
+    <string name="bookmarks_add_to_list_title">Add to list</string>
+    <string name="bookmarks_auth_button">Sign in</string>
+    <string name="bookmarks_auth_invitation_dialog_title">Favorites available everywhere</string>
+    <string name="bookmarks_auth_invitation_view_text">Sign in to combine your favorites and change them all at once on all your devices</string>
+    <string name="bookmarks_cancel_button">Cancel</string>
+    <string name="bookmarks_edit_bookmark_title">Bookmark name</string>
+    <string name="bookmarks_edit_favorite_default_name">Marker</string>
+    <string name="bookmarks_edit_folder_title">List name</string>
+    <string name="bookmarks_edit_list_zero_title" />
+    <string name="bookmarks_empty_list_text">List is empty.</string>
+    <string name="bookmarks_empty_point_history_description">Sign in to create one common route history for different devices</string>
+    <string name="bookmarks_empty_point_history_title">Route history is empty</string>
+    <string name="bookmarks_error_disk_full">Insufficient space on your device. Please free up some space to save new places.</string>
+    <string name="bookmarks_error_network">No connection. Please check your internet connection.</string>
+    <string name="bookmarks_error_network_message">Error syncing \"My places\". No connection to server, please try again later.</string>
+    <string name="bookmarks_error_remote">No server connection. Please try again later.</string>
+    <string name="bookmarks_error_remote_full">You have too many places saved and Navigator cannot save new ones. Please remove the ones you no longer need.</string>
+    <string name="bookmarks_error_storage">Database error. Please reinstall Yandex.Navigator and restart your device. Your data will not be lost.</string>
+    <string name="bookmarks_error_unknown">"An error occurred. Try relaunching the app. If this doesn't help, please try reinstalling it."</string>
+    <string name="bookmarks_favourites_folder_title">Favorites</string>
+    <string name="bookmarks_history_page_title">Recent</string>
+    <string name="bookmarks_home_place_title">Home</string>
+    <string name="bookmarks_lists">Lists</string>
+    <string name="bookmarks_login_button">Log in</string>
+    <string name="bookmarks_move_folder_dialog_title">Move place to list</string>
+    <string name="bookmarks_new_bookmark_error">Error: list was deleted</string>
+    <string name="bookmarks_new_folder_dialog_hint">Name</string>
+    <string name="bookmarks_new_folder_dialog_title">New list</string>
+    <string name="bookmarks_new_folder_text">Create list</string>
+    <string name="bookmarks_not_now_button">Not now</string>
+    <string name="bookmarks_remove_bookmark_button">Delete</string>
+    <string name="bookmarks_remove_bookmark_message">Delete object from «My places»?</string>
+    <string name="bookmarks_remove_bookmark_title">Confirm deletion</string>
+    <string name="bookmarks_remove_items">Selected items (%d) will be deleted forever.</string>
+    <string name="bookmarks_save_button">Save</string>
+    <string name="bookmarks_saved_page_title">Saved</string>
+    <string name="bookmarks_selected_one">%d selected</string>
+    <string name="bookmarks_selected_some">%d selected</string>
+    <string name="bookmarks_storage_error_message_text">Database error. Please reinstall Yandex.Navigator and restart your device. Your data will not be lost.</string>
+    <string name="bookmarks_storage_error_message_title">Error</string>
+    <string name="bookmarks_title">My places</string>
+    <string name="bookmarks_unauthorized_history_text">Sign in and Navigator will keep a log of your destinations, making it easier to find them again</string>
+    <string name="bookmarks_work_place_title">Work</string>
+    <string name="boyner_banner_message">Üstümdeki her şey Boyner Boyner Boyner</string>
+    <string name="boyner_pin_message">Üstümdeki her şey Boyner Boyner Boyner</string>
+    <string name="boyner_query">Boyner</string>
+    <string name="bp_banner_message">ВР дарит Тонну Топлива каждый день!</string>
+    <string name="bp_label">BP</string>
+    <string name="bp_pin_message">ВР дарит Тонну Топлива каждый день!</string>
+    <string name="bp_query">BP</string>
+    <string name="btn_other_app_text">More Yandex apps</string>
+    <string name="btn_search_text">Search</string>
+    <string name="bug_report_mark_guidance_problem">Error in route navigation</string>
+    <string name="bug_report_title">Report an error</string>
+    <string name="cache_download">Download</string>
+    <string name="cache_download_progress">%1$s of %2$s</string>
+    <string name="cache_downloaded">Downloaded</string>
+    <string name="cache_downloading">Downloading</string>
+    <string name="cache_downloads">DOWNLOADS</string>
+    <string name="cache_downloads_empty_message">"Enter the name of your
+city or region"</string>
+    <string name="cache_error_disk">"Not enough space
+Please free up space on your device and start the download again."</string>
+    <string name="cache_error_memory_limits">Map download stopped due to lack of dedicated space</string>
+    <string name="cache_error_outdated">"Map updated
+A new version of this map is available. Please start the download again."</string>
+    <string name="cache_error_service">"Download error
+Please try downloading the map later."</string>
+    <string name="cache_error_unknown">Unknown Error</string>
+    <string name="cache_no_network_download_message">Maps will start downloading automatically when you are connected to the internet.</string>
+    <string name="cache_no_network_download_title">No network</string>
+    <string name="cache_notification_cache_limit">The amount of data you can save is limited to 2 GB. Are you sure you want to download this map?</string>
+    <string name="cache_notification_low_memory">"You don't have much space left on your device. Are you sure you want to download maps?"</string>
+    <string name="cache_suggest_empty_message">No matches</string>
+    <string name="cache_suggest_empty_message_summary">"Try entering the name of the
+region where your city
+is located"</string>
+    <string name="cache_unpacking">Unpacking</string>
+    <string name="cache_update">Update</string>
+    <string name="cache_updating">Updating</string>
+    <string name="cache_wifi_download_message">Maps will start downloading automatically when connected to Wi-Fi. Allow downloads over mobile networks?</string>
+    <string name="cache_wifi_download_no_button">No</string>
+    <string name="cache_wifi_download_title">No access to Wi-Fi</string>
+    <string name="cache_wifi_download_yes_button">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="car_price_moscow_pin_message">Быстрая и лёгкая продажа авто 84952415708</string>
+    <string name="car_price_pin_message">Быстрая и лёгкая продажа авто 88002229403</string>
+    <string name="carousel_pin_message">Всё находится здесь!</string>
+    <string name="castrol_banner_message">Акции Castrol: Автоскан и Выгодная покупка</string>
+    <string name="castrol_label">Castrol</string>
+    <string name="castrol_pin_message">Ищите оригинальные масла Castrol в ближайшем магазине</string>
+    <string name="castrol_query">Castrol</string>
+    <string name="close">Close</string>
+    <string name="comment_label">Comments</string>
+    <string name="commit">Done</string>
+    <string name="common_back_button">Back</string>
+    <string name="common_clear">Clear</string>
+    <string name="delete">Delete</string>
+    <string name="details">More info...</string>
+    <string name="dsk_development_pin_message" />
+    <string name="fsk_leader_pin_message" />
+    <string name="garanti_bankasi_banner_message">250TL’den başlayan kasko fırsatı Garanti’de!</string>
+    <string name="garanti_bankasi_label">Garanti</string>
+    <string name="garanti_bankasi_pin_message">250TL’den başlayan fiyatlarla kasko fırsatı Garanti’de!</string>
+    <string name="garanti_bankasi_query">Garanti Bankası</string>
+    <string name="gaz_prom_neft_banner_message">С картой «Нам По Пути» выгода до 5%</string>
+    <string name="gaz_prom_neft_label">Gazpromneft</string>
+    <string name="gaz_prom_neft_pin_message">Качественное топливо и высокие стандарты обслуживания</string>
+    <string name="gaz_prom_neft_query">Gazpromneft</string>
+    <string name="gb_suffix">GB</string>
+    <string name="ile_de_beaute_label">Иль де Ботэ</string>
+    <string name="ile_de_beaute_pin_message">Вам по пути! Подарки для близких и любимых.</string>
+    <string name="ile_de_beaute_query">Иль де Ботэ</string>
+    <string name="intro_activity_cancel_title">Cancel</string>
+    <string name="intro_activity_description">"Let Yandex.Navigator know
+when you’ve stopped driving."</string>
+    <string name="intro_activity_title">Track your motions</string>
+    <string name="intro_agree_button_title">OK, got it</string>
+    <string name="intro_annotations_desciption">Understand the road better with specific instructions for driving directions</string>
+    <string name="intro_annotations_title">Get detailed directions</string>
+    <string name="intro_applang_description">"You can now switch 
+Yandex.Navigator’s interface 
+to your preferred language."</string>
+    <string name="intro_applang_title">Now in your language</string>
+    <string name="intro_auth_button_title">Sign in</string>
+    <string name="intro_auth_description">"New login options
+save your information safely.
+Try it now for easy access"</string>
+    <string name="intro_auth_description_tr" />
+    <string name="intro_auth_success_toast_message">Добро пожаловать, %s!</string>
+    <string name="intro_auth_title">It’s easier to login Navi!</string>
+    <string name="intro_auth_title_tr" />
+    <string name="intro_background_description">Yandex.Navigator will still tell you where to go while you use other apps</string>
+    <string name="intro_background_title">Multitask with other apps</string>
+    <string name="intro_basta_description">"Ко дню Ростова-на-Дону
+в Навигаторе новый диктор.
+Баста здесь!"</string>
+    <string name="intro_basta_title">С праздником, любимый город!</string>
+    <string name="intro_browser_description">Защитит от угроз в интернете и ускорит загрузку сайтов при медленном соединении.</string>
+    <string name="intro_browser_title">Яндекс.Браузер</string>
+    <string name="intro_button_title_change">Сменить</string>
+    <string name="intro_button_title_clear">Got it</string>
+    <string name="intro_button_title_continue">Continue</string>
+    <string name="intro_button_title_download">Download</string>
+    <string name="intro_button_title_enable">Try it</string>
+    <string name="intro_button_title_get_info">Подробнее</string>
+    <string name="intro_button_title_great">Отлично</string>
+    <string name="intro_button_title_later">Later</string>
+    <string name="intro_button_title_next">Next</string>
+    <string name="intro_button_title_ok">Got it</string>
+    <string name="intro_button_title_refuse_enable">Not now</string>
+    <string name="intro_button_title_skip">Пропустить</string>
+    <string name="intro_cameras_without_route_description">"Stay informed of upcoming
+cameras even when you are
+not following a route."</string>
+    <string name="intro_cameras_without_route_title">Get camera notifications</string>
+    <string name="intro_cards_accident_annotations_description">Navigator will report upcoming accidents or road works</string>
+    <string name="intro_cards_accident_annotations_title">Get advance warning</string>
+    <string name="intro_cards_button_close">Done</string>
+    <string name="intro_cards_button_next">Next</string>
+    <string name="intro_cards_button_sign_in">Sign in</string>
+    <string name="intro_cards_camera_annotations_description">Get speed camera voice warnings from Navigator if you exceed the speed limit by 15 km/h</string>
+    <string name="intro_cards_camera_annotations_title">Speed camera notifications</string>
+    <string name="intro_cards_gas_desc">Yandex.Navigator recognizes names of places (such as gas stations or stores in the area) when you say them out loud.</string>
+    <string name="intro_cards_gas_title">Navigator understands</string>
+    <string name="intro_cards_home_desc">Save places you want to get to faster in your Favorites and then tell Navigator where you want to go.</string>
+    <string name="intro_cards_home_title">Go home</string>
+    <string name="intro_cards_map_desc">"Download maps of your city or region to consume less data. They won't take up a lot of space."</string>
+    <string name="intro_cards_map_title">Take a map with you</string>
+    <string name="intro_cards_multiple_routes_description">"Yandex.Navigator suggests routes
+and you pick
+the one that best suits you."</string>
+    <string name="intro_cards_multiple_routes_title">Choose from up to three routes</string>
+    <string name="intro_cards_routes_history_description">"Navigator keeps a log of your
+destinations, making it easier
+to find them again"</string>
+    <string name="intro_cards_routes_history_title">Route history</string>
+    <string name="intro_cards_shared_favorites_description">"Your favorites are saved to your
+account and shared across
+all your devices and on Yandex.Maps"</string>
+    <string name="intro_cards_shared_favorites_title">Favorites available everywhere</string>
+    <string name="intro_cards_sign_in_description">Sign in to your account to have your favorites and route history on all devices</string>
+    <string name="intro_cards_sign_in_title">Sign in to sync</string>
+    <string name="intro_cards_toll_roads_description">"You will know in advance
+if there are any toll roads or ferries
+on your route."</string>
+    <string name="intro_cards_toll_roads_title">Toll roads and ferries</string>
+    <string name="intro_cards_voice_activation_description">"Say \"Yandex, 
+let's go to Lesnaya 1\""</string>
+    <string name="intro_cards_voice_activation_title">"Plot your route
+with your voice"</string>
+    <string name="intro_cards_voice_desc">"Try searching using your voice. It's easier to say long street names than to type them in."</string>
+    <string name="intro_cards_voice_dialog_description">Just answer Yes or No</string>
+    <string name="intro_cards_voice_dialog_title">"Yandex.Navigator 
+can suggest faster routes"</string>
+    <string name="intro_cards_voice_title">Navigator listens</string>
+    <string name="intro_carparks_balloon_payment_button_description">"Tap price labels to pay
+for a spot, and track your
+remaining parking time."</string>
+    <string name="intro_carparks_balloon_payment_button_title">Pay for parking with ease</string>
+    <string name="intro_carparks_events_video_description">See parking spots that other people have recently left.</string>
+    <string name="intro_carparks_events_video_title" />
+    <string name="intro_carparks_prices_description">Find out how much a certain spot costs before you park</string>
+    <string name="intro_carparks_prices_title">Check prices in advance</string>
+    <string name="intro_carparks_route_button_description">"Tap the parking icon on
+the map screen to get a
+route to nearby spots"</string>
+    <string name="intro_carparks_route_button_title">Find parking with ease</string>
+    <string name="intro_clickable_parking_description">"Tap on the price
+to see detailed information
+about the parking space"</string>
+    <string name="intro_clickable_parking_title">Parking conditions</string>
+    <string name="intro_disconnect_myspin_description">"Disconnect your phone from car and read the prompts.
+Do not attempt in transit."</string>
+    <string name="intro_disconnect_myspin_title">Set up your Navigator</string>
+    <string name="intro_easter_egg_2_sound_scheme_description">"Get on your way
+with Fedor Bondarchuk.
+His new film 'Attraction'
+is out on January 26."</string>
+    <string name="intro_easter_egg_2_sound_scheme_title">Let a new voice guide you</string>
+    <string name="intro_easter_egg_sound_scheme_decline">No, thanks</string>
+    <string name="intro_easter_egg_sound_scheme_description">"Sports commentator Vasily Utkin 
+will guide you to your destination 
+and warn you about speed cameras in Russian."</string>
+    <string name="intro_easter_egg_sound_scheme_title">Sports commentator Vasily Utkin</string>
+    <string name="intro_easter_egg_sound_scheme_turn_on_button">Enable</string>
+    <string name="intro_ekaterinburg_region_screen_description">"8026 km, 65 cameras, 2059
+traffic lights, 3124 spaces
+and 121,682 new addresses"</string>
+    <string name="intro_ekaterinburg_region_screen_title">Yekaterinburg map updated</string>
+    <string name="intro_faster_route_description">"Get suggestions for faster routes as you're driving."</string>
+    <string name="intro_faster_route_title">Route updated</string>
+    <string name="intro_feedback_description">Reporting errors is easy with the new type of road alerts.</string>
+    <string name="intro_feedback_title">Fewer errors</string>
+    <string name="intro_got_it_button_title">OK</string>
+    <string name="intro_goto_settings_button_title" />
+    <string name="intro_hello_button_title">Next</string>
+    <string name="intro_hello_description">"Get your navigation going
+in just a few easy steps."</string>
+    <string name="intro_hello_title">Welcome to Yandex.Navigator</string>
+    <string name="intro_help_description">В меню появился раздел, который поможет разобраться в хитростях Навигатора.</string>
+    <string name="intro_help_title">Обучение и подсказки</string>
+    <string name="intro_install">Install</string>
+    <string name="intro_insurance_description">"Закажите звонок специалиста по ОСАГО – 
+и не придётся ехать в страховую"</string>
+    <string name="intro_insurance_title">Если нужен полис</string>
+    <string name="intro_krasnodar_region_screen_description">"5027 km, 155 cameras, 1238
+traffic lights, 2317 spaces
+and 178,070 new addresses"</string>
+    <string name="intro_krasnodar_region_screen_title">Krasnodar map updated</string>
+    <string name="intro_landrover_cursor_description">"Если надоело ездить со 
+стрелкой, её можно сменить 
+на Range Rover Velar."</string>
+    <string name="intro_landrover_cursor_title">Следуйте за Velar</string>
+    <string name="intro_landrover_game_1_button_title">Что надо делать?</string>
+    <string name="intro_landrover_game_1_description">"Выиграйте долгий 
+тест-драйв нового 
+Range Rover Velar"</string>
+    <string name="intro_landrover_game_1_title">Конкурс от Land Rover</string>
+    <string name="intro_landrover_game_2_button_title">И всё?</string>
+    <string name="intro_landrover_game_2_description">"Вы найдёте их в меню 
+Навигатора, в разделе 
+«Мои поездки»"</string>
+    <string name="intro_landrover_game_2_title">Делитесь своими поездками</string>
+    <string name="intro_landrover_game_3_button_title">Кто выиграет?</string>
+    <string name="intro_landrover_game_3_description">"Отмечайте группу Land Rover 
+и добавляйте хэштег 
+#VelarTime"</string>
+    <string name="intro_landrover_game_3_title">Не забудьте про метки</string>
+    <string name="intro_landrover_game_4_button_title">Хорошо</string>
+    <string name="intro_landrover_game_4_description">"Срок тест-драйва равен времени 
+всех поездок, опубликованных 
+участниками конкурса"</string>
+    <string name="intro_landrover_game_4_title">Победителя выберут случайно</string>
+    <string name="intro_landrover_game_5_button_title">Всё ясно</string>
+    <string name="intro_landrover_game_5_description">"Подробнее о правилах 
+читайте по &lt;a href=\"key:landrover\">ссылке&lt;/a>&lt;br>"</string>
+    <string name="intro_landrover_game_5_rules_title">Конкурс Velar Time</string>
+    <string name="intro_landrover_game_5_title">Информация о конкурсе</string>
+    <string name="intro_landrover_game_description">"Делитесь своими поездками 
+и получите Range Rover Velar 
+на долгий тест-драйв."</string>
+    <string name="intro_landrover_game_title">С хештегом #Velartime</string>
+    <string name="intro_landrover_weather_description">"Навигатор подскажет погоду, 
+а Range Rover Velar — 
+подходящий стиль вождения."</string>
+    <string name="intro_landrover_weather_title">Советы по погоде</string>
+    <string name="intro_lanes_description">"See which lane you need
+at major intersections."</string>
+    <string name="intro_lanes_title">Switch lanes with ease</string>
+    <string name="intro_license_agreement_button_title">Next</string>
+    <string name="intro_license_agreement_description">By tapping “Next” you accept the terms of &lt;a href=\"key:license\">License Agreement&lt;/a>, including the terms of &lt;a href=\"key:search\">License to use Yandex Search Engine&lt;/a>, and give your consent to the processing of personal data and use of cookies in accordance with the &lt;a href=\"key:privacy\">Privacy Policy&lt;/a>.&lt;br>&lt;br>YANDEX LLC (reg. N 1027700229193, Russia, 119021, Moscow, 16 Lva Tolstogo st.)</string>
+    <string name="intro_license_agreement_privacy_policy_title">Политика конфиденциальности</string>
+    <string name="intro_license_agreement_search_title">Лицензия на использование поисковой системы Яндекс</string>
+    <string name="intro_license_agreement_title">License Agreement</string>
+    <string name="intro_location_description">"Give access to your location
+to get the right directions."</string>
+    <string name="intro_location_title">Find out where you are</string>
+    <string name="intro_map_updated_description" />
+    <string name="intro_map_updated_title" />
+    <string name="intro_microphone_description">"Tell the app your address
+instead of typing it in."</string>
+    <string name="intro_microphone_title">Navigate with your voice</string>
+    <string name="intro_mts_1_action_button_title">Едем вместе!</string>
+    <string name="intro_mts_1_cancel_button_title">О подарке</string>
+    <string name="intro_mts_1_description">В Навигаторе появился голос Дмитрия Нагиева, да с подарочками от МТС!</string>
+    <string name="intro_mts_1_title">Здрав будь, путник!</string>
+    <string name="intro_mts_2_action_button_title">В путь дорогу</string>
+    <string name="intro_mts_2_description">Построим маршрут сказочный, как подарок от МТС</string>
+    <string name="intro_mts_2_title">Подключай и катайся!</string>
+    <string name="intro_next_button_title">Next</string>
+    <string name="intro_notifications_description">"Use notifications to receive
+routes from your computer."</string>
+    <string name="intro_notifications_title">Send routes to your phone</string>
+    <string name="intro_offline_routing_download_now" formatted="false">Стройте маршруты без интернета. Для этого скачайте карту, пока у вас хорошая связь. На карте — %s (%s).</string>
+    <string name="intro_offline_routing_enqueue_download" formatted="false">Стройте маршруты без интернета. Скачайте карту при следующем подключении к Wi-Fi. На карте — %s (%s).</string>
+    <string name="intro_offline_routing_text">Find places offline and get directions by downloading your city’s map in advance.</string>
+    <string name="intro_offline_routing_title">Offline search and routes</string>
+    <string name="intro_open">Open</string>
+    <string name="intro_parking_description">"See where you can park
+your car right in the app."</string>
+    <string name="intro_parking_layer_description" />
+    <string name="intro_parking_layer_title" />
+    <string name="intro_parking_route_description">"Get directions to nearby
+parking spots if there are
+none at your destination."</string>
+    <string name="intro_parking_route_title">Find a place to park</string>
+    <string name="intro_parking_title">Parking made easy</string>
+    <string name="intro_parking_video_confirmed_description">When you arrive at а destination, take this route to find nearby spaces.</string>
+    <string name="intro_parking_video_confirmed_title">Parking routes enabled</string>
+    <string name="intro_parking_video_denied_description">You can turn on parking routes at any moment in Settings.</string>
+    <string name="intro_parking_video_denied_title">Try them any time</string>
+    <string name="intro_parking_video_description_1">Finding a space can sometimes be difficult.</string>
+    <string name="intro_parking_video_description_2">You can’t see around corners, and you don’t want to cause a traffic jam.</string>
+    <string name="intro_parking_video_description_3">Yandex.Navigator will create a parking route for you.</string>
+    <string name="intro_parking_video_description_4">You will get a short route that will show you nearby parking spaces.</string>
+    <string name="intro_parking_video_title_1">Nowhere to park?</string>
+    <string name="intro_parking_video_title_2">Where to go?</string>
+    <string name="intro_parking_video_title_3">Find a spot to park</string>
+    <string name="intro_parking_video_title_4">Follow the parking route</string>
+    <string name="intro_pay_parking_description">"Pay for your parking spot
+directly in the app."</string>
+    <string name="intro_pay_parking_title">Park and pay</string>
+    <string name="intro_ride_share_description_1">Попутчик разделит с вами дорогу и расходы на бензин</string>
+    <string name="intro_ride_share_description_2">Когда вы строите длинные маршруты, приложение ищет тех, кому нужно в ту же сторону</string>
+    <string name="intro_ride_share_title_1">Экономьте на топливе</string>
+    <string name="intro_ride_share_title_2">Кому-то с вами по пути</string>
+    <string name="intro_rostov_na_donu_region_screen_description">"5128 km, 112 cameras, 1086
+traffic lights, 814 spaces
+and 214,353 new addresses"</string>
+    <string name="intro_rostov_na_donu_region_screen_title">Rostov-on-Don map updated</string>
+    <string name="intro_search_description">Единое приложение с новостями, погодой, поиском и другими сервисами Яндекса.</string>
+    <string name="intro_search_title">Яндекс на мобильном</string>
+    <string name="intro_search_widget_description">"See your travel time to home
+or work with a widget on
+your Today screen."</string>
+    <string name="intro_search_widget_title">Estimate your next journey</string>
+    <string name="intro_settings_sync_description">Keep your settings across all your devices — sign in with your Yandex account</string>
+    <string name="intro_settings_sync_title">Sync your settings</string>
+    <string name="intro_share_location_description">"Quickly tell others your
+location by sending a link
+from the map or a business."</string>
+    <string name="intro_share_location_title">Share your location</string>
+    <string name="intro_starwars_button_dark">Dark</string>
+    <string name="intro_starwars_button_light">Light</string>
+    <string name="intro_starwars_description">"Yoda and Darth Vader will
+now give you directions.
+What side will you join?"</string>
+    <string name="intro_starwars_title">Choose your side</string>
+    <string name="intro_starwars_welcome_description">"Meet the classic characters
+from the legendary
+Star Wars universe"</string>
+    <string name="intro_starwars_welcome_title">Before you see The Last Jedi</string>
+    <string name="intro_statistics_description">Look at a breakdown of your journeys in the new Statistics section</string>
+    <string name="intro_statistics_title">See your journey stats</string>
+    <string name="intro_tow_description">"Эвакуатор или мобильную
+автомастерскую теперь можно
+вызвать прямо из Навигатора."</string>
+    <string name="intro_tow_title">Помощь на дороге</string>
+    <string name="intro_traffic_lights_description">"Traffic lights reference is
+on the Navi Voice Guidance.
+Road directions are more clear"</string>
+    <string name="intro_traffic_lights_title">No more get lost on the road</string>
+    <string name="intro_transformers_cancel">Отмена</string>
+    <string name="intro_transformers_description">"Голос Оптимуса и стрелка Бамблби
+к премьере «Трансформеры:
+Последний рыцарь» 22 июня."</string>
+    <string name="intro_transformers_title">Трансформеры среди нас!</string>
+    <string name="intro_transformers_turn_on">Включить</string>
+    <string name="intro_tts_action_button_title">Включить</string>
+    <string name="intro_tts_cancel_button_title">Пропустить</string>
+    <string name="intro_tts_description">В Навигаторе появился новый голос — системный. Он подсказывает названия улиц, чтобы вы лучше ориентировались и узнавали город.</string>
+    <string name="intro_tts_title">Подскажем улицы</string>
+    <string name="intro_voice_activation_description">"Use voice
+activation to tell Yandex.Navigator your
+destination and the app
+will build your route."</string>
+    <string name="intro_voice_activation_title">“Hey Yandex”</string>
+    <string name="intro_whats_app_integration_description">To open Yandex Navi via WhatsApp location, do your device settings now</string>
+    <string name="intro_whats_app_integration_title">WhatsApp Integration</string>
+    <string name="intro_yandex_drive_description">В феврале в городе появятся машины с Навигатором. Пройти регистрацию можно уже сейчас.</string>
+    <string name="intro_yandex_drive_title">Драйв — каршеринг по-новому</string>
+    <string name="kb_suffix">KB</string>
+    <string name="kfc_pin_message">Заверни за сочной курочкой</string>
+    <string name="lang">en</string>
+    <string name="later">Later</string>
+    <string name="leader_invest_label">Лидер Инвест</string>
+    <string name="leader_invest_pin_message">Лидер Инвест – дома во всех районах Москвы. l-invest.ru</string>
+    <string name="leader_invest_query">Лидер Инвест</string>
+    <string name="mac_donalds_banner_message">«Десерт Спелая Вишня с бисквитом» в Макдоналдс®</string>
+    <string name="mac_donalds_label">Макдоналдс</string>
+    <string name="mac_donalds_pin_message">«Десерт Спелая Вишня с бисквитом» в Макдоналдс®</string>
+    <string name="mac_donalds_query">Макдоналдс</string>
+    <string name="main_faster_alternative_popup_button_no">Close</string>
+    <string name="main_faster_alternative_popup_button_yes">View</string>
+    <string name="main_faster_alternative_popup_message">Route found that is %s faster</string>
+    <string name="main_nearby_alternative_faster_text">faster</string>
+    <string name="main_nearby_alternative_same_time_text1">Same</string>
+    <string name="main_nearby_alternative_same_time_text2">time</string>
+    <string name="main_nearby_alternative_slower_text">longer</string>
+    <string name="main_offline_cache_popup_button_no">Close</string>
+    <string name="main_offline_cache_popup_button_yes">Download</string>
+    <string name="main_parking_route_popup_button_no">Not now</string>
+    <string name="main_parking_route_popup_button_yes">Yes</string>
+    <string name="main_parking_route_popup_message">Get a route to find parking spaces in this area?</string>
+    <string name="main_rate_route_button_no">No</string>
+    <string name="main_rate_route_button_yes">Yes</string>
+    <string name="main_rate_route_can_faster">Route was too slow</string>
+    <string name="main_rate_route_comment_cancel">Cancel</string>
+    <string name="main_rate_route_comment_send">Send</string>
+    <string name="main_rate_route_feedback_bad_gps">Bad GPS</string>
+    <string name="main_rate_route_feedback_barrier">Barrier gate</string>
+    <string name="main_rate_route_feedback_hard_manoeuvrs">Complicated route</string>
+    <string name="main_rate_route_feedback_jam">Traffic jam</string>
+    <string name="main_rate_route_feedback_no_thgfr">No entry sign</string>
+    <string name="main_rate_route_feedback_other">Other</string>
+    <string name="main_rate_route_feedback_send">Send</string>
+    <string name="main_rate_route_feedback_thanks">Thank you!</string>
+    <string name="main_rate_route_feedback_title">What was the problem?</string>
+    <string name="main_rate_route_feedback_toll_road">Toll road</string>
+    <string name="main_rate_route_feedback_write">Describe the problem</string>
+    <string name="main_rate_route_feedback_wrong_entrance">Wrong entrance</string>
+    <string name="main_rate_route_question">Was this route satisfactory?</string>
+    <string name="main_rate_route_thanks">Thank you and safe travels!</string>
+    <string name="main_ratings_details_body">"
+Please don't remove this information. It will help us solve your problem faster.
+%s"</string>
+    <string name="main_ratings_details_email">app-navigator@support.yandex.ru</string>
+    <string name="main_ratings_details_subject">What bothered you about the app?</string>
+    <string name="main_ratings_popup_ask_feedback">Want to tell us what you disliked?</string>
+    <string name="main_ratings_popup_ask_feedback_button_no">No</string>
+    <string name="main_ratings_popup_ask_feedback_button_yes">Yes</string>
+    <string name="main_ratings_popup_feedback">What bothered you about the app?</string>
+    <string name="main_ratings_popup_feedback_button_ads">Ads</string>
+    <string name="main_ratings_popup_feedback_button_audioguide">Voice guidance</string>
+    <string name="main_ratings_popup_feedback_button_jams">Traffic jams</string>
+    <string name="main_ratings_popup_feedback_button_maps">Map</string>
+    <string name="main_ratings_popup_feedback_button_route">Routes</string>
+    <string name="main_ratings_popup_feedback_button_search">Address search</string>
+    <string name="main_ratings_popup_feedback_button_send">Send</string>
+    <string name="main_ratings_popup_feedback_button_slow">App performance</string>
+    <string name="main_ratings_popup_feedback_button_ui">Interface</string>
+    <string name="main_ratings_popup_feedback_button_write">Write us a message</string>
+    <string name="main_ratings_popup_get_better">Thanks for the feedback!</string>
+    <string name="main_ratings_popup_like">Do you like Yandex.Navigator?</string>
+    <string name="main_ratings_popup_like_button_no">No</string>
+    <string name="main_ratings_popup_like_button_yes">Yes</string>
+    <string name="main_ratings_popup_rate_appstore">Rate this app in the App Store?</string>
+    <string name="main_ratings_popup_rate_google_play">Rate this app in Google Play?</string>
+    <string name="main_ratings_popup_rate_store_button_no">No</string>
+    <string name="main_ratings_popup_rate_store_button_yes">Yes</string>
+    <string name="main_ratings_popup_stars">Please rate Yandex.Navigator</string>
+    <string name="main_ratings_popup_thanks">Thank you and drive safely!</string>
+    <string name="main_ride_share_popup_button_no">Позже</string>
+    <string name="main_ride_share_popup_button_yes">Интересно</string>
+    <string name="main_ride_share_popup_message">Экономьте на топливе с попутчиком</string>
+    <string name="main_set_to_point_notification">Enter your destination</string>
+    <string name="main_voice_loading">Загрузка голоса</string>
+    <string name="mb_suffix">MB</string>
+    <string name="menu_about_build_format">Build %s</string>
+    <string name="menu_about_copyright">© 2012–2017 Yandex</string>
+    <string name="menu_about_license_agreement">License Agreement</string>
+    <string name="menu_about_privacy_policy">Privacy policy</string>
+    <string name="menu_about_title">About</string>
+    <string name="menu_about_version_format">Version %1$s released %2$s</string>
+    <string name="menu_about_yandex_title">Yandex Navigator</string>
+    <string name="menu_app_lang_default">By default</string>
+    <string name="menu_app_lang_en">English</string>
+    <string name="menu_app_lang_fr">French</string>
+    <string name="menu_app_lang_ru">Russian</string>
+    <string name="menu_app_lang_tr">Turkish</string>
+    <string name="menu_app_lang_uk">Ukrainian</string>
+    <string name="menu_bug_reports">Route navigation reports</string>
+    <string name="menu_bug_reports_description">View and send reports</string>
+    <string name="menu_bug_reports_notification_error">An error occurred</string>
+    <string name="menu_bug_reports_notification_ok">Report sent</string>
+    <string name="menu_bug_reports_notification_wait">Please wait while the report is being sent</string>
+    <string name="menu_bug_reports_report_from">from</string>
+    <string name="menu_bug_reports_report_marked">Errors are reported</string>
+    <string name="menu_bug_reports_report_title">Report</string>
+    <string name="menu_bug_reports_send_dialog_hint">Description (optional)</string>
+    <string name="menu_bug_reports_send_dialog_title">Send report</string>
+    <string name="menu_bug_reports_show_bug">Bug icon on map screen</string>
+    <string name="menu_carservice_screen_title">Поиск автосервиса</string>
+    <string name="menu_cursor_model_arrow">Default</string>
+    <string name="menu_cursor_model_invalid">Ошибочный</string>
+    <string name="menu_cursor_model_landrover_velar">Range Rover Velar</string>
+    <string name="menu_cursor_model_mts_sledge">Russian sled</string>
+    <string name="menu_cursor_model_starwars_dark">TIE Fighter</string>
+    <string name="menu_cursor_model_starwars_light">X-Wing</string>
+    <string name="menu_cursor_model_transformer">Transformers</string>
+    <string name="menu_developer_search_screen_title">Вакансии</string>
+    <string name="menu_event_annotation_type_voice">Voice warning</string>
+    <string name="menu_feedback_screen_title">Feedback</string>
+    <string name="menu_fines_screen_title">GIBDD Traffic Police Fines</string>
+    <string name="menu_help_screen_title">Обучение и подсказки</string>
+    <string name="menu_insurance_screen_title">OSAGO insurance</string>
+    <string name="menu_introscreen_road_assistance_button_title">Call Now</string>
+    <string name="menu_introscreen_road_assistance_description">"Stuck on the road? 
+Let road assistance come to you 
+With Allianz trust and security"</string>
+    <string name="menu_introscreen_road_assistance_title">Road assistance from Allianz!</string>
+    <string name="menu_night_mode_auto">Auto</string>
+    <string name="menu_night_mode_off">Off</string>
+    <string name="menu_night_mode_on">On</string>
+    <string name="menu_raster_mode_map">Map</string>
+    <string name="menu_raster_mode_sat">Satellite</string>
+    <string name="menu_road_event_type_accident">Accident</string>
+    <string name="menu_road_event_type_chat">Conversations</string>
+    <string name="menu_road_event_type_closed">Road closure</string>
+    <string name="menu_road_event_type_danger">Dangerous roads</string>
+    <string name="menu_road_event_type_drawbridge">Raised bridges</string>
+    <string name="menu_road_event_type_feedback">Feedback</string>
+    <string name="menu_road_event_type_lane_camera">Lane control camera</string>
+    <string name="menu_road_event_type_other">Other</string>
+    <string name="menu_road_event_type_police">User-added camera</string>
+    <string name="menu_road_event_type_police_post">Traffic police post</string>
+    <string name="menu_road_event_type_reconstruction">Road works</string>
+    <string name="menu_road_event_type_speed_camera">Speed camera</string>
+    <string name="menu_screen_title">Menu</string>
+    <string name="menu_setting_bluetooth_car_detection_footer">"Enable this to be informed about road situations and get directions upon connecting to a vehicle's Bluetooth device."</string>
+    <string name="menu_setting_downloads_section">Downloads</string>
+    <string name="menu_setting_instruments_section">Tools</string>
+    <string name="menu_setting_login_button">Sign in</string>
+    <string name="menu_setting_login_description">Sign in to save your settings, search history, and combine your favorites on all your devices</string>
+    <string name="menu_setting_map_section">Map</string>
+    <string name="menu_setting_notifications_section">Notifications</string>
+    <string name="menu_setting_screen_title">Settings</string>
+    <string name="menu_setting_sound_section">Sound</string>
+    <string name="menu_setting_sound_section_footer">By saying “Hey, Yandex”, you can use voice-activated control without clicking the “microphone” button. If you have music playing, then voice activation will be disabled.</string>
+    <string name="menu_setting_sync_section_footer">Disable sync if you want these settings to be saved for this device only</string>
+    <string name="menu_setting_warnings_section">Warnings</string>
+    <string name="menu_settings_3d">3D mode</string>
+    <string name="menu_settings_about">About</string>
+    <string name="menu_settings_ads">Ads</string>
+    <string name="menu_settings_another_app">More Yandex apps</string>
+    <string name="menu_settings_app_language">Language</string>
+    <string name="menu_settings_app_language_confirmation">Yandex.Navigator must restart to change language.</string>
+    <string name="menu_settings_audioguide">Voice guidance</string>
+    <string name="menu_settings_autozoom">Autozoom</string>
+    <string name="menu_settings_avoid_tolls">Avoid toll roads</string>
+    <string name="menu_settings_background_freedrive_enabled">When driving freely</string>
+    <string name="menu_settings_background_guidance_enabled">When following routes</string>
+    <string name="menu_settings_background_guidance_footer">Enable this function to have Navigator give you directions even when the app is hidden</string>
+    <string name="menu_settings_background_guidance_header">Background navigation</string>
+    <string name="menu_settings_bluetooth_car_detection">Bluetooth connections</string>
+    <string name="menu_settings_button_range_rover_velar">Тест-драйв Range Rover Velar</string>
+    <string name="menu_settings_carpark_detection_enabled">Available space</string>
+    <string name="menu_settings_carpark_detection_footer">Turn this on and other Yandex.Navigator users will see when your parking spot becomes available</string>
+    <string name="menu_settings_carparks_events_enabled">Show parking spaces</string>
+    <string name="menu_settings_carparks_events_footer">Turn this on to see available parking spaces that other users have recently left.</string>
+    <string name="menu_settings_carservice">Поиск автосервиса</string>
+    <string name="menu_settings_carservice_subtitle">Совместный проект с auto.ru</string>
+    <string name="menu_settings_cursor_models">Cursor</string>
+    <string name="menu_settings_developer_search">Вакансии</string>
+    <string name="menu_settings_developer_search_subtitle">Приходите делать Навигатор</string>
+    <string name="menu_settings_download_maps">Download maps</string>
+    <string name="menu_settings_download_maps_subtitle">To get directions offline</string>
+    <string name="menu_settings_event_warnings">Warning settings</string>
+    <string name="menu_settings_feedback">Обратная связь</string>
+    <string name="menu_settings_feedback_subtitle">Improve map and navigation quality</string>
+    <string name="menu_settings_fines">GIBDD Traffic Police Fines</string>
+    <string name="menu_settings_fines_subtitle">View and pay fines</string>
+    <string name="menu_settings_help">Обучение и подсказки</string>
+    <string name="menu_settings_help_subtitle">Как пользоваться Навигатором</string>
+    <string name="menu_settings_insurance">OSAGO insurance</string>
+    <string name="menu_settings_insurance_subtitle">Set up third party liability insurance</string>
+    <string name="menu_settings_logout">Sign out</string>
+    <string name="menu_settings_map_mode">Map type</string>
+    <string name="menu_settings_misc">Other settings</string>
+    <string name="menu_settings_misc_route_ad">Advertising in routes</string>
+    <string name="menu_settings_misc_search_ad">Advertising in search</string>
+    <string name="menu_settings_misc_searchlib_enabled">Search in notifications bar</string>
+    <string name="menu_settings_misc_voice_ad">Audio advertising</string>
+    <string name="menu_settings_mts">Дмитрий Нагиев погоняет</string>
+    <string name="menu_settings_mts_subtitle">Новый голос в Навигаторе</string>
+    <string name="menu_settings_night_mode">Night mode</string>
+    <string name="menu_settings_north_always_top">North is always up</string>
+    <string name="menu_settings_offline_cache_autoupdate_enabled">Automatic</string>
+    <string name="menu_settings_offline_cache_wifi_only">Only over Wi-Fi</string>
+    <string name="menu_settings_parking">Parking</string>
+    <string name="menu_settings_parking_routes_enabled">Look for parking</string>
+    <string name="menu_settings_parking_routes_footer">Navigator will offer to help you find a nearby parking spot</string>
+    <string name="menu_settings_parking_subtitle">Payment settings</string>
+    <string name="menu_settings_push_topics">Push notification types</string>
+    <string name="menu_settings_push_topics_error">Error. Please try again later.</string>
+    <string name="menu_settings_reports">Route navigation reports</string>
+    <string name="menu_settings_ride_share">Попутка</string>
+    <string name="menu_settings_ride_share_footer">Включите, чтобы попутчики видели вас</string>
+    <string name="menu_settings_ride_share_subtitle">Настройки и описание</string>
+    <string name="menu_settings_road_assistance">Road Assistance</string>
+    <string name="menu_settings_road_assistance_subtitle">Get road assistance by phone</string>
+    <string name="menu_settings_road_events">Road alerts</string>
+    <string name="menu_settings_road_events_display_on_map">Display on map</string>
+    <string name="menu_settings_road_events_sound_alert">Give audio warnings</string>
+    <string name="menu_settings_road_events_sound_alert_footer">To receive audio warnings, enable them to be displayed on the map: Menu → Settigns → Display on map.</string>
+    <string name="menu_settings_saved_data">Saved data</string>
+    <string name="menu_settings_screen_no_legal_speed_limit">Unable to download speed limits. Please check your internet connection and location settings.</string>
+    <string name="menu_settings_show_favorites">Show favorites</string>
+    <string name="menu_settings_sound_language">Language</string>
+    <string name="menu_settings_sound_scheme">Voice</string>
+    <string name="menu_settings_speed_limits_description">Select a speed limit and Navigator will warn you when you exceed it or approach speed cameras.</string>
+    <string name="menu_settings_speed_limits_explanation">Warnings about speeding and speed cameras</string>
+    <string name="menu_settings_speed_limits_title">Speeding</string>
+    <string name="menu_settings_speed_limits_warning">Attention! There are fines for speeding.</string>
+    <string name="menu_settings_speeding_annotation">Warn about speeding</string>
+    <string name="menu_settings_speedlimit_warnings">Speed limit settings</string>
+    <string name="menu_settings_starwars">Сила путь укажет</string>
+    <string name="menu_settings_starwars_subtitle">«Звёздные Войны» в Навигаторе</string>
+    <string name="menu_settings_statistics">My trips</string>
+    <string name="menu_settings_statistics_subtitle">Statistics for your journeys</string>
+    <string name="menu_settings_sync_enabled">Sync settings</string>
+    <string name="menu_settings_tow_call">Roadside assistance</string>
+    <string name="menu_settings_tow_call_subtitle">Tow truck, repairs</string>
+    <string name="menu_settings_update_maps">Map update</string>
+    <string name="menu_settings_voice_activation">Voice Activation</string>
+    <string name="menu_settings_weather">Погода на карте</string>
+    <string name="menu_sound_allowed_speed_threshold">Allow to exceed limit by</string>
+    <string name="menu_sound_allowed_speed_threshold_dialog_message">Warn about speed cameras if exceeding speed limit by more than</string>
+    <string name="menu_sound_allowed_speed_threshold_measurement">km/h</string>
+    <string name="menu_sound_dictor">Voice</string>
+    <string name="menu_sound_events_accident">Accident</string>
+    <string name="menu_sound_events_annotations">Alert type</string>
+    <string name="menu_sound_events_cameras_details">Navigator warns you about cameras if you exceed the speed limit by 15 km/h.</string>
+    <string name="menu_sound_events_disabled_annotations">No</string>
+    <string name="menu_sound_events_lane_camera">Lane control camera</string>
+    <string name="menu_sound_events_reason_disabled">To receive specific alerts, allow Navigator to display them on the map. You can do this in the app settings under «Menu» — «Road alerts».</string>
+    <string name="menu_sound_events_reconstruction">Road works</string>
+    <string name="menu_sound_events_sound_annotations">Audio warning</string>
+    <string name="menu_sound_events_sound_annotations_short">Sound</string>
+    <string name="menu_sound_events_speed_camera">Speed camera</string>
+    <string name="menu_sound_events_user_camera">User-added camera</string>
+    <string name="menu_sound_events_voice_annotations">Voice warning</string>
+    <string name="menu_sound_events_voice_annotations_short">Voice</string>
+    <string name="menu_sound_lang_app">By default</string>
+    <string name="menu_sound_lang_en">English</string>
+    <string name="menu_sound_lang_fr">French</string>
+    <string name="menu_sound_lang_it">Italian</string>
+    <string name="menu_sound_lang_ru">Russian</string>
+    <string name="menu_sound_lang_tr">Turkish</string>
+    <string name="menu_sound_lang_uk">Ukrainian</string>
+    <string name="menu_sound_route_annotations">Voice guidance</string>
+    <string name="menu_sound_scheme_basta">Баста</string>
+    <string name="menu_sound_scheme_downloading">Загрузка</string>
+    <string name="menu_sound_scheme_easter_egg">Уткин</string>
+    <string name="menu_sound_scheme_easter_egg_2">Фёдор Бондарчук</string>
+    <string name="menu_sound_scheme_female_en">Kate</string>
+    <string name="menu_sound_scheme_female_fr">Christine</string>
+    <string name="menu_sound_scheme_female_it">Белла</string>
+    <string name="menu_sound_scheme_female_ru">Оксана</string>
+    <string name="menu_sound_scheme_female_tr">Ece</string>
+    <string name="menu_sound_scheme_female_uk">Оксана</string>
+    <string name="menu_sound_scheme_kharlamov">Гарик «Бульдог» Харламов</string>
+    <string name="menu_sound_scheme_male_en">Dima</string>
+    <string name="menu_sound_scheme_male_fr">Jean</string>
+    <string name="menu_sound_scheme_male_ru">Дима</string>
+    <string name="menu_sound_scheme_male_tr">Mert</string>
+    <string name="menu_sound_scheme_male_uk">Олександр</string>
+    <string name="menu_sound_scheme_nagiev">Дмитрий Нагиев</string>
+    <string name="menu_sound_scheme_optimus">Optimus Prime</string>
+    <string name="menu_sound_scheme_remove_confirmation">Вы действительно хотите удалить голос?</string>
+    <string name="menu_sound_scheme_starwars_dark">Дарт Вейдер</string>
+    <string name="menu_sound_scheme_starwars_light">Магистр Йода</string>
+    <string name="menu_sound_scheme_tts">Synthesized speech</string>
+    <string name="menu_sound_scheme_tts_en">Synthesized speech</string>
+    <string name="menu_sound_scheme_tts_fr">Parole synthétisée</string>
+    <string name="menu_sound_scheme_tts_it">Voce sintesi vocale</string>
+    <string name="menu_sound_scheme_tts_ru">Системный голос</string>
+    <string name="menu_sound_scheme_tts_tr">Sentezlenmiş konuşma</string>
+    <string name="menu_sound_scheme_tts_uk">Системний голос</string>
+    <string name="menu_sound_schemes_available">Доступные для загрузки</string>
+    <string name="menu_sound_schemes_downloaded">Загруженные</string>
+    <string name="menu_sound_speeding_annotations">Speeding warning</string>
+    <string name="menu_starwars_screen_title">Сила путь укажет</string>
+    <string name="menu_statistics_screen_title">My trips</string>
+    <string name="menu_storage_clear_maps">Clear cache</string>
+    <string name="menu_storage_clear_maps_confirmation">Would you like to clear your map cache? All the maps saved on your device will be deleted.</string>
+    <string name="menu_storage_clear_please_wait">Please wait...</string>
+    <string name="menu_storage_clear_route_history">Clear route history</string>
+    <string name="menu_storage_clear_route_history_confirmation">Clear route history?</string>
+    <string name="menu_storage_clear_search_history">Clear search history</string>
+    <string name="menu_storage_clear_search_history_confirmation">Clear search history?</string>
+    <string name="menu_storage_move_cache">Folder for maps</string>
+    <string name="menu_tow_call_screen_title">Roadside assistance</string>
+    <string name="menu_waiting">Please wait</string>
+    <string name="mkb_banner_message">Потребительские кредиты от 16%</string>
+    <string name="mkb_label">МКБ</string>
+    <string name="mkb_pin_message">Потребительские кредиты от 16%</string>
+    <string name="mkb_query">МКБ</string>
+    <string name="mos_tsvet_torg_label">Мосцветторг</string>
+    <string name="mos_tsvet_torg_pin_message">Особенные букеты достойные Ваших близких!</string>
+    <string name="moy_chay_pin_message">Скидка 10% для водителей Яндекс.Навигатора!</string>
+    <string name="no">No</string>
+    <string name="not_possible_to_save_maps">"Not possible to save maps and favorites. Free up space in your device's memory."</string>
+    <string name="notification_action_search">Search</string>
+    <string name="notification_action_settings">Settings</string>
+    <string name="notification_home_destination_template" formatted="false">%s to home, %s</string>
+    <string name="notification_lets_go_message">Go!</string>
+    <string name="notification_location_services_off_message">Turn on your GPS location. Navigator cannot plot a route for you otherwise.</string>
+    <string name="notification_traffic_easy">roads are clear</string>
+    <string name="notification_traffic_hard">traffic is serious</string>
+    <string name="notification_traffic_medium">traffic is heavy</string>
+    <string name="notification_traffic_nightmare">walking is quicker</string>
+    <string name="notification_work_destination_template" formatted="false">%s to work, %s</string>
+    <string name="ok">OK</string>
+    <string name="operator_free_traffic_alert">You’re about to leave Yandex.Navigator. Standard data charges may apply. Do you want to proceed?</string>
+    <string name="operator_free_traffic_allert">Вы собираетесь покинуть Яндекс.Навигатор. Может взиматься оплата интернет трафика согласно вашему тарифному плану. Продолжить?</string>
+    <string name="ostin_pin_message">Подарки к Новому году в O’STIN. Поздравь близких!</string>
+    <string name="perekrestok_pin_message">Есть всё, что любите!</string>
+    <string name="pik_label">Новостройки</string>
+    <string name="pik_pin_message">Квартиры от 4,7 млн руб. Тел. +7(800)222-96-84</string>
+    <string name="pref_voice_activation">Voice Activation</string>
+    <string name="pref_voice_activation_summary">By saying \"Yandex\", you can use voice-activated control without clicking the \"microphone\" button. If you have music playing, then voice-activation will be disabled.</string>
+    <string name="prefs_3d">3D mode</string>
+    <string name="prefs_3d_summary">Shows a 3D version of the map close up</string>
+    <string name="prefs_about">About</string>
+    <string name="prefs_auth_wait_dialog">Please wait...</string>
+    <string name="prefs_autozoom">Autozoom</string>
+    <string name="prefs_autozoom_summary">Automatically adjusts the map scale depending on your speed</string>
+    <string name="prefs_back_button_label">Back</string>
+    <string name="prefs_cache_destination">Where are maps saved?</string>
+    <string name="prefs_cache_destination_all">Select folder</string>
+    <string name="prefs_cache_destination_phone">Device</string>
+    <string name="prefs_cache_destination_sdcard">Memory card</string>
+    <string name="prefs_cache_move_cache">Folder for maps</string>
+    <string name="prefs_cache_move_cancel">Cancel</string>
+    <string name="prefs_cache_move_completed">Maps moved</string>
+    <string name="prefs_cache_move_do_move">Move</string>
+    <string name="prefs_cache_move_error">Error moving maps</string>
+    <string name="prefs_cache_move_progress">Moving maps...</string>
+    <string name="prefs_cache_update">Map update</string>
+    <string name="prefs_cache_update_auto">Automatic</string>
+    <string name="prefs_cache_update_wifi">Only over Wi-Fi</string>
+    <string name="prefs_cat_data">Saved data</string>
+    <string name="prefs_clear_cache">Clear cache</string>
+    <string name="prefs_clear_cache_in_progress">Please wait...</string>
+    <string name="prefs_clear_cache_summary">Deletes your saved maps</string>
+    <string name="prefs_clear_cache_wait">Please wait...</string>
+    <string name="prefs_clear_cache_warn">"Would you like to clear your map cache?
+All the maps saved on your device will be deleted."</string>
+    <string name="prefs_clear_history">Clear history</string>
+    <string name="prefs_clear_history_summary">Deletes all trip and favorite route information</string>
+    <string name="prefs_clear_history_warn">"Would you like to clear your history?
+All your trip and favorite route information will be deleted."</string>
+    <string name="prefs_clear_points_history">Clear route history</string>
+    <string name="prefs_clear_points_history_summary">"Clears the current user's route history"</string>
+    <string name="prefs_clear_points_history_warn">Clear route history?</string>
+    <string name="prefs_clear_search_history">Clear search history</string>
+    <string name="prefs_clear_search_history_summary">Clears all search query data</string>
+    <string name="prefs_clear_search_history_warn">Clear search history?</string>
+    <string name="prefs_download_cache">Download maps</string>
+    <string name="prefs_download_cache_summary">Helps save on data charges and speeds up app performance</string>
+    <string name="prefs_map_sat">Satellite</string>
+    <string name="prefs_map_scheme">Plan</string>
+    <string name="prefs_menu">Menu</string>
+    <string name="prefs_next_button_label">Next</string>
+    <string name="prefs_night_mode">Night mode</string>
+    <string name="prefs_night_mode_summary">Makes the map easier to view at night</string>
+    <string name="prefs_north_always_top">North is always up</string>
+    <string name="prefs_north_always_top_summary">Stop map rotation and lock north pointing up</string>
+    <string name="prefs_osago_order">OSAGO insurance</string>
+    <string name="prefs_osago_order_description">Set up third party liability insurance</string>
+    <string name="prefs_road_fines">GIBDD Traffic Police Fines</string>
+    <string name="prefs_road_fines_summary">View and pay fines</string>
+    <string name="prefs_settings">Settings</string>
+    <string name="prefs_settings_summary">Enable night mode in 3D</string>
+    <string name="prefs_sign_in">Sign in</string>
+    <string name="prefs_sign_out">Sign out</string>
+    <string name="prefs_skip_button_label">Skip</string>
+    <string name="prefs_sound_easter_egg">Vasily Utkin</string>
+    <string name="prefs_sound_easter_egg_summary">Sports commentator</string>
+    <string name="prefs_sound_lang">Language</string>
+    <string name="prefs_sound_scheme">Voice</string>
+    <string name="prefs_sound_scheme_summary">Choose who you would like to give you directions</string>
+    <string name="prefs_sound_settings">Sound</string>
+    <string name="prefs_sound_settings_summary">Sound settings</string>
+    <string name="prefs_user_poi_flags">Road alerts</string>
+    <string name="prefs_user_poi_flags_summary">Select alert categories</string>
+    <string name="prefs_user_pois_menu_dialog">Road alerts</string>
+    <string name="prefs_why_sign_in">Why sign in?</string>
+    <string name="proceed">Continue</string>
+    <string name="push_topic_features_title">New features</string>
+    <string name="push_topic_org_reviews_title">Reviews of places you visited</string>
+    <string name="push_topic_parking_title">Parking</string>
+    <string name="push_topic_promo_title">Promotional offers</string>
+    <string name="push_topic_roadblock_title">Roadblocks</string>
+    <string name="push_topic_route_state_title">Route status</string>
+    <string name="push_topic_traffic_title">Traffic congestion</string>
+    <string name="push_topic_voiceover_title">New voices</string>
+    <string name="pyaterochka_banner_message">Пятёрочка — самые близкие низкие цены</string>
+    <string name="pyaterochka_label">Pyaterochka</string>
+    <string name="pyaterochka_pin_message">Пятёрочка — самые близкие низкие цены</string>
+    <string name="pyaterochka_query">Пятёрочка</string>
+    <string name="retry">Retry</string>
+    <string name="ros_neft_banner_message">Получи 100₽ баллами за каждую 1000₽!</string>
+    <string name="ros_neft_label">Роснефть</string>
+    <string name="ros_neft_pin_message">Получи 100₽ баллами за каждую 1000₽, выиграй супер-приз!</string>
+    <string name="ros_neft_query">Роснефть</string>
+    <string name="saved_maps_were_deleted">Due to a glitch in the app, your saved maps were deleted. Download them again by going to Settings. If this problem persists, please restart your device or reinstall the app.</string>
+    <string name="search_category_advertisement_subtitle">Реклама</string>
+    <string name="search_hint">For example, cafe</string>
+    <string name="search_history_error_network_message">Error syncing \"History\". Please check that you are connected to the internet.</string>
+    <string name="search_label">Search</string>
+    <string name="search_line">Search line</string>
+    <string name="search_line_clear">Clear</string>
+    <string name="search_line_hint">Search by city</string>
+    <string name="search_results_error_server">Search error</string>
+    <string name="shell_banner_message">Paycell ile aracından inmeden güvenle öde!</string>
+    <string name="shell_label">Shell</string>
+    <string name="shell_partners_pin_message">Shell’de 5TL harca, %50 indirimli sinema bileti kazan!</string>
+    <string name="shell_pin_message">Club Smart’la 200TL üzerine 20TL otogaz hediye!</string>
+    <string name="shell_query">Shell</string>
+    <string name="speed_limit_feedback_button">Send</string>
+    <string name="speed_limit_feedback_description">What is the speed limit for this stretch of road?</string>
+    <string name="speed_limit_feedback_thank_user">Thanks!</string>
+    <string name="speed_limit_feedback_title">Correct the speed limit</string>
+    <string name="sunlight_pin_message">Ювелирные подарки для самых любимых! SALE до -70%</string>
+    <string name="test">Тест</string>
+    <string name="tnk_banner_message">Получи 100₽ баллами за каждую 1000₽!</string>
+    <string name="tnk_label">ТНК</string>
+    <string name="tnk_pin_message">Получи 100₽ баллами за каждую 1000₽, выиграй супер-приз!</string>
+    <string name="tnk_query">ТНК</string>
+    <string name="up_kvartal_pin_message" />
+    <string name="user_training_build_route_message">"Get directions to an address,
+business or place name. 
+To go there again, find it
+in your History"</string>
+    <string name="user_training_carparks_button_long_tap_message">Tap and hold to get parking directions</string>
+    <string name="user_training_carparks_route_button_message">Get parking directions</string>
+    <string name="user_training_create_chat_button_message">"Tap the road event icon 
+to start a conversation"</string>
+    <string name="user_training_create_chat_tab_message">"Choose your category, 
+type in your message 
+then tap \"Set\""</string>
+    <string name="user_training_go_button_message">"Select a route 
+and tap \"Go!\""</string>
+    <string name="user_training_offline_route_message">"You are offline. Route will update
+with congestion information
+when you reconnect."</string>
+    <string name="user_training_please_use_chat_message">"See what other drivers 
+are saying, and leave 
+comments of your own"</string>
+    <string name="user_training_search_input_message">"Enter an address 
+or place name"</string>
+    <string name="user_training_voice_button_message">"Tap the microphone icon 
+to enter addresses with your voice"</string>
+    <string name="user_training_voice_input_message">"Say \"Go\" 
+and tell Navigator the address 
+or the place you need to go"</string>
+    <string name="vc_cancel_button">Cancel</string>
+    <string name="vc_error_network">Network error</string>
+    <string name="vc_error_no_voice_heard">Your voice could not be detected</string>
+    <string name="vc_error_recording">Recording error</string>
+    <string name="vc_error_recording_permission">Audio-recording not permitted</string>
+    <string name="vc_error_remote">Server error</string>
+    <string name="vc_error_service_not_available">Voice navigation not available</string>
+    <string name="vc_error_unknown">Unknown error</string>
+    <string name="vc_error_unrecognized_phrase">"Sorry, I didn't understand"</string>
+    <string name="vc_help_add_poi">Traffic accident in left lane</string>
+    <string name="vc_help_description">Navigator understands voice commands. Here is a list of things you can ask it:</string>
+    <string name="vc_help_gas_station">Closest gas station</string>
+    <string name="vc_help_route_to">Route to 16 Lev Tolstoy Street</string>
+    <string name="vc_help_route_to_home">Go home</string>
+    <string name="vc_help_show_jams">Show traffic jams</string>
+    <string name="vc_help_title">VOICE COMMANDS</string>
+    <string name="vc_help_try_button">Try it</string>
+    <string name="vc_multiple_results_description">WHAT DID YOU HAVE IN MIND?</string>
+    <string name="vc_ready_button">Done</string>
+    <string name="vc_restart_button">Retry</string>
+    <string name="vc_retry_button">Try again</string>
+    <string name="vc_status_recording_finish">Processing...</string>
+    <string name="vc_status_recording_start">Ready!</string>
+    <string name="vc_status_wait">Please wait...</string>
+    <string name="victoria_label">Виктория</string>
+    <string name="victoria_pin_message">Скидки до -50% на 1500 товаров. Каждый день.</string>
+    <string name="victoria_query">Виктория</string>
+    <string name="vuso_banner_message">ОСАГО от партнера Яндекс. Скидки до 30%</string>
+    <string name="vuso_label">СК ВУСО</string>
+    <string name="vuso_pin_message">Нужно ОСАГО? Оформи тут за 5 минут!</string>
+    <string name="vuso_query">СК ВУСО</string>
+    <string name="yandex_taxi_banner_message">Дайте машине отдохнуть, вызовите Я.Такси</string>
+    <string name="yes">Yes</string>
+    <string name="am_phone_music">Phone number</string>
+    <string name="am_signin_music">Sign in</string>
+    <string name="am_signup_music">"Sign up and listen to
+favorite music on any device"</string>
+    <string name="am_vk_music">VKontakte</string>
+    <string name="am_yandex_music">Yandex</string>
+    <string name="reg_phonish_header_music">Welcome</string>
+    <string name="searchlib_newysk_gui_moment">One second...</string>
+    <string name="searchlib_newysk_gui_speak">Speak...</string>
+    <string name="searchlib_widget_preferences_element_time_on_route_title">Route</string>
+    <string name="searchlib_ysk_gui_connection_error">Connection error</string>
+    <string name="searchlib_ysk_gui_no_match">No match</string>
+    <string name="searchlib_ysk_gui_retry">Retry</string>
+    <string name="ysk_gui_cant_use_microphone">The application does not have permission to use the microphone</string>
+    <string name="ysk_gui_connection_error">Connection error</string>
+    <string name="ysk_gui_default_error">Unable to initialize voice search.</string>
+    <string name="ysk_gui_moment">One second...</string>
+    <string name="ysk_gui_no_voice_detected">No voice detected</string>
+    <string name="ysk_gui_retry">Retry</string>
+    <string name="ysk_gui_speak">Speak...</string>
+    <string name="ysk_gui_specify_your_inquiry">Did you mean:</string>
+    <string name="searchlib_search_url">https://yandex.ru/touchsearch</string>
+    <string name="searchlib_splashscreen_bar_preview_rates_first_format">,2</string>
+    <string name="searchlib_splashscreen_bar_preview_rates_first_value">64.15</string>
+    <string name="searchlib_splashscreen_bar_preview_rates_second_format">,2</string>
+    <string name="searchlib_splashscreen_bar_preview_rates_second_value">72.94</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="abort">Отмена</string>
+    <string name="about">О сервисе</string>
+    <string name="about_hitcher">О попутчике</string>
+    <string name="action_settings">Settings</string>
+    <string name="add">Добавить</string>
+    <string name="add_car_continue">ПРОДОЛЖИТЬ</string>
+    <string name="add_document">Добавить документы</string>
+    <string name="add_subscribe">Добавить</string>
+    <string name="add_subscribe_error">Не сработало. Попробуйте еще раз.</string>
+    <string name="adfox.return.button">Вернуться</string>
+    <string name="alert_delete_document_message">Вы уверены?</string>
+    <string name="alert_delete_document_title">Удалить документ</string>
+    <string name="alert_error_message">Не получилось пополнить парковочный счет. Попробуйте еще.</string>
+    <string name="alert_error_title">Что-то пошло не так</string>
+    <string name="alert_ok">ЗАКРЫТЬ</string>
+    <string name="am_fb_music">Facebook</string>
+    <string name="am_gp_music">Google</string>
+    <string name="am_phone_code_ua">+38</string>
+    <string name="am_pre_phone_music">+7</string>
+    <string name="animation_utils_disabling_status" />
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="asset_statements">[{ \"include\": \"https://passport.yandex.ru/.well-known/assetlinks.json\" }]</string>
+    <string name="auth_btn">Войти</string>
+    <string name="authlib_build_number">999</string>
+    <string name="authlib_version_name">default_name</string>
+    <string name="authlib_version_number">1</string>
+    <string name="auto_name">Имя авто</string>
+    <string name="auto_number">Авто %s</string>
+    <string name="avto_and_drivers">Авто и водители</string>
+    <string name="back_to_map">ВЕРНУТЬСЯ К КАРТЕ</string>
+    <string name="bank_card">Банковская карта</string>
+    <string name="bank_card_add">Новая карта</string>
+    <string name="bank_card_mask">\#### #### #### #### ###</string>
+    <string name="bank_card_pay_saved">оплата привязанной банковской картой</string>
+    <string name="bank_payment_error">Платеж не прошел. Проверьте данные карты и попробуйте снова.</string>
+    <string name="bind_card">Сохранить карту</string>
+    <string name="bind_phone_fail">Не удалось привязать телефон</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="but_pay">Заплатить</string>
+    <string name="button_get_sms_password">ПОЛУЧИТЬ ПАРОЛЬ</string>
+    <string name="button_prolongation_cancel">ОТМЕНИТЬ</string>
+    <string name="button_prolongation_proceed">ЗАПЛАТИТЬ</string>
+    <string name="car.edit.error">Не удалось сохранить изменения</string>
+    <string name="car_delete_cancel">Отмена</string>
+    <string name="car_delete_ok">Удалить</string>
+    <string name="car_remove_message">Автомобиль пропадет из списка, но его история парковок сохранится.</string>
+    <string name="car_remove_title">Точно удалить?</string>
+    <string name="card_new_text">Новая карта</string>
+    <string name="card_without_3ds">Чтобы карта сохранилась, у нее должна быть защита 3-D Secure. Обратитесь в ваш банк.</string>
+    <string name="card_without_3ds_title">Платеж прошел, но карта не сохранена</string>
+    <string name="cert_lic_prefix">СТС</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="check_phone">Проверьте номер телефона</string>
+    <string name="check_sms_password">Введите код из СМС</string>
+    <string name="choose_photo_action_text">Выберите фото</string>
+    <string name="com.crashlytics.android.build_id">f18971fe-be68-4e05-a20d-1725dffada08</string>
+    <string name="comission_message">с учетом комиссии</string>
+    <string name="comission_message_payment">с учетом комиссии %s</string>
+    <string name="common">общие условия сервиса</string>
+    <string name="component_buttons">Buttons</string>
+    <string name="component_colors">Colors</string>
+    <string name="component_edittexts">EditTexts</string>
+    <string name="component_toolbar">Toolbar</string>
+    <string name="continue_process">Продолжить</string>
+    <string name="correct_time_to_settings">К настройкам</string>
+    <string name="country_code">+7</string>
+    <string name="credit_card">Банковская карта</string>
+    <string name="default.auto.message">Этот автомобиль будет выбран по умолчанию, но вы сможете его поменять вручную.</string>
+    <string name="default.auto.title">Вы уверены?</string>
+    <string name="default.negative.button">ОТМЕНА</string>
+    <string name="default.positive.button">ДА</string>
+    <string name="default_auto">Выбран по умолчанию</string>
+    <string name="default_auto_message_deselect">В следующей парковочной сессии автомобиль нужно будет выбрать вручную.</string>
+    <string name="default_auto_title_deselect">Вы уверены?</string>
+    <string name="default_negative_button_deselect">Отмена</string>
+    <string name="default_payment_method">Способ оплаты по умолчанию</string>
+    <string name="default_positive_button_deselect">Да</string>
+    <string name="dialog_fine_number_format">Номер должен содержать 20–25 цифр</string>
+    <string name="dialog_incorrect_fine_number">НЕВЕРНЫЙ НОМЕР ПОСТАНОВЛЕНИЯ (УИН)</string>
+    <string name="discount_end" formatted="false">Скидка %s%% — еще %s</string>
+    <string name="discount_end_short" formatted="false">Скидка %s%% — еще %s</string>
+    <string name="discount_end_today">Последний день скидки %s%%</string>
+    <string name="document_title_auto">Название авто</string>
+    <string name="document_title_driver">Имя водителя</string>
+    <string name="documents">Документы</string>
+    <string name="double_format">%.2f ₽</string>
+    <string name="driver">"Выписан на ВУ
+%s"</string>
+    <string name="driver_finished_order">Поездка завершена — ваш маршрут перестроен</string>
+    <string name="driver_lic_prefix">ВУ</string>
+    <string name="drivers_and_vehicles">Авто и водители</string>
+    <string name="driving_licence_length_incorrect">Номер водительского удостоверения введен не полностью</string>
+    <string name="edit">Редактировать</string>
+    <string name="edit_title">Редактировать</string>
+    <string name="empty" />
+    <string name="empty_history">Пока пусто</string>
+    <string name="empty_history_desc">"Здесь будет история парковок,
+за которые вы заплатили
+в приложения"</string>
+    <string name="empty_screen_result_title">Ничего не найдено</string>
+    <string name="empty_screen_result_toolbar_title">Уведомления</string>
+    <string name="emty_screen_result_message">Рядом нет парковок, которые можно оплатить через приложение</string>
+    <string name="error.phone_check_failed">Не удалось проверить наличие телефона</string>
+    <string name="error.wallet_check_failed">Не удалось проверить наличие кошелька</string>
+    <string name="error_base">Не удалось получить данные</string>
+    <string name="error_both_input_empty">Заполните хотя бы один из документов</string>
+    <string name="error_card_cvv">Неправильно заполнено поле CVC</string>
+    <string name="error_cardnum">Неправильно заполнено поле Номер карты</string>
+    <string name="error_date">Неправильно заполнено поле Дата</string>
+    <string name="error_driver_name_input_empty">Имя не может быть пустым</string>
+    <string name="error_driving_license_incorrect_format">Проверьте номер водительского удостоверения</string>
+    <string name="error_input_empty">Название не может быть пустым</string>
+    <string name="error_insufficient_funds">Недостаточно средств на счете</string>
+    <string name="error_license_already_added">Данное водительское удостоверение уже используется в документе %s</string>
+    <string name="error_payments_info">Ошибка получения информации об оплате</string>
+    <string name="error_phone_check">Ошибка проверки номера телефона</string>
+    <string name="error_phone_empty">номер телефона</string>
+    <string name="error_registartion_cert_incorrect_format">Проверьте номер свидетельства о регистрации ТС</string>
+    <string name="error_registation_cert_already_added">Данное свидетельство о регистрации ТС уже используется в документе %s</string>
+    <string name="error_request_leave">Невозможно вернуть средства за парковку</string>
+    <string name="error_sms_code">код подтверждения</string>
+    <string name="error_time_park">Ошибка времени парковки</string>
+    <string name="error_wallet_check">Ошибка проверки кошелька Яндекс.Деньги</string>
+    <string name="error_wallet_register">Ошибка регистрации кошелька Яндекс.Деньги</string>
+    <string name="eula">условия сервиса</string>
+    <string name="expire_period_error">Укажите корректный период действия карты</string>
+    <string name="facebook_app_id">442788275902986</string>
+    <string name="feedback_back">Вернуться</string>
+    <string name="feedback_close_order_question">Завершить поездку?</string>
+    <string name="field_carnumber">номер транспортного средства</string>
+    <string name="find">Продолжить</string>
+    <string name="find_fines_by_number">Постановление</string>
+    <string name="fine.pay_until_short">Заплатить до %s</string>
+    <string name="fine_bill_date">Дата постановления %1$s</string>
+    <string name="fine_bill_id">Постановление № %1$s</string>
+    <string name="fine_button_pay">Заплатить</string>
+    <string name="fine_detail">Штраф</string>
+    <string name="fine_help_title">Постановление</string>
+    <string name="fine_number">Номер постановления</string>
+    <string name="fines.add_driver">Водитель</string>
+    <string name="fines.auto_add">Авто</string>
+    <string name="fines.bankcard">Банковская карта</string>
+    <string name="fines.no_internet.message">Возвращайтесь, когда снова будете онлайн.</string>
+    <string name="fines.no_internet.title">Проблемы с интернетом</string>
+    <string name="fines.pay.until">Штраф нужно заплатить до %s</string>
+    <string name="fines.sberbank.online">Сбербанк Онлайн</string>
+    <string name="fines.yandex">Яндекса</string>
+    <string name="fines.yandex.money">Яндекс.Деньги</string>
+    <string name="fines.yandexMoney">Яндекс.Денег</string>
+    <string name="fines_help">Другое название — УИН. Состоит из 20 или 25 цифр.</string>
+    <string name="fines_list_button_text">Закрыть</string>
+    <string name="fines_list_desc">Если видите штрафы, которые уже заплатили, база ГИБДД еще не обновилась.</string>
+    <string name="fines_list_empty_subtitle_text">"Если появятся, приложение
+даст знать."</string>
+    <string name="fines_list_empty_text">"Штрафов нет,
+отлично!"</string>
+    <string name="fines_max_document_limit_message">Мы не сохранили документы из поиска, потому что у вас их 10, удалите лишние</string>
+    <string name="fines_max_document_limit_title">Документы не были добавлены</string>
+    <string name="fines_sdk_eula">условия сервиса</string>
+    <string name="fines_sdk_offerta_text">Нажимая “Продолжить”, вы принимаете %s</string>
+    <string name="finish_order">Завершить поездку</string>
+    <string name="first_run_title">Штрафы ГИБДД</string>
+    <string name="fragment.history.detail.auto">%s</string>
+    <string name="fragment.history.detail.duration.hours" formatted="false">%s ч %s мин на парковке</string>
+    <string name="fragment.history.detail.from_balance">Списано с парковочного счета</string>
+    <string name="fragment.history.detail.parking.name">Парковка № %s</string>
+    <string name="fragment.park.history.list.title">История</string>
+    <string name="fragment.park.select.parknumber">Номер парковки</string>
+    <string name="fragment.park.select.title">Парковка</string>
+    <string name="fragment.ya.money">Яндекс.Деньги</string>
+    <string name="fragment_car_add_car_category_hint">КАТЕГОРИЯ</string>
+    <string name="fragment_car_add_car_number_hint">НОМЕР АВТОМОБИЛЯ</string>
+    <string name="fragment_car_add_car_title_hint">НАЗВАНИЕ</string>
+    <string name="fragment_car_add_phone_hint">ТЕЛЕФОН</string>
+    <string name="fragment_car_add_sms_password_hint">ПАРОЛЬ ИЗ СМС</string>
+    <string name="fragment_car_add_title">Авто для парковки</string>
+    <string name="fragment_car_list_title">Автомобили</string>
+    <string name="fragment_checkout_card_new_input_cvv_hint">CVC</string>
+    <string name="fragment_checkout_card_new_input_date_hint">ММ/ГГ</string>
+    <string name="fragment_checkout_card_new_input_number_hint">НОМЕР</string>
+    <string name="fragment_checkout_card_new_input_title">БАНКОВСКАЯ КАРТА</string>
+    <string name="fragment_credit_card_list_title">Банковская карта</string>
+    <string name="fragment_leave_alert_footer_format">С парковки нужно уехать до %s</string>
+    <string name="fragment_leave_alert_message">На парковочный счет вернулось</string>
+    <string name="fragment_leave_alert_title">Можно уезжать</string>
+    <string name="fragment_list_payment_type_title">Способ оплаты</string>
+    <string name="fragment_park_leave_button_prolong">ПРОДЛИТЬ</string>
+    <string name="fragment_park_leave_button_text">УЕХАТЬ</string>
+    <string name="fragment_park_leave_hours">Часы</string>
+    <string name="fragment_park_leave_leave">ЗАКРЫТЬ</string>
+    <string name="fragment_park_leave_time_delimeter">:</string>
+    <string name="fragment_park_leave_time_title_minutes">Минуты</string>
+    <string name="fragment_park_leave_title">Осталось</string>
+    <string name="fragment_park_select">Оплата парковки</string>
+    <string name="fragment_park_select_button_next_text">ПРОДОЛЖИТЬ</string>
+    <string name="fragment_park_select_message">Автомобиль</string>
+    <string name="fragment_park_time_button_ok_text">ПРОДОЛЖИТЬ</string>
+    <string name="fragment_park_time_delimeter">:</string>
+    <string name="fragment_park_time_message">На сколько паркуете?</string>
+    <string name="fragment_park_time_message_pay">к оплате без учета комиссии</string>
+    <string name="fragment_park_time_message_prolongation">На сколько продлить?</string>
+    <string name="fragment_park_time_select_title_format">Парковка № %s</string>
+    <string name="fragment_park_time_text_hours">Часы</string>
+    <string name="fragment_park_time_text_minutes">Минуты</string>
+    <string name="free">БЕСПЛАТНО</string>
+    <string name="gcm_defaultSenderId">912082446587</string>
+    <string name="general_fragment_edit_profile">Редактировать профиль</string>
+    <string name="general_fragment_open_debug_text">Открыть окно дебага</string>
+    <string name="general_fragment_poputka_in_navi">Попутка в навигаторе</string>
+    <string name="general_fragment_status_message_call_support">Связаться с поддержкой</string>
+    <string name="general_fragment_status_message_processing_title">Спасибо, что всё заполнили: вам придет уведомление, когда всё будет проверено</string>
+    <string name="gibdd_server_error">ГИС ГМП не отвечает</string>
+    <string name="help_car_cert">Это номер свидетельства о регистрации транспортного средства.</string>
+    <string name="help_drive_lic">Это номер водительского удостоверения, по-другому — права.</string>
+    <string name="history.city.parking">Парковка № %s</string>
+    <string name="history.detail.cost.rouble">%s ₽</string>
+    <string name="history.parking.detail.title">Детали парковки</string>
+    <string name="history_days">С %s,</string>
+    <string name="history_days_format">%1$s до %2$s, %3$s</string>
+    <string name="history_detail_moscow_time">"(время московское)
+%s"</string>
+    <string name="history_single_day">%s</string>
+    <string name="history_single_day_format">с %1$s до %2$s</string>
+    <string name="history_year_days">%1$d, с %2$s,</string>
+    <string name="history_year_days_format">%1$s до %2$s, %3$s</string>
+    <string name="history_year_single_day">%1$d, %2$s</string>
+    <string name="history_year_single_day_format">с %1$s до %2$s</string>
+    <string name="hitcher">Попутчик</string>
+    <string name="hitcher_canceled_order">Попутчик отменил поездку — ваш маршрут перестроен</string>
+    <string name="hitcher_finished_order">Попутчик завершил поездку - ваш маршрут перестроен.</string>
+    <string name="hitcher_name_template">Попутчик %s</string>
+    <string name="hour">ч</string>
+    <string name="incorrect_sms_password">Неправильный код подтверждения</string>
+    <string name="incorrect_time_message">Чтобы вы могли проверить штрафы, в телефоне должно быть точное время. Установите его в настройках.</string>
+    <string name="incorrect_time_title">Поменяйте время в телефоне</string>
+    <string name="incorrectdriverlicense">Введен некорректный номер документа</string>
+    <string name="invalid_auto_number">Неправильный номер авто</string>
+    <string name="invalid_token">Необходимо повторно авторизоваться</string>
+    <string name="invalidregistrationcertificate">Введен некорректный номер документа</string>
+    <string name="kilometer">км</string>
+    <string name="koaparticle">Статья:</string>
+    <string name="last_update_time">"Обновлено %1$s в %2$s
+Потяните, чтобы обновить еще"</string>
+    <string name="leave.alert.cancel">Отмена</string>
+    <string name="leave.alert.confirm">Поехали</string>
+    <string name="leave.alert.message">После подтверждения нужно уехать с парковки в течение 5 минут.</string>
+    <string name="leave.alert.title">Точно уезжаем?</string>
+    <string name="limit_message">Это максимум. Чтобы добавить ВУ или СТС, надо что-то удалить.</string>
+    <string name="limit_title">У вас уже 10 документов</string>
+    <string name="link" formatted="false">Нажимая кнопку “Продолжить”, я принимаю %s и %s, разрешаю обрабатывать свои данные по правилам %s и %s, подключаю %s на свой телефон</string>
+    <string name="list_car_button_add">Новый автомобиль</string>
+    <string name="list_car_header">ВЫБЕРИТЕ АВТО ДЛЯ ПАРКОВКИ</string>
+    <string name="list_driver">ВОДИТЕЛИ</string>
+    <string name="list_license">АВТО</string>
+    <string name="message_error_parking_session_timeout">Время парковки истекло</string>
+    <string name="meter">м</string>
+    <string name="minute">мин</string>
+    <string name="mobile_balance">Баланс мобильного</string>
+    <string name="my_cars_item">Автомобили</string>
+    <string name="my_fines">Мои штрафы</string>
+    <string name="my_vehicles">Автомобили</string>
+    <string name="need_to_confirm_sms">SMS</string>
+    <string name="new_bank_card">Банковская карта</string>
+    <string name="no_fine_found_message">Либо его уже заплатили, либо в номере постановления есть опечатка.</string>
+    <string name="no_fine_found_title">Такого штрафа нет</string>
+    <string name="no_fines">Штрафов нет</string>
+    <string name="no_internet">Отсутствует подключение к Интернету</string>
+    <string name="no_network_error">Нет сети</string>
+    <string name="notif_push">Push</string>
+    <string name="notif_sms">Смс</string>
+    <string name="notification_hitcher_cancel_order">Попутчик отменил поездку</string>
+    <string name="notification_moderation_banned_text">Пожалуйста, свяжитесь с нами</string>
+    <string name="notification_moderation_banned_title">Вы заблокированы</string>
+    <string name="notification_moderation_check_data">Проверьте правильность введенных данных</string>
+    <string name="notification_moderation_rejected">Вы не прошли проверку</string>
+    <string name="notification_offer_price_template">Подвезти за %s₽</string>
+    <string name="notification_poputka">Попутка</string>
+    <string name="notification_route_rebuilt">Ваш маршрут перестроен</string>
+    <string name="notifications">УВЕДОМЛЕНИЯ О ШТРАФАХ</string>
+    <string name="notify_by_sms">Смс-уведомления</string>
+    <string name="offerta_address">https://money.yandex.ru/page?id=528674</string>
+    <string name="offerta_text">Нажимая “Продолжить”, вы принимаете %s</string>
+    <string name="only_email">Только эл. письма</string>
+    <string name="open_settings">Перейти в настройки</string>
+    <string name="order_decline_text">Отказаться</string>
+    <string name="order_info_overlay_menu_call_text">Позвонить</string>
+    <string name="order_info_overlay_menu_info_text">О поездке</string>
+    <string name="order_info_overlay_menu_location_text">Как доехать до попутчика?</string>
+    <string name="order_info_overlay_menu_rate_text">Оценить</string>
+    <string name="order_info_screen_accept_offer">Взять попутчика</string>
+    <string name="order_info_screen_diff_kilometers_template" formatted="false">+%.1f %s</string>
+    <string name="order_info_screen_diff_meters_template" formatted="false">+%.0f %s</string>
+    <string name="order_info_without_off_route">Без ухода с маршрута</string>
+    <string name="order_info_without_off_time">Без потери времени</string>
+    <string name="order_offer_accept_error">Возникла ошибка, проблемы с доступом к интернету</string>
+    <string name="order_offer_hitcher_was_found">Найден попутчик</string>
+    <string name="order_offer_template" formatted="false">%s, подвезти за %s₽</string>
+    <string name="overlay_permission_app_settings_screen_text">Для работы с Попуткой выберите в настройках «Показывать поверх других окон»</string>
+    <string name="overlay_permission_screen_text">Для работы с Попуткой включите в настройках «Разрешить показывать поверх других окон»</string>
+    <string name="park_account">Парковочный счет</string>
+    <string name="park_leave_message_format">"Парковка оплачена до
+%s (московское время)"</string>
+    <string name="park_number">Парковка № %s</string>
+    <string name="park_picker_prefix">№</string>
+    <string name="parking_balance">Парковочный счет</string>
+    <string name="parking_history_item">История</string>
+    <string name="parking_lib_pay">ЗАПЛАТИТЬ</string>
+    <string name="parking_sdk_support">Обратиться в поддержку</string>
+    <string name="parking_time_end">Время парковки закончилось</string>
+    <string name="passInSMS">пароли в смс</string>
+    <string name="password_sms">ПАРОЛЬ ИЗ СМС</string>
+    <string name="password_toggle_content_description">Toggle password visibility</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="pay">Заплатить</string>
+    <string name="pay_by_fine_number">Заплатить по постановлению</string>
+    <string name="pay_by_number">Заплатить по постановлению</string>
+    <string name="pay_fine">Оплата</string>
+    <string name="payment.header.auto">Авто %s</string>
+    <string name="payment.yandex.money.balance">"Баланс счета
+%s"</string>
+    <string name="payment_bank_card">Банковская карта</string>
+    <string name="payment_card_new_cvv_hint">CVC</string>
+    <string name="payment_card_new_number_hint">НОМЕР</string>
+    <string name="payment_card_new_title">БАНКОВСКАЯ КАРТА</string>
+    <string name="payment_commission_text">с учетом комиссии 1% (мин. 30 ₽)</string>
+    <string name="payment_list_error_text">Здесь не хватает денег</string>
+    <string name="payment_methods_title">Способы оплаты</string>
+    <string name="payment_sber_mail_hint">Эл.почта</string>
+    <string name="payment_sbol">Сбербанк Онлайн</string>
+    <string name="payment_success">Платеж прошел</string>
+    <string name="payment_title_mobile">Баланс мобильного</string>
+    <string name="payment_type">Способы оплаты</string>
+    <string name="payment_user_name_text">ФИО плательщика</string>
+    <string name="payment_ya_money">Яндекс.Деньги</string>
+    <string name="phone">ТЕЛЕФОН</string>
+    <string name="phone_confirm">Подтверждение телефона</string>
+    <string name="price_template">%s ₽</string>
+    <string name="process_payment">Пополняем парковочный счет</string>
+    <string name="promo_registration_notification_body">Нажмите, чтобы зарегистрироваться и начать пользоваться «Попуткой»</string>
+    <string name="promo_registration_notification_title">Регистрация в «Попутке»</string>
+    <string name="promo_registration_register">Зарегистрироваться</string>
+    <string name="promo_registration_remind_later">Напомнить позже</string>
+    <string name="push_and_emails">Пуш и письма</string>
+    <string name="rebuild_route">Перестроить маршрут</string>
+    <string name="registration_cert_length_incorrect">Номер свидетельства о регистрации ТС введен не полностью</string>
+    <string name="remove.from.history">УДАЛИТЬ ИЗ ИСТОРИИ</string>
+    <string name="repeat">Повторить</string>
+    <string name="request_sms_password">Получить пароль</string>
+    <string name="result_error_subtitle">Деньги остались на счету. Попробуйте еще раз.</string>
+    <string name="result_error_title">Не получилось</string>
+    <string name="result_ok_subtitle">Квитанция об оплате придет на вашу электронную почту.</string>
+    <string name="result_ok_title">Вы заплатили штраф</string>
+    <string name="result_sms_subtitle">Ответьте на смс, котороя отправлена на ваш номер</string>
+    <string name="result_sms_title">Платеж нужно потвердить</string>
+    <string name="result_wallet_ok_subtitle">Квитанция — в истории кошелька на Яндексе.</string>
+    <string name="retry_later">Попробуйте еще раз или вернитесь позже.</string>
+    <string name="return_pay">ВЕРНУТЬСЯ</string>
+    <string name="rules_title">Условия сервиса</string>
+    <string name="save">Сохранить</string>
+    <string name="searchlib_adv_suggest_url">https://yandex.ru/suggest/suggest-endings</string>
+    <string name="searchlib_build_date">2017-11-13 11:59:19</string>
+    <string name="searchlib_build_number">4076</string>
+    <string name="searchlib_examples_url">https://yandex.ru/suggest-search-lib-examples</string>
+    <string name="searchlib_informers_url">https://mobile.yandex.net/search/assistant</string>
+    <string name="searchlib_launch_activity_task_affinity">ru.yandex.searchlib.launch_affinity</string>
+    <string name="searchlib_news_url">https://news.yandex.ru</string>
+    <string name="searchlib_rates_currency_mask">%1$.1f</string>
+    <string name="searchlib_search_url_lbs">https://api.lbs.mobile.maps.yandex.net/getlocation</string>
+    <string name="searchlib_server_url">https://searchlib.yandex.net</string>
+    <string name="searchlib_splashscreen_bar_and_widget_opt_in_head">@string/searchlib_splashscreen_opt_in_head</string>
+    <string name="searchlib_splashscreen_bar_and_widget_opt_out_description">@string/searchlib_splashscreen_bar_and_widget_opt_in_description</string>
+    <string name="searchlib_splashscreen_bar_and_widget_opt_out_head">@string/searchlib_splashscreen_bar_and_widget_opt_in_head</string>
+    <string name="searchlib_splashscreen_bar_preview_rates_first_currency">USD</string>
+    <string name="searchlib_splashscreen_bar_preview_rates_first_trend">DOWNWARD</string>
+    <string name="searchlib_splashscreen_bar_preview_rates_second_currency">EUR</string>
+    <string name="searchlib_splashscreen_bar_preview_rates_second_trend">UPWARD</string>
+    <string name="searchlib_splashscreen_bar_preview_traffic_color">green</string>
+    <string name="searchlib_splashscreen_bar_preview_traffic_description" />
+    <string name="searchlib_splashscreen_bar_preview_weather_description" />
+    <string name="searchlib_splashscreen_opt_out_description">@string/searchlib_splashscreen_opt_in_description</string>
+    <string name="searchlib_splashscreen_opt_out_head">@string/searchlib_splashscreen_opt_in_head</string>
+    <string name="searchlib_splashscreen_opt_out_settings_btn_positive">@string/searchlib_splashscreen_opt_out_btn_positive</string>
+    <string name="searchlib_splashscreen_opt_out_settings_head">@string/searchlib_splashscreen_opt_in_head</string>
+    <string name="searchlib_splashscreen_widget_opt_in_head">@string/searchlib_splashscreen_opt_in_head</string>
+    <string name="searchlib_splashscreen_widget_opt_out_description">@string/searchlib_splashscreen_widget_opt_in_description</string>
+    <string name="searchlib_splashscreen_widget_opt_out_head">@string/searchlib_splashscreen_widget_opt_in_head</string>
+    <string name="searchlib_suggest_url">https://mobile.yandex.net/search/suggest</string>
+    <string name="searchlib_trends_url">https://yastroka.yandex.net/trends</string>
+    <string name="searchlib_version_name">4.97</string>
+    <string name="searchlib_version_number">497</string>
+    <string name="searchlib_weather_temperature_mask">%1$+d°</string>
+    <string name="searchlib_weather_temperature_zero">0°</string>
+    <string name="searchlib_widget_date_format_en">EE, MMM d</string>
+    <string name="searchlib_widget_date_format_ru">EE, d MMM</string>
+    <string name="searchlib_widget_news_default_url">https://news.yandex.ru</string>
+    <string name="searchlib_widget_news_url">@string/searchlib_news_url</string>
+    <string name="searchlib_widget_preferences_screen_preference_transparency_value_format">%1$d%%</string>
+    <string name="searchlib_widget_rates_eur_default_url">https://news.yandex.ru/quotes/23.html</string>
+    <string name="searchlib_widget_rates_usd_default_url">https://news.yandex.ru/quotes/1.html</string>
+    <string name="searchlib_widget_task_affinity">ru.yandex.searchlib.widget.ext</string>
+    <string name="searchlib_widget_time_on_route_add_points">+</string>
+    <string name="searchlib_widget_time_on_route_long">%1$d:%2$02d</string>
+    <string name="searchlib_widget_traffic_default_url">https://yandex.ru/maps/?l=map,trf</string>
+    <string name="searchlib_widget_weather_default_url">https://yandex.ru/pogoda</string>
+    <string name="second">с</string>
+    <string name="service_freeday_caption">Сегодня платить не нужно</string>
+    <string name="service_freeday_text">"Все парковки работают бесплатно
+по воскресеньям и праздничным дням."</string>
+    <string name="service_inactive_caption">Заплатить не получится</string>
+    <string name="service_inactive_text">"В приложении идут работы.
+Скорее всего, это ненадолго"</string>
+    <string name="set_as_default_auto">Назначить по умолчанию</string>
+    <string name="settings">Настройки</string>
+    <string name="settings.title">Настройки парковок</string>
+    <string name="snackbar_error_field_format">Не заполнено поле %s</string>
+    <string name="subscribe_add_car">Номер СТС</string>
+    <string name="subscribe_add_check">Проверить штрафы</string>
+    <string name="subscribe_add_drive_licence">Номер ВУ</string>
+    <string name="subscribe_button_check_text">Проверить штрафы</string>
+    <string name="subscribe_button_delete_text">Удалить</string>
+    <string name="subscribe_car_cert">СТС</string>
+    <string name="subscribe_car_hint_text">Номер СТС</string>
+    <string name="subscribe_driver_license">ВУ</string>
+    <string name="subscribe_licence_hint">Водительское удостоверение</string>
+    <string name="subscribe_licence_hint_uppercase">Номер ВУ</string>
+    <string name="subscribe_text">Папина тачка</string>
+    <string name="subscribes_list_title">Штрафы ГИБДД</string>
+    <string name="suppler_name">Получатель платежа:</string>
+    <string name="support">Обратиться в поддержку</string>
+    <string name="support_body">"Я делаю следующее:
+
+1.
+2.
+3.
+
+Происходит вот что:
+
+
+Я ожидаю:
+
+
+==========
+Пожалуйста, не удаляйте эту информацию
+==========
+ParkingSDK Version: %1$s
+Device: %2$s %3$s
+Android: %4$s
+Auto: %5$s
+Alert: title: %6$s
+message: %7$s
+action: %8$s
+Error: %9$s
+UUID: %10$s
+"</string>
+    <string name="support_body_short">"Я делаю следующее:
+
+1.
+2.
+3.
+
+Происходит вот что:
+
+
+Я ожидаю:
+
+
+==========
+Пожалуйста, не удаляйте эту информацию
+==========
+ParkingSDK Version: %1$s
+Device: %2$s %3$s
+Android: %4$s
+Auto: %5$s
+UUID: %6$s
+"</string>
+    <string name="support_email_address">poputka@support.yandex.ru</string>
+    <string name="support_email_subject">Обращение в службу поддержки</string>
+    <string name="support_meta_data_template" formatted="false">"
+
+
+-----
+%s
+Устройство: %s
+ОС: %s
+ Версия приложения: %s
+ Версия библиотеки: %s"</string>
+    <string name="support_subject">Уведомление о проблеме</string>
+    <string name="time_fix_cancel">Отмена</string>
+    <string name="title_auth">Вход</string>
+    <string name="try_to">Попробовать</string>
+    <string name="uikit_yandex_logo_fe">@drawable/ui_kit_logo_fe_ru</string>
+    <string name="un_auth_later">ПОЗЖЕ</string>
+    <string name="un_auth_login">ВОЙТИ</string>
+    <string name="un_auth_motivation">"Мы будем сообщать о новых штрафах,
+а вы — успевать платить их со скидкой 50%"</string>
+    <string name="un_auth_title">Войдите под логином для Яндекса</string>
+    <string name="unable_to_find_email_client">Не установлено приложение для отправки e-mail</string>
+    <string name="unable_to_register">Не удалось зарегистрировать кошелек</string>
+    <string name="unable_to_request_sms">Не удалось запросить код подтверждения</string>
+    <string name="unable_to_yandex_money_auth">Не удалось авторизоваться в Яндекс.Деньги</string>
+    <string name="unauth_bank_card_payments">условия платежей</string>
+    <string name="unauth_bank_card_rules">условия сервиса</string>
+    <string name="unauth_docs_added">Документы сохранены</string>
+    <string name="unauth_link" formatted="false">Нажимая кнопку, вы принимаете %s и %s.</string>
+    <string name="unauth_message">"Чтобы платить еще быстрее и получать
+уведомления о новых штрафах, войдите
+под своим логином для Яндекса."</string>
+    <string name="unauth_payments">условия платежей</string>
+    <string name="unauth_rules">условия сервиса</string>
+    <string name="unknown_car">не указан</string>
+    <string name="unknown_payment_process">Неизвестный способ оплаты</string>
+    <string name="unknown_uuid">нет данных</string>
+    <string name="update_later">Попробуйте еще раз или вернитесь позже</string>
+    <string name="v7_preference_off">OFF</string>
+    <string name="v7_preference_on">ON</string>
+    <string name="vehicle_number_incorrect">Неправильный номер авто</string>
+    <string name="venicle">"Выписан на СТС
+%s"</string>
+    <string name="wait_parking_balance">Пополняем парковочный счет</string>
+    <string name="wait_start_park_session">Ждем начала парковочной сессии</string>
+    <string name="wait_start_park_session_no_dep">Ждем начала парковочной сессии</string>
+    <string name="wallet">Яндекс.Деньги</string>
+    <string name="wallet_and_cards">Кошелек и привязанные карты</string>
+    <string name="wallet_cancel">Как-нибудь потом</string>
+    <string name="wallet_create">Создать кошелек</string>
+    <string name="wallet_created_description">Когда будете платить в следующий раз, приложение сохранит данные карты.</string>
+    <string name="wallet_created_header">Кошелек готов</string>
+    <string name="wallet_created_ok">Отлично</string>
+    <string name="wallet_created_title" />
+    <string name="wallet_motivation">Чтобы в следующий раз карта сохранилась, создайте кошелек на Яндексе.</string>
+    <string name="web_view_load_error">Отсутствует подключение к Интернету. Пожалуйста, проверьте соединение и попробуйте еще раз</string>
+    <string name="ya_money_payment_error">Платеж не прошел. Попробуйте еще раз.</string>
+    <string name="yandex_money">Яндекс.Деньги</string>
+    <string name="ypl_service_label_main">Worker Service</string>
+    <string name="ypl_service_label_sync">Sync Service</string>
+</resources>

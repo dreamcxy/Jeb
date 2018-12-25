@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="acq_btn_close">Close</string>
+    <string name="acq_cant_delete_card_message">Unable to remove the card, try again later</string>
+    <string name="acq_card_number_hint">PAN</string>
+    <string name="acq_change_card_label">Change</string>
+    <string name="acq_cvc_hint">CVC</string>
+    <string name="acq_default_error_message">Something went wrong</string>
+    <string name="acq_default_error_title">Error</string>
+    <string name="acq_delete_label">Delete</string>
+    <string name="acq_dialog_dismiss_btn">OK</string>
+    <string name="acq_email_hint">E-mail for receipt</string>
+    <string name="acq_enter_new_card_label">Add new card</string>
+    <string name="acq_exp_date_hint">MM/YY</string>
+    <string name="acq_invalid_card">Invalid card data</string>
+    <string name="acq_invalid_email">Invalid e-mail</string>
+    <string name="acq_money_label">Amount:</string>
+    <string name="acq_network_error_message">Probably the Internet connection is interrupted, try again later</string>
+    <string name="acq_new_card_label">New card</string>
+    <string name="acq_nfc_description">Bring the card to the back of the phone</string>
+    <string name="acq_nfc_need_enable">Turn on NFC to scan a card</string>
+    <string name="acq_nfc_scan_failed">Failed to scan a card</string>
+    <string name="acq_pay">Pay</string>
+    <string name="acq_progress_dialog_text">Payment…</string>
+    <string name="acq_saved_card_label">Linked card</string>
+    <string name="acq_screen_title">Payment</string>
+    <string name="app_name">Taxi Drive</string>
+    <string name="maxima_description">"MAXIMA TAXI
+Telemaxima Ltd
++7(495)374-00-47
+www.telemaxima.ru"</string>
+    <string name="about_url">url-адрес web-страницы с информацией о вашей организации, например: http://www.taxi-romashka.com/about.html</string>
+    <string name="action_reset_activation">Отменить активацию</string>
+    <string name="action_settings">Настройки</string>
+    <string name="activation_change_country_code">Сменить код страны</string>
+    <string name="activation_change_country_code_prompt">Введите телефонный код</string>
+    <string name="activation_change_country_code_title">Код страны</string>
+    <string name="activation_code__ready">@string/common_text_no</string>
+    <string name="activation_code__request_again">Запросить код заново</string>
+    <string name="activation_code_code_is_empty">Код не задан</string>
+    <string name="activation_code_is_empty">Код активации не задан</string>
+    <string name="activation_code_prompt">Код активации</string>
+    <string name="activation_code_ready">Готово</string>
+    <string name="activation_code_repeated">Код подтверждения отправлен повторно</string>
+    <string name="activation_complited">Активация завершена</string>
+    <string name="activation_complited_success">Активация успешно завершена</string>
+    <string name="activation_exec_error">Ошибка при активации. Код клиента не задан: %d</string>
+    <string name="activation_in_progress">Активация приложения...</string>
+    <string name="activation_name_is_empty">Имя не задано</string>
+    <string name="activation_paste_clipboard">Вставить из буфера</string>
+    <string name="activation_phone_is_empty">Телефонный номер не задан</string>
+    <string name="activation_phone_is_parial">Телефонный номер задан не полностью</string>
+    <string name="activation_phone_ready">@string/common_text_ready</string>
+    <string name="activation_phone_title">Введите номер телефона</string>
+    <string name="activation_pin_ready">@string/common_text_ready</string>
+    <string name="activation_pin_title">Введите код активации</string>
+    <string name="activation_prompt">Код активации</string>
+    <string name="active_order__cancel__confirmation">Отменить заказ?</string>
+    <string name="active_order__cancel__custom_reason__hint">Комментарий</string>
+    <string name="active_order__cancel__custom_reason__prompt">Сообщите причину отказа от заказа:</string>
+    <string name="active_order__cancel__error__server_not_set">Сервис временно недоступен</string>
+    <string name="active_order__cancel__in_process">Отмена заказа...</string>
+    <string name="active_order__cancel__loading">Загрузка...</string>
+    <string name="active_order__cancel__other_reason">Другое</string>
+    <string name="active_order__cancel__server_not_return_result_for_query__by_timeout">Связь со службой временно недоступна</string>
+    <string name="active_order__cancel__title">Укажите причину отмены</string>
+    <string name="active_order__caption__search_in_process">Поиск авто...</string>
+    <string name="active_order__command_main__cancel_order">Отменить заказ</string>
+    <string name="active_order__complited__title">Заказ завершён</string>
+    <string name="active_order__crew_info" formatted="false">"%s
+%s
+%s
+%s"</string>
+    <string name="active_order__edit_order">Изменить заказ</string>
+    <string name="active_order__edit_order__button__close">ЗАКРЫТЬ</string>
+    <string name="active_order__edit_order__button__edit">ИЗМЕНИТЬ</string>
+    <string name="active_order__edit_order__description">При редактировании заказа поиск авто приостанавливается</string>
+    <string name="active_order__edit_order__message_for_waiting_server_confirmation_edit_order">Приостанавливаем поиск авто...</string>
+    <string name="active_order__error__cancel_active_order">"Нельзя отменить текущий заказ.
+Пожалуйста, обратитесь к водителю."</string>
+    <string name="active_order__extra_message__car_wait">Машина подъехала</string>
+    <string name="active_order__extra_message__car_wait__close">ВЫХОЖУ</string>
+    <string name="active_order__extra_message__car_wait__prompt">Выходите</string>
+    <string name="active_order__near_cars__info">Рядом с вами %d свободных авто</string>
+    <string name="active_order__preliminary__delivery_arrive_left">до подачи</string>
+    <string name="active_order__preliminary__delivery_prefix">"подача
+на"</string>
+    <string name="active_order__search_auto__title">Поиск авто</string>
+    <string name="active_order__title">Мой заказ</string>
+    <string name="active_order__title__state">Состояние заказа</string>
+    <string name="addr_to_confirm__comment">Комментарий</string>
+    <string name="addr_to_confirm__entrance">Подъезд</string>
+    <string name="address_from_confirm">@string/common_text_yes</string>
+    <string name="address_from_extra_find">Найти</string>
+    <string name="address_from_is_empty">Не задан адрес подачи</string>
+    <string name="address_from_title">Где забрать?</string>
+    <string name="address_is_undefined">Адрес не определён</string>
+    <string name="address_search_hint">@string/address_select_find_address</string>
+    <string name="address_select_delete_address">Долгое нажатие удалит адрес из списка</string>
+    <string name="address_select_find_address">Введите улицу и номер дома</string>
+    <string name="address_select_title">Задайте адрес</string>
+    <string name="address_to_confirm">@string/common_text_yes</string>
+    <string name="address_to_extra_find">Найти</string>
+    <string name="address_to_is_empty">Не задан адрес доставки</string>
+    <string name="address_to_title">Куда отвезти?</string>
+    <string name="app_name_mx">Taxi Drive</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="archive_orders_refreshing">Загружаю историю заказов...</string>
+    <string name="archive_orders_title">История</string>
+    <string name="as_soos_as_possible">Как можно быстрее</string>
+    <string name="at_time">в</string>
+    <string name="autorization_fail">Код введён неверно</string>
+    <string name="autorization_pin_title">Введите код</string>
+    <string name="back_button_label">Back</string>
+    <string name="bank_cards__add">+ Добавить карту</string>
+    <string name="bank_cards__add_card_error__prefix">"Ошибка при добавлении карты: 
+"</string>
+    <string name="bank_cards__card_error__no_money">Недостаточно средств на карте</string>
+    <string name="bank_cards__cash">Оплата наличными</string>
+    <string name="bank_cards__delete_query">Удалить карту?</string>
+    <string name="bank_cards__get_card_list_error__prefix">"Ошибка при загрузке списка карт:
+"</string>
+    <string name="bank_cards__link_card_canceled">Привязка отменена</string>
+    <string name="bank_cards__link_card_description">Будет снят и возвращён 1RUB</string>
+    <string name="bank_cards__link_card_error__prefix">Ошибка при привязке карты:</string>
+    <string name="bank_cards__link_card_error_on_cancel_pay__prefix">Ошибка при привязке карты при отмене пробного платежа:</string>
+    <string name="bank_cards__link_card_error_on_cancel_pay__prefix_for_pay_cancel">Ошибка при отмене платежа после привязки карты:</string>
+    <string name="bank_cards__link_card_title">Добавление карты</string>
+    <string name="bank_cards__remove_error">Карту удалить из списка не удалось</string>
+    <string name="bank_cards__use_auto">По-умолчанию оплата картой</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="btn_addr_from">Отсюда</string>
+    <string name="btn_addr_to">Сюда</string>
+    <string name="btn_create_order">Поехали</string>
+    <string name="btn_get_price">Цена</string>
+    <string name="btn_off">OFF</string>
+    <string name="btn_on">ON</string>
+    <string name="button__register__confirm_code">ПОДТВЕРДИТЬ</string>
+    <string name="button__register__get_code">ПОЛУЧИТЬ КОД АКТИВАЦИИ</string>
+    <string name="button__register__get_code2">ДАЛЕЕ ></string>
+    <string name="button__register__get_code_prompt">Регистрация</string>
+    <string name="by_default">По умолчанию</string>
+    <string name="callback_confirm">@string/common_text_yes</string>
+    <string name="callback_title">Телефон для отзвона</string>
+    <string name="cannot_show_view">Не могу отобразить содежимое окна</string>
+    <string name="caption_pre_order_cost">Стоимость заказа</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="close_result_canceled">Отменён</string>
+    <string name="close_result_create_canceled">Создание отменено</string>
+    <string name="close_result_deleted">Удалён</string>
+    <string name="close_result_ok">Завершён</string>
+    <string name="command_register">Зарегистрироваться</string>
+    <string name="command_text_call">Позвонить</string>
+    <string name="comment_ready">Добавить</string>
+    <string name="comment_title">Комментарий к заказу</string>
+    <string name="common__currency_sign">Р</string>
+    <string name="common_text_cancel">Отмена</string>
+    <string name="common_text_cancel_uppercase">ОТМЕНИТЬ</string>
+    <string name="common_text_caution">Внимание</string>
+    <string name="common_text_close">Закрыть</string>
+    <string name="common_text_delete">Удалить</string>
+    <string name="common_text_no">Нет</string>
+    <string name="common_text_ready">Готово</string>
+    <string name="common_text_ready_uppercase">ГОТОВО</string>
+    <string name="common_text_yes">Да</string>
+    <string name="complite_register_process_first">Завершите регистрацию</string>
+    <string name="complited_order__less_score_ask">Что вам не понравилось?</string>
+    <string name="complited_order__pay_by_card">ОПЛАТИТЬ</string>
+    <string name="complited_order__price">Стоимость поездки</string>
+    <string name="complited_order__ready">ГОТОВО</string>
+    <string name="complited_order__score_comment_other">Другое</string>
+    <string name="complited_order__score_comment_other__prompt_imput">Пожалуйста, укажите, что вам не понравилось:</string>
+    <string name="complited_order__share">Поделитесь с друзьями:</string>
+    <string name="complited_order__thanks">Спасибо за поездку!</string>
+    <string name="complited_order__title">Оцените поездку</string>
+    <string name="confirm">@string/common_text_ready</string>
+    <string name="connecting_to_server">Подключаюсь к серверу...</string>
+    <string name="connecting_to_server_check" />
+    <string name="connecting_to_server_get_server_address">Определяем адрес сервера...</string>
+    <string name="connecting_to_server_load_server_address">Загружаем адрес сервера...</string>
+    <string name="connecting_to_server_need_synchronization">Синхронизация...</string>
+    <string name="connecting_to_server_request_server_address">@string/connecting_to_server_get_server_address</string>
+    <string name="create_order__addr_from__manual_address">Задать вручную</string>
+    <string name="create_order__addr_from__next">ДАЛЕЕ</string>
+    <string name="create_order__addr_from__title">Откуда</string>
+    <string name="create_order__addr_to__add_address">+ Добавить адрес</string>
+    <string name="create_order__addr_to__next">ДАЛЕЕ</string>
+    <string name="create_order__addr_to__skip">Пропустить</string>
+    <string name="create_order__addr_to__title">Куда</string>
+    <string name="create_order__addr_to__title__ready">Готово</string>
+    <string name="create_order__address_from">Откуда забрать</string>
+    <string name="create_order__address_to">Куда отвезти</string>
+    <string name="create_order__callback_phone">Телефон для обратной связи</string>
+    <string name="create_order__car_class">Класс машины</string>
+    <string name="create_order__comment">Комментарий для водителя</string>
+    <string name="create_order__comment__entrance">Подъезд</string>
+    <string name="create_order__comment__hint">@string/create_order__comment</string>
+    <string name="create_order__comment__ready">Готово</string>
+    <string name="create_order__comment__title">Для водителя</string>
+    <string name="create_order__create_in_progress__command_cancel">Отменить</string>
+    <string name="create_order__create_in_progress_title">Создаём заказ</string>
+    <string name="create_order__date_from">Подать машину</string>
+    <string name="create_order__date_from__now">Сейчас</string>
+    <string name="create_order__date_from__time">В заданное время</string>
+    <string name="create_order__datetime__now">Как можно быстрее</string>
+    <string name="create_order__error__no_addr_from">Не задан адрес подачи</string>
+    <string name="create_order__error__on_create_order">"Создать заказ не удалось:
+%s"</string>
+    <string name="create_order__error__on_get_pre_order_pricing">"Рассчитать стоимость заказа не удалось:
+%s"</string>
+    <string name="create_order__error__region_not_supported">Невозможно создать заказ.</string>
+    <string name="create_order__error__region_supported_but_server_unavailible">Невозможно создать заказ.</string>
+    <string name="create_order__exec">Оформить заказ</string>
+    <string name="create_order__extra_comment__comment">%s</string>
+    <string name="create_order__extra_comment__entrance">у %s подъезда</string>
+    <string name="create_order__extra_comment__prefix">Забрать %s</string>
+    <string name="create_order__extra_comment__time">%s</string>
+    <string name="create_order__extra_comment__time_to_go">Забрать %s</string>
+    <string name="create_order__options__time__as_soon">Как можно быстрее</string>
+    <string name="create_order__options__time__extra">Дополнительно</string>
+    <string name="create_order__options__time__for_time">На время</string>
+    <string name="create_order__options__time_title">Подать машину</string>
+    <string name="create_order__options__title">Параметры</string>
+    <string name="create_order__properties">Пожелания</string>
+    <string name="create_order__ready">@string/go</string>
+    <string name="create_order__service">Услуга</string>
+    <string name="create_order__skip">Пропустить</string>
+    <string name="create_order__summary__extra">Мои предпочтения</string>
+    <string name="create_order__summary__ready">ПОЕХАЛИ</string>
+    <string name="create_order__summary__taxometer_price">Стоимость поездки будет рассчитана по таксометру</string>
+    <string name="create_order__summary__title">Мой маршрут</string>
+    <string name="create_order__summary__trip_cost">СТОИМОСТЬ ПОЕЗДКИ</string>
+    <string name="create_order__summary__trip_cost__by_taxometer">ПО ТАКСОМЕТРУ</string>
+    <string name="create_order_success">Заказ оформлен</string>
+    <string name="create_quick_order_confirm">"Вы действительно хотите сделать заказ по адресу:
+%s"</string>
+    <string name="crew_waiting_message">Идёт поиск авто. Вы можете свернуть приложение, поиск будет продолжен</string>
+    <string name="crew_waiting_message_with_crew_plan" formatted="false">"Мы нашли водителя на ваш заказ, в ближайшее время он освободится и направится к вам.
+%s %s №%s"</string>
+    <string name="currency">руб</string>
+    <string name="current_orders_title">Мои заказы</string>
+    <string name="days_format">%dд.</string>
+    <string name="delivery">подача</string>
+    <string name="drawer_about">О программе</string>
+    <string name="drawer_archive_orders">История поездок</string>
+    <string name="drawer_bonuses" />
+    <string name="drawer_callback">Заказать звонок</string>
+    <string name="drawer_close">Закрыть панель навигации</string>
+    <string name="drawer_my_bank_cards">@string/my_bank_cards</string>
+    <string name="drawer_new_order">Новый заказ</string>
+    <string name="drawer_news">Новости</string>
+    <string name="drawer_open">Открыть панель навигации</string>
+    <string name="drawer_orders">Мои заказы</string>
+    <string name="drawer_promo_input" />
+    <string name="drawer_promo_trips" />
+    <string name="drawer_register">Регистрация</string>
+    <string name="drawer_service_desk">@string/service_desk__title</string>
+    <string name="drawer_settings">Настройки</string>
+    <string name="driver">Водитель</string>
+    <string name="driver_phone_is_empty">Нет информации о номере телефона водителя</string>
+    <string name="edit_order__apply_edit_in_progress_title">Изменяем заказ</string>
+    <string name="edit_order__error__on_edit_order">"Не удалось изменить заказ:
+%s"</string>
+    <string name="empty" />
+    <string name="entrance_full">подъезд</string>
+    <string name="error">Ошибка</string>
+    <string name="error__no_server_connection">Отсутствует связь с сервером</string>
+    <string name="error__order_cancel__no_server_connection">@string/error__no_server_connection</string>
+    <string name="error__start_autorization">Ошибка авторизации</string>
+    <string name="error_about">Не удалось показать информацию</string>
+    <string name="error_active_orders">Не удалось показать текущие заказы</string>
+    <string name="error_get_current_orders_detail_info">Не удалось загрузить информацию по заказам: %s</string>
+    <string name="error_get_current_orders_list">Не удалось загрузить список текущих заказов: %s</string>
+    <string name="error_map__add_object">Не удалось добавить объект на карту</string>
+    <string name="error_map__clear_objects">Не удалось удалить обеъкты на карте</string>
+    <string name="error_map__showing_objects">Не удалось отобразить объекты на карте</string>
+    <string name="error_map__update_object_position">Не удалось изменить позицию объекта</string>
+    <string name="error_message__on_connection">Ошибка при подключении к серверу: %s</string>
+    <string name="error_message__on_geocode_result">Упс! При обработке запроса к карте возникли нюансы.</string>
+    <string name="error_message__on_geocoding">"Упс! При обработке запроса к карте возникли нюансы:
+%s"</string>
+    <string name="error_message__on_payment_by_card__from_server">"Ошибка при оплате заказа картой:
+%s"</string>
+    <string name="error_message__on_set_addr_from">"Адрес подачи задан не корректно:
+%s"</string>
+    <string name="error_message__on_set_addr_to">"Адрес доставки задан не корректно:
+%s"</string>
+    <string name="error_message__on_set_tariff">"Упс! При выборе тарифа возникли нюансы:
+%s"</string>
+    <string name="error_message__open_servers_list">Не удалось открыть список серверов: %s</string>
+    <string name="error_net_request_result_processing">Не удается прочитать результаты запроса</string>
+    <string name="error_net_server_not_answer">Сервер не отвечает</string>
+    <string name="error_new_order_creation">Не удается создать новый заказ</string>
+    <string name="error_no_connection">Отсутствует подключение к сети.</string>
+    <string name="error_no_initial_servers">"Этот файл не предназначен для установки клиентам.
+Приложение для клиентов можно сформировать в программе MAXIMA TAXI:
+
+Настройки организации - Клиентское приложение - Создать клиентское приложение с вашим брендом."</string>
+    <string name="error_no_service_desc_url">Не задан адрес службы поддержки</string>
+    <string name="error_no_such_order_on_server">Отсутствует информация о старом заказе</string>
+    <string name="error_on_active_order__no_crew_position">Не удалось определить местоположение машины</string>
+    <string name="error_on_address_search">"Не удалось произвести поиск адреса:
+%s"</string>
+    <string name="error_on_address_search_light">Ошибка при поиске адреса</string>
+    <string name="error_on_address_search_open">Ошибка при открытии поиска адресов</string>
+    <string name="error_on_call">Не удалось совершить звонок</string>
+    <string name="error_on_call_driver__no_server_connection">@string/error__no_server_connection</string>
+    <string name="error_on_call_from_drawer">Не удалось заказать звонок</string>
+    <string name="error_on_create_order__no_server_connection">@string/error__no_server_connection</string>
+    <string name="error_on_location_changed_processing">Не удается отобразить изменение текущего местоположения</string>
+    <string name="error_on_location_changed_processing_internal_ya">Не удается отобразить изменение текущего местоположения (yandex)</string>
+    <string name="error_on_location_check">Ошибка при определении текущего местоположения</string>
+    <string name="error_on_location_requesting">Не удается определить текущее местоположение</string>
+    <string name="error_on_location_requesting_timeout">Не удается определить текущее местоположение (t/o)</string>
+    <string name="error_on_map_event_processing">"При работе с картой возникли кое-какие нюансы:
+%s"</string>
+    <string name="error_on_message_processing_fr">"Не удалось обработать сообщение (fr):
+%s"</string>
+    <string name="error_on_recive_server_address">Не удалось подключиться к службе</string>
+    <string name="error_on_show_complited_order_info">Не удалось показать информацию о завершённом заказе: %s</string>
+    <string name="error_on_show_error">Не удалось вывести сообщение: %s</string>
+    <string name="error_on_toolbar_icon_click">Не удается выполнить действие</string>
+    <string name="error_on_touch_event_processing_fr">"Не удается выполнить действие onTouch (fr):
+%s"</string>
+    <string name="error_on_touch_order_fr">"Не удается выполнить действие:
+%s"</string>
+    <string name="error_on_trip_rating_click">Ошибка при попытке оценить позедку</string>
+    <string name="error_on_trip_rating_show">Не удается отобразить окно с оценкой поездки</string>
+    <string name="error_order_full_info">Не удалось показать детальную информацию о заказе</string>
+    <string name="error_order_full_info_close">Не удается выполнить действие</string>
+    <string name="error_order_info_close">Не удается выполнить действие</string>
+    <string name="error_privacy_policy">"Версия приложения несовместима с сервером.
+
+Версия сервера должна быть 4.1 или выше."</string>
+    <string name="error_server_not_response">Сервер не отвечает</string>
+    <string name="error_server_not_set">@string/error__no_server_connection</string>
+    <string name="error_trip_rating__cannot_set_rating">Не удалось поставить оценку.</string>
+    <string name="error_trip_rating_on_click_later">Не удается выполнить действие</string>
+    <string name="error_trip_rating_on_click_ready">Не удается выполнить действие</string>
+    <string name="exists_active_order_yet">Заказ уже оформлен</string>
+    <string name="extra_mode_title">Расширенный режим</string>
+    <string name="extra_order_add_address_from">* Адрес подачи</string>
+    <string name="extra_order_add_comment">Комментарий к заказу</string>
+    <string name="extra_order_add_contact">Отзвон на другой номер</string>
+    <string name="extra_order_add_destination">Адрес доставки</string>
+    <string name="extra_order_add_requirements">Добавить пожелания</string>
+    <string name="extra_order_add_tariff">Тариф</string>
+    <string name="extra_order_add_when">Время подачи</string>
+    <string name="extra_order_confirm">@string/go</string>
+    <string name="extra_order_info__addr_from">От: %s</string>
+    <string name="extra_order_info__addr_to">До: %s</string>
+    <string name="extra_order_info__cost">Стоимость: %s</string>
+    <string name="extra_order_reset">@string/common_text_cancel</string>
+    <string name="extra_order_reset_confirm">Отменить заказ?</string>
+    <string name="go">Поехали!</string>
+    <string name="hours_format">%dч.</string>
+    <string name="icon__description">Логотип приложения</string>
+    <string name="init_complite_with_gps_signal">Для окончательной настройки приложения поместите устройство в зону уверенного приёма GPS-сигнала</string>
+    <string name="input_activation_code">Введите код активации</string>
+    <string name="input_activation_phone">Для регистрации введите ваш номер телефона</string>
+    <string name="input_address_prompt">Введите название улицы и номер дома</string>
+    <string name="input_promo__empty_code" />
+    <string name="input_promo__error__send_promo" />
+    <string name="input_promo__success" />
+    <string name="input_you_phone">Введите номер вашего телефона</string>
+    <string name="loading_order_options">Загрузка...</string>
+    <string name="messages">Сообщения</string>
+    <string name="minimize">Свернуть</string>
+    <string name="minutes_format">%dмин.</string>
+    <string name="minutes_wo_dot_format">%dмин</string>
+    <string name="my_bank_cards">Способ оплаты</string>
+    <string name="need_update">"Доступна новая версия.
+Необходимо обновить приложение."</string>
+    <string name="need_update_query">@string/update_avilible_query</string>
+    <string name="news_title">Новости</string>
+    <string name="next_button_label">Next</string>
+    <string name="no_any_active_orders">Нет текущих заказов</string>
+    <string name="no_any_arhive_orders">Нет заказов</string>
+    <string name="no_any_news">Пока новостей нет</string>
+    <string name="not_set_car_class">Не задан</string>
+    <string name="not_set_service">Не задана</string>
+    <string name="not_supported">В текущей версии не поддерживается</string>
+    <string name="notification_crew_has_left">Машина выехала</string>
+    <string name="notification_crew_info" formatted="false">%s, цвет %s, гос.номер %s</string>
+    <string name="notification_crew_plan_info" formatted="false">запланирована %s, цвет %s, гос.номер %s</string>
+    <string name="notification_crew_wating">Машина подана, выходите</string>
+    <string name="notification_order_canceled">Заказ отменён</string>
+    <string name="notification_order_complited">Заказ завершён</string>
+    <string name="notification_order_complited_info_with_card_payment">Требуется подтверждение оплаты банковской картой</string>
+    <string name="notification_order_complited_info_with_final_cost">"Благодарим за поездку.
+Стоимость составила %s"</string>
+    <string name="notification_order_complited_info_without_final_cost">Благодарим за поездку</string>
+    <string name="notification_order_created">@string/order_state_created</string>
+    <string name="operator">Оператор</string>
+    <string name="option_name__maps">Карта</string>
+    <string name="option_name__permissions_info">Политика конфиденциальности</string>
+    <string name="option_name__permissions_value" />
+    <string name="option_name__pin_num">Код доступа</string>
+    <string name="option_name__pin_num_empty">Не задан</string>
+    <string name="option_name__pin_num_prompt">Введите код доступа</string>
+    <string name="option_name__require_pin">Запрашивать код при запуске приложения</string>
+    <string name="option_name__show_notification">Показывать значок состояния</string>
+    <string name="option_name__show_order_notifications">Следить за моими заказами при выключенном приложении</string>
+    <string name="option_name__ymap_mode">Тип карты</string>
+    <string name="option_title">Настройки</string>
+    <string name="order_about">Мой заказ</string>
+    <string name="order_cancel">Отменить заказ</string>
+    <string name="order_canceled">Заказ отменён</string>
+    <string name="order_complited_info_confirm">@string/common_text_close</string>
+    <string name="order_complited_info_price_zero">0р</string>
+    <string name="order_complited_info_subtitle">с вас</string>
+    <string name="order_complited_info_title">Спасибо за поездку</string>
+    <string name="order_created">Заказ создан</string>
+    <string name="order_detail_info__crew__color" formatted="false">"%sцвет %s
+"</string>
+    <string name="order_detail_info__crew__mark" formatted="false">"%s%s
+"</string>
+    <string name="order_detail_info__crew__num" formatted="false">%sгос.номер %s</string>
+    <string name="order_detail_info__crew_full" formatted="false">"машина
+%s
+цвет %s
+гос.номер %s"</string>
+    <string name="order_detail_info__crew_palnned">"Машина зарезервирована
+"</string>
+    <string name="order_detail_info__crew_palnned_full" formatted="false">"Машина зарезервирована
+%s
+цвет %s
+гос.номер %s"</string>
+    <string name="order_detail_info__fact">@string/order_detail_info__plan</string>
+    <string name="order_detail_info__plan">Стоимость: %s</string>
+    <string name="order_detail_info_cancel_fail_on_delete_title">Не удалось отменить заказ</string>
+    <string name="order_detail_info_cancel_no">@string/common_text_no</string>
+    <string name="order_detail_info_cancel_query">Вы уверены?</string>
+    <string name="order_detail_info_cancel_title">Отмена заказа</string>
+    <string name="order_detail_info_cancel_yes">@string/common_text_yes</string>
+    <string name="order_detail_info_is_preliminary">Предварительный заказ</string>
+    <string name="order_detail_info_orderstate_canceled">Отменен</string>
+    <string name="order_detail_info_orderstate_complited">Заказ выполнен</string>
+    <string name="order_detail_info_orderstate_created">@string/order_state_created</string>
+    <string name="order_detail_info_orderstate_leave">Машина выехала к вам</string>
+    <string name="order_detail_info_orderstate_running">@string/order_state_running</string>
+    <string name="order_detail_info_orderstate_stop">Остановка</string>
+    <string name="order_detail_info_orderstate_unknown">@string/order_state_created</string>
+    <string name="order_detail_info_orderstate_wait">Машина подъехала, выходите</string>
+    <string name="order_detail_info_preliminary_info">Подача на: %s</string>
+    <string name="order_full_info_confirm">@string/common_text_close</string>
+    <string name="order_full_info_fail_no_info_on_server">Нет информации по заказу</string>
+    <string name="order_full_info_fail_on_get_info">Не удалось загрузить информацию по заказу</string>
+    <string name="order_full_info_fail_on_get_info_ex">Не удалось загрузить информацию по заказу: %s</string>
+    <string name="order_full_info_title">Мой заказ</string>
+    <string name="order_info_addr_from">подача</string>
+    <string name="order_info_addr_to">доставка</string>
+    <string name="order_info_comment">комментарий</string>
+    <string name="order_info_complite_date">завершён</string>
+    <string name="order_info_contact">тел</string>
+    <string name="order_info_cost_fact">стоимость</string>
+    <string name="order_info_cost_plan">предв.стоимость</string>
+    <string name="order_info_crew_fact">такси</string>
+    <string name="order_info_crew_fact_info" formatted="false">%s, цвет %s, гос.номер %s</string>
+    <string name="order_info_crew_plan">забронирована</string>
+    <string name="order_info_crew_plan_info" formatted="false">%s, цвет %s, гос.номер %s</string>
+    <string name="order_info_discount">скидка</string>
+    <string name="order_info_id">ID</string>
+    <string name="order_info_price">Стоимость</string>
+    <string name="order_info_state">состояние</string>
+    <string name="order_info_tariff">тариф</string>
+    <string name="order_info_win_trip">акция</string>
+    <string name="order_removed">Заказ удалён</string>
+    <string name="order_state_canceled">Отменен</string>
+    <string name="order_state_complited">Заказ выполнен</string>
+    <string name="order_state_created">Идёт поиск авто</string>
+    <string name="order_state_leave">Машина к вам едет</string>
+    <string name="order_state_running">В пути</string>
+    <string name="order_state_stop">Остановка</string>
+    <string name="order_state_unknown">Не определено</string>
+    <string name="order_state_wait">Водитель ожидает</string>
+    <string name="org_description">"Такси Drive Обнинск
+8(484)392-44-00
+www.drive.taxi"</string>
+    <string name="payment_by_card">Оплата банковской картой</string>
+    <string name="payment_by_card__need_card_in_link">Необходимо привязать хотя бы одну банковскую карту.</string>
+    <string name="payment_by_card__need_card_in_link_cancel">ОТМЕНА</string>
+    <string name="payment_by_card__need_card_in_link_ok">Привязать</string>
+    <string name="payment_by_card__need_select_default_card">Необходимо выбрать банковскую карту для оплаты.</string>
+    <string name="payment_by_card__need_select_default_card__select">Выбрать</string>
+    <string name="payment_by_card__order_payment_title">Оплата заказа</string>
+    <string name="phone_default_country_code">+7</string>
+    <string name="pre_order_cost">~%s</string>
+    <string name="pre_order_cost_content" formatted="false">"Предварительная стоимость заказа: %s
+
+Ценообразование: %s"</string>
+    <string name="pre_order_minutes">машина прибудет через %s</string>
+    <string name="privacy_policy_url">http://www.telemaxima.ru/privacy_policy/maxima_taxi_client_app.txt</string>
+    <string name="question_delete_address">Удалить адрес \"%s\" из списка?</string>
+    <string name="question_exit_app">Неужели вы нас покидаете?</string>
+    <string name="question_need_autorization">Необходимо провести авторизацию</string>
+    <string name="queue_position_info">Ваша позиция в очереди</string>
+    <string name="quick_area_not_supported" />
+    <string name="quick_order_confirm">@string/go</string>
+    <string name="quick_order_confirm_address_confirm">Да</string>
+    <string name="quick_order_confirm_address_dismiss">Исправить</string>
+    <string name="quick_order_confirm_address_entrance_prompt">№ подъезда</string>
+    <string name="quick_order_confirm_address_entrance_short">п.</string>
+    <string name="quick_order_confirm_address_entrance_title">Подъезд</string>
+    <string name="quick_order_confirm_address_info_for_driver">Уточнение для водителя</string>
+    <string name="quick_order_confirm_address_info_for_driver_prompt">Информация для водителя</string>
+    <string name="quick_order_confirm_address_no_entrance">нет подъезда</string>
+    <string name="quick_order_confirm_address_no_entrance_x">X</string>
+    <string name="quick_order_confirm_address_title">Адрес правильный?</string>
+    <string name="quick_order_extra_mode">Расширенный режим</string>
+    <string name="quick_order_title">Где забрать?</string>
+    <string name="reconnecting" formatted="false">Поиск сервера #%d... (%s)</string>
+    <string name="references__contact_selector_title" />
+    <string name="references__friend_send_ivite_error" />
+    <string name="references__friend_send_ivite_success" />
+    <string name="references__input_name" />
+    <string name="references__input_name__name_is_empty" />
+    <string name="references__loading_params" />
+    <string name="references__recived_bonus__close_button" />
+    <string name="references__requesting_promo" />
+    <string name="references__requesting_promo__empty_promo" />
+    <string name="references__requesting_promo__error" />
+    <string name="references__requesting_promo__no_srv_connection" />
+    <string name="references_or" />
+    <string name="references_prompt_ex" />
+    <string name="references_prompt_ex2" />
+    <string name="references_prompt_frends" />
+    <string name="references_prompt_frends_ex" />
+    <string name="references_prompt_friend_text" />
+    <string name="references_prompt_share" />
+    <string name="references_prompt_share_ex" />
+    <string name="references_prompt_share_text" />
+    <string name="references_title" />
+    <string name="register_name">ФИО</string>
+    <string name="register_phone">Телефон</string>
+    <string name="register_promo">Промо код</string>
+    <string name="register_ready">Зарегистрироваться</string>
+    <string name="register_title">Регистрация</string>
+    <string name="request_callback_fail">"Не удалось заказать звонок:
+%s"</string>
+    <string name="request_callback_fail_no_callback_phone">Не удалось заказать звонок.</string>
+    <string name="request_callback_fail_query">"Не удалось заказать звонок: %s
+Позвонить напрямую?"</string>
+    <string name="request_callback_waiting_callback">"Задача принята.
+Оператор вызывает вас."</string>
+    <string name="request_callback_waiting_callback_for_driver">"Задача принята.
+Оператор соединяет вас с водителем."</string>
+    <string name="request_driver_call_fail">"Не удалось соединить с водителем:
+%s"</string>
+    <string name="request_driver_call_fail_query">"Не удалось соединить с водителем: %s
+Позвонить напрямую?"</string>
+    <string name="request_permission_for__auto_registration">Приложению потребуется доступ к входящим звонкам и SMS для того, чтобы при регистрации код подтверждения не пришлось вводить вручную</string>
+    <string name="request_permission_for__location_and_map">Для корректного отображения карты приложению потребуется доступ к текущему местоположению и памяти устройства</string>
+    <string name="request_permission_for__read_contacts" />
+    <string name="request_permission_for__read_contacts__rejected" />
+    <string name="s__active_order__edit_order__edit_custom_price" />
+    <string name="s__active_order__edit_order__edit_custom_price__continue_wait" />
+    <string name="s__active_order__edit_order__edit_custom_price__description" />
+    <string name="score_ad_message">Летайте самолётами Аэрофлота</string>
+    <string name="score_comment_other">Свой комментарий...</string>
+    <string name="score_comment_other_input_prompt">Ваш комментарий</string>
+    <string name="score_error__" formatted="false">"%s
+%s
+%s
+%s"</string>
+    <string name="server_address_is_empty">Не задан адрес сервера</string>
+    <string name="server_connection_failed">Не удалось подключиться к серверу (%s)</string>
+    <string name="server_connection_failed_2">Не удалось подключиться к серверу</string>
+    <string name="server_connection_synchronization_error">"Ошибка подключения к серверу:
+%s"</string>
+    <string name="server_not_return_result_for_query">Не удалось получить результат с сервера</string>
+    <string name="service_desk__answer">Ответ</string>
+    <string name="service_desk__answers_title">Ответ службы поддержки</string>
+    <string name="service_desk__input_error__empty_message">Отсутствует текст сообщения</string>
+    <string name="service_desk__input_error__no_selected_category">Выберите категорию, к которой относится вопрос</string>
+    <string name="service_desk__input_hint">Здесь вы можете оставить сообщение о работе сервиса</string>
+    <string name="service_desk__query">Вопрос</string>
+    <string name="service_desk__send">Отправить ></string>
+    <string name="service_desk__send_message_error">"Не удалось отправить сообщение:
+%s"</string>
+    <string name="service_desk__send_message_success">Сообщение отправлено</string>
+    <string name="service_desk__title">Обратная связь</string>
+    <string name="skip_button_label">Skip</string>
+    <string name="social_message__on_order_complited">Отлично!</string>
+    <string name="social_message_drawer">Смотри!</string>
+    <string name="summary_add_address_from">Задать адрес подачи</string>
+    <string name="summary_add_comment">Добавить комментарий</string>
+    <string name="summary_add_contact">Задать телефон для отзвона</string>
+    <string name="summary_add_destination">Задать адрес доставки</string>
+    <string name="summary_add_requirements">Добавить пожелания</string>
+    <string name="summary_add_tariff">Задать тариф</string>
+    <string name="summary_add_when">Задать время подачи</string>
+    <string name="summary_confirm">Оформить заказ</string>
+    <string name="summary_info__addr_from">От: %s</string>
+    <string name="summary_info__addr_to">До: %s</string>
+    <string name="summary_reset">Сбросить</string>
+    <string name="summary_title">Всё верно?</string>
+    <string name="sys_about_url">url-адрес web-страницы с информацией о вашей организации, например: http://www.taxi-romashka.com/about.html</string>
+    <string name="sys_drawer_to_driver" />
+    <string name="t_action_test" />
+    <string name="t_address_short" />
+    <string name="t_crew_info" />
+    <string name="t_date_tomorrow" />
+    <string name="t_date_ддмммгггг" />
+    <string name="t_fio" />
+    <string name="t_order_info_test" />
+    <string name="t_order_info_test_num" />
+    <string name="t_phone" />
+    <string name="t_time" />
+    <string name="tariff_title">Выбор тарифа</string>
+    <string name="text__activation_code__hint">Код активации</string>
+    <string name="text__my_order">Мой заказ</string>
+    <string name="text__navigation__share">Поделиться:</string>
+    <string name="text__promo_code__hint" />
+    <string name="text__register__phone_dest_caption">Код активации был отправлен на номер</string>
+    <string name="text__register_phone__default_prefix">+7</string>
+    <string name="text__register_phone__hint">Телефон</string>
+    <string name="text__register_phone_name__hint">Ваше имя</string>
+    <string name="text__request_activation_code_again">Отправить код активации повторно</string>
+    <string name="title_activity_activation">Активация приложения</string>
+    <string name="today">Сегодня</string>
+    <string name="tomorrow">Завтра</string>
+    <string name="trip_rating_">Стоимость %1$s</string>
+    <string name="trip_rating_comment">Жалобы и предложения</string>
+    <string name="trip_rating_confirm">@string/common_text_ready</string>
+    <string name="trip_rating_description">Стоимость %1$s</string>
+    <string name="trip_rating_details_caption">Подробнее</string>
+    <string name="trip_rating_driver">Водителя</string>
+    <string name="trip_rating_later">В другой раз</string>
+    <string name="trip_rating_operator">Оператора</string>
+    <string name="trip_rating_thanks">"Спасибо за оценки
+Мы постараемся учесть ваши пожелания"</string>
+    <string name="trip_rating_thanks_later">Спасибо, что вы с нами</string>
+    <string name="trip_rating_title">Пожалуйста, оцените вашу поездку</string>
+    <string name="trip_rating_total">Вашу поездку</string>
+    <string name="unsepported_server_answer__connect_params">Неожиданный ответ сервера: %s</string>
+    <string name="update_avilible">"Доступна новая версия.
+Рекомендуем обновить приложение."</string>
+    <string name="update_avilible_query">"Доступна новая версия.
+Обновить приложение?"</string>
+    <string name="warning_empty_addr_from">Не задан адрес подачи</string>
+    <string name="warning_empty_addr_to">Не задан адрес доставки</string>
+    <string name="warning_order_state_unknown">Состояние заказа не определено</string>
+    <string name="when_additional">Через 20 минут</string>
+    <string name="when_asap">Как можно быстрее</string>
+    <string name="when_other">Другое время</string>
+    <string name="when_title">Когда?</string>
+    <string name="ymap_mode_default">По умолчанию</string>
+    <string name="ymap_mode_osm">OpenStreetMap</string>
+    <string name="ymap_mode_public">Яндекс, народная</string>
+    <string name="ymap_mode_satellite">Яндекс, спутник</string>
+    <string name="ymap_mode_scheme">Яндекс, схема</string>
+    <string name="you_phone">Ваш номер</string>
+</resources>

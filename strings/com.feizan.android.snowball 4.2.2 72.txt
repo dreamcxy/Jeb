@@ -1,0 +1,930 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_like_button_liked">Liked</string>
+    <string name="com_facebook_like_button_not_liked">Like</string>
+    <string name="com_facebook_loading">Loading...</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_loginview_log_in_button">Log in</string>
+    <string name="com_facebook_loginview_log_in_button_long">Log in with Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="com_facebook_send_button_text">Send</string>
+    <string name="com_facebook_share_button_text">Share</string>
+    <string name="com_facebook_tooltip_default">"New! You're in control - choose what info you want to share with apps."</string>
+    <string name="messenger_send_button_text">Send</string>
+    <string name="bluetooth">蓝牙</string>
+    <string name="douban">豆瓣</string>
+    <string name="dropbox">Dropbox</string>
+    <string name="email">邮件</string>
+    <string name="evernote">印象笔记</string>
+    <string name="facebook">Facebook</string>
+    <string name="facebookmessenger">Facebook Messenger</string>
+    <string name="finish">完成</string>
+    <string name="flickr">Flickr</string>
+    <string name="foursquare">FourSquare</string>
+    <string name="google_plus_client_inavailable">Google+ 版本过低或者没有安装，需要升级或安装Google+才能使用！</string>
+    <string name="googleplus">Google+</string>
+    <string name="instagram">Instagram</string>
+    <string name="instagram_client_inavailable">Instagram版本过低或者没有安装，需要升级或安装Instagram才能使用！</string>
+    <string name="instapager_email_or_password_incorrect">Email或密码不正确</string>
+    <string name="instapaper">Instapaper</string>
+    <string name="instapaper_email">邮箱</string>
+    <string name="instapaper_login">登录</string>
+    <string name="instapaper_logining">登录中…</string>
+    <string name="instapaper_pwd">密码</string>
+    <string name="kaixin">开心网</string>
+    <string name="kakaostory">KakaoStory</string>
+    <string name="kakaostory_client_inavailable">目前您的KakaoStory版本过低或未安装，需要安装KakaoStory才能使用</string>
+    <string name="kakaotalk">KakaoTalk</string>
+    <string name="kakaotalk_client_inavailable">目前您的KakaoTalk版本过低或未安装，需要安装KakaoTalk才能使用</string>
+    <string name="laiwang">来往</string>
+    <string name="laiwang_client_inavailable">目前您的来往版本过低或未安装，需要安装来往才能使用</string>
+    <string name="laiwangmoments">来往动态</string>
+    <string name="line">Line</string>
+    <string name="line_client_inavailable">目前您的Line版本过低或未安装，需要安装Line才能使用</string>
+    <string name="linkedin">领英</string>
+    <string name="list_friends">%s的朋友</string>
+    <string name="mingdao">明道</string>
+    <string name="mingdao_share_content">网页分享</string>
+    <string name="multi_share">图文分享</string>
+    <string name="neteasemicroblog">网易微博</string>
+    <string name="pinterest">Pinterest</string>
+    <string name="pinterest_client_inavailable">Pinterest版本过低或者没有安装，需要升级或安装Pinterest才能使用！</string>
+    <string name="pocket">Pocket</string>
+    <string name="pull_to_refresh">下拉刷新</string>
+    <string name="qq">QQ</string>
+    <string name="qq_client_inavailable">QQ 版本过低或者没有安装，需要升级或安装QQ才能使用！</string>
+    <string name="qzone">QQ空间</string>
+    <string name="refreshing">正在刷新...</string>
+    <string name="release_to_refresh">释放来刷新</string>
+    <string name="renren">人人网</string>
+    <string name="select_a_friend">请选择一个朋友</string>
+    <string name="select_one_plat_at_least">请选择一个目标平台</string>
+    <string name="shake2share">摇晃手机！</string>
+    <string name="share">分享</string>
+    <string name="share_canceled">分享已取消</string>
+    <string name="share_completed">分享成功</string>
+    <string name="share_to">分享到</string>
+    <string name="share_to_mingdao">分享到明道</string>
+    <string name="share_to_qq">分享到QQ</string>
+    <string name="share_to_qzone">分享到QQ空间</string>
+    <string name="share_to_qzone_default">来自%s的分享</string>
+    <string name="sharing">分享操作正在后台进行…</string>
+    <string name="shortmessage">信息</string>
+    <string name="sinaweibo">新浪微博</string>
+    <string name="sohumicroblog">搜狐微博</string>
+    <string name="sohusuishenkan">搜狐随身看</string>
+    <string name="tencentweibo">腾讯微博</string>
+    <string name="tumblr">Tumblr</string>
+    <string name="twitter">Twitter</string>
+    <string name="use_login_button">请改用“登录”按钮</string>
+    <string name="vkontakte">VK</string>
+    <string name="website">http://www.mob.com</string>
+    <string name="wechat">微信好友</string>
+    <string name="wechat_client_inavailable">目前您的微信版本过低或未安装微信，需要安装微信才能使用</string>
+    <string name="wechatfavorite">微信收藏</string>
+    <string name="wechatmoments">微信朋友圈</string>
+    <string name="weibo_oauth_regiseter">应用授权</string>
+    <string name="weibo_upload_content">分享图片</string>
+    <string name="whatsapp">WhatsApp</string>
+    <string name="whatsapp_client_inavailable">目前您的WhatsApp版本过低或未安装，需要安装WhatsApp才能使用</string>
+    <string name="yixin">易信</string>
+    <string name="yixin_client_inavailable">目前您的易信版本过低或未安装，需要安装易信才能使用</string>
+    <string name="yixinmoments">易信朋友圈</string>
+    <string name="youdao">有道云笔记</string>
+    <string name="_tag_re">Chosen</string>
+    <string name="about">About</string>
+    <string name="about_me">About me</string>
+    <string name="about_setting">About ZANK</string>
+    <string name="accept">Accept</string>
+    <string name="accept_invite_people_number">%1$d confirmed / %2$d in total</string>
+    <string name="accepted">Accepted</string>
+    <string name="accepting">Accepting……</string>
+    <string name="accton_setting">Account</string>
+    <string name="activity_already_joined">Joined</string>
+    <string name="activity_can_not_modify_when_you_publish_make_sure">You cannot change the event after you post it, continue?</string>
+    <string name="activity_confirm_finish">Confirm to complete the date?</string>
+    <string name="activity_date">Time of the date</string>
+    <string name="activity_date_expired">The time of the date is already passed</string>
+    <string name="activity_desc">Date description</string>
+    <string name="activity_expired">Expired</string>
+    <string name="activity_finish">Complete</string>
+    <string name="activity_finished">Completed</string>
+    <string name="activity_is_canceling">Canceling the date</string>
+    <string name="activity_join">Join</string>
+    <string name="activity_member_count">Participants</string>
+    <string name="activity_please_choose_type">Please select the date type</string>
+    <string name="activity_please_input_address">Please enter the date address</string>
+    <string name="activity_please_input_date">Please enter the date time</string>
+    <string name="activity_please_input_invite_number">Please enter the number of participants</string>
+    <string name="activity_please_input_title">Please enter the date title</string>
+    <string name="activity_refused">Refused</string>
+    <string name="activity_search_no_result">Date not found</string>
+    <string name="activity_type">Type of the date</string>
+    <string name="activity_wait_for_confirm">Confirming</string>
+    <string name="add">Add</string>
+    <string name="add_collect">Add marking</string>
+    <string name="add_comment">Add comments</string>
+    <string name="add_essence">Set as favorite</string>
+    <string name="add_hidden">Hide</string>
+    <string name="add_top">Top</string>
+    <string name="age">Age</string>
+    <string name="age_with_number">%1$s yrs</string>
+    <string name="all">All</string>
+    <string name="all_activity">All dates</string>
+    <string name="already_newest_version">This is the latest version</string>
+    <string name="app_lock">Passcode</string>
+    <string name="app_name">ZANK</string>
+    <string name="app_name_seo">ZANK</string>
+    <string name="apply_check">Examine \u0009\u0009</string>
+    <string name="are_you_sure_to_delete">Confirm to delete?</string>
+    <string name="area">Location</string>
+    <string name="attach_picture">Photos</string>
+    <string name="auth_code_load_fail">Failed to load the captcha</string>
+    <string name="auth_code_text_string">Please enter the captcha</string>
+    <string name="avatar_modify">Portrait</string>
+    <string name="baidu_downloading_now">Downloading：</string>
+    <string name="baidu_map_version_is_low">You are not using the latest version of this app. Please upgrade to the latest version</string>
+    <string name="baidu_upgrade_dialog_btn_cancel">Cancel</string>
+    <string name="baidu_upgrade_dialog_btn_sure">Confirm</string>
+    <string name="baidu_upgrade_dialog_default_message">New version is available. Update it now!</string>
+    <string name="baidu_upgrade_dialog_default_title">Upgrade your version</string>
+    <string name="baidu_upgrade_dialog_download">Downloaded: %s%%</string>
+    <string name="baidu_upgrade_dialog_download_failed">Failed to download</string>
+    <string name="baidu_upgrade_dialog_downloading">Downloading…</string>
+    <string name="basic_data">Overview</string>
+    <string name="best_app_of_social">The best social network app</string>
+    <string name="bind_email">Bind with email address</string>
+    <string name="block">Block</string>
+    <string name="block_hint">Once you block him, you cannot view his profile or chat with him</string>
+    <string name="block_num_limit_tip_prefix">The upper limit of blocking</string>
+    <string name="block_people_tip">After blocking the user, he can no longer send you messages and view your profile. Tap the user to unblock him.</string>
+    <string name="block_setting">Blocked List</string>
+    <string name="body_type">Figure</string>
+    <string name="bodytype_0">Husky</string>
+    <string name="bodytype_1">Stocky</string>
+    <string name="bodytype_2">Muscular</string>
+    <string name="bodytype_3">Average</string>
+    <string name="bodytype_4">Slim</string>
+    <string name="bottom">Bottom</string>
+    <string name="build_phone">Bind with cell phone number</string>
+    <string name="button_pushtotalk">Hold to talk</string>
+    <string name="button_send">Send</string>
+    <string name="camera_subdir_name">ZANK</string>
+    <string name="can_comment_only_join_circle">Only circle members can comment!</string>
+    <string name="cancel">Cancel</string>
+    <string name="cancel_confirm">Cancel the operation?</string>
+    <string name="canle_account">Quit editing？</string>
+    <string name="change_circle">Change</string>
+    <string name="change_language">Language</string>
+    <string name="change_phone_number">Change phone number</string>
+    <string name="chat_have_no_permission_of_record">No permission to record sound!</string>
+    <string name="chat_record_time_too_small">Message too short!</string>
+    <string name="chat_send_voice_need_sdcard">An SD card is required for sending audio message!</string>
+    <string name="chat_warning">"Keep yourself safe. Don't do pornography or drugs."</string>
+    <string name="china">China</string>
+    <string name="chinese">Chinese</string>
+    <string name="choose_navigation">Please select</string>
+    <string name="circle_comment_decline">Not allowed to comment!</string>
+    <string name="circle_compose">Post a topic</string>
+    <string name="circle_id">Circle ID: %1$s</string>
+    <string name="circle_maybe_interest">Circles you may like</string>
+    <string name="circle_member">Circle members</string>
+    <string name="circle_member_and_subject_count">Members: %1$s Topics: %2$s</string>
+    <string name="circle_mine">My circles</string>
+    <string name="circle_more">More social circles</string>
+    <string name="circle_no_data">No relevant circles</string>
+    <string name="circle_no_data2">No relevant topics</string>
+    <string name="circle_search_same">Searched the same content</string>
+    <string name="city">City</string>
+    <string name="city_wide_post">Local topics</string>
+    <string name="clear_cache_setting">Clear Cache</string>
+    <string name="clear_msgs">Clear messages</string>
+    <string name="cler_msg">Mark all as read?</string>
+    <string name="click_to_details">\u0009Tap for details>></string>
+    <string name="click_to_resend">Tap to send again</string>
+    <string name="close_hot_area">Close hotspot</string>
+    <string name="close_lock_fail">Password error</string>
+    <string name="close_lock_succeed">Passcode closed successfully!</string>
+    <string name="closed">Turn on</string>
+    <string name="collect">Mark</string>
+    <string name="colse_pass">Enter your passcode</string>
+    <string name="come_vistors">Visited</string>
+    <string name="commentCount">Comment (%1$d)</string>
+    <string name="comment_add">Add comments</string>
+    <string name="comment_already_deleted">The comment is deleted</string>
+    <string name="comment_asc">Comment (in order)</string>
+    <string name="comment_desc">Comments (inverted order)</string>
+    <string name="comment_failure">Failed to comment</string>
+    <string name="comment_max_hint">The reply must be less than %d characters</string>
+    <string name="comment_min_hint">"Content of replying can't be blank"</string>
+    <string name="comment_success">Commented successfully</string>
+    <string name="comments_more">View all comments</string>
+    <string name="common_member">Ordinary member</string>
+    <string name="common_server_error">Something is wrong with the server, please wait for a while</string>
+    <string name="confirm">Confirm</string>
+    <string name="confirm_join_date">Join the date</string>
+    <string name="confirm_join_date_detail">"Please remember the date's location and time.
+
+ After you confirm it, the system will send a message to the date host"</string>
+    <string name="confirm_password">Confirm the password</string>
+    <string name="confirm_quit_date">Confirm to quit the date?</string>
+    <string name="confirm_to_send_photo">Send photo?</string>
+    <string name="confirm_unfollow">Confirm to unfollow?</string>
+    <string name="connect_conflict">Your account has been logged in at another device</string>
+    <string name="constellation_aquarius">Aquarius</string>
+    <string name="constellation_aries">Aries</string>
+    <string name="constellation_cancer">Cancer</string>
+    <string name="constellation_capricorn">Capricorn</string>
+    <string name="constellation_gemini">Gemini</string>
+    <string name="constellation_leo">Leo</string>
+    <string name="constellation_libra">Libra</string>
+    <string name="constellation_pisces">Pisces</string>
+    <string name="constellation_sagittarius">Sagittarius</string>
+    <string name="constellation_scorpio">Scorpio</string>
+    <string name="constellation_taurus">Taurus</string>
+    <string name="constellation_virgo">Virgo</string>
+    <string name="content_desc_view_detail_arrow">Details</string>
+    <string name="cooperation">Collaboration</string>
+    <string name="copy_message">Copy the message</string>
+    <string name="create">Create</string>
+    <string name="create_date">Initiate an date</string>
+    <string name="create_group">Create a group</string>
+    <string name="current_version_setting">Version</string>
+    <string name="d_pending_request">Pending requests: %1d</string>
+    <string name="date">Dates</string>
+    <string name="date_desc_limit">Description (40 characters at least)</string>
+    <string name="date_finished">Previous dates</string>
+    <string name="date_info">Date details</string>
+    <string name="date_title_limit">No more than 40 characters</string>
+    <string name="date_type_bar">Bar</string>
+    <string name="date_type_coffee">Coffee</string>
+    <string name="date_type_dinner">Dinner</string>
+    <string name="date_type_movie">Movie</string>
+    <string name="date_type_other">Other</string>
+    <string name="date_type_salon">Salon</string>
+    <string name="date_type_show">Show</string>
+    <string name="date_type_sing">Sing</string>
+    <string name="date_type_sports">Sports</string>
+    <string name="date_types">Date classification</string>
+    <string name="dating">Dates in progress</string>
+    <string name="del_all_cancel">Do you want to discard the draft?</string>
+    <string name="del_all_msg">Delete all messages?</string>
+    <string name="del_collect">Cancel the collecting</string>
+    <string name="del_hidden">Unhide</string>
+    <string name="del_top">Cancel the Sticky Post</string>
+    <string name="delete">Delete</string>
+    <string name="delete_confirm">Confirm to delete?</string>
+    <string name="delete_date">Delete</string>
+    <string name="delete_pic">Delete photo</string>
+    <string name="delete_success">Deleted</string>
+    <string name="delete_this_talk_session">Delete the chatting</string>
+    <string name="deleting"><CDATA>Deleting……</CDATA></string>
+    <string name="desc">Description</string>
+    <string name="desc_your_group">Describe your group...</string>
+    <string name="dest_file_empty">The target file does not exist</string>
+    <string name="disconnect_service">"Couldn't connect to the server"</string>
+    <string name="do_filter">Filter</string>
+    <string name="do_new_date">Initiate a new date</string>
+    <string name="done_download">Downloaded. Install now!</string>
+    <string name="downloading_photo_with_progress">Downloading photo: %1$d</string>
+    <string name="downloading_voice_try_later">Downloading the voice message now, please try again later</string>
+    <string name="edit_image">Edit the picture</string>
+    <string name="edit_image_failed">Failed to edit the picture</string>
+    <string name="end_to_here">End here</string>
+    <string name="english">English</string>
+    <string name="enter_zank">Join ZANK Today</string>
+    <string name="error_code">Captcha error, please enter again</string>
+    <string name="error_create_camera_file">Cannot photograph. Failed to create picture file</string>
+    <string name="error_create_temp_file">Cannot edit. Failed to create temporary file</string>
+    <string name="error_email">Please enter a valid email address!</string>
+    <string name="error_email_tip">The email address not exist</string>
+    <string name="error_munber">Please enter a valid phone number</string>
+    <string name="error_no_camera">No camera applications are found, so cannot photograph</string>
+    <string name="error_no_gallery">No application (storage) is found to select photo</string>
+    <string name="error_password">The password should be no less than 6 characters</string>
+    <string name="error_pick_photo">Failed to select photo</string>
+    <string name="error_sdcard_unmounted">Cannot use SD card</string>
+    <string name="error_take_photo">Error occurred when taking photos</string>
+    <string name="exit_circle">Quit the circle</string>
+    <string name="exit_current_account">Log Out</string>
+    <string name="exits_successfully">Quit successfully!</string>
+    <string name="fan">Followers</string>
+    <string name="fan_s">"Followers
+%s"</string>
+    <string name="feedback_dialog_save">Save</string>
+    <string name="figure">Figure</string>
+    <string name="filter_age">Filter by age</string>
+    <string name="filter_between_min_max_age">%1$d - %2$d</string>
+    <string name="filter_height">Filter by height (cm)</string>
+    <string name="filter_isonline">Online</string>
+    <string name="filter_min_height_need_smaller_than_big_height">Your heaviest weight can’t be lower than the lightest weight</string>
+    <string name="filter_min_weight_need_smaller_than_big_weight">Your heaviest weight can’t be lower than the lightest weight</string>
+    <string name="filter_minage_need_smaller_than_bigage">The maximum age should not be lower than the minimum age</string>
+    <string name="filter_on">Activate the filter</string>
+    <string name="filter_setting">Filter setting</string>
+    <string name="filter_weight">Filter by weight (kg)</string>
+    <string name="finish_dating">Complete the date</string>
+    <string name="floor_with_number">%1$d楼</string>
+    <string name="follow">Follow</string>
+    <string name="follow_s">"Following
+%s"</string>
+    <string name="follow_xh">Friend</string>
+    <string name="follow_y">Following</string>
+    <string name="follows">Following</string>
+    <string name="forget_password">Forgot password?</string>
+    <string name="friend">WeChat Moment</string>
+    <string name="from_comment">Comments (inverted order)</string>
+    <string name="getGroupInfoFailure">Failed to get the group information</string>
+    <string name="going_is">Go there</string>
+    <string name="grid_view">Grid view</string>
+    <string name="group">Groups</string>
+    <string name="group_confirm_discard">Dismiss group: %1$s?</string>
+    <string name="group_confirm_exit">Quit group: %1$s?</string>
+    <string name="group_confirm_upgrade">Upgrade group: %1$s?</string>
+    <string name="group_desc_not_allow_less_than_10_worlds">Group introduction should contain at least 20 characters!</string>
+    <string name="group_desc_not_allow_more_than_200_worlds">Group introduction should contain at most 400 characters!</string>
+    <string name="group_description">Group introduction</string>
+    <string name="group_discard">Dismiss the group</string>
+    <string name="group_group_host_can_not_shield">The group host cannot mute</string>
+    <string name="group_joined_too_much">"You've joined in more than 50 groups"</string>
+    <string name="group_loading">Loading...</string>
+    <string name="group_member">Group Members</string>
+    <string name="group_message">Group Message</string>
+    <string name="group_mine">My Groups</string>
+    <string name="group_name">Group name</string>
+    <string name="group_name_and_desc_load_failure">Failed to acquire the group name and description!</string>
+    <string name="group_name_not_allow_less_than_4_worlds">The group name should contain at least 8 characters!</string>
+    <string name="group_name_not_allow_more_than_10_worlds">The group name should contain at most 20 characters!</string>
+    <string name="group_owner">Creator</string>
+    <string name="group_quit">Quit the group</string>
+    <string name="group_remove_this_user_failure">Failed to kick the user out!</string>
+    <string name="group_removing">Deleting ...</string>
+    <string name="group_request_send_failure_try_later">Failed to join in the group, please try again later</string>
+    <string name="group_request_send_success">Your request is sent</string>
+    <string name="group_sending">Sending the group request……</string>
+    <string name="group_tag">Group tags</string>
+    <string name="group_tag_can_not_be_null">"Can't be blank"</string>
+    <string name="group_tag_hint">添加自定义标签,长度2~4个字</string>
+    <string name="group_tag_must_between_2_to_4_worlds">A tag should be within 4 to 8 characters</string>
+    <string name="group_update_success_please_wait">Upgrade is done and the administrator is reviewing it……</string>
+    <string name="has_approved">People liked</string>
+    <string name="has_not_modify">No modification</string>
+    <string name="have_no_navigation_app">Sorry, you have no navigation app</string>
+    <string name="have_no_result">No result</string>
+    <string name="height">Height</string>
+    <string name="height_unit">cm</string>
+    <string name="height_weight">Height/Weight</string>
+    <string name="height_with_number">%1$scm</string>
+    <string name="hint_current_password">Password</string>
+    <string name="hint_desc_txt">Introduce yourself...</string>
+    <string name="hint_new_email">New Email</string>
+    <string name="hint_new_password">New password</string>
+    <string name="hint_no_post">Join the interest forum first</string>
+    <string name="hint_profile_no_about_me">Oops, this lazy guy leaves nothing here</string>
+    <string name="hint_profile_no_circle">"You haven't joined in any circle"</string>
+    <string name="hint_profile_no_detail_info">Oops, this lazy guy leaves nothing here</string>
+    <string name="hint_profile_no_photo">"You haven't uploaded any photos"</string>
+    <string name="hint_profile_no_post">"You haven't published or comment in any post"</string>
+    <string name="hint_profile_no_tag">添加个性标签，获得更多关注</string>
+    <string name="hint_repeat_new_password">Re-type new password</string>
+    <string name="hint_search_circle_or_post">Search circles or topics</string>
+    <string name="hint_search_date">Search dates</string>
+    <string name="hint_search_date_or_keyword">Search dates or keywords</string>
+    <string name="hint_search_group">Search groups</string>
+    <string name="hint_search_group_or_keyword">Search groups or keywords</string>
+    <string name="hint_search_user">Search users</string>
+    <string name="his_album">Photos</string>
+    <string name="hot">Hot</string>
+    <string name="hot_tags">Hot tags</string>
+    <string name="identifying_code">Captcha</string>
+    <string name="ignore_unread">Mark all as read</string>
+    <string name="image_already_save_to_album">The picture is saved in memory card catalog/zank/image</string>
+    <string name="image_choose_title">Select picture</string>
+    <string name="image_have_not_found">Hasn’t found any images～the image is loading now</string>
+    <string name="input_phone">Enter your phone number</string>
+    <string name="input_six_pass">Enter the password of more than 6 characters</string>
+    <string name="interest_circle">May be interested in circles:</string>
+    <string name="invite_friends_to_circle">Invite friends to the circle</string>
+    <string name="invite_friends_to_circle_text">邀请您加入ZANK【%1$s】圈子，新版ZANK有很多有趣的圈子，快来下载吧。下载地址：http://download.izank.com/</string>
+    <string name="invite_user_number">Participants</string>
+    <string name="job">Job hunting</string>
+    <string name="join_circle">Join in the circle</string>
+    <string name="join_date">Join the date</string>
+    <string name="join_date_request">Want to join your date</string>
+    <string name="join_group">Join the group</string>
+    <string name="join_group_request">Want to join your group</string>
+    <string name="json_parse_error_tip">Data error</string>
+    <string name="jump_but">Skip</string>
+    <string name="just_now">Just now</string>
+    <string name="list_view">List view</string>
+    <string name="load_hot_tab_failure">Failed to load the hot tags</string>
+    <string name="loading">Loading</string>
+    <string name="loading_unfinished">Still loading</string>
+    <string name="location_here">Locate there:</string>
+    <string name="lodding">Loading</string>
+    <string name="login">Log In</string>
+    <string name="login_expire">Login expired, please log in again</string>
+    <string name="login_with_facebook">Log in with Facebook</string>
+    <string name="look_other_group">Detail</string>
+    <string name="look_other_profile">View his profile</string>
+    <string name="look_zan_people">Who liked the date</string>
+    <string name="lz">Poster</string>
+    <string name="make_name">For example: Zhongshan Park Badminton</string>
+    <string name="make_sure_delete">Confirm to delete?</string>
+    <string name="manage_request">Request</string>
+    <string name="message_acked">Read</string>
+    <string name="message_delivered">Sent</string>
+    <string name="message_noti">Notifications</string>
+    <string name="modify">Edit</string>
+    <string name="modify_detail">Update Info</string>
+    <string name="modify_email">Change registration mail address</string>
+    <string name="modify_pass">Change password</string>
+    <string name="more_actions">More operations</string>
+    <string name="move_up_to_cancel">Slide up to cancel</string>
+    <string name="msg_type_unknown">"[Unknown type of message, can't be displayed]"</string>
+    <string name="my_collect">Marked</string>
+    <string name="my_crate">Created</string>
+    <string name="my_create_date">Initiated</string>
+    <string name="my_date_setting">My Dates</string>
+    <string name="my_fans">Followers</string>
+    <string name="my_follows">Following</string>
+    <string name="my_issuancen">My posts</string>
+    <string name="my_join">Joined</string>
+    <string name="my_photo">Mine</string>
+    <string name="my_post">My Posts</string>
+    <string name="my_take_part_in">Joined</string>
+    <string name="near_people">People Nearby</string>
+    <string name="nearby">Nearby</string>
+    <string name="need_age">Please select your age</string>
+    <string name="need_height">Please select your height</string>
+    <string name="need_nickname">Please enter the nickname</string>
+    <string name="need_type_your_place">Please select your location</string>
+    <string name="need_type_your_role">Please select your role</string>
+    <string name="need_upload_your_avatar_first">Please upload your portrait first</string>
+    <string name="network_not_available">No internet connection.</string>
+    <string name="network_not_available_need_check">No internet connection. Please try again later</string>
+    <string name="new_password">New password</string>
+    <string name="next_step">Next</string>
+    <string name="nickname">Username</string>
+    <string name="no_connection_error">No internet connection. Please try again later</string>
+    <string name="no_data">No data</string>
+    <string name="no_data_for_now">No data</string>
+    <string name="no_date_for_now">No dates now</string>
+    <string name="no_group_avatar">You have to upload an image for the group !</string>
+    <string name="no_joined_circle">"You haven't joined in any circle"</string>
+    <string name="no_message_for_now">No messages</string>
+    <string name="no_more">No more</string>
+    <string name="no_pending_request">No new requests so far</string>
+    <string name="no_photo_for_now">No photo...</string>
+    <string name="no_post">No topics</string>
+    <string name="not_allow_without_modify">"No modifications selected, can't send the request!"</string>
+    <string name="not_post_collcet">No Content is Marked</string>
+    <string name="not_post_public">No topic has been posted</string>
+    <string name="notalk_default_post">No comments yet!</string>
+    <string name="nothing_with_parenthesis">(None)</string>
+    <string name="notice">Attention</string>
+    <string name="notification_setting">Notification</string>
+    <string name="offline_notify">Offline notification</string>
+    <string name="ok">Confirm</string>
+    <string name="ok_go">Set now</string>
+    <string name="ok_kown">Got it</string>
+    <string name="old">Age</string>
+    <string name="old_password">Original password</string>
+    <string name="once_again_to_exit">Tap again to quit the app</string>
+    <string name="only_lz">Only see the poster</string>
+    <string name="only_vip_can_download">"Non-VIP users can't download"</string>
+    <string name="open_gps">Enable now</string>
+    <string name="open_hot_area">Hotspot</string>
+    <string name="open_in_browser">Open in a browser</string>
+    <string name="opened">Turn off</string>
+    <string name="or">or</string>
+    <string name="ordinary_member">Ordinary member</string>
+    <string name="other_sex">Other</string>
+    <string name="out_group">Are you sure to remove [ {0} ] from the group？</string>
+    <string name="oversea_phone">Overseas cell phone number</string>
+    <string name="oversea_phone_login">Log in with you phone number</string>
+    <string name="overseas">Overseas</string>
+    <string name="p_email">Email</string>
+    <string name="parse_error">Data error</string>
+    <string name="pass_fail">Password Error</string>
+    <string name="pass_no_same">Passwords do not match!</string>
+    <string name="password">Password</string>
+    <string name="password_not_the_same">Passwords do not match</string>
+    <string name="pay_failed">Pay Failed</string>
+    <string name="pay_for_vip">Pay For Vip</string>
+    <string name="pay_processing">Pay Processing</string>
+    <string name="pay_success">Pay Success</string>
+    <string name="people_count">%1$d members</string>
+    <string name="permission_not_granted">Authorization failed</string>
+    <string name="phone">China (+86)</string>
+    <string name="phone_already_used">The phone number is already used for registration</string>
+    <string name="phone_find">Captcha is sent to: %1$s</string>
+    <string name="phone_is_register">The mobile phone number has been used</string>
+    <string name="phone_or_email">Phone or Email</string>
+    <string name="photo">Photos</string>
+    <string name="photo_content">Caption ……</string>
+    <string name="photo_desc_more_than_200_worlds">Description of the photo should be within 400 characters!</string>
+    <string name="photo_description">Description</string>
+    <string name="photo_detail">Details</string>
+    <string name="photo_exists">The file is saved</string>
+    <string name="photo_report">Report</string>
+    <string name="photo_show_tab_follow">Follow</string>
+    <string name="photo_show_tab_hot">Hot</string>
+    <string name="photo_show_tab_nearby">Nearby</string>
+    <string name="photo_type">[Image]</string>
+    <string name="photo_wall">Photos</string>
+    <string name="place">Location</string>
+    <string name="placeholder_sticker">{Sticker}</string>
+    <string name="please_change_the_range">Switch to another scope</string>
+    <string name="please_input_validate_account">Please enter a valid account</string>
+    <string name="please_input_validate_phone_number">Please enter phone number</string>
+    <string name="please_launch_a_date">Go initiate an date</string>
+    <string name="please_send_message">No more waiting, take action</string>
+    <string name="post_from">Topic from: %s</string>
+    <string name="post_trends">News Feed</string>
+    <string name="prepare_avatar">Pre-set portrait</string>
+    <string name="prompt">Attention</string>
+    <string name="province">Province</string>
+    <string name="qq_friend">QQ Friends</string>
+    <string name="recent_vistors_list">Visitors</string>
+    <string name="recoding_fail">Failed to record, try again!</string>
+    <string name="recommend_app_desc">"Let me introduce you to ZANK, the gay men's social network, where you can initiate events like having dinners, singing together, watching movies and playing ball games, so cool! Search ZANK in application store. http://zank.mobi/"</string>
+    <string name="recommend_subject_hint">%1$s • %2$s • Comments: %3$d</string>
+    <string name="register">Sign Up</string>
+    <string name="register_conceal_tip">"欢迎您使用ZANK。ZANK产品是飞赞提供的服务！为使用飞赞的服务，您应当阅读并遵守《飞赞服务协议》（以下简称“本协议”）。请您务必审慎阅读、充分理解各条款内容，特别是免除或者限制责任的条款，以及开通或使用某项服务的单独协议。
+ 　　除非您已阅读并接受本协议所有条款，否则您无权使用飞赞提供的服务。您使用飞赞的服务即视为您已阅读并同意上述协议的约束。
+ 　　如果您未满18周岁，请在法定监护人的陪同下阅读本协议，并特别注意未成年人使用条款。
+
+ 一、【协议的范围】
+ 　　1.1本协议是您与飞赞之间关于用户使用飞赞相关服务所订立的协议。“飞赞”是指飞赞公司及其一系列产品可能存在的运营关联单位。“用户”是指使用飞赞相关服务的使用人，在本协议中更多地称为“您”。
+ 　　1.2本协议项下的服务是指飞赞向用户提供的包括但不限于即时通讯、网络媒体、互联网增值、互动娱乐、电子商务和广告等产品及服务（以下简称“本服务”）。
+ 　　1.3您在使用飞赞某一特定服务时，该服务可能会另有单独的协议、相关业务规则等（以下统称为“单独协议”）。上述内容一经正式发布，即为本协议不可分割的组成部分，您同样应当遵守。您对前述任何业务规则、单独协议的接受，即视为您对本协议全部的接受。
+
+ 二、【帐号与密码安全】
+ 　　2.1您在使用飞赞的服务时可能需要注册一个帐号。关于您使用帐号的具体规则，请遵守《飞赞用户账号规则》和单独协议。
+ 　　2.2飞赞特别提醒您应妥善保管您的帐号和密码。当您使用完毕后，应安全退出。因您保管不善可能导致遭受盗号或密码失窃，责任由您自行承担。
+
+ 三、【用户个人信息保护】
+ 　　3.1保护用户个人信息是飞赞的一项基本原则。
+ 　　3.2您在注册帐号或使用本服务的过程中，可能需要填写一些必要的信息。若国家法律法规有特殊规定的，您需要填写真实的身份信息。若您填写的信息不完整，则无法使用本服务或在使用过程中受到限制。
+ 　　3.3一般情况下，您可随时浏览、修改自己提交的信息，但出于安全性和身份识别（如号码申诉服务）的考虑，您可能无法修改注册时提供的初始注册信息及其他验证信息。
+ 　　3.4飞赞将运用各种安全技术和程序建立完善的管理制度来保护您的个人信息，以免遭受未经授权的访问、使用或披露。
+ 　　3.5飞赞保护用户的隐私，不会将用户的邮箱、联系方式等信息透露给第三方。
+
+ 四、【使用本服务的方式】
+ 　　4.1除非您与飞赞另有约定，您同意本服务仅为您个人非商业性质的使用。
+ 　　4.2您应当通过飞赞提供或认可的方式使用本服务。您依本协议条款所取得的权利不可转让。
+ 　　4.3您不得使用未经飞赞授权的插件、外挂或第三方工具对本协议项下的服务进行干扰、破坏、修改或施加其他影响。
+
+ 五、【按现状提供服务】
+ 您理解并同意，飞赞的服务是按照现有技术和条件所能达到的现状提供的。飞赞会尽最大努力向您提供服务，确保服务的连贯性和安全性；但飞赞不能随时预见和防范法律、技术以及其他风险，包括但不限于不可抗力、病毒、木马、黑客攻击、系统不稳定、第三方服务瑕疵、政府行为等原因可能导致的服务中断、数据丢失以及其他的损失和风险。
+
+ 六、【自备设备】
+ 　　6.1您应当理解，您使用飞赞的服务需自行准备与相关服务有关的终端设备（如电脑、调制解调器等装置），并承担所需的费用（如电话费、上网费等费用）。
+ 　　6.2您理解并同意，您使用本服务时会耗用您的终端设备和带宽等资源。
+
+ 七、【广告】
+ 　　7.1您同意飞赞可以在提供服务的过程中自行或由第三方广告商向您发送广告、推广或宣传信息（包括商业与非商业信息），其方式和范围可不经向您特别通知而变更。
+ 　　7.2飞赞可能为您提供选择关闭广告信息的功能，但任何时候您都不得以本协议未明确约定或飞赞未书面许可的方式屏蔽、过滤广告信息。
+ 　　7.3飞赞依照法律的规定对广告商履行相关义务，您应当自行判断广告信息的真实性并为自己的判断行为负责，除法律明确规定外，您因依该广告信息进行的交易或前述广告商提供的内容而遭受的损失或损害，飞赞不承担责任。
+ 　　7.4您同意，对飞赞服务中出现的广告信息，您应审慎判断其真实性和可靠性，除法律明确规定外，您应对依该广告信息进行的交易负责。
+
+ 八、【第三方提供的产品或服务】
+ 您在飞赞平台上使用第三方提供的产品或服务时，除遵守本协议约定外，还应遵守第三方的用户协议。飞赞和第三方对可能出现的纠纷在法律规定和约定的范围内各自承担责任。
+
+ 九、【知识产权声明】
+ 　　9.1飞赞在本服务中提供的信息内容（包括但不限于网页、文字、图片、音频、视频、图表等）的知识产权均归飞赞所有，但用户在使用本服务前对自己发布的信息已合法取得知识产权的除外。
+ 　　9.2飞赞在本服务中所使用的“飞赞”、ZANK、“赞客”等商业标识，其著作权或商标权归飞赞所有。
+ 　　9.3上述及其他任何飞赞依法拥有的知识产权均受到法律保护，未经飞赞书面许可，您不得以任何形式进行使用或创造相关衍生作品。
+
+ 十、【用户违法行为】
+ 　　10.1您在使用本服务时须遵守法律法规，不得利用本服务从事违法违规行为，包括但不限于：
+ 　　（1）发布、传送、传播、储存危害国家安全统一、破坏社会稳定、违反公序良俗、侮辱、诽谤、淫秽、暴力以及任何违反国家法律法规的内容；
+ 　　（2）发布、传送、传播、储存侵害他人知识产权、商业秘密等合法权利的内容；
+ 　　（3）恶意虚构事实、隐瞒真相以误导、欺骗他人；
+ 　　（4）发布、传送、传播广告信息及垃圾信息；
+ 　　（5）其他法律法规禁止的行为。
+ 　　10.2如果您违反了本条约定，相关国家机关或机构可能会对您提起诉讼、罚款或采取其他制裁措施，并要求飞赞给予协助。造成损害的，您应依法予以赔偿，飞赞不承担任何责任。
+ 　　10.3如果飞赞发现或收到他人举报您发布的信息违反本条约定，飞赞有权进行独立判断并采取技术手段予以删除、屏蔽或断开链接。同时，飞赞有权视用户的行为性质，采取包括但不限于暂停或终止服务，限制、冻结或终止账户使用，追究法律责任等措施。
+ 　　10.4您违反本条约定，导致任何第三方损害的，您应当独立承担责任；飞赞因此遭受损失的，您也应当一并赔偿。
+
+ 十一、【遵守当地法律监管】
+ 　　11.1您在使用本服务过程中应当遵守当地相关的法律法规，并尊重当地的道德和风俗习惯。如果您的行为违反了当地法律法规或道德风俗，您应当为此独立承担责任。
+ 　　11.2您应避免因使用本服务而使飞赞卷入政治和公共事件，否则飞赞有权暂停或终止对您的服务。
+
+ 十二、【用户发送、传播的内容与第三方投诉处理】
+ 　　12.1您通过本服务发送或传播的内容（包括但不限于网页、文字、图片、音频、视频、图表等）均由您自行承担责任。
+ 　　12.2您发送或传播的内容应有合法来源，相关内容为您所有或您已获得权利人的授权。
+ 　　12.3您同意飞赞可为履行本协议或提供本服务的目的而使用您发送或传播的内容。
+ 　　12.4如果飞赞收到权利人通知，主张您发送或传播的内容侵犯其相关权利的，您同意飞赞有权进行独立判断并采取删除、屏蔽或断开链接等措施。
+
+ 十三、【不可抗力及其他免责事由】
+ 　　13.1您理解并同意，在使用本服务的过程中，可能会遇到不可抗力等风险因素，使本服务发生中断。不可抗力是指不能预见、不能克服并不能避免且对一方或双方造成重大影响的客观事件，包括但不限于自然灾害如洪水、地震、瘟疫流行和风暴等以及社会事件如战争、动乱、政府行为等。出现上述情况时，飞赞将努力在第一时间与相关单位配合，及时进行修复，但是由此给您造成的损失腾讯在法律允许的范围内免责。
+ 　　13.2在法律允许的范围内，飞赞对以下情形导致的服务中断或受阻不承担责任：
+ 　　（1）受到计算机病毒、木马或其他恶意程序、黑客攻击的破坏；
+ 　　（2）用户或飞赞的电脑软件、系统、硬件和通信线路出现故障；
+ 　　（3）用户操作不当；
+ 　　（4）用户通过非飞赞授权的方式使用本服务；
+ 　　（5）其他飞赞无法控制或合理预见的情形。
+ 　　13.3您理解并同意，在使用本服务的过程中，可能会遇到网络信息或其他用户行为带来的风险，飞赞不对任何信息的真实性、适用性、合法性承担责任，也不对因侵权行为给您造成的损害负责。这些风险包括但不限于：
+ 　　（1）来自他人匿名或冒名的含有威胁、诽谤、令人反感或非法内容的信息；
+ 　　（2）因使用本协议项下的服务，遭受他人误导、欺骗或其他导致或可能导致的任何心理、生理上的伤害以及经济上的损失；
+ 　　（3）其他因网络信息或用户行为引起的风险。
+ 　　13.4您理解并同意，本服务并非为某些特定目的而设计，包括但不限于核设施、军事用途、医疗设施、交通通讯等重要领域。如果因为软件或服务的原因导致上述操作失败而带来的人员伤亡、财产损失和环境破坏等，飞赞不承担法律责任。
+ 　　13.5飞赞依据本协议约定获得处理违法违规内容的权利，该权利不构成飞赞的义务或承诺，飞赞不能保证及时发现违法行为或进行相应处理。
+ 　　13.6在任何情况下，您不应轻信借款、索要密码或其他涉及财产的网络信息。涉及财产操作的，请一定先核实对方身份，并请经常留意飞赞有关防范诈骗犯罪的提示。
+
+ 十四、【协议的生效与变更】
+ 　　14.1您使用飞赞的服务即视为您已阅读本协议并接受本协议的约束。
+ 　　14.2飞赞有权在必要时修改本协议条款。您可以在相关服务页面查阅最新版本的协议条款。
+ 　　14.3本协议条款变更后，如果您继续使用飞赞提供的软件或服务，即视为您已接受修改后的协议。如果您不接受修改后的协议，应当停止使用飞赞提供的软件或服务。
+
+ 十五、【服务的变更、中断、终止】
+ 　　15.1飞赞可能会对服务内容进行变更，也可能会中断、中止或终止服务。
+ 　　15.2如发生下列任何一种情形，飞赞有权不经通知而中断或终止向您提供的服务：
+ 　　（1）根据法律规定您应提交真实信息，而您提供的个人资料不真实、或与注册时信息不一致又未能提供合理证明；
+ 　　（2）您违反相关法律法规或本协议的约定；
+ 　　（3）按照法律规定或主管部门的要求；
+ 　　（4）出于安全的原因或其他必要的情形。
+ 　　15.3您有责任自行备份存储在本服务中的数据。如果您的服务被终止，飞赞可以从服务器上永久地删除您的数据。服务终止后，飞赞没有义务向您返还数据。
+
+ 十六、【管辖与法律适用】
+ 　　16.1本协议签订地为中华人民共和国北京市海淀区。
+ 　　16.2本协议的成立、生效、履行、解释及纠纷解决，适用中华人民共和国大陆地区法律（不包括冲突法）。
+ 　　16.3若您和飞赞之间发生任何纠纷或争议，首先应友好协商解决；协商不成的，您同意将纠纷或争议提交本协议签订地有管辖权的人民法院管辖。
+ 　　16.4本协议所有条款的标题仅为阅读方便，本身并无实际涵义，不能作为本协议涵义解释的依据。
+ 　　16.5本协议条款无论因何种原因部分无效或不可执行，其余条款仍有效，对双方具有约束力。
+
+ 十七、【未成年人使用条款】
+ 　　17.1若用户未满18周岁，则为未成年人，应在监护人监护、指导下阅读本协议和使用本服务。
+ 　　17.2未成年人用户涉世未深，容易被网络虚象迷惑，且好奇心强，遇事缺乏随机应变的处理能力，很容易被别有用心的人利用而又缺乏自我保护能力。因此，未成年人用户在使用本服务时应注意以下事项，提高安全意识，加强自我保护：
+ 　　（1）认清网络世界与现实世界的区别，避免沉迷于网络，影响日常的学习生活；
+ 　　（2）填写个人资料时，加强个人保护意识，以免不良分子对个人生活造成骚扰；
+ 　　（3）在监护人或老师的指导下，学习正确使用网络；
+ 　　（4）避免陌生网友随意会面或参与联谊活动，以免不法分子有机可乘，危及自身安全。
+
+ 十八、【其他】
+ 如果您对本协议或本服务有意见或建议，可与飞赞客户服务部门联系（contact@feizan.com），我们会给予您必要的帮助。
+ 
+
+
+ 飞赞网"</string>
+    <string name="register_success">Registered successfully</string>
+    <string name="register_tip">By using ZANK, you agreed to obey the</string>
+    <string name="register_tip_1">Terms of service and privacy policies</string>
+    <string name="register_way">Why mobile phone？</string>
+    <string name="register_way_tip">ZANK新版使用手机号注册，目的是打造一个真实的社区，保证每位加入社区的赞友都是可信赖的。我们非常注重隐私保护，你的手机号将加密保存。手机号仅在注册以及找回密码等特殊场合用于收取验证，ZANK不会主动发送其他信息。欢迎加入真实、可信赖的ZANK社区！</string>
+    <string name="registration_stated">Registration Statement</string>
+    <string name="reject">Reject</string>
+    <string name="rejected">Rejected</string>
+    <string name="rejecting">Rejecting</string>
+    <string name="relationship_status">Relationship</string>
+    <string name="release_to_cancel">Release to cancel</string>
+    <string name="remove_from_blacklist">Removing from the blacklist</string>
+    <string name="ren">Man</string>
+    <string name="repeat">Repeat</string>
+    <string name="replay_floor_with_number">回复 %1$d楼</string>
+    <string name="replay_more_than_200_worlds">The content of replying should be within 512 characters!</string>
+    <string name="reply">Reply</string>
+    <string name="reply_sb">回复 %1$s</string>
+    <string name="reply_sb_content">回复 %1$s %2$s</string>
+    <string name="report">Report</string>
+    <string name="report_confirm">Confirm to report? Malicious reporting will be punished</string>
+    <string name="report_success">Reported successfully</string>
+    <string name="request_error">Error occurs when requesting</string>
+    <string name="request_file_is_empty">File is Empty</string>
+    <string name="request_link_is_empty">The link of request is blank!</string>
+    <string name="requesting">Requesting...</string>
+    <string name="requet_identifying_code">"Request
+Captcha"</string>
+    <string name="resend_after_60s">Send again in 60s</string>
+    <string name="resend_with_seconds">%1$ss Re-send</string>
+    <string name="residual_n_worlds">%1$d/%2$d</string>
+    <string name="restrictions_nickname">The length must be 2-8 characters!</string>
+    <string name="restrictions_nickname_less">Your nick name must be at least 2 characters</string>
+    <string name="restrictions_nickname_more">Your nickname must be 1-8 characers</string>
+    <string name="review_feedback_setting">Feedback</string>
+    <string name="role">Role</string>
+    <string name="rotate_left">Rotate to the left</string>
+    <string name="rotate_right">Rotate to the right</string>
+    <string name="s_circle">"%s's circles"</string>
+    <string name="s_topic">"%s's topics"</string>
+    <string name="save_photo_in">The file saved in: %1$s</string>
+    <string name="save_to_local">Save to the device</string>
+    <string name="saving_photo_with_progress">Saving the photo: %1$d</string>
+    <string name="say_hello_ordinary_member">Hi, ordinary member</string>
+    <string name="say_hello_vip_member">Hi, VIP member</string>
+    <string name="say_some_thing">Say something</string>
+    <string name="sb_reply_sb_content">%1$s: 回复 %2$s: %3$s</string>
+    <string name="search">Search</string>
+    <string name="search_for">Search:</string>
+    <string name="search_history">Searching history</string>
+    <string name="search_keyword_less_than_2_worlds">Search terms must be at least 2 words!</string>
+    <string name="select_tag_max">不能超过20个标签</string>
+    <string name="send_img">Reply with photo (no pornographic photo allowed)</string>
+    <string name="send_message">Send message</string>
+    <string name="set_message">Mute</string>
+    <string name="set_new_pass_text">Password must be 4 numbers</string>
+    <string name="set_pass_text">Please enter the passcode</string>
+    <string name="setting">Settings</string>
+    <string name="sex_type">Role</string>
+    <string name="share_cancel">Cancel sharing</string>
+    <string name="share_circle">Share to the circle</string>
+    <string name="share_failed">Failed to share</string>
+    <string name="share_success">Shared successfully</string>
+    <string name="sound">Voice</string>
+    <string name="src_file_decode_error">Cannot acquire source file</string>
+    <string name="src_file_empty">"Source file doesn't exist"</string>
+    <string name="start_circle">Open the Circle</string>
+    <string name="start_download">Start Downloading</string>
+    <string name="start_form_here">Start here</string>
+    <string name="sticker_gallery">Sticker Shop</string>
+    <string name="subject">Top Stories</string>
+    <string name="subject_description_hint">The content you enter must be at least 10 characters</string>
+    <string name="subject_done">Finish</string>
+    <string name="subject_done_with_number">End (%1$d)</string>
+    <string name="subject_get_all_comments">Check all comments</string>
+    <string name="subject_max_select_tip_with_number">%1$d photo can be selected</string>
+    <string name="subject_publish">Post a topic</string>
+    <string name="subject_publish_menu">Post</string>
+    <string name="subject_same_city">Local topics</string>
+    <string name="subject_send_failed">Failed to sent the topic, please try again</string>
+    <string name="subject_send_success">Topic is sent successfully</string>
+    <string name="subject_title_hint">The title you enter can range from 4-20 characters</string>
+    <string name="switch_speaker">Use player to play audio</string>
+    <string name="tab_circle">Interests</string>
+    <string name="tab_comment">His posts</string>
+    <string name="tab_discovery">Discover</string>
+    <string name="tab_message">Chat</string>
+    <string name="tab_near_people">Nearby</string>
+    <string name="tab_publish">His posts</string>
+    <string name="tab_settings">Me</string>
+    <string name="tab_subject">Post a topic</string>
+    <string name="tag_mun">个标签</string>
+    <string name="tag_number_exceeded">"Can't choose more than %d"</string>
+    <string name="tag_profile">Tribes</string>
+    <string name="tag_type_">个性标签</string>
+    <string name="take_photo">Take photos</string>
+    <string name="this_user_not_exists">"The user doesn't exist"</string>
+    <string name="time">Time</string>
+    <string name="time_format_m_d_h_m">M D E HH: mm</string>
+    <string name="time_format_yyyy_mm_dd_hh_mm">yyyy MM dd HH: mm</string>
+    <string name="timeout_error">Network time-out. Please try again later</string>
+    <string name="tip">"Welcome to create your own group! Attention: 
+1. Don't create groups relating to pornography or criminality 
+2. After applying, please wait for verifications."</string>
+    <string name="tip_ask_logout">Confirm to Log Out?</string>
+    <string name="tip_begin_to_login">"Logging in
+Please wait"</string>
+    <string name="tip_cache_cleared">Cache cleared</string>
+    <string name="tip_get_location_failed">Failed to locate. Please make sure you have allowed ZANK to use your GPS</string>
+    <string name="tip_login_no_password">"The password can't be blank"</string>
+    <string name="tip_modify_avatar">Change portrait (no pornographic photo)</string>
+    <string name="tip_modify_email_success">Succeeded. Please log in the newly registered mailbox and activate</string>
+    <string name="tip_modify_password_success">Password changed</string>
+    <string name="tip_msg_syncing">Synchronising messages (%1$d / %2$d)</string>
+    <string name="tip_msgs_clearing">Marking...</string>
+    <string name="tip_need_enable_gps">You can check out the people around you once you enable the GPS</string>
+    <string name="tip_no_avatar_no_date">A portrait is necessary for initiating an date. Go upload your portrait.</string>
+    <string name="tip_no_avatar_no_group">A portrait is necessary for creating a group. Go upload your portrait.</string>
+    <string name="tip_no_avatar_no_send_message">"You can't send a message before you set a portrait"</string>
+    <string name="tip_no_more_data">No more data</string>
+    <string name="tip_not_18">"You're not 18 years' old yet"</string>
+    <string name="tip_open_sond">You can disable notifications at setting.</string>
+    <string name="tip_opening_gps">Locating</string>
+    <string name="tip_please_input_height">Please select height (cm)</string>
+    <string name="tip_please_input_height_weight">Please select height (cm)/ weight (kg)</string>
+    <string name="tip_please_input_weight">Please select weight (kg)</string>
+    <string name="tip_reset_password_success">Password resetting mail is sent to: %1$s</string>
+    <string name="tip_unable_create_group_without_location">Can’t locate. Unable to create group</string>
+    <string name="title">Title</string>
+    <string name="to">To</string>
+    <string name="to_circle">Interests</string>
+    <string name="too_much_worlds">Word accounts exceed</string>
+    <string name="top">Top</string>
+    <string name="true_pass">Confirm your passcode</string>
+    <string name="type">Type</string>
+    <string name="umeng_fb_back">Back</string>
+    <string name="umeng_fb_change_contact_title">Change contact Info</string>
+    <string name="umeng_fb_contact_email">Email</string>
+    <string name="umeng_fb_contact_info">Contact Info</string>
+    <string name="umeng_fb_contact_info_hint">Email, MSN, Gtalk, or whatever we can find you.</string>
+    <string name="umeng_fb_contact_key_email">email</string>
+    <string name="umeng_fb_contact_key_other">plain</string>
+    <string name="umeng_fb_contact_key_phone">phone</string>
+    <string name="umeng_fb_contact_key_qq">qq</string>
+    <string name="umeng_fb_contact_other">Other</string>
+    <string name="umeng_fb_contact_phone">Phone</string>
+    <string name="umeng_fb_contact_qq">QQ</string>
+    <string name="umeng_fb_contact_save">Save</string>
+    <string name="umeng_fb_count_down">Count down</string>
+    <string name="umeng_fb_feedback">Feedback</string>
+    <string name="umeng_fb_no_record_permission">No permission of record</string>
+    <string name="umeng_fb_notification_content_formatter_multiple_msg">You received %d new replies from the app developer.</string>
+    <string name="umeng_fb_notification_content_formatter_single_msg">New reply: %s</string>
+    <string name="umeng_fb_notification_ticker_text">Got new reply</string>
+    <string name="umeng_fb_please_select_picture">Please select a picture</string>
+    <string name="umeng_fb_press_speech">Hold to Talk</string>
+    <string name="umeng_fb_record_fail">Record fail</string>
+    <string name="umeng_fb_record_time_short">Message too short</string>
+    <string name="umeng_fb_release_cancel">Release to cancel</string>
+    <string name="umeng_fb_release_send">Release to Send</string>
+    <string name="umeng_fb_reply_content_default">Your precious feedback are appriciated.</string>
+    <string name="umeng_fb_send">Send</string>
+    <string name="umeng_fb_send_fail">Send fail</string>
+    <string name="umeng_fb_sending">Sending…</string>
+    <string name="umeng_fb_slide_up_cancel">Slide up to cancel</string>
+    <string name="umeng_fb_time_minutes_ago">%d minutes ago</string>
+    <string name="umeng_fb_time_pre_year_format">yy/MM/dd HH:mm:ss</string>
+    <string name="umeng_fb_time_right_now">Just now</string>
+    <string name="umeng_fb_time_this_year_format">MM/dd HH:mm:ss</string>
+    <string name="umeng_fb_title">Feedback</string>
+    <string name="umeng_fb_write_contact_title">Write contact Info</string>
+    <string name="unblock">Unblock</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="unlimited">No limit</string>
+    <string name="update_success">Updated successfully</string>
+    <string name="update_verify_number">Refresh the captcha</string>
+    <string name="update_verify_number_failure">Failed to refresh the captcha!</string>
+    <string name="user_details">Details</string>
+    <string name="user_search">Search user</string>
+    <string name="validate_number_can_not_be_null">The captcha is blank</string>
+    <string name="verify_code">Captcha</string>
+    <string name="verify_code_error_re_input">The verification code is wrong, please type it again!</string>
+    <string name="verify_failure">Verification failed</string>
+    <string name="verify_success">Verification Successful</string>
+    <string name="versatile">Versatile</string>
+    <string name="version">Version</string>
+    <string name="vibrate">Vibrate</string>
+    <string name="vip_member">VIP member</string>
+    <string name="vip_setting">Membership</string>
+    <string name="vip_tip">"You can gain VIP membership by attending dates. Please pay close attention to Zank' s official dates!"</string>
+    <string name="visitors">Visitors</string>
+    <string name="visitors_s">"Visitors
+%s"</string>
+    <string name="voice_type">[Voice]</string>
+    <string name="wait_to_ensure">Confirming</string>
+    <string name="wander">Travel</string>
+    <string name="website_title">Website</string>
+    <string name="wecat">WeChat</string>
+    <string name="weibo">Microblog</string>
+    <string name="weight">Weight</string>
+    <string name="weight_unit">kg</string>
+    <string name="weight_with_number">%1$skg</string>
+    <string name="yaoqinghaoyou">Invite Friends</string>
+    <string name="you_got_new_message">You have a new message</string>
+    <string name="zan_dates_people">Who liked the date</string>
+    <string name="zan_photo">Liked</string>
+    <string name="zank_number">ZANK ID: %1$d</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="baidutieba">百度贴吧</string>
+    <string name="baidutieba_client_inavailable">目前您的百度贴吧版本过低或未安装，需要安装百度贴吧才能使用</string>
+    <string name="beauty_dialog_desc">desc</string>
+    <string name="beauty_dialog_progressing_loading">加载中…</string>
+    <string name="fb_app_id">1436129243361838</string>
+    <string name="instapager_login_html" formatted="false">&lt;!DOCTYPE html> &lt;html> &lt;head> &lt;meta content=\"text/html; charset=utf-8\" http-equiv=\"Content-Type\"> &lt;meta content=\"width=device-width,minimum-scale=1,maximum-scale=1,initial-scale=1,user-scalable=no\" id=\"viewport\" name=\"viewport\"> &lt;meta content=\"yes\" name=\"apple-mobile-web-app-capable\"> &lt;title>%s&lt;/title> &lt;style type=\"text/css\"> body{margin:0;padding:0} .inputstyle { -webkit-tap-highlight-color:rgba(255,255,255,0); width:100%%; height:44px; color:#000; background:0; border:0; font-size:16px; outline: none; -webkit-appearance:none } .btn { width:90%%; height:44px; line-height:44px; background:#A0C035; border:0; border-radius:4px; color:#fff; font-size:16px; text-align:center; margin-top:15px; display:block } .btn:disabled { background: #dddddd; } .error { color:red; } &lt;/style> &lt;/head> &lt;body> &lt;script type=\"text/javascript\"> function login(form){ var u=form[\"u\"].value,p=form[\"p\"].value; if(!u || !p) return false; form[\"s\"].disabled = true; return true; } &lt;/script> &lt;form style=\"margin-top:45px;\" action=\"%s\" metho=\"get\" onsubmit=\"return login(this);\"> %s &lt;div style=\"padding-left:15px;border-top:1px solid #E3E3E5;border-bottom:1px solid #E3E3E5;\"> &lt;input type=\"hidden\" name=\"ID_SIGN\" value=\"OWELJSFPWECSFEW\"/> &lt;input class=\"inputstyle\" id=\"u\" name=\"u\" type=\"text\" value=\"%s\" placeholder=\"%s\" style=\"border-bottom:1px solid #E3E3E5;\"/> &lt;input class=\"inputstyle\" id=\"p\" name=\"p\" type=\"password\" placeholder=\"%s\"/> &lt;/div> &lt;p>&lt;input style=\"margin:0 auto;\" type=\"submit\" name=\"s\" value=\" %s \" class=\"btn\"/>&lt;/p> &lt;/form> &lt;/body> &lt;/html></string>
+    <string name="key_amap_release">YW8iqbGbvu9biAen68AP2SgF</string>
+    <string name="mapboxAndroidSDKVersion">0.7.4</string>
+    <string name="share_to_baidutieba">分享到百度贴吧</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="toolTipAddress">Address</string>
+    <string name="toolTipDescription">Description</string>
+    <string name="toolTipTitle">Title</string>
+    <string name="tray__authority">com.feizan.android.snowball.tray</string>
+    <string name="umeng_fb_questions_anwser">A:</string>
+    <string name="umeng_fb_questions_question">Q:</string>
+    <string name="yesterday">yesterday</string>
+    <string name="zank_oauth_btn_login">授权和登录</string>
+    <string name="zank_oauth_confirm_pay">确认支付</string>
+    <string name="zank_oauth_login">授权登录</string>
+    <string name="zank_oauth_login_first">请先登录</string>
+    <string name="zank_oauth_pay_id">ZANK ID：%1$s</string>
+    <string name="zank_oauth_pay_nickname">账号：%1$s</string>
+    <string name="zank_oauth_pay_title">支付</string>
+    <string name="zank_oauth_permission">"允许使用您的头像
+允许使用您关注关系
+允许使用您的基本资料"</string>
+    <string name="zank_oauth_tip">使用ZANK账号授权并登录</string>
+</resources>

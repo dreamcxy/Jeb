@@ -1,0 +1,2599 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="KeyAccessFristMe">Boolean:false</string>
+    <string name="KeyAccessLastIndex">Integer:-1</string>
+    <string name="KeyLastNClicks">String:</string>
+    <string name="KeyLastWarnMessage">Long:0</string>
+    <string name="KeyNaverSearchLastVersionCode">String:null</string>
+    <string name="KeyNaverSearchLastVersionName">String:null</string>
+    <string name="KeyPrevNClicks">String:</string>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="acc_activity_add_favorite_sites">자주가는 사이트 추가</string>
+    <string name="acc_activity_app_downloadcenter">앱 다운로드센터</string>
+    <string name="acc_activity_download_manager">다운로드 관리</string>
+    <string name="acc_activity_favorite_sites">자주가는 사이트</string>
+    <string name="acc_activity_history_manager">방문기록</string>
+    <string name="acc_activity_naver_me">네이버 미</string>
+    <string name="acc_activity_naverlab">네앱 연구소</string>
+    <string name="acc_activity_notice">공지사항</string>
+    <string name="acc_activity_personal_info">인터넷 사용기록</string>
+    <string name="acc_activity_program_info">프로그램 정보</string>
+    <string name="acc_activity_push_noti">새 소식 알림</string>
+    <string name="acc_activity_search_suggest_list">검색어를 입력하세요</string>
+    <string name="acc_activity_setup">네이버앱 설정</string>
+    <string name="acc_activity_shortcut">빠른 실행 아이콘 추가</string>
+    <string name="acc_activity_url_input">URL을 입력하세요</string>
+    <string name="acc_activity_url_input_clear">입력창 내용 삭제 버튼</string>
+    <string name="acc_activity_va">음성 대화 호출명 설정</string>
+    <string name="acc_activity_widget">위젯 투명도 조절</string>
+    <string name="acc_add">추가 버튼</string>
+    <string name="acc_add_bookmark_dialog_cancel_button">닫기 버튼</string>
+    <string name="acc_add_bookmark_dialog_delete_button">수정창 삭제</string>
+    <string name="acc_add_bookmark_dialog_folder">폴더 선택 링크</string>
+    <string name="acc_add_bookmark_dialog_list">북마크 목록 링크</string>
+    <string name="acc_add_bookmark_dialog_ok_button">완료 버튼</string>
+    <string name="acc_add_bookmark_dialog_show">북마크 추가 알림</string>
+    <string name="acc_appdownloadcenter">앱 다운로드센터 링크</string>
+    <string name="acc_appdownloader_all_install">모두설치하기 버튼</string>
+    <string name="acc_appdownloader_all_update">모두업데이트하기 버튼</string>
+    <string name="acc_appdownloader_btn_close">앱 다운로드 센터 닫기 버튼</string>
+    <string name="acc_appdownloader_install_app_list">새로설치목록</string>
+    <string name="acc_appdownloader_install_cancel">설치 취소 버튼</string>
+    <string name="acc_appdownloader_install_start">설치 시작 버튼</string>
+    <string name="acc_appdownloader_install_stop">설치 중지 버튼</string>
+    <string name="acc_appdownloader_installed_app_list">설치한 앱 전체목록</string>
+    <string name="acc_appdownloader_installed_app_tab">설치한 앱보기 탭</string>
+    <string name="acc_appdownloader_no_installed_app">미설치앱만보기 버튼</string>
+    <string name="acc_appdownloader_no_uninstalled_app">모든앱 설치하기 버튼, 새로설치 가능한 앱이 없습니다</string>
+    <string name="acc_appdownloader_no_update_app">모든앱 업데이트하기 버튼, 업데이트 가능한 앱이 없습니다</string>
+    <string name="acc_appdownloader_total_app_list">전체목록</string>
+    <string name="acc_appdownloader_total_app_tab">전체 앱보기 탭</string>
+    <string name="acc_appdownloader_uninstalled_app_count">개의 새로설치 가능앱</string>
+    <string name="acc_appdownloader_update_app_count">개의 업데이트 가능앱</string>
+    <string name="acc_appdownloader_update_app_list">업데이트목록</string>
+    <string name="acc_btn">버튼,</string>
+    <string name="acc_checkbox_off">,선택안함,</string>
+    <string name="acc_checkbox_on">,선택함,</string>
+    <string name="acc_count">개</string>
+    <string name="acc_delete">삭제 버튼</string>
+    <string name="acc_download">다운로드 버튼</string>
+    <string name="acc_download_delete">개 항목 삭제하기</string>
+    <string name="acc_download_share">개 항목 공유하기</string>
+    <string name="acc_edit_cancelpopup_cancel">그냥 이동하기, 버튼</string>
+    <string name="acc_edit_cancelpopup_msg">변경된 내용이 있습니다. 알림</string>
+    <string name="acc_edit_cancelpopup_save">저장하고 이동하기, 버튼</string>
+    <string name="acc_edit_new">,신규</string>
+    <string name="acc_edit_section_selected">,선택됨</string>
+    <string name="acc_edit_section_unselected">,선택안됨</string>
+    <string name="acc_edit_tab_add">주제 추가 탭</string>
+    <string name="acc_edit_tab_close">닫기</string>
+    <string name="acc_edit_tab_more">글자 크기 탭</string>
+    <string name="acc_edit_tab_order">순서 변경 탭</string>
+    <string name="acc_edit_tab_save">저장 버튼</string>
+    <string name="acc_edit_toast_done">적용 완료되었습니다.</string>
+    <string name="acc_extends">확장됨</string>
+    <string name="acc_favorite_add">추가하기</string>
+    <string name="acc_fold">확장안됨</string>
+    <string name="acc_inapp_top_button">맨위로 이동하기</string>
+    <string name="acc_link">링크,</string>
+    <string name="acc_list_close">목록 접기 버튼</string>
+    <string name="acc_list_open">목록 펼치기 버튼</string>
+    <string name="acc_main_delete">입력창 내용 삭제</string>
+    <string name="acc_main_edit_search">검색창, 검색어를 입력하세요</string>
+    <string name="acc_main_extend_search">확장 검색 버튼</string>
+    <string name="acc_main_go_top">맨위로 이동하기</string>
+    <string name="acc_main_home_panel_edit">홈 주제 설정</string>
+    <string name="acc_main_logo">네이버 홈 링크</string>
+    <string name="acc_main_naver_home">네이버 홈</string>
+    <string name="acc_main_open_recent">열려있는 페이지 보기</string>
+    <string name="acc_main_search">검색 버튼</string>
+    <string name="acc_main_search_input">검색어 입력</string>
+    <string name="acc_main_slide_open">메뉴 열기</string>
+    <string name="acc_main_speciallogo_left">스페셜로고 왼쪽 링크</string>
+    <string name="acc_main_speciallogo_right">스페셜로고 오른쪽 링크</string>
+    <string name="acc_many_new_count_format" formatted="false">%s, 새로운 %s 100개 이상 있음</string>
+    <string name="acc_new_bookmark">신규등록 북마크 있음</string>
+    <string name="acc_new_cafe">새 소식 있음</string>
+    <string name="acc_new_count_format" formatted="false">%s, 새로운 %s %d개 있음</string>
+    <string name="acc_new_naverlab">새 알림 있음</string>
+    <string name="acc_new_notice">새 알림 있음</string>
+    <string name="acc_open">열기 버튼</string>
+    <string name="acc_openpage_close">열려있는 페이지창 닫기</string>
+    <string name="acc_openpage_history">방문기록</string>
+    <string name="acc_popup_add_panel_no">아니오 버튼</string>
+    <string name="acc_popup_add_panel_yes">네 버튼</string>
+    <string name="acc_recog_btn_code">코드 인식검색</string>
+    <string name="acc_recog_btn_hanja">한자 인식검색</string>
+    <string name="acc_recog_btn_japan">일본어 인식검색</string>
+    <string name="acc_recog_btn_music">음악 인식검색</string>
+    <string name="acc_recog_btn_sbi">이미지 인식검색</string>
+    <string name="acc_recog_btn_voice">음성 인식검색</string>
+    <string name="acc_recognition_info">이용 방법 안내</string>
+    <string name="acc_search_extends">확장검색</string>
+    <string name="acc_search_extends_bank">은행검색 버튼</string>
+    <string name="acc_search_extends_bus">버스검색 버튼</string>
+    <string name="acc_search_extends_cafe">카페검색 버튼</string>
+    <string name="acc_search_extends_chn">한자검색 버튼</string>
+    <string name="acc_search_extends_code">코드검색 버튼</string>
+    <string name="acc_search_extends_food">음식점검색 버튼</string>
+    <string name="acc_search_extends_inn">숙박검색 버튼</string>
+    <string name="acc_search_extends_jpn">일본어검색 버튼</string>
+    <string name="acc_search_extends_living">생활편의검색 버튼</string>
+    <string name="acc_search_extends_medic">병원검색 버튼</string>
+    <string name="acc_search_extends_music">음악검색 버튼</string>
+    <string name="acc_search_extends_subway">지하철검색 버튼</string>
+    <string name="acc_search_extends_voice">음성검색 버튼</string>
+    <string name="acc_selected">,선택됨</string>
+    <string name="acc_slide_add_shortcut">휴대폰 바탕화면에 추가, 버튼</string>
+    <string name="acc_slide_add_shortcut_done">완료 버튼</string>
+    <string name="acc_slide_allservice_tab">전체서비스 탭</string>
+    <string name="acc_slide_app_downloadcenter">앱 다운로드센터 버튼</string>
+    <string name="acc_slide_app_only">APP만 보기 선택 버튼</string>
+    <string name="acc_slide_blog">블로그 버튼</string>
+    <string name="acc_slide_bookmark">북마크 버튼</string>
+    <string name="acc_slide_button_format">%s, 버튼</string>
+    <string name="acc_slide_cafe">카페 버튼</string>
+    <string name="acc_slide_checkout">체크아웃 버튼</string>
+    <string name="acc_slide_close">확장 메뉴 닫기</string>
+    <string name="acc_slide_divider_format" formatted="false">%s, 확장 링크, %s</string>
+    <string name="acc_slide_favorite_add_btn">즐겨찾기 추가 버튼</string>
+    <string name="acc_slide_favorite_btn">즐겨찾기 버튼</string>
+    <string name="acc_slide_favorite_clear">초기화 버튼</string>
+    <string name="acc_slide_favorite_delete_format">%s, 즐겨찾기 삭제 버튼</string>
+    <string name="acc_slide_favorite_done">완료 버튼</string>
+    <string name="acc_slide_favorite_edit">편집 버튼</string>
+    <string name="acc_slide_favorite_tab">즐겨찾기 탭</string>
+    <string name="acc_slide_footer_login">로그인 버튼</string>
+    <string name="acc_slide_footer_logout">로그아웃 버튼</string>
+    <string name="acc_slide_footer_notice">공지사항 버튼</string>
+    <string name="acc_slide_footer_urlinput">URL 입력 버튼</string>
+    <string name="acc_slide_link_format">%s, 링크</string>
+    <string name="acc_slide_mail">메일 버튼</string>
+    <string name="acc_slide_mail_type">메일</string>
+    <string name="acc_slide_mileage_cash">마일리지 캐쉬 버튼</string>
+    <string name="acc_slide_naver_me">구독 버튼</string>
+    <string name="acc_slide_naver_me_type">구독</string>
+    <string name="acc_slide_naverlab">네앱연구소 버튼</string>
+    <string name="acc_slide_note">쪽지 버튼</string>
+    <string name="acc_slide_note_type">쪽지</string>
+    <string name="acc_slide_noti">알림 버튼</string>
+    <string name="acc_slide_noti_type">알림</string>
+    <string name="acc_slide_npay_start">네이버 페이 시작하기 버튼</string>
+    <string name="acc_slide_open">확장 메뉴 열기</string>
+    <string name="acc_slide_open_page">개의 열려있는 페이지 버튼</string>
+    <string name="acc_slide_phonecare_app_installed_format">내 폰에 설치된 앱 %d개, 버튼</string>
+    <string name="acc_slide_phonecare_appcenter">네이버 앱 센터, 버튼</string>
+    <string name="acc_slide_phonecare_appcenter_update_format">네이버 앱 센터 버튼, 업데이트 가능한 네이버앱 %d개 있음</string>
+    <string name="acc_slide_phonecare_appcenter_update_max">네이버 앱 센터 버튼, 업데이트 가능한 네이버앱 100개 이상 있음</string>
+    <string name="acc_slide_phonecare_refreshmemory">최적화하기, 버튼</string>
+    <string name="acc_slide_pre_page">이전페이지 버튼</string>
+    <string name="acc_slide_profile_image">프로필 이미지</string>
+    <string name="acc_slide_profile_login">로그인하세요, 버튼</string>
+    <string name="acc_slide_profile_name_format">%s, 프로필 페이지 링크</string>
+    <string name="acc_slide_service_center">자주가는 메뉴 설정 버튼</string>
+    <string name="acc_slide_setup">설정</string>
+    <string name="acc_slide_shorcut_add_btn">바로가기 추가 버튼</string>
+    <string name="acc_slide_tab_format" formatted="false">%s, %s개 서비스 있음, %s</string>
+    <string name="acc_slide_talktalk">톡톡 버튼</string>
+    <string name="acc_slide_talktalk_type">톡톡</string>
+    <string name="acc_slide_type_category">주제별 선택 버튼</string>
+    <string name="acc_slide_type_consonant">가나다순 선택 버튼</string>
+    <string name="acc_slide_url_input">URL 입력 버튼</string>
+    <string name="acc_subtext_selected">선택됨</string>
+    <string name="acc_subtext_unselected">선택안됨</string>
+    <string name="acc_toolbar_add_short_icon">홈 화면 추가 버튼</string>
+    <string name="acc_toolbar_another_browser">다른 브라우저 버튼</string>
+    <string name="acc_toolbar_bookmark_list">북마크 목록 버튼</string>
+    <string name="acc_toolbar_capture">화면 캡쳐 버튼</string>
+    <string name="acc_toolbar_download_manager">다운로드 관리 버튼</string>
+    <string name="acc_toolbar_edit_close">닫기</string>
+    <string name="acc_toolbar_edit_save">저장</string>
+    <string name="acc_toolbar_edit_setting">툴바 설정 버튼</string>
+    <string name="acc_toolbar_english_dictionary">영어사전 실행 버튼</string>
+    <string name="acc_toolbar_goto_top">맨 위로 버튼</string>
+    <string name="acc_toolbar_memo">메모 버튼</string>
+    <string name="acc_toolbar_musicsearch">음악검색 버튼</string>
+    <string name="acc_toolbar_mysection">메인에 추가 버튼</string>
+    <string name="acc_toolbar_nightmode">나이트모드 버튼</string>
+    <string name="acc_toolbar_openpage">열린 페이지 버튼</string>
+    <string name="acc_toolbar_save_pdf">pdf 저장 버튼</string>
+    <string name="acc_toolbar_sbi">스마트렌즈 버튼</string>
+    <string name="acc_toolbar_search">통합검색 버튼</string>
+    <string name="acc_toolbar_search_in_page">페이지내 검색 버튼</string>
+    <string name="acc_toolbar_setting">앱 설정 버튼</string>
+    <string name="acc_toolbar_translator">번역기 실행 버튼</string>
+    <string name="acc_toolbar_url_copy">URL 복사 버튼</string>
+    <string name="acc_toolbar_visit_site">자주가는 사이트 버튼</string>
+    <string name="acc_toolbar_voicesearch">음성검색 버튼</string>
+    <string name="acc_url_enter">이동</string>
+    <string name="acc_url_keywordsearch">키워드 검색</string>
+    <string name="acc_url_openpage">개의 열려있는 페이지</string>
+    <string name="acc_webtoolbar_back">이전 페이지 버튼</string>
+    <string name="acc_webtoolbar_bookmark">북마크 버튼</string>
+    <string name="acc_webtoolbar_home">홈 버튼</string>
+    <string name="acc_webtoolbar_more">메뉴 더보기 버튼</string>
+    <string name="acc_webtoolbar_next">다음 페이지 버튼</string>
+    <string name="acc_webtoolbar_otherbrowser">다른 브라우저로 열기 버튼</string>
+    <string name="acc_webtoolbar_pause">로딩중지 버튼</string>
+    <string name="acc_webtoolbar_refresh">새로고침 버튼</string>
+    <string name="acc_webtoolbar_share">공유하기 버튼</string>
+    <string name="accept">Accept</string>
+    <string name="accessibility_date_picker_month">Month</string>
+    <string name="accessibility_date_picker_week">Week</string>
+    <string name="accessibility_date_picker_year">Year</string>
+    <string name="accessibility_datetime_picker_date">Date</string>
+    <string name="accessibility_datetime_picker_time">Time</string>
+    <string name="accessibility_time_picker_ampm">AM/PM</string>
+    <string name="accessibility_time_picker_hour">Hour</string>
+    <string name="accessibility_time_picker_milli">Millisecond</string>
+    <string name="accessibility_time_picker_minute">Minute</string>
+    <string name="accessibility_time_picker_second">Second</string>
+    <string name="actionbar_share">Share</string>
+    <string name="actionbar_textselection_title">Text selection</string>
+    <string name="actionbar_web_search">Web search</string>
+    <string name="add">추가</string>
+    <string name="add_to_contacts">연락처에 저장</string>
+    <string name="add_to_contacts_account_notice_body">"연락처를 저장할 계정을 선택합니다.
+자주 사용하는 계정을 선택하거나, 계정 사용 안함을 선택해주세요."</string>
+    <string name="add_to_contacts_account_notice_title">연락처 계정 안내</string>
+    <string name="add_to_contacts_cancel_notice">연락처가 저장되지 않았습니다.</string>
+    <string name="add_to_contacts_fail_notice">연락처 저장을 실패했습니다.</string>
+    <string name="add_to_contacts_success_notice">"연락처를 저장하였습니다.
+기존에 연락처가 있는 경우에 중복 저장 될 수 있습니다."</string>
+    <string name="add_to_contacts_tel_os22_company">OS 2.2 이전에서는 회사/직책이 저장되지 않습니다.</string>
+    <string name="add_to_contacts_tel_over_3_body">전화번호는 3개까지 저장됩니다.</string>
+    <string name="add_to_contacts_tel_over_3_body_os22_company">전화번호는 3개까지 저장되며, OS 2.2 이전에서는 회사/직책이 저장되지 않습니다.</string>
+    <string name="add_to_contacts_tel_over_3_title">연락처 저장</string>
+    <string name="addshortcut_toast_duplicated_msg">동일한 %s 바로가기가 있습니다.</string>
+    <string name="addshortcut_toast_msg">홈 화면에 바로가기가 생성됩니다.</string>
+    <string name="agree_string">동의</string>
+    <string name="alert_dialog_no">아니오</string>
+    <string name="alert_dialog_yes">네</string>
+    <string name="all">전체</string>
+    <string name="all_install">모두 설치 (미설치</string>
+    <string name="all_install_update">업데이트</string>
+    <string name="all_update">모두 업데이트</string>
+    <string name="allservice_appstore_install_dlg_msg">"앱을 설치하려면 먼저 네이버 앱스토어 앱 설치가 필요합니다.
+설치할까요?"</string>
+    <string name="allservice_appstore_install_dlg_negative">취소</string>
+    <string name="allservice_appstore_install_dlg_positive">설치</string>
+    <string name="allservice_appstore_install_dlg_title">네이버 앱스토어 앱 설치</string>
+    <string name="amtime">오전</string>
+    <string name="appEditingTitleText">모바일앱 편집</string>
+    <string name="app_download_center">네이버 앱 센터</string>
+    <string name="app_name">NAVER</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="appcore_dialog_btn_agree">동의</string>
+    <string name="appcore_dialog_btn_cancel">취소</string>
+    <string name="appcore_dialog_btn_ok">확인</string>
+    <string name="appcore_dialog_btn_retry">재시도</string>
+    <string name="appcore_dialog_btn_setting">환경설정</string>
+    <string name="appcore_dialog_msg_3g_notsupport">3G가 지원되지 않는 기기 입니다.통화나 메시지와 같은 기능은 이용할 수 없습니다.</string>
+    <string name="appcore_dialog_msg_address_error">"URL 주소가 잘못 입력되었거나
+변경 혹은 삭제되어
+페이지를 열 수 없습니다."</string>
+    <string name="appcore_dialog_msg_auth_error">"인증 정보 또는 인증서 오류입니다.
+인증 정보를 확인해 주세요."</string>
+    <string name="appcore_dialog_msg_location_info_agree">[%s]에서 현재 위치 정보를 사용하고자 합니다. 동의하시겠습니까?</string>
+    <string name="appcore_dialog_msg_location_setting">"위치 정보 설정이 OFF되어 있습니다.
+단말의 '환경설정 > 위치(장소) 및 보안'에서 위치정보 '사용'을 선택해주세요.
+취소하시면 '위치기반 검색'과 '날씨 알림'을 사용할 수 없습니다."</string>
+    <string name="appcore_dialog_msg_location_setting_simple">"스마트폰의 위치 정보 사용 기능이 꺼져있습니다.
+스마트폰 '환경설정 > 연결'에서 '위치' 정보 사용을 켜주세요."</string>
+    <string name="appcore_dialog_msg_network">"네트워크에 연결할 수 없습니다.
+네트워크 상태 확인 후
+다시 시도해 주세요"</string>
+    <string name="appcore_dialog_msg_normal_error">웹 서비스에 오류가 발생했습니다.</string>
+    <string name="appcore_dialog_msg_server_error">"서버 오류로 인해 페이지를 열 수 없습니다.
+서버 관리자에게 문의하세요"</string>
+    <string name="appcore_dialog_msg_temp_network_error">"일시적인 네트워크 오류가 발생했습니다.
+잠시 후 다시 시도해 주세요."</string>
+    <string name="appcore_dialog_title_3g_notsupport">3G 미 지원 알림</string>
+    <string name="appcore_dialog_title_address_error">주소오류</string>
+    <string name="appcore_dialog_title_auth_error">인증오류</string>
+    <string name="appcore_dialog_title_location_info_agree">위치정보 사용 동의</string>
+    <string name="appcore_dialog_title_location_setting">위치 정보 사용 설정</string>
+    <string name="appcore_dialog_title_network">네트워크연결</string>
+    <string name="appcore_dialog_title_normal_error">일반오류</string>
+    <string name="appcore_dialog_title_server_error">서버오류</string>
+    <string name="appcore_msg_error_upload_file_failed">에러! 파일 업로드에 실패했습니다.</string>
+    <string name="appcore_msg_no_app_for_uri">URI를 처리할 수 있는 앱이 존재하지 않아 실행할 수 없습니다.</string>
+    <string name="appcore_msg_progress">진행 중..</string>
+    <string name="appcore_msg_wrong_uri_scheme_format">형식이 잘못된 URI scheme 입니다.</string>
+    <string name="appcore_perm_btn_allow">허용</string>
+    <string name="appcore_perm_btn_deny">거부</string>
+    <string name="appcore_perm_msg_request_allow" formatted="false">"'%s'에서 사용자(단말)의 '%s'를 사용하려고 합니다. 허용 하시겠습니까?"</string>
+    <string name="appcore_perm_name_camera">카메라</string>
+    <string name="appcore_perm_name_mic">마이크</string>
+    <string name="appcore_perm_name_midi_device">미디 장치</string>
+    <string name="appcore_perm_name_protected_media">보호된 미디어</string>
+    <string name="appcore_perm_title_request">권한 요청</string>
+    <string name="appcore_toast_deny_camera">카메라에 대한 권한이 승인되지 않아 사진 촬영 기능은 사용할 수 없습니다.</string>
+    <string name="appcore_toast_deny_file_attach">일부 장치 권한이 승인되지 않아 파일 첨부 기능을 사용할 수 없습니다.</string>
+    <string name="appcore_toast_deny_location">위치 정보 권한이 승인되지 않아 현재 위치를 가져올 수 없습니다.</string>
+    <string name="appcore_toast_deny_mic">마이크에 대한 권한이 승인되지 않아 녹음 기능은 사용할 수 없습니다.</string>
+    <string name="appcore_toast_deny_perm">권한이 승인되지 않아 해당 장치를 사용할 수 없습니다.</string>
+    <string name="appcore_toast_deny_storage">외장 메모리 접근 권한이 승인되지 않아 파일 정보를 사용할 수 없습니다.</string>
+    <string name="appdownload_guide_body_text1">"설치 진행이 중단된 경우
+계속하여 설치 진행을 원하시면,"</string>
+    <string name="appdownload_guide_body_text2">[설치하기]</string>
+    <string name="appdownload_guide_body_text3">버튼을 눌러주세요.</string>
+    <string name="appdownload_guide_title">앱다운로드</string>
+    <string name="appdownload_nopkg">설치정보가 없습니다.</string>
+    <string name="appdownload_update_assert">네이버앱의 업데이트가 완료되면 새로운 버전으로 변경하기 위해 앱이 자동으로 종료됩니다.</string>
+    <string name="appmngr_all_list">전체 앱 목록</string>
+    <string name="appmngr_back">이전</string>
+    <string name="appmngr_button_delete">삭제</string>
+    <string name="appmngr_button_install">설치</string>
+    <string name="appmngr_button_launch">실행</string>
+    <string name="appmngr_cannot_go_googleplay">외부 스토어로 이동할 수 없습니다.</string>
+    <string name="appmngr_delete_list">삭제내역</string>
+    <string name="appmngr_delete_list_clear">초기화</string>
+    <string name="appmngr_dialog_cancel">취소</string>
+    <string name="appmngr_dialog_clear_deleted_list_msg">네이버앱을 통해 삭제한 앱 내역이 모두 사라집니다.</string>
+    <string name="appmngr_dialog_clear_deleted_list_title">삭제내역 초기화</string>
+    <string name="appmngr_dialog_go_googleplay_msg_info">"선택하신 앱 정보 확인을 위해
+구글 플레이 마켓으로 이동합니다."</string>
+    <string name="appmngr_dialog_go_googleplay_msg_install">선택하신 앱을 설치하기 위해 외부 앱스토어로 이동합니다.</string>
+    <string name="appmngr_dialog_go_googleplay_title">구글플레이 마켓으로 이동</string>
+    <string name="appmngr_dialog_install_appstore_msg">앱을 설치하려면 먼저 네이버 앱스토어 앱 설치가 필요합니다. 설치할까요?</string>
+    <string name="appmngr_dialog_install_appstore_ok">설치</string>
+    <string name="appmngr_dialog_install_appstore_title">네이버 앱스토어 앱 설치</string>
+    <string name="appmngr_dialog_ok">확인</string>
+    <string name="appmngr_installed_summary_post">개의 애플리케이션 설치됨</string>
+    <string name="appmngr_installed_summary_pre">이 폰에</string>
+    <string name="appmngr_no_deleted_apps_msg">삭제 내역이 없습니다.</string>
+    <string name="appmngr_no_deleted_apps_sub_msg">"이곳에는 네이버앱을 통해 삭제한 앱들만 표시됩니다.
+
+"</string>
+    <string name="appmngr_no_installed_apps_msg">내 폰에 설치된 애플리케이션이 없습니다.</string>
+    <string name="appmngr_no_installed_apps_sub_msg">"네이버앱은 '전체 앱 목록'에 포함되지 않습니다.
+
+"</string>
+    <string name="appmngr_sort_korean_alphabet">가나다순</string>
+    <string name="appmngr_sort_resent_delete">최근 삭제순</string>
+    <string name="appmngr_sort_resent_install">최근 설치순</string>
+    <string name="appmngr_sort_size">용량순</string>
+    <string name="appmngr_title">내 휴대폰 앱관리</string>
+    <string name="appmngr_total_app_size_format">앱 %sGB</string>
+    <string name="appmngr_total_etc_size_format">그 외 %sGB</string>
+    <string name="appmngr_total_remain_storage_size_format">남은공간 %sGB</string>
+    <string name="appmngr_version_date_format" formatted="false">Version %s / %04d.%02d.%02d</string>
+    <string name="appmngr_version_date_format_for_froyo">Version %s</string>
+    <string name="appstore_finish_msg">"&lt;font color=#444444>통합된 이후에도 네이버앱스토어에서 구매한 앱과
+게임은 동일하게 이용할 수 있으며,&lt;/font>&lt;font color=#00bc39>&lt;br>앱 신규 설치 및 업데이트는 원스토어 또는&lt;br>구글 플레이를 통해 가능&lt;/font>&lt;font color=#444444>합니다.&lt;/font>"</string>
+    <string name="ask_to_knowledgein">지식iN 모바일Q&amp;A에 물어보세요</string>
+    <string name="auto_login_string">자동 로그인 설정</string>
+    <string name="autofill_keyboard_accessory_content_description">Suggestions available</string>
+    <string name="autofill_popup_content_description">Showing autofill popup</string>
+    <string name="avatar_banner_text">&lt;font color=#f5e518>캐릭터&lt;/font>로 프로필을 만들어 보세요!</string>
+    <string name="background_shortcut_bboom">뿜</string>
+    <string name="background_shortcut_naverapp">네이버</string>
+    <string name="background_shortcut_webtoon">웹툰</string>
+    <string name="backup_recover_popup_msg1">"네이버앱에서 이전에 사용하던
+환경을 불러올까요?"</string>
+    <string name="backup_recover_popup_msg2">글자크기, 홈 판 설정 등 %s 저장됨</string>
+    <string name="backup_recover_popup_title">&lt;font color=#00C73C>%s&lt;/font>님 반갑습니다!</string>
+    <string name="barcode_determining">분석 중...</string>
+    <string name="barcode_guide_body_1">"코드를 화면에 비추면 자동으로 인식합니다.
+QR코드/바코드 모두 검색 가능합니다."</string>
+    <string name="barcode_input">바코드 직접입력</string>
+    <string name="barcode_notifiaction_manual_input">바코드 아래의 숫자를 입력해주세요.</string>
+    <string name="barcode_notification_error_manual">"어둡거나 빛이 반사된 경우
+인식되지 않을 수 있습니다."</string>
+    <string name="barcode_notification_in_page">QR코드 / 바코드를 자동으로 인식합니다.</string>
+    <string name="barcode_notification_not_valid">"인식된 바코드의 제품정보를
+찾을 수 없습니다."</string>
+    <string name="barcode_notification_read_fail">인식할 수 없습니다.</string>
+    <string name="barcode_result">코드 검색 결과</string>
+    <string name="barcode_self_edit">직접 입력</string>
+    <string name="barcodehistory_all">전체</string>
+    <string name="barcodehistory_listviewemptynodata1">히스토리</string>
+    <string name="barcodehistory_listviewemptynodata2">가 없습니다.</string>
+    <string name="bitmap_create_fail">이미지 생성을 실패하였습니다.</string>
+    <string name="blfilter_popup_using_other_app">다른 블루라이트 필터 앱을 사용하고 있습니다. 네이버앱의 블루라이트 필터를 중복해서 적용할까요?</string>
+    <string name="blfilter_setting_auto_always">항상</string>
+    <string name="blfilter_setting_auto_dark">주변이 어두울 때</string>
+    <string name="blfilter_setting_auto_manual">수동 (툴바 •••에 버튼 위치)</string>
+    <string name="blfilter_setting_auto_time">시간 예약</string>
+    <string name="blfilter_setting_auto_time_end">종료 시간</string>
+    <string name="blfilter_setting_auto_time_start">시작 시간</string>
+    <string name="blfilter_setting_subtitle_auto">시간 설정</string>
+    <string name="blfilter_setting_subtitle_black">어두운 색상</string>
+    <string name="blfilter_setting_subtitle_color">색상 설정</string>
+    <string name="blfilter_setting_subtitle_kelvin">따뜻한 색상</string>
+    <string name="blfilter_setting_title">색상 및 시간 설정</string>
+    <string name="blfilter_state_auto_always">항상</string>
+    <string name="blfilter_state_auto_dark">어두울 때</string>
+    <string name="blfilter_state_auto_manual">수동</string>
+    <string name="blfilter_state_auto_time">시간 예약</string>
+    <string name="blfilter_state_color_black">어두운</string>
+    <string name="blfilter_state_color_kelvin">따뜻한</string>
+    <string name="blfilter_toast_apply_filter_start">[[START]]부터 나이트모드가 적용됩니다.</string>
+    <string name="blfilter_toast_bright_remove_filter">주변이 밝아져서 블루라이트 필터를 해제합니다.</string>
+    <string name="blfilter_toast_dark_apply_filter">주변이 어두워서 블루라이트 필터를 적용합니다.</string>
+    <string name="blfilter_toast_off_for_perm">권한 설정 변경을 위해 잠시 나이트모드를 종료합니다.</string>
+    <string name="blfilter_toast_overlay_perm_denied">앱 위에 그리기 권한이 없어 나이트모드가 OFF 되었습니다. 이용을 원하시면 권한을 설정해 주세요.</string>
+    <string name="blfilter_toast_restart_after_perm">다시 나이트모드를 시작합니다.</string>
+    <string name="blfilter_toast_sunrise_remove_filter">일출시간이 지나서 블루라이트 필터를 해제합니다.</string>
+    <string name="blfilter_toast_sunset_apply_filter">일몰시간이 지나서 블루라이트 필터를 적용합니다.</string>
+    <string name="book_title">책 인기 검색어</string>
+    <string name="bookmark_add">북마크 추가</string>
+    <string name="bookmark_add_frequent">자주 가는 사이트에 추가</string>
+    <string name="bookmark_add_frequent_msg">자주 가는 사이트로 설정했습니다.</string>
+    <string name="bookmark_del">북마크 삭제</string>
+    <string name="bookmark_del_frequent">자주 가는 사이트 해제</string>
+    <string name="bookmark_del_frequent_msg">자주 가는 사이트를 해제했습니다.</string>
+    <string name="bookmark_edit">북마크 수정</string>
+    <string name="bookmark_frequent">자주 가는 사이트</string>
+    <string name="bookmark_list">북마크 목록</string>
+    <string name="bookmark_list_empty_bookmark_guide_content">"북마크 목록 하단의 '북마크 추가'버튼으로
+원하는 웹페이지를 북마크에 추가해 보세요."</string>
+    <string name="bookmark_list_empty_bookmark_guide_title">북마크가 없습니다.</string>
+    <string name="bookmark_list_empty_favorite_guide_title">자주 가는 사이트가 없습니다.</string>
+    <string name="bookmark_list_empty_guide_bottom">네이버앱 북마크를 이용하면,&lt;br/>&lt;u>PC네이버 툴바와 네이버me&lt;/u>에서&lt;br/>동일한 북마크를 확인할 수 있습니다.</string>
+    <string name="bookmark_list_login_guide_button_login">로그인</string>
+    <string name="bookmark_login_guide">"네이버 아이디로 로그인 하시면,&lt;br>&lt;font color='#898f97'>PC와 모바일 어디에서나 북마크를 추가&lt;/font>하고&lt;br>&lt;font color='#898f97'>저장된 북마크 목록을 이용&lt;/font>할 수 있습니다."</string>
+    <string name="bookmark_start">네이버 북마크 시작</string>
+    <string name="bookmark_start_sync">네이버 북마크와 연동을 시작합니다.</string>
+    <string name="bookmark_sync">네이버 북마크 연동</string>
+    <string name="bookmark_title">북마크</string>
+    <string name="bookmark_wait_sync">잠시만 기다려 주세요.</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="browserFrameFormResubmitLabel">확인</string>
+    <string name="browserFrameFormResubmitMessage">"보려는 페이지에 이미 제출된 데이터('POSTDATA')가 있습니다. 해당 데이터를 다시 보내면 페이지의 양식에서 수행한 작업(예: 검색 또는 온라인 구매)이 반복됩니다."</string>
+    <string name="camera_open_error">"카메라를 실행할 수 없습니다.
+카메라를 실행하고 있는 앱을 종료하거나, 단말기를 재부팅해주세요."</string>
+    <string name="camera_screen">촬영화면</string>
+    <string name="cancel">취소</string>
+    <string name="capture_editor_error">이미지를 불러오지 못 했습니다. 다시 시도해주세요.</string>
+    <string name="capture_editor_save_error">알 수 없는 오류로 이미지 저장에 실패하였습니다.</string>
+    <string name="capture_select_type_print">전체화면 인쇄 및 PDF로 저장</string>
+    <string name="capture_select_type_screen">현재 화면 캡쳐</string>
+    <string name="capture_select_type_title">화면 캡쳐</string>
+    <string name="capture_select_type_webpage">전체 화면 캡쳐</string>
+    <string name="capture_toast_message_fail">이미지를 저장하지 못했습니다.</string>
+    <string name="capture_toast_message_fail_memory">메모리 부족으로 이미지를 저장하지 못했습니다.</string>
+    <string name="capture_toast_message_success">갤러리의 [Naver] 폴더에 저장되었습니다.</string>
+    <string name="change">변경</string>
+    <string name="change_guide_message_bottom">순서를 변경해보세요.</string>
+    <string name="change_guide_message_left">검색창 아래</string>
+    <string name="change_guide_message_right">아이콘을 눌러</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="choose_contacts_account">계정 선택</string>
+    <string name="clear_all">전체 해제</string>
+    <string name="close">닫기</string>
+    <string name="clova_command_fail">음성검색 결과를 찾을 수 없습니다.</string>
+    <string name="clova_command_unsupport">실행할 수 없는 기능입니다.</string>
+    <string name="clova_command_unsupport_on_main">네이버 메인화면에서는 실행할 수 없습니다.</string>
+    <string name="clova_tts_off">음성안내를 종료합니다.</string>
+    <string name="clova_tts_on">음성안내를 시작합니다.</string>
+    <string name="code_activity_title">코드검색</string>
+    <string name="code_search">코드검색</string>
+    <string name="color_picker_button_black">Black</string>
+    <string name="color_picker_button_blue">Blue</string>
+    <string name="color_picker_button_cancel">Cancel</string>
+    <string name="color_picker_button_cyan">Cyan</string>
+    <string name="color_picker_button_green">Green</string>
+    <string name="color_picker_button_magenta">Magenta</string>
+    <string name="color_picker_button_more">More</string>
+    <string name="color_picker_button_red">Red</string>
+    <string name="color_picker_button_set">Set</string>
+    <string name="color_picker_button_white">White</string>
+    <string name="color_picker_button_yellow">Yellow</string>
+    <string name="color_picker_dialog_title">Select color</string>
+    <string name="color_picker_hue">Hue</string>
+    <string name="color_picker_saturation">Saturation</string>
+    <string name="color_picker_value">Value</string>
+    <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
+    <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_like_button_liked">Liked</string>
+    <string name="com_facebook_like_button_not_liked">Like</string>
+    <string name="com_facebook_loading">Loading…</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_loginview_log_in_button">Log in</string>
+    <string name="com_facebook_loginview_log_in_button_continue">Continue with Facebook</string>
+    <string name="com_facebook_loginview_log_in_button_long">Log in with Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="com_facebook_send_button_text">Send</string>
+    <string name="com_facebook_share_button_text">Share</string>
+    <string name="com_facebook_smart_device_instructions">To connect your account, open the Facebook app on your mobile device and check for notifications.</string>
+    <string name="com_facebook_smart_device_instructions_or">- OR -</string>
+    <string name="com_facebook_smart_login_confirmation_cancel">Not you?</string>
+    <string name="com_facebook_smart_login_confirmation_continue_as">Continue as %1$s</string>
+    <string name="com_facebook_smart_login_confirmation_title">Confirm Login</string>
+    <string name="com_facebook_tooltip_default">"You're in control - choose what info you want to share with apps."</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Get Google Play services</string>
+    <string name="common_google_play_services_install_text_phone">"%1$s won't run without Google Play services, which are missing from your phone."</string>
+    <string name="common_google_play_services_install_text_tablet">"%1$s won't run without Google Play services, which are missing from your tablet."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. If the problem persists, please contact the developer for assistance.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s relies on Google Play services, which is not supported by your device. Contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_updating_title">Google Play services are updating</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_name">일반 이름:</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="complete">완료</string>
+    <string name="confirm">확인</string>
+    <string name="connection_err_text">네트워크 연결 실패</string>
+    <string name="contacts">연락처</string>
+    <string name="contacts_account_phone">핸드폰 (계정 사용 안함)</string>
+    <string name="copy_clipboard_msg_ocr">복사되었습니다.</string>
+    <string name="copy_to_clipboard_failure_message">Failed to copy to the clipboard</string>
+    <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
+    <string name="create_calendar_title">Create calendar event</string>
+    <string name="crosswalk_install_title">Crosswalk Project Install</string>
+    <string name="current">현재</string>
+    <string name="data_fail_dialog_message">사용 중 오류가 발생하였습니다.</string>
+    <string name="date_picker_dialog_clear">Clear</string>
+    <string name="date_picker_dialog_other_button_label">Other</string>
+    <string name="date_picker_dialog_set">Set</string>
+    <string name="date_picker_dialog_title">Set date</string>
+    <string name="date_time_picker_dialog_title">Set date and time</string>
+    <string name="decline">Decline</string>
+    <string name="decompression_progress_message">Decompressing the Crosswalk Project Service...</string>
+    <string name="default_browser_label">네이버앱으로 열기</string>
+    <string name="default_search_label">네이버로 검색</string>
+    <string name="delete">삭제</string>
+    <string name="delete_all">전체 선택</string>
+    <string name="delete_all_mykeyword_dialog">"설정된 내 검색어를
+모두 삭제하시겠습니까?"</string>
+    <string name="delete_all_mykeyword_dialog_no">취소</string>
+    <string name="delete_all_mykeyword_dialog_yes">확인</string>
+    <string name="delete_history_colored_html">"&lt;font color='#000000'>검색 기록&lt;/font> &lt;font color='#fe0101'>삭제&lt;/font>"</string>
+    <string name="delete_location_search_history_colored_html">"&lt;font color='#000000'>최근 검색 지역&lt;/font> &lt;font color='#fe0101'>삭제&lt;/font>"</string>
+    <string name="delete_mykeyword_colored_html">"&lt;font color='#000000'>내 검색어&lt;/font> &lt;font color='#fe0101'>전체 삭제&lt;/font>"</string>
+    <string name="deselect_all">선택해제</string>
+    <string name="dialog_link_save">링크 저장</string>
+    <string name="dialog_login_msg">로그인 중</string>
+    <string name="dic_guide_link_block">"사전 사용시에는 링크 클릭이 되지 않으니
+다른 페이지로 이동하려면 사전 기능을 꺼주세요."</string>
+    <string name="dic_on_toolbar_button_dic_off">영어 사전 끄기</string>
+    <string name="dic_on_toolbar_text_postfix">터치해 주세요.</string>
+    <string name="dic_on_toolbar_text_prefix">궁금한 단어를</string>
+    <string name="download_3g_alert_message">"3G(또는 4G)로 연결되어 있습니다.
+파일 다운로드 시 무선 데이터
+이용료가 발생할 수 있습니다.
+
+파일을 다운 받으시겠습니까?"</string>
+    <string name="download_3g_alert_no">아니오</string>
+    <string name="download_3g_alert_yes">네</string>
+    <string name="download_already_exists_toast">Downloading file already exists, abort.</string>
+    <string name="download_cancel_message">"다운로드 중인
+작업이 취소됩니다. 
+취소하시겠습니까?"</string>
+    <string name="download_complete">완료</string>
+    <string name="download_complete_msg">파일을 저장했습니다.</string>
+    <string name="download_continue">이어서하기</string>
+    <string name="download_continue_message">"%d개의 다운로드된
+파일이 존재합니다.
+이어서 설치하시겠습니까?"</string>
+    <string name="download_failed_message">Download failed.</string>
+    <string name="download_failed_toast">Failed to download file.</string>
+    <string name="download_finished_toast">Finished to download file.</string>
+    <string name="download_image_msg">갤러리의 [Naver] 폴더에 저장되었습니다.</string>
+    <string name="download_info">알림</string>
+    <string name="download_manager_button_delete">삭제</string>
+    <string name="download_manager_button_deselectall">전체해제</string>
+    <string name="download_manager_button_selectall">전체선택</string>
+    <string name="download_manager_button_share">공유</string>
+    <string name="download_manager_delete_message">"선택한 파일은 휴대폰에서 삭제되며, 삭제된 파일은 복구할수 없습니다.
+
+삭제하시겠습니까?"</string>
+    <string name="download_manager_delete_yes">삭제</string>
+    <string name="download_manager_deleteall_message">"Download/Naver 폴더 내의 모든 파일이 휴대폰에서 삭제되며, 삭제된 파일은 복구할수 없습니다.
+
+삭제하시겠습니까?"</string>
+    <string name="download_manager_deleteall_no">취소</string>
+    <string name="download_manager_deleteall_yes">전체 삭제</string>
+    <string name="download_manager_dialog_cancel_no">취소</string>
+    <string name="download_manager_dialog_cancel_yes">삭제</string>
+    <string name="download_manager_fail_cancel">다운로드 취소를 실패하였습니다.</string>
+    <string name="download_manager_fail_view">알 수 없는 파일입니다.</string>
+    <string name="download_manager_group_ago">이전</string>
+    <string name="download_manager_group_month">최근 한달</string>
+    <string name="download_manager_group_week">최근 7일</string>
+    <string name="download_manager_item_button_cancel">취소</string>
+    <string name="download_manager_message_cancel">"다운로드 중인 파일을
+삭제 하시겠습니까?"</string>
+    <string name="download_manager_message_delete">선택한 파일을 삭제하시겠습니까?</string>
+    <string name="download_manager_message_deleteall">"다운 받은 파일을 모두
+삭제 하시겠습니까?"</string>
+    <string name="download_manager_message_no_item">다운로드 받은 파일이 없습니다.</string>
+    <string name="download_manager_message_nonselect_delete">삭제할 파일을 선택해주세요.</string>
+    <string name="download_manager_message_nonselect_share">공유할 파일을 선택해주세요.</string>
+    <string name="download_manager_share_title">파일 공유</string>
+    <string name="download_manager_state_download">다운로드 중</string>
+    <string name="download_manager_title">다운로드 파일 관리</string>
+    <string name="download_no">무시하기</string>
+    <string name="download_no_permission_toast">No permission to write, abort.</string>
+    <string name="download_progress_message">Downloading the Crosswalk Project Service from remote host...</string>
+    <string name="download_request_fail">다운로드를 실패했습니다. 잠시 후 다시 시도해주세요.</string>
+    <string name="download_start_msg">다운로드를 시작합니다.</string>
+    <string name="download_start_toast">Downloading file:</string>
+    <string name="download_stop_dialog_msg">"다운로드 중 인 파일이 있습니다.
+
+ 네이버앱 종료 후에도
+계속 다운 받으시겠습니까?"</string>
+    <string name="download_stop_dialog_no">아니오</string>
+    <string name="download_stop_dialog_yes">네</string>
+    <string name="download_unsuccessful">실패</string>
+    <string name="download_unsuccessful_msg">파일을 저장하지 못했습니다.</string>
+    <string name="dummy_char" />
+    <string name="editShortcut">바로가기 편집</string>
+    <string name="edit_add_btn_back">이전</string>
+    <string name="edit_add_btn_close">닫기</string>
+    <string name="edit_add_btn_save">저장</string>
+    <string name="edit_add_toast_selected">&lt;font color=#00df43>[[TITLE]]&lt;/font> &lt;font color=#ffffff>주제가 추가됩니다.&lt;/font></string>
+    <string name="edit_add_toast_selected_under_min">&lt;font color=#ffffff>판을&lt;/font> &lt;font color=#00df43>[[MIN]]개 이상&lt;/font>&lt;font color=#ffffff> 선택해 주세요.&lt;/font></string>
+    <string name="edit_add_toast_unselected">&lt;font color=#00df43>[[TITLE]]&lt;/font> &lt;font color=#ffffff>주제가 숨김처리됩니다.&lt;/font></string>
+    <string name="edit_bookmark_delete">삭제</string>
+    <string name="edit_bookmark_delete_fail">"네트워크 오류로 [FAILCOUNT]개 북마크
+삭제에 실패했습니다.
+다시 시도해 주세요"</string>
+    <string name="edit_bookmark_delete_positive">확인</string>
+    <string name="edit_bookmark_delete_success">개의 북마크가 삭제되었습니다.</string>
+    <string name="edit_bookmark_select_more_max">최대 20개 까지 선택 가능합니다.</string>
+    <string name="edit_bookmark_title">북마크 편집</string>
+    <string name="edit_cancel_popup_message">"변경된 내용을 저장하지 않고
+홈으로 이동하시겠습니까?"</string>
+    <string name="edit_cancel_popup_message_without_save">변경된 내용을 저장할까요?</string>
+    <string name="edit_cancel_popup_negative_btn_text">저장안함</string>
+    <string name="edit_cancel_popup_positive_btn_text">네</string>
+    <string name="edit_fontsize_preview">글자가 이 크기로 보입니다.</string>
+    <string name="edit_list_tab_title_more">글자·커버</string>
+    <string name="edit_list_tab_title_more_under_kk">글자 크기</string>
+    <string name="edit_list_top_sub_title">홈에 추가된 주제</string>
+    <string name="edit_list_top_title">네이버홈 설정</string>
+    <string name="edit_manage_init_popup">"네이버에서 제공하는
+기본 판만 남길까요?"</string>
+    <string name="edit_manage_toast_autosort_mysection">&lt;font color=#00c73c>#판&lt;/font>&lt;font color=#ffffff>은 맨 끝에 배치됩니다.&lt;/font></string>
+    <string name="edit_manage_toast_init">&lt;font color=#ffffff>네이버에서 제공하는 &lt;/font>&lt;font color=#0ae04a>기본판&lt;/font>&lt;font color=#ffffff>만 남깁니다.&lt;/font></string>
+    <string name="edit_popup_no">아니오</string>
+    <string name="edit_popup_yes">네</string>
+    <string name="edit_recommend_hello_text">&lt;font color=#00c73c>[[USER_ID]]&lt;/font>&lt;font color=#222222>님 안녕하세요!&lt;/font></string>
+    <string name="edit_recommend_section_title">&lt;font color=#00c73c>[[USER_ID]]&lt;/font>&lt;font color=#424242>님을 위한 추천&lt;/font></string>
+    <string name="edit_recommend_subtitle_mysection">&lt;font color=#00c73c>#판&lt;/font>&lt;font color=#666666>은 맨 끝에 배치됩니다.&lt;/font></string>
+    <string name="edit_recommend_title_news_only">"최근 [[UNUSED_PERIOD]]일간 뉴스판만 보셨네요.
+뉴스형 콘텐츠판 [[COUNT]]개만 남길까요?"</string>
+    <string name="edit_recommend_title_recommend">"최근 [[UNUSED_PERIOD]]일간 안 본 판은 제외하고
+자주 보는 순서로 정리할까요?"</string>
+    <string name="edit_reset_popup_message">"네이버가 제공하는 기준으로
+주제 노출순서를 변경하시겠습니까?"</string>
+    <string name="edit_tab_cancel_popup_cancel_btn">취소</string>
+    <string name="edit_tab_cancel_popup_message">변경된 내용이 있습니다.</string>
+    <string name="edit_tab_cancel_popup_negative_btn">그냥 이동하기</string>
+    <string name="edit_tab_cancel_popup_positive_btn_with_save">저장하고 이동하기</string>
+    <string name="edit_toast_order_changed">&lt;font color=#ffff00>[[TITLE]]&lt;/font> &lt;font color=#ffffff>주제 순서가 변경되었습니다.&lt;/font></string>
+    <string name="edit_toast_selected">&lt;font color=#ffff00>[[TITLE]]&lt;/font> &lt;font color=#ffffff>주제가 추가됩니다.&lt;/font></string>
+    <string name="edit_toast_selected_under_min">&lt;font color=#ffffff>주제판은&lt;/font> &lt;font color=#ffff00>최소 [[MIN]]개&lt;/font> &lt;font color=#ffffff>이상 선택하셔야 합니다.&lt;/font></string>
+    <string name="edit_toast_unselected">&lt;font color=#ffff00>[[TITLE]]&lt;/font> &lt;font color=#ffffff>주제가 숨김처리됩니다.&lt;/font></string>
+    <string name="empty_image_word">이미지 문자를 입력해 주세요.</string>
+    <string name="empty_login_id">아이디를 입력해 주세요.</string>
+    <string name="empty_login_pw">비밀번호를 입력해 주세요.</string>
+    <string name="engineApkUrl">http://appdown.naver.com/naver/app/apks/20.50.533.19/XWalkRuntimeLib.apk</string>
+    <string name="engineDownloadCancel">브라우저 엔진 다운로드가 취소 되었습니다.</string>
+    <string name="engineDownloadError">"다운로드 중 오류가 발생했습니다.
+잠시 후 다시 시도해주세요."</string>
+    <string name="engineLabMinVer">20.50.533.19</string>
+    <string name="engineLowStroage">"다운로드를 위한 저장공간이 부족합니다.
+저장공간 정리 후 다시 시도해주세요."</string>
+    <string name="engineMinVer">20.50.533.15</string>
+    <string name="engineNetworkDisconnected">"네트워크가 연결되어 있지 않습니다.
+네트워크 연결 후 다시 시도해주세요."</string>
+    <string name="engine_download">"네이버 브라우저엔진v2 (약 16MB)
+다운로드 후 사용할 수 있습니다.
+파일을 다운로드 하시겠습니까?"</string>
+    <string name="engine_download_warning_data">"네이버 브라우저엔진v2 (16MB)
+다운로드 후 사용할 수 있습니다.
+파일을 다운로드 하시겠습니까?
+(이동통신망으로 연결되어 데이터 이용료가 발생할 수 있습니다.)"</string>
+    <string name="engine_off_lab_feature">네이버 브라우저엔진v2을 해제하면 %s도 함께 해제됩니다. 계속하시겠습니까?</string>
+    <string name="engine_on_font">폰트 적용을 위해서 브라우저엔진이 필요합니다.사용하시겠습니까?</string>
+    <string name="engine_restart_for_lab_feature">"브라우저엔진v2 지원 기능으로
+사용하려면 앱을 종료한 후
+다시 시작해야 합니다.
+재실행 하시겠습니까?"</string>
+    <string name="engine_restart_for_lab_feature_after_download">"해당 기능을 사용하려면
+앱을 종료한 후 다시 실행해야합니다.
+지금 바로 재실행 하시겠어요?"</string>
+    <string name="engine_unpack_failure_msg">네이버 브라우저 엔진 업데이트 실패 했습니다. 기본 엔진으로 전환 합니다.</string>
+    <string name="engine_unpacking_msg">현재 브라우저 엔진 업데이트 중입니다. 잠시만 기다려주세요 (최장 1분 소요 예상)</string>
+    <string name="engine_update">"네이버 브라우저엔진v2 업데이트 후 사용할 수 있습니다.
+파일을 업데이트 하시겠습니까?"</string>
+    <string name="engine_usage_off">네이버 브라우저엔진 사용을 해제하시겠습니까?</string>
+    <string name="engine_usage_on">네이버 브라우저엔진을 사용하시겠습니까?</string>
+    <string name="engine_warn_data">"이동통신망으로 연결되어
+데이터 이용료가 발생할 수 있습니다."</string>
+    <string name="engine_warn_mobile">"이동통신망으로 연결되어
+데이터 이용료가 발생할 수 있습니다."</string>
+    <string name="error_device_initialize">"초기화에 실패했습니다.
+잠시 후 다시 시도해 주세요."</string>
+    <string name="error_no_qrcode">QR코드를 찾을 수 없습니다.</string>
+    <string name="expires_on">만료 날짜:</string>
+    <string name="favorite_site">자주 가는 사이트</string>
+    <string name="find_next">Find Next</string>
+    <string name="find_previous">Find Prev</string>
+    <string name="finish_toast">"'뒤로'버튼을 한번 더 누르시면 종료됩니다."</string>
+    <string name="finished_service_summary">"네이버 홈에서 노출이 종료되었습니다.r
+아래 버튼을 눌러 편집화면으로 이동 후r
+다른 메뉴를 선택해주세요."</string>
+    <string name="finished_service_title">홈 메뉴 노출 종료안내</string>
+    <string name="force_on_toast_editguide_text">"검색창 아래 + 아이콘을 눌러
+순서를 변경해보세요."</string>
+    <string name="forgot_password">아이디나 비밀번호가 기억나지 않으세요?</string>
+    <string name="friday">금</string>
+    <string name="game_end">종료</string>
+    <string name="game_ing">진행중</string>
+    <string name="gesture_after_certain">제스처 인식 후</string>
+    <string name="gesture_before_certain">제스처 인식 전</string>
+    <string name="gesture_color_black">검정</string>
+    <string name="gesture_color_blue">파랑</string>
+    <string name="gesture_color_green">초록</string>
+    <string name="gesture_color_purple">보라</string>
+    <string name="gesture_color_red">빨강</string>
+    <string name="gesture_color_yellow">노랑</string>
+    <string name="gps">위치</string>
+    <string name="guide_popup_title_2">이용 방법</string>
+    <string name="gwocr_guide_method">네이버 그린윈도우를 다음 방법 중 한 가지 방법으로 촬영해 주세요.</string>
+    <string name="gwocr_guide_taking_exact">그린윈도우의 위/아래/왼쪽 영역이 보이도록 촬영</string>
+    <string name="gwocr_guide_taking_whole">그린윈도우 전체를 촬영</string>
+    <string name="hasSendVisitSiteCountNelo">Boolean:false</string>
+    <string name="hint_pwd">네이버 비밀번호</string>
+    <string name="hint_username">네이버 아이디</string>
+    <string name="history">히스토리</string>
+    <string name="history_dialog_title">검색 기록</string>
+    <string name="history_manager_deleteall_message">"방문 기록이 전체 삭제됩니다.
+삭제하시겠습니까?"</string>
+    <string name="history_manager_deleteall_no">취소</string>
+    <string name="history_manager_deleteall_yes">전체 삭제</string>
+    <string name="history_manager_group_today">오늘</string>
+    <string name="history_manager_group_twoweek">최근 14일</string>
+    <string name="history_manager_group_week">최근 7일</string>
+    <string name="history_manager_group_yesterday">어제</string>
+    <string name="history_manager_message_no_item">최근 2주 동안 방문한 기록이 없습니다.</string>
+    <string name="history_manager_message_no_item_setting">"[설정 > 인터넷 사용기록 > 방문 URL 저장]을 ON상태로
+최근 방문한 기록을 확인할 수 있습니다."</string>
+    <string name="history_manager_title">방문기록</string>
+    <string name="history_msg_all_delete_item">리스트의 모든 항목을 삭제하시겠습니까?</string>
+    <string name="history_msg_delete_item">선택한 항목을 삭제하시겠습니까?</string>
+    <string name="history_msg_delete_item_empty">삭제할 항목을 선택해주세요.</string>
+    <string name="history_msg_delete_item_zero">삭제할 수 있는 항목이 없습니다.</string>
+    <string name="history_msg_fail_delete_item_title">삭제 실패 알림</string>
+    <string name="history_tab_title_image">이미지</string>
+    <string name="history_tab_title_text">문자인식</string>
+    <string name="hmac_mobileapps">F5SEkT2C4yfng2TsaPhmzHtQ5K5MDHS4EGEG1HpxBPMtn2SMg6gVvQfVs4ctFIZO</string>
+    <string name="hmac_vision">elJLMZDMZhHlu/DtulLjQx3TQQrIJjcMPvt4eUFn9XbZpUXU4BQGLz3sb849spnk</string>
+    <string name="home_banner_text1">해외에서 접속 중이신가요?</string>
+    <string name="home_banner_text2">네트워크가 느릴 때는 라이트홈을 사용해 보세요.</string>
+    <string name="homescreen_link_body">바탕화면에 빠른 실행 아이콘을 추가하시겠습니까?</string>
+    <string name="homescreen_link_title">홈 화면에 추가</string>
+    <string name="html_login_error" formatted="false">&lt;html>&lt;body>%s &lt;font color=red> %s &lt;/font> %s&lt;body>&lt;/html></string>
+    <string name="html_loginscreen" formatted="false">&lt;html>&lt;body>%s (&lt;font color=blue> &lt;a href=%s>%s&lt;/a>&lt;/font> )%s</string>
+    <string name="http_auth_log_in">Log In</string>
+    <string name="http_auth_password">Password</string>
+    <string name="http_auth_title">Authentication Required</string>
+    <string name="http_auth_user_name">Username</string>
+    <string name="inapp_contextmenu_image_cover">네이버홈: 커버 등록</string>
+    <string name="inapp_contextmenu_image_save">내 휴대폰: 이미지 저장</string>
+    <string name="inapp_contextmenu_image_save_ndrive">네이버 클라우드: 이미지 저장</string>
+    <string name="inapp_contextmenu_image_sbi">네이버 스마트렌즈: 이미지로 검색하기</string>
+    <string name="inapp_contextmenu_image_search_style_shopping">네이버 쇼핑렌즈: 비슷한 상품 검색하기</string>
+    <string name="inapp_contextmenu_image_share">이미지 공유</string>
+    <string name="inapp_contextmenu_ndrive_install_no">아니오</string>
+    <string name="inapp_contextmenu_ndrive_install_title">최신의 네이버 클라우드앱을 설치하셔야 합니다. 마켓으로 이동하여 설치하시겠습니까?</string>
+    <string name="inapp_contextmenu_ndrive_install_yes">예</string>
+    <string name="inapp_contextmenu_new_open">새 페이지로 열기</string>
+    <string name="inapp_contextmenu_open">열기</string>
+    <string name="inapp_contextmenu_url_copy">URL 복사하기</string>
+    <string name="inapp_menu_addshortcut">홈 화면 추가</string>
+    <string name="inapp_menu_bookmark">북마크</string>
+    <string name="inapp_menu_bookmark_list">북마크 목록</string>
+    <string name="inapp_menu_browser">다른 브라우저</string>
+    <string name="inapp_menu_capture">화면 캡쳐</string>
+    <string name="inapp_menu_dictionary">영어사전 실행</string>
+    <string name="inapp_menu_download">다운로드 관리</string>
+    <string name="inapp_menu_goto_top">맨 위로</string>
+    <string name="inapp_menu_memo">메모</string>
+    <string name="inapp_menu_musicsearch">음악검색</string>
+    <string name="inapp_menu_mysection">메인에 추가</string>
+    <string name="inapp_menu_next">다음 페이지</string>
+    <string name="inapp_menu_nightmode">나이트모드 [ACTION]</string>
+    <string name="inapp_menu_openpage">열린 페이지</string>
+    <string name="inapp_menu_pause">로딩 중지</string>
+    <string name="inapp_menu_pdf">PDF 저장</string>
+    <string name="inapp_menu_prev">이전 페이지</string>
+    <string name="inapp_menu_refresh">새로 고침</string>
+    <string name="inapp_menu_sbi">스마트렌즈</string>
+    <string name="inapp_menu_search">통합검색</string>
+    <string name="inapp_menu_search_inpage">페이지내 검색</string>
+    <string name="inapp_menu_setting">앱 설정</string>
+    <string name="inapp_menu_share">공유하기</string>
+    <string name="inapp_menu_site">자주가는 사이트</string>
+    <string name="inapp_menu_title">더보기</string>
+    <string name="inapp_menu_toolbar_setting">툴바설정</string>
+    <string name="inapp_menu_translator">번역기 실행</string>
+    <string name="inapp_menu_urlcopy">URL 복사</string>
+    <string name="inapp_menu_voicesearch">음성검색</string>
+    <string name="inapp_share_dummy_band">밴드</string>
+    <string name="inapp_share_dummy_line">라인</string>
+    <string name="init">초기화</string>
+    <string name="install">설치</string>
+    <string name="install_cancel">설치 취소</string>
+    <string name="install_list_1">설치목록(미설치</string>
+    <string name="install_list_2">업데이트</string>
+    <string name="install_start">설치 시작</string>
+    <string name="install_stop">설치 중지</string>
+    <string name="installedNaverPublishedAppList">String:</string>
+    <string name="installedNaverPublishedLastDate">Long:0</string>
+    <string name="installedWidget">Boolean:false</string>
+    <string name="installedWidgetCheck">Boolean:false</string>
+    <string name="installedWidgetIncremental">String:</string>
+    <string name="installedWidgetRelease">String:</string>
+    <string name="installedWidgetSdkVer">Integer:</string>
+    <string name="installed_app">설치한 앱</string>
+    <string name="installed_app_count">설치한 앱 전체목록(%d)</string>
+    <string name="installed_app_loaderror">앱 목록을 불러오지 못했습니다.</string>
+    <string name="installed_app_no_founded">미설치한 앱이 없습니다.</string>
+    <string name="issued_by">발급 기관:</string>
+    <string name="issued_on">발급 날짜:</string>
+    <string name="issued_to">발급 대상:</string>
+    <string name="japanese_300_limit">일본어가 300자까지 검색되었습니다.</string>
+    <string name="japanese_fail_content">어둡거나 빛이 반사된 사진 혹은 복잡한 그림이나 색상이 있는 경우 인식되지 않을 수 있습니다.</string>
+    <string name="japanese_fail_title">인식할 수 없습니다.</string>
+    <string name="japanese_guide_body_1">가로쓰기/세로쓰기 모두 검색이 가능합니다.</string>
+    <string name="japanese_guide_body_2">촬영 후 빨간색 영역을 조정해 주세요.</string>
+    <string name="japanese_guide_body_3">박스 숨김 버튼을 누르면, 사진 크기 조정 및 이동이 가능합니다.</string>
+    <string name="japanese_guide_help_move">검색할 일본어에 맞춰 사진을 조정해 주세요.</string>
+    <string name="japanese_guide_help_selection">검색할 영역을 일본어에 맞춰 주세요.</string>
+    <string name="japanese_read_title">일본어 검색</string>
+    <string name="japanese_rotation">세로 방향으로 촬영해 주세요.</string>
+    <string name="javascript">JavaScript</string>
+    <string name="js_before_unload_negative">Do not leave the current page</string>
+    <string name="js_before_unload_positive">Leave the current page</string>
+    <string name="js_before_unload_question">Do you want to leave this page?</string>
+    <string name="js_before_unload_title">Navigation Confirmation</string>
+    <string name="js_dialog_before_unload">"%s
+
+다른 페이지로 이동하시겠습니까?"</string>
+    <string name="js_dialog_before_unload_negative_button">이 페이지에 머무르기</string>
+    <string name="js_dialog_before_unload_positive_button">이 페이지 닫기</string>
+    <string name="js_dialog_before_unload_title">탐색 확인</string>
+    <string name="js_dialog_cancel">취소</string>
+    <string name="js_dialog_ok">확인</string>
+    <string name="js_dialog_title">"'%s' 페이지 내용:"</string>
+    <string name="js_dialog_title_default">자바스크립트</string>
+    <string name="js_popup_title">s Page:</string>
+    <string name="kakao_scheme_0">kakao8d418f4f70d1314e24e382698a65381f</string>
+    <string name="kakao_scheme_1">kakao8236eeec6afb238a8d1e8ec25aad3bab</string>
+    <string name="kakao_scheme_2">kakao66b500c999469a20ca8b75586cd11b29</string>
+    <string name="kakao_scheme_3">kakao6d342baebd9f93736b488b3ef9cfa7a1</string>
+    <string name="kakaolink_host">kakaolink</string>
+    <string name="keyAGDigest">String:</string>
+    <string name="keyActiveAppCheck">Boolean:false</string>
+    <string name="keyActiveAppEndTime">Integer:-1</string>
+    <string name="keyActiveAppStartTime">Integer:-1</string>
+    <string name="keyAppFinishAll">Boolean:false</string>
+    <string name="keyBackupMigrationCount">Integer:0</string>
+    <string name="keyBackupMigrationTime">Long:0</string>
+    <string name="keyBackupRecoverApiType">Integer:-1</string>
+    <string name="keyBackupRetryCount">Integer:0</string>
+    <string name="keyBackupStatus">Integer:0</string>
+    <string name="keyBackupUserTimeStamp">Long:0</string>
+    <string name="keyBeforeCountry">String:</string>
+    <string name="keyBeforeDeviceId">String:</string>
+    <string name="keyCameraTakeMode">Integer:0</string>
+    <string name="keyCheckRestartHome">Boolean:true</string>
+    <string name="keyCheckShowPushNotiGuidePopup" />
+    <string name="keyClearAllTimeStamp">Long:0</string>
+    <string name="keyClovaAccessToken">String:</string>
+    <string name="keyClovaAccessTokenExpireTime">long:0</string>
+    <string name="keyClovaDeviceId">String:</string>
+    <string name="keyClovaRefreshToken">String:</string>
+    <string name="keyClovaTTSOnOff">Boolean:true</string>
+    <string name="keyCodeFirsyExecuteCheck">Boolean:false</string>
+    <string name="keyCustomDisplayName">String:</string>
+    <string name="keyCustomFontPath">String:</string>
+    <string name="keyCustomFontVer">Integer:0</string>
+    <string name="keyCustomName">String:</string>
+    <string name="keyDataLoggingTime">Long:0</string>
+    <string name="keyDataOriginSum">Long:0</string>
+    <string name="keyDataRecvSum">Long:0</string>
+    <string name="keyDataSaver">Boolean:false</string>
+    <string name="keyDeepSkipDomain">String:.naver.com naver.me .modoo.at .grafolio.net .grafolio.com .vlive.tv .pholar.co band.us .blog.me line.me</string>
+    <string name="keyDefaultCategory">String:TODAY</string>
+    <string name="keyDefaultTabMenu">Boolean:true</string>
+    <string name="keyDoesOcrON">Boolean:false</string>
+    <string name="keyDtsBypassDomainUrls">String:adcreative.naver.com .adcreative.naver.net .ad.naver.com ssl.naver.com/adcreative/ .tveta.naver.net s.pstatic.net/tveta/ ssl.pstatic.net/tveta/ .photoviewer.naver.com/image</string>
+    <string name="keyDtsImageQuality">Integer:50</string>
+    <string name="keyDtsImgDomainUrls">String:.naver.net .naver.com .line.me .vlive.tv .pholar.co .modoo.at .pstatic.net</string>
+    <string name="keyDtsImgDomainUrls2">JSON:{element:[.naver.net, .naver.com, .line.me, .vlive.tv, .pholar.co, .modoo.at, .pstatic.net]}</string>
+    <string name="keyDtsImgFmt">String:.jpg .jpeg .JPG .JPEG .jpe</string>
+    <string name="keyDtsLastShowTime">Long:0</string>
+    <string name="keyDtsTimestamp">Long:0</string>
+    <string name="keyDtsUseImgDomain">Boolean:false</string>
+    <string name="keyDtsWebViewState">String:</string>
+    <string name="keyDtsWifi">Boolean:false</string>
+    <string name="keyExandBannerRevision">Integer:-1</string>
+    <string name="keyFServiceTimeStamp">Long:0</string>
+    <string name="keyFirstInstallDate">String:</string>
+    <string name="keyFirstInstallVersionCode">Integer:-1</string>
+    <string name="keyFirstRun">Boolean:true</string>
+    <string name="keyFontTimeStamp">Long:0</string>
+    <string name="keyGetApiResBodyForDebug">String:</string>
+    <string name="keyGreenSearchFirsyExecuteCheck" />
+    <string name="keyHasCallOnCreateMetaApi">Boolean:false</string>
+    <string name="keyHasEverLogined">Boolean:false</string>
+    <string name="keyHasEverOnMySection">Boolean:false</string>
+    <string name="keyHasEverShowMeNotiCoach">Boolean:false</string>
+    <string name="keyHasEverShownKeyboardSliderCoach">Boolean:false</string>
+    <string name="keyHasEverShownSlideBanner">Boolean:false</string>
+    <string name="keyHasEverShownSwipeCoach">Boolean:false</string>
+    <string name="keyHasEverUserDataRecover">Boolean:false</string>
+    <string name="keyHasFinishMySectionMigration">Boolean:false</string>
+    <string name="keyHasMigrationMyPanServerSync">Boolean:false</string>
+    <string name="keyHasShownUsageGuide_Ver2">Boolean:false</string>
+    <string name="keyHomeCoverCoachShown">Boolean:false</string>
+    <string name="keyHomeCoverHeaderCoarchShown">Boolean:false</string>
+    <string name="keyHomeCoverLastLoadServerTimestamp">Long:0</string>
+    <string name="keyHomeCoverList">String:</string>
+    <string name="keyHomeCoverMigrated">Boolean:false</string>
+    <string name="keyHomeCoverNotiedExpirePackage">Set</string>
+    <string name="keyHomeCoverSavedDefaultTimestamp">Long:0</string>
+    <string name="keyHomeCoverSavedPackageTimestamp">Long:0</string>
+    <string name="keyHomeEditCoachShowTime">Long:0</string>
+    <string name="keyHomeEditCoachStatus">Integer:0</string>
+    <string name="keyInitialView">Integer:1</string>
+    <string name="keyIsFServiceDirty">Boolean:false</string>
+    <string name="keyIsFontDirty">Boolean:false</string>
+    <string name="keyIsOcrON">Boolean:false</string>
+    <string name="keyIsPreferenceDirty">Boolean:false</string>
+    <string name="keyJapaneseSearchFirsyExecuteCheck">Boolean:false</string>
+    <string name="keyKinAudioFirst">Boolean:true</string>
+    <string name="keyKinLastTab">Integer:0</string>
+    <string name="keyKinPublicId">Boolean:true</string>
+    <string name="keyKinUnder14">Boolean:false</string>
+    <string name="keyLCSBCookieData">String:null</string>
+    <string name="keyLabInvitePopupShowed">Boolean:false</string>
+    <string name="keyLabLightBannerStatus">Integer:0</string>
+    <string name="keyLabMigratedFeatureCode">String:</string>
+    <string name="keyLastAppCacheClear">Integer:</string>
+    <string name="keyLastAppDataTime">Long:0</string>
+    <string name="keyLastLoginIdAESValue">String:</string>
+    <string name="keyLastTimestamp">Long:0</string>
+    <string name="keyLocationAgree">Boolean:false</string>
+    <string name="keyLocationAgreeSetCheck">Boolean:false</string>
+    <string name="keyLoginCookie">String:null</string>
+    <string name="keyLoginCookieCreateTime">Long:-1</string>
+    <string name="keyLoginIdChangeStatus">Integer:0</string>
+    <string name="keyLoginMe2dayId">String:</string>
+    <string name="keyLoginNaverId">String:</string>
+    <string name="keyLoginWidgetCheck" />
+    <string name="keyMenuData">String:</string>
+    <string name="keyMenuEdited">Boolean:false</string>
+    <string name="keyMenuTimeStamp">Long:0</string>
+    <string name="keyMusicEveentPopupHiddenCompleteTime">Long:0</string>
+    <string name="keyMusicEveentPopupHiddenTime">Long:0</string>
+    <string name="keyMySectionSequence">Integer:0</string>
+    <string name="keyNaverWebEngine">Boolean:false</string>
+    <string name="keyNaverWebEngineV2">Boolean:false</string>
+    <string name="keyNewRefreshInterval">Integer:0</string>
+    <string name="keyNewResetInterval">Integer:0</string>
+    <string name="keyNoMoreFirstInstalled">Boolean:true</string>
+    <string name="keyNotiAppUpdate">Boolean:true</string>
+    <string name="keyNotiNewContents_uniqueid">String:null</string>
+    <string name="keyNotiPopupClosed">Boolean:false</string>
+    <string name="keyOSFingerprint">String:null</string>
+    <string name="keyOneStorePopUpEverSeen">Boolean:false</string>
+    <string name="keyOpenMainFirstUse">Boolean:true</string>
+    <string name="keyPreferenceTimeStamp">Long:0</string>
+    <string name="keyPushNotiDeviceToken">String:null</string>
+    <string name="keyPushNotiNotificationIndex">Integer:0</string>
+    <string name="keyPushNotiPlatform">Integer:-1</string>
+    <string name="keyPushNotiUUID">String:null</string>
+    <string name="keyPushRegisterVersionCode">Integer:0</string>
+    <string name="keyRankingData">String:</string>
+    <string name="keyRecentView">Integer:1</string>
+    <string name="keyRecogLastUsedType">String:</string>
+    <string name="keyRecogintionHomeRunningCountCheck10" />
+    <string name="keyRecordHistory">Boolean:true</string>
+    <string name="keyRefreshInterval">Integer:600</string>
+    <string name="keyResetInterval">Integer:1800</string>
+    <string name="keyRestEndTime">String:</string>
+    <string name="keyRestExpo">String:N</string>
+    <string name="keyRestStartTime">String:</string>
+    <string name="keyRestUrl">String:</string>
+    <string name="keySaveRecognitino">Boolean:false</string>
+    <string name="keySearchAddressBook">Boolean:true</string>
+    <string name="keySearchHistory">Boolean:true</string>
+    <string name="keySectionManageCoachShown">Boolean:false</string>
+    <string name="keySectionManageShowOffOnly">Boolean:true</string>
+    <string name="keySettingKeypadSlider">Boolean:true</string>
+    <string name="keySettingNotiHomeUrlbarGuideShown">Boolean:false</string>
+    <string name="keySettingNotiSearchBar">Boolean:false</string>
+    <string name="keySettingNotiSearchBarPopup">Boolean:false</string>
+    <string name="keyShortcutGuide" />
+    <string name="keyShortcutTabIndex">Integer:0</string>
+    <string name="keyShoutcutInstalled">Boolean:false</string>
+    <string name="keyShoutcutVersionCode">Integer:0</string>
+    <string name="keyShowDtsOnBanner">Boolean:true</string>
+    <string name="keyShowOpenEditDot">Boolean:true</string>
+    <string name="keyShowWebViewToolBar" />
+    <string name="keyStatePage">Integer:0</string>
+    <string name="keySwitchEngine">Boolean:false</string>
+    <string name="keyTimestamp">Long:0</string>
+    <string name="keyTodayDataUsage">Long:0</string>
+    <string name="keyToolbarEditAnimationGuideShowed">Boolean:false</string>
+    <string name="keyTutoDefaultData">String:</string>
+    <string name="keyTutoTopPadding">Integer:0</string>
+    <string name="keyTutorialCompleted">Boolean:false</string>
+    <string name="keyTutorialLocProcessed">Boolean:false</string>
+    <string name="keyTutorialMetaStatus">Integer:0</string>
+    <string name="keyTutorialResult">Integer:0</string>
+    <string name="keyUrlInputGuide" />
+    <string name="keyUseBookmarkChangeQuickFirst">Boolean:true</string>
+    <string name="keyUseBookmarkMoreItemNum">Integer:</string>
+    <string name="keyUseBookmarkPageNum">Integer:1</string>
+    <string name="keyUseBookmarkPrevId">String:null</string>
+    <string name="keyUseBookmarkSyncId">String:</string>
+    <string name="keyUseBookmarkSynced">Boolean:false</string>
+    <string name="keyUseBookmarkUpdateDate">String:</string>
+    <string name="keyUseFloatingWidget">Boolean:true</string>
+    <string name="keyUsePushNoti">Boolean:true</string>
+    <string name="keyUsePushNotiEtiquetteEndTime">long:28800000</string>
+    <string name="keyUsePushNotiEtiquetteStartTime">long:82800000</string>
+    <string name="keyUsePushNotiEtiquetteTime">Boolean:false</string>
+    <string name="keyUsePushNotiPopupSet">Boolean:false</string>
+    <string name="keyUsePushNotiPopupView">Boolean:false</string>
+    <string name="keyUsePushNotiPreview">Boolean:true</string>
+    <string name="keyUseSearchAutoComplete">Boolean:true</string>
+    <string name="keyUseSearchHistory">Boolean:true</string>
+    <string name="keyUseTextZoom">Boolean:false</string>
+    <string name="keyUserDataResponseJsonString">String:</string>
+    <string name="keyVAEnabled">Boolean:true</string>
+    <string name="keyVALagtime">Integer:10</string>
+    <string name="keyWebEngineAutoUpdate">Boolean:false</string>
+    <string name="keyWebEngineBuiltInV2">Boolean:false</string>
+    <string name="keyWebEngineCookies">String:</string>
+    <string name="keyWebEngineDisabled">Boolean:false</string>
+    <string name="keyWebEngineForceOff">Boolean:false</string>
+    <string name="keyWebEngineInstall">Boolean:false</string>
+    <string name="keyWebEngineUpdateVer">String:0.0.0.0</string>
+    <string name="keyWebEngineVer">String:0.0.0.0</string>
+    <string name="keyWebViewUpdateDie">Integer:0</string>
+    <string name="key_body_view">BodyView</string>
+    <string name="key_notice_data">NaverNoticeData</string>
+    <string name="keyword">인기검색어</string>
+    <string name="kin_image_delete">사진 삭제</string>
+    <string name="kin_image_upload">사진 등록</string>
+    <string name="kin_msg_cancel_post">"작성 중인 글이 취소됩니다.
+창을 닫으시겠습니까?"</string>
+    <string name="kin_msg_empty_content">질문 내용을 5자 이상 입력해주세요.</string>
+    <string name="kin_msg_empty_title">질문 제목을 5자 이상 입력해주세요.</string>
+    <string name="kin_msg_error_low_point">보유 내공이 15점 이하로 내공 추가할 수 없습니다.</string>
+    <string name="kin_msg_error_point">내공 정보를 받아오지 못했습니다.</string>
+    <string name="kin_msg_error_record">녹음중에 문제가 발생했습니다.</string>
+    <string name="kin_msg_set_directory">질문 디렉토리를 설정해 주세요.</string>
+    <string name="kin_option_allow">허용</string>
+    <string name="kin_option_disallow">비허용</string>
+    <string name="kin_option_hide">비공개</string>
+    <string name="kin_option_notadd">추가안함</string>
+    <string name="kin_option_show">부분공개</string>
+    <string name="kin_point">내공</string>
+    <string name="kin_post_addpower">내공추가</string>
+    <string name="kin_post_below14">만 14세 미만 답변 참여</string>
+    <string name="kin_post_curpower">나의 보유 내공</string>
+    <string name="kin_post_directory">디렉토리</string>
+    <string name="kin_post_show_id">아이디 공개 설정</string>
+    <string name="kin_question_content_hint">"내용을 입력하세요.
+답변이 등록되면 수정/삭제할 수 없습니다."</string>
+    <string name="kin_question_title_hint">제목을 5자 이상 입력하세요.</string>
+    <string name="kin_record">녹음</string>
+    <string name="kin_sound_delete">녹음 파일 삭제</string>
+    <string name="kin_sound_delete_msg">녹음 파일을 삭제하시겠습니까?</string>
+    <string name="kin_sound_play">녹음 파일 재생</string>
+    <string name="kin_sound_retry">다시 녹음</string>
+    <string name="kin_sound_retry_msg">다시 녹음 하시겠습니까?</string>
+    <string name="kin_spot_change">현재 위치 업데이트</string>
+    <string name="kin_spot_delete">현재 위치 삭제</string>
+    <string name="kin_spot_upload">위치 등록</string>
+    <string name="kin_upload_image">사진 등록 중...</string>
+    <string name="kin_upload_question">질문 등록 중...</string>
+    <string name="kin_upload_sound">녹음 등록 중...</string>
+    <string name="knowledgein">지식iN</string>
+    <string name="knowledgein_dir_bottom">디렉토리 직접 선택</string>
+    <string name="knowledgein_dir_information">질문과 관련된 디렉토리를 설정하세요. &lt;br/>&lt;font color=#1565d4>보다 빠르고 정확한 답변&lt;/font>을 받을 수 있습니다.</string>
+    <string name="knowledgein_dir_title">추천 디렉토리</string>
+    <string name="knowledgein_img_box_txt">궁금한 것은 지식iN에 물어보세요.</string>
+    <string name="knowledgein_img_btn_txt">질문하기</string>
+    <string name="knowledgein_kininfo">지식iN에 물어보세요</string>
+    <string name="knowledgein_list_timespan_minute">분전</string>
+    <string name="knowledgein_list_timespan_second">초전</string>
+    <string name="knowledgein_listrepletext">답변</string>
+    <string name="knowledgein_main_answer_tab">답변하기</string>
+    <string name="knowledgein_main_myquestion_tab">나의 질문</string>
+    <string name="knowledgein_mainlistviewemptynodata1">등록된</string>
+    <string name="knowledgein_mainlistviewemptynodata2">질문이 없습니다.</string>
+    <string name="knowledgein_mainlistviewemptynodata3">궁금한 내용을 지식iN에게 물어보세요.</string>
+    <string name="knowledgein_myquestion">내 질문</string>
+    <string name="knowledgein_myquestion_title">내질문 목록</string>
+    <string name="knowledgein_myquestionlistviewemptynodata">내가 한 질문이 없습니다.</string>
+    <string name="knowledgein_process_loading_msg">지식인 데이터 로드 중..</string>
+    <string name="knowledgein_title">지식iN 질문하기</string>
+    <string name="knowledgein_totalreplecountend">개</string>
+    <string name="knowledgein_totalreplecounttitle">내글답변</string>
+    <string name="knowledgein_tothequestion">질문하기</string>
+    <string name="knowledgein_tothequestion_default_editbox_hint">"지식iN에 등록할 질문을 입력해 주세요. 등록된 질문은 수정/삭제할 수 없습니다.
+(ex.분당에서 과천까지 가는 버스가 있나요? 있다면 번호와 배차시간 정보 좀 알려주세요.)"</string>
+    <string name="knowledgein_tothequestion_locationcheck_message">질문자의 현재 위치가 모바일 Q&amp;A 페이지에 질문과 함께 등록됩니다.</string>
+    <string name="knowledgein_tothequestion_locationcheck_title">위치 전송</string>
+    <string name="knowledgein_tothequestion_locationcheck_update_message">현재 위치가 업데이트 됩니다.</string>
+    <string name="knowledgein_tothequestion_locationservice_check_message">네이버에서 사용자의 위치 정보를 확인하도록 허용하려면 위치 서비스를 켜십시오</string>
+    <string name="knowledgein_tothequestion_mobile_auth_editbox_hint">인증된 휴대폰 번호로 SMS 답변 알림도 함께 받으실 수 있습니다.</string>
+    <string name="knowledgein_tothequestion_now_location">현재위치</string>
+    <string name="knowledgein_tothequestion_photo_camera">카메라</string>
+    <string name="knowledgein_tothequestion_uplad2">올리기</string>
+    <string name="knowledgein_tothequestion_upload">업로드</string>
+    <string name="lab_effect_setting_all">전체 효과 선택</string>
+    <string name="lab_effect_setting_like">좋아요</string>
+    <string name="lab_effect_setting_tap">탭</string>
+    <string name="lab_effect_setting_title">이펙트 설정</string>
+    <string name="lab_spec_removed">이 기능은 연구 결과 지구인과의 화합에 실패해 조용히 사라졌음을 알려드립니다. ㅜㅜ</string>
+    <string name="lab_volume_setting_long_page">이전, 다음 페이지 이동</string>
+    <string name="lab_volume_setting_long_refresh_multipage">새로고침(위), 열린 페이지 이동(아래)</string>
+    <string name="lab_volume_setting_long_scroll">맨 위, 맨 아래로 이동</string>
+    <string name="lab_volume_setting_long_title">볼륨키 길게 눌렀을 때</string>
+    <string name="lab_volume_setting_not_use">사용 안 함</string>
+    <string name="lab_volume_setting_short_font_size">글씨 크기 조절</string>
+    <string name="lab_volume_setting_short_scroll">상하 스크롤</string>
+    <string name="lab_volume_setting_short_title">볼륨키 짧게 눌렀을 때</string>
+    <string name="lab_volume_setting_title">볼륨키 연결 기능</string>
+    <string name="lab_volume_slide_multipage_warning">이 창을 닫은 후 열린 페이지로 이동할 수 있습니다.</string>
+    <string name="label">Naver</string>
+    <string name="label_language_chi">Speak in Chinese</string>
+    <string name="label_language_eng">Speak in English</string>
+    <string name="label_language_jpn">Speak in Japanese</string>
+    <string name="label_language_kor">Speak in Korean</string>
+    <string name="label_popup_common_negative">Cancel</string>
+    <string name="label_popup_common_positive">Confirm</string>
+    <string name="label_recording_confirm">Register</string>
+    <string name="lang_guide_popup_close">닫기</string>
+    <string name="lang_guide_popup_dic">영어 사전</string>
+    <string name="lang_guide_popup_do_not_show_again">다시 보지 않기</string>
+    <string name="lang_guide_popup_site_translate">사이트 번역</string>
+    <string name="lang_guide_popup_text_page">&lt;font color=#878787>이 페이지는 &lt;/font>&lt;font color=#222222>[[LANGUAGE]]&lt;/font>&lt;font color=#878787>로 되어 있습니다.&lt;/font></string>
+    <string name="lang_guide_popup_text_transanddic">&lt;font color=#1a8fd8>번역 및 사전&lt;/font>&lt;font color=#222222> 기능을 이용해보세요.&lt;/font></string>
+    <string name="lang_guide_popup_text_transonly">&lt;font color=#1a8fd8>번역&lt;/font>&lt;font color=#222222> 기능을 이용해보세요.&lt;/font></string>
+    <string name="lang_support_lang_en">영어</string>
+    <string name="lang_support_lang_ja">일본어</string>
+    <string name="lang_support_lang_ko">한국어</string>
+    <string name="lang_support_lang_zh_cn">중국어(간체)</string>
+    <string name="lang_support_lang_zh_tw">중국어(번체)</string>
+    <string name="lastEventPopupContent">String:</string>
+    <string name="lastEventPopupLinkURL">String:</string>
+    <string name="lastEventPopupSeq">String:</string>
+    <string name="lastEventPopupTitle">String:</string>
+    <string name="lastLocationLatitude">String:Invalid</string>
+    <string name="lastLocationLongtitude">String:Invalid</string>
+    <string name="lastShownEventPopupSeq" />
+    <string name="lifesearch_title_dramainfo">드라마</string>
+    <string name="lifesearch_title_exchangeinfo">환율정보</string>
+    <string name="lifesearch_title_findway">빠른길찾기</string>
+    <string name="lifesearch_title_japanese">일본어번역</string>
+    <string name="lifesearch_title_lotto">로또</string>
+    <string name="lifesearch_title_movieinfo">상영영화</string>
+    <string name="lifesearch_title_overseastocks">해외증시</string>
+    <string name="lifesearch_title_playinfo">공연정보</string>
+    <string name="lifesearch_title_ratings">시청률</string>
+    <string name="lifesearch_title_stocks">주가지수</string>
+    <string name="lifesearch_title_traffic">실시간교통</string>
+    <string name="lifesearch_title_weather">날씨정보</string>
+    <string name="light_main_use_guide_toast_msg">다시 가벼운 홈을 사용하려면 상단 메뉴&lt;br>아래의 &lt;font color=#03f04a>가벼운 홈으로 보기&lt;/font>를 누르거나&lt;br>&lt;font color=#03f04a>홈 설정에서 ON&lt;/font> 하세요.</string>
+    <string name="line_camera">라인카메라-촬영</string>
+    <string name="link_txt1">컴퓨터에서 네이버</string>
+    <string name="link_txt2">를 방문하시면 회원가입과 아이디/비밀번호 찾기를 할 수 있습니다.</string>
+    <string name="loading">로드 중...</string>
+    <string name="loading_video">비디오 로드 중...</string>
+    <string name="location_agree_title">위치정보 사용자 동의</string>
+    <string name="location_fail">위치 신호가 불안정 합니다.</string>
+    <string name="location_loading">현재 위치 가져오는 중..</string>
+    <string name="location_search">위치 기반 검색</string>
+    <string name="location_search_history_delete">최근 검색 지역 삭제</string>
+    <string name="login">로그인</string>
+    <string name="login_fail_captcha_image_download">이미지를 다운로드 받는데 실패하였습니다.</string>
+    <string name="login_fail_message">로그인에 실패하였습니다.</string>
+    <string name="login_process">로그인 처리 중..</string>
+    <string name="login_request_cancel">로그인이 취소 되었습니다.</string>
+    <string name="login_safe">보호조치</string>
+    <string name="login_setting">설정 메뉴에서 로그인 정보를 수정할 수 있습니다.</string>
+    <string name="login_summary">"로그인을 하시면 나의 활동 정보 또는r
+나와 관련된 서비스 정보를r
+네이버 홈화면에서 쉽게 확인할 수 있습니다."</string>
+    <string name="login_title">나를 중심으로 한, 나만의 네이버</string>
+    <string name="low_memory_error">Unable to complete previous operation due to low memory</string>
+    <string name="main_option_addhome">홈 화면에 추가</string>
+    <string name="main_option_editing">편집</string>
+    <string name="main_option_end">앱종료</string>
+    <string name="main_option_end_cancel">취소</string>
+    <string name="main_option_end_confirm">확인</string>
+    <string name="main_option_end_message">네이버 앱을 종료하시겠습니까?</string>
+    <string name="main_option_location_search_off">위치 기반 검색 사용 끄기</string>
+    <string name="main_option_location_search_on">위치 기반 검색 사용하기</string>
+    <string name="main_option_login">로그인</string>
+    <string name="main_option_logout">로그아웃</string>
+    <string name="main_option_refrash">새로고침</string>
+    <string name="main_option_setting">설정</string>
+    <string name="me_menu_all">모아보기</string>
+    <string name="media_player_error_button">OK</string>
+    <string name="media_player_error_text_invalid_progressive_playback">Sorry, this video is not valid for streaming to this device.</string>
+    <string name="media_player_error_text_unknown">Sorry, this video cannot be played.</string>
+    <string name="media_player_error_title">Cannot play video</string>
+    <string name="media_player_loading_video">Loading video</string>
+    <string name="memo_title">메모</string>
+    <string name="menuRefresh">새로고침</string>
+    <string name="message_adding_location">위치 탐색 중..</string>
+    <string name="message_bookmark_over_both">제목은 최대 65자(한글), URL은 최대 1000자(영문)까지 등록 가능합니다.</string>
+    <string name="message_bookmark_over_title">제목은 65자(한글)까지 등록 가능합니다.</string>
+    <string name="message_bookmark_over_url">URL은 1000자(영문)까지 등록 가능합니다.</string>
+    <string name="message_bookmark_v2_add_success">"북마크가 '[FOLDER]'에 추가되었습니다."</string>
+    <string name="message_bookmark_v2_default_folder">기본폴더</string>
+    <string name="message_bookmark_v2_fail_already_exist">이미 등록된 사이트입니다</string>
+    <string name="message_bookmark_v2_fail_folder">잘못된 폴더명입니다. 폴더명을 다시 확인해 주세요.</string>
+    <string name="message_bookmark_v2_fail_folder_already_exist">이미 동일한 폴더가 있습니다.</string>
+    <string name="message_bookmark_v2_fail_folder_empty">추가할 폴더명을 입력하세요.</string>
+    <string name="message_bookmark_v2_fail_name">잘못된 이름입니다. 이름을 다시 확인해 주세요.</string>
+    <string name="message_bookmark_v2_fail_name_empty">이름을 입력하세요.</string>
+    <string name="message_bookmark_v2_fail_network">"일시적인 네트워크 오류가 발생했습니다.
+잠시 후 다시 시도해 주세요."</string>
+    <string name="message_bookmark_v2_fail_ros">서비스 점검중입니다.</string>
+    <string name="message_bookmark_v2_fail_server">"일시적인 서버 오류가 발생했습니다.
+잠시 후 다시 시도해 주세요."</string>
+    <string name="message_bookmark_v2_fail_url">잘못된 URL입니다. URL을 다시 확인해 주세요.</string>
+    <string name="message_bookmark_v2_favorite_add">추가하기</string>
+    <string name="message_bookmark_v2_favorite_add_input_title_hint">이름</string>
+    <string name="message_bookmark_v2_favorite_add_input_url_hint">URL 입력</string>
+    <string name="message_bookmark_v2_favorite_add_select_list_empty">"방문한 사이트 기록이 없습니다.
+방문 기록으로 손쉽게 자주가는 사이트
+추가할 수 있습니다."</string>
+    <string name="message_bookmark_v2_favorite_add_select_list_header">주소 선택</string>
+    <string name="message_bookmark_v2_favorite_add_title">자주가는 사이트 추가</string>
+    <string name="message_bookmark_v2_favorite_add_title_confirm">확인</string>
+    <string name="message_bookmark_v2_favorite_title">자주가는 사이트</string>
+    <string name="message_bookmark_v2_favorite_title_edit">편집</string>
+    <string name="message_bookmark_v2_favorite_title_edit_confirm">확인</string>
+    <string name="message_bookmark_v2_folder_add_hint">폴더명을 입력하세요</string>
+    <string name="message_bookmark_v2_folder_add_negative">취소</string>
+    <string name="message_bookmark_v2_folder_add_positive">완료</string>
+    <string name="message_bookmark_v2_folder_add_title">새 폴더 추가</string>
+    <string name="message_bookmark_v2_folder_title">폴더 선택</string>
+    <string name="message_bookmark_v2_folder_title_exit">취소</string>
+    <string name="message_bookmark_v2_input_title_hint">이름</string>
+    <string name="message_bookmark_v2_input_url_hint">URL</string>
+    <string name="message_bookmark_v2_negative">취소</string>
+    <string name="message_bookmark_v2_over_both">이름은 최대 200자, URL은 최대 1000자까지 등록 가능합니다.</string>
+    <string name="message_bookmark_v2_over_foldername">폴더명은 100자까지 등록 가능합니다.</string>
+    <string name="message_bookmark_v2_over_title">이름은 200자까지 등록 가능합니다.</string>
+    <string name="message_bookmark_v2_over_url">URL은 1000자까지 등록 가능합니다.</string>
+    <string name="message_bookmark_v2_positive">확인</string>
+    <string name="message_bookmark_v2_same_foldername">이미 동일한 폴더가 있습니다.</string>
+    <string name="message_bookmark_v2_title_add">북마크 추가</string>
+    <string name="message_bookmark_v2_title_list">목록</string>
+    <string name="message_bookmark_v2_title_update">북마크 수정</string>
+    <string name="message_bookmark_v2_update_success">북마크가 수정되었습니다.</string>
+    <string name="message_cancel_bookmark_sync">네이버 북마크와 연동을 취소하시겠습니까?</string>
+    <string name="message_cancel_edit_knowledgein">"작성 중인 글이 취소됩니다.
+창을 닫으시겠습니까?"</string>
+    <string name="message_delete_bookmark">[%s] 북마크를 삭제하시겠습니까?</string>
+    <string name="message_done_add_bookmark">북마크를 저장했습니다.</string>
+    <string name="message_fail_attach_audio_error">음성을 첨부하던 중 오류가 발생하였습니다.</string>
+    <string name="message_fail_attach_audio_title">음성 첨부 오류</string>
+    <string name="message_fail_attach_photo_error">사진을 올리던 중 오류가 발생하였습니다.</string>
+    <string name="message_fail_attach_photo_max_size">첨부된 이미지가 최대 용량을 초과하였습니다.</string>
+    <string name="message_fail_attach_photo_name">지원하지 않는 이미지 확장자 입니다.</string>
+    <string name="message_fail_attach_photo_title">이미지 첨부 오류</string>
+    <string name="message_fail_bookmark_not_login">로그인 상태가 아닙니다.</string>
+    <string name="message_fail_bookmark_parameter">내용이 불충분합니다.</string>
+    <string name="message_fail_bookmark_title">제목 형식이 잘못되었습니다.</string>
+    <string name="message_fail_bookmark_url">URL 형식이 잘못되었습니다.</string>
+    <string name="message_fail_del_bookmark">네트워크에 연결되지 않아 삭제하지 못했습니다.</string>
+    <string name="message_fail_load_bookmark">북마크 불러오기에 실패했습니다.</string>
+    <string name="message_fail_loading_morelist_message">"현재 리스트 더보기를 수행 할 수 없습니다.
+잠시 후에 다시 시도해주세요."</string>
+    <string name="message_fail_loading_morelist_title">더보기 실패 알림</string>
+    <string name="message_fail_location_agree">위치정보 사용 동의 데이터를 처리하는데 실패하였습니다.</string>
+    <string name="message_fail_max_bookmark">200개를 초과하여 더 이상 저장할 수 없습니다.</string>
+    <string name="message_fail_overcount_post">입력 가능한 글자 수를 초과하였습니다.</string>
+    <string name="message_fail_refresh_bookmark">"일부 북마크 갱신에 실패했습니다.
+보이지 않는 북마크가 있는 경우
+다시 시도해 주세요."</string>
+    <string name="message_fail_set_fav_bookmark">네트워크에 연결되지 않아 설정하지 못했습니다.</string>
+    <string name="message_fail_unset_fav_bookmark">네트워크에 연결되지 않아 해제하지 못했습니다.</string>
+    <string name="message_fail_update_bookmark">네트워크에 연결되지 않아 저장하지 못했습니다.</string>
+    <string name="message_fail_upload_knowledgein_error">지식인에 글을 등록하던 중 오류가 발생하였습니다.</string>
+    <string name="message_fail_upload_knowledgein_error_code220">하루에 등록 가능한 질문 개수를 초과 하였습니다.</string>
+    <string name="message_fail_upload_knowledgein_error_code230">이용제한 중인 ID로 질문/답변 작성이 불가합니다. (작성하기 외 다른 기능 이용가능)</string>
+    <string name="message_fail_upload_knowledgein_error_code500">서버 오류로 실패하였습니다.</string>
+    <string name="message_fail_upload_knowledgein_error_code510">서비스 점검 중입니다.잠시 후에 다시 시도해 주세</string>
+    <string name="message_fail_upload_knowledgein_inputtext5size">등록할 질문을 5자 이상 입력해주세요.</string>
+    <string name="message_fail_upload_knowledgein_login">로그인이 필요합니다.</string>
+    <string name="message_fail_upload_knowledgein_noinputtext">내용을 입력해주세요.</string>
+    <string name="message_fail_upload_knowledgein_title">글 올리기 오류</string>
+    <string name="message_kin_audio_first">지식iN 녹음에 대한 안내</string>
+    <string name="message_kin_audio_first_msg">음성으로 녹음 질문을 하시면 다른 이용자들이 고객님의 음성을 청취할 수 있으며 등록하신 질문은 답변 등록 전까지 삭제 가능합니다.</string>
+    <string name="message_kin_audio_saved">녹음 파일이 추가되었습니다.</string>
+    <string name="message_kin_over_title">제목은 80자(한글)까지 등록 가능합니다.</string>
+    <string name="message_recognition_save">"&lt;font color='#1565d4'>[설정 > 촬영 사진 저장]&lt;/font> 기능을 통해 사진을 갤러리의 [NAVER] 폴더에 저장할 수 있습니다."</string>
+    <string name="message_reset_bookmark">북마크를 초기화합니다.</string>
+    <string name="message_reset_shortcut">편집 내용이 모두 초기 상태로 변경됩니다.</string>
+    <string name="message_retry_add_location">"위치 신호가 불안정합니다.
+다시 시도 하시겠습니까?"</string>
+    <string name="message_save_bookmark">편집 상태를 저장하시겠습니까?</string>
+    <string name="message_setup_main_search_history_delete_button">검색어 삭제</string>
+    <string name="message_setup_main_search_history_delete_message">검색어를 저장하지 않습니다. 이전 검색어도 삭제하시겠습니까?</string>
+    <string name="message_setup_main_search_history_delete_title">검색어 저장</string>
+    <string name="message_uploading_post">질문을 등록하는 중입니다.</string>
+    <string name="messenger_send_button_text">Send</string>
+    <string name="minibrowser_loading_video">Video Loading...</string>
+    <string name="minibrowser_toast_msg_cannot_show_on_other_browser">Contents within this app are not available to be viewed in other browsers.</string>
+    <string name="minibrowser_toast_msg_not_exist_other_browser">No other browsers that can display the content exist.</string>
+    <string name="monday">월</string>
+    <string name="month">월</string>
+    <string name="month_picker_dialog_title">Set month</string>
+    <string name="more_list_movetop">맨위로</string>
+    <string name="more_listmore">개 더보기</string>
+    <string name="movie_title">영화 인기 검색어</string>
+    <string name="msg_already_added_url">"이미 추가된 페이지입니다.
+새로 추가하려면 판 관리 후 시도해 주세요."</string>
+    <string name="msg_blocked_url">"서비스 이용이 제한된 페이지로
+네이버 홈에 추가할 수 없습니다."</string>
+    <string name="msg_empty_title">이름이 입력되었는지 확인해 주세요.</string>
+    <string name="msg_error_access">Connection Fail</string>
+    <string name="msg_error_encoding_fail">File Encoding Fail</string>
+    <string name="msg_error_http">Response Error</string>
+    <string name="msg_error_media_fail">Media Error</string>
+    <string name="msg_error_network">Network Error</string>
+    <string name="msg_error_parsing">Response Error</string>
+    <string name="msg_error_recognition_can_start">Initialization Fail</string>
+    <string name="msg_error_recognition_error">Recognition Error</string>
+    <string name="msg_error_recognition_fail">No Recognition Result</string>
+    <string name="msg_error_recognition_writing_fail">File Creation Fail</string>
+    <string name="msg_error_unknown">Unknown Error</string>
+    <string name="msg_error_upload_access">Connection Fail</string>
+    <string name="msg_error_upload_http">Response Error</string>
+    <string name="msg_error_upload_network">Network Error</string>
+    <string name="msg_error_upload_parsing">Response Error</string>
+    <string name="msg_error_upload_unknown">Unknown Error</string>
+    <string name="msg_exceeded_number_my_pan">\#판은 최대 %d개까지 추가할 수 있습니다.</string>
+    <string name="msg_guide_playing">Press stop button to stop</string>
+    <string name="msg_guide_rerecorded">Press play button to listen again</string>
+    <string name="msg_my_section_remove">"기능을 OFF하면
+오픈 메인이 모두 삭제됩니다.
+계속하시겠습니까?"</string>
+    <string name="msg_popup_close">Do you really want to close it?</string>
+    <string name="msg_popup_reset">Do you want to retry?</string>
+    <string name="msg_set_default_section">"기능을 OFF하면
+오픈 메인이 모두 삭제되고
+기본 판으로 초기화됩니다."</string>
+    <string name="msg_status_playing">Playing</string>
+    <string name="msg_status_preparing">Preparing</string>
+    <string name="msg_status_processing">Processing</string>
+    <string name="msg_status_ready">Press the button and Speak</string>
+    <string name="msg_status_recorded">Recording complete</string>
+    <string name="msg_status_recording">Recording</string>
+    <string name="multiview_deleteall_alert_message">"열려있는 페이지를
+모두 삭제하시겠습니까?"</string>
+    <string name="multiview_deleteall_alert_no">취소</string>
+    <string name="multiview_deleteall_alert_yes">삭제</string>
+    <string name="music_search_failure">인식할 수 없습니다.</string>
+    <string name="music_search_go_musicapp">뮤직앱으로 듣기</string>
+    <string name="music_title">음악 인기 검색어</string>
+    <string name="musicsearch_adult_only">"성인인증이 필요한 음원입니다.
+네이버 뮤직에서 이용해 주세요."</string>
+    <string name="musicsearch_album">앨범명</string>
+    <string name="musicsearch_artiest">아티스트</string>
+    <string name="musicsearch_copy_lyrics">가사 전체 복사하기</string>
+    <string name="musicsearch_genre">장르</string>
+    <string name="musicsearch_like_fail">실패했습니다. 다시 시도해 주세요.</string>
+    <string name="musicsearch_like_success">"네이버 뮤직 > 좋아요에서
+확인할 수 있습니다."</string>
+    <string name="musicsearch_likeit">좋아요</string>
+    <string name="musicsearch_listen_one_minute">1분듣기</string>
+    <string name="musicsearch_listenerror_cannot_download">다운로드 이용권이 없습니다.</string>
+    <string name="musicsearch_listenerror_cannot_found">"해당 곡을 찾을 수 없습니다.
+고객센터로 문의해 주세요."</string>
+    <string name="musicsearch_listenerror_cannot_play">음악서버와의 연결이 원활하지 않습니다. 다시 시도해 주세요.</string>
+    <string name="musicsearch_listenerror_device_limit">기기 제한으로 인하여 재생하실 수 없습니다.</string>
+    <string name="musicsearch_listenerror_duplicate_login">중복 로그인으로 재생할 수 없습니다.</string>
+    <string name="musicsearch_listenerror_etc">서버 오류로 실패하였습니다.</string>
+    <string name="musicsearch_listenerror_not_have_rights">해당 음원의 권리가 확보되지 않아 1분듣기 서비스를 제공할 수 없습니다.</string>
+    <string name="musicsearch_listenerror_oversea_limit_ip">해외 지역 제한으로 인하여 1분듣기 서비스를 제공할 수 없습니다.</string>
+    <string name="musicsearch_listenerror_under19_login">만 19세 미만의 청소년은 이용할 수 없는 음원입니다.</string>
+    <string name="musicsearch_listenerror_under19_notlogin">만 19세 미만의 청소년은 이용할 수 없는 음원입니다.</string>
+    <string name="musicsearch_need_install_musicapp">최신 버전의 네이버 뮤직앱을 설치하셔야 합니다. 지금 설치 하시겠습니까?</string>
+    <string name="musicsearch_need_os_upgrage">"OS 2.2 버전 이상에서
+이용 가능합니다. 
+OS 업데이트 후 이용해 주세요."</string>
+    <string name="musicsearch_release">발매</string>
+    <string name="musicsearch_result_title">음악 검색결과</string>
+    <string name="musicsearch_send_me2day">미투보내기</string>
+    <string name="musicsearch_send_me2day_tag">네이버앱 음악검색</string>
+    <string name="musicsearch_send_me2day_update_fail">2.2.0 이후 버전에서 검색한 음악만 미투로 보낼 수 있습니다.</string>
+    <string name="musicsearch_title">음악검색</string>
+    <string name="musicsearch_warningmsg_under19">"해당 곡은 청소년 청취 불가곡으로
+가사 보기를 이용할 수 없습니다."</string>
+    <string name="myPanelBlackListUrl">Set</string>
+    <string name="myPanelMaxSize">Integer:0</string>
+    <string name="mykeyword_delete_dialog">"내 검색어에서
+삭제하시겠습니까?"</string>
+    <string name="mykeyword_delete_dialog_no">취소</string>
+    <string name="mykeyword_delete_dialog_yes">확인</string>
+    <string name="mykeyword_overlimit_dialog">"내 검색어는 최대 10개까지
+저장할 수 있습니다.
+
+기존 내 검색어를 지우고
+새로 추가하시겠습니까?"</string>
+    <string name="mykeyword_overlimit_dialog_no">취소</string>
+    <string name="mykeyword_overlimit_dialog_yes">확인</string>
+    <string name="mypanel_needlogin_subtitle">로그인하면 추가한 페이지를 확인할 수 있습니다.</string>
+    <string name="mypanel_needlogin_title">로그인이 필요합니다.</string>
+    <string name="mysection_add_popup_hint">6자이내 입력</string>
+    <string name="mysection_add_popup_title">&lt;font color=#333333>&lt;b>%s&lt;/b>&lt;/font>(을)를&lt;br>네이버 메인에서 보시겠습니까?</string>
+    <string name="mysection_complete_popup_close">닫기</string>
+    <string name="mysection_complete_popup_go_home">홈으로 이동</string>
+    <string name="mysection_complete_popup_msg">"페이지 구성에 따라 일부 내용이
+동작하지 않거나 깨져 보일 수 있습니다."</string>
+    <string name="mysection_complete_popup_title">등록이 완료되었습니다!</string>
+    <string name="mysection_more_popup_add">메인에 추가</string>
+    <string name="mysection_more_popup_close">닫기</string>
+    <string name="mysection_more_popup_guide_go">MY판 추가하기</string>
+    <string name="mysection_more_popup_guide_msg1">"매일매일 확인하고 싶은 정보~
+네이버홈에 꺼내두고 쉽게 볼 수 있어요!"</string>
+    <string name="mysection_more_popup_guide_msg2">MY판은 네앱연구소에서 연구중인 기능입니다.</string>
+    <string name="mysection_more_popup_guide_show_detail">&lt;u>네앱연구소 자세히보기&lt;/u></string>
+    <string name="mysection_more_popup_hint_title">MY판 이름 입력</string>
+    <string name="mysection_more_popup_hint_url">URL주소 입력</string>
+    <string name="mysection_more_popup_modify">변경하기</string>
+    <string name="mysection_more_popup_select_title">MY판을 선택해주세요.</string>
+    <string name="mysection_more_popup_show_detail">&lt;u>자세히보기&lt;/u></string>
+    <string name="mysection_more_popup_title_modify">MY판 변경하기</string>
+    <string name="mysection_setting_banner_go_home_edit">&lt;font color=#31a5ff>네이버홈 판 관리&lt;/font> &lt;font color=#333333>바로가기&lt;/font></string>
+    <string name="mysection_setting_banner_msg">순서를 바꾸거나 삭제하고 싶다면?</string>
+    <string name="mysection_setting_cancel_popup_message">변경된 내용을 저장하지 않고 이동하시겠습니까?</string>
+    <string name="mysection_setting_cancel_popup_no">아니오</string>
+    <string name="mysection_setting_cancel_popup_yes">네</string>
+    <string name="mysection_setting_confirm">확인</string>
+    <string name="mysection_setting_copy_url">최근 복사한 URL</string>
+    <string name="mysection_setting_error_blacklist_domain">문제가 있어 제외한 사이트입니다.</string>
+    <string name="mysection_setting_error_empty_title_url">이름과 연결 페이지 모두 입력되었는지 확인해 주세요.</string>
+    <string name="mysection_setting_error_home_url">네이버홈이 아닌 다른 연결 페이지를 추가해 주세요.</string>
+    <string name="mysection_setting_error_invalid_url">유효하지 않은 연결 페이지입니다. 수정 후 다시 시도해 주세요.</string>
+    <string name="mysection_setting_hint_title">6자이내 입력</string>
+    <string name="mysection_setting_hint_url">URL주소 또는 검색어 입력</string>
+    <string name="mysection_setting_label_tip">이 페이지 어때요?</string>
+    <string name="mysection_setting_label_title">오픈메인 이름</string>
+    <string name="mysection_setting_label_url">URL 또는 검색 결과</string>
+    <string name="mysection_setting_title">네이버 메인에 추가</string>
+    <string name="mysection_state_added">추가됨</string>
+    <string name="mysection_state_empty">추가안됨</string>
+    <string name="naver_url">www.naver.com</string>
+    <string name="naverlab_cleansection_dialog_content" formatted="false">%d일 동안 보지 않은 주제 %d개를 홈에서 정리했습니다.</string>
+    <string name="naverlab_cover_after_setup_dialog_msg">"네이버홈 커버 변경사항이 저장되었습니다.
+지금 확인하시겠습니까?"</string>
+    <string name="naverlab_only_remain_searchsection_popup_message">"검색판만 남기고 모든 주제가
+홈에서 제외됩니다."</string>
+    <string name="naverlab_only_remain_searchsection_popup_negative_btn">취소</string>
+    <string name="naverlab_only_remain_searchsection_popup_positive_btn">검색판만 보기</string>
+    <string name="naverlab_searchsection_turnoff_default_section_progress">디폴트 주제판을 설정중입니다.잠시만 기다려주세요.</string>
+    <string name="naverlab_searchsection_turnoff_only_search_popup_closebtn">닫기</string>
+    <string name="naverlab_searchsection_turnoff_only_search_popup_okbtn">기능OFF</string>
+    <string name="naverlab_searchsection_turnoff_only_search_popup_title">"네이버홈 검색판을 OFF하면
+네이버 기본 주제로
+홈 설정이 변경됩니다."</string>
+    <string name="naverlab_searchsection_turnon_popup_closebtn">닫기</string>
+    <string name="naverlab_searchsection_turnon_popup_okbtn">홈으로이동</string>
+    <string name="naverlab_searchsection_turnon_popup_title">"네이버홈에 검색판이 추가되었습니다.
+지금 바로 확인하시겠습니까?"</string>
+    <string name="naverlab_version_guide_msg2">접속한 단말의 OS 버전을 확인해주세요.</string>
+    <string name="naverlab_version_kitkat_guide_msg1">"프로젝트는 &lt;font color=#00c73c>안드로이드4.4(킷캣)이상&lt;/font>부터
+참여가능합니다."</string>
+    <string name="naveroauthlogin_activity_name">Sign in with Naver</string>
+    <string name="naveroauthlogin_simpleid_add_str_desc">"Sign in faster and easier with
+Quick Sign-in account saved from
+other Naver Apps"</string>
+    <string name="naveroauthlogin_str_login_desc">Sign in &lt;font color=#08a600>%1$s&lt;/font> with Naver.</string>
+    <string name="naveroauthlogin_string_getting_token">Sign in with the account signed in to %1$s</string>
+    <string name="naveroauthlogin_string_group_id_not_available">"Group ID can't be used to 'Sign in with NAVER'. Please sign in as a normal account."</string>
+    <string name="naveroauthlogin_string_msg_naverapp_download_desc">Get NAVER App and sign in faster</string>
+    <string name="naveroauthlogin_string_msg_naverapp_download_link">Download App</string>
+    <string name="naveroauthlogin_string_network_state_not_available">Network is not available. Please check your network connection and try again.</string>
+    <string name="naveroauthlogin_string_token_invalid">Quick Sign-in account has been expired.</string>
+    <string name="naveroauthlogin_string_update_naverapp">Please update your Naver app to use this service.</string>
+    <string name="naverwebengine_apply">적용하기</string>
+    <string name="naverwebengine_minor_update_contents">네이버 브라우저엔진이 업데이트 되었습니다. 엔진을 최신 버전으로 적용해주세요.</string>
+    <string name="naverwebengine_update">업데이트</string>
+    <string name="naverwebengine_update_contents_1">"네이버 브라우저엔진이 업데이트 되었습니다. 엔진을 최신 버전으로 적용해주세요.
+(취소 선택 시 네이버 브라우저엔진을 적용하지 않습니다.)"</string>
+    <string name="naverwebengine_update_contents_2">"네이버 브라우저엔진의 새 버전이 출시되었습니다. 쾌적한 사용을 위해 업데이트를 권장합니다.
+(취소 선택 시 네이버 브라우저엔진을 적용하지 않습니다.)"</string>
+    <string name="naverwebengine_update_title">업데이트 안내</string>
+    <string name="nelo.error.failed_initial">"Data "</string>
+    <string name="nelo.warning.test">"Data "</string>
+    <string name="network_error_button_retry">재시도</string>
+    <string name="network_error_text1">네트워크에 접속할 수 없습니다.</string>
+    <string name="network_error_text2">네트워크 연결 상태를 확인해 주세요.</string>
+    <string name="new_feed_text">새로운 소식이 있습니다.</string>
+    <string name="new_install">새로설치가능</string>
+    <string name="new_user">아이디가 없으세요?</string>
+    <string name="news_title">뉴스 인기 검색어</string>
+    <string name="next">다음</string>
+    <string name="nloginglobal_adding_token">Adding a Quick Sign-in account.</string>
+    <string name="nloginglobal_auth_name">NAVER</string>
+    <string name="nloginglobal_common_cancel">Cancel</string>
+    <string name="nloginglobal_common_delete">Delete</string>
+    <string name="nloginglobal_common_just_login">No, not this time</string>
+    <string name="nloginglobal_common_ok">OK</string>
+    <string name="nloginglobal_common_signin">Sign in</string>
+    <string name="nloginglobal_common_use_application">Open with</string>
+    <string name="nloginglobal_deleting_token">Removing the Quick Sign-in account.</string>
+    <string name="nloginglobal_logout_id_deleted">The account has been removed. All the apps signed in with the account are going to sign out.</string>
+    <string name="nloginglobal_logout_toast_id_delete_fail">Failed to remove the account. Please try again.</string>
+    <string name="nloginglobal_logoutpopup_check_delete_all_id">Remove all</string>
+    <string name="nloginglobal_logoutpopup_check_delete_id">Remove this Quick Sign-in account</string>
+    <string name="nloginglobal_logoutpopup_ok">@string/nloginglobal_common_ok</string>
+    <string name="nloginglobal_otn_fail_dialog_cancel_str">Cancel</string>
+    <string name="nloginglobal_otn_fail_dialog_confirm_str">Retry</string>
+    <string name="nloginglobal_otn_fail_dialog_msg">Unable to connect. Would you like to retry?</string>
+    <string name="nloginglobal_otn_fail_dialog_msg_error">Error occurs. Would you like to retry?</string>
+    <string name="nloginglobal_otn_login_description_1">To sign in as the following username :</string>
+    <string name="nloginglobal_otn_login_description_2">--------</string>
+    <string name="nloginglobal_otn_login_description_3">please enter the code above onto the One-time Sign-in page.</string>
+    <string name="nloginglobal_otn_login_number_centent_1">----</string>
+    <string name="nloginglobal_otn_login_number_centent_2">----</string>
+    <string name="nloginglobal_otn_login_number_time_1">Remaining time</string>
+    <string name="nloginglobal_otn_login_number_time_2">--</string>
+    <string name="nloginglobal_otn_login_number_time_3">sec.</string>
+    <string name="nloginglobal_otn_login_number_title">One-time Sign-in Number</string>
+    <string name="nloginglobal_otn_progress_dialog_msg">loading One-time Login Number</string>
+    <string name="nloginglobal_otndesc_description_1">Just use the code generated from your smart phone to sign in Naver.</string>
+    <string name="nloginglobal_otndesc_description_2">Since there is no need to enter username and password, your sign-in information is safe and secure.</string>
+    <string name="nloginglobal_otndesc_description_title">What is a One-Time Sign-in Number?</string>
+    <string name="nloginglobal_otndesc_dontshow_anymore">Do not show again</string>
+    <string name="nloginglobal_otp_centent_1">----</string>
+    <string name="nloginglobal_otp_centent_2">----</string>
+    <string name="nloginglobal_otp_desc_description1">"With OTP, you can build an extra layer of security to your account with both your password and smart phone. After you enter your username and password correctly, you'll be asked for a code generated by Naver App registered so that you can protect your account from someone else having your password."</string>
+    <string name="nloginglobal_otp_desc_description2">Get started on your &lt;font color=#08a600>Naver Account&lt;/font> page.</string>
+    <string name="nloginglobal_otp_desc_description_title">What is Naver OTP (One-time Password) Sign-in?</string>
+    <string name="nloginglobal_otp_desc_dontshow_anymore">Do not show again</string>
+    <string name="nloginglobal_otp_description_1">Please enter this One Time Password if prompted.</string>
+    <string name="nloginglobal_otp_device_id">--------------</string>
+    <string name="nloginglobal_otp_device_id_title">Device Serial Number</string>
+    <string name="nloginglobal_otp_fail_dialog_cancel_str">Cancel</string>
+    <string name="nloginglobal_otp_fail_dialog_confirm_str">Retry</string>
+    <string name="nloginglobal_otp_fail_dialog_msg">Unable to connect. Do you want retry?</string>
+    <string name="nloginglobal_otp_fail_dialog_msg_error">Error occurs. Do you want retry?</string>
+    <string name="nloginglobal_otp_progress_dialog_msg">loading OTP Number</string>
+    <string name="nloginglobal_otp_time_1">Remaining time</string>
+    <string name="nloginglobal_otp_time_2">--</string>
+    <string name="nloginglobal_otp_time_3">sec.</string>
+    <string name="nloginglobal_otp_title">Verification Code</string>
+    <string name="nloginglobal_signin_group_id_not_available_msg">This service is not available to Group ID. Please try again with personal accounts.</string>
+    <string name="nloginglobal_signin_hint_id">Username</string>
+    <string name="nloginglobal_signin_hint_pw">Password</string>
+    <string name="nloginglobal_signin_info_otn">One-time Sign-in Number</string>
+    <string name="nloginglobal_signin_info_signout">Sign Out</string>
+    <string name="nloginglobal_signin_logging_out">Signing out</string>
+    <string name="nloginglobal_signin_need_login">Please sign in.</string>
+    <string name="nloginglobal_signin_not_support_otn">One-time Number sign-in is not supported in Apps.</string>
+    <string name="nloginglobal_signin_signing_in">Signing in</string>
+    <string name="nloginglobal_signin_simple_security_exceptioin">Please remove the malicious app (\"%1$s\") disturbing quick signing-in process before.</string>
+    <string name="nloginglobal_signin_sound_captchar_notavilable">Service is temporarily unavailable. Please try again later.</string>
+    <string name="nloginglobal_signin_upgrade_to_simple_id_failed">Adding NaverID to Android Account Manager failed.</string>
+    <string name="nloginglobal_simple_add_id_limited_max_num">Up to %1$s accounts are addible. Please remove one first.</string>
+    <string name="nloginglobal_simple_change_id_str_desc">Would you like to sign in with this account?</string>
+    <string name="nloginglobal_simple_delete_id_str_desc_logout">Removing the account will delete all of data from the device and all the apps signed in with this account will be sign out. Continue?</string>
+    <string name="nloginglobal_simple_id_add_already_added">The account is already exist.</string>
+    <string name="nloginglobal_simple_id_disappeared_when_reboot">"Since this app is installed on the external storage, 'Quick Sign-in' is not available.
+Would you like to move this app to the internal memory?"</string>
+    <string name="nloginglobal_simple_id_disappeared_when_reboot_for_sdk_under_14">"Since the app(\"%1$s\") is installed on the external storage, 'Quick Sign-in' is not available.
+Would you like to move the app to the internal memory?"</string>
+    <string name="nloginglobal_simple_id_str_btn_done">Done</string>
+    <string name="nloginglobal_simple_id_str_desc1">On the Quick Sign in button, your original Naver ID is being displayed instead of Secure ID to increase security.</string>
+    <string name="nloginglobal_simple_id_str_desc2">Up to &lt;font color=#08a600>3 accounts &lt;/font>are addible.</string>
+    <string name="nloginglobal_simple_id_str_noid_desc">Sign in faster and easier with Quick Sign-in account saved from other Naver Apps.</string>
+    <string name="nloginglobal_simple_signin_group_id_not_available_msg">Quick Sign-in is not available to Group ID. Please try again with normal accounts.</string>
+    <string name="nloginglobal_simple_use_simple_signin">Yes</string>
+    <string name="nloginglobal_token_added">The account has been added.</string>
+    <string name="nloginresource_account_setting_url">https://nid.naver.com/login/ext/mobileUrlMapper.nhn?lang=%1$s&amp;device_id=%2$s&amp;mode=account_info</string>
+    <string name="nloginresource_activityname_add_simple_id">Simple Id Add</string>
+    <string name="nloginresource_activityname_inappbrowser">InAppBrowser</string>
+    <string name="nloginresource_activityname_normal_signin">Naver Sign-in</string>
+    <string name="nloginresource_activityname_onetimeloginnum_help">One-Time Login Number Help Page</string>
+    <string name="nloginresource_activityname_onetimeloginnum_view">One-Time Login Number Page</string>
+    <string name="nloginresource_activityname_signin_info">Sign-In Info</string>
+    <string name="nloginresource_activityname_simple_signin">Simple Sign-in</string>
+    <string name="nloginresource_activityname_snslogin_with_facebook">NAVER Sign-in with Facebook</string>
+    <string name="nloginresource_activityname_snslogin_with_line">NAVER Sign-in with Line</string>
+    <string name="nloginresource_activityname_snslogin_with_wechat">NAVER Sign-in with Wechat</string>
+    <string name="nloginresource_activityname_snslogin_with_weibo">NAVER Sign-in with Weibo</string>
+    <string name="nloginresource_common_help">Help</string>
+    <string name="nloginresource_common_myinfo">My Account</string>
+    <string name="nloginresource_common_retry">Retry</string>
+    <string name="nloginresource_connection_error_connection_fail">Temporary error has occurred. Please try again [connection delayed]</string>
+    <string name="nloginresource_connection_error_connection_timeout">Temporary error has occurred. Please try again [response timeout]</string>
+    <string name="nloginresource_connection_error_error_none">Error occurred.</string>
+    <string name="nloginresource_connection_error_exceptional">Unexpected error has occurred. Please try again</string>
+    <string name="nloginresource_connection_error_no_peer_certificate">Invalid certificate. Please check the date and time setting on your device or back to factory settings when rooted/jailbroken.</string>
+    <string name="nloginresource_connection_error_session_error">Temporary error has occurred. Please try again [duplicated sign-in request]</string>
+    <string name="nloginresource_connection_error_user_cancel">Sign-in cancelled.</string>
+    <string name="nloginresource_connection_error_xml_parsing">Temporary error has occurred. Please try again [response error]</string>
+    <string name="nloginresource_description_textview_copyright" />
+    <string name="nloginresource_description_textview_delete_edittext">Delete %1$s %2$s</string>
+    <string name="nloginresource_description_textview_delete_id">Delete NAVER Account %1$s</string>
+    <string name="nloginresource_description_textview_simple_login">Sign-in with your NAVER Account %1$s</string>
+    <string name="nloginresource_dpi">default</string>
+    <string name="nloginresource_facebook_app_id">293471457383333</string>
+    <string name="nloginresource_fb_login_protocol_scheme">fb293471457383333</string>
+    <string name="nloginresource_fido_btn_cancel">@string/nloginglobal_common_cancel</string>
+    <string name="nloginresource_fido_dialog_acquired_imager_dirty">"지문 센서를 깨끗이 닦고
+다시 시도하세요."</string>
+    <string name="nloginresource_fido_dialog_acquired_insufficient">"지문을 인식할 수 없습니다.
+다시 시도해 주세요."</string>
+    <string name="nloginresource_fido_dialog_acquired_partial">"지문이 일부만 인식되었습니다.
+다시 시도해 주세요."</string>
+    <string name="nloginresource_fido_dialog_acquired_too_fast">"손가락을 너무 빨리 움직였습니다.
+다시 시도해 주세요."</string>
+    <string name="nloginresource_fido_dialog_acquired_too_slow">"손가락을 너무 느리게 움직였습니다.
+다시 시도해 주세요."</string>
+    <string name="nloginresource_fido_dialog_error_canceled">지문 인식 작업이 취소되었습니다.</string>
+    <string name="nloginresource_fido_dialog_error_hw_not_available">"지문 인식 하드웨어를 사용할
+수 없습니다."</string>
+    <string name="nloginresource_fido_dialog_error_lockout">"지문인식 실패 횟수가 많아
+잠시 지문 인증 시도가 불가능합니다."</string>
+    <string name="nloginresource_fido_dialog_error_no_space">"지문을 저장할 수 없습니다.
+기존 지문을 삭제하세요."</string>
+    <string name="nloginresource_fido_dialog_error_timeout">"지문 인식 시간이 초과되었습니다.
+다시 시도하세요."</string>
+    <string name="nloginresource_fido_dialog_error_unable_to_process">다시 시도해 주세요.</string>
+    <string name="nloginresource_fido_naverpay_title">네이버페이 지문 인증</string>
+    <string name="nloginresource_fido_retry">다시 시도해주세요.</string>
+    <string name="nloginresource_fido_success">인증 성공하였습니다.</string>
+    <string name="nloginresource_fido_waiting_fingerprint">지문을 인식시켜 주세요.</string>
+    <string name="nloginresource_groupid_help_url">https://nid.naver.com/login/ext/mobileUrlMapper.nhn?lang=%1$s&amp;mode=help_groupid</string>
+    <string name="nloginresource_help_url">https://nid.naver.com/login/ext/mobileUrlMapper.nhn?lang=%1$s&amp;mode=help_nid</string>
+    <string name="nloginresource_id_found_url">https://nid.naver.com/login/ext/mobileUrlMapper.nhn?lang=%1$s&amp;device_id=%2$s&amp;mode=found_id</string>
+    <string name="nloginresource_img_description_back_btn">Back</string>
+    <string name="nloginresource_img_description_bullet" />
+    <string name="nloginresource_img_description_check_btn" />
+    <string name="nloginresource_img_description_close_btn">Close</string>
+    <string name="nloginresource_img_description_delete_btn">Delete</string>
+    <string name="nloginresource_img_description_id_add_btn" />
+    <string name="nloginresource_img_description_keyboard_ko_img">Keyboard image (korean char)</string>
+    <string name="nloginresource_img_description_keyboard_sp_img">Keyboard image (special char)</string>
+    <string name="nloginresource_img_description_line_img" />
+    <string name="nloginresource_img_description_naver_logo">NAVER</string>
+    <string name="nloginresource_img_description_otn_question_btn">About One-time number</string>
+    <string name="nloginresource_img_description_otp_question_btn">About OTP</string>
+    <string name="nloginresource_img_description_reg_otp_btn">Register OTP</string>
+    <string name="nloginresource_img_description_show_keyboard_btn">Show keyboard</string>
+    <string name="nloginresource_img_description_title_img" />
+    <string name="nloginresource_login2regotp_btn_loginandreg">Register and Sign-in</string>
+    <string name="nloginresource_login2regotp_btn_otherid">Register with another ID</string>
+    <string name="nloginresource_login2regotp_btn_reg">Register</string>
+    <string name="nloginresource_login2regotp_normal_login_desc">Please sign in with the ID you will use for 2-Step Verification.&lt;br/> You will also be sign in the NAVER app.</string>
+    <string name="nloginresource_login2regotp_simple_login_desc">Select the ID you wish to use for 2-Step Verification.&lt;br/> Select &lt;b>[Register with another ID]&lt;/b> if your desired ID is not available.</string>
+    <string name="nloginresource_login2regotp_simpleid_add_desc">2단계 인증을 사용할 아이디를 등록해주세요.&lt;br/>지금 네이버앱의 로그인 상태는 유지 됩니다.</string>
+    <string name="nloginresource_logoutpopup_confirm_msg_desc">"Quick Sign-in account is still available. If you won't sign in anymore, please remove it."</string>
+    <string name="nloginresource_logoutpopup_confirm_msg_detail_id">&lt;font color=#08a600>&lt;b>%1$s&lt;/b>&lt;/font> will be signed out.</string>
+    <string name="nloginresource_logoutpopup_confirm_msg_title">Signing out.</string>
+    <string name="nloginresource_network_state_not_available">Network is not available. Please check your network connection and try again.</string>
+    <string name="nloginresource_otln_help_url">https://nid.naver.com/login/ext/mobileUrlMapper.nhn?lang=%1$s&amp;mode=help_otn</string>
+    <string name="nloginresource_otn_error_wrong_auth">Please sign-in again, Probably wrong certification used.</string>
+    <string name="nloginresource_otn_need_session">Please, sign-in to see One-time number.</string>
+    <string name="nloginresource_otntop_description_title1">Simple and Safe</string>
+    <string name="nloginresource_otntop_description_title2">One-Time Sign-in Number</string>
+    <string name="nloginresource_otp_btn_register_otp">Register ID</string>
+    <string name="nloginresource_otp_dialog_auth_2ndfactor_cancel">Verification has been cancelled. Please try again verified.</string>
+    <string name="nloginresource_otp_dialog_auth_2ndfactor_desc">[Naver] Are you sure you want to permit sign in?</string>
+    <string name="nloginresource_otp_dialog_auth_2ndfactor_ok">Verification has been completed.</string>
+    <string name="nloginresource_otp_dialog_progress">Registering ID (TODO)</string>
+    <string name="nloginresource_otp_fail_dailog_errormsg_remove_otp_file">Generate OTP number and device serial number again.</string>
+    <string name="nloginresource_otp_help_url">https://nid.naver.com/login/ext/mobileUrlMapper.nhn?lang=%1$s&amp;mode=help_otp</string>
+    <string name="nloginresource_otp_top_description_title1">Keep your account safer!</string>
+    <string name="nloginresource_otp_top_description_title2">Naver OTP Sign-in</string>
+    <string name="nloginresource_pw_found_url">https://nid.naver.com/login/ext/mobileUrlMapper.nhn?lang=%1$s&amp;device_id=%2$s&amp;mode=found_pw</string>
+    <string name="nloginresource_signin_error_input_password">Enter your password!</string>
+    <string name="nloginresource_signin_error_input_username">Enter your username!</string>
+    <string name="nloginresource_signin_groupid_login">Group ID Sign in</string>
+    <string name="nloginresource_signin_id_forgot">Forgot your &lt;u>Username&lt;/u></string>
+    <string name="nloginresource_signin_info_default_id">--------</string>
+    <string name="nloginresource_signin_info_is_onlyloginid">(Signed-in with Secure ID)</string>
+    <string name="nloginresource_signin_keyboard_close">PC Keyboard</string>
+    <string name="nloginresource_signin_keyboard_open">PC Keyboard</string>
+    <string name="nloginresource_signin_keyboard_switch_ko">Korean ></string>
+    <string name="nloginresource_signin_keyboard_switch_sp">Symbols ></string>
+    <string name="nloginresource_signin_pw_forgot">&lt;u>Password?&lt;/u></string>
+    <string name="nloginresource_signin_signup">&lt;u>Sign up&lt;/u></string>
+    <string name="nloginresource_signin_simple_desc_bottom">You can sign in with another Quick Sign-in account.</string>
+    <string name="nloginresource_signin_simple_login_other">Sign in with another account</string>
+    <string name="nloginresource_signup_url">https://nid.naver.com/login/ext/mobileUrlMapper.nhn?lang=%1$s&amp;device_id=%2$s&amp;mode=signup</string>
+    <string name="nloginresource_snslogin_idpname_facebook">Facebook</string>
+    <string name="nloginresource_snslogin_idpname_line">Line</string>
+    <string name="nloginresource_snslogin_idpname_wechat">Wechat</string>
+    <string name="nloginresource_snslogin_idpname_weibo">Weibo</string>
+    <string name="nloginresource_snslogin_view_more">more</string>
+    <string name="nloginresource_snslogin_view_title">Sign in &amp; Join with</string>
+    <string name="nloginresource_string_snslogin_cancel">@string/nloginresource_connection_error_user_cancel</string>
+    <string name="nloginresource_string_snslogin_error">The social sign-in account provider is not reponding. Please try again later.</string>
+    <string name="nloginresource_string_snslogin_nodata">Social sign-in failed. (no data)</string>
+    <string name="nloginresource_string_snslogin_noresult">Social sign-in failed. (no result code)</string>
+    <string name="nloginresource_string_snslogin_retry">The social sign-in account provider is not reponding. Trying again.</string>
+    <string name="nloginresource_string_snslogin_token_empty">Social sign-in failed.(idp token is empty)</string>
+    <string name="no">아니요</string>
+    <string name="no_camera_flash_body">현재 단말기에서 지원하지 않는 기능입니다.</string>
+    <string name="no_camera_flash_title">플래시</string>
+    <string name="no_down">아니오</string>
+    <string name="no_feed_main_text">구독 중인 주제가 없습니다.</string>
+    <string name="no_feed_sub_text">"여러분에게 지금 필요한
+정보, 관심사는 무엇인가요?"</string>
+    <string name="no_matches">No matches</string>
+    <string name="not_install_list">새로설치목록(</string>
+    <string name="not_install_only">미설치앱만보기</string>
+    <string name="noti">알림</string>
+    <string name="noti_app_update">%d개의 앱 업데이트가 있습니다.</string>
+    <string name="noti_service_setting_description_blog">게시글의 덧글, 답글</string>
+    <string name="noti_service_setting_description_cafe">게시글의 덧글, 답글, 답변</string>
+    <string name="noti_service_setting_description_dic">영어/중국어/일본어 오늘의 단어 등</string>
+    <string name="noti_service_setting_description_happybean">덧글, 답글</string>
+    <string name="noti_service_setting_description_kin">답변</string>
+    <string name="noti_service_setting_description_mail">답장, 중요 주소로부터 메일 수신</string>
+    <string name="noti_service_setting_description_naverme">서비스 공지 및 안내</string>
+    <string name="noti_service_setting_description_toolbar">URL 보내기</string>
+    <string name="noti_service_setting_description_webtoon">구독 웹툰 업데이트</string>
+    <string name="noti_text_capture">캡쳐화면을 보려면 터치하세요</string>
+    <string name="noti_title_capture">%s 저장됨</string>
+    <string name="notice_close">닫기</string>
+    <string name="notice_dont_show_agin_text">Do Not Show Again</string>
+    <string name="notice_list_check_details_by_button">Please check the details of the event by clicking this link below!</string>
+    <string name="notice_list_show_details">More</string>
+    <string name="notice_list_upadte_latest_version">Update Latest Version</string>
+    <string name="notice_list_using_latest_version">Latest Version</string>
+    <string name="notice_msg_no_items">No Notices.</string>
+    <string name="notice_msg_please_wait">Please wait.</string>
+    <string name="notice_name">Notices</string>
+    <string name="notice_not_show">다시 보지 않기</string>
+    <string name="notice_popup_cancel">Cancel</string>
+    <string name="notice_popup_error_network">"Could not check notice.
+Please check your network."</string>
+    <string name="notice_popup_error_server_api">"Could not check notice.
+Please try again after a while."</string>
+    <string name="notice_popup_event_go">Move Now</string>
+    <string name="notice_popup_go">Move Now</string>
+    <string name="notice_popup_later">Update Later</string>
+    <string name="notice_popup_ok">OK</string>
+    <string name="notice_popup_update_now">Update Now</string>
+    <string name="notice_promotion_text">Do Not Show for %1$s days</string>
+    <string name="notice_type_event">event</string>
+    <string name="notice_type_normal">notice</string>
+    <string name="notice_type_update">update</string>
+    <string name="notification_input_keyword">검색어를 입력해주세요.</string>
+    <string name="notification_input_keyword_colored_html">"&lt;font color='#5296fe'>검색어&lt;/font>&lt;font color='#343434'>를 입력해 주세요.&lt;/font>"</string>
+    <string name="notification_keyword_autocomplete_off_colored_html">"&lt;font color='#7c7c7c'>[설정 > 검색어 자동완성]&lt;/font>을 &lt;font color='#7c7c7c'>ON상태&lt;/font>로 변경하면&lt;br/> 자동 완성 기능을 이용할 수 있습니다."</string>
+    <string name="notification_keyword_history_off">"[설정 > 검색어 저장]을 ON상태로 변경하면
+이전 검색어를 확인할 수 있습니다."</string>
+    <string name="notification_keyword_history_off_colored_html">"&lt;font color='#7c7c7c'>[설정 > 검색어 저장]&lt;/font>을 &lt;font color='#7c7c7c'>ON상태&lt;/font>로 변경하면&lt;br/>이전 검색어를 확인할 수 있습니다."</string>
+    <string name="nw_fail_dialog_message">"네트워크에 접속할 수 없습니다.
+네트워크 연결상태를 확인해 주세요."</string>
+    <string name="nw_fail_dialog_title">네트워크연결</string>
+    <string name="nw_fail_notfound_dialog_message">URL 주소가 잘못 입력되었거나 변경 혹은 삭제되어 페이지를 찾을 수 없습니다.</string>
+    <string name="oauth_allow_process_dialog">인증 중입니다...</string>
+    <string name="ocr_api_fail_toast_msg">오류가 발생했습니다. 다시 시도해주세요.</string>
+    <string name="ocr_engine_err_msg">OCR 문자인식은 최신버전에서 이용할 수 있습니다.</string>
+    <string name="ok">확인</string>
+    <string name="opening_file_error">Failed to open selected file</string>
+    <string name="openmain_add_complete_msg">원하는 위치로 [순서변경]도 할 수 있어요.</string>
+    <string name="openmain_add_complete_title">이제 &lt;font color=#333333>#&lt;b>%s&lt;/b>&lt;/font>(을)를 네이버&lt;br>메인에서 바로 볼 수 있습니다.</string>
+    <string name="openmain_block_error_msg">"위 사이트는 불법사이트로 확인돼
+클린 인터넷 문화를 위해 차단되었습니다."</string>
+    <string name="openmain_block_error_title">불법 사이트로 사용이 제한되었습니다.</string>
+    <string name="openmain_error_cs">고객센터 문의</string>
+    <string name="openmain_error_remove">삭제하기</string>
+    <string name="openmain_error_remove_popup_close">닫기</string>
+    <string name="openmain_error_remove_popup_message">\#%s 판을(를) 삭제하시겠습니까?</string>
+    <string name="openmain_error_remove_popup_remove">삭제</string>
+    <string name="openmain_guide_msg">이 기능이 더 궁금하다면?</string>
+    <string name="openmain_guide_title">"매일 찾아보는 페이지를
+네이버 메인에서 바로 보세요!"</string>
+    <string name="openmain_more_popup_go_main">메인으로 이동</string>
+    <string name="openmain_page_error_msg">"위 사이트가 정상적으로 로드되지 않고 있습니다.
+잠시 후 다시 시도해 주세요."</string>
+    <string name="openmain_page_error_title">페이지 응답이 없습니다.</string>
+    <string name="openmain_page_refresh">새로고침</string>
+    <string name="openmain_redirect_error_msg">"위 사이트에서 도메인이 다른 웹사이트
+호출을 시도해 차단되었습니다."</string>
+    <string name="openmain_redirect_error_title">비정상적인 시도가 발견되었습니다.</string>
+    <string name="openpage_add_new_page">새 페이지</string>
+    <string name="order_change_nudge_msg">&lt;font color=#00c73c>[[TITLE]]&lt;/font>&lt;font color=#222222>에 관심이 있다면&lt;br>판 순서를 앞으로 이동해보세요.&lt;/font></string>
+    <string name="org_name">조직:</string>
+    <string name="org_unit">조직 구성 단위:</string>
+    <string name="original_main_use_guide_toast_msg">다시 기본 홈을 사용하려면 상단 메뉴&lt;br>아래의 &lt;font color=#03f04a>기본 홈으로 보기&lt;/font>를 누르거나&lt;br>&lt;font color=#03f04a>홈 설정에서 OFF&lt;/font> 하세요.</string>
+    <string name="other_search_button_barcode">직접입력</string>
+    <string name="other_search_button_voice">다른 인식결과 보기</string>
+    <string name="other_search_text_barcode">원하는 결과가 아닌가요?</string>
+    <string name="page_info">페이지 정보</string>
+    <string name="page_info_address">주소:</string>
+    <string name="page_info_view">페이지 정보 보기</string>
+    <string name="parse_fail_dialog_message">올바르지 않은 데이터입니다.</string>
+    <string name="parse_fail_dialog_title">데이터오류</string>
+    <string name="password_generation_popup_content_description">Showing password generation popup</string>
+    <string name="password_toggle_content_description">Toggle password visibility</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="permission_grant_message">"해당 서비스를 사용하기 위해서는 '%s' 권한 승인이 필요합니다. 해당 권한을 승인하지 않으면 서비스 이용이 제한됩니다."</string>
+    <string name="person_history_dialog_msg">연락처 검색 기록을 모두 삭제하시겠습니까?</string>
+    <string name="photo_album">사진 앨범</string>
+    <string name="place">플레이스</string>
+    <string name="plus_services_install_message_appstore">"다양한 앱 서비스들을
+쉽게 찾고 빠르게 설치하는 앱스토어!
+지금 설치해보세요."</string>
+    <string name="plus_services_install_message_band">"모임이 쉬워지는 밴드앱!
+지금 설치해보세요."</string>
+    <string name="plus_services_install_no">취소</string>
+    <string name="plus_services_install_yes">설치하기</string>
+    <string name="pmtime">오후</string>
+    <string name="popup_title_lab_feature_turn_off">"기능을 OFF하려면
+앱을 다시 실행해야합니다.
+재실행 후 OFF하시겠습니까?"</string>
+    <string name="popup_title_secretmode_turn_on">"기능을 ON하려면
+앱을 다시 실행해야 합니다.
+재실행 후 ON하시겠습니까?"</string>
+    <string name="popup_title_secretmode_turn_on_afterdownlad">"시크릿모드 전환을 위해
+앱종료 후 재실행합니다."</string>
+    <string name="post">올리기</string>
+    <string name="prefProcessStartTime">Long:0</string>
+    <string name="pref_init_view_search">검색 (키보드 열린 상태)</string>
+    <string name="pref_init_view_service_link">서비스 바로가기</string>
+    <string name="pref_init_view_shoot_up">인기검색어</string>
+    <string name="pref_search_address">연락처</string>
+    <string name="pref_search_address_sub">자동완성에 연락처를 포함합니다.</string>
+    <string name="pref_search_history">검색어 저장</string>
+    <string name="pref_search_history_sub">검색 기록 기능을 사용합니다.</string>
+    <string name="pref_title_auto_complete">자동완성 항목 설정</string>
+    <string name="pref_title_initial_view">첫 화면 설정</string>
+    <string name="previous">이전</string>
+    <string name="process_date_delete_msg">데이터 삭제 중..</string>
+    <string name="process_loading_msg">로드 중</string>
+    <string name="process_location_agree_msg">위치 정보 데이터 처리 중..</string>
+    <string name="process_login_msg">로그인 처리 중...</string>
+    <string name="process_searching_msg">검색 중...</string>
+    <string name="profiler_error_toast">Failed to start profiler</string>
+    <string name="profiler_no_storage_toast">"Can't start profiler because external storage is not ready"</string>
+    <string name="profiler_started_toast">Profiler started</string>
+    <string name="profiler_stopped_toast">Profiler finished. Results are in %1$s.</string>
+    <string name="push_noti_category_group_loading_error">"알림 서비스 목록을 불러오지 못했습니다.
+잠시 후 다시 시도해 주세요."</string>
+    <string name="push_noti_etiquette_end_time">종료 시간</string>
+    <string name="push_noti_etiquette_start_time">시작 시간</string>
+    <string name="push_noti_etiquette_time_set">알림 설정</string>
+    <string name="push_noti_etiquette_time_set_sub_title">설정한 시간 동안에는 알림을 받지 않습니다.</string>
+    <string name="push_noti_etiquette_time_set_title">에티켓 시간 설정</string>
+    <string name="push_noti_fail_message">일시적인 네트워크 장애로 설정하지 못했습니다.</string>
+    <string name="push_noti_go_view">보기</string>
+    <string name="push_noti_need_auto_login_on_info">"'로그인 유지'를 설정하시면,
+새 소식 알림을 이용하실 수 있습니다."</string>
+    <string name="push_noti_need_login_info">새 소식 알림은 로그인 후 사용 가능합니다.</string>
+    <string name="push_noti_not_use_info">"알림 받기를 설정하시면
+메일, 카페, 블로그 등의 서비스에서
+새 소식이 있을 때 알림을 받을 수 있습니다."</string>
+    <string name="push_noti_notification_title">네이버 알림</string>
+    <string name="push_noti_popup_set">팝업 알림</string>
+    <string name="push_noti_popup_set_info">알림이 도착했을 때 팝업을 띄워 알려줍니다.</string>
+    <string name="push_noti_preview_set">미리보기</string>
+    <string name="push_noti_preview_set_info">알림 내용을 미리 볼 수 있습니다.</string>
+    <string name="push_noti_receive_set">새 소식 알림 받기</string>
+    <string name="push_noti_serivce_noti_list">서비스별 알림 항목</string>
+    <string name="push_noti_service_set">알림 서비스 설정</string>
+    <string name="push_noti_service_set_sub_title">"카페, 블로그 등 개별 앱에서 알림 받는 경우,
+중복으로 알림을 받을 수 있습니다."</string>
+    <string name="push_noti_sound_set">무음 모드</string>
+    <string name="push_noti_sound_set_info">소리와 진동 없이 알림만 표시합니다.</string>
+    <string name="qr_preview_email">이메일</string>
+    <string name="qr_preview_fax">FAX</string>
+    <string name="qr_preview_geo">위치</string>
+    <string name="qr_preview_memo">메모</string>
+    <string name="qr_preview_tel">전화번호</string>
+    <string name="qr_preview_tel_cell">휴대전화</string>
+    <string name="qr_preview_tel_work">회사번호</string>
+    <string name="qr_preview_title">직책</string>
+    <string name="qr_preview_url">URL</string>
+    <string name="qr_result_email">E-MAIL</string>
+    <string name="qr_result_market">APP</string>
+    <string name="qr_result_name">이름</string>
+    <string name="qr_result_name_error">이름없음</string>
+    <string name="qr_result_org">회사</string>
+    <string name="qr_result_tel">TEL</string>
+    <string name="qr_result_tel_cell">TEL(핸드폰)</string>
+    <string name="qr_result_tel_home">TEL(자택)</string>
+    <string name="qr_result_tel_work">TEL(직장)</string>
+    <string name="qr_result_title">직책</string>
+    <string name="qr_result_url">URL</string>
+    <string name="qrbarcode">QR/바코드</string>
+    <string name="query_select_all_menu" formatted="false">select * from %s where %s order by %s</string>
+    <string name="quick">서비스 바로가기</string>
+    <string name="quick_barcode">바코드</string>
+    <string name="quick_link_icon_notification_info">"바로가기 아이콘을 길게 누르면
+숨기거나 위치를 변경할 수 있습니다."</string>
+    <string name="quick_music">음악</string>
+    <string name="quick_sound">음성</string>
+    <string name="quickmenu_alert_cancel">취소</string>
+    <string name="quickmenu_alert_ok">확인</string>
+    <string name="quickmenu_popup_go_setting_msg">메인에서 제공하는 카테고리 항목이 변경되었습니다. &lt;font color=#00c533>설정&lt;/font>을 눌러 바로가기 항목을 수정해 주세요.</string>
+    <string name="quickmenu_search">검색</string>
+    <string name="quickmenu_service_app_manager">앱관리</string>
+    <string name="quickmenu_service_blog">블로그</string>
+    <string name="quickmenu_service_bookmark">북마크</string>
+    <string name="quickmenu_service_cafe">카페</string>
+    <string name="quickmenu_service_dic">사전</string>
+    <string name="quickmenu_service_kin">지식iN</string>
+    <string name="quickmenu_service_mail">메일</string>
+    <string name="quickmenu_service_me">구독</string>
+    <string name="quickmenu_service_music_recognition">음악검색</string>
+    <string name="quickmenu_service_ndrive">클라우드</string>
+    <string name="quickmenu_service_note">쪽지</string>
+    <string name="quickmenu_service_notify">알림</string>
+    <string name="quickmenu_service_realty">부동산</string>
+    <string name="quickmenu_service_recent_app">최근앱</string>
+    <string name="quickmenu_service_stock">증권</string>
+    <string name="quickmenu_service_weather">날씨</string>
+    <string name="quickmenu_service_webtoon">웹툰</string>
+    <string name="quickmenu_setting">설정</string>
+    <string name="quickmenu_setting_off_guide_subText1">다시 사용하려면, 네이버앱 설정에서</string>
+    <string name="quickmenu_setting_off_guide_subText2">&lt;font color=#00c73c>네이버 퀵메뉴&lt;/font>&lt;font color=#999999>를 체크해 주세요.&lt;/font></string>
+    <string name="quickmenu_setting_off_guide_title">저장하기를 누르시면 퀵메뉴가 OFF됩니다.</string>
+    <string name="quickmenu_setting_popup_cancel">"변경된 내용을 저장하지 않고
+닫으시겠습니까?"</string>
+    <string name="quickmenu_setting_section_panel">네이버 홈</string>
+    <string name="quickmenu_setting_section_service">네이버 서비스·앱관리</string>
+    <string name="quickmenu_setting_subtitle">원하는 메뉴를 4~6개 선택해 주세요.</string>
+    <string name="quickmenu_setting_subtitle2">퀵메뉴 사용하기</string>
+    <string name="quickmenu_setting_title">네이버 퀵메뉴 설정</string>
+    <string name="quickmenu_setting_toast_max">&lt;font color=#fff600>최대 6개&lt;/font>&lt;font color=#ffffff>까지 선택 가능합니다.&lt;/font></string>
+    <string name="quickmenu_setting_toast_min">&lt;font color=#fff600>4개 이상&lt;/font>&lt;font color=#ffffff> 선택해 주세요.&lt;/font></string>
+    <string name="quickmenu_setting_toast_selected">&lt;font color=#fff600>[[TITLE]]&lt;/font>&lt;font color=#ffffff> 메뉴가 추가됩니다.&lt;/font></string>
+    <string name="quickmenu_setting_toast_unselected">&lt;font color=#fff600>[[TITLE]]&lt;/font>&lt;font color=#ffffff> 메뉴가 숨김 처리됩니다.&lt;/font></string>
+    <string name="realtime_card_review">리뷰</string>
+    <string name="realtime_ranking_up">급상승</string>
+    <string name="realtime_title">실시간 급상승 검색어</string>
+    <string name="recog_barcode_btn_title">바코드</string>
+    <string name="recog_music_help_ready">주변의 소음이 들리지 않도록 해 주세요.</string>
+    <string name="recog_music_help_retry">공식 음반이나 음원만 인식할 수 있습니다.</string>
+    <string name="recog_music_state_done">음악을 찾았습니다.</string>
+    <string name="recog_music_state_idle">"버튼을 누른 후
+음악을 들려주세요."</string>
+    <string name="recog_music_state_ready">음악을 들려주세요.</string>
+    <string name="recog_music_state_recording">듣고 있습니다···.</string>
+    <string name="recog_music_state_retry">"음악을 찾지 못했어요.
+버튼을 누른 다음
+다시 들려주세요."</string>
+    <string name="recog_ocr_btn_title">문자인식</string>
+    <string name="recog_qrcode_btn_title">QR코드</string>
+    <string name="recog_save_image_fail">촬영한 사진을 저장하지 못했습니다.</string>
+    <string name="recog_voice_jpn_to_kr_state_recording">번역할 문장을 일본어로 말씀하세요</string>
+    <string name="recog_voice_jpn_to_kr_state_retry">버튼을 누른후 번역할 문장을 일본어로 말씀하세요</string>
+    <string name="recog_voice_kr_to_jpn_state_recording">번역할 문장을 한국어로 말씀하세요</string>
+    <string name="recog_voice_kr_to_jpn_state_retry">버튼을 누른후 번역할 문장을 한국어로 말씀하세요</string>
+    <string name="recog_voice_state_ready">"마이크를 누른 후
+검색어를 말해주세요"</string>
+    <string name="recog_voice_state_recording">검색어를 말해주세요.</string>
+    <string name="recog_voice_state_recording2">듣고 있습니다···.</string>
+    <string name="recog_voice_state_retry">"말씀을 이해하지 못했어요.
+버튼을 누른 다음
+다시 말해주세요."</string>
+    <string name="recoghistory_listviewemptynodata">히스토리가 없습니다</string>
+    <string name="record_done">녹음완료</string>
+    <string name="recording">녹음중</string>
+    <string name="remove_all">전체 삭제</string>
+    <string name="retry">재시도</string>
+    <string name="retry_select">재선택</string>
+    <string name="safe_info_subtitle">회원님의 소중한 개인정보를 보호하고, 도용으로 인해 발생할 수 있는 피해를 방지하기 위해 보호 조치를 진행 하였습니다. 웹 사이트에서 보호조치를 해제하셔야 로그인이 가능합니다.</string>
+    <string name="safe_info_txt1">에 연결하시면 네이버 로그인, 비밀번호 찾기, 고객센터 문의를 통해 보호조치 및 해제 절차에 대한 보다 자세한 내용을 확인 하실 수 있습니다.</string>
+    <string name="safe_info_txt2">다소 불편하시더라도 보호조치 된 아이디의 잠금 상태를 해제 하고 향후 안전한 사용을 위해 본인 확인을 거치신 후 비밀번호 재발급 하시기 바랍나다.</string>
+    <string name="saturday">토</string>
+    <string name="sbi_fail_content">다시 시도해 주세요.</string>
+    <string name="sbi_fail_title">이미지를 인식할 수 없습니다.</string>
+    <string name="sbi_network_fail_content">네트워크 연결상태를 확인해주세요.</string>
+    <string name="sbi_network_fail_title">네트워크에 접속할 수 없습니다.</string>
+    <string name="sbi_server_fail_title">사용량이 급증하여 서비스 이용이 지연되고 있습니다.</string>
+    <string name="searchExtendLocationAddress">String:Invalid</string>
+    <string name="searchExtendLocationLatitude">String:Invalid</string>
+    <string name="searchExtendLocationLongtitude">String:Invalid</string>
+    <string name="search_5x1_widget_keyword_name">네이버 5x1 키워드형</string>
+    <string name="search_assist_title">네이버 검색</string>
+    <string name="search_basic_5x1_widget_name">네이버 : 그린 확장형</string>
+    <string name="search_basic_widget_name">네이버 : 솔리드 확장형</string>
+    <string name="search_dialog_message">검색어를 입력해 주세요.</string>
+    <string name="search_dialog_title">입력</string>
+    <string name="search_extends_living_bank">은행</string>
+    <string name="search_extends_living_bus">버스</string>
+    <string name="search_extends_living_cafe">카페</string>
+    <string name="search_extends_living_food">음식점</string>
+    <string name="search_extends_living_inn">숙박</string>
+    <string name="search_extends_living_living">생활/편의</string>
+    <string name="search_extends_living_medic">병원</string>
+    <string name="search_extends_living_subway">지하철</string>
+    <string name="search_extends_possearch_appsetting_dialog">"네이버앱에서
+현재 위치를 사용합니다.
+'앱 설정 > 위치 기반 검색'에서
+해제하실 수 있습니다."</string>
+    <string name="search_extends_possearch_appsetting_dialog_no">취소</string>
+    <string name="search_extends_possearch_appsetting_dialog_yes">확인</string>
+    <string name="search_extends_possearch_change">다른위치</string>
+    <string name="search_extends_possearch_current">현위치</string>
+    <string name="search_extends_possearch_loading">현위치 불러오는 중..</string>
+    <string name="search_extends_possearch_nonaddr">위치 정보 없음</string>
+    <string name="search_extends_possearch_notfound_dialog">위치 신호가 불안정 합니다.</string>
+    <string name="search_extends_possearch_notfound_dialog_ok">확인</string>
+    <string name="search_extends_possearch_onfind_dialog">현재 위치를 확인하고 있습니다.</string>
+    <string name="search_extends_possearch_onfind_dialog_ok">확인</string>
+    <string name="search_extends_possearch_phonesetting_dialog">"위치정보 기능이
+ 해제되어 있습니다.
+단말기의 '환경 설정 >
+위치(장소) 및 보안'에서
+ '무선 네트워크 사용' 또는
+ 'GPS 위성 사용'을 선택한 다음
+ 다시 시도해 주세요."</string>
+    <string name="search_extends_possearch_phonesetting_dialog_no">취소</string>
+    <string name="search_extends_possearch_phonesetting_dialog_yes">환경설정</string>
+    <string name="search_extends_possearch_title">지역검색</string>
+    <string name="search_keyword_history_delete">검색기록 삭제</string>
+    <string name="search_location_editbox_hint">주소/지역명을 입력하세요.</string>
+    <string name="search_location_fail_message">"'&lt;font color='#fe0101'>%s&lt;/font>&lt;font color='#000000'>'에 대한 검색 결과가 없습니다&lt;/font>"</string>
+    <string name="search_location_not_history_message">최근 검색어가 없습니다.</string>
+    <string name="search_menu_title">Search</string>
+    <string name="search_mykeyword_not_exist_message1">설정된 내 검색어가 없습니다.</string>
+    <string name="search_mykeyword_not_exist_message2">"최근 검색어에서 &lt;img src='img_staroff'>를 선택하여&lt;br/>자주 찾는 검색어를 내 검색어로 저장해 보세요"</string>
+    <string name="search_mykeyword_not_login_button">로그인</string>
+    <string name="search_mykeyword_not_login_message1">"내 검색어는 &lt;font color='#266dc8'>로그인 후 &lt;/font>사용 가능합니다."</string>
+    <string name="search_widget_extend_5x2_name">네이버 5x2 검색형</string>
+    <string name="search_widget_extend_error_network">네트워크에 문제가 발생했습니다.</string>
+    <string name="search_widget_extend_life_convert_search_keyword">단위변환</string>
+    <string name="search_widget_extend_life_festival_search_keyword">축제</string>
+    <string name="search_widget_extend_life_search_1">경기일정</string>
+    <string name="search_widget_extend_life_search_2">레시피</string>
+    <string name="search_widget_extend_life_search_3">축제행사</string>
+    <string name="search_widget_extend_life_search_4">단위변환</string>
+    <string name="search_widget_extend_life_search_drama">드라마</string>
+    <string name="search_widget_extend_life_search_exchange">환율</string>
+    <string name="search_widget_extend_life_search_movie">상영영화</string>
+    <string name="search_widget_extend_life_search_quickroad">빠른길찾기</string>
+    <string name="search_widget_extend_life_search_traffic">실시간교통</string>
+    <string name="search_widget_extend_life_search_weather">날씨</string>
+    <string name="search_widget_extend_life_sport_search_keyword">스포츠 경기</string>
+    <string name="search_widget_extend_login_click">이곳을 터치하여 로그인하세요.</string>
+    <string name="search_widget_extend_name">네이버 4x2 검색형</string>
+    <string name="search_widget_extend_need_login">로그인이 필요합니다.</string>
+    <string name="search_widget_extend_realtime_search_keyword">실시간 급상승</string>
+    <string name="search_widget_extend_retry_click">다시 시도하려면 터치하세요.</string>
+    <string name="search_widget_extend_update_time_1min">1분</string>
+    <string name="search_widget_extend_update_time_3min">3분</string>
+    <string name="search_widget_extend_update_time_5min">5분</string>
+    <string name="search_widget_extend_update_time_title">데이터 자동 업데이트 설정</string>
+    <string name="search_widget_keyword_name">네이버 : 화이트 확장형</string>
+    <string name="search_widget_pwe_extend_5x2_name">네이버 5x2 개인형</string>
+    <string name="search_widget_pwe_extend_name">네이버 4x2 개인형</string>
+    <string name="search_widget_shortcut_5x5_name">네이버 5x5 바로가기형</string>
+    <string name="search_widget_shortcut_name">네이버 4x4 바로가기형</string>
+    <string name="search_window_edit_hint_text">검색어 입력</string>
+    <string name="search_window_suggest_history">최근 검색어</string>
+    <string name="search_window_suggest_life_search">생활 검색어</string>
+    <string name="search_window_suggest_list_go_link">바로가기</string>
+    <string name="search_window_suggest_mysearch">내 검색어</string>
+    <string name="search_word">검색어</string>
+    <string name="secondauth_require_authinput">2차 인증값을 입력해 주세요.</string>
+    <string name="section_auto_sort_button">자동설정</string>
+    <string name="section_browser_notitem_text_favorite">"네이버를 통해 자주가는 사이트를
+편리하게 방문할 수 있습니다."</string>
+    <string name="section_browser_notitem_text_inputted">"네이버를 통해 입력한 URL 기록을
+확인할 수 없습니다."</string>
+    <string name="section_browser_notitem_text_inputted_setting">"[설정 > 인터넷 사용기록 > 방문 URL 저장]을 ON상태로
+변경하면 최근 URL 입력 기록을 확인할 수 있습니다."</string>
+    <string name="section_browser_notitem_text_visited">"네이버를 통해 방문한 웹사이트 기록을
+확인할 수 없습니다."</string>
+    <string name="section_browser_notitem_text_visited_setting">"[설정 > 인터넷 사용기록 > 방문 URL 저장]을 ON상태로
+최근 방문한 기록을 확인할 수 있습니다."</string>
+    <string name="section_browser_notitem_title_favorite">자주 가는 사이트가 없습니다.</string>
+    <string name="section_browser_notitem_title_inputted">최근 입력하신 URL이 없습니다.</string>
+    <string name="section_browser_notitem_title_inputted_setting">최근 URL 기록을 남겨주세요.</string>
+    <string name="section_browser_notitem_title_visited">14일간 방문기록이 없습니다.</string>
+    <string name="section_edit_popup_neutral_btn_text">취소</string>
+    <string name="section_edit_popup_positive_btn_text">저장</string>
+    <string name="section_not_selected_button">미설정 판</string>
+    <string name="section_select_all_button">전체추가</string>
+    <string name="security_warning">보안 경고</string>
+    <string name="security_warning_message">"사이트의 보안 인증서에 문제가 있습니다.
+
+사이트에 접속한 후에는 페이지 열람 및 파일 다운로드가 가능하니 유의하여 이용해주시기 바랍니다."</string>
+    <string name="select_all">전체선택</string>
+    <string name="serviceLinkUpdateTime">Long:0</string>
+    <string name="serviceNClicks">String:</string>
+    <string name="service_notice">서비스 안내</string>
+    <string name="service_on_making_ready">현재 준비중인 서비스입니다.</string>
+    <string name="setup_addshortcut_addbutton_text">추가</string>
+    <string name="setup_addshortcut_title">빠른 실행 아이콘 추가</string>
+    <string name="setup_addshortcut_toast_active_msg">홈 화면에 바로가기를 추가합니다.</string>
+    <string name="setup_addshortcut_toast_msg">홈 화면에 바로가기가 생성됩니다.</string>
+    <string name="setup_app_update_noti_sub_title">네이버 모바일앱들의 업데이트 정보를 상태 바에 표시합니다.</string>
+    <string name="setup_app_update_noti_title">앱 업데이트 정보</string>
+    <string name="setup_application_all">애플리케이션 전체보기</string>
+    <string name="setup_auto_login">로그인 유지</string>
+    <string name="setup_auto_login_off_push_info_content">"'로그인 유지'를 해제하면,
+알림을 받으실 수 없습니다.
+해제하시겠습니까?"</string>
+    <string name="setup_auto_login_off_push_info_title">로그인 유지 해제</string>
+    <string name="setup_browser_info">시작화면 / 브라우저 설정</string>
+    <string name="setup_copyright">법적 공지</string>
+    <string name="setup_current_version">현재버전</string>
+    <string name="setup_default_browser">네이버앱을 기본 브라우저로 설정</string>
+    <string name="setup_default_browser_guide_fail_popup_button">다른 브라우저 설정 화면으로 이동</string>
+    <string name="setup_default_browser_guide_fail_popup_button2">기본 브라우저 설정 해제하기</string>
+    <string name="setup_default_browser_guide_fail_popup_content">&lt;font color=#00c73c>&lt;xliff:g id=app>%s&lt;/xliff>&lt;/font> 앱이&lt;br>&lt;font color=#00c73c>기본 브라우저로 설정&lt;/font>되어 있어 네이버 앱을&lt;br>기본 브라우저로 설정하지 못했습니다.&lt;br>기본 브라우저 해지 후 다시 시도해 주세요.</string>
+    <string name="setup_default_browser_guide_fail_popup_content2">설정 > 애플리케이션관리자 > NAVER에서&lt;br>&lt;font color=#00c73c>기본설정삭제&lt;/font>를 선택하면&lt;br>기본 브라우저 설정이 초기화됩니다.</string>
+    <string name="setup_default_browser_guide_fail_popup_title">기본 브라우저 &lt;font color=#00c73c>설정 실패&lt;/font></string>
+    <string name="setup_default_browser_guide_fail_popup_title2">기본 브라우저 &lt;font color=#00c73c>설정 해제 안내&lt;/font></string>
+    <string name="setup_default_browser_guide_popup_button">기본 브라우저 설정하기</string>
+    <string name="setup_default_browser_guide_popup_content">아래 팝업 하단의 &lt;font color=#00c73c>선택박스&lt;/font>를 체크한 후,&lt;br>목록에서 &lt;font color=#00c73c>네이버앱으로 열기&lt;/font>를 선택하면&lt;br>기본 브라우저로 네이버가 설정 됩니다.</string>
+    <string name="setup_default_browser_guide_popup_title">기본 브라우저 &lt;font color=#00c73c>설정안내&lt;/font></string>
+    <string name="setup_default_browser_msg">"인터넷 접속 시 네이버앱이 기본 브라우저로
+설정됩니다. 네이버앱 업데이트 시
+기본 브라우저가 초기화 됩니다."</string>
+    <string name="setup_default_browser_off_toast">네이버앱 기본 브라우저 설정이 해제 되었습니다.</string>
+    <string name="setup_delete_cache">캐시 삭제</string>
+    <string name="setup_delete_cache_detail">캐시에 저장된 콘텐츠와 데이터 삭제</string>
+    <string name="setup_delete_cookie">쿠키 삭제</string>
+    <string name="setup_delete_cookie_detail">브라우저에 저장된 사용자 정보와 입력했던 텍스트 정보가 삭제됩니다. 삭제하시겠습니까?</string>
+    <string name="setup_deviceid">디바이스 서포트 ID</string>
+    <string name="setup_deviceid_toast">디바이스 서포트 ID가 복사되었습니다.</string>
+    <string name="setup_download">다운로드</string>
+    <string name="setup_download_manager">다운로드 관리</string>
+    <string name="setup_go_login">로그인하세요</string>
+    <string name="setup_help">고객센터</string>
+    <string name="setup_higgs_title">네이버 브라우저엔진(V2)</string>
+    <string name="setup_history_manager">방문 기록</string>
+    <string name="setup_id">아이디</string>
+    <string name="setup_infomation">정보</string>
+    <string name="setup_location_agree">위치 기반 검색</string>
+    <string name="setup_login_account">로그인 계정</string>
+    <string name="setup_login_otp">네이버 OTP</string>
+    <string name="setup_login_otp_error_invalid_message">애플리케이션 오류입니다.</string>
+    <string name="setup_login_otp_error_invalid_title">오류</string>
+    <string name="setup_login_otp_error_telephony_message">통화 기능이 없는 안드로이드 기기에선 OTP 인증 번호 발급이 불가능합니다.</string>
+    <string name="setup_login_otp_error_telephony_title">기능 미 지원 알림</string>
+    <string name="setup_logininfo">로그인 정보</string>
+    <string name="setup_logout">로그아웃</string>
+    <string name="setup_msg_delete_cache">열어본 웹페이지 등 임시로 저장된 데이터를 삭제하여 저장용량을 확보하시겠습니까?</string>
+    <string name="setup_new_version">최신버전</string>
+    <string name="setup_no_notice">공지사항을 받아오지 못했습니다.</string>
+    <string name="setup_notice">공지사항</string>
+    <string name="setup_notice_recent">최신 업데이트</string>
+    <string name="setup_perm_btn_text_drawoverlay">앱 위에 그리기 권한 설정</string>
+    <string name="setup_perm_btn_text_usagestat">사용 액세스 권한 설정</string>
+    <string name="setup_perm_popup_message">&lt;font color=#333333>OS업데이트의 영향으로 일부 네이버 기능의 경우&lt;br>정상적인 사용을 위한 OS권한 설정이 필요합니다.&lt;br>네이버앱에 &lt;/font>&lt;font color=#00c73c>아래 [[PERM_COUNT]]개의 권한을 허용해 주세요.&lt;/font></string>
+    <string name="setup_programinfo">버전 정보</string>
+    <string name="setup_push_noti">알림</string>
+    <string name="setup_push_noti_disable">네이버앱 알림 설정은 로그인 후 사용 가능합니다.</string>
+    <string name="setup_push_noti_receive">알림 받음</string>
+    <string name="setup_push_noti_sub_title">알림 받지 않음</string>
+    <string name="setup_push_noti_title">새 소식 알림</string>
+    <string name="setup_quick_search">빠른 검색창 사용</string>
+    <string name="setup_quick_search_help">알림 영역에서 검색 기능을 사용할 수 있습니다</string>
+    <string name="setup_quickicon_add_title">바로가기에 모바일 웹 홈 아이콘을 추가하시겠습니까?</string>
+    <string name="setup_recognition_save">인식 검색 시 촬영 사진 저장</string>
+    <string name="setup_recognition_save_msg">"와인라벨, 일본어 검색 시 촬영한 사진을
+갤러리의 [NAVER] 폴더에 저장합니다."</string>
+    <string name="setup_recognition_search">인식 검색</string>
+    <string name="setup_record_history_message">방문 기록 저장을 해제하면, URL 기록도 저장되지 않습니다.</string>
+    <string name="setup_record_history_title">방문 기록 저장</string>
+    <string name="setup_search">검색 설정</string>
+    <string name="setup_search_autocomplete">검색어 자동 완성</string>
+    <string name="setup_search_history">검색어 저장</string>
+    <string name="setup_service">서비스 설정</string>
+    <string name="setup_service_help">네이버 고객센터</string>
+    <string name="setup_startpage">시작화면</string>
+    <string name="setup_startpage_detail">장시간 미사용 후 재실행하면, 네이버앱 홈으로 시작됩니다.</string>
+    <string name="setup_startpage_direct_link">바로가기</string>
+    <string name="setup_startpage_home">네이버홈</string>
+    <string name="setup_startpage_info">어플 실행 시 노출하고자 하는 화면을 설정할 수 있습니다.</string>
+    <string name="setup_startpage_naverme">네이버me</string>
+    <string name="setup_startpage_search">검색</string>
+    <string name="setup_startpage_title">재실행 시 네이버앱 홈으로 이동</string>
+    <string name="setup_string">설정</string>
+    <string name="setup_title">설정</string>
+    <string name="setup_update">업데이트</string>
+    <string name="setup_wallpaper">바탕화면</string>
+    <string name="setup_wallpaper_add_shortcut">홈 화면에 바로가기 추가</string>
+    <string name="share_title">페이지 공유</string>
+    <string name="shootUpMovieDate" />
+    <string name="shootUpNewsDate" />
+    <string name="shootUpNexeachDate" />
+    <string name="short_add">바로가기추가</string>
+    <string name="shortcutEditingTitleText">바로가기 편집</string>
+    <string name="shortcut_disabled_msg">해당 바로가기는 더 이상 지원하지 않습니다.</string>
+    <string name="slide_allow_button">허용</string>
+    <string name="slide_allservices_add_shortcut">휴대폰 바탕화면에 추가</string>
+    <string name="slide_allservices_add_shortcut_done">완료</string>
+    <string name="slide_allservices_apponly">APP만 보기</string>
+    <string name="slide_allservices_group_fold">접기</string>
+    <string name="slide_allservices_group_unfold">더보기</string>
+    <string name="slide_allservices_order_category">주제별</string>
+    <string name="slide_allservices_order_consonant">가나다순</string>
+    <string name="slide_block_button">차단</string>
+    <string name="slide_cash">캐쉬</string>
+    <string name="slide_checkout">체크아웃</string>
+    <string name="slide_etc_menu_logout_confirm">로그아웃 하시겠습니까?</string>
+    <string name="slide_etc_menu_logout_confirm_cancel">취소</string>
+    <string name="slide_etc_menu_logout_confirm_ok">확인</string>
+    <string name="slide_favorite_addshortcut_dialog_message">바로가기로 추가하시겠습니까?</string>
+    <string name="slide_favorite_addshortcut_dialog_no">아니오</string>
+    <string name="slide_favorite_addshortcut_dialog_yes">네</string>
+    <string name="slide_favorite_clear">초기화</string>
+    <string name="slide_favorite_clear_dialog_message">네이버앱에서 제공하는 기본 설정으로 변경하시겠습니까?</string>
+    <string name="slide_favorite_clear_dialog_no">취소</string>
+    <string name="slide_favorite_clear_dialog_yes">확인</string>
+    <string name="slide_favorite_clear_message">즐겨찾기 서비스가 초기화되었습니다.</string>
+    <string name="slide_favorite_edit">편집</string>
+    <string name="slide_favorite_edit_cancel_message">즐겨찾기 서비스 편집이 취소되었습니다.</string>
+    <string name="slide_favorite_edit_done">완료</string>
+    <string name="slide_favorite_edit_message">즐겨찾기 서비스가 변경되었습니다.</string>
+    <string name="slide_favorite_empty_dialog_message">즐겨찾기가 없는 경우 초기화 메뉴로 제공됩니다.</string>
+    <string name="slide_favorite_empty_dialog_no">아니오</string>
+    <string name="slide_favorite_empty_dialog_yes">네</string>
+    <string name="slide_favorite_order">순서</string>
+    <string name="slide_favorite_overmax_message">즐겨찾기는 %s개까지 추가할 수 있습니다.</string>
+    <string name="slide_footer_corp">©NAVER Corp.</string>
+    <string name="slide_footer_custom_center">네이버 고객센터</string>
+    <string name="slide_footer_login">로그인</string>
+    <string name="slide_footer_logout">로그아웃</string>
+    <string name="slide_footer_noti">공지사항</string>
+    <string name="slide_footer_pcversion">PC버전</string>
+    <string name="slide_footer_peronal_info">개인정보취급방침</string>
+    <string name="slide_footer_search_ad">검색광고</string>
+    <string name="slide_footer_setting">앱 설정</string>
+    <string name="slide_footer_terms">이용약관</string>
+    <string name="slide_icon_title">"%1$s
+%2$s"</string>
+    <string name="slide_menu_all_service">네이버 서비스 전체보기</string>
+    <string name="slide_menu_app_download_center">네이버 앱 센터</string>
+    <string name="slide_menu_app_update_enabled">업데이트 가능한 네이버앱</string>
+    <string name="slide_menu_download_text">앱다운로드</string>
+    <string name="slide_menu_fail_sub_title">잠시 후 다시 시도 해주세요</string>
+    <string name="slide_menu_fail_text">접속이 원활하지 않습니다.</string>
+    <string name="slide_menu_fail_title">일시적으로 데이터 전송이 지연되고 있습니다.</string>
+    <string name="slide_menu_favor_setting">자주가는 서비스 설정</string>
+    <string name="slide_menu_mobileweb_title">추천 모바일 웹</string>
+    <string name="slide_menu_open_page">열린 페이지</string>
+    <string name="slide_menu_prev_page">이전 페이지</string>
+    <string name="slide_menu_url_input">URL 입력</string>
+    <string name="slide_mileage">내 마일리지/캐쉬</string>
+    <string name="slide_my_mileage">내 마일리지</string>
+    <string name="slide_npay_basic_regist">간편결제 등록</string>
+    <string name="slide_npay_basic_start">시작하기</string>
+    <string name="slide_npay_basic_title">편리하고 안전한 네이버페이</string>
+    <string name="slide_npay_home">쇼핑MY</string>
+    <string name="slide_npay_pay">결제내역</string>
+    <string name="slide_npay_present">선물함</string>
+    <string name="slide_npay_reservation">내 예약</string>
+    <string name="slide_npay_send">송금</string>
+    <string name="slide_npay_title">네이버페이</string>
+    <string name="slide_personal_menu_biztalk">톡톡</string>
+    <string name="slide_personal_menu_blog">블로그</string>
+    <string name="slide_personal_menu_bookmark">북마크</string>
+    <string name="slide_personal_menu_cafe">카페</string>
+    <string name="slide_personal_menu_mail">메일</string>
+    <string name="slide_personal_menu_me">구독</string>
+    <string name="slide_personal_menu_message">쪽지</string>
+    <string name="slide_personal_menu_naverlab">네앱연구소</string>
+    <string name="slide_personal_menu_naverpay">네이버페이</string>
+    <string name="slide_personal_menu_naverpay_checkout">(체크아웃)</string>
+    <string name="slide_personal_menu_post">포스트</string>
+    <string name="slide_profile_menu_login">로그인하세요</string>
+    <string name="slide_profile_menu_login_long_text">&lt;font color=#00c73c>로그인&lt;/font>하고 네이버 알림, 메일 등을 받아보세요.</string>
+    <string name="slide_profile_menu_setting">설정</string>
+    <string name="slide_smartphonecare_guide">"내 폰에 설치된 앱과 메모리 사용량을
+관리할 수 있는 유용한 기능입니다."</string>
+    <string name="slide_smartphonecare_guide_button">사용하기</string>
+    <string name="slide_smartphonecare_memory_button">최적화하기</string>
+    <string name="slide_smartphonecare_memory_dummy">최적화중</string>
+    <string name="slide_smartphonecare_memory_title">메모리 사용량</string>
+    <string name="slide_smartphonecare_storage_button">앱목록</string>
+    <string name="slide_smartphonecare_storage_desc">&lt;font color=#4271df>[[USED]]GB&lt;/font> / [[TOTAL]]GB</string>
+    <string name="slide_smartphonecare_storage_title">내 폰에 설치된 앱</string>
+    <string name="slide_smartphonecare_title">스마트폰 관리</string>
+    <string name="slide_smartphonecare_to_store0">느려진 내 폰을 더 쾌적하게 만들어보세요!</string>
+    <string name="slide_smartphonecare_to_store1">스마트폰 관리앱 보러가기</string>
+    <string name="slide_tab_allservice">전체서비스</string>
+    <string name="slide_tab_favorite">나의 즐겨찾기</string>
+    <string name="slide_window">slide window</string>
+    <string name="slide_window_popup">"이 페이지에 팝업창이 있습니다.
+팝업창을 열 수 있도록 허용할까요?"</string>
+    <string name="smartfinder_festival">축제/행사</string>
+    <string name="smartfinder_loading">로딩 중..</string>
+    <string name="smartfinder_unit_result">결과 값을 확인하세요</string>
+    <string name="ssl_alert_title">Ssl Certificate Error Alert</string>
+    <string name="ssl_certificate">보안 인증서</string>
+    <string name="ssl_certificate_is_valid">유효한 인증서입니다.</string>
+    <string name="ssl_continue">계속</string>
+    <string name="ssl_expired">인증서가 만료되었습니다.</string>
+    <string name="ssl_mismatch">사이트 이름이 인증서에 있는 것과 일치하지 않습니다.</string>
+    <string name="ssl_not_yet_valid">인증서가 아직 유효하지 않습니다.</string>
+    <string name="ssl_untrusted">신뢰할 수 있는 인증 기관에서 발급한 인증서가 아닙니다.</string>
+    <string name="startup_architecture_mismatch_message">The Crosswalk Project Service must be updated to match the CPU architecture of the device. Please install it from the app store, then restart APP_NAME.</string>
+    <string name="startup_architecture_mismatch_title">Mismatch of CPU Architecture</string>
+    <string name="startup_newer_version_message">APP_NAME is not compatible with the installed version of the Crosswalk Project Service.</string>
+    <string name="startup_newer_version_title">Incompatible Crosswalk Project Service</string>
+    <string name="startup_not_found_message">APP_NAME requires the Crosswalk Project Service to work. Please install it from the app store, then restart APP_NAME.</string>
+    <string name="startup_not_found_title">Crosswalk Project Service Not Found</string>
+    <string name="startup_older_version_message">The version of the Crosswalk Project Service on this system must be updated. Please install it from the app store, then restart APP_NAME.</string>
+    <string name="startup_older_version_title">New Crosswalk Project Service Required</string>
+    <string name="startup_signature_check_error_message">The integrity of the Crosswalk Project Service cannot be verified. Please uninstall it and restart APP_NAME.</string>
+    <string name="startup_signature_check_error_title">The Crosswalk Project Signature Verification Failed</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="store_picture_message">Allow Ad to store image in Picture gallery?</string>
+    <string name="store_picture_title">Save image</string>
+    <string name="sunday">일</string>
+    <string name="swipe_coach_msg1">좌우 이동으로 스마트렌즈와</string>
+    <string name="swipe_coach_msg2">쇼핑렌즈를 이용할 수 있습니다.</string>
+    <string name="tel_behave_call">전화걸기</string>
+    <string name="tel_behave_sms">SMS보내기</string>
+    <string name="tel_behave_title">전화걸기/SMS보내기</string>
+    <string name="telephony_error_message">3G가 지원되지 않는 기기 입니다.통화나 메시지와 같은 기능은 이용할 수 없습니다.</string>
+    <string name="telephony_error_title">3G 미 지원 알림</string>
+    <string name="there_is_no_festival" formatted="false">"%04d년 %02d월
+%s 축제, 행사 일정이 없습니다."</string>
+    <string name="there_is_no_festival_for_theme" formatted="false">"%04d년 %02d월 %s에서
+ 선택하신 테마 일정이 없습니다."</string>
+    <string name="there_is_no_game" formatted="false">"%04d년 %02d월 %02d일
+%s경기일정이 없습니다."</string>
+    <string name="thursday">목</string>
+    <string name="time_picker_dialog_am">AM</string>
+    <string name="time_picker_dialog_hour_minute_separator">:</string>
+    <string name="time_picker_dialog_minute_second_separator">:</string>
+    <string name="time_picker_dialog_pm">PM</string>
+    <string name="time_picker_dialog_second_subsecond_separator">.</string>
+    <string name="time_picker_dialog_title">Set time</string>
+    <string name="title_cancle_edit_knowledgein">입력취소</string>
+    <string name="title_delete_all">전체삭제</string>
+    <string name="title_realtime_books">인물</string>
+    <string name="title_realtime_keyword">실시간 검색어</string>
+    <string name="title_realtime_moview">영화</string>
+    <string name="title_realtime_music">음악</string>
+    <string name="title_realtime_news">뉴스</string>
+    <string name="title_update_date">UPDATE</string>
+    <string name="titlebar_delete">삭제</string>
+    <string name="titlebar_edit">편집</string>
+    <string name="titlebar_search_barcode">바코드 검색</string>
+    <string name="to_ask">질문하기</string>
+    <string name="to_home">홈으로</string>
+    <string name="toast_cannot_use_dic_on_slidewebview">시스템 이슈로 일부 슬라이드 창에서는 사전 기능을 이용하실 수 없습니다.</string>
+    <string name="toast_cannot_use_translation_on_slidewebview">시스템 이슈로 일부 슬라이드 창에서는 번역 기능을 이용하실 수 없습니다.</string>
+    <string name="toast_msg_devset_disable_loc_search">"단말의 위치 정보 설정이 OFF되어 있어 '위치기반 검색'을 사용할 수 없습니다."</string>
+    <string name="toast_msg_devset_disable_loc_search_and_weather">"단말의 위치 정보 설정이 OFF되어 있어 '위치기반 검색'과 '날씨 알림'을 사용할 수 없습니다."</string>
+    <string name="toast_msg_perm_disable_loc_search">"위치 정보를 가져올 권한이 없어 '위치기반 검색'을 사용할 수 없습니다."</string>
+    <string name="toast_msg_perm_disable_loc_search_and_weather">"위치 정보를 가져올 권한이 없어 '위치기반 검색'과 '날씨 알림'을 사용할 수 없습니다."</string>
+    <string name="toast_msg_perm_disable_loc_search_simple">권한이 없어 위치 정보를 사용할 수 없습니다.</string>
+    <string name="toast_section_data_failed">메뉴를 받아오지 못했습니다.</string>
+    <string name="toast_section_data_finished">선택하신 메뉴가 종료되었습니다.</string>
+    <string name="toast_section_data_updated">메뉴가 업데이트 되었습니다.</string>
+    <string name="toolbar_edit_popup_auto_feature_on_message">"변경된 툴바를 적용하시겠습니까?
+네앱연구소 커스텀 툴바가 자동 ON됩니다."</string>
+    <string name="toolbar_edit_popup_cancel_message">"변경된 내용을 저장하지 않고
+이동하시겠습니까?"</string>
+    <string name="toolbar_edit_popup_no">아니오</string>
+    <string name="toolbar_edit_popup_yes">네</string>
+    <string name="toolbar_edit_setting_msg">&lt;font color=#222222>자주 쓰는 기능을 &lt;/font>&lt;font color=#1C8EF8>툴바로 드래그&lt;/font>&lt;font color=#222222>해 보세요.&lt;/font></string>
+    <string name="toolbar_edit_setting_title">툴바 설정</string>
+    <string name="toolbar_edit_setting_toolbar_text">&lt;font color=#222222>툴바의 &lt;/font>&lt;font color=#1C8EF8>배치순서&lt;/font>&lt;font color=#222222>도 편집할 수 있습니다.&lt;/font></string>
+    <string name="toolbar_edit_status_setting_default">미설정</string>
+    <string name="toolbar_edit_status_setting_modified">설정 완료</string>
+    <string name="total_app">전체 앱</string>
+    <string name="total_app_count">전체목록(%d)</string>
+    <string name="trans_always">[[LANGUAGE]]사이트 항상 번역</string>
+    <string name="trans_guide_more_menu">"&lt;font color=#ffffff>더보기 메뉴에서 &lt;/font>&lt;font color=#009dff>번역 및 사전 기능&lt;/font>&lt;font color=#ffffff>을&lt;br>
+이용할 수 있습니다.&lt;/font>"</string>
+    <string name="trans_off">끄기</string>
+    <string name="trans_toast_text1">네이버 번역기로 번역중입니다.</string>
+    <string name="trans_toast_text2">&lt;font color=#ffffff>문장을 &lt;/font>&lt;font color=#009dff>터치&lt;/font>&lt;font color=#ffffff>하면 원문을 볼 수 있습니다.&lt;/font></string>
+    <string name="tuesday">화</string>
+    <string name="tutorial_backup_msg">&lt;font color=#19c02e>[[NICKNAME]]&lt;/font>&lt;font color=#222222>님이 메인에서 사용하던&lt;/font>&lt;br>&lt;font color=#3f73c4>[[COUNT]]&lt;/font>&lt;font color=#222222>개의 판이 있군요!&lt;/font></string>
+    <string name="tutorial_checkbox_add_place">&lt;u>홈에 플레이스판 추가&lt;/u></string>
+    <string name="tutorial_health_sub_text1">정보가 궁금할 때는,</string>
+    <string name="tutorial_health_sub_text2"> 건강</string>
+    <string name="tutorial_health_title">운동·다이어트·의학</string>
+    <string name="tutorial_last_sub_text1">볼 수 있어요!</string>
+    <string name="tutorial_last_title1">지금 바로 </string>
+    <string name="tutorial_last_title2">네이버 홈</string>
+    <string name="tutorial_last_title3">에서</string>
+    <string name="tutorial_music_sub_text1">소식이 궁금할 때는,</string>
+    <string name="tutorial_music_sub_text2"> 뮤직</string>
+    <string name="tutorial_music_title">실시간 차트·공연</string>
+    <string name="tutorial_selected_under_min">&lt;font color=#ffffff>판을&lt;/font> &lt;font color=#ffed00>[[MIN]]개 이상&lt;/font>&lt;font color=#ffffff> 선택해야 합니다.&lt;/font></string>
+    <string name="tutorial_travel_sub_text1">꿀팁이 궁금할 때는,</string>
+    <string name="tutorial_travel_sub_text2"> 여행+</string>
+    <string name="tutorial_travel_title">항공권·호텔·여행지</string>
+    <string name="unknown_host_err_text">네트워크 연결 상태를 확인해 주세요.</string>
+    <string name="update_cancel">업데이트 취소</string>
+    <string name="update_enable">업데이트가능</string>
+    <string name="update_list">업데이트목록(</string>
+    <string name="update_pre">최종업데이트 :</string>
+    <string name="update_start">업데이트 시작</string>
+    <string name="upgrade_dialog_body">"New version
+Do you upgarde now?"</string>
+    <string name="upgrade_dialog_button_no">No</string>
+    <string name="upgrade_dialog_button_yes">Yes</string>
+    <string name="upgrade_dialog_low_version">This is not supported in this version.Do you upgrade now?</string>
+    <string name="upgrade_dialog_title">Update</string>
+    <string name="upgrade_error_body">"Can't connect the Google Play"</string>
+    <string name="upgrade_error_button">OK</string>
+    <string name="url_copy_toast_message">URL 복사가 완료되었습니다.</string>
+    <string name="url_input_window_hint_text">검색어 또는 URL 입력</string>
+    <string name="urlinput_delete_edit_inputted">URL 기록 삭제</string>
+    <string name="urlinput_delete_edit_title">URL 기록 삭제</string>
+    <string name="urlinput_input_favorite_add_btn">추가하기</string>
+    <string name="urlinput_input_favorite_empty">"자주 방문하는 사이트를 등록하여
+편리하게 이용해 보세요."</string>
+    <string name="urlinput_input_favorite_login">"네이버 아이디로 로그인 후,
+자주가는 사이트를 이용해 보세요."</string>
+    <string name="urlinput_input_favorite_login_btn">로그인</string>
+    <string name="urlinput_input_inputted_empty">최근 입력한 URL이 없습니다.</string>
+    <string name="urlinput_input_inputted_empty_setting">"[설정 > 인터넷 사용기록 > 방문 URL 저장]을 ON상태로
+변경하면 최근 URL 입력 기록을 확인할 수 있습니다."</string>
+    <string name="urlinput_tab_favorite">자주가는 사이트</string>
+    <string name="urlinput_tab_inputted">최근 URL</string>
+    <string name="useSearchExtendLocationLongtitude">Boolean:false</string>
+    <string name="use_application">Open with</string>
+    <string name="userdata_recover_dialog_title">"전에 사용하던 주제 순서와 글자크기를
+새 네이버앱에 적용할까요?"</string>
+    <string name="validity_period">유효성:</string>
+    <string name="view_certificate">인증서 보기</string>
+    <string name="view_provision">약관보기</string>
+    <string name="vod_end">경기영상</string>
+    <string name="vod_ing">TV생중계</string>
+    <string name="vod_no">중계없음</string>
+    <string name="vod_time">중계예정</string>
+    <string name="voice_search_failure">인식할 수 없습니다.</string>
+    <string name="voice_search_noice_env">마이크 부분을 가리지 않았는지 확인해 주세요. 단어를 끊지 말고 평소처럼 자연스럽게 말해 주세요.</string>
+    <string name="waiting">대기중</string>
+    <string name="watch_this_month">이번달보기</string>
+    <string name="watch_today">오늘보기</string>
+    <string name="weather_error_msg_far">인접지역 %s 날씨 확인하기></string>
+    <string name="weather_error_msg_gps">확인 가능한 위치 정보가 없습니다.</string>
+    <string name="weather_error_msg_network">네트워크가 확인되지 않습니다.</string>
+    <string name="weather_error_msg_time">사용중인 기기의 시간을 확인해주세요.</string>
+    <string name="weather_error_msg_weather">데이터 업데이트 준비중 입니다.</string>
+    <string name="weather_error_title_far">날씨 제공 지역이 아닙니다.</string>
+    <string name="weather_global_diff_seoul">서울보다 %s°</string>
+    <string name="weather_global_far_curr">%skm 범위이내</string>
+    <string name="weather_global_same_seoul">서울 기온과 같음</string>
+    <string name="weather_global_temp">%d°</string>
+    <string name="weather_promotion_msg">스마트한 날씨 생활을 지금 경험하세요!</string>
+    <string name="weather_promotion_without_location_service">"단말기의 '환경설정 > 위치(장소) 및 보안'에서 '무선 네트워크 사용' 또는 'GPS 위성 사용'을 선택한 다음 다시 시도해 주세요."</string>
+    <string name="weather_setup_need_location_agree_dialog_msg">위치 정보 사용을 위해 위치 기반 검색 설정을 ON으로 변경해 주세요. 확인을 누르면 설정화면으로 이동합니다.</string>
+    <string name="weather_setup_need_location_agree_dialog_negative">취소</string>
+    <string name="weather_setup_need_location_agree_dialog_positive">확인</string>
+    <string name="weather_setup_need_location_agree_dialog_title">날씨 알림</string>
+    <string name="weather_setup_noclear">현재 날씨 알림 삭제되지 않게 고정</string>
+    <string name="weather_setup_off_by_location_agree">"'위치기반 검색'이 해제되어, 날씨 알림을 사용할 수 없습니다."</string>
+    <string name="weather_setup_subtitle">현 위치의 실시간 날씨, 아침 저녁에는 하루를 종합한 날씨예보, 날씨 변화 발생 시 속보알림이 제공됩니다. 속보 알림은 로그인 상태에서 별도의 알림 형태로 제공됩니다. 아침,저녁에 제공되는 하루 날씨 예보를 지우면 현재날씨를 볼 수 있습니다.</string>
+    <string name="weather_setup_title">날씨 알림 사용</string>
+    <string name="weather_title">네이버 날씨알림</string>
+    <string name="webEditingTitleText">모바일웹 편집</string>
+    <string name="webmore_addshortcut_dialog_no">취소</string>
+    <string name="webmore_addshortcut_dialog_title">홈 화면에 바로가기 추가</string>
+    <string name="webmore_addshortcut_dialog_yes">추가</string>
+    <string name="webtoapp_kin_diif_login_dialog_msg">앱에서 로그인한 아이디([NAVER_ID])로 질문쓰기가 진행됩니다.</string>
+    <string name="webtoapp_kin_diif_login_dialog_ok">확인</string>
+    <string name="webtoolbar_copy_url">URL 복사</string>
+    <string name="webtoolbar_memo">* 메모하기</string>
+    <string name="webtoolbar_open_browser">안드로이드 브라우저로</string>
+    <string name="webtoolbar_open_multiview">열려있는 페이지</string>
+    <string name="webtoolbar_page_share">* 페이지 공유하기</string>
+    <string name="webtoolbar_screen_capture">* 화면 캡쳐하기</string>
+    <string name="webtoolbar_url_input">URL 입력</string>
+    <string name="webview_common_error">페이지를 표시할 수 없습니다.잠시 후 다시 시도해 주세요.</string>
+    <string name="webview_menu_back">뒤로</string>
+    <string name="webview_menu_browser">브라우저 열기</string>
+    <string name="webview_menu_forward">앞으로</string>
+    <string name="webview_menu_go_top">맨위로</string>
+    <string name="webview_menu_hide_bar">웹툴바 숨기기</string>
+    <string name="webview_menu_home">홈</string>
+    <string name="webview_menu_knowledge">지식인</string>
+    <string name="webview_menu_open_bar">웹툴바 열기</string>
+    <string name="webview_menu_service_link">바로가기</string>
+    <string name="webview_menu_setup">설정</string>
+    <string name="webview_menu_shootup_keyword">인기검색어</string>
+    <string name="webview_show_prev_page">이전 페이지 이동</string>
+    <string name="webviewbar_etc_button_item1">URL 복사하기</string>
+    <string name="webviewbar_etc_button_item2">단말 브라우저로 열기</string>
+    <string name="webviewbar_etc_button_title">더 보기</string>
+    <string name="wednesday">수</string>
+    <string name="week_picker_dialog_title">Set week</string>
+    <string name="widget_alpha_guide">전체위젯(기본형,키워드형,개인형,검색형,바로가기형 위젯)의 배경 화면에 설정한 투명도가 적용됩니다.</string>
+    <string name="widget_cancel">취소</string>
+    <string name="widget_save">저장</string>
+    <string name="widget_setup">위젯</string>
+    <string name="widget_setup_content">네이버 위젯 투명도 조절</string>
+    <string name="widget_setup_title">투명도 미리보기</string>
+    <string name="widget_shortcut_icon_1">뉴스</string>
+    <string name="widget_shortcut_icon_10">N드라이브</string>
+    <string name="widget_shortcut_icon_11">N스토어</string>
+    <string name="widget_shortcut_icon_12">사전</string>
+    <string name="widget_shortcut_icon_13">뿜</string>
+    <string name="widget_shortcut_icon_14">웹툰</string>
+    <string name="widget_shortcut_icon_15">TV캐스트</string>
+    <string name="widget_shortcut_icon_16">영화/예매</string>
+    <string name="widget_shortcut_icon_2">스포츠</string>
+    <string name="widget_shortcut_icon_3">날씨</string>
+    <string name="widget_shortcut_icon_4">증권</string>
+    <string name="widget_shortcut_icon_5">메일</string>
+    <string name="widget_shortcut_icon_6">카페</string>
+    <string name="widget_shortcut_icon_7">블로그</string>
+    <string name="widget_shortcut_icon_8">지식iN</string>
+    <string name="widget_shortcut_icon_9">네이버me</string>
+    <string name="windowPopupBlock">Boolean:true</string>
+    <string name="windowSlidePopup">Boolean:true</string>
+    <string name="winesearch_production_country">생산국</string>
+    <string name="winesearch_production_location">생산지</string>
+    <string name="xwalk_cancel">Cancel</string>
+    <string name="xwalk_close">Close</string>
+    <string name="xwalk_continue">Continue</string>
+    <string name="xwalk_get_crosswalk">Get Crosswalk</string>
+    <string name="xwalk_retry">Retry</string>
+    <string name="ye">예</string>
+    <string name="yes">예</string>
+</resources>

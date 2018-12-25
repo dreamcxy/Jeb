@@ -1,0 +1,1461 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="accept">Accept</string>
+    <string name="cast_ad_label">Ad</string>
+    <string name="cast_casting_to_device">Casting to %1$s</string>
+    <string name="cast_closed_captions">Closed captions</string>
+    <string name="cast_closed_captions_unavailable">Closed captions unavailable</string>
+    <string name="cast_disconnect">Disconnect</string>
+    <string name="cast_expanded_controller_ad_image_description">Image displayed while the cast receiver is playing an ad</string>
+    <string name="cast_expanded_controller_ad_in_progress">Ad in progress…</string>
+    <string name="cast_expanded_controller_background_image">Album art</string>
+    <string name="cast_expanded_controller_live_stream_indicator">Live stream</string>
+    <string name="cast_expanded_controller_loading">Loading…</string>
+    <string name="cast_expanded_controller_skip_ad_label">Skip</string>
+    <string name="cast_forward">Forward</string>
+    <string name="cast_forward_10">Forward ten seconds</string>
+    <string name="cast_forward_30">Forward thirty seconds</string>
+    <string name="cast_intro_overlay_button_text">@android:string/ok</string>
+    <string name="cast_mute">Mute</string>
+    <string name="cast_notification_connected_message">Connected to %1$s</string>
+    <string name="cast_notification_connecting_message">Connecting to %1$s</string>
+    <string name="cast_notification_disconnect">Disconnect</string>
+    <string name="cast_pause">Pause</string>
+    <string name="cast_play">Play</string>
+    <string name="cast_rewind">Rewind</string>
+    <string name="cast_rewind_10">Rewind ten seconds</string>
+    <string name="cast_rewind_30">Rewind thirty seconds</string>
+    <string name="cast_seek_bar">Playback seek control</string>
+    <string name="cast_skip_next">Skip to next item</string>
+    <string name="cast_skip_prev">Skip to previous item</string>
+    <string name="cast_stop">Stop</string>
+    <string name="cast_stop_live_stream">Stop live stream</string>
+    <string name="cast_tracks_chooser_dialog_audio">Audio</string>
+    <string name="cast_tracks_chooser_dialog_cancel">Cancel</string>
+    <string name="cast_tracks_chooser_dialog_closed_captions">Closed Captions</string>
+    <string name="cast_tracks_chooser_dialog_default_track_name">Track %1$d</string>
+    <string name="cast_tracks_chooser_dialog_no_audio_tracks">No Audio Tracks Available</string>
+    <string name="cast_tracks_chooser_dialog_no_text_tracks">No Text Tracks Available</string>
+    <string name="cast_tracks_chooser_dialog_none">None</string>
+    <string name="cast_tracks_chooser_dialog_ok">OK</string>
+    <string name="cast_tracks_chooser_dialog_subtitles">Subtitles</string>
+    <string name="cast_unmute">Unmute</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
+    <string name="create_calendar_title">Create calendar event</string>
+    <string name="debug_menu_ad_information">Ad Information</string>
+    <string name="debug_menu_creative_preview">Creative Preview</string>
+    <string name="debug_menu_title">Select a Debug Mode</string>
+    <string name="debug_menu_troubleshooting">Troubleshooting</string>
+    <string name="decline">Decline</string>
+    <string name="mr_button_content_description">Cast button</string>
+    <string name="mr_cast_button_connected">Cast button. Connected</string>
+    <string name="mr_cast_button_connecting">Cast button. Connecting</string>
+    <string name="mr_cast_button_disconnected">Cast button. Disconnected</string>
+    <string name="mr_chooser_searching">Finding devices</string>
+    <string name="mr_chooser_title">Cast to</string>
+    <string name="mr_controller_album_art">Album art</string>
+    <string name="mr_controller_casting_screen">Casting screen</string>
+    <string name="mr_controller_close_description">Close</string>
+    <string name="mr_controller_collapse_group">Collapse</string>
+    <string name="mr_controller_disconnect">Disconnect</string>
+    <string name="mr_controller_expand_group">Expand</string>
+    <string name="mr_controller_no_info_available">No info available</string>
+    <string name="mr_controller_no_media_selected">No media selected</string>
+    <string name="mr_controller_pause">Pause</string>
+    <string name="mr_controller_play">Play</string>
+    <string name="mr_controller_stop_casting">Stop casting</string>
+    <string name="mr_controller_volume_slider">Volume slider</string>
+    <string name="mr_system_route_name">System</string>
+    <string name="mr_user_route_category_name">Devices</string>
+    <string name="place_autocomplete_clear_button">Clear search</string>
+    <string name="place_autocomplete_search_hint">Search</string>
+    <string name="search_menu_title">Search</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="store_picture_message">Allow Ad to store image in Picture gallery?</string>
+    <string name="store_picture_title">Save image</string>
+    <string name="wallet_buy_button_place_holder">Buy with Google</string>
+    <string name="app_name_barcode">Barcode Scanner</string>
+    <string name="app_picker_name">Applications</string>
+    <string name="bookmark_picker_name">Bookmarks</string>
+    <string name="button_add_calendar">Add to calendar</string>
+    <string name="button_add_contact">Add contact</string>
+    <string name="button_book_search">Book Search</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_custom_product_search">Custom search</string>
+    <string name="button_dial">Dial number</string>
+    <string name="button_email">Send email</string>
+    <string name="button_get_directions">Get directions</string>
+    <string name="button_mms">Send MMS</string>
+    <string name="button_ok">OK</string>
+    <string name="button_open_browser">Open browser</string>
+    <string name="button_product_search">Product search</string>
+    <string name="button_search_book_contents">Search contents</string>
+    <string name="button_share_app">Application</string>
+    <string name="button_share_bookmark">Bookmark</string>
+    <string name="button_share_by_email">Share via email</string>
+    <string name="button_share_by_sms">Share via SMS</string>
+    <string name="button_share_clipboard">Clipboard</string>
+    <string name="button_share_contact">Contact</string>
+    <string name="button_show_map">Show map</string>
+    <string name="button_sms">Send SMS</string>
+    <string name="button_web_search">Web search</string>
+    <string name="button_wifi">Connect to Network</string>
+    <string name="contents_contact">Contact info</string>
+    <string name="contents_email">Email address</string>
+    <string name="contents_location">Geographic coordinates</string>
+    <string name="contents_phone">Phone number</string>
+    <string name="contents_sms">SMS address</string>
+    <string name="contents_text">Plain text</string>
+    <string name="history_clear_one_history_text">Clear</string>
+    <string name="history_clear_text">Clear history</string>
+    <string name="history_email_title">Barcode Scanner history</string>
+    <string name="history_empty">Empty</string>
+    <string name="history_empty_detail">No barcode scans have been recorded</string>
+    <string name="history_send">Send history</string>
+    <string name="history_title">History</string>
+    <string name="menu_encode_mecard">Use MECARD</string>
+    <string name="menu_encode_vcard">Use vCard</string>
+    <string name="menu_help">Help</string>
+    <string name="menu_history">History</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_share">Share</string>
+    <string name="msg_bulk_mode_scanned">Bulk mode: barcode scanned and saved</string>
+    <string name="msg_camera_framework_bug">Sorry, the Android camera encountered a problem. You may need to restart the device.</string>
+    <string name="msg_default_format">Format</string>
+    <string name="msg_default_meta">Metadata</string>
+    <string name="msg_default_mms_subject">Hi</string>
+    <string name="msg_default_status">Place a barcode inside the viewfinder rectangle to scan it.</string>
+    <string name="msg_default_time">Time</string>
+    <string name="msg_default_type">Type</string>
+    <string name="msg_encode_contents_failed">Could not encode a barcode from the data provided.</string>
+    <string name="msg_error">Error</string>
+    <string name="msg_google_books">Google</string>
+    <string name="msg_google_product">Google</string>
+    <string name="msg_intent_failed">Sorry, the requested application could not be launched. The barcode contents may be invalid.</string>
+    <string name="msg_invalid_value">Invalid value</string>
+    <string name="msg_redirect">Redirect</string>
+    <string name="msg_sbc_book_not_searchable">Sorry, this book is not searchable.</string>
+    <string name="msg_sbc_failed">Sorry, the search encountered a problem.</string>
+    <string name="msg_sbc_no_page_returned">No page returned</string>
+    <string name="msg_sbc_page">Page</string>
+    <string name="msg_sbc_results">Results</string>
+    <string name="msg_sbc_searching_book">Searching book…</string>
+    <string name="msg_sbc_snippet_unavailable">Snippet not available</string>
+    <string name="msg_share_explanation">You can share data by displaying a barcode on your screen and scanning it with another phone.</string>
+    <string name="msg_share_text">Or type some text and press Enter</string>
+    <string name="msg_sure">Are you sure?</string>
+    <string name="msg_unmount_usb">Sorry, the SD card is not accessible.</string>
+    <string name="preferences_actions_title">When a barcode is found…</string>
+    <string name="preferences_auto_focus_title">Use auto focus</string>
+    <string name="preferences_auto_open_web_title">Open web pages automatically</string>
+    <string name="preferences_bulk_mode_summary">Scan and save many barcodes continuously</string>
+    <string name="preferences_bulk_mode_title">Bulk scan mode</string>
+    <string name="preferences_copy_to_clipboard_title">Copy to clipboard</string>
+    <string name="preferences_custom_product_search_summary" formatted="false">Substitutions: %s = contents, %f = format, %t = type</string>
+    <string name="preferences_custom_product_search_title">Custom search URL</string>
+    <string name="preferences_decode_1D_industrial_title">1D Industrial</string>
+    <string name="preferences_decode_1D_product_title">1D Product</string>
+    <string name="preferences_decode_Aztec_title">Aztec</string>
+    <string name="preferences_decode_Data_Matrix_title">Data Matrix</string>
+    <string name="preferences_decode_PDF417_title">PDF417 (β)</string>
+    <string name="preferences_decode_QR_title">QR Codes</string>
+    <string name="preferences_device_bug_workarounds_title">Device Bug Workarounds</string>
+    <string name="preferences_disable_barcode_scene_mode_title">No barcode scene mode</string>
+    <string name="preferences_disable_continuous_focus_summary">Use only standard focus mode</string>
+    <string name="preferences_disable_continuous_focus_title">No continuous focus</string>
+    <string name="preferences_disable_exposure_title">No exposure</string>
+    <string name="preferences_disable_metering_title">No metering</string>
+    <string name="preferences_front_light_auto">Automatic</string>
+    <string name="preferences_front_light_off">Off</string>
+    <string name="preferences_front_light_on">On</string>
+    <string name="preferences_front_light_summary">Improves scanning in low light on some phones, but may cause glare. Does not work on all phones.</string>
+    <string name="preferences_front_light_title">Use front light</string>
+    <string name="preferences_general_title">General settings</string>
+    <string name="preferences_invert_scan_summary">Scan for white barcodes on black background. Not available on some devices.</string>
+    <string name="preferences_invert_scan_title">Invert scan</string>
+    <string name="preferences_name">Settings</string>
+    <string name="preferences_orientation_title">No automatic rotation</string>
+    <string name="preferences_play_beep_title">Beep</string>
+    <string name="preferences_remember_duplicates_summary">Store multiple scans of the same barcode in History</string>
+    <string name="preferences_remember_duplicates_title">Remember duplicates</string>
+    <string name="preferences_result_title">Result settings</string>
+    <string name="preferences_scanning_title">When scanning for barcodes, decode…</string>
+    <string name="preferences_search_country">Search country</string>
+    <string name="preferences_supplemental_summary">Try to retrieve more information about the barcode contents</string>
+    <string name="preferences_supplemental_title">Retrieve more info</string>
+    <string name="preferences_vibrate_title">Vibrate</string>
+    <string name="result_address_book">Found contact info</string>
+    <string name="result_calendar">Found calendar event</string>
+    <string name="result_email_address">Found email address</string>
+    <string name="result_geo">Found geographic coordinates</string>
+    <string name="result_isbn">Found book</string>
+    <string name="result_product">Found product</string>
+    <string name="result_sms">Found SMS address</string>
+    <string name="result_tel">Found phone number</string>
+    <string name="result_text">Found plain text</string>
+    <string name="result_uri">Found URL</string>
+    <string name="result_wifi">Found WLAN Configuration</string>
+    <string name="sbc_name">Google Book Search</string>
+    <string name="wifi_changing_network">Requesting connection to network…</string>
+    <string name="aboud_title_analytics">Collect app usage information</string>
+    <string name="aboud_title_erp_version">Odoo version</string>
+    <string name="aboud_title_www">Visit Xpansa web site</string>
+    <string name="aboud_www_url">http://www.merpapp.com</string>
+    <string name="about_release_notes">"2.3.9
+FIXES:
+ - Add print action support for Odoo 9 and 10 
+ - Add download attachment action support for Odoo 9 and 10 
+ - Optimize source management for android 6+ 
+
+2.3.8
+FIXES:
+ - Permissions management improvements 
+ - Security update for Android 6+ 
+ - General fixes 
+ - WH:Lot management improvements 
+
+2.3.7
+FIXES:
+ - Improved integration with xpansa merp warehouse module 
+ - Supporting ScanSKU keyboard output setting in full Odoo mobile mode 
+
+2.3.6
+FIXES:
+ - Improve scalability and optimization 
+ - Fix mail thread errors for Odoo 9+ 
+ - Update strings sources 
+ - Fix unlimited adapter pagination error 
+
+2.3.5
+FIXES:
+ - Improve operations with linked models for Odoo 9 and 10 
+ - Improve call actions for odoo 10 
+ - Improve stability 
+ - Fix other small issues 
+
+2.3.4
+FIXES:
+ - [New] Instant movements 
+ - [New] Basic lots / serial number support for Odoo 10 
+ - [New] Tips of the location / item for Zebra barcode scanners 
+ - [Fix] Inventory adjustment adapter bug 
+ - [Fix] Usability improvements and minor fixes 
+
+2.3.3
+FIXES:
+ - Add core Odoo 10 support 
+ - Update lot binding for Odoo 9 
+
+2.3.2
+FIXES:
+ - Update language resources 
+ - Fix active context override 
+ WH:fix lot binding 
+ WH:update picking wave creation error visualisation 
+
+2.3.1
+FIXES:
+ - Add lots support for Odoo 9
+ - Update Warehouse home screen. 
+
+2.3.0
+FIXES:
+ - Add new modificators support
+ - Add monetary type support. 
+ Add camera permission for android marshmallow. 
+ Add picking wave mechanic. 
+ Improve warehouse compatibility with Odoo9.
+ Add UPC-A mode for barcode reader. dd settings for Warehouse. 
+
+2.2.9
+FIXES:
+ - Fix search profiles for Odoo 9.
+ - Fix warehouse compatibility for Odoo 9. 
+
+2.2.8
+FIXES:
+ - Fix version detection for Odoo 9 Enterprise. 
+
+2.2.7
+FIXES:
+ - Fix back navigation to list.
+ - Fix default value.
+ - WH: Quick stock inventory.
+ - Fix mail crash. 
+
+2.2.6
+FIXES:
+ - Fix action button call.
+ - Fix active context and filter for action (when open from button).
+ - Fix db input if fail to get db list.
+ - Fix default filters.
+ - Fix quick search domain filter.
+ - Fix active items in filters dialog.
+ - Fix filter domain and context.
+ - Fix active filter saving when switching to another content view. 
+
+2.2.5
+FIXES:
+ - Fix object button call.
+ - Fix parent record for button calls.
+ - Fix empty response parse error.
+ - Fix corrupted session cleanup. 
+
+2.2.4
+FIXES:
+ - Fix workflow button action for new record.
+ - Fix content refresh in edit mode.
+ - Fix scanner conflict in Android 6.
+ - Fixed deeplinking. 
+
+2.2.3
+FIXES:
+ - Fixed billing.
+ - Fixed Android 5.x dialog artifacts.
+ - Fixed Android 5.1.1 attachments bug.
+ - Fix session cleanup.
+ - Fixed Odoo.com 9 auth.
+ - Fixed Odoo 9 SaaS auth.
+ - Fixed session reload.
+ - Fixed editor field navigation. 
+
+2.2.2
+FIXES:
+ - Fixed activation.
+ - Fixed date domain filters.
+ - Fixed contacts/calendar sync. 
+
+2.2.1
+FIXES:
+ - Fix button context error.
+ - Fix barcode scanning (ean13 &amp; upc-a).
+ - Fix billing, warehouse products. 
+
+2.2.0
+FIXES:
+ - Fix quick search empty titles.
+ - Fix quick search domain construction.
+ - Fix client/server action processing. 
+
+2.1.9
+FIXES:
+ - Fix picking refresh.
+ - Fix Info preview.
+ - Fix dialog input.
+ - Fix db input. 
+
+2.1.8
+FIXES:
+ - Fix tree view items count disappearing.
+ - Fix numpad key event handling.
+ - Add retry to data load dialogs.
+ - Fix warehouse loading status.
+ - Fix QWEB reports. Print PDF / open HTML. 
+
+2.1.7
+NEW:
+ - Quick search improvements. Activate filter using search button. 
+
+2.1.6
+NEW:
+ - Reworked quick search. Supports most of web search features. 
+
+2.1.5
+NEW:
+ - Toolbar attachments: upload, view, download.
+FIXES:
+ - Update EMDK api.
+ - Fix mail thread bug.
+ - Fix session logout.
+ - Fixed quick search.
+ - Fixed model picker.
+ - Fixed v6.1 api bugs.
+ - Warehouse fixes. 
+
+2.1.4
+FIXES:
+ - Add retry for action form buttons.
+ - Warehouse: fix transfer. 
+
+2.1.3
+FIXES:
+ - Reworked EMDK usage, fixed scanner problems. 
+
+2.1.2
+FIXES:
+ - Fix EMDK scan dialog.
+ - Fix wizard window. 
+
+2.1.1
+NEW:
+ - Binary field download.
+ - Binary field default widget.
+ - Binary field upload.
+FIXES:
+ - Fix wizard closing and memory leak. 
+
+2.1.0
+FIXES:
+ - Fixed edit field value data loss on rotate.
+ - Fixed date translation format conversion.
+ - Resample signature image.
+ - Fix applied value to boolean field for onChange events.
+ - Fix required fields highlighting.
+ - Fix Android bug with preparing options menu. 
+
+2.0.9
+NEW:
+ - New Odoo Home for SaaS users. 
+
+2.0.8
+NEW:
+ - Mail thread attachments download.
+ - Collapse/expand messages in for view.
+ - Capture photo at mail composer.
+ - Capture photo at binary field.
+ - Upload attachments.
+FIXES:
+ - Fix button modifiers check.
+ - Fix message post parameters.
+ - fix fetching of recipients. 
+
+2.0.7
+NEW:
+ - Database name input field (in case when dblist disabled for security reasons).
+ - Reworked image cache for binary fields and mail thread.
+ - Add DE, ES, NL localizations.
+FIXES:
+ - Fix menu missing items bug.
+ - Fix feedback form long message.
+ - Fix menu drawer user details bug.
+ - Fix empty dblist bug.
+ - Fix crash in edit mode.
+ - Fix crash at server config screen. 
+
+2.0.6
+NEW:
+ - Reference field support: view, navigate, edit.
+FIXES:
+ - Fix hardware acceleration for Android versions prior to 4.1.
+ - Add additional info to feedback.
+ - Fix OOM error.
+ - Fix 2many data onChange.
+ - Fix parent model data in onChange.
+ - Fix barcode scanner for char fields.
+ - Fix reference auto selection.
+ - Fix message contents.
+ - Fixed cache for bitmaps and user logos. 
+
+2.0.5
+NEW:
+ - Round floats according to digits parameter.
+FIXES:
+ - Fix profile image.
+ - Fix drawer.
+ - Fix GPS settings in Android 4.4+.
+ - Fix possibility to select empty value at Selection/Reference fields. 
+
+2.0.3
+NEW:
+ - GPS Speed limit.
+FIXES:
+ - Fix Motorola EMDK connection on MC3200 device. 
+
+2.0.2
+FIXES:
+ - Fix session expired error check.
+ - Fix db migration to 2.0.
+ - Improve auth loading, remove templates loading.
+ - Memory cache optimization, increase app performance.
+ - Fixed menu loading and reload context.
+ - Fix auth bug.
+ - Fix active model in action. 
+
+2.0.1
+WARNING:
+ - Database migration to version 2.0 (saved accounts and caches will be cleaned)
+NEW:
+ - Trial period.
+ - Odoo 8+ handle reload client action.
+FIXES:
+ - Fixed refresh of edited model.
+ - Fixed billing activation bug.
+ - Fixed calendar sync. 
+
+2.0.0
+NEW:
+ - Material design migration.
+ - Mail inbox new design.
+ - Mail extended details.
+ - Mail favorite action support.
+ - 2many mail widget rework.
+ - Digital signature support.
+ - Barcode scanner widget for input fields.
+ - EMDK Motorola scanners support.
+ - Tablet UI design migration.
+ - Button confirm feature support.
+FIXES:
+ - Fix print report bug.
+ - Fix 2one field navigation."</string>
+    <string name="about_title">About mErp</string>
+    <string name="about_title_version">App version</string>
+    <string name="activation_empty_license_code">Please enter license code</string>
+    <string name="activation_exceed">Number of activated devices exceed possible amount. Please release some devices or buy new license.</string>
+    <string name="activation_expired">License code already expired.</string>
+    <string name="activation_invalid">Invalid activation code</string>
+    <string name="activation_label_user_info">Please provide some specific information about device owner. It will help your administrator to identify devices in admin panel.</string>
+    <string name="add">Add</string>
+    <string name="add_custom_model">Add custom model</string>
+    <string name="add_item_manually">Add new item manually</string>
+    <string name="add_product">Add a new product</string>
+    <string name="analytics_allowed">Allowed</string>
+    <string name="attacmemt_list">Attached files list:</string>
+    <string name="auto_sync">Auto-update every %1$d mins after initial synchronisation</string>
+    <string name="back">Back</string>
+    <string name="backorder_options">Backorder options</string>
+    <string name="begin_update">Update started…</string>
+    <string name="btn_activate_license">Activate license</string>
+    <string name="btn_label_save">Save</string>
+    <string name="btn_label_sync">Synchronize</string>
+    <string name="btn_open">Open</string>
+    <string name="btn_reply_title">Reply</string>
+    <string name="btn_title_toggle_flash">Toggle flash</string>
+    <string name="calendar_access_level">Access level</string>
+    <string name="calendar_availability">Availability</string>
+    <string name="calendar_description">Description</string>
+    <string name="calendar_end_date">End date</string>
+    <string name="calendar_event_all_day">All day</string>
+    <string name="calendar_event_duration">Duration</string>
+    <string name="calendar_event_time_zone">Event TimeZone</string>
+    <string name="calendar_events">Organizer \\ Calendar</string>
+    <string name="calendar_events_sub_title">Import events from model \"calendar.events\" Odoo 8 to Android calendar.</string>
+    <string name="calendar_location">Location</string>
+    <string name="calendar_meetings_sub_title">Import events from model \"crm.meeting\" OpenERP 6–7 to Android calendar.</string>
+    <string name="calendar_organizer">Organizer (E-mail)</string>
+    <string name="calendar_permission_toast_text">Calendar permission allow to synchronize your meetings. Please allow in App Settings for additional functionality.</string>
+    <string name="calendar_start_date">Start date</string>
+    <string name="calendar_title">Title</string>
+    <string name="cancel">Cancel</string>
+    <string name="cancel_update">Exit</string>
+    <string name="choose_customer">Choose customer to create a new SO</string>
+    <string name="choose_customer_manually">Choose a customer manually</string>
+    <string name="choose_one">Choose one …</string>
+    <string name="client_action_reload">Reload client</string>
+    <string name="client_action_unknown">Unknown</string>
+    <string name="compose_message_add_attachment">Add attachment</string>
+    <string name="confirm">Confirm</string>
+    <string name="confirm_sale">Confirm sale</string>
+    <string name="contact_customers">Sales \\ Customers</string>
+    <string name="contact_customers_sub_title">Import records from model \"res.partner\" to address book</string>
+    <string name="contact_employees">HR \\ Employees</string>
+    <string name="contact_employees_sub_title">Import records from model \"hr.employee\" to address book</string>
+    <string name="contact_mime_email">Email</string>
+    <string name="contact_mime_im">Internet messenger</string>
+    <string name="contact_mime_nick_name">Nickname</string>
+    <string name="contact_mime_note">Note</string>
+    <string name="contact_mime_organization">Organization</string>
+    <string name="contact_mime_phone">Phone</string>
+    <string name="contact_mime_photo">Photo</string>
+    <string name="contact_mime_postal">Structured postal</string>
+    <string name="contact_mime_web">Website</string>
+    <string name="copy_to_clipboard">Copy to clipboard</string>
+    <string name="create">Create</string>
+    <string name="create_continue">Create and continue</string>
+    <string name="create_new_sales_order">Create new sales order</string>
+    <string name="create_sales_orders">Create sales order</string>
+    <string name="customer">Customer</string>
+    <string name="deactivate_license">Deactivate license</string>
+    <string name="deactivation_dialog_title">You are going to deactivate the license from this device. Continue?</string>
+    <string name="delete">Delete</string>
+    <string name="delete_all_lookup_fields">Delete all fields</string>
+    <string name="delete_line">Delete line</string>
+    <string name="delete_line_dialog_title">Delete the line</string>
+    <string name="delete_line_message">You are going to delete a line</string>
+    <string name="delete_lookup_field">Delete field</string>
+    <string name="delete_order_dialog_message">"You haven't added any product in the SO. Do you want to delete it?"</string>
+    <string name="delete_order_dialog_title">Delete the order</string>
+    <string name="delete_order_message">You are going to delete an order</string>
+    <string name="demo_notification_string">You are using demo account!</string>
+    <string name="dialog_finalization_picking_title">Confirm transfer</string>
+    <string name="dialog_pick_date">Pick date</string>
+    <string name="dialog_pick_time">Pick time</string>
+    <string name="dialog_retry_scan">Rescan</string>
+    <string name="dialog_retry_search">Search again</string>
+    <string name="discard">Discard</string>
+    <string name="done">Done</string>
+    <string name="duplicate">Duplicate</string>
+    <string name="empty">- none -</string>
+    <string name="empty_quotation">Empty quotation</string>
+    <string name="expand_format">Show %1$s more messages</string>
+    <string name="expand_one_record">Show one more message</string>
+    <string name="feedback_dont_remove">—————Please do not delete this—————</string>
+    <string name="feedback_message_label">Message</string>
+    <string name="feedback_send_label">Send</string>
+    <string name="feedback_sender">support@merpapp.com</string>
+    <string name="feedback_sender_label">Sender (optional)</string>
+    <string name="feedback_severity_label">Severity</string>
+    <string name="feedback_subject_label">Subject</string>
+    <string name="feedback_title">Feedback …</string>
+    <string name="form_btn_label_next">Next</string>
+    <string name="form_btn_label_previous">Previous</string>
+    <string name="form_tab_main">Main</string>
+    <string name="format_bold_html_label">&lt;font color=#838484>%1$s:&lt;/font></string>
+    <string name="format_clean_sync_model">Delete records from your phone related to \"%1$s\" model.</string>
+    <string name="format_current_item">%1$s %2$d⁄%3$d</string>
+    <string name="format_delete_sync_field">Delete field %1$s</string>
+    <string name="format_delete_sync_model">Delete \"%1$s\" model.</string>
+    <string name="format_f_cms_model_name">Model name: %1$s</string>
+    <string name="format_form_required_fields">The following fields are invalid: %1$s</string>
+    <string name="format_item_barcode">Code: %1$s</string>
+    <string name="format_kb_field">&lt;b>%1$s&lt;/b>: %2$s</string>
+    <string name="format_saas_db_name">&lt;b>db:&lt;/b> %1$s</string>
+    <string name="format_saas_url">&lt;b>www:&lt;/b> %1$s</string>
+    <string name="format_start_sync_calendar">Started synchronization of Calendar</string>
+    <string name="format_start_sync_contact">Start sync contacts for \"%1$s\"</string>
+    <string name="format_sync_calendar">"Synchronizing Calendar events
+%1$s of %2$s"</string>
+    <string name="format_sync_contact">"Sync contact for \"%1$s\"
+%2$s of %3$s"</string>
+    <string name="format_tree_hint">%1$s of %2$s</string>
+    <string name="input_ls_server_url_hint">enter URL for your Odoo server</string>
+    <string name="label_activate">Activate</string>
+    <string name="label_add_model_name">OpenERP resource model name</string>
+    <string name="label_add_model_title">Model title</string>
+    <string name="label_btn_f_cms_setup_fields">Setup fields</string>
+    <string name="label_calendar_contacts">Calendar</string>
+    <string name="label_custom_filters">Custom filters</string>
+    <string name="label_emdk_not_supported">"Scanner drivers aren't installed"</string>
+    <string name="label_emdk_supported">Zebra EMDK is available</string>
+    <string name="label_field_name">Field name</string>
+    <string name="label_hint">If below fields will contain reference to your user, than event will be synchronised to your calendar:</string>
+    <string name="label_include_oly_my_events">"Import only events where i'm involved"</string>
+    <string name="label_inventory">Inventory</string>
+    <string name="label_login">Login</string>
+    <string name="label_ls_activate_subscription">Activate Subscription</string>
+    <string name="label_ls_activate_trial">Activate Trial period</string>
+    <string name="label_ls_go_to_merp">www.mERPapp.com</string>
+    <string name="label_ls_or">OR</string>
+    <string name="label_ls_run_demo">Run Demo</string>
+    <string name="label_ls_select_user">Select Existing User</string>
+    <string name="label_ls_start">Start</string>
+    <string name="label_lu_password_hint">Password</string>
+    <string name="label_lu_username_hint">Username</string>
+    <string name="label_menu_action_filters">Filters</string>
+    <string name="label_menu_action_form_view">Form view</string>
+    <string name="label_menu_action_list_view">List view</string>
+    <string name="label_menu_action_refresh">Refresh</string>
+    <string name="label_menu_action_share">Share</string>
+    <string name="label_merp">mERP</string>
+    <string name="label_mime_type">Mime-Type</string>
+    <string name="label_n2s_supported">N2S scanner driver is available</string>
+    <string name="label_please_wait">Please wait …</string>
+    <string name="label_qty">QTY</string>
+    <string name="label_quick_search_hint">Type name</string>
+    <string name="label_secondary_mime_type">Sub-type</string>
+    <string name="label_sku_scanner_supported">ScanSKU scanner driver is available</string>
+    <string name="label_sync_calendar_detail">Synchronize OpenERP meetings to calendar.</string>
+    <string name="label_sync_contacts">Contacts</string>
+    <string name="label_sync_contacts_detail">Synchronize OpenERP contacts to address book.</string>
+    <string name="label_validate_next_inventory">Validate next inventory</string>
+    <string name="label_warehouse_operations">Warehouse operations</string>
+    <string name="later_make_update">Later</string>
+    <string name="line_deleted">Order line was successfully deleted</string>
+    <string name="log_note">Log a note</string>
+    <string name="lot_bind_complete">Bind lot to pack operation complete</string>
+    <string name="menu_action_delete">Delete</string>
+    <string name="menu_action_edit">Edit</string>
+    <string name="menu_drawer_about">About</string>
+    <string name="menu_drawer_feedback">Feedback</string>
+    <string name="menu_drawer_logout">Logout</string>
+    <string name="menu_drawer_settings">Settings</string>
+    <string name="menu_drawer_switch_user">Switch user</string>
+    <string name="menu_drawer_sync">Synchronization</string>
+    <string name="menu_label_add_field">Add field</string>
+    <string name="menu_label_write_to_us"><u>Contact Us</u></string>
+    <string name="menu_title_create_transfer">Create transfer</string>
+    <string name="message_discard">Are you sure want to discard changes?</string>
+    <string name="message_failed_check_for_subscription">Unable to connect to server. Please try again.</string>
+    <string name="message_failed_check_for_updates">Failed to check for update. Please try again.</string>
+    <string name="message_failed_load_model_name">Unable to load data …</string>
+    <string name="message_failed_load_server_info">Unable to load server info …</string>
+    <string name="message_failed_to_load">Failed to load data.</string>
+    <string name="message_failed_to_load_defaults">Failed to load default values. Please try again.</string>
+    <string name="message_open_saas_instance">Connect to \"%1$s\" instance?</string>
+    <string name="message_remove_object">Are sure want to delete record?</string>
+    <string name="message_retry_call_changes">Some error occurred while applying changes… Please try again to avoid data corruption.</string>
+    <string name="message_use_analytics">Please help us to improve the app by allowing to collect usage history.</string>
+    <string name="message_value_changed">Applying value changes …</string>
+    <string name="mime_name">Name</string>
+    <string name="mime_phone_fax_work">Fax (Work)</string>
+    <string name="mime_phone_home">Home</string>
+    <string name="mime_phone_mobile">Mobile</string>
+    <string name="mime_phone_work">Work</string>
+    <string name="name">Name</string>
+    <string name="no_items_label">No items.</string>
+    <string name="notification_log_call_format">%1$s (%2$s)</string>
+    <string name="notification_scheduled_call">"Don't miss scheduled call"</string>
+    <string name="notification_scheduled_call_format">"%1$s (%2$s)
+%3$s"</string>
+    <string name="ok">OK</string>
+    <string name="ok_make_update">Update</string>
+    <string name="order_date">Order date</string>
+    <string name="order_saved">Sale order successfully saved</string>
+    <string name="post_message_template_merp">"
+
+
+——
+Sent from mERP Android"</string>
+    <string name="preferences">Preferences</string>
+    <string name="progress_authorization">Authorization …</string>
+    <string name="progress_authorization_format">Authorization (%1$.1f%%)…</string>
+    <string name="progress_check_server">Checking connection to server …</string>
+    <string name="progress_create_model">Creating new model …</string>
+    <string name="progress_create_model_format">Creating new model (%1$.1f%%)…</string>
+    <string name="progress_fetch_default">Fetch default values …</string>
+    <string name="progress_fetch_default_format">Fetch default values (%1$.1f%%) …</string>
+    <string name="progress_load_action">Loading action …</string>
+    <string name="progress_load_action_format">Loading action (%1$.1f%%)…</string>
+    <string name="progress_load_action_print">Printing …</string>
+    <string name="progress_load_dataset">Loading dataset …</string>
+    <string name="progress_load_dataset_format">Loading dataset (%1$.1f%%)…</string>
+    <string name="progress_load_fields">Loading fields …</string>
+    <string name="progress_load_fields_format">Loading fields (%1$.1f%%)…</string>
+    <string name="progress_load_init_session">Initializing session …</string>
+    <string name="progress_load_init_session_format">Initializing session (%1$.1f%%)…</string>
+    <string name="progress_load_modules">Loading modules …</string>
+    <string name="progress_load_modules_format">Loading modules (%1$.1f%%)…</string>
+    <string name="progress_load_server_info">Loading server info …</string>
+    <string name="progress_load_server_info_format">Loading server info (%1$.1f%%)…</string>
+    <string name="progress_load_translations">Loading translations …</string>
+    <string name="progress_load_translations_format">Loading translations (%1$.1f%%)…</string>
+    <string name="progress_loading">Loading …</string>
+    <string name="progress_loading_badges_format">Loading menu badges (%1$.1f%%)…</string>
+    <string name="progress_loading_format">Loading (%1$.1f%%) …</string>
+    <string name="progress_loading_inventory">Loading inventory data…</string>
+    <string name="progress_loading_menu_format">Loading menu (%1$.1f%%)…</string>
+    <string name="progress_loading_preferences">Loading preferences…</string>
+    <string name="progress_loading_product">Loading product data…</string>
+    <string name="progress_loading_product_owner">Loading product owner data…</string>
+    <string name="progress_logout">Logging out …</string>
+    <string name="progress_save_model">Saving model …</string>
+    <string name="progress_save_model_format">Saving model (%1$.1f%%)…</string>
+    <string name="progress_search_scan_results">Searching scanned item …</string>
+    <string name="progress_unlink_model">Deleting model …</string>
+    <string name="progress_unlink_model_format">Deleting model (%1$.1f%%)…</string>
+    <string name="progress_validating_inventory">Validating inventory …</string>
+    <string name="remove">Remove</string>
+    <string name="require_permissions">This action require permissions</string>
+    <string name="retry">Retry</string>
+    <string name="sale_orders">Sale orders</string>
+    <string name="salesperson">Salesperson</string>
+    <string name="save">Save</string>
+    <string name="save_the_order">Save draft SO</string>
+    <string name="scan_an_item">Scan item</string>
+    <string name="scan_customer">Scan customer ID</string>
+    <string name="search">Search …</string>
+    <string name="search_bar">Search bar</string>
+    <string name="search_title">Search</string>
+    <string name="send_message">Send a message</string>
+    <string name="share_chooser">Choose an action</string>
+    <string name="share_via_email">Share via email</string>
+    <string name="skip">Skip</string>
+    <string name="so_creation_title">Create a new sales order</string>
+    <string name="state_quotation">Quotation</string>
+    <string name="state_quotation_sent">Quotation Sent</string>
+    <string name="subscribtion_activate">In order to use application with custom server, please activate subscription.</string>
+    <string name="subscribtion_error">Something wrong with subscription status. Please re-launch application.</string>
+    <string name="subscribtion_expired">Your license code had expired. Please re-new Your license or activate with the new one.</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="sync_label">Please select models to be synchronized</string>
+    <string name="title_call">Call</string>
+    <string name="title_default_item_product">Scan product</string>
+    <string name="title_default_item_product_owner">Scan product owner</string>
+    <string name="title_default_item_source">Scan inventoried location</string>
+    <string name="title_item_from_product">Location from product</string>
+    <string name="title_log_call">Log call</string>
+    <string name="title_pick_multiple">Pick multiple</string>
+    <string name="title_please_select">Please select …</string>
+    <string name="title_state_sale_order">Sales Order</string>
+    <string name="title_use_analytics">Please confirm</string>
+    <string name="title_view_details">View details</string>
+    <string name="toast_act_url_no_browser">Browser not found …</string>
+    <string name="toast_act_url_self_not_implemented">Local navigation not yet supported.</string>
+    <string name="toast_activate_error">Something went wrong, please try again…</string>
+    <string name="toast_attach_file_no_data">Content have no data.</string>
+    <string name="toast_create_temp_file_error">Unable to create file …</string>
+    <string name="toast_deeplink_another_server">Please login to \"%1$s\", to have possibility open DeepLink.</string>
+    <string name="toast_download_update_failed">Failed to download update. Please try again later.</string>
+    <string name="toast_error">Some error occurred.</string>
+    <string name="toast_error_failed_to_download_report">Failed to download report file …</string>
+    <string name="toast_error_unable_to_fetch_transfer_details">Unable to fetch transfer details</string>
+    <string name="toast_failed_to_call_wizard">Failed to call wizard action</string>
+    <string name="toast_file_downloaded">File downloaded to: %1$s</string>
+    <string name="toast_fill_message">Please fill message or add attachment.</string>
+    <string name="toast_format_found_barcode_item">Found item: %1$s (%2$s)</string>
+    <string name="toast_format_no_items_found_for_barcode">No items found for barcode: %1$s</string>
+    <string name="toast_incorrect_preferences_setup">Incorrect preferences setup!</string>
+    <string name="toast_invalid_barcode_field">Barcode scanner widget was not propertly configured.</string>
+    <string name="toast_invalid_credentials">Invalid username or password.</string>
+    <string name="toast_invalid_url">Unable to connect to server. Please check entered address.</string>
+    <string name="toast_inventory_another_scan_in_progress">Another scan in progress please wait for results and try again.</string>
+    <string name="toast_inventory_data_loaded">Inventory data loaded…</string>
+    <string name="toast_inventory_no_inventory">Please scan inventory</string>
+    <string name="toast_inventory_no_product">Please scan product</string>
+    <string name="toast_inventory_no_product_owner">Please scan product owner</string>
+    <string name="toast_inventory_validated">Inventory successfully validated!</string>
+    <string name="toast_inventory_zero_quantity">Please define product quantity</string>
+    <string name="toast_mail">No mail account available…</string>
+    <string name="toast_mount_error">Please mount external storage in order to complete operation!</string>
+    <string name="toast_no_config_for_barcode">Barcode widget was not propertly configured!</string>
+    <string name="toast_no_file_chooser">No handler for this type of file.</string>
+    <string name="toast_no_internet">Please check your Internet connection.</string>
+    <string name="toast_not_implemented_action">This action is not supported yet…</string>
+    <string name="toast_not_yet_implemented">Not yet implemented.</string>
+    <string name="toast_nothing_to_save">No changed values to save</string>
+    <string name="toast_picking_not_contain_product">"Picking doesn't contain this product!"</string>
+    <string name="toast_product_data_loaded">Product data loaded…</string>
+    <string name="toast_session_expired">Session expired, please login…</string>
+    <string name="toast_success">Success</string>
+    <string name="toast_unable_perform_activation">Unable to perform activation request</string>
+    <string name="toast_unable_to_check_subscription">Unable to check subscription…</string>
+    <string name="toast_unable_to_load_demo_user">Failed to load demo user.</string>
+    <string name="toast_unable_to_load_saas">Unable to load SaaS instance …</string>
+    <string name="toast_unable_to_load_settings">Unable to load settings… Please try again later.</string>
+    <string name="toast_unable_to_reload_client">Unable to reload client …</string>
+    <string name="toast_unknown_error">User session corrupted (%1$s), please login once again…</string>
+    <string name="toast_unknown_merp_action">Unknown mERP action (%1$s). Please check your configuration.</string>
+    <string name="toast_warehouse_no_view">No merp.picking view found. Loading default view.</string>
+    <string name="toggle_no">No</string>
+    <string name="toggle_yes">Yes</string>
+    <string name="toolbar_group_more">More</string>
+    <string name="toolbar_group_print">Print</string>
+    <string name="total">Total</string>
+    <string name="transfer_action_title">Make transfer</string>
+    <string name="tree_row_attachments_title">Attachments:</string>
+    <string name="trial_activate">In order to use Your custom server with full set of our features, please activate trial period.</string>
+    <string name="trial_error">Something wrong with subscription status. Please press \"Retry\" button to check it again.</string>
+    <string name="trial_expired">Your Trial period has been expired. Please use \"Run Demo\" button to go in demo mode or visit our web-site to get more info.</string>
+    <string name="update_available">Available new update</string>
+    <string name="update_progress_download_apk">Downloading application updates… %1$s / %2$s</string>
+    <string name="update_required">Warning! Required update!</string>
+    <string name="validate_transfer">Validate transfer</string>
+    <string name="window_action_close">Close</string>
+    <string name="Sprintit_info_custom_label">Start inventory update</string>
+    <string name="activate_upc_mode_text">UPC-A compatible mode</string>
+    <string name="activity_label_camera_scan">Camera Scanner</string>
+    <string name="activity_label_emdk_scan">Motorola EMDK Scanner</string>
+    <string name="apply">Apply</string>
+    <string name="assign_sku">Assign</string>
+    <string name="attached_document">Print current label</string>
+    <string name="auto_back_order">Automatic back order</string>
+    <string name="autowave">AUTO ASSIGN</string>
+    <string name="available_count_switch_text">Show required quantity</string>
+    <string name="available_text_input_switch_text">Allow manual product input</string>
+    <string name="backorder_confirm_dialog_message">You collected less items than expected. Backorder will be created. Are you sure?</string>
+    <string name="backorder_confirm_dialog_message_odoo9">You have processed less products than the initial demand. Create Backorder?</string>
+    <string name="billing_successfull_purchase">Operation completed successfully! Please wait for device assignment …</string>
+    <string name="box">Box</string>
+    <string name="btn_title_read_less">Read less</string>
+    <string name="btn_title_read_more">Read more</string>
+    <string name="camere_permission_toast_text">Camera permission allow to use barcode. Please allow in App Settings for additional functionality.</string>
+    <string name="cant_find_product">Product not found</string>
+    <string name="cant_found_location">Location not found</string>
+    <string name="cant_load_stock_types">Cant load stock types</string>
+    <string name="choose_correct_wave">The wave is running by another user. Please choose another picking wave</string>
+    <string name="choose_package">Please choose package</string>
+    <string name="choose_proper_wave">Please choose wave with proper state</string>
+    <string name="client_action_unsupported_tag">Client action \"%1$s\" not yet supported.</string>
+    <string name="collected_less_items_than_operation_contain">Collected less items than operation contain</string>
+    <string name="colon">:</string>
+    <string name="confirm_create_backorder">Would you like to create Backorder?</string>
+    <string name="continue_wave">Continue wave</string>
+    <string name="copyright">Copyright 2015</string>
+    <string name="correct_data">Please input correct data</string>
+    <string name="create_moves_progress_dialog_text">Moving items...</string>
+    <string name="dialog_create_lot">Create Lot</string>
+    <string name="dialog_retry_button">Unexpected error occurred while executing action, would you like to retry?</string>
+    <string name="dialog_retry_load_pack_operation">Failed to load pack operation. Please retry operation.</string>
+    <string name="dots">…</string>
+    <string name="download_fail">Download fail</string>
+    <string name="download_progress">Download zpl file</string>
+    <string name="drawer_close">Close main menu</string>
+    <string name="drawer_open">Open main menu</string>
+    <string name="empty_result">There are no results found</string>
+    <string name="emty_result">There are no results found</string>
+    <string name="enable_auto_pack_switch_text">Enable auto pack</string>
+    <string name="enable_camera_switch_text">Additional scan before picking</string>
+    <string name="enable_over_flow">Allow transfer more items</string>
+    <string name="fa_char_reply"></string>
+    <string name="fa_char_star"></string>
+    <string name="file_error">File error</string>
+    <string name="file_picker_dialog_button">Files</string>
+    <string name="file_picker_dialog_title">Choose file:</string>
+    <string name="finish_receiving">Finish receiving</string>
+    <string name="format_activate_sku">Would you like to activate subscription \"%1$s\"?</string>
+    <string name="format_ask_download">Confirm to start download %1$s file</string>
+    <string name="format_available">Available: %1$s</string>
+    <string name="format_backroder_of">Back Order of: %1$s</string>
+    <string name="format_brackets">(%1$s)</string>
+    <string name="format_company">Company: %1$s</string>
+    <string name="format_create_line_for_product">Adding product \"%1$s\" that was not in inventory list</string>
+    <string name="format_current_item_short">%1$d⁄%2$d</string>
+    <string name="format_delete_inventory_line">Would you like to remove inventory line (%1$s)?</string>
+    <string name="format_destination">Destination: %1$s</string>
+    <string name="format_download_binary">Download %1$s (%2$s)</string>
+    <string name="format_float">%1$.2f</string>
+    <string name="format_float_uom">%1$.2f %2$s</string>
+    <string name="format_found_records_for_barcode">Found records for barcode: %1$s</string>
+    <string name="format_found_records_for_search">Found records for search: %1$s</string>
+    <string name="format_html_label_value">&lt;font color=#838484>%1$s:&lt;/font> %2$s</string>
+    <string name="format_inventoried_location">Inventoried Location: %1$s</string>
+    <string name="format_inventoried_ref">Inventory Reference: %1$s</string>
+    <string name="format_inventory_date">Inventory Date: %1$s</string>
+    <string name="format_inventory_type">Inventory of: %1$s</string>
+    <string name="format_location">Location: %1$s</string>
+    <string name="format_location_for_barcode">Locations for barcode \"%1$s\"</string>
+    <string name="format_location_with_lot">%1$s: %2$s</string>
+    <string name="format_lot">Lot: %1$s</string>
+    <string name="format_owner">Owner: %1$s</string>
+    <string name="format_owner_and_product">"Owner: %1$s
+Product: %2$s"</string>
+    <string name="format_pack">Inventoried Pack: %1$s</string>
+    <string name="format_pickings">%1$s picking(s)</string>
+    <string name="format_product">Product: %1$s</string>
+    <string name="format_product_for_barcode">Products for barcode \"%1$s\"</string>
+    <string name="format_purchase_sku">Would you like to purchase \"%1$s\"?</string>
+    <string name="format_qty">QTY (Available &lt;b>&lt;font color=#%1$s>%2$s&lt;/font>&lt;/b>)</string>
+    <string name="format_qty_inventory">QTY (Theoretical %1$s)</string>
+    <string name="format_quant_product_name">[%1$s] %2$s</string>
+    <string name="format_quants_inv_value">(%1$.2f at inventory)</string>
+    <string name="format_quants_qty">%1$.2f</string>
+    <string name="format_quick_search_count">%1$s more …</string>
+    <string name="format_quick_search_filter_title">Filter on: %1$s</string>
+    <string name="format_quick_search_group_title">Search &lt;i>%1$s&lt;/i> for: &lt;b>%2$s&lt;/b></string>
+    <string name="format_replies">%1$s replies</string>
+    <string name="format_responsible">"Responsible: "</string>
+    <string name="format_sku_assign_available">Would you like to assign %1$s to this device?</string>
+    <string name="format_sku_assign_used">Would you like to re-assign %1$s to this device? Other device will be detached from this product.</string>
+    <string name="format_source">Source: %1$s</string>
+    <string name="format_source_document">Source: %1$s</string>
+    <string name="format_status">Status %1$s</string>
+    <string name="format_transfer_title">Transfer: %1$s</string>
+    <string name="format_updated">Updated %1$s</string>
+    <string name="format_updated_by">By %1$s</string>
+    <string name="format_valuation_period">Force Valuation Period: %1$s</string>
+    <string name="format_version">mERP version: %1$s</string>
+    <string name="from_input_zone_text">From: WH / Input Zone</string>
+    <string name="generate_wave">Generate wave</string>
+    <string name="go_to_full_odoo">List of all modules</string>
+    <string name="hardware_serial">Hardware serial</string>
+    <string name="hint_create_lot">Scan a lot or type (leave empty to generate one automatically)</string>
+    <string name="image_picker_dialog_camera_button">Camera</string>
+    <string name="image_picker_dialog_gallery_button">Gallery</string>
+    <string name="image_picker_dialog_title">Choose image:</string>
+    <string name="insert_lot">Please, insert the \"Serial Number\" or \"Lots\" for the product</string>
+    <string name="instant_inventory">Instant inventory</string>
+    <string name="instant_move_add_more_button_text">Add more</string>
+    <string name="instant_move_cant_found_location">Cant found location</string>
+    <string name="instant_move_item_button_text">Scan a barcode of the item</string>
+    <string name="instant_move_no_available_items">No available positions for:</string>
+    <string name="instant_move_one_to_one_cant_find_product">Cant find source product id</string>
+    <string name="instant_move_to_bin_button_text">Move to the bin</string>
+    <string name="instant_movements_button">Instant movements</string>
+    <string name="label_available">Available</string>
+    <string name="label_billing_trial">Use 15 days for free</string>
+    <string name="label_cancel_inventory">Cancel Inventory</string>
+    <string name="label_cancel_to_draft_inventory">Set to Draft</string>
+    <string name="label_complete_transfer">Complete transfer</string>
+    <string name="label_create_backorder">Create Backorder</string>
+    <string name="label_create_change_lot">Manage Serials/Lot</string>
+    <string name="label_create_inventory_line">Add inventory line</string>
+    <string name="label_destination">Destination</string>
+    <string name="label_ean13">EAN13</string>
+    <string name="label_forecasted">Forecasted</string>
+    <string name="label_gps_joke_cancel">"I'm aware of risk and will continue"</string>
+    <string name="label_gps_joke_ok">"Thanks, I'll work later"</string>
+    <string name="label_incoming_date">Incoming Date</string>
+    <string name="label_inventoried_location">Inventoried Location</string>
+    <string name="label_inventory_date">Inventory Date</string>
+    <string name="label_inventory_type">Inventory of</string>
+    <string name="label_launch_soft_scan">Start soft scan</string>
+    <string name="label_location">Location</string>
+    <string name="label_location_barcode">Location Barcode</string>
+    <string name="label_location_parent">Parent Location</string>
+    <string name="label_location_type">Location Type</string>
+    <string name="label_lot">Lot</string>
+    <string name="label_on_hand">On Hand</string>
+    <string name="label_owner">Owner</string>
+    <string name="label_pack">Inventoried Pack</string>
+    <string name="label_package">Package</string>
+    <string name="label_price">Price</string>
+    <string name="label_product">Product</string>
+    <string name="label_qty_inventory_new">QTY (New)</string>
+    <string name="label_quantity">Quantity</string>
+    <string name="label_reference_not_found">Record not found</string>
+    <string name="label_reset_real_qty">Set quantities to 0</string>
+    <string name="label_source_document">Source</string>
+    <string name="label_start_inventory">Start Inventory</string>
+    <string name="label_start_transfer">Start Transfer</string>
+    <string name="label_status">Status</string>
+    <string name="label_update_inventory_line">Update inventory line</string>
+    <string name="label_update_item">Update the item</string>
+    <string name="label_updated">Last Updated on</string>
+    <string name="label_updated_by">Last Updated by</string>
+    <string name="label_validate_inventory">Validate Inventory</string>
+    <string name="label_valuation_period">Force Valuation Period</string>
+    <string name="last_update">Last update</string>
+    <string name="left_to_pick">Left to Pick</string>
+    <string name="license_key">Personal license ID</string>
+    <string name="list_is_full">You are already collect all items</string>
+    <string name="location_input">Location input</string>
+    <string name="location_on_hand">Local On Hand:</string>
+    <string name="login_dbinput_hint">Enter database</string>
+    <string name="login_with_odoo"><u>Odoo SAAS Login</u></string>
+    <string name="lot_empty">Still empty lot data</string>
+    <string name="lot_management">Lot Management</string>
+    <string name="lot_qty">QTY:</string>
+    <string name="main_menu">Main menu</string>
+    <string name="many_places">There are few locations found. Please choose one:</string>
+    <string name="many_places_product">There are several places where this product can be found. Please choose one</string>
+    <string name="menu_drawer_billing">Purchases</string>
+    <string name="message_empty_author">No data</string>
+    <string name="message_item_successfully_transfered">Product successfully transferred</string>
+    <string name="message_one_reply">1 reply</string>
+    <string name="move">Move</string>
+    <string name="move_item_from">Location of the item</string>
+    <string name="multiple_result">Thre are many search result. Please select one.</string>
+    <string name="name_of_the_basket">Name of the basket:</string>
+    <string name="navigation_bar_prev_btn">Prev</string>
+    <string name="new_inventory_title">New inventory adjustment</string>
+    <string name="next_order_scan_button">Scan next sale order</string>
+    <string name="next_picking_zone_sync_error">Synchronization with Stock Picking at nex zone failed</string>
+    <string name="no_available_items">No available items</string>
+    <string name="no_available_waves">There are no available waves to assign</string>
+    <string name="no_backorder">Without backorder</string>
+    <string name="no_data_to_sort_error">No data to sort</string>
+    <string name="no_operations_error_message">No operations to process</string>
+    <string name="no_quants">No quants found for this product</string>
+    <string name="not_enought_item_error_message">Not enough items in Stock for this Picking! Are you sure you would like to start this picking?</string>
+    <string name="not_unique_lot">Such lot is not unique</string>
+    <string name="not_valid_picking">Not valid picking</string>
+    <string name="pack_operations_not_found">No ready to transfer operations found</string>
+    <string name="pad_decimal">Boxes</string>
+    <string name="picking_info">Picking Info</string>
+    <string name="picking_wave">Picking wave</string>
+    <string name="picking_wave_responsible_text">Responsible</string>
+    <string name="picking_wave_source_documents_text">Source Documents</string>
+    <string name="picking_wave_start_button">Start Picking Wave</string>
+    <string name="picking_wave_state_text">State</string>
+    <string name="post_message">New message</string>
+    <string name="prepare_new_wave">Prepare new wave</string>
+    <string name="print_error">Print connect error</string>
+    <string name="product">product</string>
+    <string name="product_input">Product input</string>
+    <string name="progress_check_permission">Checking permission …</string>
+    <string name="progress_check_settings">Checking warehouse settings …</string>
+    <string name="progress_check_subscription">Checking subscription, please wait…</string>
+    <string name="progress_check_wk">Checking Whtohtml status …</string>
+    <string name="progress_create_backorder">Creating Back Order …</string>
+    <string name="progress_create_lot">Creating Lot …</string>
+    <string name="progress_creating_line">Creating new inventory line …</string>
+    <string name="progress_fetch_attachments">Loading attachments …</string>
+    <string name="progress_load_lot_data">Load lot data</string>
+    <string name="progress_load_menu">Loading menu …</string>
+    <string name="progress_load_pack_operation">Loading pack operation</string>
+    <string name="progress_load_warehouse">Loading warehouse data…</string>
+    <string name="progress_load_warehouse_locations">Loading warehouse locations …</string>
+    <string name="progress_loading_location">Loading location …</string>
+    <string name="progress_loading_replies">Loading replies …</string>
+    <string name="progress_making_transfer">Transferring…</string>
+    <string name="progress_recompute_pack_ops">Recomputing pack operations, please wait …</string>
+    <string name="progress_refresh_picking">Refreshing picking data, please wait …</string>
+    <string name="progress_transfering">Transferring …</string>
+    <string name="progress_transfering_item">Transferring product …</string>
+    <string name="progress_updating_line">Saving inventory line …</string>
+    <string name="progress_validating_transfer_status">Validating transfer status …</string>
+    <string name="purchase_sku">Purchase</string>
+    <string name="receiving_wave">Receiving wave</string>
+    <string name="responsible">Responsible</string>
+    <string name="responsible_person">Responsible person:</string>
+    <string name="retry_unable_to_load_inventory">Unable to load inventory details, please try again.</string>
+    <string name="retry_unable_to_load_warehouse">Unable to load warehouse. Please try again.</string>
+    <string name="save_inventory">Save inventory</string>
+    <string name="save_picking_wave">Save picking wave</string>
+    <string name="scan_a_product_you_are_going_to_move_to_new_location">Scan a product you are going to move</string>
+    <string name="scan_barcode_of_the_bin">Scan a barcode of the bin</string>
+    <string name="scan_camera">Please scan camera</string>
+    <string name="scan_product">Сlick the barcode bellow or push hardware button on your scanner to scan the item</string>
+    <string name="scan_source_location_barcode">Scan source location barcode</string>
+    <string name="scan_target_location_barcode">Scan a barcode of the destination location</string>
+    <string name="search_error_message">Search error</string>
+    <string name="search_locations">Search locations</string>
+    <string name="search_product_progress">Search product for location</string>
+    <string name="select_warehouse">Please select warehouse</string>
+    <string name="serial_exist">This serial number already been scanned. Please scan another one</string>
+    <string name="serial_not_found">The serial number is not found in the list</string>
+    <string name="server_call_string">Server call for additional scan</string>
+    <string name="settings_category_gps">GPS settings</string>
+    <string name="settings_general">General</string>
+    <string name="settings_header_gps_text">Trigger GPS settings</string>
+    <string name="settings_header_sync_text">Synchronize calendar events and contacts</string>
+    <string name="settings_header_sync_title">Synchronization</string>
+    <string name="settings_summary_speed_limit">Show exceeding speed limit warning</string>
+    <string name="settings_title_speed_limit">Enable speed limit</string>
+    <string name="sku_unknown">Unknown product</string>
+    <string name="sort">Sort</string>
+    <string name="source_location_settings_text">Confirm source location</string>
+    <string name="stack_not_set">StockType not set</string>
+    <string name="start_wave_button">Start Picking Wave</string>
+    <string name="state">State:</string>
+    <string name="storage_permission_error">Dont have permission to access storage</string>
+    <string name="subscribe_sku">Subscribe</string>
+    <string name="suggest_next_pick">Suggest next product</string>
+    <string name="sync_wave">Sync wave</string>
+    <string name="text_emdk_scan_info">"There is possible two ways of scan:
+ - Soft scan (will activate sensor within touch mode)
+ - Hard scan (will be performed by pressing one of hardware buttons)
+
+Supported devices:
+ - MC32 (Jellybean)
+ - MC40 (Jellybean)
+ - MC67 (Jellybean)
+ - TC55 (Jellybean)
+ - TC70 (Kit Kat)"</string>
+    <string name="text_gps_joke">"We don't recommend to work while driving or riding at high speed. Make sure you are not behind steering wheel while using mERP."</string>
+    <string name="text_input">List</string>
+    <string name="title_add_attachment">Add attachment</string>
+    <string name="title_add_product">Add product</string>
+    <string name="title_all_operations">All Operations</string>
+    <string name="title_back_orders">Backorders (%1$d)</string>
+    <string name="title_billing">Purchases</string>
+    <string name="title_billing_footer">*Buy one license of mERP and use it on up to three Android devices!</string>
+    <string name="title_default_transfer_item_destination">Scan destination</string>
+    <string name="title_default_transfer_item_product">Scan product</string>
+    <string name="title_default_transfer_item_source">Scan source</string>
+    <string name="title_details">Details</string>
+    <string name="title_done_move">Done</string>
+    <string name="title_incoming">Suppliers</string>
+    <string name="title_info">Info</string>
+    <string name="title_internal">Internal</string>
+    <string name="title_inventory_adjustments">Inventory adjustments</string>
+    <string name="title_inventory_details">Inventory Details</string>
+    <string name="title_inventory_filter_lot">One Lot/Serial Number</string>
+    <string name="title_inventory_filter_none">All products</string>
+    <string name="title_inventory_filter_owner">One owner only</string>
+    <string name="title_inventory_filter_pack">A Pack</string>
+    <string name="title_inventory_filter_partial">Manual Selection of Products</string>
+    <string name="title_inventory_filter_product">One product only</string>
+    <string name="title_inventory_filter_product_owner">One product for a specific owner</string>
+    <string name="title_inventory_state_cancel">Cancelled</string>
+    <string name="title_inventory_state_confirm">In Progress</string>
+    <string name="title_inventory_state_done">Validated</string>
+    <string name="title_inventory_state_draft">Draft</string>
+    <string name="title_late">Late (%1$d)</string>
+    <string name="title_location_type_customer">Customer Location</string>
+    <string name="title_location_type_internal">Internal Location</string>
+    <string name="title_location_type_inventory">Inventory</string>
+    <string name="title_location_type_procurement">Procurement</string>
+    <string name="title_location_type_production">Production</string>
+    <string name="title_location_type_supplier">Supplier Location</string>
+    <string name="title_location_type_transit">Transit Location</string>
+    <string name="title_location_type_view">View</string>
+    <string name="title_main">Main</string>
+    <string name="title_move_state_assigned">Available</string>
+    <string name="title_move_state_cancel">Cancelled</string>
+    <string name="title_move_state_confirmed">Waiting Availability</string>
+    <string name="title_move_state_done">Done</string>
+    <string name="title_move_state_draft">New</string>
+    <string name="title_move_state_waiting">Waiting Another Move</string>
+    <string name="title_odoo_home">Odoo Home</string>
+    <string name="title_operations">Operations</string>
+    <string name="title_other_warehouses">Other</string>
+    <string name="title_outgoing">Customers</string>
+    <string name="title_picking_wave">Picking wave</string>
+    <string name="title_picking_waves_button">Batch and Waves Picking</string>
+    <string name="title_product_type_consumable">Consumable</string>
+    <string name="title_product_type_product">Stockable Product</string>
+    <string name="title_product_type_service">Service</string>
+    <string name="title_ready">Ready (%1$d)</string>
+    <string name="title_scan">Scan</string>
+    <string name="title_scan_hard">Scan (press 5)</string>
+    <string name="title_scan_items">Please scan barcode</string>
+    <string name="title_state_assigned">Ready to Transfer</string>
+    <string name="title_state_cancel">Cancelled</string>
+    <string name="title_state_confirmed">Waiting Availability</string>
+    <string name="title_state_done">Transferred</string>
+    <string name="title_state_draft">Draft</string>
+    <string name="title_state_partially_available">Partially Available</string>
+    <string name="title_state_picking_wave_done">Done</string>
+    <string name="title_state_picking_wave_on_hold">On Hold</string>
+    <string name="title_state_picking_wave_running">Running</string>
+    <string name="title_state_unknown">Unknown state</string>
+    <string name="title_state_waiting">Waiting Another Operation</string>
+    <string name="title_todo_move">ToDo</string>
+    <string name="title_unknown">Unknown</string>
+    <string name="title_view_attachments">View attachments</string>
+    <string name="title_waiting_availability">Waiting Availability (%1$d)</string>
+    <string name="toast_add_to_favorites_success">Message successfully added to favorites!</string>
+    <string name="toast_assign_exceed">Number of activated devices exceed possible amount. If you have any questions please send us feedback!</string>
+    <string name="toast_assign_invalid_sku">Invalid product!</string>
+    <string name="toast_assign_invalid_token">Invalid purchase token!</string>
+    <string name="toast_assign_ok">Product successfully assigned to this device!</string>
+    <string name="toast_assign_unknown_error">Unknown error. Please contact mERP support via feedback form.</string>
+    <string name="toast_billing_already_owned">mERP already activated. If you have any questions please send us feedback!</string>
+    <string name="toast_config_error_no_warehouse">Warehouse not found. Please check your configuration.</string>
+    <string name="toast_enter_password">Please enter password</string>
+    <string name="toast_enter_username">Please enter username</string>
+    <string name="toast_format_many_items_found_for_barcode">There are many records (%2$s) match search criteria for barcode %1$s. Please make sure that barcode is unique in the database (%3$s).</string>
+    <string name="toast_found_picking_not_ready">"Found picking isn't ready for scan"</string>
+    <string name="toast_invalid_location">Please scan correct location.</string>
+    <string name="toast_invalid_product_scanned">Please scan valid product!</string>
+    <string name="toast_inventory_line_created">Inventory line successfully created!</string>
+    <string name="toast_inventory_line_removed">Inventory line successfully removed.</string>
+    <string name="toast_inventory_line_updated">Inventory line successfully updated!</string>
+    <string name="toast_inventory_no_location">Please scan product location</string>
+    <string name="toast_lot_find_product_first">Please, first scan product to specify lot/serial number for it</string>
+    <string name="toast_no_operations_with_product">No operations found for product \"%1$s\" (operations left %2$s)</string>
+    <string name="toast_no_operations_with_product_no_count">No operations found for product \"%1$s\"</string>
+    <string name="toast_no_picking_found">No pickings were found for \"%1$s\" code</string>
+    <string name="toast_print_wk_install">Unable to find Wkhtmltopdf on this system. The report will be shown in html.</string>
+    <string name="toast_print_wk_upgrade">You should upgrade your version of Wkhtmltopdf.</string>
+    <string name="toast_print_wk_workers">You need to start OpenERP with at least two workers to print a pdf version of the reports.</string>
+    <string name="toast_select_or_type_db">Please select or type database</string>
+    <string name="toast_transfer_no_destination">Please scan destionation location</string>
+    <string name="toast_transfer_no_product">Please scan product</string>
+    <string name="toast_transfer_no_source">Please scan source location</string>
+    <string name="toast_transfer_zero_quantity">Please set product quantity</string>
+    <string name="toast_trial_activated">Your trial period successfully activated!</string>
+    <string name="toast_unable_to_load_saas_reloading_exist">Renewing existing session</string>
+    <string name="toast_unable_to_login">Unable to login. Please check your credentials and try again.</string>
+    <string name="token_status_assigned">Assigned</string>
+    <string name="token_status_available">Available</string>
+    <string name="token_status_used">Used</string>
+    <string name="toolbar_group_attachments">Attachment(s)</string>
+    <string name="transfer_canceled">Transfer canceled</string>
+    <string name="transfer_complete">Transfer complete</string>
+    <string name="transfer_moves_text">Transfer stock moves</string>
+    <string name="unsuported_encoding">Unsupported Encoding Exception</string>
+    <string name="update_inventory">Update inventory</string>
+    <string name="update_inventory_line">Update inventory line</string>
+    <string name="update_quantity_on_hand">Update quantity on hand</string>
+    <string name="upload_progress">Upload progress</string>
+    <string name="utires_bad_print_result">Bad result received</string>
+    <string name="utires_download_error_message">You can call download manually by toolbar action</string>
+    <string name="utires_parse_error">Parse file error, please try reload file manually</string>
+    <string name="utires_success_print">File successfully printed</string>
+    <string name="wait_until_background_operation_will_complete">Please wait until background operation will complete</string>
+    <string name="warhouse_update_button">Update Quantity On Hand</string>
+    <string name="waring_warehouse_no_module">Warning! Your Odoo configuration does not have installed Warehouse module.</string>
+    <string name="waring_warehouse_no_permissions">Warning! Your user account does not have right permissions for Warehouse module.</string>
+    <string name="waring_warehouse_odoo_version">Warning! mERP Warehouse supports only Odoo 8+ versions (current version is: %1$s).</string>
+    <string name="warning">Warning</string>
+    <string name="wave_created">Wave created</string>
+    <string name="wave_detail_item_count">Count</string>
+    <string name="wave_detail_item_destination">Destination</string>
+    <string name="wave_detail_item_location">Location</string>
+    <string name="wave_detail_item_location_details">Location Details</string>
+    <string name="wave_processing_complete">Picking wave processing finished</string>
+    <string name="wave_processing_stoped">Picking wave processing stoped</string>
+    <string name="werehose_zone_verification_error_message">Cant verify warehouse zones</string>
+    <string name="wh_common_settings_title">Common Settings</string>
+    <string name="wh_input_dialog_title">Choose input method</string>
+    <string name="wh_manual_input_dialog">Manual search</string>
+    <string name="wh_picking_zone_settings_dialog_title">Picking zone settings</string>
+    <string name="wh_search_product_button">search product</string>
+    <string name="will_be_assign_automatically">Will be assign automatically</string>
+    <string name="available_location_input_switch_text">Allow manual location input</string>
+    <string name="bad_server_response">Bad server response</string>
+    <string name="cant_verify_zpl">Cant verify zpl file</string>
+    <string name="check_zpl">Check attached file</string>
+    <string name="continue_picking_wave">Continue picking wave</string>
+    <string name="create_lot">Create lot</string>
+    <string name="create_serial_lot">Please create new S/N or Lot using additional menu (top right corner)</string>
+    <string name="destination_location_settings_text">Confirm destination location</string>
+    <string name="enter_lot_data">Enter lot data</string>
+    <string name="fail_check_attacked_file">Fail check attached file</string>
+    <string name="insert_lot_manually">Insert lot manually</string>
+    <string name="insert_new_lot_manually">Insert new lot manually</string>
+    <string name="insert_new_lot_manually_or_exist">Insert new lot manually or pick exist</string>
+    <string name="lot_name">Lot name</string>
+    <string name="lot_only_exist">Stock type settings allow to use only exist lot</string>
+    <string name="lot_only_new">Stock type settings allow only create new lot</string>
+    <string name="manage_serial_lot">Please fill S/N or Lot using additional menu (top right corner)</string>
+    <string name="no_attached_files">Last operation file are not exist</string>
+    <string name="no_target_operation">No target operation</string>
+    <string name="not_allowed_manage_lots">Product or Stock type not allowed manage lots</string>
+    <string name="previous_document">Print previous label</string>
+    <string name="product_confirm_settings_text">Confirm product</string>
+    <string name="quantity">Quantity</string>
+    <string name="receive_all">Receive all items</string>
+    <string name="receive_product_line">Receive product line</string>
+    <string name="scan_item_location">Scan item / location</string>
+    <string name="skip_print">Skip print</string>
+    <string name="skip_product">Skip product</string>
+    <string name="update_lot_data">Update lot data</string>
+    <string name="warehouse_procurement_button">Procurement Request</string>
+    <string name="warehouse_update_qty_button">Update Quantity</string>
+    <string name="wh_search_location">search location</string>
+    <string name="zpl_check_multiple_result">Receive multiple file result</string>
+    <string name="contacts_permission_toast_text">Contacts permission allow to sync contacs with odoo client. Please allow in App Settings for additional functionality.</string>
+    <string name="lot_exist">This lot has already been scanned. Please scan another one</string>
+    <string name="lot_not_found">The lot number is not found in the list</string>
+    <string name="lots_not_allowed">Product or Stock type not allowed manage lots</string>
+    <string name="scanner_mode_notification">To work with \"mERP Warehouse\" app you need to disable \"keyboard output\" option in the settings. Click OK to disable it. After using the app you will be able to activate \"keyboard output\" option again.</string>
+    <string name="storage_permission_toast_text">Storage permission allow to save temporary files. Please allow in App Settings for additional functionality.</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="about_status_of_barcode">Status of barcode scanner drivers</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">mERP (Full Odoo mobile)</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="cast_invalid_stream_duration_text">--:--</string>
+    <string name="cast_invalid_stream_position_text">--:--</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="create_new_inventory">Create new inventory</string>
+    <string name="date">Date</string>
+    <string name="destination_location">Destination Location</string>
+    <string name="eula"><b>MERP STANDARD END USER LICENSE AGREEMENT</b>" 
+
+By downloading any application mERP from Xpansa (here after referred to as \"The Company\"), installing or using this application or any portion thereof (\"Application\"), you agree to the following terms and conditions (the \"Terms and Conditions\"). 
+
+"<b>1. USE OF APPLICATION</b>" 
+
+a. The Company grants you the non-exclusive, non-transferable, limited right and license to install and use this Application solely and exclusively for your personal use. 
+b. You may not use the Application in any manner that could damage, disable, overburden, or impair the Application (or servers or networks connected to the Application), nor may you use the Application in any manner that could interfere with any other party's use and enjoyment of the Application (or servers or networks connected to the Application). 
+c. You are not allowed to use the Application on any Android device that you do not own or control, and you may not distribute or make the Application available over a network where it could be used by multiple devices at the same time. 
+d. You may not rent, lease, lend, sell, redistribute or sublicense the Application. You may not copy, decompile, reverse engineer, disassemble, attempt to derive the source code of, modify, or create derivative works of the Application, any updates, or any part thereof (except as and only to the extent any foregoing restriction is prohibited by applicable law or to the extent as may be permitted by the licensing terms governing use of any open sourced components included with the Application). Any attempt to do so is a violation of the rights of the Company and its licensors. If you breach this restriction, you may be subject to prosecution and damages. 
+e. You agree that you are solely responsible for (and that The Company has no responsibility to you or to any third party for) your use of the Application, any breach of your obligations under the Terms and Conditions, and for the consequences (including any loss or damage which The Company may suffer) of any such breach. 
+f. You agree that one license can be used per one device only. If you are purchasing, for example, 10 licenses, it can be used on 10 devices maximum. 
+g. The terms of the license will govern any upgrades provided by Xpansa that replace and/or supplement the original Product, unless such upgrade is accompanied by a separate license in which case the terms of that license will govern. 
+
+"<b>2. PROPRIETARY RIGHTS</b>" 
+You acknowledge that (a) the Application contains proprietary and confidential information that is protected by applicable intellectual property and other laws, and (b) The Company and/or third parties own all right, title and interest in and to the Application and content, excluding content provided by you, that may be presented or accessed through the Application, including without limitation all Intellectual Property Rights therein and thereto. \"Intellectual Property Rights\" means any and all rights existing from time to time under patent law, copyright law, trade secret law, trademark law, unfair competition law, and any and all other proprietary rights, and any and all applications, renewals, extensions and restorations thereof, now or hereafter in force and effect worldwide. You agree that you will not, and will not allow any third party to, (i) copy, sell, license, distribute, transfer, modify, adapt, translate, prepare derivative works from, decompile, reverse engineer, disassemble or otherwise attempt to derive source code from the Application or content that may be presented or accessed through the Application for any purpose, unless otherwise permitted, (ii) take any action to circumvent or defeat the security or content usage rules provided, deployed or enforced by any functionality (including without limitation digital rights management functionality) contained in the Application, (iii) use the Application to access, copy, transfer, transcode or retransmit content in violation of any law or third party rights, or (iv) remove, obscure, or alter The Company's or any third party's copyright notices, trademarks, or other proprietary rights notices affixed to or contained within or accessed in conjunction with or through the Application. You acknowledge that the license in this Agreement does not transfer to you title to or ownership of any intellectual property rights of Xpansa or its partners. The Application is licensed, not sold, and such license is non-exclusive. 
+
+"<b>3. THE COMPANY TERMS OF SERVICE AND PRIVACY POLICY</b>" 
+
+a. You agree that the Company may collect and use technical data and related information, including but not limited to technical information about your device, system and application software, and peripherals, that is gathered periodically to facilitate the provision of software updates, product support and other services to you (if any) related to the Application. The Company may use this information to improve its products or to provide services or technologies to you. 
+b. The Company's Privacy Policy (located at http://www.merpapp.com/) explains how The Company treats your information and protects your privacy when you use the Application. You agree to the use of your data in accordance with The Company's privacy policies. 
+
+"<b>4. SERVICES AND THIRD PARTY MATERIALS</b>" 
+
+a. The Application may enable access to the Company's and third party services and web sites (collectively and individually, \"Services\"). Use of the Services may require Internet access and that you accept additional terms of service. 
+b. You understand that by using any of the Services, You may encounter content that may be deemed offensive, indecent, or objectionable, which content may or may not be identified as having explicit language, and that the results of any search or entering of a particular URL may automatically and unintentionally generate links or references to objectionable material. Nevertheless, you agree to use the Services at your sole risk and that the Company shall not have any liability to you for content that may be found to be offensive, indecent, or objectionable. 
+
+"<b>5. AUTOMATIC UPDATES</b>" 
+
+In order to keep your Application up-to-date, Xpansa may automatically provide your Application with updates/upgrades. 
+
+"<b>6. TERMINATION</b>" 
+
+These Terms and Conditions will continue to apply until terminated by either you or The Company as set forth below. You may terminate these Terms and Conditions at any time by permanently deleting the Application from your mobile device in its entirety. Your rights automatically and immediately terminate without notice from The Company or any Third Party if you fail to comply with any provision of these Terms and Conditions. In such event, you must immediately cease all use of the Application, and destroy all copies, full or partial. 
+
+"<b>7. INDEMNITY</b>" 
+
+To the maximum extent permitted by law, you agree to defend, indemnify and hold harmless The Company, its affiliates and their respective directors, officers, employees and agents from and against any and all claims, actions, suits or proceedings, as well as any and all losses, liabilities, damages, costs and expenses (including reasonable attorneys fees) arising out of or accruing from your use of the Application, including your downloading, installation, or use of the Application, or your violation of these Terms and Conditions. 
+
+"<b>8. DISCLAIMER OF WARRANTIES</b>" 
+
+A. YOU EXPRESSLY UNDERSTAND AND AGREE THAT YOUR USE OF THE APPLICATION IS AT YOUR SOLE DISCRETION AND RISK AND THAT THE APPLICATION IS PROVIDED AS IS AND AS AVAILABLE WITHOUT WARRANTY OF ANY KIND. 
+B. YOU ARE SOLELY RESPONSIBLE FOR ANY DAMAGE TO YOUR MOBILE DEVICE, OR OTHER DEVICE, OR LOSS OF DATA THAT RESULTS FROM SUCH USE. 
+C. THE COMPANY FURTHER EXPRESSLY DISCLAIMS ALL WARRANTIES AND CONDITIONS OF ANY KIND, WHETHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE IMPLIED WARRANTIES AND CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, QUIET ENJOYMENT AND NON-INFRINGEMENT OF THIRD-PARTY RIGHTS WITH RESPECT TO THE APPLICATION. 
+D. THE APPLICATION IS NOT INTENDED FOR USE IN THE OPERATION OF NUCLEAR FACILITIES, LIFE SUPPORT SYSTEMS, EMERGENCY COMMUNICATIONS, AIRCRAFT NAVIGATION OR COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL SYSTEMS, OR ANY OTHER ACTIVITIES IN WHICH THE FAILURE OF THE APPLICATION COULD LEAD TO DEATH, PERSONAL INJURY, OR SEVERE PHYSICAL OR ENVIRONMENTAL DAMAGE. 
+E. NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY THE COMPANY OR AN AUTHORIZED REPRESENTATIVE OF THE COMPANY SHALL CREATE A WARRANTY. THE LAWS OF CERTAIN JURISDICTIONS DO NOT ALLOW THE DISCLAIMER OF IMPLIED WARRANTIES. IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE ABOVE DISCLAIMERS, EXCLUSIONS OR LIMITATIONS MAY NOT APPLY TO YOU, AND YOU MAY HAVE ADDITIONAL RIGHTS. 
+
+"<b>9. LIMITATION OF LIABILITY</b>" 
+
+TO THE EXTENT NOT PROHIBITED BY LAW, NEITHER THE COMPANY NOR ITS SUPPLIERS OR LICENSORS SHALL BE LIABLE TO YOU FOR ANY INCIDENTAL OR CONSEQUENTIAL DAMAGES FOR BREACH OF ANY EXPRESS OR IMPLIED WARRANTY, BREACH OF CONTRACT, NEGLIGENCE, STRICT LIABILITY OR ANY OTHER LEGAL THEORY RELATED TO THE APPLICATION, SERVICE OR DIGITAL CONTENT, INCLUDING, BUT NOT LIMITED TO, ANY DAMAGES ARISING OUT OF LOSS OF PROFITS, REVENUE, DATA OR USE OF THE APPLICATION OR ANY ASSOCIATED PRODUCT, EVEN IF THE COMPANY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN ANY CASE, THE COMPANY'S AGGREGATE LIABILITY UNDER THIS AGREEMENT SHALL BE LIMITED TO THE AMOUNT ACTUALLY PAID BY YOU FOR DIGITAL CONTENT. THE LAWS OF CERTAIN JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES. IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE ABOVE EXCLUSIONS OR LIMITATIONS MAY NOT APPLY TO YOU, AND YOU MAY HAVE ADDITIONAL RIGHTS. 
+
+"<b>10. MISCELLANEOUS</b>" 
+
+a. These Terms and Conditions constitute the entire Agreement between you and The Company relating to the Application and govern your use of the Application, and completely replace any prior or contemporaneous agreements between you and The Company regarding the Application. 
+b. You agree that the Company is not responsible for stability, accessibility and bug free of the end system to which the Application is connecting. 
+c. You agree that the Company is not responsible for, but doing all the bests to follow, changes in Odoo™ software. 
+d. The failure of The Company to exercise or enforce any right or provision of these Terms and Conditions does not constitute a waiver of such right or provision, which will still be available to The Company. 
+e. If any court of law, having the jurisdiction to decide on this matter, rules that any provision of these Terms and Conditions is invalid, then that provision will be removed from the Terms and Conditions without affecting the rest of the Terms and Conditions. The remaining provisions of these Terms and Conditions will continue to be valid and enforceable. 
+f. The rights granted in these Terms and Conditions may not be assigned or transferred by either you or The Company without the prior written approval of the other party. Neither you nor The Company are permitted to delegate their responsibilities or obligations under these Terms and Conditions without the prior written approval of the other party. 
+g. These Terms and Conditions and your relationship with The Company under these Terms and Conditions will be governed by the laws of Estonia without regard to its conflict of laws provisions. You and The Company agree to submit to the exclusive jurisdiction of the courts located in Estonia to resolve any legal matter arising from these Terms and Conditions. Notwithstanding this, you agree that The Company will still be allowed to apply for injunctive remedies (or an equivalent type of urgent legal relief) in any jurisdiction. "</string>
+    <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
+    <string name="history_move_product">Moves history</string>
+    <string name="merp_account_type">com.xpansa.merp</string>
+    <string name="merp_package">com.xpansa.merp</string>
+    <string name="mr_controller_stop">Stop</string>
+    <string name="pad_0">0 | ,</string>
+    <string name="pad_1">1</string>
+    <string name="pad_2">2</string>
+    <string name="pad_3">3</string>
+    <string name="pad_4">4</string>
+    <string name="pad_5">5</string>
+    <string name="pad_6">6</string>
+    <string name="pad_7">7</string>
+    <string name="pad_8">8</string>
+    <string name="pad_9">9</string>
+    <string name="partner">Partner</string>
+    <string name="password_toggle_content_description">Toggle password visibility</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="pls_scan_barcode">Please scan a barcode of a product or location to get detalied info about</string>
+    <string name="preferences_decode_1D_title">1D barcodes</string>
+    <string name="preferences_try_bsplus">Try Barcode Scanner+</string>
+    <string name="preferences_try_bsplus_summary">Enhanced with new features and interface</string>
+    <string name="product_moves">Product moves</string>
+    <string name="scan_product_or_location_create_inventory">Please scan product or location to create new inventory</string>
+    <string name="scan_product_pls">Scan product</string>
+    <string name="sku_merp_annual">Yearly Subscription</string>
+    <string name="sku_merp_month">Monthly Subscription</string>
+    <string name="sku_merp_permanent">Permanent Purchase</string>
+    <string name="source_document">Source Document</string>
+    <string name="source_location">Source Location</string>
+    <string name="tagmanager_preview_dialog_button">Continue</string>
+    <string name="tagmanager_preview_dialog_message">Preview mode updated.</string>
+    <string name="tagmanager_preview_dialog_title">Preview</string>
+    <string name="transfer_reference">Transfer Reference</string>
+</resources>

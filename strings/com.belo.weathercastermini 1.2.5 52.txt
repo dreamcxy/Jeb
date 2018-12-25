@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="common_android_wear_notification_needs_update_text"><g id="app_name">%1$s</g> requires an update to the Android Wear app.</string>
+    <string name="common_android_wear_update_text"><g id="app_name">%1$s</g>" won't run unless you update the Android Wear app."</string>
+    <string name="common_android_wear_update_title">Update Android Wear</string>
+    <string name="common_google_play_services_api_unavailable_text"><g id="app_name">%1$s</g> requires one or more Google Play services that are not currently available. Please contact the developer for assistance.</string>
+    <string name="common_google_play_services_enable_button">Enable Google Play services</string>
+    <string name="common_google_play_services_enable_text"><g id="app_name">%1$s</g>" won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Requested by <g id="app_name">%1$s</g></string>
+    <string name="common_google_play_services_install_button">Get Google Play services</string>
+    <string name="common_google_play_services_install_text_phone"><g id="app_name">%1$s</g>" won't run without Google Play services, which are missing from your phone."</string>
+    <string name="common_google_play_services_install_text_tablet"><g id="app_name">%1$s</g>" won't run without Google Play services, which are missing from your tablet."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
+    <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
+    <string name="common_google_play_services_needs_enabling_title">An application requires Google Play services to be enabled.</string>
+    <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
+    <string name="common_google_play_services_network_error_title">Network Error</string>
+    <string name="common_google_play_services_notification_needs_update_title">An application requires an update for Google Play services.</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_sign_in_failed_text">Error signing in the specified account. Please choose a different account.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Sign in failed</string>
+    <string name="common_google_play_services_unknown_issue">Unknown issue with Google Play services.</string>
+    <string name="common_google_play_services_unsupported_text"><g id="app_name">%1$s</g> relies on Google Play services, which is not supported by your device. Contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text"><g id="app_name">%1$s</g>" won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text"><g id="app_name">%1$s</g>" won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_updating_title">Google Play services are updating</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="messenger_send_button_text">Send</string>
+    <string name="mr_media_route_button_content_description">Cast</string>
+    <string name="mr_media_route_chooser_searching">Searching for devices…</string>
+    <string name="mr_media_route_chooser_title">Connect to device</string>
+    <string name="mr_media_route_controller_disconnect">Disconnect</string>
+    <string name="mr_media_route_controller_pause">Pause</string>
+    <string name="mr_media_route_controller_play">Play</string>
+    <string name="mr_media_route_controller_settings_description">Route settings</string>
+    <string name="mr_media_route_controller_stop">Stop casting</string>
+    <string name="mr_system_route_name">System</string>
+    <string name="mr_user_route_category_name">Devices</string>
+    <string name="dgts__cancel">Cancel</string>
+    <string name="dgts__communication_error">Communication Error</string>
+    <string name="dgts__confirmation_code">Confirmation code</string>
+    <string name="dgts__confirmation_edit_hint">Enter confirmation code</string>
+    <string name="dgts__confirmation_error">Unable to confirm your phone number</string>
+    <string name="dgts__confirmation_error_alternative">Sorry, we are having trouble sending you a confirmation code.</string>
+    <string name="dgts__confirmation_expired">This code has expired. Please resend confirmation code.</string>
+    <string name="dgts__confirmation_send_text">Send confirmation code</string>
+    <string name="dgts__confirmation_sending_text">Sending confirmation code</string>
+    <string name="dgts__confirmation_sent_text">Sent confirmation code</string>
+    <string name="dgts__confirmation_sms">Confirmation code: %1$s. Enter this code in %2$s</string>
+    <string name="dgts__create_account_text">Create account</string>
+    <string name="dgts__creating_account_text">Creating account</string>
+    <string name="dgts__digits_logo_desc">digits logo icon</string>
+    <string name="dgts__digits_logo_name_desc">digits logo name</string>
+    <string name="dgts__dismiss">Dismiss</string>
+    <string name="dgts__find_your_friends">Find your friends</string>
+    <string name="dgts__image_header_description">Image header for login</string>
+    <string name="dgts__login_digits_text">Use my phone number</string>
+    <string name="dgts__network_error">Please check your network and try again.</string>
+    <string name="dgts__not_now">Not now</string>
+    <string name="dgts__okay">Okay</string>
+    <string name="dgts__phone_number_edit_hint">Your Number</string>
+    <string name="dgts__phone_number_text">Enter your phone number</string>
+    <string name="dgts__pin_code_verification_title">Enter 2-step verification code</string>
+    <string name="dgts__resend">Resend</string>
+    <string name="dgts__resend_confirmation_text">Resend confirmation code</string>
+    <string name="dgts__sign_in">Sign in</string>
+    <string name="dgts__sign_in_error">We could not sign you in with Twitter at this time. Please try again later.</string>
+    <string name="dgts__sign_in_twitter">Sign in with Twitter</string>
+    <string name="dgts__signing_in">Signing in</string>
+    <string name="dgts__success_desc">Success Icon</string>
+    <string name="dgts__terms_text">By tapping %1$sSend confirmation code%1$s above, <u>Digits by Twitter</u>, will send you a SMS message to confirm your phone number. Message &amp; data rates may apply.</string>
+    <string name="dgts__terms_text_create">By tapping %1$sCreate account%1$s above, you agree to the <u>Terms of Service</u>, <u>Privacy Policy</u>, and <u>Cookies Policy</u> of Digits by Twitter, and that other users of this app can discover you by phone number and/or email.</string>
+    <string name="dgts__terms_text_sign_in">By tapping %1$sSign in%1$s above, you agree to the updated <u>Terms of Service</u>, <u>Privacy Policy</u>, and <u>Cookies Policy</u> of Digits by Twitter, and that other users of %1$s can discover you by phone number and/or email.</string>
+    <string name="dgts__try_again">Try Again</string>
+    <string name="dgts__try_again_confirmation">Please check your code and try again.</string>
+    <string name="dgts__try_again_phone_number">Please check your number and try again.</string>
+    <string name="dgts__try_another_phone">Try a different phone number</string>
+    <string name="dgts__upload_contacts">"We use Digits by Twitter to find more of your friends who use this app. When you tap Okay, we'll upload your address book to Digits by Twitter so that we can help you find users of %1$s that you know or help other users of %1$s find you."</string>
+    <string name="dgts__verification_code">Verification code</string>
+    <string name="dgts_pin_code_terms">You have previously set a 2-step verification code on digits.com</string>
+    <string name="dgts_verify">Verify</string>
+    <string name="dgts_verifying">Verifying</string>
+    <string name="tw__allow_btn_txt">Allow</string>
+    <string name="tw__loading_tweet">Loading Tweet</string>
+    <string name="tw__login_btn_txt">Log in with Twitter</string>
+    <string name="tw__not_now_btn_txt">Not now</string>
+    <string name="tw__relative_date_format_long">MM/dd/yy</string>
+    <string name="tw__relative_date_format_short">MMM dd</string>
+    <string name="tw__retweeted_by_format">Retweeted by %1$s</string>
+    <string name="tw__share_content_format">"Check out @%1$s's Tweet: https://twitter.com/%1$s/status/%2$s"</string>
+    <string name="tw__share_email_desc">Get updates and other information from %1$s when you allow them access to your email on your Twitter account @%2$s</string>
+    <string name="tw__share_email_title">Share your email address</string>
+    <string name="tw__share_subject_format">Tweet from %1$s (@%2$s)</string>
+    <string name="tw__share_tweet">Share Tweet</string>
+    <string name="tw__tweet_content_description">%1$s. %2$s. %3$s.</string>
+    <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_loading">Loading...</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_loginview_log_in_button">Log in</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="wallet_buy_button_place_holder">Buy with Google</string>
+    <string name="accept">Accept</string>
+    <string name="add">Add</string>
+    <string name="add_location_hint">Add a Location</string>
+    <string name="alert">Alert</string>
+    <string name="app_id">164959100300659</string>
+    <string name="app_name">Weather Caster</string>
+    <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
+    <string name="auth_google_play_services_client_google_display_name">Google</string>
+    <string name="blowing_dust">Blowing Dust</string>
+    <string name="blowing_snow">Blowing Snow</string>
+    <string name="cancel">Cancel</string>
+    <string name="cast_notification_connected_message">Connected to <g id="name">%1$s</g></string>
+    <string name="cast_notification_connecting_message">Connecting to <g id="name">%1$s</g></string>
+    <string name="cast_notification_disconnect">Disconnect</string>
+    <string name="cell_journalism_error">Add email address and title.</string>
+    <string name="celsius_header_label">Degrees Celsius</string>
+    <string name="celsius_label">C °</string>
+    <string name="clear">Clear</string>
+    <string name="close">Close</string>
+    <string name="com.belo.weathercastermini.MainActivity">/Main</string>
+    <string name="com.belo.weathercastermini.PostPhotoActivity">/PostPhoto</string>
+    <string name="com.belo.weathercastermini.ShareSettingsActivity">/ShareSettings</string>
+    <string name="com.belo.weathercastermini.ShareViaFacebookActivity">/ShareFacebook</string>
+    <string name="com.belo.weathercastermini.ShareViaTwitterActivity">/ShareTwitter</string>
+    <string name="com.belo.weathercastermini.SplashActivity">/Launch</string>
+    <string name="com_facebook_like_button_liked">Liked</string>
+    <string name="com_facebook_like_button_not_liked">Like</string>
+    <string name="com_facebook_loginview_log_in_button_long">Log in with Facebook</string>
+    <string name="com_facebook_send_button_text">Send</string>
+    <string name="com_facebook_share_button_text">Share</string>
+    <string name="com_facebook_tooltip_default">"New! You're in control - choose what info you want to share with apps."</string>
+    <string name="connect">Connect</string>
+    <string name="copyright_line">© 2015 Tenga. All rights reserved.</string>
+    <string name="crashlytics_key">23ed38ca585d5fb2635324a19bf34444e8d4ad44</string>
+    <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
+    <string name="create_calendar_title">Create calendar event</string>
+    <string name="credits">Credits</string>
+    <string name="decline">Decline</string>
+    <string name="description">Description</string>
+    <string name="developed_by">Designed and Developed By</string>
+    <string name="dfp_network_code">7604</string>
+    <string name="dgts__country_spinner_format">%1$s +%2$d</string>
+    <string name="dialog_gps_permit_usage">"'Weathercaster' Would like to use your current location to give you personalized forecasts."</string>
+    <string name="dialog_gps_settings_adjust">"'Weathercaster' needs to access your location to provide you with localized forecasts. Would you like to adjust your settings and enable it?"</string>
+    <string name="dialog_network_outage">"'Weathercaster' needs network access to obtain forecast information. Please check your network provider and verify connectivity."</string>
+    <string name="done">Done</string>
+    <string name="drifting_snow">Drifting Snow</string>
+    <string name="drizzle">Drizzle</string>
+    <string name="duststorm">Duststorm</string>
+    <string name="empty_string" />
+    <string name="facebook">Facebook</string>
+    <string name="facebook_app_id">164959100300659</string>
+    <string name="facebook_share_desc">Forecast your life by downloading the WeatherCaster app on your iPhone, Android, or iPad. With live interactive radars, forecasts, and alerts.</string>
+    <string name="fahrenheit_header_label">Degrees Fahrenheit</string>
+    <string name="fahrenheit_label">F °</string>
+    <string name="fog">Fog</string>
+    <string name="forgot_password">Forgot your password?</string>
+    <string name="freezing_drizzle">Freezing Drizzle</string>
+    <string name="freezing_fog">Freezing Fog</string>
+    <string name="freezing_rain">Freezing Rain</string>
+    <string name="ga_trackingId">UA-28042568-1</string>
+    <string name="gallery">Gallery</string>
+    <string name="gcm_defaultSenderId">1056688146039</string>
+    <string name="gcm_senderid">1056688146039</string>
+    <string name="hail">Hail</string>
+    <string name="haze">Haze</string>
+    <string name="heavy_drizzle">Heavy Drizzle</string>
+    <string name="heavy_rain">Heavy Rain</string>
+    <string name="heavy_snow">Heavy Snow</string>
+    <string name="heavy_thunderstorm">Heavy Thunderstorm</string>
+    <string name="home_alerts">Home Location Alerts</string>
+    <string name="hourly">Hourly</string>
+    <string name="image_preview">Image preview</string>
+    <string name="intent_service_name">Weathercaster Service</string>
+    <string name="kit_name">Twitter</string>
+    <string name="light_drizzle">Light Drizzle</string>
+    <string name="light_fog">Light Fog</string>
+    <string name="light_freezing_drizzle">Light Freezing Drizzle</string>
+    <string name="light_freezing_rain">Light Freezing Rain</string>
+    <string name="light_hail">Light Hail</string>
+    <string name="light_rain">Light Rain</string>
+    <string name="light_rain_and_snow">Light Rain and Snow</string>
+    <string name="light_rain_and_snow_shower">Light Rain and Snow Shower</string>
+    <string name="light_rain_shower">Light Rain Shower</string>
+    <string name="light_snow">Light Snow</string>
+    <string name="light_snow_shower">Light Snow Shower</string>
+    <string name="loading">Loading</string>
+    <string name="localcast">Localcast</string>
+    <string name="make_post">Make A Post</string>
+    <string name="map_livetile_menu_humidity">Humidity</string>
+    <string name="map_livetile_menu_precipitation">Precipitation</string>
+    <string name="map_livetile_menu_radar">Radar</string>
+    <string name="map_livetile_menu_satellite">Satellite</string>
+    <string name="map_livetile_menu_temperature">Temperature</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_share">Share WeatherCaster</string>
+    <string name="mostly_clear">Mostly Clear</string>
+    <string name="mostly_cloudy">Mostly Cloudy</string>
+    <string name="ok">OK</string>
+    <string name="or_sign_in">Or sign in with</string>
+    <string name="overcast">Overcast</string>
+    <string name="partly_cloudy">Partly Cloudy</string>
+    <string name="password_hint">Password</string>
+    <string name="patchy_fog">Patchy Fog</string>
+    <string name="post">Post</string>
+    <string name="post_error_no_message">Please write a description.</string>
+    <string name="post_photo_error">Post Photo Error</string>
+    <string name="post_photo_error_read_only">Unable to write images to storage as it appears to be read-only.</string>
+    <string name="post_photo_error_unavailable">"Storage unavailable.
+
+Check that this device is not mounted as removable storage media on your computer."</string>
+    <string name="post_photo_error_unknown">Unable to create image file in storage for unknown reason.</string>
+    <string name="post_sent">Post sent!</string>
+    <string name="post_to_wall">Post to Wall</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="provider_urbanairship">com.belo.weathercastermini.urbanairship.provider</string>
+    <string name="published_by">Published By</string>
+    <string name="rain">Rain</string>
+    <string name="rain_and_snow">Rain and Snow</string>
+    <string name="rain_and_snow_shower">Rain and Snow Shower</string>
+    <string name="rain_shower">Rain Shower</string>
+    <string name="retake">Retake</string>
+    <string name="say_something">Say something about this...</string>
+    <string name="settings">App Settings</string>
+    <string name="seven_day_forecast">7 Day Forecast</string>
+    <string name="severe_duststorm">Severe Duststorm</string>
+    <string name="share_alert_email_body">"Alert: %1$s for %2$s
+
+Expires %3$s
+
+%4$s"</string>
+    <string name="share_alert_email_subject">Alert: %1$s for %2$s</string>
+    <string name="share_alert_facebook_body">"Alert: %1$s for %2$s
+
+Expires %3$s
+
+%4$s"</string>
+    <string name="share_alert_twitter_body">"Alert: %1$s for %2$s
+
+Expires %3$s
+
+%4$s"</string>
+    <string name="share_app_email_body">"Have you seen WeatherCaster?
+
+It's a great, free easy-to-use Android app with radar, forecast, latest temperatures and more.
+
+http://www.weathercasterapp.com"</string>
+    <string name="share_app_email_body_html">"Have you seen WeatherCaster?&lt;br> &lt;br> It's a great, free easy-to-use Android app with radar, forecast, latest temperatures and more.&lt;br> &lt;br> &lt;img src=data:image/png;base64,%1$s alt=WeatherCaster Mini/>"</string>
+    <string name="share_app_email_subject">Check out the WeatherCaster app</string>
+    <string name="share_app_facebook_body">"Take a look at the WeatherCaster app - a FREE, easy-to-use weather app. Packed with features – including radar, forecast, temperatures and more.
+www.weathercasterapp.com"</string>
+    <string name="share_app_facebook_subject">Download the WeatherCaster app</string>
+    <string name="share_app_twitter_body">Check out @WeatherCastApp! Radar, forecasts, live cams &amp; more. Download at www.weathercasterapp.com</string>
+    <string name="share_app_url">www.weathercasterapp.com</string>
+    <string name="share_gallery_email_body">"Here is a snapshot of %1$s's Radar/Weather Cameras via the Android WeatherCaster app."</string>
+    <string name="share_gallery_email_subject">Weather</string>
+    <string name="share_gallery_facebook_body">"Here is a snapshot of %1$s's Radar/Weather Cameras via the Android WeatherCaster app.
+www.weathercasterapp.com"</string>
+    <string name="share_gallery_twitter_body">"Download the free app at
+www.weathercasterapp.com"</string>
+    <string name="share_hint">Write a Description</string>
+    <string name="share_hourly_email_body">"I thought you'd want to see this from the WeatherCaster app.
+
+Download the app for free here.
+
+http://www.weathercasterapp.com"</string>
+    <string name="share_hourly_email_subject">Weather</string>
+    <string name="share_hourly_facebook_body">"Download the free app at 
+www.weathercasterapp.com"</string>
+    <string name="share_hourly_twitter_body">"Download the free app at
+www.weathercasterapp.com"</string>
+    <string name="share_localcast_email_body">"Here is an article titled %1$s.
+
+"<a href="%2$s">%2$s</a>"
+
+"</string>
+    <string name="share_localcast_email_subject">Weather</string>
+    <string name="share_localcast_facebook_body">"Here is an article from %1$s's %2$s titled %3$s.
+
+%4$s"</string>
+    <string name="share_localcast_twitter_body">"Here is an article from %1$s's %2$s titled %3$s.
+
+%4$s
+
+%5$s"</string>
+    <string name="share_message_email_body">">%1$s
+
+Shared via WeatherCaster for Android"</string>
+    <string name="share_message_email_subject">Weather</string>
+    <string name="share_message_facebook_body">"%1$s
+www.weathercasterapp.com"</string>
+    <string name="share_message_twitter_body">"Download the free app at
+www.weathercasterapp.com"</string>
+    <string name="share_radar_email_body">"I thought you'd want to see this from the WeatherCaster app.
+
+Download the app for free here.
+
+http://www.weathercasterapp.com"</string>
+    <string name="share_radar_email_subject">Weather</string>
+    <string name="share_screen">Share This Screen</string>
+    <string name="share_settings">Share Settings</string>
+    <string name="share_seven_day_email_body">"I thought you'd want to see this from the WeatherCaster app.
+
+Download the app for free here.
+
+http://www.weathercasterapp.com"</string>
+    <string name="share_seven_day_email_subject">Weather</string>
+    <string name="share_seven_day_facebook_body">"Download the free app at
+www.weathercasterapp.com"</string>
+    <string name="share_seven_day_twitter_body">"Download the free app at
+www.weathercasterapp.com"</string>
+    <string name="share_to">Share To:</string>
+    <string name="share_web_email_body">"I thought you'd want to see this from the WeatherCaster app.
+
+Download the app for free here.
+
+http://www.weathercasterapp.com"</string>
+    <string name="share_web_email_subject">Weather</string>
+    <string name="share_web_facebook_body">"Download the free app at 
+www.weathercasterapp.com"</string>
+    <string name="share_web_twitter_body">"Download the free app at
+www.weathercasterapp.com"</string>
+    <string name="sharing_link">Sharing link:</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="sleet">Sleet</string>
+    <string name="smoke">Smoke</string>
+    <string name="snow">Snow</string>
+    <string name="snow_shower">Snow Shower</string>
+    <string name="spinner_title">Please wait…</string>
+    <string name="squall">Squall</string>
+    <string name="store_picture_message">Allow Ad to store image in Picture gallery?</string>
+    <string name="store_picture_title">Save image</string>
+    <string name="take">Take Picture</string>
+    <string name="temp_scale">Temperature Scale</string>
+    <string name="this_afternoon">This Afternoon</string>
+    <string name="thunderstorm">Thunderstorm</string>
+    <string name="title_activity_photo">PhotoActivity</string>
+    <string name="today">Today</string>
+    <string name="tomorrow_afternoon">Tomorrow Afternoon</string>
+    <string name="tomorrow_morning">Tomorrow Morning</string>
+    <string name="tonight">This Evening</string>
+    <string name="tos">Terms of Service</string>
+    <string name="tweet">Tweet</string>
+    <string name="tweet_sent">Tweet sent!</string>
+    <string name="twitter">Twitter</string>
+    <string name="twitter_post_duplicate_error">You have already tweeted this message with your account. Type a new message to share.</string>
+    <string name="twitter_post_length_error">Your message is too long to tweet.</string>
+    <string name="unknown">Unavailable</string>
+    <string name="unlink">Unlink</string>
+    <string name="use">Use</string>
+    <string name="video_failure">Unable to play video at this time.</string>
+    <string name="widget_text">MooMoooMooMooo</string>
+    <string name="your_email_hint">Your Email</string>
+    <string name="your_name_hint">Your Name</string>
+</resources>

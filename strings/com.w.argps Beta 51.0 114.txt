@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="store_picture_title">Save image</string>
+    <string name="store_picture_message">Allow Ad to store image in Picture gallery?</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+    <string name="create_calendar_title">Create calendar event</string>
+    <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
+    <string name="auth_google_play_services_client_google_display_name">Google</string>
+    <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_install_text_phone">"%1$s won't run without Google Play services, which are missing from your phone."</string>
+    <string name="common_google_play_services_install_text_tablet">"%1$s won't run without Google Play services, which are missing from your tablet."</string>
+    <string name="common_google_play_services_install_button">Get Google Play services</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_button">Enable Google Play services</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_google_play_services_updating_title">Google Play services are updating</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_network_error_title">Network Error</string>
+    <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
+    <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
+    <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string name="common_google_play_services_unsupported_text">%1$s relies on Google Play services, which is not supported by your device. Contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_google_play_services_api_unavailable_text">%1$s requires one or more Google Play services that are not currently available. Please contact the developer for assistance.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Sign in failed</string>
+    <string name="common_google_play_services_sign_in_failed_text">Error signing in the specified account. Please choose a different account.</string>
+    <string name="common_google_play_services_restricted_profile_title">Restricted Profile</string>
+    <string name="common_google_play_services_restricted_profile_text">Accessing accounts from a restricted profile is not supported.</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="cast_notification_connecting_message">Connecting to %1$s</string>
+    <string name="cast_notification_connected_message">Connected to %1$s</string>
+    <string name="cast_notification_disconnect">Disconnect</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. If the problem persists, please contact the developer for assistance.</string>
+    <string name="place_autocomplete_search_hint">Search</string>
+    <string name="place_autocomplete_clear_button">Clear search</string>
+    <string name="wallet_buy_button_place_holder">Buy with Google</string>
+    <string name="hello">導航資訊</string>
+    <string name="app_name">AR GPS NAVIGATION</string>
+    <string name="str_take_picture">導航資訊2</string>
+    <string name="help_tab_str">Help</string>
+    <string name="about_us_tab_str">About Us</string>
+    <string name="com_ok_str">OK</string>
+    <string name="com_cancel_str">CANCEL</string>
+    <string name="gps_pos_prompt">"
+Position:No GPS Signal(Please move outdoors)"</string>
+    <string name="network_ok">Network:OK</string>
+    <string name="network_ng">Network:NG</string>
+    <string name="no_gps_prompt">No GPS Signal.Please move outdoors.....</string>
+    <string name="no_target_pos_prompt">No GPS coordinates data for destination.....</string>
+    <string name="same_point_prompt">Starting position and destination position are the same!!</string>
+    <string name="no_area_code_prompt">No country code data.....</string>
+    <string name="navigation_area_prompt">Navigation function has not yet been released for this area.</string>
+    <string name="start_pos_str">Position:</string>
+    <string name="start_pos_last_str">Last Position:</string>
+    <string name="start_pos_cur_str">Current Position:</string>
+    <string name="pos_lon_str">Lon</string>
+    <string name="pos_lat_str">Lat</string>
+    <string name="no_cur_pos_prompt">Start Position:Can not obtain current position</string>
+    <string name="open_gps_prompt">Please first set GPS then restart program!!</string>
+    <string name="continue_botton_str">Continue</string>
+    <string name="speak_botton_str">Target</string>
+    <string name="write_botton_str">Target</string>
+    <string name="record_botton_str">Record</string>
+    <string name="voice_last_known_str">It is Last Known Location</string>
+    <string name="voice_dialog_update_gps_str">"Move outdoors
+ (Recommended)"</string>
+    <string name="voice_dialog_no_gps_str">No GPS signal !!</string>
+    <string name="voice_dialog_force_nav_str">"Force to 
+ Navigation"</string>
+    <string name="voice_navi_mode_str">Navi Mode</string>
+    <string name="voice_tool_str">Tool</string>
+    <string name="voice_park_str">Park/Unpark</string>
+    <string name="voice_favorite_str">Favorite</string>
+    <string name="voice_setting_str">Setting</string>
+    <string name="voice_my_location_str">Location</string>
+    <string name="voice_hud_projection_str">Project</string>
+    <string name="voice_dialog_exit_cancel_str">Cancel</string>
+    <string name="voice_dialog_exit_ok_str">Exit</string>
+    <string name="voice_dialog_exit_prompt_str">Exit?</string>
+    <string name="ar_stop_str">AR navigation function suspended (changing to Offline map )</string>
+    <string name="place_name_str">Address</string>
+    <string name="fav_addr_total_str">Total:</string>
+    <string name="fav_addr_records_str">records.</string>
+    <string name="fav_addr_export_str">Export</string>
+    <string name="fav_addr_import_str">Import</string>
+    <string name="fav_addr_import_prompt">"Sample:
+Latitude,Longtitude,Place name,Address,Description;
+Latitude,Longtitude,Place name,Address,Description;"</string>
+    <string name="fav_cur_exit_str">Exit</string>
+    <string name="fav_cur_save_str">Save</string>
+    <string name="fav_cur_address_str">"Update
+Address"</string>
+    <string name="short_name_str">Place name:</string>
+    <string name="place_desc_str">Description:</string>
+    <string name="no_address_prompt_str">Must input address !!</string>
+    <string name="cam_loc_import_prompt">"範例:
+緯度,經度,地址,方向,限速,類別;
+緯度,經度,地址,方向,限速,類別;"</string>
+    <string name="copied_to_clipboard">Copied to Clipboard!</string>
+    <string name="myloc_address_head_str">Address:</string>
+    <string name="myloc_lat_head_str">Latitude:</string>
+    <string name="myloc_lon_head_str">Longtitude:</string>
+    <string name="myloc_fav_query_str">fav query</string>
+    <string name="myloc_position_str">Position:</string>
+    <string name="myloc_no_place_found_str">No place found !!</string>
+    <string name="myloc_place_detail_str">Detail data</string>
+    <string name="myloc_place_name_str">Place name:</string>
+    <string name="myloc_nearby_place_str">Nearby place</string>
+    <string name="myloc_add_fav_str">Add favorite</string>
+    <string name="myloc_stree_view_str">Stree view</string>
+    <string name="myloc_path_str">Path</string>
+    <string name="myloc_navi_str">Navigation</string>
+    <string name="myloc_na_str">NA</string>
+    <string name="myloc_mark_str">Mark</string>
+    <string name="myloc_copy_str">Copy</string>
+    <string name="myloc_share_str">Share</string>
+    <string name="myloc_clean_mark_str">Clean mark</string>
+    <string name="myloc_mail_location">Location :</string>
+    <string name="myloc_mail_address">Address :</string>
+    <string name="myloc_mail_ongm">Location on google map</string>
+    <string name="myloc_mail_argps">Location share by AR Navigation APP:ARGPS</string>
+    <string name="myloc_mail_subject">Share Place:</string>
+    <string name="myloc_place_type_food">FOOD</string>
+    <string name="myloc_place_type_hotel">HOTEL</string>
+    <string name="myloc_place_type_atm">ATM</string>
+    <string name="myloc_place_type_convenience_store">CONVENIENCE STORE</string>
+    <string name="myloc_place_type_gas">GAS STATION</string>
+    <string name="myloc_place_type_parking">PARKING</string>
+    <string name="myloc_place_type_point_of_interest">POINT OF INTEREST</string>
+    <string name="myloc_place_type_others">OTHERS</string>
+    <string name="myloc_place_type_speak_botton_str">SPEAK TARGET</string>
+    <string name="myloc_place_type_write_botton_str">WRITE TARGET</string>
+    <string name="place_select_group_by_group">By place type group</string>
+    <string name="place_select_group_food">food</string>
+    <string name="place_select_group_clothing">clothing</string>
+    <string name="place_select_group_housing">housing</string>
+    <string name="place_select_group_hotel">HOTEL</string>
+    <string name="place_select_group_transportation">transportation</string>
+    <string name="place_select_group_shopping">shopping</string>
+    <string name="place_select_group_finance">finance</string>
+    <string name="place_select_group_interest">point_of_interest</string>
+    <string name="place_select_group_sports">sports</string>
+    <string name="place_select_group_leisure">leisure</string>
+    <string name="place_select_group_health">health</string>
+    <string name="place_select_group_medical">medical</string>
+    <string name="place_select_group_entertainment">entertainment</string>
+    <string name="place_select_group_art">art</string>
+    <string name="place_select_group_public">Public organs</string>
+    <string name="place_select_by_item">By place type item</string>
+    <string name="place_select_restaurant">restaurant</string>
+    <string name="place_select_hotel">hotel</string>
+    <string name="place_select_parking">parking</string>
+    <string name="place_select_gas_station">gas_station</string>
+    <string name="place_select_convenience_store">convenience_store</string>
+    <string name="place_select_atm">atm</string>
+    <string name="place_select_bank">bank</string>
+    <string name="place_select_point_of_interest">point_of_interest</string>
+    <string name="place_select_bus_station">bus_station</string>
+    <string name="place_select_taxi_stand">taxi_stand</string>
+    <string name="place_select_subway_station">subway_station</string>
+    <string name="place_select_train_station">train_station</string>
+    <string name="place_select_airport">airport</string>
+    <string name="place_select_car">car</string>
+    <string name="place_select_school">school</string>
+    <string name="place_select_public_organs">Public organs</string>
+    <string name="place_select_bakery">bakery</string>
+    <string name="place_select_cafe">cafe</string>
+    <string name="place_select_park">park</string>
+    <string name="place_select_movie">movie</string>
+    <string name="place_select_art_gallery">art_gallery</string>
+    <string name="place_select_museum">museum</string>
+    <string name="place_select_clothing_store">clothing_store</string>
+    <string name="place_select_laundry">laundry</string>
+    <string name="place_select_furniture_store">furniture_store</string>
+    <string name="place_detail_location_str">Location :</string>
+    <string name="place_detail_address_str">Address :</string>
+    <string name="place_detail_phon_str">Phone :</string>
+    <string name="place_detail_web_str">Website :</string>
+    <string name="place_detail_rating_str">Rating :</string>
+    <string name="place_detail_int_phone_str">International Phone :</string>
+    <string name="place_detail_url_str">URL :</string>
+    <string name="street_view_end_str">Street view end!!</string>
+    <string name="car_pos_str">Parking</string>
+    <string name="floor_area_slot_str">"Floor.Area.no
+(ex:B1.A.20):"</string>
+    <string name="unpark_navdir_str">Navi.</string>
+    <string name="unpark_mydir_str">My.</string>
+    <string name="unpark_east_str">E</string>
+    <string name="unpark_lon_str">Longitude</string>
+    <string name="unpark_lat_str">Latitude</string>
+    <string name="unpark_no_gps_str">No GPS Signal....</string>
+    <string name="unpark_compass_str">By Compass</string>
+    <string name="unpark_gps_str">By GPS</string>
+    <string name="unpark_no_position_str">No GPS Signal!!Must input Floor....</string>
+    <string name="help_install_step1_str">"Installation steps:
+1.Place your phone horizontally on the windshield."</string>
+    <string name="help_install_step2_str">"2.Adjust the phone's rotation such that the virtual road is aligned with the actual road"</string>
+    <string name="help_op_step_str">Operation Steps:The application requires network connectivity and GPS signal, the steps are as follows:</string>
+    <string name="help_op_step1_str">1. Click the \"Speak Target\" button and tell the name of the destination or address in detail.</string>
+    <string name="help_op_step2_str">2. Browse through the navigation routes, and check the destination on the map.</string>
+    <string name="help_op_step3_str">3. Navigation start.</string>
+    <string name="help_op_step4_str">4. The navigation arrow will start flashing within 120 meters of an upcoming turn.</string>
+    <string name="help_op_step5_str">5. Pay attention to the road condition and follow the navigation instructions .</string>
+    <string name="help_note_str">Note. Main navigation screen function description as following picture:</string>
+    <string name="help_attention_item_str">Attention items:</string>
+    <string name="help_attention_item1_str">1.This version is only suitable for driving and walking navigation.</string>
+    <string name="help_attention_item2_str">"2.Navigation function is released for areas:
+United States, Britain,Japan,Macao,South Korea, India,New Zealand, Australia, Ireland, Canada, Hong Kong, Singapore,Turkey, Denmark, Brazil,Belgium, Israel, Taiwan, Nicaragua, Lithuania, Iceland, Russia, France, Germany, Italy,Mexico, Thailand, Portugal, South Africa, Philippines, Vietnam,Myanmar, Ukraine, Spain, Hungary, Kenya, Greece, Norway, Poland, Finland,Argentina, Bulgaria, Latvia, Malta, Czech Republic, Netherlands, Cameroon, Slovakia, Slovenia, Austria, Estonia, Switzerland, Sweden, Luxembourg,Cyprus, Romania, People's Republic of China, Malaysia, Pakistan, Peru, United Arab Emirates, Saudi Arabia, Colombia, Indonesia,Nigeria, Oman, Iran, Egypt, Chile, Venezuela, Brunei, Algeria, Serbia, Qatar, Kuwait."</string>
+    <string name="help_attention_item3_str">3.Applicable models: Android 2.1 above phones.</string>
+    <string name="help_attention_item4_str">"4.The electronic compass recalibration methods: Choose the navigation screen,horizontal-held mobile phone and moving your phone large 8 shape in the air at least 5 times. (If the electronic compass is inacurate ,it might affect it's initial navigation direction. Once, you start driving the app will automatically fix the direction)"</string>
+    <string name="help_attention_item5_str">"DISCLAIMER:
+(1).Never do any system operation while driving.
+(2).Navigation information is just for the driver reference,the driver must pay attention to the actual road conditions,to keep driving safety.
+(3).This is a free beta version without any warranty ;without any liability, obligation or responsibility."</string>
+    <string name="help_service_mail_str">"Customer Service 
+arNavigation168@gmail.com
+"</string>
+    <string name="about_version_str">"Version: 
+AR GPS NAVIGATION Beta 51.0"</string>
+    <string name="about_copyright_str">COPYRIGHT DECLARATION:</string>
+    <string name="about_copyright1_str">1.This version is for personal users free download and trial (no time limit).</string>
+    <string name="about_copyright2_str">"2.Prohibited following behaviors except the author approved : 
+ (1) commercial profit-seeking behavior. 
+ (2) Reproduce or modify source code by reverse engineering. 
+ (3)Violating the rights or copyrights of author."</string>
+    <string name="about_copyright3_str">3.Any above behaviors will be claimed compensation in accordance with the law.</string>
+    <string name="about_service_mail_str">"
+
+168 AR Navigation
+Customer Service 
+arNavigation168@gmail.com
+"</string>
+    <string name="tab3_user_prompt_str">"1.Never do any system operation while driving.
+2.Navigation information is just for the driver reference,the driver must pay attention to the actual road conditions,to keep driving safety."</string>
+    <string name="tab3_continue_str">Continue</string>
+    <string name="rec_loop_prompt_str">30 minutes recycle recording loop</string>
+    <string name="rec_del_all_file_str">Delete all driving record video ?</string>
+    <string name="rec_ok_str">OK</string>
+    <string name="rec_cancel_str">Cancel</string>
+    <string name="rec_north_str">N</string>
+    <string name="inputedit_target_str">Name or address</string>
+    <string name="inputedit_point_str">Latitude,Longitude</string>
+    <string name="inputedit_crossroads_str">Crossroads(road name road name)</string>
+    <string name="inputedit_prompt_str">Please input one item below.</string>
+    <string name="preset_default_str">Use the default value</string>
+    <string name="preset_video_quality_str">Video</string>
+    <string name="preset_video_qh_str">HIGH Quality</string>
+    <string name="preset_video_ql_str">LOW Quality</string>
+    <string name="preset_video_auto_str">Auto Start</string>
+    <string name="preset_speech_str">Prompt voice</string>
+    <string name="preset_speech_400_str">400M</string>
+    <string name="preset_speech_300_str">300M</string>
+    <string name="preset_speech_250_str">250M</string>
+    <string name="preset_speech_200_str">200M</string>
+    <string name="preset_speech_r_str">Continuously</string>
+    <string name="preset_speech_2_str">Twice</string>
+    <string name="preset_speech_1_str">Once</string>
+    <string name="preset_speech_static_y_str">Still prompt</string>
+    <string name="preset_speech_static_n_str">Still not prompt</string>
+    <string name="preset_pathRestriction_str">Route</string>
+    <string name="preset_VoidHighway_str">Avoid Highway</string>
+    <string name="preset_VoidToll_str">Avoid Toll</string>
+    <string name="preset_route_fastest_str">Fastest</string>
+    <string name="preset_route_shortest_str">Shortest</string>
+    <string name="preset_RestrictionNote_str">(The restrictions may not be reached)</string>
+    <string name="preset_cam_alarm_str">Speed Camera Detect</string>
+    <string name="preset_cam_alarm_open_str">Open(Released Area:Taiwan)</string>
+    <string name="argps_arrive_str">Arrive!!</string>
+    <string name="argps_ok_str">OK</string>
+    <string name="argps_reroute_str">Rerouting.....</string>
+    <string name="argps_km_str">km</string>
+    <string name="argps_m_str">m</string>
+    <string name="argps_mi_str">mi</string>
+    <string name="argps_ft_str">ft</string>
+    <string name="argps_north_str">N</string>
+    <string name="argps_dir_err_str">Direction Error</string>
+    <string name="argps_gps_acu_str">Accuracy:</string>
+    <string name="argps_gps_m_str">(M)</string>
+    <string name="argps_gps_st_str">Satellites:</string>
+    <string name="argps_gps_sys_str">System:</string>
+    <string name="search_label">NavData</string>
+    <string name="settings_description">Definitions of words</string>
+    <string name="voice_recognition">App/Voice Recognition</string>
+    <string name="text_to_speech">App/Text-To-Speech</string>
+    <string name="again">Again</string>
+    <string name="ftest">Your score is %1$d out of %2$d! You &amp;lt;i>%3$s&amp;lt;/i>.</string>
+    <string name="voice_recognition_prompt">"
+目前位置
+"</string>
+    <string name="speak_button">Speak!</string>
+    <string name="voice_recognition_results">Results:</string>
+</resources>

@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LoveLetter</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!%</string>
+    <string name="title_activity_itsyou__tab_1">LoveLettter</string>
+    <string name="title_activity_itsyou_tab_2">LoveLettter</string>
+    <string name="title_activity_itsyou_tab_3">LoveLettter</string>
+    <string name="title_activity_itsyou_tab_4">LoveLettter</string>
+    <string name="get_today_date_loading_msg">오늘의 소개팅 데이터 로딩중 ..</string>
+    <string name="get_picked_date_loading_msg">그녀의 선택 데이터 로딩중 ..</string>
+    <string name="get_final_date_loading_msg">최종 선택 로딩중 ..</string>
+    <string name="get_friend_loading_msg">친구 목록을 불러오고 있습니다.</string>
+    <string name="get_chat_loading_msg">채팅 목록을 불러오고 있습니다.</string>
+    <string name="ynaction_ask_msg">서버에 저장하고 있습니다.</string>
+    <string name="picture_no_1">\#1</string>
+    <string name="picture_no_2">\#2</string>
+    <string name="picture_no_3">\#3</string>
+    <string name="picture_no_4">\#4</string>
+    <string name="picture_no_5">\#5</string>
+    <string name="picture_no_6">\#6</string>
+    <string name="initial_animation_duration">300</string>
+    <string name="what_is_final_decision"><u>최종선택 이란?</u></string>
+    <string name="msg_all_swap"><u>(설명)</u></string>
+    <string name="click_here_wire_transfer"><u>Q. 구글 결제가 되지 않아요 => Click</u></string>
+    <string name="click_here_buy_heart_error"><u>Q. 결제 완료 후 하트 지급이 되지 않아요 => Click</u></string>
+    <string name="click_here_password_forget"><u>비밀번호가 기억나지 않아요 => Click</u></string>
+    <string name="ok">확인</string>
+    <string name="yes">예</string>
+    <string name="no">아니오</string>
+    <string name="close">닫기</string>
+    <string name="cancel">취소</string>
+    <string name="gift">선물선택</string>
+    <string name="select_both">둘다선택</string>
+    <string name="top_menu_1">오늘의 소개팅</string>
+    <string name="top_menu_2">그녀의 선택</string>
+    <string name="top_menu_3">최종 선택</string>
+    <string name="top_menu_friends_list">친구 목록</string>
+    <string name="top_menu_chatting_list">채팅 목록</string>
+    <string name="today_full_title">오늘의 소개팅</string>
+    <string name="picked_full_title">그녀의 선택</string>
+    <string name="picked_full_title_female">그의 선택</string>
+    <string name="final_full_title">최종 선택</string>
+    <string name="bottom_menu_1">소개팅</string>
+    <string name="bottom_menu_2">내정보</string>
+    <string name="bottom_menu_3">채팅</string>
+    <string name="bottom_menu_4">설정</string>
+    <string name="mode_menu_default">기본 모드</string>
+    <string name="mode_menu_both">둘다 선택</string>
+    <string name="mode_menu_begging">바로 친구</string>
+    <string name="mode_menu_retry">재도전</string>
+    <string name="date_howto">진행 방법</string>
+    <string name="buy_heart">하트 충전</string>
+    <string name="my_statstics">내 소개팅 통계 보기</string>
+    <string name="picture">사진</string>
+    <string name="see_album">사진첩 보기</string>
+    <string name="see_explanation">설명 보기</string>
+    <string name="setting_alarm">알람 설정</string>
+    <string name="setting_time">소개팅 시간 설정</string>
+    <string name="setting_password">계정 비밀번호 변경</string>
+    <string name="setting_event">친구추천 이벤트</string>
+    <string name="setting_notification">공지사항</string>
+    <string name="setting_qna">문의하기</string>
+    <string name="setting_qnaAnswer">답변 확인</string>
+    <string name="setting_faq">자주 묻는 질문 (FAQ)</string>
+    <string name="setting_faq_underbar"><u>자주 묻는 질문 (FAQ)</u></string>
+    <string name="setting_introduce">러브레터 진행방법</string>
+    <string name="setting_version_current">현재 버전</string>
+    <string name="setting_version_latest">최신 버전</string>
+    <string name="setting_terms">서비스 이용약관</string>
+    <string name="setting_data_use_policy">개인정보 취급방침</string>
+    <string name="setting_pause">휴면 계정 설정/복구</string>
+    <string name="setting_logout">로그아웃</string>
+    <string name="setting_dropout"><u>계정 탈퇴/취소</u></string>
+    <string name="no_list">표시할 목록이 없습니다</string>
+    <string name="id">아이디</string>
+    <string name="password">비밀번호</string>
+    <string name="say_hi">한마디</string>
+    <string name="age">나이</string>
+    <string name="job">직업</string>
+    <string name="area">지역</string>
+    <string name="height">키</string>
+    <string name="personality_doubleline">성격</string>
+    <string name="personality">성격</string>
+    <string name="hobby">취미</string>
+    <string name="look">외모</string>
+    <string name="like">좋아요</string>
+    <string name="dislike">싫어요</string>
+    <string name="idealtype_doubleline">이상형</string>
+    <string name="idealtype">이상형</string>
+    <string name="schoolWork">커리어</string>
+    <string name="report">신고하기</string>
+    <string name="represent_picture_guide">▷<u>대표사진 기준 보기</u></string>
+    <string name="id_max_length">12</string>
+    <string name="nick_max_length">12</string>
+    <string name="password_max_length">15</string>
+    <string name="email_max_length">30</string>
+    <string name="age_max_length">2</string>
+    <string name="job_max_length">9</string>
+    <string name="height_max_length">8</string>
+    <string name="say_hi_max_length">60</string>
+    <string name="detail_info_max_length">50</string>
+    <string name="title_activity_agree">AgreeActivity</string>
+    <string name="ttp_menu_notice">공지</string>
+    <string name="ttp_menu_guide">서비스소개</string>
+    <string name="ttp_menu_contact">제휴문의</string>
+    <string name="ttp_menu_coupon">쿠폰</string>
+    <string name="ttp_title_ttp">Tap to pay</string>
+    <string name="ttp_title_term">약관동의</string>
+    <string name="ttp_title_register">서비스 가입</string>
+    <string name="ttp_title_register_auth">기존사용자 인증</string>
+    <string name="ttp_title_password">비밀번호</string>
+    <string name="ttp_title_udpate">업데이트</string>
+    <string name="ttp_title_item">상품 정보</string>
+    <string name="ttp_title_payment">결제 결과</string>
+    <string name="ttp_title_check_pay">결제 정보 체크</string>
+    <string name="ttp_title_setting">개인정보 설정</string>
+    <string name="ttp_title_setting_kids">키즈홀드</string>
+    <string name="ttp_title_payment_list">결제 내역</string>
+    <string name="ttp_title_payment_list_week">일주일</string>
+    <string name="ttp_title_payment_list_month">한달</string>
+    <string name="ttp_title_payment_list_3month">3달</string>
+    <string name="ttp_title_zipcode">우편번호 검색</string>
+    <string name="ttp_title_item_history">최근 검색 내역</string>
+    <string name="ttp_title_item_image">상세 이미지</string>
+    <string name="ttp_title_help">도움말</string>
+    <string name="ttp_title_item_guide">상품 주문안내</string>
+    <string name="ttp_title_item_detail">상품 상세정보</string>
+    <string name="ttp_title_notice">공지</string>
+    <string name="ttp_title_guide">서비스소개</string>
+    <string name="ttp_title_contact">제휴문의</string>
+    <string name="ttp_title_term1">이용 약관</string>
+    <string name="ttp_title_term2">개인정보보호</string>
+    <string name="ttp_title_term3">전자금융 서비스 이용약관</string>
+    <string name="ttp_title_term4">정보알림 수신동의</string>
+    <string name="ttp_title_term4_sub">(서비스 및 결제정보를 문자와 이메일로 알려드립니다.)</string>
+    <string name="ttp_title_coupon">쿠폰 정보</string>
+    <string name="ttp_title_coupon_list">쿠폰 내역</string>
+    <string name="ttp_title_coupon_add">쿠폰 적립</string>
+    <string name="ttp_title_coupon_use">쿠폰 사용</string>
+    <string name="ttp_title_bs_main">TTP 결제</string>
+    <string name="ttp_title_bs_item">결제정보</string>
+    <string name="ttp_title_bs_pay">구매확인</string>
+    <string name="ttp_title_pay_phone">휴대폰 결제</string>
+    <string name="ttp_title_pay_phone_auth">사용자 인증 및 결제</string>
+    <string name="ttp_title_pay_gift">상품권</string>
+    <string name="ttp_title_pay_culture">문화상품권 결제</string>
+    <string name="ttp_title_pay_game">게임문화상품권 결제</string>
+    <string name="ttp_title_pay_book">도서상품권 결제</string>
+    <string name="ttp_title_pay_happy">해피머니상품권 결제</string>
+    <string name="ttp_title_pay_teencash">틴캐시 결제</string>
+    <string name="ttp_title_pay_oncash">온캐시 결제</string>
+    <string name="ttp_title_pay_eggmoney">에그머니 결제</string>
+    <string name="ttp_title_pay_card">신용카드</string>
+    <string name="ttp_title_pay_point">포인트 결제</string>
+    <string name="ttp_title_pay_tab">구매하기</string>
+    <string name="ttp_title_pay_paypal">PayPal</string>
+    <string name="ttp_title_pay_mol">Mol Point</string>
+    <string name="ttp_title_pay_cherry">Cherry Credit</string>
+    <string name="ttp_title_pay_mycard">MyCard</string>
+    <string name="ttp_title_pay_gudang">Gudang Voucher</string>
+    <string name="ttp_title_pay_gameon">Game On</string>
+    <string name="ttp_title_pay_unipin">UniPin</string>
+    <string name="ttp_title_basket">장바구니</string>
+    <string name="ttp_title_dual_mode">결제 수단 선택</string>
+    <string name="ttp_title_app_pay_calculators">아이템 계산기</string>
+    <string name="ttp_btn_ok">확인</string>
+    <string name="ttp_btn_cancel">취소</string>
+    <string name="ttp_btn_save">저장</string>
+    <string name="ttp_btn_update">업데이트</string>
+    <string name="ttp_btn_exit">종료</string>
+    <string name="ttp_btn_auth">인증 및 가입</string>
+    <string name="ttp_btn_register">서비스 가입</string>
+    <string name="ttp_btn_register_auth">인증</string>
+    <string name="ttp_btn_register_new">새로가입</string>
+    <string name="ttp_btn_pay">구매</string>
+    <string name="ttp_btn_pay_cancel">결제취소</string>
+    <string name="ttp_btn_pay_other_payment">타 결제 수단으로 변경</string>
+    <string name="ttp_btn_pay_phone_title">휴대폰 결제 확인</string>
+    <string name="ttp_btn_pay_gift">상품권 결제동의 및 구매</string>
+    <string name="ttp_btn_pay_gift_link">상품권으로 결제</string>
+    <string name="ttp_btn_pay_card_link">신용카드로 결제</string>
+    <string name="ttp_btn_pay_auth_link">재인증 후 결제하기</string>
+    <string name="ttp_btn_pay_auth">결제동의 및 구매</string>
+    <string name="ttp_btn_pay_guide">상품 및 결제문의</string>
+    <string name="ttp_btn_pay_agree">동의 및 구매</string>
+    <string name="ttp_btn_order">주문하기</string>
+    <string name="ttp_btn_home">홈으로 이동</string>
+    <string name="ttp_btn_find">찾기</string>
+    <string name="ttp_btn_find_zip">번호 찾기</string>
+    <string name="ttp_btn_search">검색</string>
+    <string name="ttp_btn_select">선택</string>
+    <string name="ttp_btn_change">변경</string>
+    <string name="ttp_btn_item_detail">상품 상세정보</string>
+    <string name="ttp_btn_item_image">이미지 더 보기</string>
+    <string name="ttp_btn_item_guide">상품 주문안내</string>
+    <string name="ttp_btn_close">닫기</string>
+    <string name="ttp_btn_buy_multi">옵션별 복수구매</string>
+    <string name="ttp_btn_buy_single">단품구매</string>
+    <string name="ttp_btn_add_item">상품추가</string>
+    <string name="ttp_btn_remove">제거</string>
+    <string name="ttp_btn_agree">동의</string>
+    <string name="ttp_btn_agree_not">비동의</string>
+    <string name="ttp_btn_term_detail">약관 상세</string>
+    <string name="ttp_btn_caution_order">주문 유의사항</string>
+    <string name="ttp_btn_caution_bill">결제 유의사항</string>
+    <string name="ttp_btn_intro_scan">QR Code 스캔</string>
+    <string name="ttp_btn_intro_shop">TaptoPay 쇼핑</string>
+    <string name="ttp_btn_coupon_add">쿠폰 적립</string>
+    <string name="ttp_btn_coupon_use">쿠폰 사용</string>
+    <string name="ttp_btn_view">보기</string>
+    <string name="ttp_btn_setting">설정</string>
+    <string name="ttp_btn_request_auth">인증번호 요청</string>
+    <string name="ttp_btn_lg_customer"><u>LG U+ 사용자 인증하기</u></string>
+    <string name="ttp_btn_use_gift">상품권사용</string>
+    <string name="ttp_btn_login">로그인</string>
+    <string name="ttp_btn_logout">로그아웃</string>
+    <string name="ttp_btn_inquiry">잔액조회</string>
+    <string name="ttp_btn_kids">키즈홀드설정</string>
+    <string name="ttp_btn_inquiry_account">계정 잔액조회</string>
+    <string name="ttp_btn_inquiry_gift">상품권 잔액조회</string>
+    <string name="ttp_btn_reinquiry">다시 조회하기</string>
+    <string name="ttp_btn_pay_card">신용카드</string>
+    <string name="ttp_btn_pay_phone">핸드폰</string>
+    <string name="ttp_btn_pay_virtual">가상계좌</string>
+    <string name="ttp_btn_bill_google">Google Wallet</string>
+    <string name="ttp_btn_bill_ttp">텝투페이 통합결제</string>
+    <string name="ttp_btn_app_billing_calculate">아이템 계산기</string>
+    <string name="ttp_btn_app_billing_Parentheses">></string>
+    <string name="ttp_btn_enter">입력</string>
+    <string name="ttp_btn_pay_app_billing">Top up</string>
+    <string name="ttp_field_banner_bottom">추천 상품</string>
+    <string name="ttp_field_name">이름</string>
+    <string name="ttp_field_name_hint">최대5자</string>
+    <string name="ttp_field_email">이메일</string>
+    <string name="ttp_field_jumin">주민번호</string>
+    <string name="ttp_field_jumin_hint">주민 번호(숫자만) 입력</string>
+    <string name="ttp_field_phone">휴대폰번호</string>
+    <string name="ttp_field_phone_hint">휴대폰번호(숫자만) 입력</string>
+    <string name="ttp_field_provider">통신사</string>
+    <string name="ttp_field_authno">인증번호 입력</string>
+    <string name="ttp_field_keyword_hint">동(읍/면/리)</string>
+    <string name="ttp_field_autologin">자동로그인</string>
+    <string name="ttp_field_id">아이디</string>
+    <string name="ttp_field_id_hint_booknlife">북 앤 라이프 아이디</string>
+    <string name="ttp_field_id_hint_culture">컬쳐랜드 아이디</string>
+    <string name="ttp_field_id_hint_happy">해피머니 아이디</string>
+    <string name="ttp_field_id_hint_oncash">온캐시 아이디</string>
+    <string name="ttp_field_id_hint_teencash">틴캐시 아이디</string>
+    <string name="ttp_field_id_hint_eggmoney">에그머니 아이디</string>
+    <string name="ttp_field_password_confirm">확인</string>
+    <string name="ttp_field_password">비밀번호</string>
+    <string name="ttp_field_password_hint">숫자 4자리</string>
+    <string name="ttp_field_password_hint_booknlife">북 앤 라이프 비밀번호</string>
+    <string name="ttp_field_password_hint_culture">컬쳐랜드 비밀번호</string>
+    <string name="ttp_field_password_hint_happy">해피머니 비밀번호</string>
+    <string name="ttp_field_password_hint_oncash">온캐시 비밀번호</string>
+    <string name="ttp_field_password_hint_teencash">틴캐시 비밀번호</string>
+    <string name="ttp_field_password_hint_eggmoney">에그머니 비밀번호</string>
+    <string name="ttp_field_hint_app_billing_mycard_id">마이카드 아이디</string>
+    <string name="ttp_field_hint_app_billing_mycard_pin">마이카드 핀</string>
+    <string name="ttp_field_ppcard_hint_gameon">Insert Your P.P Card Code</string>
+    <string name="ttp_field_cp_name">업체명</string>
+    <string name="ttp_field_cp_tel">전화</string>
+    <string name="ttp_field_cp_addr">주소</string>
+    <string name="ttp_field_qty">구매수량</string>
+    <string name="ttp_field_price">결제금액</string>
+    <string name="ttp_field_price_won">원</string>
+    <string name="ttp_field_app_billing_exchange_rate">Exchange rate</string>
+    <string name="ttp_field_app_billing_price">Per one price</string>
+    <string name="ttp_field_app_billing_price_calculate">Calculate the amount</string>
+    <string name="ttp_field_payment_result">처리결과</string>
+    <string name="ttp_field_payment_reason">결과 상세</string>
+    <string name="ttp_field_item_name">아이템명</string>
+    <string name="ttp_field_item_price">가격</string>
+    <string name="ttp_field_item_price_sale">할인가</string>
+    <string name="ttp_field_item_detail">상품상세</string>
+    <string name="ttp_field_item_shipfee">배송비</string>
+    <string name="ttp_field_item_manufacturer">제조사</string>
+    <string name="ttp_field_item_origin">원산지</string>
+    <string name="ttp_field_item_brand">브랜드</string>
+    <string name="ttp_field_item_model">모델명</string>
+    <string name="ttp_field_item_description">설명</string>
+    <string name="ttp_field_item_option">상품 옵션</string>
+    <string name="ttp_field_item_additional">추가 구성 상품</string>
+    <string name="ttp_field_ship_name">수령인</string>
+    <string name="ttp_field_ship_name_hint">받는사람 이름을 입력하세요.</string>
+    <string name="ttp_field_ship_tel">연락처</string>
+    <string name="ttp_field_ship_tel_hint">받는사람 연락처를 입력하세요.</string>
+    <string name="ttp_field_ship_addr">주소</string>
+    <string name="ttp_field_ship_addr_hint">정확한 주소를 입력하세요.</string>
+    <string name="ttp_field_ship_zipcode">우편번호</string>
+    <string name="ttp_field_ship_zipcode_hint">우편번호</string>
+    <string name="ttp_field_ship_addr1">주소</string>
+    <string name="ttp_field_ship_addr1_hint">주소</string>
+    <string name="ttp_field_ship_addr2">상세주소</string>
+    <string name="ttp_field_ship_addr2_hint">상세주소</string>
+    <string name="ttp_field_guide_ship">배송안내</string>
+    <string name="ttp_field_guide_return">교환/반품안내</string>
+    <string name="ttp_field_guide_service">서비스문의안내</string>
+    <string name="ttp_field_mandatory">[필수]</string>
+    <string name="ttp_field_coupon_count">적립</string>
+    <string name="ttp_field_cash">보유 캐쉬</string>
+    <string name="ttp_field_save_id">아이디 기억하기</string>
+    <string name="ttp_field_gift_culture">문화상품권</string>
+    <string name="ttp_field_gift_game">게임문화상품권</string>
+    <string name="ttp_field_gift_book">도서상품권</string>
+    <string name="ttp_field_gift_happy">해피머니상품권</string>
+    <string name="ttp_field_gift_teencash">틴캐시</string>
+    <string name="ttp_field_gift_oncash">온캐시</string>
+    <string name="ttp_field_gift_no">상품권 번호</string>
+    <string name="ttp_field_gift_no_hint">상품권 번호만 입력</string>
+    <string name="ttp_field_kids">키즈홀드설정</string>
+    <string name="ttp_field_kids_jumin">생년월일</string>
+    <string name="ttp_field_kids_jumin_hint">사용자의 생년월일(900101) 입력</string>
+    <string name="ttp_field_card_type">카드종류</string>
+    <string name="ttp_field_card_expiry">유효기간(월/년)</string>
+    <string name="ttp_field_card_cvc">CVV/CVC</string>
+    <string name="ttp_field_card_password">카드비밀번호</string>
+    <string name="ttp_field_card_password_as">**</string>
+    <string name="ttp_field_card_expiry_month_hint">MM</string>
+    <string name="ttp_field_card_expiry_year_hint">YY</string>
+    <string name="ttp_field_user_order_password_hint">사용자 주문 비밀번호</string>
+    <string name="ttp_field_cp_introduce">소개</string>
+    <string name="ttp_field_vbank_input_name_hint">입금자명을 입력해 주세요.</string>
+    <string name="ttp_field_vbank_name_hint">입금은행을 선택해 주세요.</string>
+    <string name="ttp_field_card_type_hint">결제하실 카드를 선택하세요.</string>
+    <string name="ttp_field_card_number_hint">신용카드 번호를 입력해 주세요.</string>
+    <string name="ttp_field_mycard_ingame_id">MyCard ID</string>
+    <string name="ttp_field_mycard_ingame_pin">PIN</string>
+    <string name="ttp_field_item_calculate_amount">P.P Card amount</string>
+    <string name="ttp_field_receipt">이메일로 구매 영수증 받기</string>
+    <string name="ttp_field_receive_receipt">뉴스레터를 받겠습니다.</string>
+    <string name="ttp_field_use_new_email">새로운 메일 사용</string>
+    <string name="ttp_field_gameon_ppcard">P.P Card</string>
+    <string name="ttp_msg_contact_info1">"환영합니다. 여러분!!!
+탭투페이와 제휴를 원하시거나 어플리케이션 개발 관련 문의를 하실 분들은 부담 없이 문의하세요."</string>
+    <string name="ttp_msg_contact_info2">단, 아직 힘과 돈은 모자라지 않으니 대출이나 재택알바 그리고 비*그라나 씨*리스 관련 메일은 보내지 마세요.</string>
+    <string name="ttp_msg_contact_email">문의 메일 보내기 :</string>
+    <string name="ttp_msg_contact_email_address">mhmind.com@gmail.com</string>
+    <string name="ttp_msg_loading">로딩 중…</string>
+    <string name="ttp_msg_loading_pay">결제요청 중…</string>
+    <string name="ttp_msg_loading_pay_info">결제정보 요청 중…</string>
+    <string name="ttp_msg_loading_pay_cancel">결제취소 중…</string>
+    <string name="ttp_msg_loading_pay_process">결제성공 데이터 처리 중…</string>
+    <string name="ttp_msg_loading_user_register">서비스 인증처리 중…</string>
+    <string name="ttp_msg_loading_user_add">개인정보 설정 중…</string>
+    <string name="ttp_msg_loading_user_auth">기존사용자 인증 처리 중…</string>
+    <string name="ttp_msg_loading_user_login">업데이트 확인 및 인증처리 중…</string>
+    <string name="ttp_msg_loading_user_recv">사용자정보 업데이트 중…</string>
+    <string name="ttp_msg_loading_user_update_info">개인정보 변경 중…</string>
+    <string name="ttp_msg_loading_coupon">쿠폰처리 중…</string>
+    <string name="ttp_msg_loading_request_auth">인증번호 요청 중…</string>
+    <string name="ttp_msg_loading_auth_verify">인증번호 검증 중…</string>
+    <string name="ttp_msg_loading_login">로그인 중…</string>
+    <string name="ttp_msg_loading_inquiry">잔액조회 중…</string>
+    <string name="ttp_msg_error_phone">"현재 휴대폰번호가 설치 시 휴대폰번호와 다릅니다.
+TTP새로운 사용자로 등록하시겠습니까?"</string>
+    <string name="ttp_msg_error_data">서버와의 통신 중 오류가 발생했습니다.</string>
+    <string name="ttp_msg_error_set_data">"데이터 처리 중 오류가 발생했습니다.
+잠시 후 다시 시도하세요."</string>
+    <string name="ttp_msg_error_no_data">데이터가 없습니다.</string>
+    <string name="ttp_msg_error_save">"데이터 저장 중 오류가 발생했습니다.
+잠시 후 다시 시도하세요."</string>
+    <string name="ttp_msg_error_valid">"유효하지 않은 데이터가 있습니다.
+입력 항목을 다시 한번 확인해주세요."</string>
+    <string name="ttp_msg_error_mandatory">은(는) 필수입력 항목입니다.</string>
+    <string name="ttp_msg_error_wrong">이(가) 잘못되었습니다.</string>
+    <string name="ttp_msg_error_unknown">에러가 발생했습니다. 잠시 후 다시 시도하세요.</string>
+    <string name="ttp_msg_error_no_option">선택한 옵션상품이 없습니다.</string>
+    <string name="ttp_msg_error_thread">서버에 접속할 수 없습니다. 잠시 후 다시 시도하세요.</string>
+    <string name="ttp_msg_error_happy_login">로그인 실패, 해피머니 사이트에서 해피캐시가 잠긴 상태인지 확인하세요.</string>
+    <string name="ttp_msg_error_set_currency">[통화]설정이 잘못되어 있습니다.</string>
+    <string name="ttp_msg_error_no_item">존재하지 않는 상품입니다.</string>
+    <string name="ttp_msg_valid_empty_name">이름을 입력하세요.</string>
+    <string name="ttp_msg_valid_empty_password">비밀번호를 입력하세요.</string>
+    <string name="ttp_msg_valid_empty_ship_name">수령인을 입력하세요.</string>
+    <string name="ttp_msg_valid_empty_ship_tel">연락처를 입력하세요.</string>
+    <string name="ttp_msg_valid_empty_ship_zipcode">우편번호 찾기를 통해 주소를 입력하세요.</string>
+    <string name="ttp_msg_valid_empty_ship_addr2">상세주소를 입력하세요.</string>
+    <string name="ttp_msg_valid_empty_id">아이디를 입력하세요.</string>
+    <string name="ttp_msg_valid_wrong_jumin">주민등록번호가 올바르지 않습니다.</string>
+    <string name="ttp_msg_valid_wrong_password_length">비밀번호는 4자리 숫자로 입력하세요.</string>
+    <string name="ttp_msg_valid_confirm_password">비밀번호가 확인과 일치하지 않습니다.</string>
+    <string name="ttp_msg_valid_wrong_password">비밀번호가 일치하지 않습니다.</string>
+    <string name="ttp_msg_valid_no_stock">재고 없는 옵션은 선택할 수 없습니다.</string>
+    <string name="ttp_msg_valid_over_limit">구매제한 횟수를 초과했습니다.</string>
+    <string name="ttp_msg_valid_special_char">특수문자(|$^*=)는 사용 불가능 합니다.</string>
+    <string name="ttp_msg_valid_exist_option">이미 선택된 옵션입니다. 수량을 변경하세요.</string>
+    <string name="ttp_msg_valid_request_auth">인증요청을 하시고 번호를 입력하세요.</string>
+    <string name="ttp_msg_valid_over_cap">결제 가능 금액이 상품금액보다 작습니다.</string>
+    <string name="ttp_msg_valid_login">로그인 후 이용이 가능합니다.</string>
+    <string name="ttp_msg_valid_gift">상품권 번호가 올바르지 않습니다.</string>
+    <string name="ttp_msg_valid_inquiry">잔액조회 후 이용이 가능합니다.</string>
+    <string name="ttp_msg_valid_wrong_birth">생년월일이 올바르지 않습니다.</string>
+    <string name="ttp_msg_valid_empty_phone">휴대폰번호를 입력하세요.</string>
+    <string name="ttp_msg_valid_empty_ppcard">Please enter your P.P Card Code</string>
+    <string name="ttp_msg_valid_length_ppcard">Please enter 25 digit P.P Card Code</string>
+    <string name="ttp_msg_valid_empty_pin">핀을 입력하세요.</string>
+    <string name="ttp_msg_valid_empty_amount">가격을 입력하세요.</string>
+    <string name="ttp_msg_valid_wrong_card_number">카드 번호가 올바르지 않습니다.</string>
+    <string name="ttp_msg_valid_wrong_card_cvs">CVC 번호가 올바르지 않습니다.</string>
+    <string name="ttp_msg_valid_wrong_card_expiry">카드 유효기간이 올바르지 않았습니다.</string>
+    <string name="ttp_msg_valid_card_not_select">카드종류를 선택되지 않았습니다.</string>
+    <string name="ttp_msg_valid_currency_no_select">통화를 선택되지 않았습니다.</string>
+    <string name="ttp_msg_valid_wrong_email">올바른 이메일을 입력하세요.</string>
+    <string name="ttp_msg_pay_result_failure">취소</string>
+    <string name="ttp_msg_pay_failure">"결제가 취소되었습니다.
+결과 상세 내용을 확인하시기 바랍니다."</string>
+    <string name="ttp_msg_pay_failure_auth">"죄송합니다. 인증오류로 결제가 이루어지지 않았습니다.
+사용자 인증을 위하여 결제정보 입력 후 인증번호를 입력 후 결제하여 주십시오. (최초1회)"</string>
+    <string name="ttp_msg_pay_success">"결제가 성공적으로 처리되었습니다.
+결제하신 내역은 결제내역에서 확인가능 합니다."</string>
+    <string name="ttp_msg_pay_cancel_success">결제취소가 성공적으로 처리되었습니다.</string>
+    <string name="ttp_msg_pay_cancel_failure">"결제취소가 실패했습니다.
+결과상세 내용을 확인하시기 바랍니다."</string>
+    <string name="ttp_msg_pay_closing">"결제과정을 종료하고 있습니다.
+잠시 기다려 주세요."</string>
+    <string name="ttp_msg_pay_norefund">* 본 상품은 청약철회 불가 상품입니다.</string>
+    <string name="ttp_msg_pay_confirm">현금 %s이 결제됩니다. 정말로 결제하시겠습니까?</string>
+    <string name="ttp_msg_pay_confirm2">(휴대폰 결제요금에 합산청구되는 휴대폰 소액결제로 결제합니다.)</string>
+    <string name="ttp_msg_pay_confirm_sms">최초 SMS인증 요청 후 3분 이내 인증번호가 오지 않으면 인증번호 요청 버튼을 한번만 더 눌러주세요.</string>
+    <string name="ttp_msg_pay_request_auth_sucess">인증번호 요청을 성공 했습니다.</string>
+    <string name="ttp_msg_coupon_nolist">쿠폰내역이 없습니다.</string>
+    <string name="ttp_msg_coupon_not_enough">적립된 쿠폰이 모자랍니다.</string>
+    <string name="ttp_msg_coupon_add_ask">쿠폰을 적립하시겠습니까?</string>
+    <string name="ttp_msg_coupon_add_success">쿠폰이 적립되었습니다.</string>
+    <string name="ttp_msg_coupon_use_ask">쿠폰을 사용하시겠습니까?</string>
+    <string name="ttp_msg_coupon_use_success">쿠폰이 사용되었습니다.</string>
+    <string name="ttp_msg_term">"서비스 사용을 위해서는 본인명의의 휴대폰인증이 필요합니다.
+개인정보는 단말기에 안전하게 저장됩니다."</string>
+    <string name="ttp_msg_term1_agree">결제이용약관에 동의합니다.</string>
+    <string name="ttp_msg_term2_agree">개인정보정책에 동의합니다.</string>
+    <string name="ttp_msg_term1_short">이 약관은 (주)엠에이치마인드(이하회사라 함)가 운영하는 애플리케이션…</string>
+    <string name="ttp_msg_term2_short">주식회사 엠에이치마인드는 (이하회사는) 고객님의 개인정보를 중요시하며…</string>
+    <string name="ttp_msg_term3_short">이 약관은 (주)엠에이치마인드(이하회사라 함)가 운영하는…</string>
+    <string name="ttp_msg_term_not_agree">약관에 동의 하지 않았습니다.</string>
+    <string name="ttp_msg_register">"비밀번호는 어플리케이션 실행과 결제 시 사용됩니다.
+개인정보는 안전하게 저장되며 비밀번호는 휴대폰 분실시에도 결제도용을 막기 위한 안전장치 입니다."</string>
+    <string name="ttp_msg_register_auth">"기존에 가입한 주민번호를 입력하세요.
+비밀번호는 입력된 내용으로 새로 적용됩니다."</string>
+    <string name="ttp_msg_register_item">결제를 위해서는 서비스가입이 필요합니다.</string>
+    <string name="ttp_msg_register_coupon">쿠폰적립을 위해서는 서비스가입이 필요합니다.</string>
+    <string name="ttp_msg_password_info">"가입시 입력한 비밀번호(숫자4자리)를 입력하세요.
+비밀번호를 잊어버리신 경우 어플리케이션 삭제 후 다시 다운받아서 사용하시기 바랍니다."</string>
+    <string name="ttp_msg_update">"새로운 버젼이 있습니다.
+업데이트 하시겠습니까?"</string>
+    <string name="ttp_msg_update_not_support">"해당 상품정보에 현재 버젼에서 지원할 수 없는 형식이 있습니다.
+업데이트를 해야 상품결제가 가능합니다.
+업데이트 하시겠습니까?"</string>
+    <string name="ttp_msg_empty">검색된 데이터가 없습니다.</string>
+    <string name="ttp_msg_setting_save">개인정보가 저장되었습니다.</string>
+    <string name="ttp_msg_setting_save_jumin">주민등록번호가 변경되었습니다.</string>
+    <string name="ttp_msg_setting_kids_save">키즈홀드 설정정보가 변경되었습니다.</string>
+    <string name="ttp_msg_limit_free_shipping">이상 결제 시 무료배송</string>
+    <string name="ttp_msg_free_shipping">무료배송</string>
+    <string name="ttp_msg_qr_not_support">TTP에서 제공하는 형식이 아닙니다.</string>
+    <string name="ttp_msg_cart_info">옵션을 선택하면 상품이 추가됩니다.</string>
+    <string name="ttp_msg_bs_info1">"1. 반드시 사용자 명의의 주민번호로 입력하셔야 됩니다. (최초1회)
+
+2. 결제대금은 다음달 휴대폰요금에 합산 청구되며 “다날 휴대폰 소액결제”로 표시됩니다. (통신사에 따라 다르게 표시될 수 있습니다.)
+
+3. LG U+고객님께서는 LG U+ 고객 인증을 받으실 수 있습니다. (권장)"</string>
+    <string name="ttp_msg_bs_info2">"
+4. 인증번호가 발송되지 않으니 구매시 유의하시기 바랍니다."</string>
+    <string name="ttp_msg_bs_pay">구매하겠습니다.</string>
+    <string name="ttp_msg_phone_auth_info1">"1. 결제 전 결제약관 및 개인정보정책을 확인 바랍니다. 
+
+2. 반드시 명의자의 주민번호를 입력하세요.
+
+3. SMS로 전달된 인증번호를 입력하신 후 아래의 결제동의 및 구매 버튼을 터치하면 구매가 완료됩니다.
+
+4. 1,000원 미만의 상품은 결제되지 않을 수도 있습니다."</string>
+    <string name="ttp_msg_phone_auth_info2">"
+3. 재구매시에는 인증번호가 발송되지 않으니 유의하시기 바랍니다."</string>
+    <string name="ttp_msg_culture_info">"1. 문화상품권으로 상품을 구매하기 위해서는 컬처랜드 아이디/비밀번호로 “계정잔액조회”를 하셔야 합니다.
+
+2. 캐쉬 관리는 컬처랜드 웹사이트(www.cultureland.co.kr)에서 하실 수 있습니다.
+
+3. 컬처랜드 고객센터 (02–562–5300) 
+
+4. 휴대폰번호는 결제내역 확인용으로만 사용됩니다."</string>
+    <string name="ttp_msg_game_info1">"1. 소유하신 게임문화상품권의 PIN 번호로 잔액조회 하신 후 아래의 구매 버튼을 터치해 주세요. 
+
+2. 휴대폰번호는 결제내역 확인용으로만 사용됩니다."</string>
+    <string name="ttp_msg_book_info">"1. 도서문화상품권으로 상품을 구매하기 위해서는 북앤라이프 아이디/비밀번호로 “계정잔액조회”를 하셔야 합니다.
+
+2. 캐쉬 관리는 북앤라이프 웹사이트(www.booknlife.com)에서 하실 수 있습니다.
+
+3. 북앤라이프 고객센터 (1544–5111) 
+
+4. 휴대폰번호는 결제내역 확인용으로만 사용됩니다."</string>
+    <string name="ttp_msg_happy_info">"1. 해피머니상품권으로 상품을 구매하기 위해서는 해피머니 아이디/비밀번호로 “계정잔액조회”를 하셔야 합니다.
+
+2. 캐쉬 관리는 해피머니 웹사이트(www.happymoney.co.kr)에서 하실 수 있습니다.
+
+3. 해피머니 고객센터 (1588–5245) 
+
+4. 휴대폰번호는 결제내역 확인용으로만 사용됩니다."</string>
+    <string name="ttp_msg_teencash_info">"1. 틴캐시로 상품을 구매하기 위해서는 상품권 번호로 잔액조회 또는 틴캐시 아이디/비밀번호로 “계정잔액조회”를 하셔야 합니다. 
+
+2. 틴캐시 관리는 틴캐시 웹사이트(www.teencash.co.kr)에서 하실 수 있습니다. 
+
+3. 틴캐시 고객센터(1666–3009) 
+
+4. 휴대폰번호는 결제내역 확인용으로만 사용됩니다."</string>
+    <string name="ttp_msg_oncash_info">"1. 온캐시로 상품을 구매하기 위해서는 상품권 번호로 잔액조회 또는 온캐시 아이디/비밀번호로 “계정잔액조회”를 하셔야 합니다. 
+
+2. 온캐시 관리는 온캐시 웹사이트(www.oncash.co.kr)에서 하실 수 있습니다. 
+
+3. 온캐시 고객센터 (1588–1991) 
+
+4. 휴대폰번호는 결제내역 확인용으로만 사용됩니다."</string>
+    <string name="ttp_msg_kids_info">키즈홀드(Kids hold)를 사용하시면 어린자녀들의 결제오용을 방지하실 수 있습니다.</string>
+    <string name="ttp_msg_kids_input">사용자의 생년월일을 입력해 주세요.</string>
+    <string name="ttp_msg_kids_guide">설정메뉴에서 키즈홀드 기능을 사용하여 어린 자녀들의 결제오용을 방지하실 수 있습니다.</string>
+    <string name="ttp_msg_card_info">1. 1,000원 미만의 상품은 결제되지 않을 수도 있습니다.</string>
+    <string name="ttp_msg_card_info2">2. 휴대폰번호는 결제내역 확인용으로만 사용됩니다.</string>
+    <string name="ttp_msg_eggmoney_info">"1. 소유하신 에그머니상품권의 PIN 번호로 잔액조회 하신 후 아래의 구매버튼을 터치해 주세요. 
+
+2. 휴대폰번호는 결제내역 확인용으로만 사용됩니다."</string>
+    <string name="ttp_msg_bill_ttp">(휴대폰, 상품권, 신용카드 통합결제)</string>
+    <string name="ttp_msg_bill_google">(Credit Card &amp; Phone Bill)</string>
+    <string name="ttp_msg_push_back_pressed">화면내에 있는 취소 또는 닫기 버튼을 눌러주세요.</string>
+    <string name="ttp_msg_app_billing_info">"1. Only Supports one-time charge 
+"</string>
+    <string name="ttp_msg_app_billing_info2">"2. You can calculate how many virtual cash you'll get via &lt;u>&lt;b>&lt;font color=#B45F04>Item Calculator&lt;/font>&lt;/b>&lt;/u>"</string>
+    <string name="ttp_msg_app_billing_info3">"
+3. This action can't be canceled after completion. 
+
+4. Your phone number will be used only for checking payment history."</string>
+    <string name="ttp_msg_exceed_amount">Exceeded the amount of price that can be entered.</string>
+    <string name="ttp_msg_paypal_info" />
+    <string name="ttp_msg_mol_ewallet_info" />
+    <string name="ttp_msg_user_order_password_not">사용자 주문 비밀번호를 입력하세요.</string>
+    <string name="ttp_msg_user_order_password_length">사용자 주문 비밀번호는 4자리로 입력하세요.</string>
+    <string name="ttp_msg_select_paymethod">결제방법을 선택해 주세요.</string>
+    <string name="ttp_msg_vbank_input_name_not_input">가상계좌 입금자명을 입력해 주세요.</string>
+    <string name="ttp_msg_vbank_name_not_select">입금은행을 선택해 주세요.</string>
+    <string name="ttp_msg_file_down">파일을 내려받습니다. 잠시만 기다려 주세요.</string>
+    <string name="ttp_desc_no" />
+    <string name="ttp_desc_qty_minus">수량감소</string>
+    <string name="ttp_desc_qty_plus">수량증가</string>
+    <string name="ttp_desc_delete">삭제</string>
+    <string name="ttp_desc_help">도움말</string>
+    <string name="ttp_desc_add">추가</string>
+    <string name="ttp_desc_select">선택</string>
+    <string name="ttp_desc_item">상품</string>
+    <string name="ttp_desc_logo">로고</string>
+    <string name="ttp_desc_bg_intro">인트로 배경</string>
+    <string name="ttp_desc_stamp">쿠폰</string>
+    <string name="ttp_desc_cp">가맹점</string>
+    <string name="ttp_desc_reload">RE</string>
+    <string name="ttp_desc_qty_1">1</string>
+    <string name="ttp_desc_link_shopping">Tap to Pay 쇼핑</string>
+    <string name="ttp_desc_link_scan">QR코드 검색</string>
+    <string name="ttp_desc_link_history">검색기록</string>
+    <string name="ttp_desc_link_setting">개인정보설정</string>
+    <string name="ttp_desc_link_payment_list">결제내역</string>
+    <string name="error_config">Please set the %1$s constant and recompile the app.</string>
+    <string name="ttp_msg_couponmode">"- 보유하고 계신 쿠폰의 쿠폰번호를 정확히 입력해 주세요
+- 쿠폰은 재사용이 불가능 합니다.
+- 관련 문의는 개발사로 연락 바랍니다."</string>
+    <string name="ttp_msg_coupon_inputerr">쿠폰 번호를 정확하게 입력해 주세요!</string>
+    <string name="ttp_msg_coupon_title">쿠폰 등록</string>
+    <string name="ttp_msg_coupon_complete_ok">쿠폰등록에 성공하였습니다.</string>
+    <string name="ttp_msg_coupon_complete_fail">쿠폰등록에 실패하였습니다.</string>
+</resources>

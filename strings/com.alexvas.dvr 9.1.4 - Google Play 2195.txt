@@ -1,0 +1,1313 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="exo_controls_fastforward_description">Fast forward</string>
+    <string name="exo_controls_next_description">Next track</string>
+    <string name="exo_controls_pause_description">Pause</string>
+    <string name="exo_controls_play_description">Play</string>
+    <string name="exo_controls_previous_description">Previous track</string>
+    <string name="exo_controls_repeat_all_description">Repeat all</string>
+    <string name="exo_controls_repeat_off_description">Repeat none</string>
+    <string name="exo_controls_repeat_one_description">Repeat one</string>
+    <string name="exo_controls_rewind_description">Rewind</string>
+    <string name="exo_controls_shuffle_description">Shuffle</string>
+    <string name="exo_controls_stop_description">Stop</string>
+    <string name="s1">Save image</string>
+    <string name="s2">Allow Ad to store image in Picture gallery?</string>
+    <string name="s3">Accept</string>
+    <string name="s4">Decline</string>
+    <string name="s5">Create calendar event</string>
+    <string name="s6">Allow Ad to create a calendar event?</string>
+    <string name="s7">Test Ad</string>
+    <string name="search_menu_title">Search</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="app_description">Complete solution for mobile surveillance</string>
+    <string name="archive_empty">No %1$s recordings found</string>
+    <string name="archive_title">Archive viewer</string>
+    <string name="audio_change_codec">Unsupported codec. Switch camera audio codec to %1s.</string>
+    <string name="audio_disabled">Audio transmitting disabled or not supported by this cam</string>
+    <string name="audio_upgrade">1 minute audio demo. Upgrade to PRO version to unlock.</string>
+    <string name="automation_audio_alarm_detected">Audio alarm detected</string>
+    <string name="automation_close_floating_window">Stop floating window</string>
+    <string name="automation_command_num">Tasker command %1$d</string>
+    <string name="automation_commands">Tasker commands</string>
+    <string name="automation_motion_detected">Motion detected</string>
+    <string name="automation_signal_motion_detected">Create \"motion detected\" event</string>
+    <string name="automation_signal_motion_not_detected">Create \"motion not detected\" event</string>
+    <string name="automation_start_app_with_multiple_cams">Start app with multiple cameras</string>
+    <string name="automation_start_app_with_single_cam">Start app with single camera</string>
+    <string name="automation_start_background">Start background mode</string>
+    <string name="automation_start_background_audio">Start background audio</string>
+    <string name="automation_start_floating_window">Start floating window</string>
+    <string name="automation_start_google_cast">Start Google Cast</string>
+    <string name="automation_start_listening">Start listening</string>
+    <string name="automation_start_recording">Start recording</string>
+    <string name="automation_start_sequence_mode">Start sequence mode</string>
+    <string name="automation_start_video">Start video</string>
+    <string name="automation_start_web_server">Start web server</string>
+    <string name="automation_stop_background">Stop background mode</string>
+    <string name="automation_stop_background_audio">Stop background audio</string>
+    <string name="automation_stop_google_cast">Stop Google Cast</string>
+    <string name="automation_stop_listening">Stop listening</string>
+    <string name="automation_stop_recording">Stop recording</string>
+    <string name="automation_stop_sequence_mode">Stop sequence mode</string>
+    <string name="automation_stop_video">Stop video</string>
+    <string name="automation_stop_web_server">Stop web server</string>
+    <string name="background_files_remaining">%d file(s) remaining</string>
+    <string name="background_mode_cpu">CPU: %1d%%</string>
+    <string name="background_mode_free_space">Free: %1$s</string>
+    <string name="background_mode_notif_stat">In: %1$d KB/s, Rec: %2$d KB/s @ %3$s fps</string>
+    <string name="background_mode_notif_title">Background cameras: %1$d</string>
+    <string name="background_mode_title">Background mode</string>
+    <string name="background_record_audio">Record audio</string>
+    <string name="background_uploading_to">Uploading to %s</string>
+    <string name="background_warn_plug">Plug your device into power adapter for longer usage</string>
+    <string name="background_warn_wifi">Connect to Wi-Fi network for better experience</string>
+    <string name="cast_button_menu">Cast to…</string>
+    <string name="cast_loading">Loading…</string>
+    <string name="cast_notif_stat">In: %1$d KB/s, Out: %2$d KB/s</string>
+    <string name="cast_to_device">Casting \"%1$s\"</string>
+    <string name="conn_status_empty_hostname">Specify non-empty hostname</string>
+    <string name="conn_status_error_fatal">Fatal error. Try to change codec</string>
+    <string name="conn_status_error_internal">Internal error</string>
+    <string name="conn_status_forbidden">Forbidden</string>
+    <string name="conn_status_gateway_timeout">Gateway timeout</string>
+    <string name="conn_status_no_connection">No network connection</string>
+    <string name="conn_status_no_content">No content</string>
+    <string name="conn_status_not_found">Not found</string>
+    <string name="conn_status_not_implemented">Not implemented</string>
+    <string name="conn_status_ok">OK</string>
+    <string name="conn_status_proxy_unauthorized">Proxy authentication required</string>
+    <string name="conn_status_unauthorized">Unauthorized</string>
+    <string name="conn_status_unavailable">Unavailable</string>
+    <string name="conn_status_unknown">Unknown</string>
+    <string name="conn_status_wifi_not_connected">WiFi is not connected</string>
+    <string name="dialog_button_add">Add</string>
+    <string name="dialog_button_allow">Allow</string>
+    <string name="dialog_button_auto">Auto</string>
+    <string name="dialog_button_buy">Buy</string>
+    <string name="dialog_button_cancel">Cancel</string>
+    <string name="dialog_button_close">Close</string>
+    <string name="dialog_button_continue">Continue</string>
+    <string name="dialog_button_default">Default</string>
+    <string name="dialog_button_disable">Disable</string>
+    <string name="dialog_button_enable">Enable</string>
+    <string name="dialog_button_exit">Exit</string>
+    <string name="dialog_button_export">Export</string>
+    <string name="dialog_button_go">Go</string>
+    <string name="dialog_button_import">Import</string>
+    <string name="dialog_button_link">Link</string>
+    <string name="dialog_button_new">New</string>
+    <string name="dialog_button_no">No</string>
+    <string name="dialog_button_not_now">Not now</string>
+    <string name="dialog_button_ok">OK</string>
+    <string name="dialog_button_pause">Pause</string>
+    <string name="dialog_button_rate">Rate!</string>
+    <string name="dialog_button_restore">Restore</string>
+    <string name="dialog_button_resume">Resume</string>
+    <string name="dialog_button_save">Save</string>
+    <string name="dialog_button_select">Select</string>
+    <string name="dialog_button_share">Share</string>
+    <string name="dialog_button_unlink">Unlink</string>
+    <string name="dialog_button_yes">Yes</string>
+    <string name="dialog_delete_text">Would you like to delete all cameras?</string>
+    <string name="dialog_delete_title">Delete all cameras</string>
+    <string name="dialog_export_cloud_confirm">Would you like to export cameras to %1$s? All current cameras at cloud will be overridden. You may use cloud web interface to rollback your changes at any time.</string>
+    <string name="dialog_export_dir">Export directory</string>
+    <string name="dialog_export_text">Export path</string>
+    <string name="dialog_exported">Exported</string>
+    <string name="dialog_import_confirm">Would you like to import cameras? All previously assigned cameras will be deleted.</string>
+    <string name="dialog_import_text">Import path</string>
+    <string name="dialog_imported">Imported</string>
+    <string name="dialog_importing_text">"FREE version installation detected. You can manually import all your cameras from FREE version into PRO.
+
+ 1. In FREE version go to \"Manage Cameras\" window, press \"+\", and choose \"Export cams to local storage\".
+
+ 2. In PRO version in \"Manage Cameras\" choose \"Import cams from local storage\".
+
+ After that you can safely uninstall FREE version."</string>
+    <string name="dialog_importing_title">Importing cameras</string>
+    <string name="dialog_invalid_license_text">"This app is not licensed. Please purchase it from %1$s.
+
+ If you have the legitimately purchased app:
+ 1) Wait a little bit until %1$s caches the license on your device
+ 2) Contact the author for assistance if this dialog still constantly pops up"</string>
+    <string name="dialog_invalid_license_title">App not licensed</string>
+    <string name="dialog_login_camera_text">Camera \"%1$s\" authorization required</string>
+    <string name="dialog_login_password">Password:</string>
+    <string name="dialog_login_username">Username:</string>
+    <string name="dialog_outofmemory_text">"Not enough memory. Use less cameras by disabling unused ones or choose layout with less cameras.
+If some cameras will be unable to show after this error you will need to force to stop this app and run it again."</string>
+    <string name="dialog_outofmemory_title">Internal error</string>
+    <string name="dialog_passcode_fingerprint">Use fingerprint to unlock</string>
+    <string name="dialog_passcode_login">Enter passcode to login</string>
+    <string name="dialog_passcode_new">Enter new passcode</string>
+    <string name="dialog_passcode_verify">Verify new passcode</string>
+    <string name="dialog_ptz_preset_goto_title">Go to preset</string>
+    <string name="dialog_ptz_preset_save_text">Save the current PTZ position as preset?</string>
+    <string name="dialog_ptz_preset_save_title">Save preset</string>
+    <string name="dialog_random_text">Would you like to automatically assign random public cameras? Press Yes if you are installing this app for the first time.</string>
+    <string name="dialog_random_text2">Would you like to assign random public cameras? All previously assigned cameras will be deleted.</string>
+    <string name="dialog_random_title">Assign random cameras</string>
+    <string name="dialog_rate_critical_feedback_question">Would you like to send us feedback to make the app better?</string>
+    <string name="dialog_rate_no">NOT REALLY</string>
+    <string name="dialog_rate_no_thanks">NO, THANKS</string>
+    <string name="dialog_rate_opinion_question">Enjoying the app?</string>
+    <string name="dialog_rate_positive_feedback_question">Awesome! How about to rate it to keep us developing free updates?</string>
+    <string name="dialog_rate_sure">SURE!</string>
+    <string name="dialog_rate_text">Like the app? Please rate it to keep us developing free updates! Thank you!</string>
+    <string name="dialog_rate_thanks">Thanks for your feedback!</string>
+    <string name="dialog_rate_title">Rate it!</string>
+    <string name="dialog_rate_yes">YES, A LOT!</string>
+    <string name="dialog_secure_connection">The connection is encrypted. This prevents an unauthorized person from intercepting video/audio stream or stealing your credentials.</string>
+    <string name="dialog_snapshot_saved">Image saved to Gallery</string>
+    <string name="dialog_welcome_text"><b>tinyCam Monitor</b> is a native Android app <b>for remote surveillance, control and digital video recording</b>" for your private or public network/IP cameras, video encoders and DVRs.
+
+ Be sure to use for 3G/4G flat-rate data plan or Wi-Fi connection.
+
+
+ "<b>FEATURES OF TINYCAM MONITOR:</b>"
+ - MPEG-4/H.264/H.265 codec (SW and HW) for many cameras via RTSP protocol.
+ - ONVIF cameras support.
+ - P2P cameras support.
+ - H.264 codec support for FOSCAM HD models.
+ - M-JPEG support of all major camera brands (150+).
+ - [PRO] 2-way audio (talking and listening) for some models.
+ - [PRO] SSL support (HTTPS protocol).
+ - [PRO] 14 different layouts.
+ - Control PTZ (pan-tilt-zoom) enabled devices.
+ - Relay, LED control for some models.
+ - [PRO] MP4 video recording (Android 4.3+) and JPEG recording on local storage, FTP/FTPS server, or cloud service.
+ - Sequence mode for automatic cameras switching.
+ - Easy to use pinch to zoom for digital zooming and swipes for camera selection.
+ - Support for any USB/laptop cams through 3d party software for PC/Mac (see FAQ).
+
+
+ "<b>UNIQUE FEATURES:</b>"
+ - [PRO] The only app in the market which supports both in-app and on-camera motion detection (selective models). Make automatic snapshots or play alert sound on motion!
+ - [PRO] Face detection.
+ - LAN scanner for automatic cams detection. Have a camera IP address suddenly changed? It takes couple minutes to fully rescan your home network.
+ - [PRO] Audio real-time processing (squelch &amp; alarm) for using it as a baby monitor with audio graph.
+ - [PRO] Audio monitoring from multiple cameras at once.
+ - [PRO] Multiple background audio.
+ - [PRO] Sensors support (e.g. temperature sensor, humidity, etc.) for some cameras.
+ - [PRO] Google Cast™ Ready (Chromecast).
+ - [PRO] Widgets, floating window and home screen camera shortcuts.
+ - [PRO] Tasker/Locale automation plugin.
+ - [PRO] Android Wear support.
+ - [PRO] Background mode for constant recording (DVR mode).
+ - [PRO] Internal web server for remote access.
+ - [PRO] TV interface (Android TV, Amazon Fire TV).
+
+ "</string>
+    <string name="dialog_worldscope_install">Install WorldScope Webcams</string>
+    <string name="dialog_worldscope_text1">1. To get more webcams please <b>install free WorldScope Webcams</b>" for Android - official Webcams.travel app for accessing thousands cams database.
+"</string>
+    <string name="dialog_worldscope_text2">"
+2. "<b>Start WorldScope</b> app and search for cameras which have \"<b>Streaming video</b>"\" capability.
+
+ 3. tinyCam Monitor "<b>will be automatically used</b>" for live view, record and import webcams.
+
+ 4. View "<b>how it works</b>" on YouTube.
+"</string>
+    <string name="dialog_worldscope_text3"><i>"WorldScope Webcams for Android
+www.worldscopemobile.com
+Webcams travel
+www.webcams.travel"</i></string>
+    <string name="dialog_worldscope_title">Webcams.travel cams</string>
+    <string name="dialog_worldscope_youtube">How it works</string>
+    <string name="email_share_subject">Camera \"%1$s\"</string>
+    <string name="error_audio_failed1">Audio failed (%1$s)</string>
+    <string name="error_browser_not_started">Error: Browser cannot be started</string>
+    <string name="error_command_failed">Command failed (%1$d - %2$s)</string>
+    <string name="error_fatal_exception">Previous crash detected. Please submit crash report to developer.</string>
+    <string name="error_no_private_ip_on_mobile">Cannot access private IP address (%1$s) from mobile network. Use public IP address (see FAQ).</string>
+    <string name="error_no_response">No response from server</string>
+    <string name="error_not_http_connection">Not an HTTP connection</string>
+    <string name="error_shortcut_name">Failed to find \"%1$s\". Repin the camera.</string>
+    <string name="error_timeout">Timeout, check hostname and port number</string>
+    <string name="error_unauthorized">Check username and password</string>
+    <string name="error_video_failed1">Video failed (%1$s)</string>
+    <string name="error_video_failed2">Video failed (%1$d - %2$s)</string>
+    <string name="event_now">Now</string>
+    <string name="event_pinned">Pinned</string>
+    <string name="event_today">Today</string>
+    <string name="event_yesterday">Yesterday</string>
+    <string name="feature_unavailable">This feature is available only in PRO version</string>
+    <string name="floating_notif_stat">Receive: %1$d KB/s</string>
+    <string name="floating_notif_title">Floating windows: %1$s</string>
+    <string name="go_pro">Go PRO!</string>
+    <string name="help_about">"%1$s v%2$s
+
+Support: %3$s
+Web: %4$s
+
+
+%5$s
+
+"</string>
+    <string name="help_button_youtube">Promo</string>
+    <string name="help_button_youtube_upgrade">Why to upgrade</string>
+    <string name="help_faq">" "<b>1. HOW TO ADD MY IP CAMERA?</b>"
+
+ - Go in \"Manage Cameras\" window. Press Menu and select \"Add camera\". In \"Camera Settings\" you have to specify your camera brand, model, hostname, and port number. Press Back button to see the live video coming out from the camera.
+
+ The easiest way to automatically add all your cameras is to "<b>use Scan Network</b>".
+
+
+
+ "<b>2. MY CAMERA IS NOT SUPPORTED. CAN YOU ADD SUPPORT FOR IT?</b>"
+
+ - Please provide us a temp access to your camera (see email in \""<b>About</b>"\" tab). We will take a look.
+
+
+
+ "<b>3. I CANNOT ACCESS MY CAMS FROM MOBILE NETWORK, BUT THEY DO WORK WITH LOCAL WIFI CONNECTION. WHAT ARE THE REQUIRED STEPS TO ENABLE BROADCASTING?</b>"
+
+ - You need to setup "<b>port forwarding</b> on your router. Port forwarding forwards all traffic from your private camera to external network, e.g. from <i>192.168.0.3:8080</i> to <i>your_external_ip:8080</i>". Read the router manual for how to do that or contact your system network administrator. Enter your external IP address and port number in tinyCam Monitor when you're done.
+
+ You can also use a free step-by-step tutorial from "<i>www.portforward.com</i>"
+
+ Usually DSL connections renew their IP addresses after 24 hours. "<b>Use DDNS service</b> to get fixed domain name, e.g. <i>www.no-ip.com</i> or <i>www.dyndns.com</i>".
+
+
+
+ "<b>4. HOW CAN I CONNECT TO MY USB/LAPTOP CAMERA?</b>"
+
+ - You need to install on your PC either "<b>webcamXP</b>, <b>AbelCam</b> or <b>Yawcam</b>" software which support USB cams broadcasting. For the brand name select Windows in tinyCam Monitor's Camera Settings.
+
+ For Mac computers we support "<b>EvoCam</b>, <b>RemoteSight</b> (recommended), <b>SecuritySpy</b>" software.
+
+ For Linux we support "<b>Motion</b>, <b>MJPG-streamer</b>, <b>ZoneMinder</b>".
+
+ For Android - "<b>IP Webcam</b> (recommended), <b>FRITZ! App Cam Lab</b>, <b>Camera WiFi LiveStream</b>, <b>Ocular IP Webcam.</b>"
+
+ For iOS - "<b>AirBeam</b>, <b>IP Cam Pro</b>, <b>iPCamera - High-End Network Camera</b>" (recommended).
+
+
+
+ "<b>5. HOW CAN I VIEW LIVE VIDEO FROM ANOTHER ANDROID DEVICE?</b>"
+
+ - Please install a free Android app called "<b>IP Webcam</b>" on another device. It allows using this device as an IP camera (video, audio, auto focus, LED on/off). Use tinyCam Monitor for IP Webcam monitoring.
+
+
+
+ "<b>6. HOW CAN I MONITOR MY WEBCAM?</b>"
+
+ - Open your webcam on a web browser on your PC/Mac. Check live image properties by right clicking on the image and find the full web image address. It should looks like \"http://www.myweb.com/image.jpg\"
+
+ Create a new camera in tinyCam Monitor by using brand \"(Generic)\". Into \"JPEG/MJPEG/RTSP request\" field please enter \"http://www.myweb.com/image.jpg\" (without quotes). You should be able to see live video on your Android device.
+
+
+
+ "<b>7. HOW TO ADD MORE WEBCAMS?</b>"
+
+ - To get more webcams please "<b>install free WorldScope Webcams</b> for Android (<i>www.worldscopemobile.com</i>) - official Webcams.travel app for accessing thousands cams database. Start WorldScope app and search for cameras which have <b>Streaming video</b>" capability. tinyCam Monitor will be automatically used for live view, record and import webcams.
+
+
+
+ "<b>8. WHAT ABOUT PRIVACY POLICY?</b>"
+
+ - We respect your right to online privacy. tinyCam Monitor does not collect or send us or 3d parties any personal information. The app may collect anonymous usage statistics (can be disabled in App Settings).
+ "</string>
+    <string name="help_stay_with_us">Stay with us:</string>
+    <string name="help_title_about">About</string>
+    <string name="help_title_changelog">Changelog</string>
+    <string name="help_title_controls">Controls</string>
+    <string name="help_title_faq">FAQ</string>
+    <string name="help_title_help">Help</string>
+    <string name="help_upgrade">Upgrade to tinyCam Monitor PRO:</string>
+    <string name="intro1_text">Thank you for choosing %1$s. The app will help you to…</string>
+    <string name="intro1_title">Welcome!</string>
+    <string name="intro2_text">Securely monitor your baby, pet, home, business, traffic and weather wherever you are.</string>
+    <string name="intro2_title">Feel safe!</string>
+    <string name="intro3_text">Choose from thousands of supported IP cameras, video encoders and DVRs.</string>
+    <string name="intro3_title">Be in control!</string>
+    <string name="intro4_text">Start using the amazing features now!</string>
+    <string name="intro4_title">Enjoy!</string>
+    <string name="main_archive">Archive playback</string>
+    <string name="main_exit">Exit</string>
+    <string name="main_help">Help</string>
+    <string name="main_lan_scanner">Network scanner</string>
+    <string name="main_live_view">Live view</string>
+    <string name="main_manage_cameras">Manage cameras</string>
+    <string name="main_search_database">Models database search</string>
+    <string name="main_upgrade">Upgrade</string>
+    <string name="main_version">Version</string>
+    <string name="manage_add_camera">Please add camera</string>
+    <string name="manage_add_camera_more">Tap the button to add your cameras or NVR/DVR.</string>
+    <string name="manage_enable_camera">Please enable camera</string>
+    <string name="manage_title">Manage Cameras</string>
+    <string name="manage_toast_delete_done">All cameras deleted</string>
+    <string name="manage_toast_imported">Camera imported</string>
+    <string name="manage_toast_limit_reached">Camera could not be added. Limit reached.</string>
+    <string name="manage_toast_random_done">%1$d random cameras assigned</string>
+    <string name="menu_add_android_camera_text">Add Android camera</string>
+    <string name="menu_add_camera_text">Add IP camera, NVR/DVR</string>
+    <string name="menu_app_settings_text">Settings</string>
+    <string name="menu_cast_stop_to_wearable_text">Stop cast to Android Wear</string>
+    <string name="menu_cast_to_wearable_text">Cast to Android Wear</string>
+    <string name="menu_chooselayout_text">Cameras per page</string>
+    <string name="menu_export_cloud_cameras_text">Export cams to %1$s</string>
+    <string name="menu_export_sd_cameras_text">Export cams to local storage</string>
+    <string name="menu_floating_window_text">Make floating window</string>
+    <string name="menu_fullscreen_text">Full screen layout</string>
+    <string name="menu_import_camera_text">Import camera</string>
+    <string name="menu_import_cloud_cameras_text">Import cams from %1$s</string>
+    <string name="menu_import_export_text">Import/export</string>
+    <string name="menu_import_sd_cameras_text">Import cams from local storage</string>
+    <string name="menu_layout_horizontal_text">Horizontal</string>
+    <string name="menu_layout_vertical_text">Vertical</string>
+    <string name="menu_make_shortcut_text">Pin to home</string>
+    <string name="menu_manage_cameras_text">Manage cameras</string>
+    <string name="menu_manage_copy_text">Copy</string>
+    <string name="menu_manage_delete_all_text">Delete all</string>
+    <string name="menu_manage_delete_text">Delete</string>
+    <string name="menu_manage_edit_text">Edit</string>
+    <string name="menu_manage_random_text">Random cameras</string>
+    <string name="menu_more_text">More</string>
+    <string name="menu_more_webcams_text">More webcams</string>
+    <string name="menu_nextcamera_text">Next camera</string>
+    <string name="menu_nextpage_text">Next page</string>
+    <string name="menu_picture_in_picture_text">Picture-in-picture</string>
+    <string name="menu_port_range_text">Select port range</string>
+    <string name="menu_prevcamera_text">Previous camera</string>
+    <string name="menu_prevpage_text">Previous page</string>
+    <string name="menu_run_app_text">Run app</string>
+    <string name="menu_scan_text">Scan network</string>
+    <string name="menu_settings_text">Camera settings</string>
+    <string name="menu_sharecamera_text">Share settings by email</string>
+    <string name="menu_show_unknown_text">Show unknown devices</string>
+    <string name="menu_snapshot_text">Make snapshot &amp; share</string>
+    <string name="menu_startseq_text">Start sequence</string>
+    <string name="menu_stopseq_text">Stop sequence</string>
+    <string name="menu_switchlayout_text">Switch layout</string>
+    <string name="menu_toggle_video_stream_text">Toggle video stream on/off</string>
+    <string name="menu_webcams_travel_text">Import from Webcams.travel</string>
+    <string name="menu_weblink_text">Web link</string>
+    <string name="notif_audio_activate_multiple_video">Touch to activate %1$d cameras</string>
+    <string name="notif_audio_activate_video">Touch to activate \"%1$s\" camera</string>
+    <string name="notif_audio_activity_detected">Audio activity detected</string>
+    <string name="notif_audio_paused_title">Background audio paused</string>
+    <string name="notif_audio_title">Background audio enabled</string>
+    <string name="notif_conn_lost">Connection lost</string>
+    <string name="notif_motion_detected">Motion detected</string>
+    <string name="notif_switch_off">Switch off</string>
+    <string name="notif_sync_checking">Checking cameras at %1$s…</string>
+    <string name="notif_sync_connect_failed">Failed to connect to %1$s</string>
+    <string name="notif_sync_exporting">Exporting cameras to %1$s…</string>
+    <string name="notif_sync_importing">Importing cameras from %1$s…</string>
+    <string name="notif_sync_linked">Linked</string>
+    <string name="notif_sync_need_update">Press to import cameras from %1$s</string>
+    <string name="notif_sync_title">Sync cameras at %1$s</string>
+    <string name="notif_sync_unlinked">Unlinked</string>
+    <string name="perm_needed_camera">Camera permission needed to get video from Android camera.</string>
+    <string name="perm_needed_mic">Record audio permission needed for 2-way audio.</string>
+    <string name="perm_needed_storage">Storage permission needed to write/read camera stream to/from local storage.</string>
+    <string name="port_forwarding_add_new">Add new port forwarding</string>
+    <string name="port_forwarding_description">Description</string>
+    <string name="port_forwarding_ext_port">External port</string>
+    <string name="port_forwarding_int_port">Internal port</string>
+    <string name="port_forwarding_local_ip">Local IP address: %s</string>
+    <string name="port_forwarding_mapped_to">Mapped to</string>
+    <string name="port_forwarding_no_upnp">No UPnP found. Enable UPnP on your router manually to allow automatic port forwarding.</string>
+    <string name="port_forwarding_public_ip">Public IP address: %s</string>
+    <string name="port_forwarding_this_device">This device</string>
+    <string name="port_forwarding_title">Port forwarding</string>
+    <string name="pref_app_alarm_sound_baby_amused">Baby amused</string>
+    <string name="pref_app_alarm_sound_baby_babble">Baby babble</string>
+    <string name="pref_app_alarm_sound_baby_rattle">Baby rattle</string>
+    <string name="pref_app_alarm_sound_bell_ring">Bell ring</string>
+    <string name="pref_app_alarm_sound_bongos">Bongos</string>
+    <string name="pref_app_alarm_sound_door_bell">Door bell</string>
+    <string name="pref_app_alarm_sound_double_beep">Double beep</string>
+    <string name="pref_app_alarm_sound_phone">Phone ringing</string>
+    <string name="pref_app_alarm_sound_silence">No sound</string>
+    <string name="pref_app_alarm_sound_single_beep">Single beep</string>
+    <string name="pref_app_alarm_sound_siren">Siren</string>
+    <string name="pref_app_alarm_sound_squeeze_toy">Squeeze toy</string>
+    <string name="pref_app_alarm_sound_timpani">Timpani</string>
+    <string name="pref_app_alarm_sound_title">Alarm sound</string>
+    <string name="pref_app_allow_network_all">All networks</string>
+    <string name="pref_app_allow_network_title">Allowed network</string>
+    <string name="pref_app_allow_network_wifi">WiFi only</string>
+    <string name="pref_app_anti_aliasing_title">Anti-aliasing</string>
+    <string name="pref_app_audio_duration_until_squelch">Audio duration until squelch</string>
+    <string name="pref_app_audio_summary">Audio settings</string>
+    <string name="pref_app_audio_title">Audio</string>
+    <string name="pref_app_auto_hide_bars">Auto hide bars in single layout</string>
+    <string name="pref_app_autodetect_network">Autodetect home/away network</string>
+    <string name="pref_app_autostart_summary">Auto start</string>
+    <string name="pref_app_away_network">Away network</string>
+    <string name="pref_app_background_audio_title">Background audio</string>
+    <string name="pref_app_bright_title">Bright screen</string>
+    <string name="pref_app_cloud_link_dialog">Link the app to your %1$s account</string>
+    <string name="pref_app_cloud_link_title">Link %1$s</string>
+    <string name="pref_app_cloud_login_failed">%1$s failed to login. Relink cloud.</string>
+    <string name="pref_app_cloud_server">Server address, e.g. %s</string>
+    <string name="pref_app_cloud_service_title">Cloud service</string>
+    <string name="pref_app_cloud_status">Cloud status: %s</string>
+    <string name="pref_app_cloud_summary">Sync cameras and do recording to the cloud</string>
+    <string name="pref_app_cloud_title">Cloud account</string>
+    <string name="pref_app_conn_lost_sound_title">Connection lost sound</string>
+    <string name="pref_app_custom_vendors_about_title">About custom brands XML</string>
+    <string name="pref_app_custom_vendors_summary">Path to XML file defining additional camera models, e.g. /sdcard/custom_vendors.xml</string>
+    <string name="pref_app_custom_vendors_title">Custom brands XML file</string>
+    <string name="pref_app_developer_summary">Developer settings</string>
+    <string name="pref_app_developer_title">Developer</string>
+    <string name="pref_app_dim_idle_title">Dim screen on idle</string>
+    <string name="pref_app_double_tap_zoom">Zoom on double tap in single layout</string>
+    <string name="pref_app_email_address">Email address</string>
+    <string name="pref_app_email_left">Emails left this month: %1$d</string>
+    <string name="pref_app_email_press_to_send">Press to send verification email</string>
+    <string name="pref_app_email_sent">Verification sent. Please check your Inbox.</string>
+    <string name="pref_app_email_status">Email status</string>
+    <string name="pref_app_email_summary">Notifications to email address</string>
+    <string name="pref_app_email_title">Email account</string>
+    <string name="pref_app_email_type">Send emails via</string>
+    <string name="pref_app_ftp_conn_type_summary">Use SSL for secured connection (FTPS protocol)</string>
+    <string name="pref_app_ftp_password_title">Password</string>
+    <string name="pref_app_ftp_port_title">Port</string>
+    <string name="pref_app_ftp_server_title">Server</string>
+    <string name="pref_app_ftp_status_summary">Press to check FTP server availability</string>
+    <string name="pref_app_ftp_status_title">FTP status</string>
+    <string name="pref_app_ftp_summary">Do recording to the FTP server</string>
+    <string name="pref_app_ftp_title">FTP account</string>
+    <string name="pref_app_ftp_upload_dir_title">Upload directory</string>
+    <string name="pref_app_ftp_username_title">Username</string>
+    <string name="pref_app_gaming_controller_summary">Control PTZ cameras using Bluetooth gamepad</string>
+    <string name="pref_app_gaming_controller_title">Gaming controller</string>
+    <string name="pref_app_hide_buttons_single">Hide rec &amp; audio in single layout</string>
+    <string name="pref_app_home_network">Home network</string>
+    <string name="pref_app_keep_screen_on_title">Keep screen on</string>
+    <string name="pref_app_language">Language</string>
+    <string name="pref_app_lock_screen_orient_title">Lock screen orientation</string>
+    <string name="pref_app_low_bandwidth_title">Low-bandwidth profile</string>
+    <string name="pref_app_network_summary">Network</string>
+    <string name="pref_app_notif_disabled_warning">Notifications disabled. Cameras events and recording on motion will not work.</string>
+    <string name="pref_app_notif_features_disabled">Features to be disabled for all cameras:</string>
+    <string name="pref_app_notif_features_enabled">Features to be enabled (if selected) for all cameras:</string>
+    <string name="pref_app_notif_send_command">Send \"%1$s\" command to cameras \"%2$s\"</string>
+    <string name="pref_app_notif_title">Notifications</string>
+    <string name="pref_app_orig_aspect_ratio_title">Keep original aspect ratio</string>
+    <string name="pref_app_passcode_confirmed">"ATTENTION!
+
+In case of forgotten passcode you need to reinstall the app. It is recommended to export your cameras settings before using the passcode."</string>
+    <string name="pref_app_passcode_summary">Passcode to be used to block unauthorized app access</string>
+    <string name="pref_app_passcode_title">App passcode</string>
+    <string name="pref_app_power_safe_mode_title">Power safe mode</string>
+    <string name="pref_app_push_to_talk">Push to talk</string>
+    <string name="pref_app_rec_after">Record after motion detected</string>
+    <string name="pref_app_rec_before">Record before motion detected (background mode only)</string>
+    <string name="pref_app_rec_codec_title">Encoder</string>
+    <string name="pref_app_rec_cut_duration_title">Cut by duration (min)</string>
+    <string name="pref_app_rec_cut_size_title">Cut by size (MB)</string>
+    <string name="pref_app_rec_sd_dir_title">Recording directory</string>
+    <string name="pref_app_rec_summary">Recording settings</string>
+    <string name="pref_app_rec_timestamp_title">Embed timestamp</string>
+    <string name="pref_app_refresh_hour_title">%1$d hour</string>
+    <string name="pref_app_refresh_min_title">%1$d min</string>
+    <string name="pref_app_refresh_sec_title">%1$d sec</string>
+    <string name="pref_app_restart_required">Restart is required for changes to take effect. Restart app?</string>
+    <string name="pref_app_sec_ssl_connection_title">SSL/TLS connection type</string>
+    <string name="pref_app_sec_ssl_modern">Modern</string>
+    <string name="pref_app_sec_ssl_obsolete">Obsolete</string>
+    <string name="pref_app_sec_summary">Security settings</string>
+    <string name="pref_app_sec_untrusted_ssl_title">Untrusted SSL certificates</string>
+    <string name="pref_app_sec_untrusted_ssl_warn">Untrusted certificates, e.g self-signed ones, allow man-in-the-middle (MITM) attack. However it is not recommended to disable them unless you know what you are doing.</string>
+    <string name="pref_app_sequence_timeout_title">Sequence mode timeout</string>
+    <string name="pref_app_show_actionbar">Action bar in live view</string>
+    <string name="pref_app_show_buttons">Rec &amp; audio in multiple layout</string>
+    <string name="pref_app_show_statusbar">Status bar in live view</string>
+    <string name="pref_app_smtp_encryption">SMTP encryption</string>
+    <string name="pref_app_smtp_from_email">From email</string>
+    <string name="pref_app_smtp_password">SMTP password</string>
+    <string name="pref_app_smtp_port">SMTP port</string>
+    <string name="pref_app_smtp_server">SMTP server</string>
+    <string name="pref_app_smtp_test">Send test email</string>
+    <string name="pref_app_smtp_username">SMTP username</string>
+    <string name="pref_app_start_on_boot_background_mode">Auto start background mode on boot</string>
+    <string name="pref_app_start_on_boot_live_view">Auto start live view on boot</string>
+    <string name="pref_app_start_on_boot_web_server">Auto start web server on boot</string>
+    <string name="pref_app_statistics_summary">Allow us to collect usage statistics to improve the app</string>
+    <string name="pref_app_statistics_title">Submit statistics</string>
+    <string name="pref_app_suppress_audio_speaker_title">Suppress loudspeaker when in mic mode</string>
+    <string name="pref_app_swipes_for_ptz_title">Use swipes for PTZ</string>
+    <string name="pref_app_theme">Theme</string>
+    <string name="pref_app_tv_recommendations">TV recommendations</string>
+    <string name="pref_app_ui_summary">UI &amp; behavior</string>
+    <string name="pref_app_video_decoder">%1$s decoder</string>
+    <string name="pref_app_video_summary">Video settings</string>
+    <string name="pref_app_video_title">Video</string>
+    <string name="pref_app_web_server_port_title">Web server port number</string>
+    <string name="pref_app_web_server_running">Web server is running</string>
+    <string name="pref_app_web_server_started">Web server started</string>
+    <string name="pref_app_web_server_stopped">Web server stopped</string>
+    <string name="pref_app_web_server_summary">Run internal web server for remote access when the app is active or in background mode</string>
+    <string name="pref_app_web_server_title">Web server</string>
+    <string name="pref_app_widget_refresh_rate_title">Camera widget refresh rate</string>
+    <string name="pref_app_widget_refresh_rate_warning">Widgets are refreshing when the screen is on even if any app is in foreground. High widget refresh rate can drain the battery and consume data. Use caution.</string>
+    <string name="pref_app_widget_roaming_title">Update widget when roaming</string>
+    <string name="pref_app_widget_summary">Widget settings</string>
+    <string name="pref_cam_advanced_summary">SSL, channel, flip, etc.</string>
+    <string name="pref_cam_advanced_title">Advanced settings</string>
+    <string name="pref_cam_aspect_ratio_original">Original</string>
+    <string name="pref_cam_aspect_ratio_title">Aspect ratio</string>
+    <string name="pref_cam_audio_alarm_summary">Trigger motion event when gain threshold reached</string>
+    <string name="pref_cam_audio_alarm_title">Alarm level</string>
+    <string name="pref_cam_audio_amp_title">Amplification</string>
+    <string name="pref_cam_audio_squelch_summary">Do not play audio until gain threshold reached</string>
+    <string name="pref_cam_audio_squelch_title">Squelch</string>
+    <string name="pref_cam_audio_title">Audio</string>
+    <string name="pref_cam_audio_unavailable">Audio is not available for your camera</string>
+    <string name="pref_cam_auth_type_encr">Encrypted</string>
+    <string name="pref_cam_auth_type_summary">Send encrypted credentials over HTTP</string>
+    <string name="pref_cam_auth_type_title">Password encryption</string>
+    <string name="pref_cam_auth_type_toast">Note that encrypted password (Digest auth) is not supported by all cameras. Switch to Unencrypted mode if you have 401 (Unauthorized) error.</string>
+    <string name="pref_cam_auth_type_unencr">Unencrypted</string>
+    <string name="pref_cam_autoupdate_ip_summary">Update remote IP address when app connected to home WiFi network</string>
+    <string name="pref_cam_autoupdate_ip_title">Autoupdate remote IP address</string>
+    <string name="pref_cam_back">Back camera</string>
+    <string name="pref_cam_category_actions">Actions</string>
+    <string name="pref_cam_category_login">Login settings</string>
+    <string name="pref_cam_category_main">Mandatory settings</string>
+    <string name="pref_cam_category_other">Other</string>
+    <string name="pref_cam_category_public_wifi">Public WiFi or 3G/4G (optional)</string>
+    <string name="pref_cam_channel_dialog_title">Enter channel number</string>
+    <string name="pref_cam_channel_summary">Default 1</string>
+    <string name="pref_cam_channel_title">Channel number</string>
+    <string name="pref_cam_codec">Codec</string>
+    <string name="pref_cam_conn_type_summary">Encrypted connection</string>
+    <string name="pref_cam_conn_type_title">Use HTTPS</string>
+    <string name="pref_cam_data_rate">Data rate</string>
+    <string name="pref_cam_device_title">Device</string>
+    <string name="pref_cam_displayed_frames">Displayed frames</string>
+    <string name="pref_cam_dropped_frames">Dropped frames</string>
+    <string name="pref_cam_enabled_title">Enabled</string>
+    <string name="pref_cam_ext">External camera</string>
+    <string name="pref_cam_front">Front camera</string>
+    <string name="pref_cam_home_wifi_connected">%1s (connected)</string>
+    <string name="pref_cam_home_wifi_not_connected">%1s (not connected)</string>
+    <string name="pref_cam_home_wifi_not_specified">Not specified</string>
+    <string name="pref_cam_home_wifi_title">Home WiFi network</string>
+    <string name="pref_cam_hostname_dialog_title">Enter hostname or IP address</string>
+    <string name="pref_cam_hostname_error">Hostname is incorrect</string>
+    <string name="pref_cam_hostname_remote_summary">Leave blank for default</string>
+    <string name="pref_cam_hostname_remote_title">Remote hostname/IP address</string>
+    <string name="pref_cam_hostname_title">Hostname/IP address</string>
+    <string name="pref_cam_invalid_number">Value \"%1$s\" is not a valid number. The previous value will be used.</string>
+    <string name="pref_cam_md_email_setup_account">Notifications will not work since email account is not setup. Would you like to setup it now?</string>
+    <string name="pref_cam_md_email_summary">Send email when motion detected</string>
+    <string name="pref_cam_md_email_title">Email on motion</string>
+    <string name="pref_cam_md_events">Events</string>
+    <string name="pref_cam_md_face">Face detection</string>
+    <string name="pref_cam_md_face_sens">Face detection sensitivity</string>
+    <string name="pref_cam_md_ia">In-app motion detection</string>
+    <string name="pref_cam_md_ia_area">Motion detection area</string>
+    <string name="pref_cam_md_ia_max">Max</string>
+    <string name="pref_cam_md_ia_min">Min</string>
+    <string name="pref_cam_md_ia_sens">In-app motion sensitivity</string>
+    <string name="pref_cam_md_notification_summary">Show system notification when motion detected</string>
+    <string name="pref_cam_md_notification_title">System notification on motion</string>
+    <string name="pref_cam_md_oc">On-camera motion detection</string>
+    <string name="pref_cam_md_recording_cloud_summary">Record to the cloud within %1$s sec when motion detected (quota %2$s)</string>
+    <string name="pref_cam_md_recording_cloud_title">Record to %1$s on motion</string>
+    <string name="pref_cam_md_recording_ftp_summary">Record to FTP server within %1$s sec when motion detected (quota %2$s)</string>
+    <string name="pref_cam_md_recording_ftp_title">Record to FTP on motion</string>
+    <string name="pref_cam_md_recording_sd_summary">Record to local storage within %1$s sec when motion detected (quota %2$s)</string>
+    <string name="pref_cam_md_recording_sd_title">Record to local storage on motion</string>
+    <string name="pref_cam_md_sound_summary">Play sound when motion detected</string>
+    <string name="pref_cam_md_sound_title">Sound on motion</string>
+    <string name="pref_cam_md_title">Motion detection</string>
+    <string name="pref_cam_md_vibrate_summary">Vibrate when motion detected</string>
+    <string name="pref_cam_md_vibrate_title">Vibration on motion</string>
+    <string name="pref_cam_md_wakeup_summary">Switch on screen temporarily and show camera live view when motion detected</string>
+    <string name="pref_cam_md_wakeup_title">Wake up on motion (background mode)</string>
+    <string name="pref_cam_md_webhook_summary">Send HTTP(S) request when motion detected, e.g. \"%s\"</string>
+    <string name="pref_cam_md_webhook_title">Webhook on motion</string>
+    <string name="pref_cam_md_zoom_summary">Digital zoom on moving object and tracking</string>
+    <string name="pref_cam_md_zoom_title">Zoom and track on motion (live view)</string>
+    <string name="pref_cam_model_dialog_title">Choose camera model</string>
+    <string name="pref_cam_model_title">Camera model</string>
+    <string name="pref_cam_name_dialog_title">Enter camera name</string>
+    <string name="pref_cam_name_title">Camera name</string>
+    <string name="pref_cam_p2p_error_dialog">P2P UID is not 20 characters long. Be sure you have entered the valid UID.</string>
+    <string name="pref_cam_p2p_scan">Scan</string>
+    <string name="pref_cam_p2p_uid_title">P2P UID</string>
+    <string name="pref_cam_password_dialog_title">Enter password</string>
+    <string name="pref_cam_password_title">Password</string>
+    <string name="pref_cam_password_weak">The password you have entered is weak and can be easily guessed. Please change it.</string>
+    <string name="pref_cam_port_dialog_title">Enter port number</string>
+    <string name="pref_cam_port_remote_title">Remote %1$s port number</string>
+    <string name="pref_cam_port_summary">Default %1$d</string>
+    <string name="pref_cam_port_title">%1$s port number</string>
+    <string name="pref_cam_protocol_title">Protocol</string>
+    <string name="pref_cam_received_frames">Received frames</string>
+    <string name="pref_cam_record_clear_all_summary">Empty archive for all cameras</string>
+    <string name="pref_cam_record_cloud_do_h264_summary">Record H.264 video to cloud</string>
+    <string name="pref_cam_record_cloud_do_jpeg_summary">Record JPEG frames to cloud</string>
+    <string name="pref_cam_record_cloud_do_title">%1$s recording</string>
+    <string name="pref_cam_record_cloud_group_title">Cloud recording</string>
+    <string name="pref_cam_record_delete_pinned">Delete pinned records as well</string>
+    <string name="pref_cam_record_deleting">Deleting archive…</string>
+    <string name="pref_cam_record_disabled_toast">"Recording disabled.
+Check recording destination in camera settings."</string>
+    <string name="pref_cam_record_ftp_do_h264_summary">Record H.264 video to FTP server</string>
+    <string name="pref_cam_record_ftp_do_jpeg_summary">Record JPEG frames to FTP server</string>
+    <string name="pref_cam_record_ftp_do_title">FTP server recording</string>
+    <string name="pref_cam_record_ftp_group_title">FTP server recording</string>
+    <string name="pref_cam_record_sd_clear_dialog_title">Empty the entire camera archive</string>
+    <string name="pref_cam_record_sd_clear_summary">Clear the entire archive for the current camera</string>
+    <string name="pref_cam_record_sd_clear_title">Delete archive</string>
+    <string name="pref_cam_record_sd_cleared">Cleared</string>
+    <string name="pref_cam_record_sd_do_h264_summary">Record H.264 video to local storage</string>
+    <string name="pref_cam_record_sd_do_summary">Cyclic record JPEG frames to local storage</string>
+    <string name="pref_cam_record_sd_do_title">Local storage recording</string>
+    <string name="pref_cam_record_sd_fps_dialog_title">Recording frame rate (fps)</string>
+    <string name="pref_cam_record_sd_fps_title">Recording frame rate</string>
+    <string name="pref_cam_record_sd_group_title">Local storage recording</string>
+    <string name="pref_cam_record_sd_quota_dialog_title">Enter recording quota (MB)</string>
+    <string name="pref_cam_record_sd_quota_summary">The oldest recordings will be deleted if quota exceeded</string>
+    <string name="pref_cam_record_sd_quota_title">Recording quota</string>
+    <string name="pref_cam_record_setup_account">Recording will not work since %1$s account is not setup. Would you like to setup it now?</string>
+    <string name="pref_cam_record_timelapse_summary">Play recordings at %1$dx speed</string>
+    <string name="pref_cam_record_timelapse_title">Time-lapse</string>
+    <string name="pref_cam_record_title">Recording</string>
+    <string name="pref_cam_resolution">Resolution</string>
+    <string name="pref_cam_rotate_image_0">No rotation</string>
+    <string name="pref_cam_rotate_image_180">Rotate 180° (upside down)</string>
+    <string name="pref_cam_rotate_image_270">Rotate 90° counter-clockwise</string>
+    <string name="pref_cam_rotate_image_90">Rotate 90° clockwise</string>
+    <string name="pref_cam_rotate_image_flip_hor">Flip horizontally</string>
+    <string name="pref_cam_rotate_image_flip_ver">Flip vertically</string>
+    <string name="pref_cam_rotate_image_title">Image rotation</string>
+    <string name="pref_cam_rotate_ptz_title2">PTZ controls rotation</string>
+    <string name="pref_cam_security">Secure connection</string>
+    <string name="pref_cam_status_failed">Failed</string>
+    <string name="pref_cam_status_not_checked">Not Checked</string>
+    <string name="pref_cam_status_not_verified">Not Verified</string>
+    <string name="pref_cam_status_ok">OK</string>
+    <string name="pref_cam_status_pinging">Pinging…</string>
+    <string name="pref_cam_status_sent">Sent</string>
+    <string name="pref_cam_status_summary">Press to check live feed and statistics</string>
+    <string name="pref_cam_status_title">Camera status</string>
+    <string name="pref_cam_status_verified">Verified</string>
+    <string name="pref_cam_too_many_frames_dropped">Too many frames dropped. Try to use hardware decoder.</string>
+    <string name="pref_cam_url_summary">E.g. http://192.168.0.2/image.jpg or rtsp://192.168.0.2:554/camera.sdp</string>
+    <string name="pref_cam_url_title">JPEG/MJPEG/RTSP request</string>
+    <string name="pref_cam_username_dialog_title">Enter username</string>
+    <string name="pref_cam_username_title">Username</string>
+    <string name="pref_cam_vendor_dialog_title">Choose camera brand</string>
+    <string name="pref_cam_vendor_title">Camera brand</string>
+    <string name="ptz_admin">Admin</string>
+    <string name="ptz_brightness">Brightness</string>
+    <string name="ptz_compression">Compression</string>
+    <string name="ptz_contrast">Contrast</string>
+    <string name="ptz_exposure">Exposure</string>
+    <string name="ptz_focus">Focus</string>
+    <string name="ptz_framerate">Frame rate</string>
+    <string name="ptz_hue">Hue</string>
+    <string name="ptz_iris">Iris</string>
+    <string name="ptz_led">LED</string>
+    <string name="ptz_preset_saved">Preset %1$d saved</string>
+    <string name="ptz_presets">Preset</string>
+    <string name="ptz_quality">Quality</string>
+    <string name="ptz_relay">Relay</string>
+    <string name="ptz_saturation">Saturation</string>
+    <string name="ptz_sharpness">Sharpness</string>
+    <string name="ptz_shutter">Shutter</string>
+    <string name="ptz_video">Video</string>
+    <string name="ptz_zoom">Zoom</string>
+    <string name="recommend_last_camera">Last watched camera</string>
+    <string name="record_external_storage">External storage %1$d</string>
+    <string name="record_primary_storage">Primary storage</string>
+    <string name="record_upgrade">Upgrade to PRO version to unlock recording.</string>
+    <string name="scanner_advanced_mode">Advanced mode</string>
+    <string name="scanner_advanced_mode_text">"In advanced mode scanner tries to detect camera model correctly by probing it. It usually takes more time to complete.
+
+Please provide admin credentials if you have them."</string>
+    <string name="scanner_has_vulnerability">Device has a known vulnerability!</string>
+    <string name="scanner_hostname">Hostname</string>
+    <string name="scanner_ip_range_from">From:</string>
+    <string name="scanner_ip_range_title">Specify LAN IP range to scan</string>
+    <string name="scanner_ip_range_to">To:</string>
+    <string name="scanner_ports_predefined">Predefined ports</string>
+    <string name="scanner_ports_title">Port range (1 – 65535):</string>
+    <string name="scanner_report_vulnerabilities">Report vulnerabilities</string>
+    <string name="scanner_scan">Scan network</string>
+    <string name="scanner_title_scanning">Scanning</string>
+    <string name="scanner_toast_cams_added">Added %1$d camera(s)</string>
+    <string name="scanner_toast_cams_added_limit_reached">Added %1$d camera(s). Some cameras could not be added. Limit reached.</string>
+    <string name="scanner_toast_no_found">No cams found</string>
+    <string name="scanner_wifi_eth_disabled">WiFi is disabled on your Android device. Scanner can scan only one hostname in Advanced mode.</string>
+    <string name="search_start_typing">Start typing brand or model name</string>
+    <string name="sequence_mode_timeout">Sequence mode (timeout %1$d sec)</string>
+    <string name="tag_all_cameras">All cameras</string>
+    <string name="tag_new">New tag</string>
+    <string name="tag_tags">Tags</string>
+    <string name="tip_3d_control">Hold the button and rotate Android device to control</string>
+    <string name="url_youtube_failed">Failed to start YouTube</string>
+    <string name="video_codec_h264">H.264</string>
+    <string name="video_codec_hw">Hardware</string>
+    <string name="video_codec_hw_failed">Hardware decoder failed. Switch to software one.</string>
+    <string name="video_codec_hw_warning">Some issues have been reported for the hardware accelerated decoder for the current %1$s model. Revert the changes if you have any problems further.</string>
+    <string name="video_codec_jpeg">JPEG</string>
+    <string name="video_codec_mjpeg">MJPEG</string>
+    <string name="video_codec_sw">Software</string>
+    <string name="view_page_text">Page %1$d/%2$d</string>
+    <string name="widget_camera">Camera</string>
+    <string name="widget_recorded_free">"Recorded: %1$s
+Free: %2$s"</string>
+    <string name="widget_started">Started</string>
+    <string name="widget_stopped">Stopped</string>
+    <string name="widget_toggles">Toggles</string>
+    <string name="twofortyfouram_locale_breadcrumb_format">%1$s%2$s%3$s</string>
+    <string name="twofortyfouram_locale_breadcrumb_separator">" > "</string>
+    <string name="twofortyfouram_locale_menu_dontsave">Cancel</string>
+    <string name="twofortyfouram_locale_menu_help">Help</string>
+    <string name="twofortyfouram_locale_menu_save">Done</string>
+    <string name="dialog_ad_remind">Remind me before sale end</string>
+    <string name="cancel_button_label">Cancel</string>
+    <string name="choose_button_label">Select</string>
+    <string name="error_dir_access">Directory cannot be accessed</string>
+    <string name="label_parent_directory">Parent Directory</string>
+    <string name="last_edit">Last edited:</string>
+    <string name="DATE_FORMAT_YEAR">EEE, MMMM d</string>
+    <string name="IS_24H_TIME">0</string>
+    <string name="TIME_FORMAT">h:mm a</string>
+    <string name="TIME_FORMAT_TIMELINE_HOUR">HH:mm:ss</string>
+    <string name="TIME_FORMAT_TIMELINE_MINS">mm</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="app_name">tinyCam Monitor FREE</string>
+    <string name="app_name_short">tinyCam FREE</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="copyright">"Tiny Solutions LLC., 2010–2018.
+http://tinysolutionsllc.com"</string>
+    <string name="default_dir">/sdcard</string>
+    <string name="dialog_ad_text1">50% OFF SALE!!! Upgrade your tinyCam Monitor to PRO version for ONLY $1.99 (was $3.99)!</string>
+    <string name="dialog_ad_text2">Offer valid till November 27, 2017.</string>
+    <string name="dialog_ad_title">BLACK FRIDAY SALE!!!</string>
+    <string name="dialog_changelog_text">" "<b>Version 9.1 (November 10, 2017)</b>"
+ - Added ability to specify cipher/protocol type to be used for SSL in App Settings - Security Settings.
+ - Added tinyCam Cloud support for Android TV.
+ - Added control PTZ cameras via Bluetooth gaming controller/joystick.
+ - Added showing CPU frequency in web server.
+ - Added focus and iris support for web server.
+ - Added 2-w audio for P2P TUTK cameras.
+ - Added P2P TUTK cameras support in tinyCam Cloud.
+ - Added 'Create motion detected event' in web server.
+ - Improved stability for P2P TUTK cameras.
+ - Improved tinyCam Cloud plugin.
+
+
+ "<b>Version 9.0 (August 24, 2017)</b>"
+ - Added Android 8.0 adaptive icon.
+ - Added Android 8.0 notification channels.
+ - Added Android 8.0 picture-in-picture mode instead of floating windows. Can be still reverted to floating windows in App Settings - Developer Settings.
+ - Added floating windows and picture-in-picture mode in FREE version.
+ - Added MP4 recording to FTP server.
+ - Added quota for recording to FTP server.
+ - Added 'Webhooks on motion' in Camera Settings - Motion Detection, e.g. for IFTTT integration.
+ - Added 'Autoupdate remote IP address' in Camera Settings - Advanced Settings.
+ - Added reporting vulnerabilities by network scanner for ONVIF anonymous access for Foscam and some other cameras, and scanner for known Foscam FTP server credentials (CVE-2016-8731).
+ - Added reporting vulnerabilities for Hikvision cameras (ICSA-17-124-01).
+ - Added snapshot protocol for embedded web server, e.g. http://10.0.1.7:8083/axis-cgi/jpg/image.cgi
+ - Added H.265 codec for P2P.
+ - Added controlling PTZ in embedded web browser by keyboard (left, right, up, down, 1-9, +, -).
+ - Added Tasker task to start/stop background audio.
+ - Added 'Record audio' in background mode options.
+ - Added 2 cams horizontal layout for Android TV.
+ - Added Chinese Traditional and Swedish translations.
+ - Added autodetecting another tinyCam PRO web server.
+ - Improved handling multiple live view connection for web server.
+ - Improved HW/HW+ decoders startup time.
+ - Fixed memory leak in video widgets.
+ - Fixed 'Untrusted SSL certificates' option didn't work properly.
+ - Fixed inability to show dir content on settings import in some cases.
+ - Fixed crashes on Android 8.0.
+ - Disabling 'Tasker support' in App Settings - Developer Settings also disables 'Tasker commands' in live view.
+
+
+ "<b>Version 8.1 (May 8, 2017)</b>"
+ - Added ability to select language in App Settings.
+ - Added vulnerability network scanner for reporting known vulnerabilities and backdoors your IP cameras may have.
+ - Added warning if camera password is weak.
+ - Added web server logs for admin account with real-time statistics update (CPU graph).
+ - Added on-screen joystick and presets to control PTZ cameras via web server.
+ - Added 5x recorded video playback speed.
+ - Added ability to specify custom SMTP server from email sending.
+ - Added Samsung DeX Station support.
+ - Fixed Synology Surveillance Station support.
+ - Improved (less) CPU usage for background recording on motion.
+ - Improved tinyCam Cloud integration.
+
+
+ "<b>Version 8.0 (April 1, 2017)</b>"
+ - Added MP4 cloud recording.
+ - Added ownCloud and Nextcloud support.
+ - Added UPnP port forwarding (Camera Settings - Advanced Settings).
+ - Added pinning local archives for preventing auto deleting if quota exceeded.
+ - Android O support.
+ - Improved web server.
+ - Added showing web server logs for admin account.
+ - Increased prerecording buffer before motion detected to 10 sec.
+ - Increased username max size (20 chars) for Foscam cameras.
+
+
+ "<b>Version 7.5 (March 3, 2017)</b>"
+ - Themes support in App Settings - Theme.
+ - UI improvements for strictly following Material Design guidelines.
+ - Better handling runtime permissions.
+ - Improved usability.
+
+
+ "<b>Version 7.4 (February 3, 2017)</b>"
+ - Redesigned network scanner. Grouping cam drivers by IP address.
+ - 'Recording quota' for cloud recording. Obsolete archive will be automatically deleted if quota exceeded.
+ - 'Delete archive' for cloud in Camera Settings - Recording.
+ - 'Delete archive' for cloud and local storage in App Settings.
+ - Less memory use for MJPEG streams.
+ - Improved smooth MP4 recording for RTSP streams.
+ - Switching off notifications in app drawer also disable rec on motion.
+ - Fixed app passcode dialog crash.
+
+
+ "<b>Version 7.3 (January 20, 2017)</b>"
+ - More than 8 presets support.
+ - Not overlapping buttons by actionbar when 'Rec &amp; audio in multiple layout' enabled.
+ - Fixed PTZ for Sricam via ONVIF driver.
+ - Fixed green thumbnails generated for D-Link recorded videos.
+ - Fixed multiple memory leaks.
+ - New MS OneDrive API support.
+ - Tasker actions like 'Make motion (not) detected', 'Low-bandwidth profile', etc. now works in background mode.
+ - Finnish translation.
+
+
+ "<b>Version 7.2 (December 14, 2016)</b>"
+ - Support for internal Android cameras (front and back). Android 5.0+ only. Required CAMERA permission.
+ - Reboot Android device via web server (root required).
+ - Dropbox API v2.
+ - Autorecovery for SW H.264 decoder.
+ - Autoclose recording file when connection lost.
+ - Fixed deleting/sharing invalid file when next/prev file selected in video playback.
+ - Saved last arm/disarm state.
+ - Ability to specify Chromecast device in \"Start Google Cast\" Tasker action.
+
+
+ "<b>Version 7.1 (October 22, 2016)</b>"
+ - Redesigned video playback with slow/fast play speed.
+ - Android 7.1 support - app shortcuts and round launcher icon.
+ - Improved audio graph.
+ - Improved web server. Better robustness. Ability to delete recordings.
+ - Smooth audio fade in/out.
+ - Added 2x5 vertical layout.
+ - CPU usage in background mode and web server.
+ - Improved in-app motion detection. 16x9 grid is used.
+ - Record audio in background mode. Switch it on in App Settings - Developer.
+ - Fixed out of sync audio recording.
+ - 'Audio duration until squelch' in App Settings - Audio.
+ - Simplified Chinese translation.
+
+
+ "<b>Version 7.0 (October 4, 2016)</b>"
+ - Select audio file to play via camera speaker. Designed for baby monitoring.
+ - Redesigned video playback with slow/fast play speed.
+ - New HTTP engine. Better response time and less delays.
+ - Password encryption is obtained automatically. Removed from camera settings.
+ - Rotate PTZ controls in Advanced Settings.
+ - Quick settings for background mode and web server on Android Nougat 7.0.
+ - Picture-in-picture for Android TV running Android Nougat 7.0.
+ - Use gamepad's right joystick to control pan-tilt cameras on Android TV.
+ - Play/pause button on Android TV remote starts/stops sequence mode.
+ - Added guest account (view only) for embedded web server. Disabled by default.
+ - New Tasker action - Start/Stop Google Cast.
+ - Protocol Undefined for generic URL. Mostly for H.264 elementary stream via HTTP.
+ - 4 Tasker commands per camera with rename ability.
+ - Chinese translation.
+ - Android 4.1 is minimum version supported now.
+
+
+ "<b>Version 6.7 (May 26, 2016)</b>"
+ - Time-lapse recording.
+ - Smooth scrolling when image digitally zoomed in.
+ - Notifications in app drawer. Allows to arm/disarm batch on-camera motion detection.
+ - Matrix mode in web server.
+ - Web server API for changing low-bandwidth profile, notifications, power safe mode.
+ - Digital zoom on Android TV and Amazon Fire TV using gamepad. Accelerate/decelerate - zoom in/out, joystick - pan/tilt.
+ - Allows empty ONVIF credentials.
+ - Fixed broken MP4 recording on Android 4.3 devices.
+ - Save last PTZ used (joystick or buttons).
+ - Show 8 presets and zoom buttons in both portrait and landscape modes.
+ - Tasker command button.
+ - Ability to specify home WiFi network for improved home/away autodetection.
+ - Hungarian translation.
+ - Plugins support.
+
+
+ "<b>Version 6.6 (March 24, 2016)</b>"
+ - Power safe mode.
+ - Digital zoom and track on motion for live view.
+ - New in-app motion detection algorithm.
+ - 'Keep Screen On' option in App Settings.
+ - Multi-window support for Android N.
+ - Skip detecting any motion within 10 seconds if PTZ used.
+ - One finger zoom (Google Maps like).
+ - Fixed D-Link 403 issue.
+ - HW+ decoder improvements. It is now stable.
+ - Added Hacks section in App Settings - Developer Settings.
+
+
+ "<b>Version 6.5 (March 3, 2016)</b>"
+ - Immersive full-screen mode in live view for Android 4.4 and above with improved animation.
+ - Digital zoom in video playback.
+ - New experimental Hardware+ H.264/H.265 decoder.
+ - Zoom buttons for Android Wear app.
+ - \"Pin to home\" from multiple page layout menu. Saves current page and tag into homescreen shortcut.
+ - Internal watchdog for automatic restarting background mode or web server in case of crash. Robust 24/7 recording.
+ - Switch shown in app drawer when server enabled.
+ - Start background mode right from web server.
+ - Public API for web server and redesigned landing page.
+ - Statistics in notification for web server.
+ - Memory optimization (less RAM usage) in live view.
+ - Fixed jerky live view on some cameras, e.g. Amcrest.
+ - Support for Vimtag (Fujikam), Annke cloud cameras.
+ - 2-w audio for Amcrest and D-Link some models.
+
+
+ "<b>Version 6.4 (January 27, 2016)</b>"
+ - Live view via web server.
+ - Added new model \"tinyCam Monitor PRO\" under vendor \"Android\" to connect another tinyCam running web server.
+ - Fingerprint authentication for Nexus 5X/6P.
+ - \"Wake up on motion\" event for background mode.
+ - New zoom UI control.
+ - Keep original aspect ratio for widgets (App Settings - Widget Settings).
+ - Update widget when roaming (App Settings - Widget Settings). Off by default.
+ - New Tasker condition - Connection Lost.
+ - New Tasker action - Start/Stop Video.
+ - Broken connection auto resume for Chromecast.
+ - TV: Hack to enable background mode for TV in App Settings - Developer.
+ - 'Connection lost sound' in App Settings - Audio Settings plays alarm audio on disconnection.
+ - Improved P2P for Foscam.
+ - Better ZoneMinder support.
+ - Proprietary protocol (H264) for Blue Iris. Switch to new v4 model. 1-w audio &amp; pan-tilt.
+
+
+ "<b>Version 6.3 (November 26, 2015)</b>"
+ - P2P for Foscam HD cameras (in beta).
+ - Send notifications by email when motion detected. Notifications sent via tinycammonitor.com and are encrypted. There is a limit of notifications per month.
+ - Improved D-Link scanner.
+ - LAN scanner sets automatically remote hostname and remote port number if the router supports UPnP port forwarding.
+ - Improved HTTPS (SSL) support.
+ - Improved multi window support for Samsung devices.
+ - Fixed resetting motion params for Foscam HD cameras on enable/disable motion detection.
+ - Fixed decoder issue on Nexus Player running Android 6.0.
+
+
+ "<b>Version 6.2 (October 31, 2015)</b>"
+ - \"Record before motion detected\" option in App Settings - Recording. For background mode only.
+ - Option to override camera image \"aspect ratio\" in Camera Settings - Advanced.
+ - New toggle widget to start background mode and web server right from home screen.
+ - 1 FPS refresh rate for widgets.
+ - Long press on speaker icon forces to play audio if squelch used.
+ - Internal web server for recordings remote access when the app is active or in background mode. See new option in App Settings.
+ - Revamped Manage Cameras window with more material design.
+ - Improved navigation in live view.
+ - Added cloud recording to Amazon Cloud Drive and Microsoft OneDrive.
+ - HEVC/H.265 video decoder (both software and hardware).
+ - Pause/resume buttons in background audio notification.
+ - Improved face detection if Google Play Services installed.
+ - \"Start background mode on boot\" parameter in App Settings.
+ - \"Autodetect home/away network\" option in App Settings.
+ - \"Hide rec &amp; audio in single layout\" option in App Settings.
+ - \"TV recommendations\" option in App Settings (Android TV only).
+ - \"Low-bandwidth profile\" action in Tasker plugin.
+ - \"Autodetect home/away network\" action in Tasker plugin.
+ - \"Start/stop web server\" actions in Tasker plugin.
+ - Android 6.0 support.
+ - \"System notification on motion\" in Camera Settings - Motion Detection.
+ - Make black background when video switched off to preserve battery for AMOLED screens.
+ - Romanian, Slovenian, and Ukrainian translation.
+
+
+ "<b>Version 6.1 (July 14, 2015)</b>"
+ - Improved UI for single camera view.
+ - Improved UI for Android TV and Amazon Fire TV.
+ - Face detection.
+ - Last used camera in recommendations for Android TV.
+ - Proprietary protocol (HD video) for VStarcam, Wanscam, Sricam.
+ - Auto start app on boot feature in App Settings. New boot permission required.
+ - Auto hide bars in single layout feature in App Settings.
+ - Delete recording from playback.
+ - Fixed choppy MP4 recordings.
+ - No multiple floating windows of the same camera (useful for Tasker integration).
+
+
+ "<b>Version 6.0 (May 18, 2015)</b>"
+ - Background recording and background motion detection. Make your own DVR from Android device!
+ - Better stability and low memory usage for background audio.
+ - More Material Design and new launcher icon.
+ - Improved in-app motion detector. Shows where exactly (in which cell) motion occurred in motion detection area.
+ - PTZ for P2P.
+ - Timestamp in widget.
+
+
+ "<b>Version 5.9 (March 20, 2015)</b>"
+ - Dramatically improved speed for recording H.264 streams without making reencoding. Draw timestamp should be off.
+ - Improved H.264 hardware decoder.
+ - Google Drive cloud recording.
+ - In-app motion detection area selection.
+ - P2P (peer to peer) cameras support. Select vendor (P2P), scan QR code and specify password. P2P works only for some vendors.
+ - Show lock icon near camera name if secure connection (SSL) used.
+ - Ability to block untrusted SSL certificates via new Security section in app settings.
+ - Draw timestamp on recording and split long MP4 video into segments on recording (by default, 15 min and 50 MB).
+ - Support HTTPS for Foscam H.264 cameras.
+ - Low-bandwidth profile now works for Foscam H.264 camera. You can also use channels.
+ - Improved responsiveness for pan-tilt for Foscam.
+ - Recording, listening, sequence mode new Tasker actions.
+ - Minimal Android version now is 2.3.
+
+
+ "<b>Version 5.8 (January 30, 2015)</b>"
+ - Moved Low-bandwidth Profile toggle to drawer.
+ - Multiple floating windows.
+ - Added \"Stop cast to Android Wear\" Tasker event.
+ - Recording interval on motion detected in Camera Settings - Motion Detection.
+ - 2-w audio for Maygion, Mobotix, VStarcam, Wanscam JW/HW series, Hikvision.
+ - Audio recording (Android 4.3+).
+ - Group your cameras using tags. You can assign own layout for every tag group and multiple tags for single camera.
+ - Czech, Dutch, Polish translation.
+
+
+ "<b>Version 5.7 (November 28, 2014)</b>"
+
+ - Ability to hide status bar in App Settings.
+ - Zoom on double tap in single view option in App Settings.
+ - Quick models database search.
+ - Drawer from Material Design.
+ - Material Design for Android 2.2 - 5.0.
+ - Android TV support.
+ - Connection lost event.
+ - PTZ for ONVIF.
+ - Ability to specify HLS/ASF/MMS video sources in vendor (Generic) model Generic URL.
+ - GoPro HERO3 and HERO4 cameras support.
+ - Improved camera search.
+ - Better support for QHD screens.
+ - Slovak translation.
+
+
+ "<b>Version 5.6 (October 3, 2014)</b>"
+ - ONVIF Profile S camera support (video and audio).
+ - Switch on the screen when background audio alarm detected.
+ - Cast video to Android Wear. Say \"OK Google. Start tinyCam Monitor\" on your Android Wear device or use \"Cast to Android Wear\" menu item in companion app to start casting.
+ - Tasker/Locale automation plugin for both tasks/actions and states/conditions.
+ - RTSP over UDP (both unicast and multicast) protocols support.
+ - 2x performance improvement for software MPEG-4/H.264 video decoder. Less battery drain.
+ - Temporarily disarm alarms. Press on motion detection icon in the upper right corner to disarm/arm alarm.
+ - Don't show multiple cameras if only 1 camera enabled.
+
+
+ "<b>Version 5.5 (August 19, 2014)</b>"
+ - Improved network scanner.
+ - Android Wear notifications.
+ - Foscam FI9803W, FI9851P, FosBaby (w/ temperature sensor support).
+ - Video widget for both home and lock screens.
+ - Floating window (new permission requested). Available in menu in 1 camera layout or by long pressing Back button. Double tap on floating window to bring back the app.
+ - Pin to home for making camera shortcut on home screen (new permission requested). Available in menu in 1 camera layout. For Android 4.4+ only.
+ - Ability to use SSL for local and remote connection separately.
+ - Portuguese translation.
+
+
+ "<b>Version 5.4 (May 27, 2014)</b>"
+ - Transcoding for Chromecast.
+ - Redesigned audio for Y-Cam, WiFi Baby, Sharx Security (audio graph, squelch, alarm).
+ - RTSP audio support (G.711, PCM, AAC, AMR-NB, etc.).
+ - RTSP (RTSP over TCP, RTSP over HTTP) with support JPEG/MPEG-4/H.264 video codecs (both SW and HW).
+ - Support for any RTSP URLs in Camera Settings - Advanced Settings - JPEG/MJPEG/RTSP request field.
+ - Speed improvements for software H.264 decoder.
+ - Auto switching to software decoder if hardware one failed.
+ - RTSP request via custom_vendors.xml.
+
+
+ "<b>Version 5.3 (April 17, 2014)</b>"
+ - Multiple background audio.
+ - Google Cast™ Ready (Chromecast). Only for devices with Google Play services.
+ - Amazon Fire TV and Google TV support.
+ - Fixed out of memory issue for Android 4.0+ devices.
+ - Speed up UI for multiple camera layouts.
+ - Added 2 new camera layouts 3x5 and 5x5. Now you can watch 25 cameras at once.
+ - Ability to detect if local (local hostname used) or public (remote hostname used) WiFi is in use.
+ - Sensors and on-camera motion detection for new IP Webcam for Android by Pavel Khlebovich.
+
+
+ "<b>Version 5.2.4 (February 26, 2014)</b>"
+ - Improved frame per rate for all MJPEG cameras up to 20%.
+ - Fixed hardware H.264 decoder pixelation issue. Improved frame rate for software H.264 decoder.
+
+
+ "<b>Version 5.2 (February 15, 2014)</b>"
+ - In-app motion detection.
+ - Ability to switch off on-camera motion detection usage in the app.
+ - Rec and audio buttons in multiple cameras layout are hidden by default (enable them via App Settings).
+ - New audio amplification parameter in Camera Settings - Audio.
+ - Background audio alarm automatically pauses for 15 sec all audio sources being played.
+ - FTPS protocol support for encrypted FTP uploading.
+ - Sensors support for some cameras (temperature sensor for Mobotix and Visiomed).
+ - Image preview after snapshot taken.
+ - New \"Cameras per page\" look.
+ - More UI animation.
+
+
+ "<b>Version 5.1.8 (February 2, 2014)</b>"
+ - Fixed incorrect colors H.264 encoding.
+ - Fixed long startup issue for Foscam FI9821W, FI9831W, FI9826W, FI9828W, FI9805W.
+ - Bug fixes and stability improvements.
+
+
+ "<b>Version 5.1.5 (December 18, 2013)</b>"
+ - Added ability to hide audio graph. Press \"..\" button to hide it.
+ - German, French, Italian, Spanish, Brazilian Portuguese translation.
+ - Fixed Dropbox unlink issue.
+ - Fixed GPU overdraw in multiple cameras layout.
+ - Fixed a tablets crash on saving presets in portrait mode.
+ - Fixed a bug which does not allow saving camera settings while background audio is on.
+ - Username\\password Base64 format encoding (weak encryption). No plain text anymore.
+
+
+ "<b>Version 5.1 (November 29, 2013)</b>"
+ - Hardware accelerated H.264 video recording for Android 4.3+ devices (MP4 file). Change codec in App Settings -> Recording -> Encoder.
+ - Hardware accelerated H.264 video decoder for Android 4.3+ devices. At the moment used only by Foscam 2013 cameras. Change codec in App Settings -> Video -> H.264 decoder.
+ - Saving last used audio state. No need to switch on audio all the time.
+ - Stability improvements for Foscam FI9821W (both V1 and V2) and FI9831W.
+ - UI improvements for high density screens, e.g. Galaxy S4 and HTC One.
+ - More camera drivers.
+
+
+ "<b>Version 5.0 (November 7, 2013)</b>"
+ [ui]
+ - Android 4.4 (KitKat) support.
+ - Added ability to select to show or auto hide action bar. Check App Settings.
+ - UI redesign with new high-res resources and smooth animation.
+ - Major internal app redesign to bring more unique features in upcoming updates.
+ - New joystick pan-tilt control.
+ - Accelerometer based pan-tilt control now disabled. Let us know if anyone needs it.
+ - New camera status window with extended statistics.
+
+ [audio]
+ - Audio monitoring from multiple cameras simultaneously.
+ - Audio histogram in full screen layout when audio listening is on.
+ - Push to talk with colorful audio meters.
+ - Background audio led lights alarm notification for Nexus devices.
+ - 2-w audio for Foscam FI9821W, FI9821W V2, FI9826W, FI9828W/FI9828E, FI9831W.
+ - 2-w audio for Foscam FI8602W, FI8608W, FI8620, FI9820W.
+
+ [drivers &amp; h.264]
+ - H.264 codec support for Foscam FI9821W, FI9821W V2, FI9826W, FI9828W/FI9828E, FI9831W. Select H.264 codec in Camera Settings -> Advanced Settings -> Camera Codec. Please update your firmware to the latest version before.
+ - More camera drivers.
+
+
+ "<b>Version 4.0 (July 10, 2012)</b>"
+ - Fourth major release.
+
+
+ "<b>Version 3.x (Aug 11, 2011)</b>"
+ - Third major release.
+
+
+ "<b>Version 2.x (Dec 9, 2010)</b>"
+ - Second major release.
+
+
+ "<b>Version 1.x (Feb 6, 2010)</b>"
+ - First major release. "</string>
+    <string name="email_support">alexey.vasilyev@gmail.com</string>
+    <string name="error_view_oops">Oops</string>
+    <string name="error_view_retry">RETRY</string>
+    <string name="free_release_amazon_cloud_api_key">eyJhbGciOiJSU0EtU0hBMjU2IiwidmVyIjoiMSJ9.eyJ2ZXIiOiIzIiwiZW5kcG9pbnRzIjp7ImF1dGh6IjoiaHR0cHM6Ly93d3cuYW1hem9uLmNvbS9hcC9vYSIsInRva2VuRXhjaGFuZ2UiOiJodHRwczovL2FwaS5hbWF6b24uY29tL2F1dGgvbzIvdG9rZW4ifSwiY2xpZW50SWQiOiJhbXpuMS5hcHBsaWNhdGlvbi1vYTItY2xpZW50LmE0YTA0ZWIxNjczZTQxOTM5NmNlODM0YWZjYmZiYTYwIiwiYXBwRmFtaWx5SWQiOiJhbXpuMS5hcHBsaWNhdGlvbi42ZmUyMDUyNWEwYzU0NTVlOTg3OTIyMGY5MTM3YWZjMyIsImlzcyI6IkFtYXpvbiIsInR5cGUiOiJBUElLZXkiLCJwa2ciOiJjb20uYWxleHZhcy5kdnIiLCJhcHBWYXJpYW50SWQiOiJhbXpuMS5hcHBsaWNhdGlvbi1jbGllbnQuODlkYThhZDk2ZTNlNGVhNjkzNjFlZWRhNmJjODljYWQiLCJ0cnVzdFBvb2wiOm51bGwsImFwcHNpZyI6IkIyOkI1Ojc4OjE2OjJCOjg1OkY3OjcwOjUwOjE5OjY2OjQyOjlFOjBGOjhFOkJFIiwiYXBwSWQiOiJhbXpuMS5hcHBsaWNhdGlvbi1jbGllbnQuODlkYThhZDk2ZTNlNGVhNjkzNjFlZWRhNmJjODljYWQiLCJpZCI6IjZmZmFjZDdjLTQ3ZGQtMTFlNS04MDRkLWI1OWUyODM3YzdkZCIsImlhdCI6IjE0NDAxNDUyMDk2OTcifQ==.DAj7VE8jSWqnXmRsN+42nxx420kSbWZPAqtKITRNCOPJYvkOKKvC5JJDA2DuhqJMOOR+2QZ2qIYyq4xdj+AimtEp4+P10TfVZ3UYn4NyfU+QX12SzXbXsZPNjs5vPeFimdJVyfyoqypTeF4o50bZrgHmW4fYLvkVAjrxi2hOtwt3V4w/azqTEWwEvqwJUso+dYxoqXiE/NUJBB6PN/XNqV45eTI4o0jt4mA7s855FdxqsIwQdSsZcQoBqd8cZrPtBh5j9BF7ig/4OTipcootX1v4zjz9afzVZoa2vBVndx54IkZRBsu1cAzjRCMHppiJsBCf1jiCw8xNhgwz82fVQQ==</string>
+    <string name="intent_facebook">fb://page/181880295184324</string>
+    <string name="intent_twitter">twitter://user?screen_name=tinycammonitor</string>
+    <string name="label_parent_dir">...</string>
+    <string name="password_toggle_content_description">Toggle password visibility</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="release_dropbox_api_key">db-krrd1qozqiu7qhu</string>
+    <string name="url_about_automation_command">https://goo.gl/uv3fC3</string>
+    <string name="url_amazon_appstore">https://www.amazon.com/gp/mas/dl/android?p=</string>
+    <string name="url_crowdin">https://crowdin.net/project/tinycammonitor</string>
+    <string name="url_custom_vendors">https://tinycammonitor.com/custom.html</string>
+    <string name="url_facebook">https://m.facebook.com/tinycammonitor</string>
+    <string name="url_google_play">market://details?id=</string>
+    <string name="url_google_play_web">https://play.google.com/store/apps/details?id=</string>
+    <string name="url_google_plus">https://plus.google.com/communities/115794095184548411935</string>
+    <string name="url_help_app_audio">https://tinycammonitor.com/manual/app_audio.html</string>
+    <string name="url_help_app_cloud">https://tinycammonitor.com/manual/app_cloud.html</string>
+    <string name="url_help_app_developer">https://tinycammonitor.com/manual/app_developer.html</string>
+    <string name="url_help_app_email">https://tinycammonitor.com/manual/app_email.html</string>
+    <string name="url_help_app_ftp">https://tinycammonitor.com/manual/app_ftp.html</string>
+    <string name="url_help_app_rec">https://tinycammonitor.com/manual/app_recording.html</string>
+    <string name="url_help_app_root">https://tinycammonitor.com/manual/app_settings.html</string>
+    <string name="url_help_app_ui">https://tinycammonitor.com/manual/app_ui.html</string>
+    <string name="url_help_app_video">https://tinycammonitor.com/manual/app_video.html</string>
+    <string name="url_help_app_web">https://tinycammonitor.com/manual/app_web_server.html</string>
+    <string name="url_help_app_widget">https://tinycammonitor.com/manual/app_widget.html</string>
+    <string name="url_help_back_mode">https://tinycammonitor.com/manual/background_mode.html</string>
+    <string name="url_help_cam_advanced">https://tinycammonitor.com/manual/camera_advanced.html</string>
+    <string name="url_help_cam_android">https://tinycammonitor.com/manual/camera_android.html</string>
+    <string name="url_help_cam_audio">https://tinycammonitor.com/manual/camera_audio.html</string>
+    <string name="url_help_cam_md">https://tinycammonitor.com/manual/camera_motion_detection.html</string>
+    <string name="url_help_cam_rec">https://tinycammonitor.com/manual/camera_recording.html</string>
+    <string name="url_help_cam_root">https://tinycammonitor.com/manual/camera_settings.html</string>
+    <string name="url_homepage">https://tinycammonitor.com</string>
+    <string name="url_public_ip">https://tinycammonitor.com/api/v1/public_address.php</string>
+    <string name="url_twitter">https://twitter.com/tinycammonitor</string>
+    <string name="url_youtube">https://www.youtube.com/user/tinycammonitor</string>
+    <string name="url_youtube_promo">https://www.youtube.com/watch?v=czo1WbWQTtk</string>
+    <string name="url_youtube_worldscope">https://www.youtube.com/watch?v=RCBYFKSR6k0</string>
+</resources>

@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="BOX_ALERT_T1_MESSAGE">Your scooter is malfunctioning, please turn off and restart the scooter. If the scooter still malfunctions after you restart it, please park the scooter in a legal parking space, take out your personal belongings and return the scooter.</string>
+    <string name="BOX_ALERT_T2_RENT">Your scooter is malfunctioning, please park the scooter in a legal parking space, take out your personal belongings and return the scooter.</string>
+    <string name="BOX_ALERT_T2_RESERVE">Your scooter is malfunctioning, we will cancel your reservation. Please rent other scooter instead.</string>
+    <string name="BOX_ALERT_TITLE_0">Remind: Your WeMo Scooter is back to normal.</string>
+    <string name="BOX_ALERT_TITLE_1">Oops! Your WeMo Scooter is malfunctioning.</string>
+    <string name="BOX_ALERT_TITLE_2">Warn: your WeMo Scooter is malfunctioning.</string>
+    <string name="BOX_ALERT_TYPE_0">Your WeMo Scooter back to normal, please enjoy your ride!</string>
+    <string name="BOX_ALERT_TYPE_1">Your scooter is malfunctioning, please turn off and restart the scooter.</string>
+    <string name="BOX_ALERT_TYPE_2">Your scooter is malfunctioning, please open the app to check the scooter status.</string>
+    <string name="FONT_PATH_100">fonts/exljbris - Museo-100.otf</string>
+    <string name="FONT_PATH_300">fonts/exljbris - Museo-300.otf</string>
+    <string name="FONT_PATH_500">fonts/exljbris - Museo-500.otf</string>
+    <string name="FONT_PATH_700">fonts/exljbris - Museo-700.otf</string>
+    <string name="FONT_PATH_900">fonts/exljbris - Museo-900.otf</string>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="about_title">About</string>
+    <string name="access_gps">You need to allow access to GPS</string>
+    <string name="access_storage">You need to allow access to storage</string>
+    <string name="account_title">Account</string>
+    <string name="alert_dialog_upload_error_message">An error occurred while sending photos</string>
+    <string name="allowed_take_pictures">You are allowed to take pictures</string>
+    <string name="app_name">WeMo</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="authentication_error">An error occurred while validating authentication</string>
+    <string name="back_button">BACK</string>
+    <string name="back_pressed">Please click BACK again to exit</string>
+    <string name="birthday_text_view">Birthday</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="button_begin_renting">BEGIN RENTING</string>
+    <string name="button_cancel_reservation">CANCEL</string>
+    <string name="button_confirm_renting">Rent</string>
+    <string name="button_confirm_reservation">Confirm</string>
+    <string name="button_confirm_return">Return</string>
+    <string name="button_do_reservation">RESERVE</string>
+    <string name="button_facebook_login">Facebook</string>
+    <string name="button_google_login">Google</string>
+    <string name="button_got_it_hold_five_sec">GOT IT !</string>
+    <string name="button_next">Next</string>
+    <string name="call_wemo_button">CALL WeMo</string>
+    <string name="camera">Camera</string>
+    <string name="camera_error">"This device doesn't support Camera2 API."</string>
+    <string name="camera_hint_id">Place your ID/Passport clearly within the frame.</string>
+    <string name="camera_hint_license">Place your license clearly within the frame.</string>
+    <string name="camera_hint_photo">Please take a current photo to verify you are the registrant. We will not accept photos of photos.</string>
+    <string name="camera_title_id_recto">ID/Passport (side 1)</string>
+    <string name="camera_title_id_verso">ID/Passport (side 2)</string>
+    <string name="camera_title_license_recto">License (side 1)</string>
+    <string name="camera_title_license_verso">License (side 2)</string>
+    <string name="camera_title_photo">Selfie</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="check_box_not_show_next_time">Do not show this next time</string>
+    <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
+    <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_like_button_liked">Liked</string>
+    <string name="com_facebook_like_button_not_liked">Like</string>
+    <string name="com_facebook_loading">Loading…</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_loginview_log_in_button">Log in</string>
+    <string name="com_facebook_loginview_log_in_button_continue">Continue with Facebook</string>
+    <string name="com_facebook_loginview_log_in_button_long">Log in with Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="com_facebook_send_button_text">Send</string>
+    <string name="com_facebook_share_button_text">Share</string>
+    <string name="com_facebook_smart_device_instructions">To connect your account, open the Facebook app on your mobile device and check for notifications.</string>
+    <string name="com_facebook_smart_device_instructions_or">- OR -</string>
+    <string name="com_facebook_smart_login_confirmation_cancel">Not you?</string>
+    <string name="com_facebook_smart_login_confirmation_continue_as">Continue as %1$s</string>
+    <string name="com_facebook_smart_login_confirmation_title">Confirm Login</string>
+    <string name="com_facebook_tooltip_default">"You're in control - choose what info you want to share with apps."</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play services availability</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="connected_account_text_view">Connected account</string>
+    <string name="corporate_program_code_empty">Empty entry</string>
+    <string name="corporate_program_code_error">Code failed</string>
+    <string name="corporate_program_code_error_not_exist">Invalid code</string>
+    <string name="corporate_program_code_error_used">Code already in use</string>
+    <string name="corporate_program_code_success">Code accepted</string>
+    <string name="corporate_program_input_hint">Partner Code</string>
+    <string name="corporate_program_input_title">Enter Partner Code</string>
+    <string name="corporate_program_type_foxconn">Business User</string>
+    <string name="credit_card_expiry">"Valid "</string>
+    <string name="credit_card_fail_alert_dialog">Your credit card is invalid! Please update your credit card or change payment method to WeMo Wallet. Once successful, unpaid amount will be automatically deducted.</string>
+    <string name="credit_card_hint">If you choose to pay with a credit card, you need to setup your card first.</string>
+    <string name="credit_card_info_init">No payment method</string>
+    <string name="credit_card_setting">Setting</string>
+    <string name="credit_card_setup_complete">Setup Completed</string>
+    <string name="credit_card_text_view">Credit Card</string>
+    <string name="date_picker_dialog_positive_button">Set</string>
+    <string name="date_picker_dialog_title">Set birthday</string>
+    <string name="default_battery_level_value_info_window">99%</string>
+    <string name="default_distance_value_info_window">99km</string>
+    <string name="default_license_plate_info_window">XXXXXX</string>
+    <string name="default_time_value_info_window">- mins</string>
+    <string name="default_web_client_id">702661689957-gu60r8fs73dl2nlthv67damhi6rqjkca.apps.googleusercontent.com</string>
+    <string name="description_info">Info</string>
+    <string name="dialog_access_gps">Please enable location services and GPS.</string>
+    <string name="dialog_account_contact_wemo">Please contact WeMo.</string>
+    <string name="dialog_account_disabled">"Your account has been disabled.
+Please contact WeMo."</string>
+    <string name="dialog_account_pending">Your account is still pending.</string>
+    <string name="dialog_authentication_message">Please wait for authentication…</string>
+    <string name="dialog_authentication_title">Authentication</string>
+    <string name="dialog_button_cancel">Cancel</string>
+    <string name="dialog_button_ok">OK</string>
+    <string name="dialog_cancel_scooter_message">Please wait, cancelling scooter reservation…</string>
+    <string name="dialog_cancel_scooter_title">Cancel reservation</string>
+    <string name="dialog_charging_map_message">Loading map…</string>
+    <string name="dialog_charging_map_title">Loading</string>
+    <string name="dialog_documents_message">Please wait while sending photo…</string>
+    <string name="dialog_documents_title">Posting photos</string>
+    <string name="dialog_get_scooter_info_message">Please wait, getting scooter information…</string>
+    <string name="dialog_get_scooter_info_title">Scooter information</string>
+    <string name="dialog_get_scooter_location_message">Please wait, getting scooter position…</string>
+    <string name="dialog_get_scooter_location_title">Scooter position</string>
+    <string name="dialog_get_user_info_message">Getting user information…</string>
+    <string name="dialog_get_user_info_title">User information</string>
+    <string name="dialog_message_send_rating">Please wait, sending rating…</string>
+    <string name="dialog_open_seat_message">Please wait, opening seat…</string>
+    <string name="dialog_open_seat_title">Open seat</string>
+    <string name="dialog_registration_message">Please wait for registration…</string>
+    <string name="dialog_registration_title">Registration</string>
+    <string name="dialog_rent_message">Please wait, renting scooter…</string>
+    <string name="dialog_rent_title">Renting scooter</string>
+    <string name="dialog_reserve_scooter_message">Please wait, reserving scooter…</string>
+    <string name="dialog_reserve_scooter_title">Scooter reservation</string>
+    <string name="dialog_return_message">Please wait, returning scooter…</string>
+    <string name="dialog_return_title">Return scooter</string>
+    <string name="dialog_title_send_rating">Send rating</string>
+    <string name="dialog_turn_off_message">Please wait, turning OFF scooter…</string>
+    <string name="dialog_turn_off_title">Turn OFF</string>
+    <string name="dialog_turn_on_message">Please wait, turning ON scooter…</string>
+    <string name="dialog_turn_on_title">Turn ON</string>
+    <string name="dialog_user_info_update_message">Updating user information…</string>
+    <string name="dialog_user_info_update_title">User information update</string>
+    <string name="done_button">DONE</string>
+    <string name="error_address_invalid">Address field cannot be empty</string>
+    <string name="error_cancel_reservation">An error occurred while cancelling scooter reservation</string>
+    <string name="error_connection_fail">Connection fail. Please check the connection.</string>
+    <string name="error_email_invalid">Not a valid email address</string>
+    <string name="error_field_empty">Field cannot be empty</string>
+    <string name="error_get_scooter_info">An error occurred while getting scooter information</string>
+    <string name="error_id_number_invalid">Error format! Letter or digit only.</string>
+    <string name="error_id_number_used">ID/Passport number is used</string>
+    <string name="error_mobile_number_invalid">Phone number length incorrect.</string>
+    <string name="error_not_registered">"You don't have WeMo account, please go to register"</string>
+    <string name="error_registered">You already had WeMo account, please try to log in</string>
+    <string name="error_rent_scooter">An error occurred while renting scooter</string>
+    <string name="error_reserve_scooter">An error occurred while reserving scooter</string>
+    <string name="error_result_fail">Network exception</string>
+    <string name="error_return_scooter">An error occurred while returning scooter</string>
+    <string name="error_scooter_open_seat">An error occurred while opening seat</string>
+    <string name="error_scooter_turn_off">An error occurred while turning OFF scooter</string>
+    <string name="error_scooter_turn_on">An error occurred while turning ON scooter</string>
+    <string name="error_unknown_fail">Unknown fail</string>
+    <string name="error_user_rating">An error occurred while sending rating</string>
+    <string name="experience_wemo_button">Experience</string>
+    <string name="experience_wemo_card">"You must first register to use WeMo service. Please make sure you have your Driver's License and ID ready."</string>
+    <string name="experience_wemo_message">Welcome to WeMo Scooter. We are happy you have chosen to experience our service.</string>
+    <string name="expiration_date_text_view">Expiration Date</string>
+    <string name="facebook_app_id">1116296918431039</string>
+    <string name="facebook_authentication_email_failed">Your facebook account has no email information, try registration by using google account.</string>
+    <string name="facebook_authentication_failed">Cannot sign in with Facebook (Check your internet connection)</string>
+    <string name="faq_title">FAQ</string>
+    <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
+    <string name="feedback_empty">Empty entry</string>
+    <string name="feedback_error">An error occurred while sending feedback</string>
+    <string name="feedback_hint">Description</string>
+    <string name="feedback_instruction">Please provide a short description of any feedback you have regarding our service. If your issue requires an immediate response, please call our toll-free customer service number (0809–091–880).</string>
+    <string name="feedback_sent">Feedback sent</string>
+    <string name="feedback_submit">Submit</string>
+    <string name="feedback_submit_fail_system">There was an error. Please try again later.</string>
+    <string name="feedback_submit_success">Issue Submitted. Thank you.</string>
+    <string name="feedback_title">Feedback</string>
+    <string name="firebase_database_url">https://wemo-1126.firebaseio.com</string>
+    <string name="flashing">You already pressed the flash button, please try again later.</string>
+    <string name="gcm_defaultSenderId">702661689957</string>
+    <string name="gcm_fallback_notification_channel_label">Miscellaneous</string>
+    <string name="gender_text_view">Gender</string>
+    <string name="get_started_button">GET STARTED</string>
+    <string name="get_user_info_error">An error occurred while getting user information</string>
+    <string name="google_api_key">AIzaSyAxWtICJS8EyJHILgBzqDFbVYNsInxgdlc</string>
+    <string name="google_app_id">1:702661689957:android:a5d4b86d82248c53</string>
+    <string name="google_authentication_failed">Cannot sign in with Google (Check your internet connection)</string>
+    <string name="google_crash_reporting_api_key">AIzaSyAxWtICJS8EyJHILgBzqDFbVYNsInxgdlc</string>
+    <string name="google_storage_bucket">wemo-1126.appspot.com</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_address">Address</string>
+    <string name="hint_button">Please scroll down and confirm</string>
+    <string name="hint_card_number">Card Number</string>
+    <string name="hint_comments_feedback">Your feedback, our improvement.</string>
+    <string name="hint_contact_email">Contact Email</string>
+    <string name="hint_cv_code_number">CV Code</string>
+    <string name="hint_first_name">First Name</string>
+    <string name="hint_id_number">ID/Passport number</string>
+    <string name="hint_last_name">Last Name</string>
+    <string name="hint_name_card">Name on Card</string>
+    <string name="hint_store_credit">Store Credit</string>
+    <string name="hint_wemo_wallet">WeMo Wallet</string>
+    <string name="history_title">History</string>
+    <string name="icon_battery_text">Battery</string>
+    <string name="icon_scooter_text">Rental</string>
+    <string name="id_label">ID/Passport</string>
+    <string name="instruction_introduction_cards_five">Open the app to see all the available WeMo scooters in your area. Select and reserve the one closest to you. Once you have reserved and located your scooter, turn it on and access the storage compartment with the WeMo app buttons. Your scooter is ready to go!</string>
+    <string name="instruction_introduction_cards_four">"1. Download the app and become a WeMo member
+2. Upload pictures of your driving license, ID card, and selfie
+3. Choose your payment method, and you are ready to start riding!"</string>
+    <string name="instruction_introduction_cards_one">Your smart phone is the key. With our app, you can turn your WeMo scooter on and off (or even open the storage compartment)!</string>
+    <string name="instruction_introduction_cards_six">Upon reaching your destination, drop your scooter off at any legal parking spot. Turn your scooter off and check it back in using the WeMo app. Thanks for riding WeMo!</string>
+    <string name="instruction_introduction_cards_three">Locate and book in a few simple clicks. Turn your WeMo scooter on with our app, and you are on your way!</string>
+    <string name="instruction_introduction_cards_two">Drop your WeMo scooter off wherever you would like at the end of your ride. As long as it is a legal parking spot and within our designated district, you do not need to worry about returning it to any station.</string>
+    <string name="instructions_documents_alert_dialog">Please make sure your photos are clear enough to view your full face and ID.</string>
+    <string name="introActivity_defaultBackButtonText">BACK</string>
+    <string name="introActivity_defaultFinalButtonText">DONE</string>
+    <string name="introActivity_defaultFirstButtonText">RESTART</string>
+    <string name="introActivity_defaultLastButtonText">SKIP</string>
+    <string name="introActivity_defaultNextButtonText">NEXT</string>
+    <string name="introduction_cards_title">Tutorial</string>
+    <string name="introduction_one_content">WeMo is a Shared Electric Scooter Rental Service that allows you to rent and return anywhere there is legal parking. All you need is your smartphone and driver’s license to register and ride away on a WeMo Scooter.</string>
+    <string name="introduction_one_title">Introduction</string>
+    <string name="introduction_three_content">"Scooter Reservation - Scooters can be seen on a map and reserved for up to 10 minutes of free of charge. 
+
+Starting Ride - When you arrive at the scooter you reserved, the App can be used to start, ride, and turn off the WeMo Scooter. 
+
+In the Trunk - Each WeMo Scooter has two helmets, a cleaning cloth, and a number of hair nets for sanitation purposes. 
+
+Ending your Ride - When you arrive at your destination, park the scooter in a legal open-air public parking spot. Use the WeMo Scooter App to return the vehicle. Your credit card or WeMo Wallet will then be charged the rental fee."</string>
+    <string name="introduction_three_title">How to Ride</string>
+    <string name="introduction_two_content">"Keyless - The WeMo Scooter App acts as your key to operate any WeMo Scooter. 
+
+Free Flow - There are no restrictions on where a WeMo Scooter is rented or returned. As long as the scooter is returned within our operating area and in a legal open-air public parking space. 
+
+Green Energy - WeMo’s electric scooters maintain a clean urban environment by reducing emissions and decreasing noise pollution"</string>
+    <string name="introduction_two_title">Features</string>
+    <string name="invite_code">Invite Code</string>
+    <string name="invite_code_error">Oops! There is something wrong with your invite code. Please try again or press cancel.</string>
+    <string name="invite_code_hint">Have an invite code? Enter it and get WeMo Credit!</string>
+    <string name="invite_code_info">"After you sign up with the invite code from your friend, you’ll receive WeMo Credit immediately. 
+
+After you complete your first ride, your friend will receive WeMo Credit as well."</string>
+    <string name="invite_code_input_hint">Please input invite code</string>
+    <string name="invite_code_redeemed_content">"Once your registration is approved, you can use WeMo Credit to experience the service of WeMo Scooter immediately. You can check your WeMo Credit balance in the main menu under the “ Payment >> WeMo Credit Details ” page. 
+
+You also have your own invite code as well, please refer to the main menu under “ Invite Friends ” for more details."</string>
+    <string name="invite_code_redeemed_title">Accepted, you received %1$d of ride credit.</string>
+    <string name="invite_code_title">Your Invite Code</string>
+    <string name="invite_description">Share your invite code and receive %1$d WeMo Credits!</string>
+    <string name="invite_feedback">Credits Received</string>
+    <string name="invite_info">How Invites Work</string>
+    <string name="invite_info_description">"Gift your friends %1$d WeMo Credits when they use your invite code to sign up for service. 
+
+You will receive an additional %2$d WeMo Credits after the invited user completes their first ride. 
+
+Check your WeMo Credit balance under the “Main Menu >> Payment >> WeMo Credit” page. 
+(NOTE：WeMo credit expires 90 days from its issue date)"</string>
+    <string name="invite_info_title">Get WeMo Credit</string>
+    <string name="invite_invites">Invites</string>
+    <string name="invite_share">Share</string>
+    <string name="invite_share_message">"You have been invited to experience WeMo Scooter. Register with invite code: %1$s to get free ride credit! 
+%2$s"</string>
+    <string name="invite_share_web">https://invite.wemoscooter.com/friend/%1$s?code=%2$s</string>
+    <string name="invite_title">Invite Friends Promotion</string>
+    <string name="jdeferred">jdeferred</string>
+    <string name="label_battery_level_info_window">"Battery: "</string>
+    <string name="label_distance_away_info_window">"Distance: "</string>
+    <string name="label_km_info_window">" km"</string>
+    <string name="label_percent_info_window">%</string>
+    <string name="license_label">"Driver's
+License"</string>
+    <string name="loading_text">loading…</string>
+    <string name="loading_title">Loading…</string>
+    <string name="login_button">LOGIN</string>
+    <string name="login_title">Login</string>
+    <string name="long_press_hint">Hold 3 seconds to power off scooter</string>
+    <string name="menu_about_us">About</string>
+    <string name="menu_account">Account</string>
+    <string name="menu_call_wemo">Call WeMo</string>
+    <string name="menu_change_payment">Payment</string>
+    <string name="menu_faq">Help</string>
+    <string name="menu_feedback">Feedback</string>
+    <string name="menu_find">Find WeMo</string>
+    <string name="menu_history">History</string>
+    <string name="menu_introduction">Introduction</string>
+    <string name="menu_invite_friends">Invite</string>
+    <string name="menu_logout">Sign Out</string>
+    <string name="menu_promotion">Promotions</string>
+    <string name="messenger_send_button_text">Send</string>
+    <string name="mobile_text_view">Mobile</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="need_grant_access">You need to grant access to</string>
+    <string name="news_web_title">News</string>
+    <string name="next_button">NEXT</string>
+    <string name="no_routes_found">No routes found</string>
+    <string name="no_scooter_rented">You are not in a rental status, please rebook if you want to keep renting</string>
+    <string name="not_allowed_take_pictures">You are not allowed to take pictures</string>
+    <string name="number_first_step_text_view">1.</string>
+    <string name="number_second_step_text_view">2.</string>
+    <string name="number_third_step_text_view">3.</string>
+    <string name="open_trunk_body">"Inside you will find :
+2 x helmets、1 x cleaning cloth、
+1x sanitary head cover"</string>
+    <string name="open_trunk_sub_title">DO NOT LEAVE YOUR PHONE IN THE TRUNK</string>
+    <string name="open_trunk_title">Open Scooter Trunk</string>
+    <string name="operation_region_body">"Scooters can only be rented
+ and returned inside the operating
+ area. If you ride outisde
+ the operating area, you will
+ need to return to the operating
+ area to return your scooter."</string>
+    <string name="operation_region_title">Operating Area Map</string>
+    <string name="opne_btn_text">Open Trunk</string>
+    <string name="out_of_region">Scooter not in zone</string>
+    <string name="password_toggle_content_description">Toggle password visibility</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="pay">Pay Amount</string>
+    <string name="pay_amount">Amount</string>
+    <string name="pay_confirm">Confirm</string>
+    <string name="pay_fail">Payment Failed</string>
+    <string name="pay_fail_message">"There was an issue with your payment.
+Please update or change your payment method to clear the outstanding balance."</string>
+    <string name="pay_fail_system_message">"There was an error.
+Please try again later."</string>
+    <string name="pay_in_transaction">"Processing Transaction.
+Please Wait."</string>
+    <string name="pay_message">There is an overdue balance on your account. You must update your payment method and press the payment button to settle your balance.</string>
+    <string name="pay_method">Method</string>
+    <string name="pay_method_credit_card">Credit Card</string>
+    <string name="pay_method_wemo_credit">WeMo Credit</string>
+    <string name="pay_method_wemo_wallet">WeMo Wallet</string>
+    <string name="pay_success">Payment Successful</string>
+    <string name="pay_warning">There was a problem with your payment</string>
+    <string name="pay_warning_partial_fail_message">"There is an outstanding balance on your account.
+You must update your payment method and settle the balance before proceeding."</string>
+    <string name="payment_error_card_link">Credit card expired! Please update your credit card or change the payment method.</string>
+    <string name="payment_error_unpaid_amount">Unpaid Amount</string>
+    <string name="payment_error_unpaid_message">"There is an overdue balance on your account.
+You must update your payment method and settle the balance before proceeding."</string>
+    <string name="payment_error_unpaid_setting">Pay Amount</string>
+    <string name="payment_error_wallet_no_money">Insufficient balance! Please refill your WeMo wallet or change the payment method.</string>
+    <string name="payway_explanation">WeMo Credit will be deducted before your credit card or WeMo Wallet will be used.</string>
+    <string name="payway_explanation_1">WeMo provides users two payment methods, including Credit Card and WeMo wallet.:</string>
+    <string name="payway_explanation_2">Credit Card: If you choose the Credit Card, your order will be paid when you click “return”.</string>
+    <string name="payway_explanation_3">WeMo Wallet: If you choose the WeMo wallet, before you rent the WeMo Scooter you would need to deposit at least NT$300 into WeMo Wallet.</string>
+    <string name="payway_title">Pay</string>
+    <string name="permission_request_phone_call_dialog">You need to grant access to phone call.</string>
+    <string name="permissions_denied">Some Permission is Denied</string>
+    <string name="picture">Picture</string>
+    <string name="please_use_text_view">Register Success</string>
+    <string name="please_wait_text_view">We’ll confirm your driving qualification with local authorities and inform you the result by email and push notification in 2 working days, thank you for your patience!</string>
+    <string name="project_id">wemo-1126</string>
+    <string name="promotion_blank_list_content">"You can get promotion code by
+joining promotional events."</string>
+    <string name="promotion_blank_list_title">No promotion now</string>
+    <string name="promotion_button_text">Submit</string>
+    <string name="promotion_code_empty">Empty entry</string>
+    <string name="promotion_code_error">Code failed</string>
+    <string name="promotion_code_error_not_exist">Invalid code</string>
+    <string name="promotion_code_error_not_fit">Code cannot be used</string>
+    <string name="promotion_code_error_used">Code already in use</string>
+    <string name="promotion_code_error_used_up">Code applied</string>
+    <string name="promotion_code_success">Code accepted</string>
+    <string name="promotion_discount_type_credit">WeMo Credit %1$d</string>
+    <string name="promotion_discount_type_percentage">%1$d%% OFF</string>
+    <string name="promotion_edit_text_hint">Please input promotion code</string>
+    <string name="promotion_edit_text_hint_account_pending">Registration incomplete</string>
+    <string name="promotion_expiry">使用期限 %1$s</string>
+    <string name="promotion_invalid">History</string>
+    <string name="promotion_no_expiry">無使用期限</string>
+    <string name="promotion_page_title">Promotion</string>
+    <string name="promotion_text">Promotions</string>
+    <string name="promotion_used">%1$s 已兌換</string>
+    <string name="promotion_valid">Current</string>
+    <string name="questions_text_view">If you have any further questions contact us at:</string>
+    <string name="rate_disabled">There was no charge due to insufficient rental time</string>
+    <string name="rate_text">RATE</string>
+    <string name="receipt_title">Ride Summary</string>
+    <string name="register_button">Register</string>
+    <string name="registration_error">An error occurred while sending registration</string>
+    <string name="registration_id_details">"Your registration information must match the information in your documents.
+
+WeMo Scooter is legally required to hold copies of these documents. These documents and your personal information will only be used internal to WeMo Scooter."</string>
+    <string name="registration_id_summary">"*To register for WeMo Scooter, you will need the following documents*
+ID Card or Passport
+Driver"</string>
+    <string name="registration_payway_details">If you are choosing to pay via credit card, please have the card ready as you will be asked to fill in this information during registration.</string>
+    <string name="registration_payway_summary">"*To complete registration you will need to choose a payment method*
+1.Credit Card
+2.WeMo Wallet"</string>
+    <string name="registration_title">Registration Guide</string>
+    <string name="reminder_title">Reminder</string>
+    <string name="rent_btn_text">Rent</string>
+    <string name="rent_notification_description">Rent Notification Service</string>
+    <string name="rent_notification_text">"Rental time: "</string>
+    <string name="rent_notification_title">Currently renting WeMo Scooter</string>
+    <string name="rent_text_body">Our rate is charged at 15NTD for the first 6 min and 2.5NTD / 1 min after that.</string>
+    <string name="rent_text_flash">Blink Scooter Lights</string>
+    <string name="rent_text_sub_title">"Rental charges begin after you start
+ scooter rental."</string>
+    <string name="rent_text_title">Start Scooter Rental</string>
+    <string name="renting_info_update_broadcast_intent">com.avisto.wemo.renting.info</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="reserve_btn_text">Reserve</string>
+    <string name="reserve_scooter_body">Your scooter will be reserved for 10 min without charge. You can cancel your reservation during the 10 min or arrive at the selected scooter and begin your rental.</string>
+    <string name="reserve_scooter_title">Reserve Selected Scooter</string>
+    <string name="response_fail">fail</string>
+    <string name="response_unknown">unknown</string>
+    <string name="retry_button">RETRY</string>
+    <string name="return_area_body">"Scooters can only be rented and returned
+ inside the green operating area. Scooters must be returned inside the area to a legal parking space."</string>
+    <string name="return_area_title">Operating Area</string>
+    <string name="return_btn_text">Return</string>
+    <string name="return_popup_message">Click “Confirm” to return and pay. Please make sure you have placed the WeMo helmets back into the trunk and have parked the WeMo scooter in a legal parking space.</string>
+    <string name="return_scooter_body">"This will return the scooter and
+ charge your payment method."</string>
+    <string name="return_scooter_title">Return Scooter Rental</string>
+    <string name="ride_summary_credit_card">Credit Card</string>
+    <string name="ride_summary_duration">" minutes"</string>
+    <string name="ride_summary_not_paid">Not Paid</string>
+    <string name="ride_summary_paid">Paid</string>
+    <string name="ride_summary_wemo_credit">WeMo Credit</string>
+    <string name="ride_summary_wemo_wallet">WeMo Wallet</string>
+    <string name="scooterInfo_battery">Battery</string>
+    <string name="scooterInfo_battery_text">Battery Level: </string>
+    <string name="scooterInfo_distance">Ride Distance</string>
+    <string name="scooterInfo_distance_text">Battery Distance: </string>
+    <string name="scooterInfo_plate_number_text">Scooter: </string>
+    <string name="scooterInfo_remaining_text">REMAINING</string>
+    <string name="scooter_activation_title">Scooter Activation</string>
+    <string name="search_menu_title">Search</string>
+    <string name="search_scooter_available">%1$s is available</string>
+    <string name="search_scooter_cancel">Cancel</string>
+    <string name="search_scooter_hint">Enter plate number, e.g. QAL-123</string>
+    <string name="search_scooter_unavailable">%1$s is not available</string>
+    <string name="search_scooter_wrong_format_content">"Please confirm the format of license plate
+e.g. 801-QHA"</string>
+    <string name="search_scooter_wrong_format_title">No results</string>
+    <string name="selfie_label">Selfie</string>
+    <string name="separator_text_view">" - "</string>
+    <string name="server_not_respond">The server does not respond</string>
+    <string name="set_payment_balance_text">"Balance: "</string>
+    <string name="set_payment_credit_card_text">Credit Card</string>
+    <string name="set_payment_invoice_setting_text">Invoice Setting</string>
+    <string name="set_payment_payment_text">Payment</string>
+    <string name="set_payment_refill_btn">Refill</string>
+    <string name="set_payment_setting_btn">Setting</string>
+    <string name="set_payment_wemo_credit_text">WeMo Credit</string>
+    <string name="set_payment_wemo_wallet_text">WeMo Wallet</string>
+    <string name="side_one">Side 1</string>
+    <string name="side_two">Side 2</string>
+    <string name="sign_in_button">Login</string>
+    <string name="start_button">Experiencing WeMo Scooter</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="submit_button">SUBMIT</string>
+    <string name="terms_and_conditions_checkbox">I understand and agree to the terms and conditions.</string>
+    <string name="terms_and_conditions_title">Terms &amp; Conditions</string>
+    <string name="text_about_us">"We build a better future by creating a new wave of smart transportation that is sustainable, economical and fun.
+WeMo is powered by a fleet of e-scooters shared by the everyday consumer for a seamless, point-to-point experience."</string>
+    <string name="text_first_step_text_view">"Personal
+Information"</string>
+    <string name="text_fourth_step_text_view">"Complete
+Registration"</string>
+    <string name="text_link_about_us">About us</string>
+    <string name="text_link_legal">Legal</string>
+    <string name="text_second_step_text_view">"Upload
+Document"</string>
+    <string name="text_third_step_text_view">"Payment
+Information"</string>
+    <string name="text_version">Version</string>
+    <string name="text_view_area_map_label">AREA MAP</string>
+    <string name="text_view_battery_label">BATTERY</string>
+    <string name="text_view_call_wemo_label">CALL FOR SERVICE</string>
+    <string name="text_view_confirm_renting_1">You will be charged after pressing {start}Rent{end}</string>
+    <string name="text_view_confirm_renting_2">Please go to the scooter and make sure the plate number is correct before pressing {start}Rent{end}</string>
+    <string name="text_view_confirm_reservation">You have {start}10{end} minutes remaining on your reservation</string>
+    <string name="text_view_confirm_return_1">The fees will be automatically charged when you {start}return{end} the scooter</string>
+    <string name="text_view_confirm_return_2">Please make sure you put the helmet back to the trunk</string>
+    <string name="text_view_confirm_return_3">Please make sure you park the WeMo scooter in the legal public parking space</string>
+    <string name="text_view_confirm_return_4">Please make sure you take the personal belongings with you before returning the scooter</string>
+    <string name="text_view_distance_remaining_label">DISTANCE REMAINING</string>
+    <string name="text_view_empty_date">YYYY-MM-dd</string>
+    <string name="text_view_hold_five_sec">Hold {start}3{end} seconds to power off scooter</string>
+    <string name="text_view_hour_label">Hour</string>
+    <string name="text_view_hour_value">0</string>
+    <string name="text_view_km_label">km</string>
+    <string name="text_view_label_price_receipt">PRICE</string>
+    <string name="text_view_label_rate_receipt">RATE</string>
+    <string name="text_view_label_time_receipt">TIME</string>
+    <string name="text_view_low_bat_msg_0">Your scooter is out of battery.</string>
+    <string name="text_view_low_bat_msg_20">Your scooter is out of battery. Scooter will be turn off, Please remove your items from the trunk and return the WeMo scooter.</string>
+    <string name="text_view_low_bat_msg_30">Your scooter is out of battery. Please remove your items from the trunk and return the WeMo scooter.</string>
+    <string name="text_view_low_battery_message">Your scooter is out of battery. Please remove your items from the trunk and return the WeMo scooter.</string>
+    <string name="text_view_low_battery_title">*Low Battery*</string>
+    <string name="text_view_minutes_label">Minutes</string>
+    <string name="text_view_minutes_value">0</string>
+    <string name="text_view_over_time_reservation">You have gone over the time limit on your reservation</string>
+    <string name="text_view_payplayment2_credit_card">Credit Card</string>
+    <string name="text_view_payplayment2_payway">Payment</string>
+    <string name="text_view_price_currency">NT</string>
+    <string name="text_view_price_dollar">$</string>
+    <string name="text_view_price_value">0</string>
+    <string name="text_view_registration_hint_documents">"Taiwan's Ministry of Transportation and Communication requires us to keep records of our users Identification, Passport, Driver's License, and Selfie for legal rental of a motor vehicle. Any information we receive will be kept private and for WeMo Scooter use only."</string>
+    <string name="text_view_registration_hint_page1">"Taiwan's Ministry of Transportation and Communication requires us to match your information based on your ID. If your information does not match your ID we will not be able to approve your registration. Any information we receive will be kept private and for WeMo Scooter use only."</string>
+    <string name="text_view_registration_hint_payway_wemo_wallet">WeMo Wallet</string>
+    <string name="text_view_ride_distance_label">RIDE DISTANCE</string>
+    <string name="text_view_ride_time_label">RIDE TIME</string>
+    <string name="text_view_time_remaining">REMAINING</string>
+    <string name="text_view_wemo_care_text_one">Please do not place your cellphone in the seat compartment</string>
+    <string name="text_view_wemo_care_text_two">Please make sure to return the scooter to our operation district and in legal parking</string>
+    <string name="text_view_wemo_how">"Press hand brakes and yellow parking button together for several seconds as shown to turn on scooter.
+Display \"00\" will change to \"0\"."</string>
+    <string name="title_activity_payment2">Payment2Activity</string>
+    <string name="title_choose_payment">Almost done</string>
+    <string name="title_introduction_cards_five">Reserve and Start Riding</string>
+    <string name="title_introduction_cards_four">Register on our WeMo App</string>
+    <string name="title_introduction_cards_one">Keyless</string>
+    <string name="title_introduction_cards_six">Parking</string>
+    <string name="title_introduction_cards_three">Quick and Easy</string>
+    <string name="title_introduction_cards_two">Free Flow System</string>
+    <string name="title_registration_complete">Registration Submitted</string>
+    <string name="toast_flash_unavailable">Flash is unavailable!</string>
+    <string name="toast_open_camera_error">Open Camera ERROR!</string>
+    <string name="toast_take_photo_error">Take Picture ERROR!</string>
+    <string name="toast_take_photo_error_try">Reinitialize…Please try again…</string>
+    <string name="turn_off_body">"To Power Off the scooter please press
+ Power Off for 3 seconds. This will not
+ end your rental. You will be prompted
+ again to return the rental."</string>
+    <string name="turn_off_btn_text">Turn Off</string>
+    <string name="turn_off_title">Power Off Scooter</string>
+    <string name="turn_on_body">"The scooter will power
+ on. To ride you will
+ need to hold down the
+ hand brakes and push
+ the yellow parking
+ button for 10 seconds.
+ The speedometer will
+ change from blinking
+“00” to a solid “0”."</string>
+    <string name="turn_on_btn_text">Turn On</string>
+    <string name="turn_on_title">Power On Scooter</string>
+    <string name="user_info_update_button">Update</string>
+    <string name="user_info_update_error">An error occurred while updating user information</string>
+    <string name="user_info_updated">User information updated</string>
+    <string name="valid_user_rating">Your rating has been sent correctly</string>
+    <string name="wallet_no_money_alert_dialog">Insufficient balance in your wallet! Please charge your wallet using (Web)ATM/convenient stores. You can also change payment method to credit card. Once successful, unpaid amount will be automatically deducted.</string>
+    <string name="warning_battery_level">Scooter speed will be limited when battery charge drops below 30％. Scooter under 30％ charge cannot be rented again once returned.</string>
+    <string name="warning_low_battery_0">Your scooter is out of battery. You will not be able to start the scooter again shutting off.</string>
+    <string name="warning_low_battery_20">"Your scooter is almost out of battery.
+Please return the WeMo Scooter."</string>
+    <string name="warning_low_battery_30">Your WeMo Scooter has been speed limited.</string>
+    <string name="warning_low_battery_after_turn_off">You will not be able to rent this scooter again after it is returned.</string>
+    <string name="wemo_assistance_number">tel:0809091880</string>
+    <string name="wemo_credit_balance">Available WeMo Credit</string>
+    <string name="wemo_credit_blank_list_content">"Share your invite code with your friends,
+and receive WeMo Credit!"</string>
+    <string name="wemo_credit_blank_list_title">No WeMo Credit now</string>
+    <string name="wemo_credit_details">Details</string>
+    <string name="wemo_credit_expiry">使用期限 %1$s</string>
+    <string name="wemo_credit_explanation_1">WeMo sometimes provides users with coupons ( WeMo Credit ) in the promotion programs.</string>
+    <string name="wemo_credit_explanation_2">In your order, we would deduct the payment amount from WeMo Credit first and then from your Credit Card or WeMo Wallet.</string>
+    <string name="wemo_credit_explanation_3" />
+    <string name="wemo_credit_invalid">History</string>
+    <string name="wemo_credit_no_expiry">無使用期限</string>
+    <string name="wemo_credit_type_activity">WeMo 活動</string>
+    <string name="wemo_credit_type_invitee">好友推薦</string>
+    <string name="wemo_credit_type_inviter">推薦朋友回饋</string>
+    <string name="wemo_credit_type_oldFriend">老朋友騎乘金</string>
+    <string name="wemo_credit_type_refund">WeMo 返還騎乘金</string>
+    <string name="wemo_credit_type_vip">WeMo 特別金</string>
+    <string name="wemo_credit_valid">Current</string>
+    <string name="wemo_look_text">"Your scooter has been
+ reserved. Please verify
+ the license plate of the
+ scooter matches the
+ plate number dis-
+ played at the top of
+ the app."</string>
+    <string name="write_storage">Write Storage</string>
+    <string name="your_ride_title">Your Ride</string>
+</resources>

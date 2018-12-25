@@ -1,0 +1,1260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b>&lt;br />on your smartphone or computer&lt;br />and enter this code</string>
+    <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_like_button_liked">Liked</string>
+    <string name="com_facebook_like_button_not_liked">Like</string>
+    <string name="com_facebook_loading">Loading...</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_loginview_log_in_button">Log in</string>
+    <string name="com_facebook_loginview_log_in_button_long">Log in with Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="com_facebook_send_button_text">Send</string>
+    <string name="com_facebook_share_button_text">Share</string>
+    <string name="com_facebook_tooltip_default">"New! You're in control - choose what info you want to share with apps."</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="messenger_send_button_text">Send</string>
+    <string name="search_menu_title">Search</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="account_binding_text">"綁定遊戲帳號教學
+ 一、於您欲儲值的遊戲中選擇GASH會員扣點方式，將會連結至GASH登入畫面，請輸入GASH會員帳號密碼按「登入」。 
+二、選擇扣點方式【樂點會員點數】。 
+三、自行設定遊戲名稱，未來此遊戲帳號進行會員扣點時，無需再次登入GASH會員帳號僅需輸入安全鎖。 
+四、輸入【安全鎖】，按下「確認」送出，驗證成功即完成交易，可重新確認點數。 
+
+解除綁定遊戲帳號教學 
+一、於GASH官網(https://tw.gashpoint.com)登入您的會員帳號，輸入GASH會員帳號密碼及圖形驗證碼按「登入｣。 
+二、點選右上角【會員中心】→【遊戲綁定】。 
+三、進行安全鎖驗證，請輸入安全鎖後按【確認】。 
+四、通過驗證後即可對綁定的遊戲帳號進行編輯或解除綁定。 
+五、點選遊戲名稱前方的綠色編輯鈕，可進行遊戲名稱修改。出現編輯框後可修改遊戲名稱，按勾號存檔，也可按編輯框內的紅色X鈕選擇結束編輯不存檔。存檔後會出現「更改成功」。 
+六、若欲解除遊戲綁定，請點選解除綁定下方的紅色X號，會再次出現安全鎖驗證，輸入驗證通過後，可解除遊戲綁定
+
+"</string>
+    <string name="actionbar_title_activities">活動瀏覽</string>
+    <string name="actionbar_title_addfriend_qrcode">QrCode加好友</string>
+    <string name="actionbar_title_bitcash">BitCash</string>
+    <string name="actionbar_title_bitcash2">兌換紀錄</string>
+    <string name="actionbar_title_deduct">會員交易</string>
+    <string name="actionbar_title_exchange">兌換</string>
+    <string name="actionbar_title_exchange2">儲值密碼提領</string>
+    <string name="actionbar_title_member_modify">帳號管理</string>
+    <string name="actionbar_title_message">通知中心</string>
+    <string name="actionbar_title_my_friend">我的好友</string>
+    <string name="actionbar_title_set_advance">進階驗證</string>
+    <string name="actionbar_title_setting">設定</string>
+    <string name="add_photo">新增相片</string>
+    <string name="all_product_type">全部商品</string>
+    <string name="app_name">GASH</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="appsflyer_id">ruhxxngphKvCxGDajitzHb</string>
+    <string name="bitcash_cid">C005710000962</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="btn_back_browse">回商品瀏覽</string>
+    <string name="btn_cancel">取消</string>
+    <string name="btn_check">查看</string>
+    <string name="btn_no">否</string>
+    <string name="btn_save">去儲值</string>
+    <string name="btn_text_agree_inviting">同意</string>
+    <string name="btn_text_bitcash">BitCash兌換</string>
+    <string name="btn_text_bonus">積分兌換</string>
+    <string name="btn_text_confirm_and_send">確認送出</string>
+    <string name="btn_text_confirm_to_exchange">確定兌換</string>
+    <string name="btn_text_create">建立</string>
+    <string name="btn_text_delete">刪除</string>
+    <string name="btn_text_deposit">點數儲值</string>
+    <string name="btn_text_disagree_inviting">拒絕</string>
+    <string name="btn_text_edit">修改</string>
+    <string name="btn_text_epin">儲值密碼提領</string>
+    <string name="btn_text_exchange">兌換</string>
+    <string name="btn_text_forgot_pwd">忘記密碼</string>
+    <string name="btn_text_friend">好友</string>
+    <string name="btn_text_from_camera">拍攝照片</string>
+    <string name="btn_text_from_gallery">選擇照片</string>
+    <string name="btn_text_gash_account">GASH帳號</string>
+    <string name="btn_text_go_exchange">立即兌換</string>
+    <string name="btn_text_immediate_use">立即使用</string>
+    <string name="btn_text_immediate_use_bitcash">馬上使用</string>
+    <string name="btn_text_invite_friend">邀請好友</string>
+    <string name="btn_text_invite_ladar">雷達互搜</string>
+    <string name="btn_text_join">加入</string>
+    <string name="btn_text_logout">登出</string>
+    <string name="btn_text_merge">餘額合併</string>
+    <string name="btn_text_modify">修改</string>
+    <string name="btn_text_modify_pwd">設定密碼</string>
+    <string name="btn_text_modify_security_code">設定安全鎖</string>
+    <string name="btn_text_my_friend">我的好友</string>
+    <string name="btn_text_new_group">新增群組</string>
+    <string name="btn_text_ok">確定</string>
+    <string name="btn_text_point">加點數</string>
+    <string name="btn_text_qrcode">QRCode</string>
+    <string name="btn_text_resend_otp">重新寄發驗證簡訊</string>
+    <string name="btn_text_start">開始使用</string>
+    <string name="btn_text_take_bonus">拿取獎勵</string>
+    <string name="btn_text_take_bonus_done">今日已拿取</string>
+    <string name="btn_text_update">升級</string>
+    <string name="btn_text_verify_email">Email驗證</string>
+    <string name="btn_text_verify_mobile">驗證號碼</string>
+    <string name="btn_understand">我了解了</string>
+    <string name="btn_yes">是</string>
+    <string name="cancel_order">取消訂單</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="com.crashlytics.android.build_id">e023249d-8db4-44d5-a3fc-26f526d6975a</string>
+    <string name="contact_info">聯絡資訊</string>
+    <string name="contact_mail">電子郵件(e-mail)</string>
+    <string name="contact_phone">手機聯絡</string>
+    <string name="custody_statement">款項保管說明</string>
+    <string name="default_web_client_id">416869372651-4ooito7veftl17lbkfujp3m3rrophp4g.apps.googleusercontent.com</string>
+    <string name="define_permissionutils">year;owner</string>
+    <string name="define_roundedimageview" />
+    <string name="delete">刪除</string>
+    <string name="delete_product">刪除商品</string>
+    <string name="denied_call_phone">無法取得撥打電話權限，請確認權限是否開啟</string>
+    <string name="deposit_edit_hint">請輸入10、14、20或21碼英數字組合</string>
+    <string name="deposit_family_edit_hint">輸入點數面額</string>
+    <string name="deposit_title_deposit">點數儲值</string>
+    <string name="deposit_title_family">立即儲</string>
+    <string name="deposit_title_ocr">儲值密碼掃描</string>
+    <string name="dialog_btn_block_friend">封鎖好友</string>
+    <string name="dialog_btn_delete_group">刪除群組</string>
+    <string name="dialog_btn_lineagem_no_notify">今日不再提醒</string>
+    <string name="dialog_btn_unblock_friend">解除封鎖</string>
+    <string name="dialog_hint_email">請輸入Email</string>
+    <string name="dialog_hint_game_name">遊戲名稱</string>
+    <string name="dialog_hint_gash_account">輸入GASH帳號</string>
+    <string name="dialog_msg_add_ticket_success">兌換成功，請至「兌換票券區」查看票券明細。</string>
+    <string name="dialog_msg_amount_not_enough">餘額不足,立即前往儲值?</string>
+    <string name="dialog_msg_amount_not_enough2">餘額不足</string>
+    <string name="dialog_msg_bonus_cant_exchange">您的積分不足，去獲得更多積分?</string>
+    <string name="dialog_msg_bonus_gash_res_des">提醒:請妥善保存您的儲值密碼,可於積分紀錄中的兌換紀錄頁查詢</string>
+    <string name="dialog_msg_bonus_hint1">是否用</string>
+    <string name="dialog_msg_bonus_hint2">積分兌換</string>
+    <string name="dialog_msg_confirm_logout">確認登出帳號?</string>
+    <string name="dialog_msg_create_group_error_no_group_name">未設定群組名稱</string>
+    <string name="dialog_msg_create_group_fail">建立群組失敗,請檢查手機連線或稍後再試</string>
+    <string name="dialog_msg_create_group_success">建立群組成功</string>
+    <string name="dialog_msg_del_bitcash_card_confirm">確認刪除卡片?</string>
+    <string name="dialog_msg_del_friend_done">刪除完成</string>
+    <string name="dialog_msg_email_format_error">Email格式輸入錯誤</string>
+    <string name="dialog_msg_epin_res_des">以下為您所兌換的儲值密碼:</string>
+    <string name="dialog_msg_epin_res_des2">提醒:請妥善保存你的儲值密碼,可於儲值密碼提領的兌換紀錄頁查詢</string>
+    <string name="dialog_msg_epin_res_des3">"提醒您:
+本頁面所兌換之點數，可於各適用遊戲使用。
+一經兌換即無法申請退貨服務。
+請您留意各遊戲儲值限制(面額/點數來源…等等)"</string>
+    <string name="dialog_msg_exchange_hint1">是否要用GASH</string>
+    <string name="dialog_msg_exchange_hint2">點兌換BitCash</string>
+    <string name="dialog_msg_exchange_success">購買成功</string>
+    <string name="dialog_msg_find_friend_error">找不到此好友</string>
+    <string name="dialog_msg_find_member_error">此GASH帳號不存在</string>
+    <string name="dialog_msg_format_error">輸入格式錯誤</string>
+    <string name="dialog_msg_game_name_edit">請輸入欲修改的遊戲名稱</string>
+    <string name="dialog_msg_game_relieve">確認刪除「</string>
+    <string name="dialog_msg_gash_res_des">以下為您所兌換的GASH點數:</string>
+    <string name="dialog_msg_gash_to_epin">點兌換儲值密碼?</string>
+    <string name="dialog_msg_get_bitcash_rate">正在載入國際匯率中,請稍候</string>
+    <string name="dialog_msg_get_setting">設定資料取得中</string>
+    <string name="dialog_msg_hint_input_otp">請輸入正確的簡訊驗證碼</string>
+    <string name="dialog_msg_hint_input_security_code">輸入6碼安全鎖</string>
+    <string name="dialog_msg_input_gash_account">請輸入好友的GASH帳號</string>
+    <string name="dialog_msg_input_nickname">請輸入暱稱</string>
+    <string name="dialog_msg_input_pwd_error">請輸入正確的密碼及格式</string>
+    <string name="dialog_msg_lineagem_pin_change_error">兌換失敗，請檢查網路是否連線正常</string>
+    <string name="dialog_msg_lineagem_pin_change_success">兌換成功</string>
+    <string name="dialog_msg_lineagem_wait">目前兌換區尚未開放，敬請期待！</string>
+    <string name="dialog_msg_location_error2">無法取得位置資訊,請前往設定開啟定位功能</string>
+    <string name="dialog_msg_mobile_error">請輸入手機號碼及正確的格式</string>
+    <string name="dialog_msg_modify_email_done">Email驗證信已寄出,請至信箱完成驗證</string>
+    <string name="dialog_msg_modify_info_done">修改完成</string>
+    <string name="dialog_msg_need_advanced_verify">請先進行進階驗證</string>
+    <string name="dialog_msg_no_reason">發生錯誤,請檢查手機連線或稍後再試</string>
+    <string name="dialog_msg_not_confirm_agreement">尚未同意使用條款</string>
+    <string name="dialog_msg_pwd_confirm_error">密碼確認錯誤</string>
+    <string name="dialog_msg_pwd_format_error">密碼格式輸入錯誤</string>
+    <string name="dialog_msg_pwd_format_wrong">密碼格式錯誤</string>
+    <string name="dialog_msg_relogin">重新設定密碼成功，開始使用吧!!</string>
+    <string name="dialog_msg_remove_member_from_group">確認從群組中移除好友:</string>
+    <string name="dialog_msg_remove_success">刪除成功</string>
+    <string name="dialog_msg_resend_otp_ok">已重新送出簡訊驗證碼</string>
+    <string name="dialog_msg_send_invite">已送出好友邀請</string>
+    <string name="dialog_msg_send_invite_done">已送出好友邀請</string>
+    <string name="dialog_msg_set_pwd_error">密碼輸入錯誤</string>
+    <string name="dialog_msg_share_fail">分享失敗</string>
+    <string name="dialog_msg_share_mission_to">確認分享任務給好友:</string>
+    <string name="dialog_msg_share_success">分享成功</string>
+    <string name="dialog_msg_submit_fail">領取失敗</string>
+    <string name="dialog_msg_submit_success">領取成功</string>
+    <string name="dialog_msg_trade_complete">交易完成</string>
+    <string name="dialog_msg_trans_mobile_success">帳號轉移成功,請以新帳號登入</string>
+    <string name="dialog_msg_unbind_credit_card">確認解除綁定?</string>
+    <string name="dialog_msg_upd_group_avatar_error">上傳頭像失敗</string>
+    <string name="dialog_msg_upd_group_fail">更新群組失敗</string>
+    <string name="dialog_msg_update_app">產品已更新，為確保使用權益，請立即前往下載。謝謝</string>
+    <string name="dialog_msg_upload_image_done">照片上傳成功</string>
+    <string name="dialog_msg_user_logout">帳號已被登出,請重新登入</string>
+    <string name="dialog_msg_wait_directing">請等待網頁倒數完畢後, 按下確認</string>
+    <string name="dialog_title_add_friend">加入好友</string>
+    <string name="dialog_title_exchange_notify">兌換提醒</string>
+    <string name="dialog_title_exchange_notify_2">扣除積分</string>
+    <string name="dialog_title_exchange_notify_3">積分兌換</string>
+    <string name="dialog_title_game_name_edit">遊戲名稱修改</string>
+    <string name="dialog_title_game_relieve">刪除提醒</string>
+    <string name="dialog_title_lineagem_pin_change_error">兌換錯誤</string>
+    <string name="dialog_title_lineagem_pin_change_success">兌換提醒</string>
+    <string name="dialog_title_notify">提醒通知</string>
+    <string name="dialog_title_rate_exchanged">匯率已更動</string>
+    <string name="dialog_title_security_check">驗證安全鎖</string>
+    <string name="disagree">不同意</string>
+    <string name="dollar">元</string>
+    <string name="drawer_item_everyday">每日</string>
+    <string name="drawer_item_only_mission">獨享任務</string>
+    <string name="drawer_item_only_pin">獨享序號</string>
+    <string name="drawer_item_share">分享</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">"DUMMY
+CONTENT"</string>
+    <string name="e000003001">認證失敗,請重新登入</string>
+    <string name="e000003003">更新暱稱失敗,請稍候再試</string>
+    <string name="e000009986">Email未驗證請至官網重新設定。</string>
+    <string name="e000009987">Email未驗證請至官網重新設定。</string>
+    <string name="e000009989">未完成手機與Email驗證,按下確定前往驗證</string>
+    <string name="e000009990">Email尚未認證,按下確定前往驗證</string>
+    <string name="e000009991">登入失敗,請稍後再試</string>
+    <string name="e000009992">登入失敗,帳號已被鎖定,請洽客服。</string>
+    <string name="e000009993">登入失敗,登入已被鎖定,請洽客服。</string>
+    <string name="e000009994">登入失敗,帳號密碼錯誤,或帳號不存在</string>
+    <string name="e000009995">帳號未完成手機驗證,按下確定前往驗證</string>
+    <string name="e000009996">登入失敗,帳號已被第三方註冊使用</string>
+    <string name="e000009997">登入失敗,地區選擇錯誤</string>
+    <string name="e000009998">登入失敗,請重新登入。</string>
+    <string name="e000009999">登入失敗,請重新登入。</string>
+    <string name="e000110000">Email已存在</string>
+    <string name="e000110300">請先完成所有驗證作業</string>
+    <string name="e000200000">舊密碼未完成輸入</string>
+    <string name="e000300000">照片上傳失敗,請稍候再試</string>
+    <string name="e001010000">驗證碼錯誤</string>
+    <string name="e001020000">驗證碼錯誤過期</string>
+    <string name="e001030000">驗證碼錯誤</string>
+    <string name="e001102000">請先進行Email驗證,以使用進階功能</string>
+    <string name="e001122000">登入失敗,地區選擇錯誤</string>
+    <string name="e001131000">安全鎖驗證錯誤</string>
+    <string name="e001601000">帳號不存在</string>
+    <string name="e001602000">任務不存在</string>
+    <string name="e001603000">任務已完成</string>
+    <string name="e001603100">任務領取失敗,請洽客服協助。</string>
+    <string name="e001604000">任務類型錯誤,請洽客服協助。</string>
+    <string name="e001605000">任務尚未開始</string>
+    <string name="e001606000">任務已過期。</string>
+    <string name="e001607000">任務領取失敗,請洽客服協助。</string>
+    <string name="e001608000">已過獨享階段,請進行分享。</string>
+    <string name="e001609000">請勿輸入自己的帳號資料。</string>
+    <string name="e001610000">好友帳號不存在。</string>
+    <string name="e001611000">尚未成為好友,無法進行分享。</string>
+    <string name="e001612000">目前還在獨享階段,無法進行分享。</string>
+    <string name="e001613000">分享任務尚未被接受,請提醒好友領取。</string>
+    <string name="e001615000">任務領取失敗,請洽客服協助。</string>
+    <string name="e001617000">領取任務失敗,請洽客服</string>
+    <string name="e001618000">任務領取失敗,請洽客服協助。</string>
+    <string name="e001619000">領取任務失敗,請洽客服</string>
+    <string name="e001620000">領取任務失敗,請洽客服</string>
+    <string name="e001620001">領取任務失敗,請洽客服</string>
+    <string name="e001620002">會員資料修改失敗,請重新操作</string>
+    <string name="e001620003">交易失敗，請重新操作</string>
+    <string name="e001620004">交易失敗，請重新操作</string>
+    <string name="e001620005">交易失敗，請重新操作</string>
+    <string name="e001620006">交易失敗，請重新操作</string>
+    <string name="e001701000">任務已過期。</string>
+    <string name="e001720001">資料讀取失敗,請洽客服</string>
+    <string name="e001780001">系統錯誤請稍候再試或洽客服</string>
+    <string name="e001820001">兌換失敗：輸入錯誤</string>
+    <string name="e001920001">兌換失敗：已被使用</string>
+    <string name="e008310000">簡訊OTP驗證碼發送次數已達上限</string>
+    <string name="e010102000">錢包餘額不足，請先進行儲值</string>
+    <string name="e011001000">交易失敗，請重新操作</string>
+    <string name="e011002000">扣點失敗,請洽客服協助。</string>
+    <string name="e011003000">扣點失敗,請洽客服協助。</string>
+    <string name="e011004000">交易失敗，請重新操作</string>
+    <string name="e011012000">扣點失敗,請洽客服協助。</string>
+    <string name="e011022000">扣點失敗,請洽客服協助。</string>
+    <string name="e011023000">扣點失敗,請洽客服協助。</string>
+    <string name="e011114000">交易失敗，請重新操作</string>
+    <string name="e011121000">安全鎖修改失敗</string>
+    <string name="e012102000">遊戲帳號名稱綁定重複。</string>
+    <string name="e012103000">遊戲帳號綁定失敗,請重新操作。</string>
+    <string name="e012104000">解除遊戲綁定失敗,請洽客服</string>
+    <string name="e012105000">修改綁定名稱失敗,請洽客服</string>
+    <string name="e012110000">資料讀取失敗,請洽客服</string>
+    <string name="e013100000">已送過邀請或已是好友</string>
+    <string name="e013110000">新增好友失敗</string>
+    <string name="e013200000">好友帳號不存在。</string>
+    <string name="e031121000">安全鎖輸入錯誤</string>
+    <string name="e100000001">領取任務失敗,請洽客服</string>
+    <string name="e100000002">領取任務失敗,請洽客服</string>
+    <string name="e100000003">領取任務失敗,請洽客服</string>
+    <string name="e100000004">領取任務失敗,請洽客服</string>
+    <string name="e100000005">領取任務失敗,請洽客服</string>
+    <string name="e100000006">領取任務失敗,請洽客服</string>
+    <string name="e100100001">登入失敗,請稍後再試</string>
+    <string name="e100100003">登入失敗,請稍後再試</string>
+    <string name="e100500003">QRCode登入失敗</string>
+    <string name="e100800003">資料更新失敗,請稍候再試</string>
+    <string name="e101787000">帳號異常,請洽客服。</string>
+    <string name="e101789000">帳號異常,請洽客服。</string>
+    <string name="e101790000">帳號異常,請洽客服。</string>
+    <string name="e101993000">連線逾時,請重新登入。</string>
+    <string name="e101996000">為了安全，系統已將您登出，請重新登入。</string>
+    <string name="e101997000">連線逾時,請重新登入。</string>
+    <string name="e101998000">連線逾時,請重新登入。</string>
+    <string name="e102000000">入點失敗,請洽客服協助。</string>
+    <string name="e102001000">入點失敗,請洽客服協助。</string>
+    <string name="e102003000">入點失敗,請洽客服協助。</string>
+    <string name="e102004000">入點失敗,請洽客服協助。</string>
+    <string name="e102005000">入點失敗,請洽客服協助。</string>
+    <string name="e102006000">入點失敗,請洽客服協助。</string>
+    <string name="e102020000">入點失敗,請洽客服協助。</string>
+    <string name="e102190011">資料查詢失敗,請重新操作</string>
+    <string name="e102190013">資料查詢失敗,請重新操作</string>
+    <string name="e103110001">交易失敗，請重新操作</string>
+    <string name="e103110002">交易失敗，請重新操作</string>
+    <string name="e103110003">交易失敗，請重新操作</string>
+    <string name="e103120001">遊戲綁定失敗,請重新操作</string>
+    <string name="e103120003">遊戲綁定失敗,請重新操作</string>
+    <string name="e103130001">遊戲帳號綁定失敗,請重新操作。</string>
+    <string name="e103130003">遊戲帳號綁定失敗,請重新操作。</string>
+    <string name="e103130004">交易失敗，請重新操作</string>
+    <string name="e103130005">交易失敗，請重新操作</string>
+    <string name="e103150001">交易失敗，請重新操作</string>
+    <string name="e103150003">交易失敗，請重新操作</string>
+    <string name="e103150021">資料查詢失敗,請重新操作</string>
+    <string name="e103150023">資料查詢失敗,請重新操作</string>
+    <string name="e103150024">查詢資料失敗,請重新操作</string>
+    <string name="e103150061">查詢資料失敗,請重新操作</string>
+    <string name="e103150063">查詢資料失敗,請重新操作</string>
+    <string name="e103150071">解除遊戲綁定失敗,請洽客服</string>
+    <string name="e103150073">解除遊戲綁定失敗,請洽客服</string>
+    <string name="e103150081">修改綁定名稱失敗,請重新操作</string>
+    <string name="e103150083">修改綁定名稱失敗,請重新操作</string>
+    <string name="e103160003">交易失敗，請重新操作</string>
+    <string name="e104226001">資料查詢失敗,請重新操作</string>
+    <string name="e104226003">資料查詢失敗,請重新操作</string>
+    <string name="e105007000">伺服器異常,請洽客服協助。</string>
+    <string name="e105019000">伺服器異常,請洽客服協助。</string>
+    <string name="e105020000">伺服器異常,請洽客服協助。</string>
+    <string name="e112310004">密碼輸入錯誤</string>
+    <string name="e114101000">點數領取失敗,請洽客服協助。</string>
+    <string name="e133077000">儲值密碼兌換功能於10:00~11:00執行停機維護，請於11:00過後再進行使用，造成不便之處敬請見諒!</string>
+    <string name="e500010001">新增好友失敗</string>
+    <string name="e500010003">新增好友失敗</string>
+    <string name="e500020001">新增好友失敗</string>
+    <string name="e500110001">資料讀取失敗,請洽客服</string>
+    <string name="e500110003">資料讀取失敗,請洽客服</string>
+    <string name="e500210001">帳號異常,請洽客服。</string>
+    <string name="e500210003">帳號異常,請洽客服。</string>
+    <string name="e500310001">資料修改失敗,請重新操作</string>
+    <string name="e500310003">資料修改失敗,請重新操作</string>
+    <string name="e510001003">取得首頁資訊失敗-Logic</string>
+    <string name="e510002000">取得首頁資訊-金額失敗</string>
+    <string name="e510003000">取得首頁資訊-等待扣款單失敗</string>
+    <string name="e510004000">取得首頁資訊-客製化中央卡片失敗</string>
+    <string name="e510005000">取得首頁資訊-取得母卡資訊失敗</string>
+    <string name="e510006000">取得首頁資訊-取得右側選單失敗</string>
+    <string name="e510007000">取得首頁資訊-取得通知中心數量失敗</string>
+    <string name="e510008000">取得首頁資訊-取得消失的任務失敗</string>
+    <string name="e510009000">取得首頁資訊-分享後領取完成的訊息失敗</string>
+    <string name="e543210010">刪除卡片失敗,請洽客服</string>
+    <string name="e600012002">連續多次序號輸入錯誤，請於30分鐘後再次嘗試！</string>
+    <string name="e601001003">無法完成驗證,請洽客服</string>
+    <string name="e601003003">無法完成驗證,請洽客服</string>
+    <string name="e602002003">無法完成驗證,請洽客服</string>
+    <string name="e620001001">刪除卡片失敗,請洽客服</string>
+    <string name="e620001003">刪除卡片失敗,請洽客服</string>
+    <string name="e630001001">分享失敗,請洽客服</string>
+    <string name="e630001003">分享失敗,請洽客服</string>
+    <string name="e630002000">好友帳號不存在。</string>
+    <string name="e630002100">請勿輸入自己的帳號資料。</string>
+    <string name="e630002110">任務類型錯誤,請重新開啟APP。</string>
+    <string name="e630002120">無法進行分享。</string>
+    <string name="e630002130">任務分享記錄更新失敗</string>
+    <string name="e630002140">任務更新失敗</string>
+    <string name="e630002150">任務新增好友失敗</string>
+    <string name="e630002200">好友帳號不存在。</string>
+    <string name="e630002300">尚未成為好友,無法進行分享。</string>
+    <string name="e630002400">任務不存在,請重新開啟APP。</string>
+    <string name="e630002500">任務類型錯誤,請重新開啟APP。</string>
+    <string name="e630002600">任務已完成</string>
+    <string name="e630002700">任務尚未開始,請重新開啟APP。</string>
+    <string name="e630002800">任務尚未開始,請重新開啟APP。</string>
+    <string name="e630002900">任務已完成</string>
+    <string name="e640001001">任務領取失敗,請洽客服協助。</string>
+    <string name="e640001003">任務領取失敗,請洽客服協助。</string>
+    <string name="e650001001">領取任務失敗,請洽客服</string>
+    <string name="e650001003">領取任務失敗,請洽客服</string>
+    <string name="e650002000">帳號不存在</string>
+    <string name="e650002100">任務不存在</string>
+    <string name="e650002200">領取任務失敗,請重新操作</string>
+    <string name="e650002300">任務已完成</string>
+    <string name="e650002400">任務領取失敗,請洽客服協助。</string>
+    <string name="e650002500">任務已過期。</string>
+    <string name="e650002600">任務尚未開始,請重新開啟APP。</string>
+    <string name="e650002700">領取任務失敗,請重新操作</string>
+    <string name="e708500000">兌換失敗：輸入錯誤</string>
+    <string name="e708600000">兌換失敗：活動尚未開放</string>
+    <string name="e708700000">兌換失敗！預計於12月份開放兌換，敬請期待!!!</string>
+    <string name="e708800000">此活動已結束！無法兌換</string>
+    <string name="e900000001">註冊失敗,Email格式錯誤。</string>
+    <string name="e900000002">Email輸入錯誤</string>
+    <string name="e900000003">Email輸入錯誤</string>
+    <string name="e900000004">Email輸入錯誤</string>
+    <string name="e900200001">註冊失敗,Email格式錯誤。</string>
+    <string name="e900200002">註冊失敗,密碼格式錯誤。</string>
+    <string name="e900200004">註冊失敗,手機號碼格式錯誤。</string>
+    <string name="e901000002">照片上傳失敗,請稍候再試</string>
+    <string name="e901000003">照片檔案過大,上傳失敗</string>
+    <string name="e901000004">照片上傳失敗,請稍候再試</string>
+    <string name="e901000005">照片上傳失敗,請稍候再試</string>
+    <string name="e901000006">照片上傳失敗,請稍候再試</string>
+    <string name="e901634000">ID_Goods為空</string>
+    <string name="e910000001">任務不存在,請重新開啟APP。</string>
+    <string name="e910000003">系統繁忙,請稍後再試。</string>
+    <string name="e910200001">註冊失敗,Email已被使用</string>
+    <string name="e910200003">註冊失敗,手機號碼已被使用</string>
+    <string name="e910200004">註冊失敗</string>
+    <string name="e911000002">註冊失敗,Email已被使用</string>
+    <string name="e911000992">請前往官網進行Facebook帳號升級,或洽客服</string>
+    <string name="e911900000">此活動已結束！無法兌換</string>
+    <string name="e912000001">交易失敗，請重新操作</string>
+    <string name="e912000002">由於國際匯率波動,系統進行調整中,請稍後再進行交易,謝謝</string>
+    <string name="e912000003">GASH餘額不足 立即儲值</string>
+    <string name="e912000004">無法讀取資料,請重新再試</string>
+    <string name="e912000005">交易失敗，請重新操作</string>
+    <string name="e912000006">交易失敗，請重新操作</string>
+    <string name="e912000007">BitCash兌換失敗，請重新操作</string>
+    <string name="e912000008">交易失敗，請重新操作</string>
+    <string name="e912000009">交易失敗，請重新操作</string>
+    <string name="e920200004">帳號不存在</string>
+    <string name="e920200005">簡訊OTP驗證碼發送次數已達上限</string>
+    <string name="e920200010">Email發送失敗,請稍候再試或更換Email</string>
+    <string name="e920400009">Email輸入格式錯誤</string>
+    <string name="e920400010">會員密碼輸入格式錯誤</string>
+    <string name="e920400011">會員安全鎖輸入格式錯誤</string>
+    <string name="e920410009">此Email已被使用</string>
+    <string name="e922000001">未輸入安全鎖</string>
+    <string name="e922000002">安全鎖驗證錯誤</string>
+    <string name="e923000002">未設定安全鎖,請前往設定</string>
+    <string name="e930200001">驗證碼錯誤</string>
+    <string name="e930200002">驗證碼逾時</string>
+    <string name="e930200003">此手機號碼已驗證</string>
+    <string name="e930200006">驗證碼不可為空</string>
+    <string name="e930200009">此Email已驗證</string>
+    <string name="e999993901">入點失敗,請洽客服協助。</string>
+    <string name="e999993902">入點失敗,儲值密碼已鎖定</string>
+    <string name="e999993903">入點失敗,儲值密碼已使用</string>
+    <string name="e999993904">入點失敗,儲值密碼錯誤</string>
+    <string name="e999993905">入點失敗,儲值密碼無法使用</string>
+    <string name="e999993906">入點失敗,儲值密碼錯誤</string>
+    <string name="e999999900">由於國際匯率波動,系統進行調整中,請稍後再進行交易,謝謝</string>
+    <string name="e999999993">登入失敗,請稍後再試</string>
+    <string name="e999999994">登入失敗，請檢查你的網路連線後再試一次</string>
+    <string name="e999999995">密碼未設定</string>
+    <string name="e999999996">登入失敗,請稍後再試</string>
+    <string name="e999999997">為了安全，系統已將您登出，請重新登入。</string>
+    <string name="e999999999">請重新操作或洽客服</string>
+    <string name="edit">修改</string>
+    <string name="edit_product">編輯商品</string>
+    <string name="error_email_format">Email格式錯誤</string>
+    <string name="error_handle_intent">沒有可使用的app</string>
+    <string name="error_no_agree">尚未同意商品刊登條款</string>
+    <string name="error_no_cover">尚未新增寶物照片</string>
+    <string name="error_no_input">尚未填寫</string>
+    <string name="error_permission">無法取得權限，請檢查權限是否開啟</string>
+    <string name="eventlist_copy_serialno">已複製序號</string>
+    <string name="exchange_point">兌換點數</string>
+    <string name="facebook_app_id">462555607275759</string>
+    <string name="firebase_database_url">https://gash-3.firebaseio.com</string>
+    <string name="friend_add_by_qrcode">QRCode加好友</string>
+    <string name="friend_blocked">黑名單</string>
+    <string name="friend_inviting">正在邀請</string>
+    <string name="friend_is_friend">好友</string>
+    <string name="friend_new">新好友</string>
+    <string name="friend_new_invite">收到邀請</string>
+    <string name="ga_act_back_maincard">回首頁點擊</string>
+    <string name="ga_act_click_drawer">測選單點擊</string>
+    <string name="ga_act_delete_mission">刪除卡片</string>
+    <string name="ga_act_enter_card_group">進入卡片群組</string>
+    <string name="ga_act_game_bind">遊戲綁定</string>
+    <string name="ga_act_group_master">群組母卡點擊</string>
+    <string name="ga_act_group_sub">群組子卡點擊</string>
+    <string name="ga_act_know">點擊瞭解更多</string>
+    <string name="ga_act_know_more">了解更多</string>
+    <string name="ga_act_point_record">點數紀錄</string>
+    <string name="ga_act_qrlogin">使用掃描登入</string>
+    <string name="ga_act_scratch_done">刮刮完成</string>
+    <string name="ga_act_see_detail">檢視卡片詳情</string>
+    <string name="ga_act_share_mission">分享任務</string>
+    <string name="ga_act_start_scratch">開始刮獎品</string>
+    <string name="ga_act_submit_mission">領取任務</string>
+    <string name="ga_action_click_group_master">點擊母卡</string>
+    <string name="ga_action_deposit_family">使用立即儲</string>
+    <string name="ga_action_deposit_manul">手動輸入</string>
+    <string name="ga_action_deposit_ocr">使用OCR</string>
+    <string name="ga_action_deposit_qrcode">使用QR code</string>
+    <string name="ga_cate_card_detail">卡片Detail頁</string>
+    <string name="ga_cate_card_group">卡片群組</string>
+    <string name="ga_cate_deposit">儲值</string>
+    <string name="ga_cate_main">首頁</string>
+    <string name="ga_cate_qrlogin">掃描登入</string>
+    <string name="ga_cate_record">我的點數</string>
+    <string name="ga_cate_scratch">刮刮卡</string>
+    <string name="ga_label_all_trans">全部交易</string>
+    <string name="ga_label_deduct_trans">兌換交易</string>
+    <string name="ga_label_deposit_trans">儲值交易</string>
+    <string name="ga_label_mastercard">中間主卡</string>
+    <string name="ga_label_modify_game_name">修改遊戲名稱</string>
+    <string name="ga_label_remove_bind">刪除綁定</string>
+    <string name="gash_walletid">T00013TWD</string>
+    <string name="gcm_defaultSenderId">416869372651</string>
+    <string name="general_string_error_format1">(代碼:</string>
+    <string name="general_string_error_format2">)</string>
+    <string name="google_api_key">AIzaSyDMRPg-vj_2hlY8EjLaEh1gbRMf5ZmWPO4</string>
+    <string name="google_app_id">1:416869372651:android:43e8903000d66f96</string>
+    <string name="google_crash_reporting_api_key">AIzaSyDMRPg-vj_2hlY8EjLaEh1gbRMf5ZmWPO4</string>
+    <string name="google_storage_bucket">gash-3.appspot.com</string>
+    <string name="hint_contact">請輸入聯絡資訊</string>
+    <string name="hint_exchange">請選擇兌換方式</string>
+    <string name="hint_explain">"商品說明
+請簡單敘述商品 ex.擁有即可暢玩星城任何館別"</string>
+    <string name="hint_game">請選擇遊戲</string>
+    <string name="hint_name">請輸入商品標題</string>
+    <string name="hint_not_required">選填</string>
+    <string name="hint_note">還有什麼要對買家說明的注意事項呢？</string>
+    <string name="hint_required">必填</string>
+    <string name="hint_search">請輸入搜尋關鍵字</string>
+    <string name="hint_server">請選擇伺服器</string>
+    <string name="hint_time">承諾交易時間</string>
+    <string name="hint_type">請選擇產品類型</string>
+    <string name="i_agree">我同意</string>
+    <string name="input_amount">輸入兌換金額</string>
+    <string name="input_gash_point">請輸入GASH兌換點數</string>
+    <string name="input_point">輸入兌換點數</string>
+    <string name="js_interface">app</string>
+    <string name="legal_agree">我已閱讀並同意上述內容</string>
+    <string name="library_permissionutils_author">Raphaël Bussa</string>
+    <string name="library_permissionutils_authorWebsite">http://rebus007.altervista.org</string>
+    <string name="library_permissionutils_isOpenSource">true</string>
+    <string name="library_permissionutils_libraryDescription">Check marshmallow permission easily</string>
+    <string name="library_permissionutils_libraryName">Permission Utils</string>
+    <string name="library_permissionutils_libraryVersion">@string/version</string>
+    <string name="library_permissionutils_libraryWebsite">https://rebus007.github.io/PermissionUtils</string>
+    <string name="library_permissionutils_licenseId">mit</string>
+    <string name="library_permissionutils_owner">Raphaël Bussa</string>
+    <string name="library_permissionutils_repositoryLink">https://github.com/rebus007/PermissionUtils</string>
+    <string name="library_permissionutils_year">2016</string>
+    <string name="library_roundedimageview_author">Vince Mi</string>
+    <string name="library_roundedimageview_authorWebsite">https://github.com/vinc3m1</string>
+    <string name="library_roundedimageview_isOpenSource">true</string>
+    <string name="library_roundedimageview_libraryDescription">A fast ImageView (and Drawable) that supports rounded corners (and ovals or circles) based on the original example from Romain Guy.</string>
+    <string name="library_roundedimageview_libraryName">RoundedImageView</string>
+    <string name="library_roundedimageview_libraryVersion">1.3.0</string>
+    <string name="library_roundedimageview_libraryWebsite">https://github.com/vinc3m1/RoundedImageView</string>
+    <string name="library_roundedimageview_licenseId">apache_2_0</string>
+    <string name="library_roundedimageview_repositoryLink">https://github.com/vinc3m1/RoundedImageView.git</string>
+    <string name="msg_delete">確定要刪除此商品?</string>
+    <string name="msg_dialog_legal">"註冊帳戶 
+您須提供一個有效的電子郵件信箱／手機號碼／真實姓名作為使用本平台服務註冊帳戶之用，您並同意以該電子郵件信箱或手機號碼作為豐樂活平台就有關本平台服務或優惠券相關事宜與您聯繫之方式。您須妥善保管您的電子郵件信箱密碼，並建議您避免使用慣用之密碼並經常更換您的密碼。本平台亦可能提供您得使用其他網路服務提供者所提供網路帳戶之方式登入，於此情形，您須同意本平台透過各該網路服務提供者查核或取得您的登入資訊及相關個人資料豐樂活平台與您之間的聯繫，將使用您所使用該網路帳戶所使用之電子郵件信箱。 
+ 
+商品或服務之提供與優惠券之履約保證 
+本平台所銷售之各式商品或服務之優惠券， 其商品或服務係由各商品或服務之提供者（以下稱「合作商家」）所提供，豐樂活平台負責優惠券之行銷與銷售服務，並負責除實際商品或服務提供以外之各項售後服務之責任。由於合作商家將負責依優惠券所載內容提供您相關商品或服務，因此，您與合作商家間亦將因您實際兌領商品或服務，而成立消費關係，您亦得依民法或消費者保護法之規定，向合作商家主張權利。除個別優惠券特別記載由各該合作廠商提供履約保證外，本平台所銷售之各式商品或服務之優惠券將由各優惠商店提供銀行信託查詢網站。 
+ 
+優惠券使用及注意事項 
+為確保優惠券不致於遭他人盜用，您於購買優惠券時，須填寫真實之「兌領人」姓名，您購買優惠券成功後，本平台將以電子郵件及行動電話簡訊通知您優惠券之兌換序號，請您妥善保管該序號，並憑該序號及可供辨識您個人身分之證件，向合作商家兌領優惠券所載商品或服務。 由於優惠券所載商品或服務，乃是豐樂活平台與合作商家特別為本平台之團購活動所設計，除優惠券有註明得隨時兌領者外，請於希望兌領日期（時間）至少前三日，依優惠券所載之合作商家電話完成預約或預定，確保合作商家得準備足夠數量之商品或服務，提供您最好之消費經驗。由於個別優惠券所載商品或服務之特殊性，可能會要求提前預約或預定，您同意遵守優惠券所載內容提早預約或預定。 合作商家若有多家分店同時參與本活動時，本平台可能會要求您選擇特定分店兌領商品或服務，您選擇之後，不得更換分店，請您於購買優惠券時特別留意。 優惠券僅得兌領所載之商品或服務，不得要求兌換現金或找零。 您同意遵守個別優惠券所記載之其他使用限制或應遵守事項。 
+ 
+優惠期間 
+您認知並了解優惠券係合作商家為特定期間之行銷或增加其較冷門時段之來客數，而提供之特別優惠方案，故每一優惠券均明確記載優惠期間或時段，若您非於優惠期間或時段前往兌領商品或服務，合作商家得拒絕提供優惠券兌領服務。 除優惠券另有記載者外，優惠期間為開始兌領日起算（連同當日一併計算）二個月。 優惠期間限制之約定包括但不限於：特定日期區間、特定日期或區間不適用、特定時段適用或不適用等。 
+ 
+優惠期間屆滿之處理 
+優惠券所載之優惠期間屆滿後，合作商家將不提供您原本所購買之優惠商品組合兌領服務，請與本平台聯絡處理退款事宜，並在您備齊相關文件後，以信用卡刷退之方式進行退款。 
+ 
+個人資料保護 
+本平台將於您註 冊帳戶以及購買優惠券時，蒐集您或兌領人之個人資料，包括但不限於：姓名、聯絡電話、電子郵件信箱等。您的信用卡資料，係透過網路金流機制直接提供予發卡行進行授權，豐樂活平台並不會保留您的信用卡相關資料。由於優惠券將由合作商家實際提供兌領事宜，您認知並同意豐樂活平台將與優惠券兌領有關之資料，提供予合作商家，就富團購商城將以契約要求合作商家須就其所取得之個人資料保密，除為提供商品或服務兌領之必要範圍外，未取得您的同意不得濫用您的個人資料。 
+ 
+責任限制 
+ 
+倘因故合作商家無法依優惠券所載提供商品或服務予您兌領，或其他優惠券發行或購買、兌領所生之損害，您同意豐樂活平台對您所負最高責任，為退還您購買優惠券所支付之價金。 前項約定不影響您依據民法或消費者保護法對於實際兌領商品或服務時，對於合作商家主張因商品或服務有瑕疵而產生之產品製造人或其他相關責任。 
+一般條款 
+本使用條款之解釋與適用，以及與本使用條款有關的爭議，除法律另有規定者外，均應依照中華民國法律予以處理，並以台灣台北地方法院為第一審管轄法院。豐樂活平台未行使或執行本使用條款任何權利或規定，不構成前開權利或規定之棄權。若任何本使用條款規定，經有管轄權之法院認定無效，當事人仍同意法院應努力使當事人於前開規定所表達之真意生效，且本使用條款之其他規定仍應完全有效。本使用條款之標題僅係為方便起見，不具任何法律或契約效果。若您發現任何使用者或合作商家有任 何違反本使用條款之行為，請立即與豐樂活平台客服聯絡。"</string>
+    <string name="msg_dialog_publish">"註冊帳戶 
+您須提供一個有效的電子郵件信箱／手機號碼／真實姓名作為使用本平台服務註冊帳戶之用，您並同意以該電子郵件信箱或手機號碼作為豐樂活平台就有關本平台服務或優惠券相關事宜與您聯繫之方式。您須妥善保管您的電子郵件信箱密碼，並建議您避免使用慣用之密碼並經常更換您的密碼。本平台亦可能提供您得使用其他網路服務提供者所提供網路帳戶之方式登入，於此情形，您須同意本平台透過各該網路服務提供者查核或取得您的登入資訊及相關個人資料豐樂活平台與您之間的聯繫，將使用您所使用該網路帳戶所使用之電子郵件信箱。 
+ 
+商品或服務之提供與優惠券之履約保證 
+本平台所銷售之各式商品或服務之優惠券， 其商品或服務係由各商品或服務之提供者（以下稱「合作商家」）所提供，豐樂活平台負責優惠券之行銷與銷售服務，並負責除實際商品或服務提供以外之各項售後服務之責任。由於合作商家將負責依優惠券所載內容提供您相關商品或服務，因此，您與合作商家間亦將因您實際兌領商品或服務，而成立消費關係，您亦得依民法或消費者保護法之規定，向合作商家主張權利。除個別優惠券特別記載由各該合作廠商提供履約保證外，本平台所銷售之各式商品或服務之優惠券將由各優惠商店提供銀行信託查詢網站。 
+ 
+優惠券使用及注意事項 
+為確保優惠券不致於遭他人盜用，您於購買優惠券時，須填寫真實之「兌領人」姓名，您購買優惠券成功後，本平台將以電子郵件及行動電話簡訊通知您優惠券之兌換序號，請您妥善保管該序號，並憑該序號及可供辨識您個人身分之證件，向合作商家兌領優惠券所載商品或服務。 由於優惠券所載商品或服務，乃是豐樂活平台與合作商家特別為本平台之團購活動所設計，除優惠券有註明得隨時兌領者外，請於希望兌領日期（時間）至少前三日，依優惠券所載之合作商家電話完成預約或預定，確保合作商家得準備足夠數量之商品或服務，提供您最好之消費經驗。由於個別優惠券所載商品或服務之特殊性，可能會要求提前預約或預定，您同意遵守優惠券所載內容提早預約或預定。 合作商家若有多家分店同時參與本活動時，本平台可能會要求您選擇特定分店兌領商品或服務，您選擇之後，不得更換分店，請您於購買優惠券時特別留意。 優惠券僅得兌領所載之商品或服務，不得要求兌換現金或找零。 您同意遵守個別優惠券所記載之其他使用限制或應遵守事項。 
+ 
+優惠期間 
+您認知並了解優惠券係合作商家為特定期間之行銷或增加其較冷門時段之來客數，而提供之特別優惠方案，故每一優惠券均明確記載優惠期間或時段，若您非於優惠期間或時段前往兌領商品或服務，合作商家得拒絕提供優惠券兌領服務。 除優惠券另有記載者外，優惠期間為開始兌領日起算（連同當日一併計算）二個月。 優惠期間限制之約定包括但不限於：特定日期區間、特定日期或區間不適用、特定時段適用或不適用等。 
+ 
+優惠期間屆滿之處理 
+優惠券所載之優惠期間屆滿後，合作商家將不提供您原本所購買之優惠商品組合兌領服務，請與本平台聯絡處理退款事宜，並在您備齊相關文件後，以信用卡刷退之方式進行退款。 
+ 
+個人資料保護 
+本平台將於您註 冊帳戶以及購買優惠券時，蒐集您或兌領人之個人資料，包括但不限於：姓名、聯絡電話、電子郵件信箱等。您的信用卡資料，係透過網路金流機制直接提供予發卡行進行授權，豐樂活平台並不會保留您的信用卡相關資料。由於優惠券將由合作商家實際提供兌領事宜，您認知並同意豐樂活平台將與優惠券兌領有關之資料，提供予合作商家，就富團購商城將以契約要求合作商家須就其所取得之個人資料保密，除為提供商品或服務兌領之必要範圍外，未取得您的同意不得濫用您的個人資料。 
+ 
+責任限制 
+ 
+倘因故合作商家無法依優惠券所載提供商品或服務予您兌領，或其他優惠券發行或購買、兌領所生之損害，您同意豐樂活平台對您所負最高責任，為退還您購買優惠券所支付之價金。 前項約定不影響您依據民法或消費者保護法對於實際兌領商品或服務時，對於合作商家主張因商品或服務有瑕疵而產生之產品製造人或其他相關責任。 
+一般條款 
+本使用條款之解釋與適用，以及與本使用條款有關的爭議，除法律另有規定者外，均應依照中華民國法律予以處理，並以台灣台北地方法院為第一審管轄法院。豐樂活平台未行使或執行本使用條款任何權利或規定，不構成前開權利或規定之棄權。若任何本使用條款規定，經有管轄權之法院認定無效，當事人仍同意法院應努力使當事人於前開規定所表達之真意生效，且本使用條款之其他規定仍應完全有效。本使用條款之標題僅係為方便起見，不具任何法律或契約效果。若您發現任何使用者或合作商家有任 何違反本使用條款之行為，請立即與豐樂活平台客服聯絡。"</string>
+    <string name="msg_exchange_confirm">確定要兌換(購買)此商品</string>
+    <string name="msg_exchange_fail">"兌換失敗
+原因:"</string>
+    <string name="msg_exchange_success">商品兌換成功</string>
+    <string name="msg_off_board">確定要下架此商品?</string>
+    <string name="msg_progress">處理中…</string>
+    <string name="msg_publish_progress">商品上架中…</string>
+    <string name="msg_token_error">登入已過期，請重新登入</string>
+    <string name="next">下一步</string>
+    <string name="off_board_product">下架商品</string>
+    <string name="people_list_type_fans">粉絲</string>
+    <string name="people_list_type_tracking">追蹤中</string>
+    <string name="point">點</string>
+    <string name="prod">0</string>
+    <string name="product_change_method_esun_bank">玉山銀行ATM</string>
+    <string name="product_change_method_gama_pay">橘子支</string>
+    <string name="product_change_method_gash_point">GASH點數</string>
+    <string name="product_condition">商品條件</string>
+    <string name="product_condition_fail">交易失敗</string>
+    <string name="product_condition_none">未交易</string>
+    <string name="product_condition_rating">待評價</string>
+    <string name="product_condition_receipt">領收</string>
+    <string name="product_condition_send">移交</string>
+    <string name="product_condition_success">交易成功</string>
+    <string name="product_info">商品資訊(必填)</string>
+    <string name="product_price">兌換方式與價格(必填)</string>
+    <string name="product_publish">商品刊登</string>
+    <string name="product_status_complete">完成交易</string>
+    <string name="product_status_off_board">下架商品</string>
+    <string name="product_status_off_board_forced">強制下架商品</string>
+    <string name="product_status_on_board">刊登中商品</string>
+    <string name="product_type">商品類型</string>
+    <string name="publish_now">立即刊登</string>
+    <string name="publish_product">刊登商品</string>
+    <string name="rationale_call_phone">需要取得撥打電話權限以啟動電話app</string>
+    <string name="receipt_confirm">確定收貨</string>
+    <string name="remain">剩餘 :</string>
+    <string name="save">儲存</string>
+    <string name="select_date">選擇日期</string>
+    <string name="select_picture">選擇圖片來源</string>
+    <string name="seller_contact">賣家聯絡資訊(必填)</string>
+    <string name="send_confirm">確定交貨</string>
+    <string name="str_about_content1">"【GASH APP】免費點數，多樣化儲值優惠，自己獨享或與朋友分享都好玩~
+每天登入【GASH APP】就有機會賺取免費點數，
+快~呼朋喚伴一起來。"</string>
+    <string name="str_about_content2">"
+
+一定要下載【GASH APP】的4大理由:
+
+"</string>
+    <string name="str_about_content3">"1.賺取點數：完成任務賺點數即可換取免費點數、虛寶序號。
+2.會員獨享：專屬會員儲值優惠活動，不定時發送返點任務。
+3.便利的好友機制：多功能QR Code與雷達，建立好友名單更快速。
+4.遊戲扣點：累積的點數可在支援的遊戲平台中，分批兌換所需要的遊戲幣別，想用多少就扣多少，不浪費資源讓你永遠能在最佳時刻出擊。"</string>
+    <string name="str_account_not_exist">此帳號不存在</string>
+    <string name="str_add_friend">加好友</string>
+    <string name="str_add_point">加點數</string>
+    <string name="str_all">全部</string>
+    <string name="str_api_timeout">連線逾時,請檢查你的網路連線後再試一次</string>
+    <string name="str_bitcash_discount_now">優惠中</string>
+    <string name="str_bitcash_mainpage">"請選擇下方要兌換的面額
+(兌換匯率為現時價格)"</string>
+    <string name="str_bitcash_txid">管理番号:</string>
+    <string name="str_campaign_gashfan_xinstar">GASH樂粉節獨家活動</string>
+    <string name="str_campaign_keyword_gashfan_xinstar1">GASH</string>
+    <string name="str_campaign_keyword_gashfan_xinstar2">樂粉節獨家活動</string>
+    <string name="str_cancel">取消</string>
+    <string name="str_change_point">兌換點數</string>
+    <string name="str_confirm">確認</string>
+    <string name="str_date_day">天</string>
+    <string name="str_date_hour">小時</string>
+    <string name="str_date_minute">分</string>
+    <string name="str_date_second">秒</string>
+    <string name="str_day">天</string>
+    <string name="str_deposit_fail">儲值密碼已使用</string>
+    <string name="str_deposit_success">儲值成功</string>
+    <string name="str_dollar">元</string>
+    <string name="str_edit">編輯</string>
+    <string name="str_enter_point">輸入點數面額</string>
+    <string name="str_exclusive">獨享</string>
+    <string name="str_exclusive_pin">獨享序號</string>
+    <string name="str_exclusive_point">獨享任務</string>
+    <string name="str_expire">過期</string>
+    <string name="str_fail">失敗</string>
+    <string name="str_flash_light_close">關閉</string>
+    <string name="str_flash_light_open">開啟</string>
+    <string name="str_ga_action_bitcash_exchange">兌換BitCash點數</string>
+    <string name="str_ga_action_check_mission">檢視活動詳情</string>
+    <string name="str_ga_action_check_mobile">驗證手機號碼</string>
+    <string name="str_ga_action_friend_gash">GASH帳號加好友</string>
+    <string name="str_ga_action_friend_group_list">好友群組編輯</string>
+    <string name="str_ga_action_friend_list">好友編輯</string>
+    <string name="str_ga_action_friend_qrcode">QRCode加好友</string>
+    <string name="str_ga_action_friend_radar">雷達搜尋好友</string>
+    <string name="str_ga_action_go_deduct">扣點交易</string>
+    <string name="str_ga_action_otp_login">OTP登入</string>
+    <string name="str_ga_action_push">推播設定</string>
+    <string name="str_ga_action_pw_forget">忘記密碼</string>
+    <string name="str_ga_action_pw_login">密碼登入</string>
+    <string name="str_ga_action_unbind_cards">解除綁定</string>
+    <string name="str_ga_action_update_member">修改個人資料</string>
+    <string name="str_ga_action_upload_pic">上傳頭像</string>
+    <string name="str_ga_category_exchange">兌換紀錄</string>
+    <string name="str_ga_category_friend">好友</string>
+    <string name="str_ga_category_login">登入</string>
+    <string name="str_ga_category_member">會員資訊頁</string>
+    <string name="str_ga_category_message">通知中心</string>
+    <string name="str_ga_label_about">關於GASH</string>
+    <string name="str_ga_label_add_friend">加好友</string>
+    <string name="str_ga_label_add_to_group">新增好友至群組</string>
+    <string name="str_ga_label_agree_friend">同意好友邀請</string>
+    <string name="str_ga_label_bitcash_del">刪除BitCash卡</string>
+    <string name="str_ga_label_bitcash_use">馬上使用BitCash</string>
+    <string name="str_ga_label_block_friend">封鎖好友</string>
+    <string name="str_ga_label_camera">拍照</string>
+    <string name="str_ga_label_cancel_deduct">取消交易</string>
+    <string name="str_ga_label_cancel_friend">取消好友邀請</string>
+    <string name="str_ga_label_copy_pin">複製序號</string>
+    <string name="str_ga_label_create_group">建立群組</string>
+    <string name="str_ga_label_customer_service">聯絡客服</string>
+    <string name="str_ga_label_del_friend">刪除好友</string>
+    <string name="str_ga_label_gallery">相簿</string>
+    <string name="str_ga_label_go_deduct">扣點交易完成</string>
+    <string name="str_ga_label_logout">登出</string>
+    <string name="str_ga_label_merge_remain_amount">餘額合併</string>
+    <string name="str_ga_label_mobile_and_mail_verified">雙驗證</string>
+    <string name="str_ga_label_mobile_verified">單驗證</string>
+    <string name="str_ga_label_modify_email">修改Email</string>
+    <string name="str_ga_label_modify_nickname">修改暱稱</string>
+    <string name="str_ga_label_modify_pwd">修改密碼</string>
+    <string name="str_ga_label_modify_security_code">修改安全鎖</string>
+    <string name="str_ga_label_modify_tel">修改手機號碼</string>
+    <string name="str_ga_label_new_member">新帳號登入</string>
+    <string name="str_ga_label_privacy">隱私權</string>
+    <string name="str_ga_label_push">推播開關</string>
+    <string name="str_ga_label_push_disturb">夜間勿擾</string>
+    <string name="str_ga_label_qa">常見問題</string>
+    <string name="str_ga_label_reject_friend">拒絕好友邀請</string>
+    <string name="str_ga_label_search_friend">好友清單搜尋bar</string>
+    <string name="str_ga_label_service">服務條款</string>
+    <string name="str_ga_label_unblock_friend">解除封鎖好友</string>
+    <string name="str_ga_label_upd_group_name">更新群組名稱</string>
+    <string name="str_ga_label_upload_group_image">上傳群組頭像</string>
+    <string name="str_ga_label_wait_deduct">稍後交易</string>
+    <string name="str_get_award">領取任務獎勵</string>
+    <string name="str_got_award">已領取任務獎勵</string>
+    <string name="str_goto_ar">進行活動GO!</string>
+    <string name="str_guide_content1">"多樣化卡片功能，搭配最即時熱們的遊戲訊
+息，玩遊戲、找資訊、拿好康樣樣都方便!"</string>
+    <string name="str_guide_content2">"當您每次兌換或儲值的交易，我們都將完善的
+記錄下來，利用手機來查詢安全又方便"</string>
+    <string name="str_guide_content3">提供多元的儲值方式，手機操作最省時</string>
+    <string name="str_guide_title1">關於GASH APP</string>
+    <string name="str_guide_title2">個人資料把關安全嚴謹</string>
+    <string name="str_guide_title3">儲值便利、快速</string>
+    <string name="str_hint_bind_game">輸入遊戲綁定名稱</string>
+    <string name="str_hint_input_nickname">輸入20個字元以內的暱稱</string>
+    <string name="str_hint_input_otp">輸入驗證碼</string>
+    <string name="str_hint_new_pwd">輸入新密碼(8~20個英文數字的組合)</string>
+    <string name="str_hint_old_pwd">輸入舊密碼</string>
+    <string name="str_hint_search_friend">請輸入好友暱稱</string>
+    <string name="str_hint_set_pwd">輸入密碼(8~20個英文數字的組合)</string>
+    <string name="str_hint_set_pwd_again">再次輸入密碼</string>
+    <string name="str_hint_set_security_code">請輸入6位數字安全密碼</string>
+    <string name="str_hours">小時</string>
+    <string name="str_i_know">知道了</string>
+    <string name="str_input_mobile">請輸入手機號碼</string>
+    <string name="str_jp_currency">¥</string>
+    <string name="str_leave">離開</string>
+    <string name="str_lineagem_edit_hint">請輸入大寫英文字母與數字</string>
+    <string name="str_lineagem_error_code1">您輸入序號的錯誤次數過多，兌換功能將暫時鎖定，請稍後再嘗試！</string>
+    <string name="str_lineagem_error_code2">兌換失敗，請洽客服</string>
+    <string name="str_lineagem_error_code3">請輸入8碼以上的兌換序號</string>
+    <string name="str_lineagem_exchange_des1">請輸入您獲得的天堂M虛寶序號兌換碼，兌換完成後，將立刻取得天堂M虛寶序號。</string>
+    <string name="str_lineagem_exchange_des2">※兌換中心詳細內容說明請參考</string>
+    <string name="str_lineagem_exchange_des3">注意事項</string>
+    <string name="str_lineagem_exchange_des4">"※ 兌換序號為大寫英數組合，組合中將不包含英文字母O與I
+※「天堂M活動序號」將經由各活動發送、具體取得方式請見各活動說明。
+ ※ 所有序號一經兌換後，即無法申請退回服務，兌換前請務必確認!
+※ 於 GASH APP 內兌換的天堂虛寶兌換碼，可於【兌換紀錄】中查詢。
+若您有任何疑問，建議您直接聯絡客服人員"</string>
+    <string name="str_lineagem_exchange_des5">※天堂M活動詳情及辦法請參考</string>
+    <string name="str_lineagem_exchange_des6">此連結</string>
+    <string name="str_lineagem_exchange_tab1">兌換虛寶序號</string>
+    <string name="str_lineagem_exchange_tab2">前往天堂M兌換虛寶</string>
+    <string name="str_lineagem_game_not_start">遊戲尚未開放</string>
+    <string name="str_lineagem_pin_change1">成功兌換 天堂M-</string>
+    <string name="str_lineagem_pin_change2">，序號</string>
+    <string name="str_lineagem_please_copy_pin">請複製以下序號並前往天堂M專屬儲值入口進行商品兌換。</string>
+    <string name="str_lineagem_text_qr_scan">掃描QR code取得序號</string>
+    <string name="str_lineagem_title_pin_exchange">天堂M序號兌換中心</string>
+    <string name="str_lineagem_title_pin_exchange2">天堂M兌換</string>
+    <string name="str_link">檢視活動詳情</string>
+    <string name="str_login_fail">登入失敗</string>
+    <string name="str_login_fail2">登入失敗，請檢查你的網路連線後再試一次</string>
+    <string name="str_login_success">登入成功</string>
+    <string name="str_main_guide1">"「加點數」、「加好友」、「兌換點數」
+等等更多功能都在這裡面"</string>
+    <string name="str_main_guide2">"這裡可以兌換「BitCash」與「E pin」點
+數，以及查詢每一次的兌換紀錄"</string>
+    <string name="str_main_guide3">"這裡可以透過「序號儲值」或「便利超
+商儲值」等方式來進行加點"</string>
+    <string name="str_main_guide4">"這裡可藉由「雷達互搜」、「簡訊邀請」
+、「GASH帳號」、「QR code掃描」方式
+ 來加入新的好友，未來只要與您的好友分享
+任務，就可以獲得更多點數與好康"</string>
+    <string name="str_mission_delete_success">刪除成功</string>
+    <string name="str_mission_id">任務代碼:</string>
+    <string name="str_more_card">更多卡片</string>
+    <string name="str_more_info">了解更多以領取獎勵</string>
+    <string name="str_not_support_ar">不好意思，您的裝置不支援此活動</string>
+    <string name="str_not_write_off">有效票券</string>
+    <string name="str_o2o_exid_act_time">活動時間</string>
+    <string name="str_o2o_exid_act_time_content">2017/7/30 19:00~22:00</string>
+    <string name="str_o2o_exid_address">演出地址</string>
+    <string name="str_o2o_exid_address_content">台北市大安區羅斯福路四段1號</string>
+    <string name="str_o2o_exid_cate">活動分類</string>
+    <string name="str_o2o_exid_cate_content">見面會</string>
+    <string name="str_o2o_exid_dcontent">"今年度最強女團【EXID】女神來襲!!
+
+韓國大勢女團【EXID】7月攻台開唱，
+除多首膾炙人口的動感唱跳舞曲之外，
+會有特別時間讓LEGGO與EXID互動同樂，
+當然還有近距離與女神「親密TOUCH」
+的福利在等著大家喔!!
+"</string>
+    <string name="str_o2o_exid_location">演出地點</string>
+    <string name="str_o2o_exid_location_content">台大綜合體育館1樓</string>
+    <string name="str_o2o_exid_organizer_content">BingYoung娛樂</string>
+    <string name="str_o2o_exid_start_time">開始時間</string>
+    <string name="str_o2o_exid_start_time_content">2017/7/30 19:00</string>
+    <string name="str_o2o_exid_title">"2017 EXID
+ASIA TOUR IN TAIWAN"</string>
+    <string name="str_o2o_expiry_date">有效日期</string>
+    <string name="str_o2o_keyword_food_change">美食兌換憑證</string>
+    <string name="str_o2o_location">地點</string>
+    <string name="str_o2o_no_ticket">尚未取得票券</string>
+    <string name="str_o2o_organizer">主辦單位</string>
+    <string name="str_o2o_position">座位</string>
+    <string name="str_o2o_ticket_cate">票種</string>
+    <string name="str_o2o_ticket_cate_content">一般票券</string>
+    <string name="str_o2o_ticket_code">票券代號</string>
+    <string name="str_o2o_ticket_price">票價</string>
+    <string name="str_ocr_scan_fail">掃描失敗，請重新操作</string>
+    <string name="str_ocr_scanner1">請對準小白單中，密碼欄位下方21碼英數字</string>
+    <string name="str_ocr_scanner2">進行掃描，對焦完成後點擊拍照鈕。</string>
+    <string name="str_open_ar">【開啟AR】</string>
+    <string name="str_open_code">開啟條碼</string>
+    <string name="str_open_ticket">開啟票券</string>
+    <string name="str_overtime">已過期</string>
+    <string name="str_po">行銷活動</string>
+    <string name="str_point">點</string>
+    <string name="str_qrcode_login">掃描QR code登入會員</string>
+    <string name="str_rookies">新手</string>
+    <string name="str_scratch_1">試試好手氣</string>
+    <string name="str_scratch_2">立即刮開</string>
+    <string name="str_scratch_3">試試手氣!!大獎等著你喲!!</string>
+    <string name="str_scratch_before">請全部刮開以查看獲得獎項</string>
+    <string name="str_scratch_get">恭喜您獲得</string>
+    <string name="str_scratch_got">再接再厲，繼續加油~</string>
+    <string name="str_scratch_got_reward">恭喜您!</string>
+    <string name="str_scratch_got_reward2">獲得</string>
+    <string name="str_scratch_got_reward3">點</string>
+    <string name="str_scratch_got_reward4">恭喜您獲得</string>
+    <string name="str_scratch_got_reward5">快輪到你了!再刮一張!</string>
+    <string name="str_scratch_title">GASH刮刮樂</string>
+    <string name="str_share">分享</string>
+    <string name="str_share_mission">分享任務</string>
+    <string name="str_share_to_friend">分享給好友</string>
+    <string name="str_shared_to_friend">已分享給好友</string>
+    <string name="str_store_need_pay">待付款 $</string>
+    <string name="str_store_pay">超商付款</string>
+    <string name="str_store_pay_content">"現在只要輸入點數面額，在超商繳費後，
+就能直接儲值了"</string>
+    <string name="str_success">成功</string>
+    <string name="str_text_about">關於</string>
+    <string name="str_text_about_gash">關於GASH</string>
+    <string name="str_text_about_gashpoint">"GASH樂點股份有限公司
+GASH為點數發行平台，是華人地區最熟悉的遊戲貨幣，提供全球點數發行服務，串聯國際數位娛樂內容。
+我們致力於保障廠商與客戶的權益，領先業界率先與台灣玉山銀行合作推出「GASH」履約保證服務並取得全球金融雙認證：ISO 27001 資訊安全證書、PCI DSS 支付卡產業資訊安全標準證書。
+從網路到手機，持續創造讓客戶安心的服務品質，全方位面結合數位娛樂內容，讓全球數位玩家輕鬆透過GASH，恣意暢遊在無限寬敞的數位娛樂世界中。
+
+GASH官網：http://tw.gashpoint.com/"</string>
+    <string name="str_text_activity_date">活動時間</string>
+    <string name="str_text_advanced_data">進行帳號進階認證</string>
+    <string name="str_text_all_ticket_record">全部記錄</string>
+    <string name="str_text_back_maincard">回首頁</string>
+    <string name="str_text_bind_beango">連結 BeanGO!</string>
+    <string name="str_text_bind_beango2">"您的GASH APP帳號將與
+BeanGO!帳號進行連結"</string>
+    <string name="str_text_bind_game_des">遊戲綁定說明</string>
+    <string name="str_text_binding_game_name">遊戲名稱</string>
+    <string name="str_text_binding_time">綁定時間</string>
+    <string name="str_text_bitcash_agreement">購買前請確認同意遵守BitCash使用條約</string>
+    <string name="str_text_bitcash_bought_amount">購買面額</string>
+    <string name="str_text_bitcash_des1">扣除GASH</string>
+    <string name="str_text_bitcash_des2">兌換BitCash</string>
+    <string name="str_text_bitcash_des3">，序號</string>
+    <string name="str_text_bitcash_exchange_record">兌換紀錄</string>
+    <string name="str_text_bitcash_point">BitCash點數</string>
+    <string name="str_text_bitcash_questions">常見問題</string>
+    <string name="str_text_bitcash_txid">管理番号</string>
+    <string name="str_text_bonus">積分</string>
+    <string name="str_text_bonus_agreement">購買前請確認同意遵守紅利積分兌換條約</string>
+    <string name="str_text_bonus_all">積分明細</string>
+    <string name="str_text_bonus_bind_agreement1">"「GASH積分」兌換
+「BeanGo!J點」辦法"</string>
+    <string name="str_text_bonus_bind_agreement2">"一、當您將GASH積分與 BeanGo!J點相互轉換時，會依照本公司所公告的匯率進行兌換。兌換前請務必確認匯率。
+
+ 二、GASH積分一經兌換後，無法取消、退還回GASH積分。
+"</string>
+    <string name="str_text_bonus_bind_agreement3">我已閱讀並同意上述內容</string>
+    <string name="str_text_bonus_bind_agreement4">"「GASH積分」將經由活動發送、任務領取或GASH點數購買等方式取得，具體取得方式請見各活動說明。
+ 所有「GASH積分」的使用期限及相關權益請參考GASH APP內之說明，本公司保留變更或終止相關內容、兌換方式之權利。
+
+ 「GASH積分」兌換方式：
+ 1.扣除積分來換取積分商品。選擇欲兌換的積分商品後，點擊「立即兌換」，系統將自動扣除您消耗的積分，並提供對應的積分商品。
+ 2.本公司僅提供積分商品兌換管道，本公司不對任何非由本公司營運或提供之積分商品負任何法律責任。積分商品的使用請自行參考各積分商品供應商之使用規範。
+ 3.積分一經兌換後，即無法申請退回服務，兌換前請務必確認欲對換的積分商品。
+
+
+ 所有積分使用紀錄可於積分明細與兌換紀錄中查詢。若您有任何疑問，建議您直接聯絡客服人員。"</string>
+    <string name="str_text_bonus_bind_beango_des4">升級為BeanGO!帳號</string>
+    <string name="str_text_bonus_bind_beango_des5">"升級為BeanGO!會員
+才能兌換揪點"</string>
+    <string name="str_text_bonus_bind_beango_des6">"此帳號將升級為BeanGo!帳號
+未來只需一個BeanGo!帳號
+即可登入GASH與其它好康的加值服務"</string>
+    <string name="str_text_bonus_bind_beango_des7">"我已有BeanGo!帳號
+前往登入 ＞"</string>
+    <string name="str_text_bonus_check_policy">確認服務條款與隱私權政策</string>
+    <string name="str_text_bonus_check_policy_2">"1. 帳號
+
+1.1. 用戶可依BeanGo! 規範之帳號註冊方式註冊BeanGo! 的用戶帳號。當用戶完成帳號註冊後，視為同意BeanGo! 之使用條款。
+
+ 1.2. 用戶於使用本服務時，如有註冊用戶本身相關資料，應提供即時真實、正確且完整的資料，並經常進行修改以更新資料。
+
+ 1.3. 用戶於使用本服務時，如有註冊密碼，應自行負責嚴密保管，以免遭到不當使用。利用該密碼所進行的一切行為均視為用戶本人的行為。
+
+ 1.4. 於本服務註冊的用戶，得隨時刪除帳號終止本服務。
+
+ 1.5. BeanGo! 認為用戶違反本條款或有違反之虞時，得在不事先通知用戶的情形下對該帳號進行停權或刪除。
+
+ 1.6. BeanGo! 得在不事先通知用戶的情形下，刪除自最後一次連線起已經過一年以上的帳號。
+
+ 1.7. 自帳號刪除時起，用戶於本服務的所有使用權不論任何理由均為消滅。即便是用戶不慎刪除帳號，原有的帳號亦無法回復，敬請留意。"</string>
+    <string name="str_text_bonus_check_policy_3">請問同意服務條款與隱私權政策的內容嗎 ?</string>
+    <string name="str_text_bonus_daily_login_des">"每天登入GASH APP，拿取多獎勵吧
+連續登入7天，還送1張刮刮卡喔!"</string>
+    <string name="str_text_bonus_daily_login_des2">GASH 積分任務</string>
+    <string name="str_text_bonus_daily_login_des3">每日登入獎勵</string>
+    <string name="str_text_bonus_daily_mission">每日登入任務</string>
+    <string name="str_text_bonus_daily_mission_content">每日登入GASH APP，即可獲得積點</string>
+    <string name="str_text_bonus_daily_mission_day">天</string>
+    <string name="str_text_bonus_daily_mission_not_take">未拿取</string>
+    <string name="str_text_bonus_daily_mission_now">今</string>
+    <string name="str_text_bonus_daily_mission_number">第</string>
+    <string name="str_text_bonus_daily_mission_took">已拿取</string>
+    <string name="str_text_bonus_exchange_des">兌換說明</string>
+    <string name="str_text_bonus_exchange_des2">"1.扣除積分來換取積分商品。選擇欲兌換的積分商品後，點擊「立即兌換」，系統將自動扣除您消耗的積分，並提供對應的積分商品。
+ 2.本公司僅提供積分商品兌換管道，本公司不對任何非由本公司營運或提供之積分商品負任何法律責任。積分商品的使用請自行參考各積分商品供應商之使用規範。
+ 3.積分一經兌換後，即無法申請退回服務，兌換前請務必確認欲對換的積分商品。"</string>
+    <string name="str_text_bonus_exchange_des3">試算結果</string>
+    <string name="str_text_bonus_exchange_des4">可獲得</string>
+    <string name="str_text_bonus_exchange_des5">揪點</string>
+    <string name="str_text_bonus_exchange_des6">剩餘</string>
+    <string name="str_text_bonus_exchange_des7">兌換後的揪點，將於下個月的月底到期</string>
+    <string name="str_text_bonus_exchange_record">兌換紀錄</string>
+    <string name="str_text_bonus_expire_no_record">沒有即將到期的積分</string>
+    <string name="str_text_bonus_from">積分來源</string>
+    <string name="str_text_bonus_maturity">查看即將到期的積分</string>
+    <string name="str_text_bonus_maturity2">※GASH積分有使用期限，請務必在時效到期前使用。</string>
+    <string name="str_text_bonus_maturity3">GASH積分有使用期限，請在下個月月底前使用完畢</string>
+    <string name="str_text_bonus_source_content">APP-任務獎勵</string>
+    <string name="str_text_bonus_source_content2">APP-活動獎勵</string>
+    <string name="str_text_bonus_source_type">任務獎勵</string>
+    <string name="str_text_bonus_source_type2">活動獎勵</string>
+    <string name="str_text_bonus_wait_function">積分系統目前忙碌中，請稍後再嘗試！謝謝</string>
+    <string name="str_text_cancel_transaction">取消交易</string>
+    <string name="str_text_clean">清除</string>
+    <string name="str_text_confirm_mobile">請確認新號碼正確,修改成功後舊號碼即失效</string>
+    <string name="str_text_connect_beango">連結揪點</string>
+    <string name="str_text_customer_service">聯絡客服</string>
+    <string name="str_text_discount_time">優惠剩餘時間:</string>
+    <string name="str_text_epin_hint">請於下方輸入欲兌換成儲值密碼的GASH點數面額</string>
+    <string name="str_text_epin_history_des1">點兌換儲值密碼</string>
+    <string name="str_text_epin_history_des2">點,儲值密碼:</string>
+    <string name="str_text_exchange_ticket_record">兌換記錄</string>
+    <string name="str_text_expire_bonus">即將到期積分</string>
+    <string name="str_text_forgot_security">忘記安全鎖</string>
+    <string name="str_text_gash_remain">"GASH
+點數剩餘"</string>
+    <string name="str_text_get_ticket">擷取票卷</string>
+    <string name="str_text_get_ticket_record">取票記錄</string>
+    <string name="str_text_go_to_bonus_change">兌換揪點</string>
+    <string name="str_text_go_to_deposit">我要儲值</string>
+    <string name="str_text_go_transaction">繼續交易</string>
+    <string name="str_text_input_new_security_code">輸入新的安全密碼(6位數字)</string>
+    <string name="str_text_input_security_code">請輸入你的安全密碼(6位數字)</string>
+    <string name="str_text_invite_by_otherapp">"我現在在使用GASH APP，你也快來使用吧!!
+有好康唷!!
+https://play.google.com/store/apps/details?id=com.gashpoint.app2"</string>
+    <string name="str_text_know_more">瞭解更多</string>
+    <string name="str_text_manage_creditcard">管理快速加值</string>
+    <string name="str_text_member_no">會員編號</string>
+    <string name="str_text_member_profile">個人基本資料</string>
+    <string name="str_text_my_bonus">我的積分</string>
+    <string name="str_text_my_points">我的點數</string>
+    <string name="str_text_my_qrcode">請好友掃瞄我的條碼,即可加入好友</string>
+    <string name="str_text_nickname_input">設定暱稱</string>
+    <string name="str_text_no_record">目前尚無資料</string>
+    <string name="str_text_notification">推播</string>
+    <string name="str_text_notification_disturb">夜間勿擾(0:00~06:00)</string>
+    <string name="str_text_otp_input">請將簡訊驗證碼數字填入下方文字框以進行驗證</string>
+    <string name="str_text_otp_send">驗證碼已發送</string>
+    <string name="str_text_pending_handler">提醒您有一筆GASH交易待處理,是否繼續?</string>
+    <string name="str_text_point">點數</string>
+    <string name="str_text_privacy_items">隱私權政策</string>
+    <string name="str_text_pwd">密碼</string>
+    <string name="str_text_qrcode_login">掃描登入</string>
+    <string name="str_text_questions">常見問題</string>
+    <string name="str_text_record_all">全部交易</string>
+    <string name="str_text_record_deduct">兌換交易</string>
+    <string name="str_text_record_deposit">儲值交易</string>
+    <string name="str_text_record_games">遊戲綁定</string>
+    <string name="str_text_record_points">點數紀錄</string>
+    <string name="str_text_relieve">解除</string>
+    <string name="str_text_remain_amount">餘額</string>
+    <string name="str_text_remain_count">餘額</string>
+    <string name="str_text_reset_pwd">重新設定密碼</string>
+    <string name="str_text_rss">訂閱電子報</string>
+    <string name="str_text_scan_pin_and_qrcode">QRCode/BarCode取票</string>
+    <string name="str_text_scan_ticket_or_pin">PIN碼取票</string>
+    <string name="str_text_search_friend_res">搜尋結果</string>
+    <string name="str_text_security">安全設定</string>
+    <string name="str_text_security_code_done">完成設定請點擊上方「OK」按鈕</string>
+    <string name="str_text_select_to_add">請選擇加入對象</string>
+    <string name="str_text_send_invite">送出邀請</string>
+    <string name="str_text_serial">序號卡</string>
+    <string name="str_text_serial_no">序號</string>
+    <string name="str_text_service_item_detail">"
+一、遵守會員規範及法律規定：
+
+您了解您註冊成為會員後，即可使用樂點股份有限公司(已下稱:本公司)所提供之各項服務(以下稱本服務)。當會員使用本服務時，即表示您除了同意遵守本服務同意書外，亦接受本公司其他針對本服務會員之相關規範（包括但不限於客服中心內容、管理規則、公告及注意事項等）及相關當地法令之規定。 
+
+二、服務簡介： 
+
+（一）當您完成相關註冊程序後，即可具有本服務會員資格，並可開始使用本服務，包括但不限於使用線上遊戲、異業合作、金流儲值服務等。您同意當您成為本服務會員後使用之各項會員服務，其各項服務內容之所有權仍屬本公司或異業合作廠商及其所約定之人所有，會員僅得依本服務同意書之約定使用，不得出租、出借、移轉或讓與給其他第三人使用。
+ （二）本公司有權增加、變更、取消、停止本服務中相關系統、服務或功能之全部或一部，您同意本公司無須個別通知會員。為增進會員權益、擴充服務內容，本公司將致力於提供會員各項新穎之服務或功能，您同意本會員服務同意書適用於現有或將來本公司所提供本服務會員帳號得使用之各項服務。
+ （三）金流付費平台服務：為保障您的交易安全，請使用合法、正當之方式進行相關服務儲值，若您使用虛偽不正之方式進行「儲值」或使用其他相關服務，本公司有權隨時、逕行終止您本服務之會員資格及使用各項服務之權利；您因故意或誤觸之錯誤而導致造成對本公司非對價關係之權益損失時，您同意無償全力配合本公司之建議並由本公司協助回復此錯誤所導致之損失，包含但不限於在您的儲值點數中扣回已給予的點數或其它權利回復。 
+
+三、真實登錄義務： 
+
+基於本公司所提供之各項服務，您同意於註冊時依註冊申請程序所提示之項目，登錄您本人正確、真實及完整之個人資料；當您的個人資料有異動時，請立即更新，-維持您個人資料之正確以利服務訊息通知。如因您登錄不實資料或冒用他人名義以致於侵害他人之權益或違法時，應自負法律責任；個人資料若有不實或異動卻未更新以致與原登錄資料不符時，本公司有權隨時、逕行終止您的會員資格及使用各項會員服務之權利。
+ 就上述停止、更改服務或終止會員帳戶服務所可能產生之困擾、不便或損害，本公司對任何會員或第三人均不負任何賠償或補償責任。 
+
+四、會員規範之增訂及修改： 
+
+本服務同意書如有增訂或修改，將公告於本公司官方網站，本網站將不對會員進行個別通知。如您於服務同意書變更後使用或繼續使用相關服務，將視為您已經瞭解並同意該修訂條款。 
+
+五、服務暫停或中斷： 
+
+（一）本公司於下列情形之一時，得暫停或中斷本服務之全部或一部，對於使用者不負擔任何賠償或補償責任： 
+1.對於本服務相關系統設備進行遷移、更換或維護。 
+2.因不可歸責於本公司所造成之服務停止、中斷、變更或取消。 
+3.因不可抗力所造成服務停止、中斷、變更或取消。 
+（二）如因本公司對於本網站相關系統設備進行遷移、更換或維護而必須暫停或中斷全部或一部之服務時，本公司於暫停或中斷服務前將於本公司官方網站上公告或以電子郵件進行通知。 
+（四）請於平時對電腦設備採取適當之安全防護措施，以避免本服務之暫停、中斷可能造成您使用上之不便、資料遺失或其他經濟及時間上之損失，用以保障您的相關權益。 
+
+六、會員義務與責任： 
+
+（一）會員不得利用本服務會員服務進行任何商業、違法、不當行為。 
+（二）除遵守本服務同意書之約定外，您同意遵守本公司之各項服務之營業規章、管理規則、網際網路國際使用慣例與禮節之相關規定，並同意不從事下述所列之行為。若您被判定有以下行為發生時，本公司得逕行移除或刪除該內容與採取後續相關處理措施。違反規定者，本公司將視情節輕重予以停止、更改服務或終止會員帳戶服務之合理處份，您同意本公司有權對嚴重違約之行為人終止本服務條款，並請求因此所生之損害賠償： 
+1.意圖破壞、入侵本公司伺服器及官方網站；或有侵入會員資料庫、散播電腦病毒程式及竊取、更改、破壞本公司電腦設備或他人資訊情事等之行為者。 
+2.未經本公司同意而於服務中以現金或任何有價物品買賣、交易帳號、遊戲道具之行為者。 
+6.以本公司或類似本公司之名義使用本服務者。 
+7.所為言論違背公序良俗者。 
+8.使用本服務被判定有違法、犯罪行為或有相關嫌疑者。 
+9.侵害他人智慧財產權或其他權利或有侵害之虞者。 
+10.有故意妨礙本公司相關服務運作之行為者或造成本公司受有損失或損害者。 
+11.利用申告功能對其他本服務會員隨意誣告或使用本服務有損害他人名譽或侵害他人權利之行為者。 
+12.其他經本公司判定有違公平合理方式使用本服務者。 
+13.其他有危害通信或違反法令之情事或之虞者。 
+（三）會員必須對自己所做之行為負一切責任，本公司有權針對上述規定進行不定期查核，但此不表示本公司有義務對會員傳送、張貼或發表之內容做任何形式或實質之審查。如經本公司察覺或經他人申訴或舉發會員有違反上述各款之情事或之虞時，本公司除有權逕行移除或刪除該內容外，並有權終止或暫停該會員之會員資格及各項會員服務。本公司如因此產生任何損害或損失，並得向該會員請求賠償。 
+（四）會員同意妥善保管個人之帳號及密碼，不得有與他人共用、租借他人等行為；會員並應不定期更新個人密碼，並於使用完服務後確實將帳號進行登出動作，以避免帳號遭他人使用。 
+
+七、責任限制： 
+
+（一）本服務之各項會員服務，依本公司既有之規劃提供，對於特定使用者之特殊需求，本公司不擔保本服務將符合您的所有需求。 
+（二）本公司不擔保各項服務之正確、完整、安全、可靠、合適、時效、穩定、不斷線及出錯。您同意對於您所傳送之電子郵件、檔案及其他資料進行備份或相關處理。對於因傳送過程而造成電子郵件、檔案及其他相關電磁記錄資料之遺失，本公司不負任何擔保責任。 
+（三）對於您於本服務中所下載之電子郵件、檔案及其他資料，您應該自行考量其風險，如因下載而造成您電腦系統的損壞或電腦中資料的遺失，本公司不負任何擔保責任。 
+（四）本服務可能因其他協力廠商或相關電信業者網路系統軟硬體設備之故障或失靈；或人為操作上之疏失而造成中斷、暫時無法使用、遲延、資料傳輸或儲存上之錯誤；或遭第三人侵入系統篡改或偽造變造資料等。本公司就以上不可歸責於己之情形不保證各項服務之穩定、安全、無誤、及不中斷。會員需明白使用本服務之所有風險及可能致生之任何損害，不得因此而要求任何補償或賠償。 
+
+八、保管義務： 
+
+會員有義務妥善保管本服務所提供之各類 “身份認證機制” 之安全性與唯一性，包含但不限於會員個人之帳號、密碼、手機或個人閱讀資訊設備，並為以此組 “身份認證機制” 登入本服務後所進行之一切活動負責。為維護會員自身權益，請勿將帳號與密碼洩露或提供予第三人知悉，或出借或轉讓他人使用。若會員發現或合理懷疑 “身份認證機制” 遭人非法使用或有任何異常破壞使用安全之情形時，應立即通知本公司；惟倘若因您的保管疏忽而致帳號、密碼遭他人非法使用 或因使用有害軟體導致您的 “身份認證機制”遭他人使用時，本公司將不負責處理。 
+
+九、資料處理： 
+
+對於會員所登錄或留存之資料，會員同意本公司及關係企業或合作對象，得於合理之範圍內蒐集、處理、保存、傳遞及使用該等資料，以提供會員其他資訊或服務；或作成會員統計資料、進行關於網路行為之調查或研究或為任何之合法使用。 
+
+十、隱私權保護： 
+
+關於您的會員註冊以及其他特定資料依「隱私權政策」受到保護與規範。您了解當您使用本服務時，您同意本公司依據「隱私權政策」進行您個人資料的蒐集、處理與利用。 
+
+十一、會員內容之保留： 
+
+本公司不對於會員所傳送、張貼或發表之內容（包括但不限於文字、圖片、音樂、影像、軟體、資訊及各種資料等）進行任何形式或實質之審查，亦不擔保其正確、完整、安全或可靠。會員對於使用由其他會員所提供之內容應自行考量其風險。 
+
+十二、智慧財產權： 
+
+本公司上之所有著作及資料，其著作權、專利權、商標等智慧財產權、所有權或其他權利、利益，均為本公司或原權利人所有，除事先經本公司或原權利人之合法授權外，會員不得擅自重製、傳輸、改作、編輯或以其他任何形式、或基於任何目的使用，違者應自負相關之法律責任。 
+
+十三、靜止戶管理： 
+
+為保護本服務之經營成本與整體會員利益，您同意申請成為本服務會員後，自您最後一次主動透過本公司執行本服務中所提供之實質交易功能(實質交易功能泛指您透過本公司執行牽涉貨幣或點數或卡片之實質交易關係者或透過執行本服務中所提供之權利交換行為者，包含儲值點數或扣除點數或買賣服務等)之日起算六個月內，如您未再次使用本服務內之各類實質交易功能，此時您的會員狀態將於次月起列入“靜止戶”狀態；您已了解並同意本公司於您靜止戶狀態期間得自您於本服務所殘存點數或款項餘額中，於每月一日扣除等值於零點五美金之會員服務管理費，直到您於本服務內之殘存點數或款項餘額扣完為止，以作為支付本公司持續維持您的會員權益與本服務長期維運成本；如您的靜止戶狀態期間累計已超過5年，您同意本公司依據 “服務停止”條款終止您於本服務中的所有權益且不因此要求本公司提供任何補償或賠償。 
+
+十四、服務停止： 
+
+為保護本服務之安全性、完整性或保障客戶權益，本公司得不待個別通知，得隨時終止、取消、停止本服務之全部或一部，您同意不因此要求本公司提供任何補償或賠償。如您決定終止針對您個人之服務並要求本公司進行您個人殘存點數餘額之清算返回，您同意本公司得自行自您的殘存點數餘額中扣除百分之四十作為作業處理費，同時您同意取回殘餘款項之匯款作業費用需由您自行承擔並得同意本公司自殘存點數餘額價值中扣除。 
+
+十五、服務條款之增訂及修改： 
+
+本公司保留將來新增、修改或刪除本服務之全部或一部之權利，您同意本公司得不另行個別通知，您同意不因此而要求本公司提供任何補償或賠償。 
+
+十六、準據法及管轄法院： 
+
+本服務條款之解釋及適用，以及會員因使用本服務而與本公司間之權利義務關係，悉依本服務所在地子公司及其相關法令解釋適用之（不含涉外民事法律適用法或其他類似法規）。其因此所生之爭議，您同意以本公司所指定之法院為訴訟法院；此外，若本服務條款有任何一部無效，亦不影響其他部份之效力。
+
+"</string>
+    <string name="str_text_service_items">服務條款</string>
+    <string name="str_text_set_notification">推播通知</string>
+    <string name="str_text_set_pwd">設定密碼</string>
+    <string name="str_text_set_qa">問題</string>
+    <string name="str_text_set_security">設定安全鎖</string>
+    <string name="str_text_start_mission">開始執行任務</string>
+    <string name="str_text_start_scratch">開始刮刮看</string>
+    <string name="str_text_start_share">馬上分享任務</string>
+    <string name="str_text_tab_bitcash_card">兌換卡片</string>
+    <string name="str_text_tab_bonus_activity">積分活動</string>
+    <string name="str_text_tab_bonus_record">積分明細</string>
+    <string name="str_text_tab_epin_card">兌換儲值密碼</string>
+    <string name="str_text_tab_member_notification">帳戶通知</string>
+    <string name="str_text_tab_mission_notification">活動通知</string>
+    <string name="str_text_tab_push_notification">推播內容</string>
+    <string name="str_text_ticket_code_hint">請輸入票卷代號</string>
+    <string name="str_text_ticket_id">票卷代號</string>
+    <string name="str_text_trade_amount">本次交易點數:</string>
+    <string name="str_text_transaction">交易處理</string>
+    <string name="str_text_transaction_cate">交易種類</string>
+    <string name="str_text_transaction_num">時間/交易編號</string>
+    <string name="str_text_verify_sms_otp">簡訊驗證碼</string>
+    <string name="str_text_verify_sms_otp_hint">請將簡訊中收到6碼數字填入下方文字框以進行驗證</string>
+    <string name="str_text_wait_function">敬請期待~</string>
+    <string name="str_text_wait_transaction">稍後交易</string>
+    <string name="str_ticket_map">座位平面圖</string>
+    <string name="str_ticket_open_map">點擊可將座位圖放大至全版面</string>
+    <string name="str_ticket_ovetime">過期票券</string>
+    <string name="str_ticket_qrcode">請秀出此QR code供服務人員掃描</string>
+    <string name="str_title_bind_bonus">帳號連結</string>
+    <string name="str_title_bonus_excange">我要兌換</string>
+    <string name="str_title_bonus_exchange2">積分兌換</string>
+    <string name="str_title_bonus_exchange3">到期積分查詢</string>
+    <string name="str_title_bonus_exchange4">積分說明與兌換辦法</string>
+    <string name="str_title_qrcode_login">QR code登入會員</string>
+    <string name="str_title_ticket1">活動細節</string>
+    <string name="str_title_ticket2">票券資訊</string>
+    <string name="str_title_ticket3">條碼掃描</string>
+    <string name="str_title_ticket4">選擇票劵</string>
+    <string name="str_to_exchange">前往兌換</string>
+    <string name="str_toast_text_copy_pin_success">已成功複製序號</string>
+    <string name="str_use_now">馬上使用</string>
+    <string name="str_whether_delete_card">是否刪除此卡片 ?</string>
+    <string name="str_write_off">已核銷</string>
+    <string name="title_activity_add">AddActivity</string>
+    <string name="title_activity_favorite">我的收藏</string>
+    <string name="title_activity_history">交易紀錄</string>
+    <string name="title_activity_main">遊戲類別選擇</string>
+    <string name="title_activity_new_mobile_otp">NewMobileOtpActivity</string>
+    <string name="title_activity_personal">個人管理</string>
+    <string name="title_activity_personal_info">其他賣家</string>
+    <string name="title_activity_product_info">商品資訊</string>
+    <string name="title_activity_product_manage">商品管理</string>
+    <string name="title_activity_product_publish">刊登商品</string>
+    <string name="title_dialog_delete">刪除提醒</string>
+    <string name="title_dialog_exchange">兌換提醒</string>
+    <string name="title_dialog_legal">商品兌換之法律條款</string>
+    <string name="title_dialog_off_board">下架提醒</string>
+    <string name="title_dialog_publish">商品刊登條款</string>
+    <string name="title_dialog_token_error">登入過期</string>
+    <string name="transition_tag">transition_view</string>
+    <string name="transition_tag2">transition_view2</string>
+    <string name="transition_tag3">transition_view3</string>
+    <string name="txt_char_deduct">扣</string>
+    <string name="txt_char_deposit">儲</string>
+    <string name="url_help">http://tw.gashpoint.com/Help/HelpB2C</string>
+    <string name="version">1.0.7</string>
+    <string name="w000110000">進階驗證失敗,Email已被使用</string>
+    <string name="wikitude_license">bZ+HJMM5kuEWtYby/7U8oUmdIwShF2LvtOvMd2/aOO160wMUmVY9udQ9chUBx9jAZDRGnFFNJyEw+/8vIcsRyyz9rVHpc6J9Hz6Pl8qmZi5NpFcICBPZNJqOQG8S0JB02Xo8AqwPw9ww9e5KUttF0Q3ZKnqelz+kF/CuBywHZORTYWx0ZWRfXxBfYoXtcYSSkds2WPV4uKzcp1kBYiWG9IQ2jEqX+YuW+MK6AiPHt57ahhwZOvpvKTocyBopku4go3V9HmzKGk5jx/Yh+5XkyolPvSaR76jtYbufLJjN3sx21nFEW+rmz4rGDqBXJD4T1Dtfnv1m5BXvS/aO0BTpM74BhiH0sYBjKVR2aGGzLFsSLFlZswGGDrFy+ckPCvXLIO1Bx+BbmwWDydDV1vdRFwws88K2DVP/uoHnsiN4MmFLPINZWvQz/SfSLNWnhMW8hwnb7Qp3/9ieE7nN/BlUy/Gazi8xGWdQA7upCaJtbNGfho5y9onER7+68gNBCMlHGEXoE7sFQiIcUY/XotqZKvXgrmvzIUQYOumOfF5bYAE9hx2yGiUpP3OEeoG+vop4zdctDNnccqDv7ELG/fd9Kwy9nMtaKS8daSQbFQ92bF2xU4BnI9+GfH8ClNC3IA+8D4wazaBWIlZGn4UulWOPBsW/20oj0Loe+/WVIzGvE6ff0E0jqJJ7juXGh5cfbeNZflT8msHYq+nkAqHezj5ke/uQjOkzam/jfL6IIit0moO5suyjTn5EJ0laEqMJ5YNC</string>
+    <string name="wtcPath">file:///android_asset/tracker.wtc</string>
+</resources>

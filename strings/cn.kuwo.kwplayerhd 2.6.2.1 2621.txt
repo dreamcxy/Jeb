@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">酷我音乐HD</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="testnet">测试网络和搜索提示</string>
+    <string name="testlocal">测试扫描本地音乐</string>
+    <string name="alert_ok">确定</string>
+    <string name="alert_exit">是否退出酷我音乐？</string>
+    <string name="tab_lyric">歌词</string>
+    <string name="tab_quku">曲库</string>
+    <string name="tab_mine">我的</string>
+    <string name="list_songname">歌曲名字</string>
+    <string name="list_singername">歌手名字</string>
+    <string name="list_title">播放列表</string>
+    <string name="add_to_list_error">歌曲或播放列表不存在</string>
+    <string name="add_to_default_overflow">默认播放列表已达到上限，清理后重试</string>
+    <string name="add_to_list_overflow">添加失败，列表已达到上限</string>
+    <string name="share_sina_title">新浪微博</string>
+    <string name="searching">正在搜索...</string>
+    <string name="search_songname">歌曲名</string>
+    <string name="search_singer">歌手名</string>
+    <string name="search_alert_tips">当前歌曲的歌词将被覆盖</string>
+    <string name="search_ok">搜索</string>
+    <string name="clear_search_history">清空搜索历史</string>
+    <string name="search_history_tip">搜索历史</string>
+    <string name="do_not_have_sdcard">您的设备中没有存储卡</string>
+    <string name="search_edit_hint">今天你想听什么</string>
+    <string name="scan_state_left">已扫描到</string>
+    <string name="scan_state_right">首歌曲</string>
+    <string name="scan_btn_hide">后台扫描</string>
+    <string name="recommend_to_add">意见反馈</string>
+    <string name="recommend_hint1">请留下您的宝贵意见和建议</string>
+    <string name="recommend_hint2">请留下您的联系方式:</string>
+    <string name="recommend_empty_alert">反馈意见以及联系方式不能为空</string>
+    <string name="recommend_send">发送</string>
+    <string name="recommend_send_failed">发送失败，请稍后再试。</string>
+    <string name="recommend_send_success">发送成功，谢谢您的支持！</string>
+    <string name="recommend_content_hint">请留下您的宝贵意见和建议</string>
+    <string name="recommend_contact_hint">输入您的手机/QQ号/邮箱</string>
+    <string name="recommend_sending">正在发送，请稍候...</string>
+    <string name="about_title">关于</string>
+    <string name="about_alert_content">"（Android）
+
+2015-08-24
+北京酷我科技有限公司 版权所有
+Copyright ©2005-2015 Kuwo All Rights Reserved
+
+申明：
+此版本适用于Android系列设备，如在其他品牌或型号的设备上使用本软件，对于出现的任何问题，酷我公司不承担责任。本软件的缓存、安装完全免费，使用过程中产生的数据流量费用，由运营商收取。
+
+服务地区限制说明：
+非常抱歉，由于版权限制，当您在中国大陆以外地区使用酷我音乐时，将无法使用在线音乐服务，酷我音乐仅提供本地播放和管理等离线音乐服务，非常感谢您的理解。
+
+客服QQ： 416307312
+                   1598835431
+客服QQ群：36297515
+                      108523911
+客服邮箱：sjs@kuwo.cn
+客服热线：（010）82601540（10：00 – 18：30）
+新浪微博：@酷我音乐
+官方网址：shouji.kuwo.cn
+                    wap.kuwo.cn
+商务合作：markerbd@kuwo.cn
+                    (010)82601782-830"</string>
+    <string name="welcome_limit_date" />
+    <string name="upgrade_check">检查升级</string>
+    <string name="upgrade_cancel">取消升级</string>
+    <string name="desk_lyric_islock_title">点击解锁桌面歌词</string>
+    <string name="desk_lyric_islock_message">桌面歌词已锁定</string>
+    <string name="desk_lyric_unlocked_title">点击锁定桌面歌词</string>
+    <string name="desk_lyric_unlocked_message">桌面歌词已解锁</string>
+    <string name="desk_lyric_notification_msg">桌面歌词已锁定，可在通知栏中或设置中解锁</string>
+    <string name="desk_lyric_lock_tip">桌面歌词已关闭，可以在通知栏或设置中开启</string>
+    <string name="mi_v5_tip">如遇到MIUI V5以上系统无法显示桌面歌词的情况，请返回手机桌面，找到设置>应用>酷我音乐>打开悬浮窗即可</string>
+    <string name="how_wo_show_lrc">如何显示桌面歌词</string>
+    <string name="notification_default">听音乐用酷我！</string>
+    <string name="mv_quality_high">高清</string>
+    <string name="mv_quality_low">流畅</string>
+    <string name="mv_loading_tip">正在加载...</string>
+    <string name="mv_change_quality">正在切换画质</string>
+    <string name="nowplay_title_default">听音乐 用酷我</string>
+    <string name="cropimg_savebtn_title">保存</string>
+    <string name="cropimg_cancelbtn_title">取消</string>
+    <string name="skin_error_hint">图片加载出错啦，换张图试试吧！</string>
+    <string name="skin_settings">皮肤设置</string>
+    <string name="skin_photo">拍照</string>
+    <string name="skin_albums">相册</string>
+    <string name="skin_no_pic">相机没有提供图片哦，请换个相机试试</string>
+    <string name="vip_account_info_title">账户信息</string>
+    <string name="vip_account_title">账号：</string>
+    <string name="vip_type_title">VIP类型：</string>
+    <string name="vip_out_of_time">已过期</string>
+    <string name="vip_level_title">VIP等级：</string>
+    <string name="vip_level_msg">至尊VIP享受等级成长</string>
+    <string name="get_vip_free">推广期可免费领取VIP</string>
+    <string name="tv_free_vip_now">立即领取</string>
+    <string name="tv_upgrade_vip_now">立即升级</string>
+    <string name="vip_balance_title">歌曲下载余量：</string>
+    <string name="up_vip_title">升级为至尊VIP享受歌曲无限下载</string>
+    <string name="vip_standard">标准VIP</string>
+    <string name="vip_free">体验VIP</string>
+    <string name="vip_super">至尊VIP</string>
+    <string name="vip_cache_num_no_limited">无上限</string>
+    <string name="renewals_vip_over">"
+亲爱的%1$s:
+您的酷我VIP已到期，
+请及时续费，畅享酷我VIP特权
+"</string>
+    <string name="renewals_vip_almost_over">"
+亲爱的%1$s:
+您的酷我VIP将在%2$s天后到期，
+请及时续费，畅享酷我VIP特权
+"</string>
+    <string name="update_vip">"
+亲爱的%1$s:
+您本月的下载歌曲限额已用完。
+升级至尊VIP，畅享更多下载！
+"</string>
+    <string name="ape_vip_upgrade">"
+亲爱的%1$s:
+下载APE为至尊VIP特权。
+您可以升级至尊VIP，畅享无限下载和APE下载！
+"</string>
+    <string name="receive_vip_tip">"下载为VIP特权，开通后才可使用。
+推广期间免费领取！
+"</string>
+    <string name="subscribe_vip_tip">"下载为VIP特权，开通后才可使用。
+"</string>
+    <string name="renewal_vip_now">马上续费</string>
+    <string name="what_is_offline_cache">离线收听限额是指已经缓冲完成的歌曲在离线时可以随意播放。由于唱片公司规定，一般情况下离线收听歌曲为30首，开通酷我VIP服务可以获取更高限额。</string>
+    <string name="up_vip_now">马上升级</string>
+    <string name="merge_rightnow">立即合并</string>
+    <string name="subscribe_vip_now">开通</string>
+    <string name="receive_vip_now">领取</string>
+    <string name="giveup">放弃</string>
+    <string name="music_share_chooser_title">分享到</string>
+    <string name="music_share_default">听到这首%1$s的《%2$s》我就无法淡定了，快来听听吧(分享自@酷我音乐)！%3$s</string>
+    <string name="music_share_start_pic">看到这张美图，我不淡定了！一天一个音乐故事，尽在酷我音乐！</string>
+    <string name="music_share_weixin_start_pic">看到这张美图，我不淡定了！</string>
+    <string name="share_contact_hint">请输入您的分享内容</string>
+    <string name="alert_title_oauth_tip">取消授权提示</string>
+    <string name="alert_msg_oauth_tip">是否确定取消分享到%s的设置？</string>
+    <string name="sina_tip">新浪微博</string>
+    <string name="tweibo_tip">腾讯微博</string>
+    <string name="qzone_tip">QQ空间</string>
+    <string name="wechat_share">微信分享</string>
+    <string name="opt_later">以后再说</string>
+    <string name="share_music_tip">分享歌曲:%s</string>
+    <string name="install_immediately">马上安装</string>
+    <string name="update_immediately">立即升级</string>
+    <string name="noversion_msg">亲，你还没有安装微信</string>
+    <string name="notnew_msg">你的微信版本太旧了，请升级到最新版本后继续分享</string>
+    <string name="c_username">用户名:</string>
+    <string name="c_account">账号:</string>
+    <string name="c_password">密码:</string>
+    <string name="c_nickname">昵称:</string>
+    <string name="c_password_blank">密 码:</string>
+    <string name="c_nickname_blank">昵 称:</string>
+    <string name="c_new_password">新密码:</string>
+    <string name="c_email">邮箱:</string>
+    <string name="c_tel">手机号:</string>
+    <string name="c_vercode">验证码:</string>
+    <string name="c_confirm">确定</string>
+    <string name="c_cancel">取消</string>
+    <string name="c_close">取消</string>
+    <string name="c_complete">完成</string>
+    <string name="c_reget">重新获取</string>
+    <string name="l_split">|</string>
+    <string name="l_login_title">用户登录</string>
+    <string name="l_login_qq">QQ账号</string>
+    <string name="l_login_sina">新浪微博</string>
+    <string name="l_login_kw">酷我账号</string>
+    <string name="l_reg_at_login">免费注册</string>
+    <string name="l_login">登录</string>
+    <string name="l_rem_pass">记住密码</string>
+    <string name="l_auto_login">自动登录</string>
+    <string name="l_forget_pass">忘记密码</string>
+    <string name="l_def_account">邮箱/手机号/用户名</string>
+    <string name="l_def_pass">6-16位密码</string>
+    <string name="l_pop_enter_account">请您输入账号</string>
+    <string name="l_pop_enter_pass">请您输入密码</string>
+    <string name="l_toast_login_succ">登录成功</string>
+    <string name="l_toast_login_error">登录失败</string>
+    <string name="l_toast_login_fail">用户名或密码错误</string>
+    <string name="l_no_network">当前没有联网哦，请连接后再试</string>
+    <string name="r_reg">注册</string>
+    <string name="r_reg_title">注册酷我账号</string>
+    <string name="r_reg_username">用户名注册</string>
+    <string name="r_reg_tel">手机号注册</string>
+    <string name="r_reg_email">邮箱注册</string>
+    <string name="r_get_vercode">获取验证码</string>
+    <string name="r_reget_vercode">重新获取验证码</string>
+    <string name="r_sending_vercode">正在发送验证码</string>
+    <string name="btn_update_notice">%s秒</string>
+    <string name="r_reg_agree">我认同</string>
+    <string name="r_reg_prot">《注册协议》</string>
+    <string name="r_reg_protocal">我已阅读并同意《注册协议》</string>
+    <string name="r_reg_protocol_content">酷我注册协议</string>
+    <string name="local_login_protocol_msg_1">您只有无条件接受以下所有服务条款，才能继续申请：</string>
+    <string name="local_login_protocol_msg_2">"一、接受协议 
+　　一旦您注册成为酷我网（网址为：www.kuwo.cn）和/或酷我音乐盒的用户，便表示您（以下简称“用户”）已经完全理解并同意接受本协议（以下简称“协议”）。 
+　　酷我网可随时自行全权决定更改“协议”。如“协议”有任何变更，酷我网将在网站首页上刊载公告，通知用户。如用户不同意相关变更，则必须停止使用“我们的服务”；如果用户继续使用“我们的服务”，则表示已无条件接受经修订的“协议”。经修订的“协议”一经在酷我网站公布后，立即自动生效。除另行明确声明外，任何使我们的“服务内容”范围扩大或功能增强的新内容均受本协议约束。 
+ 
+二、服务内容 
+　　2.1 酷我网和/或酷我音乐盒运用自己的系统通过互联网向用户提供丰富的网上资源和服务，例如：视频、音频、歌词、歌单、专题的发布共享，及歌曲、信息的搜索服务等，除非另有明确规定，增强或强化目前服务的任何新功能，包括新产品以及新增加的服务，均无条件地适用本协议。 
+　　2.2 酷我网和/或酷我音乐盒提供的网络服务如无特别说明均为免费的网络服务，用户使用免费网络服务不必向酷我网支付任何费用。对于收费的网络服务，酷我网在用户使用之前给予用户明确的提示，只有用户根据提示确认其愿意支付相关费用后，用户才能使用该等收费网络服务。如用户拒绝支付相关费用，则酷我网有权不向用户提供该等收费网络服务。 
+　　2.3 用户充分理解，酷我网和/或酷我音乐盒仅提供相关的网络以及软件服务，除此之外与相关网络服务有关的设备（如个人电脑、手机、及其他与接入互联网或移动网有关的装置）及所需的费用（如为接入互联网而支付的电话费及上网费、为使用移动网而支付的手机费）均应由用户自行负担。 
+ 
+三、用户使用规则 
+　　3.1用户完成注册登记程序后，维持该密码及帐号的机密安全是用户的责任，用户应对所有用本人的密码及帐号的活动负完全的责任。用户同意每次上网完毕都会把本人的帐号关掉；用户不应将其账号转让或出借予他人使用。对于任何人利用该密码及帐号所进行的任何行为，除因酷我网原因导致账号密码被盗外，其他均由用户承担全部责任。对于因此而产生的任何损失或损害，酷我网无法也不承担任何责任。 
+　　根据有关法律法规，酷我网和/或酷我音乐盒在此郑重提请用户注意，任何经由“我们的服务”以上载、张贴、发送电子邮件或任何其它方式传送的资讯、资料、文字、软件、音乐、音讯、照片、图形、视频、信息或其它资料（以下简称“内容”），无论系公开还是私下传送，均由内容提供者、上传者承担责任。酷我网和/或酷我音乐盒无法控制经由我们的服务传送之内容，因此不保证内容的正确性、完整性或品质。用户已预知使用我们的服务时，可能会接触到令人不快、不适当或令人厌恶之内容。在任何情况下，酷我网均不为任何内容负责，包含但不限于任何内容之任何错误或遗漏，以及经由我们的服务以张贴、发送电子邮件或其它方式传送任何内容而衍生之任何损失或损害。但酷我网和/或酷我音乐盒有权依法停止传输任何前述内容并采取相应行动，包括但不限于暂停用户使用我们的服务的全部或部分，保存有关记录，并向有关机关报告。 
+　　3.2用户在酷我网和/或酷我音乐盒发布信息（包括注册用户名）时，必须遵守国家有关法律规定，并承担一切因自己发布信息不当导致的民事、行政和/或刑事法律责任。用户在酷我网和/或酷我音乐盒所发布的信息（包括注册用户名、图像），不得含有以下任何内容： 
+　　(1)违反宪法确定的基本原则的； 
+　　(2)危害国家安全，泄露国家秘密，颠覆国家政权，破坏国家统一的； 
+　　(3)损害国家荣誉和利益，攻击党和政府的； 
+　　(4)煽动民族仇恨、民族歧视，破坏民族团结的； 
+　　(5)破坏国家、地区间友好关系的； 
+　　(6)违背中华民族传统美德、社会公德、论理道德、以及社会主义精神文明的； 
+　　(7)破坏国家宗教政策，宣扬邪教和封建迷信的； 
+　　(8)散布谣言或不实消息，扰乱社会秩序 ，破坏社会稳定的； 
+　　(9)煽动、组织、教唆恐怖活动、非法集会、结社、游行、示威、聚众扰乱社会秩序的； 
+　　(10)散布淫秽、色情、赌博、暴力、恐怖或者教唆犯罪的； 
+　　(11)侮辱或诽谤他人，侵害他人合法权益的； 
+　　(12)侵犯他人肖像权、姓名权、名誉权、隐私权或其他人身权利的； 
+　　(13)使用漫骂、辱骂、中伤、恐吓、诅咒等不文明语言的； 
+　　(14)以非法民间组织名义活动的； 
+　　(15)侵犯他人著作权等合法权益的； 
+　　（16）含有法律、行政法规禁止的其他内容的。 
+　　3.3 如果用户在酷我网和/或酷我音乐盒发布信息时不能履行和遵守协议中的规定，为维护本网站的形象、信誉、安全，本网站有权删除用户发布的相关信息，并对违反协议的用户做出封闭ID和/或暂时、永久禁止在本网站发布信息的处理，同时保留依法追究当事人法律责任的权利。此外，本网站在采取移除等相应措施后不为此向原发布人承担违约责任或其他法律责任，包括不承担因侵权指控不成立而给原发布人带来损害的赔偿责任。 
+　　3.4 用户需独立对自己在本网站上实施的行为承担法律责任。若用户的行为不符合本协议，酷我网有权做出独立判断立即取消用户服务帐号。用户若在酷我网和/或酷我音乐盒上散布和传播反动、色情或其他违反国家法律的信息，酷我网的系统记录有可能作为用户违反法律的证据。 
+　　3.5 酷我网不对用户所发布信息的删除或储存失败承担任何责任。酷我网有权判定用户的行为是否符合中国法律法规的规定以及酷我注册协议的要求，如果用户违背了中国法律法规的规定或注册协议的规定，酷我网和/或酷我音乐盒有中断对其提供服务的权利。对于用户通过酷我网络技术服务（包括但不限于论坛、BBS、博客、图片、微视频、笑话等频道）上传到酷我网和/或酷我音乐盒上可公开获取区域的任何内容，用户同意授予酷我网和/或酷我音乐盒在全世界范围内永久性的、不可撤销的、免费的、无期限的、非独家的和有权再许可的权利和许可，可以使用、复制、修改、改编、出版、翻译、据以创作衍生作品、传播、表演和展示该等内容的全部或部分，和/或将此等内容的全部或部分编入其他任何形式的作品、媒体或技术中。 
+ 
+四、隐私保护 
+　　酷我网保证不对外公开或向第三方提供单个用户的注册资料及用户在使用网络服务时存储在酷我网和/或酷我音乐盒的非公开内容，但下列情况除外： 
+　　4.1.1 事先获得用户的明确授权； 
+　　4.1.2 根据有关的法律法规要求； 
+　　4.1.3 按照相关政府主管部门的要求； 
+　　4.1.4 为维护社会公众的利益； 
+　　4.1.5 为维护酷我网的合法权益。 
+　　4.1.6 其他需要公开、编辑或透露个人信息的情况。 
+　　4.2 酷我网可能会与第三方合作向用户提供相关的网络服务，在此情况下，如该第三方同意承担与酷我网同等的保护用户隐私的责任，则酷我网有权将用户的注册资料等提供给该第三方。 
+　　4.3 在不透露单个用户隐私资料的前提下，酷我网有权对整个用户数据库进行分析并对用户数据库进行商业上的利用。 
+ 
+五、关于注册用户在酷我网和/或酷我音乐盒上传的作品和内容 
+　　5.1 用户上传的作品和内容是指用户在酷我网和/或酷我音乐盒上载或发布的视频、音频或其它任何形式的内容包括文字、图片、连接等。 
+　　5.2 用户在酷我网和/或酷我音乐盒上传或发布原创作品的，用户应保证其对该等作品享有合法著作权/版权，并且用户同意授予酷我网和/或酷我音乐盒对所有上述作品和内容的在全球范围内免费的、不可撤销的、无限期的、并且可转让和再许可的非独家使用权许可，酷我网和/或酷我音乐盒有权展示、传播、散布及推广前述内容，有权对前述内容进行任何形式的复制、修改、改编、出版、翻译、表演、发行及以其他方式使用或者授权第三方进行复制、修改、改编、出版、翻译、传播、表演、展示、发行及以其他方式使用。用户在本网站上传或发布转载作品的，用户保证其已获得所有相关著作权人（包括但不限于作者、表演者、录音录像制作者等）的合法、有效授权，并且有权授权酷我网和/或酷我音乐盒无偿展示、散布及推广前述内容，对前述内容进行任何形式的复制、修改、改编、出版、翻译、表演、发行及以其他方式使用或者授权第三方进行复制、修改、改编、出版、翻译、表演、发行及以其他方式使用。 
+　　5.3 因用户进行上述作品和内容在本网站的上传或发布而导致任何第三方提出索赔要求或衍生的任何损害或损失，由用户承担全部责任。 
+ 
+六、知识产权
+　　6.1 酷我网和/或酷我音乐盒提供的网络服务中包含的任何文本、图片、图形、音频和/或视频资料均受版权、商标权、肖像权和/或其它财产所有权法律的保护。未经相关权利人同意，上述资料均不得在任何媒体直接或间接发布、播放、出于播放或发布目的而改写或再发行，或者被用于其他任何商业目的。所有这些资料或资料的任何部分仅可作为私人用途而保存在某台计算机内。酷我网不就由上述资料产生或在传送或递交全部或部分上述资料过程中产生的延误、不准确、错误和遗漏或从中产生或由此产生的任何损害赔偿，以任何形式向用户或任何第三方负法律责任。 
+　　6.2 酷我网和/或酷我音乐盒的为提供网络服务而使用的任何软件（包括但不限于软件中所含的任何图象、照片、动画、录像、录音、音乐、文字和附加程序、随附的帮助材料）的一切权利均属于该软件的著作权人，未经该软件的著作权人许可，用户不得对该软件进行反向工程（reverse engineer）、反向编译（decompile）或反汇编（disassemble）等。 
+ 
+七、免责声明 
+　　7.1用户明确同意其使用酷我网络服务所存在的风险将完全由其本人承担；因其使用酷我网络服务而产生的一切后果也由其本人承担。酷我网对用户及任何第三方不承担任何责任。 
+　　7.2 酷我网和/或酷我音乐盒不担保或保证网络服务一定能满足用户的要求，也不担保网络服务不会中断，对网络服务的及时性、安全性、准确性也都不作任何担保或保证。 
+　　7.3 酷我网和/或酷我音乐盒不保证为向用户提供便利而设置的外部链接的准确性和完整性，同时，对于该等外部链接指向的不由酷我网实际控制的任何网页上的内容，酷我网也不承担任何责任。 
+　　7.4 对于因不可抗力或酷我网不能控制的原因造成的网络服务中断或其它缺陷，酷我网不承担任何责任，但将尽力减少因此而给用户造成的损失和影响。 
+　　7.5 酷我网和/或酷我音乐盒对于任何自本网站而获得的他人的信息、内容或者广告宣传等任何资讯（以下统称“信息”），不保证真实、准确和完整性。如果任何单位或者个人通过上述“信息”而进行任何行为，须自行甄别真伪和谨慎预防风险。否则，无论何种原因，本网站不对任何非与本网站直接发生的交易和/或行为承担任何直接、间接、附带或衍生的损失和责任。 
+　　7.6 用户同意，对于酷我网和/或酷我音乐盒向用户提供的下列产品或者服务的质量缺陷本身及其引发的任何损失，酷我网无需承担任何责任： 
+　　7.6.1 酷我网和/或酷我音乐盒向用户免费提供的各项网络服务； 
+　　7.6.2 酷我网和/或酷我音乐盒向用户赠送的任何产品或者服务； 
+　　7.6.3 酷我网和/或酷我音乐盒向收费网络服务用户附赠的各种产品或者服务； 
+　　7.6.4 用户资料遭到未授权的使用或修改； 
+　　7.6.5 其他与本网站相关的事宜。 
+ 
+八、通知送达 
+　　8.1 本协议项下酷我网对于用户所有的通知均可通过网页公告、电子邮件、手机短信或其他常规的信件传送等方式进行；该等通知于发送之日视为已送达收件人。 
+　　8.2 用户对于酷我网的通知应当通过酷我网对外正式公布的通信地址、传真号码、电子邮件地址等联系信息进行送达。 
+ 
+九、责任限制 
+　　用户明确了解并同意，基于以下原因造成的包括但不限于利润、信誉、应用、数据损失或其它无形损失，酷我网不承担任何直接、间接、附带、特别、衍生性或惩罚性赔偿责任（即使酷我网事先已被告知发生此种赔偿之可能性亦然）：(i)“我们的服务”之使用或无法使用，(ii)为替换从或通过“我们的服务”购买或取得之任何商品、数据、信息、服务，收到的讯息，或缔结之交易而发生的成本，(iii)用户的传输或数据遭到未获授权的存取或变造，(iv) 任何第三方在“我们的服务”中所作之声明或行为，或(v)与“我们的服务”相关的其它事宜，但本协议有明确规定的除外。 
+ 
+十、服务的修改 
+　　酷我网和/或酷我音乐盒有权于任何时间暂时或永久修改或终止“我们的服务”（或其任何部分），而无论其通知与否。用户同意对于“我们的服务”所作的任何修改、暂停或终止，酷我网对用户和任何第三人均无需承担任何责任。 
+ 
+十一、终止服务 
+　　用户同意酷我网和/或酷我音乐盒有权基于其自行之考虑，因任何理由，包含但不限于缺乏使用或酷我网认为用户已经违反本协议的文字及精神，而终止用户的密码、帐号或“我们的服务”之使用（或服务之任何部分），并将用户在“我们的服务”内的任何内容加以移除并删除。酷我网和/或酷我音乐盒亦得依其自行之考虑，于通知或未通知之情形下，随时终止“我们的服务”或其任何部分。用户同意依本协议任何规定提供之“我们的服务”，无需进行事先通知即可中断或终止，用户承认并同意，酷我网和/或酷我音乐盒可立即关闭或删除用户的帐号及用户帐号中所有相关信息及文件，及/或禁止继续使用前述文件或“我们的服务”。此外，用户同意若“我们的服务”之使用被中断或终止或用户的帐号及相关信息和文件被关闭或删除，酷我网对用户或任何第三人均不承担任何责任。 
+ 
+十二、法律管辖与适用 
+　　12.1 本服务协议的生效、履行、解释及争议的解决均适用中华人民共和国法律。 
+　　12.2 如就本协议内容或其执行发生任何争议，应尽量友好协商解决；协商不成时，则争议各方均一致同意将争议提交北京仲裁委员会仲裁解决。仲裁地点为北京。仲裁语言为中文。仲裁裁决为终局，对各方均有法律约束力。 
+　　12.3本协议条款的最终解释权在酷我公司。 
+ 
+特别提示：用户在进行注册之前，请确保本人已经完全理解并接受本协议所有条款（尤其是免责条款），否则，请不要注册。一旦用户正式注册，则表明用户已经完全理解并接受本协议所有条款，尤其是免责和责任限制条款。"</string>
+    <string name="r_def_account">2-20位的用户名</string>
+    <string name="r_def_nick_userlogin">取个2-16位的名字吧</string>
+    <string name="r_def_password_userlogin">设置6-16位密码</string>
+    <string name="r_def_tel">请输入手机号</string>
+    <string name="r_def_username">请输入用户名</string>
+    <string name="r_def_nick">取个好听的名字吧</string>
+    <string name="r_def_password">6-16位登录密码</string>
+    <string name="r_def_email">登录用的邮箱</string>
+    <string name="r_tip_getting_vercode">正在获取验证码...</string>
+    <string name="r_tip_registering">注册中......</string>
+    <string name="r_pop_registering">输入的手机号不正确</string>
+    <string name="r_pop_vercode_wrong">验证码有误，请检查后重试</string>
+    <string name="r_pop_enter_vercode">5位验证码</string>
+    <string name="r_pop_enter_nick">请输入昵称</string>
+    <string name="r_pop_nick">昵称应为2-16位</string>
+    <string name="r_pop_nick_badword">昵称中含有敏感词</string>
+    <string name="r_pop_enter_password">请输入密码</string>
+    <string name="r_pop_long_pass">密码不能超过16位</string>
+    <string name="r_pop_short_pass">密码不能少于6位</string>
+    <string name="r_pop_enter_account">请输入2-20位用户名(登录用)</string>
+    <string name="r_pop_enter_email">请输入邮箱</string>
+    <string name="r_pop_email_wrong">该邮箱不存在，请重新输入</string>
+    <string name="r_pop_email_signed">该邮箱已被注册，请直接登录</string>
+    <string name="r_toast_vercode_sended">验证码已发送，请注意查收</string>
+    <string name="r_toast_account_illegal">用户名不能由数字开头</string>
+    <string name="r_toast_syserr">系统错误，导致注册失败</string>
+    <string name="r_alert_get_vercode_fail">获取失败，请重新获取</string>
+    <string name="r_alert_tel_signed">该手机号已注册过，请直接登录</string>
+    <string name="r_alert_account_signed">用户名已被注册，换一个试试</string>
+    <string name="f_find_pass">密码找回</string>
+    <string name="f_reset_pass">密码重置</string>
+    <string name="f_find_tel">手机号找回</string>
+    <string name="f_find_email">邮箱找回</string>
+    <string name="f_display_pass">显示密码</string>
+    <string name="f_reget_init">(53s)重新获取</string>
+    <string name="f_def_tel">请输入注册的手机号</string>
+    <string name="f_def_email">请输入注册邮箱</string>
+    <string name="f_def_vercode">收到的验证码</string>
+    <string name="f_def_newpassword">输入新密码</string>
+    <string name="f_tip_email">请稍后</string>
+    <string name="f_tip_sending_email">正在发送验证邮件</string>
+    <string name="f_send_email">发送邮件</string>
+    <string name="f_sending_email">正在发送邮件</string>
+    <string name="reset_pwd_notice">已发送至%s,如一分钟后未收到请重试</string>
+    <string name="f_toast_reset_fail">发送失败，请60s后重试</string>
+    <string name="f_toast_femail_sended">已发送邮件至你的邮箱，请查收</string>
+    <string name="f_pop_tel_illegal">请输入正确的手机号</string>
+    <string name="f_pop_email_illegal">请输入正确的邮箱</string>
+    <string name="f_alert_reset_succ">密码重置成功</string>
+    <string name="f_alert_send_femail_succ">发送成功，请登录您的邮箱进行密码重置</string>
+    <string name="f_alert_tel_unsigned">该手机号没有注册过酷我账号，请先注册</string>
+    <string name="f_alert_email_unsigned">该邮箱尚未注册，请先注册</string>
+    <string name="f_alert_vercode_wrong">验证码不正确，密码重置失败</string>
+    <string name="alert_title">提示</string>
+    <string name="alert_confirm">确定</string>
+    <string name="alert_install">安装</string>
+    <string name="alert_redown">重新下载</string>
+    <string name="alert_login">登录</string>
+    <string name="alert_pay">充值</string>
+    <string name="alert_new_version">发现新版本</string>
+    <string name="alert_create_folder">新建文件夹</string>
+    <string name="alert_cancel">取消</string>
+    <string name="alert_download_sing_content">亲，你需要安装最新版的酷我K歌哦</string>
+    <string name="alert_no_sdcard">SD卡不可用</string>
+    <string name="alert_loading">正在加载...</string>
+    <string name="wifi_state">你当前处于wifi环境</string>
+    <string name="g3_state">你当前处于3G环境</string>
+    <string name="mobile_state">你当前处于运营商网络</string>
+    <string name="not_show_check">不再提示</string>
+    <string name="qulity_select">下载音质选择</string>
+    <string name="s_qulity">流畅音质</string>
+    <string name="h_qulity">高品音质</string>
+    <string name="p_qulity">超品音质</string>
+    <string name="ff_qulity">无损音质</string>
+    <string name="first_download">优先下载</string>
+    <string name="all_download">全部下载</string>
+    <string name="download_path_tip">下载至：</string>
+    <string name="download_path_modify">修改</string>
+    <string name="download_no_path">下载目录不可用</string>
+    <string name="network_connect_timeout">网络连接超时，请稍后再试</string>
+    <string name="network_io_error">网络连接出错，请稍后再试</string>
+    <string name="network_not_found">网络资源找不到</string>
+    <string name="network_no_available">没有联网，暂时不能使用哦</string>
+    <string name="network_fail_quku">网络连接失败，请重试</string>
+    <string name="network_fail_unknown">网络连接出错，请稍后再试</string>
+    <string name="show_download_play">"边听边下载功能已关闭，是否开启。
+注：边听边下载 已为vip功能"</string>
+    <string name="download_play_open">去开启</string>
+    <string name="setting_listen_quality">试听音质</string>
+    <string name="setting_oritation">屏幕方向</string>
+    <string name="setting_download_quality">下载音质</string>
+    <string name="setting_download_path">自定义下载目录</string>
+    <string name="setting_download_at_listening">边听边存(不包括电台)</string>
+    <string name="setting_allow_use_3g">仅在wifi下联网</string>
+    <string name="setting_auto_get_big_pic">自动获取歌手大图</string>
+    <string name="setting_start_music">启动音效</string>
+    <string name="setting_ear_phone_control">允许线控</string>
+    <string name="setting_ear_phone_control_tip">单击:播放|暂停，双击：下一首，连按三次：上一首</string>
+    <string name="setting_desktop_lrc">桌面歌词</string>
+    <string name="setting_lock_lrc">歌词锁定</string>
+    <string name="setting_sleep_time">睡眠定时</string>
+    <string name="setting_clear_cache">清空缓存</string>
+    <string name="setting_check_update">检查更新</string>
+    <string name="setting_feedback">意见反馈</string>
+    <string name="setting_common_question">常见问题</string>
+    <string name="setting_about">关于酷我</string>
+    <string name="setting_exit">退出酷我</string>
+    <string name="setting_search_history_cache">搜索历史</string>
+    <string name="setting_listen_song_cache">试听歌曲缓存</string>
+    <string name="setting_pic_cache">图片缓存</string>
+    <string name="setting_lyric_cache">歌词缓存</string>
+    <string name="setting_stopplay_sleep">定时开关</string>
+    <string name="setting_self_define_sleep">自定义</string>
+    <string name="setting_tenmin_sleep">10分钟</string>
+    <string name="setting_thirtymin_sleep">30分钟</string>
+    <string name="setting_sixtymin_sleep">60分钟</string>
+    <string name="setting_ninetymin_sleep">90分钟</string>
+    <string name="setting_listen_quality_low">流畅音质</string>
+    <string name="setting_listen_quality_high">高品音质</string>
+    <string name="setting_download_quality_low">流畅音质(1-2M/首)</string>
+    <string name="setting_download_quality_high">高品音质(4-5M/首)</string>
+    <string name="setting_download_quality_super">优先下载超音品质(7-10M/首)</string>
+    <string name="setting_download_quality_ape">优先下载无损音质(25-35M/首)</string>
+    <string name="setting_select_defualt">自动选择</string>
+    <string name="setting_download_quality_default">每次询问我</string>
+    <string name="setting_not_start">未启动</string>
+    <string name="wechat_show">分享首好听的歌给你~</string>
+    <string name="errcode_success">发送成功</string>
+    <string name="errcode_cancel">发送取消</string>
+    <string name="errcode_deny">发送被拒绝</string>
+    <string name="errcode_unknown">发送返回</string>
+    <string name="main_titletip">听音乐</string>
+    <string name="main_artisttip">用酷我</string>
+    <string name="main_timetip">00:00|00:00</string>
+    <string name="slider_unlock_desc">向右滑动解锁</string>
+    <string name="setting_lock_screen">酷我锁屏</string>
+    <string name="setting_backgound_change">写真轮播</string>
+    <string name="setting_backgound_switch">关闭写真</string>
+    <string name="voicesearch_hint">使用提示</string>
+    <string name="voicesearch_tipStr">说话时，请贴近手机底部的话筒。发音清楚响亮，不要停顿。</string>
+    <string name="voicesearch_fail">识别失败</string>
+    <string name="voicesearch_cancel">取消</string>
+    <string name="voicesearch_retry">再说一遍</string>
+    <string name="voicesearch_process">正在处理</string>
+    <string name="voicesearch_confirmSrResult">你说的是 ... ?</string>
+    <string name="voicesearch_processStr2">请等待...</string>
+    <string name="voicesearch_hintStr">请贴近底部话筒发音</string>
+    <string name="voicesearch_inputStr">请说出：</string>
+    <string name="voicesearch_retryPromptStr">请再说一遍</string>
+    <string name="voicesearch_sysErrStr">系统错误</string>
+    <string name="voicesearch_sysInitStr">请等待...</string>
+    <string name="voicesearch_notInitStr1">系统没有初始化,请参考SDK用户手册。</string>
+    <string name="voicesearch_title">歌手或歌名</string>
+    <string name="voicesearch_company">Powered by 云知声</string>
+    <string name="voicesearch_recording">说出你想要的，我在听哦</string>
+    <string name="voicesearch_loading">正在处理</string>
+    <string name="voicesearch_oncemore">请再说一遍</string>
+    <string name="voicesearch_wait">请等待...</string>
+    <string name="voicesearch_versiontip">抱歉,该功能只支持Android2.1及其以上版本，快快升级吧.</string>
+    <string name="voicesearch_versiontip_title">提示</string>
+    <string name="voicesearch_versiontip_confirm">确定</string>
+    <string name="no_media_file">没有音频文件</string>
+    <string name="loading_text">正在获取, 请稍候...</string>
+    <string name="list_empty">暂无内容或结果!</string>
+    <string name="net_error">网络请求失败</string>
+    <string name="retry_text">再试一次</string>
+    <string name="net_unavailable">无网络, 您可以</string>
+    <string name="set_net_connection">刷新</string>
+    <string name="widget_default_title">酷我音乐</string>
+    <string name="widget_default_lyrics">听音乐 用酷我</string>
+    <string name="widget_dialog_title">提示</string>
+    <string name="widget_dialog_message">是否扫描本地音乐</string>
+    <string name="widget_dialog_cancel">取消</string>
+    <string name="widget_dialog_comfirm">确定</string>
+    <string name="widget_dialog_scan_messge">无可播放歌曲，扫描手机试试看?</string>
+    <string name="umeng_common_action_info_exist">The app is already in downloading list.</string>
+    <string name="umeng_common_info_interrupt">dowload interrupted.</string>
+    <string name="umeng_common_action_pause">Pause</string>
+    <string name="umeng_common_action_continue">Continue</string>
+    <string name="umeng_common_action_cancel">Cancel</string>
+    <string name="umeng_common_download_notification_prefix">Downloading:</string>
+    <string name="umeng_common_pause_notification_prefix">Pause:</string>
+    <string name="umeng_common_start_download_notification">Download start.</string>
+    <string name="umeng_common_start_patch_notification">Patch start.</string>
+    <string name="umeng_common_network_break_alert">Please make sure you are connected to internet, download failed</string>
+    <string name="umeng_common_download_failed">Download Failed!</string>
+    <string name="umeng_common_download_finish">Download finished,click to install it.</string>
+    <string name="umeng_common_patch_finish">Patch finished,click to install it.</string>
+    <string name="umeng_common_silent_download_finish">New version is ready,click to install it.</string>
+    <string name="umeng_common_icon">icon</string>
+    <string name="umeng_fb_contact_info_hint">Email, msn, gtalk, or whatever we can find you.</string>
+    <string name="umeng_fb_contact_update_at">Updated at</string>
+    <string name="umeng_fb_back">Back</string>
+    <string name="umeng_fb_title">Feedback</string>
+    <string name="umeng_fb_contact_title">Contact</string>
+    <string name="umeng_fb_contact_info">Contact Info</string>
+    <string name="umeng_fb_reply_content_hint">I want to tell</string>
+    <string name="umeng_fb_send">Send</string>
+    <string name="umeng_fb_reply_content_default">Your precious feedback are appriciated.</string>
+    <string name="umeng_fb_reply_date_default">2013-3-12 13:24:00</string>
+    <string name="umeng_fb_powered_by">Powered by</string>
+    <string name="umeng_fb_notification_ticker_text">Got new reply</string>
+    <string name="umeng_fb_notification_content_formatter_single_msg">New reply: %s</string>
+    <string name="umeng_fb_notification_content_formatter_multiple_msg">You received %d new replies from the app developer.</string>
+</resources>

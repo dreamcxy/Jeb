@@ -1,0 +1,835 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="accept">Accept</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
+    <string name="create_calendar_title">Create calendar event</string>
+    <string name="debug_menu_ad_information">Ad Information</string>
+    <string name="debug_menu_creative_preview">Creative Preview</string>
+    <string name="debug_menu_title">Select a Debug Mode</string>
+    <string name="debug_menu_troubleshooting">Troubleshooting</string>
+    <string name="decline">Decline</string>
+    <string name="search_menu_title">Search</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="store_picture_message">Allow Ad to store image in Picture gallery?</string>
+    <string name="store_picture_title">Save image</string>
+    <string name="About">About</string>
+    <string name="About_text">"DailyRoads Voyager allows you to continuously record videos and capture photos during your journeys. 
+
+The app records everything, but only important events are protected - either automatically (g-force event) or you get to choose what to keep simply by touching the screen, even while you drive. 
+
+Speed, elevation and GPS coordinates can also be shown on the videos/photos within the app. To embed such data in the exported video sequences, you can use the Overlays settings. 
+
+More info on {0} 
+
+No personal information is collected from the phone, but for the purpose of statistics and targeted advertising, third-party libraries may collect, store, share and/or transfer various anonymous end-user IDs and location data."</string>
+    <string name="About_text_end">Enjoy, and have a safe journey!</string>
+    <string name="Ads_answer">"Available since 2009, DailyRoads Voyager has been free and without ads for more than 4 years. To keep it free, please support its ongoing development - any purchase within the app will remove the ads. 
+
+Even if you don't purchase anything, you can help by tapping on ads, installing apps suggested by AppBrain, or fully watching video ads."</string>
+    <string name="Ads_answer_end">Thank you!</string>
+    <string name="Ads_answer_invite">You can start right here, and see what is behind this ad:</string>
+    <string name="Ads_answer_no">Thanks so much for the support - no more ads for you :)</string>
+    <string name="Antibanding">Antibanding</string>
+    <string name="Auto_boot">Start after device boot</string>
+    <string name="Auto_dock">Detect car dock</string>
+    <string name="Auto_pause_battery">Pause when low battery is detected</string>
+    <string name="Auto_pause_power">Pause when charger is disconnected</string>
+    <string name="Auto_pause_video">Pause video recording</string>
+    <string name="Auto_resume_video">Resume automatically</string>
+    <string name="Auto_start">Auto start</string>
+    <string name="Auto_start_bckgr">Start in background</string>
+    <string name="Auto_start_bckgr_warning">Please first enable background operation</string>
+    <string name="Auto_start_photo">Start photo capturing</string>
+    <string name="Auto_start_power">Start when charger is connected</string>
+    <string name="Auto_start_video">Start video recording</string>
+    <string name="Auto_stop">Auto shut down</string>
+    <string name="Auto_stop_battery">Exit when low battery is detected</string>
+    <string name="Auto_stop_power">Exit when charger is disconnected</string>
+    <string name="Auto_warning_sound">On sudden app stop or video pause</string>
+    <string name="Automatic_mode">Automatic mode</string>
+    <string name="Automatic_mode_expl">Start/stop app and video/photo, car dock, low power, warning sound</string>
+    <string name="Back_btn">Back button in the main screen</string>
+    <string name="Back_continue">Continue in background</string>
+    <string name="Back_download">Download a new app, to support this app</string>
+    <string name="Background_mode">Background mode</string>
+    <string name="Background_mode_expl">Operation and placement of buttons on top of other apps</string>
+    <string name="Background_op">Background operation</string>
+    <string name="Bckgr_buttons">Show buttons</string>
+    <string name="Bckgr_dist">Distance (in pixels)</string>
+    <string name="Bckgr_exit">Exit button</string>
+    <string name="Bckgr_group">Group buttons</string>
+    <string name="Bckgr_group_size">Grouping and size</string>
+    <string name="Bckgr_horiz">Horizontal placement</string>
+    <string name="Bckgr_horiz_dist">Distance from left margin</string>
+    <string name="Bckgr_mic">Microphone button</string>
+    <string name="Bckgr_move">Move button</string>
+    <string name="Bckgr_permission">System permission</string>
+    <string name="Bckgr_photo">Photo button</string>
+    <string name="Bckgr_retain">Protect button</string>
+    <string name="Bckgr_size">Size of buttons</string>
+    <string name="Bckgr_specific">Specific placement</string>
+    <string name="Bckgr_speed">Speed button</string>
+    <string name="Bckgr_vert">Vertical placement</string>
+    <string name="Bckgr_vert_dist">Distance from top margin</string>
+    <string name="Bckgr_video">Video button</string>
+    <string name="Bookmark">Bookmark</string>
+    <string name="Bookmarked_label">Bookmarked:</string>
+    <string name="Buy_dock">Buy dock</string>
+    <string name="Camera">Camera</string>
+    <string name="Camera_err">Sorry, the camera could not be initialized.</string>
+    <string name="Camera_expl">Orientation, capture sounds, camera mode and parameters</string>
+    <string name="Camera_mode">Camera mode</string>
+    <string name="Camera_params">Camera parameters</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Capture_sound">Volume of capture sounds</string>
+    <string name="Card_path">Full path</string>
+    <string name="Card_path_manage">Manage paths</string>
+    <string name="Card_path_reset">Reset all paths</string>
+    <string name="Card_path_up">Go up</string>
+    <string name="Card_path_use">Use this</string>
+    <string name="Check_server">Check server</string>
+    <string name="Checking_credit">Checking available credit...</string>
+    <string name="Cleanup_low_space">No space left for new files. Please change the storage limits.</string>
+    <string name="Conn_error">Failed to initialize connection</string>
+    <string name="Connecting">Connecting...</string>
+    <string name="Continue">Continue</string>
+    <string name="Create_subfolder">Sub-folders</string>
+    <string name="Credit_check_result">Credit check result</string>
+    <string name="Date_format">Date format</string>
+    <string name="Db_problems">Sorry, apparently there is not enough space left to create the database.</string>
+    <string name="Debug_options">Debug options</string>
+    <string name="Delete">Delete</string>
+    <string name="Delete_old">Delete old files</string>
+    <string name="Description">Description</string>
+    <string name="Description_label">Description:</string>
+    <string name="Details">Details</string>
+    <string name="Display_photo">Display on photos (in the app)</string>
+    <string name="Display_screen">Display on main screen</string>
+    <string name="Display_video">Display on videos (in the app)</string>
+    <string name="Donate">Contribute</string>
+    <string name="Dro_button_buy">Download from Google Play</string>
+    <string name="Dro_dialog_msg">DailyRoads Overlays is now available to embed GPS data into videos directly on the device. It integrates with Voyager, and can replace the more expensive server route in the Overlays section.</string>
+    <string name="Dro_dialog_title1">New DailyRoads app</string>
+    <string name="Dro_dialog_title2">Final reminder</string>
+    <string name="Duration_label">Duration:</string>
+    <string name="Elevation">Elevation</string>
+    <string name="Empty_db_folder">Changing the folder will erase the current database, and only files stored on the card are kept. Continue?</string>
+    <string name="Empty_reuse_folder">"This folder is already on the card. Unrecognized sub-folders and files will be deleted during cleanup! 
+
+Also, changing the folder will erase the current database, and only files stored on the card are kept. Continue?"</string>
+    <string name="Empty_value">Sorry, an empty value could not be accepted.</string>
+    <string name="Enable_gps">Use GPS satellites</string>
+    <string name="Error">Error</string>
+    <string name="Exit">Exit</string>
+    <string name="Exposure">Exposure compensation</string>
+    <string name="External_app_err">No app installed to handle this operation.</string>
+    <string name="Fallback">Fallback in case of error</string>
+    <string name="Ff_file_cm_del_bookmark">Remove bookmark</string>
+    <string name="Ff_file_cm_location">Look up address</string>
+    <string name="Ff_file_cm_location_edit">Edit address</string>
+    <string name="Ff_file_cm_nearby">Nearby files</string>
+    <string name="Ff_file_cm_overlay">Overlay GPS data</string>
+    <string name="Ff_file_cm_play_ex">Play with...</string>
+    <string name="Ff_file_cm_share_ex">Share...</string>
+    <string name="Ff_file_cm_upload_again">Upload again</string>
+    <string name="Ff_file_cm_view_ex">View with...</string>
+    <string name="Ff_file_dmsg_del">{0} - delete file?</string>
+    <string name="Ff_file_msg_bookmarked">File bookmarked.</string>
+    <string name="Ff_file_msg_del_bookmark">Bookmark removed.</string>
+    <string name="Ff_file_msg_deleted">File deleted.</string>
+    <string name="Ff_file_msg_location">Looking up address via reverse geocode...</string>
+    <string name="Ff_file_msg_retained">File moved into {0}.</string>
+    <string name="Ff_file_msg_uploading">Uploading...</string>
+    <string name="Ff_folder">{0} folder</string>
+    <string name="Ff_folder_cm_del">Delete folder and files</string>
+    <string name="Ff_folder_cm_del_nobook">Delete non-bookmarked files</string>
+    <string name="Ff_folder_cm_del_upload">Delete uploaded files</string>
+    <string name="Ff_folder_cm_location">Look up addresses</string>
+    <string name="Ff_folder_dmsg_del">Delete folder and all files within?</string>
+    <string name="Ff_folder_dmsg_nobook">Non-bookmarked files: {0} - delete from folder?</string>
+    <string name="Ff_folder_dmsg_upload">Uploaded files: {0} - delete from folder?</string>
+    <string name="Ff_folder_msg_del_nofiles">No files to delete.</string>
+    <string name="Ff_folder_msg_delfiles">Deleting files...</string>
+    <string name="Ff_folder_msg_delfolder">Deleting folder...</string>
+    <string name="Ff_folder_msg_location">Looking up addresses via reverse geocode...</string>
+    <string name="File_label">File:</string>
+    <string name="File_storage">File storage</string>
+    <string name="File_storage_expl">Folders, storage space, debug options</string>
+    <string name="Files">Files</string>
+    <string name="Files_upload">Automatic uploads</string>
+    <string name="Focus_mode">Focus mode</string>
+    <string name="Folder_name">Folder name</string>
+    <string name="Folder_new">New folder</string>
+    <string name="Folder_problems">Invalid path! Please check your storage settings, or the card.</string>
+    <string name="Format_display">Formatting &amp; display</string>
+    <string name="Format_display_expl">Date format, units, speed, elevation, GPS coordinates, on-screen controls</string>
+    <string name="Format_label">File format:</string>
+    <string name="Gallery">Gallery</string>
+    <string name="General">General</string>
+    <string name="General_expl">GPS, brightness, lock screen, back button, addresses, roaming, overheating</string>
+    <string name="Geotagged_label">Geotagged:</string>
+    <string name="Gps_coords">GPS coordinates</string>
+    <string name="Help">Help</string>
+    <string name="Hyb_view">Hybrid View</string>
+    <string name="Intro_text">"If you can''t record video properly with the default options, please go to the settings and experiment with various video options. 
+
+Here you can see which combinations have worked for other users: 
+
+ {0}"</string>
+    <string name="Intro_title">Video recording settings</string>
+    <string name="Invalid_folder">Invalid path! Please choose another.</string>
+    <string name="Invalid_number">Invalid value! Please provide a positive number (integer).</string>
+    <string name="Issues">Issues</string>
+    <string name="Issues_text">"With the increasing number of Android versions and devices from different manufacturers, it is likely that this app may not work perfectly on all models. 
+
+Especially the video settings are device-dependent, but you can see which combinations have worked for other users: 
+
+ {0} 
+
+Currently known issues are listed on this page: 
+
+ {1} 
+
+If the problem you experience is not listed on the page above, please write us a detailed description on the issue using this comment form: 
+
+ {2} 
+
+We welcome any feedback, but praises and 5* ratings are best directed to the Market from where you downloaded the app. 
+
+If you have recently upgraded to the latest version, and it causes problems on your device, please try to uninstall and reinstall. You can also download and install the earlier version of the app from the link below: 
+
+ {3}"</string>
+    <string name="Issues_text_end">Thank you!</string>
+    <string name="Loading">Loading...</string>
+    <string name="Location">Address</string>
+    <string name="Location_label">Address:</string>
+    <string name="Location_set">Auto reverse geocode</string>
+    <string name="Lock_screen">Keep the lock screen</string>
+    <string name="Logging">Logging</string>
+    <string name="Low_battery">Battery low</string>
+    <string name="Manufacturer">Manufacturer options</string>
+    <string name="Map_view">Map View</string>
+    <string name="Memory_problems">Sorry, not enough RAM :(</string>
+    <string name="No">No</string>
+    <string name="No_billing">Sorry, billing is not supported on this device.</string>
+    <string name="No_billing_title">No billing</string>
+    <string name="No_files">No files found</string>
+    <string name="No_power">Charger disconnected</string>
+    <string name="Notif_close_app">Shutting down: {0}</string>
+    <string name="Notif_gps_disabled_app">GPS disabled in settings.</string>
+    <string name="Notif_gps_disabled_overheat">Overheating protection: GPS disabled.</string>
+    <string name="Notif_gps_no">No GPS signal.</string>
+    <string name="Notif_gps_ok">GPS signal OK.</string>
+    <string name="Notif_gps_weak">Weak GPS signal.</string>
+    <string name="Notif_mic_manual">Manual sound control enabled</string>
+    <string name="Notif_pause_video">Video recording stops: {0}</string>
+    <string name="Notif_photo_start">Photo capturing started</string>
+    <string name="Notif_photo_stop">Photo capturing stopped</string>
+    <string name="Notif_video_err">Error encountered: video recording has stopped</string>
+    <string name="Notif_video_retain">Protecting video...</string>
+    <string name="Notif_video_start">Video recording started</string>
+    <string name="Notif_video_stop">Video recording stopped</string>
+    <string name="Notif_video_touch">Touch screen to protect</string>
+    <string name="OFF">OFF</string>
+    <string name="OK">OK</string>
+    <string name="ON">ON</string>
+    <string name="Orientation">Orientation</string>
+    <string name="Orientation_auto">Auto</string>
+    <string name="Orientation_landscape">Landscape</string>
+    <string name="Orientation_portrait">Portrait</string>
+    <string name="Overheat_battery_temp">Battery temperature threshold</string>
+    <string name="Overheat_gps">Disable GPS in the app</string>
+    <string name="Overheat_pause">Pause video recording</string>
+    <string name="Overheat_protection">Overheating protection</string>
+    <string name="Overheat_quality">Switch to another video quality</string>
+    <string name="Overheat_stop">Exit when threshold reached</string>
+    <string name="Overlays">Overlays</string>
+    <string name="Overlays_expl">Overlay timestamps and GPS data (speed, elevation, GPS coordinates)</string>
+    <string name="Ovrl_answer">"There is no option in Android to overlay anything on video sequences. To add the timestamp and GPS data, you have 2 options: 
+ - generate subtitle files, and later use various software to display this info at the bottom of the videos 
+ - embed info directly into the videos through an external online server 
+
+This latter option requires each video file to be uploaded within the app (through the \"{0}\" context-menu option) to the DailyRoads server. There the file is converted, and the GPS info embedded into the video frames. 
+
+You can choose what info to embed, where to place it and what colors to use. Finally, the converted files can be downloaded back to the phone, or to any other device. 
+
+All these operations consume resources on the server, so these conversions come with a charge. You can buy overlay credits within this app or on the DailyRoads website. 
+
+More info: {1}"</string>
+    <string name="Ovrl_answer_dro">"There is no option in Android to overlay anything on video sequences. To add the timestamp and GPS data, you have 3 options: 
+
+ - a new app to embed GPS data into videos directly on the device - DailyRoads Overlays: {0} 
+
+ - generate subtitle files, and later use various software to display this info at the bottom of the videos 
+
+ - embed info directly into the videos through an external online server 
+
+This latter option requires each video file to be uploaded within the app (through the \"{1}\" context-menu option) to the DailyRoads server. There the file is converted, and the GPS info embedded into the video frames. 
+
+You can choose what info to embed, where to place it and what colors to use. Finally, the converted files can be downloaded back to the device, or to any other device. 
+
+All these operations consume resources on the server, so these conversions come with a charge. You can buy overlay credits within this app or on the DailyRoads website. 
+
+More info: {2}"</string>
+    <string name="Ovrl_buy_credits">Buy credits</string>
+    <string name="Ovrl_credits">Remaining credit</string>
+    <string name="Ovrl_credits_title">Overlay credits</string>
+    <string name="Ovrl_question">What is this for?</string>
+    <string name="Ovrl_server_files">Converted video files</string>
+    <string name="Ovrl_server_template">Overlay template</string>
+    <string name="Ovrl_server_title">Web pages on server</string>
+    <string name="Ovrl_subtitles">Generate subtitle files</string>
+    <string name="Ovrl_subtitles_signature">Signature in subtitles</string>
+    <string name="Paid_options">Paid options</string>
+    <string name="Payment_failed">Payment failed</string>
+    <string name="Payment_options">Payment options</string>
+    <string name="Payment_received">Payment received, thank you!</string>
+    <string name="Photo">Photo</string>
+    <string name="Photo_err">Sorry, photo could not be captured. Please try with a different resolution.</string>
+    <string name="Photo_expl">Resolution, frequency, focus, thumbnails, files, automatic uploads</string>
+    <string name="Photo_freq">Snapshot frequency</string>
+    <string name="Photo_freq_sec">Snapshot frequency (in seconds)</string>
+    <string name="Photo_res">Photo resolution</string>
+    <string name="Photo_res_size">Photo size (MegaPixel)</string>
+    <string name="Photo_thumbs">Create thumbnails</string>
+    <string name="Photos">Photos</string>
+    <string name="Photos_number">Number of photos</string>
+    <string name="Play_sound">Play sound</string>
+    <string name="Play_sound_duration">Sound duration</string>
+    <string name="Play_sound_duration_sec">Sound duration (in seconds)</string>
+    <string name="Privacy_policy">Privacy policy</string>
+    <string name="Pro_version">Pro version</string>
+    <string name="Rate_app">Rate the app</string>
+    <string name="Refresh">Refresh</string>
+    <string name="Refresh_files">Refreshing list...</string>
+    <string name="Resolution_label">Resolution:</string>
+    <string name="Retain">Protect</string>
+    <string name="Retain_problems">Sorry, the last video file could not be protected. Please check your settings, or the card.</string>
+    <string name="Retained_videos">Protected videos</string>
+    <string name="Reuse_folder">This folder is already on the card. Unrecognized sub-folders and files will be deleted! Do you still want to reuse it?</string>
+    <string name="Roaming_network">Network connections while roaming</string>
+    <string name="Samsung">Samsung</string>
+    <string name="Sat_view">Satellite View</string>
+    <string name="Satellites">Satellites: {0}</string>
+    <string name="Scene_mode">Scene mode</string>
+    <string name="Screen_brightness">Screen brightness</string>
+    <string name="Server_password">Password</string>
+    <string name="Server_username">Username</string>
+    <string name="Server_visib">Visibility on server</string>
+    <string name="Settings">Settings</string>
+    <string name="Short_time">This time is barely enough for initializing the camera. Please specify at least 5 seconds.</string>
+    <string name="Size_label">Size:</string>
+    <string name="Special_msg">Special message</string>
+    <string name="Speed">Speed</string>
+    <string name="Stop_now">Stop now</string>
+    <string name="Storage_limit">Limit based on</string>
+    <string name="Storage_limit_photo">Storage limit reached: photo capturing has stopped.</string>
+    <string name="Storage_limit_video">Storage limit reached: video recording has stopped.</string>
+    <string name="Storage_photo">Photo capturing limits</string>
+    <string name="Storage_space">Storage space</string>
+    <string name="Storage_video">Tempvideo recording limits</string>
+    <string name="Str_view">Street View</string>
+    <string name="Subtitles">Subtitles</string>
+    <string name="Tempusername_warning">Auto-generated on DailyRoads.com</string>
+    <string name="Tempusername_warning_long">To keep your account safe, please change the auto-generated username on DailyRoads.com</string>
+    <string name="Tempvideo">Tempvideo</string>
+    <string name="Tempvideos">Tempvideos</string>
+    <string name="Ter_view">Terrain View</string>
+    <string name="Timestamp">Timestamp</string>
+    <string name="Title">Title</string>
+    <string name="Title_label">Title:</string>
+    <string name="Total_duration">Total duration</string>
+    <string name="Total_duration_mins">Total duration (in minutes)</string>
+    <string name="Tra_view">Traffic View</string>
+    <string name="Tracking">Tracking</string>
+    <string name="Transparency">Transparency</string>
+    <string name="Type_label">Type:</string>
+    <string name="Units">Units</string>
+    <string name="Upload">Upload</string>
+    <string name="Upload_action_pause">Pause</string>
+    <string name="Upload_action_resume">Resume</string>
+    <string name="Upload_action_stop">Stop all</string>
+    <string name="Upload_action_stop_expl">All active uploads will be stopped. Continue?</string>
+    <string name="Upload_close_app">Stop active uploads, too?</string>
+    <string name="Upload_delete">Delete after upload</string>
+    <string name="Upload_gps">Upload only geotagged</string>
+    <string name="Upload_in_progress">Uploaded: {0} - remaining files: {1}</string>
+    <string name="Upload_notif">Upload to DailyRoads.com</string>
+    <string name="Upload_paused">Paused</string>
+    <string name="Upload_roaming">Upload while roaming</string>
+    <string name="Upload_servers_expl">Server specific info: username, password, visibility</string>
+    <string name="Upload_stopped">All uploads stopped</string>
+    <string name="Upload_success">Success</string>
+    <string name="Uploaded_label">Uploaded:</string>
+    <string name="Version_news">"What's new"</string>
+    <string name="Version_news_changelog">"V.5.1.1 
+
+ - bugfix version 
+
+V.5.1 
+
+ - new method to work with SD cards (on Android 5.0 and beyond) 
+ - pinch-to-zoom gesture support in the main screen 
+ - background button for returning to the main screen 
+ - support for HEVC (H.265) video encoder 
+ - removed phone permission, and the ability to detect incoming calls 
+
+V.5.0.1 
+
+ - orientation: external camera (USB) 
+
+V.5.0 
+
+ - improved design 
+ - portrait orientation 
+ - any value for resolution, bitrate and frame rate 
+ - optimized photo/video playback and contextual actions 
+ - incremental uploads with visible progress 
+ - separate storage limits for videos and photos 
+ - option for auto-delete or stop capturing when a storage limit is reached 
+ - video stabilization option for all devices (if supported) 
+ - new method to turn off the camera capture sound 
+ - video \"retain\" options renamed to \"protect\""</string>
+    <string name="Video">Video</string>
+    <string name="Video_accel">Video protection</string>
+    <string name="Video_bitrate">Bitrate</string>
+    <string name="Video_codec">Video encoder</string>
+    <string name="Video_err">Sorry, video recording could not be initialized. Please try with a different encoder, or resolution.</string>
+    <string name="Video_expl">Quality, stability, length, sound, g-force, files, automatic uploads</string>
+    <string name="Video_extra">Stability, length and sound</string>
+    <string name="Video_file_retain">Only protect</string>
+    <string name="Video_file_size">Upload video size limit</string>
+    <string name="Video_file_size_mb">Video file limit (in MB)</string>
+    <string name="Video_format">File format</string>
+    <string name="Video_framerate">Frame rate</string>
+    <string name="Video_length">Video length per file</string>
+    <string name="Video_length_sec">Video length (in seconds)</string>
+    <string name="Video_protection_options">Protection options</string>
+    <string name="Video_quality">Video quality</string>
+    <string name="Video_quality_custom">Custom Quality</string>
+    <string name="Video_quality_high">High Quality</string>
+    <string name="Video_quality_low">Low Quality</string>
+    <string name="Video_res">Video resolution</string>
+    <string name="Video_sound">Include sound in video by default</string>
+    <string name="Video_stability">Video camera operation</string>
+    <string name="Video_stabilization">Video stabilization</string>
+    <string name="View_map_nogps">No GPS coordinates found.</string>
+    <string name="View_mode">View mode</string>
+    <string name="View_next">Next in this view mode...</string>
+    <string name="View_next_timeline">Next in timeline...</string>
+    <string name="View_nophoto_next">"No more photos next in this view mode. 
+Try the timeline buttons..."</string>
+    <string name="View_nophoto_next_timeline">No more photos next in timeline.</string>
+    <string name="View_nophoto_previous">"No previous photos in this view mode. 
+Try the timeline buttons..."</string>
+    <string name="View_nophoto_previous_timeline">No previous photos in timeline.</string>
+    <string name="View_novideo_next">"No more videos next in this view mode. 
+Try the timeline buttons..."</string>
+    <string name="View_novideo_next_timeline">No more videos next in timeline.</string>
+    <string name="View_novideo_previous">"No previous videos in this view mode. 
+Try the timeline buttons..."</string>
+    <string name="View_novideo_previous_timeline">No previous videos in timeline.</string>
+    <string name="View_previous">Previous in this view mode...</string>
+    <string name="View_previous_timeline">Previous in timeline...</string>
+    <string name="Viewfinder">Viewfinder</string>
+    <string name="Viewmode_change">Changing view mode...</string>
+    <string name="Visib_rules">Visibility options</string>
+    <string name="Visib_rules_answer">"Our long-term goal is to build, organize and make accessible the largest free database of videos recorded on the roads around the globe. We need your help to achieve this, so please upload to DailyRoads.com only geotagged videos with their visibility set to public or anonymous. Please obey local privacy laws when uploading such videos. 
+
+ - Public: everybody can view the video with the GPS route, listen to its sound track, and see your username. 
+ - Anonymous: everybody can view the video and its GPS route, but sound is disabled, and the username is hidden. 
+ - Friends: same as the public option, but only your friends can view the video. The list of friends can be managed on the site. 
+ - Private: only you can have access to the video. 
+
+Only a limited number of private and friends videos/photos are allowed for each user. When the limit is reached, no new files are accepted. The current limits can be viewed here: {0} 
+
+Until the long-overdue redesign of the site is finalized, the anonymous visibility is treated as private, but without enforcing the limits."</string>
+    <string name="Visibility">Visibility</string>
+    <string name="Warning">Warning</string>
+    <string name="Warning_sound">Play warning sound</string>
+    <string name="White_balance">White balance</string>
+    <string name="Why_ads">Why ads?</string>
+    <string name="Why_donate">Why contribute?</string>
+    <string name="Yes">Yes</string>
+    <string name="Zoom_controls">Zoom controls</string>
+    <string name="accel_title">detected g-force:</string>
+    <string name="added_on">Added on</string>
+    <string name="album">Album</string>
+    <string name="album_selected">album selected</string>
+    <string name="albums_selected">albums selected</string>
+    <string name="antibanding_50">50 Hz</string>
+    <string name="antibanding_60">60 Hz</string>
+    <string name="app_name">DailyRoads Voyager</string>
+    <string name="app_name_files">DailyRoads Files</string>
+    <string name="around">Around</string>
+    <string name="auto_dock_expl">exit when removed from dock</string>
+    <string name="auto_no">disabled</string>
+    <string name="auto_now">immediately</string>
+    <string name="auto_resume_video_expl">restart recording when charger is connected</string>
+    <string name="auto_stop_10s">after 10 seconds</string>
+    <string name="auto_stop_1m">after 1 minute</string>
+    <string name="auto_stop_2m">after 2 minutes</string>
+    <string name="auto_stop_30s">after 30 seconds</string>
+    <string name="auto_stop_5m">after 5 minutes</string>
+    <string name="auto_stop_5s">after 5 seconds</string>
+    <string name="available_paid">available in the paid version</string>
+    <string name="back_btn_continue">continue in background</string>
+    <string name="back_btn_default">default in Android</string>
+    <string name="back_btn_exit">exit immediately</string>
+    <string name="back_btn_step">extra step</string>
+    <string name="background_op_off">videos/photos are captured only while the main screen is visible</string>
+    <string name="background_op_on">videos/photos are captured until the application is closed</string>
+    <string name="bckgr_dist_below">specified below</string>
+    <string name="bckgr_group_horiz">horizontally</string>
+    <string name="bckgr_group_vert">vertically</string>
+    <string name="bckgr_horiz_center">center</string>
+    <string name="bckgr_horiz_left">left</string>
+    <string name="bckgr_horiz_right">right</string>
+    <string name="bckgr_move_off">specific screen position can be adjusted below</string>
+    <string name="bckgr_move_on">buttons can be moved around directly on the screen</string>
+    <string name="bckgr_size_large">large</string>
+    <string name="bckgr_size_small">small</string>
+    <string name="bckgr_vert_bottom">bottom</string>
+    <string name="bckgr_vert_middle">middle</string>
+    <string name="bckgr_vert_top">top</string>
+    <string name="cam">Photos</string>
+    <string name="cam_unknown">Unknown</string>
+    <string name="camera">Photos</string>
+    <string name="camera_mode_city">city night</string>
+    <string name="camera_mode_cloudy">cloudy</string>
+    <string name="camera_mode_dark">dark night</string>
+    <string name="camera_mode_day">daylight</string>
+    <string name="camera_mode_moon">moonlight</string>
+    <string name="camera_mode_personal">custom</string>
+    <string name="camera_mode_sunny">sunny</string>
+    <string name="camera_setas_wallpaper">Wallpaper</string>
+    <string name="cancel">Cancel</string>
+    <string name="capture_sound_warning">may not work on all devices, and can influence other apps!</string>
+    <string name="confirm_delete">Confirm Delete</string>
+    <string name="create_subfolder_off">use only the 3 main sub-folders</string>
+    <string name="create_subfolder_on">create sub-folder for each session</string>
+    <string name="credit_consumed">sorry, credits consumed</string>
+    <string name="credit_expired">credit expired on {0}</string>
+    <string name="credit_sync">touch to check on server</string>
+    <string name="credit_unlimited">unlimited until {0}</string>
+    <string name="crop">Crop</string>
+    <string name="crop_discard_text">Discard</string>
+    <string name="crop_label">Crop picture</string>
+    <string name="crop_save_text">Save</string>
+    <string name="custom">custom</string>
+    <string name="date_unknown">Date unknown</string>
+    <string name="def">default</string>
+    <string name="delete">Delete</string>
+    <string name="delete_old_off">stop when limit is reached</string>
+    <string name="delete_old_on">automatically delete</string>
+    <string name="deselect_all">Deselect All</string>
+    <string name="details">Details</string>
+    <string name="details_hms">%1$d:%2$02d:%3$02d</string>
+    <string name="details_ms">%1$02d:%2$02d</string>
+    <string name="details_ok">OK</string>
+    <string name="disabled">disabled</string>
+    <string name="display_large">large font</string>
+    <string name="display_large_b">large font with background</string>
+    <string name="display_no">do not display</string>
+    <string name="display_small">small font</string>
+    <string name="display_small_b">small font with background</string>
+    <string name="display_wb">with solid background color</string>
+    <string name="display_wob">without background</string>
+    <string name="display_wtb">with transparent background</string>
+    <string name="donate_large">always use while I drive</string>
+    <string name="donate_medium">very useful app</string>
+    <string name="donate_small">good to use occasionally</string>
+    <string name="enable_gps_new">with new method</string>
+    <string name="enable_gps_off">disable GPS, speed and elevation</string>
+    <string name="enable_gps_old">with old method</string>
+    <string name="enabled">enabled</string>
+    <string name="end">End</string>
+    <string name="fallback_continue">continue with default camera mode</string>
+    <string name="fallback_noscene">try again without scene mode</string>
+    <string name="fallback_stop">stop with a message</string>
+    <string name="file">file</string>
+    <string name="file_size">File size</string>
+    <string name="file_size_unknown">Unknown</string>
+    <string name="files">files</string>
+    <string name="files_all">all files</string>
+    <string name="files_bm_all">all bookmarked</string>
+    <string name="files_bm_photo">bookmarked photos</string>
+    <string name="files_bm_video">bookmarked videos</string>
+    <string name="files_descr">files with description</string>
+    <string name="files_gps_all">all geotagged</string>
+    <string name="files_nearby">files +/- 10 mins</string>
+    <string name="files_photo">photos</string>
+    <string name="files_title">files with title</string>
+    <string name="files_upload_err">failed uploads</string>
+    <string name="files_video">all videos</string>
+    <string name="files_video_retain">protected videos</string>
+    <string name="focus_auto">auto-focus</string>
+    <string name="focus_cont">continuous</string>
+    <string name="focus_edof">extended depth</string>
+    <string name="focus_fixed">fixed</string>
+    <string name="focus_infinity">infinity</string>
+    <string name="ft">ft</string>
+    <string name="gadget_title">Picture frame</string>
+    <string name="high">high</string>
+    <string name="highres_optim">optimization for high resolutions</string>
+    <string name="initializing">Loading</string>
+    <string name="intro_checkbox">do not show this again</string>
+    <string name="invalid_login">invalid login! (please check your username and password)</string>
+    <string name="item">item</string>
+    <string name="item_selected">item selected</string>
+    <string name="items">items</string>
+    <string name="items_selected">items selected</string>
+    <string name="kmh">km/h</string>
+    <string name="lat">lat</string>
+    <string name="loading_new">Loading new albums and photos</string>
+    <string name="loading_video">Loading video…</string>
+    <string name="location">Location</string>
+    <string name="location_expl">online address lookups for photos and protected videos</string>
+    <string name="location_unknown">Unknown location</string>
+    <string name="lock_screen_expl">when the screen is turned off</string>
+    <string name="log_adb">ADB</string>
+    <string name="log_both">file and ADB</string>
+    <string name="log_file">into file</string>
+    <string name="log_no">no logs</string>
+    <string name="lon">lon</string>
+    <string name="low">low</string>
+    <string name="m">m</string>
+    <string name="maximum">maximum</string>
+    <string name="medium">medium</string>
+    <string name="medium_high">medium-high</string>
+    <string name="medium_low">medium-low</string>
+    <string name="menu">Menu</string>
+    <string name="menu_open_url">Open URL</string>
+    <string name="more">More</string>
+    <string name="movie_view_label">Movies</string>
+    <string name="mph">mph</string>
+    <string name="multiface_crop_help">Tap a face to begin.</string>
+    <string name="no">no</string>
+    <string name="no_items">There are no items in your collection</string>
+    <string name="no_photos">no photos</string>
+    <string name="no_sd_card">SD Card unmounted or not present</string>
+    <string name="no_usb_storage">USB storage unmounted</string>
+    <string name="no_videos">no video files</string>
+    <string name="not_set">not set</string>
+    <string name="nothing">nothing</string>
+    <string name="now">now</string>
+    <string name="orientation_auto">auto</string>
+    <string name="orientation_ext">external camera (USB)</string>
+    <string name="orientation_ext_rev">external camera - 180°</string>
+    <string name="orientation_land">landscape</string>
+    <string name="orientation_land_rev">reverse landscape</string>
+    <string name="orientation_port">portrait</string>
+    <string name="orientation_port_rev">reverse portrait</string>
+    <string name="ovrl_buy_credits_100">100 credits</string>
+    <string name="ovrl_buy_credits_50">50 credits</string>
+    <string name="ovrl_buy_credits_month">unlimited for 30 days</string>
+    <string name="ovrl_server_files_expl">manage and download the final results</string>
+    <string name="ovrl_server_template_expl">what to include in the converted video files</string>
+    <string name="photo">photo</string>
+    <string name="photo_all">every photo</string>
+    <string name="photo_all_2">every 2nd photo</string>
+    <string name="photo_all_3">every 3rd photo</string>
+    <string name="photo_first_2">first 2 photos in session</string>
+    <string name="photo_first_last">first and last in session</string>
+    <string name="photo_freq_warning">may be delayed while recording video</string>
+    <string name="photos">photos</string>
+    <string name="pick">Pick</string>
+    <string name="pick_prompt">Pick an item from your collection</string>
+    <string name="resume_playing_message">Resume playing from %s ?</string>
+    <string name="resume_playing_restart">Start over</string>
+    <string name="resume_playing_resume">Resume playing</string>
+    <string name="resume_playing_title">Resume video</string>
+    <string name="retained_video">Protected video</string>
+    <string name="rotate_left">Rotate Left</string>
+    <string name="rotate_right">Rotate Right</string>
+    <string name="running_face_detection">Please wait…</string>
+    <string name="saving_image">Saving picture…</string>
+    <string name="scene_action">action</string>
+    <string name="scene_beach">sunny</string>
+    <string name="scene_candle">warm lights</string>
+    <string name="scene_fireworks">fireworks</string>
+    <string name="scene_hdr">HDR</string>
+    <string name="scene_landscape">landscape</string>
+    <string name="scene_night">night</string>
+    <string name="scene_party">low light</string>
+    <string name="scene_snow">snow</string>
+    <string name="scene_steady">anti-blur</string>
+    <string name="scene_sunset">sunset</string>
+    <string name="screen_brightness_warning">may not work if auto-brightness is set!</string>
+    <string name="select_all">Select All</string>
+    <string name="set_as">Set as</string>
+    <string name="set_as_wallpaper">Set as wallpaper</string>
+    <string name="set_image">Set picture as</string>
+    <string name="share">Share</string>
+    <string name="show_on_map">Show on map</string>
+    <string name="size">Size</string>
+    <string name="size_unknown">Unknown</string>
+    <string name="slideshow">Slideshow</string>
+    <string name="sound_off">sound off</string>
+    <string name="sound_off_new">sound off (with new method)</string>
+    <string name="space_free">{0} (used: {1}, free: {2})</string>
+    <string name="space_used">{0} (used: {1})</string>
+    <string name="standard_android">standard Android code</string>
+    <string name="start">Start</string>
+    <string name="storage_limit_duration">total duration</string>
+    <string name="storage_limit_number">number of photos</string>
+    <string name="storage_limit_space">storage space</string>
+    <string name="storage_limit_space_duration">space or duration</string>
+    <string name="storage_limit_space_number">space or number</string>
+    <string name="taken_on">Taken on</string>
+    <string name="tempvideo">tempvideo</string>
+    <string name="tempvideos">tempvideos</string>
+    <string name="title">Title</string>
+    <string name="type">Type</string>
+    <string name="unavailable">unavailable on this device</string>
+    <string name="unit_ft">feet, mph</string>
+    <string name="unit_m">meters, km/h</string>
+    <string name="unit_yd">yards, mph</string>
+    <string name="upldet_generic_failure">generic failure</string>
+    <string name="upldet_in_progress">in progress</string>
+    <string name="upldet_interrupted">interrupted</string>
+    <string name="upldet_no_connection">no connection</string>
+    <string name="upldet_no_gps">not geotagged</string>
+    <string name="upldet_not_needed">not required</string>
+    <string name="upldet_roaming">was roaming</string>
+    <string name="upldet_size_limit">file size limit</string>
+    <string name="upldet_unauthorized">not authorized</string>
+    <string name="upldet_visib_limit">visibility limit</string>
+    <string name="upload_roaming_expl">turning this on may result in expensive data charges</string>
+    <string name="vert_land">vertical landscape orientation</string>
+    <string name="vert_land_port">vertical landscape or portrait</string>
+    <string name="vert_port">vertical portrait orientation</string>
+    <string name="video">video</string>
+    <string name="video_accel_g">g-force of {0}g</string>
+    <string name="video_accel_screen">screen touch only</string>
+    <string name="video_all">every video</string>
+    <string name="video_all_2">every 2nd video</string>
+    <string name="video_all_3">every 3rd video</string>
+    <string name="video_last">last file</string>
+    <string name="video_last_2">last 2 files</string>
+    <string name="video_last_3">last 3 files</string>
+    <string name="video_retained">protected videos</string>
+    <string name="video_set_url_hint">rtsp://server/file</string>
+    <string name="video_set_url_msg">Movie URL:</string>
+    <string name="video_set_url_neg">Cancel</string>
+    <string name="video_set_url_pos">Open</string>
+    <string name="video_set_url_title">Open URL</string>
+    <string name="video_sound_bg">foreground and background</string>
+    <string name="video_sound_fg">only in foreground</string>
+    <string name="video_sound_no">no sound</string>
+    <string name="video_stability_max">maximize stability</string>
+    <string name="video_stability_min">minimize gaps between video files</string>
+    <string name="video_stabilization_off">reduce shaking, but also camera angle</string>
+    <string name="video_stabilization_on">may result in corrupt videos!</string>
+    <string name="videoplay_err">Unable to play video</string>
+    <string name="videos">videos</string>
+    <string name="visib_a">anonymous</string>
+    <string name="visib_e">public</string>
+    <string name="visib_f">friends</string>
+    <string name="visib_m">private</string>
+    <string name="wallpaper">Setting wallpaper, please wait…</string>
+    <string name="white_bal_cloudy">cloudy</string>
+    <string name="white_bal_day">daylight</string>
+    <string name="white_bal_fluorescent">fluorescent</string>
+    <string name="white_bal_incandescent">incandescent</string>
+    <string name="white_bal_shade">shade</string>
+    <string name="white_bal_twilight">twilight</string>
+    <string name="white_bal_warm">warm fluorescent</string>
+    <string name="yd">yd</string>
+    <string name="yes">yes</string>
+    <string name="Overheat_battery_temp_values">{0} ℃ / {1} ℉ ({2}: {3} ℃ / {4} ℉)</string>
+    <string name="Serial" />
+    <string name="Serial_number" />
+    <string name="app_name_overlays">DailyRoads Overlays</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="app_name_main" />
+    <string name="default_web_client_id">300951271587-n7fn0rvllnhdbcr0fgthubjk08d0q3m3.apps.googleusercontent.com</string>
+    <string name="driver_accept">Accept</string>
+    <string name="driver_date_label">test123</string>
+    <string name="driver_dropoff_label">Drop-off:</string>
+    <string name="driver_duration_label">Duration:</string>
+    <string name="driver_jobs">Jobs</string>
+    <string name="driver_name_label">Name:</string>
+    <string name="driver_new_job">New job</string>
+    <string name="driver_offline">Offline</string>
+    <string name="driver_online">Online</string>
+    <string name="driver_pickup_label">Pick-up:</string>
+    <string name="driver_price_label">Price:</string>
+    <string name="driver_proceed_dropoff">Proceed to drop-off</string>
+    <string name="driver_proceed_pickup">Proceed to pick-up</string>
+    <string name="driver_reject">Reject</string>
+    <string name="driver_remaining_label">Remaining:</string>
+    <string name="driver_swipe_finish">Swipe to finish >>></string>
+    <string name="driver_swipe_finish_job">Swipe to finish job >>></string>
+    <string name="driver_swipe_start">Swipe to start >>></string>
+    <string name="driver_swipe_start_job">Swipe for next job >>></string>
+    <string name="driver_time_label">Time:</string>
+    <string name="firebase_database_url">https://dailyroads-voyager.firebaseio.com</string>
+    <string name="gcm_defaultSenderId">300951271587</string>
+    <string name="google_api_key">AIzaSyCB5sSc6xCtPEAchrSgComVoCr3AEZcjOU</string>
+    <string name="google_app_id">1:300951271587:android:93df2a27c0bdaa07</string>
+    <string name="google_crash_reporting_api_key">AIzaSyCB5sSc6xCtPEAchrSgComVoCr3AEZcjOU</string>
+    <string name="google_storage_bucket">dailyroads-voyager.appspot.com</string>
+    <string name="sourcenext_dialog_no" />
+    <string name="sourcenext_dialog_yes" />
+    <string name="sourcenext_gps_msg" />
+    <string name="sourcenext_gps_title" />
+    <string name="sourcenext_menu_contact" />
+    <string name="sourcenext_menu_eula" />
+    <string name="sourcenext_menu_faq" />
+    <string name="sourcenext_open_url_msg" />
+    <string name="sourcenext_open_url_no" />
+    <string name="sourcenext_open_url_title" />
+    <string name="sourcenext_open_url_yes" />
+    <string name="sourcenext_url_contact" />
+    <string name="sourcenext_url_countlaunch" />
+    <string name="sourcenext_url_eula" />
+    <string name="sourcenext_url_faq" />
+</resources>

@@ -1,0 +1,966 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
+    <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_like_button_liked">Liked</string>
+    <string name="com_facebook_like_button_not_liked">Like</string>
+    <string name="com_facebook_loading">Loading…</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_loginview_log_in_button">Log in</string>
+    <string name="com_facebook_loginview_log_in_button_continue">Continue with Facebook</string>
+    <string name="com_facebook_loginview_log_in_button_long">Log in with Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="com_facebook_send_button_text">Send</string>
+    <string name="com_facebook_share_button_text">Share</string>
+    <string name="com_facebook_smart_device_instructions">To connect your account, open the Facebook app on your mobile device and check for notifications.</string>
+    <string name="com_facebook_smart_device_instructions_or">- OR -</string>
+    <string name="com_facebook_smart_login_confirmation_cancel">Not you?</string>
+    <string name="com_facebook_smart_login_confirmation_title">Confirm Login</string>
+    <string name="com_facebook_tooltip_default">"You're in control - choose what info you want to share with apps."</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Get Google Play services</string>
+    <string name="common_google_play_services_install_text_phone">"%1$s won't run without Google Play services, which are missing from your phone."</string>
+    <string name="common_google_play_services_install_text_tablet">"%1$s won't run without Google Play services, which are missing from your tablet."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. If the problem persists, please contact the developer for assistance.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s relies on Google Play services, which is not supported by your device. Contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_updating_title">Google Play services are updating</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="messenger_send_button_text">Send</string>
+    <string name="search_menu_title">Search</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="com_facebook_smart_login_confirmation_continue_as">Continue as %1$s</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="about">關於</string>
+    <string name="about_1">ZeroCard服務程式由 HyXen Technology 提供，ZeroCard 服務程式相關問題，請逕洽 HyXen Technology。</string>
+    <string name="about_2">HyXen Technology Co., Ltd.</string>
+    <string name="about_3">勝義科技股份有限公司</string>
+    <string name="about_4">Copyright Notification:</string>
+    <string name="about_5">No part may be reproduced except as authorized by written permission, and the copyright and the foregoing restriction extent to reproduction in all media.</string>
+    <string name="about_6">©2011–2014 Hyxen Technology Co., Ltd. All Rights Reserved.</string>
+    <string name="about_email">E-mail：support@hyxen.com</string>
+    <string name="about_zeroacrd">關於ZeroCard</string>
+    <string name="accept">Accept</string>
+    <string name="add">新增</string>
+    <string name="add_card_by_search">請輸入搜尋關鍵字</string>
+    <string name="add_card_fail">卡片建立失敗</string>
+    <string name="add_credit_card">建立信用卡</string>
+    <string name="add_credit_card_tip_1">註：以下欄位僅做為提醒用途，非必填項目。</string>
+    <string name="add_creditcard_fail">信用卡建立失敗，請稍候再試。</string>
+    <string name="add_creditcard_success">信用卡建立成功</string>
+    <string name="add_custom_store">新增自訂商店</string>
+    <string name="add_fail">新增失敗</string>
+    <string name="add_membership_card">建立會員卡</string>
+    <string name="add_membership_card_1">自動掃描產生條碼</string>
+    <string name="add_membership_card_2">手動輸入產生條碼</string>
+    <string name="add_membership_card_3">無條碼輸入會員卡號</string>
+    <string name="add_membership_card_4">特約商店會員卡</string>
+    <string name="add_membership_card_db">自動產生條碼</string>
+    <string name="add_membership_card_tip_1">-自動掃描會員卡號並產生條碼</string>
+    <string name="add_membership_card_tip_2">-手動輸入會員卡號後產生條碼</string>
+    <string name="add_membership_card_tip_3">-會員卡上無條碼，手動輸入卡號</string>
+    <string name="add_space">新　增</string>
+    <string name="add_this_card">建立這張會員卡</string>
+    <string name="add_time_hint">ex 07:00 ~ 23:00</string>
+    <string name="alarm">三天前提醒</string>
+    <string name="alarm_no">(無提醒)</string>
+    <string name="alarm_note_1">的紅利點數快到期囉！</string>
+    <string name="alarm_note_2">到期</string>
+    <string name="alarm_note_3">的信用卡繳費期限快到囉！</string>
+    <string name="alarm_note_4">每個月</string>
+    <string name="alarm_note_5">日</string>
+    <string name="alarm_note_title_1">紅利點數到期提醒</string>
+    <string name="alarm_note_title_2">信用卡繳費提醒</string>
+    <string name="alarm_yes">(已設定提醒)</string>
+    <string name="app_id">227655773957645</string>
+    <string name="app_name">ZeroCard</string>
+    <string name="app_picker_name">應用程式</string>
+    <string name="atm_location">ATM據點</string>
+    <string name="backup_credit_fail">信用卡備份失敗</string>
+    <string name="backup_credit_finish">信用卡備份完成</string>
+    <string name="backup_data_not_exist">備份不存在</string>
+    <string name="backup_ereceipt_fail">電子發票共通性備份失敗</string>
+    <string name="backup_ereceipt_finish">電子發票共通性載具備份完成</string>
+    <string name="backup_membership_fail">會員卡備份失敗</string>
+    <string name="backup_membership_finish">會員卡備份完成</string>
+    <string name="bank_location">分行位置</string>
+    <string name="bank_name">發卡銀行</string>
+    <string name="bank_news">銀行新訊息</string>
+    <string name="barcode_Size">大小調整</string>
+    <string name="barcode_light">亮度調整</string>
+    <string name="barcode_tip">點選條碼可放大條碼圖案以利掃描</string>
+    <string name="barcode_tip_zoom">卡片點擊可顯示條碼，按住可放大條碼。</string>
+    <string name="bill_expire_date">帳單繳費日</string>
+    <string name="bill_expire_date_1">帳單繳費日：</string>
+    <string name="bookmark_picker_name">書籤</string>
+    <string name="button_add_calendar">加入事件至日曆</string>
+    <string name="button_add_contact">加入聯絡人</string>
+    <string name="button_back">返回</string>
+    <string name="button_book_search">打開圖書搜索</string>
+    <string name="button_cancel">取消</string>
+    <string name="button_clipboard_empty">剪貼簿清空</string>
+    <string name="button_custom_product_search">自定義搜索</string>
+    <string name="button_dial">撥號</string>
+    <string name="button_done">完成</string>
+    <string name="button_email">發送email</string>
+    <string name="button_get_directions">取得地址</string>
+    <string name="button_google_shopper">谷歌購物</string>
+    <string name="button_mms">發送MMS</string>
+    <string name="button_ok">確定</string>
+    <string name="button_open_browser">打開瀏覽器</string>
+    <string name="button_product_search">打開產品搜索</string>
+    <string name="button_read_book">瀏覽本書</string>
+    <string name="button_search_book_contents">搜索圖書內容</string>
+    <string name="button_share_app">共享應用程式</string>
+    <string name="button_share_bookmark">分享書籤</string>
+    <string name="button_share_by_email">通過Email分享</string>
+    <string name="button_share_by_sms">通過簡訊分享</string>
+    <string name="button_share_clipboard">分享剪貼簿</string>
+    <string name="button_share_contact">分享聯絡人</string>
+    <string name="button_show_map">顯示地圖</string>
+    <string name="button_sms">發送簡訊</string>
+    <string name="button_web_search">網頁搜索</string>
+    <string name="button_wifi">連接到網絡</string>
+    <string name="cancel">取消</string>
+    <string name="cannot_add_barcode_auto">暫不支援卡片上的條碼格式，以內建格式取代。</string>
+    <string name="card_building">會員卡建立中，請稍候…</string>
+    <string name="card_content">卡片內容</string>
+    <string name="card_note">備註</string>
+    <string name="card_number">會員卡號</string>
+    <string name="chooseStar">選擇您的評價</string>
+    <string name="comment_content">留言內容</string>
+    <string name="confirm">是否確定要備份會員卡資料至雲端？</string>
+    <string name="confirm_backup_credit">是否確定要備份信用卡資料至SD卡？</string>
+    <string name="confirm_backup_membersip">是否確定要備份會員卡資料至SD卡？</string>
+    <string name="confirm_backup_receipt">是否確定要備份電子發票共通性載具至SD卡？</string>
+    <string name="confirm_delete">是否確定要刪除？</string>
+    <string name="confirm_delete_push">是否確定要清空優惠速報（包含折扣券速報）？</string>
+    <string name="confirm_exchange">是否確定要兌換？</string>
+    <string name="confirm_get_coupon">是否確定要領取折價券？</string>
+    <string name="confirm_return_backup_credit">是否確定要還原信用卡資料？</string>
+    <string name="confirm_return_backup_membersip">是否確定要還原會員卡資料？</string>
+    <string name="confirm_return_backup_receipt">是否確定要還原電子發票共通性載具？</string>
+    <string name="confirm_share">是否確定要分享到Facebook？</string>
+    <string name="contents_contact">聯絡人資訊</string>
+    <string name="contents_email">Email地址</string>
+    <string name="contents_location">地理坐標</string>
+    <string name="contents_phone">電話號碼</string>
+    <string name="contents_sms">簡訊地址</string>
+    <string name="contents_text">純文字</string>
+    <string name="coupon_content">商品內容</string>
+    <string name="coupon_limit">兌換期限：</string>
+    <string name="coupon_text_2">到商家使用時，在結帳過程中提示折扣券條碼，供商家確認。</string>
+    <string name="coupon_text_3">一旦商家確認成功後，即以折扣後的金額結帳，享受商家所提供的優惠！</string>
+    <string name="coupon_text_4">＊每張折扣券都只能使用一次喔！</string>
+    <string name="coupon_text_a1">本折扣券為「一般領取式折扣券」。領取之後不一定需要馬上至商家使用，只要在優惠折扣券的有效期限內到商家使用即可。</string>
+    <string name="coupon_text_b1">本折扣券為「限時搶購折扣券」。領取後，強烈建議您迅速至商店使用，因為本折扣券可能會有「折扣商品數量的限制」或是「短期的折扣有效使用時間」。</string>
+    <string name="create_barcode">產生條碼</string>
+    <string name="create_barcode_again">重新輸入卡號</string>
+    <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
+    <string name="create_calendar_title">Create calendar event</string>
+    <string name="credit_card">信用卡</string>
+    <string name="database_break">資料庫可能已經損毀，建議您重新下載。</string>
+    <string name="database_check">資料庫檢查中，請稍候…</string>
+    <string name="date">日期</string>
+    <string name="decline">Decline</string>
+    <string name="default_web_client_id">439005326805-lng8a6duqsn104hs4dj80ns2m4ja2ftk.apps.googleusercontent.com</string>
+    <string name="delete">刪除</string>
+    <string name="delete_fail">刪除失敗，請稍候再試。</string>
+    <string name="delete_space">刪　除</string>
+    <string name="delete_success">刪除成功</string>
+    <string name="discount">折扣券</string>
+    <string name="discount_1">折扣</string>
+    <string name="discount_2">券</string>
+    <string name="discount_get_date_limit">領取期限：</string>
+    <string name="discount_get_time">領取時間：</string>
+    <string name="discount_news">商家情報</string>
+    <string name="discount_news_web">優惠來源</string>
+    <string name="discount_price">優惠價</string>
+    <string name="discount_price_2">優惠價：</string>
+    <string name="discount_text1">領取並使用此折價券，可再額外獲得ZeroCard紅利點數</string>
+    <string name="discount_text2">點！</string>
+    <string name="download_and_show">下載並顯示圖片</string>
+    <string name="download_bank">信用卡資料庫</string>
+    <string name="download_db_message1">本次下載新增</string>
+    <string name="download_db_message2">，如果您已建立這些卡片，建議您至卡片內容的編輯，將商店名稱改選為內建商店。編輯後別忘了要備份卡片內容唷！</string>
+    <string name="download_db_message3">。</string>
+    <string name="download_db_message_new_1">本次新增</string>
+    <string name="download_db_message_new_2">商店。</string>
+    <string name="download_db_message_new_3">※加入卡片後，記得到「設定」做備份喔！</string>
+    <string name="download_fail">下載失敗。</string>
+    <string name="download_ok">下載完成。</string>
+    <string name="download_store">會員卡資料庫</string>
+    <string name="download_storename_choose">有新增內建商店，是否要下載？（建議您下載以方便使用）</string>
+    <string name="download_waiting">下載中，請稍候…</string>
+    <string name="e_receipt_0">電子發票共通性載具</string>
+    <string name="e_receipt_1">電子發票</string>
+    <string name="e_receipt_2">共通性載具</string>
+    <string name="e_receipt_add">新增共通性載具</string>
+    <string name="e_receipt_add_1">自動掃描產生條碼</string>
+    <string name="e_receipt_add_1_tip">-自動掃描共通性載具並產生條碼</string>
+    <string name="e_receipt_add_2">手動輸入產生條碼</string>
+    <string name="e_receipt_add_2_dialog">請輸入共通性載具號碼</string>
+    <string name="e_receipt_add_2_dialog_tip">* 英文請輸入大寫 *</string>
+    <string name="e_receipt_add_2_tip">-手動輸入共通性載具號碼後產生條碼</string>
+    <string name="e_receipt_fail">檔案可能已損毀，建議您刪除後重新建立。</string>
+    <string name="e_receipt_note">101年3月1日起，民眾可至財政部電子發票整合服務平台( www.einvoice.nat.gov.tw/wSite/mp )，用手機號碼申請【共通性載具-手機條碼】。於消費結帳時，出示此條碼讓店家掃描，即可索取電子發票。共通性載具相關資料可參考財政部網頁 www.einvoice.nat.gov.tw/APMEMBERVAN/GeneralCarrier/generalCarrier?mp=1 。</string>
+    <string name="edit">編輯</string>
+    <string name="edit_credit_card">編輯信用卡內容</string>
+    <string name="edit_fail">編輯失敗，請稍候再試。</string>
+    <string name="edit_membership_card">編輯會員卡</string>
+    <string name="edit_seccess">編輯成功</string>
+    <string name="email_subject">ZeroCard建議回報</string>
+    <string name="enter_barcode">請輸入會員卡號</string>
+    <string name="exchange_des">使用方式</string>
+    <string name="exchange_illustrate">▼ 兌換說明</string>
+    <string name="exchange_message_0">兌換成功</string>
+    <string name="exchange_message_1">您已經兌換過囉</string>
+    <string name="exchange_message_2">您的紅利點數不足，無法兌換。</string>
+    <string name="exchange_message_error">兌換失敗，請稍後再試。</string>
+    <string name="exchange_message_share_facebook">"YA~~~累積點數這麼久，終於換到了，開心!!!!
+免錢的東西用起來感覺就是不一樣!!
+
+只要下載安裝然後輸入我的邀請碼，
+你也可以得到10點哦!!
+下載按這裡→ http://s.ad-locus.com/zc-redeem"</string>
+    <string name="expire_point">即將到期紅利點數</string>
+    <string name="expire_point_1">即將到期紅利點數：</string>
+    <string name="finish">完　成</string>
+    <string name="finish_2">完成</string>
+    <string name="firebase_database_url">https://api-project-439005326805.firebaseio.com</string>
+    <string name="ga_trackingId">UA-45052592-4</string>
+    <string name="gcm_defaultSenderId">439005326805</string>
+    <string name="get_coupon_1">領取折扣券</string>
+    <string name="get_coupon_2">限時搶購！</string>
+    <string name="get_coupon_fail">暫時無法取得資料</string>
+    <string name="get_coupon_ret_1">商品已售完</string>
+    <string name="get_coupon_ret_2">活動已過期</string>
+    <string name="get_coupon_ret_255">此商品暫時無法購買</string>
+    <string name="get_coupon_ret_3">您已領取過此商品Coupon</string>
+    <string name="get_coupon_ret_4">活動尚未開始無法領取</string>
+    <string name="get_coupon_success">折扣券領取成功！您可至『已領取』查詢您的折扣券資料。</string>
+    <string name="get_discount">已領取</string>
+    <string name="get_discount_no">進行中</string>
+    <string name="get_store_discount_info">我要收到最新優惠訊息</string>
+    <string name="gift_full_btn">贈品已兌換完畢</string>
+    <string name="gift_full_detail">贈品兌換份數已額滿，請選擇其他好康贈品，或是等待下次名額開放再進行兌換。</string>
+    <string name="google_api_key">AIzaSyD24OB9WDilQkDeCscABFrO3rY-KysQZtQ</string>
+    <string name="google_app_id">1:439005326805:android:212cfe2dfd741716</string>
+    <string name="google_crash_reporting_api_key">AIzaSyD24OB9WDilQkDeCscABFrO3rY-KysQZtQ</string>
+    <string name="google_storage_bucket">api-project-439005326805.appspot.com</string>
+    <string name="history_clear_text">刪除記錄</string>
+    <string name="history_email_title">條碼掃描器記錄</string>
+    <string name="history_send">發送記錄</string>
+    <string name="history_title">記錄</string>
+    <string name="illustration">說明</string>
+    <string name="leave_message">留言板</string>
+    <string name="leave_message_1">留言</string>
+    <string name="leave_message_star">參與評分</string>
+    <string name="location">位　置</string>
+    <string name="login">登入</string>
+    <string name="login_no_account">建立帳號可得ZeroCard紅利1000點唷！</string>
+    <string name="login_nologin">您尚未登入</string>
+    <string name="login_text2">卡號/</string>
+    <string name="manual_barcode_text1">請先輸入會員卡號，</string>
+    <string name="manual_barcode_text2">再按下『產生條碼』</string>
+    <string name="map">地圖</string>
+    <string name="map_key">0xS9iRt5jEs8zFw4AIeUSqxfyF2iyO3-mm5vw1w</string>
+    <string name="map_space">地　圖</string>
+    <string name="membership_add_full">暫無推薦的特約商店</string>
+    <string name="membership_card">會員卡</string>
+    <string name="membership_card_number">會員卡號</string>
+    <string name="membership_card_unit">張</string>
+    <string name="menu_about">關於</string>
+    <string name="menu_help">幫助</string>
+    <string name="menu_history">記錄</string>
+    <string name="menu_settings">設置</string>
+    <string name="menu_share">分享</string>
+    <string name="more_special_card">了解更多特約商店</string>
+    <string name="msg_about">使用ZXing開放原始碼的條碼資料庫</string>
+    <string name="msg_buggy">該裝置有已知的錯誤導致條碼掃描有問題。如需更多資訊，請至 http://code.google.com/p/zxing/wiki/FrequentlyAskedQuestions</string>
+    <string name="msg_bulk_mode_scanned">散裝模式：條碼掃描，並保存</string>
+    <string name="msg_camera_framework_bug">很抱歉，相機出現問題。您可能需要重新啟動設備。</string>
+    <string name="msg_default_contents">內容</string>
+    <string name="msg_default_format">格式</string>
+    <string name="msg_default_meta">元數據</string>
+    <string name="msg_default_mms_subject">哈囉</string>
+    <string name="msg_default_status">將條碼放置於鏡頭範圍內進行掃描。</string>
+    <string name="msg_default_time">時間</string>
+    <string name="msg_default_type">類型</string>
+    <string name="msg_encode_barcode_failed">找不到條碼。</string>
+    <string name="msg_encode_contents_failed">無法讀取條碼。</string>
+    <string name="msg_google_shopper_missing">未安裝谷歌購物</string>
+    <string name="msg_install_google_shopper">谷歌購物結合條碼掃描價格，評論，更無需打開瀏覽器。您想試用嗎？</string>
+    <string name="msg_intent_failed">抱歉，無法打開所需軟體。 條碼內容可能無效。</string>
+    <string name="msg_loading_apps">載入應用程式</string>
+    <string name="msg_not_our_results">離開此應用程式。搜尋結果: 無此應用程式。</string>
+    <string name="msg_redirect">重定向</string>
+    <string name="msg_sbc_book_not_searchable">抱歉，無法找到此圖書。</string>
+    <string name="msg_sbc_failed">抱歉，搜索時遇到錯誤。</string>
+    <string name="msg_sbc_no_page_returned">沒有返回頁面</string>
+    <string name="msg_sbc_page">頁面</string>
+    <string name="msg_sbc_searching_book">搜索圖書</string>
+    <string name="msg_sbc_snippet_unavailable">無法始用摘要</string>
+    <string name="msg_sbc_unknown_page">未知頁面</string>
+    <string name="msg_share_explanation">你可以在你的手機螢幕上顯示條碼，並使用其他手機掃描此條碼方式並傳送或分享給朋友</string>
+    <string name="msg_share_subject_line">這是我所掃描條碼的內容</string>
+    <string name="msg_share_text">或鍵入一些文字</string>
+    <string name="msg_unmount_usb">對不起，無法讀取SD卡。</string>
+    <string name="my_location">我的位置</string>
+    <string name="new_update">"ZeroCard x 熊賺錢 
+本次更新修改：
+
+1.修正某些商品無法兌換的問題。"</string>
+    <string name="nickname">別　　名</string>
+    <string name="no">否</string>
+    <string name="no_add_account">尚未建立帳號</string>
+    <string name="no_bill_date_no_alarm">須先選擇帳單繳費日才可設定提醒</string>
+    <string name="no_branch">暫時無法取得門市資訊</string>
+    <string name="no_coupon">目前沒有好康券可領取</string>
+    <string name="no_custom_address">自訂商店時無輸入地址</string>
+    <string name="no_custom_phone">自訂商店時無輸入電話</string>
+    <string name="no_data">目前沒有資料</string>
+    <string name="no_discount_evenlist">目前無折扣券</string>
+    <string name="no_enter">未輸入</string>
+    <string name="no_expire_date_no_alarm">須先選擇紅利到期日才可設定提醒</string>
+    <string name="no_internet_cannot_get_exchange">網路無連線無法取得兌換資料</string>
+    <string name="no_internet_cannot_login">網路無連線無法使用此服務</string>
+    <string name="no_internet_cannot_setcat">網路無連線無法設定推播資訊</string>
+    <string name="no_internet_cannot_setnote">網路無連線無法設定備忘錄提醒</string>
+    <string name="no_internet_no_branch">網路無連線無法取得門市資訊</string>
+    <string name="no_internet_no_comment">網路無連線無法使用使用留言功能</string>
+    <string name="no_internet_no_data">網路無連線無法取得資料</string>
+    <string name="no_internet_no_discount">網路無連線無法取得商家情報</string>
+    <string name="no_internet_no_location">網路無連線無法取得位置</string>
+    <string name="no_internet_no_star">網路無連線無法評分</string>
+    <string name="no_internet_no_store_data">網路無連線無法取得適用店家詳細資料</string>
+    <string name="no_landmark_reenter">無此地標，請重新輸入！</string>
+    <string name="no_location">暫時無法取得位置</string>
+    <string name="no_remind">無提醒</string>
+    <string name="no_sd_card">無SD卡</string>
+    <string name="no_special_card_list">目前無可使用的特約商店</string>
+    <string name="no_url">暫時無法取得資料來源</string>
+    <string name="note1">當您在</string>
+    <string name="note2">到</string>
+    <string name="note3">的時間內經過您所選取的商店附近，將會收到您所設定的備忘錄提醒訊息。（請設定時間的間隔大於兩小時、小於一天）</string>
+    <string name="note_add">新增備忘錄</string>
+    <string name="note_add_tip1">請設定開始與結束時間的間隔在兩小時到一天之間。</string>
+    <string name="note_add_tip2">設定的時間已過期，請重新設定。</string>
+    <string name="note_content">備忘錄內容</string>
+    <string name="note_edit">編輯備忘錄</string>
+    <string name="note_end_time">結束時間</string>
+    <string name="note_map_search_hint1">搜尋地標</string>
+    <string name="note_map_search_hint2">請輸入自訂商店名稱</string>
+    <string name="note_start_time">開始時間</string>
+    <string name="note_tip1">在特定時間、地點提醒我</string>
+    <string name="notification">▼ 注意事項</string>
+    <string name="ok">確定</string>
+    <string name="original_price">原價</string>
+    <string name="original_price_2">原價：</string>
+    <string name="phone">電　話</string>
+    <string name="phone_des_1">距離約</string>
+    <string name="phone_des_2">公里</string>
+    <string name="phone_map">撥電話</string>
+    <string name="please_enter_barcode">請輸入會員卡號</string>
+    <string name="please_enter_barcode_manual">請輸入會員卡號並按下產生條碼</string>
+    <string name="please_enter_expire_point">請輸入即將到期紅利點數</string>
+    <string name="please_enter_note_content">請輸入備忘錄內容</string>
+    <string name="please_enter_point">請輸入現有紅利點數</string>
+    <string name="please_enter_reward_point">請輸入現有紅利點數</string>
+    <string name="please_enter_store_name">請輸入商店名稱</string>
+    <string name="please_login">請先登入</string>
+    <string name="please_selcet_bank_name">請選擇發卡銀行</string>
+    <string name="please_selcet_end_time">請選擇結束時間</string>
+    <string name="please_selcet_start_time">請選擇開始時間</string>
+    <string name="please_selcet_store_name">請選擇商店名稱</string>
+    <string name="please_write_comment">請輸入「評論內容」</string>
+    <string name="please_write_nickname">請輸入「別名」</string>
+    <string name="point_0">紅利</string>
+    <string name="point_1">紅利：</string>
+    <string name="point_2">點</string>
+    <string name="point_exchange">紅利換什麼？</string>
+    <string name="point_exchange_illustrate">紅利兌換說明</string>
+    <string name="point_exchange_illustrate_1">▼ 兌換說明</string>
+    <string name="point_exchange_now">立即兌換</string>
+    <string name="point_exchange_number">可兌換數量：</string>
+    <string name="point_expire_date">紅利到期日</string>
+    <string name="point_expire_date_1">紅利到期日：</string>
+    <string name="point_inquire">紅利兌換查詢</string>
+    <string name="preferences_actions_title">找到條碼時</string>
+    <string name="preferences_bulk_mode_summary">條碼掃描和挽救了許多人不斷</string>
+    <string name="preferences_bulk_mode_title">批量掃描模式</string>
+    <string name="preferences_copy_to_clipboard_title">復製到剪貼簿</string>
+    <string name="preferences_custom_product_search_summary">使用％s作為佔位符的產品ID</string>
+    <string name="preferences_custom_product_search_title">自定義搜索網址</string>
+    <string name="preferences_decode_1D_title">解碼一維條碼</string>
+    <string name="preferences_decode_Data_Matrix_title">數據矩陣碼解碼</string>
+    <string name="preferences_decode_QR_title">解碼QR條碼</string>
+    <string name="preferences_front_light_summary">改善在低光源的環境下掃描的成功率, 但有可能造成過度曝光的現象</string>
+    <string name="preferences_front_light_title">使用前光源</string>
+    <string name="preferences_general_title">一般設置</string>
+    <string name="preferences_name">設置</string>
+    <string name="preferences_play_beep_title">提示音</string>
+    <string name="preferences_remember_duplicates_summary">存儲多個條碼掃描相同的歷史</string>
+    <string name="preferences_remember_duplicates_title">記住重複</string>
+    <string name="preferences_result_title">結果設定</string>
+    <string name="preferences_reverse_image_summary">啟用設備上只有一個前置攝像頭</string>
+    <string name="preferences_reverse_image_title">反轉攝像機的圖像</string>
+    <string name="preferences_scanning_title">當掃描條形碼</string>
+    <string name="preferences_supplemental_summary">嘗試檢索更多的信息條碼內容</string>
+    <string name="preferences_supplemental_title">檢索更多的信息</string>
+    <string name="preferences_vibrate_title">振動</string>
+    <string name="push_ad">優惠速報</string>
+    <string name="push_ad_time">速報時間：</string>
+    <string name="push_coupon">折扣券速報</string>
+    <string name="push_my_coupon">我的折扣券</string>
+    <string name="push_news_type_cat00001">美食餐廳</string>
+    <string name="push_news_type_cat00002">時尚流行</string>
+    <string name="push_news_type_cat00003">休閒娛樂</string>
+    <string name="push_news_type_cat00004">數位3C</string>
+    <string name="push_news_type_cat00005">交通旅遊</string>
+    <string name="push_news_type_cat00006">圖書藝文</string>
+    <string name="push_news_type_cat00007">其他</string>
+    <string name="push_notify_1">《可以到優惠速報看更詳細內容唷》</string>
+    <string name="push_notify_2">至優惠速報看詳細內容</string>
+    <string name="push_notify_3">至優惠速報看詳細內容可獲得ZeroCard紅利點數喔!!</string>
+    <string name="push_notify_ad">ZeroCard優惠速報</string>
+    <string name="push_notify_coupon">ZeroCard折扣券速報</string>
+    <string name="push_notify_lattory">ZeroCard抽獎券</string>
+    <string name="push_notify_note">ZeroCard備忘錄提醒</string>
+    <string name="read_more">立即領取</string>
+    <string name="reading">讀取中…</string>
+    <string name="reading_exchange_store">讀取中，請稍候…</string>
+    <string name="reading_illustration">讀取中，請稍候…</string>
+    <string name="reading_login">讀取中，請稍候…</string>
+    <string name="remind">提醒：</string>
+    <string name="result_address_book">找到聯絡人</string>
+    <string name="result_calendar">找到日曆事件</string>
+    <string name="result_email_address">找到Email地址</string>
+    <string name="result_geo">找到坐標</string>
+    <string name="result_isbn">找到圖書</string>
+    <string name="result_product">找到產品</string>
+    <string name="result_sms">找到簡訊</string>
+    <string name="result_tel">找到電話號碼</string>
+    <string name="result_text">找到純文字</string>
+    <string name="result_uri">找到URL</string>
+    <string name="result_wifi">發現網絡配置</string>
+    <string name="return_backup_credit_fail">信用卡還原失敗</string>
+    <string name="return_backup_credit_finish">信用卡還原完成(紅利到期提醒及帳單繳費提醒須重新設定喔！)</string>
+    <string name="return_backup_ereceipt_fail">電子發票共通性載具還原失敗</string>
+    <string name="return_backup_ereceipt_finish">"電子發票共通性載具還原完成。
+記得使用雲端備份您的資料。"</string>
+    <string name="return_backup_membership_fail">會員卡還原失敗</string>
+    <string name="return_backup_membership_finish">"會員卡還原完成。
+記得使用雲端備份您的資料。"</string>
+    <string name="reward_point">現有紅利點數</string>
+    <string name="reward_point_1">現有紅利點數：</string>
+    <string name="sbc_name">Google圖書搜索</string>
+    <string name="scan_barcode_again">重新掃描</string>
+    <string name="scan_tip">掃描提示</string>
+    <string name="scan_tip_1">當您符合下列兩種情況時，請使用「手動輸入產生條碼」選項：</string>
+    <string name="scan_tip_2">手機照相無對焦功能</string>
+    <string name="scan_tip_3">會員卡號太長（20字含以上）</string>
+    <string name="scan_tip_4">對部分商家（譬如屈臣氏）而言，「自動掃描產生條碼」所產生的會員卡號數字長度會大於實體會員卡號數字長度，這是因為該商店將商店或分店的數字代號內建於條碼內，屬於正常現象，請放心使用該掃描條碼。</string>
+    <string name="search_for">正在尋找</string>
+    <string name="searching">搜尋中</string>
+    <string name="secret_msg">悄悄話</string>
+    <string name="select">請選擇</string>
+    <string name="server_version_name">2.0</string>
+    <string name="setting">設定</string>
+    <string name="setting_backup">備份資料</string>
+    <string name="setting_backup_creditcard">備份信用卡至SD卡</string>
+    <string name="setting_backup_creditcard_note">為確保您已建立的信用卡資料不流失，建議您備份至SD卡。</string>
+    <string name="setting_backup_ereceipt">備份電子發票共通性載具至SD卡</string>
+    <string name="setting_backup_membership">備份會員卡至SD卡</string>
+    <string name="setting_backup_membership_note">為確保您已建立的會員卡資料不流失，建議您備份至SD卡。</string>
+    <string name="setting_backup_note">備份您的會員卡與電子發票共通性載具。</string>
+    <string name="setting_backup_returnbackup">雲端備份與還原會員卡(建議使用)</string>
+    <string name="setting_backup_returnbackup_creditcard">備份與還原信用卡</string>
+    <string name="setting_backup_returnbackup_ereceipt">備份與還原電子發票共同載具(SD卡-不建議使用)</string>
+    <string name="setting_backup_returnbackup_membership">"從SD卡還原會員卡或電子發票共同載具
+(SD卡備份還原功能將於2014/06月份關閉)"</string>
+    <string name="setting_data_export_import">資料移轉/匯入</string>
+    <string name="setting_data_export_import_note">可將會員卡與電子發票共通性載具移轉至其他手機，或匯入資料至此手機。</string>
+    <string name="setting_data_print">顯示QRCode</string>
+    <string name="setting_data_scan">掃描QRCode</string>
+    <string name="setting_data_tip">"於A手機使用本功能產生QRcode，再透過B手機掃描A手機的QRcode，可將A手機的會員卡資料與電子發票共通性載具匯入至B手機。
+
+A手機的資料仍會保留，不會自動刪除。"</string>
+    <string name="setting_delete">刪除資料</string>
+    <string name="setting_delete_push">清空優惠速報</string>
+    <string name="setting_delete_push_note">清空優惠速報及折扣券速報</string>
+    <string name="setting_fail">設定失敗，請稍候再試。</string>
+    <string name="setting_good">給我們鼓勵</string>
+    <string name="setting_good_note">您的鼓勵是我們進步的最大動力！</string>
+    <string name="setting_mail">問題回報</string>
+    <string name="setting_mail_note">若有使用上的問題或建議，歡迎回報給我們~</string>
+    <string name="setting_note">備忘錄提醒設定中</string>
+    <string name="setting_password_backup">"設定安全碼保護您備份在雲端的資料，
+還原及轉移資料時需輸入。
+（※將在每次備份時重新設定。）
+（※自訂商店的圖片不會備份！）"</string>
+    <string name="setting_password_format">安全碼為四位數字</string>
+    <string name="setting_password_returnbackup">"請輸入您在雲端備份時，
+所設定的四位數安全碼。"</string>
+    <string name="setting_push">推播資訊設定</string>
+    <string name="setting_push_note">設定收到的優惠速報及折扣券類別。</string>
+    <string name="setting_push_switch">參與熊賺錢「回饋計畫」任務</string>
+    <string name="setting_returnbackup">還原會員卡</string>
+    <string name="setting_returnbackup_creditcard">還原信用卡資料</string>
+    <string name="setting_returnbackup_creditcard_note">將備份至SD卡的信用卡資料還原。</string>
+    <string name="setting_returnbackup_ereceipt">還原電子發票共通性載具</string>
+    <string name="setting_returnbackup_membership">還原會員卡資料</string>
+    <string name="setting_returnbackup_membership_note">將備份至SD卡的會員卡資料還原。</string>
+    <string name="setting_returnbackup_note">還原您的會員卡與電子發票共通性載具。</string>
+    <string name="setting_sound_notification">推播資訊音效設定</string>
+    <string name="setting_sound_notification_note">設定優惠速報的通知音效。</string>
+    <string name="setting_style">主題風格</string>
+    <string name="setting_style_note">選擇您喜歡的主題風格樣式。</string>
+    <string name="setting_success">設定成功</string>
+    <string name="setting_title">設　定</string>
+    <string name="share_card">分享卡號</string>
+    <string name="share_message">請稍後再試</string>
+    <string name="share_message_1">已經成功分享至您的Facebook囉</string>
+    <string name="share_message_2">Facebook Error</string>
+    <string name="share_name">通過條碼分享</string>
+    <string name="share_space">分　享</string>
+    <string name="sheet">張</string>
+    <string name="shopping_note">購物備忘錄</string>
+    <string name="smart_reading">"按距離排序您的卡片，請稍候…
+
+您可按back鍵取消動作。"</string>
+    <string name="sound_a">手機預設通知音效</string>
+    <string name="sound_b">無通知音效</string>
+    <string name="star_average">總　　評：</string>
+    <string name="star_my">我的評分：</string>
+    <string name="store">商店：</string>
+    <string name="store_address">地　　址《選填》</string>
+    <string name="store_name">商店名稱</string>
+    <string name="store_phone">聯絡電話《選填》</string>
+    <string name="store_picture">商店圖片</string>
+    <string name="store_picture_message">Allow Ad to store image in Picture gallery?</string>
+    <string name="store_picture_title">Save image</string>
+    <string name="store_star">好感度</string>
+    <string name="store_time">營業時間《選填》</string>
+    <string name="style">主題風格</string>
+    <string name="style_00">彩色空間</string>
+    <string name="style_01">午茶時光</string>
+    <string name="style_01_des">倚坐柚木椅，享受春光、煦陽吹拂，優雅的午茶風格，讓你沉醉其中。快下載專屬你的午茶時光，讓美好走進你的ZeroCard。</string>
+    <string name="style_02">里昂的狂響</string>
+    <string name="style_02_des">充滿音樂元素的龐克風格，配色強烈讓人目不轉睛！經典的紅黑對比色適合熱血個性的你！快下載里昂的狂響，讓搖滾音符飄進你的ZeroCard！</string>
+    <string name="style_03">黯黑之夜</string>
+    <string name="style_03_des">神祕低調、成熟與時尚的結合，適合有個性有想法的你。快下載黯黑之夜ZeroCard。</string>
+    <string name="suit_store">適用店家</string>
+    <string name="t_address">地址：</string>
+    <string name="t_address_hint">需填寫完整地址</string>
+    <string name="t_cancel_alert">取消</string>
+    <string name="t_cannot_get_data">無法取得資料，請稍後再試…</string>
+    <string name="t_change">開始轉換</string>
+    <string name="t_change_note">請於2014/02/28前轉換完成</string>
+    <string name="t_copy">複製</string>
+    <string name="t_data_adding">資料新增中，敬請期待…</string>
+    <string name="t_deadline">截止日期</string>
+    <string name="t_do_task">執行任務</string>
+    <string name="t_do_task_step2">執行任務步驟2</string>
+    <string name="t_edit_profile">編輯個人資料</string>
+    <string name="t_edit_profile_fail">資料更新失敗，請再試一次。</string>
+    <string name="t_edit_profile_uploading">資料更新更新中，請稍候…</string>
+    <string name="t_edit_success">編輯成功</string>
+    <string name="t_email">e-mail：</string>
+    <string name="t_enter_invite">輸入好友邀請碼</string>
+    <string name="t_enter_invite_des_1">若您有朋友給您的邀請碼，請在這裡輸入邀請碼；若無邀請碼，請略過此步驟。</string>
+    <string name="t_enter_invite_des_2">邀請碼送出後即不能更改，請確認邀請碼正確後再送出。若略過此步驟，將無法再次輸入邀請碼喔！</string>
+    <string name="t_enter_zeroacrd_id">請輸入原 ZeroCard 帳號與密碼</string>
+    <string name="t_eula_1">"使用者授權合約 
+
+使用者在使用勝義科技（以下簡稱「本公司」）的服務或產品前，應完整閱讀本使用者授權合約（以下簡稱「本合約」）。請注意：本合約代表使用者與勝義科技之間構成一項具法律約束力的約定。 
+
+勝義科技擁有並經營註冊http://zerocard.tw的網站及ZeroCard 應用程式（以下簡稱「本網站」）。 
+
+除本合約的條款外，也請使用者詳閱本網站不定期公布之規範與條款。 
+
+使用者於安裝勝義科技軟體時點選「我同意」及使用勝義科技軟體（如下文所定義），即表示使用者同意本合約所規定的條款以及本產品之隱私權政策、Cookie政策；上述合約、政策及規則之內容可能會依下列條文不定期更新與修改。 
+
+勝義科技軟體（以下簡稱「本軟體」）包含使用者透過行動裝置下載的勝義科技軟體（以下簡稱「行動版軟體」，行動裝置包括但不限於行動電話、PDA、平板電腦等裝置），以及本軟體之所有附屬軟體（包括網頁軟體與用戶端/伺服器軟體）。 
+
+1. 授權使用／智慧財產權 
+
+1.1. 勝義科技依本合約之條款授予使用者非獨佔的、個人使用的、不可轉讓的權利於電腦或行動裝置上安裝並使用本軟體，並連線至勝義科技伺服器進行積點服務（本軟體與積點服務合稱「本服務」）。 
+
+1.2. 勝義科技僅授權使用者個人使用本服務。 請注意，下列人士不得使用本軟體： 
+（i）18歲以下之未成年人； 
+（ii）使用者所在地之法律管轄機關依法認定之未成年人；以及 
+（iii）使用者所在地之法律管轄機關認定連線至本網站為非法者。 
+勝義科技無法一一查證本服務在各法律管轄區域的合法性，使用者應自行確認使用本服務為合法行為。 
+
+1.3. 勝義科技保留權利得在任何時候要求使用者提供年齡證明，以確保使用本服務者並非未成年人。此外，如果使用者無法提供符合勝義科技要求的年齡證明，或勝義科技懷疑使用者為未成年人，勝義科技保留權利得暫停或撤銷使用者之帳號，並暫時或永久拒絕使用者使用本服務。 
+
+1.4. 勝義科技與勝義科技授權之公司擁有本軟體、本軟體之原始碼、結構與組織，及其版權、商業機密、智慧財產權及其他相關權利。在相關法規的限制下，使用者不得： 
+ a. 複製、散發、出版、進行逆向工程、反編譯、分解、修改或翻譯本軟體，或試圖取得本軟體之原始碼，或透過其他方式製作本軟體之衍生產品； 
+ b. 出售、讓渡、再授權、轉讓、分配或者出租本軟體； 
+ c. 透過電腦網路或其他方式讓第三人取得本軟體； 
+ d. 以實體或電子方式將本軟體出口至任何國家； 
+ e. 以相關適用法律或規定所禁止的方式使用本軟體。 
+（以上所列各項行為統稱為「未授權行為」） 
+因使用者從事上述「未授權行為」而產生或衍生之任何損失及費用，完全由使用者自行負擔。若使用者發覺任何人從事「未授權行為」，應立即通知勝義科技，並合理協助勝義科技根據使用者提供之資訊進行調查。 
+勝義科技與勝義科技授權之公司保留上述所有權利（以上合稱「本公司權利」），並不授予使用者此等權利。 
+
+1.5. 本網站名稱「勝義科技」、本公司擁有之網址http://zerocard.tw，以及其他任何勝義科技所使用之商標、服務商標、品牌名稱、活動名稱、賽事名稱及產品名稱（以上合稱「本公司商標」）均為勝義科技、本公司公司成員或勝義科技授權人之商標、服務商標或公司名稱及產品名稱。 
+
+上述單位對本公司商標保留所有權利。此外，本網站上的 其他內容，包括但不限於本軟體、圖案、圖片、視覺設計、照片、動畫、影片、音樂、聲音和文字（以上合稱「本網站內容」）均為勝義科技、本公司之公司成員或勝義科技授權人所有，本網站內容受版權、智慧財產權及其他相關法律保障。使用者特此同意：使用本服務及本網站不代表使用者 對本網站內容及/或本公司商標有任何權利。未經勝義科技書面同意，使用者不得在任何情況下使用本網站內容。 
+
+此外，使用者同意不從事任何會傷害或可能會傷害本公司權利、本公司商標、本網站內容與本公司商譽的任何行為，亦不從事傷害本公司之其他公司、本公司授權之公司、上述公司員工商譽及名譽的任何行為。 
+
+1.6. 使用者保證使用者在本網站與本服務中使用的名稱與影像（如使用者名稱與玩家圖像）皆不侵犯任何第三方之智慧財產權、隱私權或其他權利。使用者在此授權本公司與本公司公司在全球使用上述名稱與影像，用於與本網站與本服務相關之任何活動，此授權無授權金、不得撤回、可轉讓、可再次轉授權，且受制於我們的隱私權政策。 
+
+2. 免責聲明 
+
+2.1. 勝義科技提供使用者的服務，均依照現狀提供，對於本服務之品質、適用性、完整性和正確性，勝義科技不提供任何直接或間接的擔保或事實陳述。 
+
+2.2. 勝義科技盡力為使用者提供最優質、最安全、最保密的服務，但勝義科技不保證本服務完全不中斷、即時或毫無錯誤，不保證本服務之缺失將得到修正，亦不保證勝義科技的服務完全沒有病毒、程式錯誤或其他缺失。 
+
+2.3. 勝義科技保留所有權利得暫停、中斷、修改、移除或增加本服務之內容，且上述變更一經發生立即生效，不論勝義科技認為使用者是否有知悉的需要，勝義科技不負通知使用者上述任何變更之義務。對於此類變更決定所引起使用者的任何損失，勝義科技概不負責。 
+
+3. 權限 
+
+勝義科技保留權利得核發、維護及關閉使用者在本網站的帳戶。關於使用者帳戶、使用本服務，或爭端解決等任何事宜，勝義科技管理階層的任何決定，皆為最終決策，勝義科技不接受複查或申訴。 
+
+4. 使用者之事實陳述與擔保 
+
+使用本服務前，使用者陳述、擔保、承諾且同意遵守以下條款： 
+
+4.1. 使用本服務有可能因不可抗力因素造成損失點數，勝義科技對此概不負責。 
+
+4.2. 使用本服務完全出於使用者個人的選擇和決定，任何風險由使用者自負。 
+
+4.3. 使用者必須提供勝義科技某些個人資料，包括寄送方式之詳細資料；使用者使用行動版軟體，即同意我們檢查使用者的所在地理位置，以便進行使用本服務。勝義科技將依照中華民國的法律以及本公司之隱私權政策處理使用者資料。 
+
+4.4. 使用者因參與ZeroCard × 熊賺錢或使用本服務而贏得的點數或其衍生之任何稅金，完全由使用者負責繳納。 
+
+4.5. 勝義科技無法掌控使用者存取及使用本服務所需的電信網路及網路服務，若發生任何故障情事，包括但不限於斷線、連線速度緩慢、資料傳輸速度緩慢，勝義科技概不負責。 
+
+5. 禁止之行為 
+
+5.1. 軟體修改：使用者在任何情況下皆不得試圖修改、反編譯、進行逆向工程或分解本軟體。 
+
+5.2. 僅限個人用途：本服務與本服務之下注功能僅供使用者個人娛樂之用，在任何情況下使用者皆不得利用其ZeroCard × 熊賺錢帳戶從事任何非本服務之外的行為。使用者必須提供勝義科技完整且真實的個人資訊，並有義務在個人資訊有變動時加以更新。 
+
+5.3. 串通作弊：勝義科技嚴禁使用者彼此分享不正當的獲點方法以其他方法串通作弊。勝義科技保留權利及其他措施得限制使用者參予；或禁止使用者加入任務。此外，勝義科技保留權利得將玩家（包括使用者）之間任何串通作弊行為與企圖串通作弊之行為視為對本合約的重大違反；據此，若使用者參與或試圖參與任何串通作弊之行為，不論該行為之結果為何，勝義科技有權終止該使用者之帳號。 
+
+5.4. 玩家外援程式（EPA）：勝義科技禁止玩家使用外援程式（以下簡稱「EPA程式」），此類程式的目的在為玩家提供「不公平的優勢」。勝義科技將「外援」定義為：本軟體之外的電腦軟體以及非軟體基礎的資料庫或人物檔案（如網站和訂閱服務）。勝義科技將「不公平的優勢」定義為：使用者並非親自於軟體中進行服務，而是透過其他管道取得或完成服務。 
+
+5.5. 自動智慧程式（BOTS）：勝義科技嚴禁使用者在本服務中使用人工智慧參與服務，人工智慧包括但不限於機器人。使用者針對本服務所從事的所有行為，均須透過本軟體所提供的介面，由使用者親自為之。 
+
+5.6. 使用者同意勝義科技得採取行動以偵測並防止玩家使用被禁止的EPA程式，這些行動包括但不限於檢查使用者電腦上與本軟體同時運行的程式。使用者同意不迴避、干擾、阻擋上述行動，包括但不限於使用第三方軟體從事上述目的。 
+
+5.7. 欺詐行為：若勝義科技認為使用者於使用本服務時進行或試圖進行詐欺、非法、不誠實或不正當的行為，此類行為包括但不限於與任何本規則與條款第五點所述之行為相關之活動、任何操弄任務的行為，勝義科技有權依其判斷採取適當措施，包括： 
+ 立刻封鎖使用者使用本服務； 
+ 關閉使用者之勝義科技帳戶； 
+ 查扣使用者帳戶中所有點數； 
+ 向金融機構／主管機關／法律上有權獲取此資訊之個人或團體通報並揭露使用者身分； 
+ 勝義科技亦不排除對此等使用者採取法律行動。 
+
+6. 侮辱性語言或內容 
+
+使用者使用本服務之功能時，或與勝義科技員工通訊時，禁止使用任何非法、猥褻、誹謗、破壞名譽、威脅或違反法律或一般認為具侮辱性的內容。 
+
+使用者使用本服務提供之聊天功能時，禁止宣傳勝義科技之外的任何服務或產品。此外，使用者不應對勝義科技或本服務做出不符事實的評論，或依常理可解讀為貶抑或批評的言論。 
+
+7. 違約 
+
+7.1. 在不侵害其他所有權利的前提下，若使用者違反本合約之全部或部分，勝義科技或本公司下提供給使用者服務之任何公司有權自行判斷並採取其認為適當的措施，包括中止本合約、立刻封鎖使用者使用本服務或本公司之其他服務、終止使用者之勝義科技帳戶、查扣使用者在本公司下所有帳戶內的所有點數，亦不排除對此等使用者採取法律行動。 
+
+7.2. 若因下列事由導致任何索賠、查問、債務、損害、損失、費用及開銷，包括訴訟費和所有其他形式的費用，使用者同意全力為勝義科技及其股東、董事和員工辯護、補償其損失，並不讓前述人等受到任何傷害： 
+ 使用者違反本合約之全部或部分； 
+ 使用者觸犯任何法律或侵害任何第三方的權利；以及 
+ 使用者使用本服務，或不論有無使用者授權，他人以使用者的登入憑證（依下文定義）使用本服務。 
+
+8. 責任限制 
+
+8.1 在任何情況下，使用者因使用（或濫用及誤用）本服務而造成特定的、偶然的、直接的、間接的或隨之而生的損害（包括但不限於營業利潤損失、營業中斷、營業資訊遺失或其他財務損失），不論該損失是否肇因於疏忽，亦不論勝義科技是否預見造成損失的可能性，勝義科技及本公司下的任何公司概不負責。 
+
+8.2. 本合約不卸除或限制本公司與本公司對下列事項的責任：(a) 本公司與本公司的疏失所導致的人身傷亡，以及 (b) 詐欺或虛假不實之陳述。 
+
+9. 使用者帳號與安全性 
+
+9.1. 每個使用者帳號均包含獨特的使用者代號、密碼及可選擇性使用的數字式安全代碼（以上三項合稱「登入憑證」），使用登入憑證即可登入使用者帳號。使用者有義務依相關規定選擇使用者代號和密碼。如果使用者帳號合併使用安全代碼，則安全代碼將由本服務隨機選取。 
+
+9.2. 以使用者本人之登入憑證登入並使用本服務的一切行為，使用者同意負起全部責任，且使用者不應對任何人透露自己的登入憑證。 
+
+9.3. 以使用者本人之登入憑證登入並使用本服務的一切行為，使用者同意負起全部責任，且使用者不應對任何人透露自己的登入憑證，並不得讓他人使用自己的帳戶與登入憑證。 
+
+9.4. 使用者僅得擁有並使用一個勝義科技帳戶。勝義科技禁止使用者使用多重帳戶，若使用者使用多重帳戶，勝義科技得不經通知立即關閉其帳戶，並凍結其點數。 
+
+10. 糾紛 
+
+使用者接受勝義科技將每個任務之歷史資料記錄於其伺服器，若使用者電腦所顯示之內容與伺服器儲存之資料記錄有異，以伺服器儲存之資料為準。 
+
+若使用者有任何申訴，請聯絡我們的顧客服務：support@hyxen.com。 
+
+11. 修正 
+
+勝義科技保留權利得無須公告即可隨時更新或修改本合約。修正後的合約於本網站公布14天後，使用者即受其約束。因此，勝義科技建議使用者定期至本網站查看本合約最新版本之條款。 使用者可以索取舊版的規則與條款，意者請來信至 suppot@hyxen.com。使用者繼續使用本網站將視為使用者認可本合約所有的修正。 
+
+12. 適用法律 
+
+本合約及所有相關事項均受中華民國法律管轄，並根據該地法律來解釋。本合約中各方無條件同意，對於任一項索賠、糾紛、或對本合約的解讀分歧，以及由此而產生的任何問題，中華民國的法院有唯一管轄權。本合約中各方無條件放棄反對中華民國法院受理訴訟的權利； 放棄宣稱訴訟受理法庭造成不便的權利；並放棄宣稱中華民國法院沒有司法管轄權的權利。 本合約完全不限制勝義科技於中華民國以外的其他司法管轄區對使用者提起法律訴訟。 在一司法管轄區對使用者提起訴訟，不限制勝義科技於其他司法管轄區對使用者同時或非同時提起法律訴訟的權利，惟須符合其他司法管轄區之法律。 
+
+13. 合約可分割性 
+
+若本合約某一條款在任何司法管轄區屬於或成為非法、無效或無法執行，不影響本合約其他條款在該司法管轄區之有效性或可執行性，亦不影響本合約中該條款或其他條款在其他司法管轄區之有效性或可執行性。 
+
+14. 讓渡 
+
+勝義科技保留權利得隨時讓渡本合約之全部或部分，無須公告週知。使用者不得讓渡本合約內任何使用者之權利或義務。 
+
+15. 其他事項 
+
+15.1. 若使用者違反本合約任一條款，而勝義科技或本公司下任何公司放棄追究該次違約行為（包括我們未要求使用者嚴格且照約履行及遵守本合約任一條款），不得視為我們其後亦將不追究使用者違反同一條款或本合約中任何其他條款之行為。 
+
+15.2. 本合約不授予或賦予任何權利或利益給非屬本合約之第三人，除本公司內的公司外。 
+
+15.3. 本合約不得用以訂立或視為使用者與我們具有任何合夥、代理、信託安排、受信關係或合資企業等關係。 
+
+15.4. 本合約代表使用者與勝義科技雙方對於合約中之服務事項具有完全之合意，且本合約取代使用者與勝義科技先前達成的任何其他合約、合約或約定 
+
+15.5. 對於勝義科技要求使用者提供之所有細節和資訊，使用者須完整且如實提供；使用者於使用本服務時，一律受到勝義科技的隱私權政策條款所約束。"</string>
+    <string name="t_eula_2">"個人資料蒐集機關勝義科技股份有限公司(以下簡稱本公司)為保護您(以下稱立同意書人)的個人資料，茲依據個人資料保護法第八條規定，告知有關本公司對於個人資料之蒐集、處理及利用等相關事項如下，請立同意書人詳閱： 
+
+1.蒐集之目的：依本項業務往來之目的及021/行銷(不包含直銷至個人)；022/行銷(包含直銷至個人)；037/客戶管理；060/統計調查與分析；065/資訊與資料庫管理。 
+
+2.個人資料的類別：C001/辨識個人者：姓名、連絡方式(包括電話號碼、E-MAIL或居住地址)、照片；C011/個人描述：出生日期、性別；C021/家庭情形：婚姻狀態；Ｃ052/資格或技術:學歷;Ｃ061/現行之受僱情形:職稱;Ｃ081/薪資與預扣款:收入或其他得以直接或間接識別立同意書人個人之資料。 
+
+3.立同意書人所提供的個人資料同意使用於確認立同意書人的身份、與立同意書人進行連絡、提供給本公司、海外總公司及關係企業或合作夥伴之相關服務及資訊，以及其他隱私權保護政策規範之使用方式。 
+
+4.立同意書人可依個人資料保護法，就立同意書人的個人資料向本公司： 
+(1)請求查詢或閱覽 
+(2)製給複製本 
+(3)請求補充或更正 
+(4)請求停止蒐集、處理及利用 
+(5)請求刪除。 
+
+5.立同意書人瞭解此一同意符合個人資料保護法及相關法規之要求，具有書面同意本公司蒐集、處理及利用立同意書人的個人資料之效果。"</string>
+    <string name="t_exchange_zc">點數轉換中，請稍候…</string>
+    <string name="t_exchanging">兌換中，請稍候…</string>
+    <string name="t_fb_login">facebook帳號登入</string>
+    <string name="t_fb_share">分享到Facebook</string>
+    <string name="t_fb_share_ok">確定並分享到facebook</string>
+    <string name="t_finish_send">完成送出</string>
+    <string name="t_finish_task">完成任務</string>
+    <string name="t_forget_password">忘記密碼</string>
+    <string name="t_game">太吉籤</string>
+    <string name="t_game_des">"每天都可以免費抽一支太吉好運籤，不同的籤可以獲得不同的點數，最多可以獲得『100』點！
+點擊下方按鈕「開始抽籤」，進到抽籤畫面後，就可以搖晃手機開始抽籤囉！"</string>
+    <string name="t_game_des_2">請搖晃手機來抽籤</string>
+    <string name="t_game_result">抽籤結果</string>
+    <string name="t_game_start">開始抽籤</string>
+    <string name="t_game_way">遊戲方法</string>
+    <string name="t_get_verify_code">取得驗證碼</string>
+    <string name="t_get_verify_code_hint">請輸入驗證碼</string>
+    <string name="t_gift">兌換</string>
+    <string name="t_gift_des">當您整年度兌換的現金禮券(不含虛擬商品)超過一千元時，年底時本公司將依稅法規定依照您在此留的資訊開立扣繳憑單。 若您兌換的為虛擬商品時，本公司將依稅法開立支出證明，故因此需要您提供您的稅務ID。</string>
+    <string name="t_gift_detail">兌換內容</string>
+    <string name="t_gift_exchange">兌換贈品</string>
+    <string name="t_gift_exchange_date">兌換日期</string>
+    <string name="t_gift_exchange_num">兌換數量</string>
+    <string name="t_gift_exchange_point">使用點數</string>
+    <string name="t_gift_get_info">收件人資料</string>
+    <string name="t_gift_use_total_point">需使用點數</string>
+    <string name="t_go_to_gift">回贈品區</string>
+    <string name="t_id">帳號</string>
+    <string name="t_id_line">Line ID：</string>
+    <string name="t_id_num">身份證字號：</string>
+    <string name="t_id_num_hint">需填寫正確ID</string>
+    <string name="t_ignore_open_scan">開啟條碼掃描器</string>
+    <string name="t_ignore_step">略過此步驟</string>
+    <string name="t_invite_des">分享邀請碼給朋友</string>
+    <string name="t_invite_des_fb">分享到Facebook</string>
+    <string name="t_invite_scan_1">「開啟條碼掃描器」掃描朋友的邀請碼，就可以快速輸入朋友的邀請碼囉！</string>
+    <string name="t_invite_scan_2">(迷之聲：熊太吉，不是要拍你……)</string>
+    <string name="t_invite_scandes">可以將此『邀請碼 QR code』給朋友掃描</string>
+    <string name="t_limit_member">限量名額</string>
+    <string name="t_line_id">Line ID：</string>
+    <string name="t_login_fail">登入失敗</string>
+    <string name="t_login_fail_2">您的網路連線不穩，導致登入失敗，請重新檢查網路狀態後再請重新登入。</string>
+    <string name="t_login_fail_go">前　往</string>
+    <string name="t_login_fail_link">http://goo.gl/cfCdjS</string>
+    <string name="t_login_fail_tip">無法登入嗎？</string>
+    <string name="t_login_success">登入成功</string>
+    <string name="t_member_task_login">會員獎勵任務</string>
+    <string name="t_member_task_login_des">只要連續 5 天登入， 就可以獲得點數 10 點！</string>
+    <string name="t_name">姓名：</string>
+    <string name="t_name_hint">需填寫正確本名</string>
+    <string name="t_new_task">最新任務</string>
+    <string name="t_next">執行下一步驟</string>
+    <string name="t_now_point">目前可用點數為</string>
+    <string name="t_password">密碼</string>
+    <string name="t_phone">電話：</string>
+    <string name="t_phone_hint">需填寫完整電話</string>
+    <string name="t_point">點</string>
+    <string name="t_point_unit">點/份</string>
+    <string name="t_profile_born">生日</string>
+    <string name="t_profile_education">學歷</string>
+    <string name="t_profile_email">電子信箱</string>
+    <string name="t_profile_gender">性別</string>
+    <string name="t_profile_income">月收入</string>
+    <string name="t_profile_live">居住地</string>
+    <string name="t_profile_married">婚姻狀況</string>
+    <string name="t_profile_mobilephone">手機</string>
+    <string name="t_profile_name">姓名</string>
+    <string name="t_profile_occupation">職業</string>
+    <string name="t_profile_office">職稱</string>
+    <string name="t_profile_rece_address">地址</string>
+    <string name="t_profile_rece_id">身分證字號</string>
+    <string name="t_profile_rece_name">姓名</string>
+    <string name="t_profile_rece_phone">電話</string>
+    <string name="t_re_exchange">重新兌換</string>
+    <string name="t_re_upload">重新驗證</string>
+    <string name="t_read_fail">讀取失敗，請稍後再試…</string>
+    <string name="t_record">記錄</string>
+    <string name="t_record_detail">記錄內容</string>
+    <string name="t_record_gift">兌換記錄</string>
+    <string name="t_record_task">任務記錄</string>
+    <string name="t_redo_task">重新驗證任務結果</string>
+    <string name="t_result">審核結果</string>
+    <string name="t_result_2">執行結果</string>
+    <string name="t_same_as_memberinfo">同會員資料</string>
+    <string name="t_save">儲存</string>
+    <string name="t_save_as_memberinfo">儲存會員資料</string>
+    <string name="t_select">請選擇</string>
+    <string name="t_send_invite">送出邀請碼</string>
+    <string name="t_sent">已出貨</string>
+    <string name="t_setting">設定</string>
+    <string name="t_setting_change_point">紅利點數轉換</string>
+    <string name="t_setting_profile">編輯個人資料</string>
+    <string name="t_setting_qa">熊賺錢常見問題</string>
+    <string name="t_setting_qa_title">常見問題</string>
+    <string name="t_setting_what">熊賺錢是什麼？</string>
+    <string name="t_setting_what_title">介紹</string>
+    <string name="t_sure">確 認</string>
+    <string name="t_task_9_privacy">我已閱讀並接受</string>
+    <string name="t_task_9_privacy_3rd">個資保護聲明</string>
+    <string name="t_task_9_privacy_3rd_error">對不起！您必須詳閱「個資保護聲明」並且同意方可繼續！謝謝！</string>
+    <string name="t_task_9_privacy_3rd_link">前往個資保護聲明</string>
+    <string name="t_task_9_privacy_hyxen">ZeroCard x 熊賺錢 個資代收保護聲明</string>
+    <string name="t_task_9_privacy_hyxen_error">對不起！您必須詳閱「ZeroCard x 熊賺錢 個資代收保護聲明」並且同意方可繼續！謝謝！</string>
+    <string name="t_total_exchange_point">已兌換</string>
+    <string name="t_total_point">已累積</string>
+    <string name="t_touch_again_to_close">再按一次返回鍵回到ZeroCard首頁</string>
+    <string name="t_your_invite_code">您的邀請碼</string>
+    <string name="tab_all_card">所有會員卡</string>
+    <string name="tab_all_coupon">未領取</string>
+    <string name="tab_all_msg">所有留言</string>
+    <string name="tab_get_coupon">已領取</string>
+    <string name="tab_my_msg">我的留言</string>
+    <string name="tab_special_card">特約商店</string>
+    <string name="task">任務</string>
+    <string name="task_des">任務說明</string>
+    <string name="task_des_invite">透過「邀請碼」邀請朋友加入 ZeroCard x 熊賺錢。請朋友註冊帳號時，輸入您的邀請碼，就可以成功完成任務囉！</string>
+    <string name="task_des_invite_2">透過上列管道，或是使用其他方式將邀請碼告訴朋友，並請朋友註冊時輸入您的邀請碼。</string>
+    <string name="task_detail">任務內容</string>
+    <string name="task_error_msg_01">您已經執行過此任務囉！</string>
+    <string name="task_error_msg_02">系統發生錯誤，請稍候再試…</string>
+    <string name="task_error_msg_03">請重新登入帳號後再試一次…</string>
+    <string name="task_error_msg_04">很抱歉，您的權限不足…</string>
+    <string name="task_error_msg_05">執行發生錯誤，請稍候再試…</string>
+    <string name="task_game_des">每日求一支籤，讓您好運連連~ 還有機會獲得100點喔！</string>
+    <string name="task_game_des_2">"點擊太吉籤開始求籤啦！
+100點等你拿！"</string>
+    <string name="task_game_des_3">第一步，把選單打開！</string>
+    <string name="task_game_des_go">馬上求籤去</string>
+    <string name="task_get_verify">取得驗證碼中，請稍後…</string>
+    <string name="task_name_push">AdLocus推播通知觀賞送點數！</string>
+    <string name="task_point_change">有 ZeroCard 帳號，將 ZeroCard 紅利點數轉換為熊賺錢點數。</string>
+    <string name="task_point_change_down">已轉換</string>
+    <string name="task_verify">任務驗證中，請稍後…</string>
+    <string name="task_zerocard">熊賺錢</string>
+    <string name="task_zerocard_02">解任務賺點數</string>
+    <string name="title_about">條碼掃描器</string>
+    <string name="touch_again_to_close">再按一次返回鍵關閉</string>
+    <string name="upload_comment_error">評論上傳失敗</string>
+    <string name="uploading">上傳中，請稍候…</string>
+    <string name="url_about">http://zerocard.tw</string>
+    <string name="version_about">Version:</string>
+    <string name="version_check_wrong">版本檢查失敗</string>
+    <string name="version_wrong">偵測到新版本，請到Market更新至最新版本。</string>
+    <string name="wa_name">網絡配置</string>
+    <string name="waiting">請稍候…</string>
+    <string name="wifi_changing_network">不斷變化的網絡</string>
+    <string name="wifi_connect_failed">網絡連接失敗</string>
+    <string name="wifi_connected">連接的</string>
+    <string name="wifi_creating_network">創建網絡</string>
+    <string name="wifi_modifying_network">修改網絡</string>
+    <string name="wifi_ssid_label">網絡名稱</string>
+    <string name="wifi_ssid_missing">網絡實名失踪</string>
+    <string name="wifi_type_incorrect">網絡類型不正確</string>
+    <string name="wifi_type_label">類型</string>
+    <string name="write_comment">發表留言</string>
+    <string name="write_comment_note1">請提供具參考價值的觀察心得，並真實呈現資訊。我們瞭解，有時您與某些商家的互動可能不算愉快，因而想要發表負面評論，請保持基本尊重，務必發表具建設性的批評，並展現自我風範，切勿使用粗俗語句。</string>
+    <string name="write_comment_note2">為了杜絕濫用情形，確保「留言板」評論的真實性、相關性及可靠性，我們會移除不當評論內容、廣告及垃圾資訊、離題評論、涉及利益衝突的評論。</string>
+    <string name="yes">是</string>
+    <string name="zeroacrd_number">卡號：</string>
+    <string name="zerocard_hometeach1_text">"錢包愈來愈重，卻發現塞爆錢包的兇手…
+居然是各式各樣的會員卡嗎？"</string>
+    <string name="zerocard_hometeach1_tittle">你還在塞爆你的錢包嗎？</string>
+    <string name="zerocard_hometeach2_text">"讓ZeroCard幫你收藏會員卡，
+減輕錢包裡各式會員卡帶來的負擔！"</string>
+    <string name="zerocard_hometeach2_tittle">讓「會員卡」幫錢包瘦身</string>
+    <string name="zerocard_hometeach3_text">"透過解任務集點數，輕鬆幾個小步驟，
+不用花錢也能買東西啦！"</string>
+    <string name="zerocard_hometeach3_tittle">「熊賺錢」把錢包變的更實在</string>
+    <string name="zerocard_id">帳號：</string>
+    <string name="zerocard_membership_card">ZeroCard會員卡</string>
+    <string name="zerocard_membership_card_tip">點卡片可以看您的ZeroCard條碼</string>
+    <string name="zerocard_point_exchange_content">紅利兌換內容</string>
+    <string name="zerocard_point_exchange_store">前往ZeroCard紅利商城</string>
+    <string name="zerocard_point_exchange_style">ZeroCard主題風格兌換</string>
+    <string name="zerocard_to_task_1">您尚未建立「熊賺錢」的帳號，加入熊賺錢能集點數換禮券，是否要立即體驗？</string>
+    <string name="zerocard_to_task_2">「熊賺錢」真的很有趣，每天登入還可以求太吉籤喔！是否要立刻加入？</string>
+    <string name="zxing_url">http://code.google.com/p/zxing</string>
+</resources>

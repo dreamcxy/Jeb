@@ -1,0 +1,1046 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CK_1">이전 먹인 것과 다른 종류의 해열제를 먹이는 것이 좋습니다. (예: 아세트아미노펜을 먹인 경우 이부프로펜/덱시부프로펜으로 교체)</string>
+    <string name="CK_2">아세트아미노펜계열과 이부프로펜/덱시부프로펜 계열은 2시간 간격으로 연속해서 먹일 경우 각각 2회까지만 먹일 수 있으므로, 주의해서 사용해주세요.</string>
+    <string name="CK_3">해열제를 먹는 경우 이전에 먹였던 해열제 종류와 다른 종류를 먹는 것이 좋습니다. 특히, 최근 6시간이내 같은 해열제를 두 번 이상 먹였다면, 반드시 해열제 종류를 바꾸는 걸 권장합니다. (이부프로펜과 덱시부프로펜은 같은 계열이니 주의해주세요.)</string>
+    <string name="CK_4">최근 5시간 이내 2회 이상 먹인 경우는 먹이지 말아주세요.</string>
+    <string name="CK_5">단, 최근에 부루펜(이부프로펜 또는 덱시부로펜)계열 해열제를 먹이셨으므로 타이레놀(아세트아미노펜)계열 해열제를 먹이시는 것이 좋습니다.</string>
+    <string name="CK_6">단, 최근에 타이레놀(아세트아미노펜)계열 해열제를 먹이셨으므로 부루펜(이부프로펜 또는 덱시부로펜)계열 해열제를 먹이시는 것이 좋습니다.</string>
+    <string name="DDS_1">해열제 하루 허용량을 체온관리 메뉴에서 확인하시고, 초과되지 않도록 해주세요.</string>
+    <string name="DH_1">수분 섭취를 충분히 해주세요.</string>
+    <string name="DH_2">탈수가 되지 않도록 수분 섭취를 충분히 해주세요.</string>
+    <string name="DeviceEnroll">디바이스 등록</string>
+    <string name="DeviceName">장치이름</string>
+    <string name="ErrorConnect">체온계 연결에 오류가 있습니다. 재 연결을 시도합니다.</string>
+    <string name="FS_0">정상 체온입니다.</string>
+    <string name="FS_1">정상 체온이 잘 유지되고 있습니다.</string>
+    <string name="FS_10">열이 떨어져 미열이 되었습니다.</string>
+    <string name="FS_11">열이 떨어져 미열 상태입니다.</string>
+    <string name="FS_12">미열이지만 주의 깊게 지켜보아야 합니다.</string>
+    <string name="FS_13">열이 나고 있는 상태입니다.</string>
+    <string name="FS_14">체온이 올라 열이 나고 있습니다.</string>
+    <string name="FS_15">열이 다시 나는 상태입니다.</string>
+    <string name="FS_16">체온이 다시 올라 열이 나고 있습니다.</string>
+    <string name="FS_17">열이 지속되고 있습니다.</string>
+    <string name="FS_18">열이 떨어지지 않아 계속 열이 나는 상태입니다.</string>
+    <string name="FS_19">미열을 벗어나 열이 나는 상태입니다.</string>
+    <string name="FS_2">체온이 떨어져 정상 체온이 되었습니다.</string>
+    <string name="FS_20">고열은 아니지만 아직 열이 지속되고 있습니다.</string>
+    <string name="FS_21">고열이 나는 상태입니다.</string>
+    <string name="FS_22">고열이 지속되고 있습니다.</string>
+    <string name="FS_23">고열이 지속되고 있습니다. 열을 빨리 떨어뜨리는 것이 좋습니다.</string>
+    <string name="FS_24">열이 떨어지지 않아 고열이 나는 상태입니다.</string>
+    <string name="FS_25">열이 올라 고열인 상태입니다.</string>
+    <string name="FS_26">체온이 올라 고열이 나고 있습니다.</string>
+    <string name="FS_27">체온이 올라 고열이 되었습니다.</string>
+    <string name="FS_28">체온이 다시 올라 고열이 나고 있습니다.</string>
+    <string name="FS_29">다시 측정해주세요!</string>
+    <string name="FS_3">체온이 정상화 되었습니다.</string>
+    <string name="FS_30">40도 이상 고열입니다.</string>
+    <string name="FS_31">35도 미만 저체온입니다.</string>
+    <string name="FS_32">35.5도 미만으로 체온이 낮습니다.</string>
+    <string name="FS_33">36도 미만으로 체온이 낮습니다.</string>
+    <string name="FS_34">35도 미만의 저체온이 지속되고있습니다.</string>
+    <string name="FS_35">정상 체온 보다 다소 낮습니다.</string>
+    <string name="FS_4">미열이 떨어져 정상 체온이 되었습니다.</string>
+    <string name="FS_5">열이 떨어져 정상 체온이 되었습니다.</string>
+    <string name="FS_6">미열입니다.</string>
+    <string name="FS_7">미열이 지속되고 있습니다.</string>
+    <string name="FS_8">체온이 떨어져 미열이 되었습니다.</string>
+    <string name="FS_9">체온이 다시 올라 미열이 되었습니다.</string>
+    <string name="MM_1">정상 체온이므로 특별한 조치가 필요하지 않습니다.</string>
+    <string name="MM_10">손발이나 입술이 파랗게 되는 청색증을 보이거나 아이가 늘어지는 경우 응급실에 가주세요. 그렇지 않으면 따뜻한 내복을 입히시고, 얇은 이불을 덮어주시고, 따뜻한 물을 먹이실 수 있습니다.</string>
+    <string name="MM_11">패혈증 등 심한 감염증의 가능성이 있으므로 의사의 진단이 필요합니다. 응급실이나 병원을 방문하는 것이 좋습니다.</string>
+    <string name="MM_12">해열제를 교차복용을 하였으나, 39도 이상으로 고열입니다. 해열제에 반응하지 않는 고열은 의사의 진단이 필요합니다. 응급실이나 병원을 방문하는 것이 좋습니다.</string>
+    <string name="MM_13">최근 12시간 평균체온이 39도이상이며, 패혈증 등 심한 감염증의 가능성이 있으므로 의사의 진단이 필요합니다. 응급실이나 병원을 방문하는 것이 좋습니다.</string>
+    <string name="MM_14">"패혈증 등 심한 감염증 등의 가능성이 있으므로 의사의 진단이 필요합니다. 병원 또는 응급실을 방문하는 것이 좋습니다.
+
+(체온이 급격히 변했습니다. 측정 오류일 가능성이 있으니 잠시 텀을 두신 뒤 다시 측정해보시는 것이 좋습니다.)"</string>
+    <string name="MM_15">"패혈증 등 심한 감염증 등의 가능성이 있으므로 의사의 진단이 필요합니다. 병원 또는 응급실을 방문하는 것이 좋습니다.
+
+(체온 측정오류일 가능성이 있으니, 잠시 후에 다시 측정해보시는 것을 권합니다.)"</string>
+    <string name="MM_16">아이가 처지거나 보채지 않는지 관심을 가지고 지켜봐 주세요.</string>
+    <string name="MM_17">먹는 양이 감소하거나 처짐 또는 늘어짐 증상이 있는 경우, 6개월 이하에서는 심한 감영증에 의한 고열인지 확인이 필요하오니, 병원 또는 응급실을 방문하는 것이 좋습니다.</string>
+    <string name="MM_18">예방접종에 의한 미열일 수 있습니다. 알람에 따라 체온을 체크하시면서 지켜보세요.</string>
+    <string name="MM_19">예방접종에 의한 열일 수 있습니다. 해열제를 먹이고 지켜보세요. 만일 처지거나 잘 먹지 않으면 소아청소년과나 응급실을 방문하는 것이 좋습니다.</string>
+    <string name="MM_2">정상 체온의 기준은 겨드랑이 체온 기준으로 36.9도, 고막 체온 기준으로 37.4 도 까지입니다.</string>
+    <string name="MM_20">예방접종 열의 가능성이 높지만 고열이므로 의사의 추가 진단이 필요할 수 있습니다. 아이의 상태를 잘 관찰하시고 처지거나 잘 먹지 않으면 소아청소년과나 응급실을 방문하는 것이 좋습니다.</string>
+    <string name="MM_21">예방접종에 의한 열일 수도 있지만 접종열은 대개 40도를 넘기지 않습니다. 소아청소년과나 응급실을 방문하는 것이 좋습니다.</string>
+    <string name="MM_22">예방접종 후 24시간이 지나서 발생한 미열이므로 예방접종열이 아닐 가능성이 있습니다만, 접종열의 일부는 24~48시간 사이에 발생하기도 하므로 아이의 컨디션이 괜찮다면 지켜볼 수 있습니다.</string>
+    <string name="MM_23">예방접종 후 24시간이 지나서 발생한 열이므로 예방접종열이 아닐 가능성이 있습니다만, 접종열의 일부는 24~48시간 사이에 발생하기도 하므로 아이의 컨디션이 괜찮다면 해열제를 먹이고 지켜볼 수 있습니다. 만일 처지거나 잘 먹지 않으면 소아청소년과나 응급실을 방문하는 것이 좋습니다.</string>
+    <string name="MM_24">예방접종 후 24시간이 지나 발생하는 고열은 예방접종 열이 아닐 가능성이 있으므로 소아청소년과나 응급실을 방문하는 것이 좋습니다. 병원이나 응급실을 다녀오셨다면 해열제를 먹이고 지켜볼 수 있습니다.</string>
+    <string name="MM_25">예방접종 후 48시간이 지나 발생하는 열은 예방접종 열이 아닐 가능성이 큽니다. 소아청소년과나 응급실을 방문하는 것이 좋습니다. 병원이나 응급실을 다녀오셨다면 해열제를 먹이고 지켜볼 수 있습니다.</string>
+    <string name="MM_26">예방접종 후 48시간이 지나 발생하는 고열은 예방접종 열이 아닐 가능성이 큽니다. 소아청소년과나 응급실을 방문하는 것이 좋습니다. 병원이나 응급실을 다녀오셨다면 해열제를 먹이고 지켜볼 수 있습니다.</string>
+    <string name="MM_27">예방접종 후 48시간이 지나 발생하는 40도 이상 고열은 예방접종 열이 아닐 가능성이 큽니다. 소아청소년과나 응급실을 방문하는 것이 좋습니다. 병원이나 응급실을 다녀오셨다면 해열제를 먹이고 지켜볼 수 있습니다.</string>
+    <string name="MM_3">120일 이하의 신생아는 38도 이상의 열이 날 경우 신생아 패혈증의 가능성이 있으므로 병원이나 응급실을 방문하는 것이 좋습니다.</string>
+    <string name="MM_4">이 시기의 고열은 신생아 패혈증의 가능성이 있으므로 즉시 병원이나 응급실을 방문하는 것이 좋습니다.</string>
+    <string name="MM_5">일시적으로 환경이 더워서 잘못 측정된 것일 수 있으니, 겉옷을 벗기고, 이불을 걷은 뒤 시원한 환경을 만들고 다시 체크해주세요.</string>
+    <string name="MM_6">병원 또는 응급실을 방문하는 것이 좋습니다.</string>
+    <string name="MM_7">정상 체온의 기준은 겨드랑이 체온 기준으로 36.9도, 고막 체온 기준으로 37.4 도 까지입니다. 정상 체온이므로 특별한 조치가 필요하지 않습니다.</string>
+    <string name="MM_8">따뜻한 내복을 입히시고, 얇은 이불을 덮어주시거나 따뜻한 물을 먹이신 후 지켜보실 수 있습니다.</string>
+    <string name="MM_9">손발이나 입술이 파랗게 되는 청색증을 보이는 경우 응급실에 가주세요. 그렇지 않으면 따뜻한 내복을 입히시고, 얇은 이불을 덮어주시고, 따뜻한 물을 먹이실 수 있습니다.</string>
+    <string name="NS_1">1시간 뒤 다시 체온을 체크해주세요. 해열제 복용 여부에 따라 시간이 바뀔 수 있으니, 다음 알람을 참고해주세요.</string>
+    <string name="NS_10">30분 뒤에 다시 측정해주세요.</string>
+    <string name="NS_11">1시간 뒤 다시 체온을 측정해주세요.</string>
+    <string name="NS_12">상태를 지켜보는 것이 좋습니다. 다음 알람을 참고해주세요.</string>
+    <string name="NS_2">1시간 뒤 체온을 측정하세요. 해열제 복용 여부에 따라 시간이 바뀔 수 있으니, 다음 알람을 참고해주세요.</string>
+    <string name="NS_3">2시간 뒤 다시 체온을 체크해주세요. 해열제 복용 여부에 따라 시간이 바뀔 수 있으니, 다음 알람을 참고해주세요.</string>
+    <string name="NS_4">해열제를 먹이는 경우 2시간 뒤 체온을 측정해주세요. 해열제 복용 여부에 따라 시간이 바뀔 수 있으니, 다음 알람을 참고해주세요.</string>
+    <string name="NS_5">다시 열이 날 수 있으므로 [h]시간 뒤 열을 체크하시기 바랍니다. 해열제 복용 여부에 따라 시간이 바뀔 수 있으니, 다음 알람을 참고해주세요.</string>
+    <string name="NS_6">다시 열이 오를 수 있으므로 2시간 뒤 체온을 측정하세요. 해열제 복용 여부에 따라 시간이 바뀔 수 있으니, 다음 알람을 참고해주세요.</string>
+    <string name="NS_7">다시 열이 오를 수 있으므로 1시간 뒤 체온을 측정하세요. 해열제 복용 여부에 따라 시간이 바뀔 수 있으니, 다음 알람을 참고해주세요.</string>
+    <string name="NS_8">해열제를 먹이는 경우 2시간 뒤 체온을 측정하시고, 먹이지 않는 경우는 1시간 뒤 체온을 측정하세요. 복용 여부에 따라 시간이 바뀔 수 있으니, 다음 알람을 참고해주세요.</string>
+    <string name="NS_9">해열제를 먹이지 않는 경우 1시간 뒤 체온을 측정해주시고, 해열제를 먹이는 경우 2시간 뒤 측정해주세요. 해열제 복용 여부에 따라 시간이 바뀔 수 있으니, 다음 알람을 참고해주세요.</string>
+    <string name="NullFever">수집된 체온이 없으므로 저장하지 않고 중단합니다.</string>
+    <string name="NumberFormatException">오류로 인해 이용에 불편을 드려 정말 죄송합니다. 타임라인 메뉴로 가셔서 해당 레포트를 삭제 후 다시 체온을 측정 또는 수정하여 새로운 레포트를 받으시기 바랍니다.</string>
+    <string name="NumberFormatException_history">데이터에 오류가 있습니다. 삭제 후 체온을 재 측정 해주세요.</string>
+    <string name="RDK_1">"타이레놀(아세트아미노펜)계열만 사용하고 부루펜(이부프로펜 또는 덱시부로펜)계열은 사용하지 않습니다.
+적정 용량은 [X]cc입니다."</string>
+    <string name="RDK_2">"타이레놀(아세트아미노펜)계열과 부루펜(이부프로펜 또는 덱시부로펜)계열을 모두 사용할 수 있습니다.
+적정 용량은 [X]cc입니다."</string>
+    <string name="RDK_3">하루 복용 허용치를 넘었습니다. 오늘은 더 이상 해열제를 먹이지 마세요.</string>
+    <string name="RDK_4">"타이레놀(아세트아미노펜)계열 해열제의 하루 허용량을 초과하였습니다. 의사의 처방이 있는 경우에만 추가 복용이 가능합니다.
+부루펜(이부프로펜 또는 덱시부프로펜)계열 해열제만 먹이실 수 있습니다. 12시가 넘으면 모든 해열제를 다시 복용 하실 수 있습니다.
+적정 용량은 [X]cc입니다."</string>
+    <string name="RDK_5">"부루펜(이부프로펜 또는 덱시부프로펜)계열 해열제의 하루 허용량을 초과하였습니다. 의사의 처방이 있는 경우에만 추가 복용이 가능합니다.
+타이레놀(아세트아미노펜)계열 해열제만 먹이실 수 있습니다. 12시가 넘으면 모든 해열제를 다시 복용 하실 수 있습니다.
+적정 용량은 [X]cc입니다."</string>
+    <string name="RDK_INFO_1">"* 아세트아미노펜 계열: 타이레놀, 세토펜, 챔프, 타노펜 등
+
+* 사용 불가
+- 이부프로펜 계열: 부루펜, 캐롤, 그린펜, 대웅이부펜 등
+- 덱시부프로펜 계열: 맥시부펜, 덱시부케이, 덱시푸루펜, 키즈부펜 등
+
+* 알약, 좌약 용량
+- 타이레놀 80mg 한 정은 시럽 2.5cc에 해당
+- 서스펜 좌약 125mg 한 정은 시럽 4cc에 해당"</string>
+    <string name="RDK_INFO_2">"* 아세트아미노펜 계열: 타이레놀, 세토펜, 챔프, 타노펜 등
+* 이부프로펜 계열: 부루펜, 캐롤, 그린펜, 대웅이부펜 등
+* 덱시부프로펜 계열: 맥시부펜, 덱시부케이, 덱시푸루펜, 키즈부펜 등
+
+* 알약, 좌약 용량
+- 타이레놀 80mg 한 정은 시럽 2.5cc에 해당
+- 서스펜 좌약 125mg 한 정은 시럽 4cc에 해당"</string>
+    <string name="RDYN_0">해열제는 먹이지 않습니다.</string>
+    <string name="RDYN_1">미열인 상태에서는 해열제를 먹이지 않아도 됩니다. 아이가 경련 경력이 있다면 미열에서도 해열제를 먹일 수 있습니다.</string>
+    <string name="RDYN_10">해열제의 효과가 충분치 않은 것일 수 있습니다.</string>
+    <string name="RDYN_11">해열제의 용량이나 효과가 충분치 않을 수 있습니다.</string>
+    <string name="RDYN_12">해열제의 효과는 어느 정도 나타나는 것으로 보입니다. 아이가 잘 자거나 잘 논다면 해열제 추가 복용은 하지 않아도 됩니다.</string>
+    <string name="RDYN_13">해열제를 먹인 후 20분 이내에 구토가 있었다면 다시 한번 먹이시는 것이 좋습니다.</string>
+    <string name="RDYN_14">해열제를 한번 더 먹일 수 있습니다.</string>
+    <string name="RDYN_15">해열제를 한번 더 먹이시는 것이 좋습니다.</string>
+    <string name="RDYN_16">해열제 추가복용이 가능합니다.</string>
+    <string name="RDYN_17">아이의 컨디션이 좋지 않다면, 해열제를 추가로 먹일 수 있습니다.</string>
+    <string name="RDYN_18">아이가 처지거나 힘들어하면 해열제를 먹일 수 있습니다.</string>
+    <string name="RDYN_19">해열제의 효과가 충분치 않은 것일 수 있습니다. 아이가 잘 놀고 컨디션이 괜찮다면 지켜보실 수 있습니다. 추가복용이 가능합니다.</string>
+    <string name="RDYN_2">아이가 잘자고 있거나 잘 놀고 있다면 지켜볼 수 있습니다.</string>
+    <string name="RDYN_20">해열제의 효과가 충분치 않은 것일 수 있습니다. 아이가 잘 놀고 컨디션이 괜찮다면 지켜보실 수 있습니다. 한 번 더 먹이시는 것이 좋습니다.</string>
+    <string name="RDYN_21">아이가 힘들어하거나 처지는 경우는 해열제를 먹이시는 것이 좋습니다.</string>
+    <string name="RDYN_22">해열제의 효과가 충분치 않은 것일 수 있습니다. 아이가 잘 놀고 컨디션이 괜찮다면 지켜보실 수 있습니다.</string>
+    <string name="RDYN_23">해열제의 효과는 어느 정도 나타나는 것으로 보입니다. 아이가 잘 자거나 잘 논다면 추가 복용은 하지 않아도 됩니다. 아이가 처지거나 힘들어하면 한 번 더 먹일 수 있습니다.</string>
+    <string name="RDYN_24">아이가 힘들어하거나 처지는 경우는 해열제를 먹이시는 것이 좋습니다.</string>
+    <string name="RDYN_25">해열제의 용량이나 효과가 충분치 않을 수 있습니다. 해열제를 먹인 후 20분 이내에 구토가 있었다면 다시 한번 먹이시는 것이 좋습니다.</string>
+    <string name="RDYN_26">해열제를 먹인지 2시간이 되지 않았으므로 지켜보는 것이 좋습니다. 해열제를 먹이고 20분 이내에 구토가 있었다면 다시 한번 먹이시는 것이 좋습니다.</string>
+    <string name="RDYN_27">해열제의 효과가 충분히 나타나지 않는 것으로 보입니다. 한번 더 먹이시는 것이 좋습니다.</string>
+    <string name="RDYN_28">해열제의 효과가 충분치 않은 것일 수 있습니다. 아이가 잘 자거나 잘 논다면 해열제 추가 복용은 하지 않아도 됩니다. 아이가 처지거나 힘들어하면 해열제를 한 번 더 먹일 수 있습니다.</string>
+    <string name="RDYN_29">해열제의 효과는 어느 정도 나타나는 것으로 보이지만, 아직 열이 지속되고 있으므로 해열제 복용을 권장합니다.</string>
+    <string name="RDYN_3">아이가 잘 자거나 잘 논다면 해열제 추가 복용은 하지 않아도 됩니다.</string>
+    <string name="RDYN_30">병원 또는 응급실을 방문하지 않으실 경우, 해열제를 먹이시는 것이 좋습니다.</string>
+    <string name="RDYN_31">해열제를 더 이상 먹이지 않으셔도 됩니다.</string>
+    <string name="RDYN_32">열성경련 이력이 있을 경우, 미열이더라도 해열제를 먹일 수 있습니다.</string>
+    <string name="RDYN_33">120일 미만의 아이의 경우 해열제를 먹이지 않는 것이 좋지만, 예방접종 후 발열 또는 병원 처방에 따라 해열제를 먹이실 수 있습니다.</string>
+    <string name="RDYN_4">해열제를 먹일 수 있습니다.</string>
+    <string name="RDYN_5">아이가 처지거나 힘들어하면 해열제를 먹일 수 있습니다.</string>
+    <string name="RDYN_6">아이가 잘 놀거나 잘 자면 지켜보시고, 아이가 힘들어하면 해열제를 먹이시는 것이 좋습니다.</string>
+    <string name="RDYN_7">아이가 처지거나 힘들어하면 해열제를 한 번 더 먹일 수 있습니다.</string>
+    <string name="RDYN_8">해열제를 먹인지 2시간이 되지 않았으므로 지켜보는 것이 좋습니다.</string>
+    <string name="RDYN_9">해열제의 효과가 충분히 나타나지 않는 것으로 보입니다.</string>
+    <string name="StartMeasure">체온 수집을 시작합니다.</string>
+    <string name="StopMeasure">체온 수집을 중단합니다.</string>
+    <string name="URL_APP_API">https://fevermanager.com/api/feverAPI.php</string>
+    <string name="URL_APP_STORE">market://details?id=com.appmd.fever</string>
+    <string name="URL_COLUMN_1">http://mobiledoc.dothome.co.kr/xe/board_TjJB74</string>
+    <string name="URL_COLUMN_2">https://m.cafe.naver.com/ArticleList.nhn?search.clubid=29103428&amp;search.menuid=11&amp;search.boardtype=L</string>
+    <string name="URL_COLUMN_3">https://m.cafe.naver.com/ArticleList.nhn?search.clubid=29103428&amp;search.menuid=12&amp;search.boardtype=L</string>
+    <string name="URL_COLUMN_4">https://m.cafe.naver.com/ArticleList.nhn?search.clubid=29103428&amp;search.menuid=13&amp;search.boardtype=L</string>
+    <string name="URL_DIAGNOSIS">https://fevermanager.com/api/new_diagnosis.php</string>
+    <string name="WM_1">아이가 힘들어하면 미지근한 물로 얼굴과 목, 가슴, 겨드랑이를 닦아주시기 바랍니다. 해열제를 먹이시는 경우, 반드시 30분 지난 후에 닦아주셔야 합니다.</string>
+    <string name="WM_2">해열제를 먹이지 않으시려면 미지근한 물로 얼굴과 목, 가슴을 닦아주시기 바랍니다.</string>
+    <string name="WM_3">해열제를 먹이지 않는 경우, 미온수로 아이의 얼굴과 몸을 닦아 줄 수 있습니다.</string>
+    <string name="WM_4">해열제 복용 후 30분이 지난 뒤에도 열이 떨어지지 않는다면, 해열제 효과가 나타날 때까지 미온수로 아이의 얼굴, 겨드랑이와 몸을 닦아줄 수 있습니다.</string>
+    <string name="WM_5">아이가 힘들어하면 미지근한 물로 얼굴과 목, 가슴, 겨드랑이를 닦아주시기 바랍니다.</string>
+    <string name="a_b_influenza">A형, B형 복합</string>
+    <string name="a_influenza">A형 독감</string>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="acetaminophen">아세트아미노펜</string>
+    <string name="acetaminophen_list_1">타이레놀, 세토펜, 챔프, 타노펜 등</string>
+    <string name="acetaminophen_list_2">세토펜</string>
+    <string name="acetaminophen_type">아세트아미노펜 계열</string>
+    <string name="afternoon">  오후</string>
+    <string name="agree">동의합니다.</string>
+    <string name="agree_please">약관에 동의해주세요.</string>
+    <string name="alarm_count_msg">"체온 측정 알람이 울리는 횟수 설정입니다.
+체온 입력 시 1시간 뒤, 해열제 입력 시 2시간 뒤에 울리며, 그 후 5분 뒤, 15분 뒤에 한번 씩 더 울려 총 3회 울립니다."</string>
+    <string name="alarm_count_setting">알람 횟수</string>
+    <string name="alarm_fever_over">체온계를 착용한 아이의 체온이 [fever]℃ 를 넘겼습니다.</string>
+    <string name="alarm_setting">알람설정</string>
+    <string name="all_cancel_alarm">"체온 측정, 해열제 알림을 취소합니다.
+병원에 다녀오셨거나, 오류가 있는 경우에만 사용을 권장합니다.
+[name]의 알림을 모두 취소하시겠습니까?"</string>
+    <string name="all_cancel_complete">[name]의 알림을 모두 취소하였습니다.</string>
+    <string name="already_ble">이미 해당 기기와 연결 중입니다.</string>
+    <string name="alret_fever_2h">[name]의 체온을 측정해주세요.</string>
+    <string name="alret_over_m">"아직 체온을 측정하지 않으셨네요.
+[name]의 체온을 측정해주세요."</string>
+    <string name="alret_reducer_1h">"[name]에게 해열제를 먹인지 1시간이 지났습니다.
+열이 38.5℃ 이상일 경우 미온수 마사지를 해주시는 것을 고려해주세요."</string>
+    <string name="alret_reducer_2h">"[name]에게 해열제를 먹이고 2시간이 지났습니다.
+[name]의 체온을 측정해주세요."</string>
+    <string name="antibiotic">항생제/항바이러스제</string>
+    <string name="antibiotic_guide">"주치의 선생님께 처방받으신
+횟수대로 먹이시고, 체크해주세요."</string>
+    <string name="app_name">열나요</string>
+    <string name="app_version">버전정보</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="appetite_lv_1">정상 수준 식욕</string>
+    <string name="appetite_lv_2">90% 수준 식욕</string>
+    <string name="appetite_lv_3" formatted="false">90% ~ 70% 수준 식욕</string>
+    <string name="appetite_lv_4" formatted="false">70% ~ 50% 수준 식욕</string>
+    <string name="appetite_lv_5">50% 미만 수준 식욕</string>
+    <string name="appid">com.appmd.fever</string>
+    <string name="armpit">겨드랑이</string>
+    <string name="auto_login">자동 로그인</string>
+    <string name="b_influenza">B형 독감</string>
+    <string name="baby_info">아 이 관 리</string>
+    <string name="baby_info_menu">아이관리</string>
+    <string name="baby_not_10">"아이는 10명까지 추가가 됩니다.
+
+현재 저장된 아이가 10명이므로 추가를 원하시면 다른 아이를 삭제 후 다시 시도해주십시오."</string>
+    <string name="baby_temp">아기 체온(℃)</string>
+    <string name="before_test_mode_1">테스트 모드 활성화 3회 전</string>
+    <string name="before_test_mode_2">테스트 모드 활성화 2회 전</string>
+    <string name="before_test_mode_3">테스트 모드 활성화 1회 전</string>
+    <string name="birth">생    일</string>
+    <string name="birth_hint">생년월일을 입력해주세요.</string>
+    <string name="ble_lost">블루투스 장치의 연결이 끊켰습니다. 장치와 스마트폰의 연결을 확인해주세요.</string>
+    <string name="ble_not_supported">베터리 부족으로 인해 검색에 실패했습니다.</string>
+    <string name="bluetoothproString">블루투스 사용 체크를 해주십시오.</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="cafe_url">fevercoach</string>
+    <string name="camera_selete_error">카메라 선택 모듈 오류</string>
+    <string name="cancel">취    소</string>
+    <string name="cant_delete">아이가 1명 이하일 때는 삭제하실 수 없습니다.</string>
+    <string name="change_regular_member">일반 회원으로 전환</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="check_baby_weight">아이의 몸무게가 정상적으로 기록되어 있는지 확인해주세요.</string>
+    <string name="check_convulsion_1">"열성경련은 생후 6개월 이상부터 나타나는 증상입니다.
+생년월일 입력 후 다시 체크 부탁드립니다."</string>
+    <string name="check_convulsion_2">"열성경련은 생후 6개월 이상부터 나타나는 증상입니다.
+6개월 이전의 아이는 체크하실 수 없습니다."</string>
+    <string name="check_data_1">"계정 동기화 최종 확인
+
+"</string>
+    <string name="check_data_2">"- 새로 추가 되는 정보
+"</string>
+    <string name="check_data_3">"- 변경 사항 없는 정보
+"</string>
+    <string name="check_data_4">"- 통합 되는 아기
+"</string>
+    <string name="check_data_5">"   \"[name]\", [gender], 생일 : [birth] "</string>
+    <string name="check_data_6">"   \"[name1]\", [gender1], 생일 : [birth1] 는
+ \"[name2]\", [gender2], 생일 : [birth2] 로 통합
+"</string>
+    <string name="check_data_7">"- 계정 동기화 결과 최종 아이 정보
+[names]
+총 [cnt] 명
+
+확인을 누르시면 동기화가 진행됩니다."</string>
+    <string name="check_network">조언을 드리려면 인터넷 연결이 필요합니다. 통신망 또는 와이파이 연결을 확인해주세요.</string>
+    <string name="clause_title">개인정보 및 위치정보 이용 동의</string>
+    <string name="close">닫    기</string>
+    <string name="cnt_1">1 번만 받기</string>
+    <string name="cnt_2">2 번만 받기</string>
+    <string name="cnt_3">3 번 모두 받기</string>
+    <string name="column_1">"안샘's
+노하우"</string>
+    <string name="column_2">"해열제
+복용법"</string>
+    <string name="column_3">"열 관련
+질환"</string>
+    <string name="column_4">열 관리 Tip</string>
+    <string name="com.crashlytics.android.build_id">8c06d1cb-dc5e-4c66-93f8-3395dfb04d15</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play services availability</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="community_menu">커뮤니티</string>
+    <string name="connent_device">연 결 하 기</string>
+    <string name="conneted">연결됨..</string>
+    <string name="create_report">종합 레포트 생성</string>
+    <string name="crop_image_activity_no_permissions">Cancelling, required permissions are not granted</string>
+    <string name="crop_image_activity_title" />
+    <string name="crop_image_menu_crop">Crop</string>
+    <string name="crop_image_menu_flip">Flip</string>
+    <string name="crop_image_menu_flip_horizontally">Flip horizontally</string>
+    <string name="crop_image_menu_flip_vertically">Flip vertically</string>
+    <string name="crop_image_menu_rotate_left">Rotate counter clockwise</string>
+    <string name="crop_image_menu_rotate_right">Rotate</string>
+    <string name="cross_reducer_warning_1">"4시간 이내에 아세트아미노펜 계열 해열제를 복용한 이력이 있습니다.
+
+동일 해열제를 연속해서 복용하면 위험하니 이부프로펜 또는 덱시부프로펜 계열 해열제 사용을 고려해주십시오.
+
+하루 허용량이 [n]cc 밖에 남지 않았습니다.
+
+정말 먹이시겠습니까?"</string>
+    <string name="cross_reducer_warning_2">"4시간 이내에 이부프로펜 또는 덱시부프로펜 계열 해열제를 복용한 이력이 있습니다.
+
+동일 해열제를 연속해서 복용하면 위험하니 아세트아미노펜 계열 해열제 사용을 고려해주십시오.
+
+하루 허용량이 [n]cc 밖에 남지 않았습니다.
+
+정말 먹이시겠습니까?"</string>
+    <string name="cur_pass">현재 비밀번호</string>
+    <string name="dawn">  새벽</string>
+    <string name="db_backup">데이터 백업</string>
+    <string name="db_backup_failed">데이터 백업을 실패하였습니다.</string>
+    <string name="db_backup_success">"데이터 백업을 성공하였습니다. [path] 위치에 저장되었습니다.
+타 디바이스에서 복원을 원하실 경우 파일을 해당 기기의 동일 폴더로 옮기신 후 데이터 복원 기능을 실행시켜 주세요."</string>
+    <string name="db_export">데이터 내보내기</string>
+    <string name="db_export_warning">"공유 시 메일을 이용하시는 것을 권장드립니다.
+카카오톡 등의 메신저에서는 전송 파일의 확장자 제한으로 인해 정상적으로 동작하지 않습니다."</string>
+    <string name="db_import_failed">데이터 복원을 실패하였습니다.</string>
+    <string name="db_import_success">데이터 복원을 성공하였습니다. 앱을 재실행해야 적용됩니다. 꼭 바로 앱을 재실행 시켜주십시오.</string>
+    <string name="db_not_backup_file">백업해둔 파일이 없습니다. 데이터 백업 기능을 먼저 실행하신 뒤 데이터 복원을 진행해주세요.</string>
+    <string name="db_restore">데이터 복원</string>
+    <string name="db_restore_warning">"복원을 진행하게 되면 현재 앱의 데이터가 모두 삭제되고 [date] 자로 백업해둔 데이터로 백업됩니다.
+계속 진행하시겠습니까?"</string>
+    <string name="decsybuprofen_list">맥시부펜, 코프란스 시럽, 덱시부르펜 등</string>
+    <string name="decsybuprofen_type">덱시부프로펜 또는 프라노프로펜 계열</string>
+    <string name="default_web_client_id">222730161729-kfcdookle7lve0f4odqjhqjcg0pgdo7v.apps.googleusercontent.com</string>
+    <string name="dehydration">수분 섭취량 계산</string>
+    <string name="delete">삭    제</string>
+    <string name="delete_baby">정 보 삭 제</string>
+    <string name="device">디바이스 :</string>
+    <string name="device_alarm_fever">알람온도</string>
+    <string name="device_info">체 온 계 관 리</string>
+    <string name="device_scan">디바이스 검색</string>
+    <string name="device_sensing_gaps">측정간격</string>
+    <string name="dexibuprofen">덱시부프로펜</string>
+    <string name="diagnosis">진단명</string>
+    <string name="diagnosis_1">기관지염_1</string>
+    <string name="diagnosis_10">구내염(헤르페안지나)_10</string>
+    <string name="diagnosis_11">구협염_11</string>
+    <string name="diagnosis_12">수족구_12</string>
+    <string name="diagnosis_13">장염/식중독_13</string>
+    <string name="diagnosis_14">뇌수막염_14</string>
+    <string name="diagnosis_15">중이염_15</string>
+    <string name="diagnosis_16">요로감염_16</string>
+    <string name="diagnosis_17">볼거리_17</string>
+    <string name="diagnosis_18">성홍열_18</string>
+    <string name="diagnosis_19">수두_19</string>
+    <string name="diagnosis_2">(모)세기관지염_2</string>
+    <string name="diagnosis_20">홍역_20</string>
+    <string name="diagnosis_21">돌발진_21</string>
+    <string name="diagnosis_22">진단명 미확정_22</string>
+    <string name="diagnosis_23">기타_23</string>
+    <string name="diagnosis_3">폐렴_3</string>
+    <string name="diagnosis_4">아데노 바이러스 감염_4</string>
+    <string name="diagnosis_5">후두염/크룹_5</string>
+    <string name="diagnosis_6">인두염/편도염_6</string>
+    <string name="diagnosis_7">열감기_7</string>
+    <string name="diagnosis_8">독감_8</string>
+    <string name="diagnosis_9">구내염(단순포진)_9</string>
+    <string name="diagnosis_is">진단명 :</string>
+    <string name="diagnosis_msg_1">"흔히 다른 감기 등의 호흡기 질환에 의해 이차적으로 발생합니다.
+
+원인 질환을 신속하게 치료하면 , 예방이 가능합니다.
+
+열이나 인후통으로 인한 식사량 감소 등은 3~5일 내에 좋아집니다. 기침은 2~3주 정도 지속될 수 있습니다."</string>
+    <string name="diagnosis_msg_10">"입안의 특징적인 병변으로 진단이 가능합니다. 먹지도 않고, 양치질도 안하려고 한다면 의심 해 볼 수 있습니다.
+
+아이가 먹는것을 많이 힘들어 하니 탈수를 조심해야 해요."</string>
+    <string name="diagnosis_msg_11">"바이러스가 원인이며, 목구멍에 특징적인 궤양이 생깁니다.
+
+바이러스 치료는 어려우며, 통증 치료를 주로 하게 됩니다.
+보통 1주일 정도 치료하면 호전됩니다.
+
+아이가 먹는것을 많이 힘들어 하니 탈수를 조심해야 해요."</string>
+    <string name="diagnosis_msg_12">"수족구 병은 바이러스에 의해 발생 하는 병으로 분변->경구를 통해 전파됩니다. 전염성이 강해요!
+
+손, 발에 발진이나 물집이 있으면 의사의 진단을 받으세요.
+
+입안에 물집이 있으면 먹는것을 힘들어합니다."</string>
+    <string name="diagnosis_msg_13">"바이러스나 세균에 의해 발생합니다.
+
+설사, 구토 증상이 동반되는경우가 흔합니다. 주로 식수나 음식물을 통해 감염되지만 다른 경로로 걸릴때도 있습니다.
+
+식사못함+설사로 생기는 탈수의 예방이 아주 중요합니다."</string>
+    <string name="diagnosis_msg_14">"뇌 수막염은 심한 고열, 경련, 의식저하 등 심각한 증상이 나타 날 수 있습니다. 심한 경우 후유증이 남아 기능이상이 생길 수 있습니다.
+
+열만 나거나 다른 증상이 경미할때는 다른 질환을 먼저 검사해보고 고려 할 수 있습니다.
+
+세균성의 경우 증상이 심하지만 항생제로 치료가능하고, 바이러스성의 경우에는 뇌 실질을 침범하지 않으면 대증 치료로 대부분 호전됩니다."</string>
+    <string name="diagnosis_msg_15">"세균에 의한것이 많습니다. 대부분 항생제 치료로 호전됩니다.
+
+아이가 귀를 계속 만지거나, 아파한다면 이경검사를 통해 진단 할 수 있습니다.
+
+심하지 않은 경우, 항생제 복용 후 1~2일정도면 증상이 좋아지지만, 치료가 완료되려면 1주일 넘게 걸리기도 합니다."</string>
+    <string name="diagnosis_msg_16">"열만 나는 경우도 많고, 설사나 구토같이 흔한 다른 증상이 동반 됩니다. 따라서 세균검사를 통해 진단해야 합니다.
+
+회음부 위생 관리, 충분한 수분 섭취 등 이 예방에 도움됩니다.
+
+항생제로 치료하게 되며, 특별한 합병증이 없다면 2주 정도 치료합니다."</string>
+    <string name="diagnosis_msg_17">"걸리게 되면 귀밑 침샘이 단단히 부어오릅니다.
+
+감염력이 강하므로 유치원에 보내시면 안돼요~
+예방접종으로 예방 가능하며, 보통 12개월에 접종합니다."</string>
+    <string name="diagnosis_msg_18">"인후염 이후에 주로 발생하며, 항생제로 치료됩니다.
+기침, 재채기 등으로 묻은 세균으로 감염됩니다.
+
+온몸에 붉은 발진이 생기며, 마치 여름에 탄것 같이 붉어집니다."</string>
+    <string name="diagnosis_msg_19">"열과 가려움을 동반하는 특징적인 피부병변이 나타납니다.
+(가운데 수포가 있는 전신의 붉은 병변)
+감염력이 매우 강하므로, 어린이집에 보내면 안되요~
+
+합병증을 막는것이 중요하므로 꼭 의사의 진료를 받으세요.
+
+예방접종으로 예방합니다. 보통 12개월에 접종합니다."</string>
+    <string name="diagnosis_msg_2">"기관지염처럼 다른 감기 등의 호흡기 질환에 의해 이차적으로 발생 할 수 있습니다.
+
+대부분 대증 치료로 호전되지만, 일부 심한경우에 호흡곤란과 청색증이 동반되어 입원치료를 하게됩니다.
+
+호흡곤란의 치료가 가장 중요합니다."</string>
+    <string name="diagnosis_msg_20">"늦겨울 및 봄에 많이 발생합니다.
+
+콧물, 충혈등의 증상 이후에 머리에서 몸통으로 나타나는 피부발진 으로 의심해 볼 수 있습니다.
+
+예방에는 예방접종이 중요하고, 보통 12개월때 한번, 4세때 한번 접종합니다."</string>
+    <string name="diagnosis_msg_21">"돌근처 (6~15개월) 에 발생합니다.
+3일정도 고열이 나게 되며, 후반에 열꽃(발진) 이 생깁니다.
+
+열에 대한 치료가 주가 되며, 대부분 합병증 없이 회복됩니다."</string>
+    <string name="diagnosis_msg_3">"바이러스나 세균에 의해 폐 실질에 염증이 생기는 병입니다.
+많은 경우 입원을 하게 됩니다.
+
+심한 기침, 40도가 넘는 고열, 하루종일 밥을 반도 못 먹거나, 심한 호흡곤란 등의 심한 증상이 있다면 반드시 의사의 진료를 받으세요."</string>
+    <string name="diagnosis_msg_4">"아데노 바이러스는 주로 더러운 물에 닿아 감염이 되지만, 접촉이나 비말로도 감염됩니다.
+
+감기 뿐만 아니라 장염, 결막염 등 많은 병의 원인이 됩니다.
+
+일반적으로 항 바이러스 치료를 하지 않고, 증상 별 치료를 하게 됩니다."</string>
+    <string name="diagnosis_msg_5">"컹컹거리는 특이한 기침소리가 중요한 특징입니다.
+다른 약한 증상이 1~2일 선행되는 경우가 흔하며, 쌕쌕 거리는 소리나 호흡곤란을 동반할 수 있습니다.
+
+호흡곤란의 정도 파악과 치료가 가장 중요합니다.
+
+호흡곤란, 점점 심해지는 천명음, 저산소증 등이 있으면 입원이 필요합니다."</string>
+    <string name="diagnosis_msg_6">"감기의 가장 흔한 형태입니다.
+일명 '목이 부었어요.'
+
+입에서 목구멍으로 넘어가는 부분(인두) 에 염증이 생긴 것이죠.
+기침때문에 감기 후에 2차적으로 발생하기도 합니다.
+
+편도염이 만성적이고 재발이 심하다면, 수술적 치료를 고려해 볼 수 있습니다."</string>
+    <string name="diagnosis_msg_7">"다른 감기과 달리 콧물, 기침 증상은 없거나 약하고, 열만 나는 것이 특징입니다.
+
+감기 바이러스를 치료하지 않으며, 열을 잘 관리하는 것이 중요합니다.
+40도가 넘는 고열이 해열 되지 않거나, 의식이 흐려지는 등 심한 증상이 있으면 전문의의 진료를 받아야 합니다."</string>
+    <string name="diagnosis_msg_8">"인플루엔자 바이러스에 의한 감염을 말합니다.
+
+증상이 심하며, 이를 막기 위해서는 예방접종과 손씻기가 가장 중요합니다, 예방접종은 우리아이 뿐만 아니라 아이들이 서로 전파 하는 것도 막아줍니다.
+
+확진 되었을 경우 의사의 지시에 따라 치료제를 복용해야합니다."</string>
+    <string name="diagnosis_msg_9">"입안의 특징적인 병변으로 진단이 가능합니다. 먹지도 않고, 양치질도 안하려고 한다면 의심 해 볼 수 있습니다.
+
+아이가 먹는것을 많이 힘들어 하니 탈수를 조심해야 해요."</string>
+    <string name="disconnect_ble_device">블루투스 장치의 연결이 종료되었습니다.</string>
+    <string name="discovered_device">검색된 장치</string>
+    <string name="don_null_antibiotic">항생제/항바이러스제를 먹이셨다면 체크해주세요.</string>
+    <string name="dont_null">"아이 정보를 공란으로 둘 수 없습니다.
+
+"</string>
+    <string name="dust_map">미세먼지 지도</string>
+    <string name="ear">귀</string>
+    <string name="eat_antibiotic">항생제/항바이러스제를 먹였습니다</string>
+    <string name="edit_report">종합 레포트 수정</string>
+    <string name="email">이 메 일</string>
+    <string name="email_overlap">해당 이메일로 이미 가입된 이력이 있습니다.</string>
+    <string name="emergency_fever">응급! 바로 병원으로 가세요.</string>
+    <string name="empty_pass">비밀번호를 입력해주세요.</string>
+    <string name="end">정말 종료하시겠습니까?</string>
+    <string name="enroll_ble_device">블루투스 장치가 연결되었습니다.</string>
+    <string name="error_msg_1">유행 질병 데이터가 정상적으로 호출되지 못했습니다. 네트워크를 확인 후 앱을 재실행 해주세요.</string>
+    <string name="error_msg_2">유행 질병 데이터를 로딩중입니다. 잠시 후에 다시 시도해주세요. 만약 계속 이 메세지가 호출되시면 앱을 재실행 해주세요.</string>
+    <string name="error_report">오류신고</string>
+    <string name="evening">  저녁</string>
+    <string name="excess">초과</string>
+    <string name="exist">  있음</string>
+    <string name="fail_capture">캡쳐에 실패하였습니다.</string>
+    <string name="fail_connect_ble_device">블루투스 장치 연결에 실패했습니다.</string>
+    <string name="fail_sand_email">이메일 전송에 실패하였습니다. 이메일 계정을 확인해주세요.</string>
+    <string name="fast_login">게스트로 시작</string>
+    <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
+    <string name="febrile_convulsion">열성경련 이력이 있어요</string>
+    <string name="febrile_convulsion_baby">열성경련 경험이 있습니다.</string>
+    <string name="female">여자</string>
+    <string name="fever_array_2hour">최근 2시간 평균 체온 :</string>
+    <string name="fever_guide">체온 측정 방법</string>
+    <string name="fever_info_menu">소아 건강 정보</string>
+    <string name="fever_lv_0">저체온나요</string>
+    <string name="fever_lv_1">열안나요</string>
+    <string name="fever_lv_2">미열나요</string>
+    <string name="fever_lv_3">열나요</string>
+    <string name="fever_lv_4">고열나요</string>
+    <string name="fever_lv_5">응급이에요</string>
+    <string name="fever_lv_re">재측정해주세요</string>
+    <string name="fever_map_menu">열나요 지도</string>
+    <string name="fever_measurement">열나요가 알려드려요!</string>
+    <string name="filter_all">전체보기</string>
+    <string name="filter_antibiotic">항생제/항바이러스제</string>
+    <string name="filter_diagnosis">병원 다녀온 뒤</string>
+    <string name="filter_fever">체온</string>
+    <string name="filter_memo">오늘의 기록</string>
+    <string name="filter_reducer">해열제</string>
+    <string name="filter_report">상태 보고서</string>
+    <string name="filter_symptom">증상</string>
+    <string name="filter_vaccination">예방접종</string>
+    <string name="find_id">아이디 찾기</string>
+    <string name="finish_count">체온 측정이 완료되었습니다. 체온계를 확인하세요!</string>
+    <string name="firebase_database_url">https://animated-zenith-98501.firebaseio.com</string>
+    <string name="forehead">이       마</string>
+    <string name="frequency">빈도순</string>
+    <string name="gaps_0">선택해주세요</string>
+    <string name="gaps_1200">20분</string>
+    <string name="gaps_1800">30분</string>
+    <string name="gaps_300">5분</string>
+    <string name="gaps_3600">1시간</string>
+    <string name="gaps_60">1분</string>
+    <string name="gaps_600">10분</string>
+    <string name="gaps_7200">2시간</string>
+    <string name="gcm_defaultSenderId">222730161729</string>
+    <string name="gender">성    별</string>
+    <string name="gender_hint">성별을 선택해주세요.</string>
+    <string name="go_to_app">열나요 앱 실행</string>
+    <string name="google_api_key">AIzaSyDd2QCsvmFFm6XgiVEawlTCth6Fj307R1U</string>
+    <string name="google_app_id">1:222730161729:android:169844862d0398b6</string>
+    <string name="google_crash_reporting_api_key">AIzaSyDd2QCsvmFFm6XgiVEawlTCth6Fj307R1U</string>
+    <string name="google_maps_key">AIzaSyDd2QCsvmFFm6XgiVEawlTCth6Fj307R1U</string>
+    <string name="google_storage_bucket">animated-zenith-98501.appspot.com</string>
+    <string name="goto_market">새로운 버전 업데이트를 위해 구글 스토어로 이동하시겠습니까?</string>
+    <string name="gps_check">GPS 사용설정 확인</string>
+    <string name="gps_check_txt">"GPS 사용 설정이 되어있지 않습니다.
+미세먼지 지도 서비스를 이용하시기 위해서는 GPS 사용설정을 하셔야 합니다.
+설정 페이지로 가시겠습니까?"</string>
+    <string name="graph">그래프</string>
+    <string name="guest_clause_1">"아래 약관에 동의하시면 바로 열나요 이용이 가능합니다.
+
+열나요 기본 기능인 열 관리 해열제 관리 등에 필수적인 개인정보 (아이의 생년월일, 성별, 몸무게 등), 민감정보 (체온, 해열제, 증상, 병원이력, 예방접종 이력 등) 사용에 동의해주셔야 합니다.
+
+게스트 계정은 기본적인 기능 이외에, 유행주의보, 열지도, 소아건강정보 등 최신 트렌드 컨텐츠 이용에 제한을 받습니다.
+
+일반 회원으로 전환을 원하시는 경우, [설정 - 일반 회원으로 전환] 항목에서 가입하시면 됩니다.
+"</string>
+    <string name="guest_clause_2">게스트 계정은 앱 삭제, 로그아웃, 기기 변경 시 데이터가 보존되지 않습니다.</string>
+    <string name="guide_armpit_1">"땀을 먼저 닦아주세요.
+겨드랑이에 센서부위를 넣고
+5분 동안 움직이지 마세요."</string>
+    <string name="guide_armpit_2">* 가장 권장되는 측정법입니다.</string>
+    <string name="guide_ear">"고막에 센서가 일직선이 되도록
+귓볼을 뒤쪽 아래 방향으로
+가볍게 당기면서 재주세요.
+2~3초 가량 소요됩니다."</string>
+    <string name="guide_fever">"1시간 이내에 측정한 체온이 있어야
+정확한 알람을 제공해 드릴 수 있습니다."</string>
+    <string name="guide_forehead">"눈썹위에서 관자놀이 쪽으로
+2~3cm부위에 놓고 비프음이
+날 때 까지 유지해 주세요.
+땀이 난다면, 귓볼 뒷 부위를
+측정해주세요."</string>
+    <string name="guide_home_1">"우리 아이 건강관리의 첫걸음!
+체온 기록부터 시작하세요."</string>
+    <string name="guide_home_2">"해열제의 종류, 먹인 시간, 용량
+그리고 아이의 중상에 따라
+맞춤 안내를 드립니다."</string>
+    <string name="guide_mouth_1">"혀 밑에 놓고 코로 숨쉬게 해주세요.
+체온 재기 15분 전에는 차갑거나
+뜨거운 물은 주지 마세요."</string>
+    <string name="guide_mouth_2">"* 3살 이상만 권장합니다.
+* 수은 체온계는 피해주세요."</string>
+    <string name="guide_reducer">"* 해열제의 종류, 시간, 용량에 따라
+맞춤 안내해 드립니다."</string>
+    <string name="help_msg_find_id">"가입 시 입력하신 이메일을 입력해주세요.
+이메일과 일치하는 아이디를 찾아드립니다."</string>
+    <string name="help_msg_reset_pass">"아이디와 가입 시 입력하신 이메일을 입력하시면
+해당 이메일로 임시로 초기화 된 비밀번호를 전송해드립니다.
+
+초기화 된 비밀번호로 로그인 뒤,
+[설정 - 로그인 정보 수정] 에서 비밀번호를 변경하세요."</string>
+    <string name="history">히 스 토 리</string>
+    <string name="history_menu">히스토리</string>
+    <string name="home_menu">열나요 홈</string>
+    <string name="home_title">열 나 요</string>
+    <string name="hour">시</string>
+    <string name="how_appetite">평상시대비 식욕은 어떤가요?</string>
+    <string name="how_eat">얼마나 먹였나요</string>
+    <string name="how_many_fever">아이의 열이 몇도인가요</string>
+    <string name="how_meal">식사는 어떻게 먹이시나요?</string>
+    <string name="ibuprofen">이부프로펜</string>
+    <string name="ibuprofen_decsybuprofen">"이부프로펜
+덱시부프로펜"</string>
+    <string name="ibuprofen_list_1">부루펜, 캐롤, 맥펜, 대웅이부펜 등</string>
+    <string name="ibuprofen_list_2">부루펜</string>
+    <string name="ibuprofen_or_dexibuprofen">이부프로펜 / 덱시부프로펜</string>
+    <string name="ibuprofen_type">이부프로펜 계열</string>
+    <string name="id">아 이 디</string>
+    <string name="id_overlap">이미 사용중인 아이디 입니다.</string>
+    <string name="img_change_fail">이미지 변환에 실패하였습니다.</string>
+    <string name="impossible_restore">"아이의 데이터를 삭제하실 경우 복구가 불가능합니다.
+
+정말 삭제하시겠습니까?"</string>
+    <string name="increase">증가순</string>
+    <string name="influenza_type">독감유형</string>
+    <string name="influenza_vaccine">독감 예방 접종 이력</string>
+    <string name="info_location">위치정보</string>
+    <string name="inject_manual">"
+(자세한 주의사항은 투약 설명서를 참고하세요.)"</string>
+    <string name="input_alarm_fever">알람이 울릴 체온을 입력해주세요.</string>
+    <string name="input_all_data">장치이름, 측정간격, 알람온도를 모두 입력해주세요.</string>
+    <string name="input_baby">아이를 등록해주세요.</string>
+    <string name="input_cur_pass">현재 비밀번호를 입력하세요.</string>
+    <string name="input_diagnosis">진단명을 입력해주세요.</string>
+    <string name="input_email">이메일을 입력하세요</string>
+    <string name="input_fever">체온을 입력하세요</string>
+    <string name="input_fever_popup">체 온 입 력</string>
+    <string name="input_fever_temp_popup">아이의 체온을 입력해주세요</string>
+    <string name="input_id">아이디를 입력하세요</string>
+    <string name="input_info">아래 항목을 입력해 주세요</string>
+    <string name="input_memo">메모입력</string>
+    <string name="input_new_pass">변경할 비밀번호를 입력하세요.</string>
+    <string name="input_ok">입 력 완 료</string>
+    <string name="input_pass">비밀번호를 입력하세요</string>
+    <string name="input_pass_check">다시 한 번 입력해 주세요</string>
+    <string name="input_reducer">해열제를 먹였나요?</string>
+    <string name="input_reducer_popup">해 열 제 입 력</string>
+    <string name="input_reducer_result">해열제입력</string>
+    <string name="input_symptom">증상, 진단명 등을 기록하세요</string>
+    <string name="input_temp">체온을 입력하려면 눌러주세요.</string>
+    <string name="join">회 원 가 입</string>
+    <string name="join_success">가입 성공! 로그인 후 이용해주세요.</string>
+    <string name="kind_reducer">"아세트아미노펜 계열 시럽 종류
+
+타이레놀, 세토펜, 챔프, 타노펜
+
+
+이부프로펜 계열 시럽 종류
+
+부루펜, 캐롤, 그린펜, 대웅이부펜, 맥펜, 바비펜, 베비잘, 아이프로펜-F, 어린이알리펜, 어린이파렌, 엑시프렌, 이부날, 이부서스펜, 이부쿨펜, 이브듀오, 타타날, 피코펜
+
+
+덱시부프로펜 계열 시럽 종류
+
+맥시부펜, 덱시부케이, 덱시푸루펜, 키즈부펜, 맥스프로, 맥스프로펜, 큐어펜, 닥스펜, 애니펜, 베아프로펜, 차일펜, 이지엔6 키즈, 맥시펜, 코코페디"</string>
+    <string name="last_reducer">"최근 해열제 먹인 시간
+"</string>
+    <string name="last_report_see">최 근 레 포 트</string>
+    <string name="limit_line_1">저체온</string>
+    <string name="limit_line_2">열</string>
+    <string name="limit_line_3">고열</string>
+    <string name="liquid">물약</string>
+    <string name="location_clause">"위치정보 이용 동의
+
+1.위치기반 서비스 내용
+
+열나요는 위치기반 통계 서비스를 제공하기 위하여, 사용자 단말의 Wi-Fi, GPS 칩을 통해 수집되는 위치정보를 사용합니다.
+사용자의 위치정보는 질환 통계 등의 서비스 용도로 개인을 식별할 수 없도록 변환되어 사용되며, 제 3자에게 제공되지 않으므로, 본인 위치정보 이용 제공 사실 확인자료를 보유하지 않습니다. 위치정보 이용이 이 외의 공간에서 발생하는 경우, 본 동의서를 변경하여 미리 알리고 사용자의 동의를 구하겠습니다.
+
+2. 위치기반서비스사업자의 상호, 주소, 전화번호 그 밖의 연락처
+위치기반서비스 제공 사업자는 (주)모바일닥터 (서울특별시 서초구 방배1동 효령로27길 41, 전화번호: 02-547-1988)입니다.
+
+3. 개인위치정보주체 및 법정대리인의 권리와 그 행사방법
+① 회원은 회사에 대하여 언제든지 개인위치정보를 이용한 위치기반서비스 제공 및 개인위치정보의 제3자 제공에 대한 동의의 전부 또는 일부를 철회할 수 있습니다. 이 경우 회사는 위치정보 이용·제공사실 확인자료를 파기합니다.
+② 회원은 회사에 대하여 언제든지 개인위치정보의 이용 또는 제공의 일시적인 중지를 요구할 수 있습니다.
+③ 회원은 회사에 대하여 개인위치 자료에 대한 열람 또는 고지를 요구할 수 있고, 당해 자료에 오류가 있는 경우에는 그 정정을 요구할 수 있습니다."</string>
+    <string name="location_error">위치 정보 이용 권한을 승인해주셔야 지도 기능을 이용하실 수 있습니다. 설정 - 어플리케이션 에서 열나요의 위치 권한을 허용해주세요.</string>
+    <string name="loding">로딩 중...</string>
+    <string name="login">로 그 인</string>
+    <string name="login_setting">로그인 정보 수정</string>
+    <string name="logout">로 그 아 웃</string>
+    <string name="male">남자</string>
+    <string name="member_leave"><u>회원탈퇴</u></string>
+    <string name="memo_1">모유수유_1</string>
+    <string name="memo_2">분유수유_2</string>
+    <string name="memo_3">잠_3</string>
+    <string name="memo_4">수분섭취_4</string>
+    <string name="memo_5">소변양_5</string>
+    <string name="memo_6">미온수 마사지_6</string>
+    <string name="memo_7">기타_7</string>
+    <string name="memo_guide_1">증상을 선택하세요</string>
+    <string name="memo_guide_2">진단명을 선택하세요</string>
+    <string name="memo_guide_3">종류를 선택하세요</string>
+    <string name="memo_guide_4">예방접종을 선택하세요</string>
+    <string name="memo_hint_1">잘못 입력 시 히스토리/타임라인에서 수정/삭제하실 수 있습니다.</string>
+    <string name="memo_hint_2">의사선생님이 하신 말이나 검사 결과 등을 적어주세요.</string>
+    <string name="memo_menu">증상/병원/건강 메모</string>
+    <string name="memo_title_1">열과 함께 다른 증상이 있어요</string>
+    <string name="memo_title_2">항생제/항바이러스제를 먹였어요</string>
+    <string name="memo_title_3">병원에 다녀왔어요</string>
+    <string name="memo_title_4">오늘의 일을 기록해요</string>
+    <string name="memo_title_5">예방접종을 맞았어요</string>
+    <string name="mime_name">app/ver</string>
+    <string name="mixed_baby_food">수유 + 이유식 혼합</string>
+    <string name="mn_clause_1">열나요 이용약관</string>
+    <string name="mn_clause_2">개인정보 수집 및 이용약관</string>
+    <string name="mn_clause_3">위치정보 수집 및 이용약관</string>
+    <string name="mn_clause_4">개인민감정보 수집 및 이용약관</string>
+    <string name="month">개월</string>
+    <string name="more_water">"
+
+섭취해야 할 수분의 양이 많습니다. 물만 먹일 경우 나트륨이 부족할 수 있으니 이온 음료 또는 전해질 용액과 함께 혼용해주세요."</string>
+    <string name="morning">  아침</string>
+    <string name="mouth">구강(혀 밑)</string>
+    <string name="msg_baby_sync_1">"모바일닥터에서 제공하는 '열나요'와 '수족구' 서비스에
+등록된 아이들의 정보를 통합하기 위한 과정입니다.
+보다 나은 서비스로 보답하겠습니다.
+감사합니다."</string>
+    <string name="msg_baby_sync_2">열나요에 저장된 아이 정보를 모두 매칭시키지 않으셨습니다. 남는 아이가 없도록 모두 매칭시켜주세요.</string>
+    <string name="msg_baby_sync_3">"[ 계정 ]과 [ 열나요 ]에서
+동일한 아이명을 선택해 주세요."</string>
+    <string name="msg_baby_sync_4">* 선택하지 않은 아이는 새로운 계정으로 등록됩니다.</string>
+    <string name="msg_baby_sync_5">[ 계정 ] 의 아이는 이미 선택하셨습니다. 반대쪽의 [ 열나요 ] 아이를 선택해주세요.</string>
+    <string name="msg_baby_sync_6">[ 열나요 ] 의 아이는 이미 선택하셨습니다. 반대쪽의 [ 계정 ] 아이를 선택해주세요.</string>
+    <string name="msg_in_bug">질병의 이름을 터치하시면 자세한 정보를 보실 수 있어요!</string>
+    <string name="msg_join_regular_member">"해당 기능은 일반 회원으로 전환 후 사용하실 수 있습니다.
+
+일반 회원 전환 화면으로 이동하시겠습니까?"</string>
+    <string name="name">이    름</string>
+    <string name="name_hint">이름을 입력해주세요.</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="need_water">이 체온이 지속 될 경우 하루에 추가로 섭취해야 할 수분의 양은 약 [n]ml 입니다.</string>
+    <string name="network_error">네트워크 오류입니다. 네트워크 상태를 확인 후 다시 시도해 주세요.</string>
+    <string name="new_pass">새 비밀번호</string>
+    <string name="new_version">새로운 버전이 출시되었습니다.</string>
+    <string name="next">다    음</string>
+    <string name="next_check">다음 측정 :</string>
+    <string name="next_fever_time">다음 측정시간 :</string>
+    <string name="night">  밤</string>
+    <string name="no">아니오</string>
+    <string name="no_filter">필터를 설정해주세요</string>
+    <string name="non_baby">등록된 아이가 없어 이용하실 수 없습니다. 아이를 등록하시겠습니까?</string>
+    <string name="non_ble_device">해당 블루투스 장치를 찾을 수 없습니다. 체온계의 상태 또는 스마트폰과의 거리를 확인해주세요.</string>
+    <string name="non_vaccine">  안함</string>
+    <string name="none">  없음</string>
+    <string name="none_id">"아이디가 존재하지 않습니다.
+회원가입 후 다시 시도 해주십시오."</string>
+    <string name="normal_food">일반 식사</string>
+    <string name="normality_fever">체온이 정상입니다.</string>
+    <string name="not_agree_clause">약관에 모두 동의하셔야 회원가입이 가능합니다.</string>
+    <string name="not_agree_clause_guest">약관에 모두 동의하셔야 게스트로 시작이 가능합니다.</string>
+    <string name="not_available">이 기기는 블루투스를 지원하지 않습니다.</string>
+    <string name="not_febrile_convulsion_baby">열성경련 경험이 없습니다.</string>
+    <string name="not_match_cur_pass">현재 비밀번호가 일치하지 않습니다.</string>
+    <string name="not_match_email_patten">이메일 형식에 맞지 않습니다.</string>
+    <string name="not_match_id_pass">아이디가 존재하지 않거나, 아이디와 패스워드가 일치하지 않습니다.</string>
+    <string name="not_match_id_patten">아이디는 4~15 자 내의 영문과 숫자 조합만 가능합니다.</string>
+    <string name="not_match_new_pass">변경할 비밀번호가 일치하지 않습니다.</string>
+    <string name="not_match_pass">비밀번호가 일치하지 않습니다.</string>
+    <string name="not_match_pass_patten">비밀번호는 영문, 숫자가 모두 포함되도록 8 ~ 15자리로 설정하셔야 합니다.</string>
+    <string name="not_serch_acount">아이디와 이메일이 일치하는 계정정보를 찾지 못했습니다. 입력하신 내용을 다시 한 번 확인해주세요.</string>
+    <string name="notice">알림</string>
+    <string name="null_baby">해당 없음</string>
+    <string name="null_fever">"체온을 입력하지 않으셨습니다.
+체온을 입력해주세요."</string>
+    <string name="null_fever_in_hour">"1시간 이내 체온 기록이 없습니다.
+최근 체온을 측정해주세요."</string>
+    <string name="null_influenza_data">독감 관련 정보를 모두 입력해주세요!</string>
+    <string name="null_reducer">해열제 X</string>
+    <string name="null_reducer_type">해열제 종류를 선택해주세요.</string>
+    <string name="null_reducer_volume">"해열제 용량을 입력하지 않으셨습니다.
+해열제 용량을 입력해주세요."</string>
+    <string name="null_report">"레포트가 하나도 없습니다.
+체온 측정을 해주시면 레포트가 생성됩니다."</string>
+    <string name="null_title">제목을 입력해주세요.</string>
+    <string name="ok">확    인</string>
+    <string name="only_breast_feeding">수유만 먹임</string>
+    <string name="optimum_dose">적정용량 :</string>
+    <string name="or">또는</string>
+    <string name="over_time">현재 시간보다 높게 설정 할 수 없습니다.</string>
+    <string name="pass">비밀번호</string>
+    <string name="pass_check">비밀번호 확인</string>
+    <string name="password_toggle_content_description">Toggle password visibility</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="patient_in_family">가족 중 환자</string>
+    <string name="patient_in_group">유치원 등 단체생활 내 환자</string>
+    <string name="permission_set_denied">"미 승인시 기능에 제한이 있을 수 있습니다.
+차후 설정하실 때에는 설정 - 앱 - 권한 에서 변경 가능합니다."</string>
+    <string name="permission_set_title">앱 이용에 필요한 권한을 승인 요청합니다.</string>
+    <string name="pick_image_intent_chooser_title">Select source</string>
+    <string name="pill">알</string>
+    <string name="play_error_1">오류로 인해 소리를 재생하지 못했습니다.</string>
+    <string name="play_error_2">오류로 인해 선택된 소리를 재생하지 못했습니다. 기본 알람음으로 지정된 소리가 재생됩니다.</string>
+    <string name="popup_member_leave_complete">회원탈퇴에 성공하였습니다.</string>
+    <string name="popup_member_leave_confirm">"회원탈퇴 시 기록하신 모든 데이터는 복원이 불가능합니다.
+
+정말로 탈퇴하시겠습니까?"</string>
+    <string name="powdered">가루약</string>
+    <string name="pranoprofen">프라노프로펜</string>
+    <string name="private_clause">"개인정보 이용 동의
+
+열나요는 다음의 개인정보를 이용합니다.
+
+1. 이용 항목
+- 아이 정보(이름, 생년월일, 사진, 성별, 몸무게)
+- 체온 정보
+- 증상정보 (진단명, 증상, 메모 등)
+
+2. 이용 목적
+- 서비스 기본 기능의 제공: 회원식별, 프로필 구성, 상황별 알림 메시지 생성을 위한 상황분석 기준자료 (생년월일, 몸무게, 성별, 체온, 진단정보)
+
+- 신규 서비스 개발에의 활용: 맞춤형 서비스 제공을 위한 통계적 분석 정보의 제공
+
+3. 보유 및 이용 기간
+- 열나요 서비스 탈퇴 시, 관련 법령 또는 회사 내부 방침에 의해 보존할 필요가 있는 경우를 제외하고는 지체 없이 파기함"</string>
+    <string name="product_name">제품명 (필수 아니에요!)</string>
+    <string name="project_id">animated-zenith-98501</string>
+    <string name="push_bell">벨</string>
+    <string name="push_setting">푸쉬 알람 설정</string>
+    <string name="push_vib">진 동</string>
+    <string name="real_email">"이메일은 아이디 찾기와 비밀번호 재설정에 이용됩니다.
+사용 가능한 이메일을 입력해주세요.
+(가입 후 수정이 불가합니다.)"</string>
+    <string name="really_delete">정말 삭제하시겠습니까?</string>
+    <string name="recheck_fever">다시 측정해주세요</string>
+    <string name="reduce_notice_1">"※ 먹이신 용량을 체크하여 입력해주세요.
+ 아이의 체중에 따라 해열제의 권장 섭취량이 달라집니다.
+(이브듀오시럽 등의 농축 시럽은 함유량이 2배이므로 앱에서 제시된 용량의 절반만 먹이시고 기록은 먹인 용량의 2배로 기록해주세요.)"</string>
+    <string name="reduce_notice_2">"※ 처방전을 보시고 가루약의 용량을 입력해주세요.
+ - 세토펜(정) 320mg 0.5T = 160 mg = 5cc
+ - 세토펜(정) 160mg 0.5T = 80 mg = 2.5cc 
+ - 세토펜 건조 시럽 0.3g = 120 mg = 3.8cc 
+ - 부루펜 50mg = 2.5cc 
+(자동으로 CC 단위로 환산하여 저장됩니다.)"</string>
+    <string name="reduce_notice_3">"※ 처방전 또는 제품 설명서를 보시고 용량을 입력해주세요.
+ 일반적으로 한알은 80mg 또는 160mg 입니다.
+ 예) 세토펜 80mg 짜리를 2알을 먹이는 경우, 160 mg에 해당합니다.
+ (자동으로 CC 단위로 환산하여 저장됩니다.)"</string>
+    <string name="reduce_notice_4">"※ 처방전 또는 제품 설명서를 보시고 용량을 입력해주세요.
+ 일반적으로 좌약 한알은 125mg 입니다.
+(자동으로 CC 단위로 환산하여 저장됩니다.)"</string>
+    <string name="reducer_1">아세트아미노펜 (타이레놀, 세토펜 등)</string>
+    <string name="reducer_2">이부프로펜 (부루펜 등) 또는 덱시부프로펜(맥시부펜 등)</string>
+    <string name="reducer_3">가루약 (병원 처방)</string>
+    <string name="reducer_4">알약 (병원 처방, 타이레놀 등)</string>
+    <string name="reducer_5">좌약 (써스펜 등)</string>
+    <string name="reducer_info_close">해열제 정보 ▲</string>
+    <string name="reducer_info_open">해열제 정보 ▼</string>
+    <string name="reducer_volume_guide">[먹인양/하루허용양]</string>
+    <string name="registered_device">등록된 장치</string>
+    <string name="report_end_date_hint">종료 날짜를 선택해주세요.</string>
+    <string name="report_ex">"※ 이 기능은 지정한 기간 내의 모든 체온, 해열제, 증상 등을 한 페이지에 모아 볼 수 있는 기능입니다.
+
+※ 종료일 미 입력 시 현재 진행형으로 레포트가 생성됩니다."</string>
+    <string name="report_menu">종합레포트</string>
+    <string name="report_start_date_hint">시작 날짜를 선택해주세요.</string>
+    <string name="report_title_guide">예) 감기로 아팠던 기록</string>
+    <string name="reset_pass">비밀번호 재설정</string>
+    <string name="result_find_id_find">회원님의 아이디는 \"[id]\" 입니다.</string>
+    <string name="result_find_id_not_match">입력하신 이메일과 일치하는 아이디가 없습니다.</string>
+    <string name="save">저    장</string>
+    <string name="save_device">저 장 하기</string>
+    <string name="save_gallery">사진이 갤러리에 저장되었습니다.</string>
+    <string name="save_id">아이디 저장</string>
+    <string name="saved">저장되었습니다.</string>
+    <string name="scan">검색</string>
+    <string name="scanning">디바이스를 검색중입니다.</string>
+    <string name="search_menu_title">Search</string>
+    <string name="select_album">앨범에서 가져오기</string>
+    <string name="select_app_for_share">공유 할 앱을 선택해주세요.</string>
+    <string name="select_camera">카메라로 촬영</string>
+    <string name="select_device">장 치 관 리</string>
+    <string name="select_diagnosis">진단내용을 선택하세요</string>
+    <string name="select_input_type">입력 방법을 선택해주세요.</string>
+    <string name="select_sound">알람 소리를 선택하세요</string>
+    <string name="selete_memo">항목을 선택해주세요.</string>
+    <string name="selete_reducer">어떤 종류인가요</string>
+    <string name="setting">설    정</string>
+    <string name="setting_menu">환경설정</string>
+    <string name="so_sick">이렇게 아팠어요</string>
+    <string name="sound_select">소리선택</string>
+    <string name="sound_setting">소리크기</string>
+    <string name="spark_msg">비정상적인 온도변화를 보입니다. 측정이 잘못된 것일 수 있으니, 다시 측정 후 입력해주시기 바랍니다.</string>
+    <string name="start">시 작 하 기</string>
+    <string name="start_date">시작 날짜</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="storage_permission">권한을 승인하지 않으시면 해당 기능이 정상동작 하지 않습니다.</string>
+    <string name="success_change_pass">"비밀번호 변경을 성공하였습니다.
+다음 로그인부터 변경된 비밀번호를 이용해주세요."</string>
+    <string name="success_change_regular_member">일반 회원으로 전환이 완료되었습니다. 이후부터는 열나요의 모든 서비스를 정상적으로 사용하실 수 있습니다.</string>
+    <string name="success_reset_pass">"비밀번호를 초기화 하였습니다.
+임시 비밀번호가 [email] 로 전송되었으니 해당 메일을 확인하시고 임시 비밀번호를 이용하여 로그인 후, [설정 - 로그인 정보 수정] 에서 비밀번호를 변경하세요."</string>
+    <string name="suppository">좌약</string>
+    <string name="symptom_1">기침_1</string>
+    <string name="symptom_10">심하게 보챔_10</string>
+    <string name="symptom_11">먹는 양 20% 감소_11</string>
+    <string name="symptom_12">먹는 양 40% 감소_12</string>
+    <string name="symptom_13">먹는 양 60% 이상 감소_13</string>
+    <string name="symptom_14">소변 양 감소_14</string>
+    <string name="symptom_15">구토_15</string>
+    <string name="symptom_16">설사_16</string>
+    <string name="symptom_17">변비_17</string>
+    <string name="symptom_18">복통_18</string>
+    <string name="symptom_19">몸통발진_19</string>
+    <string name="symptom_2">콧물_2</string>
+    <string name="symptom_20">손발수포_20</string>
+    <string name="symptom_21">구강수포_21</string>
+    <string name="symptom_22">두통_22</string>
+    <string name="symptom_23">황달_23</string>
+    <string name="symptom_24">BCG 발적(붉어짐)_24</string>
+    <string name="symptom_25">눈/결막 충혈_25</string>
+    <string name="symptom_26">딸기 혀_26</string>
+    <string name="symptom_27">경련_27</string>
+    <string name="symptom_28">기타_28</string>
+    <string name="symptom_3">가래_3</string>
+    <string name="symptom_4">재채기_4</string>
+    <string name="symptom_5">빠른 호흡/숨 차함_5</string>
+    <string name="symptom_6">컹컹대는 기침_6</string>
+    <string name="symptom_7">쌕쌕거림_7</string>
+    <string name="symptom_8">목 부음_8</string>
+    <string name="symptom_9">심하게 처짐/늘어짐_9</string>
+    <string name="symptom_start">증상시작</string>
+    <string name="tablet">알약</string>
+    <string name="tepid_water_close">미온수 마사지 주의사항 ▲</string>
+    <string name="tepid_water_info">32~35도 정도의 미지근한 물을, 물수건에 묻혀서 짜지 말고 흥건한 상태로, 얼굴, 목과 가슴, 겨드랑이를 닦아주세요. 팔과 다리는 말초혈관이 수축되므로 닦지 않습니다.</string>
+    <string name="tepid_water_open">미온수 마사지 주의사항 ▼</string>
+    <string name="test_mode_off">테스트 모드가 해제되었습니다. 테스트 모드로 재설정을 원하실 경우 버전 숫자를 7번 터치해주세요.</string>
+    <string name="test_mode_on">테스트 모드로 설정되었습니다. 해제를 원하실 경우 버전 숫자를 7번 터치해주세요.</string>
+    <string name="thermometer_menu">체온계 관리</string>
+    <string name="time_to_reducer_eat">해열제 먹인 시간</string>
+    <string name="timeline">타임라인</string>
+    <string name="title_baby_sync">계 정 통 합 설 정</string>
+    <string name="title_bug">유행주의보</string>
+    <string name="title_clause">서비스 이용 약관</string>
+    <string name="title_clause_1"><u>열나요 이용약관에 동의합니다.</u></string>
+    <string name="title_clause_2"><u>개인정보 수집 및 이용약관에 동의합니다.</u></string>
+    <string name="title_clause_3"><u>위치정보 수집 및 이용약관에 동의합니다.</u></string>
+    <string name="title_clause_4"><u>개인 민감정보 수집 및 이용약관에 동의합니다.</u></string>
+    <string name="today_record">오 늘 의 기 록</string>
+    <string name="try_enroll_ble_device">블루투스 연결을 시도합니다.</string>
+    <string name="txt_add_baby">계정 통합</string>
+    <string name="txt_id_babys">[ 계정 ]</string>
+    <string name="txt_local_babys">[ 열나요 ]</string>
+    <string name="txt_new_baby">id 에 새로 추가</string>
+    <string name="txt_select">선택해주세요</string>
+    <string name="under_120_reducer">"120일 미만의 영유아는 예방접종 열이거나 의사의 처방이 있는 경우 외에는 해열제를 먹이지 않는 것이 좋습니다.
+
+정말로 먹이시겠습니까?"</string>
+    <string name="under_180_reducer">"6개월 미만의 영유아는 예방접종 열이거나 의사의 처방이 있는 경우 외에는 이부푸로펜 또는 덱시부프로펜 계열 해열제는 먹이지 않습니다.
+
+정말로 먹이시겠습니까?"</string>
+    <string name="unknown_error">"알 수 없는 오류가 발생했습니다. 열나요 카페의 오류신고 게시판에 문의주시면 빠르게 처리해 드리겠습니다.
+
+카페로 이동하시겠습니까?"</string>
+    <string name="unkown">모름</string>
+    <string name="unkown_vaccine">  모름</string>
+    <string name="update_ble_device">블루투스 장치 정보가 갱신되었습니다.</string>
+    <string name="update_info">정 보 변 경</string>
+    <string name="update_report">레포트가 생성된지 얼마되지 않았으므로 최근 레포트가 갱신 되었습니다.</string>
+    <string name="uri_error">https://m.cafe.naver.com/ArticleList.nhn?search.clubid=29103428&amp;search.menuid=10&amp;search.boardtype=L</string>
+    <string name="uri_fever">http://mobiledoc.dothome.co.kr/xe/page_VMrS01</string>
+    <string name="vaccination_1">BCG 백신_1</string>
+    <string name="vaccination_10">A형 간염 백신_10</string>
+    <string name="vaccination_11">수두 백신_11</string>
+    <string name="vaccination_12">인플루엔자 백신(독감)_12</string>
+    <string name="vaccination_2">B형 간염 백신_2</string>
+    <string name="vaccination_3">DTaP 백신_3</string>
+    <string name="vaccination_4">MMR 백신_4</string>
+    <string name="vaccination_5">일본뇌염 백신_5</string>
+    <string name="vaccination_6">폐렴구균 백신_6</string>
+    <string name="vaccination_7">Hib 백신_7</string>
+    <string name="vaccination_8">소아마비 백신_8</string>
+    <string name="vaccination_9">로타바이러스 백신_9</string>
+    <string name="vaccination_check_1">예방접종 후 열이 난 지 [h]시간이 경과되었습니다. 예방접종 후 열은 24시간 이내에 좋아지는 경우가 많지만, 일부에서는 48시간까지 지속되기도 합니다. 아이의 상태를 잘 관찰해 주세요. 만일 39도 이상이면 병원 또는 응급실 방문을 고려해주세요.</string>
+    <string name="vaccination_check_2">예방접종 후 열이 난 지 [h]시간이 경과되었습니다. 예방접종 후 열은 48시간 이상 지속되지 않는것이 보통입니다. 혹시 아이의 체온이 38도를 넘어간다면 의사의 추가적인 진단이 필요하니 병원 또는 응급실 방문을 고려해주세요.</string>
+    <string name="vaccination_in_24h_1">"24시간 이내에 예방접종 이력이
+있다면 여기를 눌러주세요"</string>
+    <string name="vaccination_in_24h_2">"24시간 이내에 예방접종 기록 : 
+"</string>
+    <string name="vaccine_3ga">  3가 백신</string>
+    <string name="vaccine_4ga">  4가 백신</string>
+    <string name="version_info">버전 정보</string>
+    <string name="vibrate_setting">진동설정</string>
+    <string name="view_explanation">설명보기</string>
+    <string name="volume_lack">입력하신 용량이 너무 작습니다. 단위 또는 용량을 다시 확인해주세요.</string>
+    <string name="volume_over_1">"아세트아미노펜 계열 해열제의 하루 복용 허용치를 초과하였습니다. 의사의 처방이 있는 경우에만 먹이는 것을 추천합니다.
+
+정말로 먹이시겠습니까?"</string>
+    <string name="volume_over_2">"이부프로펜 계열 해열제의 하루 복용 허용치를 초과하였습니다. 의사의 처방이 있는 경우에만 먹이는 것을 추천합니다.
+
+정말로 먹이시겠습니까?"</string>
+    <string name="warning">경고</string>
+    <string name="week_ago">전 주 대비</string>
+    <string name="week_ago_1">1주 전</string>
+    <string name="week_ago_2">2주 전</string>
+    <string name="week_ago_3">3주 전</string>
+    <string name="week_new">이번 주</string>
+    <string name="week_report">(주간 레포트 보기)</string>
+    <string name="weight">몸무게</string>
+    <string name="weight_check">"현재 체중이 [n]이
+아닌 경우 선택해 주세요"</string>
+    <string name="weight_hint">몸무게를 입력해주세요.</string>
+    <string name="weight_update">몸무게를 입력해주세요.</string>
+    <string name="what_reducer">어떤 해열제를 먹였나요?</string>
+    <string name="what_report">종합레포트는 직접 지정한 기간 동안 아이의 병력을 모아볼 수 있는 기능입니다.</string>
+    <string name="when_check_time">측정 시간이 언제인가요</string>
+    <string name="when_eat">언제 먹였나요</string>
+    <string name="when_sick">언제부터 열나요</string>
+    <string name="whene_measure">어디를 재시나요</string>
+    <string name="working_on">처리중입니다. 잠시만 기다려 주세요.</string>
+    <string name="yes">예</string>
+</resources>

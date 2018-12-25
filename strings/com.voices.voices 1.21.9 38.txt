@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="accept">Accept</string>
+    <string name="cast_ad_label">Ad</string>
+    <string name="cast_casting_to_device">Casting to %1$s</string>
+    <string name="cast_closed_captions">Closed captions</string>
+    <string name="cast_closed_captions_unavailable">Closed captions unavailable</string>
+    <string name="cast_disconnect">Disconnect</string>
+    <string name="cast_expanded_controller_ad_image_description">Image displayed while the cast receiver is playing an ad</string>
+    <string name="cast_expanded_controller_ad_in_progress">Ad in progress…</string>
+    <string name="cast_expanded_controller_background_image">Album art</string>
+    <string name="cast_expanded_controller_live_stream_indicator">Live stream</string>
+    <string name="cast_expanded_controller_loading">Loading…</string>
+    <string name="cast_expanded_controller_skip_ad_label">Skip</string>
+    <string name="cast_forward">Forward</string>
+    <string name="cast_forward_10">Forward ten seconds</string>
+    <string name="cast_forward_30">Forward thirty seconds</string>
+    <string name="cast_intro_overlay_button_text">@android:string/ok</string>
+    <string name="cast_mute">Mute</string>
+    <string name="cast_notification_connected_message">Connected to %1$s</string>
+    <string name="cast_notification_connecting_message">Connecting to %1$s</string>
+    <string name="cast_notification_disconnect">Disconnect</string>
+    <string name="cast_pause">Pause</string>
+    <string name="cast_play">Play</string>
+    <string name="cast_rewind">Rewind</string>
+    <string name="cast_rewind_10">Rewind ten seconds</string>
+    <string name="cast_rewind_30">Rewind thirty seconds</string>
+    <string name="cast_seek_bar">Playback seek control</string>
+    <string name="cast_skip_next">Skip to next item</string>
+    <string name="cast_skip_prev">Skip to previous item</string>
+    <string name="cast_stop">Stop</string>
+    <string name="cast_stop_live_stream">Stop live stream</string>
+    <string name="cast_tracks_chooser_dialog_audio">Audio</string>
+    <string name="cast_tracks_chooser_dialog_cancel">Cancel</string>
+    <string name="cast_tracks_chooser_dialog_closed_captions">Closed Captions</string>
+    <string name="cast_tracks_chooser_dialog_default_track_name">Track %1$d</string>
+    <string name="cast_tracks_chooser_dialog_no_audio_tracks">No Audio Tracks Available</string>
+    <string name="cast_tracks_chooser_dialog_no_text_tracks">No Text Tracks Available</string>
+    <string name="cast_tracks_chooser_dialog_none">None</string>
+    <string name="cast_tracks_chooser_dialog_ok">OK</string>
+    <string name="cast_tracks_chooser_dialog_subtitles">Subtitles</string>
+    <string name="cast_unmute">Unmute</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
+    <string name="create_calendar_title">Create calendar event</string>
+    <string name="debug_menu_ad_information">Ad Information</string>
+    <string name="debug_menu_creative_preview">Creative Preview</string>
+    <string name="debug_menu_title">Select a Debug Mode</string>
+    <string name="debug_menu_troubleshooting">Troubleshooting</string>
+    <string name="decline">Decline</string>
+    <string name="mr_button_content_description">Cast button</string>
+    <string name="mr_cast_button_connected">Cast button. Connected</string>
+    <string name="mr_cast_button_connecting">Cast button. Connecting</string>
+    <string name="mr_cast_button_disconnected">Cast button. Disconnected</string>
+    <string name="mr_chooser_searching">Finding devices</string>
+    <string name="mr_chooser_title">Cast to</string>
+    <string name="mr_controller_album_art">Album art</string>
+    <string name="mr_controller_casting_screen">Casting screen</string>
+    <string name="mr_controller_close_description">Close</string>
+    <string name="mr_controller_collapse_group">Collapse</string>
+    <string name="mr_controller_disconnect">Disconnect</string>
+    <string name="mr_controller_expand_group">Expand</string>
+    <string name="mr_controller_no_info_available">No info available</string>
+    <string name="mr_controller_no_media_selected">No media selected</string>
+    <string name="mr_controller_pause">Pause</string>
+    <string name="mr_controller_play">Play</string>
+    <string name="mr_controller_stop">Stop casting</string>
+    <string name="mr_controller_volume_slider">Volume slider</string>
+    <string name="mr_system_route_name">System</string>
+    <string name="mr_user_route_category_name">Devices</string>
+    <string name="place_autocomplete_clear_button">Clear search</string>
+    <string name="place_autocomplete_search_hint">Search</string>
+    <string name="search_menu_title">Search</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="store_picture_message">Allow Ad to store image in Picture gallery?</string>
+    <string name="store_picture_title">Save image</string>
+    <string name="wallet_buy_button_place_holder">Buy with Google</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="activity_title_about_us">About Us</string>
+    <string name="activity_title_contact_us">Contact Us</string>
+    <string name="activity_title_log_in">Log In</string>
+    <string name="activity_title_main">Voices.com</string>
+    <string name="activity_title_menu_fragment">MenuFragment</string>
+    <string name="activity_title_profile">Profile</string>
+    <string name="activity_title_settings">Settings</string>
+    <string name="activity_title_terms_of_service">Terms Of Service</string>
+    <string name="alert_dialog_cancel">Cancel</string>
+    <string name="alert_dialog_message_log_out">Are you sure you want to Log out?</string>
+    <string name="alert_dialog_no">No</string>
+    <string name="alert_dialog_ok">OK</string>
+    <string name="alert_dialog_title_log_out">Log Out</string>
+    <string name="alert_dialog_yes">Yes</string>
+    <string name="analytics_logging">true</string>
+    <string name="analytics_write_key">ub5ix6jmia</string>
+    <string name="app_name">Voices.com</string>
+    <string name="cast_invalid_stream_duration_text">--:--</string>
+    <string name="cast_invalid_stream_position_text">--:--</string>
+    <string name="com.crashlytics.android.build_id">87023c89-b33e-449a-9c6f-68df223b701b</string>
+    <string name="com_mixpanel_android_close">Close</string>
+    <string name="com_mixpanel_android_done">Done</string>
+    <string name="com_mixpanel_android_exit">Exit</string>
+    <string name="com_mixpanel_android_logo">By Mixpanel</string>
+    <string name="com_mixpanel_android_next">Next question</string>
+    <string name="com_mixpanel_android_notification_image">Image not displayed</string>
+    <string name="com_mixpanel_android_previous">Previous question</string>
+    <string name="default_web_client_id">103087240568-878usu91u3d67knpetuouncbsheo9i79.apps.googleusercontent.com</string>
+    <string name="error_audio_failed_to_play">Encountered an unknown error while attempting to play this audio file.</string>
+    <string name="error_email_not_unique">"Unable to create account because there's already an account with that email address."</string>
+    <string name="error_login_failed">Your username and password did not match.</string>
+    <string name="error_login_not_unique">"Unable to create account because there's already an account with that username."</string>
+    <string name="error_no_username_password">Please insert your Voices.com username and password.</string>
+    <string name="error_not_logged_in">Encountered an error connecting to Voices.com perhaps because you are not logged in or you have recently logged into another device. Please login again.</string>
+    <string name="error_title">Error</string>
+    <string name="error_unable_to_get_audio_focus">Unable to play audio as this application has been denied audio focus.</string>
+    <string name="error_webservice_connection_failed">Unable to contact the Voices.com server, please make sure your connected to the internet.</string>
+    <string name="error_webservice_connection_refused">Unable to contact the Voices.com server as the connection has been refused. Please try again or contact us for more information.</string>
+    <string name="error_webservice_result_failed">Unable to get information from Voices.com.</string>
+    <string name="error_webservice_server_timeout">Unable to contact the Voices.com server as a timeout error has occurred. Please try again.</string>
+    <string name="error_webservice_socket_timeout">Unable to contact the Voices.com server as a socket timeout error has occurred. Please try again.</string>
+    <string name="error_webservice_unkown_error">An unknown error has occurred trying to get information from Voices.com.</string>
+    <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
+    <string name="firebase_database_url">https://voices-app.firebaseio.com</string>
+    <string name="gcm_defaultSenderId">103087240568</string>
+    <string name="google_api_key">AIzaSyAOTKEnjgHGAE_17hoCj54aD6_Eq_ZlT7o</string>
+    <string name="google_app_id">1:103087240568:android:110a33d23192696d</string>
+    <string name="google_crash_reporting_api_key">AIzaSyAOTKEnjgHGAE_17hoCj54aD6_Eq_ZlT7o</string>
+    <string name="google_storage_bucket">voices-app.appspot.com</string>
+    <string name="menu_about_us">About Us</string>
+    <string name="menu_contact_us">Contact Us</string>
+    <string name="menu_help">Help</string>
+    <string name="menu_log_in">Login</string>
+    <string name="menu_log_out">Log Out</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_settings">Settings</string>
+    <string name="section_jobs_title">Jobs</string>
+    <string name="section_messages_title">Messages</string>
+    <string name="section_payments_title">Payments</string>
+    <string name="section_profile_title">Profile</string>
+    <string name="section_search_title">Search</string>
+    <string name="section_top_100_title">Top 100</string>
+    <string name="setting_dialog_clear_cache">Are you sure you want to clear the cache?</string>
+    <string name="setting_summary_automatic_login">Automatically log in when opening the app.</string>
+    <string name="setting_summary_cache_data">Cache all images and data on phone for better performance.</string>
+    <string name="setting_summary_clear_cache">Removes all images and data from Voices.com that is cached onto your phone.</string>
+    <string name="setting_summary_email_formatting">Format email with graphics and colors.</string>
+    <string name="setting_title_app">App</string>
+    <string name="setting_title_app_version">App Version</string>
+    <string name="setting_title_automatic_login">Automatic Login</string>
+    <string name="setting_title_cache">Cache</string>
+    <string name="setting_title_cache_data">Cache Data</string>
+    <string name="setting_title_cache_space">Cache Space Used</string>
+    <string name="setting_title_change_password">Change Password</string>
+    <string name="setting_title_clear_cache">Clear Cache</string>
+    <string name="setting_title_email_formatting">Email Formatting</string>
+    <string name="settings_title_account">Account</string>
+    <string name="string__cost__month">%1$s/month</string>
+    <string name="string__cost__year">%1$s/year</string>
+    <string name="string__field__is_not_valid">%1$s is not valid.</string>
+    <string name="string__field__is_required">%1$s is required.</string>
+    <string name="string__field__should_be_3_or_more_characters">%1$s should be 3 or more characters.</string>
+    <string name="string__talent_name__voices_demo">"%1$s's Voices.com Demo"</string>
+    <string name="string__view__of__total__talents">%1$s of %2$s Talents</string>
+    <string name="string_about">About</string>
+    <string name="string_about_us">About Us</string>
+    <string name="string_accent">Accent</string>
+    <string name="string_accents">Accents</string>
+    <string name="string_add">Add</string>
+    <string name="string_add_accent">Add Accent</string>
+    <string name="string_add_age_range">Add Age Range</string>
+    <string name="string_add_budget_range">Add Budget Range</string>
+    <string name="string_add_category">Add Category</string>
+    <string name="string_add_demo">Add Demo</string>
+    <string name="string_add_language">Add Language</string>
+    <string name="string_add_role">Add Role</string>
+    <string name="string_add_style">Add Style</string>
+    <string name="string_add_tag">Add Tag</string>
+    <string name="string_add_testimony">Add Testimony</string>
+    <string name="string_add_union">Add Union</string>
+    <string name="string_adding_demo_please_wait">Adding demo, please wait…</string>
+    <string name="string_age_range">Age Range</string>
+    <string name="string_age_ranges">Age Ranges</string>
+    <string name="string_ages">Ages</string>
+    <string name="string_all_age_ranges">All Age Ranges</string>
+    <string name="string_all_budget_ranges">All Budget Ranges</string>
+    <string name="string_all_categories">All Categories</string>
+    <string name="string_all_languages">All Languages</string>
+    <string name="string_all_tags">All Tags</string>
+    <string name="string_all_time">All Time</string>
+    <string name="string_all_unions">All Unions</string>
+    <string name="string_all_years_of_experiences">All Years Of Experiences</string>
+    <string name="string_an_email_has_been_sent_to_remind__talent_name__">An email has been successfully send to remind %1$s to release the deposit.</string>
+    <string name="string_are_you_sure_you_want_to_award_this_job_to__talent_name__">Are you sure you want to award this job to %1$s?</string>
+    <string name="string_are_you_sure_you_want_to_delete_the__demo_title__demo">Are you sure you want to delete the %1$s demo?</string>
+    <string name="string_are_you_sure_you_want_to_delete_this_response">Are you sure you want to delete this response?</string>
+    <string name="string_are_you_sure_you_want_to_release_the_payment_to__talent_name__">Are you sure you want to release the payment to %1$s?</string>
+    <string name="string_are_you_sure_you_want_to_send_an_email_to_remind__talent_name__to_release_the_deposit">Are you sure you want to send an email to remind %1$s to release the deposit?</string>
+    <string name="string_audio_buffering">Audio buffering, please wait…</string>
+    <string name="string_audio_recording_saved">Audio Recording Saved</string>
+    <string name="string_audition">Audition</string>
+    <string name="string_audition_is_required">Audition is required.</string>
+    <string name="string_audition_submitted">Audition Submitted</string>
+    <string name="string_avatar_has_been_saved">Avatar has been saved</string>
+    <string name="string_award_job">Award Job</string>
+    <string name="string_awarding_job_please_wait">Awarding job, please wait…</string>
+    <string name="string_bill_to">Bill To</string>
+    <string name="string_billing">Billing</string>
+    <string name="string_bio">Bio</string>
+    <string name="string_both">Both</string>
+    <string name="string_budget">Budget</string>
+    <string name="string_budget_and_deadline">Budget and Deadline</string>
+    <string name="string_budget_range">Budget Range</string>
+    <string name="string_bug_report">Bug Report</string>
+    <string name="string_by_continuing_you_agree_to_the_voices_dot_com">By continuing you agree to the Voices.com</string>
+    <string name="string_cache_has_been_cleared">Cache has been cleared</string>
+    <string name="string_call">Call</string>
+    <string name="string_camera">Camera</string>
+    <string name="string_cancel">Cancel</string>
+    <string name="string_category">Category</string>
+    <string name="string_change_avatar">Change Avatar</string>
+    <string name="string_change_font_size">Change Font Size</string>
+    <string name="string_choose_script">Choose Script</string>
+    <string name="string_client">Client</string>
+    <string name="string_client_list">Client List</string>
+    <string name="string_clients_total">"Client's Total"</string>
+    <string name="string_close">Close</string>
+    <string name="string_company">Company</string>
+    <string name="string_company_optional">Company (Optional)</string>
+    <string name="string_computer_and_software">Computer &amp; Software</string>
+    <string name="string_congratulations_on_compeleting__job_name__">"Congratulations on completing
+“%1$s”"</string>
+    <string name="string_contact">Contact</string>
+    <string name="string_contact_us">Contact Us</string>
+    <string name="string_converting_audio_on_server">Converting audio on server…</string>
+    <string name="string_create_your_account">"Create your account - it's free!"</string>
+    <string name="string_create_your_account_and_post_your_job">"Create your account &amp; post your job - it's free!"</string>
+    <string name="string_create_your_own_profile">"Create your own profile
+
+Upload voice over demos
+
+Add a photo or logo
+
+Pick a color theme
+
+Get listed in the search engine
+
+Be listed in the directory
+
+Access a wealth of information
+
+Download free podcasts
+
+Basic customer service by email"</string>
+    <string name="string_creating_your_account_please_wait">Creating your account, please wait…</string>
+    <string name="string_credentials">Credentials</string>
+    <string name="string_deadline">Deadline</string>
+    <string name="string_deadline_date">Deadline Date</string>
+    <string name="string_delete_demo">Delete Demo</string>
+    <string name="string_delete_response">Delete Response</string>
+    <string name="string_deleted">Deleted</string>
+    <string name="string_deleting_demo_please_wait">Deleting demo, please wait…</string>
+    <string name="string_deleting_response_please_wait">Deleting response, please wait…</string>
+    <string name="string_delivery_methods">Delivery Methods</string>
+    <string name="string_demo">Demo</string>
+    <string name="string_demo_added">Demo Added</string>
+    <string name="string_demo_deleted">Demo Deleted</string>
+    <string name="string_demo_recording">Demo Recording</string>
+    <string name="string_demo_saved">Demo Saved</string>
+    <string name="string_demo_title">Demo Title</string>
+    <string name="string_demos">Demos</string>
+    <string name="string_deposit_made">Deposit Made</string>
+    <string name="string_describe_who_you_need">Describe Who You Need</string>
+    <string name="string_describe_your_project">Describe Your Project</string>
+    <string name="string_description">Description</string>
+    <string name="string_designed_for_businesses_broadcasters">Designed for businesses, broadcasters and advertisers who hire voice talent.</string>
+    <string name="string_designed_for_profressionals">Designed for Professionals. Includes all Guest Membership features, plus:</string>
+    <string name="string_designed_for_profressionals_premium">Designed for Professionals. Includes all Guest and Premium Lite Membership features, plus:</string>
+    <string name="string_details">Details</string>
+    <string name="string_did_not_send_an_email">Did not send an email as one email has already been sent to remind %1$s to release the deposit.</string>
+    <string name="string_did_you_forget_your_password">Did you forget your password?</string>
+    <string name="string_done">Done</string>
+    <string name="string_edit_demo">Edit Demo</string>
+    <string name="string_edit_job">Edit Job</string>
+    <string name="string_edit_profile">Edit Profile</string>
+    <string name="string_education">Education</string>
+    <string name="string_email">Email</string>
+    <string name="string_email_address">Email Address</string>
+    <string name="string_email_sent">Email Sent</string>
+    <string name="string_experience">Experience</string>
+    <string name="string_favorites">Favorites</string>
+    <string name="string_feature_request">Feature Request</string>
+    <string name="string_featured_demo">Featured Demo</string>
+    <string name="string_feedback">Feedback</string>
+    <string name="string_first_name">First Name</string>
+    <string name="string_free">Free!</string>
+    <string name="string_from">From</string>
+    <string name="string_gender">Gender</string>
+    <string name="string_general_question">General Question</string>
+    <string name="string_get_started">Get Started</string>
+    <string name="string_getting_started">Getting Started</string>
+    <string name="string_go_to_job">Go To Job</string>
+    <string name="string_go_to_related_job">Go To Related Job</string>
+    <string name="string_guest">Guest</string>
+    <string name="string_have_a_question">Have a question? Let’s talk.</string>
+    <string name="string_higher_ranking_in_the_search_engine">"Higher ranking in the search engine
+
+Higher ranking in the directory
+
+Mobile enabled website
+
+Inclusion in mobile search
+
+Inclusion in mobile directory
+
+Marketing in Google &amp; Yahoo!
+
+Download 5 bonus ebooks
+
+Toll-free telephone support
+
+24-hour email support
+
+Savings 38% compared to 12 months on Premium Lite"</string>
+    <string name="string_highlights">Highlights</string>
+    <string name="string_hire_for_voice_over_work">Hire %s for voice over work. Payment is made through Voices.com SurePay, an escrow service that guarantees your work is done to your satisfaction. Send payment securely by Visa, Mastercard or PayPal through Voices.com then download your files from the website.</string>
+    <string name="string_how_can_we_help">How can we help?</string>
+    <string name="string_how_would_you_like_to_change_your_avatar">How would you like to change your avatar?</string>
+    <string name="string_how_would_you_like_to_contact_voices_dot_com">How would you like to contact Voices.com?</string>
+    <string name="string_id">ID</string>
+    <string name="string_ideal_for_aspiring_voice_talent">Ideal for aspiring voice talent and those exploring the industry.</string>
+    <string name="string_ideal_for_independant_producers">"Ideal for independent producers looking to hire voice talent. It's fun!"</string>
+    <string name="string_ideal_for_new_and_pro">Ideal for new and pro voice talent and voice actors. Join and make money with your voice.</string>
+    <string name="string_inbox">Inbox</string>
+    <string name="string_input_is_required">Input is required.</string>
+    <string name="string_it_takes_only_60_seconds">It takes only 60 seconds…</string>
+    <string name="string_job_awarded">Job Awarded</string>
+    <string name="string_job_description">Job Description</string>
+    <string name="string_job_id">Job ID</string>
+    <string name="string_job_saved">Job Saved</string>
+    <string name="string_job_saved_as_draft">Job Saved As Draft</string>
+    <string name="string_job_submitted">Job Submitted</string>
+    <string name="string_job_title">Job Title</string>
+    <string name="string_key_information">Key Information</string>
+    <string name="string_language">Language</string>
+    <string name="string_languages">Languages</string>
+    <string name="string_last_name">Last Name</string>
+    <string name="string_less_info">Less Info</string>
+    <string name="string_lets_get_started">Lets Get Started</string>
+    <string name="string_lets_get_started_letting__talent_name__know_about_your_job">"Let's get started letting %1$s know about your job."</string>
+    <string name="string_load__number__more">Load %1$s More</string>
+    <string name="string_log_in">Log In</string>
+    <string name="string_mark_as_unread">Mark As Unread</string>
+    <string name="string_market">Market</string>
+    <string name="string_marking_as_unread">Marking As Unread…</string>
+    <string name="string_mb">MB</string>
+    <string name="string_message">Message</string>
+    <string name="string_message_marked_as_unread">Message Marked As Unread</string>
+    <string name="string_message_sent">Message Sent</string>
+    <string name="string_microphone">Microphone</string>
+    <string name="string_more_info">More Info</string>
+    <string name="string_most_listens">Most Listens</string>
+    <string name="string_most_popular">Most Popular</string>
+    <string name="string_my_voices_com_demo">My Voices.com Demo</string>
+    <string name="string_name">Name</string>
+    <string name="string_new_talent">New Talent</string>
+    <string name="string_new_to_voices">New to Voices.com? Sign up free!</string>
+    <string name="string_next">Next</string>
+    <string name="string_next_steps">Next Steps</string>
+    <string name="string_no_audio_recording">No Audio Recording</string>
+    <string name="string_no_changes">No Changes</string>
+    <string name="string_no_changes_were_made">No changes were made</string>
+    <string name="string_no_information_to_show">"No information to show.
+
+To tell us more about yourself tap on the “pencil” icon on the top right hand side."</string>
+    <string name="string_no_job_responses_found">No job responses found.</string>
+    <string name="string_no_jobs_found">No jobs found.</string>
+    <string name="string_no_jobs_found_to_add_a_job">"No jobs found.
+
+To add a job tap on the plus icon at the top."</string>
+    <string name="string_no_messages_found">No messages found.</string>
+    <string name="string_no_payments_found">No payments found.</string>
+    <string name="string_no_talent_found">No talent found.</string>
+    <string name="string_or">or</string>
+    <string name="string_other">Other</string>
+    <string name="string_password">Password</string>
+    <string name="string_passwords_are_not_long_enough">"Password's should be 3 or more characters"</string>
+    <string name="string_passwords_dont_match">"Password's don't match"</string>
+    <string name="string_payment_released">Payment Released</string>
+    <string name="string_payment_sent">Payment Sent</string>
+    <string name="string_payment_terms">Payment Terms</string>
+    <string name="string_perfect_for_agencies">"Perfect for agencies or large enterprises. We take care of the entire project for you. It's easy!"</string>
+    <string name="string_phone_number">Phone Number</string>
+    <string name="string_photo_library">Photo Library</string>
+    <string name="string_please_choose_your_membership_type">Please choose your membership type.</string>
+    <string name="string_please_log_in_or_sign_up_as_a_client_in_order_to_request_a_quote">Please log in or sign up as a client in order to continue to request a quote.</string>
+    <string name="string_please_record_or_select_one_of_your">Please record or select one of your demos for your audition.</string>
+    <string name="string_please_select">Please Select</string>
+    <string name="string_post_a_job">Post a Job</string>
+    <string name="string_post_your_job">Post Your Job</string>
+    <string name="string_posted">Posted</string>
+    <string name="string_premium">Premium</string>
+    <string name="string_premium_lite">Premium Lite</string>
+    <string name="string_profile_saved">Profile Saved</string>
+    <string name="string_project_details">Project Details</string>
+    <string name="string_proposal">Proposal</string>
+    <string name="string_quote">Quote</string>
+    <string name="string_receipt">Receipt</string>
+    <string name="string_receive_job_posting_notifications">"Receive job posting notifications
+
+See your VoiceMatch score
+
+Reply to all matching jobs
+
+Submit online auditions
+
+See audition statistics
+
+Improved ranking in search engine
+
+Obtain valuable feedback ratings
+
+Accept credit card payments
+
+Get paid by PayPal or check
+
+Priority customer service"</string>
+    <string name="string_recently_hired">Recently Hired</string>
+    <string name="string_record_permission">RECORD PERMISSION</string>
+    <string name="string_refresh_list">Refresh List</string>
+    <string name="string_registration">Registration</string>
+    <string name="string_registration_client">Registration - Client</string>
+    <string name="string_registration_talent">Registration - Talent</string>
+    <string name="string_rehire">Rehire</string>
+    <string name="string_release_payment">Release Payment</string>
+    <string name="string_releasing_payment_please_wait">Release payment, please wait…</string>
+    <string name="string_remember_me">Remember me</string>
+    <string name="string_reply">Reply</string>
+    <string name="string_reply_to_job">Reply To Job</string>
+    <string name="string_reply_to_message">Reply To Message</string>
+    <string name="string_request_a_quote">Request A Quote</string>
+    <string name="string_request_not_sent">Request Not Sent</string>
+    <string name="string_request_quote">Request Quote</string>
+    <string name="string_request_release_payment">Request Release</string>
+    <string name="string_request_sent">Request Sent</string>
+    <string name="string_reset_password">Reset Password</string>
+    <string name="string_resetting_password_please_wait">Resetting your password, please wait…</string>
+    <string name="string_response_deleted">Response Deleted</string>
+    <string name="string_responses">Responses</string>
+    <string name="string_retrieving_job_please_wait">Retrieving job, please wait…</string>
+    <string name="string_retype_password">Re-type Password</string>
+    <string name="string_role">Role</string>
+    <string name="string_roles">Roles</string>
+    <string name="string_sample_script">Sample Script</string>
+    <string name="string_save">Save</string>
+    <string name="string_save_as_draft">Save As Draft</string>
+    <string name="string_saving_audio_recording_please_wait">Saving audio recording, please wait…</string>
+    <string name="string_saving_audio_recording_to_file">Saving audio recording to file, please wait…</string>
+    <string name="string_saving_avatar_please_wait">Saving avatar image, please wait…</string>
+    <string name="string_saving_demo_please_wait">Saving demo, please wait…</string>
+    <string name="string_saving_job_as_draft_please_wait">Saving job as draft, please wait…</string>
+    <string name="string_saving_job_please_wait">Saving job, please wait…</string>
+    <string name="string_saving_profile_please_wait">Saving profile, please wait…</string>
+    <string name="string_search">Search</string>
+    <string name="string_search_all_age_ranges">Search all age ranges</string>
+    <string name="string_search_all_budget_ranges">Search all budget ranges</string>
+    <string name="string_search_all_categories">Search all categories</string>
+    <string name="string_search_all_languages">Search all languages</string>
+    <string name="string_search_all_tags">Search all tags</string>
+    <string name="string_search_all_unions">Search all unions</string>
+    <string name="string_search_all_years_of_experiences">Search all years of experiences</string>
+    <string name="string_search_both_genders">Search both genders</string>
+    <string name="string_search_messages">Search Messages</string>
+    <string name="string_search_results">Search Results</string>
+    <string name="string_search_the_talent_network">"Search the talent network of 75,000 profiles
+
+Listen to demos
+
+Post your job free!
+
+Receive auditions, listen online
+
+VoiceMatch recommendations
+
+100 MB of storage for auditions
+
+Hire talent using SurePay Invoice
+
+Download broadcast-ready files
+
+Email and toll-free telephone support"</string>
+    <string name="string_search_voice_talent">Search Voice Talent</string>
+    <string name="string_search_voice_talent_by_keyword">Search Voice Talent By Keyword, Language…</string>
+    <string name="string_select_demo">Select Demo</string>
+    <string name="string_select_picture">Select Picture</string>
+    <string name="string_select_proposal">Select Proposal</string>
+    <string name="string_select_your_account">Select Your Account</string>
+    <string name="string_send">Send</string>
+    <string name="string_send_email">Send Email</string>
+    <string name="string_send_me_a_quote">Send Me A Quote</string>
+    <string name="string_sending_email">Sending Email…</string>
+    <string name="string_sending_message_please_wait">Sending message, please wait…</string>
+    <string name="string_sending_your_information_please_wait">Sending your information please wait…</string>
+    <string name="string_sending_your_request">Sending Your Request, please wait…</string>
+    <string name="string_sent">Sent</string>
+    <string name="string_service_description">Service Description</string>
+    <string name="string_set_up_your_profile_information_what_skills">Set up your profile information, what skills you have and start recording demos!</string>
+    <string name="string_share_demo">Share Demo</string>
+    <string name="string_share_this_demo_via">Share this demo via:</string>
+    <string name="string_sign_up">Sign Up</string>
+    <string name="string_sounds_like">Sounds Like</string>
+    <string name="string_sounds_like_dotdotdot">Sounds Like…</string>
+    <string name="string_special_equipment">Special Equipment</string>
+    <string name="string_special_skills">Special Skills</string>
+    <string name="string_specify">Specify</string>
+    <string name="string_specify_dot_dot_dot">Specify…</string>
+    <string name="string_start_your_online_profile">Start Your Online Profile</string>
+    <string name="string_status">Status</string>
+    <string name="string_studio">Studio</string>
+    <string name="string_styles">Styles</string>
+    <string name="string_subject">Subject</string>
+    <string name="string_submit">Submit</string>
+    <string name="string_submit_audition">Submit Audition</string>
+    <string name="string_submitting_audition_please_wait">Submitting audition, please wait…</string>
+    <string name="string_submitting_job_please_wait">Submitting job, please wait…</string>
+    <string name="string_success_story">Success Story</string>
+    <string name="string_surepay_escrow">SurePay™ Escrow</string>
+    <string name="string_tags">Tags</string>
+    <string name="string_talent">Talent</string>
+    <string name="string_talent_rating">Talent Rating</string>
+    <string name="string_technical">Technical</string>
+    <string name="string_tell__name__about_your_project">Tell %1$s About Your Project</string>
+    <string name="string_tell_us_about_your_project">Tell Us About Your Project</string>
+    <string name="string_terms_of_service">Terms Of Service</string>
+    <string name="string_testimonial">Testimonial</string>
+    <string name="string_testimonials">Testimonials</string>
+    <string name="string_testimony">Add Testimony</string>
+    <string name="string_thank_you">Thank You!</string>
+    <string name="string_thank_you_for_your_business">Thank You For Your Business</string>
+    <string name="string_there_are_no_demos">"There are no demos.
+
+To add a demo tap on the plus icon at the top."</string>
+    <string name="string_there_are_no_feedback">There are no feedback.</string>
+    <string name="string_there_was_an_error_retrieving_the_demos">There was an error retrieving the demos.</string>
+    <string name="string_there_was_an_error_retrieving_the_feedback">There was an error retrieving the feedback.</string>
+    <string name="string_there_was_an_error_retrieving_the_top_100">There was an error retrieving the Top 100.</string>
+    <string name="string_there_was_an_error_retrieving_your_audition">There was an error retrieving your audition.</string>
+    <string name="string_there_was_an_error_retrieving_your_image_please_try_again_or_select_a_different_image">There was an error retrieving your image, please try again or select a different image.</string>
+    <string name="string_there_was_an_error_retrieving_your_job_responses">There was an error retrieving your job responses.</string>
+    <string name="string_there_was_an_error_retrieving_your_jobs">There was an error retrieving your jobs.</string>
+    <string name="string_there_was_an_error_retrieving_your_messages">There was an error retrieving your messages.</string>
+    <string name="string_there_was_an_error_retrieving_your_payments">There was an error retrieving your payments.</string>
+    <string name="string_this_month">This Month</string>
+    <string name="string_this_week">This Week</string>
+    <string name="string_title_of_project">Title of Project</string>
+    <string name="string_to">To</string>
+    <string name="string_to_contact_about">"To contact %s about your project, request a quote today. We'll walk you through the process step-by-step. It's fast and easy."</string>
+    <string name="string_to_lowercase">to</string>
+    <string name="string_to_reset_your_password_you">To reset your password, you just need to enter your registered email address. A temporary password will be sent to you in a few minutes.</string>
+    <string name="string_total">Total</string>
+    <string name="string_total_must_be_greater_than_or_equal">Total must be greater than or equal to $100.00</string>
+    <string name="string_transaction">Transaction</string>
+    <string name="string_turnaround_time">Turnaround Time</string>
+    <string name="string_type">Type</string>
+    <string name="string_unable_to_add_your_demo">Unable to add your demo because no audio has been recorded.</string>
+    <string name="string_unable_to_post_a_job">Unable To Post A Job</string>
+    <string name="string_unable_to_request_a_quote">Unable To Request A Quote</string>
+    <string name="string_unable_to_send_email">Unable to send email, there are no email clients installed.</string>
+    <string name="string_union_affiliation">Union Affiliation</string>
+    <string name="string_unknown">Unknown</string>
+    <string name="string_username">Username</string>
+    <string name="string_using_lame_library">This app uses the Lame library found here lame.sourceforge.net</string>
+    <string name="string_view_our_pro_services_overview">View our pro services overview (PDF)</string>
+    <string name="string_view_our_report_on_the_industry">View our report on the industry (PDF)</string>
+    <string name="string_voice_match">Voice Match™</string>
+    <string name="string_voices_com_is_online_marketplace">"Voices.com is the online marketplace that
+connects you with voice over talent."</string>
+    <string name="string_weve_received_your_message">"We've Received Your Message"</string>
+    <string name="string_word_count">Word Count</string>
+    <string name="string_work_description">Work Description</string>
+    <string name="string_years_of_experience">Years Of Experience</string>
+    <string name="string_you_can_send_an_audition">You can send an audition using the internet browser. Do you wish to continue?</string>
+    <string name="string_you_have_been_successfully_registered">You have been successfully registered!</string>
+    <string name="string_you_have_successfully_awarded_the_job">You have successfully awarded the job</string>
+    <string name="string_you_have_successfully_released_the_payment_to">You have successfully released the payment to</string>
+    <string name="string_you_have_successfully_submitted_your_audition_for_the_job">You have successfully submitted your audition for the job</string>
+    <string name="string_you_have_successfully_submitted_your_job">You have successfully submitted your job.</string>
+    <string name="string_youll_need_to_be_login_as_a_client_to_post_a_job">"You'll need to be logged in as a client, in order to post a job."</string>
+    <string name="string_youll_need_to_be_login_as_a_client_to_request_a_quote">"You'll need to be logged in as a client, in order to request a quote."</string>
+    <string name="string_your_account_executive_is_your">"Your Account Executive is your dedicated point-of-contact
+
+Your Casting Director oversees the work from start to finish
+
+We will provide a written proposal and price quote for your review
+
+Receive auditions, listen online
+
+We will consult you on artistic direction and technical specifications
+
+We will complete your audio production and deliver broadcast-quality files
+
+We guarantee your satisfaction!"</string>
+    <string name="string_your_audio_recording_has_been_saved">Your audio recording has been saved.</string>
+    <string name="string_your_demo_has_been_added">Your demo has been added to your profile.</string>
+    <string name="string_your_demo_has_been_deleted">Your demo has been deleted.</string>
+    <string name="string_your_demo_has_been_saved">Your demo has been saved.</string>
+    <string name="string_your_email_sent_to_customer_service">Your email has been sent to Customer Service.</string>
+    <string name="string_your_fee">Your Fee</string>
+    <string name="string_your_job_has_been_saved">Your job has been saved.</string>
+    <string name="string_your_job_has_been_saved_as_draft">Your job has been saved as draft.</string>
+    <string name="string_your_message_has_been_received_and_assigned">Your message has been received and assigned to one of our friendly representatives who will be calling you in the next day or so.</string>
+    <string name="string_your_message_has_been_sent">Your message has been sent.</string>
+    <string name="string_your_password_has_been_changed_and_sent_to_your_email_address">Your password has been changed and sent to your email address.</string>
+    <string name="string_your_profile_has_been_saved">Your profile has been saved.</string>
+    <string name="string_your_quote_must_be_greater_than_or_equal">Your quote must be greater than or equal to $100</string>
+    <string name="symbol_dollar_sign">$</string>
+    <string name="tagmanager_preview_dialog_button">Continue</string>
+    <string name="tagmanager_preview_dialog_message">Preview mode updated.</string>
+    <string name="tagmanager_preview_dialog_title">Preview</string>
+    <string name="voices_contact_info">"150 Dufferin Ave., Suite 800, London, ON, N6A 5N6
+ Phone: 519–858–5660 Email: support@voices.com Web:www.voices.com"</string>
+    <string name="wait_message_get_talent">"Retrieving talent's information, please wait…"</string>
+    <string name="wait_message_login">Logging in. Please wait…</string>
+    <string name="wait_message_login_automatically">Logging in automatically. Please wait…</string>
+    <string name="wait_message_search_talent">Searching Talent. Please wait…</string>
+</resources>

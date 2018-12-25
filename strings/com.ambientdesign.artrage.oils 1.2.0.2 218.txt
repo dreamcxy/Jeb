@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="collection_list_add_collection_hint">Enter collection name</string>
+    <string name="collection_list_add_collection_title">Add new collection</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_confirm">OK</string>
+    <string name="dialog_submit">Submit</string>
+    <string name="post_artwork_add_tags_in_your_description">Add #tags in your description</string>
+    <string name="post_artwork_collection_">Post to:</string>
+    <string name="post_artwork_edit_description"><i>Description</i></string>
+    <string name="post_artwork_edit_title"><i>Title</i></string>
+    <string name="post_artwork_wallpaper">Set as downloadable</string>
+    <string name="post_dialog_main_title">Post artwork on PEN.UP</string>
+    <string name="ArtRage_online">ArtRage Online</string>
+    <string name="about_artrage">About ArtRage</string>
+    <string name="about_text">"ArtRage is © Ambient Design Ltd, 2003–2017. 'ArtRage' and the ArtRage Brush Man Logo are registered trademarks of Ambient Design Ltd. in New Zealand and the USA."</string>
+    <string name="add_sample">Add Sample</string>
+    <string name="airbrush_tool">Airbrush</string>
+    <string name="antialias">Antialias Edge</string>
+    <string name="app_language">Select Language</string>
+    <string name="app_name">ArtRage</string>
+    <string name="app_name_basic">ArtRage Oils</string>
+    <string name="artpen">Art Pen</string>
+    <string name="artrage_android">ArtRage for Android</string>
+    <string name="aspect">Aspect</string>
+    <string name="autoclean">Auto Clean</string>
+    <string name="autoflow">Auto Flow</string>
+    <string name="basic">Basic</string>
+    <string name="blend_title">Blend Mode:</string>
+    <string name="blend_title_default">Blend Mode: Normal</string>
+    <string name="blur_type">Blur</string>
+    <string name="browser_not_found">Sorry, no browser app available.</string>
+    <string name="buy_button">Purchase ArtRage</string>
+    <string name="buy_message">This feature is only available in the Full Version which can be purchased from the Google Play Store.</string>
+    <string name="calibrate">Calibrate</string>
+    <string name="calibrate_now">Calibrate Now</string>
+    <string name="calibrate_touch_pressure">Calibrate Touch Pressure</string>
+    <string name="calibration">Calibration</string>
+    <string name="camera_access">Camera Access</string>
+    <string name="camera_access_message">ArtRage does not have permission to access the camera on this device. To use this feature please enable this on the ArtRage page in your Settings app.</string>
+    <string name="camera_not_found">Sorry, no camera app available.</string>
+    <string name="cancel">Cancel</string>
+    <string name="canvas_presets">Canvas Presets</string>
+    <string name="canvas_settings">Canvas Settings</string>
+    <string name="chalk">Chalk</string>
+    <string name="change_opacity">Change Opacity</string>
+    <string name="change_orientation">Change Orientation</string>
+    <string name="circle_type">Circle</string>
+    <string name="close">Close</string>
+    <string name="color_samples">Color Samples</string>
+    <string name="colordrag">Color Drag</string>
+    <string name="colour">Color</string>
+    <string name="colour_options">Color Options</string>
+    <string name="colourbleed">Color Bleed</string>
+    <string name="confirm_delete_all_swatches">Are you sure you want to delete all samples?</string>
+    <string name="copying_files">Copying Files…</string>
+    <string name="could_not_create_canvas_preview">Sorry, could not create canvas preview.</string>
+    <string name="could_not_create_new">Sorry, could not create a new project.</string>
+    <string name="could_not_load">Sorry, could not load the painting.</string>
+    <string name="could_not_load_file">Sorry, could not load the file.</string>
+    <string name="could_not_retrieve_penup_gallery">We cannot complete your request. Please try again.</string>
+    <string name="could_not_save">Sorry, could not save the painting.</string>
+    <string name="crayon_tool">Pastel</string>
+    <string name="create_new">Create New</string>
+    <string name="credits">Credits</string>
+    <string name="crop">Crop Image</string>
+    <string name="delete">Delete</string>
+    <string name="delete_message">Would you like to delete this painting:</string>
+    <string name="delete_multiple_presets">Delete Multiple Presets</string>
+    <string name="delete_multiple_presets_confirmation">Would you like to delete these presets?</string>
+    <string name="delete_multiple_swatches_confirmation">Would you like to delete these samples?</string>
+    <string name="delete_swatch">Delete Sample?</string>
+    <string name="delete_swatch_message">Would you like to delete this sample:</string>
+    <string name="delete_title">Delete Painting</string>
+    <string name="disable">Disable</string>
+    <string name="disabled">Disabled</string>
+    <string name="disrupted_saving_message">ArtRage was shut down before it could finish saving, please let it process longer before shutting it down or data could be lost.</string>
+    <string name="dont_hide_navigation">Show Navigation Bar</string>
+    <string name="dont_show_again">"Don't show this message again"</string>
+    <string name="dripsize">Drip Size</string>
+    <string name="dripspike">Drip Spike</string>
+    <string name="dripspread">Drip Spread</string>
+    <string name="duplicate">Duplicate</string>
+    <string name="duplicate_appendix">_Copy</string>
+    <string name="duplicate_item_message">There is already an item with this name, would you like to replace it, or choose another name?</string>
+    <string name="duplicate_message">Please choose a name for the duplicate:</string>
+    <string name="duplicate_title">Duplicate Painting</string>
+    <string name="edge_type">Edge</string>
+    <string name="edgewidth">Edge Width</string>
+    <string name="empty_gallery">No Paintings</string>
+    <string name="enabled">Enabled</string>
+    <string name="eraser_tool">Eraser</string>
+    <string name="exit_artrage">Exit ArtRage?</string>
+    <string name="exit_message">Would you like to exit ArtRage?</string>
+    <string name="export_script">Export Script</string>
+    <string name="falloff">Falloff</string>
+    <string name="file_doesnt_exist">File does not seem to exist.</string>
+    <string name="file_email_big">The file you are trying to send is large and may take some time to upload if you share it online. You can cancel if you wish.</string>
+    <string name="file_size">File Size</string>
+    <string name="files">Files</string>
+    <string name="filesize_exceeded">Painting exceeds maximum size</string>
+    <string name="fill_tool">Fill Tool</string>
+    <string name="fillopacity">Fill Opacity</string>
+    <string name="finger_and_stylus">Finger and Stylus</string>
+    <string name="flat_type">Flat</string>
+    <string name="free">Free</string>
+    <string name="galaxy_welcome1">Welcome to ArtRage!</string>
+    <string name="galaxy_welcome2">This version of ArtRage for Android is provided free of charge exclusively from Samsung GALAXY Gifts.</string>
+    <string name="galaxy_welcome3">This version of ArtRage for Android is provided free of charge exclusively for Galaxy Tab S2 users from GALAXY Gifts.</string>
+    <string name="gallery">Gallery</string>
+    <string name="gallery_large_message">"Your gallery contains %1$d paintings.
+
+You may start to see problems with performance. 
+
+ Consider backing up your paintings and removing them from the ArtRagePaintings folder."</string>
+    <string name="gallery_not_found">Sorry, no gallery or other browser app available.</string>
+    <string name="general">General</string>
+    <string name="glitter_tool">Glitter</string>
+    <string name="glittersize">Glitter Size</string>
+    <string name="gloop_tool">Gloop Pen</string>
+    <string name="go_to_settings">Go to Settings</string>
+    <string name="grain_canvas2">Canvas</string>
+    <string name="grain_coarse_canvas">Coarse Canvas</string>
+    <string name="grain_coarse_paper">Coarse Paper</string>
+    <string name="grain_crumpled">Crumpled</string>
+    <string name="grain_fine_canavs">Fine Canvas</string>
+    <string name="grain_fine_paper">Fine Paper</string>
+    <string name="grain_grainy">Grainy</string>
+    <string name="grain_hatching">Hatching</string>
+    <string name="grain_lumpy_paper">Lumpy Paper</string>
+    <string name="grain_mottled">Mottled</string>
+    <string name="grain_pillowing">Pillowing</string>
+    <string name="grain_soft">Soft</string>
+    <string name="grains">Grains</string>
+    <string name="grit_type">Grit</string>
+    <string name="help">Help</string>
+    <string name="help_about_1">ArtRage for Android – Terms and Conditions.</string>
+    <string name="help_about_10">Make copies of the Program, or any part thereof, excepting for backup and archive purposes.</string>
+    <string name="help_about_11">Reverse engineer, disassemble or modify the Program or any part thereof.</string>
+    <string name="help_about_12">Ownership.</string>
+    <string name="help_about_13">All title, ownership rights and other rights to the Program are retained by the Authors except where granted to its authorized distributors or licensed from any authorized external source. The Program is protected by international copyright law.</string>
+    <string name="help_about_14">Disclaimers, and Liability Limitation.</string>
+    <string name="help_about_15">"The Authors provide the Program 'as is' and shall in no event be held responsible for any damages resulting from the use of the application, to the extent permitted by law. The Authors' liability shall not exceed the price paid to purchase the Program from the Authors or their authorized distributors. By agreeing to this license you agree to indemnify the Authors, their licensors, employees and officers from any damages, losses, or expenses that may arise through the use of the Program."</string>
+    <string name="help_about_16">Termination.</string>
+    <string name="help_about_17">This license may be terminated immediately if you fail to comply with any of the terms and conditions herein. Upon termination, all rights granted to the licensee by this license are revoked, without prejudice to the rights of the Author, and you agree to destroy all copies of the Program forthwith.</string>
+    <string name="help_about_18">Online Communication.</string>
+    <string name="help_about_19">"The Program is able to make use of online sharing systems built in to the Android Operating System or added by third parties to that system as 'Intents' or in any other manner. These systems are only activated at the time of a specific user request. When using these systems the Program only transmits the data those systems require – The Authors do not accept responsibility for any data transmitted through this system or for the types of data being requested.
+
+The Program may request permission from the operating system to access the internet and network state systems but this is only done as part of implementing support for the sharing system mentioned above.
+
+The Authors do not attempt to read, store, or track any personal information from your system."</string>
+    <string name="help_about_2">"ArtRage © 2003–2017, Ambient Design Ltd, all rights reserved.
+
+'ArtRage' and the ArtRage Brush Man Logo are registered trademarks of Ambient Design Ltd."</string>
+    <string name="help_about_20">Contacting The Authors.</string>
+    <string name="help_about_21">The Authors may be contacted via their website at www.artrage.com.</string>
+    <string name="help_about_22">External Source Code Licenses.</string>
+    <string name="help_about_23">The Program makes use of the following pieces of third party software code with the accompanying licenses:</string>
+    <string name="help_about_24">TouchListView: Licensed under the Apache License v2.0 – available from http://www.apache.org/licenses/LICENSE-2.0</string>
+    <string name="help_about_25">Android-multitouch-controller: Licensed under the MIT License available from http://opensource.org/licenses/mit-license.php</string>
+    <string name="help_about_3">Definitions.</string>
+    <string name="help_about_4">"'The Program' below refers to ArtRage for Android and any support materials that come with it, including the manual, resource materials and any other materials provided on purchase.
+
+'The Authors' below refers to Ambient Design Ltd, a registered company of Auckland, New Zealand. Contact details are available at the bottom of this document."</string>
+    <string name="help_about_5">General.</string>
+    <string name="help_about_6">"This license covers ArtRage for Android and outlines the terms by which the application is provided to the license holder. No licenses for any other version of ArtRage shall apply to the Program. Note that future updates to the Program may be covered by their own licenses, which will supersede this agreement.
+
+Subject to the conditions outlined below, this license grants you the non-exclusive and non-transferrable right to install and use one copy of the Program for your personal use. This license does not confer ownership of the Program, and any rights not specifically granted in this document are reserved by the Authors and any agents they have authorized."</string>
+    <string name="help_about_7">Conditions.</string>
+    <string name="help_about_8">By accepting this license agreement, you agree not to:</string>
+    <string name="help_about_9">Sell, rent, or distribute the Program or copies of it without the written permission of the Authors.</string>
+    <string name="help_color1">Color Selection:</string>
+    <string name="help_color10">Tap and hold on any sample and you will get options for deleting samples you no longer need.</string>
+    <string name="help_color11">Tracing Images:</string>
+    <string name="help_color12">"Load a Tracing Image as a guide while you paint. ArtRage can be set to pick colors from it automatically with each stroke.
+
+Tracing Images can be loaded from your Photo gallery."</string>
+    <string name="help_color13">"The preview at the top shows you the image you have loaded.
+
+The Eye button indicates if the image is visible. If it is, you will see it overlaid on the canvas. Tap it to show or hide the image.
+
+The menu button gives you options for loading and scaling the image, and for automatic color sampling.
+
+The Opacity slider controls how strongly the image is overlaid on your canvas."</string>
+    <string name="help_color14">Reference Images:</string>
+    <string name="help_color15">Reference Images are photos loaded from your Photo gallery and pinned to the canvas while you work as a guide.</string>
+    <string name="help_color16">"Tap 'New' to load a new Reference from your Photo gallery.
+
+The Eye button is used to show or hide the Reference and the Menu button provides options for that Reference.
+
+Loaded references are 'pinned' to the canvas."</string>
+    <string name="help_color17">"A Reference that is pinned to the canvas can be moved and scaled using two fingers, just like the canvas. Two fingers can also be used to rotate the image.
+
+Tapping and dragging with one finger in a reference chooses a color from it for your current paint."</string>
+    <string name="help_color18">Layers are transparent sheets that sit in a stack on your canvas. Painting on a layer means that you can paint without damaging the work you have done on other layers.</string>
+    <string name="help_color19">"Each layer has a preview showing its contents, and an Eye button to show or hide it on the canvas.
+
+The Circular button indicates how opaque the Layer is, tap and drag up and down to change this value."</string>
+    <string name="help_color2">The Color Picker allows you to select the current Paint Color and store Color Samples for quick access later.</string>
+    <string name="help_color20">"Add a new Layer with the New button. You can then tap that Layer to select it, and any paint you apply to the canvas is applied to that Layer.Tap and drag on the arrow box on the left of the preview to move the layer up and down in the list.
+
+Because each Layer is its own 'sheet', the paint that you apply will not blend with paint from any other Layer, so you can use Layers to simulate paint drying."</string>
+    <string name="help_color21">"Transform individual layers, or transform all layers at once.
+
+Layer Transform allows individual layers, or the entire painting, to be moved, flipped, scaled and rotated. It includes locks for each variable to allow perfect control.
+
+The Transform Layer option can be found in the Layers menu, under the menu options for each layer."</string>
+    <string name="help_color22">"You can turn on Transform Locks in the settings menu. The different Transform Locks make it easier to edit your painting by locking rotation, scale, position on screen, canvas or paint.
+
+Active Transform Locks show up as icons along the top of the screen and can be turned off again by tapping the icon."</string>
+    <string name="help_color23">Layer Transform:</string>
+    <string name="help_color3">The thin arc shows the basic color you are picking.</string>
+    <string name="help_color4">The thick arc lets you pick how dark or light, and how bright or grey that color is.</string>
+    <string name="help_color5">This selects how shiny the paint is.</string>
+    <string name="help_color5a">"The metallic arc selects how shiny the paint is.
+
+The pod shows the current color."</string>
+    <string name="help_color6">This shows the current color.</string>
+    <string name="help_color7">Using the Color Picker:</string>
+    <string name="help_color8">"Color selection works in two stages: First you pick a basic color (the 'Hue') such as Red or Blue using the thin color arc on the outside of the picker.
+
+Once you have picked a Hue, you set how light or dark, and how vibrant or grey the final color should be by dragging in the larger arc of the picker.
+
+Think of it as if you are mixing colors - Picking a basic hue and blending in white and black to get the final result.
+
+The color Pod at the bottom right shows the actual color you will be painting with. Tap it to show or hide the picker."</string>
+    <string name="help_color8a">If you have a tracing image loaded, color will be selected automatically and the pod will show a trace icon.</string>
+    <string name="help_color9">Color Samples are stored colors you can access later. Tap Add Sample to store the current color as a sample, tap a sample to make it the current color.</string>
+    <string name="help_files1">The Gallery:</string>
+    <string name="help_files10">"Do not use 'Share' to export an image then 'Import' to bring it back in for more work - Always use the Saved Painting when you want to continue working on an image."</string>
+    <string name="help_files11">Creating New Paintings:</string>
+    <string name="help_files12">When you tap New Painting you are presented with a set of options that allow you to define how the canvas will look and what kind of texture it has.</string>
+    <string name="help_files13">"Enter the Name of your painting by tapping the Name entry box.
+
+Tap the Size indicator to set its size. The icon to the right is used to rotate the canvas 90 degrees if you want to adjust its orientation."</string>
+    <string name="help_files14">This section controls the look of the canvas. Tap the Presets button for a list of predefined canvas types.</string>
+    <string name="help_files15">Tap the Grains button to choose a canvas grain from a list.</string>
+    <string name="help_files16">Tap the Color button to set the basic color of the canvas (the default is slightly off-white).</string>
+    <string name="help_files17">The Roughness slider controls how rough the Grain is.</string>
+    <string name="help_files18">The Metallic slider controls how shiny the canvas is.</string>
+    <string name="help_files19">The Reset button resets all canvas properties to default in case you need to clear everything.</string>
+    <string name="help_files2">All of your Paintings are stored in the Gallery. When you return here from the canvas your current Painting is saved. The Gallery lets you view, adjust, and load your paintings for additional work.</string>
+    <string name="help_files20">Click OK to create your new Painting, or Cancel to return to the Gallery.</string>
+    <string name="help_files21">"On the right hand side of the New Painting screen is a preview of your canvas, showing how a paint stroke will look when applied to it.
+
+Use the preview to check how the Grain and Roughness values affect the look of paint - Some tools such as Pastel and dry Oil react to the texture of the canvas in different ways."</string>
+    <string name="help_files22">Scripting:</string>
+    <string name="help_files22a">Script Recording</string>
+    <string name="help_files23">Script Recording allows you to record your paint strokes in a file that can be exported and played back in a desktop version of ArtRage. This allows you to recreate the painting process for screen recording or demos. Certain desktop editions (such as ArtRage 5) allow you to change the Canvas Size when you start script playback, which allows you to increase the final size of the painting larger than the Android app can support.</string>
+    <string name="help_files23a">You can turn on recording in the New Painting screen when you start a new painting by selecting the Record Script option.</string>
+    <string name="help_files24">Script Exporting</string>
+    <string name="help_files25">"After saving a painting with recording active you can export its Script from the Gallery using its file sharing options. In the Gallery choose 'Share' to export the script file to email or a file sharing app, or choose Export to create a copy of the script file in the ArtRage/Scripts folder on your device."</string>
+    <string name="help_files26">Scripts can be exported multiple times, so you can continue painting and export updated scripts later. Scripts continue to record automatically if you open the original painting file in a desktop edition that supports recording.</string>
+    <string name="help_files2a">There are three buttons in the Gallery Toolbar: Tap New Painting to add a new painting to your gallery. Tap Import to load an image from another application or from the camera to use as a painting. Tap the System button (three dots) for gallery options.</string>
+    <string name="help_files2b">To add a new painting tap the + button on the Gallery toolbar.</string>
+    <string name="help_files3">"When you tap a painting, its information panel appears. Tap the preview to open the painting to continue work on it.
+
+The buttons underneath are:
+
+Rotate Left, Rotate Right - Tap to rotate the canvas 90 degrees in the indicated direction.
+
+Share - Tap to share a copy of your painting.
+
+Duplicate - Tap to create a new copy of the painting in the gallery.
+
+Delete - Tap to delete the painting."</string>
+    <string name="help_files7">Import and Export:</string>
+    <string name="help_files8">"ArtRage Paintings are not just image files like photos, they contain lots of extra information about the paint such as how wet it is and how thick it is. This means that your Painting files won’t be understood by normal Image readers such as Photo galleries.
+
+Share allows you to share a copy of a Painting in a format that can be understood by another application, such as a PNG or JPEG image file.
+
+Import allows you to bring an existing non-ArtRage image in to a canvas for painting. This prepares a copy of the original and adds the information ArtRage needs to allow the paint to work. This copy can be used like a standard Painting."</string>
+    <string name="help_files9">Important:</string>
+    <string name="help_general1">How to Paint in ArtRage:</string>
+    <string name="help_general10">Toolbar Buttons:</string>
+    <string name="help_general11">Tap for a menu of system options including options to save, create new paintings, and gallery access.</string>
+    <string name="help_general11a">System Menu</string>
+    <string name="help_general11b">The System Menu also contains pen and toolbar options, and help options.</string>
+    <string name="help_general12">Tool Size Percent:</string>
+    <string name="help_general13">Tap and drag left and right on the tool size percent to change the size of the current Tool. Tap to enter the value manually.</string>
+    <string name="help_general14">Tap for a list of presets for the current tool. You can add and delete presets from this panel. For more information see the Tools section.</string>
+    <string name="help_general15">Tap for a panel containing settings for the current tool. Settings allow you to change the look of the paint you are applying on the canvas. For more information see the Tools section.</string>
+    <string name="help_general16">Tap for a list of available tools. When the panel appears, tap a tool to make it active. The icon for this button will change to show you which tool is currently active. For more information see the Tools section.</string>
+    <string name="help_general18">Undo:</string>
+    <string name="help_general19">Tap to Undo the last thing you did. This button only lights up if there is something to Undo.</string>
+    <string name="help_general2">Use One Finger:</string>
+    <string name="help_general20">Redo:</string>
+    <string name="help_general21">Tap to Redo the last thing you Undid. This button only lights up if there is something to Redo.</string>
+    <string name="help_general22">Tap for a list of available Layers. For more information see the Tools section.</string>
+    <string name="help_general23">Tap to load a Reference Image or a list of available References. For more information see the Color section.</string>
+    <string name="help_general24">Tap to load a Tracing Image or edit an existing one. For more information see the Color section.</string>
+    <string name="help_general25">Tap to open the Color Samples panel which contains a list of stored colors.</string>
+    <string name="help_general3">Tap and drag with one finger to paint a stroke on the canvas. Lift your finger to end the stroke.</string>
+    <string name="help_general3a">If your brush runs out of paint while you make a stroke, just lift your finger and start a new one, or change the Loading setting of the current tool.</string>
+    <string name="help_general4">Use Two Fingers to Move and Zoom:</string>
+    <string name="help_general5">Tap and drag to move. Pinch to zoom. Tap with two fingers to reset the canvas to fill the screen.</string>
+    <string name="help_general6">Use Three Fingers for Shortcuts:</string>
+    <string name="help_general7">"Drag up and down with three fingers to change the brush size.
+
+Swipe left with three fingers to Undo, swipe right to Redo."</string>
+    <string name="help_general7a">Tap with three fingers to hide the toolbars - tap again with three fingers and the toolbar will reappear.</string>
+    <string name="help_general8">Pods:</string>
+    <string name="help_general9">"On the left and right of the Canvas are 'Pods' that contain important controls you will use frequently in ArtRage.
+
+On the left is the Tool Pod. Tap it to open the Tool Picker.
+
+On the right is the Color Pod. It shows you what color you have selected. Tap it to open the Color Picker."</string>
+    <string name="help_general9a">Tool Pod:</string>
+    <string name="help_general9b">Shows the selected tool. Tap for tool picker.</string>
+    <string name="help_general9c">Color Pod:</string>
+    <string name="help_general9d">Shows the selected color. Tap for color picker.</string>
+    <string name="help_tool">Tool Selection:</string>
+    <string name="help_tool1">Erases paint from the canvas.</string>
+    <string name="help_tool10">Creates bold, solid ink strokes with optional smoothing and tapering.</string>
+    <string name="help_tool11">Smears thick paint around or smudges thin, dry paint with its flat blade or edge.</string>
+    <string name="help_tool12">Sprays a thin mist of color on to the canvas.</string>
+    <string name="help_tool13">Paint with a variety of watercolor strokes using a soft bristled brush on wet or dry paper.</string>
+    <string name="help_tool14">A paint brush that places thick or thin oil paint and allows smearing and blending.</string>
+    <string name="help_tool15">Tool Settings:</string>
+    <string name="help_tool16">The Tool Settings panel lets you adjust various properties of each tool. By changing settings you can create a wide range of different effects. For example, a dry oil brush with thinned paint looks very different to a heavily loaded oil brush using thick paint.</string>
+    <string name="help_tool17">Tool Preview:</string>
+    <string name="help_tool18">This shows you what the tool stroke will look like.</string>
+    <string name="help_tool19">Slider:</string>
+    <string name="help_tool1a">Pour large areas of paint on to the canvas.</string>
+    <string name="help_tool2">Samples color from the canvas.</string>
+    <string name="help_tool20">Tap and drag to change the value, or tap the number to enter it manually.</string>
+    <string name="help_tool21">Type Picker:</string>
+    <string name="help_tool22">Tap one of the types indicated to select it, the name of the type is shown at the top right.</string>
+    <string name="help_tool23">Toggle:</string>
+    <string name="help_tool24">Tap to turn the feature on or off. If the button shows a tick, the feature is turned on.</string>
+    <string name="help_tool25">Tap this button to reset the current tool to default settings if you ever need to.</string>
+    <string name="help_tool26">Tool Presets:</string>
+    <string name="help_tool27">"Tool presets are a quick way to store settings for a particular tool. When a preset is activated, all of the settings that were stored with it are restored.
+
+Presets can be used to store different types of tool. For example, an Oil Drybrush, or a Thick Glossy Oil paint."</string>
+    <string name="help_tool28">Adding a new Preset:</string>
+    <string name="help_tool29">To store the current tool settings in a new Preset tap the New Preset button. A panel will appear that allows you to enter a name and pick an area of the canvas to use as a preview.</string>
+    <string name="help_tool3">Makes broad strokes of evenly applied paint.</string>
+    <string name="help_tool30">Tap the preview image to choose an area of the canvas to use, and tap the name area to enter the name for your new Preset.</string>
+    <string name="help_tool4">Sprinkle colored particles of glitter of various shapes on to the canvas.</string>
+    <string name="help_tool5">Lays down thick bands of paint for smearing.</string>
+    <string name="help_tool6">A special effect pen that produces expanding blobs of ink on the canvas.</string>
+    <string name="help_tool7">Creates waxy strokes that react to canvas grain.</string>
+    <string name="help_tool8">Creates translucent felt pen strokes.</string>
+    <string name="help_tool9">Creates fine lines that react to canvas grain.</string>
+    <string name="help_upgrade_info_1">"We created this free version so that everyone can try a real painting app, and because we wanted to share our fun and easy oil paint with as many people as possible. But it obviously has its limits.
+
+Want to do a lot more? Purchasing our full Android app will allow you to paint and draw with a full range of traditional art tools, unlimited layers, customizable canvas textures and tool settings, allows canvas sizes up to 2048x2048 pixels, and comes with a bunch of neat features like pinnable Reference Images, Tracing, and Layer Blend Modes."</string>
+    <string name="help_upgrade_info_2">You can also find ArtRage on iOS, and as a powerful desktop application for Windows and Mac OS X at www.artrage.com.</string>
+    <string name="help_upgrade_info_3">What you get with the Free Version:</string>
+    <string name="help_upgrade_info_4">"• The Oil brush tool, which lets you experience ArtRage's unique paint blending, canvas texture, live color mixing and thick paint effects
+
+• Four presets for the oil brush
+
+• One default canvas
+
+• Canvas size based on your device screen (maximum size 1024 pixels)
+
+• Unlimited undo and redo
+
+• Import photos and images as new paintings from the gallery
+
+• Export as JPEG to your photo gallery and other apps
+
+• Save your paintings in ArtRage's unique PTG file format"</string>
+    <string name="hide_navigation">Hide Navigation Bar</string>
+    <string name="import_image">Import Image…</string>
+    <string name="import_string">Import</string>
+    <string name="ink_tool">Ink Pen</string>
+    <string name="innerblur">Inner Blur</string>
+    <string name="instadry">Insta Dry</string>
+    <string name="intel_license_check_pid">This software can only run on Intel® Education Platforms.</string>
+    <string name="intel_license_dll_problem">Missing or invalid client library. Please reinstall Intel® Education Software Activation Client.</string>
+    <string name="intel_license_fature_not_licensed">This software is not licensed. Please obtain a valid license using Intel® Education Software Activation Client.</string>
+    <string name="intel_license_internal_error">License Control Internal Error. Please reinstall Intel® Education Software Activation Client.</string>
+    <string name="intel_license_license_has_expired">The trial license for this software has expired. Please activate your Intel® Education Software using Intel® Education Software Activation Client.</string>
+    <string name="intel_license_missing_license_file">An Internet connection is required to activate your software. Please activate your Intel® Education Software using Intel® Education Software Activation Client.</string>
+    <string name="intel_license_service_connection_failed">The application could not be activated at this time. Please try again later.</string>
+    <string name="intel_license_trial_days_left">You have %1$d days left to activate your Intel® Education Software. Please activate your software using Intel® Education Software Activation Client. An internet connection is required.</string>
+    <string name="intel_license_version_not_licensed">This version of the software is not licensed. Please obtain a valid license using Intel® Education Software Activation Client.</string>
+    <string name="intent_not_found">Sorry, could not find any apps for the intent.</string>
+    <string name="knife_tool">Knife</string>
+    <string name="layer_options">Layer Options</string>
+    <string name="layers">Layers</string>
+    <string name="list_options">Gallery List Options</string>
+    <string name="loading">Loading</string>
+    <string name="loading_painting">Loading Painting…</string>
+    <string name="loading_resources">Setting Up Defaults…</string>
+    <string name="lock_rotation">Lock Interface Rotation</string>
+    <string name="locked">Locked</string>
+    <string name="low_memory_message">Could not execute your request because your device is low on memory. Try to free up space by deleting files from your SD card or deleting unused apps.</string>
+    <string name="max_size_painting">Maximum Size:</string>
+    <string name="maybe_wrong_format">It might have been the wrong format.</string>
+    <string name="menu">Menu</string>
+    <string name="metallic">Metallic</string>
+    <string name="more_info">More Info</string>
+    <string name="multicolour">Multicolor</string>
+    <string name="name">Name</string>
+    <string name="navigation_bar">Navigation Bar</string>
+    <string name="new_painting">New Painting</string>
+    <string name="new_preset">New Preset</string>
+    <string name="new_reference">New Reference</string>
+    <string name="new_string">New</string>
+    <string name="new_trace">New Tracing Image</string>
+    <string name="no">No</string>
+    <string name="not_locked">Not Locked</string>
+    <string name="not_saved_to_pictures">Could not save to pictures.</string>
+    <string name="oil_tool">Oil Brush</string>
+    <string name="ok">OK</string>
+    <string name="on_bottom">On Bottom</string>
+    <string name="on_top">On Top</string>
+    <string name="opacity">Opacity</string>
+    <string name="open_painting">Open ArtRage Painting</string>
+    <string name="options">Options</string>
+    <string name="outerblur">Outer Blur</string>
+    <string name="overwrite">Replace</string>
+    <string name="overwrite_message1">The painting you are trying to save already exists.</string>
+    <string name="overwrite_message2">Would you like to replace it or rename it? Please choose from one of the two options below:</string>
+    <string name="painting">Painting</string>
+    <string name="painting_name_not_unique">A painting with the same name already exists. Please choose another name.</string>
+    <string name="painting_size">Painting Size (Width x Height)</string>
+    <string name="paperwet">Paper Wet</string>
+    <string name="pen_button_enabled">Pen Button Enabled</string>
+    <string name="pen_tool">Pen</string>
+    <string name="pencil_tool">Pencil</string>
+    <string name="penup_gallery">PEN.UP Gallery</string>
+    <string name="penup_gallery_empty">No artwork.</string>
+    <string name="penup_upload_complete">Upload complete.</string>
+    <string name="penup_upload_failed">Upload failed. Please try again.</string>
+    <string name="percent">%</string>
+    <string name="permission_read_storage_denied">Reading from storage is required to run ArtRage. ArtRage will close now.</string>
+    <string name="permission_write_storage_denied">Writing to storage is required to run ArtRage. ArtRage will close now.</string>
+    <string name="please_reinstall">Sorry, there seems to be a problem with the application. Please try to reinstall it.</string>
+    <string name="please_wait">Please wait</string>
+    <string name="post_to_penup">Post to PEN.UP</string>
+    <string name="preceise">Precise</string>
+    <string name="preset_airbrush_big_and_subtle">Big and Subtle</string>
+    <string name="preset_airbrush_slow_flow">Slow Flow</string>
+    <string name="preset_airbrush_slow_flow_tinter">Slow Flow Tinter</string>
+    <string name="preset_airbrush_tendrils">Tendrils</string>
+    <string name="preset_canvas_canvas_fine">Canvas - Fine</string>
+    <string name="preset_canvas_canvas_smooth">Canvas - Smooth</string>
+    <string name="preset_canvas_paper_basic">Paper - Basic</string>
+    <string name="preset_canvas_paper_cockled">Paper - Cockled</string>
+    <string name="preset_canvas_paper_crumpled">Paper - Crumpled</string>
+    <string name="preset_canvas_paper_fine">Paper - Fine</string>
+    <string name="preset_canvas_paper_lumpy">Paper - Lumpy</string>
+    <string name="preset_canvas_paper_rough">Paper - Rough</string>
+    <string name="preset_canvas_paper_watercolour">Paper - Watercolor</string>
+    <string name="preset_canvas_special_blackboard">Special - Blackboard</string>
+    <string name="preset_canvas_special_coarse">Special - Coarse</string>
+    <string name="preset_canvas_special_pillowed">Special - Pillowed</string>
+    <string name="preset_canvas_special_plastic">Special - Plastic</string>
+    <string name="preset_canvas_special_ridged">Special - Ridged</string>
+    <string name="preset_canvas_special_tinfoil">Special - Tin Foil</string>
+    <string name="preset_crayon_hard_wax">Hard Wax</string>
+    <string name="preset_crayon_soft_wax">Soft Wax</string>
+    <string name="preset_eraser_hard_edge">Hard Edge</string>
+    <string name="preset_eraser_instant_erase">Instant Erase</string>
+    <string name="preset_eraser_soft_eraser">Soft Eraser</string>
+    <string name="preset_ink_billboard">Billboard</string>
+    <string name="preset_ink_harsh_multiply">Harsh Multiply</string>
+    <string name="preset_ink_no_antialiasing">No Antialiasing</string>
+    <string name="preset_ink_round_and_smooth">Round and Smooth</string>
+    <string name="preset_ink_smooth_inking">Smooth Inking</string>
+    <string name="preset_ink_smooth_transparent_ink">Smooth Transparent Ink</string>
+    <string name="preset_ink_technical_pen">Technical Pen</string>
+    <string name="preset_ink_thick_and_thin">Thick and Thin</string>
+    <string name="preset_ink_thick_liner">Thick Liner</string>
+    <string name="preset_ink_writing_chisel">Writing Chisel</string>
+    <string name="preset_knife_blurred_frosting">Blurred Frosting</string>
+    <string name="preset_knife_frost">Frost</string>
+    <string name="preset_knife_frosted_spots">Frosted Spots</string>
+    <string name="preset_knife_hard_out_smear">Hard Out Smear</string>
+    <string name="preset_knife_hard_out_smudge">Hard Out Smudge</string>
+    <string name="preset_knife_hard_wet_blender">Hard Wet Blender</string>
+    <string name="preset_knife_harsh_chaos">Harsh Chaos</string>
+    <string name="preset_knife_heavy_blurred_frosting">Heavy Blurred Frosting</string>
+    <string name="preset_knife_instant_blur">Instant Blur</string>
+    <string name="preset_knife_just_blend_color">Just Blend Color</string>
+    <string name="preset_knife_knife_edge_trail">Knife Edge Trail</string>
+    <string name="preset_knife_small_frost">Small Frost</string>
+    <string name="preset_knife_tiny_frost">Tiny Frost</string>
+    <string name="preset_oil_driest_brush">Driest Brush</string>
+    <string name="preset_oil_dry_clumps">Dry Clumps</string>
+    <string name="preset_oil_dry_varnished">Dry Varnished</string>
+    <string name="preset_oil_everlasting_oil">Everlasting Oil</string>
+    <string name="preset_oil_normal_round">Normal Round</string>
+    <string name="preset_oil_normal_square">Normal Square</string>
+    <string name="preset_oil_thick_gloss">Thick Gloss</string>
+    <string name="preset_oil_thick_gloss_square">Thick Gloss Square</string>
+    <string name="preset_oil_thin_and_dry">Thin and Dry</string>
+    <string name="preset_oil_tiny_daubs">Tiny Daubs</string>
+    <string name="preset_oil_unclean_brush">Unclean Brush</string>
+    <string name="preset_options">Preset Options</string>
+    <string name="preset_pen_blending_markers">Blending Markers</string>
+    <string name="preset_pen_hard_tip">Hard Tip</string>
+    <string name="preset_pen_left_the_cap_off">Left The Cap Off</string>
+    <string name="preset_pen_soft_marker">Soft Marker</string>
+    <string name="preset_pencil_auto_smooth_me">Auto Smooth Me</string>
+    <string name="preset_pencil_hard_and_dark">Hard and Dark</string>
+    <string name="preset_pencil_hard_shader">Hard Shader</string>
+    <string name="preset_pencil_hard_tip">Hard Tip</string>
+    <string name="preset_pencil_heavy_and_smooth">Heavy and Smooth</string>
+    <string name="preset_pencil_soft_tip">Soft Tip</string>
+    <string name="preset_pencil_thin_precise_liner">Thin Precise Liner</string>
+    <string name="preset_roller_dry_roller">Dry Roller</string>
+    <string name="preset_roller_speckled_line">Speckled Line</string>
+    <string name="preset_roller_thick_and_smooth">Thick and Smooth</string>
+    <string name="preset_roller_unclean_roller">Unclean Roller</string>
+    <string name="preset_watercolour_delicate_on_dry">Delicate on Dry</string>
+    <string name="preset_watercolour_dried_strokes">Dried Strokes</string>
+    <string name="preset_watercolour_dry_on_wet">Dry on Wet</string>
+    <string name="preset_watercolour_harsh_lines">Harsh Lines</string>
+    <string name="preset_watercolour_heavy_bleed">Heavy Bleed</string>
+    <string name="preset_watercolour_just_a_spot">Just A Spot</string>
+    <string name="preset_watercolour_just_water">Just Water</string>
+    <string name="preset_watercolour_low_blending">Low Blending</string>
+    <string name="preset_watercolour_small_strokes_on_wet">Small Strokes on Wet</string>
+    <string name="preset_watercolour_thin_strokes_on_wet">Thin Strokes on Wet</string>
+    <string name="preset_watercolour_unclean_brush">Unclean Brush</string>
+    <string name="preset_watercolour_wet_on_wet">Wet on Wet</string>
+    <string name="presets">Presets</string>
+    <string name="pressure">Pressure</string>
+    <string name="random_type">Random</string>
+    <string name="rate_app">Rate ArtRage</string>
+    <string name="record_script">Record Script</string>
+    <string name="redo">Redo</string>
+    <string name="refresh_gallery">Refresh Gallery List</string>
+    <string name="refs">References</string>
+    <string name="refs_options">Reference Options</string>
+    <string name="rename">Rename</string>
+    <string name="rename_painting">Rename Painting</string>
+    <string name="replace_existing_file">Replace Existing File (Overwrites Old File)</string>
+    <string name="reset">Reset</string>
+    <string name="roller_tool">Roller</string>
+    <string name="rotate_left">Rotate Left</string>
+    <string name="rotate_painting">Rotate Painting…</string>
+    <string name="rotate_right">Rotate Right</string>
+    <string name="rotation">Rotation</string>
+    <string name="roughness">Roughness</string>
+    <string name="sample_light">With Lighting</string>
+    <string name="sampler_tool">Sampler</string>
+    <string name="save">Save</string>
+    <string name="save_as">Save As</string>
+    <string name="save_calibration">Save Calibration</string>
+    <string name="save_painting">Save Painting</string>
+    <string name="save_painting_as">Save Painting As</string>
+    <string name="save_painting_message">The painting has been changed since it was last saved.</string>
+    <string name="save_tmp_message">ArtRage Canvas Saved.</string>
+    <string name="saved_calibrations">Saved Calibrations</string>
+    <string name="saved_to_pictures">Saved to pictures.</string>
+    <string name="saving_painting">Saving painting</string>
+    <string name="script">Script</string>
+    <string name="script_not_saved">Could not save script.</string>
+    <string name="script_saved">Script saved to:</string>
+    <string name="select_preview">Select Preview</string>
+    <string name="settings">Settings</string>
+    <string name="setup_ArtRage">Setting up ArtRage…</string>
+    <string name="share">Share</string>
+    <string name="share_message">Created with ArtRage for Android.</string>
+    <string name="share_script">Share Script</string>
+    <string name="show_ref">Show Reference</string>
+    <string name="single_layer">Current Layer Only</string>
+    <string name="size">Size</string>
+    <string name="smoothing">Smoothing</string>
+    <string name="smudge">Smudge</string>
+    <string name="soft_type">Soft</string>
+    <string name="softness">Softness</string>
+    <string name="sort_by_date">Sort By Date</string>
+    <string name="sort_by_name">Sort By Name</string>
+    <string name="sphere_type">Sphere</string>
+    <string name="spread">Spread</string>
+    <string name="square_type">Square</string>
+    <string name="squarehead">Square Head</string>
+    <string name="stylus_only">Stylus Only</string>
+    <string name="stylus_only_message">"You seem to be trying to paint with your finger while in Stylus-Only Mode. 
+
+To disable Stylus-Only Mode click Disable. 
+
+Click Cancel to dismiss this message."</string>
+    <string name="stylus_only_mode">You are in Stylus-Only mode</string>
+    <string name="swatch_options">Samples Options</string>
+    <string name="sys_default">Default</string>
+    <string name="t_and_c">Terms and Conditions</string>
+    <string name="take_photo">Take a photo…</string>
+    <string name="tap_to_open">Tap painting to open</string>
+    <string name="taperlength">Taper Length</string>
+    <string name="thinners">Thinners</string>
+    <string name="tiltangle">Tilt Angle</string>
+    <string name="tmp_sampling">Tap and Hold Color Sampling</string>
+    <string name="toggle_menu_top_bottom">Toolbar position</string>
+    <string name="tool_settings">Tool Settings</string>
+    <string name="tool_size">Tool Size</string>
+    <string name="tools">Tools</string>
+    <string name="touch_pressure_settings">Touch Pressure Settings</string>
+    <string name="trace">Trace</string>
+    <string name="tracing">Tracing</string>
+    <string name="tracing_options">Tracing Options</string>
+    <string name="tracing_scale_options">Image Scale</string>
+    <string name="transform_all_layers">Transform All Layers</string>
+    <string name="transform_layer">Transform Layer</string>
+    <string name="tube_tool">Tube</string>
+    <string name="type">Type:</string>
+    <string name="undo">Undo</string>
+    <string name="untitled">Untitled</string>
+    <string name="upgrade_info">Upgrade</string>
+    <string name="use_stylus_only">Stylus-Only Mode</string>
+    <string name="use_touch_pressure">Use Touch Pressure</string>
+    <string name="using_trace_color">Using Trace Color</string>
+    <string name="using_trace_colour2">Tap For Normal Color</string>
+    <string name="visibility">Visibility</string>
+    <string name="visit_website">Visit www.artrage.com</string>
+    <string name="warning_gallery_size">Warning: Gallery is large!</string>
+    <string name="watercolour_tool">Watercolor</string>
+    <string name="wax">Wax</string>
+    <string name="wet_type">Wet</string>
+    <string name="wetness">Wetness</string>
+    <string name="yes">Yes</string>
+    <string name="zoom">Zoom</string>
+    <string name="empty_string" />
+    <string name="intel_splash">Part of Intel® Education</string>
+    <string name="about_touch_pressure">About Touch Pressure</string>
+    <string name="app_name_pastel">ArtRage Pastel</string>
+    <string name="app_name_pencil">ArtRage Pencil</string>
+    <string name="application_error">"Sorry there seems to be a problem.
+
+Application error: %1$s
+
+Please contact support at:
+support@ambientdesign.com"</string>
+    <string name="application_error_exception">"Sorry there seems to be a problem.
+
+Application error.
+
+Please contact support at:
+support@ambientdesign.com"</string>
+    <string name="automatic">Automatic</string>
+    <string name="back_to_settings">Back To Settings</string>
+    <string name="calculating">Calculating</string>
+    <string name="calibrating_your_device">Calibrating Your Device</string>
+    <string name="create_new_preset">Create New Preset</string>
+    <string name="create_preset_now">Create Preset Now</string>
+    <string name="default_web_client_id">727930985560-0qhnhg77ms2h5dvserq7pjtvbm8uavaf.apps.googleusercontent.com</string>
+    <string name="delete_touch_profile">Do you want to delete this preset</string>
+    <string name="eula_read">I Agree</string>
+    <string name="eula_text">Standard End User License Agreement (EULA)</string>
+    <string name="eula_text_tmp">EULA will be here in the official build</string>
+    <string name="firebase_database_url">https://artrage-oils.firebaseio.com</string>
+    <string name="galaxy_welcome4">Paint, draw, and create art with tools that work just like the real thing.</string>
+    <string name="gcm_defaultSenderId">727930985560</string>
+    <string name="google_api_key">AIzaSyBzqc4B4mSgPo6WVnGqbFLmY4Orr8hu3xM</string>
+    <string name="google_app_id">1:727930985560:android:c93a9cd04bdf82f0</string>
+    <string name="google_crash_reporting_api_key">AIzaSyBzqc4B4mSgPo6WVnGqbFLmY4Orr8hu3xM</string>
+    <string name="google_storage_bucket">artrage-oils.appspot.com</string>
+    <string name="help_touch_1">What is Touch Pressure?</string>
+    <string name="help_touch_1a">Touch Pressure lets you use your finger or rubber tipped stylus to draw more realistically. Once you have a custom preset, you will be able to use a finger to draw with different amounts of pressure in ArtRage. The changing size of your finger or stylus tip on the screen will change the pressure of your stroke.</string>
+    <string name="help_touch_1b">"The changing size of your finger or stylus tip on the screen will change the size of the line you are drawing.
+
+ArtRage uses the different levels of surface area sensitivity (the size of your touch) that your device screen can detect and converts this into pressure when you are painting in ArtRage.
+
+Performance will vary widely across different devices and for different users, so you need to create a custom preset before you can use touch pressure. You can save multiple presets for different users, tools, and effects."</string>
+    <string name="help_touch_2">Why do you need to create a preset to use touch pressure?</string>
+    <string name="help_touch_2a">"You have to create a preset to show ArtRage how to interpret your range of touches on the screen. If we created a default preset, it would not work for most people.
+
+Every device is different, different fingers have different shapes and people use their hands differently. You may also want different sensitivity options for different tools."</string>
+    <string name="help_touch_3">How do I create a new preset?</string>
+    <string name="help_touch_3a">"To create a preset, go to the 'Create New Preset' screen from Settings. Use one finger (or stylus) to draw lines that vary from small to large. You want to get as small as possible and as large as possible. This teaches ArtRage what range of touch to use.
+
+Creating a preset can be tricky the first time you try, because the way you change your finger size on the screen is different for everybody. It is much easier to draw in ArtRage than it is to create a new preset, so once you have set it up, you will find painting much more fun.
+
+You do not need to press harder to make bigger lines, but you do need to create a larger area of touch. Sometimes pressing harder is the easiest way to do this, but sometimes it is easier to place your finger differently so that it covers a large area."</string>
+    <string name="help_touch_3b">"If you are having trouble getting enough variation, try using just a finger tip and then most of your finger.
+
+When you first start drawing, the line may be pale grey and will not change size properly. This shows it does not have enough different size information yet."</string>
+    <string name="help_touch_3c">You will know it is working when the line turns dark and starts showing different sizes. It may not look very smooth, but this is okay. It will look smoother when you are actually painting.</string>
+    <string name="help_touch_4">Devices</string>
+    <string name="help_touch_4a">"Some screens are more sensitive than others. Some will be very easy to use touch pressure with because they have a lot of levels (how many different sizes it will detect). Some devices will not work very well at all.
+
+Most devices do not allow a very wide range of pressure when using touch. This means that slow strokes may look wobbly, or it may be difficult to create a preset with a wide pressure range."</string>
+    <string name="help_touch_5">Styluses</string>
+    <string name="help_touch_5a">You can use touch pressure as well as your stylus, but if your device comes with a pressure sensitive stylus, then the stylus will always work better as it allows a much wider range of sensitivity than touch input.</string>
+    <string name="help_touch_6">How does pressure affect your painting?</string>
+    <string name="help_touch_6a">"The different tools in ArtRage respond to pressure differently, just like in real life. Some tools will change the size of the stroke with a larger amount of pressure, and others will lay down more color but will not change size. For example, the Oil Brush and Ink Pen will change size, so different pressure will let you create different size dots, or draw lines that get wider and narrower. The Pastel, Pencil and Airbrush will not change size but will get darker or lighter.
+
+You can adjust 'Pressure' in the tool settings to change the default pressure for each tool and the Touch Pressure will let you vary above and below the default Pressure."</string>
+    <string name="help_upgrade_info_10">ArtRage on the Play Store</string>
+    <string name="help_upgrade_info_10a">ArtRage on the Amazon Store</string>
+    <string name="help_upgrade_info_11">ArtRage for Android is also available as a free Galaxy Gifts download on selected Samsung Galaxy devices.</string>
+    <string name="help_upgrade_info_5">The full ArtRage for Android app offers a lot more features:</string>
+    <string name="help_upgrade_info_6">"You will be able to choose any canvas size up to 2048 pixels square, customise the canvas texture and color, and import photos to individual layers.
+
+ArtRage for Android gives you a full range of painting and drawing tools, including Watercolor, Ink Pen, Airbrush, Pencil, Gloop Pen, Felt Pen, Eraser. Paint Roller, Paint Tube, Palette Knife, Pastels/Chalk, a Fill tool and a color picker. Each tool comes with its own customizable, real-world based, settings that allow you to adjust properties like paint thinners, brush shape, paint loading and more
+
+Each tool comes with a range of default presets and the option to create your own custom presets.
+
+ArtRage for Android lets you paint with unlimited layers, which can be rearranged, hidden, and adjusted using a range of effects like opacity and Photoshop standard layer blend modes, as well as ArtRage's unique Watercolor blend mode.
+
+You can also import reference photos and tracing images to help you draw, and save specific color samples for later use.
+
+Once you’ve finished, you can export files in PTG, PNG and JPEG formats to other apps, email, Facebook, and supported file sharing sites like Dropbox.
+
+And more!"</string>
+    <string name="help_upgrade_info_7">After you upgrade:</string>
+    <string name="help_upgrade_info_8">"You won't lose the ArtRage Free app, unless you choose to uninstall it.
+
+You will be able to open your paintings from ArtRage Free in the full ArtRage for Android app. You can also open them with the desktop program!"</string>
+    <string name="help_upgrade_info_9">Check out the full ArtRage app on the Play Store</string>
+    <string name="help_upgrade_info_9a">Check out the full ArtRage app on the Amazon Store</string>
+    <string name="name_calibration_preset">Name your preset to save it:</string>
+    <string name="no_presets_yet">No presets yet</string>
+    <string name="not_enough_touch_values">Touch values of your device are not varied enough to work.</string>
+    <string name="preset_not_created">Preset Not Created</string>
+    <string name="preset_succeeded">Save New Touch Preset</string>
+    <string name="quit_button">Exit</string>
+    <string name="rename_calibration">Rename Calibration</string>
+    <string name="retry_button">Retry</string>
+    <string name="touch_calibration_didnt_work_message">"ArtRage did not get enough stroke data, so this preset would look the same as drawing with no touch pressure.
+
+If you think your device supports touch pressure, try again using more variation in the size of your touches."</string>
+    <string name="touch_calibration_explanation_core">"Draw on the canvas below to make as many different size strokes as possible without lifting your finger. The varying strokes will help ArtRage to calibrate a preset for you. Touch the screen with more or less of your finger (or stylus) to change the size of the stroke.
+
+Continue drawing on the screen until the progress bar is full and the 'calculating' message appears."</string>
+    <string name="touch_calibration_explanation_popup">Touch Pressure allows you to mimic pressure sensitivity on your screen using your finger or a non-pressure sensitive stylus. It does this by tracking the size of your touch on screen and converting this to pressure. This feature will very perform differently on different devices, so you will need to calibrate your device and create a preset that works for you.</string>
+    <string name="touch_calibration_explanation_popup_2">Create a preset to start using Touch Pressure. To create a preset, you need to teach ArtRage how to respond to different size touches on your device’s screen. You will do this by drawing lines on the screen that change in size as you draw, until ArtRage can reliably recognise small and large touches from your finger or stylus. You can create multiple presets with different touch profiles.</string>
+    <string name="touch_info_popup_title">Getting Started</string>
+    <string name="touch_pressure_explanation_message">"Touch Pressure lets you use your finger or rubber tipped stylus to draw more realistically. The changing size of your finger or stylus tip will change the size of the line you are drawing.
+
+Performance will vary widely across different devices and for different users, so you need to create a custom preset before you can use touch pressure. You can save multiple presets for different users, tools, and effects.
+
+Most devices do not allow a wide range of pressure when using touch. This means that slow strokes may look wobbly.
+
+If your device comes with a pressure sensitive stylus, the stylus will work better, but you can still use touch pressure."</string>
+    <string name="touch_pressure_explanation_title">What is Touch Pressure?</string>
+    <string name="touch_pressure_profiles">Current Preset:</string>
+    <string name="touch_values_low">The pressure values reported from your device are not very diverse. Slow strokes may look wobbly.</string>
+    <string name="try_again">Try Again</string>
+    <string name="unlicensed_dialog_body">This application is not licensed. Please purchase it from Android Market.</string>
+    <string name="unlicensed_dialog_retry_body">Unable to validate license. Check to see if a network connection is available.</string>
+    <string name="unlicensed_dialog_title">Application not licensed</string>
+</resources>

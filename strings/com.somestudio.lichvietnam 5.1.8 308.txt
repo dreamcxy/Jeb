@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="cast_ad_label">Ad</string>
+    <string name="cast_casting_to_device">Casting to %1$s</string>
+    <string name="cast_closed_captions">Closed captions</string>
+    <string name="cast_closed_captions_unavailable">Closed captions unavailable</string>
+    <string name="cast_disconnect">Disconnect</string>
+    <string name="cast_expanded_controller_ad_image_description">Image displayed while the cast receiver is playing an ad</string>
+    <string name="cast_expanded_controller_ad_in_progress">Ad in progress…</string>
+    <string name="cast_expanded_controller_background_image">Album art</string>
+    <string name="cast_expanded_controller_live_stream_indicator">Live stream</string>
+    <string name="cast_expanded_controller_loading">Loading…</string>
+    <string name="cast_expanded_controller_skip_ad_label">Skip</string>
+    <string name="cast_forward">Forward</string>
+    <string name="cast_forward_10">Forward ten seconds</string>
+    <string name="cast_forward_30">Forward thirty seconds</string>
+    <string name="cast_intro_overlay_button_text">@android:string/ok</string>
+    <string name="cast_mute">Mute</string>
+    <string name="cast_notification_connected_message">Connected to %1$s</string>
+    <string name="cast_notification_connecting_message">Connecting to %1$s</string>
+    <string name="cast_notification_disconnect">Disconnect</string>
+    <string name="cast_pause">Pause</string>
+    <string name="cast_play">Play</string>
+    <string name="cast_rewind">Rewind</string>
+    <string name="cast_rewind_10">Rewind ten seconds</string>
+    <string name="cast_rewind_30">Rewind thirty seconds</string>
+    <string name="cast_seek_bar">Playback seek control</string>
+    <string name="cast_skip_next">Skip to next item</string>
+    <string name="cast_skip_prev">Skip to previous item</string>
+    <string name="cast_stop">Stop</string>
+    <string name="cast_stop_live_stream">Stop live stream</string>
+    <string name="cast_tracks_chooser_dialog_audio">Audio</string>
+    <string name="cast_tracks_chooser_dialog_cancel">Cancel</string>
+    <string name="cast_tracks_chooser_dialog_closed_captions">Closed Captions</string>
+    <string name="cast_tracks_chooser_dialog_default_track_name">Track %1$d</string>
+    <string name="cast_tracks_chooser_dialog_none">None</string>
+    <string name="cast_tracks_chooser_dialog_ok">OK</string>
+    <string name="cast_tracks_chooser_dialog_subtitles">Subtitles</string>
+    <string name="cast_unmute">Unmute</string>
+    <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
+    <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_like_button_liked">Liked</string>
+    <string name="com_facebook_like_button_not_liked">Like</string>
+    <string name="com_facebook_loading">Loading…</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_loginview_log_in_button">Log in</string>
+    <string name="com_facebook_loginview_log_in_button_continue">Continue with Facebook</string>
+    <string name="com_facebook_loginview_log_in_button_long">Log in with Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="com_facebook_send_button_text">Send</string>
+    <string name="com_facebook_share_button_text">Share</string>
+    <string name="com_facebook_smart_device_instructions">To connect your account, open the Facebook app on your mobile device and check for notifications.</string>
+    <string name="com_facebook_smart_device_instructions_or">- OR -</string>
+    <string name="com_facebook_smart_login_confirmation_cancel">Not you?</string>
+    <string name="com_facebook_smart_login_confirmation_continue_as">Continue as %1$s</string>
+    <string name="com_facebook_smart_login_confirmation_title">Confirm Login</string>
+    <string name="com_facebook_tooltip_default">"You're in control - choose what info you want to share with apps."</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="exo_controls_fastforward_description">Fast forward</string>
+    <string name="exo_controls_next_description">Next track</string>
+    <string name="exo_controls_pause_description">Pause</string>
+    <string name="exo_controls_play_description">Play</string>
+    <string name="exo_controls_previous_description">Previous track</string>
+    <string name="exo_controls_rewind_description">Rewind</string>
+    <string name="exo_controls_stop_description">Stop</string>
+    <string name="mr_button_content_description">Cast button</string>
+    <string name="mr_cast_button_connected">Cast button. Connected</string>
+    <string name="mr_cast_button_connecting">Cast button. Connecting</string>
+    <string name="mr_cast_button_disconnected">Cast button. Disconnected</string>
+    <string name="mr_chooser_searching">Finding devices</string>
+    <string name="mr_chooser_title">Cast to</string>
+    <string name="mr_controller_album_art">Album art</string>
+    <string name="mr_controller_casting_screen">Casting screen</string>
+    <string name="mr_controller_close_description">Close</string>
+    <string name="mr_controller_collapse_group">Collapse</string>
+    <string name="mr_controller_disconnect">Disconnect</string>
+    <string name="mr_controller_expand_group">Expand</string>
+    <string name="mr_controller_no_info_available">No info available</string>
+    <string name="mr_controller_no_media_selected">No media selected</string>
+    <string name="mr_controller_pause">Pause</string>
+    <string name="mr_controller_play">Play</string>
+    <string name="mr_controller_stop">Stop casting</string>
+    <string name="mr_controller_volume_slider">Volume slider</string>
+    <string name="mr_system_route_name">System</string>
+    <string name="mr_user_route_category_name">Devices</string>
+    <string name="place_autocomplete_clear_button">Clear search</string>
+    <string name="place_autocomplete_search_hint">Search</string>
+    <string name="s1">Save image</string>
+    <string name="s2">Allow Ad to store image in Picture gallery?</string>
+    <string name="s3">Accept</string>
+    <string name="s4">Decline</string>
+    <string name="s5">Create calendar event</string>
+    <string name="s6">Allow Ad to create a calendar event?</string>
+    <string name="search_menu_title">Search</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="wallet_buy_button_place_holder">Buy with Google</string>
+    <string name="msg_error_default">Đã có lỗi xảy ra. Vui lòng thử lại</string>
+    <string name="rate_dialog_cancel">Remind Later</string>
+    <string name="rate_dialog_message">"If you enjoy playing this app, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!"</string>
+    <string name="rate_dialog_no">No,Thanks</string>
+    <string name="rate_dialog_ok">Rate Now</string>
+    <string name="rate_dialog_title">Rate this app</string>
+    <string name="about">About</string>
+    <string name="about_message">This software uses map data provided by OpenStreetMap.org</string>
+    <string name="base">OSM base layer</string>
+    <string name="cyclemap">Cycle Map</string>
+    <string name="hills">Hills</string>
+    <string name="map_mode">Map Source</string>
+    <string name="my_location">My location</string>
+    <string name="topo">Topographic</string>
+    <string name="unknown">Unknown</string>
+    <string name="ub__get_ride">Get a ride</string>
+    <string name="ub__price_estimate">%1$s for %2$s</string>
+    <string name="ub__ride_error_try_again">Try Again</string>
+    <string name="ub__ride_request_activity_authentication_error">There was a problem authenticating you.</string>
+    <string name="ub__ride_request_activity_widget_error">The Ride Request Widget encountered a problem.</string>
+    <string name="ub__ride_with_uber">Ride there with Uber</string>
+    <string name="ub__sign_in">Sign in</string>
+    <string name="ub__time_estimate">%d MIN AWAY</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="accept_whyads">Tôi đã hiểu</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity_forgot_password_title">Lấy lại mật khẩu</string>
+    <string name="activity_login_email_title">Đăng nhập email</string>
+    <string name="add_user">Thêm người dùng để có thể xem các chỉ số</string>
+    <string name="app_name">Lịch Việt</string>
+    <string name="app_rate_content">Nếu có thời gian, xin vui lòng đánh giá để ứng dụng hoàn thiện hơn!</string>
+    <string name="app_rate_later">Thoát</string>
+    <string name="app_rate_rate_now">Đánh giá ngay</string>
+    <string name="app_rate_title">Cảm ơn bạn đã tin dùng Lịch Việt</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="bantho">(Bàn thờ, tủ thờ,…)</string>
+    <string name="base64_encoded_key">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAv+HGZpedpAbfzgJPkeaNV7HnhQhWqVcU4LonblXyfE2jz2fPMH5aFbFnlgrZ6TPnghN90uIcXaxMp3G+mORumeQX9mt2oufH+LqyvlNpYgniKw6YDD4bRz9htaqIcYdf5M0QkCptlpcWpTx+idP/hhHQxybrApwQ9FTL98h9fCNyQ4Rb7sXoM+sBSlF5Hjn2BOeHl1OvlFVCXhMNps3Vhn6PUP1JM/vn6lsJ4Oe1wo7LkScjvR3au5rHq5UIgtq/lCcEzdeVDFoqiD/N3w8Y+TBsIowESPyrqK6sWLm+0sE984wJk+sIuRsRjOkNWSTpABsxWV1L9DdYglMwD5cQiwIDAQAB</string>
+    <string name="base_nl">Netherlands base overlay</string>
+    <string name="bep">(Bếp, bệ, bậc…)</string>
+    <string name="bing">Bing</string>
+    <string name="biorhythm">Nhịp Sinh Học</string>
+    <string name="biorhythm_detail" formatted="false">"Nhịp sinh học (tiếng Anh: biorhythm) là một chu trình giả thiết về tình trạng khỏe mạnh hay năng lực sinh lý, cảm xúc, hoặc trí thông minh.
+Cụ thể hơn, lấy một ví dụ, người ta cho rằng có thời điểm một người rất dễ mắc bệnh, còn có lúc khác thì không. Các thời điểm này cứ lặp đi lặp lại rất nhiều lần và có quy luật. Quy luật đó gọi là nhịp sinh học. Và chúng sẽ dao động đều trong khoảng -100% đến 100% trong đồ thị nhịp sinh học (số càng lớn thì càng mạnh).
+Cũng bởi vì vậy nên có rất nhiều lý thuyết cũng như nhiều loại nhịp sinh học khác nhau. Không có gì đảm bảo những loại nhịp sinh học này là chính xác, bởi vì bản thân con người luôn chịu nhiều tác động từ môi trường, và đời sống xã hội."</string>
+    <string name="biorhythm_theory">"Biểu đồ nhịp sinh học với 3 đường cơ bản và một đường bổ sung, với trục ngang chỉ thời gian, chính giữa là ngày hiện tại.
+Lý thuyết cổ điển của nhịp sinh học gắn liền với Hermann Swoboda ở đầu thế kỷ 20, ông được cho là người đưa ra chu trình 23 ngày cho nhịp sức khỏe và 28 ngày cho nhịp tình cảm.
+Năm 1920, Alfred Teltschercho rằng chu trình của trí thông minh là 33 ngày.
+Chúng ta sẽ thấy một chuỗi số thú vị: 23–28–33, và số tiếp theo là 38 được cho là chu trình của trực giác."</string>
+    <string name="biorhythm_types">Các Nhịp Sinh Học Cơ Bản</string>
+    <string name="biorhythm_ung_dung" formatted="false">"• Sức khỏe: thể lực, sức mạnh, sự phối hợp các cơ quan trong cơ thể và nó theo dõi tình trạng thể chất và sức khỏe.
+• Tình cảm: sự sáng tạo, nhạy cảm, tâm trạng và nhận thức.
+• Trí tuệ: sự tỉnh táo, phân tích hoạt động, phân tích vấn đề, bộ nhớ, tiếp nhận thông tin.
+• Trực giác: khả năng nhận biết, cảm nhận.
+• Thẩm mỹ: sự nhạy cảm về mặt thẩm mỹ, thẩm mỹ của bản thân.
+• Nhận thức: thể hiện khả năng cảm nhận được cá tính riêng.
+• Tinh thần: vấn đề tâm linh, quan niệm và các hiện tượng thần bí.
+Thực tế đã chứng minh khi chỉ số thấp:
+• Đối với chu kỳ tình cảm, thường buồn bực vô cớ.
+• Đối với chu kỳ trí tuệ, đó là ngày đãng trí, khả năng tư duy kém.
+• Đặc biệt đối với chu kỳ sức khỏe, đó là ngày thường xảy ra tai nạn lao động.
+• Đối với hai chu kỳ, số ngày chuyển tiếp trùng nhau chỉ xảy ra một lần trong một năm.
+• Ngày trùng hợp đó của ba chu kỳ là ngày xấu nhất, có thể coi là ngày vận hạn của mỗi người.
+Việc nghiên cứu về nhịp sinh học thu hút sự quan tâm của rất nhiều nhà khoa học trên thế giới, họ đã nghiên cứu trong nhiều năm.
+Ở các nước phát triển như Nhật, Mỹ… Nhịp sinh học được áp dụng nhiều trong việc sử dụng con người, các phi công, kỹ sư trong hàng không, vũ trụ sẽ được nghỉ ngơi vào thời gian họ có nhịp sinh học nhỏ hơn 50%. Các nhà khoa học cũng tìm ra mối liên hệ giữa nhịp sinh học với tai nạn lao động, và các hiện tượng xảy ra trong đời sống của con người.
+Ngày nay, môn khoa học này đã phát triển và nhịp sinh học là khái niệm được dùng để chỉ khuynh hướng riêng biệt của mỗi người theo từng ngày. Nhịp sinh học đo xu hướng này dựa vào ngày sinh của mỗi người. Nhịp sinh học tính toán các chu kỳ ứng với các khía cạnh khác nhau của con người. Có 3 chu kỳ sinh học cơ bản: sức khỏe, tình cảm và trí tuệ và 4 chu kỳ phụ: trực giác, thẩm mỹ, tinh thần, nhận thức. Chúng hoạt động theo mô hình: bắt đầu bằng 50% vào lúc sinh của bạn và tăng dần, Sau khi đạt đến mức tối đa 100%, chu kỳ giảm xuống tới 0%. Sau đó, chiều hướng sẽ thay đổi và chu kỳ lại chuyển động về phía trên.
+Các ứng dụng về Nhịp sinh học có rất nhiều, trong đó cụ thể nhất là việc phòng tránh tai nạn lao động. Một nghiên cứu của tiến sỹ Toán – Lý người Nga Serik Mazhkenov tiến hành tại một công ty thăm dò dầu khí cho thấy 70% số vụ tai nạn lao động xảy ra với nhân công trùng với những ngày mà một trong 3 nhịp sinh học chính của người đó tiệm cận với mức 0. Và từ đó đưa ra phương hướng giải quyết để giảm tới 29% vụ tai nạn thường gặp.
+Một nghiên cứu ở Nhật Bản trên công ty giao thông Ohmi Railway cũng đã lập các biểu đồ sinh học cho các tài xế lái xe của công ty để họ có sự cảnh giác và phòng tránh. Kết quả tai nạn của các tài xế đã giảm 50% từ năm 1969 đến 1970 tại Tokyo.
+Với ứng dụng hàng ngày, bạn nên xem qua các đường sinh học của mình để có những biện pháp đối phó phù hợp. Ví như nếu nhịp sinh học về cảm xúc ở mức thấp thì bạn rất dễ bị bực bội, cáu kỉnh. Khi đó, nên tìm những không gian thoáng đãng, vui tươi hay trò chuyện với những người vui vẻ. Hoặc nếu Nhịp sinh học Sức khỏe giảm sút, bạn chớ nên làm những việc nặng nhọc hay đòi hỏi thời gian làm kéo dài."</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="branch_key">key_live_kli64qBnfvYC15zt2xvHikdnCujjdr9g</string>
+    <string name="branch_key_test">key_test_mng48Fraat3x01wB3uuOtgpjFCkfdE2u</string>
+    <string name="btn_cancel_alert">Không</string>
+    <string name="btn_cancel_login">Hủy</string>
+    <string name="btn_complete">Hoàn tất</string>
+    <string name="btn_continue">TIẾP TỤC</string>
+    <string name="btn_create_account">TẠO TÀI KHOẢN LỊCH VIỆT</string>
+    <string name="btn_day_calendar">L.Ngày</string>
+    <string name="btn_login">ĐĂNG NHẬP</string>
+    <string name="btn_month_calendar">L.Tháng</string>
+    <string name="btn_ok_alert">Có</string>
+    <string name="btn_ok_login">Đăng nhập</string>
+    <string name="btn_today">H.nay</string>
+    <string name="btn_update_account">CẬP NHẬT THÔNG TIN</string>
+    <string name="cast_invalid_stream_duration_text">--:--</string>
+    <string name="cast_invalid_stream_position_text">--:--</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="chi_so_thap">Chỉ số trung bình thấp</string>
+    <string name="chi_so_trung_binh_cao">Chỉ số trung bình cao</string>
+    <string name="chua_co_nguoi_dung">Hiện tại chưa có người dùng nào!</string>
+    <string name="co_so_nhip_sinh_hoc">Hiện chưa có cơ sở khoa học đầy đủ về nhịp sinh học. Mọi thông tin chỉ mang tính chất tham khảo.</string>
+    <string name="com.crashlytics.android.build_id">c7f2b525-2588-436d-8364-95a651215ae5</string>
+    <string name="compass">Compass</string>
+    <string name="compass_content">"Để tránh tác động của từ trường lên chiều quay của kim la bàn, khi đo hướng nhà, đừng đứng gần các thiết bị điện, ô tô.
+Tháo bỏ tất cả đồ dùng kim loại trên người (điện thoại di động, dây chuyền, đồng hồ, nhẫn, thắt lưng có kim loại...).
+Đứng quay lưng về ngôi nhà chừng 1m - 1,5m.
+Hai chân dang nhẹ cho vững vàng. Đặt la bàn trong lòng bàn tay, ngang tầm hông, mũi tên in trên tấm thước nhựa hướng thẳng về phía trước.
+Xoay la bàn cho đến khi mũi kim tô màu (màu đỏ ở hình bên trái và màu xanh ở hình bên phải) trùng khít với hướng bắc (chữ N trên la bàn).
+Đọc con số ghi trên vòng ngoài của la bàn, nằm trên cùng đường thẳng với mũi tên trên thước nhựa.
+Lặp lại điều này ba lần như trong hình vẽ ở trên (dịch sang trái, sang phải một chút nhưng vẫn giữ nguyên khoảng cách tới ngôi nhà). Nếu có sự khác biệt giữa những số đo thì tính trung bình cộng của 3 giá trị trên. Ví dụ: (200+196+202) : 3 = 199 độ (Hướng Nam). Nếu có sai số hơn 15 độ, thì lặp lại đo ba lần như trên và xoay điện thoại một vòng."</string>
+    <string name="compass_title">Các bước thực hiện đo hướng nhà</string>
+    <string name="content_upgrade_goodday">Xem ngày tốt giúp bạn chọn ngày giờ hoàng đạo để khởi sự việc cưới hỏi, làm nhà, khai trương, xuất hành, động thổ trong tuần này, trong tháng này hoặc cả năm. Đây là một tính năng của bản Lịch Việt Pro.</string>
+    <string name="content_upgrade_home_edit">Chức năng \"Sửa trang chủ\" giúp bạn có thể cá nhân hóa thông tin trang chủ tùy theo mục đích sử dụng của mình. Bạn có thể cài đặt Lịch ngày làm trang mặc định khi mở app, cài đặt hiển thị lịch tháng trên trang chủ và ẩn các thẻ tính năng không sử dụng giúp cho ứng dụng chạy nhanh hơn, tối ưu hơn. Đây là một tính năng của bản Lịch Việt Pro.</string>
+    <string name="create_account_title">Tạo tài khoản</string>
+    <string name="cuaso">(Cửa, cửa sổ…)</string>
+    <string name="default_web_client_id">606806516800-at2erl1hv9qgrnr35rqomlo5hl84efmv.apps.googleusercontent.com</string>
+    <string name="define_roundedimageview" />
+    <string name="delete">Xoá</string>
+    <string name="delete_user_confirm">Bạn có muốn xoá nhịp sinh học của %s hay không?</string>
+    <string name="demngay_chuy"><b>Chú ý:</b>"
+Hệ thống sẽ tự động nhận diện đếm xuôi đếm ngược dựa trên cấu hình ngày bạn chọn.
+Nếu bạn chọn sự kiện không lặp lại trong tương lai, hệ thống sẽ đếm ngược tới ngày đó, sau đó tự động chuyển thành đếm xuôi."</string>
+    <string name="demngay_copyed">Đã sao chép kết quả đếm ngày! Hãy dán vào khung hội thoại hoặc văn bản.</string>
+    <string name="demngay_selection_failed">Hãy chọn lại! Ngày bắt đầu phải trước ngày kết thúc.</string>
+    <string name="doingay_copyed">Đã sao chép kết quả đổi ngày! Hãy dán vào khung hội thoại hoặc văn bản.</string>
+    <string name="download_image">Tải Ảnh</string>
+    <string name="edit">Chỉnh sửa</string>
+    <string name="edt_address_hint">Khu vực đang sống</string>
+    <string name="edt_birthday_hint">Ngày sinh</string>
+    <string name="edt_email_hint">Email</string>
+    <string name="edt_female_name_hint">Tên bạn nữ</string>
+    <string name="edt_gender_hint">Giới tính</string>
+    <string name="edt_male_name_hint">Tên bạn nam</string>
+    <string name="edt_name_hint">Tên</string>
+    <string name="edt_new_password_hint">Nhập mật khẩu mới</string>
+    <string name="edt_old_password_hint">Mật khẩu cũ</string>
+    <string name="edt_password_hint">Nhập mật khẩu</string>
+    <string name="edt_phone_number_hint">Số điện thoại</string>
+    <string name="edt_retype_new_password_hint">Nhập lại mật khẩu mới</string>
+    <string name="edt_retype_password_hint">Nhập lại mật khẩu</string>
+    <string name="edt_sur_name_hint">Họ &amp; tên đệm</string>
+    <string name="emailCC">ducuong1985@gmail.com</string>
+    <string name="emailSupprt">lichviet@ppclink.com</string>
+    <string name="emotional">Tình cảm</string>
+    <string name="engage_day_fourteenth">Đôi lúc bạn cũng cần thư giãn. Xem một vài video thú vị để giải toả căng thẳng nhé!</string>
+    <string name="engage_day_fourth">Mẹo: Bạn có thể thêm nhắc nhở hàng ngày theo lịch âm dương trong nháy mắt. Thử ngay!</string>
+    <string name="engage_day_second">Hơn cả Lịch Vạn Niên, Lịch Việt còn rất nhiều tính năng thú vị. Bấm khám phá ngay!</string>
+    <string name="engage_day_seventeenth">Lịch Việt cung cấp rất nhiều thông tin văn hoá hấp dẫn. Bấm tìm hiểu ngay!</string>
+    <string name="engage_day_seventh">Cảm ơn bạn đã tin dùng Lịch Việt! Xin tặng bạn 3 ngày không quảng cáo! Mở kích hoạt ngay!</string>
+    <string name="engage_day_tenth">Với Lịch Việt, bạn có thể biết mình đã sống được bao nhiêu GIÂY nữa đó! Thử ngay!</string>
+    <string name="engage_day_thirty">Đã tròn một tháng bạn chọn Lịch Việt làm bạn đồng hành! Mở để nhận quà bất ngờ nhé!</string>
+    <string name="engage_day_twelve">Không chỉ nhận thông báo về ngày lễ quan trọng, Lịch Việt nay còn hỗ trợ cả lịch chiếu phim! Bấm xem ngay!</string>
+    <string name="engage_day_twenty_first">Nghỉ trưa một chút với những video thú vị từ Lịch Việt nhé!</string>
+    <string name="engage_day_twenty_six">Mẹo: Lịch Việt có cả một bộ sưu tập những tấm thiệp ý nghĩa cho mọi dịp trong năm đó!</string>
+    <string name="engage_seven_day_1">Lịch Việt dành tặng bạn một vài video thú vị cho buổi tối hôm nay. Bấm xem ngay!</string>
+    <string name="engage_seven_day_2">Bạn có bao giờ tự hỏi mình đã sống được bao lâu? Lịch Việt có thể giúp bạn đó!</string>
+    <string name="engage_seven_day_3">Chúng tôi đã cập nhật lịch phim mới! Sao không thử nghía qua bạn nhỉ?</string>
+    <string name="error_drm_not_supported">Protected content not supported on API levels below 18</string>
+    <string name="error_drm_unknown">An unknown DRM error occurred</string>
+    <string name="error_drm_unsupported_scheme">This device does not support the required DRM scheme</string>
+    <string name="event_loop_every_day">Hàng ngày</string>
+    <string name="event_loop_every_month">Hàng tháng</string>
+    <string name="event_loop_every_week">Hàng tuần</string>
+    <string name="event_loop_every_year">Hàng năm</string>
+    <string name="event_loop_no">Không lặp lại</string>
+    <string name="event_notify_at_time_event">Thông báo vào lúc xảy ra sự kiện</string>
+    <string name="event_notify_before_15_minutes">Thông báo trước 15 phút</string>
+    <string name="event_notify_before_1_day">Thông báo trước 1 ngày</string>
+    <string name="event_notify_before_1_hour">Thông báo trước 1 giờ</string>
+    <string name="event_notify_before_1_week">Thông báo trước 1 tuần</string>
+    <string name="event_notify_before_2_days">Thông báo trước 2 ngày</string>
+    <string name="event_notify_before_2_hours">Thông báo trước 2 giờ</string>
+    <string name="event_notify_before_30_minutes">Thông báo trước 30 phút</string>
+    <string name="event_notify_before_5_minutes">Thông báo trước 5 phút</string>
+    <string name="event_notify_no">Không</string>
+    <string name="event_passed">Đã diễn ra</string>
+    <string name="facebook_app_id">792470767493653</string>
+    <string name="facebook_app_invite_url">https://fb.me/1101549696585757</string>
+    <string name="famous_people">Người Nổi Tiếng</string>
+    <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
+    <string name="fiets_nl">OpenFietsKaart overlay</string>
+    <string name="firebase_database_url">https://lichviet-free.firebaseio.com</string>
+    <string name="first_fix_message">Got the first fix</string>
+    <string name="follow_horoscope">Hãy mở Lịch Việt ngày mai để theo dõi thông tin Cung Hoàng Đạo của bạn hàng ngày nhé</string>
+    <string name="format_distance_feet">%s ft</string>
+    <string name="format_distance_kilometers">%s km</string>
+    <string name="format_distance_meters">%s m</string>
+    <string name="format_distance_miles">%s mi</string>
+    <string name="format_distance_nautical_miles">%s nm</string>
+    <string name="friday_compact">SÁU</string>
+    <string name="gcm_defaultSenderId">606806516800</string>
+    <string name="google_api_key">AIzaSyCDN5_0a7DaFRA2yo1Y1KoEOg-ecPLLrp0</string>
+    <string name="google_app_id">1:606806516800:android:6a4ae04913d810ba</string>
+    <string name="google_crash_reporting_api_key">AIzaSyCDN5_0a7DaFRA2yo1Y1KoEOg-ecPLLrp0</string>
+    <string name="google_storage_bucket">lichviet-free.appspot.com</string>
+    <string name="guide_connect_facebook_google">Vào tab Sự kiện --> Nhấn nút Menu trên góc trái --> Quản lý tài khoản Facebook/Google --> Thêm tài khoản.</string>
+    <string name="guide_open_lichviet">Mỗi ngày mở ứng dụng Lịch Việt sẽ được tự động điểm danh. Số ngày điểm danh liên tiếp càng lớn thì lượng xu nhận được càng nhiều. Mở ứng dụng Ngày 1 &amp; 2 nhận 10 xu; Ngày 3, 4 &amp; 5 nhận 15 xu; Ngày 6 nhận 20 xu. Mở liên tiếp từ ngày thứ 7 trở đi nhận 25 xu. Nếu điểm danh liên tiếp bị gián đoạn thì tính lại từ đầu.</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="icon_desc">Ad icon</string>
+    <string name="image_desc">Ad image</string>
+    <string name="infomation_tlb">"Thước Lỗ ban là cây thước được Lỗ Ban, ông Tổ nghề mộc ở Trung Quốc thời Xuân Thu phát minh ra. Nhưng trên thực tế, trong ngành địa lý cổ phương Đông, ngoài thước Lỗ Ban (Lỗ Ban xích) còn có nhiều loại thước khác được áp dụng như thước Đinh Lan (Đinh Lan xích), thước Áp Bạch (Áp Bạch xích), bản thân thước Lỗ ban cũng bao gồm nhiều phiên bản khác nhau như các bản 52,2 cm; 42,9 cm…
+
+ Do có nhiều bài viết, thông tin về thước Lỗ ban có các kích thước khác nhau. Ở đây chúng tôi chỉ giới thiệu 3 loại thước phổ biến nhất trên thị trường Việt Nam hiện nay là loại kích thước Lỗ Ban 52,2 cm; 42,9 cm và 38,8 cm. 
+
+ - Đo kích thước rỗng (thông thủy): Thước Lỗ Ban 52,2 cm 
+ - Đo kích thước đặc: khối xây dựng (bếp, bệ, bậc…): Thước Lỗ Ban 42,9 cm 
+ - Đo Âm phần: mồ mả, đồ nội thất (bàn thờ, tủ thờ, khuôn khổ bài vị…): Thước Lỗ Ban 38,3 cm."</string>
+    <string name="introduce_content">&lt;font style =Cảm ơn bạn đã tin tưởng lựa chọn và sử dụng Lịch Việt. Hãy xem hướng dẫn ngay để biết những tính năng mới hấp dẫn của Lịch Việt nhé! &lt;b>Xem ngay&lt;/b>&lt;/p></string>
+    <string name="j_pickerview_cancel">取消</string>
+    <string name="j_pickerview_submit">确定</string>
+    <string name="library_roundedimageview_author">Vince Mi</string>
+    <string name="library_roundedimageview_authorWebsite">https://github.com/vinc3m1</string>
+    <string name="library_roundedimageview_isOpenSource">true</string>
+    <string name="library_roundedimageview_libraryDescription">A fast ImageView (and Drawable) that supports rounded corners (and ovals or circles) based on the original example from Romain Guy.</string>
+    <string name="library_roundedimageview_libraryName">RoundedImageView</string>
+    <string name="library_roundedimageview_libraryVersion">1.3.0</string>
+    <string name="library_roundedimageview_libraryWebsite">https://github.com/vinc3m1/RoundedImageView</string>
+    <string name="library_roundedimageview_licenseId">apache_2_0</string>
+    <string name="library_roundedimageview_repositoryLink">https://github.com/vinc3m1/RoundedImageView.git</string>
+    <string name="ly_thuyet">Lý thuyết về nhịp sinh học</string>
+    <string name="mapbox">MapBox</string>
+    <string name="mapnik">Mapnik</string>
+    <string name="mapquest_aerial">Mapquest Aerial</string>
+    <string name="mapquest_osm">Mapquest</string>
+    <string name="max_biorhythm">Các ngày có chỉ số cao</string>
+    <string name="meaning">Ý nghĩa</string>
+    <string name="messenger_send_button_text">Send</string>
+    <string name="min_biorhythm">Các ngày có chỉ số thấp</string>
+    <string name="monday_compact">HAI</string>
+    <string name="msg_account_permission">Ứng dụng cần truy cập tài khoản Google (qua danh bạ).</string>
+    <string name="msg_add_to_countupdown">Thêm vào đếm xuôi ngược yêu thích thành công.</string>
+    <string name="msg_birthday_not_valid">Ngày sinh không hợp lệ</string>
+    <string name="msg_can_not_add_account">Không thể thêm tài khoản mới.</string>
+    <string name="msg_can_not_edit_special_day">Không thể chỉnh sửa sự kiện ngày lễ.</string>
+    <string name="msg_can_not_take_screenshot">Không thể chụp màn hình hiện tại. Vui lòng thử lại</string>
+    <string name="msg_cannot_open_database">Không thể truy cập database.</string>
+    <string name="msg_capture_image_from_camera">Xảy ra lỗi khi lấy ảnh từ camera.</string>
+    <string name="msg_change_password_fail">Đổi mật khẩu thất bại</string>
+    <string name="msg_change_password_success">Đổi mật khẩu thành công</string>
+    <string name="msg_compass_not_available">Thiết bị của bạn không hỗ trợ cảm biến la bàn.</string>
+    <string name="msg_confirm_buy_in_app">Bạn sẽ phải trả tiền khi mua sản phẩm này. Bạn thực sự muốn mua?</string>
+    <string name="msg_connect_google">Không liên kết được với Google. Vui lòng kiểm tra lại đường truyền internet và thử lại.</string>
+    <string name="msg_create_account_fail">Can not create your account</string>
+    <string name="msg_create_account_success">Tạo tài khoản thành công</string>
+    <string name="msg_decode_image_error">Đã có lỗi xảy ra khi lấy dữ liệu ảnh đại diện. Vui lòng thử lại.</string>
+    <string name="msg_default_error_create_account">Rất tiêc, đã có lỗi xảy ra khi tạo tài khoản</string>
+    <string name="msg_default_error_login">Đăng nhập thất bại</string>
+    <string name="msg_delete_account">Bạn thực sự muốn xóa tài khoản này?</string>
+    <string name="msg_email_empty">Email không được bỏ trống</string>
+    <string name="msg_email_exist">Email đã tồn tại</string>
+    <string name="msg_email_not_valid">Email không hợp lệ</string>
+    <string name="msg_event_not_exist">Sự kiện đã bị xóa hoặc không còn khả dụng.</string>
+    <string name="msg_exist_account">Tài khoản email đã tồn tại trong danh sách người dùng</string>
+    <string name="msg_fail_to_load_fb_avatar">Không thể lấy ảnh từ facebook của bạn</string>
+    <string name="msg_get_product_info_fail">Không thể lấy thông tin sản phẩm từ server</string>
+    <string name="msg_google_play_not_available">Ứng dụng yêu cầu Google Play Service để đông bộ tài khoản Google Calendar. Vui lòng cài đặt Google Play Service và thử lại.</string>
+    <string name="msg_login_facebook_fail">Không thể đăng nhập bằng Facebook. Vui lòng kiểm tra kết nối mạng và thử lại!</string>
+    <string name="msg_login_sucess">Đăng nhập thành công</string>
+    <string name="msg_logout_fail">Đã có lỗi xảy ra khi đăng xuất. Vui lòng kiểm tra kết nối mạng và thử lại!</string>
+    <string name="msg_modify_status_attendee">Bạn không thể chỉnh sửa trạng thái tham gia của sự kiện do bạn tạo</string>
+    <string name="msg_name_empty">Tên không được bỏ trống</string>
+    <string name="msg_need_activate_calendar">Bạn cần kích hoạt lại để xem được sự kiện của lịch này.</string>
+    <string name="msg_network_not_available">Không có kết nối mạng</string>
+    <string name="msg_no_permission_to_create_edit">Bạn không có quyền tạo hay chỉnh sửa sự kiện thuộc lịch này.</string>
+    <string name="msg_password_empty">Mật khẩu không được bỏ trống</string>
+    <string name="msg_password_equals">Mật khẩu mới phải khác mật khẩu cũ</string>
+    <string name="msg_password_not_match">Mật khẩu không khớp</string>
+    <string name="msg_password_not_same_old">Mật khẩu không khớp mật khẩu cũ</string>
+    <string name="msg_pro_gift">"Chúng tôi xin dành tặng bạn %d ngày sử dụng phiên bản Pro không quảng cáo!
+Chúc bạn luôn có những phút giây ý nghĩa khi sử dụng Lịch Việt!"</string>
+    <string name="msg_remove_countupdown">Xóa khỏi đếm xuôi ngược yêu thích thành công.</string>
+    <string name="msg_save_data">Đồng bộ dữ liệu</string>
+    <string name="msg_secret_key_expired">Phiên đăng nhập của bạn đã hết. Vui lòng đăng nhập lại để tiếp tục.</string>
+    <string name="msg_showing_event_list">Không thể lấy dữ liệu suất chiếu.</string>
+    <string name="msg_sur_name_empty">Họ và tên đệm không được trống</string>
+    <string name="msg_sync_data">Đồng bộ dữ liệu</string>
+    <string name="msg_time_end_must_after_start">Thời gian kết thúc phải trước thời gian bắt đầu.</string>
+    <string name="msg_unknown_error">Không thể kết nối tới server</string>
+    <string name="msg_update_information_fail">Cập nhật thông tin thất bại</string>
+    <string name="msg_update_information_success">Cập nhật thông tin thành công</string>
+    <string name="msg_update_premium_fail">Đã có lỗi xảy ra khi cập nhật dữ liệu. Vui lòng kiểm tra kết nối mạng và thử lại!</string>
+    <string name="msg_upgrade_fail">Giao dịch thất bại. Vui lòng kiểm tra kết nối mạng và thử lại.</string>
+    <string name="msg_upgrade_pro">"Bạn cần nâng cấp lên bản trả phí hoặc xem quảng cáo video để mở khóa tính năng này.
+
+(Cần mở lại sau mỗi %d ngày)."</string>
+    <string name="msg_upgrade_verification_fail">Đã có lỗi xảy ra trong xác minh tài khoản. Vui lòng thử lại!</string>
+    <string name="msg_upload_event_fail">Đã có lỗi xảy ra khi đồng bộ dữ liệu. Vui lòng kiểm tra kết nối mạng và thử lại!</string>
+    <string name="msg_upload_image_fail">Không thể upload ảnh đại diện</string>
+    <string name="nd52">Có nghĩa cửa mà đo được cung QUÝ NHÂN thì gia cảnh sẽ được khả quan, có người giúp đỡ, quyền thế, lộc thực tăng, làm ăn luôn phát đạt, người ăn ở bạn bè trung thành, con cái thông minh trên đường học vấn. Nhưng chớ quá tham lam, làm điều bất chánh thì sẽ bị mất hết</string>
+    <string name="nhan_thuc">Nhận thức</string>
+    <string name="nhap_ten">Nhập tên</string>
+    <string name="no_reward_ads">Quảng cáo hiện chưa sẵn sàng, vui lòng thử lại sau ít giây</string>
+    <string name="not_enough_info">Bạn chưa điền đầy đủ hết thông tin. Vui lòng thử lại</string>
+    <string name="not_follow_horoscope">Nhấn nút theo dõi để nhận được thông báo về Cung Hoàng Đạo của bạn hàng ngày</string>
+    <string name="occur_date">NGÀY DIỄN RA</string>
+    <string name="offline">Offline mode</string>
+    <string name="password_toggle_content_description">Toggle password visibility</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="payload_iab">ppclink_catviet</string>
+    <string name="payload_sku_full">com.ppclink.lichviet.billing.full</string>
+    <string name="payload_sku_one_year">com.ppclink.lichviet.billing.oneyear</string>
+    <string name="physical">Sức khoẻ</string>
+    <string name="player_error">Player Error</string>
+    <string name="public_transport">Public transport</string>
+    <string name="roads_nl">Netherlands roads overlay</string>
+    <string name="samples">Samples</string>
+    <string name="saturday_compact">BẢY</string>
+    <string name="saved_image">Đã lưu ảnh!</string>
+    <string name="search">Tìm Kiếm</string>
+    <string name="server_client_id">606806516800-at2erl1hv9qgrnr35rqomlo5hl84efmv.apps.googleusercontent.com</string>
+    <string name="set_mode_hide_me">hiding my current location</string>
+    <string name="set_mode_offline">Set to offline mode</string>
+    <string name="set_mode_online">Set to online mode</string>
+    <string name="set_mode_show_me">showing and tracking my current location</string>
+    <string name="setting">Chỉnh sửa thông tin</string>
+    <string name="share">Chia sẻ</string>
+    <string name="special">Đặc biệt</string>
+    <string name="special_infomation">Thông tin đặc biệt</string>
+    <string name="st_title_notification_endofpremium">Lịch Việt - Premium</string>
+    <string name="st_title_notification_quotation">Lịch Việt - Danh ngôn</string>
+    <string name="st_title_notification_weather">Lịch Việt - Thời tiết</string>
+    <string name="start_date">NGÀY BẮT ĐẦU</string>
+    <string name="status_confirmed">Tham gia</string>
+    <string name="status_declined">Từ chối</string>
+    <string name="status_need_action" />
+    <string name="status_tentative">Có thể</string>
+    <string name="suggest">Lời khuyên</string>
+    <string name="sunday_compact">C.N</string>
+    <string name="tagmanager_preview_dialog_button">Continue</string>
+    <string name="tagmanager_preview_dialog_message">Preview mode updated.</string>
+    <string name="tagmanager_preview_dialog_title">Preview</string>
+    <string name="tapped">Tapped</string>
+    <string name="textAt">Ất</string>
+    <string name="textBinh">Bính</string>
+    <string name="textBinhHan">Bình hạn:</string>
+    <string name="textBinhSao">Bình sao:</string>
+    <string name="textCanh">Canh</string>
+    <string name="textChuNhat">Chủ nhật</string>
+    <string name="textDan">Dần</string>
+    <string name="textDau">Dậu</string>
+    <string name="textDinh">Đinh</string>
+    <string name="textEventBaothuc">Báo thức</string>
+    <string name="textEventHop">Họp</string>
+    <string name="textEventKhac">Khác</string>
+    <string name="textEventSinhnhat">Sinh nhật</string>
+    <string name="textEventTinhyeu">Tình yêu</string>
+    <string name="textGiap">Giáp</string>
+    <string name="textGiay">Giây</string>
+    <string name="textGio">Giờ</string>
+    <string name="textGtSaoDiaVong">Mắc hạn này thường mang tiếng thị phi, hay bị tai vạ. Người buôn bán lậu hoặc hàng quốc cấm gặp hạn này nên ngừng lại là hơn, kỵ đi với ai lúc trời tối</string>
+    <string name="textGtSaoDiaVongNu">Mắc hạn này thường mang tiếng thị phi, hay bị tai vạ. Người buôn bán lậu hoặc hàng quốc cấm gặp hạn này nên ngừng lại là hơn, kỵ đi với ai lúc trời tối</string>
+    <string name="textGtSaoDiemVuong">Diêm Vương là hạn xấu. Đau lâu mà gặp hạn Diêm Vương thì khó thoát khỏi. Tuy nhiên, về mưu sinh thì sao này lại tốt, được tài lộc dồi dào, vui vẻ</string>
+    <string name="textGtSaoDiemVuongNu">Diêm Vương là hạn xấu. Đau lâu mà gặp hạn Diêm Vương thì khó thoát khỏi. Sản phụ mắc bệnh Diêm Vương thì rất nguy hiểm về tánh mạng. Tuy nhiên, về mưu sinh thì sao này lại tốt, được tài lộc dồi dào, vui vẻ</string>
+    <string name="textGtSaoHuynhTuyen">Đại hạn, hao tài, bệnh nặng. Gặp hạn này không nên mưu lợi bằng đường thủy, không nên bảo chứng cho người khác, vì có thể sanh những chuyện bất lợi</string>
+    <string name="textGtSaoHuynhTuyenNu">Đại hạn, hao tài, bệnh nặng. Gặp hạn này không nên mưu lợi bằng đường thủy, không nên bảo chứng cho người khác, vì có thể sanh những chuyện bất lợi</string>
+    <string name="textGtSaoKeDo">Hung tinh, kỵ tháng ba và tháng chín. Chủ về ám muội, thị phi, đau khổ, hao tài tốn của, họa vô đơn chí; trong gia đình có việc mờ ám</string>
+    <string name="textGtSaoKeDoNu">Hung tinh, kỵ tháng ba và tháng chín. Chủ về ám muội, thị phi, đau khổ, hao tài tốn của, họa vô đơn chí; trong gia đình có việc mờ ám (người Nữ giới có thể bị tranh chấp đưa đến cò bót hoặc nếu nặng hơn đưa đến bi ai trong gia đạo)</string>
+    <string name="textGtSaoLaHau">Sao này còn gọi là Khẩu Thiệt tinh.Thường đem đến cho người nỗi buồn rầu, điều tai nạn, hoặc tang sự, kiện thưa hay mang tiếng thị phi.Người nào mạng Kim và Mộc thì chịu ảnh hưởng nặng hơn mạng khác vì sao này thuộc Mộc. Nam giới kỵ nhiều hơn Nữ giới, nên đề phòng tháng Giêng và tháng 7. Nam giới có thể bị tranh chấp rồi đưa đến đến cò bót nếu nặng, làm đau buồn trong gia-đình.</string>
+    <string name="textGtSaoLaHauNu">Sao này còn gọi là Khẩu Thiệt tinh.Thường đem đến cho người nỗi buồn rầu, điều tai nạn, hoặc tang sự, kiện thưa hay mang tiếng thị phi. Người nào mạng Kim và Mộc thì chịu ảnh hưởng nặng hơn mạng khác vì sao này thuộc Mộc. Nam giới kỵ nhiều hơn Nữ giới, nên đề phòng tháng Giêng và tháng 7. Nữ giới lo âu, buồn phiền hay bịnh hoạn hoặc sanh dưỡng khó khăn.</string>
+    <string name="textGtSaoMocDuc">Triều ngươn tinh, sao này cũng là một Phước tinh cho cả nam và nữ. Người có sao này cũng được kiết tinh như sao Thái Âm, làm ăn phát đạt, gặp nhiều may mắn, có bạn mới, được thăng quan tiến chức, gặp quý nhơn giúp đỡ, đi thi cũng đậu, làm nhà cũng tốt, mở bày việc làm ăn không bị trở ngại, có tài lộc cho nên việc dựng vợ gả chồng cho các con cũng tốt, mọi chuyện hạnh thông. Nếu người thuộc mạng Kim hay mạng Mộc gặp sao này chiếu mạng thì có phần trở ngại nhưng sao này là một Phước tinh nên không hại gì. Đặc-biệt, vào tháng Chạp thì rất tốt. Bởi vì, sao \"Mộc Đức thập nhị trùng lai\". Tuy nhiên, người Nam giới hay đau mắt.</string>
+    <string name="textGtSaoMocDucNu">Triều ngươn tinh, sao này cũng là một Phước tinh cho cả nam và nữ. Người có sao này thì làm ăn phát đạt, gặp nhiều may mắn, có bạn mới, được thăng quan tiến chức, gặp quý nhơn giúp đỡ, đi thi cũng đậu, làm nhà cũng tốt, mở bày việc làm ăn không bị trở ngại, có tài lộc cho nên việc dựng vợ gả chồng cho các con cũng tốt, mọi chuyện hạnh thông. Đàn bà có thai gặp sao Mộc đức chiếu mạng thì đứa trẻ sanh ra dầu trai hay gái tánh tình cũng cương nghị, quả quyết, nhẫn nại, điềm tĩnh, đứa trẻ sẽ được nổi danh sau này. Nếu người thuộc mạng Kim hay mạng Mộc gặp sao này chiếu mạng thì có phần trở ngại nhưng sao này là một Phước tinh nên không hại gì. Đặc-biệt, vào tháng Chạp thì rất tốt. Bởi vì, sao \"Mộc Đức thập nhị trùng lai\". Tuy nhiên, người Nam giới cũng hay đau máu huyết.</string>
+    <string name="textGtSaoNguHo">Ngũ Hộ thuộc tiểu hạn. Gặp hạn này phải hao tiền tốn của, bất an</string>
+    <string name="textGtSaoNguHoNu">Ngũ Hộ thuộc tiểu hạn. Gặp hạn này phải hao tiền tốn của, bất an</string>
+    <string name="textGtSaoTamKheo">Tiểu hạn hay đau mắt, người nhức mỏi, hay lo buồn. Không nên tụ tập nơi đông người vì dễ gặp rủi ro. Tránh chuyện khiêu khích, nếu gặp chuyện gây gổ nên cố gắng nhẫn nhịn. Đề phòng thương tích tay chân, ngăn ngừa, giữ gìn củi lửa</string>
+    <string name="textGtSaoTamKheoNu">Tiểu hạn hay đau mắt, người nhức mỏi, hay lo buồn. Không nên tụ tập nơi đông người vì dễ gặp rủi ro. Tránh chuyện khiêu khích, nếu gặp chuyện gây gổ nên cố gắng nhẫn nhịn. Đề phòng thương tích tay chân, ngăn ngừa, giữ gìn củi lửa</string>
+    <string name="textGtSaoThaiAm">Chủ dương tinh (mặt trăng), Đàn ông gặp sao này thì tốt, làm ăn phát đạt, được bạn bè phái nữ giúp đỡ nhất là về tiền bạc vì sao này còn gọi là tài tinh. Người chưa lập gia đình sẽ gặp những cuộc tình duyên kỳ ngộ hay sẽ có vợ vào năm này. Theo quan niệm dân gian, sao này vào tháng ba thì tốt, tháng mười một rất xấu (hay bịnh hoạn)</string>
+    <string name="textGtSaoThaiAmNu">Chủ dương tinh (mặt trăng), Sao này thường đem lại cho nữ giới sự điều hòa, vui vẻ, hạnh phúc, tiền tài, làm cho được toại nguyện những ước mơ của mình. Theo quan niệm dân gian, sao này vào tháng ba thì tốt, tháng mười một rất xấu (kỵ sanh đẻ cho Nữ giới)</string>
+    <string name="textGtSaoThaiBach">Sao này còn gọi là Kim Đức tinh. Gặp sao này phải cẩn thận về hôn nhân cưới gả và cần giữ gìn trong công việc kinh doanh, có tiểu nhân quấy phá, hao tán tiền của, đề phòng quan sự. Xấu vào tháng năm âm lịch và kỵ màu trắng quanh năm. Những người thuộc mạng Kim, mạng Mộc và mạng Hỏa đều Đại kỵ</string>
+    <string name="textGtSaoThaiBachNu">Sao này còn gọi là Kim Đức tinh. Gặp sao này phải cẩn thận về hôn nhân cưới gả và cần giữ gìn trong công việc kinh doanh, có tiểu nhân quấy phá, hao tán tiền của, đề phòng quan sự (Nữ giới thường bị đau ốm, nên ngừa tiểu nhân và đưa đến sự tranh chấp). Xấu vào tháng năm âm lịch và kỵ màu trắng quanh năm. Những người thuộc mạng Kim, mạng Mộc và mạng Hỏa đều Đại kỵ</string>
+    <string name="textGtSaoThaiDuong">Sao này là một Phước tinh, thường chiếu mạng cho bên nam giới. Những năm gặp sao Thái dương chiếu mạng thì làm ăn được phát đạt, thăng quan, tiến chức, gặp may mắn trong việc buôn bán, nhất là vào tháng 6 và tháng 10 là hai tháng Đại kiết</string>
+    <string name="textGtSaoThaiDuongNu">Sao này là một Phước tinh,Bên nữ giới gặp sao này chiếu mạng thì có nhiều sự hân hoan, có bạn hữu giúp đỡ về tiền bạc hay làm ăn được nhiều thuận lợi, người đàn bà có thai cũng được bình an, đứa trẻ được khỏe mạnh, mỹ miều và duyên dáng. Các cô gái chưa chồng gặp sao này chiếu mạng có thể có chồng năm đó</string>
+    <string name="textGtSaoThienLa">Thiên La là hạn xấu. Gặp hạn này bị tà ma ám ảnh, tâm không an, vợ chồng có thể lâm vào cảnh xa cách, nhẫn nhịn trong nhà để tránh cảnh đó, chớ ghen tương gắt gỏng mà chuyện bé xé ra to</string>
+    <string name="textGtSaoThienLaNu">Thiên La là hạn xấu. Gặp hạn này bị tà ma ám ảnh, tâm không an, vợ chồng có thể lâm vào cảnh xa cách, nhẫn nhịn trong nhà để tránh cảnh đó, chớ ghen tuông gắt gỏng mà chuyện bé xé ra to</string>
+    <string name="textGtSaoThienTinh">(Xấu) Mắc hạn này hay xảy ra chuyện kiện thưa. Cũng nên đề phòng lúc ăn uống kẻo ngộ độc</string>
+    <string name="textGtSaoThienTinhNu">(Xấu) Mắc hạn này hay xảy ra chuyện kiện thưa. Phụ nữ có thai gặp hạn này phải đề phòng chuyện té ngã. Cũng nên đề phòng lúc ăn uống kẻo ngộ độc</string>
+    <string name="textGtSaoThoTu">(Ách Tinh) Sao này còn có tên là Thổ Đức Tinh. Mắc sao này thường gặp tai nạn chẳng yên, chiêm bao thấy điềm xấu, trong nhà gặp chuyện thị phi, nuôi súc vật bất lợi,nên đề phòng kẻ tiểu nhơn. Theo quan niệm dân gian sao này cũng kỵ nhất vào hai tháng là tháng tư và tháng tám. Rất hợp cho cả đàn ông và đàn bà thuộc mạng Thổ</string>
+    <string name="textGtSaoThoTuNu">(Ách Tinh) Sao này còn có tên là Thổ Đức Tinh. Mắc sao này thường gặp tai nạn chẳng yên, chiêm bao thấy điềm xấu, trong nhà gặp chuyện thị phi, nuôi súc vật bất lợi,nên đề phòng kẻ tiểu nhơn. Theo quan niệm dân gian sao này cũng kỵ nhất vào hai tháng là tháng tư và tháng tám. Rất hợp cho cả đàn ông và đàn bà thuộc mạng Thổ</string>
+    <string name="textGtSaoThuyDieu">Sao này còn có tên gọi là Thủy Đức Tinh hay Phúc Lộc Tinh. Sao này thường đem đến sự bất ngờ và may mắn trong công việc làm ăn buôn bán(Nam giới đi làm ăn sẽ khá và có lợi hơn Nữ giới). Gặp sao này nên tránh đi sóng biển. Sao Thủy diệu rất hạp với người thuộc mạng Mộc và mạng Kim. Những người thuộc mạng Hỏa gặp sao này chiếu mạng thì có phần trở ngại nhưng sao này chẳng phải là Hung tinh nên cũng không sao. Theo quan niệm dân gian, sao này kỵ nhất vào hai tháng là tháng tư và tháng tám</string>
+    <string name="textGtSaoThuyDieuNu">Sao này còn có tên gọi là Thủy Đức Tinh hay Phúc Lộc Tinh. Sao này thường đem đến sự bất ngờ và may mắn trong công việc làm ăn buôn bán(Nam giới đi làm ăn sẽ khá và có lợi hơn Nữ giới). Người đàn bà có thai gặp sao này cũng được tốt và bình an. Gặp sao này nên tránh đi sóng biển. Sao Thủy diệu rất hạp với người thuộc mạng Mộc và mạng Kim. Những người thuộc mạng Hỏa gặp sao này chiếu mạng thì có phần trở ngại nhưng sao này chẳng phải là Hung tinh nên cũng không sao. Theo quan niệm dân gian, sao này kỵ nhất vào hai tháng là tháng tư và tháng tám</string>
+    <string name="textGtSaoToanTan">Đại hạn, hao tài, đi đường mang theo tiền của dễ bị giật, chớ có hùm hạp. Nam giới gặp hạn này, tính mạng cũng dễ lâm nguy</string>
+    <string name="textGtSaoToanTanNu">Đại hạn, hao tài, đi đường mang theo tiền của dễ bị giật, chớ có hùm hạp.</string>
+    <string name="textGtSaoVanHan">Sao Vân Hớn còn gọi là Hỏa Đức Tinh. Đàn ông gặp sao này thì bị ghẻ lở mụn nhọt, kiện thưa bất lợi, người trong nhà không yên, khó nuôi súc vật. Mắc sao này, vào tháng hai và tháng năm gặp chuyện thị phi</string>
+    <string name="textGtSaoVanHanNu">Sao Vân Hớn còn gọi là Hỏa Đức Tinh. Đàn bà gặp lúc sinh đẻ xảy ra điều không hay. Mắc sao này, vào tháng hai và tháng năm gặp chuyện thị phi</string>
+    <string name="textHan">Hạn:</string>
+    <string name="textHeaderXemSao">Chọn năm sinh âm lịch</string>
+    <string name="textHoi">Hợi</string>
+    <string name="textKy">Kỷ</string>
+    <string name="textMao">Mão</string>
+    <string name="textMau">Mậu</string>
+    <string name="textMui">Mùi</string>
+    <string name="textNam">Nam</string>
+    <string name="textNgay">Ngày</string>
+    <string name="textNgo">Ngọ</string>
+    <string name="textNham">Nhâm</string>
+    <string name="textNu">Nữ</string>
+    <string name="textPhut">Phút</string>
+    <string name="textQuy">Quý</string>
+    <string name="textReminder">Nhắc nhở</string>
+    <string name="textReminder0min">Trước 0 phút</string>
+    <string name="textReminder10min">Trước 10 phút</string>
+    <string name="textReminder12hour">Trước 12 giờ</string>
+    <string name="textReminder15min">Trước 15 phút</string>
+    <string name="textReminder1hour">Trước 1 giờ</string>
+    <string name="textReminder1min">Trước 1 phút</string>
+    <string name="textReminder1week">Trước 1 tuần</string>
+    <string name="textReminder20min">Trước 20 phút</string>
+    <string name="textReminder24hour">Trước 24 giờ</string>
+    <string name="textReminder25min">Trước 25 phút</string>
+    <string name="textReminder2day">Trước 2 ngày</string>
+    <string name="textReminder2hour">Trước 2 giờ</string>
+    <string name="textReminder30min">Trước 30 phút</string>
+    <string name="textReminder3hour">Trước 3 giờ</string>
+    <string name="textReminder45min">Trước 45 phút</string>
+    <string name="textReminder5min">Trước 5 phút</string>
+    <string name="textRepetition">Lặp lại</string>
+    <string name="textRepetitionDaily">Hàng ngày</string>
+    <string name="textRepetitionEveryWeekday">Hàng ngày (T2-T6)</string>
+    <string name="textRepetitionMonthly">Hàng tháng</string>
+    <string name="textRepetitionOneTime">1 Lần</string>
+    <string name="textRepetitionWeekly">Hàng tuần</string>
+    <string name="textRepetitionYearly">Hàng năm</string>
+    <string name="textSao">Sao:</string>
+    <string name="textSaoDiaVong">Địa Võng</string>
+    <string name="textSaoDiemVuong">Diêm Vương</string>
+    <string name="textSaoHuynhTuyen">Huỳnh Tuyền</string>
+    <string name="textSaoKeDo">Kế Đô</string>
+    <string name="textSaoLaHau">La Hầu</string>
+    <string name="textSaoMocDuc">Mộc Đức</string>
+    <string name="textSaoNguHo">Ngũ Hộ</string>
+    <string name="textSaoTamKheo">Tam Kheo</string>
+    <string name="textSaoThaiAm">Thái Âm</string>
+    <string name="textSaoThaiBach">Thái Bạch</string>
+    <string name="textSaoThaiDuong">Thái Dương</string>
+    <string name="textSaoThienLa">Thiên La</string>
+    <string name="textSaoThienTinh">Thiên Tinh</string>
+    <string name="textSaoThoTu">Thổ Tú</string>
+    <string name="textSaoThuyDieu">Thủy Diệu</string>
+    <string name="textSaoToanTan">Toán Tận</string>
+    <string name="textSaoVanHan">Vân Hớn</string>
+    <string name="textSuu">Sửu</string>
+    <string name="textTan">Tân</string>
+    <string name="textThan">Thân</string>
+    <string name="textThang">THÁNG</string>
+    <string name="textThin">Thìn</string>
+    <string name="textThu">Thứ</string>
+    <string name="textThuBa">Thứ ba</string>
+    <string name="textThuBay">Thứ bảy</string>
+    <string name="textThuHai">Thứ hai</string>
+    <string name="textThuNam">Thứ năm</string>
+    <string name="textThuSau">Thứ sáu</string>
+    <string name="textThuTu">Thứ tư</string>
+    <string name="textTi">Tý</string>
+    <string name="textTuat">Tuất</string>
+    <string name="textTy">Tỵ</string>
+    <string name="textYear">Năm</string>
+    <string name="text_dieu_khoan">"Khi bạn sử dụng Lịch Việt, bạn đồng ý
+với "<u>các điều khoản và chính sách của chúng tôi</u></string>
+    <string name="text_open_ads"><u>Mở miễn phí tại đây</u></string>
+    <string name="text_tuvi_trondoi"><i>Dự đoán Tử vi - Bói toán mang tính tham khảo, giúp bạn có những quyết định hợp lý để thu lại kết quả tốt nhất cho mình.</i></string>
+    <string name="tham_mi">Thẩm mĩ</string>
+    <string name="them_thong_tin">Thêm thông tin &amp; ngày sinh của bạn hoặc người thân bạn muốn xem</string>
+    <string name="thiep_cauchuc">LỜI CHÚC</string>
+    <string name="thiep_chucmung">THIỆP CHÚC MỪNG</string>
+    <string name="thiep_chuctet">Chúc tết</string>
+    <string name="thuoc">THƯỚC</string>
+    <string name="thuoc38">THƯỚC LỖ BAN 38.8 CM</string>
+    <string name="thuoc42">THƯỚC LỖ BAN 42.9 CM</string>
+    <string name="thuoc52">THƯỚC LỖ BAN 52.2 CM</string>
+    <string name="thursday_compact">NĂM</string>
+    <string name="tim_kiem">    Nhập để tìm kiếm</string>
+    <string name="time_error">Ngày sinh lớn hơn thời gian hiện tại</string>
+    <string name="time_remain">Thời gian còn lại</string>
+    <string name="timngay_copyed">Đã sao chép kết quả tìm ngày! Hãy dán vào khung hội thoại hoặc văn bản.</string>
+    <string name="tinh_than">Tinh thần</string>
+    <string name="tinhngay_amlich">ÂM LỊCH</string>
+    <string name="tinhngay_demngay">ĐẾM NGÀY</string>
+    <string name="tinhngay_denngay">ĐẾN NGÀY</string>
+    <string name="tinhngay_doingay">ĐỔI NGÀY</string>
+    <string name="tinhngay_duonglich">DƯƠNG LỊCH</string>
+    <string name="tinhngay_homnay">HÔM NAY</string>
+    <string name="tinhngay_timngay">TÌM NGÀY</string>
+    <string name="tinhngay_tungay">TỪ NGÀY</string>
+    <string name="tip_biorhythm">Khám phá: Nhịp sinh học</string>
+    <string name="tip_change_day">Khám phá: Đổi ngày</string>
+    <string name="tip_good_day">Khám phá: Xem ngày tốt</string>
+    <string name="tip_horoscope">Khám phá: Cung hoàng đạo</string>
+    <string name="tip_lixi_1">Mở lì xì để có cơ hội sử dụng phiên bản Pro miễn phí không quảng cáo.</string>
+    <string name="tip_lixi_2">Chia sẻ cho bạn bè để nhận thêm 5 lượt mở lì xì.</string>
+    <string name="tip_lixi_3">Cảm ơn bạn đã chia sẻ. Hãy chia sẻ tiếp vào ngày mai để nhận thêm lượt mở mới!</string>
+    <string name="tip_lixi_4">Chia sẻ cho bạn bè để nhận thêm 5 lượt mở lì xì.</string>
+    <string name="tip_lixi_5">Đã hết lượt mở hôm nay. Hãy quay lại vào ngày mai để nhận thêm lượt mở mới!</string>
+    <string name="tip_swipe">Vuốt ngang để đổi ngày</string>
+    <string name="tip_today_in_history">Khám phá: Ngày này năm xưa</string>
+    <string name="titleFeedback">Góp ý Lịch Việt</string>
+    <string name="title_birthday">Sinh nhật</string>
+    <string name="title_content1_paragraph1">"Để tạo ra một ứng dụng chất lượng, chúng tôi phải bỏ nhiều thời gian, công sức cho nó.
+"</string>
+    <string name="title_content1_paragraph2">"Trong quá trình này, chúng tôi cần kinh phí để chi trả cho nhân sự, địa điểm và duy trì hệ thống.
+"</string>
+    <string name="title_content1_paragraph3">"Quảng cáo là nguồn thu quan trọng nhất đối với chúng tôi để bù đắp các chi phí này.
+"</string>
+    <string name="title_content2_paragraph1">"Việc trả phí để sử dụng một ứng dụng chưa phổ biến tại Việt Nam. Khi không có nguồn thu, chúng tôi khó có thể duy trì nâng cấp ứng dụng.
+"</string>
+    <string name="title_content2_paragraph2">"Và khi đó, bạn cũng sẽ không được trải nghiệm những tính năng hữu ích mà Lịch Việt đem lại.
+"</string>
+    <string name="title_content3_paragraph1">"Hiện tại, Lịch Việt sử dụng các hệ thống quảng cáo của một số bên khác như Google, Facebook. Đôi khi, bạn sẽ nhìn thấy quảng cáo không phù hợp với mình.
+"</string>
+    <string name="title_content3_paragraph2">"Hệ thống quảng cáo cũng có thể bị lỗi và hiển thị khá nhiều. Chúng tôi sẽ cố gắng giảm thiểu các sự cố như vậy trong thời gian sớm nhất.
+"</string>
+    <string name="title_content4_paragraph1">"Chúng tôi cần quảng cáo, giống như bạn cần Lịch Việt cho cuộc sống thường nhật của mình.
+"</string>
+    <string name="title_content4_paragraph2">"Chúng tôi sẽ nỗ lực để khiến bạn ngày một hài lòng khi sử dụng Lịch Việt.
+"</string>
+    <string name="title_content4_paragraph3">"Để hạn chế quảng cáo, hãy đăng kí bản Pro tại trang Cấu hình - Tắt Quảng cáo trong Thẻ Khám phá.
+"</string>
+    <string name="title_event">Sự kiện</string>
+    <string name="title_event_up_coming_film">Khởi chiếu</string>
+    <string name="title_important_event">Sự kiện quan trọng</string>
+    <string name="title_page1">Quảng cáo là một phần quan trọng đối với một ứng dụng miễn phí.</string>
+    <string name="title_page2">Không có quảng cáo, chúng ta sẽ không có Lịch Việt.</string>
+    <string name="title_page3">"Quảng cáo có thể gây khó chịu.
+Chúng tôi thấu hiểu điều này."</string>
+    <string name="title_page4">Đội ngũ Lịch Việt rất mong nhận được sự đồng cảm và hỗ trợ của bạn.</string>
+    <string name="tri_tue">Trí tuệ</string>
+    <string name="truc_giac">Trực giác</string>
+    <string name="trung_binh">Trung bình</string>
+    <string name="tuesday_compact">BA</string>
+    <string name="tv_change_password">Đổi mật khẩu</string>
+    <string name="tv_choose_gender">Chọn giới tính</string>
+    <string name="tv_day">NGÀY</string>
+    <string name="tv_event">Sự kiện</string>
+    <string name="tv_hoangdao_hour">Giờ hoàng đạo</string>
+    <string name="tv_hour">GIỜ</string>
+    <string name="tv_month">THÁNG</string>
+    <string name="tv_more">CÓ THỂ BẠN QUAN TÂM</string>
+    <string name="tv_preference">Tùy chỉnh</string>
+    <string name="tv_sao_tot_xau">Sao tốt - sao xấu</string>
+    <string name="tv_select_image_from_camera">Camera</string>
+    <string name="tv_select_image_from_facebook">Avatar Facebook</string>
+    <string name="tv_select_image_from_galery">Thư viện ảnh</string>
+    <string name="tv_select_image_title">Chọn ảnh đại diện</string>
+    <string name="tv_send_card">Gửi thiệp chúc mừng</string>
+    <string name="tv_send_card_description">Gửi thiệp chúc mừng cho gia đình, bạn bè và người thương qua ứng dụng Lịch Việt miễn phí trên iOS và Android.</string>
+    <string name="tv_swipe_up_guide">Vuốt lên để xem chi tiết ngày</string>
+    <string name="tv_thap_nhi_bat_tu">Theo nhị thập bát tú</string>
+    <string name="tv_tietkhi">Tiết khí</string>
+    <string name="tv_tietkhi_description">Tiết khí (tiếng Hán truyền thống: 節氣; phát âm PinYin: Jieqi) là 24 điểm đặc biệt trên quỹ đạo của Trái Đất xung quanh Mặt Trời, mỗi điểm cách nhau 15°. Tiết khí có xuất xứ từ Trung Quốc. Nó được sử dụng trong công tác lập lịch của các nền văn minh phương đông cổ đại như Trung Quốc, Việt Nam, Nhật Bản, Triều Tiên để đồng bộ hóa các mùa. Ở Việt Nam có một số học giả phân biệt tiết và khí. Họ cho rằng cứ một tiết lại đến một khí. Tuy nhiên để dễ hiểu, nhiều người vẫn gọi chung là tiết khí hoặc đơn giản chỉ là tiết.</string>
+    <string name="tv_tuoi_xung">Tuổi xung</string>
+    <string name="txt_create_account_guide">"Chúng tôi cần thêm một số thông tin 
+ để giúp bạn sử dụng Lịch Việt thuận tiện hơn"</string>
+    <string name="txt_xemsao_under10">Không có sao chủ và sao hạn ứng với tuổi này.</string>
+    <string name="ub__mobile_redirect">https://m.uber.com/sign-up?client_id=%1$s&amp;user-agent=%2$s</string>
+    <string name="ung_dung">Ứng Dụng</string>
+    <string name="unnamed">Chưa đặt tên</string>
+    <string name="vankhan_rutgon"><b>Văn khấn không nên cầu xin</b>"
+Đạo Phật vào Việt Nam ngay từ đầu đã kết hợp với tín ngưỡng nông nghiệp với tính thực dụng cao nên người Việt đã thần hóa Phật."</string>
+    <string name="vankhan_ynghia"><b>Văn khấn không nên cầu xin</b>"
+Đạo Phật vào Việt Nam ngay từ đầu đã kết hợp với tín ngưỡng nông nghiệp với tính thực dụng cao nên người Việt đã thần hóa Phật. Vì cho Đức Phật có nhiều phép thần thông nên cầu xin người ban phát, phù hộ cho mình. Thực chất, Phật giáo một tư tưởng triết học lớn, Phật chính là đại điện cho tư tưởng triết học và giáo lý mà bản thân đạo Phật muốn đem đến cho người dân. Phật chỉ là nhà tư tưởng, không phải thần thánh. Do đó, nguyên tắc của đạo Phật không phải là cầu xin nên mọi hình thức cầu khấn tiền tài, cầu danh vọng, cầu xin ban phát những điều tốt cho bản thân hay những hình thức dâng sao, giải hạn. Đi chùa là để học cho tinh thần được thanh thản, để giác ngộ. Chùa là nơi dạy chúng sinh làm điều thiện, xây dựng nhận thức trên nền tảng trí tuệ để nhờ có trí tuệ sẽ diệt trừ được ngu tối, bởi ngu tối là mầm mống của tội ác. Do vậy, người đi lễ là để học làm điều thiện chứ không phải là để khấn vái, cầu xin những điều thuộc về vật chất. Những lời khấn có tính cầu xin hiện nay đều không phải là văn khấn trước trước đấng linh thiêng. 
+
+"<b>Không nên khấn theo bài cố định</b>"
+Hiện nay, trên các trang mạng đang truyền đi rất nhiều bài văn khấn có sẵn để mọi người học hỏi. Với các bài khấn này, mỗi người chỉ cần thay tên đổi họ, đổi địa chỉ, còn nội dung khấn đều giống nhau. Nhưng GS. Biền đặc biệt nhấn mạnh rằng các bài khấn, kể cả bài khấn Phật hay các bài khấn Mẫu, khấn thần linh, khấn người có công… nếu có sẵn đều là giả dối. Khấn phải là tâm truyền tâm tức là nói lên chính tâm nguyện của bản thân, khấn có bài bản tức là bị lệ thuộc, không xuất phát từ tâm nên không được chấp nhận. Khi đứng trước ban thờ, hãy gửi đến đấng thiêng liêng những suy nghĩ đẹp đẽ nhất. 
+
+"<b>Muốn vào khấn phải qua ban Đức Ông</b>"
+Việc đầu tiên khi bước vào bất cứ một ngôi chùa nào là phải qua ban Đức Ông trước, bởi Đức Ông đã được Đức Phật thọ ký cho là người cai quản mọi cảnh chùa, do đó, lễ Đức Ông không phải là cầu xin mà là xin phép ngài được vào lễ Phật. 
+
+"<b>Khi khấn phải trang nghiêm</b>"
+Khi đứng trước ban thờ Phật, người khấn không được cúi gằm mặt xuống, phải đứng trang nghiêm, áo quần chỉnh tề, nhìn lên ban thờ Phật, nhìn lên Tam thế Phật. Với những gia đình có người đã mất, người khấn phải nhìn lên hàng tượng thứ hai, gọi là bộ tượng Di Đà Tam Tôn (A Di Đà Tiếp Dẫn), là bộ tượng mang ý nghĩa tiếp dẫn những chúng sinh có Phật quả vào cõi cực lạc. Khi nhìn lên hàng tượng này, tức là đang cầu cho linh hồn của người đã mất sẽ được sự che chở của Phật. 
+
+"<b>Vái 3 vái là đủ</b>"
+Khi khấn, tay phải để trước ngực, chắp hình búp sen, chiếu các ngón tay thẳng lên trời và không được vái lia lịa bởi nếu như thế thì tâm vọng động. Do đó, người khấn chỉ cần vái 3 lần. Ba vái tượng trưng cho Phật, Pháp và Tăng. Phật ở đây là giác, tức giác ngộ, sáng suốt, thông hiểu mọi lẽ. Pháp là lẽ phải, điều chính đáng. Tăng là tịnh, tức là trong sạch, thanh tịnh. Ba vái là nguyên tắc phải làm theo. Người vào khấn lễ cũng chỉ thắp một nén hương, bởi đó là tâm hương biểu hiện tâm của người đi lễ. Ý nghĩa của nén hương gồm giới hương, định hương, tuệ hương, giải thoát hương và giải thoát tri kiến hương. Có giới được thì mới định được, tức là có kiêng khem được, có theo đúng quy ước được thì tâm mới định được, khi đó thì tuệ mới phát sinh, khi trí tuệ phát sinh thì con người mới có thể giải thoát được và ngày càng tinh tấn, tiến bộ, hiểu biết sâu sắc hơn, mới giác ngộ được. Không nên thắp ba nén hương bởi thắp ba nén hương chỉ có trong trường hợp muốn có sự thay đổi bởi 3 là số lẻ, lẻ thì động, động thì chuyển, chuyển thì biến đổi, phát triển. 
+
+"<b>Khấn chớ nên nói to</b>"
+Ngoài ra, người xưa đã nói “Tâm xuất quỷ thần chi”, chúng ta nghĩ gì là quỷ thần đã biết nên không cần phải nói to, đọc to bài khấn để tránh làm phiền đến người khác. Phật dạy rằng “tâm truyền tâm”, tâm có tĩnh thì tuệ mới sinh nên chỉ cần lặng lẽ khấn. 
+
+"<b>Không phải cứ khấn là “Nam mô A Di Đà”.</b>"
+Trong thực tế, hầu hết người dân đến đền, đình, chùa, miếu, phủ đều bắt đầu bài khấn bằng một câu là “Nam mô A Di Đà Phật”. Kể cả những người “sành” đi đình, miếu phủ cũng khấn vậy. Nhưng câu khấn này thực chất chỉ dành cho người khấn ở chùa. “Nam mô” có nghĩa là xin quy y, xin theo Đức Phật. Ở đền, phủ lại không thờ Phật do đó câu nói này hoàn toàn không phù hợp. Đền, phủ… là những nơi thờ thần linh, thờ những người có công nên khi đứng trước ban thờ, người khấn trước tiên hãy tỏ lòng thành kính, sau đó mới khấn những ước muốn, tâm nguyện trong sáng."</string>
+    <string name="wednesday_compact">TƯ</string>
+    <string name="widget_day_1_name">Lịch Việt - Ngày 1</string>
+    <string name="widget_day_2_name">Lịch Việt - Ngày 2</string>
+    <string name="widget_day_3_name">Lịch Việt - Menu</string>
+    <string name="widget_month_1_name">Lịch Việt - Tháng 1</string>
+    <string name="widget_month_2_name">Lịch Việt - Tháng 2</string>
+    <string name="xem_ngay_chi_so_thap">Xem ngày các chỉ số đều thấp</string>
+    <string name="xem_ngay_tb_cao">Xem ngày có chỉ số trung bình cao</string>
+    <string name="xem_nguoi_noi_tieng">Xem nhịp sinh học người nổi tiếng</string>
+    <string name="xem_nhip_sinh_hoc">Xem nhịp sinh học</string>
+    <string name="xongdat_cac_ngay_thich_hop">Các ngày thích hợp</string>
+    <string name="xongdat_cau_khoabang">Cầu khoa bảng</string>
+    <string name="xongdat_cau_phucduc">Cầu phúc đức</string>
+    <string name="xongdat_cau_quanloc">Cầu quan lộc</string>
+    <string name="xongdat_cau_tailoc">Cầu tài lộc</string>
+    <string name="xongdat_chon_nguoi_xong_dat">CHỌN NGƯỜI XÔNG ĐẤT</string>
+    <string name="xongdat_huong_xuathanh">HƯỚNG XUẤT HÀNH</string>
+    <string name="xongdat_mo_hang_dau_nam">MỞ HÀNG ĐẦU NĂM</string>
+    <string name="xongdat_ngay_gio_tot_nhat">Ngày giờ tốt nhất</string>
+</resources>

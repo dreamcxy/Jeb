@@ -1,0 +1,736 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Get Google Play services</string>
+    <string name="common_google_play_services_install_text_phone">"%1$s won't run without Google Play services, which are missing from your phone."</string>
+    <string name="common_google_play_services_install_text_tablet">"%1$s won't run without Google Play services, which are missing from your tablet."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. If the problem persists, please contact the developer for assistance.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s relies on Google Play services, which is not supported by your device. Contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_updating_title">Google Play services are updating</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="pull_to_refresh_pull_label">Pull to refresh…</string>
+    <string name="pull_to_refresh_refreshing_label">Loading…</string>
+    <string name="pull_to_refresh_release_label">Release to refresh…</string>
+    <string name="IDS_30_METER">30m</string>
+    <string name="IDS_3RD_PARTY_SOFTWARE">Third Party Software</string>
+    <string name="IDS_4K_CAANOT_IMPORTED_CAMERA_OFF">"4K(C4K) movie(s) cannot be imported.
+You may turn off the camera."</string>
+    <string name="IDS_4K_CAANOT_IMPORTED_CAMERA_OFF_CLEAR_SHAREMARK">"4K(C4K) movie(s) cannot be imported.
+You may turn off the camera. (\"Share Order(s)\" will be reset .)"</string>
+    <string name="IDS_4K_CAANOT_IMPORTED_CLEAR_SHAREORDER">"4K(C4K) movie(s) cannot be imported.
+\"Share Order\" is reset."</string>
+    <string name="IDS_4K_CAANOT_IMPORTED_CLEAR_SHAREORDERS">"4K(C4K) movie(s) cannot be imported.
+\"Share Orders\" are reset."</string>
+    <string name="IDS_5KM">5km</string>
+    <string name="IDS_ABOUT_THIS_APP">About</string>
+    <string name="IDS_ADD">Add</string>
+    <string name="IDS_ADD_BLOCK_AREA">"Add Don't Log Area"</string>
+    <string name="IDS_ADD_BLOCK_AREA_BUTTON_TITLE">Add an Area</string>
+    <string name="IDS_ADD_GPS">Add Geotag</string>
+    <string name="IDS_ADJ_FAILED">Adjustment Failed</string>
+    <string name="IDS_ALL_ITEMS_SELECTED">All Items Selected</string>
+    <string name="IDS_ANTI_SHOCK">Anti-Shock</string>
+    <string name="IDS_APP">App</string>
+    <string name="IDS_APP_GET">Get It Now</string>
+    <string name="IDS_APP_NAME_OIP">Olympus Image Palette</string>
+    <string name="IDS_AREA_GPS_OFF">"Don't Log area"</string>
+    <string name="IDS_ART_BKT">ART BKT</string>
+    <string name="IDS_BACK">Back</string>
+    <string name="IDS_BACK_TO_APP">Back to OI.Share</string>
+    <string name="IDS_BITRATE_CHANGED">Compression/Bit Rate has been changed to Fine.</string>
+    <string name="IDS_BITRATE_CHANGED_TO">Compression/Bit Rate has been changed to %1$s.</string>
+    <string name="IDS_BLOCK_GPS">"Don't Log Area"</string>
+    <string name="IDS_BUSY">Camera is busy...</string>
+    <string name="IDS_C4K_CAANOT_IMPORTED_CAMERA_OFF">"C4K movie(s) cannot be imported.
+You may turn off the camera."</string>
+    <string name="IDS_C4K_CAANOT_IMPORTED_CAMERA_OFF_CLEAR_SHAREMARK">"C4K movie(s) cannot be imported.
+You may turn off the camera. (\"Share Order(s)\" will be reset .)"</string>
+    <string name="IDS_CAMERA_CONNECTION_FAILED">Failed to communicate with the camera.</string>
+    <string name="IDS_CAMERA_NOTFOUND">Unable to find an Olympus camera via Wi-Fi. Do you want to check the Wi-Fi setting?</string>
+    <string name="IDS_CAMERA_OFF">Power Off</string>
+    <string name="IDS_CAMERA_PROCESSING">The camera is busy.</string>
+    <string name="IDS_CAMERA_USAGE_DESCRIPTION">Camera will be used to scan QR codes.</string>
+    <string name="IDS_CANCEL_HALF_WAY">Cancel Half Way</string>
+    <string name="IDS_CANNOT_ADD_MY_CLIPS">Cannot be added to My Clips. Can be added to My Clips later, from the camera.</string>
+    <string name="IDS_CANNOT_OPEN_WEB_PAGE">Cannot open page.</string>
+    <string name="IDS_CARD_ERROR">Card Error</string>
+    <string name="IDS_CHANGE_BKG">Change Background</string>
+    <string name="IDS_CHANGE_ONE_TIME_TO_PRIVATE">This function is available only in Private Connection mode.</string>
+    <string name="IDS_CHANGE_TO_IAUTO">The photo is always taken in iAuto.</string>
+    <string name="IDS_CHECK_PHOTO">Check Photo</string>
+    <string name="IDS_CLEAR">Clear</string>
+    <string name="IDS_CLOSE">Close</string>
+    <string name="IDS_COMPLETE_TRANS_PHOTOS">Import complete.</string>
+    <string name="IDS_COMPOSIT_NOT_READY">Tap shutter button once to prepare for compositeshooting.</string>
+    <string name="IDS_COMPOSIT_NOT_READY_LB">"Tap shutter button once to prepare 
+for compositeshooting."</string>
+    <string name="IDS_COMPOSIT_NR_SHOOTING">"Preparing for composite shooting.
+Please stand by."</string>
+    <string name="IDS_COMPOSIT_READY">Ready for composite shooting</string>
+    <string name="IDS_CONFIRM_ADD_LOG_TO_CAMERA">Add Geotag to the photos in the camera.</string>
+    <string name="IDS_CONFIRM_CAMERA_OFF_AND_CLEAR_SHAREMARK">Import complete. You may turn off the camera. (\"Share Order(s)\" will be reset .)</string>
+    <string name="IDS_CONFIRM_CLEAR_SHAREMARK">\"Share Order(s)\" is reset when returning to the HOME screen.</string>
+    <string name="IDS_CONFIRM_OVERWRITE_NEW_SOUND">The recorded voice already exists.</string>
+    <string name="IDS_CONFIRM_SAVE_IMAGE">Do you want to save the photo?</string>
+    <string name="IDS_CONFIRM_TAKE_LONG_TIME">Geotag update may take some time depending on the number of photos in the camera.</string>
+    <string name="IDS_CONNECT">Connect</string>
+    <string name="IDS_CONNECTED_CAMERA_CONFIRM">The connection settings from the Olympus built-in Wi-Fi camera have been scanned.</string>
+    <string name="IDS_CONNECTED_CAMERA_NAME">Connected Camera:</string>
+    <string name="IDS_CONNECTION_GUIDE">Connection Guide</string>
+    <string name="IDS_CONNECTION_SETTINGS">Wi-Fi Setup</string>
+    <string name="IDS_CONNECT_CAMERA_TO_USE_THIS_FUNCTION">You must connect to an Olympus built-in Wi-Fi camera to use this function.</string>
+    <string name="IDS_CONNECT_CAMERA_TO_USE_THIS_FUNCTION_WIFI_SETTINGS">You must connect to an Olympus built-in Wi-Fi camera to use this function. Please check the Wi-Fi settings.</string>
+    <string name="IDS_CONTINUE">Continue</string>
+    <string name="IDS_CONTINUE_TO_DISPLAY">Continue to Display</string>
+    <string name="IDS_CONTINUE_WIFI_SETTING">Install Profile</string>
+    <string name="IDS_COPIED_TO_CLIPBOAD">Copied to clipboard</string>
+    <string name="IDS_COPYRIGHT_AD">Copyright (c) %1$s Olympus Corporation</string>
+    <string name="IDS_COPY_LINK">Copy Link</string>
+    <string name="IDS_COPY_URL">Copy URL</string>
+    <string name="IDS_DELETE">Delete</string>
+    <string name="IDS_DELETE_LOCATION_ON_SHARE">Share a Photo Without Geotag</string>
+    <string name="IDS_DELETE_LOG">Delete Log</string>
+    <string name="IDS_DELETE_SELECTED_LOG">Delete Selected Log</string>
+    <string name="IDS_DENIED_ACCESS_CAMERA">Enable Camera from the Settings in your device.</string>
+    <string name="IDS_DENIED_ACCESS_PHOTOS">Import failed. Enable access to your Photos from Privacy Settings in your device.</string>
+    <string name="IDS_DISPLAY">Display</string>
+    <string name="IDS_DISPLAY_COUNT">Display Count</string>
+    <string name="IDS_DISP_TIMER_COUNT">Display Count Indicator for Self-timer</string>
+    <string name="IDS_DL_OIP">Download Olympus Image Palette</string>
+    <string name="IDS_DONE">Done</string>
+    <string name="IDS_DONT_LAUNCH">"Don't Launch"</string>
+    <string name="IDS_DOWNLOAD">Download</string>
+    <string name="IDS_DOWNLOAD_APP">Download OLYMPUS Image Share</string>
+    <string name="IDS_DOWNLOAD_NOW">Download now</string>
+    <string name="IDS_DOWNLOAD_NOW_LF">"Download
+Now"</string>
+    <string name="IDS_EASY_CONNECT_CAMERA">Easy Setup</string>
+    <string name="IDS_EASY_CONNECT_DESCRIPTION">Scan the QR code shown on the monitor of an Olympus built-in Wi-Fi camera to set up the Wi-Fi connection.</string>
+    <string name="IDS_EDIT">Edit</string>
+    <string name="IDS_EDIT_ERROR_MESSAGE">Failed to edit photo.</string>
+    <string name="IDS_EDIT_PHOTO">Edit Photo</string>
+    <string name="IDS_EDIT_PHOTO_INITIAL_MESSAGE">Photo Edit can be applied to a photo in an album.</string>
+    <string name="IDS_ENTER_ADDRESS_TO_SEARCH">Search or Address</string>
+    <string name="IDS_ENTER_TEXT">Enter text.</string>
+    <string name="IDS_ENTER_THE_NAME">"Name for Don't Log Area"</string>
+    <string name="IDS_ERR_FIND_CAMERA">Unable to Find an Olympus Camera</string>
+    <string name="IDS_ERR_GALLERY_FULL">Unable to save the image(s). Please remove the images in the Olympus folder and try again.</string>
+    <string name="IDS_ERR_GEOTAG_LOG_MORE_100">Failed to transfer Geotag log(s). 100 or more logs cannot be saved in the camera in a day. Please remove Geotag logs in the GPSLOG folder of the camera and try again.</string>
+    <string name="IDS_ERR_MOVIE_PLAY_SAVE_GALLERY">Movie Preview is not supported. Do you want to import the movie to the device?</string>
+    <string name="IDS_EXPOSURE_COMP">Exposure Comp.</string>
+    <string name="IDS_FAILED_TAKE_PHOTO">Failed to Take a Photo</string>
+    <string name="IDS_FAILED_TO_CONNECT_CHECK_WIFI_SETTING">Unable to find an Olympus camera. Please confirm the Wi-Fi settings in your device.</string>
+    <string name="IDS_FAILED_TO_CONNECT_TO_THE_CAMERA_INITIALIZED">Unable to find an Olympus camera. Please confirm the Wi-Fi settings in your camera or device.</string>
+    <string name="IDS_FAILED_TO_CONNECT_TO_THE_CAMERA_UNINITIALIZED">Unable to find an Olympus camera. Connect Olympus built-in Wi-Fi camera.</string>
+    <string name="IDS_FAILED_TO_CONNECT_TO_THE_CAMERA_UNINITIALIZED_2">Unable to find an Olympus camera. Start \"Easy Setup\" to connect Olympus built-in Wi-Fi camera. Display the Wi-Fi setting if you are using FlashAir.</string>
+    <string name="IDS_FAILED_TO_EDIT_ERR_ALLOCMEM">Failed to edit photo. Cannot allocate sufficient memory.</string>
+    <string name="IDS_FAILED_TO_SAVE_FILE">Failed to save file.</string>
+    <string name="IDS_FAILED_TO_SEARCH_LOCATION_NAME">No results.</string>
+    <string name="IDS_FAILED_TO_TRANSFER_LOG">Failed to transfer a Geotag log.</string>
+    <string name="IDS_FAILED_TO_TRANSFER_SOME_LOGS">Failed to transfer %1$d Geotag logs.</string>
+    <string name="IDS_FAILED_TO_TRANS_LOG">Failed to transfer Geotag logs</string>
+    <string name="IDS_FINDING_PHOTOS">Finding Photos...</string>
+    <string name="IDS_FINISH_TRANSFER_CONFIRM_CAMERA_OFF">Import complete. You may turn off the camera.</string>
+    <string name="IDS_FLASHAIR">FlashAir</string>
+    <string name="IDS_FORMAT_NOT_SUPPORTED">Format not supported.</string>
+    <string name="IDS_FORMAT_TYPE_NOT_SUPPORTED">Format not supported.</string>
+    <string name="IDS_FORWARD">Forward</string>
+    <string name="IDS_FRAMERATE_CHANGED">Frame Rate has been changed to %1$s.</string>
+    <string name="IDS_FULLHD_1080P">FullHD (1080p)</string>
+    <string name="IDS_FULLY">Fully</string>
+    <string name="IDS_F_NO">FNo.</string>
+    <string name="IDS_GETTONG_NR_IMAGE">Preparing for composite shooting...</string>
+    <string name="IDS_GOOGLE_PLAY_SERVICES">Google Play services</string>
+    <string name="IDS_GO_NEXT">Install</string>
+    <string name="IDS_GPS_INFO_MESSAGE">Geotag function may not be available depending on the device and signal strength.</string>
+    <string name="IDS_GPS_LOG">My Logs</string>
+    <string name="IDS_GUIDE">Guide</string>
+    <string name="IDS_GUIDE_ADD_GPS">Send the Geotag log from the device to the camera to have the geotag automatically added to the pictures</string>
+    <string name="IDS_GUIDE_ARTFILTER">Turn your photos into works of art with Art Filters.</string>
+    <string name="IDS_GUIDE_BLOCK_GPS">"Up to five Don't Log areas can be set."</string>
+    <string name="IDS_GUIDE_EASY_CONNECT">"You can easily set up the Wi-Fi connection between your camera and device by scanning the QR code displayed on the camera's monitor. 
+
+ *This setup is necessary only once."</string>
+    <string name="IDS_GUIDE_EDIT_PHOTO">You can apply Art Filters and add a signature to any photo and you can edit photos taken using PHOTO STORY by adding a stamp and a template.</string>
+    <string name="IDS_GUIDE_FLASHAIR">"Display your device's Wi-Fi settings if you are using FlashAir."</string>
+    <string name="IDS_GUIDE_HANDWRITING">Draw your signature on the screen using your finger. You can adjust line width, color and the transparency of the signature. Tap the \"Switch Background\" button to confirm your signature.</string>
+    <string name="IDS_GUIDE_INST_PROFILE">Install Profile.</string>
+    <string name="IDS_GUIDE_IOS_WIFI_SETTING">"Take the following easy steps to adjust the Wi-Fi settings on your device so that it connects to your camera.
+
+1. Tap Settings > Wi-Fi.
+2. Make sure Wi-Fi is on. If Wi-Fi is off, turn it on by tapping the sliding switch.
+3. Find the camera from the list of available networks and tap it."</string>
+    <string name="IDS_GUIDE_LOCATION_INFO_FLOW">"1. Turn on the switch in the Home screen to start logging before taking pictures.
+2. Turn off the switch to finish logging after taking pictures.
+3. Connect the camera to your smartphone. Send geotag logs to the camera to add the geotag to the pictures taken during the logging."</string>
+    <string name="IDS_GUIDE_LOCATION_INFO_LONG">"Send the Geotag log from the device to the camera to have the geotag automatically added to the pictures.
+
+1. Turn on the switch in the Home screen to start logging before taking pictures.
+2. Turn off the switch to finish logging after taking pictures.
+3. Connect the camera to your smartphone. Send geotag logs to the camera to add the geotag to the pictures taken during the logging.
+
+* This function is available only with an Olympus built-in Wi-Fi camera. 
+* You must connect the camera in Private Connection mode to synchronize the time before using this function."</string>
+    <string name="IDS_GUIDE_NOTE_CONNECT_ONCE">* You must connect the camera in Private Connection mode to synchronize the time before using this function.</string>
+    <string name="IDS_GUIDE_NOTE_ONLY_WIFI_CAMERA">* This function is available only with an Olympus built-in Wi-Fi camera.</string>
+    <string name="IDS_GUIDE_RECORD_TIMER_SOUND">Take a photo with using self-timer at the signal of a recorded voice.</string>
+    <string name="IDS_GUIDE_REMOCON">You can use your device as a remote control to take pictures from your camera.</string>
+    <string name="IDS_GUIDE_REMOCON_2MODE">"“Live View” mode and “Remote Shutter” mode is available with Remote Control. 
+You can select the mode to match your shooting scene and style. 
+You can also change the mode in the Settings screen at any time."</string>
+    <string name="IDS_GUIDE_REMOCON_CONTROL">"You can check the camera's Live View on a smartphone, using the same operations as the camera for remote shooting."</string>
+    <string name="IDS_GUIDE_REMOCON_RELEASE">You can use a smartphone instead of a Remote Cable Release to take pictures from your camera.</string>
+    <string name="IDS_GUIDE_SCAN_QR">Adjust your device to display the QR code inside the square.</string>
+    <string name="IDS_GUIDE_SIGN">"You can add a signature stamp to a photo. The Camera's logo, Freehand and Photo signatures are available."</string>
+    <string name="IDS_GUIDE_SIGN2">"You can add a signature stamp to a photo. The Camera's logo, Freehand, Photo and Text signatures are available."</string>
+    <string name="IDS_GUIDE_SIGN_SHORT">You can add a signature stamp to a photo.</string>
+    <string name="IDS_GUIDE_STAMP">You can edit a photo taken with PHOTO STORY by adding a stamp and a template.</string>
+    <string name="IDS_GUIDE_TRANS_PHOTO">You can easily import photos from your camera to your device. Simply touch the Share Order mark on favorite photos on the camera to import them to your device.</string>
+    <string name="IDS_GUIDE_WIFI_SETTING">"Select the SSID displayed on the camera's monitor from network list on your device. Input the password to complete the Wi-Fi connection.
+
+ *This setup is necessary only once."</string>
+    <string name="IDS_HALFWAY_RELEASE">Half Way Release</string>
+    <string name="IDS_HALF_WAY">Half Way</string>
+    <string name="IDS_HANDWRITING">Freehand Signature</string>
+    <string name="IDS_HD_720P">HD (720p)</string>
+    <string name="IDS_HOME">Home</string>
+    <string name="IDS_HOW_TO_USE_LOG_LINK">No Logs.</string>
+    <string name="IDS_IMAGES_IMPORTED">Import complete. Images saved to OLYMPUS folder.</string>
+    <string name="IDS_IMAGES_IMPORTED_4KOUT">"Import complete. Images saved to OLYMPUS folder.
+4K(C4K) movie(s) cannot be imported."</string>
+    <string name="IDS_IMAGES_IMPORTED_CAMOFF">"Import complete. Images saved to OLYMPUS folder.
+You may turn off the camera."</string>
+    <string name="IDS_IMAGES_IMPORTED_CAMOFF_4KOUT">"Import complete. Images saved to OLYMPUS folder.
+4K(C4K) movie(s) cannot be imported.
+You may turn off the camera."</string>
+    <string name="IDS_IMAGES_IMPORTED_CAMOFF_VIDEOFORMATOUT">"Import complete. Images saved to OLYMPUS folder.
+%1$s movie(s) cannot be imported.
+You may turn off the camera."</string>
+    <string name="IDS_IMAGES_IMPORTED_VIDEOFORMATOUT">"Import complete. Images saved to OLYMPUS folder.
+%1$s movie(s) cannot be imported."</string>
+    <string name="IDS_IMAGES_SAVED_OLYMPUS_FOLDER">Images saved to OLYMPUS folder.</string>
+    <string name="IDS_IMAGE_IMPORTED">Import complete. Image saved to OLYMPUS folder.</string>
+    <string name="IDS_IMAGE_IMPORTED_CAMOFF">"Import complete. Image saved to OLYMPUS folder.
+You may turn off the camera."</string>
+    <string name="IDS_IMAGE_SAVED_OLYMPUS_FOLDER">Image saved to OLYMPUS folder.</string>
+    <string name="IDS_IMAGE_SIGN">Photo Signature</string>
+    <string name="IDS_IMAGE_SIZE">Image Size</string>
+    <string name="IDS_IMPORT">Import</string>
+    <string name="IDS_IMPORTING">Importing...</string>
+    <string name="IDS_IMPORTING_PROGRESS">Importing...%1$d/%2$d</string>
+    <string name="IDS_IMPORT_COMPLETE">Import Complete</string>
+    <string name="IDS_IMPORT_FAILED">Import Failed</string>
+    <string name="IDS_IMPORT_IMAGES">Import Images</string>
+    <string name="IDS_IMPORT_IMAGES_TO_DEVICE">Import the images to your device.</string>
+    <string name="IDS_IMPORT_IMAGE_TO_DEVICE">Import the image to your device.</string>
+    <string name="IDS_IMPORT_VIDEO_TO_DEVICE">Import the video to your device.</string>
+    <string name="IDS_INFORMATION">Information</string>
+    <string name="IDS_INFO_ART_APPLY_GALLERY_ONLY">Art filters can be applied to a photo in the device.</string>
+    <string name="IDS_INFO_ART_APPLY_IN_DEVICE_ONLY">Edit Photo can be applied to a photo in the device.</string>
+    <string name="IDS_INFO_FIRST_WIFI_SETTING">Tap [Wi-Fi Setting] button to connect the camera via Wi-Fi. Your device will automatically connect to the selected Wi-Fi network when launching this application. You can change the Wi-Fi setting in the Settings screen at any time.</string>
+    <string name="IDS_INFO_THIS_FUNCTION_WITH_WIFI_ONLY">This function is available only with Olympus built-in Wi-Fi camera.</string>
+    <string name="IDS_INTERVAL_SHOOTING">Interval Shooting</string>
+    <string name="IDS_INTERVAL_TIME">Interval Time</string>
+    <string name="IDS_INVITE_OI_SHARE">"About OLYMPUS Image Share.
+http://oishare.olympus-imaging.com/"</string>
+    <string name="IDS_ISO">ISO</string>
+    <string name="IDS_ISO_SENSITIVITY">ISO Sensitivity</string>
+    <string name="IDS_LARGE">Large</string>
+    <string name="IDS_LAST_SHOOT_PHOTO">Previous Photo</string>
+    <string name="IDS_LATER">Later</string>
+    <string name="IDS_LAUNCH">Launch</string>
+    <string name="IDS_LAUNCH_OIC">Launch Olympus Image Palette</string>
+    <string name="IDS_LEGAL_INFORMATION">Legal Notices</string>
+    <string name="IDS_LICENSE_APACHE">Licensed under the Apache License, Version 2.0 (the License)</string>
+    <string name="IDS_LIVEVIEW_SETTING">Live View Quality</string>
+    <string name="IDS_LOCATION_ALWAYS_USAGE_DESCRIPTION">You will be able to add geotags to photos taken with an Olympus Camera.</string>
+    <string name="IDS_LOG">Log</string>
+    <string name="IDS_LOGGING">Logged locations...</string>
+    <string name="IDS_LOGGING_NOTIFY">%1$d hours of geotag data has been logged.</string>
+    <string name="IDS_LOGGING_NOTIFY_OPEN">Open</string>
+    <string name="IDS_LOG_INTERVAL">Recording interval</string>
+    <string name="IDS_LOG_MATCHED">"Geotag logs have been transferred.
+%1$d photos have been tagged."</string>
+    <string name="IDS_LOG_N">Log%1$d</string>
+    <string name="IDS_LOG_NAME">Log</string>
+    <string name="IDS_LONG_PRESS_TO_AFL">Press to AF lock</string>
+    <string name="IDS_MAIL">Mail</string>
+    <string name="IDS_MAINTAIN_THUMB_ASPECT">Maintain Thumbnail Aspect Ratio</string>
+    <string name="IDS_MEDIUM">Medium</string>
+    <string name="IDS_MEG_CONNECT_TO_THE_CAMERA">Connect Olympus built-in Wi-Fi camera.</string>
+    <string name="IDS_MICROPHONE_USAGE_DESCRIPTION">You will be able to record voice for the self-timer.</string>
+    <string name="IDS_MM">mm</string>
+    <string name="IDS_MODE">Mode</string>
+    <string name="IDS_MOVIE">Movie</string>
+    <string name="IDS_MOVIE_IS_NOT_SUPPORTED_SAVE_TO_DEVICE">Movie Preview is not supported. Do you want to import the movie to your device?</string>
+    <string name="IDS_MOVIE_NOT_SUPPORTED">Video Preview is not supported</string>
+    <string name="IDS_MOVIE_PIXELSIZE_CHANGED">Movie Resolution has been changed to FullHD.</string>
+    <string name="IDS_MOVIE_PIXELSIZE_CHANGED_TO">Movie Resolution has been changed to %1$s.</string>
+    <string name="IDS_MOVIE_QUALITY_MOV_TO_SET1">Movie quality mode will be switched from Motion JPEG to Set 1(MOV).</string>
+    <string name="IDS_MOVIE_QUALITY_SET_MOV">Video will be recorded in \"MOV\" format.</string>
+    <string name="IDS_MOVIE_QUALITY_SET_MOVHDN">Movie quality mode \"Motion JPEG\" is set to \"MOV HD[N] (720p)\".</string>
+    <string name="IDS_MOVIE_SAVE_TO_YOUR_DEVICE">Do you want to save the movie to your device?</string>
+    <string name="IDS_MSG_4K_CANNOT_IMPORTED">4K(C4K) movie(s) cannot be imported.</string>
+    <string name="IDS_MSG_4K_WILLNOT_BE_IMPORTED">4K(C4K) video can not be imported.</string>
+    <string name="IDS_MSG_ADJ_FAILED">Adjustment failed.</string>
+    <string name="IDS_MSG_C4K_CANNOT_IMPORTED">C4K movie(s) cannot be imported.</string>
+    <string name="IDS_MSG_C4K_WILLNOT_BE_IMPORTED">C4K vide can not be imported.</string>
+    <string name="IDS_MSG_CANT_USE_RELEASE_MODE">The connected camera is not supported with the “Remote Shutter “ mode. Remote Control starts in \"Live View\" mode.</string>
+    <string name="IDS_MSG_CAN_CAMERA_OFF">You may turn off the camera.</string>
+    <string name="IDS_MSG_CAN_CAMERA_OFF_AND_CLEAR_SHAREMARK">You may turn off the camera. (\"Share Order(s)\" will be reset .)</string>
+    <string name="IDS_MSG_CARD_PROTECT">The memory card in the camera is write-protected.</string>
+    <string name="IDS_MSG_CAUTION_GET_GPS">Geotag function may not be available depending on the device and signal strength. Be aware that continued use of GPS running in the background can dramatically decrease battery life.</string>
+    <string name="IDS_MSG_CHECK_CAMERA_DEVICE_WIFI_SETTING">Please confirm the Wi-Fi settings in your camera or device.</string>
+    <string name="IDS_MSG_CHECK_WIFI_SETTING">Please confirm the Wi-Fi settings in your device.</string>
+    <string name="IDS_MSG_CLEAR_SHAREORDER">\"Share Order\" is reset.</string>
+    <string name="IDS_MSG_CLEAR_SHAREORDERS">\"Share Orders\" are reset.</string>
+    <string name="IDS_MSG_COMPOSIT_WIFI_INFO">When composite shooting exceeds about 30 minutes, the smart device may automatically disconnect the Wi-Fi connection and halt shooting, depending on the smart device being used.</string>
+    <string name="IDS_MSG_CONECT_BY_EASYSETUP_INFO_FLASHAIR">Start \"Easy Setup\" to connect Olympus built-in Wi-Fi camera. Display the Wi-Fi setting if you are using FlashAir.</string>
+    <string name="IDS_MSG_CONNECT_OLYCAM_TO_SEND_GEOTAG_TO_CAMERA">Before using this function, you must connect to an Olympus built-in Wi-Fi camera in Private Connection mode to synchronize the time.</string>
+    <string name="IDS_MSG_ENABLE_MICROPHONE">Enable Microphone from the Settings in your device.</string>
+    <string name="IDS_MSG_FAILED_IMPORT_IMAGE">Failed to import %1$d image.</string>
+    <string name="IDS_MSG_FAILED_IMPORT_IMAGES">Failed to import %1$d images.</string>
+    <string name="IDS_MSG_FOCUS_STACKING_FAILED">Focus stacking failed.</string>
+    <string name="IDS_MSG_FULLHD60_CANNOT_IMPORTED">FullHD 60fps movie(s) cannot be imported.</string>
+    <string name="IDS_MSG_FULLHD_CANNOT_IMPORTED">FullHD movie(s) cannot be imported.</string>
+    <string name="IDS_MSG_HD60_CANNOT_IMPORTED">HD 60fps movie(s) cannot be imported.</string>
+    <string name="IDS_MSG_HD_CANNOT_IMPORTED">HD movie(s) cannot be imported.</string>
+    <string name="IDS_MSG_IMPORT_COMPLETE">Import complete.</string>
+    <string name="IDS_MSG_IMPORT_FAILED">Import failed.</string>
+    <string name="IDS_MSG_IMPORT_VIDEO_FIRST_TIME_TO_RESIZE">Video taken with an Olympus camera can be imported and resized to save on your device. Video resize settings can be changed from the settings screen (Import Photos) at any time.</string>
+    <string name="IDS_MSG_INFO_DUAL_CARDS">Still Picture Save Setting has been changed to \"Standard\". This app now can only access the Still Picture Save Slot.</string>
+    <string name="IDS_MSG_LAUNCH_OIC">"Launch Olympus Image Palette?
+* Olympus Image Palette launch setting can be changed from Settings (Edit Photo) at any time."</string>
+    <string name="IDS_MSG_MOVIE_TIME_DETERMINED_BY_CLIPS">Movie recording length follows Clips settings.</string>
+    <string name="IDS_MSG_NOT_ENOUGH_SPACE_IN_DEVICE">There is not enough space in your smart device.</string>
+    <string name="IDS_MSG_NO_CARD">There is no memory card in the camera.</string>
+    <string name="IDS_MSG_NO_CONNECT_CAMERA">Unable to find the Olympus camera. Please choose \"%1$s\" in the Wi-Fi settings on your device.</string>
+    <string name="IDS_MSG_NO_SPACE_CARD">There is not enough space in the memory card of the camera.</string>
+    <string name="IDS_MSG_OIPALETTE_DOWNLOAD">Download Olympus Image Palette?</string>
+    <string name="IDS_MSG_PLAY_MOVIE_STREAMING">Streaming video will be played in low definition for preview purposes.</string>
+    <string name="IDS_MSG_PLAY_MOVIE_STREAMING_NO_VOICE">Audioless streaming movie will be played in low image quality for preview purposes.</string>
+    <string name="IDS_MSG_RESIZE_TAKE_TIME">Resizing may take some time.</string>
+    <string name="IDS_MSG_RESIZE_VIDEO_1080P">Videos in formats higher than FullHD will be resized to FullHD.</string>
+    <string name="IDS_MSG_RESIZE_VIDEO_1080P60FPS">Videos in formats higher than FullHD 30fps will be resized to FullHD 30 (25)fps.</string>
+    <string name="IDS_MSG_RESIZE_VIDEO_480P">Videos in formats higher than WVGA will be resized to WVGA.</string>
+    <string name="IDS_MSG_RESIZE_VIDEO_720P">Videos in formats higher than HD will be resized to HD.</string>
+    <string name="IDS_MSG_RISIZE_FPS_CHANGED">60 (50)fps video will be resized to 30 (25)fps.</string>
+    <string name="IDS_MSG_SHARE_ORERS_EXIST">There are %1$d images marked by Share Order in the camera.</string>
+    <string name="IDS_MSG_SHARE_ORER_EXISTS">There is a image marked by Share Order in the camera.</string>
+    <string name="IDS_MSG_SUPPORT_RISIZE_ONLY_OLYCAMERA">Video resizing is available only for videos taken with an Olympus camera.</string>
+    <string name="IDS_MSG_TAP_AGAIN_TO_EXIT">Tap the button again to exit.</string>
+    <string name="IDS_MSG_TAP_BACK_BUTTON">Tap the button again to exit the application.</string>
+    <string name="IDS_MSG_TIMELAPS_STARTED">"Time lapse shooting started. 
+
+Wi-Fi connection is disconnected while shooting. You can reconnect after shooting."</string>
+    <string name="IDS_MSG_TURN_ON_AND_START_LOGGING">To start logging, turn on the switch.</string>
+    <string name="IDS_MUST_CONNECT_OLYCAM_CONFIRM_WIFI_SETTINGS">You must connect to an Olympus built-in Wi-Fi camera to use this function. Please confirm the Wi-Fi settings in your camera or device.</string>
+    <string name="IDS_MUST_UPDATE_OITRACK_USE_THIS_FUNCTION">You must update OI.Track to use this function.</string>
+    <string name="IDS_MY_CLIPS_FULL">This My Clips folder is full.</string>
+    <string name="IDS_NETWORK">Network</string>
+    <string name="IDS_NEVER">Never</string>
+    <string name="IDS_NEVER_INSTALL">No, thanks</string>
+    <string name="IDS_NEVER_INSTALL_LF">No, thanks</string>
+    <string name="IDS_NEXT_SHOOTING">Next shot in</string>
+    <string name="IDS_NOTIFICATION_INTERVAL">Notification Interval</string>
+    <string name="IDS_NOTIFICATION_TIMES">Notification Count</string>
+    <string name="IDS_NOTIFY_DURING_LOG">Logging Notification</string>
+    <string name="IDS_NOT_SAVE_PHOTOS_IN_CAMERAROLL">Photo(s) in Camera Roll cannot be imported.</string>
+    <string name="IDS_NOT_SAVE_PHOTOS_IN_DEVICE">Photo(s) on your device cannot be imported.</string>
+    <string name="IDS_NOT_TRASFER_TO_CAMERA">Not transferred</string>
+    <string name="IDS_NO_DATA">No Voice</string>
+    <string name="IDS_NO_INTERNET_CONNECTION">No Internet Connection</string>
+    <string name="IDS_NO_MIC">No microphone available. Connect a microphone.</string>
+    <string name="IDS_NO_NOTIFICATION">No Notification</string>
+    <string name="IDS_NO_PHOTO_ADD_LOG">There are no photos to geotag.</string>
+    <string name="IDS_NO_RESIZING">No Resizing</string>
+    <string name="IDS_NO_SOUND_RECORDED_MESSAGE">There is no recorded sound file. The sound file can be recorded in the Settings.</string>
+    <string name="IDS_NUMBER_OF_TIMES">Number of Times</string>
+    <string name="IDS_N_HOUR">%1$d hours</string>
+    <string name="IDS_N_TIMES">%1$d times</string>
+    <string name="IDS_OIPALETTE_DESCRIPTION">Olympus Image Palette (OI.Palette) is a free photo editing app that lets you edit your photos using features such as Art Filter, Color Creator, and Highlight &amp; Shadow Control, made popular on Olympus OM-D and PEN series.</string>
+    <string name="IDS_OPEN_GPS_SETTING">Unable to get the location.</string>
+    <string name="IDS_OPEN_IN_ANOTHER_APP">Open in Another App</string>
+    <string name="IDS_OPEN_IN_BROWSER">Open in Browser</string>
+    <string name="IDS_OPEN_IN_OITRACK">Open in OI.Track</string>
+    <string name="IDS_OPEN_WITH_SAFARI">Open in Safari</string>
+    <string name="IDS_OVERWRITE">Overwrite</string>
+    <string name="IDS_PARTIAL_COLOR">Partial Color</string>
+    <string name="IDS_PASSWORD">Password:</string>
+    <string name="IDS_PHOTO">Photo</string>
+    <string name="IDS_PHOTOLIBRARY_USAGE_DESCRIPTION">You will be able to save photos and videos imported from an Olympus camera and edit photos in your library.</string>
+    <string name="IDS_PHOTOSTORY">PHOTO STORY+</string>
+    <string name="IDS_PHOTOSTORY_DESCRIPTION_1">PHOTO STORY+ allows you to edit a photo taken in PHOTO STORY by adding a stamp and a template.</string>
+    <string name="IDS_PHOTOSTORY_DETAIL">About PHOTO STORY</string>
+    <string name="IDS_PHOTOSTORY_GUIDE_PRACTICE_TITLE">PHOTO STORY+ Trial</string>
+    <string name="IDS_PHOTOSTORY_GUIDE_TITLE">PHOTO STORY+ Guide</string>
+    <string name="IDS_PHOTOSTORY_TAB_PRACTICE_ALERT_BUTTON">Try</string>
+    <string name="IDS_PHOTOSTORY_TAB_PRACTICE_ALERT_MESSAGE">This function can be applied to a photo taken in PHOTO STORY.</string>
+    <string name="IDS_PHOTOSTORY_TRY">Try with This Photo</string>
+    <string name="IDS_PHOTOSTORY_ZOOM_STAMP_ALERT_MESSAGE">The stamp cannot be added to this frame.</string>
+    <string name="IDS_PHOTOS_N">Photos:%1$d</string>
+    <string name="IDS_PLAY">Play</string>
+    <string name="IDS_PLEASE_GPS_ON">Enable Location Services from the Settings in your device.</string>
+    <string name="IDS_PLEASE_GPS_ON_AND_SELECT_PHOTO_AGAIN">"To use this function, you must enable Location Services in your device's Settings. Enable Location Services and select a photo again."</string>
+    <string name="IDS_QR_CANNOT_SCAN">"Can't scan the QR code?"</string>
+    <string name="IDS_QR_DECODE_FAILED">Incorrect QR code scanned.</string>
+    <string name="IDS_QUORITY_PRIORITY">Image Quality Priority</string>
+    <string name="IDS_READY_TO_SHOOTING">Preparing for shooting...</string>
+    <string name="IDS_RECORD">Record</string>
+    <string name="IDS_RECORDING">Recording...</string>
+    <string name="IDS_REC_1">Custom1</string>
+    <string name="IDS_REC_2">Custom2</string>
+    <string name="IDS_REC_3">Custom3</string>
+    <string name="IDS_REC_N">Custom%1$d</string>
+    <string name="IDS_REC_VIEW">Rec View</string>
+    <string name="IDS_REFRESH">Refresh</string>
+    <string name="IDS_REMOCON">Remote Control</string>
+    <string name="IDS_REMOCON_DRIVE_SINGLE">Single</string>
+    <string name="IDS_REMOCON_DRIVE_TIMER">Self-timer</string>
+    <string name="IDS_REMOCON_MODE_CONTROL">Live View</string>
+    <string name="IDS_REMOCON_MODE_RELEASE">Remote Shutter</string>
+    <string name="IDS_REMOCON_NO_CARD">Failed to take a photo. There is no memory card in the camera.</string>
+    <string name="IDS_REMOCON_PROTECT">Failed to take a photo. The memory card in the camera is write-protected.</string>
+    <string name="IDS_REMOCON_SHORTAGE_OF_STORAGE">Failed to take a photo. There is not enough space in the memory card of the camera.</string>
+    <string name="IDS_RENAME">Rename</string>
+    <string name="IDS_RESIZE">Resize</string>
+    <string name="IDS_ROTATE">Rotate</string>
+    <string name="IDS_SEC">sec</string>
+    <string name="IDS_SELECT">Select</string>
+    <string name="IDS_SELECTED_N_AREA">Select %1$d</string>
+    <string name="IDS_SELECT_AREA">Select Area</string>
+    <string name="IDS_SELECT_A_PHOTO">Select a photo</string>
+    <string name="IDS_SELECT_FONT">Select Font</string>
+    <string name="IDS_SELECT_PHOTO">Choose a Photo</string>
+    <string name="IDS_SEND_LOG">Send [OI.Share] Log File(s)</string>
+    <string name="IDS_SEND_LOG_MSG">"%1$s is sent from OI.Share.
+Recording dates:%2$s"</string>
+    <string name="IDS_SEQUENTIAL">Sequential</string>
+    <string name="IDS_SEQUENTIAL_H">Sequential H</string>
+    <string name="IDS_SEQUENTIAL_L">Sequential L</string>
+    <string name="IDS_SEQUENTIAL_SHOOTING_TIME">Sequential Shooting Time</string>
+    <string name="IDS_SETTINGS">Settings</string>
+    <string name="IDS_SET_ALPHA_COLOR">Tap the color you want to make transparent.</string>
+    <string name="IDS_SET_BLOCK_AREA_DESCRIPTION">"Set Don't Log area"</string>
+    <string name="IDS_SHARE">Share</string>
+    <string name="IDS_SHAREMARK">Share Order</string>
+    <string name="IDS_SHAREORDER_WILL_BE_RESET">(\"Share Order\" will be reset .)</string>
+    <string name="IDS_SHARE_IMAGES_IMPORTED_CAMOFF">"Import complete. Images saved to OLYMPUS folder.
+You may turn off the camera. (\"Share Order(s)\" will be reset .)"</string>
+    <string name="IDS_SHARE_IMAGES_IMPORTED_CAMOFF_4KOUT">"Import complete. Images saved to OLYMPUS folder.
+4K(C4K) movie(s) cannot be imported.
+You may turn off the camera. (\"Share Order(s)\" will be reset .)"</string>
+    <string name="IDS_SHARE_IMAGES_IMPORTED_CAMOFF_VIDEOFORMATOUT">"Import complete. Images saved to OLYMPUS folder.
+%1$s movie(s) cannot be imported.
+You may turn off the camera. (\"Share Order(s)\" will be reset .)"</string>
+    <string name="IDS_SHARE_IMAGE_IMPORTED_CAMOFF">"Import complete. Image saved to OLYMPUS folder.
+You may turn off the camera. (\"Share Order\" will be reset .)"</string>
+    <string name="IDS_SHARE_THIS_APP">Tell Friends</string>
+    <string name="IDS_SHARE_WOTHOUT_SAVING_CAMERAROLL">Share a photo without saving to Camera Roll.</string>
+    <string name="IDS_SHARE_WOTHOUT_SAVING_DEVICE">Share a photo without saving to your device.</string>
+    <string name="IDS_SHOOTING">Shooting...</string>
+    <string name="IDS_SHOW_GUIDE">Show Guide</string>
+    <string name="IDS_SHOW_HIDE">Show/Hide</string>
+    <string name="IDS_SHUTTER_SPEED">Shutter Speed</string>
+    <string name="IDS_SIGN">Signature</string>
+    <string name="IDS_SIGN_ALPHA">Adjust Transparency</string>
+    <string name="IDS_SIGN_ALPHA_DESCRIPTION">Move the slider to adjust the transparency.</string>
+    <string name="IDS_SIGN_LINE_COLOR">Change Line Color</string>
+    <string name="IDS_SIGN_LINE_WIDTH">Adjust Line Width</string>
+    <string name="IDS_SILENT_SHOOTING_OFF">Disables silent shooting.</string>
+    <string name="IDS_SLIDE_TO_STOP">Slide to stop</string>
+    <string name="IDS_SMALL">Small</string>
+    <string name="IDS_SOUND">Sound</string>
+    <string name="IDS_SOUND_RECORDING">Recording...</string>
+    <string name="IDS_SPEED_PRIORITY">Speed Priority</string>
+    <string name="IDS_SPL_NAME">OLYMPUS Image Share</string>
+    <string name="IDS_SSID">SSID:</string>
+    <string name="IDS_START_RECORDING">Start Recording</string>
+    <string name="IDS_START_SCAN_QR">Scan</string>
+    <string name="IDS_STOP">Stop</string>
+    <string name="IDS_TAG_ONLY_PHOTOS_IN_CAMERA">Only photo(s) in the camera has been imported.</string>
+    <string name="IDS_TAG_ONLY_PHOTOS_IN_CAMERA_AND_TURN_OFF">Only photo(s) in the camera has been imported. You may turn off the camera.</string>
+    <string name="IDS_TAKE_PHOTO">Take a Photo</string>
+    <string name="IDS_TANSFER_SHORTAGE_OF_STORAGE">"There is not enough space in the camera's memory card."</string>
+    <string name="IDS_TAP_BACK_TO_APP_WHEN_INSTALLATION_COMPLETED">Back to OI.Share when the profile has been installed.</string>
+    <string name="IDS_TAP_HERE_USING_FLASHAIR">Tap here if you are using FlashAir.</string>
+    <string name="IDS_TEXT_SIGNETURE">Text Signature</string>
+    <string name="IDS_THUMBNAIL_LIST">Thumbnail</string>
+    <string name="IDS_THUMB_SIZE">Thumbnail Size</string>
+    <string name="IDS_TIMER">Timer</string>
+    <string name="IDS_TIMER_SOUND">Voice for Self-timer</string>
+    <string name="IDS_TOUCH_AF">Touch AF</string>
+    <string name="IDS_TOUCH_SHUTTER">Touch AF Shutter</string>
+    <string name="IDS_TRADEMARKS">Trademarks</string>
+    <string name="IDS_TRADEMARK_FLASHAIR">FlashAir™ is a trademark of Toshiba Corporation.</string>
+    <string name="IDS_TRADEMARK_WIFI">Wi-Fi is a registered mark of the Wi-Fi Alliance.</string>
+    <string name="IDS_TRANSFERED_TO_CAMERA">Transferred</string>
+    <string name="IDS_TRANSFERRING">Transferring...</string>
+    <string name="IDS_TRANSFER_TO_CAMERA">Transfer to the Camera</string>
+    <string name="IDS_TRANS_PHOTO">Import Photos</string>
+    <string name="IDS_TRY_AGAIN">Try Again</string>
+    <string name="IDS_TURN_OFF">Turn Off</string>
+    <string name="IDS_UNABLE_TO_USE_THE_FUNCTION">This function is not available with the connected camera.</string>
+    <string name="IDS_UNSUPPORTED_CAMERA_MUST_UPDATE">Unable to use this function on this camera. Update this application first before using it.</string>
+    <string name="IDS_UPDATE">Update</string>
+    <string name="IDS_USE_GOOGLE_PLAY_SERVICES">"This application software uses Google Play services.
+
+==================================================
+"</string>
+    <string name="IDS_USE_REMOCON_CONTROL">Use in \"Live View\"</string>
+    <string name="IDS_USE_REMOCON_RELEASE">Use in \"Remote Shutter\"</string>
+    <string name="IDS_USE_THIS_MODE">Use in this mode</string>
+    <string name="IDS_USE_THIS_NOW">Use Now</string>
+    <string name="IDS_VERSION">Version</string>
+    <string name="IDS_VIBERATION">Vibrate</string>
+    <string name="IDS_VIDEO">Video</string>
+    <string name="IDS_VIDEOFORMAT_CAANOT_IMPORTED_CAMERA_OFF">"%1$s movie(s) cannot be imported.
+You may turn off the camera."</string>
+    <string name="IDS_VIDEOFORMAT_CAANOT_IMPORTED_CAMERA_OFF_CLEAR_SHAREMARK">"%1$s movie(s) cannot be imported.
+You may turn off the camera. (\"Share Order(s)\" will be reset .)"</string>
+    <string name="IDS_VIDEOFORMAT_CAANOT_IMPORTED_CLEAR_SHAREORDER">"%1$s movie(s) cannot be imported.
+\"Share Order\" is reset."</string>
+    <string name="IDS_VIDEOFORMAT_CAANOT_IMPORTED_CLEAR_SHAREORDERS">"%1$s movie(s) cannot be imported.
+\"Share Orders\" are reset."</string>
+    <string name="IDS_VIDEOFORMAT_CANNOT_IMPORTED">%1$s movie(s) cannot be imported.</string>
+    <string name="IDS_VIDEOS_CANNOT_BE_IMPORTED_NOT_SELECTED">Those videos that cannot be imported have not been selected.</string>
+    <string name="IDS_VIDEO_CANNOT_BE_IMPORTED">This video cannot be imported.</string>
+    <string name="IDS_VIDEO_RECORDED_IN">Video will be recorded in \"%1$s\".</string>
+    <string name="IDS_VIDEO_RECORDING_TIME">Movie Recording Time</string>
+    <string name="IDS_VIDEO_RESIZE_BY_OIT">OI.Track will resize the video.</string>
+    <string name="IDS_VIDEO_RESIZE_SETTINGS">Video Resize Settings</string>
+    <string name="IDS_VIEW_DETAILS">Show Details</string>
+    <string name="IDS_VINTAGE">Vintage</string>
+    <string name="IDS_WAIT_UNTIL_CHANGE_VIEW">Install the profile if Install Profile screen is not displayed.</string>
+    <string name="IDS_WB">WB</string>
+    <string name="IDS_WEB_BRAND_SITE">Global Product Site</string>
+    <string name="IDS_WEB_FACEBOOK">Facebook</string>
+    <string name="IDS_WEB_INSTAGRAM">Instagram</string>
+    <string name="IDS_WEB_INSTRUCTION_MANUAL">Instruction Manual</string>
+    <string name="IDS_WEB_LATEST_NEWS">Latest News</string>
+    <string name="IDS_WEB_LENS_ADVISOR">Lens Advisor</string>
+    <string name="IDS_WEB_ONLINE_SHOP">Online Store</string>
+    <string name="IDS_WEB_PRODUCT_INFO">Product Information</string>
+    <string name="IDS_WEB_PRODUCT_REGISTRATION">Product Registration</string>
+    <string name="IDS_WEB_PROMOTION">Special Offers</string>
+    <string name="IDS_WEB_TWITTER">Twitter</string>
+    <string name="IDS_WEB_WEIBO">Weibo</string>
+    <string name="IDS_WEB_WEIXIN">Weixin</string>
+    <string name="IDS_WIFI">Wi-Fi</string>
+    <string name="IDS_WIFI_CONNECT_SETTINGS">Wi-Fi Setup</string>
+    <string name="IDS_WIFI_NETWORK">Wi-Fi network</string>
+    <string name="IDS_WIFI_SETTING">Wi-Fi Setting</string>
+    <string name="IDS_WRITING_TO_SD_CARD">The camera is accessing to the card.</string>
+    <string name="IDS_WVGA_480P">WVGA (480p)</string>
+    <string name="ID_1920X1440">1920 x 1440</string>
+    <string name="ID_ALL_PHOTOS_SELECTED">All Files Selected</string>
+    <string name="ID_ARTFILTER_INITIAL_MESSAGE">Art filters can be applied to a photo in an album.</string>
+    <string name="ID_ART_BLEACH_BYPASS">Bleach Bypass</string>
+    <string name="ID_ART_CROSSPROCESS">Cross Process</string>
+    <string name="ID_ART_DIORAMA">Diorama</string>
+    <string name="ID_ART_DRAMATIC_TONE">Dramatic Tone</string>
+    <string name="ID_ART_FILTER">Art Filter</string>
+    <string name="ID_ART_GENTOLSEPIA">Gentle Sepia</string>
+    <string name="ID_ART_GRAINY_FILM">Grainy Film</string>
+    <string name="ID_ART_KEY_LINE">Key Line</string>
+    <string name="ID_ART_LIGHT_TONE">Light Tone</string>
+    <string name="ID_ART_PALE_AND_LIGHT_COLOR">Pale&amp;Light Color</string>
+    <string name="ID_ART_POP_ART">Pop Art</string>
+    <string name="ID_ART_SOFT_FOCUS">Soft Focus</string>
+    <string name="ID_ART_TOY_CAMERA">Pin Hole</string>
+    <string name="ID_ART_WATERCOLOR">Watercolor</string>
+    <string name="ID_CAMERA">Camera</string>
+    <string name="ID_CAMERA_DOES_NOT_RESPOND">Unable to get the information from the camera.</string>
+    <string name="ID_CANCEL">Cancel</string>
+    <string name="ID_CANT_SEND_MAIL">Unable to send mail. Check your email settings.</string>
+    <string name="ID_COPYRIGHT">Copyright (c) 2012 Olympus Corporation</string>
+    <string name="ID_COPYRIGHT_APICAL">(c) 2007 Apical Limited.</string>
+    <string name="ID_COPYRIGHT_IJG">This software is based in part on the work of the Independent JPEG Group.</string>
+    <string name="ID_COPYRIGHT_INFO">Legal Notices</string>
+    <string name="ID_DISPLAY_MOVIE">Display the movie</string>
+    <string name="ID_DISPLAY_TODAYS_PHOTO_ONLY">"Display today's image"</string>
+    <string name="ID_EMAIL_THIS_IMAGE">Email Photo</string>
+    <string name="ID_EXIF_EXPOSUREPROGRAM0">Not defined</string>
+    <string name="ID_EXIF_EXPOSUREPROGRAM1">Manual</string>
+    <string name="ID_EXIF_EXPOSUREPROGRAM2">Normal program</string>
+    <string name="ID_EXIF_EXPOSUREPROGRAM3">Aperture priority</string>
+    <string name="ID_EXIF_EXPOSUREPROGRAM4">Shutter priority</string>
+    <string name="ID_EXIF_EXPOSUREPROGRAM5">Creative program</string>
+    <string name="ID_EXIF_EXPOSUREPROGRAM6">Action program</string>
+    <string name="ID_EXIF_EXPOSUREPROGRAM7">Portrait mode</string>
+    <string name="ID_EXIF_EXPOSUREPROGRAM8">Landscape mode</string>
+    <string name="ID_FACEBOOK">Facebook</string>
+    <string name="ID_FAILED_TO_APPLY_ARTFILTER">Failed to apply the art filter to the photo.</string>
+    <string name="ID_FAILED_TO_CONNECT_TO_THE_CAMERA">Unable to find an Olympus camera via Wi-Fi. Please confirm the Wi-Fi setting.</string>
+    <string name="ID_FAILED_TO_LOAD_DATA">Failed to load data.</string>
+    <string name="ID_FAILED_TO_LOAD_IMAGE">Failed to load image.</string>
+    <string name="ID_FAILED_TO_SAVE">Failed to save image.</string>
+    <string name="ID_FAILED_TO_SAVE_N_PHOTO">Failed to save %1$d file.</string>
+    <string name="ID_FAILED_TO_SAVE_N_PHOTOS">Failed to save %1$d files.</string>
+    <string name="ID_FAILED_TO_SEND_MAIL">Failed to email image.</string>
+    <string name="ID_IBONTHENET">ib on the net</string>
+    <string name="ID_LIBRARY_BUTTON_CAPTION">Photos</string>
+    <string name="ID_MOVIE_IS_NOT_SUPPORTED">Movie Preview is not supported. Do you want to import the movie to the Camera Roll?</string>
+    <string name="ID_MSG_CANNOT_TAKE_MOVIE_THIS_SETTINGS">Videos cannot be taken in current shooting settings.</string>
+    <string name="ID_NO_PHOTOS">No images.</string>
+    <string name="ID_N_PHOTOS_SELECTED">%1$d Selected</string>
+    <string name="ID_N_PHOTO_SELECTED">%1$d Selected</string>
+    <string name="ID_OK">OK</string>
+    <string name="ID_ORIGINAL">Original</string>
+    <string name="ID_PROCESSING">Processing...</string>
+    <string name="ID_QXGA">2048 x 1536</string>
+    <string name="ID_REFRESH">Loading...</string>
+    <string name="ID_REFRESH_PULL">Pull down to refresh...</string>
+    <string name="ID_REFRESH_RELEASE">Release to refresh...</string>
+    <string name="ID_SAVE">Save</string>
+    <string name="ID_SAVE_APPLYING_ARTFILTER">Art Filter Size</string>
+    <string name="ID_SAVE_SIZE">Save Size</string>
+    <string name="ID_SAVE_THIS_IMAGE">Save to Camera Roll</string>
+    <string name="ID_SAVING">Saving...</string>
+    <string name="ID_SELECT_ALL">Select All</string>
+    <string name="ID_SELECT_NONE">Select None</string>
+    <string name="ID_SELECT_PHOTOS">Select images</string>
+    <string name="ID_SETTING">Settings</string>
+    <string name="ID_SPL_VERSION">OLYMPUS Image Share v</string>
+    <string name="ID_THUMB_ART_BLEACH_BYPASS">Bleach Bypass</string>
+    <string name="ID_THUMB_ART_CROSSPROCESS">Cross Process</string>
+    <string name="ID_THUMB_ART_DIORAMA">Diorama</string>
+    <string name="ID_THUMB_ART_DRAMATIC_TONE">Dramatic Tone</string>
+    <string name="ID_THUMB_ART_GENTOLSEPIA">Gentle Sepia</string>
+    <string name="ID_THUMB_ART_GRAINY_FILM">Grainy Film</string>
+    <string name="ID_THUMB_ART_KEY_LINE">Key Line</string>
+    <string name="ID_THUMB_ART_LIGHT_TONE">Light Tone</string>
+    <string name="ID_THUMB_ART_NORMAL">Normal</string>
+    <string name="ID_THUMB_ART_PALE_AND_LIGHT_COLOR">Pale&amp;Light Color</string>
+    <string name="ID_THUMB_ART_POP_ART">Pop Art</string>
+    <string name="ID_THUMB_ART_SOFT_FOCUS">Soft Focus</string>
+    <string name="ID_THUMB_ART_TOY_CAMERA">Pin Hole</string>
+    <string name="ID_THUMB_ART_WATERCOLOR">Watercolor</string>
+    <string name="ID_TWEET">Tweet</string>
+    <string name="ID_UXGA">1600 x 1200</string>
+    <string name="ID_XGA">1024 x 768</string>
+    <string name="pull_to_refresh_from_bottom_pull_label">@string/pull_to_refresh_pull_label</string>
+    <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string>
+    <string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string>
+    <string name="app_launcher_name">OI.Share</string>
+    <string name="app_name">Test MiscWidgets</string>
+    <string name="appvisorpush_app_id">YWEYXGUzmc</string>
+    <string name="b0"><b>press me</b> - left animation - 750 msec</string>
+    <string name="b1"><b>press me</b> - right animation - 1500 msec</string>
+    <string name="custom_title_app_name">Test Custom Title</string>
+    <string name="geo_non_log_description">If no log exists, this image should be used.</string>
+    <string name="interpolators_app_name">Test Interpolators</string>
+    <string name="maps_api_key">AIzaSyAuLjrt0QYD6ortE54hHHD2fqtDkiXYmZg</string>
+    <string name="menu_no">NO</string>
+    <string name="menu_off">OFF</string>
+    <string name="menu_on">ON</string>
+    <string name="menu_yes">YES</string>
+    <string name="panels_app_name">Test Panels</string>
+    <string name="privacy_policy">"Software Privacy Policy for OLYMPUS Image Share
+ 
+ (1)CAMERA
+ Camera will be used to scan QR codes.
+ (2)RECORD_AUDIO
+ You will be able to record voice for the self-timer of Remote Control.
+ (3)GET_ACCOUNTS
+ You will be able to receive notifications from Olympus. Notifications will include valuable information that can help improve your Olympus photography life. Different notifications will be sent out to users, based on the cameras they own.
+"</string>
+    <string name="privacy_policy_title">Privacy Policy</string>
+    <string name="release_date_key">20170824</string>
+    <string name="remocon_10s">10s</string>
+    <string name="remocon_12s">12s</string>
+    <string name="remocon_2s">2s</string>
+    <string name="remocon_4s">4s</string>
+    <string name="remocon_6s">6s</string>
+    <string name="remocon_8s">8s</string>
+    <string name="remocon_mf_mode">remocon_mf_mode</string>
+    <string name="settings_copyright">"OLYMPUS Image Share
+Copyright (c) 2013-2017 Olympus Corporation"</string>
+    <string name="settings_rmMap_min">30m</string>
+    <string name="smoothbutton_app_name">Test SmoothButton</string>
+    <string name="splash">Splash</string>
+    <string name="switcher_app_name">Test Switcher</string>
+    <string name="th_dump_key">false</string>
+    <string name="theme_app_name">Test Theme</string>
+    <string name="third_party_software_notice" formatted="false">"Third Party Software Notice
+ 
+ This application software may use third party software, including but not limited to the software as shown below. Any such third party software is provided subject to the terms under which Olympus Corporation received it. 
+ 
+ ========================================
+ 1) The application software includes third party software copyrighted as:
+ Copyright (c) 2008 Apical Limited
+ 
+ ========================================
+ 2) Third party software name: ActionBarSherlock ver. 4.4.0
+ http://actionbarsherlock.com/
+ 
+ Copyright (c) 2012 Jake Wharton
+ 
+ Licensed under the Apache License, Version 2.0 (the \"License\"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0.
+ Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+ 
+ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+ 1. Definitions.
+ \"License\" shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through 9 of this document.
+ \"Licensor\" shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.
+ \"Legal Entity\" shall mean the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity. For the purposes of this definition, \"control\" means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.
+ \"You\" (or \"Your\") shall mean an individual or Legal Entity exercising permissions granted by this License.
+ \"Source\" form shall mean the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files.
+ \"Object\" form shall mean any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types.
+ \"Work\" shall mean the work of authorship, whether in Source or Object form, made available under the License, as indicated by a copyright notice that is included in or attached to the work (an example is provided in the Appendix below).
+ \"Derivative Works\" shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. For the purposes of this License, Derivative Works shall not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the Work and Derivative Works thereof.
+ \"Contribution\" shall mean any work of authorship, including the original version of the Work and any modifications or additions to that Work or Derivative Works thereof, that is intentionally submitted to Licensor for inclusion in the Work by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner. For the purposes of this definition, \"submitted\" means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Work, but excluding communication that is conspicuously marked or otherwise designated in writing by the copyright owner as \"Not a Contribution.\"
+ \"Contributor\" shall mean Licensor and any individual or Legal Entity on behalf of whom a Contribution has been received by Licensor and subsequently incorporated within the Work.
+ 2. Grant of Copyright License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form.
+ 3. Grant of Patent License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Work, where such license applies only to those patent claims licensable by such Contributor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Work to which such Contribution(s) was submitted. If You institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Work or a Contribution incorporated within the Work constitutes direct or contributory patent infringement, then any patent licenses granted to You under this License for that Work shall terminate as of the date such litigation is filed.
+ 4. Redistribution. You may reproduce and distribute copies of the Work or Derivative Works thereof in any medium, with or without modifications, and in Source or Object form, provided that You meet the following conditions:
+ (a) You must give any other recipients of the Work or Derivative Works a copy of this License; and
+ (b) You must cause any modified files to carry prominent notices stating that You changed the files; and
+ (c) You must retain, in the Source form of any Derivative Works that You distribute, all copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+ (d) If the Work includes a \"NOTICE\" text file as part of its distribution, then any Derivative Works that You distribute must include a readable copy of the attribution notices contained within such NOTICE file, excluding those notices that do not pertain to any part of the Derivative Works, in at least one of the following places: within a NOTICE text file distributed as part of the Derivative Works; within the Source form or documentation, if provided along with the Derivative Works; or, within a display generated by the Derivative Works, if and wherever such third-party notices normally appear. The contents of the NOTICE file are for informational purposes only and do not modify the License. You may add Your own attribution notices within Derivative Works that You distribute, alongside or as an addendum to the NOTICE text from the Work, provided that such additional attribution notices cannot be construed as modifying the License. You may add Your own copyright statement to Your modifications and may provide additional or different license terms and conditions for use, reproduction, or distribution of Your modifications, or for any such Derivative Works as a whole, provided Your use, reproduction, and distribution of the Work otherwise complies with the conditions stated in this License.
+ 5. Submission of Contributions. Unless You explicitly state otherwise, any Contribution intentionally submitted for inclusion in the Work by You to the Licensor shall be under the terms and conditions of this License, without any additional terms or conditions. Notwithstanding the above, nothing herein shall supersede or modify the terms of any separate license agreement you may have executed with Licensor regarding such Contributions.
+ 6. Trademarks. This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use in describing the origin of the Work and reproducing the content of the NOTICE file.
+ 7. Disclaimer of Warranty. Unless required by applicable law or agreed to in writing, Licensor provides the Work (and each Contributor provides its Contributions) on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using or redistributing the Work and assume any risks associated with Your exercise of permissions under this License.
+ 8. Limitation of Liability. In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Work (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if such Contributor has been advised of the possibility of such damages.
+ 9. Accepting Warranty or Additional Liability. While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability.
+ 
+ ========================================
+ 3) Third party software name: Zxing(Zebra Crossing) ver. 2.1 
+ http://code.google.com/p/zxing/
+ 
+ Copyright (c) 2008 ZXing authors
+ 
+ Licensed under the Apache License, Version 2.0 (the \"License\"); you may not use this file except in compliance with the License. You may obtain a copy of the License at http://www.apache.org/licenses/LICENSE-2.0.
+ Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+ 
+ TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+ 1. Definitions.
+ \"License\" shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through 9 of this document.
+ \"Licensor\" shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.
+ \"Legal Entity\" shall mean the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity. For the purposes of this definition, \"control\" means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.
+ \"You\" (or \"Your\") shall mean an individual or Legal Entity exercising permissions granted by this License.
+ \"Source\" form shall mean the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files.
+ \"Object\" form shall mean any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types.
+ \"Work\" shall mean the work of authorship, whether in Source or Object form, made available under the License, as indicated by a copyright notice that is included in or attached to the work (an example is provided in the Appendix below).
+ \"Derivative Works\" shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. For the purposes of this License, Derivative Works shall not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the Work and Derivative Works thereof.
+ \"Contribution\" shall mean any work of authorship, including the original version of the Work and any modifications or additions to that Work or Derivative Works thereof, that is intentionally submitted to Licensor for inclusion in the Work by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner. For the purposes of this definition, \"submitted\" means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Work, but excluding communication that is conspicuously marked or otherwise designated in writing by the copyright owner as \"Not a Contribution.\"
+ \"Contributor\" shall mean Licensor and any individual or Legal Entity on behalf of whom a Contribution has been received by Licensor and subsequently incorporated within the Work.
+ 2. Grant of Copyright License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form.
+ 3. Grant of Patent License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free"</string>
+    <string name="third_party_software_notice_google_play_services">"10) Third party software name: Google Play Services
+"</string>
+    <string name="tilde">～</string>
+    <string name="virtual_keyboard_app_name">Test Virtual Keyboard</string>
+</resources>

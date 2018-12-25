@@ -1,0 +1,1161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cloudpush_app_name">Push Service</string>
+    <string name="hwpush_cancel">Cancel</string>
+    <string name="hwpush_collect">Favorite</string>
+    <string name="hwpush_collect_tip">A Favorites icon will be created on the home screen. You can touch the icon to view all your favorite notifications.</string>
+    <string name="hwpush_collect_tip_known">OK</string>
+    <string name="hwpush_delete">Delete</string>
+    <string name="hwpush_deltitle">Delete notifications</string>
+    <string name="hwpush_dialog_limit_message">A maximum of 1000 favorite notifications can be saved. Delete some notifications before you can add new ones. Go to your favorite notifications list?</string>
+    <string name="hwpush_dialog_limit_ok">Go</string>
+    <string name="hwpush_dialog_limit_title">Note</string>
+    <string name="hwpush_forward">Forward</string>
+    <string name="hwpush_goback">Back</string>
+    <string name="hwpush_loading_title">Loading... Please wait.</string>
+    <string name="hwpush_msg_collect">Favorites</string>
+    <string name="hwpush_msg_favorites">Favorite notifications</string>
+    <string name="hwpush_no_collection">No favorite notifications</string>
+    <string name="hwpush_refresh">Refresh</string>
+    <string name="hwpush_request_provider_permission">Store messages</string>
+    <string name="hwpush_richmedia">Rich media</string>
+    <string name="hwpush_selectall">Select all</string>
+    <string name="hwpush_unselectall">Deselect all</string>
+    <string name="pull_to_refresh_pull_label">向下拉动可以刷新</string>
+    <string name="pull_to_refresh_refreshing_label">加载中…</string>
+    <string name="pull_to_refresh_release_label">松开可以刷新</string>
+    <string name="about">关于过日子</string>
+    <string name="account_data_status">已登录：</string>
+    <string name="account_detail">注册后可以将你的信息保存到活法儿服务器防止数据丢失</string>
+    <string name="account_detail2">您目前没有注册，若应用删除后会导致所有信息丢失。请及时注册保证数据安全。</string>
+    <string name="account_not_safeguard">未保护</string>
+    <string name="account_showuser_title">我的帐号：</string>
+    <string name="account_synchronized">已同步</string>
+    <string name="account_title">保护数据安全！</string>
+    <string name="accounts_and_other">帐号和其他</string>
+    <string name="action_share">分享</string>
+    <string name="active_detail_continue_more_number_of_day">这是TA连续第 %s 天完成此任务。地球人已经无法阻止TA了，给TA点赞吧！</string>
+    <string name="active_detail_continue_number_of_day">这是TA连续第 %s 天完成此任务。给TA点赞吧！</string>
+    <string name="activity_operation_list_title">节气养生</string>
+    <string name="add_failure_text">发布失败，请重试</string>
+    <string name="add_info_desc">我们为不同性别，年龄和地区的人设计了不同的定制服务，请认真填写。</string>
+    <string name="add_method">做点儿别的</string>
+    <string name="add_success_text">已发布</string>
+    <string name="addfriend">添加家人朋友</string>
+    <string name="addnewrelation">添加关系</string>
+    <string name="age_limited">年龄小于16岁</string>
+    <string name="agreements"><u>活法儿注册协议</u>。</string>
+    <string name="alisdk_message_10000_action">请检查对应名称模块的库文件是否包含在当前开发应用的依赖库里面</string>
+    <string name="alisdk_message_10000_message">JS Bridge 载入器未找到名称为 {0} 的模块</string>
+    <string name="alisdk_message_10000_name">JS_BRIDGE_MODULE_NOT_FOUND</string>
+    <string name="alisdk_message_10000_type">E</string>
+    <string name="alisdk_message_10002_action">请使用默认的 androiddebugkey 对当前开发应用签名或在应用初始化之前调用 AlibabaSDK.turnOnDebug(), 运行程序查看 logcat 输出以获取更多错误细节，并采取对应操作</string>
+    <string name="alisdk_message_10002_message">SDK 初始化出错，错误信息为 {0}</string>
+    <string name="alisdk_message_10002_name">INIT_EXCEPTION</string>
+    <string name="alisdk_message_10002_type">E</string>
+    <string name="alisdk_message_10003_action" />
+    <string name="alisdk_message_10003_message">当前操作已经取消</string>
+    <string name="alisdk_message_10003_name">USER_CANCEL</string>
+    <string name="alisdk_message_10003_type">I</string>
+    <string name="alisdk_message_10004_action">请稍后重试当前操作，若仍然出错，请反馈至论坛，技术支持或 Android SDK 开发咨询群</string>
+    <string name="alisdk_message_10004_message">请求 INIT 服务器发生错误，错误消息为 {0}</string>
+    <string name="alisdk_message_10004_name">REQUEST_INIT_SERVER_EXCEPTION</string>
+    <string name="alisdk_message_10004_type">E</string>
+    <string name="alisdk_message_10005_action">请稍后重试当前操作，若仍然出错，请反馈至论坛，技术支持或 Android SDK 开发咨询群</string>
+    <string name="alisdk_message_10005_message">消息解密发生错误，错误消息为 {0}</string>
+    <string name="alisdk_message_10005_name">RSA_DECRYPT_EXCEPTION</string>
+    <string name="alisdk_message_10005_type">E</string>
+    <string name="alisdk_message_10008_action">请稍后重试当前操作，若仍然出错，请反馈至论坛，技术支持或 Android SDK 开发咨询群</string>
+    <string name="alisdk_message_10008_message">生成订单地址出错, 错误信息为 {0}</string>
+    <string name="alisdk_message_10008_name">GET_ORDER_URL_EXCEPTION</string>
+    <string name="alisdk_message_10008_type">E</string>
+    <string name="alisdk_message_10009_action">请稍后重试当前操作，若仍然出错，请反馈至论坛，技术支持或 Android SDK 开发咨询群</string>
+    <string name="alisdk_message_10009_message">查询订单出错, 错误信息为 {0}</string>
+    <string name="alisdk_message_10009_name">QUERY_ORDER_RESULT_EXCEPTION</string>
+    <string name="alisdk_message_10009_type">E</string>
+    <string name="alisdk_message_10010_action">请使用默认的 androiddebugkey 对当前开发应用签名或在应用初始化之前调用 AlibabaSDK.turnOnDebug(), 运行程序查看 logcat 输出以获取更多错误细节，并采取对应操作</string>
+    <string name="alisdk_message_10010_message">发生错误，消息为 {0}, 请使用 LogCat 查看更多细节</string>
+    <string name="alisdk_message_10010_name">GENERIC_SYSTEM_ERROR</string>
+    <string name="alisdk_message_10010_type">E</string>
+    <string name="alisdk_message_10011_action" />
+    <string name="alisdk_message_10011_message">当前用户未登录</string>
+    <string name="alisdk_message_10011_name">USER_ALREADY_LOGOUT</string>
+    <string name="alisdk_message_10011_type">W</string>
+    <string name="alisdk_message_10012_action">请在使用 SDK 业务功能之前确保已经调用 AlibabaSDK.asyncInit 方法并接收到初始化成功的回调</string>
+    <string name="alisdk_message_10012_message">SDK 尚未被初始化</string>
+    <string name="alisdk_message_10012_name">SDK_NOT_INIT</string>
+    <string name="alisdk_message_10012_type">E</string>
+    <string name="alisdk_message_10014_action">请检查网络设置后，并重试当前操作</string>
+    <string name="alisdk_message_10014_message">当前网络不可用</string>
+    <string name="alisdk_message_10014_name">NETWORK_NOT_AVAILABLE</string>
+    <string name="alisdk_message_10014_type">E</string>
+    <string name="alisdk_message_10015_action" />
+    <string name="alisdk_message_10015_message">退出登录</string>
+    <string name="alisdk_message_10015_name">USER_LOGOUT</string>
+    <string name="alisdk_message_10015_type">I</string>
+    <string name="alisdk_message_10016_action">请初始化之前调用 AlibabaSDK.turnOnDebug()，并运行应用和检查 logcat 输出的异常信息</string>
+    <string name="alisdk_message_10016_message">安全模块初始化失败，错误消息为 {0}</string>
+    <string name="alisdk_message_10016_type">E</string>
+    <string name="alisdk_message_10022_action">请使用默认的 androiddebugkey 对当前开发应用签名或在应用初始化之前调用 AlibabaSDK.turnOnDebug(), 运行程序查看 logcat 输出以获取更多错误细节，并采取对应操作</string>
+    <string name="alisdk_message_10022_message">SDK 组件 {0} 启动出错，错误消息为 {1}</string>
+    <string name="alisdk_message_10022_name">PLUGIN_INIT_FAILED</string>
+    <string name="alisdk_message_10022_type">E</string>
+    <string name="alisdk_message_100_action" />
+    <string name="alisdk_message_100_message">操作成功</string>
+    <string name="alisdk_message_100_name">ACTION_SUCCESS</string>
+    <string name="alisdk_message_100_type">I</string>
+    <string name="alisdk_message_101_action">请稍后重试当前操作，若仍然出错，请反馈至论坛，技术支持或 Android SDK 开发咨询群</string>
+    <string name="alisdk_message_101_message">会话刷新出错，错误消息为 {0}</string>
+    <string name="alisdk_message_101_name">REFRESH_SID_EXCEPTION</string>
+    <string name="alisdk_message_101_type">W</string>
+    <string name="alisdk_message_12_action">请检查所依赖的 SDK 项目，或若是手动拷贝 SDK 至当前开发应用所在项目，请检查是否漏拷文件</string>
+    <string name="alisdk_message_12_message">在目录 {0} 未找到文件 {1}</string>
+    <string name="alisdk_message_12_name">RESOURCE_NOT_FOUND</string>
+    <string name="alisdk_message_12_type">E</string>
+    <string name="alisdk_message_13_action">请检查所依赖的 SDK 项目，或若是手动拷贝 SDK 至当前开发应用所在项目，请检查是否漏拷文件，或重新至官方网站下载 SDK</string>
+    <string name="alisdk_message_13_message">未能在下载 SDK 中找到指定插件 {0}</string>
+    <string name="alisdk_message_13_name">PLUGIN_NOT_FOUND</string>
+    <string name="alisdk_message_13_type">E</string>
+    <string name="alisdk_message_14_action">当前输入参数不应为 null 或者空，请调整输入参数</string>
+    <string name="alisdk_message_14_message">输入参数 {0} 为 null 或者为空</string>
+    <string name="alisdk_message_14_name">NULL_OR_EMPTY_PARAMETER</string>
+    <string name="alisdk_message_14_type">E</string>
+    <string name="alisdk_message_15_action" />
+    <string name="alisdk_message_15_message">{0} 模块 请求服务端出错，错误消息为 {1}</string>
+    <string name="alisdk_message_15_name">SERVER_REQUEST_FAILED</string>
+    <string name="alisdk_message_15_type">E</string>
+    <string name="alisdk_message_16_action">请在 IDE 中检查类是否存在，或者是否因为代码混淆没有配置 SDK 对应的 -keep 选项，具体配置请参照在线网站</string>
+    <string name="alisdk_message_16_message">运行时不能载入类 {0}</string>
+    <string name="alisdk_message_16_name">CLASS_NOT_FOUND_ERROR</string>
+    <string name="alisdk_message_16_type">E</string>
+    <string name="alisdk_message_17_action">1.请检查 SDK 是否初始化成功，或者如果 APK 采取特定的打包方式 (e.g. multi-dex), 确保百川 SDK 的包含的 jar 文件中的 assets/ 文件包含在最终的 APK 中 2. OneSDK 使用异步初始化, 即调用完 AlibabaSDK.asyncInit() 后立即返回, 所以如果立即调用 AlibabaSDK.getService() 并调用其中相关方法, 会导致该错误. 3. 请确保在 OneSDK 初始化是在 Application.onCreate 中调用, 否则在如下场景会导致该错误. a) 在非应用主进程获取服务 b) 应用从后台被唤起到前台.</string>
+    <string name="alisdk_message_17_message">不能获取类名为 {0}，过滤条件为 {1} 的服务</string>
+    <string name="alisdk_message_17_name">SERVICE_NOT_AVAILABLE_ERROR</string>
+    <string name="alisdk_message_17_type">E</string>
+    <string name="alisdk_message_18_action" />
+    <string name="alisdk_message_18_message">系统繁忙，请稍后再试</string>
+    <string name="alisdk_message_18_name">SERVER_BUSY_ERROR</string>
+    <string name="alisdk_message_18_type">E</string>
+    <string name="alisdk_message_1_action">请检查所依赖的 SDK 项目，或若是手动拷贝 SDK 至当前开发应用所在项目，请检查是否漏拷文件 res/values 下文件</string>
+    <string name="alisdk_message_1_message">未在消息文件中找到 id 为 {0} 的消息</string>
+    <string name="alisdk_message_1_name">MESSAGE_NOT_FOUND_ERROR</string>
+    <string name="alisdk_message_1_type">E</string>
+    <string name="alisdk_message_2_action">请检查所依赖的 SDK 项目，或若是手动拷贝 SDK 至当前开发应用所在项目，请检查是否漏拷文件 res/values 下文件</string>
+    <string name="alisdk_message_2_message">检索消息时发生如下错误 {0}</string>
+    <string name="alisdk_message_2_name">MESSAGE_UNKNOWN_ERROR</string>
+    <string name="alisdk_message_2_type">E</string>
+    <string name="alisdk_message_651_action">请使用相关工具 (e.g.taobao.openiid.get API) 对原始参数进行加密</string>
+    <string name="alisdk_message_651_message">未能使用当前应用的信息对参数进行解密</string>
+    <string name="alisdk_message_651_name">INVALID_OPEN_ITEM_ID</string>
+    <string name="alisdk_message_651_type">E</string>
+    <string name="alisdk_message_701_action">"1. 使用同一个 Keystore 签名的 Apk 在 SDK 下载页面重新下载 SDK 
+ Eclipse 环境下, 使用 Run/Debug As Android Application 在模拟器或者手机中运行时, 默认使用的是 Debug Keystore (默认位置当前用户目录的 ~\\.android\\debug.keystore), IDE 中可以到 Preferences-Android-Build 界面查看. 所以如果上传的 apk 是使用 Export Android Application 指定 keystore 生成, 会导致签名校验出错, 参考解决方案是: 
+ 在开发阶段使用 Android 项目 bin 目录的 apk 文件生成 SDK, 已便于开发阶段调试, 开发完毕后使用发布所用 keystore 签名的 apk 到网站重新生成 SDK 并替换 res\\drawable\\yw_1222.jpg 文件
+ 2. 调用 AlibabaSDK.setEnvirnoment 指定当前运行环境会导致 SDK 检索特定的图片，例如设置了 AlibabaSDK.setEnvirnoment(Environment.TEST), SDK 会检索 yw_1222_test.jpg，若您是应用开发者，请去除相关代码，此环境设置主要是针对 SDK 组件提供方开发调试使用。
+ 3. 调用 AlibabaSDK.setSecGuardImagePostfix 会导致 SDK 检索指定后缀的图片，例如设置了 AlibabaSDK.setSecGuardImagePostfix(abc), SDK 会检索 yw_1222_abc.jpg, 请检查代码中是否有相关调用，若有请做调整，确保当前使用图片与 APK 签名一致。"</string>
+    <string name="alisdk_message_701_message">当前使用的图片文件 res\\drawable\\yw_1222{0}.jpg 和当前程序的 APK 签名不一致</string>
+    <string name="alisdk_message_701_type">E</string>
+    <string name="alisdk_message_702_action">"1. 如果使用项目依赖方式使用 SDK，请检查所依赖的 SDK 项目中 res\\drawable 是否存在图片文件，如果是将 SDK 拷贝至当前开发应用中，请检查是否漏拷贝。
+ 2. 调用 AlibabaSDK.setEnvirnoment 指定当前运行环境会导致 SDK 检索特定的图片，例如设置了 AlibabaSDK.setEnvirnoment(Environment.TEST), SDK 会检索 yw_1222_test.jpg，若您是应用开发者，请去除相关代码，此环境设置主要是针对 SDK 组件提供方开发调试使用。
+ 3. 调用 AlibabaSDK.setSecGuardImagePostfix 会导致 SDK 检索指定后缀的图片，例如设置了 AlibabaSDK.setSecGuardImagePostfix(abc), SDK 会检索 yw_1222_abc.jpg, 请检查代码中是否有相关调用，若有请做调整，确保与实际存在的图片保持一致。"</string>
+    <string name="alisdk_message_702_message">没有找到图片文件，请确保图片文件 yw_1222{0}.jpg 在 res\\drawable 目录下</string>
+    <string name="alisdk_message_702_type">E</string>
+    <string name="alisdk_message_703_action">使用同一 Keystore 签名的 Apk 在 SDK 下载页面重新下载 SDK</string>
+    <string name="alisdk_message_703_message">SDK 中图片文件 (res\\drawable\\yw_1222.jpg) 的内容不正确</string>
+    <string name="alisdk_message_703_type">E</string>
+    <string name="alisdk_message_704_action">"1. 如果使用项目依赖方式使用 SDK，请检查所依赖的 SDK 项目中 libs 目录下 securityguard***.jar 和 armeabi/armeabi-v7a/x86 下 securityguard***.so 是否存在，大小正常并版本是否一致，如果是将 SDK 拷贝至当前开发应用中，请在当前应用中检查。如文件存在而生成的 apk 中不存在，请检查 IDE 设置，例如 Android Studio 项目的 build.gradle 中 jniLibs.srcDirs。
+ 2. 因为 Android 部分版本系统中载入不同架构原生库 (so 文件) 的限制，请确保项目运行所需的原生库文件在当前手机 CPU 对应架构目录下都存在。例如，安全模块暂时未提供 arm64 架构的原生库，若当前 apk 依赖的其他组件包含 arm64 原生库，会导致载入错误，解决方法是移除依赖组件中相关原生库，确保最终 apk 中不存在 arm64-v8a。 
+ 从 Android 架构兼容性角度, 去除 arm64 架构的原生库不会影响应用在对应手机上运行, 具体介绍可使用关键字 [Android so 兼容] 至搜索网站检索
+ Android Studio 参考配置, 目的是确保最终的 apk 中只包含指定 CPU 架构的文件 :
+ productFlavors {
+ afterABI {
+ ndk {
+ abiFilters “armeabi”, “armeabi-v7a”, “x86
+
+              }
+
+            }
+
+          }"</string>
+    <string name="alisdk_message_704_message">在 APK 中找不到对应的 securityguard***.so 文件或者 so 文件载入出错</string>
+    <string name="alisdk_message_704_type">E</string>
+    <string name="alisdk_message_705_action">请到百川官方网站重新下载 SDK 并使用其包含最新的图片文件</string>
+    <string name="alisdk_message_705_message">当前使用的 res\\drawable\\yw_1222{0}.jpg 与 SDK 中 securityguard***.jar 版本不匹配</string>
+    <string name="alisdk_message_705_type">E</string>
+    <string name="alisdk_message_801_action">请调整参数后重试当前操作</string>
+    <string name="alisdk_message_801_message">商品数量必须为整数并大于 0</string>
+    <string name="alisdk_message_801_name">QUANTITY_FORMAT_ERROR</string>
+    <string name="alisdk_message_801_type">E</string>
+    <string name="alisdk_message_802_action">请修改传入的淘客 pid，如不确认，请联系淘客相关人员</string>
+    <string name="alisdk_message_802_message">当前传入的淘客 pid {0} 非法，正确格式应以 mm_ 为前缀</string>
+    <string name="alisdk_message_802_name">INVALID_TAOKE_PID_ERROR</string>
+    <string name="alisdk_message_802_type">E</string>
+    <string name="alisdk_message_803_action">请在初始化之前调用 TradeConfigs.defaultTaokePid=mm_**** 设置默认的淘客 pid 值, 此值会在相关方法调用时未指定 pid 时使用</string>
+    <string name="alisdk_message_803_message">未设置默认的淘客 pid</string>
+    <string name="alisdk_message_803_name">INVALID_DEFAULT_TAOKE_PID</string>
+    <string name="alisdk_message_803_type">W</string>
+    <string name="alisdk_message_804_action">请准备订单号和支付宝错误码至旺旺支付宝移动支持群(旺旺号:移动收单daily)咨询</string>
+    <string name="alisdk_message_804_message">使用支付宝支付失败，支付宝错误码为 8000, 含义为正在处理中</string>
+    <string name="alisdk_message_804_name">PAY_IN_PROGRESS</string>
+    <string name="alisdk_message_804_type">E</string>
+    <string name="alisdk_message_805_action">请准备订单号和支付宝错误码至旺旺支付宝移动支持群(旺旺号:移动收单daily)咨询</string>
+    <string name="alisdk_message_805_message">使用支付宝支付失败，支付宝错误码为 4000, 含义为订单支付失败</string>
+    <string name="alisdk_message_805_name">PAY_ORDER_FAILED</string>
+    <string name="alisdk_message_805_type">E</string>
+    <string name="alisdk_message_806_action">请准备订单号和支付宝错误码至旺旺支付宝移动支持群(旺旺号:移动收单daily)咨询</string>
+    <string name="alisdk_message_806_message">使用支付宝支付失败，支付宝错误码为 6001, 含义为用户中途取消</string>
+    <string name="alisdk_message_806_name">PAY_USER_CANCEL</string>
+    <string name="alisdk_message_806_type">E</string>
+    <string name="alisdk_message_807_action">请准备订单号和支付宝错误码至旺旺支付宝移动支持群(旺旺号:移动收单daily)咨询</string>
+    <string name="alisdk_message_807_message">使用支付宝支付失败，支付宝错误码为 6002, 含义为网络连接出错</string>
+    <string name="alisdk_message_807_name">PAY_NETWORK_FAILED</string>
+    <string name="alisdk_message_807_type">E</string>
+    <string name="alisdk_message_808_action">请准备订单号和支付宝错误码至旺旺支付宝移动支持群(旺旺号:移动收单daily)咨询</string>
+    <string name="alisdk_message_808_message">使用支付宝支付失败，支付宝错误码为 {0}</string>
+    <string name="alisdk_message_808_name">PAY_COMMON_ERROR</string>
+    <string name="alisdk_message_808_type">E</string>
+    <string name="alisdk_message_951_action">如当前应用使用 ProGuard 混淆代码，请检查 SDK 中相关类在 -keep 列表中</string>
+    <string name="alisdk_message_951_message">JS Bridge 载入器在类 {0} 未找到方法 {1}</string>
+    <string name="alisdk_message_951_name">JS_BRIDGE_METHOD_NOT_FOUND</string>
+    <string name="alisdk_message_951_type">E</string>
+    <string name="alisdk_message_952_action">如当前应用使用 ProGuard 混淆代码，请检查是否添加 -keepattributes *Annotation* 配置项</string>
+    <string name="alisdk_message_952_message">JS Bridge 载入器在类 {0} 中的方法 {1} 上未找到含有 BridgeMethod 标识</string>
+    <string name="alisdk_message_952_name">JS_BRIDGE_ANNOTATION_NOT_PRESENT</string>
+    <string name="alisdk_message_952_type">E</string>
+    <string name="all_data_finish">恭喜%s！元气满满地完成了这一天的任务！坚持是这个世界上最棒的品质了，小的明天会再提醒您的！</string>
+    <string name="all_evaluate">所有评价</string>
+    <string name="app_empty">"即将推出
+敬请期待"</string>
+    <string name="app_name">过日子</string>
+    <string name="app_refer">应用推荐</string>
+    <string name="app_share">近日朋友圈疯传一个叫《过日子》的APP，不但可以根据身体情况安排饮食起居，还有常见小困扰的解决方法，更有小太健服侍左右令人温暖体贴，众兄弟姐妹不妨下载，亲自体验其精妙之处。</string>
+    <string name="articleurl" formatted="false">%sevent/article/show/%s</string>
+    <string name="authorization_failed">发生了一些错误呢！</string>
+    <string name="average_time">平均测试用时5分钟</string>
+    <string name="back">返回</string>
+    <string name="back_exit">再按一次退出应用</string>
+    <string name="back_to_modify">返回修改测试选项</string>
+    <string name="begin_use">开始使用</string>
+    <string name="bind_phone_number_failure">绑定失败</string>
+    <string name="bind_phone_number_success">绑定成功</string>
+    <string name="bind_title">绑定你的淘宝帐号以便快速购买</string>
+    <string name="blindaccount">绑定帐号</string>
+    <string name="call_wxpay">微信支付</string>
+    <string name="cancel">取消</string>
+    <string name="cancel_success">取消成功</string>
+    <string name="cancle">按错了，取消</string>
+    <string name="challenge_good_habit">改变习惯</string>
+    <string name="challenge_group">挑战小组</string>
+    <string name="challenge_new_good_habit">挑战新习惯</string>
+    <string name="checkdetail">查看详情</string>
+    <string name="checkout">就这些了</string>
+    <string name="choose_chronic_disease_information">选择慢性疾病信息</string>
+    <string name="choose_picture_from_album">从相册选择</string>
+    <string name="choose_your_birthday">选择你的生日</string>
+    <string name="choose_your_gender">选择你的性别</string>
+    <string name="clearmemory">清除缓存</string>
+    <string name="click2set">点击设置</string>
+    <string name="click2test">点击开始测试</string>
+    <string name="client_error">请求错误，请稍后重试！</string>
+    <string name="clipboard">已复制到剪贴板</string>
+    <string name="com.crashlytics.android.build_id">1cf5357d-f9c5-4d6c-b40a-831e7273f652</string>
+    <string name="com_facebook_choose_friends">Choose Friends</string>
+    <string name="com_facebook_dialogloginactivity_ok_button">OK</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_loading">Loading...</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_loginview_log_in_button">Log in with Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="com_facebook_logo_content_description">Facebook Logo</string>
+    <string name="com_facebook_nearby">Nearby</string>
+    <string name="com_facebook_picker_done_button_text">Done</string>
+    <string name="com_facebook_placepicker_subtitle_catetory_only_format">%1$s</string>
+    <string name="com_facebook_placepicker_subtitle_format">%1$s • %2$,d were here</string>
+    <string name="com_facebook_placepicker_subtitle_were_here_only_format">%1$,d were here</string>
+    <string name="com_facebook_requesterror_password_changed">Your Facebook password has changed. Please log into this app again to reconnect your Facebook account.</string>
+    <string name="com_facebook_requesterror_permissions">This app doesn’t have permission to do this. To change permissions, try logging into the app again.</string>
+    <string name="com_facebook_requesterror_reconnect">Please log into this app again to reconnect your Facebook account.</string>
+    <string name="com_facebook_requesterror_relogin">Please log into this app again to reconnect your Facebook account.</string>
+    <string name="com_facebook_requesterror_web_login">Your Facebook account is locked. Please log into www.facebook.com to continue.</string>
+    <string name="com_facebook_usersettingsfragment_log_in_button">Log in…</string>
+    <string name="com_facebook_usersettingsfragment_logged_in">Logged in</string>
+    <string name="com_facebook_usersettingsfragment_not_logged_in">Not logged in</string>
+    <string name="com_taobao_tae_sdk_alert_message">您离开太久了，请重新操作</string>
+    <string name="com_taobao_tae_sdk_authorize_title">登录授权</string>
+    <string name="com_taobao_tae_sdk_back_message">返回</string>
+    <string name="com_taobao_tae_sdk_cart_title">购物车</string>
+    <string name="com_taobao_tae_sdk_close_message">关闭</string>
+    <string name="com_taobao_tae_sdk_loading_progress_message">加载中</string>
+    <string name="com_taobao_tae_sdk_login_progress_message">登录中</string>
+    <string name="com_taobao_tae_sdk_logout_fail_message">登出失败</string>
+    <string name="com_taobao_tae_sdk_more_message">更多</string>
+    <string name="com_taobao_tae_sdk_network_not_available_message">网络无法连接</string>
+    <string name="com_taobao_tae_sdk_qr_login_title_bar_text">淘宝账号登录</string>
+    <string name="com_taobao_tae_sdk_system_exception">系统异常</string>
+    <string name="com_taobao_tae_sdk_trade_confirm_progress_message">交易确认中</string>
+    <string name="com_taobao_tae_sdk_trade_title">确认下单</string>
+    <string name="com_taobao_tae_sdk_web_view_activity_basewebviewactivity_strings_menulist_copy">已复制到剪贴板</string>
+    <string name="com_taobao_tae_sdk_web_view_activity_feedback_strings_titlebar_title">报告问题</string>
+    <string name="com_taobao_tae_sdk_web_view_activity_sendfeedback_strings_email_edit">请输入您的邮件地址或者手机号......</string>
+    <string name="com_taobao_tae_sdk_web_view_activity_sendfeedback_strings_feedback_edit">在这里输入您的反馈......</string>
+    <string name="com_taobao_tae_sdk_web_view_activity_sendfeedback_strings_feedback_feedbackcomplete">感谢您的反馈，我们会尽快处理</string>
+    <string name="com_taobao_tae_sdk_web_view_activity_sendfeedback_strings_feedback_invalidcontact">您输入的邮箱或手机格式不对</string>
+    <string name="com_taobao_tae_sdk_web_view_activity_sendfeedback_strings_feedback_invalidcontent">反馈内容长度应大于3</string>
+    <string name="com_taobao_tae_sdk_web_view_activity_sendfeedback_strings_feedback_maximages">最多上传5张图片</string>
+    <string name="com_taobao_tae_sdk_web_view_activity_sendfeedback_strings_feedback_nocontact">请输入您的邮件地址或者手机号</string>
+    <string name="com_taobao_tae_sdk_web_view_activity_sendfeedback_strings_feedback_nocontent">请输入您的反馈内容</string>
+    <string name="com_taobao_tae_sdk_web_view_activity_sendfeedback_strings_feedback_nowifi">为了您的流量考虑，请连接Wifi网络后再进行反馈</string>
+    <string name="comment_text_notification_detail_child_item"> &lt;b>%s&lt;/b> 评论了你</string>
+    <string name="commentyiji">评论</string>
+    <string name="commodity_list_title">%s，多宝阁是由过日子小编精挑细选上供，千百用户亲验，最适合您的宝物。且供您慢挑慢选，仔细把玩。</string>
+    <string name="complete">完成</string>
+    <string name="complete_evaluation">完成评价</string>
+    <string name="confirm_back">你刚刚选择了返回按钮，请问你要：</string>
+    <string name="confirmquit">确定要放弃吗？</string>
+    <string name="continued">继续</string>
+    <string name="continuetest">继续答题</string>
+    <string name="copyyiji">复制到剪贴板</string>
+    <string name="creat_plan">为我生成改善计划</string>
+    <string name="date_did">%s 做了</string>
+    <string name="day">日</string>
+    <string name="dbname">dailylife.db</string>
+    <string name="dbversion">1</string>
+    <string name="deleted_failure_text">删除失败，请重试</string>
+    <string name="deleted_success_text">已删除</string>
+    <string name="deliveryto">配送到</string>
+    <string name="detail">详情</string>
+    <string name="develop_plans_no_start_title">你的计划尚未开始</string>
+    <string name="dinner">晚餐</string>
+    <string name="disease_count_info">已选择%s项</string>
+    <string name="disease_selection">慢性病选择</string>
+    <string name="doing">正在做</string>
+    <string name="done_tizhi_1">午饭时间快到了，今天吃什么？</string>
+    <string name="done_tizhi_2">泡茶？且慢！来看看哪个茶才是最适合你的？</string>
+    <string name="done_tizhi_3">%s节气的水果，哪些能吃？哪些不能吃！</string>
+    <string name="done_tizhi_no_relation">家人朋友聚会的一天，大家在一起，吃点儿什么好？添加家人朋友到过日子，一测便知。</string>
+    <string name="douban_weibo_text">豆瓣</string>
+    <string name="drop_evaluation_text">放弃评价</string>
+    <string name="edit_hint_text">输入想法…</string>
+    <string name="emailhint">输入手机号/E-mail邮箱</string>
+    <string name="empty_notification">通知为空</string>
+    <string name="end_plan">结束计划</string>
+    <string name="enter_tasting_room">进入御膳房</string>
+    <string name="environment">%shtml/environment/overview</string>
+    <string name="environment_show" formatted="false">%shtml/environment/show?tunning_method_id=%s</string>
+    <string name="evaluation_complete_plan_title_text" formatted="false">在过去的%s天里，你共完成了%s件对改善%s有帮助的事。</string>
+    <string name="evaluation_improve_cycle">%s，说说近来身体有什么变化吧！(可选)</string>
+    <string name="evaluation_improve_cycle_star_less">%s，有什么让您不满意尽管说，小的洗耳恭听。</string>
+    <string name="evaluation_list_activity_title_v3">评价计划</string>
+    <string name="evaluation_plan_title_text" formatted="false">在过去的%s天里，你共完成了%s件对改善%s有帮助的事。现在来评价一下这次计划吧！</string>
+    <string name="exit">退出</string>
+    <string name="favorites">收藏</string>
+    <string name="feedback">意见反馈</string>
+    <string name="female">女</string>
+    <string name="find_methods_title">找点事干</string>
+    <string name="finish_add_methods">完成定制</string>
+    <string name="finish_custom">开始做准备</string>
+    <string name="finish_data">完善信息</string>
+    <string name="finish_progress">已完成了2/3</string>
+    <string name="finsh">完成</string>
+    <string name="firstpage_article_read_count">&lt;font color=\"#fc683c\">%s&lt;/font> 次阅读</string>
+    <string name="firstpage_dialog_btn_dismiss_text_normal">稍后再说</string>
+    <string name="firstpage_dialog_btn_dismiss_text_not_set_disease">我一切正常，一边去！</string>
+    <string name="firstpage_dialog_btn_set_disease_text">登记体检异常指标、慢性病</string>
+    <string name="firstpage_dialog_btn_test_tizhi_text">开始体质测试</string>
+    <string name="firstpage_dialog_desc_normal">在开始服侍您之前，小的还呈请%s完善个人健康信息，小的才好为您安排每日饮食起居。</string>
+    <string name="firstpage_dialog_desc_not_set_disease">%s且慢，还差最后一步啦！</string>
+    <string name="firstpage_dialog_desc_not_test_tizhi">在开始服侍您之前，还务必请您完成体质测试，小的才好为您安排每日饮食起居。</string>
+    <string name="firstpage_dialog_title_normal">%s吉祥</string>
+    <string name="firstpage_dialog_title_not_set_disease">%s且慢</string>
+    <string name="firstpage_eunuch_broadcast_guide" formatted="false">{\"saying_id\":1000,\"sort\":10,\"expression_id\":10,\"expression\":\"听喝儿\",\"content\":\"%s吉祥，在开始服侍您之前，小的还呈请%s完善个人健康信息，小的才好为您安排每日饮食起居。\",\"start_time\":\"00:00:00\",\"end_time\":\"23:59:59\",\"dismiss_type\":10000,\"action\":[{\"action_id\":1001,\"saying_id\":1000,\"action_type\":\"RETEST_TIZHI\",\"action_style\":\"highlight\",\"title\":\"开始体质测试\",\"link\":\"\",\"sort\":1,\"content_id\":\"\",\"content_title\":\"\",\"content_type\":0},{\"action_id\":1002,\"saying_id\":1000,\"action_type\":\"DISMISS\",\"action_style\":\"normal\",\"title\":\"日后再说\",\"link\":\"\",\"sort\":3,\"content_id\":\"\",\"content_title\":\"\",\"content_type\":0}]}</string>
+    <string name="firstpage_play_picture_user_count">&lt;font color=\"#fc683c\">%s&lt;/font> 人参加</string>
+    <string name="firstpage_upload_picture_count">&lt;font color=\"#fc683c\">%s&lt;/font> 个赞</string>
+    <string name="fitlunchele">%s健康元素</string>
+    <string name="food_share_content">以前竟然都不知道关于%s还有这么多的关于我体质的说法儿，真是很有意思。来自App过日子。</string>
+    <string name="forget"><u>忘记密码</u>？</string>
+    <string name="forget_hint">输入你注册的E-mail</string>
+    <string name="forget_noemail">%s还未注册,请再次确认邮箱地址</string>
+    <string name="forget_request">正在发送请求,请稍候…</string>
+    <string name="forget_sendfail">邮件发送失败, 请稍后再试试看</string>
+    <string name="forget_success">重置密码邮件已发送到%s</string>
+    <string name="forget_tip">输入你注册的E-mail，找回密码</string>
+    <string name="fragment_symptom_list_title">更健康</string>
+    <string name="fudai_bind_phone_not_purchased_prompt">购买福袋需要首先绑定手机号，以便为您登记物流等信息。</string>
+    <string name="fudai_bind_phone_purchased_prompt">请绑定您购买福袋时的手机号，以便绑定福袋，获得更完善的服务。</string>
+    <string name="fudai_binding">%s，绑定没有成功</string>
+    <string name="fudai_footer_right_text_view_string">福袋详情</string>
+    <string name="fudai_list_item_content">兼有%s体质</string>
+    <string name="fudai_list_item_title">%s体质</string>
+    <string name="fudai_regiester_purchased_prompt">使用购买节气福袋时的手机号注册，以便绑定福袋，获得更完善的服务</string>
+    <string name="gender">性别</string>
+    <string name="get_goods_error">商品获取失败</string>
+    <string name="get_sms_auth_code_failure">对不起，获取验证码失败，请重试。</string>
+    <string name="getuserdata_fail">获取用户数据失败，请稍后重试</string>
+    <string name="giveup">我放弃</string>
+    <string name="good_habit_challenge_num_limit">最多只能挑战6个好习惯</string>
+    <string name="good_habit_entrance">开始逆生长</string>
+    <string name="good_habit_footer_left_text_view_string">全部习惯</string>
+    <string name="good_habit_footer_left_text_view_unexpand_string">收起</string>
+    <string name="good_habit_footer_right_text_view_string">管理习惯</string>
+    <string name="good_habit_list_insisting">正在挑战</string>
+    <string name="good_habit_list_new_habit">新习惯</string>
+    <string name="goods_detail_bought_count">已有%s人下单</string>
+    <string name="goods_detail_choose_title">挑选说明</string>
+    <string name="goods_detail_price">%s元</string>
+    <string name="goods_page_title">为方便准备，我们从淘宝精挑细选一些商品，你可以加入购物车一键购买。</string>
+    <string name="group_active_comment_detail_title">详情</string>
+    <string name="group_active_send_hint">分享你计划里的新鲜事。</string>
+    <string name="habits">习惯</string>
+    <string name="has_not_plan_introduce_gridView_footer_1" formatted="false">今天已有 %s 人已经组成了 %s 个圈子</string>
+    <string name="has_not_plan_introduce_gridView_footer_2">产生了 %s 条动态</string>
+    <string name="has_plan_introduce_group_user_info" formatted="false">本组共有 %s / %s 人</string>
+    <string name="header_item_no_prepare_list_title">计划开始以后，你每天需要做的事会列在这里，并且在相应的时间提醒你。</string>
+    <string name="header_item_title">为了让计划进行的更顺利，你可能需要提前准备计划中需要用到的物品：</string>
+    <string name="hidden_show_setting_box">隐藏后可以在工具箱中找到</string>
+    <string name="hint_name">输入姓名或称呼，如：妈妈</string>
+    <string name="history_not_data_o">当你完成过日子推荐给你的任务时</string>
+    <string name="history_not_data_t">会在这里为你记录下来</string>
+    <string name="home_food_more">更多</string>
+    <string name="home_foods_title">御膳房</string>
+    <string name="home_good_habit_footer_tip">青春永驻还在于精进保养，一日不可偏废，主子务必亲观，小的常候于此为您提醒儿。</string>
+    <string name="home_goods_title">多宝阁</string>
+    <string name="home_habit_title">健康习惯</string>
+    <string name="home_no_plan_content">先让我了解你吧！</string>
+    <string name="home_no_plan_title">先让我了解你吧！</string>
+    <string name="home_symptom_plan">专属%s改善计划</string>
+    <string name="home_test_content">过日子内容全部根据您的身体状况量身定制，先来试试这个超准的中医体质测试吧。</string>
+    <string name="home_test_tip">过日子，要讲究！</string>
+    <string name="home_test_title">第一件事，了解你的体质</string>
+    <string name="home_topic_name">节气养生</string>
+    <string name="huofar_agreements">"活法儿在此特别提醒用户认真阅读、充分理解本《软件许可及服务协议》（下称《协议》）--- 用户应认真阅读、充分理解本《协议》中各条款，包括免除或者限制活法儿责任的免责条款及对用户的权利限制条款。请你审慎阅读并选择接受或不接受本《协议》（未成年人应在法定监护人陪同下阅读）。除非你接受本《协议》所有条款，否则你无权下载、安装或使用本软件及其相关服务。你的下载、安装、使用、帐号获取和登录等行为将视为对本《协议》的接受，并同意接受本《协议》各项条款的约束。
+
+本《协议》是你（下称“用户”）与活法儿网隶属公司（下称“活法儿”）及其运营合作单位（下称“合作单位”）之间关于用户下载、安装、使用、复制活法儿“过日子”软件（包括但不限于移动电话、PDA版等各种无线手持终端版本的活法儿、软件等，下称“软件”）；注册、使用、管理活法儿帐号；以及使用活法儿公司相关服务所订立的协议。本《协议》描述活法儿与用户之间关于“软件”许可使用及服务相关方面的权利义务。“用户”是指通过活法儿提供的获取软件授权和帐号注册的途径获得软件产品及号码授权许可以及使用活法儿公司相关服务的个人或组织。
+
+本《协议》可由活法儿随时更新，更新后的协议条款一旦公布即代替原来的协议条款，恕不再另行通知。用户可重新下载安装本软件或网站查阅最新版协议条款。在活法儿修改《协议》条款后，如果用户不接受修改后的条款，请立即停止使用活法儿提供的软件和服务，用户继续使用活法儿提供的软件和服务将被视为已接受了修改后的协议。
+
+除本《协议》有明确规定外，本《协议》并未对利用本“软件”使用的活法儿或合作单位的其他服务规定相关的服务条款。对于这些服务，一般有单独的服务条款加以规范，用户须在使用有关服务时另行了解与确认。单独的服务条款与本协议有冲突的地方，以单独的服务条款为准。如用户使用该服务，视为对相关服务条款的接受。
+
+一．总则
+
+1．活法儿“过日子”软件及服务（以下简称本软件及服务）是活法儿提供的安装在包括但不限于移动电话、PDA等各种无线手持终端上的具有聊天、上网、娱乐等功能的活法儿软件及服务。
+
+2．“过日子”软件及服务的所有权和运营权，以及业务规则及活动的解释权均归活法儿公司所有。
+
+3．本协议可视为《活法儿软件许可及服务协议》及《活法儿网站服务条款》的补充条款，与其构成统一整体，你对本协议的接受即受全部条款的约束，包括接受活法儿公司对任一服务条款随时所做的任何修改，这些条款可由活法儿公司随时更新，且毋须另行通知。（《活法儿软件许可及服务协议》及《活法儿网站服务条款》可于活法儿公司官方网站www.huofar.com中获得。）
+
+4. 若有违反本条款之规定，活法儿公司有权不经通知终止相关服务。
+
+
+二、知识产权声明
+
+1．“过日子”软件是由活法儿开发。“软件”的一切版权、商标权、专利权、商业秘密等知识产权，以及与“软件”相关的所有信息内容，包括但不限于：文字表述及其组合、图标、图饰、图表、色彩、界面设计、版面框架、有关数据、印刷材料、或电子文档等均受中华人民共和国著作权法、商标法、专利法、反不正当竞争法和相应的国际条约以及其他知识产权法律法规的保护，除涉及第三方授权的软件或技术外，活法儿享有上述知识产权。 
+
+2．未经活法儿书面同意，用户不得为任何营利性或非营利性的目的自行实施、利用、转让或许可任何三方实施、利用、转让上述知识产权，活法儿保留追究上述未经许可行为的权利。
+
+3．未经活法儿书面同意，用户不得对“过日子”软件进行反向工程（reverse engineer）、反向编译（decompile）或反汇编（disassemble），活法儿保留追究上述未经许可行为的权利。
+
+三、“过日子”软件授权范围
+
+1．用户可以为非商业目的在单一台手机或其他无线手持终端上安装、使用、显示、运行本“软件”。用户不得为商业运营目的安装、使用、运行本“软件”，不可以对该软件或者该软件运行过程中释放到任何无线手持终端内存中的数据及该软件运行过程中客户端与服务器端的交互数据进行复制、更改、修改、挂接运行或创作任何衍生作品，形式包括但不限于使用插件、外挂或非经授权的第三方工具/服务接入本“软件”和相关系统。 
+
+2．用户不得未经活法儿许可，将本“软件”安装在未经活法儿明示许可的其他终端设备上。包括但不限于机顶盒、游戏机、电视机、DVD机等。 
+
+3．保留权利：未明示授权的其他一切权利仍归活法儿所有，用户使用其他权利时须另外取得活法儿的书面同意。 
+
+4．用户在遵守法律及本《协议》的前提下可依本《协议》使用本“软件”，用户不得实施如下行为（包括但不限于）： 
+
+ 4.1删除本软件及其他副本上一切关于版权的信息； 
+
+ 4.2对本软件进行反向工程，如反汇编、反编译等；
+
+ 4.3修改、破坏本软件原状；
+
+ 4.4任何人进行任何危害网络安全的行为，包括但不限于：使用未经许可的数据或进入未经许可的服务器/帐户；未经允许进入公众网络或者他人操作系统并删除、修改、增加存储信息；未经许可企图探查、扫描、测试本“软件”系统或网络的弱点或其它实施破坏网络安全的行为； 企图干涉、破坏本“软件”系统或网站的正常运行，故意传播恶意程序或病毒以及其他破坏干扰正常网络信息服务的行为；伪造TCP/IP数据包名称或部分名称；
+
+ 4.5用户通过非活法儿公司开发、授权或认可的第三方兼容软件、系统登录或使用活法儿软件及服务，用户针对活法儿公司的软件和服务使用非活法儿公司开发、授权或认证的插件和外挂；
+
+ 4.6对于本“软件”相关信息等，未经活法儿书面同意，用户擅自实施包括但不限于下列行为：使用、出租、出借、复制、修改、链接、转载、汇编、发表、出版，建立镜像站点、擅自借助本“软件”发展与之有关的衍生产品、作品、服务、插件、外挂、兼容、互联等；
+
+ 4.7利用本“软件”发表、传送、传播、储存违反国家法律、危害国家安全、祖国统一、社会稳定、公序良俗的内容，或任何不当的、侮辱诽谤的、淫秽的、暴力的及任何违反国家法律法规政策的内容； 
+
+ 4.8利用本“软件”发表、传送、传播、储存侵害他人知识产权、商业秘密权等合法权利的内容； 
+
+4.9传送或散布以其他方式实现传送含有受到知识产权法律保护的图像、相片、软件或其他资料的文件，作为举例（但不限于此）：包括版权或商标法（或隐私权或公开权），除非用户拥有或控制着相应的权利或已得到所有必要的认可； 
+
+ 4.10使用任何包含有通过侵犯商标、版权、专利、商业机密或任何一方的其他专有权利的方式利用本“软件”获得的图像或相片的资料或信息； 
+
+ 4.11通过修改或伪造软件作品运行中的指令、数据、数据包，增加、删减、变动软件的功能或运行效果，不得将用于上述用途的软件通过信息网络向公众传播或者运营； 
+
+ 4.12将本软件及活法儿提供的服务用于核设施运行、生命维持或其他会使人类及其财产处于危险之中的重大设备。用户明白本软件及活法儿提供的服务并非为以上目的而设计，如果因为软件和服务的原因导致以上操作失败而带来的人员伤亡、严重的财产损失和环境破坏，活法儿将不承担任何责任；
+
+ 4.13在未经活法儿公司书面明确授权前提下，出售、出租、出借、散布、转移或转授权软件和服务或相关的链接或从使用软件和服务或软件和服务的条款中获利，无论以上使用是否为直接经济或金钱收益； 
+
+ 4.14其他以任何不合法的方式、为任何不合法的目的、或以任何与本协议不一致的方式使用本软件和和活法儿提供的其他服务；
+
+ 4.15用户若违反上述规定，活法儿有权采取终止、完全或部分中止、限制用户使用本软件的功能。 
+
+5．使用本“软件”必须遵守国家有关法律和政策等，维护国家利益，保护国家安全，并遵守本《协议》。对于用户违法或违反本《协议》的使用而引起的一切责任，由用户负全部责任，一概与活法儿及合作单位无关；导致活法儿及合作单位损失的，活法儿及合作单位有权要求用户赔偿。
+
+6．如果用户未遵守本《协议》的任何一项条款，活法儿公司有权立即终止本《协议》，并保留通过法律途径追究责任的权利。
+
+7．本软件为免费软件。用户可以非商业性地下载、安装、复制和散发本软件产品。如果需要进行商业性的销售、复制和散发，例如软件预装和捆绑，必须获得活法儿公司的书面授权和许可。
+
+8．本软件为免费软件，使用本软件由用户承担风险，用户应具备本软件产品运行所需的条件，用户必须保证有权使用其运行所需操作系统。在适用法律允许的最大范围内，活法儿公司在任何情况下不就用户因使用或不能使用本软件产品所发生的特殊的、意外的、直接的或间接的侵权或遭致损失承担赔偿责任。即使已事先被告知该损害发生的可能性。
+
+四、关于活法儿帐号 
+
+1．用户可以通过注册活法儿帐号使用本软件及活法儿提供的各种服务。服务包括但不限于PC端及手持终端活法儿软件等可以通过活法儿帐号登录或使用的服务，活法儿保留对公司未来服务改变和说明的权利。用户可以通过本软件客户端、登录网站或使用手机短信、IVR电话、参与活法儿开展或授权开展的活动等方式向活法儿申请注册活法儿帐号。无论用户通过何种方式获得活法儿帐号，均受本协议约束。用户通过活法儿帐号使用活法儿的服务时，须同时遵守各项服务的服务条款。 
+
+2.活法儿帐号的所有权归活法儿，用户完成申请注册手续后，获得活法儿帐号的使用权。 
+
+3.活法儿帐号使用权仅属于初始申请注册人，禁止赠与、借用、租用、转让或售卖。如果活法儿发现使用者并非帐号初始注册人，活法儿有权在未经通知的情况下回收该帐号而无需向该帐号使用人承担法律责任，由此带来的包括并不限于用户通讯中断、用户资料和游戏道具等清空等损失由用户自行承担。活法儿禁止用户私下有偿或无偿转让帐号，以免因帐号问题产生纠纷，用户应当自行承担因违反此要求而遭致的任何损失，同时活法儿保留追究上述行为人法律责任的权利。 
+
+4.用户承担活法儿帐号与密码的保管责任，并就其帐号及密码项下之一切活动负全部责任。用户须重视活法儿帐号密码和公开邮箱的密码保护。用户同意如发现他人未经许可使用其帐号时立即通知活法儿。 
+
+5. 用户活法儿帐号在丢失或遗忘密码后，须遵照活法儿的申诉途径及时申诉请求找回帐号。用户应不断提供能增加帐号安全性的个人密码保护资料。用户可以凭初始注册资料及个人密码保护资料填写申诉单向活法儿申请找回帐号，活法儿的密码找回机制仅负责识别申诉单上所填资料与系统记录资料的正确性，而无法识别申诉人是否系真正帐号权使用人。对用户因被他人冒名申诉而致的任何损失，活法儿不承担任何责任，用户知晓活法儿帐号及密码保管责任在于用户，活法儿并不承诺活法儿帐号丢失或遗忘密码后用户一定能通过申诉找回帐号。 
+
+6. 用户注册活法儿帐号后如果长期不使用，活法儿有权回收帐号，以免造成资源浪费，由此带来的包括并不限于用户通信中断、用户资料、邮件和游戏道具丢失等损失由用户自行承担。 
+
+
+
+五、使用须知
+
+特别提醒用户，使用互联网必须遵守国家有关的政策和法律，如刑法、国家安全法、保密法、计算机信息系统安全保护条例、知识产权法等，保护国家利益，保护国家安全，对于违法使用互联网络而引起的一切责任，由用户负全部责任。
+
+1．用户不得使用本软件进行违反国家法律制度的行为。 
+
+2．本软件同大多数移动通讯终端软件一样，易受到各种安全及使用问题的困扰，活法儿均不承担相关责任。包括但不限于：
+
+1）下载安装的其它软件中含有“特洛伊木马”等病毒，威胁到个人信息和数据的安全，继而威胁对本软件的使用。
+
+2）浏览访问某些恶意网页时，导致移动通讯终端中毒、受损。
+
+3）由于被下载文件提供者或网络、用户使用的软件及硬件设备等原因，导致无法正常下载。
+
+3．用户应加强个人资料的保护意识，以免对个人生活造成不必要的骚扰。 
+
+4．本“软件”的替换、修改和升级：活法儿保留在任何时候通过为你提供本“软件”替换、修改、升级版本的权利以及为替换、修改或升级收取费用的权利。本“软件”为用户默认开通“升级提示”功能，视用户使用的“软件”版本差异，活法儿提供给用户自行选择是否需要开通此功能。软件新版本发布后，活法儿不保证旧版本软件的继续可用。活法儿保留因业务发展需要，单方面对软件的部分功能效果进行改变或进行限制，用户需承担此风险。
+
+5．青少年上网应该在父母和老师的指导下，正确学习使用网络。青少年避免沉迷虚拟的网络世界而影响了日常的学习生活。 
+
+6．活法儿公司敬请用户按照活法儿公司的指定网站或指定方式下载安装本软件产品。谨防在非指定网站下载本软件，以免移动通讯终端感染能破坏用户数据和获取用户隐私信息的恶意程序。
+
+7．用户同意：个人隐私信息是指那些能够对用户进行个人辨识或涉及个人通信的信息，包括下列信息：用户的姓名，身份证号，手机号码，IP地址，电子邮件地址信息。而非个人隐私信息是指用户对本软件的操作状态以及使用习惯等一些明确且客观反映在活法儿服务器端的基本记录信息和其他一切个人隐私信息范围外的普通信息。 
+
+尊重用户个人隐私信息的私有性是活法儿的一贯制度，活法儿将会采取合理的措施保护用户的个人隐私信息，除法律或有法律赋予权限的政府部门要求或用户同意等原因外，活法儿未经用户同意不向除合作单位以外的第三方公开、透露用户个人隐私信息。但是用户在注册时选择或同意，或用户与活法儿及合作单位之间就用户个人隐私信息公开或使用另有约定的除外，同时用户应自行承担因此可能产生的任何风险，活法儿对此不予负责。同时为了运营和改善活法儿的技术和服务，我们将可能会自己收集使用或向第三方提供用户的非个人隐私信息，这将有助于向用户提供更好的用户体验和提高我们的服务质量。
+
+ 一般而言，活法儿公司基于下列原因需要使用到用户的信息资源：
+
+ 7.1执行软件验证服务；
+
+ 7.2执行软件升级服务；
+
+ 7.3提高用户的使用安全性并提供客户支持；
+
+ 7.4因用户使用活法儿软件特定功能等或因用户要求活法儿或合作单位提供特定服务时，活法儿或合作单位则需要把用户的信息提供给与此相关联的第三方；
+
+ 7.5将各种非个人隐私数据用于商业目的，包括但不限于向第三方提供增值服务、广告、定位广告、营销、联合注册其它服务、促销或其它任何活动（统称为“商业活动”）；
+
+ 7.6执行活法儿的《隐私保护声明》，用户可访问活法儿网站查阅该声明；
+
+ 7.7其他有利于用户和活法儿利益的。
+
+8.用户必须自行配备手机等无线手持终端上网和使用电信增值业务所需的设备，自行负担个人手机等无线手持终端上网或第三方（包括但不限于电信或移动通信提供商）收取的通讯费、信息费等有关费用。如涉及电信增值服务的，我们建议你与你的电信增值服务提供商确认相关的费用问题。
+
+9.你可使用本软件及服务发表属于你原创或你有权发表的观点看法、数据、文字、信息、用户名、图片、照片、个人信息、音频、视频文件、链接等。你必须保证，你拥有你所上传内容的著作权或已获得合法授权，你使用本软件及服务的任何行为未侵犯任何第三方之合法权益。 
+
+10.你了解并且同意只要你使用本软件及服务，你将遵守本条款中的权利义务。你对所有在你的注册名下发生的一切行为负责； 
+
+11.你了解并且同意活法儿公司不能为用户行为负责。使用本软件及服务产生的所有风险由你个人承担，活法儿公司不对本软件及服务的适用性、合法性、安全性、无毒性做任何形式的保证。如果你发现本软件及服务中存在任何违法违规行为，有义务及时向活法儿公司举报。 
+
+12.用户不得利用本软件及服务进行故意制作、传播计算机病毒等破坏性程序，不得针对本服务、与本软件及服务连接的服务器或网络制造干扰、混乱，或违反连接本软件及服务的网络的任何要求、程序、政策或规则，否则活法儿将保留追究其法律责任的权利并有权将其提交给相关部门处理。 
+
+13.用户不得利用本软件及服务传播、复制、发送、上传和发布任何妨碍社会治安或非法、虚假、骚扰性、侮辱性、恐吓性、伤害性、破坏性、挑衅性、淫秽色情性等内容的信息。 
+
+14.用户依本协议条款所取得的服务权利不可转让。 
+
+15.如用户违反国家法律法规或本协议条款，本公司和合作公司将有权停止向用户提供服务而不需承担任何责任。如导致活法儿或其合作公司遭受任何损害或遭受任何来自第三方的纠纷、诉讼、索赔要求等，用户须向本公司或合作公司赔偿相应的损失，用户并需对其违反服务条款所产生的一切后果负全部法律责任。活法儿有权认定和删除用户所发表的任何不符合国家法律、法规和政策、本服务条款的任何文章、资料、图片、图表等内容，且不需要对用户另行通知。 
+
+16.活法儿公司保留在任何时候因为任何原因拒绝向任何人提供服务的权利。 
+
+17.用户须遵守包括但不限于以下严禁事宜： 
+
+17.1 利用本软件及服务传播反对宪法所确定的基本原则的内容；
+
+17.2 利用本软件及服务传播危害国家安全，泄露国家秘密，颠覆国家政权，破坏国家统一的内容；
+
+17.3利用本软件及服务传播损害国家荣誉和利益的内容；
+
+17.4利用本软件及服务传播煽动民族仇恨、民族歧视，破坏民族团结的内容；
+
+ 17.5利用本软件及服务传播破坏国家宗教政策，宣扬邪教和封建迷信的内容；
+
+ 17.6利用本软件及服务散布谣言，扰乱社会秩序，破坏社会稳定的内容；
+
+17.7利用本软件及服务散布淫秽、色情、赌博、暴力、凶杀、恐怖或者教唆犯罪的内容；
+
+17.8利用本软件及服务传播侮辱或者诽谤他人，侵害他人合法权益的内容；
+
+17.9利用本软件及服务传播含有法律、行政法规禁止的其他内容；
+
+17.10上传任何病毒，木马，或者蠕虫等危害网络健康的内容；
+
+17.11制作、发布、传播用于窃取活法儿帐号及他人专属信息、财产、保密信息的软件；
+
+17.12在未经活法儿公司书面明确授权前提下，出售、出租、出借、散布、转移或转授权软件和服务或相关的链接或从使用软件和服务或软件和服务的条款中获利，无论以上使用是否为直接经济或金钱收益； 
+
+17.13其他以任何不合法的方式、为任何不合法的目的、或以任何与本协议不一致的方式使用本软件和和活法儿提供的其他服务；
+
+18.活法儿公司有权在服务中或经过服务投放各种广告和宣传信息，该广告可能以系统消息或弹出窗口等形式出现。
+
+19.如因用户不遵守本条上述任意一款或者几款的规定，活法儿公司有权在不事先通知用户的情况下将相应的内容删除或采取终止、完全或部分中止、限制用户帐号的使用功能或停止用户使用本软件或服务；如造成活法儿公司损失的，活法儿公司有权要求用户给予相应的赔偿，包括但不限于活法儿公司因此被国家机关予以行政处罚，或者被第三方通过诉讼或其他的方式索赔，赔偿范围包括但不限于罚款、赔偿金以及活法儿公司支付的相应的诉讼费、律师费。
+
+六、服务风险及免责声明
+
+1．利用的许可
+
+ 1.1 许可利用你的移动通讯终端：为了得到本“软件”所提供的利益，用户在此许可活法儿利用用户移动通讯终端的处理器和带宽，用作容许其它活法儿“过日子”软件使用者与用户通讯联络的有限目的。
+
+ 1.2 保护用户的移动通讯终端资源：用户认可“过日子”软件将会尽其商业上的合理努力以保护用户的移动通讯终端资源及移动通讯终端通讯的隐私性和完整性，但是， 用户承认和同意活法儿不能就此事提供任何保证。
+
+2．活法儿公司特别提请用户注意，活法儿公司为了保障公司业务发展和调整的自主权，活法儿公司拥有随时修改或中断服务而不需通知用户的权利，活法儿公司行使修改或中断服务的权利不需对用户或任何第三方负责。用户必须在同意本条款的前提下，活法儿公司才开始对用户提供服务。
+
+3．用户违反本《协议》或相关的服务条款的规定，导致或产生的任何第三方主张的任何索赔、要求或损失，包括合理的律师费，用户同意赔偿活法儿与合作公司、关联公司，并使之免受损害。
+
+3．用户因第三方如通讯线路故障、技术问题、网络、移动通讯终端故障、系统不稳定性及其他各种不可抗力原因而遭受的一切损失，活法儿及合作单位不承担责任。 
+
+4．因技术故障等不可抗事件影响到服务的正常运行的，活法儿及合作单位承诺在第一时间内与相关单位配合，及时处理进行修复，但用户因此而遭受的一切损失，活法儿及合作单位不承担责任。
+
+5．本“软件”同大多数互联网软件一样，受包括但不限于用户原因、网络服务质量、社会环境等因素的差异影响，可能受到各种安全问题的侵扰，如他人利用用户的资料，造成现实生活中的骚扰；用户下载安装的其它软件或访问的其他网站中含有“特洛伊木马”等病毒，威胁到用户的移动通讯终端信息和数据的安全，继而影响本“软件”的正常使用等等。用户应加强信息安全及使用者资料的保护意识，要注意加强密码保护，以免遭致损失和骚扰。 
+
+6．非经活法儿或活法儿授权开发并正式发布的其它任何由本“软件”衍生的软件均属非法，下载、安装、使用此类软件，将可能导致不可预知的风险，由此产生的一切法律责任与纠纷一概与活法儿无关。
+
+7．用户须明白，使用本软件产品涉及到Internet服务，可能会受到各个环节不稳定因素的影响。因此服务存在因不可抗力、移动通讯终端病毒或黑客攻击、系统不稳定、用户所在位置、用户关机以及其他任何技术、互联网络、通信线路原因等造成的服务中断或不能满足用户要求的风险。用户须承担以上风险，本公司不作担保。对因此导致用户不能发送和接受阅读信息、或接发错信息，公司不承担任何责任。
+
+8．用户须明白，在使用本软件产品存在有来自任何他人的包括威胁性的、诽谤性的、令人反感的或非法的内容或行为或对他人权利的侵犯（包括知识产权）的匿名或冒名的信息的风险，用户须承担以上风险，本公司和合作公司对服务不作任何类型的担保，不论是明确的或隐含的，包括所有有关信息真实性、适商性、适于某一特定用途、所有权和非侵权性的默示担保和条件，对因此导致任何因用户不正当或非法使用服务产生的直接、间接、偶然、特殊及后续的损害，不承担任何责任。
+
+9．因用户使用本软件或要求活法儿提供特定服务时，本软件可能会调用第三方系统支持用户的使用或访问，使用或访问的结果由该第三方提供，活法儿不保证通过第三方系统支持实现的结果的安全性、准确性、有效性及其他不确定的风险，由此若引发的任何争议及损害，与活法儿无关，活法儿不承担任何责任。
+
+10. 本公司定义的信息内容包括：文字、软件、声音、相片、录像、图表；在广告中全部内容；本公司为用户提供的商业信息，所有这些内容受版权、商标权、和其它知识产权和所有权法律的保护。所以，用户只能在本公司和广告商授权下才能使用这些内容，而不能擅自复制、修改、编撰这些内容、或创造与内容有关的衍生产品。
+
+11. 用户在使用本软件及服务时，须自行承担如下包括但不限于来自活法儿公司不可掌控的风险内容：
+
+11.1 由于无线网络宽带不稳定等原因引起的名片、短信、通话记录、浏览器书签等个人信息丢失、泄漏等风险。
+
+11.2 用户必须选择与所安装手机相匹配的“过日子”软件版本，否则，由于软件与手机型号不相匹配所导致的任何软件问题、手机问题或损害，均由用户自行承担。
+
+11.3 用户手机隐私信息在使用本软件及服务时可能产生的信息安全风险。
+
+11.4 用户在使用本软件访问第三方网站时遇到内容质量及安全问题等，均由用户自行承担。
+
+12. 活法儿在此特别提醒：
+
+12.1 使用本“软件”必须遵守国家有关法律和政策等，维护国家利益，保护国家安全，并遵守本《协议》。对于用户违法或违反本《协议》的使用而引起的一切责任，由用户负全部责任，一概与活法儿及合作单位无关；导致活法儿及合作单位损失的，活法儿及合作单位有权要求用户赔偿，并有权保留相关记录。而且，对于用户违法或违反本《协议》以及违反了利用本软件和活法儿帐号访问的活法儿或合作单位的其他服务规定的相关服务条款，活法儿有权视用户的行为性质，在不事先通知用户的情况下，采取包括但不限于中断使用许可、停止提供服务、限制使用、回收用户活法儿帐号、法律追究等措施。对利用活法儿帐号进行违法活动、骚扰、欺骗其他用户等行为，活法儿有权回收其帐号。由此带来的包括并不限于用户通信中断、用户资料、邮件和游戏道具丢失等损失由用户自行承担。
+
+12.2 非经活法儿或活法儿授权开发并正式发布的其它任何由本“软件”衍生的软件均属非法，下载、安装、使用此类软件，将可能导致不可预知的风险，由此产生的一切法律责任与纠纷一概与活法儿无关。用户不得轻易下载、安装、使用此类软件，否则，活法儿有权在不事先通知用户的情况下单方面终止用户活法儿帐号的使用资格。
+
+12.3 用户只能通过活法儿提供的本“软件”及其他合法通道登录使用活法儿。用户不得通过其他未经活法儿授权开发的包括但不限于非法兼容型软件、程序或者其他非活法儿明示许可的方式，登录使用活法儿帐号，否则，活法儿有权在不事先通知用户的情况下单方面终止用户的活法儿帐号的使用资格。
+
+13. 用户所有的个人、健康、症状、病情等所有信息均自行提供，需要确保录入或者上传信息及时、准确，应用将完全根据用户提供的信息做出反馈，如果用户提供的信息有误，造成的任何后果自行承担。
+
+14. 如用户的症状及疾病或者存在任何健康信息在应用系统中无法体现时，默认该用户不符合软件服务要求，软件拒绝提供服务，所有推荐信息均不得做以任何意义上的参考。如擅自获得信息并作为参考，任何后果用户自行承担。
+
+15. 软件推荐不能代替到医院就诊，尤其是用户有重度疾病或者发生急性症状或者化验结果严重异常的情况下，都需要尽快就医，软件推荐不做任何参照。
+
+16. 用户提供的健康信息、提交的健康日记、及相关的一切记录，如果活法儿网认为其内容包含任何不基于事实、虚构、编造及无亲身经历的言论，带有威胁、淫秽、漫骂、非法及带有人身攻击之言论，含有色情、暴力、恐怖内容、含有违背伦理道德内容，涉及违法犯罪的内容，以及其他活法儿网认为不恰当的情况，活法儿网有权进行编辑、删除、直至取消该账户资格，并保留进行法律追究的权利。
+
+17. 本软件所有信息仅供参考，不做个别诊断、日常使用的根据。本软件致力于提供正确、完整的健康资讯，但不保证信息的正确性和完整性，且不对因信息的不正确或遗漏导致的任何损失或损害承担责任。本软件所提供的任何健康资讯，仅供参考，不能替代医生和其他医务人员的建议，如自行使用本软件资料发生偏差，本公司概不负责，亦不负任何法律责任。
+
+七、服务及协议条款的变更
+
+活法儿公司有权在必要时修改本协议条款，协议条款一旦发生变动，将会在相关页面上公布修改后的协议条款。如果不同意所改动的内容，用户应主动取消此项服务。如果用户继续使用服务，则视为接受协议条款的变动。 
+
+活法儿公司和合作公司有权按需要修改或变更所提供的收费服务、收费标准、收费方式、服务费、及服务条款。活法儿在提供服务时，可能现在或日后对部分服务的用户开始收取一定的费用如用户拒绝支付该等费用，则不能在收费开始后继续使用相关的服务。活法儿和合作公司将尽最大努力通过电邮或其他有效方式通知用户有关的修改或变更。 
+
+八、争议管辖及适用法律
+
+本协议条款之效力和解释均适用中华人民共和国之法律。如协议条款之任何一部分与中华人民共和国法律相抵触，则该部分条款应按法律规定重新解释，部分条款之无效或重新解释不影响其它条款之法律效力。用户和活法儿一致同意凡因本服务所产生的纠纷双方应协商解决，协商不成任何一方可提交活法儿公司所在地北京市有管辖权的法院诉讼裁决。
+
+活法儿版权所有，保留一切解释权利。 
+"</string>
+    <string name="huofar_test_tip">过日子推荐的商品已经过过日子编辑组及邀请部分用户试用。活法儿网与商家并无利益关系。</string>
+    <string name="huofartest">活法儿体质测试</string>
+    <string name="hwpush_ability_value">successRateAnalytics</string>
+    <string name="i_know">知道了</string>
+    <string name="immediatelybinding">立即绑定</string>
+    <string name="improve_suggest_prompt">如果您针对这个症状有更好的解决方法，请告诉我们吧，我们会帮您把它传播给更多的人，如果对我们有什么不满，也可以在这里告诉我们。</string>
+    <string name="information">提示</string>
+    <string name="input_nickname">输入昵称</string>
+    <string name="into_guorizi">进入过日子%s</string>
+    <string name="introshake" formatted="false">%s你好，我是%s君，今天%s就吃我吧！</string>
+    <string name="is_like">喜欢</string>
+    <string name="is_liked">已喜欢</string>
+    <string name="iteminfototal" formatted="false">共 %s件商品¥ %s</string>
+    <string name="iteminfototalmore" formatted="false">等 %s件商品¥ %s</string>
+    <string name="ji" formatted="false">今日忌%s：%s -发自@活法儿 过日子http://m.huofar.com</string>
+    <string name="jieqi">节气</string>
+    <string name="join_group_description">系统已邀请你与最多30个和你相似的有缘人一起进行这次调养计划! 你的计划动态将会展示给大家，并可以收到大家对你的赞。</string>
+    <string name="join_group_description_2">你们都在相近的时间里加入到这次睡眠调理计划中。</string>
+    <string name="join_group_description_3">没有关注，在计划结束后你们会离开这个群组。</string>
+    <string name="just_test_show">不知道我的体质，现在开始测试：</string>
+    <string name="known">知道了！</string>
+    <string name="known_challenge_group">了解挑战小组</string>
+    <string name="known_your_plans">了解你的计划</string>
+    <string name="later_done"><u>稍后再说</u></string>
+    <string name="loading">加载中…</string>
+    <string name="location">选择地理位置</string>
+    <string name="login">已有账号登录</string>
+    <string name="login_account">用户登录</string>
+    <string name="login_account_text">帐号登录</string>
+    <string name="login_fail">登录失败，请稍后重试</string>
+    <string name="login_success">登录成功</string>
+    <string name="logining">正在登录，请稍候…</string>
+    <string name="logout">退出登录</string>
+    <string name="lucky_bag_detail_title">福袋</string>
+    <string name="lucky_bag_title">了解福袋</string>
+    <string name="lunar">农历</string>
+    <string name="lunch">午餐</string>
+    <string name="magzine_share" formatted="false">四时天，四时人，跟随24节气养生，发现自然、传统之美。%s 。过日子下载：%s</string>
+    <string name="makeway">制作方法</string>
+    <string name="male">男</string>
+    <string name="managefriend">家人朋友管理</string>
+    <string name="market_myaim_button">看看为我推荐什么</string>
+    <string name="market_myaim_nowyou">此刻的你</string>
+    <string name="market_product_buynow">马上送来</string>
+    <string name="market_productlist_updatebutton">修改健康目标</string>
+    <string name="market_welcome_discourse">欢迎光临活法儿小店</string>
+    <string name="market_welcome_discourse_en">Welcome to the Huofar Shop.</string>
+    <string name="market_welcome_hint">例如：北京国贸</string>
+    <string name="market_welcome_list_info_commission">根据你的健康情况，小店会为你推荐最适合你的商品。在这里，每个人的菜单都会是与众不同的。</string>
+    <string name="market_welcome_list_info_local">Huofar Shop 中的商品均来自你已经熟知的优秀的商家，如满记甜品、泰和草本工坊等。</string>
+    <string name="market_welcome_list_info_served">足不出户，1小时内由专业配送员为你端上一碗热乎乎的生磨杏仁茶。而这一切服务，你10秒钟后即可开始享受。</string>
+    <string name="market_welcome_onehour">* 1小时配送为理想状态，若遇到影响配送的客观因素可能会稍有延迟。</string>
+    <string name="market_welcome_startbutton">开始使用</string>
+    <string name="market_welcome_submit">提交</string>
+    <string name="market_welcome_test_info">目前此服务正在测试阶段，只为少数地区的用户服务。如果愿意，你可以留下你的位置，我们会优先覆盖受欢迎的地区。</string>
+    <string name="market_welcome_thinks">感谢你使用过日子的全新服务，目前此服务正在测试阶段，如有任何问题请通过意见反馈功能告诉我们。</string>
+    <string name="member_count" formatted="false">%s/%s人</string>
+    <string name="method_detail_share">这里有%s解决方法，快来看看吧！</string>
+    <string name="method_evaluation_dialog_content" formatted="false">你已经完成%s %s 次，如果有使用心得，欢迎分享给 %s 个正在使用这个妙招的小伙伴们！</string>
+    <string name="middleday">中午</string>
+    <string name="mobile_email_err">账号格式错误</string>
+    <string name="modify_information">修改个人信息</string>
+    <string name="month">月</string>
+    <string name="more">更多</string>
+    <string name="more_commodity">去多宝阁看更多精选</string>
+    <string name="more_content">更多内容</string>
+    <string name="multi_lucky_bag_prompt">您好像购买了多个福袋，请问您想绑定哪一个到过日子？</string>
+    <string name="my_disease_item">体检/慢性病设置</string>
+    <string name="my_family_friends">家人</string>
+    <string name="my_fudai">福袋</string>
+    <string name="my_fudai_bind_phone_prompt">如果你已经购买了福袋，可以在此通过你购买时的手机号绑定福袋，以获得更完整的服务。</string>
+    <string name="my_fudai_order">订单</string>
+    <string name="my_health_archive">我的健康信息</string>
+    <string name="my_improve_plan">我的改善计划</string>
+    <string name="my_message">消息</string>
+    <string name="my_plan_details">查看我的计划详情</string>
+    <string name="my_profile">我的信息</string>
+    <string name="my_profile_item">基础信息</string>
+    <string name="my_self_text">我自己</string>
+    <string name="my_test">我的测试</string>
+    <string name="myfavorites">食材收藏夹</string>
+    <string name="mynotification">我的通知</string>
+    <string name="myorders">我的订单</string>
+    <string name="myshoppingcart">我的购物车</string>
+    <string name="myshoppingcartupd">点击物品可以修改</string>
+    <string name="mytest_explanation_content">关联家人朋友可以为他们共同推荐适合的食材和食谱，将来还可以做更多功能。</string>
+    <string name="mytizhi">我的体质</string>
+    <string name="name">称呼：</string>
+    <string name="name_exist">该称呼已存在，请重新输入。</string>
+    <string name="needRetest">请重测你的体质</string>
+    <string name="net_error">无网络连接，请检查网络设置</string>
+    <string name="network_connecting">正在尝试连接</string>
+    <string name="network_location">网络定位</string>
+    <string name="network_noconnection">网络未连接</string>
+    <string name="network_retry">"请检查网络配置
+点击屏幕重新尝试连接"</string>
+    <string name="network_setting">进入网络设置</string>
+    <string name="never_into_small_symptom">过日子还可以为你日常生活中的小毛病支招献计，来看看吧。</string>
+    <string name="new_user_vitality_age_content">活力年龄是身体健康状态的真实反映，完成为你定制的健康任务，让身体“逆生长”，快来试试吧。</string>
+    <string name="new_user_vitality_age_title">什么是活力年龄？</string>
+    <string name="next_question">下一题</string>
+    <string name="night">晚上</string>
+    <string name="no_good_habit">一个小小的坚持，可以带给你身体大大的改变。</string>
+    <string name="no_info">尚未完善个人信息</string>
+    <string name="no_internet_connect_hint">请连接网络!</string>
+    <string name="no_name">请输入账号</string>
+    <string name="no_name2">用户名不能为空</string>
+    <string name="no_network_tips">当前网络未连接，请检查网络设置后重试。</string>
+    <string name="no_nickname">还未设置昵称</string>
+    <string name="no_password2">输入你的密码,不能少于6位</string>
+    <string name="no_result_help">什么都不告诉我，没办法帮到你呢！</string>
+    <string name="no_selection">请勾选为哪些人挑选。</string>
+    <string name="no_sms_auth_code">对不起，验证码不能为空。</string>
+    <string name="no_sync">未同步</string>
+    <string name="no_test">尚未测试</string>
+    <string name="no_test_info">尚未测试体质</string>
+    <string name="no_tizhi_1">试试这个超准的中医体质测试吧，是不是比你还了解自己？</string>
+    <string name="no_tizhi_2">妈妈再也不用担心我不会照顾自己啦？测个体质，让过日子告诉你如何生活吧。</string>
+    <string name="no_tizhi_3">还不知道自己的体质吗？快来，快来，就差你了！</string>
+    <string name="none">无</string>
+    <string name="nonetwork_tip">无网络，无法获得最新信息。</string>
+    <string name="not_been_evaluated">%s，请务必在此做出评价，小的洗耳恭听～～</string>
+    <string name="not_finish">信息填写不完整，请完善后继续。</string>
+    <string name="notconnect">网络不给力啊！</string>
+    <string name="notest_tips1">过日子是为你量身打造的应用，需要完成体质测试，才能正常使用。</string>
+    <string name="notest_tips2">"请返回，点击屏幕右上角的
+开始测试自己的体质吧！"</string>
+    <string name="notestshow">你没有测试体质,为你推荐节气适宜的食材。</string>
+    <string name="notification_alert_header">体质重测提醒</string>
+    <string name="notification_detail_reply_my_comment">&lt;font color=\"#333333\">%s&lt;/font> 回复了我的评论</string>
+    <string name="notification_detail_reply_my_picture">&lt;font color=\"#333333\">%s&lt;/font> 回复了我的照片</string>
+    <string name="notification_detail_title">收到的消息</string>
+    <string name="notification_detail_zan_comment">&lt;font color=\"#333333\">%s&lt;/font> 赞了我的评价</string>
+    <string name="notification_detail_zan_picture">&lt;font color=\"#333333\">%s&lt;/font> 赞了我的照片</string>
+    <string name="noweather">无天气信息</string>
+    <string name="number_of_participants">%s人使用过</string>
+    <string name="ok">确定</string>
+    <string name="old_user_vitality_age_content">"活力年龄是身体健康状态的真实反映，完成为你定制的健康任务，让身体“逆生长”，快来试试吧。
+根据你之前的体质测试，已为你计算出活力年龄。若上次测试间隔已久，建议重新测试，获取新鲜准确的活力年龄。"</string>
+    <string name="old_user_vitality_age_title">来看看你的活力年龄</string>
+    <string name="on_a_question">上一题</string>
+    <string name="openRemind">开启提醒</string>
+    <string name="operation">节气养生</string>
+    <string name="orderStatus">订单最新动态：%s</string>
+    <string name="order_success">订阅成功啦！</string>
+    <string name="orderbacktext">再看看</string>
+    <string name="ordertypeandname" formatted="false">配送到%s %s</string>
+    <string name="other">其他</string>
+    <string name="package_buy">进入购物车结算</string>
+    <string name="password">输入你的密码</string>
+    <string name="password_confirm">重复密码</string>
+    <string name="password_less">据悉，密码少于6位会很不安全噢！</string>
+    <string name="perfect_user_info_title">完善测试信息</string>
+    <string name="phone_number_used">对不起，该手机号码已被%s过。</string>
+    <string name="phone_number_valid_toast">必须输入有效的合理的手机号码。</string>
+    <string name="picture_zan_text">%s赞了这张照片。</string>
+    <string name="plan_date">换个时间</string>
+    <string name="plan_hidden">从计划页隐藏</string>
+    <string name="plan_length_desc">计划长度：%d天</string>
+    <string name="plan_show">在计划页显示</string>
+    <string name="plan_symptom_intro" formatted="false">我的%s天%s改善计划</string>
+    <string name="pleasenewemail">请输入新邮箱地址</string>
+    <string name="pre_start_plan">选择健康困扰</string>
+    <string name="preparation_list">返回准备列表</string>
+    <string name="preparation_str1">在计划开始之前，你可能需要提前做一些准备。来看看为你整理的准备清单吧：</string>
+    <string name="preparation_str2">计划开始以后，你每天需要做的事会列在这里，并且在相应的时间提醒你。</string>
+    <string name="prepare">准备</string>
+    <string name="prepare_need">必备清单</string>
+    <string name="price">¥ %s</string>
+    <string name="profile_feedback">意见反馈</string>
+    <string name="progress">进度</string>
+    <string name="prompts_content">尚未选择</string>
+    <string name="publish">发表</string>
+    <string name="publish_fail">发表失败，请重试！</string>
+    <string name="publish_success">发表成功啦！</string>
+    <string name="pull_to_refresh_from_bottom_pull_label">@string/pull_to_refresh_pull_label</string>
+    <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string>
+    <string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string>
+    <string name="pull_to_refresh_tap_label">点击刷新</string>
+    <string name="quantity">X %s</string>
+    <string name="quit"><u>离开</u></string>
+    <string name="qzone">QQ空间</string>
+    <string name="qzone_weibo_text">QQ空间</string>
+    <string name="read">已阅读</string>
+    <string name="receivertype">配送到%s</string>
+    <string name="recipe_share_content">今儿御膳房给我准备了%s，说是最适合我的体质，看着真是不错啊。来自“过日子”App</string>
+    <string name="redo_tizhi_test" formatted="false">您的体质%s测试于 %s 天前，可能已经无法反映您此时此刻的身体情况，强烈建议您重新测试后再购买福袋。</string>
+    <string name="register">注册</string>
+    <string name="register_account">用户注册</string>
+    <string name="register_fail">注册失败，请稍后重试</string>
+    <string name="register_success">注册成功</string>
+    <string name="register_tip1">E-mail地址用于找回密码，请认真填写。</string>
+    <string name="register_tip2">完成注册代表你接受</string>
+    <string name="registerhint">请使用邮箱注册</string>
+    <string name="registering">正在注册，请稍候…</string>
+    <string name="relation_info_title">家人与朋友信息页</string>
+    <string name="reloadscene">重新加载</string>
+    <string name="remind_content_four_days">你已经连续四天没有完成任何任务了，大家都在继续，你可不要落后啊～～</string>
+    <string name="remind_content_last_days" formatted="false">今天是你坚持完成%s计划的第%s天，若感觉好些了，可以回来结束这个计划。</string>
+    <string name="remind_content_two_days">你已经连续两天没有完成任何任务了，坚持是最可贵的品质啦～～</string>
+    <string name="reply_failure_text">回复失败，请重试</string>
+    <string name="reply_hint_text">回复内容…</string>
+    <string name="reply_success_text">已回复</string>
+    <string name="request_fail">请求失败,请稍后重试。</string>
+    <string name="reset_password">输入你的新密码,不能少于6位</string>
+    <string name="review">评价应用</string>
+    <string name="saving">正在保存，请稍候…</string>
+    <string name="scence_type_lists_null">抱歉，没有适合你的推荐：）</string>
+    <string name="search_by_category">分类查询</string>
+    <string name="search_food_material">搜索食材/食谱</string>
+    <string name="search_result">"抱歉，没有搜索到！
+"<b>%s</b>会有的，一切都会有的！</string>
+    <string name="search_tips">请输入你想要搜索的内容</string>
+    <string name="searching">正在搜索...</string>
+    <string name="select_birthday">选择生日</string>
+    <string name="select_disease">慢性病选择</string>
+    <string name="select_location">城市</string>
+    <string name="selectbirth">选择生日</string>
+    <string name="selectbirthnotice">注意：年龄必须大于十六岁！</string>
+    <string name="selected">已选</string>
+    <string name="selected_title">为%s推荐</string>
+    <string name="selection_tip">选择为哪些人推荐</string>
+    <string name="selection_tip_notest">缺少健康信息，暂时无法选择。</string>
+    <string name="selection_title">为%s推荐</string>
+    <string name="send_group_active_text">发布</string>
+    <string name="send_group_active_title">发动态</string>
+    <string name="sendemail">发送验证邮件</string>
+    <string name="set_disease">设置体检异常或慢性病</string>
+    <string name="set_head_image_and_name_small_title">在大家眼中更有个性</string>
+    <string name="set_head_image_and_name_title">设置头像和名字</string>
+    <string name="setting">设置</string>
+    <string name="setting_date">设置时间</string>
+    <string name="setting_first_day">还没做好准备？可以在此设置最适合你的开始时间。</string>
+    <string name="setting_manual_tizhi">设置为%s</string>
+    <string name="share">推荐给好友</string>
+    <string name="share_call_sharesdk">调用分享功能</string>
+    <string name="share_page">分享页面</string>
+    <string name="share_setup">分享设置</string>
+    <string name="share_small_symptom_friend_result_desc">近日“%s”频发，令人深感忧虑，恰好与一“过日子”App中寻到相关内容，感觉有用，希望对大家有所帮助。</string>
+    <string name="share_small_symptom_result_desc">闻听好友身体欠安，甚是担心，恰好与一“过日子”App中寻到“%s”相关内容，希望有所帮助，愿早日康复</string>
+    <string name="share_title">分享信息</string>
+    <string name="share_to_friend">分享计划给朋友</string>
+    <string name="share_url_tizhi_test">http://www.huofar.com/tizhi</string>
+    <string name="sharesms">转发短信</string>
+    <string name="sharetofriend">分享给朋友</string>
+    <string name="sharetoqzone">QQ空间</string>
+    <string name="sharetosina">新浪微博</string>
+    <string name="sharetotencent">分享到腾讯微博</string>
+    <string name="sharewechat">微信好友</string>
+    <string name="sharewechatfirend">朋友圈</string>
+    <string name="shareweibo">分享给朋友</string>
+    <string name="shicaidetail">食材详情</string>
+    <string name="shoppingCart">购物车</string>
+    <string name="shoppingcarts_total">共计：¥ %s</string>
+    <string name="show_choose_birthday" formatted="false">%s年%s月%s日</string>
+    <string name="show_plan_page">将需要准备的提示展示在计划页</string>
+    <string name="shownotefavorter">收藏食材可以让你随时找到这个食材的信息，及是否适合你或你的家人而无需搜索。</string>
+    <string name="showshake">对你的%s有好处。</string>
+    <string name="sina">新浪微博</string>
+    <string name="sina_weibo_text">新浪微博</string>
+    <string name="small_symptom_code_more">据悉，这里好像只能装下 2000 个字。您要不少些点儿？</string>
+    <string name="small_symptom_code_null">请您在这里说点什么吧！</string>
+    <string name="small_symptom_result_desc">对问题的详细描述（发作时间频率、主观感受、症状的客观状态），帮助用户确认自己的问题。描述口语化。使用标签短语。</string>
+    <string name="small_symptom_result_ok">您的话我们已经记下了！</string>
+    <string name="small_symptom_result_text">改进建议</string>
+    <string name="small_symptom_tishi_content">如果%s觉得受用，可把这些妙招分享给好朋友们哦！</string>
+    <string name="sns_auth">绑定帐号</string>
+    <string name="special">返回专题</string>
+    <string name="star_improve">开始改善</string>
+    <string name="start_immediately_test">立即开始测试</string>
+    <string name="start_plan">准备完毕，开始第一天计划</string>
+    <string name="start_plan_right_now_v3">立即开始</string>
+    <string name="start_plan_v3">准备完毕，立即开始</string>
+    <string name="start_test">开始改善</string>
+    <string name="submit_test">提交测试</string>
+    <string name="symptom_footer_left_text_view_string">全部任务</string>
+    <string name="symptom_footer_right_text_view_string">计划详情</string>
+    <string name="symptom_group_introduce_activity_description_1">你的动态将会展示给大家，并可以收到大家对你的赞。</string>
+    <string name="symptom_group_introduce_title_from_detail">小组详情</string>
+    <string name="symptom_group_introduce_title_has_plan">你已加入挑战小组</string>
+    <string name="symptom_group_introduce_title_no_plan">什么是挑战小组</string>
+    <string name="symptom_method_friend_text" formatted="false">今日在APP“过日子”中寻得一妙招，感觉有用，大家不妨收藏，以备不时之需。来自过日子，%s《%s》</string>
+    <string name="symptom_method_friend_text_his">今日在APP“过日子”中寻得一妙招，感觉有用，大家不妨收藏，以备不时之需。来自过日子，《%s》</string>
+    <string name="symptom_method_text" formatted="false">刚在APP“过日子”中得一妙招，感觉有用，好友不妨一试。来自过日子，%s《%s》</string>
+    <string name="symptom_method_text_his">刚在APP“过日子”中得一妙招，感觉有用，好友不妨一试。来自过日子，《%s》</string>
+    <string name="symptom_number_day" formatted="false">第 %s 天 / 共 %s 天</string>
+    <string name="symptom_plan_desc">本应用内容不作为诊断和治疗的依据，内容及方法仅作为生活保健的咨询建议。如遇不适请及时就医。</string>
+    <string name="symptom_plan_good_habit_list_child_challenge">挑战</string>
+    <string name="symptom_plan_good_habit_list_child_content">早睡觉不仅可以美容养颜，对阴虚质的调理也至关重要。</string>
+    <string name="symptom_plan_good_habit_list_child_layout_challege_num"> 人正在挑战</string>
+    <string name="symptom_plan_good_habit_list_child_load_more">加载更多</string>
+    <string name="symptom_plan_preview_footer_content_v3">"执着追求并从中得到最大快乐的人，
+才是成功者。——梭罗"</string>
+    <string name="symptom_plan_preview_good_habit_title_text">养成好习惯</string>
+    <string name="symptom_plan_preview_recommand_good_habit_group_titile">为你推荐的好习惯</string>
+    <string name="symptom_progress"> %s</string>
+    <string name="symptom_test_group_count" formatted="false">第%d题／共%d题</string>
+    <string name="sync_time">上次同步时间：</string>
+    <string name="tab1_lucky_bag_title">活法儿的节气福袋</string>
+    <string name="tab1_symptom_title">想改变什么？</string>
+    <string name="tab2_prompt_test_btn_text">马上开始</string>
+    <string name="tab2_prompt_test_content_text">3000万用户验证的准确！</string>
+    <string name="tab2_prompt_test_title_text">你还不知道自己的体质吗？</string>
+    <string name="tab2_title">健康困扰</string>
+    <string name="tae_sdk_login_qr_icon_close"></string>
+    <string name="tae_sdk_login_qr_icon_taobao"></string>
+    <string name="tae_sdk_qr_login_icon_password"></string>
+    <string name="tae_sdk_qr_login_icon_scan"></string>
+    <string name="task_record">任务记录</string>
+    <string name="tasting_room">御膳房</string>
+    <string name="tasting_room_detail_page_desc">%s，根据时下节气和您的身体情况，我会吩咐御膳房安排每日膳食。</string>
+    <string name="temperature">°C</string>
+    <string name="tencent">腾讯微博</string>
+    <string name="tencent_weibo_text">腾讯微博</string>
+    <string name="test_again">重测体质</string>
+    <string name="test_my_vitality_age">测测我的活力年龄</string>
+    <string name="test_result">测试结果</string>
+    <string name="test_tips">以下问题请根据你最近三个月的身体感受回答，孕妇及16岁以下人群不建议使用本测试。</string>
+    <string name="test_tizhi">测试您的体质</string>
+    <string name="text_breakfast_header_desc">如果你无法简洁的表达你的想法，那只是说明你还不够了解它。</string>
+    <string name="text_days_of_plan">计划第%s天</string>
+    <string name="text_days_of_plan_suggest">建议坚持不少于%s天</string>
+    <string name="text_evaluation_prompt_content">不同的方法，对不同人有不同的效果。请描述方法对你的效果，帮助更多的人参考；也方便我们把对你有用的方法推荐给和你相似的人。</string>
+    <string name="text_evaluation_prompt_title">%s  个小伙伴期待你的评价</string>
+    <string name="text_guide_user_customizable_normal">当前默认显示平和体质内容，点此定制</string>
+    <string name="text_guide_user_customizable_not_disease">点此录入您的体检信息</string>
+    <string name="text_guide_user_customizable_not_test">点此测试您的体质</string>
+    <string name="text_join_in_discuss_content_desc">在这里，你可以遇到和你一样习惯认真对待自己健康的小伙伴。为了营造一个好的讨论环境，请悉知：</string>
+    <string name="text_join_in_discuss_content_list"><li>尊重他人，礼貌待人</li><li>提问前、讨论中多思考，为自己负责</li><li>多分享，并为你认为好的内容点赞</li></string>
+    <string name="text_join_in_discuss_title">欢迎加入讨论！</string>
+    <string name="text_know_lucky_bag">了解福袋</string>
+    <string name="text_look_all_comment">查看全部评论</string>
+    <string name="text_lucky_bag_price">本期售价：%s</string>
+    <string name="text_lucky_bag_sell_info" formatted="false">还剩%s份 预计收货时间:%s</string>
+    <string name="text_lucky_bag_using">正在使用:%s</string>
+    <string name="text_money_renminbi">¥%s</string>
+    <string name="text_my_health_summary" formatted="false">%s · %s 项慢性病</string>
+    <string name="text_my_profile_info">&lt;b>&lt;font color=\"black\">%s&lt;/font>&lt;/b> 的健康信息</string>
+    <string name="text_my_test_name_and_result" formatted="false">%s:&lt;b>&lt;font color=\"black\"> %s&lt;/font>&lt;/b></string>
+    <string name="text_my_test_time">上次测试: %s</string>
+    <string name="text_next">下一步</string>
+    <string name="text_next_continue">继续</string>
+    <string name="text_not_evaluation_prompt_content">为评价准确性，还需要打卡%s次才可以写评价</string>
+    <string name="text_replay_discuss_info" formatted="false">&lt;b>&lt;font color=\"black\">%s:&lt;/font>&lt;/b> %s</string>
+    <string name="text_typename_and_title" formatted="false">%s · %s</string>
+    <string name="text_zan_nicknames">%s觉得很赞</string>
+    <string name="textview_listheader_day_down">今日排名下降%s名</string>
+    <string name="textview_listheader_day_up">今日排名上升%s名</string>
+    <string name="textview_listheader_week">在本周，我超越了%s的人</string>
+    <string name="tips">小提示</string>
+    <string name="tips_profile">每天对自己好一些，逆生长到18岁</string>
+    <string name="title_agreement">注册协议</string>
+    <string name="title_forget">忘记密码</string>
+    <string name="title_lucky_bag_bind">绑定手机号</string>
+    <string name="tizhi_a">平和质</string>
+    <string name="tizhi_b">气虚质</string>
+    <string name="tizhi_c">阳虚质</string>
+    <string name="tizhi_d">阴虚质</string>
+    <string name="tizhi_describe_test">体质是对人身体情况比较全面和客观的描述。（根据2009版中医体质分类与判定标准开发）了解自己的体质，过日子会为你推荐更适合你的内容，帮助你更好的照顾自己。</string>
+    <string name="tizhi_e">痰湿质</string>
+    <string name="tizhi_entrance_title">%s，此“体质测试”是依据中医国家标准开发，虽测试过程繁复，但却能帮助知晓身体情况，洞悉疾病隐患，当常常自检。</string>
+    <string name="tizhi_f">湿热质</string>
+    <string name="tizhi_g">血瘀质</string>
+    <string name="tizhi_h">气郁质</string>
+    <string name="tizhi_i">特禀质</string>
+    <string name="tizhi_restest_desc">体质是不断变化的属性，如果距离上次测试的时间超过3个月，建议重新测试。</string>
+    <string name="tizhi_test_result_share">刚刚在APP“过日子”测得体质为%s，心头不免为之一震，实在准啊～～事关身体康健，不敢独享，众兄弟姐妹不妨下载，亲自体验其精妙之处。</string>
+    <string name="tizhi_test_tip">主子来做个体质测试吧！您有所不知，很多宫颈癌患者都是由血瘀体质进化的哦！完成测试可以：</string>
+    <string name="tizhi_tips">《中医体质分类与判定》是中华中医药学会于2009年4月9日颁布的国家标准。</string>
+    <string name="tomorrow">明天</string>
+    <string name="total_results">为你推荐周边%s件宝贝</string>
+    <string name="trouble_evaluation_no_complete">请把困扰改善情况填写完整</string>
+    <string name="umeng_example_home_btn_plus">社交分享</string>
+    <string name="umeng_socialize_back">返回</string>
+    <string name="umeng_socialize_cancel_btn_str">取消</string>
+    <string name="umeng_socialize_comment">评论</string>
+    <string name="umeng_socialize_comment_detail">评论详情</string>
+    <string name="umeng_socialize_content_hint">说点啥…</string>
+    <string name="umeng_socialize_friends">关注的好友</string>
+    <string name="umeng_socialize_img_des" />
+    <string name="umeng_socialize_laiwang_default_content">友盟社会化组件（SDK）让移动应用快速整合社交分享功能</string>
+    <string name="umeng_socialize_login">登录</string>
+    <string name="umeng_socialize_login_qq">QQ空间</string>
+    <string name="umeng_socialize_msg_hor">小时前</string>
+    <string name="umeng_socialize_msg_min">分钟前</string>
+    <string name="umeng_socialize_msg_sec">秒前</string>
+    <string name="umeng_socialize_near_At">最近@的好友</string>
+    <string name="umeng_socialize_network_break_alert">请连接网络后再尝试！</string>
+    <string name="umeng_socialize_send">发布</string>
+    <string name="umeng_socialize_send_btn_str">发送</string>
+    <string name="umeng_socialize_share">分享</string>
+    <string name="umeng_socialize_share_content">友盟社会化组件（SDK）让移动应用快速整合社交分享功能，我们简化了社交平台的接入，为开发者提供坚实的基础服务。（一）支持各大主流社交平台， （二）支持图片、文字、gif动图、音频、视频；@好友，关注官方微博等功能。 （三）提供详尽的后台用户社交行为分析。www.umeng.com/social</string>
+    <string name="umeng_socialize_text_add_custom_platform">请配置用户平台</string>
+    <string name="umeng_socialize_text_authorize">授权</string>
+    <string name="umeng_socialize_text_choose_account">选择已有帐号登录</string>
+    <string name="umeng_socialize_text_comment_hint">说点什么吧…</string>
+    <string name="umeng_socialize_text_douban_key">豆瓣网</string>
+    <string name="umeng_socialize_text_friend_list">好友列表</string>
+    <string name="umeng_socialize_text_laiwang_dynamic_key">来往动态</string>
+    <string name="umeng_socialize_text_laiwang_key">来往</string>
+    <string name="umeng_socialize_text_loading_message">载入中,请稍候...</string>
+    <string name="umeng_socialize_text_login_fail">登录失败了，请重试</string>
+    <string name="umeng_socialize_text_qq_key">QQ</string>
+    <string name="umeng_socialize_text_qq_zone_key">QQ空间</string>
+    <string name="umeng_socialize_text_renren_key">人人网</string>
+    <string name="umeng_socialize_text_sina_key">微博</string>
+    <string name="umeng_socialize_text_tencent_key">腾讯微博</string>
+    <string name="umeng_socialize_text_tencent_no_connection">无法连接到腾讯微博客户端</string>
+    <string name="umeng_socialize_text_tencent_no_install">未安装腾讯微博客户端</string>
+    <string name="umeng_socialize_text_tencent_oauth_login_fail">授权登录失败</string>
+    <string name="umeng_socialize_text_tencent_version_no_match">版本不匹配，SSO只对微博客户端V3.8.1及以上的版本提供支持</string>
+    <string name="umeng_socialize_text_ucenter">个人中心</string>
+    <string name="umeng_socialize_text_unauthorize">未授权</string>
+    <string name="umeng_socialize_text_visitor">游客</string>
+    <string name="umeng_socialize_text_waitting">请稍候...</string>
+    <string name="umeng_socialize_text_waitting_message">,请稍候...</string>
+    <string name="umeng_socialize_text_waitting_qq">跳转QQ中，请稍候...</string>
+    <string name="umeng_socialize_text_waitting_qzone">跳转QZone中，请稍候...</string>
+    <string name="umeng_socialize_text_waitting_redirect">跳转</string>
+    <string name="umeng_socialize_text_waitting_share">分享中…</string>
+    <string name="umeng_socialize_text_waitting_weixin">跳转微信中，请稍候...</string>
+    <string name="umeng_socialize_text_waitting_weixin_circle">跳转朋友圈中，请稍候...</string>
+    <string name="umeng_socialize_text_waitting_yixin">跳转易信中，请稍候...</string>
+    <string name="umeng_socialize_text_waitting_yixin_circle">跳转易信朋友圈中，请稍候...</string>
+    <string name="umeng_socialize_text_weixin_circle_key">微信朋友圈</string>
+    <string name="umeng_socialize_text_weixin_key">微信</string>
+    <string name="umeng_socialize_tip_blacklist">对不起，因为违反了用户协议您已被禁言.</string>
+    <string name="umeng_socialize_tip_loginfailed">登录失败…</string>
+    <string name="umeng_socialize_ucenter_login_title_guide">游客登录</string>
+    <string name="umeng_socialize_ucenter_login_title_platform">登录帐号</string>
+    <string name="upd_nickname_info">修改名字</string>
+    <string name="upd_profile_info">修改信息</string>
+    <string name="updemail">修改邮箱</string>
+    <string name="upgrade">升级</string>
+    <string name="upload_file_fail">资料上传失败</string>
+    <string name="upload_file_success">资料上传成功</string>
+    <string name="upload_head_image_fail">当前网络故障，头像保存失败！要不您等下再试？</string>
+    <string name="upload_head_image_success">头像设置成功</string>
+    <string name="username">E-mail</string>
+    <string name="vagerank_title">我的排名</string>
+    <string name="verification">提交验证</string>
+    <string name="verificationcode">请输入邮件中的验证码</string>
+    <string name="viewmore">加载更多...</string>
+    <string name="vow_button_can_not_do">我觉得我做不到</string>
+    <string name="vow_button_do">我，我一定会坚持下去的！</string>
+    <string name="vow_button_not_do">好难......不知道能不能坚持</string>
+    <string name="vow_content_list_four">小王：</string>
+    <string name="vow_content_list_one">老者：［孩子，你可要想好，改善睡眠是一个很难的事。］</string>
+    <string name="vow_content_list_three">老者：［其实也没有多难，关键是需要坚持30天啊。你要知道，xxxxxxx］</string>
+    <string name="vow_content_list_two">小王：［哦，那有多难呢］</string>
+    <string name="want_to_do">想要做</string>
+    <string name="weather_source">气象信息来源</string>
+    <string name="wechat">微信</string>
+    <string name="wechatFriend">朋友圈</string>
+    <string name="week">星期%s</string>
+    <string name="weibaohu">未保护</string>
+    <string name="weibo">活法儿微博</string>
+    <string name="welcome_little_boy_information_hint_title">首先告诉我您的信息</string>
+    <string name="welcome_little_boy_title_string">欢迎</string>
+    <string name="whatsymptom">我的%s有什么症状？</string>
+    <string name="who_yiji_text">给%s:</string>
+    <string name="write_evaluate">写评价</string>
+    <string name="wxpay_msg">使用kdtId:%1$s和orderNo:%2$s作为参数请求预支付信息，然后发起微信支付</string>
+    <string name="wxpay_title">调起微信支付</string>
+    <string name="xlistview_footer_hint_normal">加载更多</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+    <string name="xlistview_header_hint_loading">正在加载...</string>
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_header_last_time">上次更新时间：</string>
+    <string name="year">年</string>
+    <string name="yi" formatted="false">今日宜%s：%s -发自@活法儿 过日子http://m.huofar.com</string>
+    <string name="yijinews">宜忌信息</string>
+    <string name="you_tizhi_is">你的体质是</string>
+    <string name="yourtype">你是:%s</string>
+    <string name="zan_text_notification_detail_child_item"> &lt;b>%s&lt;/b> 为你点赞。</string>
+</resources>

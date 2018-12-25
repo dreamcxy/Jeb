@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="accept">Accept</string>
+    <string name="cast_ad_label">Ad</string>
+    <string name="cast_casting_to_device">Casting to %1$s</string>
+    <string name="cast_closed_captions">Closed captions</string>
+    <string name="cast_closed_captions_unavailable">Closed captions unavailable</string>
+    <string name="cast_disconnect">Disconnect</string>
+    <string name="cast_expanded_controller_ad_image_description">Image displayed while the cast receiver is playing an ad</string>
+    <string name="cast_expanded_controller_ad_in_progress">Ad in progress…</string>
+    <string name="cast_expanded_controller_background_image">Album art</string>
+    <string name="cast_expanded_controller_live_stream_indicator">Live stream</string>
+    <string name="cast_expanded_controller_loading">Loading…</string>
+    <string name="cast_expanded_controller_skip_ad_label">Skip</string>
+    <string name="cast_forward">Forward</string>
+    <string name="cast_forward_10">Forward ten seconds</string>
+    <string name="cast_forward_30">Forward thirty seconds</string>
+    <string name="cast_intro_overlay_button_text">@android:string/ok</string>
+    <string name="cast_mute">Mute</string>
+    <string name="cast_notification_connected_message">Connected to %1$s</string>
+    <string name="cast_notification_connecting_message">Connecting to %1$s</string>
+    <string name="cast_notification_disconnect">Disconnect</string>
+    <string name="cast_pause">Pause</string>
+    <string name="cast_play">Play</string>
+    <string name="cast_rewind">Rewind</string>
+    <string name="cast_rewind_10">Rewind ten seconds</string>
+    <string name="cast_rewind_30">Rewind thirty seconds</string>
+    <string name="cast_seek_bar">Playback seek control</string>
+    <string name="cast_skip_next">Skip to next item</string>
+    <string name="cast_skip_prev">Skip to previous item</string>
+    <string name="cast_stop">Stop</string>
+    <string name="cast_stop_live_stream">Stop live stream</string>
+    <string name="cast_tracks_chooser_dialog_audio">Audio</string>
+    <string name="cast_tracks_chooser_dialog_cancel">Cancel</string>
+    <string name="cast_tracks_chooser_dialog_closed_captions">Closed Captions</string>
+    <string name="cast_tracks_chooser_dialog_default_track_name">Track %1$d</string>
+    <string name="cast_tracks_chooser_dialog_no_audio_tracks">No Audio Tracks Available</string>
+    <string name="cast_tracks_chooser_dialog_no_text_tracks">No Text Tracks Available</string>
+    <string name="cast_tracks_chooser_dialog_none">None</string>
+    <string name="cast_tracks_chooser_dialog_ok">OK</string>
+    <string name="cast_tracks_chooser_dialog_subtitles">Subtitles</string>
+    <string name="cast_unmute">Unmute</string>
+    <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
+    <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_like_button_liked">Liked</string>
+    <string name="com_facebook_like_button_not_liked">Like</string>
+    <string name="com_facebook_loading">Loading…</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_loginview_log_in_button">Log in</string>
+    <string name="com_facebook_loginview_log_in_button_continue">Continue with Facebook</string>
+    <string name="com_facebook_loginview_log_in_button_long">Log in with Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="com_facebook_send_button_text">Send</string>
+    <string name="com_facebook_share_button_text">Share</string>
+    <string name="com_facebook_smart_device_instructions">To connect your account, open the Facebook app on your mobile device and check for notifications.</string>
+    <string name="com_facebook_smart_device_instructions_or">- OR -</string>
+    <string name="com_facebook_smart_login_confirmation_cancel">Not you?</string>
+    <string name="com_facebook_smart_login_confirmation_continue_as">Continue as %1$s</string>
+    <string name="com_facebook_smart_login_confirmation_title">Confirm Login</string>
+    <string name="com_facebook_tooltip_default">"You're in control - choose what info you want to share with apps."</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
+    <string name="create_calendar_title">Create calendar event</string>
+    <string name="debug_menu_ad_information">Ad Information</string>
+    <string name="debug_menu_creative_preview">Creative Preview</string>
+    <string name="debug_menu_title">Select a Debug Mode</string>
+    <string name="debug_menu_troubleshooting">Troubleshooting</string>
+    <string name="decline">Decline</string>
+    <string name="mr_button_content_description">Cast button</string>
+    <string name="mr_cast_button_connected">Cast button. Connected</string>
+    <string name="mr_cast_button_connecting">Cast button. Connecting</string>
+    <string name="mr_cast_button_disconnected">Cast button. Disconnected</string>
+    <string name="mr_chooser_searching">Finding devices</string>
+    <string name="mr_chooser_title">Cast to</string>
+    <string name="mr_controller_album_art">Album art</string>
+    <string name="mr_controller_casting_screen">Casting screen</string>
+    <string name="mr_controller_close_description">Close</string>
+    <string name="mr_controller_collapse_group">Collapse</string>
+    <string name="mr_controller_disconnect">Disconnect</string>
+    <string name="mr_controller_expand_group">Expand</string>
+    <string name="mr_controller_no_info_available">No info available</string>
+    <string name="mr_controller_no_media_selected">No media selected</string>
+    <string name="mr_controller_pause">Pause</string>
+    <string name="mr_controller_play">Play</string>
+    <string name="mr_controller_stop_casting">Stop casting</string>
+    <string name="mr_controller_volume_slider">Volume slider</string>
+    <string name="mr_media_route_button_content_description">Cast</string>
+    <string name="mr_media_route_chooser_searching">Searching for devices…</string>
+    <string name="mr_media_route_chooser_title">Connect to device</string>
+    <string name="mr_media_route_controller_disconnect">Disconnect</string>
+    <string name="mr_system_route_name">System</string>
+    <string name="mr_user_route_category_name">Devices</string>
+    <string name="place_autocomplete_clear_button">Clear search</string>
+    <string name="place_autocomplete_search_hint">Search</string>
+    <string name="search_menu_title">Search</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="store_picture_message">Allow Ad to store image in Picture gallery?</string>
+    <string name="store_picture_title">Save image</string>
+    <string name="wallet_buy_button_place_holder">Buy with Google</string>
+    <string name="about_follow_instagram">Follow us on Instagram</string>
+    <string name="about_get_more_apps">Get more apps from Pixlr</string>
+    <string name="about_legal_privacy_title">Legal/Privacy</string>
+    <string name="about_more_apps">More apps from Pixlr</string>
+    <string name="about_more_apps_url">http://pixlr.com/mobile</string>
+    <string name="about_pixlr_com_url">http://pixlr.com</string>
+    <string name="about_visit_pixlr_com">Visit pixlr.com</string>
+    <string name="add_a_description">Add a description</string>
+    <string name="adjustment">adjustment</string>
+    <string name="adjustment_adjustment">adjustment</string>
+    <string name="adjustment_autocontrast">auto contrast</string>
+    <string name="adjustment_autofix">autofix</string>
+    <string name="adjustment_blur">blur</string>
+    <string name="adjustment_colorsplash">splash</string>
+    <string name="adjustment_contrast">contrast</string>
+    <string name="adjustment_crop">crop</string>
+    <string name="adjustment_denoise">smooth</string>
+    <string name="adjustment_doubleexposure">double exposure</string>
+    <string name="adjustment_redeye">red eye</string>
+    <string name="adjustment_rotate">rotate</string>
+    <string name="adjustment_sharpen">sharpen</string>
+    <string name="adjustment_touchup">heal</string>
+    <string name="adjustment_vibrance">vibrance</string>
+    <string name="app_name">Pixlr</string>
+    <string name="authentication_failed">%s authentication failed.</string>
+    <string name="authentication_succeeded">%s authentication succeeded.</string>
+    <string name="blend_add">add</string>
+    <string name="blend_colorburn">color burn</string>
+    <string name="blend_colordodge">color dodge</string>
+    <string name="blend_darken">darken</string>
+    <string name="blend_difference">difference</string>
+    <string name="blend_hardlight">hard light</string>
+    <string name="blend_ligten">lighten</string>
+    <string name="blend_multiply">multiply</string>
+    <string name="blend_normal">normal</string>
+    <string name="blend_overlay">overlay</string>
+    <string name="blend_screen">screen</string>
+    <string name="blend_softlight">soft light</string>
+    <string name="border">borders</string>
+    <string name="borders">Borders</string>
+    <string name="brush_brighten">brighten</string>
+    <string name="brush_darken">darken</string>
+    <string name="brush_doodle">doodle</string>
+    <string name="brush_pixelate">pixelate</string>
+    <string name="brushes">brushes</string>
+    <string name="btn_pref">Preferences</string>
+    <string name="camera_retake">retake</string>
+    <string name="camera_use">use</string>
+    <string name="cast_introduction">Touch to edit your photo on TV</string>
+    <string name="check_network_connection">Please check network connection.</string>
+    <string name="check_network_connection_or_choose_smaller_size">Please check network connection or choose a smaller upload size.</string>
+    <string name="choose_size">Choose Size</string>
+    <string name="close_alert_message">All your current edits will be lost, and you will return to home screen.</string>
+    <string name="collage_close_alert">You have unsaved changes, do you want to exit and return to the previous screen?</string>
+    <string name="collage_gallery_no_items">No items.</string>
+    <string name="collage_next_alert">No further editing is possible once you finish. Do you wish to continue?</string>
+    <string name="collage_number_alert">Can not load more than %d photos.</string>
+    <string name="copy_native_library_failed">Not enough storage space. Please free up some space and try again.</string>
+    <string name="custom">Custom</string>
+    <string name="download_error">"Error downloading \"%1$s\" pack.
+
+%2$s"</string>
+    <string name="download_invalid">Please check network connection and available storage space.</string>
+    <string name="effect">effect</string>
+    <string name="effects">Effects</string>
+    <string name="effects_not_available">"No SD card.
+
+ Some effects may be unavailable."</string>
+    <string name="error">Error</string>
+    <string name="error_create_file">Cannot create the save file. Please make sure there is free storage space and the path is available to be written to.</string>
+    <string name="error_invalid_username_password">Incorrect username or password</string>
+    <string name="error_message">Failed to accomplish the operation.</string>
+    <string name="error_mkdir">Cannot create the save directory. Please make sure there is free storage space and the path is available to be written to.</string>
+    <string name="error_network_not_available">The Internet connection appears to be offline.</string>
+    <string name="error_no_images_added">Please add images first.</string>
+    <string name="error_out_of_memory">Application run out of memory. Please try smaller sizes to save.</string>
+    <string name="error_out_of_space">Whoops! Storage is full! Free up some space to access collage!</string>
+    <string name="error_save_image">Cannot save the image. Please make sure there is free storage space and the path is available to be written to.</string>
+    <string name="export">Share</string>
+    <string name="failed_to_post_on">Failed to post on %s.</string>
+    <string name="file_can_not_write">The folder chosen can not be written to. Please choose again.</string>
+    <string name="font">font</string>
+    <string name="general_account">Account</string>
+    <string name="general_log_in">Sign in</string>
+    <string name="general_log_out">Sign out</string>
+    <string name="general_no_network_connection">Please connect to the Internet to get the best out of Pixlr.</string>
+    <string name="googleplay_service_unavailable">Google Play service unavailable.</string>
+    <string name="high">High</string>
+    <string name="install_app">You need to install %s to be able to share.</string>
+    <string name="install_instagram_toast">Please install Instagram and try again</string>
+    <string name="label_amount">amount</string>
+    <string name="label_apply">apply</string>
+    <string name="label_background">background</string>
+    <string name="label_blur">blur</string>
+    <string name="label_brightness">brightness</string>
+    <string name="label_browse">browse</string>
+    <string name="label_brush">brush</string>
+    <string name="label_cancel">cancel</string>
+    <string name="label_cell">cell</string>
+    <string name="label_change">change</string>
+    <string name="label_collage">collage</string>
+    <string name="label_color">color</string>
+    <string name="label_color_boost">color boost</string>
+    <string name="label_contrast">contrast</string>
+    <string name="label_done">done</string>
+    <string name="label_edit">edit</string>
+    <string name="label_erase">erase</string>
+    <string name="label_erase_tool_name">eraser tool</string>
+    <string name="label_exposure">exposure</string>
+    <string name="label_facebook">Facebook</string>
+    <string name="label_favorite">favorites</string>
+    <string name="label_feather">feather</string>
+    <string name="label_flip">flip</string>
+    <string name="label_free">free</string>
+    <string name="label_glow">glow</string>
+    <string name="label_highlights">highlights</string>
+    <string name="label_horizontal_flip">horizontal</string>
+    <string name="label_hue">hue</string>
+    <string name="label_info">Info</string>
+    <string name="label_instagram">Instagram</string>
+    <string name="label_intensity">intensity</string>
+    <string name="label_layout">layout</string>
+    <string name="label_lightness">lightness</string>
+    <string name="label_linear">linear</string>
+    <string name="label_more">More</string>
+    <string name="label_next">next</string>
+    <string name="label_origin">original</string>
+    <string name="label_proportion">proportion</string>
+    <string name="label_radial">circular</string>
+    <string name="label_radius">radius</string>
+    <string name="label_replace">replace</string>
+    <string name="label_reset">reset</string>
+    <string name="label_revert">reset</string>
+    <string name="label_rotate">rotate</string>
+    <string name="label_saturation">saturation</string>
+    <string name="label_save">save</string>
+    <string name="label_save_image">Save Image</string>
+    <string name="label_shade">shade</string>
+    <string name="label_shadows">shadows</string>
+    <string name="label_shine">shine</string>
+    <string name="label_size">size</string>
+    <string name="label_spot">spot</string>
+    <string name="label_straighten">straighten</string>
+    <string name="label_temperature">temperature</string>
+    <string name="label_tint">tint</string>
+    <string name="label_tolerance">tolerance</string>
+    <string name="label_twitter">Twitter</string>
+    <string name="label_vertical_flip">vertical</string>
+    <string name="label_vibrance">vibrance</string>
+    <string name="loading">Loading…</string>
+    <string name="log_out_of">Log out of %s</string>
+    <string name="login_accountsetting">Account setting</string>
+    <string name="low">Low</string>
+    <string name="max">Max</string>
+    <string name="medium">Medium</string>
+    <string name="network_not_available">No network connection.</string>
+    <string name="no_camera_app">No camera application found. Your camera may be disabled.</string>
+    <string name="none">None</string>
+    <string name="not_photo_app">No application found to browse photos.</string>
+    <string name="open_error">Cannot open the image.</string>
+    <string name="overlay">overlay</string>
+    <string name="overlays">Overlays</string>
+    <string name="overwrite_alert_message">Do you want to overwrite the existing image?</string>
+    <string name="post">Post</string>
+    <string name="posting">Posting…</string>
+    <string name="purchased">Purchased</string>
+    <string name="remove_ads_button_text">Remove Ads</string>
+    <string name="remove_ads_tip">If you prefer to edit your photos in an ad-free environment, we offer the option to remove ads.</string>
+    <string name="save_error_unknown">Save failed for unknown reason. Please try smaller sizes to save.</string>
+    <string name="save_failed">Failed to save file</string>
+    <string name="save_message">Saving, please wait…</string>
+    <string name="save_share">Share</string>
+    <string name="save_size_keep_default">"Keep as default.
+Go to Settings to change default."</string>
+    <string name="save_success">"File saved as: "</string>
+    <string name="save_title">Save Image</string>
+    <string name="sd_card_not_found">SD card is not available.</string>
+    <string name="sdcard_not_available">Cannot save because SD card is not available.</string>
+    <string name="setting_about_title">About</string>
+    <string name="setting_account_title">Pixlr account</string>
+    <string name="setting_ads_title">Ads settings</string>
+    <string name="setting_ads_with_pixlr">Ads with Pixlr</string>
+    <string name="setting_camera_mode">Camera mode</string>
+    <string name="setting_camera_start_off">Start app in camera mode: No</string>
+    <string name="setting_camera_start_on">Start app in camera mode: Yes</string>
+    <string name="setting_camera_title">Camera settings</string>
+    <string name="setting_data_collection">Data collection settings</string>
+    <string name="setting_data_collection_summary">If the box is checked you have approved the collection of usage data. See Legal/Privacy for details.</string>
+    <string name="setting_data_collection_title">Approve data collection</string>
+    <string name="setting_follow_instagram">Follow Pixlr</string>
+    <string name="setting_save">Save settings</string>
+    <string name="setting_save_path_dialog_title">Choose Save Folder</string>
+    <string name="setting_save_path_summary">Set default save folder for saving image</string>
+    <string name="setting_save_path_title">Default save folder</string>
+    <string name="setting_save_path_unavailable_summary">Storage card unmounted</string>
+    <string name="setting_save_size_summary">Set default size for saving image</string>
+    <string name="setting_save_size_title">Default save size</string>
+    <string name="share_client_facebook_name">Facebook</string>
+    <string name="share_client_twitter_name">Twitter</string>
+    <string name="sharing_subject">Share from Pixlr</string>
+    <string name="sharing_text">\#pixlr</string>
+    <string name="signin_failed_message">Sign in failed. Please check network connection and try again.</string>
+    <string name="small">Small</string>
+    <string name="social_network_settings">Social network settings</string>
+    <string name="software_agreement_accept">I accept</string>
+    <string name="software_agreement_reject">I reject</string>
+    <string name="software_agreement_title">Software License Agreement</string>
+    <string name="software_eula">"By clicking I accept below, you acknowledge that you have read and agreed to the License and Services Agreement (LSA) for this app. The LSA can be found at the following link:
+
+ 
+"<a href="https://www.pixlr.com/software-license-agreements"> https://www.pixlr.com/software-license-agreements </a>" "</string>
+    <string name="software_eula_data_collection" />
+    <string name="startup_label_album">photos</string>
+    <string name="startup_label_camera">camera</string>
+    <string name="startup_label_collage">collage</string>
+    <string name="sticker">stickers</string>
+    <string name="stylize">stylize</string>
+    <string name="successfully_posted_on">Successfully posted on %s.</string>
+    <string name="text">type</string>
+    <string name="text_editor_hint">Start typing…</string>
+    <string name="tip_network_not_available">"No network connection.
+
+ With internet connection you have the option to download extra effects, fonts, etc."</string>
+    <string name="tip_update_facebook">Please update your Facebook application and try again.</string>
+    <string name="tips_color_aplash">Pick a color from the image to begin</string>
+    <string name="tips_connecting_stage_server">Now is connecting to stage server</string>
+    <string name="tips_debug_mode_on">Debug Mode is on</string>
+    <string name="tips_double_exp">Tap to add photo</string>
+    <string name="tips_original">original</string>
+    <string name="tips_red_eye">Tap the centre of each eye to remove redness</string>
+    <string name="tips_redo">redo</string>
+    <string name="tips_undo">undo</string>
+    <string name="tips_working">working…</string>
+    <string name="tools">tools</string>
+    <string name="tutorial_compare_toast">Long press at any time to compare the current effect to the original image.</string>
+    <string name="valid_between">Valid between</string>
+    <string name="version_number">Version Number: %1$s</string>
+    <string name="warn_may_out_of_space">Oh uh! It is almost running out of the storage space! Please Note: errors may occur during editing.</string>
+    <string name="why_ads_tip">We want to make sure you always have a great experience editing your photos with Pixlr, and ads help us do this while keeping Pixlr free for users like you. Learn more here.</string>
+    <string name="why_ads_tip_link">here</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="ads_with_pixlr">Ads with Pixlr</string>
+    <string name="app_id">155346004575672</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="cast_invalid_stream_duration_text">--:--</string>
+    <string name="cast_invalid_stream_position_text">--:--</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="click_here_to_sign_in">Click here to sign in</string>
+    <string name="com_mixpanel_android_close">Close</string>
+    <string name="com_mixpanel_android_done">Done</string>
+    <string name="com_mixpanel_android_exit">Exit</string>
+    <string name="com_mixpanel_android_logo">By Mixpanel</string>
+    <string name="com_mixpanel_android_next">Next question</string>
+    <string name="com_mixpanel_android_notification_image">Image not displayed</string>
+    <string name="com_mixpanel_android_previous">Previous question</string>
+    <string name="contest_ended">CONTEST ENDED</string>
+    <string name="contest_gallery">GALLERY</string>
+    <string name="default_web_client_id">433835659347-oah0jj8c2o4i21b6er718i7n372aan6j.apps.googleusercontent.com</string>
+    <string name="delete">Delete</string>
+    <string name="delete_image_message">Delete this submission?</string>
+    <string name="description">Description</string>
+    <string name="description_hint">Give your photo a nice caption!</string>
+    <string name="done">Done</string>
+    <string name="empty_description_message">You need to enter a caption to continue.</string>
+    <string name="empty_hashtag_message">You need to enter a hashtag to continue.</string>
+    <string name="feed_caption_made_with_pixlr">MADE WITH PIXLR</string>
+    <string name="feed_caption_pixlr_engage">Engage</string>
+    <string name="feed_grab_photo">Grab a Photo</string>
+    <string name="feed_join_instagram_challenge">Join our Instagram challenge</string>
+    <string name="feed_network_error_long">"Oops!
+No internet connection
+Please try again"</string>
+    <string name="feed_network_error_simple">No Internet Connection</string>
+    <string name="feed_network_retry">Retry</string>
+    <string name="firebase_database_url">https://pixlr-express.firebaseio.com</string>
+    <string name="ga_trackingId">UA-98443073-1</string>
+    <string name="gcm_defaultSenderId">433835659347</string>
+    <string name="general_profile">Profile</string>
+    <string name="google_api_key">AIzaSyCznQMum1wejdNH2FaGaYF_HLSt09w9pQo</string>
+    <string name="google_app_id">1:433835659347:android:5fed2448f0b8ae5c</string>
+    <string name="google_crash_reporting_api_key">AIzaSyCznQMum1wejdNH2FaGaYF_HLSt09w9pQo</string>
+    <string name="google_storage_bucket">pixlr-express.appspot.com</string>
+    <string name="hide">HIDE</string>
+    <string name="how_to_join">HOW TO JOIN</string>
+    <string name="join_now">Join Now</string>
+    <string name="keyword">Keyword</string>
+    <string name="keyword_hint"><font size="12">Hashtag your photo (separate hashtags with a comma)</font></string>
+    <string name="login">Login</string>
+    <string name="login_message">Please login to your Pixlr account to join this campaign.</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fringilla elit nisl, sit amet lacinia lacus ullamcorper vel. Proin vehicula scelerisque metus vel auctor. Donec velit neque, tempor at fermentum in, sagittis vitae augue. In quis dui ultricies, pellentesque metus quis, tincidunt mi. Mauris ut mauris et ligula dignissim consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fringilla elit nisl, sit amet lacinia lacus ullamcorper vel. Proin vehicula scelerisque metus vel auctor. Donec velit neque, tempor at fermentum in, sagittis vitae augue. In quis dui ultricies, pellentesque metus quis, tincidunt mi. Mauris ut mauris et ligula dignissim consequat.</string>
+    <string name="messenger_send_button_text">Send</string>
+    <string name="mr_controller_stop">Stop</string>
+    <string name="mr_media_route_controller_pause">Pause</string>
+    <string name="mr_media_route_controller_play">Play</string>
+    <string name="mr_media_route_controller_settings_description">Route settings</string>
+    <string name="mr_media_route_controller_stop">Stop casting</string>
+    <string name="my_gallery">MY GALLERY</string>
+    <string name="no_campaign_message">Whoops! There’s currently no ongoing campaign available/running in your country.</string>
+    <string name="no_submission_message">We have yet to receive submissions for this campaign. Be the first to enter and stand a chance to win the contest!</string>
+    <string name="no_user_submission_message">You have not submitted any photo for this contest.</string>
+    <string name="password_toggle_content_description">Toggle password visibility</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="period">Period: %s</string>
+    <string name="pixlr_engage">PIXLR ENGAGE</string>
+    <string name="report">Report</string>
+    <string name="report_image_message">Report this image as inappropriate or spam?</string>
+    <string name="save_process">:Save</string>
+    <string name="share">Share</string>
+    <string name="show_more">SHOW MORE</string>
+    <string name="signed_in_as">Signed in as %s</string>
+    <string name="software_about">" 
+
+"<b>Trademarks</b>" 
+
+Android, Google Play, and Google are registered trademarks or service marks of Google Inc. 
+
+All other brand names, product names or trademarks belong to their respective holders. 
+
+"<b>Third-Party Software Credits and Attributions</b>" 
+
+"<b>Lua 5.1.5</b>" 
+Copyright © 1994–2014 Lua.org, PUC-Rio. 
+http://www.lua.org/license.html 
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the Software), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: 
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. 
+
+THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. 
+
+"<b>ImageStack</b>" 
+https://code.google.com/p/imagestack 
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met: 
+1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer. 
+2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. 
+3. Neither the name of the software's copyright holders nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission. 
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS \"AS IS\" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, 
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. 
+
+"<b>Android Asynchronous Http Client</b>" 
+http://loopj.com/android-async-http/ 
+
+"<b>Facebook SDK for Android 3.23.0</b>" 
+Copyright 2010-present Facebook. 
+https://developers.facebook.com/android 
+
+"<b>Google Play Services Library 6.5.87</b>" 
+Copyright (C) 2013 The Android Open Source Project 
+
+Licensed under the Apache License, Version 2.0 (the \"License\"); you may not use this file except in compliance with the License. You may obtain a copy of the License at 
+
+http://www.apache.org/licenses/LICENSE-2.0 
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the license for the specific language governing permissions and limitations under the License. 
+
+"<b>MoPub SDK for Android 3.7.0</b>" 
+http://www.mopub.com/legal/sdk-license-agreement 
+
+"<b>Software License and Services Agreement</b>" 
+https://pixlr.com/software-license-agreements 
+
+"<b>Privacy Statement</b>" 
+https://pixlr.com/privacy-policy "</string>
+    <string name="software_about_data_collection">" 
+
+"<b>PRIVACY STATEMENT</b>"
+ Pixlr respects every user's privacy hence this Privacy Statement is created to govern the Personal Information provided by our users. By using our products, online services and web services, and apps (online, mobile and desktop), you understand and agree to be bound by this Privacy Statement. Please note that this Privacy Statement may be amended from time to time; therefore, do visit pixlr.com regularly to review the Privacy Statement.
+
+ "<b>Collection of Personal Information</b>"
+
+ When you register with us, we ask for your personal or company's details. Once you register and sign in to our services, you are not anonymous to us. We use the information provided to enhance your online user experience and to contact you about our specials and new products. The information we collect may be shared (with your consent upon registration) with our subsidiaries and affiliates for similar purposes.
+
+ The following are information that we may collect from you:
+ \u0009\u0009Contact information
+ \u0009\u0009Billing information
+
+ The Personal Information requested by us may be mandatory or voluntary, subject to the activity. In the event you do not provide us the mandatory Personal Information for a particular activity, we may be unable to engage you in such activity.
+
+ "<b>Purpose of Personal Information</b>"
+
+ We collect your Personal Information to enhance your online user experience by recording and facilitating your participation in the activities. We may use your Personal Information for the following purposes:-
+ \u0009Process the financial transaction
+ \u0009Inform you about our latest activities
+ \u0009Administer your account
+ \u0009Conduct research and analysis
+ \u0009Assess the need of your business to determine suitable products
+ \u0009Send you requested product or service information
+ \u0009Respond to customer service request
+ \u0009Administer contests you entered, and notify you if you have won
+ \u0009Respond to your questions and concerns
+ \u0009Improve on website and marketing efforts
+
+ "<b>Cookies and Other Tracking Technologies</b>"
+
+ By using pixlr.com you understand that all information collected from your registration will be collected indefinitely; and may be stored and used in jurisdiction whose privacy laws may be different and less protective than those of your home jurisdiction.
+   When you visit pixlr.com we place a small text file called a cookie in your computer hard disk. This file allows us to provide you with more conveniences and enhance your online user experience. Most browsers allow you to reject cookies; but if you do so, certain webpages may not display properly.
+ Pixlr.com will not send you unsolicited emails except for site wide announcements, or specific notifications that are delivered directly to your account. You may also choose to receive or not to receive monthly newsletters during your initial registration or by updating your contact preferences in your Personal Information page at any time after registration.
+
+ "<b>Disclosure to Third Parties</b>"
+
+ We will share your Personal Information to third parties only in the ways that are described in this Privacy Statement.
+ We may provide limited Personal Information to third parties that are appointed by us to assist us with our business activities such as shipping your order or offering customer service. These third parties are only authorized to use your Personal Information as necessary to provide the relevant services to us. We will never sell your Personal Information to any third party. We reserves the right to disclose your Personal Information if required to do so by law, regulation, authority, court orders, any other legal processes or in the good faith belief that such action is reasonably necessary to comply with legal process, respond to claims, or protect the rights, property or safety of our company, employees, customers, or the public.
+
+ "<b>Access to and Updating Your Personal Information</b>"
+
+ You have the right to access to your Personal Information and amend your Personal Information at any time. This may be carried out by logging into your account at pixlr.com.
+
+ "<b>Retention Personal Information</b>"
+
+ We will maintain your Personal Information as long as it may be required by us to provide you our services and/or as necessary to comply with our legal obligations and to resolves any disputes.
+
+ "<b>Protection of Personal Information</b>"
+
+ The security of your Personal Information is important to us. We follow generally accepted industry standards to protect the Personal Information submitted to us, both during transmission and once received. No method of transmission over the Internet or method of electronic storage is 100% secure. Therefore, we cannot guarantee its absolute security. If you have any question about the security on pixlr.com you can contact us at pixlr_itsupport@123rf.com.
+
+ "<b>Interactive Services</b>"
+
+ We may provide interactive services by creating a platform in which you or third parties may interact with us by posting contents, messages, comments or any other items on these platforms. If you use our interactive services, do be mindful that any information you post to a public platform is available to be accessed by all persons accessing the same.
+
+ "<b>Contact Information</b>"
+
+ If you have any queries/complaints in respect of your Personal Information, kindly contact us in writing or via e-mail at the address below:
+
+ 123RF Limited
+ Unit 1109, 11/F., Kowloon Centre,
+ 33 Ashley Road, Tsim Sha Tsui,
+ Kowloon, Hong Kong
+ E-mail: pixlr_itsupport@123rf.com
+
+ THIS DOCUMENT WAS ORIGINALLY COMPOSED IN ENGLISH AND WAS SUBSEQUENTLY TRANSLATED INTO OTHER LANGUAGES. THE FIDELITY OF SUBSEQUENT TRANSLATIONS CANNOT BE GUARANTEED. IN CASE OF CONFLICT BETWEEN THE ENGLISH VERSION AND ANOTHER LANGUAGE VERSION, THE ENGLISH VERSION TAKES PRECEDENCE.
+ "</string>
+    <string name="software_about_title">© 2017 123RF, Inc. All rights reserved.</string>
+    <string name="software_about_title_data_collection">" 
+
+"<b>PLEASE SEE PRIVACY STATEMENT AT END OF THIS ABOUT SECTION.</b>" "</string>
+    <string name="submission_intent">Submission intent</string>
+    <string name="submission_intent_message">Ready to submit?</string>
+    <string name="submit">Submit</string>
+    <string name="submit_yout_picture">SUBMIT YOUR PICTURE</string>
+    <string name="success_message">Thank you for participating!</string>
+    <string name="success_title">Submission successful</string>
+    <string name="tagmanager_preview_dialog_button">Continue</string>
+    <string name="tagmanager_preview_dialog_message">Preview mode updated.</string>
+    <string name="tagmanager_preview_dialog_title">Preview</string>
+    <string name="the_winner">THE WINNER</string>
+    <string name="turn_on_location_service">Turn on location service</string>
+    <string name="turn_on_location_service_message">You have yet to enable “location service” for Pixlr. Please allow Pixlr to access your location data.</string>
+</resources>

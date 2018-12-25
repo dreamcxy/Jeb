@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_install_text_phone">"This app won't run without Google Play services, which are missing from your phone."</string>
+    <string name="common_google_play_services_install_text_tablet">"This app won't run without Google Play services, which are missing from your tablet."</string>
+    <string name="common_google_play_services_install_button">Get Google Play services</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_enable_text">"This app won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_button">Enable Google Play services</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_update_text">"This app won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_network_error_title">Network Error</string>
+    <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
+    <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
+    <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
+    <string name="common_google_play_services_unknown_issue">Unknown issue with Google Play services.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string name="common_google_play_services_unsupported_text">Google Play services, which some of your applications rely on, is not supported by your device. Please contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="auth_client_using_bad_version_title">An application attempted to use a bad version of Google Play Services.</string>
+    <string name="auth_client_needs_enabling_title">An application requires Google Play Services to be enabled.</string>
+    <string name="auth_client_needs_installation_title">An application requires installation of Google Play Services.</string>
+    <string name="auth_client_needs_update_title">An application requires an update for Google Play Services.</string>
+    <string name="auth_client_play_services_err_notification_msg">Google Play services error</string>
+    <string name="auth_client_requested_by_msg">Requested by %1$s</string>
+    <string name="app_name">中國醫點通</string>
+    <string name="action_settings">Settings</string>
+    <string name="DateStr">Date</string>
+    <string name="WeekStr">Week</string>
+    <string name="TimeStr">Time</string>
+    <string name="RegSystextStr">"就診
+服務"</string>
+    <string name="HosInfotextStr">"醫院
+資訊"</string>
+    <string name="NewInfotextStr">"最新
+消息"</string>
+    <string name="EasyServicetextStr">"便利
+服務"</string>
+    <string name="HelpertextStr">"我的
+小幫手"</string>
+    <string name="MyHealthtextStr">"我的
+衛教"</string>
+    <string name="MedicationtextStr">"用藥
+管理"</string>
+    <string name="MemberLogin">會員登入</string>
+    <string name="RegisterSystem">就診服務</string>
+    <string name="NewInfo">最新消息</string>
+    <string name="HospitalInfo">醫院資訊</string>
+    <string name="Service">便利服務</string>
+    <string name="Helper">我的小幫手</string>
+    <string name="HealthEducation">我的衛教</string>
+    <string name="MedicationManager">用藥管理</string>
+    <string name="MarqueeTextStr">中國醫藥大學附設醫院</string>
+    <string name="WarningMessageTitle">警告訊息</string>
+    <string name="ProgressAuthorizationMessage">驗證中，請稍候...</string>
+    <string name="CheckMyNotificationMessage">我的訊息檢查中，請稍候...</string>
+    <string name="ModifyFailMessage">密碼變更失敗，請重新確認！</string>
+    <string name="ModifySuccessMessage">密碼變更成功，請用新密碼登入！</string>
+    <string name="ModifyRepeatMessage">新密碼與舊密碼不可重複，請用換一組新密碼進行修改！</string>
+    <string name="EmptyFieldMessage">輸入欄位內容不可為空白</string>
+    <string name="NewMemberAccountFieldMessage">帳號欄位內容不可為空白</string>
+    <string name="NewMemberNameFieldMessage">姓名欄位內容不可為空白</string>
+    <string name="NewMemberBirthDayFieldMessage">生日欄位內容不可為空白</string>
+    <string name="NewMemberEmailFieldMessage">Email欄位內容不可空白</string>
+    <string name="NewMemberCorrectEmailFieldMessage">請輸入正確的Email格式或手機號碼</string>
+    <string name="AppRegisterMessage">會員帳號密碼建立中...</string>
+    <string name="CreateNewMemberSuccessMessage">帳號建立成功，請等待訊息通知，利用收到的隨機密碼進行登入</string>
+    <string name="CreateNewMemberSuccessPushNotifyFailMessage">帳號建立成功，但無法發送密碼通知訊息，請確認連上網路後重啟APP，並使用忘記密碼功能重發密碼通知訊息</string>
+    <string name="CreateNewMemberFailAccountMessage">帳號建立失敗，請輸入正確的帳號及生日，並確認此資料為本院病人</string>
+    <string name="CreateNewMemberRepeatAcountMessage">帳號建立失敗，此帳號已註冊為會員，請直接使用帳號密碼進行登入即可</string>
+    <string name="SendForgottenPasswordMessage">比對會員帳號及相關資料...</string>
+    <string name="PushForgottenPasswordSuccessMessage">帳號資料正確，請等待訊息通知，利用收到的密碼進行登入</string>
+    <string name="PushForgottenPasswordFailMessage">無法發送密碼通知訊息，請確認連上網路後重啟APP，再使用忘記密碼功能重發密碼通知訊息</string>
+    <string name="PushForgottenPasswordDataFailMessage">帳號及資料錯誤，請輸入正確的帳號、生日及Email</string>
+    <string name="ExitappMessage">是否確定離開掛號系統？</string>
+    <string name="NoInternetMessage">無網路連線功能，請至設定選項中開啓！</string>
+    <string name="ConfirmTitle">訊息視窗</string>
+    <string name="ConfirmOK">確定</string>
+    <string name="ConfirmCancel">取消</string>
+    <string name="Close">關閉</string>
+    <string name="GeneralUserStr">一般民眾</string>
+    <string name="MemberUserStr">會員登入</string>
+    <string name="AccountStr">帳號:</string>
+    <string name="PasswordStr">密碼:</string>
+    <string name="AccountHintStr">身分證號</string>
+    <string name="NameHintStr">姓名</string>
+    <string name="BirthdayHintStr">出生年月日</string>
+    <string name="EmailHintStr">Email或手機號碼</string>
+    <string name="PasswordHintStr">會員密碼</string>
+    <string name="NewAccountHintStr">身分證</string>
+    <string name="ForgottenAccountHintStr">身分證</string>
+    <string name="AlertDialogLoginTitle">會員登入</string>
+    <string name="backBtnStr">返回</string>
+    <string name="server_registering">Trying (attempt %1$d/%2$d) to register device on Demo Server.</string>
+    <string name="server_registered">From Demo Server: successfully added device!</string>
+    <string name="server_unregistered">From Demo Server: successfully removed device!</string>
+    <string name="server_register_error">Could not register device on Demo Server after %1$d attempts.</string>
+    <string name="server_unregister_error">Could not unregister device on Demo Server (%1$s).</string>
+    <string name="gcm_message">From GCM: you got message!</string>
+    <string name="gcm_deleted">From GCM: server deleted %1$d pending messages!</string>
+    <string name="gcm_error">From GCM: error (%1$s).</string>
+    <string name="gcm_recoverable_error">From GCM: recoverable error (%1$s).</string>
+    <string name="gcm_registered">From GCM: device successfully registered!</string>
+    <string name="gcm_unregistered">From GCM: device successfully unregistered!</string>
+    <string name="RecoderStr">記住帳號密碼</string>
+    <string name="Message">訊息通知</string>
+    <string name="AuthoverTimeMessage">帳號使用逾六個月，請修改帳號密碼，謝謝！</string>
+    <string name="NextStep">下一步</string>
+    <string name="AuthErrorMessage">帳號密碼驗證失敗，請確認後重新輸入</string>
+    <string name="ErrorMessage">錯誤訊息</string>
+    <string name="NoTokenIDMessage">無法取得APP必要資訊，請將手機連上網路並重新啟動APP，以免登入會員時產生錯誤</string>
+    <string name="UseNetworkMessage">請先啓用您的網路連線功能</string>
+    <string name="logoutMessage">您是否確定要登出？</string>
+    <string name="joinMemberMessage">您是否確定要加入會員？</string>
+    <string name="ModifyPasswordHintStr">請輸入您的新密碼</string>
+    <string name="ModifyPasswordRepeatHintStr">請再次輸入新密碼</string>
+    <string name="ModifyAccountHintStr">請輸入您的會員帳號</string>
+    <string name="AuthoverTimeDialogTitle">密碼逾期修改</string>
+    <string name="ModifyCancel">取消修改</string>
+    <string name="ModifyPasswordEmptyMessage">密碼欄位不能空白，請您重新輸入！</string>
+    <string name="ModifyPasswordOverLengthMessage">密碼長度最多只能8碼，請您重新輸入！</string>
+    <string name="ModifyPasswordDifferentRepaetMessage">兩次輸入密碼欄位必須相同，請您重新輸入！</string>
+    <string name="ProgressModifyMessage">帳號密碼修改中...</string>
+    <string name="TootbarTitle">標題</string>
+    <string name="Member">會員</string>
+    <string name="General">一般民眾</string>
+    <string name="telephoneCallTitle">快速語音及人工掛號</string>
+    <string name="VoiceSectionbarStr">電話語音掛號</string>
+    <string name="ArtificialSectionbarStr">電話人工掛號</string>
+    <string name="ArtificialRegText">人工掛號</string>
+    <string name="VoiceRegText">電話語音掛號</string>
+    <string name="chairmanleftSectionDescription">本院為中國醫藥大學附設醫院，提供優異的醫療服務、臨床教學及研究發展，致力中醫藥現代化，並持續與形象良好且認同本院經營理念的醫療院所結盟，全力建構「中國醫療體系網」，實踐「以病人為中心」的醫療使命。</string>
+    <string name="chairmanbottomSectionDescription">"在全體董事的支持、歷任院長的帶領和全體同仁的努力下，建立穩固的基礎並逐年發展，陸續成立世界級整合醫療中心及研究中心。董事會亦擘劃發展願景，朝「國際一流中、西醫學中心」及「全球聞名的高科技生醫園區」目標邁進。
+ 我們努力的方向有：
+一、全面提升醫療服務品質。
+二、發展全人醫學教育，培育優秀人才。
+三、結合大學資源，致力本土化及優質化研究。
+四、持續提升員工福利，創造優質的工作環境。
+五、推動社區預防醫學、防疫、健康城市之醫療政策。
+六、面對高齡化社會，發展長期照護和老人醫學，提高老人照護品質。
+七、發展生醫產業，從事關係人類健康福祉的研究發展。
+
+「企業社會責任」是機構永續經營的基礎，「傳承醫學智慧與結晶、深入本土性疾病研究、提供最高品質的醫療服務」是我們的基本社會責任，秉持「取之社會、用之社會」的回饋理念，以「作育英才、救人於溺」為回饋社會的志業，進而因應人類更多的需求，為全世界服務，讓台灣人引以為榮。
+展望未來，本院將持續以「健康、關懷、創新、卓越」的精神，秉持「以員工為重、以病患為尊、以醫院為榮」的核心價值，塑造「和諧、關懷、有愛心、有向心力、有企圖心、追求卓越、有效率且有藝術氣息」的醫院文化，提供最好的「服務、教學、研究」，實現「國際一流中、西醫學中心」及「全球聞名的高科技生醫園區」的願景。"</string>
+    <string name="deanleftSectionDescription">101年中國醫藥大學躋身上海交通大學統計之世界500大，且臨床醫學領域進入世界200強。中國醫藥大學附設醫院隨著學校進步的腳步邁進，在臨床、教學及研究方面，仍將以國際水準的目標而努力。</string>
+    <string name="deanbottomSectionDescription">臨床方面，持續秉持著以病人為中心之理念，期望能努力成為臺灣梅約之精神標竿醫院，以急重難症為醫院服務發展之主軸，除積極投入龐大資源於器官移植、癌症、腦中風、外傷急症、重建整型及心臟血管等方面外，專家學者亦皆是國內外一時之選。而為使病人有良好的預後，更不惜重金引進微創手術、內視鏡手術、達文西機器手臂等先進技術與儀器，在大腸直腸、泌尿、心臟外科、婦癌手術、神經外科、骨科、消化系等各科努力推展下，已使本院成為臺灣微創手術之重鎮。101年雖有幸榮獲遠見雜誌評比醫療服務類醫學中心首獎，但我們在醫療品質方面仍需要再精進。以病人為中心就是隨時隨地要以病人的利益、安全做最大考量。另一方面，為了提升醫療服務效能，將徹底實施醫療作業電子化，包括電子病歷、無紙化進程及醫療照護及品質監測電子化系統。在教學方面，除了落實各層級醫療人員教育課程外，更加強員工服務之教育內容，並將學習課程改版為混成式電子教學課程，此最先進之教學系統目前已廣為各科採用。而教學型主治醫師制度的實施使教學更專業化與精緻化。在研究發展上，與學校共同合作，持續重點發展幹細胞、中草藥、轉譯醫學研究及生醫產業，並仍致力於產學合作及高水準之論文研究，期待早日進入世界400大之行列。秉持對社會人類之良知，持續發展大學附設醫院之角色，將服務、教學與研究發揮到極致，以改善國人健康照護品質及提升其健康福祉。</string>
+    <string name="AnnanchairmanleftSectionDescription">"建立有特色、「以病人為中心」的一流醫院
+中國醫藥大學很榮幸於2010年取得臺南市立安南醫院的興建經營權，感謝臺南市政府的支持，對臺南市安南區的居民們來說，擁有一家大型醫院是期待已久的夢想。"</string>
+    <string name="AnnanchairmanbottomSectionDescription">"中國醫藥大學秉持教育和醫療的使命，致力於教學、研究及醫療服務，今年榮登上海交通大學公布的世界大學學術排名前500大，臨床醫學與藥學的學科領域也名列世界前200大；附設醫院則以行動落實「以病人為中心」的醫療服務，榮獲《遠見》雜誌舉辦的「傑出服務獎」醫療院所類第1名。
+中國醫藥大學暨醫療體系擁有經驗豐富的經營團隊，近幾年陸續成立世界級的醫療中心和研究中心，並與國外頂尖大學或醫學中心合作，擁有高品質的醫療服務與研究水準，尤其在心肌梗塞、腦中風、重大外傷和重大疾病如癌症方面的救治能力已達國際水準。因此，安南醫院營運初期的發展重點放在「急重症醫療」，是「救腦、救心、救命」的醫院，並將持續增加服務科別及服務內容，讓臺南地區民眾能就近享有國際水準且完善的醫療服務。
+我們也將善盡企業社會責任，培養優秀人才與深入本土疾病的研究，在醫療服務、教學、研究方面，與臺南醫學界密切合作，提升大臺南地區的的醫療服務品質，並提供年輕人理想的就業環境，照顧安南地區的弱勢族群，希望也能促進安南地區的經濟繁榮。
+展望未來，安南醫院將與中國醫藥大學暨醫療體系密切合作，建設為高水準、高效率、高品質的全方位醫院，發展特色醫療，邁向世界級的醫療水準，期能在5年內通過為區域級教學醫院，發展成有特色、「以病人為中心」的一流醫院，必不辜負臺南市民眾對我們的期盼。"</string>
+    <string name="AsiaUniversitychairmanleftSectionDescription">本校之辦學宗旨為遵循世界衛生組織積極推動「全民生理、心理與社會健康」之理念，配合國家衛生政策規劃、健康產業發展、醫療衛生機構管理之需求，培養優秀健康照護人才，滿足國人從幼到老不斷高漲的健康照護需求。</string>
+    <string name="AsiaUniversitychairmanbottomSectionDescription">而本校為台灣中部地區唯一設有健康產業管理研究所博士班，也是唯一設有長期照護研究所碩士班之大學，並有社工系之健康促進照護與心理系之諮商與臨床等特色學程，103學年更招收護理學系，培育醫療照護專業人才，彌補當今護理人力嚴重不足，並針對國家社會與學校師生教育之需求，因此規劃設立附屬醫院，提供本校學生更多元實習場所，提升在中部地區民眾健康照護之水準。</string>
+    <string name="ChildchairmanleftSectionDescription">"「中國醫藥大學兒童醫院」提供優異的兒童醫療服務、臨床教學及研究發展。
+　　兒科醫療一直是我們的發展重點，除了不斷擴充兒童病房及充實醫療設備之外，也積極培養優秀的兒童醫療人才，"</string>
+    <string name="ChildchairmanbottomSectionDescription">"並努力提升教學與研究水準，在不斷求新、求變、求進下，目前兒童醫院團隊陣容堅強，已具備國際級的醫療水準，提供兒童一個優異的醫療環境。
+　　衛福部鼓勵設立兒童醫院後，我們就一直希望能建立一座專為兒童與青少年量身打造的兒童醫院，建立優異而完整的兒童醫療保護網，以創新的思維營造生動活潑的氣氛，讓孩子們在就醫時，有專屬自己的獨立空間，享受最貼心且完善的醫療照護。
+　　秉持著這樣的信念，我們積極籌設中國醫藥大學兒童醫院的成立，整合照顧兒童病患的人力與資源，納入所有與兒童相關的科別，包括兒童內、外科醫師、護理人員及與兒童醫療相關之人員，提供完整的兒童醫療照護及預防保健研究，以及幫助弱勢孩童的健康照護等，發展高科技醫療水準的兒童醫院。
+　　「企業社會責任」是機構永續經營的基礎，「傳承醫學智慧與結晶、深入本土性疾病研究、提供最高品質的醫療服務」是我們的基本社會責任，秉持「取之社會、用之社會」的回饋理念，我們以最好的兒童醫療服務作為回饋社會的志業。
+　　展望未來，我們也將以「健康、關懷、創新、卓越」的精神，秉持「以員工為重、以病患為尊、以醫院為榮」的核心價值，塑造「和諧、關懷、有愛心、有向心力、有企圖心、追求卓越、有效率且有藝術氣息』的兒童醫院文化，以發展成為「國際一流的兒童醫院」為願景。"</string>
+    <string name="AnnandeanleftSectionDescription" />
+    <string name="AnnandeanbottomSectionDescription">"本院是南台灣第一座BOT案(即公共建設委由民間興建營運後轉移)，接受台南市政府委託，在蔡長海董事長高瞻遠矚的創院精神支持下，不惜花費鉅資，興建第一期兩棟高水準黃金綠建築規格的醫療大樓，於民國102年2月2日正式營運，今年更展開第二期第三醫療大樓之興建。
+在第一任院長林欣榮教授帶領下，成立初期的短程目標，以「發展急重症醫療」、「救腦、救心、救命」及「人文關懷」為主旨，兩年內已經通過中度急救責任醫院，也通過地區教學醫院的評鑑。
+在全體同仁的努力下，營運不到三年的時間，達成開設急性一般病床339床(含急性精神病床40床)、加護病床20床的目標，今年更榮獲區域醫院評鑑優等、金擘獎民間機構唯一特優獎、友善建築特優獎，以及在雲嘉南地區唯一通過美國JCI國際醫療評鑑，加上我們經營不錯的護理之家及產後護理之家，本院已經成為優質的社區醫院。
+目前本院的醫療服務，從簡單的門診服務，到複雜且需要高度專業醫師的開腦手術、脊椎手術及開心手術，都已經達到相當的水準，開心手術已經超過百例，顯見對大部分的醫療需求，本院優秀的醫療團隊都足以勝任，做的相當不錯。我們認為不管醫院的規模，只要服務及技術是一流的，就是對民眾最好的服務。
+然而病人安全及醫療品質，沒有最好，只有更好，我們只有不斷的努力才能更上層樓。我希望能，進一步以「專業、效率、團隊」為主軸，提昇「以病人為中心」的醫療水準，期能達到具有醫學中心等級的診療。尊重專業、提升專業，給予病人最正確、最先進的治療，是病人的福氣，也是我們的責任。只有提升效率，才能使病人治療流程順暢而不會延遲。此外，院內團隊必須整合，才能使病人得到全方位整合性的全人照護。我們不但要贏的病人的信賴，也要贏得同儕的肯定。再者，與附近大小醫院的合作，更是我將持續加強努力的目標，這不僅是我們對台南市政府的承諾，也是我們的責任，也符合我們的創院宗旨，即「促進大台南民眾健康基本人權」。
+我們中國醫藥大學暨醫療體系堅持的，即是保有優秀的醫療人才，才能持續保有我們的優勢。所以，本人將盡一切力量，網羅優秀人才，進到我們的醫療團隊服務。我也誠心希望能做到「醫療在地化及醫師在地化」。也希望在決策上，充分加入員工及病人的意見，在最短的時間內，使醫院服務達到區域教學醫院層級，做到醫學中心等級的品質與服務。
+當然，這些都要院內所有員工的團隊合作，市政府及外界的支持，以及病人的肯定才能夠達成，希望大家一起努力，共創美好未來"</string>
+    <string name="AsiaUniversitydeanleftSectionDescription">"補足社區醫療資源不足
+霧峰地區屬大台中市地區醫療資源分布較不足的區域，包括鄰近烏日區、南投縣草屯、竹山、彰化芬園等區域，並無區域級大型醫院，內、外、婦、兒科、24小時急診及加護病房，均嚴重不足。亞洲大學為霧峰在地大學，期盼能改善醫資源長期不足問題。"</string>
+    <string name="AsiaUniversitydeanbottomSectionDescription">"完善社區老人福利政策
+老人醫學是未來社區醫療照護主流，本院附設醫療照護園區完成後，可提供老人醫療照護，並以公益服務社會，減輕家庭照顧負擔。同時將與中部各醫學中心，包括中國醫藥大學附設醫院、中山醫學大學附設醫院、彰化基督教醫院等合作，建立轉診制度，緩解求醫冗長的等待時間與病床不足問題。
+
+採資源整合策略，提供便利的醫療照護
+本院籌設醫療照護園區，主要考量附近民眾及護理之家住民之門診就醫與住院後送之便利性。包括內科、家醫科、新陳代謝科、神經內科、心臟內科、骨科、復健科、中醫等，均為老人醫學範疇，同時本院可獲得中部各醫學中心醫療團隊支援，也提供教學、研究及服務整合，為附近居民提供更完善的醫療照護。
+
+以復健為基礎的醫療照護園區，提高民眾生活功能與品質
+醫療照護園區將有完善的復健醫療人員和設備，協助病人身體功能復健、營養狀況調整與認知功能回復，促進病人最佳生活功能狀態，避免生活失能，維持健康生活品質，活得更有尊嚴與意義。
+
+配合政府推展醫療照護計畫
+配合政府「在地老化」施政理念，本院照護機構整合計畫將以學術專業服務社區，建置社區化醫療長期照護體系，充實社區照護資源，提供醫療與長期照護銜接的連續服務，並培育專業人力，提升服務品質。
+
+培育醫療照護產業管理及服務之人才
+藉由醫療照護園區，提供學生實習培養就業所需核心臨床能力，增加學生就業機會，發展高附加價值醫療照護產業。"</string>
+    <string name="BeigangdeanleftSectionDescription">"中國醫藥大學北港附設醫院（北港媽祖醫院）成立已滿三十年，正值青壯年時期，歷經過去萌芽和成長的階段，成為區域教學醫院。
+
+"</string>
+    <string name="BeigangdeanbottomSectionDescription">"目前各醫療科服務齊全，包括急重症及中、西醫學都相當完備，不僅守護北港沿海地區居民的生命安全與健康，也是中國醫藥大學醫學生、護理及醫技師之教學醫院，培養許多優秀人才。感恩中國醫藥大學及董事會的支持，以及過去北港附設醫院院長和所有同仁的努力，讓醫院不斷的成長和茁壯，更感恩雲林沿海居民長期的愛護與支持。
+
+錫金自上任以來，深刻發覺醫療的可近性與可靠性是非常重要的，尤其在北港地處偏鄉、人口嚴重老化的環境下，更要深入社區、與鄰近友院及醫療群相互合作建構區域醫療網。而北港附設醫院在台中校本部趙坤山副校長的指導之下，設立直線加速器，令癌症患者可就近治療，也將會是一大福音。
+
+面對現今多變的醫療環境，吾認為醫院不能夠墨守成規，要變的更快才能因應更多的挑戰，因此必須加強微創手術、無痛手術、心導管治療、中西醫合療及各項特色醫療，重視醫療品質及病人安全，唯一不變的是「優質醫療服務」及「友善醫院」的精神。我們稟承「救腦、救心、救命」的優良傳統，建立更完善的老人醫療服務，並期許成為雲林沿海鄉親最信賴的醫療支柱。
+
+執行力是進步的關鍵，院內所有員工皆是醫院最重要的資產，未來首要改善員工居住及休憩空間，希望能打造一個愉悅、友善的工作環境，提升各單位執行力。更要強化團隊合作、塑造確實執行的文化，期許與北港附設醫院的所有同仁齊心並進、再創佳績！"</string>
+    <string name="TaipeideanleftSectionDescription">各位鄉親，您好，中國醫藥大學附設醫院臺北分院，即日起將在內湖路二段360號為您服務。</string>
+    <string name="TaipeideanbottomSectionDescription">"中國醫藥大學附設醫院長期以來深受社會與民眾的肯定與信任，臺北分院將延續台中總院”以病人為尊”的原則，保有中西醫兼顧的特色，並有一群擁有醫學中心訓練背景的專任主治醫師群，和具有全國知名度的醫師駐診，提供醫學中心及的醫療設備和技術，來服務社區大眾。
+
+與此同時，本院又定位為”小而美、精緻的社區醫院”，兼顧專業醫療又不失親切溫馨的服務特質，期盼未來能夠擔負起守護社區民眾健康的重責大任，並請鄉親們不吝給予本院建議與指教。
+
+祝福大家　平安健康，事事順心！"</string>
+    <string name="ChilddeanleftSectionDescription">1980年，中國醫藥大學附設醫院成立小兒科，為提升國內兒童健康與福利，2003年，成立兒童醫院籌備處，希望建立一座兼具前瞻與卓越風格之兒童醫院，2004年，兒童醫院正式開幕。</string>
+    <string name="ChilddeanbottomSectionDescription">"為配合行政院衛生福利推動「醫學中心級兒童醫院」的認證及註冊，我們積極參與，2015年10月1日，我們通過以「中國醫藥大學兒童醫院」名稱正式立案揭幕，並通過評核為「醫學中心級兒童醫院」。
+　　「中國醫藥大學兒童醫院」開幕後，我們以全新的面貌與更完善的醫療服務與大家見面。從兒童醫院大門口進來，首先在大廳會看到新的服務台和掛號領藥櫃台，左側是1樓門診區、衛教室、親子諮詢中心，接著從動物貼圖的電梯來到2樓，可以看到我們新規劃的門診區，健兒門診、檢查室、血友病中心，3樓有檢查室、治療室、兒童聯合評估中心，走到5樓有兒童超音波室、兒童加護病房、新生兒加護病房，6樓到8樓有新生兒中重度病房和普通病房。
+　　此外，還有在立夫醫療大樓9樓的嬰兒室，急重症大樓1樓的兒童急診。兒童醫院1樓及2樓也有為小朋友所設計的哺乳室和親子廁所，整個兒童醫療空間的規劃都以兒童的便利性為主要考量。
+　　為提供更完善的醫療服務，我們除增加醫師看診時段外，並整合兒童內、外科，結合兒童外科開設門診，再配合24小時的兒童急診服務，並有兒童保健中心，提供無間斷且系統完整的友善醫療服務。
+　　兒童內科包括：兒童血液腫瘤科、兒童營養腸胃及肝膽內科、新生兒科、兒童遺傳及內分泌科、兒童神經內科、兒童過敏免疫風濕科、兒童腎臟科、兒童感染科、兒童心臟科，以及兒童發展遲緩診療、健兒門診等，兒童外科包括：兒童外科及泌尿科、骨科、眼科、牙科、耳鼻喉科、心臟外科、整形外科、神經外科、復健科等設有專職專責之兒童外科系醫師提供服務。
+　　兒童保健中心，由專任的兒科衛教師、個案管理師、心理師提供18歲以下兒童及青少年之保健、疾病諮詢、個案照護管理及心理評估測驗等服務。
+　　秉持「以兒童為中心」的醫療與照護精神，我們積極參與各項醫療品質認證，今年「以專業、創新、關懷之兒童慢性及末期腎病防治中心」、「實施極低體重早產兒之積極營養治療，以求改善早產兒之長期神經發育」、「兒童健康的守門員─遺傳代謝疾病的篩檢、治療與照護」、「全年無休的兒童腸胃道異物處理中心」等四項，榮獲生策會SNQ 國家品質標章認證。
+　　目前，本院各次專科都已發展出自己的特色，我們將持續遴聘更多優秀的專科人才，讓陣容更加堅強，積極成立5到10個特色中心，提供從胎兒到成人的兒童疾病預防、保健與治癒之全人醫療服務。
+　　未來，我們的目標不只是要提供更高水準及更高品質的兒童醫療服務，成為國內第一的兒童急、重症醫院，並將積極發展成為「國際一流的兒童醫院」。"</string>
+    <string name="GoalbottomSectionDescription">"宗旨
+
+促進人類健康基本人權
+
+
+
+
+價值
+
+以病人為尊、以員工為重、以醫院為榮
+
+(一)提供卓越及全人醫療服務
+(二)發揮大學醫院教學、研究功能
+(三)推廣中國醫療特色，促進中醫藥現代化
+
+
+
+
+願景
+
+成為世界一流的中、西醫學中心
+
+
+
+
+目標
+
+一、建立全人、優質、安全之醫療環境
+
+二、成為急難重症及癌症醫學中心
+
+三、強化管理、建立中國醫療體系
+
+四、發展全人醫學教育，培養全員學習能力
+
+五、結合大學資源，致力本土化及優質化研究
+
+六、發展國際醫療服務，提昇國際醫療地位
+
+
+"</string>
+    <string name="chinaGeneralHospital">中國附醫總院</string>
+    <string name="taipeiBranchHospital">臺北</string>
+    <string name="AnnanBranchHospital">安南</string>
+    <string name="beigangBranchHospital">北港</string>
+    <string name="easternBranchHospital">東區</string>
+    <string name="fengyuanBranchHospital">豐原</string>
+    <string name="caotunBranchHospital">草屯</string>
+    <string name="AsiaUniversityHospital">亞大</string>
+    <string name="GeneralUserOptionStr">一般民眾</string>
+    <string name="RegisterSystemOptionStr">預約掛號</string>
+    <string name="memberUserOptionStr">會員登入</string>
+    <string name="backSystemChoiceStr">回院所選擇</string>
+    <string name="HealthPayStr">醫指付</string>
+    <string name="SettingStr">設定</string>
+    <string name="SaytoUserStr">您好</string>
+    <string name="TimeDisplayStr">時間顯示</string>
+    <string name="DateDisplayStr">民國日期顯示</string>
+    <string name="TimeDateDisplayStr">時間顯示</string>
+    <string name="SearchServicetextStr">"查詢
+服務"</string>
+    <string name="OutpatientSlowtextStr">"門診
+慢籤"</string>
+    <string name="trafficInfotextStr">"交通
+資訊"</string>
+    <string name="HealRegistertextStr">"預約
+掛號"</string>
+    <string name="submenuStr">功能子選單</string>
+    <string name="WatchDrProgressStr">看診進度</string>
+    <string name="CollardrugProgressStr">領藥進度</string>
+    <string name="PaiseizedTimeStr">排檢時間</string>
+    <string name="WhichoneDivisionStr">看哪科別</string>
+    <string name="HospitalBriefStr">醫院簡介</string>
+    <string name="SeekMeicalNoticeStr">就醫須知</string>
+    <string name="ServiceUnitTelephoneSearchStr">院內分機查詢</string>
+    <string name="HospitalInsideTrafficStr">院內交通</string>
+    <string name="HosputalOutsideTrafficStr">院外交通</string>
+    <string name="MapPathPlanningStr">路徑規劃</string>
+    <string name="byDivisionRegisterStr">依科別掛號</string>
+    <string name="byDoctorRegisterStr">依醫師掛號</string>
+    <string name="byOftenRegisterStr">依常用掛號</string>
+    <string name="bySearchCancelRegisterStr">掛號查詢或取消</string>
+    <string name="HealthKnowledgeStr">健康新知</string>
+    <string name="CosmetologyMaintenanceStr">美容保養</string>
+    <string name="EverydayHistoryStr">日常紀錄</string>
+    <string name="DrugSearchStr">用藥查詢</string>
+    <string name="RegisterHistorySearchStr">就診記錄查詢</string>
+    <string name="MedicationHistorySearchStr">用藥通知紀錄查詢</string>
+    <string name="healthEducationSearchStr">衛教查詢</string>
+    <string name="myhealthEducationContentStr">衛教內容</string>
+    <string name="BodyWeightTitleStr">體重</string>
+    <string name="BloodPressureTitleStr">血壓</string>
+    <string name="PulseTitleStr">脈搏</string>
+    <string name="storeHealthHistoryStr">儲存紀錄</string>
+    <string name="buildingfloorStr">棟別樓層：</string>
+    <string name="DepartmentCategoryStr">單位類別：</string>
+    <string name="keywordSearchStr">關鍵字查詢：</string>
+    <string name="ceilitemTitleStr">項目標題</string>
+    <string name="ceilitemSubTitleStr">項目子標題</string>
+    <string name="pleaseinputStr">輸入查詢</string>
+    <string name="healtheduationListStr">衛教單張列表</string>
+    <string name="OutpatientHourStr">門診時刻表</string>
+    <string name="ByArtificial">"08:00-1700 (週一至週五) 
+08:00-12:00 (週六)"</string>
+    <string name="ByVoiceStr">24小時服務</string>
+    <string name="SearchHintStr">請輸入</string>
+    <string name="TemperatorStr">℃</string>
+    <string name="notification_subtitle">Counting your steps</string>
+    <string name="started">Pedometer started.</string>
+    <string name="stopped">Pedometer stopped.</string>
+    <string name="steps">steps</string>
+    <string name="kilometers">kilometers</string>
+    <string name="miles">miles</string>
+    <string name="steps_per_minute">steps / minute</string>
+    <string name="kilometers_per_hour">kilometers / hour</string>
+    <string name="miles_per_hour">miles / hour</string>
+    <string name="calories_burned">calories burned</string>
+    <string name="centimeters">centimeters</string>
+    <string name="inches">inches</string>
+    <string name="kilograms">kilograms</string>
+    <string name="pounds">pounds</string>
+    <string name="desired_pace">Desired pace:</string>
+    <string name="desired_speed">Desired speed:</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="reset">Reset</string>
+    <string name="settings">Settings</string>
+    <string name="activity_settings">Pedometer Settings</string>
+    <string name="steps_settings_title">Basic Settings</string>
+    <string name="sensitivity_setting">Sensitivity</string>
+    <string name="sensitivity_setting_details">Calibrate the step detector</string>
+    <string name="sensitivity_setting_title">Select sensitivity level</string>
+    <string name="extra_high">extra high</string>
+    <string name="very_high">very high</string>
+    <string name="high">high</string>
+    <string name="higher">higher</string>
+    <string name="medium">medium</string>
+    <string name="lower">lower</string>
+    <string name="low">low</string>
+    <string name="very_low">very low</string>
+    <string name="extra_low">extra low</string>
+    <string name="operation_level_setting">Operational level</string>
+    <string name="operation_level_setting_details">Some OS versions prevent using sensors when the screen is off; set the level that works for you</string>
+    <string name="operation_level_setting_title">Select operational level</string>
+    <string name="run_in_background">Normal (just try running in background)</string>
+    <string name="keep_screen_on">Screen on (keep screen dim)</string>
+    <string name="wake_up">Aggressive (wake up when I turn screen off)</string>
+    <string name="units_setting">Units</string>
+    <string name="units_setting_details">Imperial or metric units</string>
+    <string name="units_setting_title">Choose your units</string>
+    <string name="units_metric">metric (kilometers)</string>
+    <string name="units_imperial">imperial (miles)</string>
+    <string name="step_length_setting">Step length</string>
+    <string name="step_length_setting_details">For distance, speed &amp; calorie calculation</string>
+    <string name="step_length_setting_title">Enter your step length</string>
+    <string name="body_weight_setting">Body weight</string>
+    <string name="body_weight_setting_details">For calorie calculation</string>
+    <string name="body_weight_setting_title">Enter your body weight</string>
+    <string name="exercise_type_setting">Exercise type</string>
+    <string name="exercise_type_setting_details">For calorie calculation</string>
+    <string name="exercise_type_setting_title">Choose exercise type</string>
+    <string name="exercise_type_running">running</string>
+    <string name="exercise_type_walking">walking</string>
+    <string name="maintain_setting">Maintain pace/speed</string>
+    <string name="maintain_setting_details">Maintaining a desired a pace/speed</string>
+    <string name="maintain_setting_title">Maintain:</string>
+    <string name="maintain_nothing">nothing</string>
+    <string name="maintain_pace">pace</string>
+    <string name="maintain_speed">speed</string>
+    <string name="voice_settings_title">Voice</string>
+    <string name="voice_setting">Speak</string>
+    <string name="voice_setting_details">Enable/disable voice notification</string>
+    <string name="speaking_interval_setting">Interval</string>
+    <string name="speaking_interval_setting_details">Voice notification interval</string>
+    <string name="interval_15_seconds">15 seconds</string>
+    <string name="interval_30_seconds">30 seconds</string>
+    <string name="interval_1_minute">1 minute</string>
+    <string name="interval_2_minutes">2 minutes</string>
+    <string name="interval_5_minutes">5 minutes</string>
+    <string name="interval_10_minutes">10 minutes</string>
+    <string name="tell_what">What to tell</string>
+    <string name="tell_steps_setting">Steps</string>
+    <string name="tell_steps_setting_details" />
+    <string name="tell_pace_setting">Pace</string>
+    <string name="tell_pace_setting_details">steps / minute</string>
+    <string name="tell_distance_setting">Distance</string>
+    <string name="tell_distance_setting_details">kilometers or miles</string>
+    <string name="tell_speed_setting">Speed</string>
+    <string name="tell_speed_setting_details">km/h or mph</string>
+    <string name="tell_calories_setting">Calories burned</string>
+    <string name="tell_calories_setting_details" />
+    <string name="tell_fasterslower_setting">Faster/slower</string>
+    <string name="tell_fasterslower_setting_details">"Helps you maintain your desired pace or speed (interval doesn't apply)"</string>
+    <string name="incorrect_step_length">Incorrect step length format! Go to the Settings to change it!</string>
+    <string name="CommunityTitleStr">申請或綁定中亞健康網會員</string>
+    <string name="CommunityConfirmPasswordStr">"確認
+密碼"</string>
+    <string name="CommunityAccountHintStr">請輸入Email帳號</string>
+    <string name="CommunityPasswordHintStr">請輸入密碼</string>
+    <string name="CommunityConfirmPasswordHintStr">請再次輸入密碼</string>
+    <string name="quit">Quit</string>
+    <string name="CreateChinaAsiaMemberMessage">資料同步中，請稍候...</string>
+</resources>

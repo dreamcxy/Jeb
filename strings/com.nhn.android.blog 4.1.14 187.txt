@@ -1,0 +1,2354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ALERT_CANCEL">취소</string>
+    <string name="ALERT_OK">확인</string>
+    <string name="NOTI_CLOSE">닫기</string>
+    <string name="NOTI_GO">보기</string>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="accessibility_activate">활성화 됨</string>
+    <string name="accessibility_add">추가</string>
+    <string name="accessibility_back">뒤로가기</string>
+    <string name="accessibility_button">버튼</string>
+    <string name="accessibility_deactivate">비활성화 됨</string>
+    <string name="accessibility_disable">사용 안함</string>
+    <string name="accessibility_enable">사용</string>
+    <string name="accessibility_post_count">작성글 수</string>
+    <string name="accessibility_select">선택 됨</string>
+    <string name="accessibility_switch">%s 스위치</string>
+    <string name="accessibility_unselect">선택 안됨</string>
+    <string name="add_shortcut">추가</string>
+    <string name="alarm_type_setting">알림종류 설정</string>
+    <string name="all_photo">모든 사진</string>
+    <string name="app_is_not_installed">"해당 앱이 설치되어 있지 않습니다.
+앱 설치 후 이용해주세요."</string>
+    <string name="app_name">Naver Blog</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="appcore_dialog_btn_agree">Agree</string>
+    <string name="appcore_dialog_btn_cancel">Cancel</string>
+    <string name="appcore_dialog_btn_ok">OK</string>
+    <string name="appcore_dialog_btn_retry">Retry</string>
+    <string name="appcore_dialog_msg_3g_notsupport">This device does not support 3G service. Calls, messages and other similar features are unavailable.</string>
+    <string name="appcore_dialog_msg_address_error">"Cannot open page
+as the URL address is either incorrect,
+changed, or deleted."</string>
+    <string name="appcore_dialog_msg_auth_error">"Error in authentication information or certification.
+Please check your credential details."</string>
+    <string name="appcore_dialog_msg_location_info_agree">[%s] requests to use your current location info. Do you agree?</string>
+    <string name="appcore_dialog_msg_network">"Cannot connect to network.
+After checking the network connection,
+please try again."</string>
+    <string name="appcore_dialog_msg_normal_error">An error has occurred on the web service.</string>
+    <string name="appcore_dialog_msg_server_error">"Cannot open page due to an error in the server.
+Please check with the server manager."</string>
+    <string name="appcore_dialog_msg_temp_network_error">"A temporary error has occurred on the network.
+Please try again later."</string>
+    <string name="appcore_dialog_title_3g_notsupport">3G unsupported alert</string>
+    <string name="appcore_dialog_title_address_error">Address error</string>
+    <string name="appcore_dialog_title_auth_error">Authentication error</string>
+    <string name="appcore_dialog_title_location_info_agree">Confirm to use location info</string>
+    <string name="appcore_dialog_title_network">Connect to network</string>
+    <string name="appcore_dialog_title_normal_error">General Error</string>
+    <string name="appcore_dialog_title_server_error">Server error</string>
+    <string name="appcore_msg_error_upload_file_failed">Error! Failed to upload file.</string>
+    <string name="appcore_msg_no_app_for_uri">This action cannot be executed as the app to process the URI does not exist.</string>
+    <string name="appcore_msg_progress">Progress..</string>
+    <string name="appcore_msg_wrong_uri_scheme_format">The URI scheme format is invalid.</string>
+    <string name="appcore_perm_btn_allow">Allow</string>
+    <string name="appcore_perm_btn_deny">Deny</string>
+    <string name="appcore_perm_msg_request_allow" formatted="false">"From '%s' the user's '%s' is requested to be accessed. Do you allow this?"</string>
+    <string name="appcore_perm_name_camera">Camera</string>
+    <string name="appcore_perm_name_mic">Michrophone</string>
+    <string name="appcore_perm_name_midi_device">MIDI devices</string>
+    <string name="appcore_perm_name_protected_media">Protected media</string>
+    <string name="appcore_perm_title_request">Request Permissions</string>
+    <string name="appcore_toast_deny_camera">You cannot use this feature as you have not granted permission to access the camera.</string>
+    <string name="appcore_toast_deny_file_attach">You cannot use this file attachment feature as you have not granted permission to access some parts of the device.</string>
+    <string name="appcore_toast_deny_location">Your current location info cannot be brought as the permission to access your location info has been denied.</string>
+    <string name="appcore_toast_deny_mic">You cannot use this feature as you have not granted permission to access the microphone.</string>
+    <string name="appcore_toast_deny_perm">You are not authorized to access the device.</string>
+    <string name="appcore_toast_deny_storage">File information cannot be used as the permission to access your external memory has been denied.</string>
+    <string name="approval">승인</string>
+    <string name="attach_file_add_from_device">휴대폰 파일</string>
+    <string name="attach_file_add_from_ndrive">네이버 클라우드</string>
+    <string name="attach_file_add_total_file_size">200MB</string>
+    <string name="attach_file_delete_message">파일을 삭제하시겠습니까?</string>
+    <string name="attach_file_empty">첨부된 파일이 없습니다.</string>
+    <string name="attach_file_from_ndrive_notification">"포스트 저장 시,
+네이버 클라우드의 원본 파일이 삭제/이동
+되었을 경우 제외하고 등록됩니다."</string>
+    <string name="attach_file_information_text">휴대폰에 저장된 파일을 포스트에 첨부해 보세요.</string>
+    <string name="attach_file_limit_count">한 포스트에 20개 이상 파일은 첨부할 수 없습니다.</string>
+    <string name="attach_file_limit_file_size">용량 10MB초과의 단일 파일은 첨부할 수 없습니다.</string>
+    <string name="attach_file_limit_total_size">첨부된 파일의 총 크기가 200MB를 초과하였습니다.</string>
+    <string name="attach_file_manager_title">파일첨부</string>
+    <string name="attach_file_not_found">파일을 찾을 수 없습니다.</string>
+    <string name="attach_file_size_line">/</string>
+    <string name="attachfile_dialog_delete_file">파일을 삭제하시겠습니까?</string>
+    <string name="attachfile_header_audio">오디오파일 선택</string>
+    <string name="attachfile_header_audio_attach">오디오파일 첨부</string>
+    <string name="attachfile_header_title">파일첨부</string>
+    <string name="attachfile_placeholder_attach_file">네이버 클라우드나 휴대폰에 저장된 파일을 첨부해 보세요.</string>
+    <string name="attachfile_placeholder_attach_file_device">휴대폰에 저장된 파일을 첨부해 보세요.</string>
+    <string name="attachfile_placeholder_empty">첨부된 파일이 없습니다.</string>
+    <string name="attachfile_text_float_0">0.0</string>
+    <string name="attachfile_text_line">/</string>
+    <string name="attachfile_text_not_found">파일을 찾을 수 없습니다.</string>
+    <string name="attachfile_text_parent_directory">상위 폴더로 이동</string>
+    <string name="attachfile_text_separator">|</string>
+    <string name="attachfile_text_total_available_file_size">200MB</string>
+    <string name="attachfile_toast_limit_audio_duration">첨부 가능한 재생시간(60분)을 초과하였습니다.</string>
+    <string name="attachfile_toast_limit_count">파일 첨부는 20개까지만 가능합니다.</string>
+    <string name="attachfile_toast_limit_file_size">용량 10MB초과의 단일 파일은 첨부할 수 없습니다.</string>
+    <string name="attachfile_toast_limit_total_size_200">첨부된 파일의 총 크기가 200MB를 초과하였습니다.</string>
+    <string name="attachfile_toast_limit_total_size_300">첨부된 파일의 총 크기가 300MB를 초과하였습니다.</string>
+    <string name="auto_complete">자동완성</string>
+    <string name="auto_complete_off">자동완성 끄기</string>
+    <string name="auto_complete_on">자동완성 켜기</string>
+    <string name="back">이전</string>
+    <string name="bgm_mobile_network_connected_data_cost_message">"이동통신망으로 연결되어 있습니다.
+데이터 이용료가 발생할 수 있습니다."</string>
+    <string name="bgm_network_airplain_mode">"네트워크에 연결되어 있지 않습니다.
+네트워크 상태를 확인해주세요."</string>
+    <string name="bgm_network_not_available">"인터넷에 연결되어 있지 않습니다.
+무선 인터넷 연결 상태를 확인해주세요."</string>
+    <string name="bgm_short_title">뮤직</string>
+    <string name="bgm_use_mobile_network_message">"3G/LTE 사용이 OFF로 설정되어 있습니다.
+사용을 허용하고 음악을 재생하시겠습니까?"</string>
+    <string name="block_edit_add_empty_text">추가할 블록이 없습니다.</string>
+    <string name="block_edit_add_text">추가할 블록을 선택하세요.</string>
+    <string name="block_edit_change_empty_text">"순서 변경 할 블록이 없습니다.
+ + 버튼을 눌러서 블록을 추가해보세요."</string>
+    <string name="block_edit_change_text">을 눌러 위, 아래로 움직여보세요.</string>
+    <string name="block_refresh_msg">블록 다시 불러오기</string>
+    <string name="blog_home_add_buddy_btn_text">이웃추가</string>
+    <string name="blog_home_both_buddy_btn_text">서로이웃</string>
+    <string name="blog_home_buddy_btn_text">이웃</string>
+    <string name="blog_home_cover_alarm_button_for_not_buddy">새 글 알림을 이용하려면, %s님을 이웃으로 추가해야 합니다.</string>
+    <string name="blog_home_cover_blogname_default">%s님의 블로그 입니다.</string>
+    <string name="blog_home_cover_blogname_hint">블로그명을 입력하세요.</string>
+    <string name="blog_home_cover_image_change_text">이미지 변경</string>
+    <string name="blog_home_cover_nickname_hint">별명을 입력하세요.</string>
+    <string name="blog_home_cover_style_change_text">커버 스타일</string>
+    <string name="blog_home_cover_style_header_cancel">취소</string>
+    <string name="blog_home_cover_style_header_save">확인</string>
+    <string name="blog_home_cover_style_header_title">커버 스타일 변경</string>
+    <string name="blog_home_cover_style_name_1">커버 1</string>
+    <string name="blog_home_cover_style_name_2">커버 2</string>
+    <string name="blog_home_cover_style_name_3">커버 3</string>
+    <string name="blog_home_cover_style_name_4">커버 4</string>
+    <string name="blog_home_cover_style_name_5">커버 5</string>
+    <string name="blog_home_cover_style_name_6">커버 6</string>
+    <string name="blog_home_cover_style_name_7">커버 7</string>
+    <string name="blog_home_cover_style_name_8">커버 8</string>
+    <string name="blog_home_edit_btn_text">홈편집</string>
+    <string name="blog_home_edit_cancel">변경사항을 저장하지 않고 나가시겠습니까?</string>
+    <string name="blog_home_edit_cancel_no">아니요</string>
+    <string name="blog_home_edit_cancel_ok">나가기</string>
+    <string name="blog_home_edit_header">홈 편집</string>
+    <string name="blog_home_edit_header_cancel">취소</string>
+    <string name="blog_home_edit_header_save">적용</string>
+    <string name="blog_home_edit_hide">%s 블록을 숨기시겠습니까?</string>
+    <string name="blog_home_edit_hide_btn">숨기기</string>
+    <string name="blog_home_edit_hide_message">설정된 블록의 내용은 사라지지 않고 +를 눌러 다시 추가할 수 있습니다.</string>
+    <string name="blog_home_edit_hide_ok">숨기기</string>
+    <string name="blog_home_go_main_search">전체검색</string>
+    <string name="blog_home_guest_count_divider">·</string>
+    <string name="blog_home_guest_count_today">오늘 %s</string>
+    <string name="blog_home_guest_count_total">전체 %s</string>
+    <string name="blog_home_save_fail">"일시적인 오류가 발생했습니다.
+다시 시도하시겠습니까?"</string>
+    <string name="blog_home_save_fail_retry">다시시도</string>
+    <string name="blog_home_tutorial_close">닫기</string>
+    <string name="blog_home_tutorial_detail">자세히 보기</string>
+    <string name="blog_home_tutorial_no_more">다시 보지 않기</string>
+    <string name="blog_information_cover_picture">"앱 표지
+사진"</string>
+    <string name="blog_information_dialog_profile_delete_message">PC프로필 사진을 삭제하시겠습니까?</string>
+    <string name="blog_information_dialog_update">저장중입니다.</string>
+    <string name="blog_information_dialog_update_fail_message">"저장 중 오류가 발생하였습니다.
+다시 시도해 주시기 바랍니다."</string>
+    <string name="blog_information_introduce">소개글</string>
+    <string name="blog_information_introduce_explanation">"PC 프로필 영역 하단에 반영됩니다.
+(한글 기준 200자 이내)"</string>
+    <string name="blog_information_introdue_message">자기소개가 없습니다.</string>
+    <string name="blog_information_name">블로그명</string>
+    <string name="blog_information_nickname">별명</string>
+    <string name="blog_information_picture_edit">편집</string>
+    <string name="blog_information_profile_empty_select_request">등록된 프로필 사진이 없습니다. 등록하시겠습니까?</string>
+    <string name="blog_information_profile_explanation">"PC 블로그에서 확인 가능하며, 가로 161px
+썸네일로 생성됩니다."</string>
+    <string name="blog_information_profile_picture">"프로필
+사진"</string>
+    <string name="blog_information_profile_picture_delete">삭제</string>
+    <string name="blog_information_profile_picture_select_title">프로필 사진을 선택하세요.</string>
+    <string name="blog_information_title">블로그 정보</string>
+    <string name="blog_no_network_error_message">"네트워크 문제로 정보를 가져올 수 없습니다.
+네트워크 연결 상태를 확인해 주세요."</string>
+    <string name="blog_notice_notification_blog_title">네이버 블로그</string>
+    <string name="blog_notice_notification_cafe_title">네이버 카페</string>
+    <string name="blog_notice_notification_kin_title">네이버 지식iN 여기</string>
+    <string name="blog_notice_notification_naver_title">네이버 알림</string>
+    <string name="blog_share">사용할 애플리케이션</string>
+    <string name="blog_share_title_content">이 글을 읽어보세요.</string>
+    <string name="blog_share_title_head">"[네이버 블로그]
+"</string>
+    <string name="bloghome_buddy_share">"이 블로그 어때요?
+"</string>
+    <string name="bloghome_my_share">"내 블로그에 초대합니다~
+"</string>
+    <string name="bloghome_subscriber_description">%s명의 이웃</string>
+    <string name="bloghome_subscriber_description_businessinfo">%s명의 이웃 · 사업자정보</string>
+    <string name="bloghome_title_buddylist">이웃목록</string>
+    <string name="bloghome_title_guestbooklist">안부글</string>
+    <string name="bloghome_title_memolist">메모글</string>
+    <string name="bloghome_title_postlist">전체글</string>
+    <string name="book_db_list_item_author">작가</string>
+    <string name="book_db_list_item_date">발매</string>
+    <string name="book_db_list_item_publisher">출판</string>
+    <string name="book_db_list_search_hint">책제목, 작가, 출판사를 입력하세요.</string>
+    <string name="book_db_list_title">책 선택</string>
+    <string name="booking_block_sub_title">예약하기</string>
+    <string name="booking_block_title">네이버 아이디로 쉽고 편리하게</string>
+    <string name="booking_close">닫기</string>
+    <string name="booking_error_msg_update_fail">정보 변경에 실패했습니다. 잠시후 다시 시도해 주세요.</string>
+    <string name="booking_first_tutorial_btn">자세히 보기</string>
+    <string name="booking_first_tutorial_click_message">이 곳을 클릭</string>
+    <string name="booking_first_tutorial_description">네이버 스마트플레이스에 블로그를 등록한 일이 없다면</string>
+    <string name="booking_first_tutorial_extra_description">해주세요.</string>
+    <string name="booking_no_more">다시 보지 않기</string>
+    <string name="booking_second_tutorial_btn">다음</string>
+    <string name="booking_second_tutorial_description"><b>모바일앱 MY > 환경설정</b>" 에서 
+연결하고자 하는 매장을 선택하세요."</string>
+    <string name="booking_setting_description">"네이버 예약으로 연결되는 버튼이
+모바일과 PC에 동시 노출됩니다."</string>
+    <string name="booking_setting_indication">네이버 예약 연결</string>
+    <string name="booking_setting_title">네이버 예약 설정</string>
+    <string name="booking_third_tutorial_btn">예약 설정하러 가기 ></string>
+    <string name="booking_third_tutorial_description"><b>"PC 블로그 프로필 /
+Mobile 블로그 홈, 프로필"</b>"에서
+네이버 예약하기 버튼이 노출됩니다!"</string>
+    <string name="booklist_header_title">책 선택</string>
+    <string name="booklist_placeholder_search">책 제목, 작가, 출판사를 검색하세요.</string>
+    <string name="booklist_text_author">저자</string>
+    <string name="booklist_text_date">발매</string>
+    <string name="booklist_text_publisher">출판</string>
+    <string name="bookmark_delete">삭제</string>
+    <string name="bookmark_delete_all">전체 삭제</string>
+    <string name="bookmark_delete_all_confirmation">모든 책갈피를 삭제하시겠습니까?</string>
+    <string name="bookmark_delete_selected_confirmation">선택한 책갈피를 삭제하시겠습니까?</string>
+    <string name="bookmark_edit">편집</string>
+    <string name="bookmark_migration_notice">"내소식의 북마크함으로 책갈피 목록을 보내주세요.
+책갈피 리스트는 2012년 12월까지만 제공됩니다."</string>
+    <string name="bookmark_not_available">책갈피한 포스트가 없습니다.</string>
+    <string name="bookmark_send_btn">북마크함 보내기</string>
+    <string name="bookmark_send_ing">책갈피 목록을 보내는 중입니다.</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="buddy_add_title">이웃 추가</string>
+    <string name="buddy_group_all">전체</string>
+    <string name="buddy_hot_topic_title1">이웃 %s님의 글이</string>
+    <string name="buddy_list_new_group">새그룹</string>
+    <string name="buddy_news_empty_message">새로운 이웃새글이 없습니다.</string>
+    <string name="buddy_news_notification_big_content_title">[블로그] 이웃들의 새글이 도착했습니다.</string>
+    <string name="buddy_news_widget_label">내 이웃새글 위젯</string>
+    <string name="buddy_notification_content_format">%1$s님 등이 작성한 %2$d개의 새글을 확인해보세요.</string>
+    <string name="buddy_notification_message">이웃들의 새글이 도착했습니다.</string>
+    <string name="buddy_notification_setting_every_day_name">일 1회 알림 (오전)</string>
+    <string name="buddy_notification_setting_every_day_short">일 1회</string>
+    <string name="buddy_notification_setting_label">새로운 이웃새글</string>
+    <string name="buddy_notification_setting_none_name">없음</string>
+    <string name="buddy_notification_setting_none_short">없음</string>
+    <string name="buddy_notification_setting_title">이웃새글 알림 설정</string>
+    <string name="buddy_notification_setting_twice_a_day_name">일 2회 알림 (오전, 오후)</string>
+    <string name="buddy_notification_setting_twice_a_day_short">일 2회</string>
+    <string name="business_address_hint">주소를 입력하세요</string>
+    <string name="business_address_string_byte">/100byte</string>
+    <string name="business_address_title">주소</string>
+    <string name="business_ceo_hint">대표자성명을 입력하세요</string>
+    <string name="business_ceo_string_byte">/20byte</string>
+    <string name="business_ceo_title">대표자성명</string>
+    <string name="business_cybermall_rule_description_pop_up">해당 블로그의 상거래 이용과 관련하여 이용에 관한 제반 사항과 기타 사항을 고객에게 안내하는 페이지의 링크 주소를 입력하세요.</string>
+    <string name="business_cybermall_rule_title_pop_up">사이버몰이용약관</string>
+    <string name="business_default_string_byte">0</string>
+    <string name="business_ecommerce_ceo_title">통신판매업자</string>
+    <string name="business_ecommerce_no_hint">예) 제2016-서울마포-12345호</string>
+    <string name="business_ecommerce_report_description_pop_up">공정거래위원회의 고시에 따라 최근 6개월 동안 통신판매를 수단으로 하여 재화 등을 판매한 횟수가 10회 미만 또는 판매 금액 합계가 600만원 미만인 경우 통신판매신고 면제를 선택하실 수 있습니다.</string>
+    <string name="business_ecommerce_report_exempt_title">신고면제</string>
+    <string name="business_ecommerce_report_no_title">통신판매신고번호</string>
+    <string name="business_ecommerce_report_no_title_pop_up">통신판매신고번호</string>
+    <string name="business_email_hint">예) naverblog@naver.com</string>
+    <string name="business_email_string_byte">/60byte</string>
+    <string name="business_email_title">메일</string>
+    <string name="business_info_edit_ecommerce_help">통신판매신고번호 도움말</string>
+    <string name="business_info_edit_rule_help">사이버몰이용약관 도움말</string>
+    <string name="business_info_modify">수정하기</string>
+    <string name="business_information_description">"블로그를 상거래 목적으로 운영하는 경우,
+전자상거래법에 따라 블로그홈에
+사업자 정보를 표시해야 합니다."</string>
+    <string name="business_information_indication">사업자정보 표시</string>
+    <string name="business_information_settings_title">사업자정보 설정</string>
+    <string name="business_license_no_hint">예) 111-22-33333</string>
+    <string name="business_license_no_title">사업자등록번호</string>
+    <string name="business_phone_hint">예) 010-1234-5678</string>
+    <string name="business_phone_title">전화</string>
+    <string name="business_rule_hint">예) http://blog.naver.com/agreement</string>
+    <string name="business_rule_string_byte">/128byte</string>
+    <string name="business_rule_title">사이버몰이용약관</string>
+    <string name="business_rule_title_on_view">이용약관</string>
+    <string name="business_rule_title_on_view_button">이용약관 보기</string>
+    <string name="business_save_message">저장</string>
+    <string name="business_store_hint">상호명을 입력하세요</string>
+    <string name="business_store_string_byte">/30byte</string>
+    <string name="business_store_title">상호명</string>
+    <string name="button_line_install">라인 설치하기</string>
+    <string name="cancel">취소</string>
+    <string name="cardeditor_button_add_ingredients">재료 추가</string>
+    <string name="cardeditor_button_addcard">카드 추가</string>
+    <string name="cardeditor_button_change_style">전체 편집</string>
+    <string name="cardeditor_button_extra_media">링크/오디오/장소</string>
+    <string name="cardeditor_button_hidden_title">제목 숨기기</string>
+    <string name="cardeditor_button_layout">레이아웃</string>
+    <string name="cardeditor_button_number">번호</string>
+    <string name="cardeditor_button_section_title">소제목</string>
+    <string name="cardeditor_button_select_font">전체글꼴선택</string>
+    <string name="cardeditor_button_text">텍스트</string>
+    <string name="cardeditor_placeholder_additional_ingredients">추가재료</string>
+    <string name="cardeditor_placeholder_background_covercard">"표지 이미지가 카드 배경으로
+보여집니다."</string>
+    <string name="cardeditor_placeholder_base_ingredients">기본재료</string>
+    <string name="cardeditor_placeholder_input_ingredients">재료 입력</string>
+    <string name="cardeditor_placeholder_measuring_standard">인분,계량기준</string>
+    <string name="cardeditor_placeholder_need_ingredients">필요한 재료</string>
+    <string name="cardeditor_placeholder_paragraph">내용 입력</string>
+    <string name="cardeditor_text_cover">표지</string>
+    <string name="cardeditor_text_delete">카드를 길게 누르면 이동, 위로 올리면 삭제</string>
+    <string name="cardeditor_toast_couldnot_add_card">카드는 200장까지 만들 수 있습니다.</string>
+    <string name="cardeditor_toast_couldnot_transform_card">카드를 변경 할 수 없습니다.</string>
+    <string name="cardeditor_toast_hidden_title_using_guide">제목을 입력한 경우에만 제목 숨기기를 할 수 있습니다.</string>
+    <string name="cardeditor_toast_hidden_title_viewing_guide">숨기기 이전에 입력한 제목은 글 목록에 반영됩니다.</string>
+    <string name="cardeditor_toast_not_supported_device">"지원하지 않는 단말기입니다.
+SE3.0기본형 혹은 이전 버전의 에디터를 사용해주세요."</string>
+    <string name="cardeditor_toast_position_error">카드 위치를 다시 맞춰주세요.</string>
+    <string name="category_add_complete">추가하였습니다.</string>
+    <string name="category_add_dialog_add">적용</string>
+    <string name="category_add_dialog_cancel">취소</string>
+    <string name="category_add_dialog_edittext_hint">카테고리명을 입력하세요.</string>
+    <string name="category_add_dialog_nonchar">특수문자는 사용하실 수 없습니다.</string>
+    <string name="category_add_dialog_title">새로 만들 카테고리명을 써주세요.</string>
+    <string name="category_add_dialog_title_guide">한/영 16자까지 입력가능</string>
+    <string name="category_add_message">+ 카테고리 추가</string>
+    <string name="category_add_question">카테고리 (%s)을/를 추가하겠습니까?</string>
+    <string name="category_add_title">카테고리 추가</string>
+    <string name="category_count">(%d)</string>
+    <string name="category_delete">삭제</string>
+    <string name="category_delete_done">해당 카테고리(%s)이/가 삭제되었습니다.</string>
+    <string name="category_delete_question">해당 카테고리를 삭제하겠습니까?</string>
+    <string name="category_dialog_add_message">카테고리 추가</string>
+    <string name="category_directory_seq">주제분류</string>
+    <string name="category_list_delete_question">"포스트 %s건이 있습니다.
+삭제 시, 포스트는 복구되지 않습니다.
+삭제하시겠습니까?"</string>
+    <string name="category_memo_title">메모글</string>
+    <string name="category_modify">수정</string>
+    <string name="category_modify_title">카테고리 수정</string>
+    <string name="category_name">카테고리명</string>
+    <string name="category_name_empty">카테고리명을 입력하세요.</string>
+    <string name="category_name_hint">한/영 16자 이내로 입력해주세요.</string>
+    <string name="category_nothing">사용가능한 카테고리가 없습니다.</string>
+    <string name="category_open_private">비공개</string>
+    <string name="category_open_public">공개</string>
+    <string name="category_opensetting">공개설정</string>
+    <string name="category_post_title">전체글</string>
+    <string name="category_result_fail">"서버로부터 카테고리 정보를 가지고 오지 못하였습니다.
+잠시 후 다시 시도해주세요."</string>
+    <string name="category_selection_list_title">카테고리 선택</string>
+    <string name="category_short_title">카테고리</string>
+    <string name="category_title">카테고리 설정</string>
+    <string name="category_update_complete">수정되었습니다.</string>
+    <string name="category_update_or_delete">"
+해당 카테고리를 수정 또는 삭제하시겠습니까?
+"</string>
+    <string name="category_update_submit_btn">확인</string>
+    <string name="change_profile">이미지 교체</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="close">닫기</string>
+    <string name="collage">합치기</string>
+    <string name="collage_dialog_add_photo">사진 추가</string>
+    <string name="collage_dialog_fill_photo">사진이 모두 추가된 후에 저장가능합니다 빈 영역에 사진을 모두 추가해주세요.</string>
+    <string name="collage_dialog_loading">로드 중...</string>
+    <string name="collage_dialog_loading_failed_reselect">이미지 열기에 실패하였습니다. 다른 이미지를 선택해 주세요</string>
+    <string name="collage_dialog_not_enough_memory">메모리 부족으로 인해 합치기를 실행 할 수 없습니다.</string>
+    <string name="collage_dialog_saving">저장 중 입니다.</string>
+    <string name="collage_fail_to_open_choice_another">이미지 열기에 실패하였습니다. 다른 이미지를 선택해 주세요</string>
+    <string name="collage_image_count_condition">2~4개 사이의 사진을 선택해야 합칠 수 있습니다.</string>
+    <string name="collage_loading">로드 중...</string>
+    <string name="collage_not_enough_memory">메모리 부족으로 인해 합치기를 실행 할 수 없습니다.</string>
+    <string name="collage_saving">저장 중 입니다.</string>
+    <string name="collage_toast_fail_saving">이미지 저장에 실패하였습니다.</string>
+    <string name="collage_toast_starting_guide">2~4개 사이의 사진을 선택해야 합칠 수 있습니다.</string>
+    <string name="comment_list_footer_box_label">댓글을 입력하세요</string>
+    <string name="comment_list_footer_box_restricion_label">이 블로그는 글쓰기 제한 기능을 사용 중입니다</string>
+    <string name="comment_list_option_bad_report">신고</string>
+    <string name="comment_list_option_delete">삭제</string>
+    <string name="comment_list_option_go_blog">블로그가기</string>
+    <string name="comment_list_option_modify">수정</string>
+    <string name="comment_list_option_reply">답글쓰기</string>
+    <string name="comment_list_option_reply_sticker">스티커 답글쓰기</string>
+    <string name="comment_list_option_reply_title">댓글의 종류를 선택해주세요.</string>
+    <string name="comment_secret_reply_of_reply_write_hint">님에게 답글쓰기 [비밀 답글만 가능합니다]</string>
+    <string name="comment_secret_reply_write_hint">비밀 댓글의 답글은 비밀글만 가능합니다.</string>
+    <string name="comment_title">댓글</string>
+    <string name="comment_update_editor_reply_title">답글수정</string>
+    <string name="comment_update_editor_title">댓글수정</string>
+    <string name="comment_write_editor_secret">비밀글</string>
+    <string name="comment_write_editor_title">댓글쓰기</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="confirm_3g_dialog_contents">이동 통신망에 접속되어 있어 통신료가 발생할 수 있습니다. 전송하시겠습니까?</string>
+    <string name="contents_wdget_label_blog">"블로그 "</string>
+    <string name="contents_wdget_label_buddy_news">이웃새글</string>
+    <string name="contents_wdget_label_my_news">내소식</string>
+    <string name="contents_widget_login_noti">로그인 하려면 여기를 누르세요</string>
+    <string name="copy">복사</string>
+    <string name="copy_post_url">포스트 URL을 복사하였습니다.</string>
+    <string name="correction_auto">자동</string>
+    <string name="correction_brightness">밝기</string>
+    <string name="correction_color">색온도</string>
+    <string name="correction_contrast">대비</string>
+    <string name="correction_exposure">노출</string>
+    <string name="correction_saturation">채도</string>
+    <string name="correction_sharpness">선명도</string>
+    <string name="counter_widget_label">내 블로그 위젯</string>
+    <string name="counter_widget_login_noti">"로그인 하려면
+여기를 누르세요"</string>
+    <string name="counter_widget_title">내 블로그</string>
+    <string name="counter_widget_title_today">TODAY</string>
+    <string name="counter_widget_title_total">TOTAL</string>
+    <string name="cover_erorr">일시적인 오류로 커버 이미지를 불러오지 못했습니다.</string>
+    <string name="cover_guestbook_stamp_permit_error">이웃과 서로이웃에게만 안부글 쓰기를 허용하고 있습니다.</string>
+    <string name="cover_noti_max_langth_blogname">한글 25자, 영문 50자 이내로 입력해 주세요.</string>
+    <string name="cover_noti_max_langth_nickname">한글 10자, 영문 20자 이내로 입력해 주세요.</string>
+    <string name="cover_picture_menu_album">촬영 또는 앨범에서 선택</string>
+    <string name="cover_picture_menu_defaultlist">기본 커버 이미지</string>
+    <string name="cover_picture_menu_navercamera">LINE Camera 촬영</string>
+    <string name="cover_picture_menu_takepicture">사진 촬영</string>
+    <string name="cover_picture_select_title">커버사진을 선택하세요.</string>
+    <string name="cover_update_error">"일시적인 문제로 수정이 불가능합니다.
+잠시 후 다시 시도해 주십시오."</string>
+    <string name="cover_upload_image_max_size_noti">커버 이미지가 최대 용량인 10MB를 초과했습니다.</string>
+    <string name="create_goblog_shortcut_fail_empty">프로필 정보를 가져오지 못했습니다. 기본 런처가 등록됩니다.</string>
+    <string name="create_goblog_shortcut_message">바탕화면에 %s 바로가기 아이콘을 추가하시겠습니까?</string>
+    <string name="create_shortcut_message">바탕화면에 빠른 실행 아이콘을 추가하시겠습니까?</string>
+    <string name="cropnrotate_16_9_ratio">16:9</string>
+    <string name="cropnrotate_1_1_ratio">1:1</string>
+    <string name="cropnrotate_2_3_ratio">2:3</string>
+    <string name="cropnrotate_3_2_ratio">3:2</string>
+    <string name="cropnrotate_3_4_ratio">3:4</string>
+    <string name="cropnrotate_4_3_ratio">4:3</string>
+    <string name="cropnrotate_4_5_ratio">4:5</string>
+    <string name="cropnrotate_5_4_ratio">5:4</string>
+    <string name="cropnrotate_9_16_ratio">9:16</string>
+    <string name="cropnrotate_free_ratio">자유</string>
+    <string name="cropnrotate_original_ratio">원본</string>
+    <string name="cropnrotate_rotate">회전</string>
+    <string name="current_version">현재 버전</string>
+    <string name="date_empty" />
+    <string name="date_month_day">%1$s월 %2$s일</string>
+    <string name="date_year_month_day">%1$s년 %2$s월 %3$s일</string>
+    <string name="db_image_not_found">"이미지
+준비중"</string>
+    <string name="defaulteditor_button_edit">편집</string>
+    <string name="defaulteditor_button_image_style">이미지형</string>
+    <string name="defaulteditor_button_replace_image">이미지 교체</string>
+    <string name="defaulteditor_button_representative_place">대표 위치로 지정</string>
+    <string name="defaulteditor_common_device_file">휴대폰 파일</string>
+    <string name="defaulteditor_common_ndrive">네이버 클라우드</string>
+    <string name="defaulteditor_common_select_file">첨부파일 선택</string>
+    <string name="defaulteditor_dialog_book">책</string>
+    <string name="defaulteditor_dialog_broadcast">TV 방송</string>
+    <string name="defaulteditor_dialog_movie">영화</string>
+    <string name="defaulteditor_dialog_music">음악</string>
+    <string name="defaulteditor_dialog_select_material">글감 선택</string>
+    <string name="defaulteditor_ogdialog_check_url">링크를 다시 확인해주세요.</string>
+    <string name="defaulteditor_ogdialog_load_error">해당 링크의 정보를 불러올 수 없습니다.</string>
+    <string name="defaulteditor_placeholder_fromblog">From. 블로그씨</string>
+    <string name="defaulteditor_placeholder_imagedesc">사진 설명을 입력하세요.</string>
+    <string name="defaulteditor_placeholder_videodesc">동영상 설명을 입력하세요.</string>
+    <string name="defaulteditor_text_schedule_guide">일정 편집은 PC에서만 가능합니다.</string>
+    <string name="defaulteditor_toast_none_talktalk_account">유효한 톡톡 계정이 존재하지 않습니다</string>
+    <string name="defaulteditor_toolbar_align">정렬</string>
+    <string name="defaulteditor_toolbar_code">코드</string>
+    <string name="defaulteditor_toolbar_dividerline">구분선</string>
+    <string name="defaulteditor_toolbar_file">파일</string>
+    <string name="defaulteditor_toolbar_location">장소</string>
+    <string name="defaulteditor_toolbar_ogtag">링크</string>
+    <string name="defaulteditor_toolbar_photo">사진</string>
+    <string name="defaulteditor_toolbar_quote">인용구</string>
+    <string name="defaulteditor_toolbar_sound">오디오</string>
+    <string name="defaulteditor_toolbar_sticker">스티커</string>
+    <string name="defaulteditor_toolbar_talktalk">톡톡</string>
+    <string name="defaulteditor_toolbar_text">글자 속성</string>
+    <string name="defaulteditor_toolbar_topicsearch">글감 검색</string>
+    <string name="defaulteditor_toolbar_video">동영상</string>
+    <string name="defualteditor_button_text_style">텍스트형</string>
+    <string name="defualteditor_text_video_play_guide">글 등록 후에 재생 가능합니다.</string>
+    <string name="delete_all_saved_post">전체 임시저장글을 삭제하시겠습니까?</string>
+    <string name="delete_all_saved_postbtn">전체삭제</string>
+    <string name="delete_saved_post">선택된 임시저장글을 삭제하시겠습니까?</string>
+    <string name="delete_saved_post_btn">삭제</string>
+    <string name="delete_saved_postbtn_cancel">취소</string>
+    <string name="device_setting">환경설정</string>
+    <string name="dialog_write_comment_cancel_title">취소</string>
+    <string name="distance_sort">거리순</string>
+    <string name="done">완료</string>
+    <string name="drama_db_list_item_casting">출연</string>
+    <string name="drama_db_list_item_date">방송</string>
+    <string name="drama_db_list_item_director">연출</string>
+    <string name="drama_db_list_search_hint">TV, 방송제목, 배우를 입력하세요.</string>
+    <string name="drama_db_list_search_noti">"제목이나 출연자로 방송을 검색하고
+글감을 선택해보세요."</string>
+    <string name="drama_db_list_title">TV방송 선택</string>
+    <string name="dramalist_header_title">TV방송 선택</string>
+    <string name="dramalist_placeholder_guide">"제목이나 출연자로 방송을 검색하고
+글감을 선택해보세요."</string>
+    <string name="dramalist_placeholder_search">TV 방송 제목을 검색하세요.</string>
+    <string name="dramalist_text_casting">출연</string>
+    <string name="dramalist_text_date">방송</string>
+    <string name="dramalist_text_director">연출</string>
+    <string name="drawer_menu_blog_smart_bot_description">블로그에 대한 궁금증을 답변해드리는 블로그 스마트봇 입니다.</string>
+    <string name="drawer_menu_go_to_today_history_landing">지난 오늘 글</string>
+    <string name="drawer_menu_help_desk">블로그 고객센터</string>
+    <string name="drawer_menu_login_info">로그인 정보</string>
+    <string name="drawer_menu_notice">공지사항</string>
+    <string name="drawer_menu_official">공식블로그</string>
+    <string name="drawer_menu_pc_viewer">PC버전으로 보기</string>
+    <string name="drawer_menu_recommend">블로그 홈</string>
+    <string name="drawer_menu_setting">환경설정</string>
+    <string name="drawer_menu_suggestion">이달의 블로그</string>
+    <string name="drawer_menu_teamblog">블로그팀 공식블로그</string>
+    <string name="drawer_menu_test">테스트 페이지</string>
+    <string name="drawer_my_counter">오늘 %1$s • 전체 %2$s</string>
+    <string name="drawer_stat_axis_label_format">%s일</string>
+    <string name="drawer_stat_title_text">일별 조회수</string>
+    <string name="drawer_stat_title_text_visit_count">일별 방문횟수</string>
+    <string name="drawer_stat_title_time">%s시 현재</string>
+    <string name="drawer_tab_buddy_list">이웃목록</string>
+    <string name="drawer_tab_my_news">내소식</string>
+    <string name="drawer_tab_stats">통계</string>
+    <string name="drawer_tab_write">글쓰기</string>
+    <string name="edit_list_add_post">글 추가하기</string>
+    <string name="edit_list_no_item_text">"+ 글 추가하기 버튼을 눌러 글을 추가해 보세요.
+전체공개 글로 최대 10개까지 추가 가능합니다."</string>
+    <string name="edit_list_notice_cancel">변경사항을 저장하지 않고 나가시겠습니까</string>
+    <string name="edit_list_notice_count">%d/10</string>
+    <string name="edit_list_notice_exit">나가기</string>
+    <string name="edit_list_notice_no">아니요</string>
+    <string name="edit_list_notice_text">전체공개 글로 최대 10개까지 추가 가능합니다.</string>
+    <string name="edit_list_remove">삭제</string>
+    <string name="edit_list_remove_dialog_cancle">아니요</string>
+    <string name="edit_list_remove_dialog_confirm">삭제하기</string>
+    <string name="edit_list_remove_dialog_msg">이 글을 대표글 목록에서 삭제하시겠습니까?</string>
+    <string name="edit_saved_delete_dialog_title">삭제</string>
+    <string name="empty_item_string">empty</string>
+    <string name="empty_list_string">empty</string>
+    <string name="empty_msg">empty</string>
+    <string name="error">스티커 설치 중 에러가 발생했습니다.</string>
+    <string name="error_list_string">error</string>
+    <string name="error_msg_have_to_update_version_title">안드로이드 블로그앱 4.0.39 이하 버전 지원 종료 안내</string>
+    <string name="error_msg_invalid_service_response">네트워크 연결에 실패하였습니다. 임시 저장하시겠습니까?</string>
+    <string name="error_msg_mrblog_query_fail">일시적인 오류로 블로그씨 질문을 가져오지 못했습니다.</string>
+    <string name="error_msg_no_network">네트워크 연결에 실패하였습니다. 임시 저장하시겠습니까?</string>
+    <string name="error_msg_no_network_post">네트워크 문제로 포스트를 저장하지 못했습니다.</string>
+    <string name="error_msg_post_fail">일시적인 문제로 포스트를 저장하지 못했습니다.</string>
+    <string name="error_msg_ros_fail">올리기 실패했습니다. 임시저장하시겠습니까?</string>
+    <string name="error_msg_sd_card_full">SD 카드에 메모리가 부족합니다.</string>
+    <string name="error_msg_sd_card_not_available">SD카드를 넣으십시오.</string>
+    <string name="error_msg_server_error">서버로부터 알 수 없는 에러를 받았습니다.</string>
+    <string name="error_msg_update_fail">저장 중 오류가 발생하였습니다. 다시 시도해 주시기 바랍니다.</string>
+    <string name="error_msg_upload_file_failed">일시적인 문제로 파일을 첨부할 수 없습니다.</string>
+    <string name="error_msg_upload_image_connect_fail">인터넷에 연결되지 않아 사진 첨부를 할 수 없습니다.</string>
+    <string name="error_msg_upload_image_fail">일시적인 문제로 사진을 첨부할 수 없습니다.</string>
+    <string name="error_msg_upload_map_connect_failed">인터넷에 연결되지 않아 지도 첨부를 할 수 없습니다.</string>
+    <string name="error_msg_upload_map_failed">지도올리기 실패했습니다. 임시저장하시겠습니까?</string>
+    <string name="error_msg_upload_video_connect_fail">인터넷에 연결되지 않아 동영상 첨부를 할 수 없습니다.</string>
+    <string name="error_msg_upload_video_fail">일시적인 문제로 동영상을 첨부할 수 없습니다.</string>
+    <string name="error_not_found">파일을 찾을 수 없습니다</string>
+    <string name="error_retry">"에러가 발생했습니다.
+다시 시도해 주세요."</string>
+    <string name="error_toast">"일시적으로 정보를 불러올 수 없습니다.
+잠시 후 다시 시도해주세요."</string>
+    <string name="exact_sort">정확도순</string>
+    <string name="external_db_list_error_message">목록을 가져오는 중에 오류가 발생했습니다. 잠시후 다시 시도해 주세요.</string>
+    <string name="external_db_list_loading_text">"이미지
+준비중"</string>
+    <string name="external_db_list_not_found_message">검색 결과가 없습니다. 검색어를 확인하신 후 다시 검색해 주세요</string>
+    <string name="externalpost_intro">외부채널의 활동내용을 가져옵니다.</string>
+    <string name="externalpost_no_connected_external_channel_list">연동된 외부채널 목록이 없습니다.</string>
+    <string name="externalpost_no_postlist">등록된 글이 없습니다.</string>
+    <string name="externalpost_postlist_reloading">콘텐츠 다시 불러오기</string>
+    <string name="externalpost_title">외부채널 글</string>
+    <string name="fail_temp_save_confirmation">포스트 내용을 입력해주세요.</string>
+    <string name="feed_block_sub_title">글 목록 보기 방식을 선택할 수 있습니다.</string>
+    <string name="feed_block_title">글 목록</string>
+    <string name="feed_block_type_card">카드형</string>
+    <string name="feed_block_type_list">목록형</string>
+    <string name="feed_block_type_photo">앨범형</string>
+    <string name="feed_buddy_list_empty_title_first_line">업데이트된 이웃새글이 없습니다.</string>
+    <string name="feed_buddy_list_empty_title_second_line">더 많은 이웃들을 추가해보세요.</string>
+    <string name="feed_buddy_option_app_noti_off">해당 이웃의 새글알림을 확인하지 않습니다.</string>
+    <string name="feed_buddy_option_app_noti_on">해당 이웃의 새글알림을 확인할 수 있습니다.</string>
+    <string name="feed_buddy_option_buddy_noti_off">해당 이웃의 새글을 보지 않습니다.</string>
+    <string name="feed_buddy_option_buddy_noti_on">해당 이웃의 새글을 볼 수 있습니다.</string>
+    <string name="feed_buddy_post_scrap_comment">님께서 공유한 글</string>
+    <string name="feed_buddy_recommend_add_dialog">이웃으로 추가하시겠습니까?</string>
+    <string name="feed_buddy_recommend_add_ok">이웃이 추가되었습니다.</string>
+    <string name="feed_buddy_recommend_remove_dialog">이웃을 끊으시겠습니까?</string>
+    <string name="feed_buddy_recommend_remove_ok">이웃을 끊었습니다.</string>
+    <string name="feed_date_end_delete">에</string>
+    <string name="feed_date_format">yyyy. M. d.</string>
+    <string name="feed_dialog_no">취소</string>
+    <string name="feed_dialog_yes">확인</string>
+    <string name="feed_empty_buddy_post">알림! 이웃새글이 없을 경우 AiRS 추천글을 보여드립니다. 부적절한 콘텐츠의 경우 신고할 수 있습니다.</string>
+    <string name="feed_error_add_list">"일시적으로 정보를 불러올 수 없습니다.
+잠시 후 다시 시도해주세요."</string>
+    <string name="feed_error_ros">"점검 중 이용할 수 없는 기능입니다.
+점검 후 이용해주시기 바랍니다."</string>
+    <string name="feed_event_notice_link">바로가기</string>
+    <string name="feed_event_notice_nickname">님</string>
+    <string name="feed_item_post_brief_contents">내용요약</string>
+    <string name="feed_item_post_no_brief_contents">내용 없음</string>
+    <string name="feed_item_post_number_of_attached_picture_and_video">첨부 된 사진 및 동영상 수 %d개</string>
+    <string name="feed_item_post_ogtag_info">"공유한 포스트 제목 %1$s 
+ 내용 %2$s 
+ 도메인 %3$s"</string>
+    <string name="feed_item_post_title">제목</string>
+    <string name="feed_like_sub_text">공감해요</string>
+    <string name="feed_like_text">공감</string>
+    <string name="feed_message_text">댓글</string>
+    <string name="feed_notice_notice">공지!</string>
+    <string name="feed_notice_notice_default">블로그앱에 오신 것을 환영합니다.</string>
+    <string name="feed_share">공유하기</string>
+    <string name="file_save_fail">"다운로드를 실패했습니다.
+다시 시도해주세요."</string>
+    <string name="file_save_finish">파일을 저장했습니다</string>
+    <string name="file_save_start">다운로드를 시작합니다</string>
+    <string name="file_select_list_upper">상위 폴더로 이동</string>
+    <string name="freind_request_dialog_header_select_category">카테고리 선택</string>
+    <string name="freind_request_dialog_header_select_group">이웃 그룹 선택</string>
+    <string name="gallery_list_collage_max_tooltip">5장부터는 합치기를 지원하지 않습니다.</string>
+    <string name="gallery_picker_all_photo">모든 사진</string>
+    <string name="gallery_picker_image_over_ratio">세로 길이가 긴 사진은 첨부가 되지 않습니다.</string>
+    <string name="gallery_picker_loading_image_error">메모리가 부족하여 사진을 불러오지 못했습니다.</string>
+    <string name="gallery_picker_save_image_over_memory">메모리가 부족하여 가로 %1$s픽셀 기준으로 이미지가 저장됩니다.</string>
+    <string name="gallerypicker_bucket_all_images">카메라롤</string>
+    <string name="gallerypicker_bucket_all_videos">모든 동영상</string>
+    <string name="gallerypicker_button_create_gif">움짤 만들기</string>
+    <string name="gallerypicker_button_gif_camera">움짤촬영</string>
+    <string name="gallerypicker_button_input_video_link">URL 링크 입력</string>
+    <string name="gallerypicker_common_collage">합치기</string>
+    <string name="gallerypicker_common_editing">간단편집</string>
+    <string name="gallerypicker_dialog_facebook">페이스북</string>
+    <string name="gallerypicker_dialog_image_attaching">이미지 첨부중입니다</string>
+    <string name="gallerypicker_dialog_instagram">인스타그램</string>
+    <string name="gallerypicker_dialog_install">설치</string>
+    <string name="gallerypicker_dialog_install_line_camera">"보다 더 많은 필터 효과, 보정을 원하세요?
+LINE Camera 앱을 설치하세요!"</string>
+    <string name="gallerypicker_dialog_install_ncloud">"내 사진을 어디서나 꺼내볼 수 있는
+네이버 클라우드 앱을 설치해보세요.
+(사진/파일 첨부를 위해 최신버전의
+앱으로 업데이트 해주세요.)"</string>
+    <string name="gallerypicker_dialog_load_images">불러오기</string>
+    <string name="gallerypicker_dialog_loading">로드 중...</string>
+    <string name="gallerypicker_dialog_ncloud">클라우드</string>
+    <string name="gallerypicker_dialog_ok">확인</string>
+    <string name="gallerypicker_dialog_pholar">폴라</string>
+    <string name="gallerypicker_dialog_photo">사진</string>
+    <string name="gallerypicker_dialog_start_line_camera">상세 편집을 위해 LINE Camera 앱을 실행합니다.</string>
+    <string name="gallerypicker_dialog_video">동영상</string>
+    <string name="gallerypicker_gifbukcet_all">모든 유형</string>
+    <string name="gallerypicker_gifbukcet_photo">사진</string>
+    <string name="gallerypicker_gifbukcet_video">비디오</string>
+    <string name="gallerypicker_header_album">앨범</string>
+    <string name="gallerypicker_header_gif">움짤</string>
+    <string name="gallerypicker_photo_edit">사진 편집</string>
+    <string name="gallerypicker_text_make_page_respectively">이미지 1개당 1페이지씩 생성</string>
+    <string name="gallerypicker_text_not_exist_image">이미지가 없습니다</string>
+    <string name="gallerypicker_toast_add">추가</string>
+    <string name="gallerypicker_toast_attaching_image_over_count">사진은 %d장까지만 첨부 가능합니다.</string>
+    <string name="gallerypicker_toast_attaching_media_over_count">이미지나 동영상은 %d개까지 선택할 수 있습니다.</string>
+    <string name="gallerypicker_toast_camera">카메라</string>
+    <string name="gallerypicker_toast_image_loading_failed_network">서버 연결이 실패하여 사진을 불러오지 못했습니다.</string>
+    <string name="gallerypicker_toast_image_over_size">%dMB가 넘는 이미지를 선택할 수 없습니다.</string>
+    <string name="gallerypicker_toast_image_over_size_20">20MB가 넘는 원본 이미지는 첨부가 되지 않습니다. 등록정보 상세설정 첨부이미지 크기값을 바꿔주세요.</string>
+    <string name="gallerypicker_toast_loading_error_exception">오류가 발생하여 갤러리 사진이 정상적으로 나오지 않습니다.</string>
+    <string name="gallerypicker_toast_loading_error_oom">메모리가 부족하여 갤러리 사진이 정상적으로 나오지 않습니다.</string>
+    <string name="gallerypicker_toast_loading_image_error_memory">메모리가 부족하여 사진을 불러오지 못했습니다.</string>
+    <string name="gallerypicker_toast_malformed_image">"해당 이미지 파일에 문제가 있습니다.
+다른 이미지를 선택해주세요."</string>
+    <string name="gallerypicker_toast_malformed_video">"해당 비디오 파일에 문제가 있습니다.
+다른 영상을 선택해주세요."</string>
+    <string name="gallerypicker_toast_not_enough_disk_memory">기기의 용량이 부족하여 첨부할 수가 없습니다. 사용하지 않는 파일들을 정리해주세요.</string>
+    <string name="gallerypicker_toast_over_max_attach_size">"첨부 전체 크기가 1회 업로드 제한 용량 %dMB를 넘습니다. 
+사진이나 영상 파일 갯수를 줄여주세요."</string>
+    <string name="gallerypicker_toast_over_max_attach_size_300">"첨부 전체 크기가 1회 업로드 제한 용량 300MB를 넘습니다. 
+사진이나 영상 파일 갯수를 줄여주세요."</string>
+    <string name="gallerypicker_toast_partly_attach_failed_memory">"메모리 부족으로 일부 사진이 첨부 실패되었습니다.
+ 메모리 용량을 확보 후 다시 시도해주세요"</string>
+    <string name="gallerypicker_toast_remote_image_error">불러올 수 없는 사진 입니다.</string>
+    <string name="gallerypicker_toast_resize_fail">메모리가 부족하여 리사이징 작업이 실패하였습니다.</string>
+    <string name="gallerypicker_toast_select_photo">사진을 선택해주세요</string>
+    <string name="gallerypicker_toast_selected_image_page_create_completed">선택한 이미지 수만큼 페이지가 생성되었습니다. 잠시후 목록으로 이동합니다.</string>
+    <string name="gallerypicker_toast_some_image_over_size_20">20MB가 넘는 이미지가 있어 첨부가 되지 않습니다.</string>
+    <string name="gallerypicker_toast_some_image_over_size_20_guide">20MB가 넘는 이미지가 있어 첨부가 되지 않습니다. 등록정보 상세설정 첨부이미지 크기값을 바꿔주세요.</string>
+    <string name="gallerypicker_toast_storage">저장</string>
+    <string name="gallerypicker_toast_video_over_size_300">300MB가 넘는 비디오는 첨부가 되지 않습니다.</string>
+    <string name="gallerypicker_toast_volumnup">소리가 있는 동영상입니다. 볼륨을 키워주세요</string>
+    <string name="gallerypicker_tooltip_create_gif_from_camera">움짤을 직접 촬영해보세요!</string>
+    <string name="gallerypicker_tooltip_create_gif_from_select_or_capture">움짤을 만들거나 촬영을 할 수 있어요!</string>
+    <string name="gallerypicker_tvcast">네이버TV</string>
+    <string name="gallerypicker_tvcast_search">네이버TV 검색</string>
+    <string name="gallerypicker_videodialog_copyright">저작권 등 다른 사람의 권리를 침해하거나 명예를 훼손하는 동영상은 이용약관 및 관련 법률에 의해 제재를 받으실 수 있습니다.</string>
+    <string name="gallerypicker_videodialog_invalid_url">"해당 링크의 정보를 불러올 수 없습니다.
+링크를 다시 확인해주세요."</string>
+    <string name="gallerypicker_videodialog_valid_list">네이버TV, 블로그, 카페, YouTube, 다음 TV팟</string>
+    <string name="gallerypicker_videodialog_valid_url">사용가능한 동영상 서비스</string>
+    <string name="gallerypicker_videodialog_valid_url_list_except_tvpot">네이버TV, 블로그, 카페, YouTube</string>
+    <string name="get_category_list_fail">일시적으로 카테고리 정보를 가져올 수 없습니다.</string>
+    <string name="gifmaker_button_fit_screen">화면맞춤</string>
+    <string name="gifmaker_button_forward">정방향</string>
+    <string name="gifmaker_button_original_ratio">원본비율</string>
+    <string name="gifmaker_button_reverse">되감기</string>
+    <string name="gifmaker_button_speed">배속</string>
+    <string name="gifmaker_dialog_camera_unavailable">카메라를 실행할 수 없습니다.</string>
+    <string name="gifmaker_text_select_3_sec">원하는 구간을 선택하세요. (3초)</string>
+    <string name="gifmaker_text_select_section">원하는 구간을 선택하세요.</string>
+    <string name="gifmaker_toast_unavailable_video">"재생이 되지 않는 동영상입니다.
+다른 동영상을 선택해주세요."</string>
+    <string name="gnb_tab_text_feed">이웃새글</string>
+    <string name="gnb_tab_text_myblog">내블로그</string>
+    <string name="gnb_tab_text_news">내소식</string>
+    <string name="gnb_tab_text_recommendation">추천</string>
+    <string name="gnb_tab_text_write">글쓰기</string>
+    <string name="go_blog_home_title">이 블로그 홈</string>
+    <string name="goblog_shortcut_myblog">내블로그</string>
+    <string name="goblog_shortcut_othersblog">님의 블로그</string>
+    <string name="gp_camcorder">동영상 촬영</string>
+    <string name="gp_cancel">취소</string>
+    <string name="gp_complete">완료</string>
+    <string name="gp_dialog_select_video">동영상 유형 선택</string>
+    <string name="gp_format_360">360VR 동영상</string>
+    <string name="gp_format_general">일반 동영상</string>
+    <string name="gp_make_gif">움짤 만들기</string>
+    <string name="gp_ncloud">N클라우드</string>
+    <string name="gp_sns_photo">SNS</string>
+    <string name="gp_sns_warning_group_id">단체아이디는 SNS사진 연동을 지원하지 않습니다.</string>
+    <string name="gp_take_photo">사진 촬영</string>
+    <string name="gp_video_link">동영상 링크</string>
+    <string name="guestbook_comment_editor_title">안부글 댓글쓰기</string>
+    <string name="guestbook_write_editor_title">안부글쓰기</string>
+    <string name="header_item_my_menu">마이 메뉴</string>
+    <string name="home_turnoff_toast">"'뒤로'버튼을 한번 더 누르시면 종료됩니다."</string>
+    <string name="imageditor_tutorial_start">시작하기 ></string>
+    <string name="imageeditor_button_attach">첨부</string>
+    <string name="imageeditor_button_complete">완료하기</string>
+    <string name="imageeditor_dialog_ask_delete">삭제하시겠습니까?</string>
+    <string name="imageeditor_error">사진 편집 중 오류가 발생했습니다.</string>
+    <string name="imageeditor_oom">"사진을 편집하기에 메모리가 부족합니다.
+글쓰기 설정에서 작은 사진 크기로 변경해주세요."</string>
+    <string name="imageeditor_save">첨부</string>
+    <string name="imageeditor_sign_cancel">취소</string>
+    <string name="imageeditor_sign_confirm">확인</string>
+    <string name="imageeditor_sign_fail">"메모리 부족 혹은 다른 문제로
+서명 편집을 할 수 없습니다.
+다시 시도해주세요."</string>
+    <string name="imageeditor_sign_title">삭제하시겠습니까?</string>
+    <string name="imageeditor_title">간단편집</string>
+    <string name="imageeditor_toast_edit_sign_failed">"메모리 부족 혹은 다른 문제로
+서명 편집을 할 수 없습니다.
+다시 시도해주세요."</string>
+    <string name="imageeditor_toast_editing_error">사진 편집 중 오류가 발생했습니다.</string>
+    <string name="imageeditor_toast_editing_error_oom">"사진을 편집하기에 메모리가 부족합니다.
+글쓰기 설정에서 작은 사진 크기로 변경해주세요."</string>
+    <string name="imageeditor_toast_save_image_not_enough_memory">메모리가 부족하여 가로 %1$s픽셀 기준으로 이미지가 저장됩니다.</string>
+    <string name="imageview_save">저장</string>
+    <string name="imageview_save_request">저장 하시겠습니까?</string>
+    <string name="imageview_save_request_title">저장하기</string>
+    <string name="inapp_webview_activity_close">종료</string>
+    <string name="inapp_webview_activity_go_web">웹 브라우저로 보기</string>
+    <string name="inapp_webview_activity_next_page">다음 페이지</string>
+    <string name="inapp_webview_activity_prev_page">이전 페이지</string>
+    <string name="inducement_card_view_close_text">닫기</string>
+    <string name="inducement_common_hide_message">닫기</string>
+    <string name="inducement_common_picture_more">더보기</string>
+    <string name="inducement_common_picture_secret_message">현재 추천되는 사진은 나만 볼 수 있어요</string>
+    <string name="inducement_cue_link_info">링크 정보</string>
+    <string name="inducement_cue_recent_picture_item">항목</string>
+    <string name="inducement_description_default_string">Description</string>
+    <string name="inducement_instagram_picture">인스타그램에 올린 사진을 남겨보세요.</string>
+    <string name="inducement_link">복사한 링크를 남겨 보세요.</string>
+    <string name="inducement_link_hint">해당 링크는 나만 볼 수 있어요</string>
+    <string name="inducement_none_post_picture">"최근 1개월간 작성한 글이 없습니다.
+이웃들에게 새로운 소식을 알려보세요."</string>
+    <string name="inducement_purchaseList_hint">구매한 콘텐츠는 나만 볼 수 있어요</string>
+    <string name="inducement_recent_picture">간단한 글과 사진은 여기에 남겨보세요.</string>
+    <string name="inducement_recent_picture_activate">여기를 눌러 글을 써보세요.</string>
+    <string name="inducement_simple_title">간단한 글은 여기에 남겨보세요.</string>
+    <string name="inducement_title_default_string">Title</string>
+    <string name="ingredient_button_undo">실행 취소</string>
+    <string name="ingredient_header_title">재료</string>
+    <string name="ingredient_placeholder_additional_ingredient">추가재료</string>
+    <string name="ingredient_placeholder_default_ingredient">기본재료</string>
+    <string name="ingredient_text_removed">삭제되었습니다</string>
+    <string name="ingredient_toast_already_added">이미 등록된 재료입니다.</string>
+    <string name="ingredient_toast_length_restriction">재료는 %d 글자를 넘을 수 없습니다.</string>
+    <string name="introduce_block_agreement_decription">[필수] 개인정보 수집 및 이용 동의</string>
+    <string name="introduce_block_agreement_detail">자세히 보기</string>
+    <string name="introduce_block_agreement_detail_alert_message">내 블로그에 공개 목적으로 저장되는 전화번호와 주소는 이용자가 언제든지 삭제 가능하며 회원탈퇴 시에도 지체없이 파기됩니다. 개인정보 오기재, 타인 정보 입력 시 회사에 의해 비공개 전환 또는 삭제 처리됩니다.</string>
+    <string name="introduce_block_agreement_detail_alert_title">개인정보 수집 및 이용 동의</string>
+    <string name="introduce_block_copied_address_toast">주소를 복사했습니다.</string>
+    <string name="introduce_block_edittext_hint">소개글을 입력하세요.</string>
+    <string name="introduce_block_edittext_location_hint">주소를 입력하세요.</string>
+    <string name="introduce_block_edittext_phone_hint">전화번호를 입력하세요.</string>
+    <string name="introduce_block_intro">내 블로그를 소개합니다.</string>
+    <string name="introduce_block_loacation_activity_header">주소 추가</string>
+    <string name="introduce_block_make_a_call">전화하기</string>
+    <string name="introduce_block_max_input_notice">소개글은 한글 200자/영문 400자까지 가능합니다.</string>
+    <string name="introduce_block_not_agreement_detail_alert_message">전화번호 또는 주소의 개인정보 수집 및 이용 동의 약관에 동의해주세요.</string>
+    <string name="introduce_block_search_place_result_empty">검색결과가 없습니다.</string>
+    <string name="introduce_block_search_place_result_empty_button">지도 보기</string>
+    <string name="introduce_block_search_place_result_empty_sub_string">지도 보기를 눌러 주소를 추가해보세요.</string>
+    <string name="introduce_block_search_place_result_error_button">새로고침</string>
+    <string name="introduce_block_search_place_result_error_sub_string">네트워크 환경을 확인하거나 새로고침 버튼을 눌러주세요.</string>
+    <string name="introduce_block_the_location_view">위치보기</string>
+    <string name="introduce_block_title">소개</string>
+    <string name="introduce_block_title_explain">소개글 설명</string>
+    <string name="introduce_block_under_fourteen_alert_message">만 14세 미만의 아동은 전화번호/주소 수집 및 처리를 위해 법정대리인의 동의가 필요하므로 전화번호/주소 입출력 기능 이용을 제한합니다.</string>
+    <string name="introduce_block_under_fourteen_alert_title">전화번호/주소 기능을 이용할 수 없습니다.</string>
+    <string name="introduce_prohibit_word">소개글에 이용자들의 신고가 많은 표현(%s)이 포함되어 있습니다.</string>
+    <string name="js_dialog_before_unload">"%s
+
+다른 페이지로 이동하시겠습니까?"</string>
+    <string name="js_dialog_before_unload_negative_button">이 페이지에 머무르기</string>
+    <string name="js_dialog_before_unload_positive_button">이 페이지 닫기</string>
+    <string name="js_dialog_before_unload_title">탐색 확인</string>
+    <string name="js_dialog_cancel">취소</string>
+    <string name="js_dialog_ok">확인</string>
+    <string name="js_dialog_title">"'%s' 페이지 내용:"</string>
+    <string name="js_dialog_title_default">자바스크립트</string>
+    <string name="key_body_view">BodyView</string>
+    <string name="key_notice_data">NaverNoticeData</string>
+    <string name="kind_blog_landing_empty_view_msg">"오늘은 돌아볼 추억이 없습니다. 
+추억이 될 기록을 남겨보세요."</string>
+    <string name="kind_blog_landing_item_btn_already_shared">이미 공유하신 추억입니다.</string>
+    <string name="kind_blog_landing_item_btn_private_title">"이 글은 비공개글입니다.
+공개글로 변경하면 공유할 수 있어요."</string>
+    <string name="kind_blog_landing_item_btn_write">추억을 공유해보세요.</string>
+    <string name="kind_blog_landing_title_description_postfix">개의 글이 있습니다</string>
+    <string name="kind_blog_landing_title_today">오늘</string>
+    <string name="kind_blog_landing_title_year_postfix">년 전</string>
+    <string name="lately_word_all_delete">전체삭제</string>
+    <string name="lately_word_off">자동저장 끄기</string>
+    <string name="lately_word_on">자동저장 켜기</string>
+    <string name="lately_word_title">최근 검색어</string>
+    <string name="license_notice_content">"THE FOLLOWING SETS FORTH ATTRIBUTION NOTICES FOR THIRD PARTY SOFTWARE THAT MAY BE CONTAINED IN THIS APPLICATION.
+ 
+ =====
+ 
+ The following software may be included in this application: android-logging-log4j from https://code.google.com/p/android-logging-log4j/
+ This software contains the following license and notice below:
+ 
+ /*
+ Copyright 2011 Rolf Kulemann, Pascal Bockhorn
+ 
+ Licensed under the Apache License, Version 2.0 (the License);
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+ 
+ http://www.apache.org/licenses/LICENSE-2.0
+ 
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an AS IS BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+ */
+ 
+ =====
+ 
+ The following software may be included in this application: Apache HttpComponents Client from http://hc.apache.org/httpcomponents-client-ga/index.html
+ This software contains the following license and notice below:
+ 
+ Apache HttpComponents Client
+ Copyright 1999-2017 The Apache Software Foundation
+ 
+ This product includes software developed at
+ The Apache Software Foundation (http://www.apache.org/).
+ 
+ Licensed under the Apache License, Version 2.0 (the License);
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+ 
+ http://www.apache.org/licenses/LICENSE-2.0
+ 
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an AS IS BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+ 
+ This project contains annotations derived from JCIP-ANNOTATIONS
+ Copyright (c) 2005 Brian Goetz and Tim Peierls.
+ See http://www.jcip.net and the Creative Commons Attribution License
+ (http://creativecommons.org/licenses/by/2.5)
+ 
+ =====
+ 
+ The following software may be included in this application: Apache log4j from https://logging.apache.org/log4j/
+ This software contains the following license and notice below:
+ 
+ Copyright 1999-2005 The Apache Software Foundation
+ 
+ Licensed under the Apache License, Version 2.0 (the License);
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+ 
+ http://www.apache.org/licenses/LICENSE-2.0
+ 
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an AS IS BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+ 
+ =====
+ 
+ The following software may be included in this application: Android Source from http://source.android.com/
+ This software contains the following license and notice below:
+ 
+ Copyright (C) 2006 The Android Open Source Project
+ 
+ Licensed under the Apache License, Version 2.0 (the License);
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+ 
+ http://www.apache.org/licenses/LICENSE-2.0
+ 
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an AS IS BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+ 
+ =====
+ 
+ The following software may be included in this application: Apache Commons IO from http://commons.apache.org/proper/commons-io/
+ This software contains the following license and notice below:
+ 
+ Apache Commons IO
+ Copyright 2002-2016 The Apache Software Foundation
+ 
+ This product includes software developed at
+ The Apache Software Foundation (http://www.apache.org/).
+ 
+ Licensed under the Apache License, Version 2.0 (the License);
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+ 
+ http://www.apache.org/licenses/LICENSE-2.0
+ 
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an AS IS BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+ 
+ =====
+ 
+ The following software may be included in this application: wasabeef/glide-transformations from https://github.com/wasabeef/glide-transformations
+ This software contains the following license and notice below:
+ 
+ Copyright 2017 Wasabeef
+ 
+ Licensed under the Apache License, Version 2.0 (the License);
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+ 
+ http://www.apache.org/licenses/LICENSE-2.0
+ 
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an AS IS BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+ 
+ =====
+ 
+ The following software may be included in this application: iPaulPro/Android-ItemTouchHelper-Demo from https://github.com/iPaulPro/Android-ItemTouchHelper-Demo/
+ This software contains the following license and notice below:
+ 
+ Copyright (C) 2015 Paul Burke
+ 
+ Licensed under the Apache License, Version 2.0 (the License);
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+ 
+ http://www.apache.org/licenses/LICENSE-2.0
+ 
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an AS IS BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+ 
+ =====
+ 
+ The following software may be included in this application: gvaish/Android-MVC from https://github.com/gvaish/Android-MVC
+ This software contains the following license and notice below:
+ 
+ (C) 2010-2013, Gaurav Vaish
+ http://www.m10v.com
+ All code is available under Apache Public License v2.0
+ 
+ Licensed under the Apache License, Version 2.0 (the License);
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+ 
+ http://www.apache.org/licenses/LICENSE-2.0
+ 
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an AS IS BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+ 
+ =====
+ 
+ The following software may be included in this application: thest1/LazyList from https://github.com/thest1/LazyList
+ This software contains the following license and notice below:
+ 
+ (The MIT License)
+ 
+ Copyright (c) 2009-2012 Fedor Vlasov &lt;thest2@gmail.com>
+ 
+ Permission is hereby granted, free of charge, to any person obtaining
+ a copy of this software and associated documentation files (the
+ 'Software'), to deal in the Software without restriction, including
+ without limitation the rights to use, copy, modify, merge, publish,
+ distribute, sublicense, and/or sell copies of the Software, and to
+ permit persons to whom the Software is furnished to do so, subject to
+ the following conditions:
+ 
+ The above copyright notice and this permission notice shall be
+ included in all copies or substantial portions of the Software.
+ 
+ THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND,
+ EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+ MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+ CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+ TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+ 
+ =====
+ 
+ The following software may be included in this application: dinocore1/DevsmartLib-Android from https://github.com/dinocore1/DevsmartLib-Android
+ This software contains the following license and notice below:
+ 
+ The MIT License
+ 
+ Copyright (c) 2011 Paul Soucy (paul@dev-smart.com)
+ 
+ Permission is hereby granted, free of charge, to any person obtaining a copy
+ of this software and associated documentation files (the Software), to deal
+ in the Software without restriction, including without limitation the rights
+ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+ copies of the Software, and to permit persons to whom the Software is
+ furnished to do so, subject to the following conditions:
+ 
+ The above copyright notice and this permission notice shall be included in
+ all copies or substantial portions of the Software.
+ 
+ THE SOFTWARE IS PROVIDED AS IS, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+ IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+ THE SOFTWARE.
+ 
+ =====
+ 
+ The following software may be included in this application: sebnapi/HeaderRecyclerViewAdapterV2.java from https://gist.github.com/sebnapi/fde648c17616d9d3bcde
+ This software contains the following license and notice below:
+ 
+ Copyright (C) 2014 sebnapi
+ 
+ Licensed under the Apache License, Version 2.0 (the License);
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+ 
+ http://www.apache.org/licenses/LICENSE-2.0
+ 
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an AS IS BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+ 
+ =====
+ 
+ The following software may be included in this application: line-breaking-widget-layout-for-android from http://stackoverflow.com/questions/549451/line-breaking-widget-layout-for-android/560958#560958
+ This software contains the following license and notice below:
+ 
+ According to stackoverflow.com, user contributions is licensed under cc by-sa 3.0.
+ 
+ User contribution at stackoverflow.com may be included in this application,
+ it is used under http://creativecommons.org/licenses/by-sa/3.0/.
+ 
+ * Code: http://stackoverflow.com/questions/549451/line-breaking-widget-layout-for-android/560958#560958
+ * Author name: Henrik Gustafsson, http://stackoverflow.com/users/2010/henrik-gustafsson
+ 
+ =====
+ 
+ The following software may be included in this application: how-to-serialize-a-class-with-an-interface from https://stackoverflow.com/questions/4795349/how-to-serialize-a-class-with-an-interface/9550086#9550086
+ This software contains the following license and notice below:
+ 
+ According to stackoverflow.com, user contributions is licensed under cc by-sa 3.0.
+ 
+ User contribution at stackoverflow.com may be included in this application,
+ it is used under http://creativecommons.org/licenses/by-sa/3.0/.
+ 
+ * Code: https://stackoverflow.com/questions/4795349/how-to-serialize-a-class-with-an-interface/9550086#9550086
+ * Author name: maciek-makowski, https://stackoverflow.com/users/424978/maciek-makowski
+ 
+ =====
+ 
+ The following software may be included in this application: astuetz/PagerSlidingTabStrip from https://github.com/astuetz/PagerSlidingTabStrip
+ This software contains the following license and notice below:
+ 
+ Copyright 2013 Andreas Stuetz
+ 
+ Licensed under the Apache License, Version 2.0 (the License);
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+ 
+ http://www.apache.org/licenses/LICENSE-2.0
+ 
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an AS IS BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+ 
+ =====
+ 
+ The following software may be included in this application: rounded-corner-bitmaps-on-android from https://ruibm.com/2009/06/16/rounded-corner-bitmaps-on-android/
+ This software contains the following license and notice below:
+ 
+ Licensed under the Apache License, Version 2.0 (the License);
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+ 
+ http://www.apache.org/licenses/LICENSE-2.0
+ 
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an AS IS BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+ 
+ =====
+ 
+ The following software may be included in this application: romainguy/ViewServer from https://github.com/romainguy/ViewServer
+ This software contains the following license and notice below:
+ 
+ /*
+ Copyright (C) 2011 The Android Open Source Project
+ 
+ Licensed under the Apache License, Version 2.0 (the License);
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+ 
+ http://www.apache.org/licenses/LICENSE-2.0
+ 
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an AS IS BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+ 
+ 
+ =====
+ 
+ The following software may be included in this application: Android SDK from http://developer.android.com/sdk/index.html
+ This software contains the following license and notice below:
+ 
+ Copyright (C) 2007 The Android Open Source Project
+ 
+ Licensed under the Apache License, Version 2.0 (the License);
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+ 
+ http://www.apache.org/licenses/LICENSE-2.0
+ 
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an AS IS BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+ 
+ =====
+ 
+ The following software may be included in this application: FasterXML/jackson-annotations from https://github."</string>
+    <string name="link_block_facebook">페이스북</string>
+    <string name="link_block_instagram">인스타그램</string>
+    <string name="link_block_intro">다양한 외부채널 링크를 연결합니다.</string>
+    <string name="link_block_kakao_plus_friends">카카오 플러스친구</string>
+    <string name="link_block_ogtag_added_url_noti">기존에 추가한 URL이 자동으로 입력됩니다.</string>
+    <string name="link_block_ogtag_empty_url_1st">해당 링크의 정보를 불러올 수 없습니다.</string>
+    <string name="link_block_ogtag_empty_url_2nd">링크를 다시 확인해주세요.</string>
+    <string name="link_block_ogtag_http">http://</string>
+    <string name="link_block_ogtag_https">https://</string>
+    <string name="link_block_ogtag_new_plusfriend_url">pf.kakao.com</string>
+    <string name="link_block_ogtag_outlink_url_hint">URL을 입력해주세요.</string>
+    <string name="link_block_ogtag_page_not_found">존재하지 않는 페이지입니다.</string>
+    <string name="link_block_ogtag_plusfriend_url">plus.kakao.com/home/@</string>
+    <string name="link_block_ogtag_plusfriend_url_hint">옐로아이디 혹은 URL을 입력해주세요.</string>
+    <string name="link_block_ogtag_plusfriend_url_invalid">카카오 플러스 친구 URL을 입력해주세요.</string>
+    <string name="link_block_ogtag_plusfriend_url_with_http">http://plus.kakao.com/home/@</string>
+    <string name="link_block_ogtag_popup_cancel">취소</string>
+    <string name="link_block_ogtag_popup_ok">확인</string>
+    <string name="link_block_ogtag_storefarm_url">storefarm.naver.com/</string>
+    <string name="link_block_ogtag_storefarm_url_hint">ID 혹은 URL을 입력해주세요.</string>
+    <string name="link_block_ogtag_storefarm_url_invalid">스토어팜 URL을 입력해주세요.</string>
+    <string name="link_block_ogtag_storefarm_url_with_http">http://storefarm.naver.com/</string>
+    <string name="link_block_outlink">외부채널</string>
+    <string name="link_block_pholar">폴라</string>
+    <string name="link_block_post">포스트</string>
+    <string name="link_block_store_farm">스토어팜</string>
+    <string name="link_block_title">외부채널</string>
+    <string name="link_block_twitter">트위터</string>
+    <string name="link_block_update_fail">외부채널 연동에 오류가 발생했습니다. 잠시 후 다시 시도해주세요.</string>
+    <string name="load_fail_sticker">스티커를 불러올 수 없습니다.</string>
+    <string name="load_temp_saving_post_dialog_message">"작성 중인 글은 취소됩니다.
+ 임시저장글을 불러오시겠습니까?"</string>
+    <string name="loading">로드 중...</string>
+    <string name="loading_cancel">취소</string>
+    <string name="local_file_attach">첨부파일 선택</string>
+    <string name="localeScheme">로케일 테스트</string>
+    <string name="location_info">위치정보</string>
+    <string name="locationsearch_dialog_authorize_location">"현재위치정보 사용 승인을 하지 않으면 현재위치 기능을 이용할 수 없습니다.
+현재위치정보 사용 승인하시겠습니까?"</string>
+    <string name="locationsearch_dialog_device_setting">환경설정</string>
+    <string name="locationsearch_dialog_empty_result">검색된 결과가 없습니다.</string>
+    <string name="locationsearch_dialog_error_retry">"알수 없는 문제가 발생했습니다.
+잠시후 다시 시도해주세요."</string>
+    <string name="locationsearch_dialog_foreign">해외 검색</string>
+    <string name="locationsearch_dialog_gps_off_state">GPS 기능을 사용하지 않으면 현재위치 기능을 이용할 수 없습니다.</string>
+    <string name="locationsearch_dialog_local">국내 검색</string>
+    <string name="locationsearch_dialog_search_korea_type">대한민국 내 위치는 국내 검색을 이용해주세요.</string>
+    <string name="locationsearch_header_title">장소 첨부</string>
+    <string name="locationsearch_placeholder_empty_list_1">첨부하려는 장소를 검색하거나,</string>
+    <string name="locationsearch_placeholder_empty_list_2">현재 위치 정보를 넣으실 수 있습니다.</string>
+    <string name="locationsearch_placeholder_empty_list_gps_off_1">첨부하려는 장소를 검색해주세요.</string>
+    <string name="locationsearch_placeholder_empty_list_gps_off_2">현재 위치 정보를 사용하고 있지 않습니다.</string>
+    <string name="locationsearch_placeholder_no_gps_info">내 위치 정보가 없습니다.</string>
+    <string name="locationsearch_placeholder_search_addr">장소를 검색하세요.</string>
+    <string name="locationsearch_placeholder_search_guide">장소,주소를 검색하세요.</string>
+    <string name="locationsearch_toggle_foreign">해외</string>
+    <string name="locationsearch_toggle_local">국내</string>
+    <string name="logging_in">로그인 중...</string>
+    <string name="lovelife_24time">(24시간)</string>
+    <string name="lovelife_local_number">(지역번호)</string>
+    <string name="lovelife_site_1">자살예방핫라인</string>
+    <string name="lovelife_site_1_number">1577-0199</string>
+    <string name="lovelife_site_2">생명의 전화</string>
+    <string name="lovelife_site_2_number">1588-9191</string>
+    <string name="lovelife_site_3">한마음한몸자살예방센터</string>
+    <string name="lovelife_site_3_number">1599-3079</string>
+    <string name="lovelife_site_4">청소년 HelpCall</string>
+    <string name="lovelife_site_4_number">1388</string>
+    <string name="lovelife_write_block_message">작성하신 제목에 이용자들의 신고가 많은 표현(%s)이 포함되어 있습니다.</string>
+    <string name="lut_blank">Blank</string>
+    <string name="lut_blossom">Blossom</string>
+    <string name="lut_bright">Bright</string>
+    <string name="lut_candy">Candy</string>
+    <string name="lut_chic">Chic</string>
+    <string name="lut_classic">Classic</string>
+    <string name="lut_clear">Clear</string>
+    <string name="lut_cobalt">Cobalt</string>
+    <string name="lut_cool">Cool</string>
+    <string name="lut_cream">Cream</string>
+    <string name="lut_delight">Delight</string>
+    <string name="lut_lollipop">Lollipop</string>
+    <string name="lut_mint">Mint</string>
+    <string name="lut_nothing">Original</string>
+    <string name="lut_setting">순서 편집</string>
+    <string name="lut_tint_p">Tint P</string>
+    <string name="lut_tint_y">Tint Y</string>
+    <string name="lut_urban">Urban</string>
+    <string name="lut_vintage">Vintage</string>
+    <string name="lut_warm">Warm</string>
+    <string name="main_home_search">검색</string>
+    <string name="main_home_search_button">검색 버튼</string>
+    <string name="main_home_search_lately_word_empty">"최근검색어 내역이
+없습니다."</string>
+    <string name="main_home_search_lately_word_none">"최근검색어의 저장 기능이
+꺼져있습니다."</string>
+    <string name="main_home_search_title">블로그 검색</string>
+    <string name="main_home_text_delete_button">검색어 삭제</string>
+    <string name="maintenance_content">점검 내용 : %s</string>
+    <string name="maintenance_time">점검 일시 : %s</string>
+    <string name="maintenance_title">점검 공지</string>
+    <string name="map_choose_my_location">선택</string>
+    <string name="map_edit_view_hint">장소를 검색하세요.</string>
+    <string name="map_edit_view_hint_from_introduce_block">장소, 주소, 전화번호 검색</string>
+    <string name="map_no_search_my_location">내 위치를 찾지 못했습니다.</string>
+    <string name="map_not_location_user_agreement">내 위치 정보가 없습니다.</string>
+    <string name="map_representative_position_photo_set">"사진의 위치정보를 활용해 다음 위치를
+포스트 대표 위치로 사용하시겠습니까?"</string>
+    <string name="map_representative_position_release">포스트 대표위치 설정이 해제되었습니다.</string>
+    <string name="map_representative_position_set">포스트 대표 위치가 설정되었습니다.</string>
+    <string name="map_representative_position_unuse">사용안함</string>
+    <string name="map_representative_position_use">사용</string>
+    <string name="map_search_place_list_empty">"이 근처 추천 장소가 없습니다.
+원하는 장소를 검색해 보세요."</string>
+    <string name="map_search_result_empty">검색된 결과가 없습니다.</string>
+    <string name="materiallist_dialog_not_found">검색 결과가 없습니다. 검색어를 확인하신 후 다시 검색해 주세요</string>
+    <string name="materiallist_placeholder_no_image">"이미지
+준비중"</string>
+    <string name="materiallist_text_loading">불러오는 중</string>
+    <string name="materiallist_toast_loading_error">목록을 가져오는 중에 오류가 발생했습니다. 잠시후 다시 시도해 주세요.</string>
+    <string name="memolog_prefix">[메모]</string>
+    <string name="mention_comment_toast">"댓글에 @닉네임을 입력하면
+서로이웃이 소환됩니다."</string>
+    <string name="mention_comment_unable">소환댓글은 전체공개글에서만 가능합니다.</string>
+    <string name="menu_correction">보정</string>
+    <string name="menu_crop_rotate">자르기, 회전</string>
+    <string name="menu_filter">필터</string>
+    <string name="menu_mosaic">모자이크</string>
+    <string name="menu_sign">서명</string>
+    <string name="minibrowser_loading_video">Video Loading...</string>
+    <string name="minibrowser_toast_msg_cannot_show_on_other_browser">Contents within this app are not available to be viewed in other browsers.</string>
+    <string name="minibrowser_toast_msg_not_exist_other_browser">No other browsers that can display the content exist.</string>
+    <string name="more_title">더보기</string>
+    <string name="mosaic_circle">원</string>
+    <string name="mosaic_exceed_alert">모자이크는 5개까지만 추가할 수 있습니다.</string>
+    <string name="mosaic_rect">사각</string>
+    <string name="move_buddy_group_ok">이동</string>
+    <string name="move_buddy_group_title">이웃그룹 관리하면, 새글을 그룹별로 볼 수 있습니다.</string>
+    <string name="move_buddy_new_group_title">새그룹으로 이동</string>
+    <string name="movie_db_list_item_actor">배우</string>
+    <string name="movie_db_list_item_casting">출연</string>
+    <string name="movie_db_list_item_date">개봉</string>
+    <string name="movie_db_list_item_director">감독</string>
+    <string name="movie_db_list_search_hint">영화제목, 감독, 배우를 선택하세요.</string>
+    <string name="movie_db_list_title">영화 선택</string>
+    <string name="movielist_header_title">영화 선택</string>
+    <string name="movielist_placeholder_search">영화 제목, 감독, 배우를 검색하세요.</string>
+    <string name="movielist_text_actor">출연</string>
+    <string name="movielist_text_casting">출연</string>
+    <string name="movielist_text_date">개봉</string>
+    <string name="movielist_text_director">감독</string>
+    <string name="mrblog_delivery_enable">블로그씨 활성</string>
+    <string name="mrblog_notification_test">블로그씨 notification 테스트</string>
+    <string name="mrblog_post_title">블로그씨</string>
+    <string name="mrblog_post_title_from">From.</string>
+    <string name="music_db_list_item_date">발매일</string>
+    <string name="music_db_list_item_singer">아티스트</string>
+    <string name="music_db_list_search_hint">음반제목, 가수를 입력하세요.</string>
+    <string name="music_db_list_title">음악 선택</string>
+    <string name="musiclist_header_title">음악 선택</string>
+    <string name="musiclist_placeholder_search">앨범 제목, 가수를 검색하세요.</string>
+    <string name="musiclist_text_date">발매일</string>
+    <string name="musiclist_text_singer">아티스트</string>
+    <string name="my_bookmarks">MY 책갈피</string>
+    <string name="my_hot_topic_title1">%s님의 글이</string>
+    <string name="my_hot_topic_title2"><b>오늘의 핫토픽</b>"에 소개되었어요!
+지금 확인해보세요."</string>
+    <string name="my_news_buddy_add_message">님이 나를 이웃추가했습니다.</string>
+    <string name="my_news_buddy_proposal_message">님이 서로이웃을 신청했습니다.</string>
+    <string name="my_news_buddy_relation_message">님이 서로이웃이 되었습니다.</string>
+    <string name="my_news_empty_message">새로운 내소식이 없습니다.</string>
+    <string name="my_news_header_blank" />
+    <string name="my_news_header_buddy">[이웃]</string>
+    <string name="my_news_header_comment">[댓글]</string>
+    <string name="my_news_header_guestbook">[안부글]</string>
+    <string name="my_news_header_memo">[메모글]</string>
+    <string name="my_news_header_reply">[답글]</string>
+    <string name="my_news_header_sympathy">[공감]</string>
+    <string name="my_news_header_trackback">[엮인글]</string>
+    <string name="my_news_widget_label">내소식 위젯</string>
+    <string name="naver_blogteam_officialblog_id">blogpeople</string>
+    <string name="naver_corp">네이버</string>
+    <string name="naveroauthlogin_activity_name">Sign in with Naver</string>
+    <string name="naveroauthlogin_simpleid_add_str_desc">"Sign in faster and easier with
+Quick Sign-in account saved from
+other Naver Apps"</string>
+    <string name="naveroauthlogin_str_login_desc">Sign in &lt;font color=#18b711>%1$s&lt;/font> with Naver.</string>
+    <string name="naveroauthlogin_string_getting_token">Sign in with the account signed in to %1$s</string>
+    <string name="never_show">다시 보지 않기</string>
+    <string name="newslist_text_officename">출처</string>
+    <string name="nloginglobal_adding_token">Adding a Quick Sign-in account.</string>
+    <string name="nloginglobal_auth_name">NAVER</string>
+    <string name="nloginglobal_common_cancel">Cancel</string>
+    <string name="nloginglobal_common_delete">Delete</string>
+    <string name="nloginglobal_common_just_login">No, not this time</string>
+    <string name="nloginglobal_common_ok">OK</string>
+    <string name="nloginglobal_common_signin">Sign in</string>
+    <string name="nloginglobal_deleting_token">Removing the Quick Sign-in account.</string>
+    <string name="nloginglobal_logout_id_deleted">The account has been removed. All the apps signed in with the account are going to sign out.</string>
+    <string name="nloginglobal_logout_toast_id_delete_fail">Failed to remove the account. Please try again.</string>
+    <string name="nloginglobal_logoutpopup_check_delete_all_id">Remove all</string>
+    <string name="nloginglobal_logoutpopup_check_delete_id">Remove this Quick Sign-in account</string>
+    <string name="nloginglobal_logoutpopup_ok">@string/nloginglobal_common_ok</string>
+    <string name="nloginglobal_otn_fail_dialog_cancel_str">Cancel</string>
+    <string name="nloginglobal_otn_fail_dialog_confirm_str">Retry</string>
+    <string name="nloginglobal_otn_fail_dialog_msg">Unable to connect. Would you like to retry?</string>
+    <string name="nloginglobal_otn_fail_dialog_msg_error">Error occurs. Would you like to retry?</string>
+    <string name="nloginglobal_otn_login_description_1">To sign in as the following username :</string>
+    <string name="nloginglobal_otn_login_description_2">--------</string>
+    <string name="nloginglobal_otn_login_description_3">please enter the code above onto the One-time Sign-in page.</string>
+    <string name="nloginglobal_otn_login_number_centent_1">----</string>
+    <string name="nloginglobal_otn_login_number_centent_2">----</string>
+    <string name="nloginglobal_otn_login_number_time_1">Remaining time</string>
+    <string name="nloginglobal_otn_login_number_time_2">--</string>
+    <string name="nloginglobal_otn_login_number_time_3">sec.</string>
+    <string name="nloginglobal_otn_login_number_title">One-time Sign-in Number</string>
+    <string name="nloginglobal_otn_progress_dialog_msg">loading One-time Login Number</string>
+    <string name="nloginglobal_otndesc_description_1">Just use the code generated from your smart phone to sign in Naver.</string>
+    <string name="nloginglobal_otndesc_description_2">Since there is no need to enter username and password, your sign-in information is safe and secure.</string>
+    <string name="nloginglobal_otndesc_description_title">What is a One-Time Sign-in Number?</string>
+    <string name="nloginglobal_otndesc_dontshow_anymore">Do not show again</string>
+    <string name="nloginglobal_otp_centent_1">----</string>
+    <string name="nloginglobal_otp_centent_2">----</string>
+    <string name="nloginglobal_otp_desc_description1">"With OTP, you can build an extra layer of security to your account with both your password and smart phone. After you enter your username and password correctly, you'll be asked for a code generated by Naver App registered so that you can protect your account from someone else having your password."</string>
+    <string name="nloginglobal_otp_desc_description2">Get started on your &lt;font color=#2db400>Naver Account&lt;/font> page.</string>
+    <string name="nloginglobal_otp_desc_description_title">What is Naver OTP (One-time Password) Sign-in?</string>
+    <string name="nloginglobal_otp_desc_dontshow_anymore">Do not show again</string>
+    <string name="nloginglobal_otp_description_1">Please enter this One Time Password if prompted.</string>
+    <string name="nloginglobal_otp_device_id">--------------</string>
+    <string name="nloginglobal_otp_device_id_title">Device Serial Number</string>
+    <string name="nloginglobal_otp_fail_dialog_cancel_str">Cancel</string>
+    <string name="nloginglobal_otp_fail_dialog_confirm_str">Retry</string>
+    <string name="nloginglobal_otp_fail_dialog_msg">Unable to connect. Do you want retry?</string>
+    <string name="nloginglobal_otp_fail_dialog_msg_error">Error occurs. Do you want retry?</string>
+    <string name="nloginglobal_otp_time_1">Remaining time</string>
+    <string name="nloginglobal_otp_time_2">--</string>
+    <string name="nloginglobal_otp_time_3">sec.</string>
+    <string name="nloginglobal_otp_title">OTP Number</string>
+    <string name="nloginglobal_signin_group_id_not_available_msg">This service is not available to Group ID. Please try again with personal accounts.</string>
+    <string name="nloginglobal_signin_hint_id">Username</string>
+    <string name="nloginglobal_signin_hint_pw">Password</string>
+    <string name="nloginglobal_signin_info_otn">One-time Sign-in Number</string>
+    <string name="nloginglobal_signin_info_signout">Sign Out</string>
+    <string name="nloginglobal_signin_logging_out">Signing out</string>
+    <string name="nloginglobal_signin_need_login">Please sign in.</string>
+    <string name="nloginglobal_signin_not_support_otn">One-time Number sign-in is not supported in Apps.</string>
+    <string name="nloginglobal_signin_signing_in">Signing in</string>
+    <string name="nloginglobal_signin_simple_limit_id">Up to %1$s accounts are addible. Please remove one first.</string>
+    <string name="nloginglobal_signin_simple_security_exceptioin">Please remove the malicious app (\"%1$s\") disturbing quick signing-in process before.</string>
+    <string name="nloginglobal_signin_sound_captchar_notavilable">Service is temporarily unavailable. Please try again later.</string>
+    <string name="nloginglobal_signin_upgrade_to_simple_id_failed">Adding NaverID to Android Account Manager failed.</string>
+    <string name="nloginglobal_simple_add_id_limited_max_num">Up to %1$s accounts are addible. Please remove one first.</string>
+    <string name="nloginglobal_simple_change_id_str_desc">Would you like to sign in with this account?</string>
+    <string name="nloginglobal_simple_delete_id_str_desc_logout">Removing the account will delete all of data from the device and all the apps signed in with this account will be sign out. Continue?</string>
+    <string name="nloginglobal_simple_id_add_already_added">The account is already exist.</string>
+    <string name="nloginglobal_simple_id_disappeared_when_reboot">"Since this app is installed on the external storage, 'Quick Sign-in' is not available.
+Would you like to move this app to the internal memory?"</string>
+    <string name="nloginglobal_simple_id_disappeared_when_reboot_for_sdk_under_14">"Since the app(\"%1$s\") is installed on the external storage, 'Quick Sign-in' is not available.
+Would you like to move the app to the internal memory?"</string>
+    <string name="nloginglobal_simple_id_str_btn_done">Done</string>
+    <string name="nloginglobal_simple_id_str_desc1">On the Quick Sign in button, your original Naver ID is being displayed instead of Secure ID to increase security.</string>
+    <string name="nloginglobal_simple_id_str_desc2">Up to &lt;font color=#18b711>3 accounts &lt;/font>are addible.</string>
+    <string name="nloginglobal_simple_id_str_noid_desc">Sign in faster and easier with Quick Sign-in account saved from other Naver Apps.</string>
+    <string name="nloginglobal_simple_signin_group_id_not_available_msg">Quick Sign-in is not available to Group ID. Please try again with normal accounts.</string>
+    <string name="nloginglobal_simple_use_simple_signin">Yes</string>
+    <string name="nloginglobal_token_added">The account has been added.</string>
+    <string name="nloginresource_account_setting_url">https://nid.naver.com/login/ext/mobileUrlMapper.nhn?lang=%1$s&amp;device_id=%2$s&amp;mode=account_info</string>
+    <string name="nloginresource_activityname_add_simple_id">Simple Id Add</string>
+    <string name="nloginresource_activityname_inappbrowser">InAppBrowser</string>
+    <string name="nloginresource_activityname_normal_signin">Naver Sign-in</string>
+    <string name="nloginresource_activityname_onetimeloginnum_help">One-Time Login Number Help Page</string>
+    <string name="nloginresource_activityname_onetimeloginnum_view">One-Time Login Number Page</string>
+    <string name="nloginresource_activityname_signin_info">Sign-In Info</string>
+    <string name="nloginresource_activityname_simple_signin">Simple Sign-in</string>
+    <string name="nloginresource_common_help">Help</string>
+    <string name="nloginresource_common_myinfo">My Account</string>
+    <string name="nloginresource_common_retry">Retry</string>
+    <string name="nloginresource_connection_error_connection_fail">Temporary error has occurred. Please try again [connection delayed]</string>
+    <string name="nloginresource_connection_error_connection_timeout">Temporary error has occurred. Please try again [response timeout]</string>
+    <string name="nloginresource_connection_error_error_none">Error occurred.</string>
+    <string name="nloginresource_connection_error_exceptional">Unexpected error has occurred. Please try again</string>
+    <string name="nloginresource_connection_error_no_peer_certificate">Invalid certificate. Please check the date and time setting on your device or back to factory settings when rooted/jailbroken.</string>
+    <string name="nloginresource_connection_error_session_error">Temporary error has occurred. Please try again [duplicated sign-in request]</string>
+    <string name="nloginresource_connection_error_user_cancel">Sign-in canceled.</string>
+    <string name="nloginresource_connection_error_xml_parsing">Temporary error has occurred. Please try again [response error]</string>
+    <string name="nloginresource_dpi">default</string>
+    <string name="nloginresource_groupid_help_url">https://nid.naver.com/login/ext/mobileUrlMapper.nhn?lang=%1$s&amp;mode=help_groupid</string>
+    <string name="nloginresource_help_url">https://nid.naver.com/login/ext/mobileUrlMapper.nhn?lang=%1$s&amp;mode=help_nid</string>
+    <string name="nloginresource_id_found_url">https://nid.naver.com/login/ext/mobileUrlMapper.nhn?lang=%1$s&amp;device_id=%2$s&amp;mode=found_id</string>
+    <string name="nloginresource_img_description_back_btn">back</string>
+    <string name="nloginresource_img_description_bullet">bullet</string>
+    <string name="nloginresource_img_description_check_btn">check img</string>
+    <string name="nloginresource_img_description_delete_btn">delete</string>
+    <string name="nloginresource_img_description_id_add_btn">add id</string>
+    <string name="nloginresource_img_description_keyboard_ko_img">keyboard image (korean char)</string>
+    <string name="nloginresource_img_description_keyboard_sp_img">keyboard image (special char)</string>
+    <string name="nloginresource_img_description_line_img">line img</string>
+    <string name="nloginresource_img_description_naver_logo">naver</string>
+    <string name="nloginresource_img_description_question_btn">question mark</string>
+    <string name="nloginresource_img_description_show_keyboard_btn">show keyboard</string>
+    <string name="nloginresource_img_description_title_img">title img</string>
+    <string name="nloginresource_logoutpopup_confirm_msg_desc">"Quick Sign-in account is still available. If you won't sign in anymore, please remove it."</string>
+    <string name="nloginresource_logoutpopup_confirm_msg_detail_id">&lt;font color=#2db400>&lt;b>%1$s&lt;/b>&lt;/font> will be signed out.</string>
+    <string name="nloginresource_logoutpopup_confirm_msg_title">Signing out.</string>
+    <string name="nloginresource_network_state_not_available">Network is not available. Please check your network connection and try again.</string>
+    <string name="nloginresource_otln_help_url">https://nid.naver.com/login/ext/mobileUrlMapper.nhn?lang=%1$s&amp;mode=help_otn</string>
+    <string name="nloginresource_otn_error_wrong_auth">Please sign-in again, Probably wrong certification used.</string>
+    <string name="nloginresource_otn_need_session">Please, sign-in to see One-time number.</string>
+    <string name="nloginresource_otntop_description_title1">Simple and Safe</string>
+    <string name="nloginresource_otntop_description_title2">One-Time Sign-in Number</string>
+    <string name="nloginresource_otp_help_url">https://nid.naver.com/login/ext/mobileUrlMapper.nhn?lang=%1$s&amp;mode=help_otp</string>
+    <string name="nloginresource_otp_top_description_title1">Keep your account safer!</string>
+    <string name="nloginresource_otp_top_description_title2">Naver OTP Sign-in</string>
+    <string name="nloginresource_pw_found_url">https://nid.naver.com/login/ext/mobileUrlMapper.nhn?lang=%1$s&amp;device_id=%2$s&amp;mode=found_pw</string>
+    <string name="nloginresource_signin_error_input_password">Enter your password!</string>
+    <string name="nloginresource_signin_error_input_username">Enter your username!</string>
+    <string name="nloginresource_signin_groupid_login">Group ID Sign in</string>
+    <string name="nloginresource_signin_id_forgot">&lt;font color=#999999>Forgot your&lt;/font> Username</string>
+    <string name="nloginresource_signin_info_default_id">--------</string>
+    <string name="nloginresource_signin_info_is_onlyloginid">(Signed-in with Secure ID)</string>
+    <string name="nloginresource_signin_keyboard_close">PC Keyboard</string>
+    <string name="nloginresource_signin_keyboard_open">PC Keyboard</string>
+    <string name="nloginresource_signin_keyboard_switch_ko">Korean ></string>
+    <string name="nloginresource_signin_keyboard_switch_sp">Symbols ></string>
+    <string name="nloginresource_signin_pw_forgot">Password?</string>
+    <string name="nloginresource_signin_signup">Sign up</string>
+    <string name="nloginresource_signin_simple_desc_bottom">You can sign in with another Quick Sign-in account.</string>
+    <string name="nloginresource_signin_simple_login_other">Sign in with another account</string>
+    <string name="nloginresource_signup_url">https://nid.naver.com/login/ext/mobileUrlMapper.nhn?lang=%1$s&amp;device_id=%2$s&amp;mode=signup</string>
+    <string name="nmap_callout_text_attach_here">이 위치를 선택</string>
+    <string name="nmap_inaccuracy">내 위치와 % 차이가 날 수 있습니다.</string>
+    <string name="nmap_search_no_result">검색결과가 없습니다.</string>
+    <string name="nmap_search_no_result_des">"찾으시고자 하시는 장소명을
+확인 후 다시 입력하시기 바랍니다."</string>
+    <string name="nmap_search_result_noti">최대 20개의 검색결과를 제공합니다.</string>
+    <string name="nmap_str_address_new">새주소</string>
+    <string name="nmap_str_address_old">지번주소</string>
+    <string name="nmap_str_attach_map">지도 첨부하기</string>
+    <string name="nmap_str_cancel">취소</string>
+    <string name="nmap_str_confirm">확인</string>
+    <string name="nmap_str_list">목록</string>
+    <string name="nmap_str_map">지도</string>
+    <string name="nmap_str_mylocation">내 위치</string>
+    <string name="nmap_str_mylocation_failed">일시적으로 내 위치를 확인할 수 없습니다.</string>
+    <string name="nmap_str_mylocation_find">내 위치를 찾고 있습니다.</string>
+    <string name="nmap_str_mylocation_no_agree">위치정보 이용 약관 동의 여부가 확인되지 않아 내위치 확인 기능을 사용하실 수 없습니다.</string>
+    <string name="nmap_str_mylocation_no_providers">위치 정보를 확인할 수 없습니다. 사용자의 위치 정보를 확인하도록 허용하시려면 위치 서비스를 켜십시오.</string>
+    <string name="nmap_str_mylocation_unavailable_area">현재 위치는 지원되지 않는 지역입니다.</string>
+    <string name="nmap_str_search_map_hint">장소, 주소를 검색하세요.</string>
+    <string name="nmap_str_select">선택</string>
+    <string name="nmap_str_view_map">지도 보기</string>
+    <string name="nmap_tab_address">주소</string>
+    <string name="nmap_tab_place">장소</string>
+    <string name="no">아니요</string>
+    <string name="no_network_err_text">"네트워크 문제로 블로그 서비스에
+연결하지 못했습니다.
+다시 시도하시겠습니까?"</string>
+    <string name="non_data_layout_reloading_view_default_msg">"일시적으로 정보를 불러올 수 없습니다.
+잠시 후 다시 시도해주세요."</string>
+    <string name="not_mylocation_agree">현재위치정보 사용 승인을 하지 않으면 현재위치 기능을 이용할 수 없습니다.</string>
+    <string name="not_mylocation_agree_from_photo_location">현재위치정보 사용 승인을 하지 않으면 사진위치정보를 활용할 수 없습니다.</string>
+    <string name="notice_block_empty_message">공지글이 없습니다.</string>
+    <string name="notice_block_title">NOTICE</string>
+    <string name="notice_close">Close</string>
+    <string name="notice_dont_show_agin_text">Do Not Show Again</string>
+    <string name="notice_list_check_details_by_button">Please check the details of the event by clicking this link below!</string>
+    <string name="notice_list_show_details">More</string>
+    <string name="notice_list_upadte_latest_version">Update Latest Version</string>
+    <string name="notice_list_using_latest_version">Latest Version</string>
+    <string name="notice_max">"공지는 최대 5개까지 등록할 수 있습니다.
+이 포스트를 공지로 등록하시려면 기존 공지를 내리고 등록해주세요."</string>
+    <string name="notice_msg_no_items">No Notices.</string>
+    <string name="notice_msg_please_wait">Please wait.</string>
+    <string name="notice_name">공지 사항</string>
+    <string name="notice_popup_cancel">Cancel</string>
+    <string name="notice_popup_error_network">"Could not check notice.
+Please check your network."</string>
+    <string name="notice_popup_error_server_api">"Could not check notice.
+Please try again after a while."</string>
+    <string name="notice_popup_event_go">Move Now</string>
+    <string name="notice_popup_go">Move Now</string>
+    <string name="notice_popup_later">Update Later</string>
+    <string name="notice_popup_ok">OK</string>
+    <string name="notice_popup_update_now">Update Now</string>
+    <string name="notice_promotion_text">%1$s일간 보지 않기</string>
+    <string name="notice_type_event">event</string>
+    <string name="notice_type_normal">notice</string>
+    <string name="notice_type_update">update</string>
+    <string name="notification_mrblog_alarm_message">"[블로그씨 질문]
+"</string>
+    <string name="notification_mrblog_first_action_message">"블로그씨 질문 배달과 앱 알림 수신은
+앱 설정에서 변경 할 수 있습니다."</string>
+    <string name="number_0">0</string>
+    <string name="number_float_0">0.0</string>
+    <string name="number_of_comment">%s개</string>
+    <string name="number_of_people">%s명</string>
+    <string name="official_blog_carousel_01_contents">블로그 프로필과 이웃목록, 검색결과에 공식 엠블럼이 부착됩니다.</string>
+    <string name="official_blog_carousel_01_title">공식 엠블럼 부착</string>
+    <string name="official_blog_carousel_02_contents">네이버 통합검색결과에 공식블로그의 최신글이 함께 노출될 수 있습니다.</string>
+    <string name="official_blog_carousel_02_title">네이버 검색결과 노출</string>
+    <string name="official_blog_carousel_03_contents">타 이용자와 함께 쓸 수 있는 게시판을 지원하고 네이버 톡톡과 연동할 수 있습니다.</string>
+    <string name="official_blog_carousel_03_contents_positfix">(오픈예정)</string>
+    <string name="official_blog_carousel_03_title">전용 기능 제공</string>
+    <string name="official_blog_contents">많은 공공기관과 단체 및 각 분야 유명인이 네이버에서 공식블로그를 운영하고 있습니다.</string>
+    <string name="official_blog_go_to_list_btn">분야별 공식블로그 보기</string>
+    <string name="official_blog_help">공식블로그 등록 기준 더보기 및 등록 신청하기</string>
+    <string name="official_blog_help_btn">네이버 도움말</string>
+    <string name="official_blog_list_ordering">업데이트순</string>
+    <string name="official_blog_refresh_contents">네트워크 환경을 확인해주시거나 페이지를 새로고침 해주세요.</string>
+    <string name="official_blog_refresh_title">일시적으로 블로그 정보를 가져올 수 없습니다.</string>
+    <string name="official_blog_tab_all">전체</string>
+    <string name="official_blog_title">네이버 공식블로그를 소개합니다!</string>
+    <string name="ok">확인</string>
+    <string name="opensetting_dialog_header">공개설정 옵션</string>
+    <string name="options_menu_goblog_shortcut">바로가기 추가</string>
+    <string name="options_menu_logout">로그아웃</string>
+    <string name="options_menu_reload">새로고침</string>
+    <string name="options_menu_shortcut">홈화면 추가</string>
+    <string name="options_test">테스트 페이지</string>
+    <string name="password_toggle_content_description">Toggle password visibility</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="permission_access_fine_location_rational">현재 위치 정보를 사용하기 위해서는 이 기기의 위치 접근 권한이 필요합니다.</string>
+    <string name="personal_dialog_alert_loading">데이터를 불러오는 중입니다..</string>
+    <string name="picture_size">첨부 이미지 크기</string>
+    <string name="picture_size_setting_dlg_header">사진 크기 설정</string>
+    <string name="popular_block_list_edit_button_text">대표글 관리</string>
+    <string name="popular_block_popular_list_title">인기글</string>
+    <string name="popular_block_representative_list_empty_bottom_text">직접 대표글을 선정하여 보여줄 수 있습니다.</string>
+    <string name="popular_block_representative_list_empty_text">글 추가하기</string>
+    <string name="popular_block_representative_list_title">대표글</string>
+    <string name="popular_block_subtitle">주간 인기글과 대표글을 보여줍니다.</string>
+    <string name="popular_block_unselected_both_type">설정된 인기글/대표글이 없습니다.</string>
+    <string name="popular_edit_block__title">인기글/대표글</string>
+    <string name="popular_empty">인기글 목록이 없습니다.</string>
+    <string name="popularpost_block_blocked_list_selected_toast">징계 카테고리/징계 글의 경우 대표글로 설정할 수 없습니다.</string>
+    <string name="popularpost_block_not_opened_list_selected_toast">대표글은 전체공개 글만 추가할 수 있습니다.</string>
+    <string name="popularpost_block_popular_post_list_sub_title">주간 조회수가 높은 글입니다.</string>
+    <string name="popularpost_block_post_list_max_toast">대표글은 10개까지 선택이 가능합니다.</string>
+    <string name="popularpost_block_representative_category_list_empty_text">등록된 글이 없습니다.</string>
+    <string name="popularpost_block_representative_category_list_error_text">네트워크 환경을 확인해주시거나 페이지를 아래로 당겨 새로고침 해주세요.</string>
+    <string name="popularpost_block_representative_post_list_sub_title">블로그 주인이 선정한 글입니다.</string>
+    <string name="popularpost_block_representative_search_post_list_empty_text1">검색결과가 없습니다.</string>
+    <string name="popularpost_block_representative_search_post_list_empty_text2">관련된 다른 검색어로 다시 검색해 보세요.</string>
+    <string name="post_album_list_empty_text1">이미지나 동영상이 첨부된</string>
+    <string name="post_album_list_empty_text2">글 목록이 없습니다.</string>
+    <string name="post_editor_dbattachment_click_dialog_remove">글감 삭제</string>
+    <string name="post_editor_default_title_exception">모바일 포스트</string>
+    <string name="post_editor_default_title_format">%1$d월 %2$d일 %3$s요일</string>
+    <string name="post_editor_header_title">글쓰기</string>
+    <string name="post_editor_input_content_please">내용을 입력해주세요.</string>
+    <string name="post_editor_input_text">내용</string>
+    <string name="post_editor_input_url">URL를 입력하세요</string>
+    <string name="post_editor_input_url_abnormal">정상적인 URL이 아닙니다.</string>
+    <string name="post_editor_map_click_dialog_remove">지도 삭제</string>
+    <string name="post_editor_map_click_dialog_remove_representative_position">대표 위치를 해제</string>
+    <string name="post_editor_map_click_dialog_representative_position">대표 위치로 지정</string>
+    <string name="post_editor_map_search_count">장소</string>
+    <string name="post_editor_map_search_map_hint">장소,주소를 검색하세요.</string>
+    <string name="post_editor_map_view_hint">검색, 길찾기는 지도앱에서 지원됩니다.</string>
+    <string name="post_editor_meta_info_tag_add_btn">태그편집</string>
+    <string name="post_editor_meta_info_tag_duplication">이미 태그가 존재합니다.</string>
+    <string name="post_editor_meta_info_tag_empty">유효한 값을 입력하세요.</string>
+    <string name="post_editor_meta_info_tag_hint_sharp">\#태그를 입력해 주세요. (최대 10개)</string>
+    <string name="post_editor_meta_info_tag_not_allow_special_char">특수문자는 태그로 등록하실수 없습니다.</string>
+    <string name="post_editor_meta_info_tag_title_comment">태그는 최대 10개만 추가 할 수 있습니다.</string>
+    <string name="post_editor_mrblog_dialog_remove">삭제</string>
+    <string name="post_editor_ogtag_setting_view_hint">URL을 입력해주세요.</string>
+    <string name="post_editor_ogtag_setting_view_meta_tag_none_1">해당 링크의 정보를 불러올 수 없습니다.</string>
+    <string name="post_editor_ogtag_setting_view_meta_tag_none_2">링크를 다시 확인해주세요.</string>
+    <string name="post_editor_ogtag_setting_view_title">링크추가</string>
+    <string name="post_editor_ogtag_view_remove">링크 삭제</string>
+    <string name="post_editor_option_header">글 설정</string>
+    <string name="post_editor_option_location_check">위치를 확인해주세요.</string>
+    <string name="post_editor_option_location_default">대표 위치를 설정해 보세요.</string>
+    <string name="post_editor_option_notice_off">공지글아님</string>
+    <string name="post_editor_option_notice_on">공지글</string>
+    <string name="post_editor_option_open_all">전체</string>
+    <string name="post_editor_option_open_all_hint">모든 사람이 이 글을 볼 수 있습니다.</string>
+    <string name="post_editor_option_open_both_buddy">서로이웃</string>
+    <string name="post_editor_option_open_both_hint">나의 서로이웃에게만 이 글을 공개합니다.</string>
+    <string name="post_editor_option_open_buddy">이웃</string>
+    <string name="post_editor_option_open_buddy_hint">내가 추가한 이웃과 서로이웃에게만 공개합니다.</string>
+    <string name="post_editor_option_open_private">비공개</string>
+    <string name="post_editor_option_open_private_hint">이 글을 나만 볼 수 있습니다.</string>
+    <string name="post_editor_option_search_off">검색허용안함</string>
+    <string name="post_editor_option_search_on">검색허용</string>
+    <string name="post_editor_option_settings">글쓰기 설정</string>
+    <string name="post_editor_option_submit">등록</string>
+    <string name="post_editor_option_title">제목을 입력하세요.</string>
+    <string name="post_editor_photo_click_dialog_edit">이미지 편집</string>
+    <string name="post_editor_photo_click_dialog_edit_arrange">나란히 놓기 편집</string>
+    <string name="post_editor_photo_click_dialog_main_thumbnail">대표 이미지로 지정</string>
+    <string name="post_editor_photo_click_dialog_remove">이미지 삭제</string>
+    <string name="post_editor_photo_group_edit_title">나란히놓기 편집</string>
+    <string name="post_editor_photo_layout_guide">글 등록시 정상 화질로 보여집니다.</string>
+    <string name="post_editor_photo_layout_label_ndrive_drive">클라우드</string>
+    <string name="post_editor_photo_layout_label_ndrive_n">"네이버 "</string>
+    <string name="post_editor_photo_load_fail">미리보기 이미지를 불러오지 못했습니다.</string>
+    <string name="post_editor_photo_loading">이미지를 불러오는 중입니다.</string>
+    <string name="post_editor_post_tag_limit_auto_complete">"태그는 최대 10개까지 입력 가능합니다.
+등록된 태그를 삭제 후 새 태그를 추가하세요."</string>
+    <string name="post_editor_representative_position_search_place">대표 위치 지정</string>
+    <string name="post_editor_setting_photo_scope_info_message">첨부한 사진의 GPS 정보가 있는 경우 이를 포스트의 대표위치로 추천합니다.</string>
+    <string name="post_editor_sticker_click_dialog_remove">스티커 삭제</string>
+    <string name="post_editor_using_photo_location">첨부한 사진의 위치(GPS)정보를 활용하시겠습니까?</string>
+    <string name="post_editor_using_photo_location_false">아니오</string>
+    <string name="post_editor_using_photo_location_true">예</string>
+    <string name="post_editor_video_click_dialog_remove">비디오 삭제</string>
+    <string name="post_remove_autosave">"앱에서 작성하던 글이 있습니다.
+저장하지 않고 계속 진행하겠습니까?"</string>
+    <string name="post_settings_image_width">가로크기 %s</string>
+    <string name="post_settings_image_width_original">원본크기</string>
+    <string name="post_write_category_event_dialog_add">새로 만들기</string>
+    <string name="post_write_category_event_dialog_choice">카테고리 선택</string>
+    <string name="post_write_category_event_dialog_content_baby">카테고리를 먼저 선택해주세요.</string>
+    <string name="post_write_category_event_dialog_title_baby">이벤트 참여하기</string>
+    <string name="post_write_event_completed">"감사합니다.
+이벤트 참여가 완료되었습니다."</string>
+    <string name="post_write_event_completed_title">이벤트 참여가 완료되었습니다.</string>
+    <string name="post_write_invalidate_not_category">카테고리를 불러오지 못했습니다. 카테고리를 다시 선택해주세요.</string>
+    <string name="post_write_ncamera_install_after">취소</string>
+    <string name="post_write_ncamera_install_capture">"보다 더 많은 필터 효과, 보정을 원하세요?
+LINE Camera 앱을 설치하세요!"</string>
+    <string name="post_write_ncamera_install_edit">"보다 더 많은 필터 효과, 보정을 원하세요?
+LINE Camera 앱을 설치하세요!"</string>
+    <string name="post_write_ncamera_install_now">확인</string>
+    <string name="post_write_ncamera_play">상세 편집을 위해 LINE Camera 앱을 실행합니다.</string>
+    <string name="post_write_ndrive_attach_fail">"일부 파일이 첨부되지 못했습니다.
+
+"</string>
+    <string name="post_write_ndrive_attach_fail_all">"파일을 첨부하지 못했습니다.
+[확인]시 네이버 클라우드 앱으로 돌아갑니다.
+
+"</string>
+    <string name="post_write_ndrive_attach_fail_detail">"총 사진/동영상은 300MB, 나머지는 200MB까지
+파일당 사진은 20MB, 파일은 10MB, 동영상은 300MB까지
+파일 개수는 사진 50개, 동영상 10개, 파일 20개까지
+첨부 가능합니다."</string>
+    <string name="post_write_ndrive_install_cancel">취소</string>
+    <string name="post_write_ndrive_install_capture">"내 사진을 어디서나 꺼내볼 수 있는
+네이버 클라우드 앱을 설치해보세요.
+(사진/파일 첨부를 위해 최신버전의
+앱으로 업데이트 해주세요.)"</string>
+    <string name="post_write_ndrive_install_ok">설치</string>
+    <string name="post_write_not_exitst_category">블로그 카테고리가 없습니다. PC에서 카테고리를 추가해주세요.</string>
+    <string name="post_write_request_cancel_button">올리기 취소</string>
+    <string name="post_write_request_canceled">올리기가 취소되었습니다.</string>
+    <string name="post_write_upload_completed_progress_message">올리기가 완료되었습니다.</string>
+    <string name="post_write_upload_progress_message">올리기 중입니다.</string>
+    <string name="postlist_empty_list_string">등록된 글이 없습니다.</string>
+    <string name="postlist_photo_type_empty_list_string">"이미지가 포함된 글이 없습니다.
+다른 보기 형태를 선택해 보세요."</string>
+    <string name="postview_header_separator">|</string>
+    <string name="profile_upload_image_max_size_noti">프로필 이미지가 최대 용량인 10MB를 초과했습니다.</string>
+    <string name="publish_dialog_failed_temp_save">"글을 발행하는 도중 오류가 발생하였습니다.
+임시저장 하시겠습니까?"</string>
+    <string name="publish_dialog_mobile_charge_warning">이동 통신망에 접속되어 있어 통신료가 발생할 수 있습니다. 전송하시겠습니까?</string>
+    <string name="publish_dialog_network_error">"네트워크 문제로 발행이 불가합니다.
+임시저장 하시겠습니까?"</string>
+    <string name="publish_dialog_temp_save">"%s
+임시저장 하시겠습니까?"</string>
+    <string name="publish_dialog_write_body_plz">내용을 입력해 주세요.</string>
+    <string name="publish_dialog_write_title_body_plz">제목과 내용을 입력해 주세요.</string>
+    <string name="publish_dialog_write_title_plz">제목을 입력해 주세요.</string>
+    <string name="publish_toast_already_doing">이미 글을 올리는 중입니다.</string>
+    <string name="publish_toast_anniversary">"'지난 오늘 글'에는 설정한 대표이미지가 반영되지 않습니다."</string>
+    <string name="publish_toast_canceled">취소 되었습니다.</string>
+    <string name="publish_toast_complete_publishing">글 올리기가 완료되었습니다.</string>
+    <string name="publish_toast_document_ioerror">"글을 발행하는 도중 오류가 발생하였습니다.
+저장공간이 충분한지 확인해주세요."</string>
+    <string name="publish_toast_document_parseerror">글의 형식이 올바르지 않아서 발행할 수 없습니다.</string>
+    <string name="publish_toast_fail_temp_saving">임시저장을 실패하였습니다.</string>
+    <string name="pull_to_refresh">새로운 포스트 불러오기</string>
+    <string name="pull_to_refresh_loading">업데이트 중입니다.</string>
+    <string name="push_comment_title">%1$s님의 %2$s%3$s</string>
+    <string name="push_comment_title_save">전송</string>
+    <string name="push_comment_title_secret">비밀</string>
+    <string name="push_comment_title_success">답글이 등록되었습니다.</string>
+    <string name="push_comment_type_comment">댓글</string>
+    <string name="push_comment_type_replay">답글</string>
+    <string name="push_off">끔</string>
+    <string name="push_on">켬</string>
+    <string name="refresh_list_string">refresh</string>
+    <string name="removed_file_not_save">삭제된 이미지 파일은 저장되지 않습니다.</string>
+    <string name="reply_write_editor_title">답글쓰기</string>
+    <string name="representative_edit_header_add">추가 %d</string>
+    <string name="representative_edit_header_add_unselected">추가</string>
+    <string name="representative_edit_header_cancel">취소</string>
+    <string name="representative_edit_header_category">전체글</string>
+    <string name="representative_edit_header_search_hint">검색어를 입력하세요.</string>
+    <string name="representative_list_edit_header_save">확인</string>
+    <string name="reputation_block_empty_msg">수상내역이 없습니다.</string>
+    <string name="reputation_block_intro">우수한 블로그로 선정된 이력입니다.</string>
+    <string name="reputation_block_title">수상내역</string>
+    <string name="ros_message">"이용에 불편을 드린 점 진심으로 사과드립니다.
+예정된 시간 안에 점검을 마치고 더욱 안정적인 서비스를 제공할 수 있도록 노력하겠습니다."</string>
+    <string name="runtime_permission_alert_message">"%1$s 권한이 없습니다.
+권한 메뉴의 %1$s 항목을 켜 주세요."</string>
+    <string name="save_dialog_progress">이미지 첨부중입니다..</string>
+    <string name="saved">저장됨</string>
+    <string name="scheme_login_message">"로그인 ID가 일치하지 않습니다. 
+다시 로그인해주세요."</string>
+    <string name="scheme_login_message_with_posting">"로그인 ID가 일치하지 않습니다. 
+다시 로그인해주세요.
+진행 시, 앱에서 쓰던 글은 삭제됩니다."</string>
+    <string name="scheme_version">"현재 앱버전에서 지원하지
+않는 기능입니다.
+업데이트 하시겠습니까?"</string>
+    <string name="scrap_setting_title">스크랩 설정 옵션</string>
+    <string name="se3_setting_category_title">카테고리</string>
+    <string name="se3_setting_notice_post_title">공지사항으로 등록</string>
+    <string name="se3_setting_open_type_title">공개</string>
+    <string name="se3_setting_search_off">허용안함</string>
+    <string name="se3_setting_search_on">허용</string>
+    <string name="se3_setting_search_title">검색 허용</string>
+    <string name="se3_setting_tag_edit_title">태그 편집</string>
+    <string name="se3_setting_tag_hint">최대 10개만 추가할 수 있습니다.</string>
+    <string name="se3_setting_write_option_title">글쓰기 설정</string>
+    <string name="se_add_represent_location">위치 추가</string>
+    <string name="se_image_file_not_found">"이미지를 첨부하는 과정에서 오류가 발생하였습니다. 
+이미지를 제거 후 다시 첨부해주세요."</string>
+    <string name="se_toast_check_login_account">로그인 정보를 확인해주세요.</string>
+    <string name="se_toast_video_not_support_mkv">mkv 동영상 파일은 지원하지 않습니다.</string>
+    <string name="search_menu_title">Search</string>
+    <string name="searchplace_dialog_check_network_connection">네트워크 연결을 확인 후 다시 시도해주세요.</string>
+    <string name="searchplace_dialog_network_err">"네트워크 문제로 서비스에 연결하지 못했습니다.
+네트워크 상태를 확인해주세요."</string>
+    <string name="send_app_content_event">"[네이버 블로그]
+친구야! 블로그 앱, 아직도 안 깔았니? 이번 기회에 앱 깔고 문화상품권도 받아가!
+"</string>
+    <string name="send_app_event_dialog">"친구 초대 이벤트에 응모하셨습니다.
+8월 24일, 당첨자 발표를 기다려주세요."</string>
+    <string name="send_app_event_dialog_login">로그인을 완료해야 이벤트에 응모됩니다.</string>
+    <string name="setting_allowme2">외부 보내기 허용</string>
+    <string name="setting_cachedelete_button">삭제</string>
+    <string name="setting_legal_policy">법률정보 및 이용약관</string>
+    <string name="setting_location_policy">위치정보 이용약관</string>
+    <string name="setting_monitor">모니터링 사용</string>
+    <string name="setting_npush_error">"알림설정을 불러오지 못했습니다.
+잠시 후 다시 시도해 주세요."</string>
+    <string name="setting_post_default_cat_name">기본카테고리</string>
+    <string name="setting_post_public_setting_name">공개 설정</string>
+    <string name="setting_privacy_policy">개인정보 처리방침</string>
+    <string name="setting_representative_position_another_position">다른 위치 지정하기</string>
+    <string name="setting_representative_position_check_none">위치 지정 안함</string>
+    <string name="setting_representative_position_header_title">대표 위치 설정</string>
+    <string name="setting_representative_position_list_empty">대표 위치 없음</string>
+    <string name="setting_write_post_allow_exposure_naver_books">네이버 책에 글 노출 허용</string>
+    <string name="setting_write_post_comments">댓글 허용</string>
+    <string name="setting_write_post_consents">공감 허용</string>
+    <string name="setting_write_post_naver_search">검색 허용</string>
+    <string name="setting_write_post_scrap_setting">블로그, 카페 보내기</string>
+    <string name="setting_write_post_title">글쓰기 기본값 설정</string>
+    <string name="setting_write_post_title_from_post_write">글쓰기 설정</string>
+    <string name="setting_write_post_using_photo_location">사진위치 정보 활용</string>
+    <string name="settings_Information">프로그램 정보</string>
+    <string name="settings_alarm_all_push_setting_title">알림 허용</string>
+    <string name="settings_alarm_comment_setting_title">댓글</string>
+    <string name="settings_alarm_dialog">알림창 띄우기</string>
+    <string name="settings_alarm_feed">이웃새글</string>
+    <string name="settings_alarm_friend_hot_topic_title">이웃 글 핫토픽 소개</string>
+    <string name="settings_alarm_friends_title">서로이웃</string>
+    <string name="settings_alarm_indicator">공지사항</string>
+    <string name="settings_alarm_mr_blog_my_news">내 소식</string>
+    <string name="settings_alarm_mr_blog_push">푸시</string>
+    <string name="settings_alarm_mr_blog_title">블로그씨 질문</string>
+    <string name="settings_alarm_mute">무음설정</string>
+    <string name="settings_alarm_my_hot_topic_push">푸시</string>
+    <string name="settings_alarm_my_hot_topic_title">내 글 핫토픽 소개</string>
+    <string name="settings_alarm_off_time">에티켓 시간 설정</string>
+    <string name="settings_alarm_off_time_duplicated">에티켓 시간에는 꼬박꼬박 글쓰기 알림이 오지 않습니다</string>
+    <string name="settings_alarm_off_time_end">종료 시간</string>
+    <string name="settings_alarm_off_time_end_default">오전 08:00</string>
+    <string name="settings_alarm_off_time_error">"에티켓 시간 설정을 실패했습니다.
+잠시 후 다시 시도해 주십시오"</string>
+    <string name="settings_alarm_off_time_start">시작 시간</string>
+    <string name="settings_alarm_off_time_start_default">오후 11:00</string>
+    <string name="settings_alarm_push_setting_header_title">알림 설정</string>
+    <string name="settings_alarm_today_history_title">지난 오늘 글</string>
+    <string name="settings_alarm_type_setting">알림종류 설정</string>
+    <string name="settings_alarm_whatup_title">안부글</string>
+    <string name="settings_allow_both_buddy_set_error">"서로이웃 신청 받기 설정을 실패했습니다.
+잠시 후 다시 시도해 주십시오"</string>
+    <string name="settings_bgm">3G/LTE 연결 허용</string>
+    <string name="settings_bgm_title">배경음악 이동통신망 사용설정</string>
+    <string name="settings_blog">글쓰기 기본값 설정</string>
+    <string name="settings_business_info_complete">사업자정보 등록이 완료되었습니다.</string>
+    <string name="settings_business_info_empty">"등록된 사업자정보가 없습니다.
+사업자정보를 설정해 주세요."</string>
+    <string name="settings_business_info_error">사업자정보가 등록되지 않았습니다. 다시 시도해주세요.</string>
+    <string name="settings_cachedelete">캐시 삭제</string>
+    <string name="settings_cachedelete_message">캐시를 삭제 하시겠습니까?</string>
+    <string name="settings_cachesize_fmt">(%,.2fKB 사용)</string>
+    <string name="settings_category">카테고리 설정</string>
+    <string name="settings_category_insert_update_delete">카테고리 추가/수정/삭제</string>
+    <string name="settings_check_my_hot_topic_feed">이웃새글 알림받기를 먼저 설정하세요.</string>
+    <string name="settings_comment_push">댓글 내용 표시</string>
+    <string name="settings_comment_push_desc">알림창에서 댓글 내용을 미리 볼 수 있습니다.</string>
+    <string name="settings_editor_current_version">기본 에디터 설정</string>
+    <string name="settings_editor_name_default">기존</string>
+    <string name="settings_editor_name_smarteditor">3.0</string>
+    <string name="settings_editor_original">기존 에디터</string>
+    <string name="settings_editor_smarteditor">스마트에디터3.0</string>
+    <string name="settings_errorreport">오류신고</string>
+    <string name="settings_first_check_mrblog_delivery">글쓰기 설정 > 블로그씨 질문 > 내 소식 배달을 먼저 설정하세요.</string>
+    <string name="settings_go_appcenter">네이버의 다른앱 보기</string>
+    <string name="settings_help_header">블로그 도움말</string>
+    <string name="settings_help_service">블로그 고객센터</string>
+    <string name="settings_info_goapplicationweb">애플리케이션 전체보기</string>
+    <string name="settings_info_gomobileweb">네이버 모바일 웹으로 이동</string>
+    <string name="settings_info_license">오픈소스 라이선스</string>
+    <string name="settings_info_update_format">최신 버전 %s 업데이트</string>
+    <string name="settings_manage">앱 관리</string>
+    <string name="settings_my_bookmarks">My 책갈피</string>
+    <string name="settings_my_buddy">서로이웃 맺기</string>
+    <string name="settings_my_buddy_request">서로이웃 신청 받기</string>
+    <string name="settings_official_blog">공식블로그</string>
+    <string name="settings_personal">개인 정보 관리</string>
+    <string name="settings_programInfo_title">프로그램 정보</string>
+    <string name="settings_send">글쓰기 설정</string>
+    <string name="settings_start_feed">이웃새글</string>
+    <string name="settings_start_my_blog">첫 화면 설정</string>
+    <string name="settings_start_my_blog_title">블로그 홈</string>
+    <string name="settings_start_myblog">내블로그</string>
+    <string name="settings_start_recommand">블로그 추천</string>
+    <string name="settings_stat">통계</string>
+    <string name="settings_theme_btn_apply_normal">적용하기</string>
+    <string name="settings_theme_btn_apply_selected">적용됨</string>
+    <string name="settings_theme_btn_del">삭제</string>
+    <string name="settings_theme_download">블로그 테마 설치하기</string>
+    <string name="settings_theme_list_group_default">기본 테마</string>
+    <string name="settings_theme_list_group_naver">스페셜 테마</string>
+    <string name="settings_theme_name_default">기본테마</string>
+    <string name="settings_theme_select">테마 설정</string>
+    <string name="settings_theme_version_default">1.0.0</string>
+    <string name="settings_title">설정</string>
+    <string name="settings_write_schedule_label">꼬박꼬박 글쓰기</string>
+    <string name="shoppinglist_text_buy">구매하기</string>
+    <string name="shoppinglist_text_cheapest">최저</string>
+    <string name="shoppinglist_text_price_comparison">가격비교 보기</string>
+    <string name="sign_all_pictures">모든사진</string>
+    <string name="sign_all_pictures_complete">서명이 모든 사진에 적용되었습니다.</string>
+    <string name="sign_image">이미지</string>
+    <string name="sign_select_picture">사진선택</string>
+    <string name="sign_select_picture_complete">서명이 %d장의 사진에 적용되었습니다.</string>
+    <string name="sign_text">텍스트</string>
+    <string name="simple_document_title_date_formant">M월 d일 E요일</string>
+    <string name="simple_editor_cancel_alert">취소하시겠습니까?</string>
+    <string name="simple_editor_no_contents_alert">글이 없습니다.</string>
+    <string name="smarteditor_button_black">블랙</string>
+    <string name="smarteditor_button_bluebubble">블루버블</string>
+    <string name="smarteditor_button_cancel">취소</string>
+    <string name="smarteditor_button_default_font">기본서체</string>
+    <string name="smarteditor_button_delete">삭제</string>
+    <string name="smarteditor_button_gray">그레이</string>
+    <string name="smarteditor_button_header">제목</string>
+    <string name="smarteditor_button_modernblue">모던블루</string>
+    <string name="smarteditor_button_nanumbarungothic">나눔바른고딕</string>
+    <string name="smarteditor_button_nanumgothic">나눔고딕</string>
+    <string name="smarteditor_button_nanummyeongjo">나눔명조</string>
+    <string name="smarteditor_button_nanumsquare">나눔스퀘어</string>
+    <string name="smarteditor_button_next">다음</string>
+    <string name="smarteditor_button_pinkemotion">핑크감성</string>
+    <string name="smarteditor_button_publish">등록</string>
+    <string name="smarteditor_button_purpleline">퍼플라인</string>
+    <string name="smarteditor_button_redstar">레드스타</string>
+    <string name="smarteditor_button_represent">대표이미지</string>
+    <string name="smarteditor_button_save">저장</string>
+    <string name="smarteditor_button_text">본문</string>
+    <string name="smarteditor_button_watercolor">수채화</string>
+    <string name="smarteditor_button_white">화이트</string>
+    <string name="smarteditor_dialog_approval">승인</string>
+    <string name="smarteditor_dialog_autosaved">"앱에서 작성하던 글이 있습니다.
+저장하지 않고 계속 진행하겠습니까?"</string>
+    <string name="smarteditor_dialog_cancel">취소</string>
+    <string name="smarteditor_dialog_cancel_writing">작성취소</string>
+    <string name="smarteditor_dialog_close">닫기</string>
+    <string name="smarteditor_dialog_guide_cancel_writing">"작성중인 글을 취소하시겠습니까?
+작성취소 선택시, 작성된 글은 저장되지 않습니다."</string>
+    <string name="smarteditor_dialog_image_limit_size">20MB가 넘는 이미지는 첨부가 되지 않습니다.</string>
+    <string name="smarteditor_dialog_image_limit_size_change_setting">"20MB가 넘는 이미지는 첨부가 되지 않습니다.
+등록정보 상세설정 첨부이미지 크기값을 바꿔주세요."</string>
+    <string name="smarteditor_dialog_image_load_failed">"%d개의 이미지를
+불러오기 실패했습니다."</string>
+    <string name="smarteditor_dialog_input_url">URL을 입력해주세요</string>
+    <string name="smarteditor_dialog_loading">로드 중</string>
+    <string name="smarteditor_dialog_no">아니요</string>
+    <string name="smarteditor_dialog_ok">확인</string>
+    <string name="smarteditor_dialog_publishing">등록중..</string>
+    <string name="smarteditor_dialog_save_templist">임시저장</string>
+    <string name="smarteditor_dialog_saving">저장중..</string>
+    <string name="smarteditor_dialog_yes">예</string>
+    <string name="smarteditor_header_writing">글쓰기</string>
+    <string name="smarteditor_placeholder_image_load_failed">"일시적인 오류로 이미지를 불러오지 못했습니다.
+글 등록 후 정상적으로 노출됩니다."</string>
+    <string name="smarteditor_placeholder_input_text">내용을 입력해주세요.</string>
+    <string name="smarteditor_placeholder_input_title">제목 입력</string>
+    <string name="smarteditor_placeholder_map_image_load_failed">"일시적인 오류로 지도이미지를 불러오지 못했습니다.
+글 등록 후 정상적으로 노출됩니다."</string>
+    <string name="smarteditor_placeholder_section_title">소제목 입력</string>
+    <string name="smarteditor_placeholder_tag_guide">이제 본문에 #을 이용한 태그 입력도 가능해요!</string>
+    <string name="smarteditor_placeholder_title">제목</string>
+    <string name="smarteditor_placeholder_unknown_component">"편집이 되지 않는 항목입니다.
+글 등록 후에는 정상적으로 노출됩니다."</string>
+    <string name="smarteditor_table_error">"원활한 서비스 제공을 위해 &lt;font color=#00c73c>400칸 이상의 표&lt;/font>는
+모바일에서 확인할 수 없습니다."</string>
+    <string name="smarteditor_text_author">작성자</string>
+    <string name="smarteditor_text_krw">원</string>
+    <string name="smarteditor_text_represent">대표</string>
+    <string name="smarteditor_toast_api_error_service_maintenance">서비스 점검 중입니다.</string>
+    <string name="smarteditor_toast_api_error_unknown">일시적인 오류가 발생했습니다.</string>
+    <string name="smarteditor_toast_attach_file_failed">파일을 첨부하지 못하였습니다.</string>
+    <string name="smarteditor_toast_attach_video_failed">동영상을 첨부할 수 없습니다.</string>
+    <string name="smarteditor_toast_document_load_failed">일시적인 네트워크 문제로 글을 가져오지 못하였습니다.</string>
+    <string name="smarteditor_toast_document_read_editormismatch">에디터의 형식이 맞지 않아서 불러올 수 없습니다.</string>
+    <string name="smarteditor_toast_document_read_ioerror">"글을 불러오는 도중 오류가 발생하였습니다.
+저장공간이 충분한지 확인해주세요."</string>
+    <string name="smarteditor_toast_document_read_parseerror">글의 형식이 올바르지 않아서 불러올 수 없습니다.</string>
+    <string name="smarteditor_toast_edit_image_failed">사진을 편집할 수 없습니다.</string>
+    <string name="smarteditor_toast_image_type_err">첨부할 수 없는 이미지 형식입니다.</string>
+    <string name="smarteditor_toast_load_image_info_failed">이미지 정보를 가져오지 못하였습니다.</string>
+    <string name="smarteditor_toast_local_temp_save_by_cancel">서버저장이 취소되어 오프라인으로 저장되었습니다. 이 기기에서만 불러올 수 있습니다.</string>
+    <string name="smarteditor_toast_local_temp_save_by_network">네트워크 문제로 오프라인 저장되었습니다. 이 기기에서만 불러올 수 있습니다.</string>
+    <string name="smarteditor_toast_not_device_image">휴대폰에 저장된 사진이 아니므로, 편집할 수 없습니다.</string>
+    <string name="smarteditor_toast_not_found_file">파일을 찾을 수 없습니다.</string>
+    <string name="smarteditor_toast_not_found_image">이미지 파일을 찾을 수 없습니다.</string>
+    <string name="smarteditor_toast_not_found_video">동영상 파일을 찾을 수 없습니다.</string>
+    <string name="smarteditor_toast_not_load_image">이미지 파일을 로드할 수 없습니다.</string>
+    <string name="smarteditor_toast_out_of_memory">메모리가 부족하여 작업을 실행할 수 없습니다.</string>
+    <string name="smarteditor_toast_over_query_limit">"오류가 발생하여 검색 결과를 가져올 수 없습니다.
+나중에 다시 시도해주세요."</string>
+    <string name="smarteditor_toast_represent_err">대표 사진으로 설정할 수 없습니다.</string>
+    <string name="smarteditor_toast_save_complete">저장이 완료되었습니다.</string>
+    <string name="smarteditor_toast_temp_document_read_parseerror">저장된 글의 형식이 올바르지 않아서 불러올 수 없습니다.</string>
+    <string name="smarteditor_toast_temp_save_ioerror">"글을 임시저장 하는 도중 오류가 발생하였습니다.
+저장공간이 충분한지 확인해주세요."</string>
+    <string name="smarteditor_toast_temp_save_parse_error">글을 임시저장 하는 도중 알수 없는 오류가 발생하였습니다.</string>
+    <string name="smarteditor_toast_template_loading">"템플릿 로딩중입니다.
+잠시만 기다려 주세요."</string>
+    <string name="smarteditor_toast_title_length_restriction">제목을 %d 글자 이내로 입력하세요</string>
+    <string name="smarteditor_toast_unknown_error">알 수 없는 오류가 발생하였습니다.</string>
+    <string name="smarteditor_toast_unknown_rendering_error">특정 첨부항목에 오류가 발생했습니다. 해당 항목을 삭제해주세요.</string>
+    <string name="smarteditor_toast_url_abnormal">정상적인 URL이 아닙니다.</string>
+    <string name="snsgpicker_dialog_integration_fail">SNS 연결 실패</string>
+    <string name="snsgpicker_dialog_sns_intergration_guide">"네이버 내 정보 > 보안설정 >
+외부 사이트 연결의 설정 내용을
+PC에서 확인해 주세요."</string>
+    <string name="snsgpicker_text_sns_no_image">해당 SNS계정의 저장된 이미지가 없습니다.</string>
+    <string name="snsgpicker_toast_need_intergrate">네이버 ID와 %s 계정을 연동하셔야 이용 가능합니다.</string>
+    <string name="ssl_certificate_error">이 사이트의 보안 인증서에 오류가 있습니다.</string>
+    <string name="ssl_certificate_expired">이 사이트의 보안 인증서가 만료되었습니다.</string>
+    <string name="ssl_error_title">SSL 오류</string>
+    <string name="ssl_untrusted">이 사이트의 보안 인증서는 신뢰할 수 없습니다.</string>
+    <string name="stat">통계</string>
+    <string name="stat_rank">순위</string>
+    <string name="stat_today">오늘</string>
+    <string name="stat_user">사용자 분석</string>
+    <string name="stat_visit">방문 분석</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="sticker_downloading">스티커를 다운로드 중입니다.</string>
+    <string name="str_list_string">목록</string>
+    <string name="str_map_string">지도</string>
+    <string name="str_no_address">주소가 확인되지 않습니다.</string>
+    <string name="sub_alarm_type_setting_today_history">지난 오늘 글</string>
+    <string name="subject_noselect">주제선택안함</string>
+    <string name="subject_select">주제분류</string>
+    <string name="submenu_defualt_reset">재설정</string>
+    <string name="submenu_sign_color_toolbar_alpha">투명도</string>
+    <string name="submenu_sign_select_picture_apply">적용</string>
+    <string name="submenu_sign_select_picture_title">사진선택</string>
+    <string name="submenu_text_toolbar_bgcolor">배경색</string>
+    <string name="submenu_text_toolbar_textcolor">글자색</string>
+    <string name="suggestion_blog_share_title">"[네이버 이달의 블로그]
+매월 새로운 주제로 찾아옵니다.
+블로그 세상 속 다양한 이야기를 만나보세요."</string>
+    <string name="suggestion_blog_title">이달의 블로그</string>
+    <string name="suggestion_blog_view_content">에 소개되셨어요. 이달의 블로그를 확인해 보세요.</string>
+    <string name="suggestion_blog_view_name">%s님,</string>
+    <string name="suggestion_blog_view_name_limit">..</string>
+    <string name="suggestion_blog_view_sug_name">%s 블로그</string>
+    <string name="suggestion_blog_view_title">축하합니다!</string>
+    <string name="suggestion_blog_view_type_interesting">이달의</string>
+    <string name="sympathy_title">공감</string>
+    <string name="tag_add">추가</string>
+    <string name="tag_confirm">확인</string>
+    <string name="tag_dialog_error1">태그는 한글 100자까지 입력 가능합니다.</string>
+    <string name="tag_dialog_error2">태그는 최대 10개까지 입력 가능합니다.</string>
+    <string name="tag_first_post">첫글</string>
+    <string name="tag_hint">쉼표로 태그를 구분하세요.</string>
+    <string name="tag_title">태그 편집</string>
+    <string name="talktalk_block_sub_title">톡톡하기</string>
+    <string name="talktalk_block_title">블로그 주인과 바로 대화해보세요</string>
+    <string name="talktalk_error_msg_get_fail">목록을 가져오는 중에 오류가 발생했습니다. 잠시후 다시 시도해 주세요.</string>
+    <string name="talktalk_error_msg_update_fail">정보 변경에 실패했습니다. 잠시후 다시 시도해 주세요.</string>
+    <string name="talktalk_setting_description">"네이버 톡톡 채팅으로 연결되는 버튼이
+모바일과 PC에 동시 노출됩니다."</string>
+    <string name="talktalk_setting_indication">네이버 톡톡 연결</string>
+    <string name="talktalk_setting_title">네이버 톡톡 설정</string>
+    <string name="temp_save_confirmation">임시 저장이 완료되었습니다.</string>
+    <string name="temp_saving_post_btn_edit">편집</string>
+    <string name="temp_saving_post_edit_notice">임시저장글을 선택하여 삭제할 수 있습니다.</string>
+    <string name="temp_saving_post_list_btn_continue">이어쓰기</string>
+    <string name="temp_saving_post_list_btn_pc_send">PC 전송</string>
+    <string name="temp_saving_post_notice">"PC에서 편집하고 싶은 글은 PC 전송하세요.
+PC웹 블로그의 임시저장글 목록으로 전송됩니다."</string>
+    <string name="temp_saving_post_request_cancel_button">PC전송 취소</string>
+    <string name="temp_saving_post_request_canceled">PC 전송이 취소되었습니다.</string>
+    <string name="temp_saving_post_title">임시저장</string>
+    <string name="temp_saving_post_upload_completed_progress_message">PC웹으로 전송이 완료되었습니다.</string>
+    <string name="temp_saving_post_upload_failed_progress_message">PC웹으로 전송이 실패하였습니다.</string>
+    <string name="temp_saving_post_upload_progress_message">PC웹으로 전송중입니다.</string>
+    <string name="template_button_skip">바로쓰기</string>
+    <string name="template_dialog_delete_confirm">선택한 템플릿을 삭제 하시겠습니까?</string>
+    <string name="template_header_title">템플릿</string>
+    <string name="template_placeholder_empty">저장된 템플릿이 없습니다.</string>
+    <string name="template_placeholder_empty_event">진행중인 공모전이 없습니다.</string>
+    <string name="template_tab_contest">공모전</string>
+    <string name="template_tab_my">MY</string>
+    <string name="template_tab_recommendation">추천</string>
+    <string name="template_toast_delete_error">템플릿을 삭제하는 도중 오류가 발생하였습니다.</string>
+    <string name="template_toast_deleted">선택한 템플릿을 삭제 하였습니다.</string>
+    <string name="template_toast_load_event_error">글을 불러오는 도중 오류가 발생하였습니다.</string>
+    <string name="template_toast_load_event_list_failed_network">일시적인 네트워크 문제로 글 목록을 가져오지 못하였습니다.</string>
+    <string name="template_toast_load_event_list_failed_unknown">글 목록을 가져오지 못하였습니다.</string>
+    <string name="template_toast_load_failed_network">일시적인 네트워크 문제로 템플릿 목록을 가져오지 못하였습니다.</string>
+    <string name="template_toast_load_failed_unknown">템플릿 목록을 가져오지 못하였습니다.</string>
+    <string name="template_toast_read_error">템플릿을 불러오는 도중 오류가 발생하였습니다.</string>
+    <string name="templist_button_complete">완료</string>
+    <string name="templist_button_delete">삭제</string>
+    <string name="templist_button_delete_all">전체삭제</string>
+    <string name="templist_button_edit">편집</string>
+    <string name="templist_dialog_cleanup">정리</string>
+    <string name="templist_dialog_delete_all">임시저장 글을 모두 삭제하시겠습니까?</string>
+    <string name="templist_dialog_empty_document">제목 또는 본문을 입력해주세요.</string>
+    <string name="templist_dialog_empty_title">제목 없음</string>
+    <string name="templist_dialog_exceed">이 기기에만 저장 가능한 개수(%d개)가 초과되어 가장 오래된 저장글을 삭제 후 저장됩니다.</string>
+    <string name="templist_dialog_load_conflicted_document">"다른 기기에서 해당글을 수정한 적이 있습니다.
+다른 기기에서 수정한 글을 불러오시겠습니까?"</string>
+    <string name="templist_dialog_load_temp_document">"작성 중인 글은 취소됩니다.
+임시저장글을 불러오시겠습니까?"</string>
+    <string name="templist_dialog_msg_cleanup_list">오래된 기기 임시저장글의 정리가 필요합니다. 원활한 임시저장을 위해 오래된 글들을 정리하시겠습니까?</string>
+    <string name="templist_dialog_msg_local_saved">"네트워크가 연결되지 않아 이 기기에만 임시저장된 글입니다.
+PC 및 다른 기기에서 수정하시려면 네트워크가 연결된 상태에서 다시 임시저장 해주세요."</string>
+    <string name="templist_header_title">임시저장 글</string>
+    <string name="templist_placeholder_empty">저장된 글이 없습니다.</string>
+    <string name="templist_toast_cleanup_complete">오래된 기기 임시저장글이 정리되었습니다.</string>
+    <string name="templist_toast_load_failed_temp_document">일시적인 네트워크 문제로 임시저장된 글을 가져오지 못하였습니다.</string>
+    <string name="templist_toast_load_failed_templist_unknwonerror">일시적인 문제로 임시저장된 글 목록을 가져오지 못하였습니다.</string>
+    <string name="templist_toast_load_templist_failed_by_network">일시적인 네트워크 문제로 임시저장된 글 목록을 가져오지 못하였습니다.</string>
+    <string name="templist_toast_local_saved">오프라인 저장되었습니다. 이 기기에서만 불러올 수 있습니다.</string>
+    <string name="templist_toast_templist_remove_complete">임시저장 글을 삭제하였습니다.</string>
+    <string name="templist_toast_templist_remove_error">일시적인 네트워크 문제로 임시저장 글을 삭제하지 못하였습니다.</string>
+    <string name="tempsave_not_available">임시저장 글이 없습니다.</string>
+    <string name="testScheme">스키마 테스트</string>
+    <string name="testindicator">인디케이터 알림 받기</string>
+    <string name="thumbnail_size_representative_list">w210</string>
+    <string name="tmp_subtitle">Sub Title</string>
+    <string name="tmp_title">Title</string>
+    <string name="today_history_more">자세히 보기</string>
+    <string name="today_history_post_info">"%1$s 
+ %2$s 
+ 공유한 글의 제목 %3$s 
+ 내용요약 %4$s"</string>
+    <string name="today_history_title1">"지난 오늘, 블로그에 남겨둔
+추억을 돌아보세요."</string>
+    <string name="tooltip_write">글쓰러 가기</string>
+    <string name="tutorial_first_page_content">"블로그명과 프로필사진도
+홈편집에서 한번에 변경해요."</string>
+    <string name="tutorial_first_page_sub_content">PC에도 함께 반영됩니다.</string>
+    <string name="tutorial_fourth_page_complete_text">홈편집 시작하기</string>
+    <string name="tutorial_fourth_page_content">"커버의 스타일도 다양해졌어요.
+지금 마음대로 바꿔보세요!"</string>
+    <string name="tutorial_second_page_content">"보여주고 싶은 블록은 더하고
+빼고 싶은 블록은 숨길수 있어요."</string>
+    <string name="tutorial_second_page_sub_content">숨긴블록의 편집내용은 유지됩니다.</string>
+    <string name="tutorial_third_page_content">"블록들의 순서도
+내 마음대로 되는 블로그!"</string>
+    <string name="tv_notice_test">공지사항 푸시 테스트</string>
+    <string name="tvcast_collect">정확도</string>
+    <string name="tvcast_dialog_not_found">검색 결과가 없습니다. 검색어를 확인하신 후 다시 검색해 주세요</string>
+    <string name="tvcast_header_title">네이버TV 동영상</string>
+    <string name="tvcast_placeholder_search">프로그램명, 제목, 출연진을 검색하세요.</string>
+    <string name="tvcast_recent">최신</string>
+    <string name="tvcast_text_loading">불러오는 중</string>
+    <string name="tvcast_top100">TOP100 실시간 인기</string>
+    <string name="tvcast_video">동영상</string>
+    <string name="unknown_host_err_text">네트워크 연결 상태를 확인해 주세요.</string>
+    <string name="url_format">http</string>
+    <string name="video_attach_message">글 등록 후에 재생 가능합니다.</string>
+    <string name="video_text_1">선택한</string>
+    <string name="video_text_2">동영상</string>
+    <string name="video_text_3">이 첨부되었습니다.</string>
+    <string name="videoeditor_btn_title">동영상 편집</string>
+    <string name="videoeditor_complete">완료</string>
+    <string name="videoeditor_crop_11">1:1</string>
+    <string name="videoeditor_crop_169">16:9</string>
+    <string name="videoeditor_crop_23">2:3</string>
+    <string name="videoeditor_crop_32">3:2</string>
+    <string name="videoeditor_crop_34">3:4</string>
+    <string name="videoeditor_crop_43">4:3</string>
+    <string name="videoeditor_crop_916">9:16</string>
+    <string name="videoeditor_crop_original">원본</string>
+    <string name="videoeditor_crop_rotate">회전</string>
+    <string name="videoeditor_dialog_encoding_fail">인코딩 중 실패했습니다.</string>
+    <string name="videoeditor_dialog_encoding_fail_retry">다시 시도</string>
+    <string name="videoeditor_error_temporary">일시적인 오류로 실패하였습니다.</string>
+    <string name="videoeditor_error_unavailable_codec">지원하지 않는 코덱입니다.</string>
+    <string name="videoeditor_error_unknown">알 수 없는 오류</string>
+    <string name="videoeditor_filter">필터</string>
+    <string name="videoeditor_filter_00">적용 안 함</string>
+    <string name="videoeditor_filter_01">상큼한</string>
+    <string name="videoeditor_filter_02">사랑스러운</string>
+    <string name="videoeditor_filter_03">예쁜</string>
+    <string name="videoeditor_filter_04">흐린</string>
+    <string name="videoeditor_filter_05">밝은</string>
+    <string name="videoeditor_filter_06">생기있는</string>
+    <string name="videoeditor_filter_07">화창한</string>
+    <string name="videoeditor_filter_08">오래된</string>
+    <string name="videoeditor_filter_09">차가운</string>
+    <string name="videoeditor_filter_10">조용한</string>
+    <string name="videoeditor_progressing">동영상 첨부 중입니다..</string>
+    <string name="videoeditor_select_section">편집할 구간을 설정해주세요. (01:30)</string>
+    <string name="videoeditor_select_section_title">자르기</string>
+    <string name="videoeditor_sound_off">음소거</string>
+    <string name="videoeditor_sound_on">소리</string>
+    <string name="videoeditor_toast_too_short_video">1초 이상이어야 편집이 가능합니다.</string>
+    <string name="videoeditor_trim">길이</string>
+    <string name="view_post">본문보기</string>
+    <string name="warning">취소</string>
+    <string name="write_directory_changed_noti">글감이 추가되어 주제분류가 %s으로 변경 되었습니다. (첫 글감 기준, 글쓰기 설정에서 변경 가능)</string>
+    <string name="write_external_db_dialog_header">글감 선택</string>
+    <string name="write_post_attach_main_thumbnail_text">대표</string>
+    <string name="write_post_attach_proposal_dialog_header">첨부선택</string>
+    <string name="write_post_cancel">작성취소</string>
+    <string name="write_post_cancel_dialog_message">"작성중인 글을 취소 하시겠습니까?
+작성취소 선택시, 작성된 글은 저장되지 않습니다."</string>
+    <string name="write_post_enter_body_dialog_message">포스트 내용을 입력해 주세요.</string>
+    <string name="write_post_faild_save_draft_dialog_title">실패</string>
+    <string name="write_post_file_add_tooltip">%s개의 파일이 첨부되었습니다.</string>
+    <string name="write_post_image_file_limit_file_size">용량 20MB초과의 단일 이미지는 첨부할 수 없습니다.</string>
+    <string name="write_post_image_file_size_dialog_message">"최대 첨부 용량을 초과했습니다.
+300MB 이상은 등록할 수 없습니다."</string>
+    <string name="write_post_max_save_entries">임시 저장할 수 있는 포스트는 최대 20개입니다.</string>
+    <string name="write_post_message_size_dialog_message">"최대 첨부 용량을 초과했습니다.
+총 600MB 이상은 등록할 수 없습니다."</string>
+    <string name="write_post_message_today_size_dialog_message">하루에 첨부 가능한 파일 용량(500MB)을 초과하여 더 이상 첨부할 수 없습니다.</string>
+    <string name="write_post_next">다음</string>
+    <string name="write_post_post_btn">올리기</string>
+    <string name="write_post_temp_delete">삭제</string>
+    <string name="write_post_temp_delete_all">전체삭제</string>
+    <string name="write_post_temp_list">임시글</string>
+    <string name="write_post_temp_saving">임시저장</string>
+    <string name="write_post_text_size_dialog_message">500KB 미만의 글만 등록할 수 있습니다.</string>
+    <string name="write_post_title_size_dialog_message">제목은 150자(영문 300자) 이하로 입력해주세요.</string>
+    <string name="write_post_video_file_size_dialog_message">"최대 첨부 용량을 초과했습니다.
+300MB 이상은 등록할 수 없습니다."</string>
+    <string name="write_schedule_list_add_limit">알림은 10개까지만 추가할 수 있습니다.</string>
+    <string name="write_schedule_list_empty_message">"원하는 시간에 글쓰기 알람받고
+나만의 실천일기를 작성해보세요."</string>
+    <string name="write_schedule_list_empty_title">설정한 글쓰기 알람이 없습니다.</string>
+    <string name="write_schedule_list_example_baby">내 아이의 성장 육아일기</string>
+    <string name="write_schedule_list_example_book">한 달에 한권 독서 리뷰글</string>
+    <string name="write_schedule_list_example_food">오늘의 꼼꼼한 식단 일기</string>
+    <string name="write_schedule_list_example_title">나만의 실천일기쓰기에 도전해보세요.</string>
+    <string name="write_schedule_list_example_workout">매일매일 운동일지 작성</string>
+    <string name="write_schedule_list_save">추가</string>
+    <string name="write_schedule_list_schedule_intervalinfo_default">매일 오후 00:00</string>
+    <string name="write_schedule_list_schedule_title_default">알림명</string>
+    <string name="write_schedule_noti_close">닫기</string>
+    <string name="write_schedule_noti_gowrite">글쓰기</string>
+    <string name="write_schedule_noti_title">[꼬박꼬박 글쓰기 알림]</string>
+    <string name="write_schedule_title">꼬박꼬박 글쓰기</string>
+    <string name="write_schedule_writeform_alert_interval_day_range">1~999 사이의 숫자로 입력해주세요.</string>
+    <string name="write_schedule_writeform_alert_interval_week_range">1~99 사이의 숫자로 입력해주세요.</string>
+    <string name="write_schedule_writeform_delete">알림 삭제하기</string>
+    <string name="write_schedule_writeform_dialog_delete_message">이 알림을 삭제하시겠습니까?</string>
+    <string name="write_schedule_writeform_dialog_title">알림 주기</string>
+    <string name="write_schedule_writeform_every_default">1</string>
+    <string name="write_schedule_writeform_every_xday">일마다</string>
+    <string name="write_schedule_writeform_every_xweek">주마다 다음 요일에</string>
+    <string name="write_schedule_writeform_fri">금</string>
+    <string name="write_schedule_writeform_interval">알림 주기</string>
+    <string name="write_schedule_writeform_interval_every_day">매일</string>
+    <string name="write_schedule_writeform_interval_every_week">매주</string>
+    <string name="write_schedule_writeform_message_hint">알림 받을 메시지를 입력하세요.</string>
+    <string name="write_schedule_writeform_message_label">메시지</string>
+    <string name="write_schedule_writeform_mon">월</string>
+    <string name="write_schedule_writeform_sat">토</string>
+    <string name="write_schedule_writeform_save">저장</string>
+    <string name="write_schedule_writeform_sumitalert_dayOfWeek">알림받을 요일을 선택해주세요</string>
+    <string name="write_schedule_writeform_sumitalert_title">알림명을 입력하세요.</string>
+    <string name="write_schedule_writeform_sun">일</string>
+    <string name="write_schedule_writeform_thu">목</string>
+    <string name="write_schedule_writeform_time">오전 00:00</string>
+    <string name="write_schedule_writeform_time_label">알림 시간</string>
+    <string name="write_schedule_writeform_title_hint">알림명을 입력하세요.</string>
+    <string name="write_schedule_writeform_title_label">알림명</string>
+    <string name="write_schedule_writeform_tue">화</string>
+    <string name="write_schedule_writeform_wed">수</string>
+    <string name="wrp_invalid_file">파일이 유효하지 않습니다.</string>
+    <string name="wrp_max_image_number">사진은 최대 50개까지 올릴 수 있습니다</string>
+    <string name="wrp_max_video_number">동영상은 최대 10개까지 올릴 수 있습니다</string>
+    <string name="wrp_repost_dlgmessage">이미 서버에 등록된 글입니다. 새로운 글로 등록하시겠습니까?</string>
+    <string name="wrp_repost_dlgtitle">포스트 쓰기</string>
+    <string name="yes">예</string>
+</resources>

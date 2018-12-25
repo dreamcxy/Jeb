@@ -1,0 +1,1409 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter your code.</string>
+    <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_like_button_liked">Liked</string>
+    <string name="com_facebook_like_button_not_liked">Like</string>
+    <string name="com_facebook_loading">Loading…</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_loginview_log_in_button">Log in</string>
+    <string name="com_facebook_loginview_log_in_button_continue">Continue with Facebook</string>
+    <string name="com_facebook_loginview_log_in_button_long">Log in with Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="com_facebook_send_button_text">Send</string>
+    <string name="com_facebook_share_button_text">Share</string>
+    <string name="com_facebook_tooltip_default">"You're in control - choose what info you want to share with apps."</string>
+    <string name="common_android_wear_notification_needs_update_text">%1$s requires an update to the Android Wear app.</string>
+    <string name="common_android_wear_update_text">"%1$s won't run unless you update the Android Wear app."</string>
+    <string name="common_android_wear_update_title">Update Android Wear</string>
+    <string name="common_google_play_services_api_unavailable_text">%1$s requires one or more Google Play services that are not currently available. Please contact the developer for assistance.</string>
+    <string name="common_google_play_services_enable_button">Enable Google Play services</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Requested by %1$s</string>
+    <string name="common_google_play_services_install_button">Get Google Play services</string>
+    <string name="common_google_play_services_install_text_phone">"%1$s won't run without Google Play services, which are missing from your phone."</string>
+    <string name="common_google_play_services_install_text_tablet">"%1$s won't run without Google Play services, which are missing from your tablet."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
+    <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
+    <string name="common_google_play_services_needs_enabling_title">An application requires Google Play services to be enabled.</string>
+    <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
+    <string name="common_google_play_services_network_error_title">Network Error</string>
+    <string name="common_google_play_services_notification_needs_update_title">An application requires an update for Google Play services.</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_sign_in_failed_text">Error signing in the specified account. Please choose a different account.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Sign in failed</string>
+    <string name="common_google_play_services_unknown_issue">Unknown issue with Google Play services.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s relies on Google Play services, which is not supported by your device. Contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_updating_title">Google Play services are updating</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="mdtp_day_picker_description">Month grid of days</string>
+    <string name="mdtp_deleted_key">%1$s deleted</string>
+    <string name="mdtp_done_label">Done</string>
+    <string name="mdtp_hour_picker_description">Hours circular slider</string>
+    <string name="mdtp_item_is_selected">%1$s selected</string>
+    <string name="mdtp_minute_picker_description">Minutes circular slider</string>
+    <string name="mdtp_select_day">Select month and day</string>
+    <string name="mdtp_select_hours">Select hours</string>
+    <string name="mdtp_select_minutes">Select minutes</string>
+    <string name="mdtp_select_year">Select year</string>
+    <string name="mdtp_year_picker_description">Year list</string>
+    <string name="messenger_send_button_text">Send</string>
+    <string name="search_menu_title">Search</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="uv_admin_response_format">Admin response: %1$s</string>
+    <string name="uv_all_articles">All Articles</string>
+    <string name="uv_all_results_filter">ALL</string>
+    <string name="uv_android_sdk">Android SDK</string>
+    <string name="uv_article">Article</string>
+    <string name="uv_article_browse_question">Was this article helpful?</string>
+    <string name="uv_article_instant_answer_question">Is this article helpful?</string>
+    <string name="uv_articles_filter">ARTICLES</string>
+    <string name="uv_cancel">Cancel</string>
+    <string name="uv_category">Category</string>
+    <string name="uv_close">Close</string>
+    <string name="uv_comment_hint">Enter your comment</string>
+    <string name="uv_confirm">Confirm</string>
+    <string name="uv_contact_continue_button">I still want to send a message</string>
+    <string name="uv_contact_hint">Enter your question or feedback</string>
+    <string name="uv_contact_us">Contact us</string>
+    <string name="uv_display_name">Display name</string>
+    <string name="uv_email_address">Email address</string>
+    <string name="uv_email_address_hint">your@email.com (required)</string>
+    <string name="uv_error">Error</string>
+    <string name="uv_failed_signin_error">Incorrect email or password</string>
+    <string name="uv_feedback_forum">Feedback Forum</string>
+    <string name="uv_forgot_password">Forgot password</string>
+    <string name="uv_helpful_article_message_question">Do you still want to send a message?</string>
+    <string name="uv_i_want_this">I want this!</string>
+    <string name="uv_idea">Idea</string>
+    <string name="uv_idea_description_heading">Describe your idea in more detail</string>
+    <string name="uv_idea_description_hint">(optional)</string>
+    <string name="uv_idea_form_help">"When you post an idea on our forum, others will be able to subscribe to it and make comments. When we respond to the idea, you'll get notified."</string>
+    <string name="uv_idea_form_title">Post an idea</string>
+    <string name="uv_idea_text_heading">I suggest you…</string>
+    <string name="uv_idea_text_hint">Enter your idea…</string>
+    <string name="uv_ideas_filter">IDEAS</string>
+    <string name="uv_knowledge_base">Knowledge Base</string>
+    <string name="uv_loading">Loading…</string>
+    <string name="uv_matching_articles">Matching articles</string>
+    <string name="uv_matching_articles_and_ideas">Matching articles and ideas</string>
+    <string name="uv_matching_ideas">Matching ideas</string>
+    <string name="uv_menu_search">Search</string>
+    <string name="uv_msg_bad_email_format">Please enter a valid email address.</string>
+    <string name="uv_msg_comment_posted">Your comment has been posted</string>
+    <string name="uv_msg_confirm_discard_idea">Are you sure you want to discard your idea?</string>
+    <string name="uv_msg_confirm_discard_message">Are you sure you want to discard your message?</string>
+    <string name="uv_msg_custom_fields_validation">Please fill out all required fields.</string>
+    <string name="uv_msg_forgot_password">Forgot password email sent</string>
+    <string name="uv_msg_idea_created">Your idea has been created</string>
+    <string name="uv_msg_subscribe">"We'll update you as this idea progresses."</string>
+    <string name="uv_msg_subscribe_success">You have been subscribed to this idea.</string>
+    <string name="uv_msg_ticket_created">Your message has been sent</string>
+    <string name="uv_msg_unsubscribe">You have been unsubscribed from this idea.</string>
+    <string name="uv_msg_user_identity_validation">Please enter your email address</string>
+    <string name="uv_name_hint">“Anonymous”</string>
+    <string name="uv_network_error">There was an error connecting to UserVoice</string>
+    <string name="uv_nevermind">Nevermind</string>
+    <string name="uv_new_comment">New comment</string>
+    <string name="uv_next">Next</string>
+    <string name="uv_no">No</string>
+    <string name="uv_none_of_these_help">None of these help</string>
+    <string name="uv_password">Password</string>
+    <string name="uv_password_dialog_title">Please enter your password</string>
+    <string name="uv_portal_title">Help</string>
+    <string name="uv_post_a_comment">Post a comment</string>
+    <string name="uv_post_an_idea">Post an idea</string>
+    <string name="uv_post_comment">Post comment</string>
+    <string name="uv_post_idea_continue_button">I still want to post my idea</string>
+    <string name="uv_posted_by_format">Posted by %1$s on %2$s</string>
+    <string name="uv_powered_by_uservoice">Powered by UserVoice</string>
+    <string name="uv_ranked">Ranked %1$s</string>
+    <string name="uv_remove_votes">Remove Votes</string>
+    <string name="uv_select_none">(none)</string>
+    <string name="uv_select_one">Select one</string>
+    <string name="uv_send_message">Send message</string>
+    <string name="uv_signin_dialog_ok">Sign in</string>
+    <string name="uv_signin_dialog_title">Sign in</string>
+    <string name="uv_status_format">Status: %1$s</string>
+    <string name="uv_submit_idea">Submit idea</string>
+    <string name="uv_subscribe">Subscribe</string>
+    <string name="uv_subscribe_dialog_title">Subscribe to this idea</string>
+    <string name="uv_suggestion_instant_answer_question">Is this idea helpful?</string>
+    <string name="uv_thanks">Thanks!</string>
+    <string name="uv_title_idea">Idea</string>
+    <string name="uv_unhelpful_article_message_question">Would you like to send us a message?</string>
+    <string name="uv_value">Value</string>
+    <string name="uv_very_yes">Yes!</string>
+    <string name="uv_yes">Yes</string>
+    <string name="uv_your_email_address">Your email address</string>
+    <string name="uv_your_name">Your name</string>
+    <string name="com_mixpanel_android_close">Close</string>
+    <string name="com_mixpanel_android_done">Done</string>
+    <string name="com_mixpanel_android_exit">Exit</string>
+    <string name="com_mixpanel_android_logo">By Mixpanel</string>
+    <string name="com_mixpanel_android_notification_image">Image not displayed</string>
+    <string name="mdtp_day_of_week_label_typeface">sans-serif</string>
+    <string name="ARSMaquetteProBold">ARSMaquetteProBold.otf</string>
+    <string name="ARSMaquetteProLight">ARSMaquetteProLight.otf</string>
+    <string name="ARSMaquetteProLightItalic">ARSMaquetteProLightItalic.otf</string>
+    <string name="ARSMaquetteProMedium">ARSMaquetteProMedium.otf</string>
+    <string name="ARSMaquetteProMediumItalic">ARSMaquetteProMediumItalic.otf</string>
+    <string name="ARSMaquetteProRegular">ARSMaquetteProRegular.otf</string>
+    <string name="ARSMaquetteProRegularItalic">ARSMaquetteProRegularItalic.otf</string>
+    <string name="Oops">Oops!</string>
+    <string name="R.string.invite_family">Invite family</string>
+    <string name="_email">Email</string>
+    <string name="_name">Name</string>
+    <string name="_privacy_policy">privacy policy</string>
+    <string name="_send_feedback">send feedback</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="about">about</string>
+    <string name="about_subtitle">About:</string>
+    <string name="about_text">"Our Mission is to foster creative individuality and bring on-demand printed products to people all over the world. We hope to surround people with their favorite memories and brands, to remind them of the better things in life, improving the world one creation at a time.
+
+We have an unwavering commitment to quality and customer satisfaction. If you're not happy, we're not happy. That's why we go the extra mile to insure that we carry the highest quality products, printed by the best printers, at the best possible prices.
+
+We have print facilities all over the world, so whether you're in the USA, India, or Laos, we can ship to you! Since inception, we've shipped to over 100 countries.
+
+support@gooten.com for support and friends"</string>
+    <string name="accept_suggestion">Accept Suggestion</string>
+    <string name="account_info">account information</string>
+    <string name="accounts">Accounts</string>
+    <string name="add">add</string>
+    <string name="add_a_child">add a child</string>
+    <string name="add_a_fan">add a fan</string>
+    <string name="add_a_memory">add a memory</string>
+    <string name="add_address">Add Shipping Address</string>
+    <string name="add_another_keepy_button_other">remind me later</string>
+    <string name="add_another_keepy_button_right">add another memory</string>
+    <string name="add_another_keepy_message">How about we add another memory right now?</string>
+    <string name="add_another_kid">add another kid</string>
+    <string name="add_artist">add artist</string>
+    <string name="add_aunt">add aunt</string>
+    <string name="add_aunts_and_uncles">add aunts &amp; uncles</string>
+    <string name="add_brother">add brother</string>
+    <string name="add_comment">add comment</string>
+    <string name="add_dad">add dad</string>
+    <string name="add_fan">add fan</string>
+    <string name="add_fan_footer">we do not store or upload your contacts.</string>
+    <string name="add_fan_title">"Your loved ones will love your keepies. Invite them to be your kids' \"fans\" so they can see all your awesome uploads."</string>
+    <string name="add_first_keepy">add your first keepy</string>
+    <string name="add_first_keepy_dialog_message">Let’s start saving %1$s first Keepy</string>
+    <string name="add_first_keepy_dialog_message_multi">Let’s start saving %1$s first Keepy</string>
+    <string name="add_first_keepy_message">"upload X's art, school work,
+photo or memento now!"</string>
+    <string name="add_friend">add friend</string>
+    <string name="add_gallery">gallery</string>
+    <string name="add_grandma">"add
+grandma"</string>
+    <string name="add_grandma_title">add grandma</string>
+    <string name="add_grandpa">"add
+grandpa"</string>
+    <string name="add_grandpa_title">add grandpa</string>
+    <string name="add_grandparent">add grandparent</string>
+    <string name="add_kid">add kid</string>
+    <string name="add_kid_dialog_message">Does %1$s have any brothers or sisters?</string>
+    <string name="add_kid_dialog_message_multi">Do %1$s have more brothers or sisters?</string>
+    <string name="add_kids">add kids</string>
+    <string name="add_mom">add mom</string>
+    <string name="add_more_images">Add More Images</string>
+    <string name="add_more_kids">add another kid?</string>
+    <string name="add_more_memories">add more memories</string>
+    <string name="add_more_products">Add More Products</string>
+    <string name="add_my_first_keepy">add my first keepy</string>
+    <string name="add_my_first_kid">add my first kid</string>
+    <string name="add_note">add note</string>
+    <string name="add_partner">add partner</string>
+    <string name="add_partner_message">add your partner so they can add keepies to your child’s timeline from their own Keepy account.</string>
+    <string name="add_photo">add photo</string>
+    <string name="add_photos">add photos</string>
+    <string name="add_place">Add Place</string>
+    <string name="add_sister">add sister</string>
+    <string name="add_story">add story</string>
+    <string name="add_story_when">When</string>
+    <string name="add_story_where">Where</string>
+    <string name="add_take_photo">"take
+photo"</string>
+    <string name="add_text">Add Text</string>
+    <string name="add_text_coming_soon">Add text feature is coming soon</string>
+    <string name="add_text_comment_hint_collection">"gush about X's collection"</string>
+    <string name="add_text_comment_hint_photo">"gush about X's photo"</string>
+    <string name="add_text_comment_hint_video">"gush about X's video"</string>
+    <string name="add_title">add title or description...</string>
+    <string name="add_title_multi">Add title or description...</string>
+    <string name="add_uncle">add uncle</string>
+    <string name="add_upload_note">"add
+note"</string>
+    <string name="add_upload_photo">"add
+photo"</string>
+    <string name="add_upload_video">"add
+video"</string>
+    <string name="add_video">add video</string>
+    <string name="add_voice">add voice</string>
+    <string name="add_your_partner">add your partner</string>
+    <string name="address_form">Address Form</string>
+    <string name="address_validation">Address Validation</string>
+    <string name="address_validation_failed">Address validation failed!</string>
+    <string name="age">age</string>
+    <string name="albums">albums</string>
+    <string name="all">All</string>
+    <string name="all_keepies">All Keepies</string>
+    <string name="almost_done">Almost Done!</string>
+    <string name="already_a_member">Already a member?</string>
+    <string name="and">and</string>
+    <string name="any_more_family">Any more aunts &amp; uncles?</string>
+    <string name="any_more_grandparents">Are you sure you don’t want to add another grandparent?</string>
+    <string name="app_name">Keepy</string>
+    <string name="apply">apply</string>
+    <string name="appsflyer_dev_key">ZHSNYazQaAUHP5vChavHm</string>
+    <string name="are_you_sure">are you sure?</string>
+    <string name="are_you_sure_photo">Are you sure you want to remove?</string>
+    <string name="are_you_sure_recording">Are you sure you want to delete this recording?</string>
+    <string name="aunt">aunt</string>
+    <string name="aunts_and_uncles">aunts &amp; uncles</string>
+    <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
+    <string name="auth_google_play_services_client_google_display_name">Google</string>
+    <string name="auto_arrange_note">"Note: Both options allow you to finalize
+the arrangement manually."</string>
+    <string name="auto_populate">Auto populate</string>
+    <string name="auto_populate_message">Before saving to cart, all pages need to be filled in. Do you want to auto or manually populate photos?</string>
+    <string name="back">Back</string>
+    <string name="background">Background</string>
+    <string name="beach_bag_customize_info_text">(Front design is replicated on back)</string>
+    <string name="billing_address">Billing Address</string>
+    <string name="billing_country">Billing Country</string>
+    <string name="birth_date">birth date</string>
+    <string name="bnc_app_key">106004197740118762</string>
+    <string name="boy">boy</string>
+    <string name="brightness">brightness</string>
+    <string name="btn_cancel">cancel</string>
+    <string name="btn_continue">Continue</string>
+    <string name="business">"Business
+Address"</string>
+    <string name="business_residential">Is this address Business or Residential?</string>
+    <string name="button_add_more_products_text">Keep Shopping</string>
+    <string name="button_label_coupon_add">Add</string>
+    <string name="button_label_create_it">Make it!</string>
+    <string name="button_label_create_it_with_product" />
+    <string name="calculated_at_checkout">Calculated at Checkout</string>
+    <string name="cancel">cancel</string>
+    <string name="cancel_upload_message">We will keep trying to save this for you. Are you sure you want to delete it?</string>
+    <string name="cancel_upload_negative">keep trying</string>
+    <string name="cancel_upload_positive">delete</string>
+    <string name="cancel_upload_video">"Are you super sure you
+want to cancel?"</string>
+    <string name="cancelled_pay_pal">PayPal payment cancelled</string>
+    <string name="cannot_change_back_page_layout">Layout for the back page cannot be changed.</string>
+    <string name="cant_comment">"you can't comment on this feed. sorry :)"</string>
+    <string name="card_information">Card Information</string>
+    <string name="card_number">Card Number</string>
+    <string name="cards_and_calendats">Cards &amp; Calendars</string>
+    <string name="categories">Categories</string>
+    <string name="category_description_appareal">Products you want to be seen in</string>
+    <string name="category_description_cards_and_calendars">Never miss a date and send the right cards</string>
+    <string name="category_description_home_decor">"Set your home apart from your neighbor's"</string>
+    <string name="category_description_photo_books">Photo books for all of your memories</string>
+    <string name="category_description_photo_gifts">Awesome gifts for great people</string>
+    <string name="category_description_pohone_cases_and_skins">"Keepin' it hip and protected"</string>
+    <string name="category_description_prints">Not just pictures, they are memories</string>
+    <string name="change_book_template">Change Book Template</string>
+    <string name="change_country">Change Country</string>
+    <string name="change_country_notification">Changing country will potentially change the price of items in shopping cart.</string>
+    <string name="change_currency">Change Currency</string>
+    <string name="change_password">change password</string>
+    <string name="change_template_changes_will_be_lost">By changing template, all changes will be lost. Do you want to proceed?</string>
+    <string name="check_it_out">check it out!</string>
+    <string name="check_order_status_hint">To check the status of your order, please enter your order ID below.</string>
+    <string name="checkout">Checkout</string>
+    <string name="choose_country">Choose Country</string>
+    <string name="choose_from_contacts">Choose from Contacts</string>
+    <string name="choose_print_type">Choose print type</string>
+    <string name="choose_shipping_method">Choose Shipping Method</string>
+    <string name="city">City</string>
+    <string name="city_empty">"'City' should not be empty"</string>
+    <string name="clear_billing_address">Clear Billing Address</string>
+    <string name="click_question_mark">Click the question mark for help.</string>
+    <string name="close">close</string>
+    <string name="close_camel_case">Close</string>
+    <string name="coaster_1_duplicated">1 Coaster Duplicated</string>
+    <string name="coaster_text">Choose Coaster Type</string>
+    <string name="coaster_x_different">%1$s Different Coasters</string>
+    <string name="com.crashlytics.android.build_id">d9df83f0-e212-4177-97a0-22e684c146ff</string>
+    <string name="com_facebook_smart_device_instructions_0">Confirm your code on Facebook.</string>
+    <string name="com_facebook_smart_device_instructions_1">1.\u0009Go to the Menu</string>
+    <string name="com_facebook_smart_device_instructions_2">2.\u0009Select Device Requests</string>
+    <string name="com_facebook_smart_device_instructions_3">3.\u0009Confirm code.</string>
+    <string name="com_facebook_smart_device_instructions_or">- OR -</string>
+    <string name="com_facebook_smart_login_confirmation_cancel">Not you?</string>
+    <string name="com_facebook_smart_login_confirmation_continue_as">Continue as %1$s</string>
+    <string name="com_facebook_smart_login_confirmation_title">Confirm Login</string>
+    <string name="coming_soon">Coming really soon</string>
+    <string name="coming_soon_product">"This Product is Coming Very Soon.
+
+We would love to tell you when it is live.
+
+Leave us your email."</string>
+    <string name="comment">comment</string>
+    <string name="comments">comments</string>
+    <string name="complete_design">Please complete your design</string>
+    <string name="confirm_leaving_design">Are you sure you want to cancel design?</string>
+    <string name="connect_to_dropbox">connect to dropbox</string>
+    <string name="connect_with">connect with</string>
+    <string name="contacts">contacts</string>
+    <string name="continue_reading">continue reading...</string>
+    <string name="continue_shopping">Continue Shopping</string>
+    <string name="continue_with">"Continue with
+ %1$s"</string>
+    <string name="contrast">contrast</string>
+    <string name="contributor">contributor</string>
+    <string name="copy_link">copy link</string>
+    <string name="copy_template_unsuccessful">The templates are incompatible, so the images could not be copied</string>
+    <string name="copy_to_clipboard">link copied</string>
+    <string name="cost">Cost</string>
+    <string name="could_not_add_kid">Could not add kid. Please try again later.</string>
+    <string name="could_not_add_note">Could not add note. Please try again later.</string>
+    <string name="could_not_add_place">Could not add place. Please try again later.</string>
+    <string name="could_not_add_story">could not add story, please try again later.</string>
+    <string name="could_not_delete_kid">could not remove profile, please try again later.</string>
+    <string name="could_not_delete_photo">could not delete, please try again later.</string>
+    <string name="could_not_delete_place">Could not delete place. Try again later.</string>
+    <string name="could_not_delete_story">could not delete story, please try again later.</string>
+    <string name="could_not_download_orignal">we could not download your original image. please try again.</string>
+    <string name="could_not_invite_fan">there was a problem adding fan. try again soon</string>
+    <string name="could_not_load_image">could not load picture, please try again later.</string>
+    <string name="could_not_load_places">Could not load places at the moment. Try again later.</string>
+    <string name="could_not_record_video">Could not create a comment</string>
+    <string name="could_not_reinvite">oops! there was problem re-inviting fan. try again soon.</string>
+    <string name="country">Country</string>
+    <string name="country_edit_text_warning_message">Warning! Changing the ship to country may change the product price and availability of the items in your cart. Are you sure you want to change the country?</string>
+    <string name="country_search">Search for countries here</string>
+    <string name="coupon">Coupon</string>
+    <string name="coupon_applied">coupon applied</string>
+    <string name="coupon_not_applied">Sorry, this coupon does not apply to the items in your cart.</string>
+    <string name="coupon_savings_long">Coupon Savings:</string>
+    <string name="coupon_savings_short">Savings:</string>
+    <string name="create_account">create account</string>
+    <string name="create_password">create password</string>
+    <string name="crop">crop</string>
+    <string name="crop_photo">crop</string>
+    <string name="currency_search">Search for currencies here</string>
+    <string name="current">Current</string>
+    <string name="custom">Custom</string>
+    <string name="custom_color_instructions">Custom Color Instructions</string>
+    <string name="customize_photobook_tooltip_text">Tap photo to edit or replace</string>
+    <string name="customize_product_tooltip_text">Double-Tap photo to edit</string>
+    <string name="cvc">CVC or CVS</string>
+    <string name="dad">dad</string>
+    <string name="date">Date</string>
+    <string name="date_created">date created</string>
+    <string name="default_progress_message">@string/loading</string>
+    <string name="default_share_message">"X's latest keepy! #kidsrule #keepythat
+Saved and shared with http://getapp.keepy.me/iloveit"</string>
+    <string name="default_shopping_cart_description">One Size</string>
+    <string name="default_text_not_changed">"Default text isn't changed. Do you want to continue without changing it?"</string>
+    <string name="delete">delete</string>
+    <string name="delete_address">Delete this address?</string>
+    <string name="delete_item_shopping_cart">"Delete this item from
+My Shopping Cart?"</string>
+    <string name="delete_photo">Discard photo?</string>
+    <string name="delete_recording">Delete recording</string>
+    <string name="description">Description</string>
+    <string name="deselect_all">Deselect All</string>
+    <string name="details">Details</string>
+    <string name="dialog_message_confirm_coupons">Are you sure you want to use all coupons?</string>
+    <string name="dialog_message_default">Message</string>
+    <string name="dialog_resolution_warning_message">This photo may distort when printing, aim for at least %1$spx wide and %2$spx tall.</string>
+    <string name="dialog_resolution_warning_title">This photo is too small</string>
+    <string name="dialog_send_email_order_failed">Placing your order has failed twice, would you like to contact our customer support?</string>
+    <string name="dialog_subject_default">Subject</string>
+    <string name="dialog_upgrade_shipping_message">Do you want to keep your free shipping coupon or upgrade shipping?</string>
+    <string name="dialog_zero_dollar_payment">"Zero dollar orders could not be executed via PayPal.
+Please, use credit card instead."</string>
+    <string name="discard_keepies">Discard keepies?</string>
+    <string name="discard_keepies_discard">discard</string>
+    <string name="discard_keepies_keep">keep</string>
+    <string name="discard_keepies_message">If you go back now, your keepies will be discarded.</string>
+    <string name="discard_photo">Discard photo?</string>
+    <string name="discard_photo_negative">keep</string>
+    <string name="discard_photo_positive">discard</string>
+    <string name="do_you_have_more_kids">Do you have more kids?</string>
+    <string name="done">done</string>
+    <string name="dont_forget_to_invite">"Don't forget to invite
+your loved ones later!"</string>
+    <string name="double_tap_to_adjust_crop">Double-tap any photo to adjust the crop.</string>
+    <string name="download_below_threshold_message">We see your Internet connection is running slowly, you may want to try connecting via faster Internet connection.</string>
+    <string name="drag_finger_to_select_color">"On next screen
+drag finger to select color"</string>
+    <string name="dropbox">dropbox</string>
+    <string name="dropbox_link_fail">failed to link dropbox account</string>
+    <string name="dropbox_link_ok">dropbox account linked</string>
+    <string name="dropbox_unlink_fail">failed to unlink dropbox account</string>
+    <string name="dropbox_unlink_ok">dropbox account unlinked</string>
+    <string name="duplicate_to_fill_space">Duplicate to Fill Order</string>
+    <string name="earn_keepies">earn keepies</string>
+    <string name="earn_keepies_msg">"Every time you get someone to sign up and upload one keepy, you both get a full month of unlimited keepies for FREE.
+(For up to 12 people.)"</string>
+    <string name="edit">edit</string>
+    <string name="edit_address_re_attempt">Edit Address &amp; Retry</string>
+    <string name="edit_fan">edit fan</string>
+    <string name="edit_note">edit note</string>
+    <string name="edit_photo">edit photo</string>
+    <string name="edit_story">Edit story</string>
+    <string name="edit_suggestion">Edit Suggestion</string>
+    <string name="edit_video">edit</string>
+    <string name="edit_voice">edit voice</string>
+    <string name="effects">Effects</string>
+    <string name="effects_coming_soon">Effects are coming soon</string>
+    <string name="email">email</string>
+    <string name="email_empty">"'Email' should not be empty"</string>
+    <string name="email_support">Email Support</string>
+    <string name="empty_content_description" />
+    <string name="empty_email_error">please enter your email</string>
+    <string name="empty_kid_text_subtitle_multiple_kids">"Let’s start saving some memories now!
+It’s easy, fun and fast."</string>
+    <string name="empty_kid_text_subtitle_single_kid">Let’s start saving some memories for X. It’s easy and will take no time at all.</string>
+    <string name="empty_kid_text_title_multiple_kids">Your family has no keepies yet :(</string>
+    <string name="empty_kid_text_title_single_kid">X has no keepies yet :(</string>
+    <string name="enter_code">Enter Code</string>
+    <string name="enter_coupon_code">enter coupon code</string>
+    <string name="enter_cvc">Please enter CVC or CVS</string>
+    <string name="enter_email">Enter your email</string>
+    <string name="enter_email_address">enter email address</string>
+    <string name="enter_fullname">Please enter full name</string>
+    <string name="enter_password">Enter password</string>
+    <string name="enter_payment_info">Enter Payment Info</string>
+    <string name="enter_promo_code">Please enter promo code.</string>
+    <string name="enter_username_and_password">Please enter your username and password</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="equivalent_amount">"You will be billed in the equivalent amount of your order in US Dollars.
+"</string>
+    <string name="error">Error</string>
+    <string name="error_add_fan">oops! there was a problem adding fan. try again soon.</string>
+    <string name="error_fetching_api_data">Sorry, we have a problem getting data. Please try again later or contact support.</string>
+    <string name="error_fetching_product_variants">Sorry, we have a problem getting variants for this product. Please try again later or contact support.</string>
+    <string name="error_getting_shopping_cart_items_prices">Error receiving shopping cart prices. Please try again later.</string>
+    <string name="error_login">oops! you used the wrong email or password. please try again.</string>
+    <string name="error_network">There seems to be a problem with your internet connection. Please try again later.</string>
+    <string name="error_ordering_product">"Error while ordering.
+Please go back to previous screen and ensure that you have entered all necessary data."</string>
+    <string name="error_paypal_zero_total">Unfortunately, PayPal does not accept zero-value orders. Please use another promo code or add some more items to your shopping cart.</string>
+    <string name="error_remove_fan">"oops!
+there was an error removing fan. try again soon."</string>
+    <string name="error_some_items_were_removed_from_shopping_cart">Some items were removed from your shopping cart.</string>
+    <string name="error_update_fan">there was problem updating fan. try again soon.</string>
+    <string name="error_upload_comment">there was problem uploading comment. try again soon.</string>
+    <string name="error_uploading_product">Error uploading product photos. Please try again.</string>
+    <string name="est_arrival">Est. Arrival</string>
+    <string name="everyone">everyone</string>
+    <string name="exit">Exit</string>
+    <string name="exp_month_not_valid">Expiration month is not valid</string>
+    <string name="explore">explore</string>
+    <string name="facebook">facebook</string>
+    <string name="facebook_app_id" />
+    <string name="facebook_share_caption">Keepy.me - The New Family Album.</string>
+    <string name="facebook_share_name">Checkout keepy!</string>
+    <string name="failed_to_login_to_photo_source">Failed to log in to %1$s</string>
+    <string name="family">family</string>
+    <string name="fan_approved">fan approved</string>
+    <string name="fan_request">fan request</string>
+    <string name="fans">fans</string>
+    <string name="fans_button_0">add fan</string>
+    <string name="fans_button_1">%d fan</string>
+    <string name="fans_button_more">%d fans</string>
+    <string name="fans_message">"Who would love to get updates of
+your kids?"</string>
+    <string name="faq">faq</string>
+    <string name="fb_app_id">496712577050446</string>
+    <string name="feature_not_available">This feature is not available for this type of product</string>
+    <string name="feature_unavailable_title">Feature Unavailable</string>
+    <string name="featured_products">Featured Products</string>
+    <string name="filter_by">filter by</string>
+    <string name="finishing_up">finishing up</string>
+    <string name="first_name">First Name</string>
+    <string name="first_name_empty">"'First Name' should not be empty"</string>
+    <string name="flickr">Flickr</string>
+    <string name="forever">free</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="frame">Frame</string>
+    <string name="free">basic</string>
+    <string name="free_explain">"* Every time you get someone to sign up and upload one keepy, you both get a full month of unlimited keepies for FREE.
+(For up to 12 people)"</string>
+    <string name="friend">friend</string>
+    <string name="from_facebook">from facebook</string>
+    <string name="from_my_contacts">from my contacts</string>
+    <string name="full_name">Full Name</string>
+    <string name="ga_trackingId">UA-38804485-1</string>
+    <string name="gallery">gallery</string>
+    <string name="gcm_defaultSenderId">265399617312</string>
+    <string name="get_free_keepies">get free keepies!</string>
+    <string name="get_more_photos">"Get More
+ Images"</string>
+    <string name="get_unlimited_keepies_for_free">get unlimited keepies for FREE*</string>
+    <string name="girl">girl</string>
+    <string name="glossy">Glossy</string>
+    <string name="go">go</string>
+    <string name="go_to_settings_and_tap_fans">Go to settings and tap fans.</string>
+    <string name="go_unlimited">"go
+unlimited"</string>
+    <string name="go_unlimited_button">go unlimited now</string>
+    <string name="go_unlimited_title">save even more memories!</string>
+    <string name="google">google</string>
+    <string name="google_app_id">1:265399617312:android:57fc3ab4e4572824</string>
+    <string name="grandma">grandma</string>
+    <string name="grandpa">grandpa</string>
+    <string name="grandparents">grandparents</string>
+    <string name="great">Great!</string>
+    <string name="grid_action_achievement">Achievement</string>
+    <string name="grid_action_artwork">Artwork</string>
+    <string name="grid_action_birthday">Birthday</string>
+    <string name="grid_action_outdoors">Outdoors</string>
+    <string name="grid_action_playground">Playground</string>
+    <string name="grid_action_sports">Sports</string>
+    <string name="help">Help</string>
+    <string name="help_address_validation">"Oops!
+
+The address you entered was not 100% correct, but that's okay were here to help you make sure it is correct so we ship to the correct address!
+
+This screen suggests what it should be! You have the option to Accept the address suggestion or Edit the suggestion!"</string>
+    <string name="help_email">help@keepy.me</string>
+    <string name="help_metal_magnets">"To Edit Any Photo:
+
+-Simply double tap any photo to be taken to the edit photo Screen.
+ -Simply pinch to zoom in on the photo, or slide the photo to capture exactly what you want on your magnet!
+-All the directions you need will be on that page!
+
+ Change Quantity:
+
+-Select the + (plus button) if you want to increase the quantity of the photo for the magnet.
+ -Select the - (negative symbol) if you want to decrease or remove the photo from your order.
+
+Add More Photos:
+
+ Simply select the Back button to go back to the Select Photos page to access all of your photos again.
+
+Buy it!
+
+ -Simply select the Buy It button in the top right corner to be taken to the shopping cart, where you can re-edit, Add More Products or Check Out!"</string>
+    <string name="help_product_acrilic_block_step_3_4">"Now you really get to start customizing your Acrylic Block!
+
+Simply choose the Photo Layout/Design that you want to use and it will automatically move to the next step of customizing your Acrylic Block!
+
+Your Photo Layout/Design Options are: -1 Photo
+-9 Photos (A collage with no border, all the photos are touching, but not overlapping.)
+-9 Photos (A collage with a thin black border that separates each photo evenly.)
+-13 Photos (A collage with a think black border that separates all the photos evenly and has 1 picture centered.)"</string>
+    <string name="help_product_add_address">"Add a Shipping Address
+
+Please type in all of the information this page is requesting. Once all of the Shipping Address fields are filled out, please select the Save Address button.
+
+If you missed a required field, a pop up in red text will alert you to what is missing and ask you to update before re-saving.
+
+Make sure you use an accurate email address to ensure you will get updated information about your order!"</string>
+    <string name="help_product_fleece_blanket_step_1_2">"Now you really get to be creative! This page allows you to choose the color and style of your Fleece Blanket!
+
+Once you select your Blanket color you will automatically be taken to the next step.
+
+1) Select a Blanket color from the available colors OR you can click the box with the plus(+) sign which allows you to get more creative and pick your own color!
+
+2) If you pressed the plus(+) button to select your own color, HOLD your finger on the screen, DRAG your finger to select the perfect color, then LET GO &amp; you will have selected your Blanket color! To change the color, simply repeat this step again."</string>
+    <string name="help_product_phone_case_step_3_4">"Now you really get to be creative! This page allows you to choose the color and style of your Phone case.
+
+1) Select a case color from the available colors OR you can click the box with the plus(+) sign which allows you to get more creative and pick your own color!
+
+2) If you pressed the plus(+) button to select your own color, HOLD your finger on the screen, DRAG your finger to select the perfect color, then LET GO &amp; you will have selected your case color! To change the color, simply repeat this step again.
+
+3) Do you prefer Matte Finish or Gloss Finish for your case &amp; images? Glossy finish reflects light and gives it a shiny look. Matte finish has no shine. Make your selections then we automatically take you to the next step!"</string>
+    <string name="help_product_shower_curtain_step_3_4">"Now you really get to be creative! This page allows you to choose the Background/Border Color of your Shower Curtain!
+
+Once you select your Curtain color you will automatically be taken to the next step.
+
+1) Select a Curtain color from the available colors OR you can click the box with the plus(+) sign which allows you to get more creative and pick your own color!
+
+2) If you pressed the plus(+) button to select your own color, HOLD your finger on the screen, DRAG your finger to select the perfect color, then LET GO &amp; you will have selected your Curtain color! To change the color, simply repeat this step again."</string>
+    <string name="help_product_tablet_cases_step_3_4">"Now you really get to be creative! This page allows you to choose the color and style of your Tablet case.
+
+1) Select a case color from the available colors OR you can click the box with the plus (+) sign which allows you to get more creative and pick your own color!
+
+2) If you pressed the plus (+) button to select your own color, HOLD your finger on the screen, DRAG your finger to select the perfect color, then LET GO &amp; you will have selected your case color! To change the color, simply repeat this step again.
+
+3) Do you prefer Matte Finish or Gloss Finish for your case &amp; images? Glossy finish reflects light and gives it a shiny look. Matte finish has no shine. Make your selections then we automatically take you to the next step!"</string>
+    <string name="help_product_woven_blanket_step_3_4">"Now you really get to be creative! This page allows you to choose the color and style of your Woven Blanket!
+
+Once you select your Blanket color you will automatically be taken to the next step.
+
+1) Select a Blanket color from the available colors OR you can click the box with the plus(+) sign which allows you to get more creative and pick your own color!
+
+2) If you pressed the plus(+) button to select your own color, HOLD your finger on the screen, DRAG your finger to select the perfect color, then LET GO &amp; you will have selected your Blanket color! To change the color, simply repeat this step again."</string>
+    <string name="help_select_color_throw_pillow">"This page allows you to choose the color of your Throw Pillow!
+
+Once you select your Pillow color you will automatically be taken to the next step.
+
+1) Select a Pillow color from the available colors OR you can click the box with the plus(+) sign which allows you to get more creative and pick your own color!
+
+2) If you pressed the plus(+) button to select your own color, HOLD your finger on the screen, DRAG your finger to select the perfect color, then LET GO &amp; you will have selected your Pillow color! To change the color, simply repeat this step again."</string>
+    <string name="help_select_photos_canvas">"This page allows you to select your pictures &amp; art from ALL of your favorite sources!
+
+- Upload images from your device, Instagram, Facebook, Google Photos, Flickr, or Dropbox.
+
+- You can select one image from each source OR multiple images from multiple sources.
+
+- Too many awesome images and not sure which will the look best? Upload multiple images so you can play around with the options. For example, on a 2 Photo Grid, you can upload more than 2 photos if you want to preview how different images will look while you're designing your Canvas on the next page.
+
+- Notice that the photo counter in the bottom right corner is keeping track for you! After you select the images you want to try on your Canvas, click the Next button in the bottom right corner"</string>
+    <string name="help_select_photos_general">"This page allows you to select your pictures and art from any or all of your favorite sources!
+
+You can select one image from each source or multiple from each source.
+
+There is a photo counter in the bottom right corner that keeps track for you!
+
+After you select the images you want to try on your %1$s, select Next button in the bottom right corner."</string>
+    <string name="help_select_photos_general_2">"This page allows you to select your pictures and art from any or all of your favorite sources!
+
+You can select one image from each source or multiple from each source.
+
+However example: If you have selected a 2 Photo Grid, when completing your design you will only be able to use 2 photos in the end design. However this allows you to see how different images look in case you change your mind while designing your %1$s on the next page.
+
+There is a photo counter in the bottom right corner that keeps track for you!
+
+After you select the images you want to try on your %1$s, select Next button in the bottom right corner."</string>
+    <string name="help_select_photos_metal_magnets">"This page allows you to select your pictures and art from any or all of your favorite sources!
+
+You can select one image from each source or multiple from each source.
+
+For every photo you select it will start at a quantity of 1 count for a magnet. When you are taken to the next screen you can adjust the quantity of each photo or remove it if you decide you do not want it.
+
+There is a photo counter in the bottom right corner that keeps track for you!
+
+After you select the images you want to try on your Metal Magnets, select Next button in the bottom right corner."</string>
+    <string name="help_subtitle">Help:</string>
+    <string name="help_text">This is a placeholder. Add \"help_subtitle\" and \"help_text\" strings to your \"strings.xml\" with your own text or URL.</string>
+    <string name="help_text_canvas_customize">"Arrange your photos however you like. OR, if you want a head start, select the Auto Arrange option and we will pre-populate the grid with the image you chose. You can always go back and change the order after!
+
+The images you selected on the previous step appear at the bottom of the screen. PRESS your finger on the image you want to move, HOLD and DRAG the image into the grid location you want the image to appear in.
+
+Need to CROP or EDIT the image? DOUBLE-TAP the image you want to edit to go to the pop-up screen. Pinch to crop. To edit, select the options on the bottom of the screen to rotate, flip, or apply effects.
+
+After you have filled each spot on the grid, click the Buy It button in the top right corner to review and add the item to your shopping cart."</string>
+    <string name="how_it_works_subtitle">How It Works:</string>
+    <string name="how_it_works_text">"1. Browse through our selection of products and choose the item or items you would like to purchase. We carry the highest quality products, printed by the best printers, at the best possible prices.
+
+2. Customize your item. Choose the size, shape, layout and product options you like best.
+
+3. Upload your images, or designs. Import from your phone, Instagram, Facebook, Flickr, Google Photos, or Dropbox.
+
+4. Ship to any country in the world! Specify your location and choose shipping method. We've shipped to over 100 countries and counting.
+
+5. Pay using PayPal or the credit card of your choice. Our custom credit card imaging system makes it easier than ever to pay! All of your credit card info is automatically entered with one simple photo.
+
+6. Enjoy! We place the utmost importance on quality and customer satisfaction. We know you'll love the products! Enjoy."</string>
+    <string name="i_am">I am</string>
+    <string name="id">ID</string>
+    <string name="image">image</string>
+    <string name="image_arrangement">Image Arrangement</string>
+    <string name="image_failed_to_download">Error while downloading some of your photos. Please try again.</string>
+    <string name="image_not_ready_popup">Image is downloading please wait until download bar is complete</string>
+    <string name="image_quantity_and_cropping">Image Quantity and Cropping</string>
+    <string name="image_type_not_supported">There is an issue with the image type you chose.</string>
+    <string name="image_upload_problem_user_null">Unable to process the request at the moment.</string>
+    <string name="images_print_in_random_order">Images will print in random order.</string>
+    <string name="images_print_with_white_border">Images print with a white border around the edges.</string>
+    <string name="import_photo">import photo</string>
+    <string name="info">Info</string>
+    <string name="initial_address">You Entered</string>
+    <string name="instagram">Instagram</string>
+    <string name="internet_connection_error">Network error. Please check your internet connection.</string>
+    <string name="invalid_coupon">Coupon code is not valid!</string>
+    <string name="invite">invite</string>
+    <string name="invite_family">Invite family</string>
+    <string name="invite_family_and_friends">invite family and friends</string>
+    <string name="invite_fan">invite fan</string>
+    <string name="invite_fan_from_notify">do you wanna invite X to be a fan of your kids?</string>
+    <string name="invite_people">invite people</string>
+    <string name="invite_sent">invite sent!</string>
+    <string name="item_deleted">Item deleted</string>
+    <string name="item_processing_dialog_message">In the meantime, why not tell another parent about Keepy.</string>
+    <string name="item_processing_dialog_subject">Uploading ...</string>
+    <string name="item_processing_failure_dialog_message">Something went wrong! Would you like to try to save your video again?</string>
+    <string name="item_processing_failure_dialog_subject">Oops!</string>
+    <string name="item_processing_success_dialog_message">It’s shared with your fans. Wanna share it on social media?</string>
+    <string name="item_processing_success_dialog_subject">Video Posted!</string>
+    <string name="items">Items:</string>
+    <string name="just_now">just now</string>
+    <string name="keep">Keep</string>
+    <string name="keep_photo">Keep photo</string>
+    <string name="keep_shopping">Keep Shopping</string>
+    <string name="keep_shopping_nav_btn_label">"Keep
+Shopping"</string>
+    <string name="keep_up_with_keepy">keep up with keepy</string>
+    <string name="keep_up_with_us_on">Keep up with us on</string>
+    <string name="keepies_left">monthly keepies left:</string>
+    <string name="keepies_per_month">keepies/mo</string>
+    <string name="keepies_used">monthly keepies used:</string>
+    <string name="keepy">keepy</string>
+    <string name="keepy_community">keepy community</string>
+    <string name="keepy_plans">keepy plans</string>
+    <string name="keepy_public_gallery">"keepy
+public gallery"</string>
+    <string name="keepy_public_share_title">keepy public gallery</string>
+    <string name="keepy_share_alert">"Your keepy will be posted to Keepy's public gallery."</string>
+    <string name="keepy_store">keepy store</string>
+    <string name="keepy_store_two_lines">"keepy
+store"</string>
+    <string name="keepy_video">keepy video</string>
+    <string name="keepyagory">keepyagory</string>
+    <string name="kid_first_time_text">"dear X
+these are your keepies - special things that you made, collected or experienced. enjoy them now, later and forever!"</string>
+    <string name="kids">my kids</string>
+    <string name="kids_name">"kid's name"</string>
+    <string name="kids_selection_error">"Please choose child's name and tap on save again"</string>
+    <string name="last_name">Last Name</string>
+    <string name="last_name_empty">"'Last Name' should not be empty"</string>
+    <string name="later">later</string>
+    <string name="layout">Layout</string>
+    <string name="leave_a_video_message_collection">"gush about X's collection"</string>
+    <string name="leave_a_video_message_photo">"gush about X's photo"</string>
+    <string name="leave_a_video_message_video">"gush about X's video"</string>
+    <string name="less_photos">You selected &lt;b>%1$s&lt;/b>&lt;br/>Grid space for &lt;b>%2$s&lt;/b></string>
+    <string name="like_us">Like Us On Facebook</string>
+    <string name="link_to_dropbox">link to dropbox</string>
+    <string name="loading">one sec...</string>
+    <string name="loading_from_app_store">loading from Google Play</string>
+    <string name="loading_keepies">one sec...</string>
+    <string name="loading_price">...</string>
+    <string name="log_in_to">Log In To %1$s</string>
+    <string name="login">Login</string>
+    <string name="login_now">Login now</string>
+    <string name="login_with">login with</string>
+    <string name="login_with_facebook">Login with Facebook</string>
+    <string name="logout">logout</string>
+    <string name="logout_photo_source">Do you want to log out of %1$s?</string>
+    <string name="manual">Manual</string>
+    <string name="manual_drag_drop">"Manual
+Drag and Drop"</string>
+    <string name="matte">Matte</string>
+    <string name="max_image_count_exceed">%1$s uses maximum %2$s images.</string>
+    <string name="max_image_count_exceed_thickprints">%1$s of this size only allow %2$s per set.</string>
+    <string name="max_image_count_exceed_thickprints_photo_select">You have selected the maximum number of photos for this product.</string>
+    <string name="max_keepies_button_other">next month</string>
+    <string name="max_keepies_button_right">save more memories</string>
+    <string name="max_keepies_reached_button_new">go unlimited</string>
+    <string name="max_keepies_reached_message">You can save more next month or upgrade now to save unlimited memories.</string>
+    <string name="max_keepies_reached_message_family">Perhaps its time to upgrade your family to unlimited</string>
+    <string name="max_keepies_reached_message_new">Upgrade your account now!</string>
+    <string name="max_keepies_reached_subject">You have already saved %d awesome Keepies this month.</string>
+    <string name="max_keepies_reached_subject_new">"You've used up all of your free keepies this month."</string>
+    <item type="string" name="mdtp_ampm_circle_radius_multiplier">0.22</item>
+    <string name="mdtp_cancel">@android:string/cancel</string>
+    <item type="string" name="mdtp_circle_radius_multiplier">0.82</item>
+    <item type="string" name="mdtp_circle_radius_multiplier_24HourMode">0.85</item>
+    <item type="string" name="mdtp_numbers_radius_multiplier_inner">0.6</item>
+    <item type="string" name="mdtp_numbers_radius_multiplier_normal">0.81</item>
+    <item type="string" name="mdtp_numbers_radius_multiplier_outer">0.83</item>
+    <string name="mdtp_ok">@android:string/ok</string>
+    <string name="mdtp_radial_numbers_typeface">sans-serif</string>
+    <string name="mdtp_sans_serif">sans-serif</string>
+    <item type="string" name="mdtp_selection_radius_multiplier">0.16</item>
+    <item type="string" name="mdtp_text_size_multiplier_inner">0.11</item>
+    <item type="string" name="mdtp_text_size_multiplier_normal">0.12</item>
+    <item type="string" name="mdtp_text_size_multiplier_outer">0.08</item>
+    <string name="mdtp_time_placeholder">--</string>
+    <string name="mdtp_time_separator">:</string>
+    <string name="media_issue_too_long">Sorry, we currently only support videos up to 10 min. Please trim the video and save it again.</string>
+    <string name="media_issue_unknown">Oops! There is an issue with the media you chose.</string>
+    <string name="media_issue_uri">"Oops! It appears you are trying to share with Keepy from an app that is not providing us with the right format. 
+
+For best results, choose from your device's default gallery app."</string>
+    <string name="metal_magnet_title">Metal Magnet</string>
+    <string name="mixpanel_token">992bf3f37b221e8c2db42980a03285d4</string>
+    <string name="mom">mom</string>
+    <string name="more">more</string>
+    <string name="move">Move</string>
+    <string name="multiupload_paywall_bottom_done">All done.</string>
+    <string name="multiupload_paywall_bottom_removing">"Remove X more keepies…
+Don’t forget to add them next month."</string>
+    <string name="multiupload_paywall_bottom_start">"You have selected XX keepies and you only
+have YY free keepies left to save this month.
+
+Upgrade today and save unlimited keepies!"</string>
+    <string name="multiupload_paywall_message">"You have selected XX keepies and you only have
+YY free keepies left to save this month.
+Upgrade today and save unlimited keepies!"</string>
+    <string name="multiupload_paywall_title">You Are Out Of Free Keepies</string>
+    <string name="multiupload_tip_content">Press and hold.</string>
+    <string name="multiupload_tip_title">NEW - Multiple Upload!</string>
+    <string name="my_account">my account</string>
+    <string name="my_fans">my fans</string>
+    <string name="my_keepies">my keepy plan</string>
+    <string name="my_keepies_nav">my keepy plan</string>
+    <string name="my_keepy_plan">"my keepy
+plan"</string>
+    <string name="my_keepy_section_title">my keepy</string>
+    <string name="my_keepy_website">my keepy website</string>
+    <string name="my_keepy_website_text">"View all of the memories you saved
+with the Keepy app...on the web!"</string>
+    <string name="my_kids">my kids</string>
+    <string name="my_notifications">my notifications</string>
+    <string name="my_notifications_new_photo_reminder_section_title">new photo reminder</string>
+    <string name="my_private_keepy_website">my private keepy website</string>
+    <string name="my_profile">me</string>
+    <string name="my_profile_section_title">my profile</string>
+    <string name="n_items_deleted">%1$s items deleted</string>
+    <string name="name">name</string>
+    <string name="nav_link_to_dropbox">"link to
+dropbox"</string>
+    <string name="near">Near</string>
+    <string name="new_photo_reminder_daily">daily</string>
+    <string name="new_photo_reminder_immediately">immediately</string>
+    <string name="new_photo_reminder_none">none</string>
+    <string name="new_photo_reminder_weekly">weekly</string>
+    <string name="new_photos">new photos</string>
+    <string name="next">next</string>
+    <string name="no">no</string>
+    <string name="no_address_saved_for_contact">Sorry, there is no address saved for that contact!</string>
+    <string name="no_filter">no filter</string>
+    <string name="no_orders_with_entered_order_id">There are no orders with entered order ID</string>
+    <string name="no_past_orders">No past orders.</string>
+    <string name="no_place_name_entered">Please enter the location name.</string>
+    <string name="no_printable_media">No printable media</string>
+    <string name="not_valid_mail">Please, enter valid mail address!</string>
+    <string name="note_hint">Jot down a quote, a love note, a memory, a moment or anything else you want to keep.</string>
+    <string name="notification_deleted">notification deleted</string>
+    <string name="notifications">notifications</string>
+    <string name="number_photo_info"><b>%1$s use %2$s photos</b></string>
+    <string name="number_photo_info_pt2">If you choose less we will duplicate photos to fill the order.</string>
+    <string name="number_photo_magnets">"On the next page, each photo you select will add 1 magnet to your order.
+
+You can adjust quantity before checkout."</string>
+    <string name="number_prints_info_pt2">If you choose fewer then %1$s images we will duplicate prints to fill your order.</string>
+    <string name="off">off</string>
+    <string name="ok">OK</string>
+    <string name="on">on</string>
+    <string name="onboarding_add_memory">Use the GREEN BUTTON to add notes, photos and videos</string>
+    <string name="onboarding_continue">"You'll get the most out of Keepy by inviting a group of family and friends to follow your kids memories"</string>
+    <string name="onboarding_stage_keepies">Good job X. Keep it going.</string>
+    <string name="onboarding_stage_well_done">Well done X!</string>
+    <string name="one_day_ago">1 day ago</string>
+    <string name="one_fan">1 fan</string>
+    <string name="one_hour_ago">1 hour ago</string>
+    <string name="one_minute_ago">1 minute ago</string>
+    <string name="one_more_keepy">still deciding</string>
+    <string name="one_sec_loading_original">one sec! we’re downloading your original image...</string>
+    <string name="oops">oops!</string>
+    <string name="open">open</string>
+    <string name="options">Options</string>
+    <string name="or">or</string>
+    <string name="or_caps">OR</string>
+    <string name="order_details">Order Details</string>
+    <string name="order_id">Order ID</string>
+    <string name="order_id_cannot_be_empty">Order ID cannot be empty</string>
+    <string name="order_product">Order %1$s</string>
+    <string name="order_status">Order Status</string>
+    <string name="order_total">Order Total:</string>
+    <string name="order_total1">Order Total</string>
+    <string name="original">Original</string>
+    <string name="other">other</string>
+    <string name="other_name_edit">I am...</string>
+    <string name="out_of_keepies">"You're all out of keepies. You can delete some or buy or earn more."</string>
+    <string name="overall">Overall:</string>
+    <string name="page_number">Page %1$s</string>
+    <string name="password">password</string>
+    <string name="password_recover_error">"we couldn't find a user with this email. please try again."</string>
+    <string name="password_reset_message">a password reset link has been sent to your email.</string>
+    <string name="past_orders">Past Orders</string>
+    <string name="pay_with">Pay with</string>
+    <string name="pay_with_card">Pay with Card</string>
+    <string name="payment_finalized">"Payment is being finalized.
+Please hold for confirmation.
+You are going to love your products!"</string>
+    <string name="payment_verification_error_message">Your order did not properly connect and validate with our server. You might have an issue with your connection. Please check your internet connection and try again. If you cannot validate, please contact our support.</string>
+    <string name="pending">(pending)</string>
+    <string name="phone">Phone</string>
+    <string name="phone_number_digits_only">"'Phone Number' must contain digits only"</string>
+    <string name="phone_number_empty">"'Phone Number' should not be less then %1$s digits"</string>
+    <string name="phone_tablet_customize_info_text">Sides of images are wrapped</string>
+    <string name="photobooks_back_cover">Back Cover</string>
+    <string name="photobooks_front_cover">Front Cover</string>
+    <string name="photobooks_pages_numbers">Pages %1$s-%2$s</string>
+    <string name="photobucket">Photobucket</string>
+    <string name="photobucket_error_loading_albums">Error loading Photobucket albums. Please try later.</string>
+    <string name="photobucket_server_error">Photobucket is temporarily unavailable. Please try later.</string>
+    <string name="pic">pic</string>
+    <string name="picasa">Google Photos</string>
+    <string name="pick_a_color">Pick a color</string>
+    <string name="pick_a_photo_with">Pick a photo with</string>
+    <string name="pick_appropriate_date">pick appropriate birth date</string>
+    <string name="pick_kid_first_keepy_message">"Pick A Memory
+Artwork, Schoolwork, Photo"</string>
+    <string name="pick_kid_first_keepy_title" />
+    <string name="pick_memory">pick a memory</string>
+    <string name="pick_photo">pick photo</string>
+    <string name="pics">pics</string>
+    <string name="picture">picture</string>
+    <string name="pinch_pan">Pinch to Zoom / Pan to Move</string>
+    <string name="pintreset">pinterest</string>
+    <string name="place">place</string>
+    <string name="place_order">Place Order</string>
+    <string name="places">places</string>
+    <string name="placing_order">Confirming Order Information…</string>
+    <string name="plan_type">plan type:</string>
+    <string name="play">play</string>
+    <string name="play_audio">Play audio</string>
+    <string name="play_video">Play video</string>
+    <string name="please_choose_another_media">Please Try Again!</string>
+    <string name="please_select_at_least_one_image">Please select at least one image</string>
+    <string name="please_try_again">Gooten is currently upgrading our products. Please try again in a few minutes.</string>
+    <string name="plus_add">+add</string>
+    <string name="plus_add_kid">+add kid</string>
+    <string name="plus_generic_error">Sign in with Google is not available.</string>
+    <string name="pop_up_order_completed">"Gooten thanks you for your Order!
+You will receive an email confirmation shortly with your order # which has a direct link to help you track the status of your artwork!
+
+
+If you ever have any questions the Customer Service contact will also be in your email confirmation.
+Please come back and visit us again soon, we will always be adding more products to print on!
+
+support@gooten.com for support and friends"</string>
+    <string name="pop_up_payment_credit_card">"You are in this screen because you selected to pay with a card.
+
+Once you have entered information into each field, simply touch the Place Order button."</string>
+    <string name="pop_up_payment_default">"Almost done!
+
+You're now in the Payment screen to purchase your one-of-a-kind design(s)!
+
+Select payment method and follow the steps on the next screens."</string>
+    <string name="pop_up_select_address_page">"This page allows you to add, edit or delete a Shipping Address.
+
+To add a shipping address:
+
+1) Please select the (+ Add a Shipping Address) button at the bottom of the page.
+
+2) A new Address Form Page will appear. Please fill out all necessary fields. Once all the Address fields are filled out, please select the Save Address button.
+
+3) If you missed a required field, a pop up in red text will alert you to what is missing and ask you to update before re-saving.
+
+To select a shipping address you have either added or that is already listed on the screen:
+
+1) Simply select the address you want to use and it will automatically take you to the Shipment Review Screen"</string>
+    <string name="pop_up_shipment_review_page">"Your work(s) of art is almost ready to go!
+
+- The Shipment Review Page breaks down your order summary by item, cost(s), Shipping Method, Tax, Order Total, and the Estimated Arrival Date of your shipment(s).
+
+- If you are ordering multiple products, this page separates the shipment by type of product, making it easy for you to edit or remove items if necessary… but we hope you love what you made and we know you will be happy with it!
+
+- Once everything looks great in Shipment Review, please select the Enter Payment Info button in the bottom right corner, which will then take you to the Payment Page."</string>
+    <string name="post">post</string>
+    <string name="premium">premium</string>
+    <string name="preparing">one sec! we’re preparing that for you...</string>
+    <string name="preselected">Preselected</string>
+    <string name="preview">preview</string>
+    <string name="price">Price</string>
+    <string name="price_">Price %s</string>
+    <string name="price_chart">Price Chart is coming soon</string>
+    <string name="price_each">%s Each</string>
+    <string name="price_retail_">Price %1$s %2$s</string>
+    <string name="price_retail_each">%1$s %2$s Each</string>
+    <string name="pricing_chart">Pricing Chart</string>
+    <string name="print">Print</string>
+    <string name="privacy_policy"><u>Privacy Policy</u></string>
+    <string name="problem_downloading_product_details">"There was a problem downloading some of the details needed to build your product.
+Our Team has been notified, please try again!"</string>
+    <string name="problem_downloading_some_photos">There was a problem downloading some of your selected photos. Please try again!</string>
+    <string name="processing">processing...</string>
+    <string name="product">Product</string>
+    <string name="product_categories">Categories</string>
+    <string name="product_couch_hint_overlay_text">Swipe to see more sizes</string>
+    <string name="product_details_v2_prints_price">4x6 Prints starting at %s</string>
+    <string name="product_does_not_support_text">Text cannot be added to this product.</string>
+    <string name="product_not_supported">Product is not currently supported. Please try something else.</string>
+    <string name="product_preview">Product Preview</string>
+    <string name="product_search">Search for products here</string>
+    <string name="products_hint_overlay_text">Swipe to see more pictures</string>
+    <string name="progress_text_pt1">Loading.. Please wait.</string>
+    <string name="progress_text_pt2">Think Happy Thoughts</string>
+    <string name="promo_code">Promo Code</string>
+    <string name="purchase_error">there was a problem verifying your purchase. please try again later.</string>
+    <string name="quality_guarantee">Quality Guarantee</string>
+    <string name="quality_guarantee_subtitle">Quality Guarantee:</string>
+    <string name="quality_guarantee_text">"We guarantee that you will be happy with your order and will remake the item anytime there is an error. We're here for the long term, and reputation matters more than profits."</string>
+    <string name="quantity">Quantity</string>
+    <string name="queue_upload_adding_item">success!</string>
+    <string name="queue_upload_commiting_assets">processing...</string>
+    <string name="queue_upload_completed">processing...</string>
+    <string name="queue_upload_failed">will retry...</string>
+    <string name="queue_upload_not_in_queue">not in queue...</string>
+    <string name="queue_upload_prepared">waiting...</string>
+    <string name="queue_upload_providing_assets">preparing...</string>
+    <string name="random_auto_arrange">"Auto Random
+Arrange"</string>
+    <string name="rate_keepy">rate keepy</string>
+    <string name="rate_our_app">Rate Our App</string>
+    <string name="record_edit_video_story">add video</string>
+    <string name="record_story">record story</string>
+    <string name="record_voice_over">add voice</string>
+    <string name="recover_notification_message">Recover unsent images</string>
+    <string name="recover_notification_title">Uploading image</string>
+    <string name="rectangles">Rectangles</string>
+    <string name="remind_me_dialog_text">"We'll be sure to remind you about our unlimited options later.
+
+Thank you for choosing Keepy!"</string>
+    <string name="remove">Remove</string>
+    <string name="remove_fan">remove fan</string>
+    <string name="remove_fan_alert_message">are you sure you want to remove fan?</string>
+    <string name="remove_fan_alert_title">remove fan</string>
+    <string name="remove_item">Remove Item</string>
+    <string name="remove_item_question">Do you want to delete this item?</string>
+    <string name="remove_kid">remove profile</string>
+    <string name="remove_kid_alert_message">"are you sure you want to remove kid's profile?"</string>
+    <string name="remove_kid_alert_title">remove profile</string>
+    <string name="remove_print_from_order">Are you sure you want to remove this print from your order?</string>
+    <string name="replace">Replace</string>
+    <string name="replace_photo">Replace Photo</string>
+    <string name="resend_invite">resend invite</string>
+    <string name="reset">reset</string>
+    <string name="residential">"Residential
+Address"</string>
+    <string name="retail_price">%1$s Retail Price</string>
+    <string name="retake">retake</string>
+    <string name="retry">retry</string>
+    <string name="same_look_for_back_side">Use the same look for back side?</string>
+    <string name="same_look_for_back_side_bag">Use the same look for back side of bag?</string>
+    <string name="same_look_for_back_side_pillow">Use the same look for back side of pillow?</string>
+    <string name="saturation">saturation</string>
+    <string name="save">save</string>
+    <string name="save_address">Save Address</string>
+    <string name="save_to">Save to</string>
+    <string name="save_to_cart">Save To Cart</string>
+    <string name="saved">saved!</string>
+    <string name="saving">saving...</string>
+    <string name="screen_title_about">About</string>
+    <string name="screen_title_add_address">Checkout</string>
+    <string name="screen_title_choose_country">Choose Country</string>
+    <string name="screen_title_choose_currency">Choose Currency</string>
+    <string name="screen_title_help">Help</string>
+    <string name="screen_title_how_it_works">How It Works</string>
+    <string name="screen_title_order_completed">Order Completed</string>
+    <string name="screen_title_order_details">Order Details</string>
+    <string name="screen_title_order_status">Order Status</string>
+    <string name="screen_title_past_orders">Past Orders</string>
+    <string name="screen_title_payment_method">Payment</string>
+    <string name="screen_title_product_details">Product Details</string>
+    <string name="screen_title_product_options">Choose Options</string>
+    <string name="screen_title_products">Products</string>
+    <string name="screen_title_quality_guarantee">Quality Guarantee</string>
+    <string name="screen_title_select_address">Select Address</string>
+    <string name="screen_title_select_photos">Select Photos</string>
+    <string name="screen_title_shipment_review">Shipment Review</string>
+    <string name="screen_title_shopping_cart">Shopping Cart</string>
+    <string name="search_caps">SEARCH</string>
+    <string name="secured_by">Secured by</string>
+    <string name="select">select</string>
+    <string name="select_account">Select Account</string>
+    <string name="select_all">Select All</string>
+    <string name="select_color_title">Select Color</string>
+    <string name="select_email">Select Email</string>
+    <string name="select_payment_method">Please select your payment method</string>
+    <string name="select_phone_number">Select Phone Number</string>
+    <string name="select_photo">select photo</string>
+    <string name="select_photos">select photos</string>
+    <string name="select_photos_title">Select Images</string>
+    <string name="select_video">select video</string>
+    <string name="selected_count">%1$s of %2$s</string>
+    <string name="selected_images">You selected only %1$s/%2$s images</string>
+    <string name="send">send</string>
+    <string name="send_feedback">"send
+feedback"</string>
+    <string name="server_not_responding">Server is not responding. Please try again.</string>
+    <string name="settings">settings</string>
+    <string name="share">share</string>
+    <string name="share_activity_title">"Every time you get someone to sign up and upload one keepy, you both get a full month of unlimited keepies for FREE.
+(For up to 12 people)"</string>
+    <string name="share_also_on">share also on:</string>
+    <string name="share_app_text">"I'm using PrintIO SDK! You can download it from https://github.com/printdotio/printio-android-sdk"</string>
+    <string name="share_email_subject">Have you ever heard of keepy?</string>
+    <string name="share_email_text" />
+    <string name="share_error">failed to share the picture, please try again later.</string>
+    <string name="share_facebook" />
+    <string name="share_link">share link</string>
+    <string name="share_memories_with_loved_ones">"Add %1$s's mom or dad and share the joy!"</string>
+    <string name="share_on_facebook">Share on Facebook</string>
+    <string name="share_photo_video_content">It is not possible to select photos and videos at the same time.</string>
+    <string name="share_photo_video_title">Select Photos or Video</string>
+    <string name="share_the_joy">Share the joy with the rest of your family.</string>
+    <string name="share_this_app">Share this app</string>
+    <string name="share_to">Share to...</string>
+    <string name="share_using">Share using:</string>
+    <string name="share_with_family">"Share your memories with
+aunts &amp; uncles"</string>
+    <string name="share_with_fans">Share with fans</string>
+    <string name="share_with_granparents">"Share the magic with
+the proud grandparents"</string>
+    <string name="shared_keepies_feedback">Your memory has been shared with your fans</string>
+    <string name="ship_cost">Ship Cost</string>
+    <string name="ship_to">Ship to</string>
+    <string name="ship_to_different_country">"Country from selected address is not same as ship to country. Changing the ship to country may change the product price and availability of the items in your cart.
+
+Would you like to change ship to country and proceed with checkout?"</string>
+    <string name="ship_to_different_country_not_changeable">"Country from selected address is not same as ship to country.
+
+In order to proceed you need to select address with country %1$s."</string>
+    <string name="shipment_1s_of_2s">Shipment %1$s of %2$s</string>
+    <string name="shipment_review_colon">Shipment Review:</string>
+    <string name="shipping">Shipping</string>
+    <string name="shipping_and_handling">Shipping &amp; Handling:</string>
+    <string name="shipping_cost">Shipping Cost</string>
+    <string name="shipping_info">Shipping Info</string>
+    <string name="shipping_info_arrival">Est. Arrival</string>
+    <string name="shipping_info_arrival_text">Days</string>
+    <string name="shipping_info_availability">Availability</string>
+    <string name="shipping_info_availability_text">This item ships internationally.</string>
+    <string name="shipping_info_information">Shipping Information</string>
+    <string name="shipping_info_information_text">This item is in stock and ships within three business days.</string>
+    <string name="shipping_info_price">Est. Ship</string>
+    <string name="shipping_info_price_text">Estimate Price</string>
+    <string name="shipping_info_return_policy">Return Policy</string>
+    <string name="shipping_info_return_policy_text">This item is satisfaction guaranteed and we will exchange it until you are happy.</string>
+    <string name="shipping_method">Shipping Method</string>
+    <string name="shipping_price_error">We are sorry, but there are currently no shipping options for %1$s in your location.</string>
+    <string name="shipping_to">Will you be shipping to %1$s?</string>
+    <string name="shipping_to_drop_down">SHIPPING TO:</string>
+    <string name="shopping_cart_empty">Shopping cart is empty!</string>
+    <string name="show_all">all categories</string>
+    <string name="shuffle">Shuffle</string>
+    <string name="side_menu_button_label_about_us">About us</string>
+    <string name="side_menu_button_label_contact_us">Contact us</string>
+    <string name="side_menu_button_label_exit">Exit</string>
+    <string name="side_menu_button_label_help">Help</string>
+    <string name="side_menu_button_label_how_it_works">How it works</string>
+    <string name="side_menu_button_label_order_status">Order Status</string>
+    <string name="side_menu_button_label_past_orders">Past Orders</string>
+    <string name="side_menu_button_label_quality_guarantee">Quality Guarantee</string>
+    <string name="side_menu_section_title_information">Information</string>
+    <string name="side_menu_section_title_log_in_with">Log in with</string>
+    <string name="side_menu_section_title_options">Options</string>
+    <string name="side_number">Side %1$s</string>
+    <string name="sign_in">sign in</string>
+    <string name="sign_up">sign up</string>
+    <string name="sign_up_with_email">Sign up with email</string>
+    <string name="sign_up_with_facebook">Sign up with Facebook</string>
+    <string name="signing_in">one sec...</string>
+    <string name="signup_free">sign up FREE</string>
+    <string name="signup_tos">By creating a keepy account you acknowlege that you have read, understood and agree to the keepy</string>
+    <string name="single_layout_information">Layout for this product cannot be changed.</string>
+    <string name="skew">Skew</string>
+    <string name="skip">skip</string>
+    <string name="skip_capital">Skip</string>
+    <string name="soda_api_key">203380408</string>
+    <string name="solid_background">Solid Background</string>
+    <string name="sorry">Sorry</string>
+    <string name="spread_the_love">"tell
+a friend"</string>
+    <string name="square">Square</string>
+    <string name="squares">Squares</string>
+    <string name="starting_at">Starting at</string>
+    <string name="starting_at_">Starting at %s</string>
+    <string name="starting_at_retail_">Starting at %1$s %2$s</string>
+    <string name="state_empty">"'State' should not be empty"</string>
+    <string name="state_region_province">State/Region/Province</string>
+    <string name="status">Status:</string>
+    <string name="status_and_upgrade">status &amp; upgrade</string>
+    <string name="step_choose_back_side_template">&lt;b>Step %1$s:&lt;/b> Choose Back Side Template</string>
+    <string name="step_choose_background_border">&lt;b>Step %1$s:&lt;/b> Choose Background/Border Color</string>
+    <string name="step_choose_case_background_color">&lt;b>Step %1$s:&lt;/b> Choose Case Background Color</string>
+    <string name="step_choose_front_side_template">&lt;b>Step %1$s:&lt;/b> Choose Front Side Template</string>
+    <string name="step_choose_photo_layout_design">&lt;b>Step %1$s:&lt;/b> Choose Photo Layout &amp; Design</string>
+    <string name="step_choose_pillow_back_pillow">&lt;b>Step %1$s:&lt;/b> Choose Pillow Back Color</string>
+    <string name="step_choose_size_and_shape">&lt;b>Step %1$s:&lt;/b> Choose Size and Shape</string>
+    <string name="step_title_generic">&lt;b>Step %1$s:&lt;/b> Choose %2$s</string>
+    <string name="step_x_of_y">Step %1$s of %2$s</string>
+    <string name="street_1">Street</string>
+    <string name="street_2">Street 2 (Apt or Suite #)</string>
+    <string name="street_empty">"'Street' should not be empty"</string>
+    <string name="subscribe_annually">Subscribe annually</string>
+    <string name="subscribe_annually_amp_save_d">Subscribe annually &amp; save %d%%</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="subtotal_">Subtotal:</string>
+    <string name="successful_login_to_photo_source">Successfully logged in to %1$s</string>
+    <string name="suggested_address">New Suggested Address</string>
+    <string name="sweet">Sweet!</string>
+    <string name="sweet_message">Now %1$s loved ones will be able to see their memories as you save them!</string>
+    <string name="tabbar_effects">Effects</string>
+    <string name="tabbar_info">Info</string>
+    <string name="tabbar_rotate">Rotate</string>
+    <string name="tabbar_text">Text</string>
+    <string name="taf_email_confirmation">Thanks for telling your friends about Keepy!</string>
+    <string name="tag_item" />
+    <string name="tag_point_size" />
+    <string name="tag_url" />
+    <string name="tag_your_kids">who is in the %1$s?</string>
+    <string name="tags_subtitle">"tag your keepies now, so you
+can filter them later"</string>
+    <string name="take_photo">take photo</string>
+    <string name="tap_icons_to_get_images">Tap icons to get images</string>
+    <string name="tax">Tax</string>
+    <string name="tax_shipment">Tax:</string>
+    <string name="telephone_number">Phone Number</string>
+    <string name="tell_a_friend_title">tell a friend</string>
+    <string name="tell_a_story">Tell a story</string>
+    <string name="tell_a_story...">Tell a story...</string>
+    <string name="tell_us_all_about_this">Tell a story about this photo</string>
+    <string name="term_of_use"><u>Terms of Use</u></string>
+    <string name="terms">terms</string>
+    <string name="terms_and_conditions_acknowledgement">I agree with the <a href="https://www.gooten.com">Terms and Conditions</a></string>
+    <string name="terms_and_conditions_not_accepted_warning">Please accept the Terms and Conditions</string>
+    <string name="text">Text</string>
+    <string name="thanks">Thank You for your purchase!</string>
+    <string name="thanks_for_buying">"Your account has been upgraded!
+Keep on keepying on!"</string>
+    <string name="thanks_for_buying_title">purchase completed</string>
+    <string name="thickness">Thickness</string>
+    <string name="this_is">this is</string>
+    <string name="toast_coupon_already_added">Coupon is already added</string>
+    <string name="toast_coupon_is_empty">Please enter coupon code</string>
+    <string name="toast_error_while_croppin_image">Cropping image failed. Please try again.</string>
+    <string name="too_long_video_title">"Oops! Your video is too long.
+
+It needs to be under
+x minutes."</string>
+    <string name="total_before_price">Total before tax:</string>
+    <string name="total_cost">Total Cost</string>
+    <string name="total_ship_cost">Total Ship Cost:</string>
+    <string name="try_again">Try again</string>
+    <string name="try_again_later">Please try again later.</string>
+    <string name="try_free_for_7_days">Try free for 7 days</string>
+    <string name="tutorial">tutorial</string>
+    <string name="twitter">twitter</string>
+    <string name="ultimate">ultimate</string>
+    <string name="uncle">uncle</string>
+    <string name="under_1">under %1$s</string>
+    <string name="undo">Undo</string>
+    <string name="undo_all">Undo All</string>
+    <string name="unknown_person">Unknown</string>
+    <string name="unlimited">unlimited</string>
+    <string name="unlimited_backup_text">"Keepy backs up all of your memories as original print quality photos and HD videos.
+
+You can also backup your account to storage such as Dropbox so it's accessible from any device."</string>
+    <string name="unlimited_backup_title">Quality backup</string>
+    <string name="unlimited_connection_text">"You and your family can create dynamic memories through video, voice and text comments.
+
+Invite your family and friends to follow, view, and comment safely and privately."</string>
+    <string name="unlimited_connection_title">Connection</string>
+    <string name="unlimited_ic_age">age</string>
+    <string name="unlimited_ic_category">category</string>
+    <string name="unlimited_ic_location">location</string>
+    <string name="unlimited_ic_text">text</string>
+    <string name="unlimited_ic_video">video</string>
+    <string name="unlimited_ic_voice">voice</string>
+    <string name="unlimited_keepies_text">Snap, organize, upload and share unlimited photos and videos of $kidnames.</string>
+    <string name="unlimited_keepies_text_kidnames">your kids.</string>
+    <string name="unlimited_keepies_title">Unlimited keepies</string>
+    <string name="unlimited_organization_text">Keep track of all kinds of memories using our category, location and timeline features.</string>
+    <string name="unlimited_organization_title">Organization</string>
+    <string name="unlimited_products_text">Turn your favorite keepy memories into prints, photobooks, magnets, coasters and more in Keepy Store for half price.</string>
+    <string name="unlimited_products_title">50% off the Store</string>
+    <string name="unlink_from_dropbox">unlink dropbox account</string>
+    <string name="untitled">untitled</string>
+    <string name="update">Update</string>
+    <string name="update_account">update account</string>
+    <string name="update_kid">"update kid's profile"</string>
+    <string name="update_photo">update photo</string>
+    <string name="updating">updating...</string>
+    <string name="upgrade">Upgrade</string>
+    <string name="upgrade_now">upgrade now</string>
+    <string name="upgrade_to">PrintIO has been upgraded to %1$s, we recommend you to update now?</string>
+    <string name="upgrade_to_force_upgrade">PrintIO has been upgraded to %1$s, it is a critical update and you must update in order to continue!</string>
+    <string name="upload_failed">ack! your upload failed</string>
+    <string name="upload_instructions_text">"1. Add images from the above sources
+
+2. Selected photos will be counted below
+
+3. When done, click the \"Next\" button below"</string>
+    <string name="upload_instructions_title">Upload Instructions</string>
+    <string name="upload_photo">upload photo</string>
+    <string name="uploading_collection">SAVING YOUR KEEPIES</string>
+    <string name="uploading_comment">one sec! we’re uploading your comment...</string>
+    <string name="uploading_images">"Uploading file %1$s of %2$s…
+Please wait…"</string>
+    <string name="uploading_video">uploading video</string>
+    <string name="use_shipping_address">Use Shipping Address</string>
+    <string name="username">Username</string>
+    <string name="validation">Your Address Did Not Pass Validation</string>
+    <string name="verifying_payment">Verifying payment…</string>
+    <string name="verifying_purchase">verifying purchase...</string>
+    <string name="version">Version: %1$s (%2$s)</string>
+    <string name="video">video</string>
+    <string name="video_comment_incompatible_error">This device does not have a video camera - so video commenting is not possible.</string>
+    <string name="video_preview_title">preview</string>
+    <string name="view_cart">View Cart</string>
+    <string name="view_order_status">View Order Status</string>
+    <string name="voice_comment_incompatible_error">This device does not have a microphone - so voice commenting is not possible.</string>
+    <string name="warning_paypal_zero_total">Unfortunately, PayPal does not accept zero-value orders. Please use Credit Card payment method.</string>
+    <string name="watch_video">Watch Video</string>
+    <string name="welcome">Welcome</string>
+    <string name="welcome_text">"Great! Now let's start
+organizing some memories!"</string>
+    <string name="welcome_to_keepy">Welcome to keepy!</string>
+    <string name="what_now">what now?</string>
+    <string name="whats_new">"What's New"</string>
+    <string name="whats_new_dialog_text" />
+    <string name="where">Where</string>
+    <string name="write_a_comment">Write a comment</string>
+    <string name="wrong_username_or_password">You have entered a wrong username or password</string>
+    <string name="x_days_ago">X days ago</string>
+    <string name="x_fans">X fans</string>
+    <string name="x_hours_ago">X hours ago</string>
+    <string name="x_minutes_ago">X minutes ago</string>
+    <string name="yay">yay!</string>
+    <string name="yay_invite_sent">yay! invite sent!</string>
+    <string name="yes">yes</string>
+    <string name="you">you</string>
+    <string name="you_have_ordered_the_following_products">You have ordered the following products:</string>
+    <string name="your_name">your name</string>
+    <string name="your_order_number_is">Your Order Number is:</string>
+    <string name="zip_code">Zip Code</string>
+    <string name="zip_code_empty">"'Zip Code' should not be empty"</string>
+    <string name="zoom">Zoom</string>
+</resources>

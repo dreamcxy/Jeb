@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="about_app_key">about_app_key</string>
+    <string name="about_app_version" formatted="false">"%s (%d)
+%s"</string>
+    <string name="about_art_contributors">Art Contributors</string>
+    <string name="about_art_contributors_zhouyu">Zhou Yu (Luancher Icon)</string>
+    <string name="about_art_contributors_zhouyu_des">{emi_mail} zhouyu1027@gmail.com</string>
+    <string name="about_author">Author</string>
+    <string name="about_author_key">about_author_key</string>
+    <string name="about_author_tshine">Tshine</string>
+    <string name="about_author_tshine_email">{emi_mail} gtshine@gmail.com</string>
+    <string name="about_changelog">Changelog</string>
+    <string name="about_checkupdate">Check update</string>
+    <string name="about_join_qq_group">QQ Group (Click to join)</string>
+    <string name="about_join_qq_group_des">626025165</string>
+    <string name="about_join_qq_group_key">about_join_qq_group_key</string>
+    <string name="about_open_source_licences">Open-source licences</string>
+    <string name="about_open_source_licences_key">about_open_source_licences_key</string>
+    <string name="about_others">Others</string>
+    <string name="about_translations">Translations</string>
+    <string name="about_translations_helenknightley">HelenKnightley (English)</string>
+    <string name="about_translations_helenknightley_des">{emi_mail} HelenKnightley@yeah.net</string>
+    <string name="about_translations_nan43">Nan43 (Traditional Chinese)</string>
+    <string name="about_translations_nan43_des">{emi_mail} nan43000@gmail.com</string>
+    <string name="about_translations_shirley">Shirley (English)</string>
+    <string name="about_translations_shirley_des" />
+    <string name="about_translations_zofia">Zofia (English)</string>
+    <string name="about_translations_zofia_des">{emi_mail} 2401206012@qq.com</string>
+    <string name="action_add_repository">Create repository</string>
+    <string name="action_all_repositories">All Notes</string>
+    <string name="action_inbox">Inbox</string>
+    <string name="action_label_repositories">Repositories</string>
+    <string name="action_repositories_edit_button">EDIT</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_repo_appfolder">General repository</string>
+    <string name="add_repo_dropbox">Dropbox</string>
+    <string name="add_repo_dropbox_new_account">New account</string>
+    <string name="add_repo_dropbox_select_account_title">Select account</string>
+    <string name="add_repo_dropbox_warning_msg">" "</string>
+    <string name="add_repo_folderchooser_subtitle">Select the folder to become the repository</string>
+    <string name="add_repo_googledrive">"Google Drive
+(Beta)"</string>
+    <string name="add_repo_googledrive_warning">"Google Drive supports duplicate names for files or folders that are not supported by this application.
+Make sure that your Google Drive does not have duplicate files or folders in the same directory, especially the folders used to store notes, or you may see unexpected exceptions."</string>
+    <string name="add_repo_init_msg">Getting the list of notes,please wait…</string>
+    <string name="add_repo_jianguoyun">JianGuoYun</string>
+    <string name="add_repo_local">Local filesystem</string>
+    <string name="add_repo_localrepo_warning_dont_ask">Do not ask again</string>
+    <string name="add_repo_localrepo_warning_msg">There is an irreversible risk to the local repository, and if the misuse may result in loss of notes, etc., and may be cleaned up APP to clean up the notes, if there are no special reasons, it is recommended to create remote repository.</string>
+    <string name="add_repo_normal_name_hint">Input repository name</string>
+    <string name="add_repo_normal_title">Create a general repository</string>
+    <string name="add_repo_normalrepo_warning_msg">The normal repository data is stored in the private directory, and the notes are deleted together when the program is uninstalled.</string>
+    <string name="add_repo_subtitle">Select the repository type</string>
+    <string name="add_repo_title">Create repository</string>
+    <string name="add_repo_webdav">WebDAV</string>
+    <string name="add_repository_exsits">Repository creation failed. The repository already exists.</string>
+    <string name="add_repository_failure">Repository creation failed.</string>
+    <string name="app_name">Easymark</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="beta_warning">This is a test feature, there may be data loss, data anomalies and so on.</string>
+    <string name="beta_warning_sure">I am sure to use this feature</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="camera">CAMERA</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="define_AndroidIconics">year;owner</string>
+    <string name="define_fastadapter">year;owner</string>
+    <string name="define_font_easymark_icons_library">com.mikepenz.easymark_icons_library_typeface_library.easymark_icons_library</string>
+    <string name="define_materialdrawer">year;owner</string>
+    <string name="define_materialize">year;owner</string>
+    <string name="donate_alipay">Alipay</string>
+    <string name="donate_alipay_account">smoketad@126.com</string>
+    <string name="donate_alipay_url_code">aex03789rvnpxpowvhzimd8</string>
+    <string name="donate_aliplay_not_install_msg">"Alipay process is not detected, you can donate to Alipay account 
+smoketad@126.com
+The account has been copied to the clipboard"</string>
+    <string name="donate_msg">"Email：gtshine@gmail.com
+Alipay：smoketad@126.com
+WeChat：hizocer(木有鸡和马)
+
+This software is provided free of charge for your personal use . Do not resell . This software is a personal work that has nothing to do with any company or team . If you like my work , please donate to support my maintenance . Click on the list of to donate donations , thank you ! 
+"</string>
+    <string name="donate_paypal">PayPal</string>
+    <string name="donate_paypal_url">https://www.paypal.me/YongQian</string>
+    <string name="donate_wechat">WeChat</string>
+    <string name="donate_wechat_msg">Please screen in this interface, and then sweep away to the WeChat, click on the upper right corner of the three points (menu), select from the album to select two-dimensional code to scan payment, thank support!</string>
+    <string name="done">DONE</string>
+    <string name="edit_action_attach_file">Attach file</string>
+    <string name="edit_action_delete">Delete</string>
+    <string name="edit_action_font">Font Style</string>
+    <string name="edit_action_image">Image</string>
+    <string name="edit_action_image_camera">Camera</string>
+    <string name="edit_action_image_gallery">Gallery</string>
+    <string name="edit_action_menu">More</string>
+    <string name="edit_action_search">Search</string>
+    <string name="edit_action_share">Share</string>
+    <string name="edit_action_test">Test</string>
+    <string name="edit_action_time_memory">Chronicle</string>
+    <string name="edit_action_toolbar">Toolbar</string>
+    <string name="edit_action_url_copy">Copy</string>
+    <string name="edit_action_url_open">Open Url</string>
+    <string name="edit_activity_title">Easymark Editor</string>
+    <string name="edit_backpressed_warning">Your changes are not saved, Are you sure you want to discard the changes?</string>
+    <string name="edit_content_hint">Have something to say?</string>
+    <string name="edit_delete_note_msg">Are you sure you want to delete this note?</string>
+    <string name="edit_filename_hint">Note title</string>
+    <string name="edit_loading">Loading</string>
+    <string name="edit_md_action_bold">**Bold**</string>
+    <string name="edit_md_action_header">\# Title</string>
+    <string name="edit_md_action_highlight">`HLT`</string>
+    <string name="edit_md_action_italic">*Italic*</string>
+    <string name="edit_md_action_list">- List</string>
+    <string name="edit_md_action_scratch">~~ST~~</string>
+    <string name="edit_note_info_characters">Chars</string>
+    <string name="edit_note_info_date">Date</string>
+    <string name="edit_note_info_words">Words</string>
+    <string name="edit_note_info_words_format" formatted="false">%d (%d chars)</string>
+    <string name="edit_redo">Redo</string>
+    <string name="edit_reedit_msg">"unsaved notes detected, continue editing?
+If the note is important, it is recommended to download the backup first."</string>
+    <string name="edit_share_with_image">Share as an Image</string>
+    <string name="edit_share_with_text">Share as Plain Text</string>
+    <string name="edit_title_file_select">Choice files</string>
+    <string name="edit_title_font_select">Select font file (TTF)</string>
+    <string name="edit_undo">Undo</string>
+    <string name="editor_image_long_press_menu_delete">Delete</string>
+    <string name="editor_image_long_press_menu_download">Download</string>
+    <string name="editor_image_long_press_menu_insert_after">Insert a line below</string>
+    <string name="editor_image_long_press_menu_insert_before">insert a line above</string>
+    <string name="editor_image_long_press_menu_open">Open</string>
+    <string name="err_network_not_connected">Network Unavailable</string>
+    <string name="err_webdav_path_does_not_exist">Path does not exist</string>
+    <string name="err_webdav_unauthorized">Incorrect username or password.</string>
+    <string name="error_create_image_file">Failed to create image file</string>
+    <string name="error_insert_image_is_empty">Image path is empty</string>
+    <string name="error_msg_cloud_storage_service_task_error_delete" formatted="false">"Remote Repository [%s] delete [%s] failed!
+Click to show Details。Slide to removing this task"</string>
+    <string name="error_msg_cloud_storage_service_task_error_modify" formatted="false">"Remote Repository [%s] modify [%s] failed!
+Click to show Details。Slide to removing this task"</string>
+    <string name="error_msg_cloud_storage_service_task_error_rename" formatted="false">"Remote Repository [%s] rename [%s] failed!
+Click to show Details。Slide to removing this task"</string>
+    <string name="error_msg_dropbox_network_ioexception">"Connection Dropbox Error
+%s"</string>
+    <string name="error_msg_image_too_big">Image is too large to be generated. Please try to adjust the font</string>
+    <string name="error_msg_unknow_error">Unknown error</string>
+    <string name="error_no_camera">No camera found</string>
+    <string name="error_null_cursor">Oops, something went wrong!</string>
+    <string name="file_chooser_create_folder_hint">Input folder name</string>
+    <string name="file_chooser_footer_bt_create_folder">Create folder</string>
+    <string name="file_chooser_footer_bt_select">Select</string>
+    <string name="file_chooser_select_sure_dialog_title">Are you sure to choose these?</string>
+    <string name="file_chooser_title_choose_file">Choose file</string>
+    <string name="file_chooser_title_choose_folder">Choose folder</string>
+    <string name="font_custom_load">Load</string>
+    <string name="font_default">Default</string>
+    <string name="font_monospace">Monospace</string>
+    <string name="font_user">User Font</string>
+    <string name="guide_about_image">A description of the Image</string>
+    <string name="guide_about_note_name_name">A description of the note name</string>
+    <string name="guide_edit_note_title">**Scroll down** to show `Note title`</string>
+    <string name="guide_note_name">Welcome to Easymark</string>
+    <string name="guide_repo_fast_open">The left edge of the screen slide inward to quickly open the Repository list. Right slide to close.</string>
+    <string name="guide_repo_refresh">"The remote repository's notes are not synchronized in real time, and if you modify your notes outside, You need to manually perform the drop-down refresh synchronization in the note list.
+If it is modified by Easymark, it is not required"</string>
+    <string name="guide_snippet_editor">The new version enhances the markdown expert mode, and now you can customize the expert mode toolbar, have a try?</string>
+    <string name="guide_snippet_editor_key">guide_snippet_editor_key</string>
+    <string name="guide_sync_always">If you need automatic background synchronization please do not force exit the application, or automatic synchronization may not work.</string>
+    <string name="icon_add_local_repo">emi_ic_phone_android_48px</string>
+    <string name="icon_add_repo">emi_ic_add_48px</string>
+    <string name="icon_all_repos">emi_library</string>
+    <string name="icon_arrow_left">emi_left</string>
+    <string name="icon_check">emi_ic_done_48px</string>
+    <string name="icon_create_note">emi_feather</string>
+    <string name="icon_daynight_day">emi_sun</string>
+    <string name="icon_daynight_night">emi_moon</string>
+    <string name="icon_delete">emi_ic_delete_48px</string>
+    <string name="icon_drawer_repo_lock">emi_lock_circled</string>
+    <string name="icon_dropbox_repo">emi_dropbox</string>
+    <string name="icon_edit_done">emi_ic_done_48px</string>
+    <string name="icon_edit_markdown">emi_markdown</string>
+    <string name="icon_editor_attach_file">emi_ic_attach_file_48px</string>
+    <string name="icon_editor_image_drag">emi_ic_drag_handle_48px</string>
+    <string name="icon_editor_menu">emi_ic_more_vert_48px</string>
+    <string name="icon_editor_search_clear">emi_ic_close_48px</string>
+    <string name="icon_editor_search_next">emi_ic_keyboard_arrow_down_48px</string>
+    <string name="icon_editor_search_pre">emi_ic_keyboard_arrow_up_48px</string>
+    <string name="icon_editor_share">emi_paper_plane_empty</string>
+    <string name="icon_editor_sound_play">emi_play</string>
+    <string name="icon_editor_sound_stop">emi_stop</string>
+    <string name="icon_editor_url_copy">emi_ic_content_copy_48px</string>
+    <string name="icon_editor_url_open">emi_ic_open_in_browser_48px</string>
+    <string name="icon_filechooser_file">emi_doc</string>
+    <string name="icon_filechooser_folder">emi_folder</string>
+    <string name="icon_filechooser_parent">emi_reply_1</string>
+    <string name="icon_font_size_minus">emi_minus_circle</string>
+    <string name="icon_font_size_plus">emi_plus_circle</string>
+    <string name="icon_googledrive_repo">emi_google_drive</string>
+    <string name="icon_local_repo">emi_folder_empty</string>
+    <string name="icon_move">emi_right-circled</string>
+    <string name="icon_notelist_upload">emi_ic_file_upload_48px</string>
+    <string name="icon_notes_list_float_attachment">emi_attach</string>
+    <string name="icon_notes_list_float_camera">emi_camera</string>
+    <string name="icon_notes_list_float_plus">emi_ic_add_48px</string>
+    <string name="icon_notes_list_float_time_memory">emi_ic_event_note_48px</string>
+    <string name="icon_pack">emi_object_group</string>
+    <string name="icon_pack_sort">emi_ic_sort_48px</string>
+    <string name="icon_pack_sort_null">emi_ic_sort_null</string>
+    <string name="icon_passcode_info">emi_info_circled</string>
+    <string name="icon_pencil">emi_pencil</string>
+    <string name="icon_preview_save">emi_ic_save_48px</string>
+    <string name="icon_preview_share">emi_ic_share_48px</string>
+    <string name="icon_preview_style">emi_ic_palette_48px</string>
+    <string name="icon_search">emi_ic_search_48px</string>
+    <string name="icon_settings">emi_cog_alt</string>
+    <string name="icon_share_menu_image">emi_picture</string>
+    <string name="icon_share_menu_text">emi_doc</string>
+    <string name="icon_snippet_tips">emi_info_circled</string>
+    <string name="icon_weather_cloudy">emi_cloud-sun</string>
+    <string name="icon_weather_overcast">emi_cloud</string>
+    <string name="icon_weather_rain">emi_drizzle</string>
+    <string name="icon_weather_snow">emi_snow</string>
+    <string name="icon_weather_sunny">emi_sun</string>
+    <string name="icon_weather_unknow">emi_temperatire</string>
+    <string name="icon_webdav_repo">emi_ic_cloud_queue_48px</string>
+    <string name="image_directory">Camera</string>
+    <string name="imagepicker_folder_title">Folder</string>
+    <string name="imagepicker_image_title">Tap to select</string>
+    <string name="library_AndroidIconics_author">Mike Penz</string>
+    <string name="library_AndroidIconics_authorWebsite">http://mikepenz.com/</string>
+    <string name="library_AndroidIconics_isOpenSource">true</string>
+    <string name="library_AndroidIconics_libraryDescription">This library allows you to include vector icons everywhere in your project. No limits are given. Scale with no limit, use any Color at any time, provide a contour, and many additional customizations</string>
+    <string name="library_AndroidIconics_libraryName">Android-Iconics</string>
+    <string name="library_AndroidIconics_libraryVersion">2.8.2</string>
+    <string name="library_AndroidIconics_libraryWebsite">https://github.com/mikepenz/Android-Iconics</string>
+    <string name="library_AndroidIconics_licenseId">apache_2_0</string>
+    <string name="library_AndroidIconics_owner">Mike Penz</string>
+    <string name="library_AndroidIconics_repositoryLink">https://github.com/mikepenz/Android-Iconics</string>
+    <string name="library_AndroidIconics_year">2016</string>
+    <string name="library_fastadapter_author">Mike Penz</string>
+    <string name="library_fastadapter_authorWebsite">http://mikepenz.com/</string>
+    <string name="library_fastadapter_isOpenSource">true</string>
+    <string name="library_fastadapter_libraryDescription">&lt;b>FastAdapter&lt;/b>, the bullet proof, fast and easy to use adapter library, which minimizes developing time to a fraction...</string>
+    <string name="library_fastadapter_libraryName">FastAdapter</string>
+    <string name="library_fastadapter_libraryVersion">2.5.2</string>
+    <string name="library_fastadapter_libraryWebsite">https://github.com/mikepenz/FastAdapter</string>
+    <string name="library_fastadapter_licenseId">apache_2_0</string>
+    <string name="library_fastadapter_owner">Mike Penz</string>
+    <string name="library_fastadapter_repositoryLink">https://github.com/mikepenz/FastAdapter</string>
+    <string name="library_fastadapter_year">2017</string>
+    <string name="library_materialdrawer_author">Mike Penz</string>
+    <string name="library_materialdrawer_authorWebsite">http://mikepenz.com/</string>
+    <string name="library_materialdrawer_isOpenSource">true</string>
+    <string name="library_materialdrawer_libraryDescription">&lt;b>MaterialDrawer&lt;/b> the flexible, easy to use, all in one drawer library for your Android project.</string>
+    <string name="library_materialdrawer_libraryName">MaterialDrawer</string>
+    <string name="library_materialdrawer_libraryVersion">5.9.0</string>
+    <string name="library_materialdrawer_libraryWebsite">https://github.com/mikepenz/MaterialDrawer</string>
+    <string name="library_materialdrawer_licenseId">apache_2_0</string>
+    <string name="library_materialdrawer_owner">Mike Penz</string>
+    <string name="library_materialdrawer_repositoryLink">https://github.com/mikepenz/MaterialDrawer</string>
+    <string name="library_materialdrawer_year">2016</string>
+    <string name="library_materialize_author">Mike Penz</string>
+    <string name="library_materialize_authorWebsite">http://mikepenz.com/</string>
+    <string name="library_materialize_isOpenSource">true</string>
+    <string name="library_materialize_libraryDescription">&lt;b>Materialize&lt;/b> comes with useful helper classes, the complete material color palette, and many additional utils. Use its theme as base. Let it manage your StatusBar, NavigationBar, Fullscreen behavior&amp;#8230;</string>
+    <string name="library_materialize_libraryName">Materialize</string>
+    <string name="library_materialize_libraryVersion">1.0.1</string>
+    <string name="library_materialize_libraryWebsite">https://github.com/mikepenz/Materialize</string>
+    <string name="library_materialize_licenseId">apache_2_0</string>
+    <string name="library_materialize_owner">Mike Penz</string>
+    <string name="library_materialize_repositoryLink">https://github.com/mikepenz/Materialize</string>
+    <string name="library_materialize_year">2016</string>
+    <string name="license_fragment_library">License Fragment Library</string>
+    <string name="lock_msg_choose_passcode">Please choose a passcode</string>
+    <string name="lock_msg_confirm_passcode">Confirm your passcode</string>
+    <string name="lock_msg_enter_passcode">Please enter your passcode</string>
+    <string name="lock_repo_title">Select the Repository to lock</string>
+    <string name="lock_timeout_0">5 seconds</string>
+    <string name="lock_timeout_1">15 seconds</string>
+    <string name="lock_timeout_2">30 seconds</string>
+    <string name="lock_timeout_3">1 minute</string>
+    <string name="lock_timeout_4">2 minutes</string>
+    <string name="lock_timeout_5">5 minutes</string>
+    <string name="lock_timeout_6">10 minutes</string>
+    <string name="lock_timeout_7">30 minutes</string>
+    <string name="material_drawer_close">Close</string>
+    <string name="material_drawer_open">Open</string>
+    <string name="mdtp_am">am</string>
+    <item type="string" name="mdtp_ampm_circle_radius_multiplier">0.22</item>
+    <string name="mdtp_cancel">@android:string/cancel</string>
+    <item type="string" name="mdtp_circle_radius_multiplier">0.82</item>
+    <item type="string" name="mdtp_circle_radius_multiplier_24HourMode">0.85</item>
+    <string name="mdtp_date">Date</string>
+    <string name="mdtp_date_v1_monthyear">MMMM yyyy</string>
+    <string name="mdtp_date_v2_daymonthyear">EEE, MMM dd</string>
+    <string name="mdtp_day_of_week_label_typeface">sans-serif-light</string>
+    <string name="mdtp_day_picker_description">Month grid of days</string>
+    <string name="mdtp_deleted_key">%1$s deleted</string>
+    <string name="mdtp_done_label">Done</string>
+    <string name="mdtp_hour_picker_description">Hours circular slider</string>
+    <string name="mdtp_item_is_selected">%1$s selected</string>
+    <string name="mdtp_minute_picker_description">Minutes circular slider</string>
+    <item type="string" name="mdtp_numbers_radius_multiplier_inner">0.6</item>
+    <item type="string" name="mdtp_numbers_radius_multiplier_normal">0.81</item>
+    <item type="string" name="mdtp_numbers_radius_multiplier_outer">0.83</item>
+    <string name="mdtp_ok">@android:string/ok</string>
+    <string name="mdtp_pm">pm</string>
+    <string name="mdtp_radial_numbers_typeface">sans-serif</string>
+    <string name="mdtp_sans_serif">sans-serif</string>
+    <string name="mdtp_second_picker_description">Seconds circular slider</string>
+    <string name="mdtp_select_day">Select month and day</string>
+    <string name="mdtp_select_hours">Select hours</string>
+    <string name="mdtp_select_minutes">Select minutes</string>
+    <string name="mdtp_select_seconds">Select seconds</string>
+    <string name="mdtp_select_year">Select year</string>
+    <item type="string" name="mdtp_selection_radius_multiplier">0.16</item>
+    <item type="string" name="mdtp_text_size_multiplier_inner">0.11</item>
+    <item type="string" name="mdtp_text_size_multiplier_normal">0.12</item>
+    <item type="string" name="mdtp_text_size_multiplier_outer">0.08</item>
+    <string name="mdtp_time">Time</string>
+    <string name="mdtp_time_placeholder">00</string>
+    <string name="mdtp_time_separator">:</string>
+    <string name="mdtp_year_picker_description">Year list</string>
+    <string name="msg_empty_images">No images found</string>
+    <string name="msg_file_saved">"The file has been saved to
+%s"</string>
+    <string name="msg_fresh_failed_gd_same_name" formatted="false">"Failed to refresh, there is a duplicate name under %s：
+%s"</string>
+    <string name="msg_jianguoyun_tips">"Authorization Guide 
+http://help.jianguoyun.com/?p=2064"</string>
+    <string name="msg_limit_images">Image selection limit</string>
+    <string name="msg_local_db_update_warning">This update will upgrade the \"local repository\" data, Please back up the data before upgrading.</string>
+    <string name="msg_no_camera_permission">Please grant camera permission to capture image</string>
+    <string name="msg_no_write_external_permission">Please grant storage permission to select images</string>
+    <string name="msg_update_checker_newversion" formatted="false">"New version：%s
+%s"</string>
+    <string name="msg_update_db">Updating data, please wait ……</string>
+    <string name="notelist_actionmode_items_selected">%d items selected</string>
+    <string name="notelist_actionmode_select_elements">Select entries</string>
+    <string name="notelist_create_attachment">Attachment</string>
+    <string name="notelist_create_camera">Camera</string>
+    <string name="notelist_create_normal">Text Note</string>
+    <string name="notelist_create_time_memory">Chronicle</string>
+    <string name="notelist_empty_msg">This repository is empty</string>
+    <string name="notelist_multipleaction_delete">Delete</string>
+    <string name="notelist_multipleaction_move">Move</string>
+    <string name="notelist_multipleaction_pack">Merge</string>
+    <string name="notelist_note_removed_msg">Removed</string>
+    <string name="notelist_note_removed_undo">Undo</string>
+    <string name="notelist_placeholder_empty_note">[no content]</string>
+    <string name="notelist_placeholder_image_note">[Image]</string>
+    <string name="notelist_placeholder_lock_note">[Locked]</string>
+    <string name="notelist_pull_down_refresh_tips">Pull down to refresh</string>
+    <string name="notelist_refresh_failed" formatted="false">"Repository [%s] refresh failed, please retry.
+%s"</string>
+    <string name="notelist_refresh_msg" formatted="false">Refreshing %d / %d</string>
+    <string name="notelist_search_title">Search</string>
+    <string name="ok">OK</string>
+    <string name="pack_dialog_tips">Long press drag</string>
+    <string name="pack_dialog_title">Merge</string>
+    <string name="pack_file_name">Merge</string>
+    <string name="pack_note_so_big">Note size limit(500KB),Merge Failed</string>
+    <string name="pack_separator">"
+----------
+"</string>
+    <string name="pack_sort_entries_newest">Sort by Newest</string>
+    <string name="pack_sort_entries_none">Sort by Selected</string>
+    <string name="pack_sort_entries_oldest">Sort by Oldest</string>
+    <string name="password_toggle_content_description">Toggle password visibility</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="permission_account_denied">Unable to get the current Google account</string>
+    <string name="permission_account_neverask">Unable to get the current Google account</string>
+    <string name="permission_account_rationale">Need to get the current login Google account, used to connect GoogleDrive</string>
+    <string name="permission_external_storage_denied">Does not have SD card permissions.</string>
+    <string name="permission_external_storage_denied_for_ex_gally">Does not have read SD card permissions.May not be able to get the image file</string>
+    <string name="permission_external_storage_neverask">Does not have SD card permissions.</string>
+    <string name="permission_external_storage_rationale">The program requires external storage-related rights to read and write data normally.</string>
+    <string name="permission_external_storage_rationale_for_ex_gally">The program requires external storage-related rights to read image file.</string>
+    <string name="permission_warming_sdcardpermission">The program requires external storage-related rights to read and write data normally.</string>
+    <string name="permission_write_external_rationale">Allow access external storage to select images</string>
+    <string name="pref_about_chronicle_key">pref_about_chronicle_key</string>
+    <string name="pref_about_image_copy_key">pref_about_image_copy_key</string>
+    <string name="pref_about_note_name_copy_key">pref_about_note_name_copy_key</string>
+    <string name="pref_auto_check_update">Check for updates automatically</string>
+    <string name="pref_auto_check_update_key">pref_auto_check_update_key</string>
+    <string name="pref_auto_hide_markdown_symbol">Automatically hide Markdown symbols</string>
+    <string name="pref_auto_hide_markdown_symbol_key">pref_auto_hide_markdown_symbol_key</string>
+    <string name="pref_auto_indent">Automatically indent</string>
+    <string name="pref_auto_indent_des">Automatically insert the same number of spaces in the previous paragraph</string>
+    <string name="pref_auto_indent_key">pref_auto_indent_key</string>
+    <string name="pref_cloud_storage_service_error_msg_key">pref_cloud_storage_service_error_msg_key</string>
+    <string name="pref_cloud_storage_service_error_taskid_key">pref_cloud_storage_service_error_taskid_key</string>
+    <string name="pref_create_shortcut">Create shortcut</string>
+    <string name="pref_create_shortcut_summary">Some of the launchers are not supported</string>
+    <string name="pref_custom_ttf_key">pref_custom_ttf_key</string>
+    <string name="pref_dropbox_repo_warning_key">pref_dropbox_repo_warning_key</string>
+    <string name="pref_edit_autohidetoolbar">Hide actionbar when edit</string>
+    <string name="pref_edit_autohidetoolbar_key">pref_edit_autohidetoolbar_key</string>
+    <string name="pref_edit_font_size_key">pref_edit_font_size_key</string>
+    <string name="pref_edit_font_style_key">pref_edit_font_style_key</string>
+    <string name="pref_edit_markdown_toobar_shown_key">pref_edit_markdown_toobar_shown_key</string>
+    <string name="pref_editing_note_isnew_key">pref_editing_note_isnew_key</string>
+    <string name="pref_editing_note_repoid_key">pref_editing_note_repoid_key</string>
+    <string name="pref_editing_note_title_key">pref_editing_note_title_key</string>
+    <string name="pref_editor">Editor</string>
+    <string name="pref_editor_backpressed_autosave">Autosave when BackPressed</string>
+    <string name="pref_editor_backpressed_autosave_key">pref_editor_backpressed_warning_key</string>
+    <string name="pref_editor_local_repo_create_warning_key">pref_editor_local_repo_create_warning_key</string>
+    <string name="pref_editor_normal_repo_create_warning_key">pref_editor_normal_repo_create_warning_key</string>
+    <string name="pref_file_log_key">pref_file_log_key</string>
+    <string name="pref_general">General</string>
+    <string name="pref_google_drive_repo_warning_key">pref_google_drive_repo_warning_key</string>
+    <string name="pref_guide_note_copy_key">pref_guide_note_copy_key</string>
+    <string name="pref_inbox_repo_id">Default Repository</string>
+    <string name="pref_inbox_repo_id_key">pref_inbox_repo_id_key</string>
+    <string name="pref_language">Language</string>
+    <string name="pref_language_auto">Auto</string>
+    <string name="pref_language_key">pref_language_key</string>
+    <string name="pref_last_repository_id_key">pref_last_repository_id_key</string>
+    <string name="pref_mardown_toolbar_pro">Markdown Expert mode</string>
+    <string name="pref_mardown_toolbar_pro_des">The Markdown toolbar provides more symbols</string>
+    <string name="pref_markdown_pro_warning">Expert mode will lose auto completion</string>
+    <string name="pref_markdown_toolbar_pro_custom">Snippets</string>
+    <string name="pref_markdown_toolbar_pro_custom_key">pref_markdown_toolbar_pro_custom_key</string>
+    <string name="pref_markdown_toolbar_pro_key">pref_markdown_toolbar_pro_key</string>
+    <string name="pref_mini_notelist">Condensed note list</string>
+    <string name="pref_mini_notelist_key">pref_mini_notelist_key</string>
+    <string name="pref_mini_notelist_summary">The list is compressed and no image is displayed</string>
+    <string name="pref_pack_sort_mode_key">pref_pack_sort_mode_key</string>
+    <string name="pref_preview_css_index_key">pref_preview_css_index_key</string>
+    <string name="pref_preview_font_style_key">pref_preview_font_style_key</string>
+    <string name="pref_preview_font_zoom_key">pref_preview_font_zoom_key1</string>
+    <string name="pref_preview_user_css_key">pref_preview_user_css_key</string>
+    <string name="pref_privacy">Privacy</string>
+    <string name="pref_privacy_allnotes_show_lock">All notes list show locked notes</string>
+    <string name="pref_privacy_allnotes_show_lock_key">pref_privacy_allnotes_show_lock_key</string>
+    <string name="pref_privacy_change">Change passcode lock</string>
+    <string name="pref_privacy_change_key">pref_privacy_change_key</string>
+    <string name="pref_privacy_deactivate">Deactivate passcode lock</string>
+    <string name="pref_privacy_deactivate_key">pref_prevacy_deactivate_key</string>
+    <string name="pref_privacy_des">Passcode lock, Fingerprint</string>
+    <string name="pref_privacy_fingerprint">Fingerprint</string>
+    <string name="pref_privacy_fingerprint_key">pref_privacy_fingerprint_key</string>
+    <string name="pref_privacy_fingerprint_unable">There is no fingerprint device or no fingerprints or no support for the device</string>
+    <string name="pref_privacy_key">pref_privacy_key</string>
+    <string name="pref_privacy_lock_app">Lock Application</string>
+    <string name="pref_privacy_lock_app_key">pref_privacy_lock_app_key</string>
+    <string name="pref_privacy_next_retry_time_key">pref_privacy_next_retry_time_key</string>
+    <string name="pref_privacy_passcode_key">pref_privacy_passcode_key</string>
+    <string name="pref_privacy_prompt">Passcode prompt</string>
+    <string name="pref_privacy_prompt_key">pref_privacy_prompt_key</string>
+    <string name="pref_privacy_repo_set">Lock Repository</string>
+    <string name="pref_privacy_repo_set_key">pref_privacy_repo_set_key</string>
+    <string name="pref_privacy_time_out">Require passcode after…</string>
+    <string name="pref_privacy_time_out_key">pref_privacy_time_out_key</string>
+    <string name="pref_privacy_try_count_key">pref_privacy_try_count_key</string>
+    <string name="pref_privacy_try_count_save_key">pref_privacy_try_count_save_key</string>
+    <string name="pref_remember_directory">Remember last repository on startup</string>
+    <string name="pref_remember_repository_des">If not, display all notes each time</string>
+    <string name="pref_remember_repository_key">pref_remember_repository_key</string>
+    <string name="pref_repo_list_show_description">Repository list show details</string>
+    <string name="pref_repo_list_show_description_key">pref_repo_list_show_description_key</string>
+    <string name="pref_repositories_db_key">pref_repositories_key</string>
+    <string name="pref_repository">Repository</string>
+    <string name="pref_repository_has_changed_key">pref_repository_has_changed_key</string>
+    <string name="pref_repository_list_show_search">Search repository</string>
+    <string name="pref_repository_list_show_search_key">pref_repository_list_show_search_key</string>
+    <string name="pref_repository_list_show_search_summary">Repository list show the Search box</string>
+    <string name="pref_root_directory">Storage folder</string>
+    <string name="pref_root_directory_key">pref_root_directory_key</string>
+    <string name="pref_shortcut_version_key">pref_shortcut_version_key</string>
+    <string name="pref_sync_allow_data_plan">Allow Data Plan</string>
+    <string name="pref_sync_allow_data_plan_key">pref_sync_allow_data_plan_key</string>
+    <string name="pref_sync_interval_time">Synchronization interval time</string>
+    <string name="pref_sync_interval_time_key">pref_sync_synchronization_interval_time_key</string>
+    <string name="pref_sync_last_sync_time_key">pref_sync_last_sync_time_key</string>
+    <string name="pref_sync_mode">Sync Mode</string>
+    <string name="pref_sync_mode_key">pref_sync_mode_key</string>
+    <string name="pref_sync_settings">Sync Settings</string>
+    <string name="pref_sync_settings_fault_Tolerance_time_des">Difference in miliseconds allowed when comparing files</string>
+    <string name="pref_sync_settings_fault_tolerance_time">Fault Tolerance Time</string>
+    <string name="pref_sync_settings_fault_tolerance_time_key">pref_sync_settings_fault_tolerance_time_key</string>
+    <string name="pref_sync_settings_key">pref_sync_settings_key</string>
+    <string name="pref_use_user_gallery_des">Use external gallery to select pictures(multiple selection may not be supported)</string>
+    <string name="pref_use_user_sys_gallery_key">pref_use_user_sys_gallery_key</string>
+    <string name="pref_user_user_gallery">Use external gallery</string>
+    <string name="pref_warming_sdcardpermission_key">pref_warming_sdcardpermission_key</string>
+    <string name="preview_action_save">Save</string>
+    <string name="preview_action_share">Share</string>
+    <string name="preview_action_style">Style</string>
+    <string name="preview_style_css">Style (CSS)</string>
+    <string name="preview_style_css_custom">Custom</string>
+    <string name="preview_style_css_default">Default</string>
+    <string name="preview_style_font">Font</string>
+    <string name="preview_style_load_css">Load</string>
+    <string name="preview_style_load_css_title">Select style file (CCS)</string>
+    <string name="preview_style_user_css_url_hint">CSS URL</string>
+    <string name="processtext_title">Mark</string>
+    <string name="rate_later">Remind me later</string>
+    <string name="rate_msg">Love %s? Thanks for your support!</string>
+    <string name="rate_no">No, thanks</string>
+    <string name="rate_rate">Give rating</string>
+    <string name="rate_title">Rate</string>
+    <string name="repo_dialog_title">Move to…</string>
+    <string name="repo_edit_activity_title">Edit repository</string>
+    <string name="repo_edit_delete_msg">"Are you sure to delete repository %s？
+Only removed from the list of books, will not delete the original file."</string>
+    <string name="repo_edit_delete_msg_delete_notes">Delete notes</string>
+    <string name="repo_edit_repo_des_webdav" formatted="false">"Account：%s
+WebDAV：%s
+Path：%s"</string>
+    <string name="report_by_email_msg">"There was an unexpected problem.
+Can you tell me how did you trigger this problem?(by e-mail)
+This can help me improve the problem.
+```error
+%s
+```"</string>
+    <string name="repositories_db_version">6</string>
+    <string name="search_menu_title">Search</string>
+    <string name="selected">%d selected</string>
+    <string name="selected_with_limit">%1$d/%2$d selected</string>
+    <string name="send_mail">Send mail…</string>
+    <string name="send_mail_failed">launch mail application failed</string>
+    <string name="settings_about">About</string>
+    <string name="settings_about_key">settings_about_key</string>
+    <string name="settings_activity_title">Settings</string>
+    <string name="settings_advanced">Advanced</string>
+    <string name="settings_advanced_key">settings_advanced_key</string>
+    <string name="settings_createshortcut_key">settings_createshortcut_key</string>
+    <string name="settings_donate">Donate</string>
+    <string name="settings_donate_key">settings_donate_key</string>
+    <string name="settings_menu_record_log">Record log</string>
+    <string name="settings_menu_send_log">Send log</string>
+    <string name="settings_others">Others</string>
+    <string name="settings_others_key">settings_others_key</string>
+    <string name="settings_rate_key">settings_rate_key</string>
+    <string name="settings_share_apk">Share</string>
+    <string name="settings_share_apk_key">settings_share_apk_key</string>
+    <string name="shortcut_attachment">Attachment</string>
+    <string name="shortcut_camera">Camera</string>
+    <string name="shortcut_chronicle">Chronicle</string>
+    <string name="shortcut_create_ok">Shortcuts have been created</string>
+    <string name="shortcut_long_attachment">Attachment</string>
+    <string name="shortcut_long_camera">Camera</string>
+    <string name="shortcut_long_chronicle">Chronicle</string>
+    <string name="shortcut_long_normal">Simple Note</string>
+    <string name="shortcut_normal">Simple Note</string>
+    <string name="shortcut_package">me.tshine.easymark</string>
+    <string name="snippet_editor_backup">Backup</string>
+    <string name="snippet_editor_create">Create</string>
+    <string name="snippet_editor_delete">Delete</string>
+    <string name="snippet_editor_name_hint">Name</string>
+    <string name="snippet_editor_offset_hint">Cursor offset</string>
+    <string name="snippet_editor_restore">Restore</string>
+    <string name="snippet_editor_restore_filechooser_title">Choose Snippets File</string>
+    <string name="snippet_editor_restore_ok">Restore successfully</string>
+    <string name="snippet_editor_save">Save</string>
+    <string name="snippet_editor_test">Test</string>
+    <string name="snippet_editor_text_hint">Snippet text</string>
+    <string name="snippet_editor_tips">"Choose or create a snippet please.
+Long press to adjust the position."</string>
+    <string name="snippet_editor_tips_name">"The name displayed on the toolbar, support **html**, but only support `base64` images such as this: 
+ 
+``` 
+&lt;Img src = 'base64 code'> 
+```"</string>
+    <string name="snippet_editor_tips_offset">"After the snippet is inserted, the offset position of the cursor. 
+ can be set by moving the cursor in the `code snippet input box`.
+
+-1 ：Insert to the beginning of the line"</string>
+    <string name="snippet_editor_tips_text">"The text that is inserted when clicked.
+
+Special text:
+Undo：`[undo]`
+Redo：`[redo]`"</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="str_accept">OK</string>
+    <string name="str_allow">Allow</string>
+    <string name="str_cancel">Cancel</string>
+    <string name="str_close">Close</string>
+    <string name="str_confirm">Confirm</string>
+    <string name="str_continue">Continue</string>
+    <string name="str_deny">Deny</string>
+    <string name="str_download">Download</string>
+    <string name="str_guide">Guide</string>
+    <string name="str_isee">I see</string>
+    <string name="str_loading">Loading……</string>
+    <string name="str_more">More</string>
+    <string name="str_open">Open</string>
+    <string name="str_retry">Retry</string>
+    <string name="str_search">Search</string>
+    <string name="str_send_log_file_text">Tell me what happened</string>
+    <string name="str_share">Share</string>
+    <string name="str_share_by_easymark">Sent by Easymark</string>
+    <string name="str_share_easymark">Share Easymark</string>
+    <string name="str_sorry">Sorry</string>
+    <string name="str_storage_root">Root</string>
+    <string name="str_thanks">Thank you!</string>
+    <string name="str_update">Update</string>
+    <string name="str_wait">Wait a moment</string>
+    <string name="str_warning">Warning</string>
+    <string name="str_warning_dont_ask_again">Do not ask again</string>
+    <string name="str_weather_cloudy">Cloudy</string>
+    <string name="str_weather_overcast">Overcast</string>
+    <string name="str_weather_rain">Rain</string>
+    <string name="str_weather_snow">Snow</string>
+    <string name="str_weather_sunny">Sunny</string>
+    <string name="str_weather_unknow">Unknown</string>
+    <string name="str_week0">Sunday</string>
+    <string name="str_week1">Monday</string>
+    <string name="str_week2">Tuesday</string>
+    <string name="str_week3">Wednesday</string>
+    <string name="str_week4">Thursday</string>
+    <string name="str_week5">Friday</string>
+    <string name="str_week6">Saturday</string>
+    <string name="sync_interval_time_1">Every minutes</string>
+    <string name="sync_interval_time_2">Every 5 minutes</string>
+    <string name="sync_interval_time_3">Every 15 minutes</string>
+    <string name="sync_interval_time_4">Every 30 minutes</string>
+    <string name="sync_interval_time_5">Every hour</string>
+    <string name="sync_interval_time_6">Every 2 hour</string>
+    <string name="sync_interval_time_7">Every 6 hour</string>
+    <string name="sync_interval_time_8">Every 12 hour</string>
+    <string name="sync_interval_time_9">Daily</string>
+    <string name="sync_mode_alway">Background resident</string>
+    <string name="sync_mode_never">Never automatically sync</string>
+    <string name="sync_mode_on_app_start">When the application starts</string>
+    <string name="sync_mode_on_entering_repo">When entering the repository</string>
+    <string name="title_folder">Folder</string>
+    <string name="title_permission_denied">Permission denied</string>
+    <string name="title_select_image">Tap to select images</string>
+    <string name="toast_already_have_lastest_version">You already have the lastest version of Easymark</string>
+    <string name="toast_can_not_open_url">Did not find an available application</string>
+    <string name="toast_cant_format_multiLine">Multiple lines cannot be operated</string>
+    <string name="toast_choose_repo">Please select the target location</string>
+    <string name="toast_download_note_max_length">"%s
+ Over size limit (500KB)
+ Skip download it"</string>
+    <string name="toast_dropbox_login_failed">Dropbox login failed</string>
+    <string name="toast_edit_title_illegal_character">"Note title that there are illegal characters, please modify!：
+  / : * ?  &lt; > | % # &amp; = "</string>
+    <string name="toast_edit_title_so_long">Note title length is too long (less than %d characters)</string>
+    <string name="toast_error_nohttpresponse">"Server failed to respond
+%s"</string>
+    <string name="toast_file_not_exist">"%s
+not exist"</string>
+    <string name="toast_filechooser_create_folder_failed">"Create folder %s failed
+May not have permission."</string>
+    <string name="toast_finger_failed">Fingerprint recognition failed</string>
+    <string name="toast_finger_not_match">Fingerprint does not match</string>
+    <string name="toast_incorrect_passcode">Incorrect passcode, Try again.</string>
+    <string name="toast_no_image_app">Could not start image app</string>
+    <string name="toast_no_repo_need_lock">There is no Repository need for encryption</string>
+    <string name="toast_no_sdcard">no sdcard</string>
+    <string name="toast_not_chosen">You have not chosen yet</string>
+    <string name="toast_note_edit_changes_discarded">Changes discarded</string>
+    <string name="toast_onemoreClickExit">Tap BACK button again to exit</string>
+    <string name="toast_pack_count_error">Merge must no less than 2 notes</string>
+    <string name="toast_pack_failed">Merge failed</string>
+    <string name="toast_pack_succeed">Merge successfully</string>
+    <string name="toast_passcode_confirm_not_match">Your confirmation passcode did not match,Please try again.</string>
+    <string name="toast_passcode_lock_activated">Passcode lock activated.</string>
+    <string name="toast_passcode_lock_deactivated">Passcode lock deactivated.</string>
+    <string name="toast_preview_style_css_not_exist">CSS file not exist!</string>
+    <string name="toast_privacy_retry_count">You can also try %d times</string>
+    <string name="toast_privacy_retry_wait" formatted="false">"You have reached the maximum allowable incorrect attenmpts.
+Wait for %d seconds
+Exceeding %d times will completely remove the repository from the local"</string>
+    <string name="toast_qq_not_found">QQ process is not detected，The QQ ground number has been copied to the clipboard</string>
+    <string name="toast_save_file_succeed">File save to Download</string>
+    <string name="toast_save_succeed">Image save to Download folder</string>
+    <string name="toast_select_lock_note">You have chosen a locked note</string>
+    <string name="toast_snippet_save_ok">Saved successfully</string>
+    <string name="toast_text_copy_ok">The selection has been collected to Easymark</string>
+    <string name="toast_url_copied">The link has been copied</string>
+    <string name="toast_webdav_select_root_path_warning">You choose the root directory, may not have read and write permissions.</string>
+    <string name="webdav_login_failed">"Login failed
+%s"</string>
+    <string name="webdav_login_illegal_input">Illegal input</string>
+    <string name="webdav_login_msg">It is recommended to log in to the WebDAV root directory</string>
+    <string name="webdav_login_password_hint">Password</string>
+    <string name="webdav_login_url_hint">WebDAV URL</string>
+    <string name="webdav_login_username_hint">User</string>
+    <string name="webdav_url_jianguoyun">https://dav.jianguoyun.com/dav/</string>
+</resources>

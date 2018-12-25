@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_like_button_liked">Liked</string>
+    <string name="com_facebook_like_button_not_liked">Like</string>
+    <string name="com_facebook_loading">Loading...</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_loginview_log_in_button">Log in</string>
+    <string name="com_facebook_loginview_log_in_button_long">Log in with Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="com_facebook_send_button_text">Send</string>
+    <string name="com_facebook_share_button_text">Share</string>
+    <string name="com_facebook_tooltip_default">"New! You're in control - choose what info you want to share with apps."</string>
+    <string name="common_android_wear_notification_needs_update_text">%1$s requires an update to the Android Wear app.</string>
+    <string name="common_android_wear_update_text">"%1$s won't run unless you update the Android Wear app."</string>
+    <string name="common_android_wear_update_title">Update Android Wear</string>
+    <string name="common_google_play_services_api_unavailable_text">%1$s requires one or more Google Play services that are not currently available. Please contact the developer for assistance.</string>
+    <string name="common_google_play_services_enable_button">Enable Google Play services</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Requested by %1$s</string>
+    <string name="common_google_play_services_install_button">Get Google Play services</string>
+    <string name="common_google_play_services_install_text_phone">"%1$s won't run without Google Play services, which are missing from your phone."</string>
+    <string name="common_google_play_services_install_text_tablet">"%1$s won't run without Google Play services, which are missing from your tablet."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
+    <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
+    <string name="common_google_play_services_needs_enabling_title">An application requires Google Play services to be enabled.</string>
+    <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
+    <string name="common_google_play_services_network_error_title">Network Error</string>
+    <string name="common_google_play_services_notification_needs_update_title">An application requires an update for Google Play services.</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_sign_in_failed_text">Error signing in the specified account. Please choose a different account.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Sign in failed</string>
+    <string name="common_google_play_services_unknown_issue">Unknown issue with Google Play services.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s relies on Google Play services, which is not supported by your device. Contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_updating_title">Google Play services are updating</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="messenger_send_button_text">Send</string>
+    <string name="wallet_buy_button_place_holder">Buy with Google</string>
+    <string name="com_kakao_account_cancel">Cancel</string>
+    <string name="com_kakao_alert_appKey">need to declare com.kakao.sdk.AppKey in your AndroidManifest.xml</string>
+    <string name="com_kakao_alert_install_kakaotalk">There is no installed KakaoTalk version higher than 4.2.0</string>
+    <string name="com_kakao_cancel_button">Cancel</string>
+    <string name="com_kakao_confirm_logout">Are you sure to log out from this app?</string>
+    <string name="com_kakao_confirm_unlink">Are you sure to unlink from this app?</string>
+    <string name="com_kakao_kakaostory_account">with KakaoStory</string>
+    <string name="com_kakao_kakaotalk_account">with KakaoTalk</string>
+    <string name="com_kakao_login_button">Log in with KakaoAccount</string>
+    <string name="com_kakao_logout_button">Log out</string>
+    <string name="com_kakao_ok_button">OK</string>
+    <string name="com_kakao_other_kakaoaccount">with another KakaoAccount</string>
+    <string name="com_kakao_profile_userId">Kakao User ID</string>
+    <string name="com_kakao_unlink_button">Unlink</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="accept">Accept</string>
+    <string name="alert_dialog_title">연식 선택</string>
+    <string name="app_email">admin@1000under.com</string>
+    <string name="app_name">천언더</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
+    <string name="auth_google_play_services_client_google_display_name">Google</string>
+    <string name="btn_abandon">회원탈퇴</string>
+    <string name="btn_cancel">취소</string>
+    <string name="btn_confirm">확인</string>
+    <string name="btn_deepSearch">상세검색</string>
+    <string name="btn_deepSearch_fuel">연료</string>
+    <string name="btn_deepSearch_gear">변속기</string>
+    <string name="btn_deepSearch_lacation">지역(시/도)</string>
+    <string name="btn_deepSearch_mileage_max">최대주행거리</string>
+    <string name="btn_deepSearch_mileage_min">최소주행거리</string>
+    <string name="btn_deepSearch_price_max">최대가격</string>
+    <string name="btn_deepSearch_price_min">최소가격</string>
+    <string name="btn_deepSearch_type_car">차량선택</string>
+    <string name="btn_deepSearch_type_default_model">전체</string>
+    <string name="btn_deepSearch_year_max">최대연식</string>
+    <string name="btn_deepSearch_year_min">최소연식</string>
+    <string name="btn_delete">삭제</string>
+    <string name="btn_done">완료</string>
+    <string name="btn_guide">직거래 가이드 보기</string>
+    <string name="btn_login">로그인</string>
+    <string name="btn_logout">로그아웃</string>
+    <string name="btn_pick_cars_guide">오늘만 날이야 가이드 보기</string>
+    <string name="btn_report">신고하기</string>
+    <string name="btn_search">검색</string>
+    <string name="btn_search_reset">검색 초기화</string>
+    <string name="btn_search_type1">전체</string>
+    <string name="btn_search_type2">소형</string>
+    <string name="btn_search_type3">중대형</string>
+    <string name="btn_search_type4">SUV</string>
+    <string name="btn_search_type5">수입차</string>
+    <string name="btn_sell">등록하기</string>
+    <string name="btn_selling_tip">3배 더 빠른 판매 노하우</string>
+    <string name="btn_send">비밀번호 재설정 메일 발송</string>
+    <string name="btn_signUp">회원가입</string>
+    <string name="cast_notification_connected_message">Connected to %1$s</string>
+    <string name="cast_notification_connecting_message">Connecting to %1$s</string>
+    <string name="cast_notification_disconnect">Disconnect</string>
+    <string name="com_kakao_profile_nickname">Nickname</string>
+    <string name="continue_button_text">계속진행</string>
+    <string name="core_com_kakao_sdk_loading">Loading…</string>
+    <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
+    <string name="create_calendar_title">Create calendar event</string>
+    <string name="decline">Decline</string>
+    <string name="demo_max_label">Max</string>
+    <string name="demo_min_label">Min</string>
+    <string name="error_abandon">회원탈퇴에 실패하였습니다</string>
+    <string name="error_account">정보를 불러오는데 실패하였습니다</string>
+    <string name="error_account_edit">정보를 변경하는데 실패하였습니다</string>
+    <string name="error_account_term">이용약관 주소를 불러오는데 실패하였습니다</string>
+    <string name="error_account_version">버전을 확인하는데 실패하였습니다</string>
+    <string name="error_account_version_link">업데이트 주소를 불러오는데 실패하였습니다</string>
+    <string name="error_account_version_new">최신버전을 사용중입니다</string>
+    <string name="error_call">전화걸기에 실패하였습니다</string>
+    <string name="error_cancel">취소되었습니다</string>
+    <string name="error_car">차량을 불러오는데 실패하였습니다</string>
+    <string name="error_carList_load">차량리스트를 불러오는데 실패하였습니다.</string>
+    <string name="error_carList_load_search">검색리스트를 불러오는데 실패하였습니다.</string>
+    <string name="error_carList_noData">등록된 차량이 없습니다</string>
+    <string name="error_carList_noData_search">검색된 차량이 없습니다</string>
+    <string name="error_change">변경에 실패하였습니다</string>
+    <string name="error_change_pw_sns">SNS계정으로 로그인한 계정입니다</string>
+    <string name="error_delete">삭제에 실패하였습니다</string>
+    <string name="error_email_abandon">탈퇴한 회원 이메일 입니다</string>
+    <string name="error_email_aready">이미 가입된 이메일입니다</string>
+    <string name="error_email_none">존재하지 않는 이메일 입니다</string>
+    <string name="error_email_send">이메일 전송에 실패하였습니다</string>
+    <string name="error_email_sns">SNS를 통해 가입된 이메일입니다</string>
+    <string name="error_escrow">안심결제 신청이 실패했습니다</string>
+    <string name="error_event_load">이벤트를 불러오는데 실패했습니다</string>
+    <string name="error_event_noData">등록된 이벤트가 없습니다</string>
+    <string name="error_form_email">아이디를 입력해주세요</string>
+    <string name="error_form_pw">비밀번호를 입력해주세요</string>
+    <string name="error_input">올바르게 입력해주세요</string>
+    <string name="error_input_all">모든 항목을 올바르게 입력해주세요</string>
+    <string name="error_input_car_number">차량등록번호를 올바르게 입력해주세요</string>
+    <string name="error_input_email">이메일을 올바르게 입력해주세요</string>
+    <string name="error_input_mileage">주행거리를 올바르게 입력해주세요</string>
+    <string name="error_input_phone">휴대폰번호를 올바르게 입력해주세요</string>
+    <string name="error_input_price">판매희망가격을 올바르게 입력해주세요</string>
+    <string name="error_input_pw">비밀번호가 일치하지 않습니다</string>
+    <string name="error_like">찜등록에 실패하였습니다</string>
+    <string name="error_like_already">이미 찜한 게시물입니다</string>
+    <string name="error_login">로그인에 실패하였습니다</string>
+    <string name="error_login_email">유효하지 않은 이메일입니다</string>
+    <string name="error_login_pw">유효하지 않은 비밀번호입니다</string>
+    <string name="error_not_for_sale">판매중인 게시물이 아닙니다</string>
+    <string name="error_notice_load">공지사항을 불러오는데 실패했습니다</string>
+    <string name="error_notice_noData">등록된 공지사항이 없습니다</string>
+    <string name="error_picture_load">사진을 불러오는데 실패하였습니다</string>
+    <string name="error_picture_save">사진을 저장하는데 실패하였습니다</string>
+    <string name="error_preparing">준비중입니다</string>
+    <string name="error_recommandcar">추천 차량을 불러오는데 실패하였습니다</string>
+    <string name="error_register">등록에 실패하였습니다</string>
+    <string name="error_register_car_input">모든 항목을 올바르게 입력해 주세요</string>
+    <string name="error_register_car_input_main_photo">필수이미지 7장을 모두 등록해주세요.</string>
+    <string name="error_register_car_input_price">1000만원 이하의 차량만 등록가능합니다.</string>
+    <string name="error_register_car_input_service_type">등록유형을 선택해 주세요</string>
+    <string name="error_register_car_input_sub_photo">서브이미지는 8장까지만 가능합니다.</string>
+    <string name="error_register_car_model">차량목록을 불러오는데 실패하였습니다</string>
+    <string name="error_register_edit">수정에 실패하였습니다</string>
+    <string name="error_register_edit_load_image">이미지 로드에 실패하였습니다</string>
+    <string name="error_report">게시물 신고에 실패하였습니다</string>
+    <string name="error_report_already">이미 신고처리된 게시물입니다</string>
+    <string name="error_restart">죄송합니다. 예상치 못한 오류가 발생하여 앱을 재시작합니다.</string>
+    <string name="error_send_email">이메일전송에 실패하였습니다</string>
+    <string name="error_send_text">문자전송에 실패하였습니다</string>
+    <string name="error_share">공유작업에 실패하였습니다</string>
+    <string name="error_signUp">가입에 실패하였습니다</string>
+    <string name="error_signUp_email">이미 가입된 이메일입니다</string>
+    <string name="error_soldout">판매완료된 게시물입니다</string>
+    <string name="error_unlike">찜해제에 실패하였습니다</string>
+    <string name="error_unlike_already">이미 찜을 취소한 게시물입니다</string>
+    <string name="error_webview">페이지를 불러오는데 실패하였습니다</string>
+    <string name="facebook_app_id">1470477586605072</string>
+    <string name="fileExtension_jpg">.jpg</string>
+    <string name="fileTag_dir">Under1000</string>
+    <string name="fileTag_picture">picture</string>
+    <string name="fileTag_resize">resize</string>
+    <string name="fileTag_tutorial">tutorial</string>
+    <string name="hint_car_additory_option">예) 리무진시트, 언더 및 유리막 코팅</string>
+    <string name="hint_car_repair">예) 앞뒤범퍼 기스</string>
+    <string name="hint_car_replacement">예) 엔진오일, 미션오일</string>
+    <string name="hint_email">예) 1000@Under.com</string>
+    <string name="hint_email_kakao">이메일을 입력해주세요.</string>
+    <string name="hint_memo">소개글을 자세히 적어주시면, 빠른판매에 도움이 됩니다</string>
+    <string name="hint_mileage">예) 130,000</string>
+    <string name="hint_model_level">예) LT 최고급형</string>
+    <string name="hint_no">예) 10가 1000</string>
+    <string name="hint_price">예) 1,000</string>
+    <string name="hint_report">신고사유를 입력해주세요</string>
+    <string name="hint_select">선택</string>
+    <string name="hint_year">예) 2014년 8월</string>
+    <string name="kakao_app_key">5213d6caacbf44e3748fa114ab5f47d7</string>
+    <string name="negative_button_text">취소</string>
+    <string name="positive_button_text">선택</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="store_picture_message">Allow Ad to store image in Picture gallery?</string>
+    <string name="store_picture_title">Save image</string>
+    <string name="tag_menu_notice">공지사항</string>
+    <string name="tag_sp">Under1000</string>
+    <string name="tag_sp_autoLogin">autoLogin</string>
+    <string name="tag_sp_deviceId">deviceId</string>
+    <string name="tag_sp_isLogined">isLogined</string>
+    <string name="tag_sp_pushPermission">pushPermission</string>
+    <string name="tag_sp_tutorialRead">tutorialRead</string>
+    <string name="tag_sp_userId">userId</string>
+    <string name="tag_sp_userName">userName</string>
+    <string name="tag_sp_userPhoto">userPhoto</string>
+    <string name="tag_sp_userPw">userPw</string>
+    <string name="tag_sp_userType">userType</string>
+    <string name="tag_view_link_key">key</string>
+    <string name="tag_view_link_type">type</string>
+    <string name="tag_view_link_url">url</string>
+    <string name="tag_xml_app">앱</string>
+    <string name="tag_xml_deeplink">딥링크</string>
+    <string name="tag_xml_event">이벤트</string>
+    <string name="tag_xml_inspection">검수</string>
+    <string name="tag_xml_inweb">내부</string>
+    <string name="tag_xml_none">없음</string>
+    <string name="tag_xml_notice">공지</string>
+    <string name="tag_xml_selling">판매중</string>
+    <string name="tag_xml_soldout">완료</string>
+    <string name="tag_xml_web">웹</string>
+    <string name="tag_xml_youtube">동영상</string>
+    <string name="text_CapitalExplain" formatted="false">천언더와 제휴된 대출 서비스를 이용하실 경우, 신용등급 영향 없이 한도조회가 가능하며, 최저 7.0% ~ 최대 16.9% 의 저렴한 금리로 중고차 대출을 이용하실 수 있습니다.</string>
+    <string name="text_Capital_button">중고차대출 알아보기</string>
+    <string name="text_Capital_title">대출금리계산</string>
+    <string name="text_HighExposure">상위노출 서비스란?</string>
+    <string name="text_HighexPosureExplain">"프리미엄 서비스는 최상단에 위치하게 됩니다.
+
+스페셜 서비스는 상단에 위치하게 됩니다."</string>
+    <string name="text_InsuranceExplain" formatted="false">"천언더와 제휴된 다이렉트 보험의 통합 비교 서비스를 이용 하실 경우, 일반 보험사의 자동차 보험을 이용 하실 때 보다 최저 10% ~ 최대 40.5% 의 저렴한 가격으로 자동차 보험을 이용하실 수 있습니다.
+
+예)일반보험료가 100만원일 경우
+
+다이렉트 보험의 보험료는 595,000 ~900,000원(자유로운 선택가능)
+
+운전경력,사고유무,특약 등에 따라 차이가 발생하며, 보험료 견적이 마음에 드시지 않는다면 이용하지 않으셔도 됩니다^^"</string>
+    <string name="text_Insurance_button">천언더통합보험 알아보기</string>
+    <string name="text_MuchService">얼마에요 서비스란?</string>
+    <string name="text_MuchserviceExplain">천언더가 합리적인 가격 판단과 딜러 판매가 대비 할인 금액을 안내하는 서비스입니다.</string>
+    <string name="text_PriceQuestion">왜 금액이 차이 나요?</string>
+    <string name="text_PriceQuestionExplain">"천언더를 통한 직거래는
+딜러의 높은 판매마진이 없기에
+
+첫째,차량가격 자체가 딜러대비
+평균 80~100만원 저렴하고
+
+둘째,딜러를 통한 거래시 추가로 발생하는
+평균 65만원 상당의 매도비,상사이전비,주차비 등이
+전혀 발생하지 않고
+
+셋째,취등록세도 절감되므로
+총 100~180만원 가량의 가격 혜택이 발생합니다
+
+천언더 제휴 다이렉트 보험과 할부를 이용하시면 더큰 가격
+혜택을 경험하실수도 있습니다!"</string>
+    <string name="text_Return">돌아가기</string>
+    <string name="text_SafetyPayment">안심결제 서비스란?</string>
+    <string name="text_SafetyPaymentExplain">"금융 피해를 방지하기 위해 천언더에 입금을 해주시면 구매자가 구매 확정 확인 후 판매자분께 즉시 입금해드리는 안전한 결제 시스템입니다.
+
+환불 보장, 예약 펑크 예방 등.. 피해를 방지하실 수 있습니다."</string>
+    <string name="text_Totalprice">Total비용:</string>
+    <string name="text_TrialVideo">시승 영상 서비스란?</string>
+    <string name="text_TrialVideoExplain">"천언더가 직접 판매자 분에게 가서 차량을 시승해 보고 테스트하는 과정의 영상을 차량 상세 페이지에 등록 해드리는 서비스 입니다.
+
+프리미엄 서비스만 해당 됩니다."</string>
+    <string name="text_VideoInfo">시승&amp;인터뷰 영상</string>
+    <string name="text_abandon">탈퇴되었습니다</string>
+    <string name="text_abandon_dialog">정말 탈퇴하시겠습니까?</string>
+    <string name="text_account">내 정보</string>
+    <string name="text_account_change">변경되었습니다</string>
+    <string name="text_account_change_PW">비밀번호 변경</string>
+    <string name="text_account_change_PW_current">현재의 비밀번호</string>
+    <string name="text_account_change_PW_new">변경할 비밀번호</string>
+    <string name="text_account_change_PW_re">비밀번호 재입력</string>
+    <string name="text_account_change_email">이메일 변경</string>
+    <string name="text_account_change_name">이름 변경</string>
+    <string name="text_account_push">알림상태</string>
+    <string name="text_account_push_able">알림을 받습니다</string>
+    <string name="text_account_push_incapable">알림을 받지 않습니다</string>
+    <string name="text_account_term">이용약관</string>
+    <string name="text_account_version">버전정보</string>
+    <string name="text_admob_banner">ca-app-pub-1356277852184985/7373694155</string>
+    <string name="text_admob_fullscreen">ca-app-pub-1356277852184985/7932097355</string>
+    <string name="text_admob_reserved">ca-app-pub-1356277852184985/7373694155</string>
+    <string name="text_auto_login">자동로그인</string>
+    <string name="text_banner_noData">배너정보가 없습니다</string>
+    <string name="text_being">있음</string>
+    <string name="text_blank" />
+    <string name="text_cal_insurance">보험료계산</string>
+    <string name="text_capital">대출 조회</string>
+    <string name="text_capital_bt">차량구입 시 대출도 가능하답니다</string>
+    <string name="text_car_info">차량 정보</string>
+    <string name="text_car_info_etc">기타 정보</string>
+    <string name="text_car_info_feulNgear">연료 | 변속기</string>
+    <string name="text_car_info_location">지역</string>
+    <string name="text_car_info_market_price">가격 비교</string>
+    <string name="text_car_info_mileage">주행거리</string>
+    <string name="text_car_info_no">차량번호</string>
+    <string name="text_car_info_option_as">제조사A/S</string>
+    <string name="text_car_info_option_dashcam">블랙박스</string>
+    <string name="text_car_info_option_heatseat">열선시트</string>
+    <string name="text_car_info_option_navigation">네비게이션</string>
+    <string name="text_car_info_option_rear_camera">후방카메라</string>
+    <string name="text_car_info_option_sensor">후방센서</string>
+    <string name="text_car_info_option_smartkey">스마트키</string>
+    <string name="text_car_info_option_sunroof">썬루프</string>
+    <string name="text_car_info_options">차량 옵션</string>
+    <string name="text_car_info_reg_date">등록일자</string>
+    <string name="text_car_info_sub">세부 정보</string>
+    <string name="text_car_info_sub_additory_option">추가옵션</string>
+    <string name="text_car_info_sub_model_level">차량등급</string>
+    <string name="text_car_info_sub_repair">정비내역</string>
+    <string name="text_car_info_sub_replacement">(소모품)교환내역</string>
+    <string name="text_car_info_summary">차량 개요</string>
+    <string name="text_car_info_type">차종</string>
+    <string name="text_car_info_year">연식</string>
+    <string name="text_car_introduce">내차 소개</string>
+    <string name="text_car_memo">내차 소개하기</string>
+    <string name="text_car_price">천언더 시세정보</string>
+    <string name="text_car_summary_accident">사고이력</string>
+    <string name="text_car_summary_seizure">저당</string>
+    <string name="text_car_summary_transfer_ownership">소유권이전</string>
+    <string name="text_car_video">시승인터뷰 영상</string>
+    <string name="text_carhistory">카히스토리조회</string>
+    <string name="text_carhistory_bt">혹시 사고난 차는 아닌지 확인해 보세요</string>
+    <string name="text_change_car_outoforder">판매완료로 변경하였습니다</string>
+    <string name="text_checkcheat">피해사례조회</string>
+    <string name="text_checkcheat_bt">사기피해 사례가 있는지도 알아보세요</string>
+    <string name="text_chosen_car_guide">천언더 가이드</string>
+    <string name="text_chosen_car_noData1">찜한 차량이 없습니다</string>
+    <string name="text_chosen_car_noData2">마음에 드는 차량을 찜해 보세요!</string>
+    <string name="text_count">회</string>
+    <string name="text_deep_search">상세검색</string>
+    <string name="text_desc_service_free_1">"기본적인 차량 등록 방법
+"</string>
+    <string name="text_desc_service_free_2">"등록/판매 수수료 무료
+"</string>
+    <string name="text_desc_service_free_title">일반 판매 등록</string>
+    <string name="text_desc_service_premium_1">"등록 수수료 무료(지방 제외)
+"</string>
+    <string name="text_desc_service_premium_2">"스페셜 판매 서비스 기본 제공
+"</string>
+    <string name="text_desc_service_premium_3">"차량 구매문의시 전담직원의
+직접 응대 및 가격 협의 대행
+"</string>
+    <string name="text_desc_service_premium_4">"앱 최상위 노출 및 SNS 광고 노출
+"</string>
+    <string name="text_desc_service_premium_5">"현장출장 및 모든 과정 천언더
+담당 직원의 대행 서비스 제공
+"</string>
+    <string name="text_desc_service_premium_6">"동영상 촬영 및 노출 서비스 제공
+"</string>
+    <string name="text_desc_service_premium_7">"거래완료시 수수료 25만원
+(500만원 이하 차량기준)"</string>
+    <string name="text_desc_service_premium_title">프리미엄 판매 등록(위탁판매 대행 서비스)</string>
+    <string name="text_desc_service_special_1">"등록수수료 무료
+
+서울,경기,인천,천안 지역은 
+이전시 현장지원 가능
+"</string>
+    <string name="text_desc_service_special_2">"적정판매가격 산정 및 딜러를 통한
+구입대비 할인가격 표시
+"</string>
+    <string name="text_desc_service_special_3">"금융거래 사고 예방 및
+예약펑크를 막아주는 안심거래 적용
+"</string>
+    <string name="text_desc_service_special_4">"앱 상위 노출(일반 등록보다 상위노출)
+"</string>
+    <string name="text_desc_service_special_5">"차량 등록원부, 카히스토리
+조회 내용 첨부
+"</string>
+    <string name="text_desc_service_special_6">"직거래시 서류 검토 서비스 제공
+"</string>
+    <string name="text_desc_service_special_7">"구매 문의자 분들에게 우선 추천
+"</string>
+    <string name="text_desc_service_special_8">"거래완료시 수수료 5만원
+(500만원 이하 차량기준)"</string>
+    <string name="text_desc_service_special_title">스페셜 판매 등록(추천 - 3배 더 빠른 거래 가능)</string>
+    <string name="text_desc_suggest_escrow1">혜택</string>
+    <string name="text_desc_suggest_escrow2">"• 관심차량의 가격정보를 48시간 동안 블라인드 해드립니다.
+(선호차량/선점효과)"</string>
+    <string name="text_desc_suggest_escrow3">"• 금융거래 사고 예방을 할 수 있습니다.
+천언더를 거쳐 모든결제가 안전하게 이뤄집니다."</string>
+    <string name="text_desc_suggest_escrow4">• 최종구매 시 3일간 환불보증을 해드립니다(소정의 수수료발생)</string>
+    <string name="text_desc_suggest_escrow5">"• 무료 보증금 3만원 입금 시 적용됩니다.
+(차량구경 예약 이행 시 100%환불) 예약펑크 시 미반환됩니다."</string>
+    <string name="text_desc_suggest_escrow6">신청방법</string>
+    <string name="text_desc_suggest_escrow7">• 천언더에 연락(AM9시 ~ PM10시)</string>
+    <string name="text_desc_suggest_escrow8">• 입금 후 카톡 옐로아이디 신청</string>
+    <string name="text_difference_about_price">약</string>
+    <string name="text_difference_price">만원 저렴</string>
+    <string name="text_difference_price_title">딜러를 통한 구매대비</string>
+    <string name="text_discount_price">만원 추가할인</string>
+    <string name="text_email_chooser">이메일로 문의하기</string>
+    <string name="text_email_extra">문의</string>
+    <string name="text_email_subject">천언더에서 본</string>
+    <string name="text_escrow_buy_car">차량구매</string>
+    <string name="text_escrow_look_car">차량구경</string>
+    <string name="text_escrow_request_ok">안심결제 신청이 완료되었습니다</string>
+    <string name="text_escrow_warranty">안심결제</string>
+    <string name="text_exit">한번 더 누르시면 종료됩니다</string>
+    <string name="text_filter_etc">기타</string>
+    <string name="text_filter_hot">인기순</string>
+    <string name="text_filter_lowPrice">낮은가격순</string>
+    <string name="text_filter_new">최신순</string>
+    <string name="text_go_update">업데이트하러가기</string>
+    <string name="text_if_soldout_or_not">"판매완료로
+변경하시겠습니까?"</string>
+    <string name="text_inspection">검수중입니다</string>
+    <string name="text_insurance">보험료 조회</string>
+    <string name="text_insurance_bt">이 차의 보험료가 궁금하세요?</string>
+    <string name="text_km">Km</string>
+    <string name="text_loading">준비중입니다</string>
+    <string name="text_location1">특별시/광역시/도</string>
+    <string name="text_location2">시/군/구</string>
+    <string name="text_login">로그인</string>
+    <string name="text_login_done">로그인 되었습니다</string>
+    <string name="text_login_email">이메일</string>
+    <string name="text_login_notice">로그인이 필요한 서비스입니다</string>
+    <string name="text_login_password">비밀번호</string>
+    <string name="text_maker">제조사</string>
+    <string name="text_menu">MENU</string>
+    <string name="text_model">모델</string>
+    <string name="text_name">이름</string>
+    <string name="text_need_kakao_email">먼저, 이메일을 등록해주세요</string>
+    <string name="text_new_version">업데이트 버전이 있습니다</string>
+    <string name="text_nochange_car_isselling">판매중 상태를 유지합니다</string>
+    <string name="text_none">없음</string>
+    <string name="text_phone">전화번호</string>
+    <string name="text_pick_car_noData">이벤트중인 차량이 없습니다</string>
+    <string name="text_pick_cars_guide">오늘만 날이야 가이드</string>
+    <string name="text_picture_album">앨범</string>
+    <string name="text_picture_camera">카메라</string>
+    <string name="text_picture_remove">사진삭제</string>
+    <string name="text_picture_type">사진선택</string>
+    <string name="text_price_warranty">가격보증</string>
+    <string name="text_principle">개인정보 취급방침 및 운영원칙</string>
+    <string name="text_principle_agree">개인정보 취급방침에 동의합니다</string>
+    <string name="text_quality_warranty">품질보증</string>
+    <string name="text_recommend_car_title">천언더 추천 목록</string>
+    <string name="text_refresh">새로고침</string>
+    <string name="text_register_car">내차등록</string>
+    <string name="text_register_car_edit">내차수정</string>
+    <string name="text_register_car_email">이메일</string>
+    <string name="text_register_car_fuel">연료(*)</string>
+    <string name="text_register_car_gear">변속기(*)</string>
+    <string name="text_register_car_location">지역(*)</string>
+    <string name="text_register_car_memo">내차소개하기(*)</string>
+    <string name="text_register_car_mileage">주행거리(*)</string>
+    <string name="text_register_car_model">차량선택(*)</string>
+    <string name="text_register_car_name">이름</string>
+    <string name="text_register_car_no">차량등록번호(*)</string>
+    <string name="text_register_car_noData1">등록된 차량이 없습니다</string>
+    <string name="text_register_car_noData2">차량을 등록해 주세요</string>
+    <string name="text_register_car_option">차량옵션</string>
+    <string name="text_register_car_phone">휴대폰(*)</string>
+    <string name="text_register_car_picture">사진등록(*)</string>
+    <string name="text_register_car_picture_max">추가사진은 8장까지 가능합니다</string>
+    <string name="text_register_car_price">판매희망가격(*)</string>
+    <string name="text_register_car_state">판매상태</string>
+    <string name="text_register_car_year">연식(*)</string>
+    <string name="text_register_delete">삭제하시겠습니까?</string>
+    <string name="text_register_delete_done">삭제되었습니다</string>
+    <string name="text_register_done">등록되었습니다</string>
+    <string name="text_register_edit">수정되었습니다</string>
+    <string name="text_register_guide">차량등록 가이드</string>
+    <string name="text_register_limit">현재 판매 차량등록은 두대까지만 가능합니다</string>
+    <string name="text_register_limit_phone">해당 전화번호로 등록된 차량이 두대 이상이면 등록이 불가능합니다</string>
+    <string name="text_register_notice">"천언더에 소중한 차를 올려주셔서 감사합니다 개인차량임을 확인하기 위해 검수절차가 진행중입니다
+ 검수기준에 부적합한 차량은 삭제처리 됩니다"</string>
+    <string name="text_registerday">등록일</string>
+    <string name="text_reissue">메일이 전송되었습니다</string>
+    <string name="text_reissue_PW">비밀번호 찾기</string>
+    <string name="text_reissue_notice">"회원가입시 입력한 이메일 주소를 입력해주세요
+비밀번호 재설정 메일을 발송해 드립니다"</string>
+    <string name="text_report">신고하기</string>
+    <string name="text_report1">판매완료</string>
+    <string name="text_report2">딜러차량</string>
+    <string name="text_report3">정보오류</string>
+    <string name="text_report4">허위차량</string>
+    <string name="text_report5">직접입력</string>
+    <string name="text_report_done">신고되었습니다</string>
+    <string name="text_retry">재시도</string>
+    <string name="text_roughly">약</string>
+    <string name="text_sale_for">거래대상</string>
+    <string name="text_sale_for_all">"개인 및 매입 딜러 모두 허용
+(조금 더 빠른 거래가 가능합니다)"</string>
+    <string name="text_sale_for_direct">개인 직거래만 허용</string>
+    <string name="text_search">차량검색</string>
+    <string name="text_search_extra_km">단위 : km</string>
+    <string name="text_search_extra_won">단위 : 만원</string>
+    <string name="text_search_extra_year">단위 : 년</string>
+    <string name="text_search_result">검색결과</string>
+    <string name="text_search_select">선택하기</string>
+    <string name="text_search_subject1">차량종류</string>
+    <string name="text_search_subject2">가격대</string>
+    <string name="text_search_subject3">주행거리</string>
+    <string name="text_search_subject4">연식</string>
+    <string name="text_select_insurance">보험회사선택</string>
+    <string name="text_select_service">등록 유형(*)</string>
+    <string name="text_selling_tip">3배 더 빠른 판매 노하우</string>
+    <string name="text_serarch_result_noData1">검색결과가 없습니다</string>
+    <string name="text_serarch_result_noData2">검색조건을 다시 선택해보세요!</string>
+    <string name="text_share">공유하기</string>
+    <string name="text_share_appStore">앱스토어 : https://goo.gl/uqbGQ4</string>
+    <string name="text_share_googlePlay">구글플레이 : https://goo.gl/95jlpX</string>
+    <string name="text_share_text">지금 천언더에서</string>
+    <string name="text_share_title">- 이젠 자동차도 직거래다!</string>
+    <string name="text_sharing_facebook">페이스북</string>
+    <string name="text_sharing_googlePlus">구글 플러스</string>
+    <string name="text_sharing_kakao">카카오톡</string>
+    <string name="text_sharing_mail">메일</string>
+    <string name="text_sharing_message">메세지</string>
+    <string name="text_signUp">회원가입</string>
+    <string name="text_signUp_PW">비밀번호</string>
+    <string name="text_signUp_dialog">입력하신 메일로 활성화 메일을 보냈습니다. 메일을 활성화시켜 주세요.</string>
+    <string name="text_signUp_done">가입되었습니다</string>
+    <string name="text_signUp_email">이메일</string>
+    <string name="text_signUp_name">이름</string>
+    <string name="text_signUp_rePW">비밀번호 확인</string>
+    <string name="text_sns">SNS계정으로 로그인</string>
+    <string name="text_soldout">판매완료</string>
+    <string name="text_sort_type">기타정렬방식</string>
+    <string name="text_sort_type_low_mileage">낮은주행거리</string>
+    <string name="text_sort_type_year">최신연식</string>
+    <string name="text_terms">이용약관</string>
+    <string name="text_terms_agree">이용약관에 동의합니다</string>
+    <string name="text_title_suggest_escrow">"천언더 구매자 안심결제를
+이용해 보는건 어떨까요?"</string>
+    <string name="text_title_suggest_escrow2">"해당 차량은 안심결제 차량이 아닙니다
+이 차가 맘에 드신다면?"</string>
+    <string name="text_top_of_list_warranty">상위노출</string>
+    <string name="text_total_sales_count">등록차량수</string>
+    <string name="text_total_soldout_count">판매완료수</string>
+    <string name="text_trading">거래중</string>
+    <string name="text_vertical_bar">|</string>
+    <string name="text_won">만원</string>
+    <string name="text_year">년형</string>
+    <string name="url_abandon">http://cjsekfvm.cafe24.com/server/app/member/html/html_member_leave.php</string>
+    <string name="url_account">http://cjsekfvm.cafe24.com/server/app/member/xml/xml_member.php</string>
+    <string name="url_account_edit">http://cjsekfvm.cafe24.com/server/app/member/html/html_member_modify.php</string>
+    <string name="url_analytics_board">http://cjsekfvm.cafe24.com/server/app/board/html/html_board_analytics.php</string>
+    <string name="url_analytics_sale">http://cjsekfvm.cafe24.com/server/app/market/html/html_sale_analytics.php</string>
+    <string name="url_banner">http://cjsekfvm.cafe24.com/server/app/board/xml/xml_board_banner.php</string>
+    <string name="url_car">http://cjsekfvm.cafe24.com/server/app/market/xml/xml_sale_detail.php</string>
+    <string name="url_car_delete">http://cjsekfvm.cafe24.com/server/app/market/html/html_sale_delete.php</string>
+    <string name="url_car_edit">http://cjsekfvm.cafe24.com/server/app/market/html/html_sale_modify.php</string>
+    <string name="url_car_list">http://cjsekfvm.cafe24.com/server/app/market/xml/xml_sale.php</string>
+    <string name="url_car_model">http://cjsekfvm.cafe24.com/server/app/car/xml/xml_car.php</string>
+    <string name="url_car_register">http://cjsekfvm.cafe24.com/server/app/market/html/html_sale.php</string>
+    <string name="url_car_selling">http://cjsekfvm.cafe24.com/server/app/market/xml/xml_sale_me.php</string>
+    <string name="url_deal_guide">http://cjsekfvm.cafe24.com/mobile/guide/guide.php?key=2</string>
+    <string name="url_event">http://cjsekfvm.cafe24.com/server/app/board/xml/xml_board_event.php</string>
+    <string name="url_like">http://cjsekfvm.cafe24.com/server/app/market/html/html_sale_favorite.php</string>
+    <string name="url_like_list">http://cjsekfvm.cafe24.com/server/app/market/xml/xml_sale_favorite.php</string>
+    <string name="url_login_guest">http://cjsekfvm.cafe24.com/server/app/member/html/html_guest.php</string>
+    <string name="url_login_user">http://cjsekfvm.cafe24.com/server/app/member/html/html_member_login.php</string>
+    <string name="url_notice">http://cjsekfvm.cafe24.com/server/app/board/xml/xml_board_notice.php</string>
+    <string name="url_online_menu">http://cjsekfvm.cafe24.com/server/app/board/xml/xml_board_menu.php</string>
+    <string name="url_pick_cars_guide">http://cjsekfvm.cafe24.com/mobile/guide/guide.php?key=4</string>
+    <string name="url_popup_notice">http://cjsekfvm.cafe24.com/server/app/board/xml/xml_board_popup.php</string>
+    <string name="url_register_email_for_kakao">http://cjsekfvm.cafe24.com/server/app/member/html/html_member_kakao.php</string>
+    <string name="url_register_guide">http://cjsekfvm.cafe24.com/mobile/guide/guide.php?key=1</string>
+    <string name="url_reissue">http://cjsekfvm.cafe24.com/server/app/member/html/html_member_find.php</string>
+    <string name="url_report">http://cjsekfvm.cafe24.com/server/app/market/html/html_sale_report.php</string>
+    <string name="url_selling_guide">http://cjsekfvm.cafe24.com/mobile/guide/guide.php?key=3</string>
+    <string name="url_signUp">http://cjsekfvm.cafe24.com/server/app/member/html/html_member_join.php</string>
+    <string name="url_term1">http://cjsekfvm.cafe24.com/mobile/terms/terms.php?type=1</string>
+    <string name="url_term2">http://cjsekfvm.cafe24.com/mobile/terms/terms.php?type=2</string>
+    <string name="url_unread">http://cjsekfvm.cafe24.com/server/app/board/xml/xml_board_noread.php</string>
+    <string name="url_version">http://cjsekfvm.cafe24.com/server/app/version/xml/xml_version.php</string>
+</resources>

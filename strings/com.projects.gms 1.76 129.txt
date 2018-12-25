@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_install_text_phone">"This app won't run without Google Play services, which are missing from your phone."</string>
+    <string name="common_google_play_services_install_text_tablet">"This app won't run without Google Play services, which are missing from your tablet."</string>
+    <string name="common_google_play_services_install_button">Get Google Play services</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_enable_text">"This app won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_button">Enable Google Play services</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_update_text">"This app won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_network_error_title">Network Error</string>
+    <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
+    <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
+    <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
+    <string name="common_google_play_services_unknown_issue">Unknown issue with Google Play services.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string name="common_google_play_services_unsupported_text">Google Play services, which some of your applications rely on, is not supported by your device. Please contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_date_text">The date on the device appears to be incorrect. Please check the date on the device.</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="auth_client_using_bad_version_title">An application attempted to use a bad version of Google Play Services.</string>
+    <string name="auth_client_needs_enabling_title">An application requires Google Play Services to be enabled.</string>
+    <string name="auth_client_needs_installation_title">An application requires installation of Google Play Services.</string>
+    <string name="auth_client_needs_update_title">An application requires an update for Google Play Services.</string>
+    <string name="auth_client_play_services_err_notification_msg">Google Play services error</string>
+    <string name="auth_client_requested_by_msg">Requested by %1$s</string>
+    <string name="location_client_powered_by_google">Powered by Google</string>
+    <string name="app_name">GMS</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="hello">Hello World, CaptureSignatureActivity!</string>
+    <string name="external_dir">GetSignature</string>
+    <string name="btnalert">Control Center</string>
+    <string name="lock">Unlock</string>
+    <string name="noMissions">There are no assigned tasks</string>
+    <string name="panicinfo">"Panic button: Emergency message will be sent to management system and to all security personnel in shift, the message will include the geographic location of the user and a call will be made to the defined emergency number 
+ 
+ Send location button: designed for security personnel. Message sent to the administrator's position includes the details and location of the user. Operation must enter a password 
+ 
+ button messaging: you can send a message along with a picture to the position of administrator. The message will include the location of the sender 
+"</string>
+    <string name="locSent">Location was sent</string>
+    <string name="missingSupply">Safety Terms Signature</string>
+    <string name="EquipmentLocation">מיקום הציוד בארגון</string>
+    <string name="ProviderName">שם הספק של הציוד</string>
+    <string name="EquipmentName">סוג פריט</string>
+    <string name="Serial">מספר סריאלי של הציוד</string>
+    <string name="HaveValidTest">נערכה בדיקה לפריט ציוד</string>
+    <string name="LastTest">תאריך בדיקה אחרונה</string>
+    <string name="LastTestRemark">הערות בדיקה אחרונה</string>
+    <string name="route">Route</string>
+    <string name="categories">Categories</string>
+    <string name="dial">Dial</string>
+    <string name="timerHeadline">Reports</string>
+    <string name="reptEntrance">Reported Entrance at:</string>
+    <string name="reptExit">Reported Exit at:</string>
+    <string name="minutesPicker">Minutes</string>
+    <string name="hoursPicker">Hours</string>
+    <string name="Timertxtpass">Enter code to cancel alarm</string>
+    <string name="approve">Continue</string>
+    <string name="btnTimer">Start</string>
+    <string name="gyroHeadline">On-Gyro</string>
+    <string name="securityonly">To security staff</string>
+    <string name="btnGyro">Gyro button</string>
+    <string name="btnBack">Cancel</string>
+    <string name="gyrotxtPass">Gyro mode is active, enter your password to cancel</string>
+    <string name="gettingLocation">Getting your location</string>
+    <string name="sendingAlarm">Sending Alarm</string>
+    <string name="qrHeadline">Scanner</string>
+    <string name="btnscanpoint">Scan-point Scanner</string>
+    <string name="btnscanvisitor">Visitors Scanner</string>
+    <string name="msgHeadline">Messages</string>
+    <string name="personalHeadline">Personal Messages</string>
+    <string name="alarmHeadline">Alarm details</string>
+    <string name="btnNav">Navigate</string>
+    <string name="alertDate">Alarm time</string>
+    <string name="alarmHolderNames">Operator Name</string>
+    <string name="alarmMAddress">Main address</string>
+    <string name="alarmSAddress">Secondary address</string>
+    <string name="loadingAlarm">Loading Message</string>
+    <string name="requestLocation">Location request sent</string>
+    <string name="newMessageHeadline">Compose</string>
+    <string name="addlocation">Add Location</string>
+    <string name="send">Send</string>
+    <string name="album">Album</string>
+    <string name="camera">Camera</string>
+    <string name="nearme">Near Me</string>
+    <string name="visitorsHeadline">Visitors</string>
+    <string name="visitorDetailsHeadline">Invite visitor</string>
+    <string name="btnsave">Save</string>
+    <string name="meetingHeadline">Meeting title</string>
+    <string name="visitorName">* Visitor full name</string>
+    <string name="visitorPhone">visitor Cell Phone Number</string>
+    <string name="visitorIdNum">* ID number</string>
+    <string name="carnum">Car plate number</string>
+    <string name="vdest">Visitor Destination</string>
+    <string name="timeMeeting">* Schedule meeting</string>
+    <string name="remarks">Notes</string>
+    <string name="emerDisplay">Check if your visitor will visit a sensitive area in the facility</string>
+    <string name="sendngo">Save and Send</string>
+    <string name="settingsHeadline">Settings</string>
+    <string name="settingsUserDetails">User Information</string>
+    <string name="settingsDisconnect">Disconnect</string>
+    <string name="userDetailsHeadline">User Information</string>
+    <string name="txtFName">First Name</string>
+    <string name="txtLName">Last Name</string>
+    <string name="txtPhone">Phone</string>
+    <string name="txtID">ID</string>
+    <string name="address">Address</string>
+    <string name="txtMAddress">Primary</string>
+    <string name="txtSAddress">Secondary</string>
+    <string name="txtCEmerPhone">Emergency Contact phone number</string>
+    <string name="txtMedicine">Taking the following medicines</string>
+    <string name="txtOrgEmerPhone">"The organization's emergency number"</string>
+    <string name="btnImage">Add Picture</string>
+    <string name="letDisplay">I authorize to present this data to the system manager in an emergency case</string>
+    <string name="letLocation">Follow me</string>
+    <string name="loginHeadline">Login</string>
+    <string name="loginUsername">E -mail address</string>
+    <string name="loginPassword">Password</string>
+    <string name="orgCode">Organization linker code</string>
+    <string name="login">Sign In</string>
+    <string name="loginingin">Connecting</string>
+    <string name="MMlogin">Login</string>
+    <string name="MMregister">Signup</string>
+    <string name="MDheadline">Invitation Details</string>
+    <string name="tagnum">Badge Number</string>
+    <string name="signature">Signing up</string>
+    <string name="numVisits">Previous visits:</string>
+    <string name="approveEntry">Approve entry</string>
+    <string name="visitorExit">Exit</string>
+    <string name="MDvisitorName">Visitor full name</string>
+    <string name="MDvisitorPhone">visitor Cell Phone Number</string>
+    <string name="MDvisitorIdNum">ID number</string>
+    <string name="registerHeadline">Signup</string>
+    <string name="pass2">Repeat Password</string>
+    <string name="MSGDHeadline">Messages</string>
+    <string name="readApprove">Send Approval</string>
+    <string name="readTerms">Terms of Use</string>
+    <string name="termsMsg">"By using this application, you agree to 
+ GMS terms of use."</string>
+    <string name="acceptnContinue">Accept and Continue</string>
+    <string name="disagreenClose">Close</string>
+    <string name="thanks">Thank You</string>
+    <string name="terms">"Terms of Use – GMS Application
+
+ 1. “GMS” service is an application provided by GMS APP Ltd. (henceforth: the “Company”). This app makes use of mobile device location as registered by the Global Positioning System (GPS), transmitted by mobile systems to the Company system. The app is designed for smart mobile devices using only Apple and Android operating systems.
+ 2. The Terms of Use, as specified in the following, are a binding contract between you and the Company. Any use of this app constitutes your full agreement with the terms and conditions detailed here. If you do not agree to these terms, in full or in part, please do not begin using (or continue using) this app service. 
+ 3. The Company retains the right to change any terms and/or conditions of use and will notify of any such changes 30 days in advance. During this warning period, you can decide to agree to the changes. If you do not agree, no further use of the app will be permissible. Continued use of the app after said changes constitutes full agreement with the terms and conditions set forth by the Company.
+ 4. You have been notified that use of this app is conditioned on receiving satellite navigation signals of your location by your mobile service provider and additional third parties, all of which are not in the control or the responsibility of the Company. 
+ 5. The Company retains exclusive rights to make changes to the app, including content and information presented to users, duration of presentation, design and layout, and any issue relating to these.
+ 6. The Company may briefly stop providing services from time to time for maintenance, problem solving, upgrades, changes and improvement purposes. 
+ 7. The app is designed as an “As Is” service, and therefore cannot be tailored to suit the individual needs of each user. You agree that you have tested the product in advance and found it suitable to your needs and requirements. You will not have future claim, grievance, requirement or demand of the Company regarding service parameters, content, capabilities, limitations or suitability to your individual needs. Use of the app is in your complete responsibility, and the Company is not liable for any damage caused as a result of using this app or any disturbances to service.
+ 8. You are aware that a significant part of this service is LBS (location-based service) using GPS technology, and cannot be provided without your explicit agreement to be located by GPS. Therefore, lack of agreement for location may prevent receiving Company services. 
+ 9. Due to the complexity of this app, its reliance on GPS provided by third parties, and your dependence on mobile and internet service providers, the Company is not responsible for the quality of service, stability of service, measure of availability, precision of location or map content, and any relevant parameters of quality control. Therefore, the Company cannot guarantee that GMS app services remain uninterrupted, without pauses or delays, disruptions or errors, and is not responsible for any damage resulting from use of the app.
+ 10. Use of GMS app, whether in Israel or abroad, in any matter or issue relating to this service, will be subject to the laws of the State of Israel. 
+"</string>
+    <string name="gyroinfo">This function provides emergency operation by tilting the device to an angle below 30 degrees. In this mode the device will vibrate alerting the user to tilt the device back to a vertical position. In the case where the device was in this position for 5 seconds continuously a message will be sent to the director of security. Alert will include the details and location of the user also an emergency call will be made to the defined emergency number. Note: when you tilt the device to horizontal angle, password must be entered to cancel</string>
+    <string name="qrinfo">Barcode scanner allows the scanning of barcode labels defined by administrator. By clicking on the barcode scanner the camera screen opens. The camera must be set to the Barcode. The scanner reads the barcode and sends the scan report includes information and user location</string>
+    <string name="sendingData">Sending Data</string>
+    <string name="loadingData">Loading Data</string>
+    <string name="loadingMsg">Loading Messages</string>
+    <string name="selectCellNum">Select cell phone</string>
+    <string name="updatingVisit">Updating meeting</string>
+    <string name="SendingMsg">Sending</string>
+    <string name="MsgSent">Message sent successfully</string>
+    <string name="missionEnded">Mission completion has been reported</string>
+    <string name="fillFields">Please fill in all fields</string>
+    <string name="passSame">Enter the same password for both fields</string>
+    <string name="signingup">Signing up</string>
+    <string name="linkRequestSent">Link request sent</string>
+    <string name="disconnectUser">Disconnecting User</string>
+    <string name="seconds">Seconds</string>
+    <string name="remTime">Remaining Time:</string>
+    <string name="enterUserPass">Enter User Password</string>
+    <string name="accept">Accept</string>
+    <string name="wrongPass">Incorrect password</string>
+    <string name="saveData">Saving Data</string>
+    <string name="removePic">Remove Picture</string>
+    <string name="procPic">Processing image</string>
+    <string name="addPic">Add Picture</string>
+    <string name="delMeeting">Deleting Meeting</string>
+    <string name="ruSure">Are you sure?</string>
+    <string name="userSigAccept">Visitor approved by his signature that he had read and understood the facility regulations</string>
+    <string name="deleteSig">Delete</string>
+    <string name="endSig">End</string>
+    <string name="selMsg">Select Message</string>
+    <string name="qrSMS1">You have been invited to a meeting by</string>
+    <string name="qrSMS2">scheduled to</string>
+    <string name="qrSMS3">Please show the barcode in the attached link to the security personnel at your arrival</string>
+    <string name="loadMore">Load More</string>
+    <string name="tStarts">Starts</string>
+    <string name="tEnds">Ends</string>
+    <string name="setDate">Set Date</string>
+    <string name="setTime">Set Time</string>
+    <string name="minTime">Minimum time schedule: 15 minutes</string>
+    <string name="timerinfo">This screen allows you to set an alarm to activate at a scheduling system administrator if you have not reached your destination. Set your estimated arrival time. You can also set the destination address. When you start alarm system administrator will receive the points of departure and destination of the alarm activates and the last location. Notes: You can cancel the schedule by entering the user password at any time. Friendly reminder starts 2 minutes before the time of the cancellation schedule. The application should be left open</string>
+    <string name="inviterDetails">Inviter Details:</string>
+    <string name="sensitiveVisitor">This visitor should visit a sensitive area in the facility. Please wait for your security officer instructions before approving his entry</string>
+    <string name="exitSaved">Exit saved</string>
+    <string name="meetingTimePassed">Invalid Meeting Time</string>
+    <string name="alarmsms">I am in distress in this address</string>
+    <string name="alarmsms2">Please contact me or click the link to navigate to where I am</string>
+    <string name="carAllowed">Is car entrance allowed</string>
+    <string name="main">Main</string>
+    <string name="txtRole">Role</string>
+    <string name="txtHair">Hair Color</string>
+    <string name="txtHeight">Height</string>
+    <string name="txtEye">Eye Color</string>
+    <string name="inbox">Inbox</string>
+    <string name="outbox">Outbox</string>
+    <string name="preset">Preset</string>
+    <string name="scanequip">Scan Equipment</string>
+    <string name="startrep">Start Time Reporting</string>
+    <string name="endrep">End Time Reporting</string>
+    <string name="perexp1">Entry permission has expired</string>
+    <string name="perexp2">to let in nevertheless</string>
+    <string name="enterSms">Enter Alarm SMS:</string>
+    <string name="SupplySign">"הוראות ביטחון ובטיחות לעובד קבלן ועובד כא במתקן
+      
+
+אני החתום מטה, מצהיר כי קראתי האמור בטופס זה וקיבלתי הדרכה בנוגע להוראות הביטחון והבטיחות במתקן ואני מתחייב לפעול על פיהן.
+
+
+הוראות ביטחון ואבטחת מידע:
+
+
+1.הכניסה מהשער הראשי בלבד (הולכי רגל מהפשפש בלבד). הכניסה ברכב מותרת לבעלי הרשאה בלבד.  על כל עובד קבלן / כא להציג באופן אישי בפני המאבטחים ברקוד או תעודה מזהה. כל אדם אחר המבקש ממך להכניסו למתקן יש להפנותו למאבטחים בשער. 
+ 2.אסור להוציא ללא אישור חתום ציוד, סחורה, מוצרי קידום מכירות, מסמכים וכד משטח המתקן. חובה על העובד להציג לבדיקה את התיק האישי או את רכבו לרבות ארגזי כלים וכד. 
+ 3.שתיה/אכילה ממוצרי החברה מותרת רק ממקררים ונקודות השתייה מאושרות בשטח המתקן בלבד. אסור לצאת עם שתייה מחוץ לשטח המתקן, גם עם הבקבוק / פחית פתוחים. 
+ 4.אכילה ושתייה חמה מותרת אך ורק בחדר האוכל או בנקודה שהוקצתה לכך עי מנהל התפעול.
+
+
+5.הכנסת כלי ירייה מותרת רק בצמוד להצגת רישיון להחזקת כלי ירייה ובאישור ביטחון.
+
+
+6.אסור בשום פנים ואופן לשתות אלכוהול (כולל בירה) במהלך העבודה.
+
+
+7.אסור לצלם בשטח המרחב ללא אישור הביטחון כולל צילום באמצעות פלאפונים וכד .
+
+
+8.יש להישמע בכל עת להנחיות המאבטחים ועובדי הביטחון במתקן.
+
+ \u0009           
+9.אסור לחבר כל  מחשב נייד / זיכרון נשלף / דיסק, וכד  למחשב או לרשת התקשורת של החברה. 
+
+
+הוראות בטיחות:
+
+
+1.אסור להתחיל עבודה במתקן מבלי שעובדי הקבלן קיבלו הדרכות בטיחות מטעם החברה הקבלנית 
+המבצעת את העבודה באתר.
+
+
+2.חובה על הקבלן לספק וחובה על העובד להשתמש בציוד מגן אישי (נעלי בטיחות, קסדות, משקפי מגן, כפפות, סולמות, רתמות וציוד עבודה בגובה), בכל זמן העבודה ובכל השהות באזורים התפעוליים.
+
+
+3.\u0009אסור לנהוג על כלי רכב תפעולים של החברה לרבות מלגזות ממונעות או חשמליות, גם אם לעובד יש רישיון לכלי, אלא אם קיבל הדרכה והסמכה מהגורמים המוסמכים לכך.
+
+
+4.\u0009בדוק תקינות של כלי עבודה חשמליים ומטלטלים לפני הכנסתם לעבודה. יש לעשות שימוש בכבל מאריך תקני בלבד. חל איסור מוחלט לבצע עבודות או תיקוני חשמל מכל סוג שהוא, אלא אם העובד הינו בעל תעודת חשמלאי מוסמך ואושר עי ממונה הבטיחות של האתר לבצע עבודות חשמל באתר. 
+ 5. בכל מקרה של הכנסת מכונות הרמה ואביזרי הרמה (במת עבודה, מנופים וסלי הרמה) יש להציג בפני עובדי הביטחון או הבטיחות של החברה תסקיר תקף של הכלי, ביטוח, אישור מפעיל ואישור עבודה בגובה של עובדי הקבלן. 
+ 6. בכל עבודת בניה, עבודה בגובה או עבודה שקיים בה סיכון לאנשים בסמוך, חובה על הקבלן לגדר את סביבת העבודה ולהציב שילוט אזהרה מתאים. 
+ 7. באזור חדש בו לא עבדת בעבר, חובה עליך לקבל ממנהל במחלקה תדריך בטיחות לגבי הסיכונים המיוחדים בעבודה באזור זה לרבות: מצבי חירום, פתחי מילוט, מפסקי חירום ציוד כיבוי וכד. 
+ 8. אסור להכניס צבעים, מדללים או חומרים דליקים (נפט, אצטון, בנזין), כימיקלים וכן חומרים שאין להם אישורים מתאימים לשטח מחסני התוצרת. אסור לאחסן חומרים אלו בבקבוקי פלסטיק או מכליי משקה אחרים אלא באריזה המקורית בלבד ! 
+ 9. עבור כל עבודה חמה (אש, ריתוך, השחזה וכד) העלולות לגרום לדליקה יש לקבל אישור עבודה מיוחד מממונה הבטיחות של המתקן. 
+ 10. בכל עבודה בתחנות דלק ומערכות אמוניה, חובה לבצע סקר סיכונים עם ממונה הבטיחות לפני תחילת העבודה ולהגיש תכנית עבודה כולל אמצעי מיגון ומניעת מפגעים."</string>
+    <string name="startMission">Task Start Reporting</string>
+    <string name="endMission">Task End Reporting</string>
+    <string name="getPresetReports">Reports</string>
+    <string name="logistics">Logistic Task</string>
+    <string name="missionDesc">Are there any comments about the task ?</string>
+    <string name="all">All</string>
+    <string name="gate">Gate Open</string>
+    <string name="phonebook">Phonebook</string>
+    <string name="noremarks">No comments</string>
+    <string name="site">Site</string>
+</resources>

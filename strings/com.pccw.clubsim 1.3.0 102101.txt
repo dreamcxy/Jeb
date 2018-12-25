@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="SA998">Request cancel. (SA998)</string>
+    <string name="SA999">Unknown error. (SA999)</string>
+    <string name="SM100">Payment authentication fail. (SM101)</string>
+    <string name="SM101">Payment authentication fail. (SM101)</string>
+    <string name="SM102">Payment authentication fail. (SM102)</string>
+    <string name="SM103">The device time is not allow for payment. (SM103)</string>
+    <string name="SM999">Unknown error. (SM999)</string>
+    <string name="SP999">Unknown error. (SP999)</string>
+    <string name="SS100">Merchant enter APP ID format incorrect. (SS100)</string>
+    <string name="SS101">Merchant enter API Key format incorrect. (SS101)</string>
+    <string name="SS102">Merchant enter Public Key format incorrect. (SS102)</string>
+    <string name="SS103">Merchant enter Merchant trade number format incorrect. (SS103)</string>
+    <string name="SS104">Merchant enter Total price format incorrect. (SS104)</string>
+    <string name="SS105">Merchant enter Currency format incorrect. (SS105)</string>
+    <string name="SS106">Merchant enter Remark format incorrect. (SS106)</string>
+    <string name="SS107">Merchant enter Payment type format incorrect. (SS107)</string>
+    <string name="SS108">Merchant enter Extra format incorrect. (SS108)</string>
+    <string name="SS109">Merchant enter Notify URL format incorrect. (SS109)</string>
+    <string name="SS200">SDK Cannot find TapNGo App or the TapNGo APP does not support mercahnt payment. (SS200)</string>
+    <string name="SS300">Payment result error. (SS300)</string>
+    <string name="SS301">Payment result error. (SS301)</string>
+    <string name="SS400">Request timeout. (SS400)</string>
+    <string name="SS500">Payment not set. (SS500)</string>
+    <string name="SS999">Unknown error. (SS999)</string>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="about_url">http://www.clubsim.com.hk/clsmw/pages/tnc/android_app_tnc_e.html</string>
+    <string name="activation_activateBtn">Activate</string>
+    <string name="activation_activate_empty">Invalid Mobile Number</string>
+    <string name="activation_active_sim_header">Activate</string>
+    <string name="activation_active_sim_text">"You have non-activated your SIM
+Click here to activate"</string>
+    <string name="activation_enter_sim">Enter your mobile number to activate Club SIM services</string>
+    <string name="activation_laterBtn">Later</string>
+    <string name="activation_loginid_title">Login ID:</string>
+    <string name="activation_mrt">Mobile Number:</string>
+    <string name="activation_nosim_get_the_sim_header">Apply</string>
+    <string name="activation_nosim_get_the_sim_text">Click here to apply now!</string>
+    <string name="activation_result_fail">"Sorry!
+Mobile Number: xx cannot be activated"</string>
+    <string name="activation_result_success">Your Club SIM is activated</string>
+    <string name="activation_result_success_start">Start</string>
+    <string name="activation_subtitle">You have a Club SIM, the most prestigious SIM on the planet.</string>
+    <string name="activation_title">Congratulations!</string>
+    <string name="activation_via_mobile_title">Input Mobile no.</string>
+    <string name="activation_via_scanner_title">Scan QR code</string>
+    <string name="activation_via_title">Activate via</string>
+    <string name="app_name">Club SIM</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="barcode_error_format">Error reading barcode: %1$s</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="buyBtn_with_no_validity_text">Buy</string>
+    <string name="buyBtn_with_validity_text">"Buy
+"<small>Valid for xx days</small></string>
+    <string name="buyBtn_with_validity_text_inMonth">"Buy
+"<small>Valid for xx Month</small></string>
+    <string name="camera_address2_desc">This step only supports address proof. If you submit non-address proof image/ fake image/ unclear image, it will be rejected after verification.</string>
+    <string name="camera_address_desc">Please capture your address proof here</string>
+    <string name="camera_desc_blue_tier">"Please upload your HKID/Passport/Macau ID/ China ID &amp; address proof for verification. If you don't upload them within 30 days, you may not available to purchase any packs anymore."</string>
+    <string name="camera_desc_blue_tier_starter">"Please upload your address proof for verification.
+If you don't upload them within 30 days, you may not available to purchase any packs anymore."</string>
+    <string name="camera_id2_desc">This step only supports HKID/ Passport /Macau ID/ China ID . If you submit non-ID image/ fake image/ unclear image, it will be rejected after verification.</string>
+    <string name="camera_id_desc">Please capture your HKID/ Passport/Macau ID/ China ID here</string>
+    <string name="camera_miss_address_menu_desc">"Please upload your address proof for verification.
+If you don't upload them within 30 days, you may not available to purchase any packs anymore."</string>
+    <string name="camera_miss_both_menu_desc">"Please upload your HKID/Passport/Macau ID/ China ID &amp; address proof for verification.
+If you don"</string>
+    <string name="camera_miss_id_menu_desc">"Please upload your HKID/Passport/Macau ID/ China ID.
+If you don't upload them within 30 days, you may not available to purchase any packs anymore."</string>
+    <string name="camera_retake_btn">Rescan</string>
+    <string name="camera_title">To continue using Club SIM</string>
+    <string name="camera_update_address">Upload address proof</string>
+    <string name="camera_upload_btn">Submit</string>
+    <string name="camera_upload_hkid">Upload ID</string>
+    <string name="camera_upload_success_desc">Your upload is successful and it takes several days for verification.</string>
+    <string name="camera_upload_success_title">Thank you for your upload.</string>
+    <string name="ceks_turn_no_card_message">Sorry, no Credit Card is stored in Profile</string>
+    <string name="ceks_turn_off_confirm_message">"Confirm that you want to turn off Auto-Renew?
+If yes, service will automatically cease on expiry."</string>
+    <string name="ceks_turn_on_confirm_message">Confirm to turn on Auto Renewal with card xx?</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="chat_disclaimer_cancel">Cancel</string>
+    <string name="chat_disclaimer_confirm">Confirm</string>
+    <string name="chat_disclaimer_message">"Your use of this Live Chat is subject to the Club SIM General Terms and Conditions and HKT Group’s Privacy Statement. If you have logged in when using this Live Chat, for security reasons, please ensure you log out of your account immediately after your Live Chat session. In order for us to handle your enquiries, your personal information may be required. Any personal information collected from you during the Live Chat is collected, used and retained by us, Club Services (HKT) Limited, in accordance with the Personal Data (Privacy) Ordinance and the aforesaid Privacy Statement, for the purposes of handling your enquiries, general customer service and quality management. Your conversations with us through the Live Chat and any subsequent telephone conversation may be recorded for the aforesaid purposes. Request for accessing or correction or use of your personal data or any enquiry about your personal data can be made in writing to our Data Protection Officer (GPO Box 9896, HK). 
+
+ © Club Services (HKT) Limited 2017. All Rights Reserved."</string>
+    <string name="checkbox_acquired_title">Successfully Subscribed</string>
+    <string name="checkout_expiryon">Expiry on: xx</string>
+    <string name="checkout_failed">Payment Failed</string>
+    <string name="checkout_pricing">($xx / yy Clubpoints)</string>
+    <string name="checkout_sorry">Sorry!</string>
+    <string name="checkout_success">Congratulations!</string>
+    <string name="checkout_success_details">Your payment has been Successful</string>
+    <string name="checkout_title">Checkout</string>
+    <string name="clubpoint_login">Login to view your clubpoint</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="data_pack_buy_more">"Buy
+*Valid for xx days"</string>
+    <string name="data_pack_remaining">Remaining: XXX</string>
+    <string name="data_pack_title">Data Pack</string>
+    <string name="data_pack_you_have_selected">You have selected: xxGB for yy days</string>
+    <string name="default_web_client_id">69625964474-9ufoul3alg5mqjna0l2r3kg7838ic76n.apps.googleusercontent.com</string>
+    <string name="dialog_back_text">Back</string>
+    <string name="dialog_connection_err_msg">Please try later</string>
+    <string name="dialog_connection_err_title">Connection Error</string>
+    <string name="dialog_loading_message">Loading, Please wait...</string>
+    <string name="dialog_message_noactivatesim">Please buy a new SIM to continue or activate your SIM</string>
+    <string name="dialog_message_nosim">Please buy a new SIM to continue or activate your SIM</string>
+    <string name="dialog_ok_text">OK</string>
+    <string name="dialog_server_err_title">Server Maintenance</string>
+    <string name="dialog_sid_timeout_err_title">Login Session Timeout</string>
+    <string name="document_upload_success">Upload Success</string>
+    <string name="documentupload_domain">https://clubsim.com.hk/clsmw/documentupload/</string>
+    <string name="domain">https://www.clubsim.com.hk/clsmw/api/</string>
+    <string name="education_pack_gift_title">Redemption details</string>
+    <string name="education_pack_title">Education Pack</string>
+    <string name="enable_auto_renew_text">Enable monthly auto-renew with your credit card</string>
+    <string name="entertainment_gift_subtitle">Premium of the month</string>
+    <string name="entertainment_start">Open App</string>
+    <string name="error_title">Error</string>
+    <string name="extendBtn_with_validity_text">"Extend
+"<small>*for xx days*</small></string>
+    <string name="extendBtn_with_validity_text_inMonth">"Extend
+"<small>*for xx Month*</small></string>
+    <string name="faq_content">"FAQ
+
+
+
+
+
+
+
+"</string>
+    <string name="faq_title">FAQ</string>
+    <string name="faq_url">http://www.clubsim.com.hk/clsmw/pages/tnc/android_faq_e.html</string>
+    <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
+    <string name="firebase_database_url">https://clubsim-d63ed.firebaseio.com</string>
+    <string name="force_update_cancel">Cancel</string>
+    <string name="force_update_download">Download</string>
+    <string name="force_update_message">"New Version Available!
+Please download the latest version that you can now start using."</string>
+    <string name="gamepack_gift_title">Free / Exclusive Premium</string>
+    <string name="gamepack_startgame">Open App</string>
+    <string name="gamepack_title">Game Pack</string>
+    <string name="gcm_defaultSenderId">69625964474</string>
+    <string name="getsim_domain">https://www.clubsim.com.hk/clsweb/login-by-session-id?loginId=&lt;loginId>&amp;sid=&lt;sid>&amp;lang=en&amp;utm_source=clubsim.android&amp;utm_medium=app&amp;utm_campaign=clubsim.app&amp;ismobile=y&amp;isrefresh=y</string>
+    <string name="google_api_key">AIzaSyDBfkr21O78yvs2UPCwaJM3D2Kbk-hwj68</string>
+    <string name="google_app_id">1:69625964474:android:55055d1d75a76e0c</string>
+    <string name="google_crash_reporting_api_key">AIzaSyDBfkr21O78yvs2UPCwaJM3D2Kbk-hwj68</string>
+    <string name="google_storage_bucket">clubsim-d63ed.appspot.com</string>
+    <string name="instantactivation_domain">https://clubsim.com.hk/clsmw/activate/</string>
+    <string name="kyc_header_approved_addressproof">Your address proof is successfully verified.</string>
+    <string name="kyc_header_approved_addressproof_approved_id">Your ID &amp; address proof are successfully verified.</string>
+    <string name="kyc_header_approved_addressproof_miss_id">Your address proof is successfully verified. Please click here to upload your ID to complete the whole upload process.</string>
+    <string name="kyc_header_approved_addressproof_rejected_id">Your address proof is successfully verified, but your ID is rejected. Please upload it again.</string>
+    <string name="kyc_header_approved_addressproof_submit_id">Your address proof is successfully verified, but the ID verification is still in progess now.</string>
+    <string name="kyc_header_btn">Upload</string>
+    <string name="kyc_header_miss_addressproof">Click here to upload address proof.</string>
+    <string name="kyc_header_miss_addressproof_approved_id">Your ID is successfully verified. Please click here to upload your address proof to complete the whole upload process.</string>
+    <string name="kyc_header_miss_addressproof_rejected_id">Sorry! Your ID is rejected. Click here to upload ID &amp; address proof</string>
+    <string name="kyc_header_miss_both">Click here to upload ID &amp; address proof</string>
+    <string name="kyc_header_rejected_addressproof">Sorry! Your address proof is rejected. Please upload it again.</string>
+    <string name="kyc_header_rejected_addressproof_approved_id">Your ID is successfully verified, but your address proof is rejected. Please upload it again.</string>
+    <string name="kyc_header_rejected_addressproof_miss_id">Sorry! Your address proof is rejected. Click here to upload ID &amp; address proof.</string>
+    <string name="kyc_header_rejected_addressproof_rejected_id">Sorry! Your ID &amp; address proof are rejected. Click here to upload ID &amp; address proof</string>
+    <string name="kyc_header_rejected_addressproof_submit_id">You have successfully submitted ID, but your address proof is rejected. Please upload it again.</string>
+    <string name="kyc_header_submit_addressproof">You have successfully submitted address proof.</string>
+    <string name="kyc_header_submit_addressproof_approved_id">Your ID is successfully verified, but the address proof verification is still in progess now.</string>
+    <string name="kyc_header_submit_addressproof_miss_id">You have successfully submitted address proof. Please click here to upload your ID to complete the whole upload process.</string>
+    <string name="kyc_header_submit_addressproof_rejected_id">You have successfully submitted address proof, but your ID is rejected. Please upload it again.</string>
+    <string name="kyc_header_submit_both">You have successfully submitted ID &amp; address proof. They are in progress now.</string>
+    <string name="kyc_header_submit_id_miss_addressproof">You have successfully submitted ID. Please click here to upload your address proof to complete the whole upload process.</string>
+    <string name="kyc_reminder_after_thirty">"Sorry, you have not uploaded your ID/ address proof and completed verification process within 30 days , you cannot purchase/extend any packs in Club SIM App. 
+
+If you want to purchase/ extend packs , please upload address proof now !"</string>
+    <string name="kyc_reminder_dead">"Sorry!
+
+You Club SIM with mobile no.: xx
+
+is terminated as you have not uploaded ID/address proof and compeletd verification process"</string>
+    <string name="kyc_reminder_tapngostarter_after_thirty">"Sorry, you have not uploaded your address proof and completed verification process within 30 days , you cannot purchase/extend any packs in Club SIM App. 
+
+If you want to purchase/ extend packs , please upload address proof now !"</string>
+    <string name="kyc_reminder_tapngostarter_dead">"Sorry!
+
+You Club SIM with mobile no.: xx 
+
+is terminated as you have not uploaded address proof and compeletd verification process"</string>
+    <string name="kyc_reminder_tapngostarter_within_thirty">Your address proof is not uploaded or it is rejected. If you don’t upload within 30 days , you cannot purchase/ extend any packs in Club SIM App.</string>
+    <string name="kyc_reminder_upload_later">Upload LATER</string>
+    <string name="kyc_reminder_upload_now">Upload NOW</string>
+    <string name="kyc_reminder_within_thirty">You have not uploaded your ID/ address proof or they are rejected. If you don’t upload them within 30 days , you cannot purchase/ extend any packs in Club SIM App.</string>
+    <string name="login_choose_using_sim">Choose which SIM to use</string>
+    <string name="login_email_id_input_box">Login ID / Membership Number</string>
+    <string name="login_email_password_input_box">Password</string>
+    <string name="login_error_message">Invalid login ID or password. Please try again.</string>
+    <string name="login_fail_result_title">Invalid login ID or password. Please try again.</string>
+    <string name="login_forget_id_or_password">Forgot Login ID / Password?</string>
+    <string name="login_forget_password_url">https://www.clubsim.com.hk/clsweb/forget-loginid-password?lang=en&amp;utm_source=clubsim.android&amp;utm_medium=app&amp;utm_campaign=clubsim.app&amp;ismobile=y&amp;isrefresh=y</string>
+    <string name="login_keep_me_logged_in_box">Keep me logged in</string>
+    <string name="login_logout_successfully">Logout Successfully</string>
+    <string name="login_logout_title">Logout</string>
+    <string name="login_policy_text">By clicking Sign In, you agree to be bound by HKT Privacy Statement.</string>
+    <string name="login_register_url">https://www.clubsim.com.hk/clsweb/register?lang=en&amp;utm_source=clubsim.android&amp;utm_medium=app&amp;utm_campaign=clubsim.app&amp;ismobile=y&amp;isrefresh=y</string>
+    <string name="login_remember_my_login_id_box">Remember my login info</string>
+    <string name="login_signin_btn">Sign In</string>
+    <string name="login_signup_btn">Register/ New to Club SIM?</string>
+    <string name="login_skip_now">Skip this step for now</string>
+    <string name="low_storage_error">Face detector dependencies cannot be downloaded due to low device storage</string>
+    <string name="menu_chat">Support</string>
+    <string name="menu_more">More</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_store">Home</string>
+    <string name="minor_update_later">Later</string>
+    <string name="mobile_number_title">"Mobile Number: "</string>
+    <string name="more_about">About</string>
+    <string name="more_club_info">The Club Info</string>
+    <string name="more_settings">Setting</string>
+    <string name="more_trans_history">Transaction History</string>
+    <string name="no_barcode_captured">No barcode captured</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission. The application will now exit.</string>
+    <string name="no_ceks_title">Not provided</string>
+    <string name="ok">OK</string>
+    <string name="pack_clubpoint">Your ClubPoints xx</string>
+    <string name="password_toggle_content_description">Toggle password visibility</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="pay_by_clubpoint_title">Pay By Club Points</string>
+    <string name="pay_by_credit_card_title">Pay By Credit Card</string>
+    <string name="pay_by_tng_title">Pay By Tap &amp; Go</string>
+    <string name="paybyclubpoint_dialog">"Pay by Clubpoints
+
+Balance xx
+Deduct yy
+
+Balance after paid zz"</string>
+    <string name="paybyclubpoint_dialog_confirm">Confirm</string>
+    <string name="paysummary_buyforsim_text">Buy for SIM &lt;font color=#ffffff>xx&lt;/font></string>
+    <string name="paysummary_clubpoint_amount">ClubPoints xx / $ zz</string>
+    <string name="paysummary_not_enought_clubpoint">Your ClubPoints is not enough</string>
+    <string name="paysummary_total_amount_title">Total Amount</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="privacy_policy_content">"Privacy Statement
+
+
+
+
+
+"</string>
+    <string name="privacy_policy_title">Privacy Statement</string>
+    <string name="privacy_url">http://www.clubsim.com.hk/clsmw/pages/tnc/android_privacy_e.html</string>
+    <string name="profile_active_text">"Active
+"<small>Expiry on: xx</small></string>
+    <string name="profile_active_text_forMacau">"Your Macau Data Roaming Pack is activated
+"<small>Valid till tonight xx</small></string>
+    <string name="profile_auto_renewal">"Auto-Renewal is 
+"<small>Click to change</small></string>
+    <string name="profile_auto_renewal1">Auto-Renewal is</string>
+    <string name="profile_auto_renewal2"><small>Click to change</small></string>
+    <string name="profile_change_card">Change card</string>
+    <string name="profile_change_name">Change Your Name</string>
+    <string name="profile_expiry_date_title">"Expiry Date:  "</string>
+    <string name="profile_myclubsim_title">My Club SIM</string>
+    <string name="profile_payment_about">You can apply auto-renew and auto-pay to your service packs by storing your credit card details. Otherwise your service packs will not auto-renew, and expire according to the terms offer.</string>
+    <string name="profile_payment_about_title">My payment method</string>
+    <string name="profile_payment_ask_delete_title">Are you sure?</string>
+    <string name="profile_payment_cancel">Cancel</string>
+    <string name="profile_payment_confirm_delete">Yes, delete it</string>
+    <string name="profile_payment_delete">Delete</string>
+    <string name="profile_payment_methods">My payment methods</string>
+    <string name="profile_payment_whatisthis">Payment method details</string>
+    <string name="profile_setPassword_hint1">Type new password here</string>
+    <string name="profile_setPassword_hint2">Retype password here</string>
+    <string name="profile_setPassword_invalid">Please enter 6 digits Password</string>
+    <string name="profile_setPassword_invalid2">Password mismatch, please enter correctly</string>
+    <string name="profile_setPassword_success">Change Password Successfully</string>
+    <string name="profile_setPassword_title">Set password</string>
+    <string name="profile_sim_pack_title">My Service Packs</string>
+    <string name="profile_title">Profile</string>
+    <string name="profile_usage_title">"Free Bonus data usage:  "</string>
+    <string name="profile_value_pack">My Service Packs</string>
+    <string name="promotioncode_loginID">Login ID: xx</string>
+    <string name="promotioncode_mobileno">mobile no: xx</string>
+    <string name="promotioncode_msg_hint">Promotion offer code</string>
+    <string name="promotioncode_msg_invalid">Wrong promotion code. Please try again !</string>
+    <string name="promotioncode_msg_title">Please input promotion offer code</string>
+    <string name="promotioncode_success">"Congratulations!
+
+You successfully get/ extend a free game pack!"</string>
+    <string name="promotioncode_title">You can get/extend FREE Pack(s) now !</string>
+    <string name="ref_number_text">"Ref Number: "</string>
+    <string name="scan_addpack_btn">Get promotion offer</string>
+    <string name="scan_addsim_btn">Scan to activate card</string>
+    <string name="scan_barcode_button">Scan barcode</string>
+    <string name="scan_desc">You can now do card activation and get promotion offer by a simple step !</string>
+    <string name="scan_iccid_btn">If QR code fail, please input ICCID</string>
+    <string name="scan_iccid_code_error">Wrong ICCID or activation password. Please try again !</string>
+    <string name="scan_iccid_desc1">QR code is failed</string>
+    <string name="scan_iccid_desc2">Please input ICCID and activation code</string>
+    <string name="scan_iccid_error_message">Invalid QR code. Please try again !</string>
+    <string name="scan_iccid_example1">ICCID: 89852000147</string>
+    <string name="scan_iccid_example2">Activation code:</string>
+    <string name="scan_iccid_hint1">8-digits</string>
+    <string name="scan_iccid_hint2">6-digits</string>
+    <string name="scan_iccid_mrt_title">Mobile no: xx</string>
+    <string name="scan_iccid_result_success">Your activation request is now being processing.You will receive a confirmation SMS when it is completed.</string>
+    <string name="scan_iccid_title">ICCID: xx</string>
+    <string name="scan_iccid_tutorial_message">Scan QR code to activate card</string>
+    <string name="scan_title">Scan QR code now!</string>
+    <string name="search_menu_title">Search</string>
+    <string name="setting_lang_push">Notification Language</string>
+    <string name="setting_language">Language</string>
+    <string name="setting_language_en">EN</string>
+    <string name="setting_language_zh">繁中</string>
+    <string name="setting_receive_push">Receive Push Notification</string>
+    <string name="setting_version">"Club SIM App
+All Rights Reserved HKT 2017
+v.$"</string>
+    <string name="sport_pack_title">Sport Pack</string>
+    <string name="sportpack_startgame">Open App</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="store_DataPack_details">Choose your own data usage you want! 90 days valid period. Extend more 90 days of each single purchase. No speed throttling, No contract.</string>
+    <string name="store_DataPack_title">Data Pack</string>
+    <string name="store_banner_details">Limited time Virgin Atlantic offer Limited time Virgin Altantic offer Limited time Virgin Altantic offer Limited time Virgin Atlantic offer</string>
+    <string name="store_entertainment_pack_details">Enjoy hmvod in-app movie watching, plus hmv kafé catering and hmv shopping discounts at only $48!</string>
+    <string name="store_entertainment_pack_title">Entertainment Pack</string>
+    <string name="store_gamepack_details">Only monthly fee $48, unlimited data usage to play &lt;&lt;Garena Realm of Valor>> and get free game items every month.</string>
+    <string name="store_gamepack_title">Game Pack</string>
+    <string name="store_startbtn">Sign in to start an amazing journey!</string>
+    <string name="store_title">Service Pack</string>
+    <string name="store_travel_pack_details">Simply purchase roaming data online before your trip.</string>
+    <string name="store_travel_pack_title">Travel Pack</string>
+    <string name="store_voice_pack_details">Only $28 per month. Unlimited local voice call.</string>
+    <string name="store_voice_pack_title">Communication Pack</string>
+    <string name="tapngo_notifiy">https://www.clubsim.com.hk/clsmw/pages/payment/tngnotifiy.jsp</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="tnc_agree">I Agree</string>
+    <string name="tnc_content">"&lt;Terms and Conditions>
+
+1.This Service can be accessed on most models of mobile device. You may check the compatibility of your mobile device before using this Service. 
+2.Data charges apply when using this Service. Roaming charges apply when using this Service overseas. For details of our charges, please visit http://www.clubsim.com.hk. 
+3.Free Unlimited Local Data for Club SIM Game Pack. Only applicable to use local mobile data usage which generated from dedicated app only. However, this offer does not include the mobile data usage generated from the app download, software update, external linkage and additional prompt up messages. 
+4.Dedicated app included: &lt;&lt; Garena Realm of Valor>> 
+5.This Service is provided on an AS-IS and AS AVAILABLE basis without any express or impliedly warranty as to the accuracy, reliability, security, timeliness, fitness for particular purposes or non-infringement in relation to the contents of this Service. We will not be liable for any errors or omissions concerning any information provided by this Service, and will not accept any liability for any loss or damage arising from any use or reliance on the information delivered by this Service or inability to use this Service. You understand and agree to use this Service at your sole risk. 
+6.Each game account could redeem the game offer once per month. This limited-number offer is only available while stock lasts. 
+7.We may change these terms and conditions at any time without prior notice. All matters and disputes will be subject to our final decision."</string>
+    <string name="tnc_title">Terms &amp; Conditions</string>
+    <string name="tnc_url">http://www.clubsim.com.hk/clsmw/pages/tnc/android_app_tnc_e.html</string>
+    <string name="transactionhistory_tv1">Date Time</string>
+    <string name="transactionhistory_tv2">Item</string>
+    <string name="transactionhistory_tv3">Charge</string>
+    <string name="transactionhistory_tv4">Payment Method</string>
+    <string name="travel_application_to">"Application to: 
+xx"</string>
+    <string name="travel_chi_macau">澳門</string>
+    <string name="travel_eng_macau">macau</string>
+    <string name="travel_macau_buy_already">Your Macau Data Roaming Pack is currently active and vaild till tonight 23:59. Please try again tomorrow.</string>
+    <string name="travel_transaction_history_title">Transaction History</string>
+    <string name="travel_voucher_status_title">Data Pass Status</string>
+    <string name="travel_wordwide_data_pack_title">Always-Be-Connected 24-hour Pass</string>
+    <string name="travelpack_ABC_title">Worldwide Data Pass</string>
+    <string name="travelpack_international_datapack_title">Always-Be-Connected Data Pass</string>
+    <string name="travelpack_macau_datapack_title">Macau Data Roaming Pack</string>
+    <string name="travelpack_more">more...</string>
+    <string name="travelpack_search_hint">Your destination</string>
+    <string name="travelpack_title">Travel Pack</string>
+    <string name="value_pack_acquired">Value Pack Acquired</string>
+    <string name="value_pack_detail">Service Pack details</string>
+    <string name="welcomepack_message">You have applied free welcome pack before and cannot get it again. You will activate card without any packs inside.</string>
+</resources>

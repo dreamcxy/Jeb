@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="accept">Accept</string>
+    <string name="cast_ad_label">Ad</string>
+    <string name="cast_casting_to_device">Casting to %1$s</string>
+    <string name="cast_closed_captions">Closed captions</string>
+    <string name="cast_closed_captions_unavailable">Closed captions unavailable</string>
+    <string name="cast_disconnect">Disconnect</string>
+    <string name="cast_expanded_controller_ad_image_description">Image displayed while the cast receiver is playing an ad</string>
+    <string name="cast_expanded_controller_ad_in_progress">Ad in progress…</string>
+    <string name="cast_expanded_controller_background_image">Album art</string>
+    <string name="cast_expanded_controller_live_stream_indicator">Live stream</string>
+    <string name="cast_expanded_controller_loading">Loading…</string>
+    <string name="cast_expanded_controller_skip_ad_label">Skip</string>
+    <string name="cast_forward">Forward</string>
+    <string name="cast_forward_10">Forward ten seconds</string>
+    <string name="cast_forward_30">Forward thirty seconds</string>
+    <string name="cast_intro_overlay_button_text">@android:string/ok</string>
+    <string name="cast_mute">Mute</string>
+    <string name="cast_notification_connected_message">Connected to %1$s</string>
+    <string name="cast_notification_connecting_message">Connecting to %1$s</string>
+    <string name="cast_notification_disconnect">Disconnect</string>
+    <string name="cast_pause">Pause</string>
+    <string name="cast_play">Play</string>
+    <string name="cast_rewind">Rewind</string>
+    <string name="cast_rewind_10">Rewind ten seconds</string>
+    <string name="cast_rewind_30">Rewind thirty seconds</string>
+    <string name="cast_seek_bar">Playback seek control</string>
+    <string name="cast_skip_next">Skip to next item</string>
+    <string name="cast_skip_prev">Skip to previous item</string>
+    <string name="cast_stop">Stop</string>
+    <string name="cast_stop_live_stream">Stop live stream</string>
+    <string name="cast_tracks_chooser_dialog_audio">Audio</string>
+    <string name="cast_tracks_chooser_dialog_cancel">Cancel</string>
+    <string name="cast_tracks_chooser_dialog_closed_captions">Closed Captions</string>
+    <string name="cast_tracks_chooser_dialog_default_track_name">Track %1$d</string>
+    <string name="cast_tracks_chooser_dialog_no_audio_tracks">No Audio Tracks Available</string>
+    <string name="cast_tracks_chooser_dialog_no_text_tracks">No Text Tracks Available</string>
+    <string name="cast_tracks_chooser_dialog_none">None</string>
+    <string name="cast_tracks_chooser_dialog_ok">OK</string>
+    <string name="cast_tracks_chooser_dialog_subtitles">Subtitles</string>
+    <string name="cast_unmute">Unmute</string>
+    <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_like_button_liked">Liked</string>
+    <string name="com_facebook_like_button_not_liked">Like</string>
+    <string name="com_facebook_loading">Loading...</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_loginview_log_in_button">Log in</string>
+    <string name="com_facebook_loginview_log_in_button_long">Log in with Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="com_facebook_send_button_text">Send</string>
+    <string name="com_facebook_share_button_text">Share</string>
+    <string name="com_facebook_tooltip_default">"New! You're in control - choose what info you want to share with apps."</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
+    <string name="create_calendar_title">Create calendar event</string>
+    <string name="debug_menu_ad_information">Ad Information</string>
+    <string name="debug_menu_creative_preview">Creative Preview</string>
+    <string name="debug_menu_title">Select a Debug Mode</string>
+    <string name="debug_menu_troubleshooting">Troubleshooting</string>
+    <string name="decline">Decline</string>
+    <string name="messenger_send_button_text">Send</string>
+    <string name="mr_button_content_description">Cast button</string>
+    <string name="mr_chooser_searching">Finding devices</string>
+    <string name="mr_chooser_title">Cast to</string>
+    <string name="mr_controller_album_art">Album art</string>
+    <string name="mr_controller_casting_screen">Casting screen</string>
+    <string name="mr_controller_close_description">Close</string>
+    <string name="mr_controller_collapse_group">Collapse</string>
+    <string name="mr_controller_disconnect">Disconnect</string>
+    <string name="mr_controller_expand_group">Expand</string>
+    <string name="mr_controller_no_info_available">No info available</string>
+    <string name="mr_controller_no_media_selected">No media selected</string>
+    <string name="mr_controller_pause">Pause</string>
+    <string name="mr_controller_play">Play</string>
+    <string name="mr_controller_stop">Stop casting</string>
+    <string name="mr_system_route_name">System</string>
+    <string name="mr_user_route_category_name">Devices</string>
+    <string name="place_autocomplete_clear_button">Clear search</string>
+    <string name="place_autocomplete_search_hint">Search</string>
+    <string name="search_menu_title">Search</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="store_picture_message">Allow Ad to store image in Picture gallery?</string>
+    <string name="store_picture_title">Save image</string>
+    <string name="wallet_buy_button_place_holder">Buy with Google</string>
+    <string name="app_name">ToryComics</string>
+    <string name="double_click_input_text">Tab Tab!</string>
+    <string name="facebook_app_id">1385462228154803</string>
+    <string name="ids_accept_user_agreement">Agree to Privacy Policy</string>
+    <string name="ids_account">My Account</string>
+    <string name="ids_account_detail">Details</string>
+    <string name="ids_account_info">Account Info</string>
+    <string name="ids_account_reg_success">"Submission completed. 
+Approval takes 2~3 days."</string>
+    <string name="ids_admin_deduct">Deducted by Admin</string>
+    <string name="ids_album_list">Choose from Phone</string>
+    <string name="ids_alert">News</string>
+    <string name="ids_all">All</string>
+    <string name="ids_all_free">All Free</string>
+    <string name="ids_all_pay_err_100">Purchase failed. Free episode(code:100)</string>
+    <string name="ids_all_pay_err_300">Purchase failed. Not enough Coins(code:300)</string>
+    <string name="ids_all_pay_err_400">Purchase failed. Already purchased(code:400)</string>
+    <string name="ids_all_pay_err_401">Purchase failed. Not activated(code:401)</string>
+    <string name="ids_all_pay_err_402">Purchase failed. Min episodes(code:402)</string>
+    <string name="ids_all_pay_err_403">Purchase failed. Already free(code:403)</string>
+    <string name="ids_all_pay_err_etc">Purchase failed</string>
+    <string name="ids_all_pay_success_form">The episodes purchased with %s Coins.</string>
+    <string name="ids_answer_des">Content of inquiry:</string>
+    <string name="ids_answer_done">[Reply received]</string>
+    <string name="ids_answer_waiting">[Waiting for reply]</string>
+    <string name="ids_app">App</string>
+    <string name="ids_app_permission_msg">%s Permission required.</string>
+    <string name="ids_app_quit">Close App</string>
+    <string name="ids_app_setting">Settings</string>
+    <string name="ids_app_update">App Update</string>
+    <string name="ids_approval_request">Request Approval</string>
+    <string name="ids_approved">Approved</string>
+    <string name="ids_approved_err">This episode has already been approved.</string>
+    <string name="ids_attendance_event">Check In Event</string>
+    <string name="ids_auto_login">Stay login</string>
+    <string name="ids_bank_account_help">"Registration information
+ If you would like to receive Tory points as cash, it will be paid to the account registered on this page.
+ Only accounts under your real name will be approved.
+ You may request payments for Tory points only after your account has been approved.
+ Approval of your account will take 2~3 business days after registration.
+ Please enter the name of the bank, account number, account holder's name carefully.
+ Please submit a photo of a page with the account number."</string>
+    <string name="ids_bank_account_info">"Account Number('-' except)"</string>
+    <string name="ids_bank_account_num_2">"Account Number : "</string>
+    <string name="ids_bank_account_reg">Register Bank Account</string>
+    <string name="ids_bank_err_1">Please enter the name of the bank.</string>
+    <string name="ids_bank_err_2">Please enter your account number.</string>
+    <string name="ids_bank_err_3">"Please enter the account holder's name."</string>
+    <string name="ids_bank_err_4">Please take a picture of your bank account information.</string>
+    <string name="ids_bank_info_regdate_form">Register %s bank account(waiting approval)</string>
+    <string name="ids_bank_info_reject">Denied Approval</string>
+    <string name="ids_bank_info_state_1">Account Registration (awaiting approval)</string>
+    <string name="ids_bank_info_state_2">Account Registration</string>
+    <string name="ids_bank_info_waiting">Awaiting approval of bank account</string>
+    <string name="ids_bank_info_waiting_help">"Approval for the registered account will take approximately 2-3 business days.
+Various factors may cause a delay in processing the account for approval.
+Please refer to the FAQ for additional information and use Inquiries to ask a question."</string>
+    <string name="ids_bank_name">Name of Bank</string>
+    <string name="ids_bank_name_2">"Bank Name : "</string>
+    <string name="ids_bank_user_name">Account Holder</string>
+    <string name="ids_bank_user_name_2">"Account holder : "</string>
+    <string name="ids_bank_user_name_3">"Reason for Denial : "</string>
+    <string name="ids_bankbook_copy">Bank Book</string>
+    <string name="ids_bankbook_help">"Photo of bank book with account number and holder's name"</string>
+    <string name="ids_bankbook_photo">Take Photo of Bank Book</string>
+    <string name="ids_best">Popular</string>
+    <string name="ids_btn_change_coint_form">Receive %s Coins.</string>
+    <string name="ids_btn_update">Update</string>
+    <string name="ids_buy">Purchase</string>
+    <string name="ids_buy_works">Purchase this work</string>
+    <string name="ids_camera_run">Take Photo</string>
+    <string name="ids_cancel">Cancel</string>
+    <string name="ids_cash_charge_help_line_1">* You must registered your bank account first.</string>
+    <string name="ids_cash_charge_help_line_2">* Min %s Points needed to withdraw for cash.</string>
+    <string name="ids_cash_charge_help_line_3">* Tax and processing fee will be deducted.</string>
+    <string name="ids_cash_charge_help_line_4">* Payment are made during first week of month.</string>
+    <string name="ids_cash_charge_help_line_5">* You cannot cancel once you requests.</string>
+    <string name="ids_cash_confirm">Payment completed</string>
+    <string name="ids_cash_from_point_msg">"Requesting withdraw %s Points for cash.
+Once payment has been completed, the details will be sent to your email."</string>
+    <string name="ids_cash_from_point_msg_title">Request withdrawal</string>
+    <string name="ids_category">Category</string>
+    <string name="ids_change_bank_info">Change Bank Account</string>
+    <string name="ids_change_coin">Exchange</string>
+    <string name="ids_change_forgot_psw">Forgot password?</string>
+    <string name="ids_change_nickname">Change Nickname</string>
+    <string name="ids_change_nickname_hint">The nickname can be max 20 letters.</string>
+    <string name="ids_change_password_not_email_err">Invalid email parameter.</string>
+    <string name="ids_change_pasw_err_1">Please enter old password.</string>
+    <string name="ids_change_pasw_err_2">Please enter new password.</string>
+    <string name="ids_change_pasw_err_3">The new password does not match.</string>
+    <string name="ids_change_pasw_err_4">Please check password is over 6 letters.</string>
+    <string name="ids_change_point">Exchange Tory Points</string>
+    <string name="ids_change_point_help">"Information
+
+You must have min 10,000 Tory Points to exchange for Coins.
+1 Tory Points is equivalent to 1 coin.
+Exchanged Coins cannot be reverted back to Tory Points or refunded.
+Any Coins obtained illegally will be confiscated."</string>
+    <string name="ids_change_psw">Change Password</string>
+    <string name="ids_change_psw_help">Please check password is over 6 letters.</string>
+    <string name="ids_close">Close</string>
+    <string name="ids_coin">Coins</string>
+    <string name="ids_coin_buy_faile">Purchase failed.</string>
+    <string name="ids_coin_buy_succes_form">%s coins have been purchased.</string>
+    <string name="ids_coin_charge">Buy Coins</string>
+    <string name="ids_coin_charge2">Coin Purchase</string>
+    <string name="ids_coin_charge__etc">Failed to issue product key.(%d)</string>
+    <string name="ids_coin_charge_err_9000_9001">You exceeded max Coins. Please buy after using remaining Coins.</string>
+    <string name="ids_coin_charge_err_9000_9001_form">Max Coin you can possess is %s Coins. Please buy after using remaining Coins.</string>
+    <string name="ids_coin_charge_help_line_1">* Minimum %s points to exchange.</string>
+    <string name="ids_coin_charge_help_line_2" formatted="false">* Exchange %s Points to %s Coins ratio.</string>
+    <string name="ids_coin_charge_help_line_3">* Exchanged Coins cannot be refunded or reverted.</string>
+    <string name="ids_coin_charge_help_line_4">* Illegally optained Coins shall be recollected.</string>
+    <string name="ids_coin_charge_help_line_5" formatted="false">* You can use %s ~ %s Points at once.</string>
+    <string name="ids_coin_charge_help_line_6">* You can exchange max %s Points per day.</string>
+    <string name="ids_coin_charge_list">Purchased</string>
+    <string name="ids_coin_form">%s coins</string>
+    <string name="ids_coin_from_point_msg">"%s Points will be exchanged for Coins.
+Go to My Coins to check."</string>
+    <string name="ids_coin_from_point_msg_title">Exchange Tory Points</string>
+    <string name="ids_coin_manager">Coin Management</string>
+    <string name="ids_coin_use_list">Used</string>
+    <string name="ids_comixclose">Completed</string>
+    <string name="ids_country_err">Please select a country.</string>
+    <string name="ids_country_select">Select Country</string>
+    <string name="ids_coupon_err_1">Please enter the coupon number.</string>
+    <string name="ids_coupon_help">"Information
+
+Please enter the 00 digit number on the coupon
+You can check Coins received in the Coin Purchase/Use History section in the menu.
+Coins received by coupons are non-refundable.
+Coupon only can be used before expiration date."</string>
+    <string name="ids_coupon_hint">Enter Coupon Number</string>
+    <string name="ids_coupon_nm_reg">Submit Coupon Number</string>
+    <string name="ids_coupon_reg">Redeem Coupon</string>
+    <string name="ids_delete_ask_fbobject">Want to delete?</string>
+    <string name="ids_delete_image_cache">Delete image cache</string>
+    <string name="ids_different_tr_image_list_err">It is different from image list and translation data image.</string>
+    <string name="ids_done">Confirm</string>
+    <string name="ids_drag_from_right_to_left">Drag left and right.</string>
+    <string name="ids_editing">(Editing)</string>
+    <string name="ids_email">Email</string>
+    <string name="ids_email_chek_err_1">The email format is incorrect.</string>
+    <string name="ids_email_chek_err_2">This email is already in use.</string>
+    <string name="ids_email_chek_err_3">Enter your email address.</string>
+    <string name="ids_empty_coin_err">"Not enough Coins.
+Buy Coins?"</string>
+    <string name="ids_en_work_description">Summary :</string>
+    <string name="ids_en_work_title">Title :</string>
+    <string name="ids_ep_menu_first">First</string>
+    <string name="ids_ep_menu_new">Latest</string>
+    <string name="ids_ep_menu_saved">Purchased</string>
+    <string name="ids_ep_total_count_form">All %d</string>
+    <string name="ids_ep_tr_edit_quit_msg">Would you like to save your progress?</string>
+    <string name="ids_ep_tr_pending_success">You have requested an approval of your TransWriting. It will be uploaded once the admin approves.</string>
+    <string name="ids_ep_tr_translating_success">It has been saved.</string>
+    <string name="ids_episode">Episode</string>
+    <string name="ids_etc_info">Additional information.</string>
+    <string name="ids_extern_memory_err">If you want to use camera, please insert external memory card.</string>
+    <string name="ids_facebook_login">Login with Facebook</string>
+    <string name="ids_facebook_share">ToryComics</string>
+    <string name="ids_facebook_shere">Share on Facobook</string>
+    <string name="ids_find_password">Recover Password</string>
+    <string name="ids_find_password_help">Please enter your email.</string>
+    <string name="ids_first">Start Ep 1</string>
+    <string name="ids_follow_up">Continue</string>
+    <string name="ids_forgat_password">Forgot Password?</string>
+    <string name="ids_forgot_pwd_change_err">Request is unavailable.</string>
+    <string name="ids_forgot_pwd_change_success">Password has been changed successfully.</string>
+    <string name="ids_forgot_pwd_err_300">SNS accounts does not have password.</string>
+    <string name="ids_forgot_pwd_success">Email has been sent to reset your password.</string>
+    <string name="ids_free">Free</string>
+    <string name="ids_free_count_form">You have %d free tickets</string>
+    <string name="ids_free_limit_info_form" formatted="false">Free for a limited time (episode %s ~ %s, %s)</string>
+    <string name="ids_free_pass_err">Can be shared after using free tickets</string>
+    <string name="ids_free_share_to_friend">Share with friends</string>
+    <string name="ids_genre_other_lsit">Popular in this genre</string>
+    <string name="ids_get_point_list">Received</string>
+    <string name="ids_get_trimage_err">The image data for this TransWriting does not exist.</string>
+    <string name="ids_give_cash">Withdraw</string>
+    <string name="ids_give_cash_success">Request successfully sent.</string>
+    <string name="ids_give_coin_success">Coins have been deposited.</string>
+    <string name="ids_give_help">Payment Info</string>
+    <string name="ids_give_star_point">Rate it</string>
+    <string name="ids_google_login">Login with Google</string>
+    <string name="ids_help">Help</string>
+    <string name="ids_home">Home</string>
+    <string name="ids_info">Information</string>
+    <string name="ids_info_text">"단일 시즌으로 1000화를 달성한 네이버 웹툰 역사상 최장기 웹툰이자 네이버 웹툰의 살아있는 역사.
+ 단일 시즌으로 1000화를 달성한 네이버 웹툰 역사상 최장기 웹툰이자 네이버 웹툰의 살아있는 역사.
+ 단일 시즌으로 1000화를 달성한 네이버 웹툰 역사상 최장기 웹툰이자 네이버 웹툰의 살아있는 역사.
+ 단일 시즌으로 1000화를 달성한 네이버 웹툰 역사상 최장기 웹툰이자 네이버 웹툰의 살아있는 역사.
+ 단일 시즌으로 1000화를 달성한 네이버 웹툰 역사상 최장기 웹툰이자 네이버 웹툰의 살아있는 역사.
+ 단일 시즌으로 1000화를 달성한 네이버 웹툰 역사상 최장기 웹툰이자 네이버 웹툰의 살아있는 역사.
+ 단일 시즌으로 1000화를 달성한 네이버 웹툰 역사상 최장기 웹툰이자 네이버 웹툰의 살아있는 역사.
+ 단일 시즌으로 1000화를 달성한 네이버 웹툰 역사상 최장기 웹툰이자 네이버 웹툰의 살아있는 역사.
+ 단일 시즌으로 1000화를 달성한 네이버 웹툰 역사상 최장기 웹툰이자 네이버 웹툰의 살아있는 역사.
+ 단일 시즌으로 1000화를 달성한 네이버 웹툰 역사상 최장기 웹툰이자 네이버 웹툰의 살아있는 역사.
+ 단일 시즌으로 1000화를 달성한 네이버 웹툰 역사상 최장기 웹툰이자 네이버 웹툰의 살아있는 역사.
+ 단일 시즌으로 1000화를 달성한 네이버 웹툰 역사상 최장기 웹툰이자 네이버 웹툰의 살아있는 역사.
+ 단일 시즌으로 1000화를 달성한 네이버 웹툰 역사상 최장기 웹툰이자 네이버 웹툰의 살아있는 역사.
+ 단일 시즌으로 1000화를 달성한 네이버 웹툰 역사상 최장기 웹툰이자 네이버 웹툰의 살아있는 역사.
+ 단일 시즌으로 1000화를 달성한 네이버 웹툰 역사상 최장기 웹툰이자 네이버 웹툰의 살아있는 역사.
+ 단일 시즌으로 1000화를 달성한 네이버 웹툰 역사상 최장기 웹툰이자 네이버 웹툰의 살아있는 역사.
+ 단일 시즌으로 1000화를 달성한 네이버 웹툰 역사상 최장기 웹툰이자 네이버 웹툰의 살아있는 역사.
+ 단일 시즌으로 1000화를 달성한 네이버 웹툰 역사상 최장기 웹툰이자 네이버 웹툰의 살아있는 역사.
+"</string>
+    <string name="ids_init_day_form">%s Previous data will be reset.</string>
+    <string name="ids_ip_to_contry_code_err">Failed to retrieve country code.</string>
+    <string name="ids_keyword_all_delete">Delete all search history</string>
+    <string name="ids_later">Later</string>
+    <string name="ids_like">OK</string>
+    <string name="ids_limited_free">Time Limit</string>
+    <string name="ids_limited_free_date_form_1">Free in %d days</string>
+    <string name="ids_limited_free_date_form_2">Free in %d hours</string>
+    <string name="ids_limited_free_date_form_3">Free in %d minutes</string>
+    <string name="ids_limited_free_date_form_4" formatted="false">%d days %d hours remaining</string>
+    <string name="ids_limited_free_date_form_5" formatted="false">%d hours %d minutes remaining</string>
+    <string name="ids_limited_free_date_form_6">%d minutes remaining</string>
+    <string name="ids_limited_free_help_msg_from" formatted="false">"'%s' You can view episode %s to %s for free, during 
+%s ~ %s"</string>
+    <string name="ids_login">Login</string>
+    <string name="ids_login_err">Failed to login.</string>
+    <string name="ids_login_err_100">This account does not exist.</string>
+    <string name="ids_login_err_300">Wrong password. Try again.</string>
+    <string name="ids_login_err_600">Max 3 devices can be used. Please try at least one week later for reset.</string>
+    <string name="ids_mandatory_msg">"Update is required.
+Please go to Google Play and update to continue."</string>
+    <string name="ids_menu_alert">News</string>
+    <string name="ids_menu_contect">Help</string>
+    <string name="ids_menu_delete">Delete</string>
+    <string name="ids_menu_logout">Logout</string>
+    <string name="ids_menu_my_library">My Library</string>
+    <string name="ids_menu_my_page">My Page</string>
+    <string name="ids_menu_my_setting">Settings</string>
+    <string name="ids_menu_notice">Notice</string>
+    <string name="ids_menu_report">Report</string>
+    <string name="ids_month_best">Monthly</string>
+    <string name="ids_more">More</string>
+    <string name="ids_my_coin">My Coins</string>
+    <string name="ids_my_coin_2">"My Coins : "</string>
+    <string name="ids_my_library">My Library</string>
+    <string name="ids_my_point">My Tory Points : %s</string>
+    <string name="ids_my_point_date_format">MM, yyyy</string>
+    <string name="ids_my_point_err_form">Min %s Tory Points to exchange Coins.</string>
+    <string name="ids_my_tr_manager">My TransWritings</string>
+    <string name="ids_my_tr_point">My Tory Points</string>
+    <string name="ids_my_tr_status_form" formatted="false">Participated %s / Total %s</string>
+    <string name="ids_my_trans_info_form" formatted="false">TransWriting Ranking : Rank %d(%s)</string>
+    <string name="ids_my_translate_manager">My TransWritings</string>
+    <string name="ids_need_login_err">Login required.</string>
+    <string name="ids_new">NEW</string>
+    <string name="ids_new_psw">New Password (min 6 letters)</string>
+    <string name="ids_new_psw_confirm">Confirm New Password (min. 6 letters)</string>
+    <string name="ids_nick_name_err_1">The nickname can be max 20 letters.</string>
+    <string name="ids_nick_name_err_2">This nickname is already in use.</string>
+    <string name="ids_nick_name_err_3">Please enter new nickname.</string>
+    <string name="ids_nickname">Nickname</string>
+    <string name="ids_nickname_hint">Nickname (max. 20 letters)(select)</string>
+    <string name="ids_no">No</string>
+    <string name="ids_no_id_err">This ID does not exist.</string>
+    <string name="ids_not_edit_msg">No change has been made.</string>
+    <string name="ids_not_found_tr_ep_msg">This episode is not yet translated, Would you like to try translating?</string>
+    <string name="ids_not_next_ep_err">The next episode is not available.</string>
+    <string name="ids_not_pre_ep_err">The previous episode is not available.</string>
+    <string name="ids_not_register">(Unregistered)</string>
+    <string name="ids_not_show_today">"Don't show today"</string>
+    <string name="ids_not_translated">Not TransWrote</string>
+    <string name="ids_now_nickname">"Current Nickname : "</string>
+    <string name="ids_now_sigup">Sign Up</string>
+    <string name="ids_ok">OK</string>
+    <string name="ids_open_source_license">Open-source License</string>
+    <string name="ids_optional_msg">"Update is available.
+Please go to Google Play to update."</string>
+    <string name="ids_paid_count_title">Number of purchases</string>
+    <string name="ids_pass_err_1">Please enter your password.</string>
+    <string name="ids_pass_err_2">Password must be min 6 letters.</string>
+    <string name="ids_pass_err_3">The password does not match.</string>
+    <string name="ids_password">Password</string>
+    <string name="ids_password_confirm_hint">Confirm Password</string>
+    <string name="ids_password_hint">Password (min. 6 letters)</string>
+    <string name="ids_peding_err">"Awaiting for approval.
+
+Editing is disabled during approval."</string>
+    <string name="ids_peding_err_from">"Awaiting approval.
+
+Time submitted: %s
+
+Editing is not possible while awaiting approval."</string>
+    <string name="ids_pending">Pending</string>
+    <string name="ids_photo_delete">Delete Photo</string>
+    <string name="ids_point_form">%s Tory Points</string>
+    <string name="ids_point_to_cash_err_etc">Failed to exchange cash.(%d)</string>
+    <string name="ids_point_to_coin_err_9003">Cannot exceed your Points.</string>
+    <string name="ids_point_to_coin_err_9004">Cannot exceed one time limit.</string>
+    <string name="ids_point_to_coin_err_9005">Daily limit is %s Points.</string>
+    <string name="ids_point_to_coin_err_9008_9009">Max Coin you can possess is %s Coins. Please exchange after using remaining Coins.</string>
+    <string name="ids_point_to_coin_err_etc">Failed to exchange Coin.(%d)</string>
+    <string name="ids_possessing">Purchased</string>
+    <string name="ids_pre_psw">Old Password</string>
+    <string name="ids_preview">(Preview)</string>
+    <string name="ids_push_event_msg">Receive News/Event Info</string>
+    <string name="ids_push_service_msg">Receive service messages</string>
+    <string name="ids_push_works_update">Receive subscribing story updates</string>
+    <string name="ids_question">Inquiries</string>
+    <string name="ids_question_confirm">Check reply</string>
+    <string name="ids_question_service">Service Inquiries</string>
+    <string name="ids_quit">Close</string>
+    <string name="ids_quit_msg">Close ToryComics?</string>
+    <string name="ids_qustion_title">Content of inquiry</string>
+    <string name="ids_re_bank_account_reg">Account re-registration</string>
+    <string name="ids_recomend_count_form">%d comments</string>
+    <string name="ids_reg_coupon_err_100">This coupon is not valid.</string>
+    <string name="ids_reg_coupon_err_300">This coupon has already been used.</string>
+    <string name="ids_reg_coupon_err_400">This coupon is expired.</string>
+    <string name="ids_reg_coupon_err_ect">Failed to register.</string>
+    <string name="ids_reg_coupon_success">"
+%s Coins successfully sent."</string>
+    <string name="ids_register">Register</string>
+    <string name="ids_registered">(Register)</string>
+    <string name="ids_reject">Rejected</string>
+    <string name="ids_reject_err_from">"Approval was denied for the following reasons.
+
+%s
+
+Please refer to the reasons for denial and re-submit the TransWriting after editing
+
+Proceed with editing?"</string>
+    <string name="ids_reject_register">(Denied Approval)</string>
+    <string name="ids_remember_tr_lang">Remember my choice</string>
+    <string name="ids_reply">Comments</string>
+    <string name="ids_reply_delete_answer">Delete selected comment?</string>
+    <string name="ids_reply_delete_success">It has been deleted.</string>
+    <string name="ids_reply_hint">Please comments on this episode.</string>
+    <string name="ids_report_etc_help">Please enter other reasons for report.</string>
+    <string name="ids_report_not_select">Please select the reason for the report.</string>
+    <string name="ids_report_success">Your report has been sent. It will be processed by the admin.</string>
+    <string name="ids_req_cash">Request for payment</string>
+    <string name="ids_req_cash_to_point">Withdrawal</string>
+    <string name="ids_req_cash_to_point_help">"Information
+
+To withdraw Points for cash, you need to register your bank account.
+100,000 Tory Points is minimun for withdrawal.
+100,000 Tory Points is approximately $100 in USD.
+Payments will be made to your account 3 days after you request withdrawal.
+Tax and processing fee will be deducted.
+You cannot cancel a withdrawal request."</string>
+    <string name="ids_rooting_err_msg">Unable to proceed on rooted device.</string>
+    <string name="ids_save">Save</string>
+    <string name="ids_search_count_form">Total %d</string>
+    <string name="ids_search_hint">Search by Title or Author</string>
+    <string name="ids_search_not_found_keyword">Enter search word</string>
+    <string name="ids_search_popularity_word">Popular Searches</string>
+    <string name="ids_select_country">"Select Country : "</string>
+    <string name="ids_select_otherep">See another TransWriting for this episode.</string>
+    <string name="ids_select_question_type">Choose catagory of inquiry</string>
+    <string name="ids_select_tr_lang">Choose language for TransWriting</string>
+    <string name="ids_send_question_success">Inquiry has been submitted.</string>
+    <string name="ids_send_qustion">Submit inquiry</string>
+    <string name="ids_serial">Weekly</string>
+    <string name="ids_server_connect_err">Failed to connect to the server, Please check your internet connection.</string>
+    <string name="ids_server_get_domain_err">Failed to connect to the internet.</string>
+    <string name="ids_shere">Share</string>
+    <string name="ids_shere_date_form_1" formatted="false">Share after %d days %d hours</string>
+    <string name="ids_shere_date_form_2">Share after %d hours</string>
+    <string name="ids_shere_date_form_3">Share after %d minutes</string>
+    <string name="ids_shere_free">Share Free</string>
+    <string name="ids_shere_free_line_1">You will receive a free ticket after sharing this on Facebook.</string>
+    <string name="ids_shere_free_line_2">This free ticket can only be used for episodes of the shared work.</string>
+    <string name="ids_shere_free_line_3">This free ticket is effective from opening episodes until %s days after.</string>
+    <string name="ids_shere_free_line_4">Share tickets can be given once every %s days. However, this can only be used after all other free tickets.</string>
+    <string name="ids_show_count_form">%d readers</string>
+    <string name="ids_show_org">See Original</string>
+    <string name="ids_show_tr">See TransWritten copy.</string>
+    <string name="ids_show_works_lately">Recents</string>
+    <string name="ids_signup_err">Failed to sign up.</string>
+    <string name="ids_sigup">Sign Up</string>
+    <string name="ids_skip">Skip</string>
+    <string name="ids_sns_login">Sign Up With:</string>
+    <string name="ids_sns_login_err_300">You already signed up with this email account. Please login with this email account.</string>
+    <string name="ids_sns_login_err_android_400">"You already signed up with Google. 'Please login with Google'."</string>
+    <string name="ids_sns_login_err_facebook_400">"You already signed up with Facebook. 'Please login with Facebok'."</string>
+    <string name="ids_sns_signup_cancel_msg">Cancel sign up?</string>
+    <string name="ids_sort_1">by Recent</string>
+    <string name="ids_sort_2">by Updated</string>
+    <string name="ids_sort_3">by Title</string>
+    <string name="ids_sort_4">by Purchased</string>
+    <string name="ids_sort_good_cnt">by Popular</string>
+    <string name="ids_sort_reg_dt">by Latest</string>
+    <string name="ids_sort_style_ep">Episode display setting</string>
+    <string name="ids_sorting_1">By popularity</string>
+    <string name="ids_sorting_2">By update</string>
+    <string name="ids_sorting_3">By Latest</string>
+    <string name="ids_sorting_4">By title</string>
+    <string name="ids_stop_subscrib">Unsubscribe</string>
+    <string name="ids_stop_subscribe_succes_form">You have unsubscribed from %s.</string>
+    <string name="ids_store_review_msg">"Enjoying the story and ToryComics?
+Please leave
+★s and review comment."</string>
+    <string name="ids_subscribe">Subscribe</string>
+    <string name="ids_subscribe_and_policy">Terms and Conditions</string>
+    <string name="ids_subscribe_succes_form">You have subscribed to %s.</string>
+    <string name="ids_subscribe_terms_of_service">Agree to Terms of Service</string>
+    <string name="ids_subscribing">Subscribing</string>
+    <string name="ids_sys_notice_form" formatted="false">"Maintenance dates: %s ~ %s
+
+Details: %s"</string>
+    <string name="ids_sys_notice_title">Notice: Regular Maintenance</string>
+    <string name="ids_terms_err_1">Please agree to the Terms of Service.</string>
+    <string name="ids_terms_err_2">Please agree to the Privacy Policy.</string>
+    <string name="ids_terms_show">(See)</string>
+    <string name="ids_text_follow_up_form">Continue Ep %s</string>
+    <string name="ids_title">Title</string>
+    <string name="ids_title_hint">Please enter the title.</string>
+    <string name="ids_title_trns">Title TransWriting</string>
+    <string name="ids_top_up">Top-up</string>
+    <string name="ids_torycomics_welcome">Welcome to ToryComics.</string>
+    <string name="ids_total">All</string>
+    <string name="ids_total_best">All-time</string>
+    <string name="ids_total_select">Select all</string>
+    <string name="ids_total_sum">Total</string>
+    <string name="ids_tr_approval_request_msg">"Submit for approval?
+Editing is not available after submission."</string>
+    <string name="ids_tr_auto_save">자동저장중...</string>
+    <string name="ids_tr_change_lang">Change Language</string>
+    <string name="ids_tr_lang">Language Traswriting</string>
+    <string name="ids_tr_no_select_lang">Not Selected</string>
+    <string name="ids_tr_point_title">Tory Points</string>
+    <string name="ids_tr_text_hint">Please enter text.</string>
+    <string name="ids_tr_text_hint_form">Please enter %s text.</string>
+    <string name="ids_tr_tutorial">Translation Tutorial</string>
+    <string name="ids_tr_works">TransWrote work</string>
+    <string name="ids_tr_works_status_form">Translated work (%d)</string>
+    <string name="ids_tr_works_title">TransWrote Works</string>
+    <string name="ids_trans_coin">Coin Exchange</string>
+    <string name="ids_translate_point_manager">My Tory Points</string>
+    <string name="ids_translate_start">Start TransWriting</string>
+    <string name="ids_translate_terms_check">I agree to the terms and conditions of the TransWriter.</string>
+    <string name="ids_translate_terms_help">Imagine that a lot of people are reading episodes that you TransWrote. Moreover, you get a portion of any purchases made on episodes you TransWrote.</string>
+    <string name="ids_translate_title">TransWrite</string>
+    <string name="ids_translate_works_manager">My TransWritings</string>
+    <string name="ids_translating">In progress</string>
+    <string name="ids_up">UP</string>
+    <string name="ids_use_point_list">Used</string>
+    <string name="ids_use_share_date">Can be shared in %s</string>
+    <string name="ids_user_age">Age Rating</string>
+    <string name="ids_user_quit_help">"&lt;Information regarding deleting account>
+
+Once you delete your account, you will lose access to all purchased contents. Ownership of any work you have translated will be transferred to ToryComics.
+
+Any remaining coins, tickets, mileage, Tory points will be deleted and are non-refundable, so please acknowledge this before deleting account.
+
+However, comments or ratings you have left will not be deleted. If you wish to delete any, please do so seperately before deleting your account..
+
+Once deleted, you will not be able to sign up again using same information for a month.
+
+Proceed to delete?"</string>
+    <string name="ids_user_quit_popup_done">I Agree</string>
+    <string name="ids_user_quit_popup_msg">I have read the information regarding deletion and understand that once my account is deleted, everything will be deleted and it is impossible to recover any information.</string>
+    <string name="ids_user_quit_popup_title">Delete Account</string>
+    <string name="ids_user_quit_success">Your account has been deleted. Thank you for using ToryComics.</string>
+    <string name="ids_version_info">Version Info</string>
+    <string name="ids_waiting_register">(Awaiting Approval)</string>
+    <string name="ids_will_change_point">Points being exchanged</string>
+    <string name="ids_will_req_point">Points to Withdraw</string>
+    <string name="ids_withdraw">Delete Account</string>
+    <string name="ids_work_description">Summary</string>
+    <string name="ids_work_home_more">See more ></string>
+    <string name="ids_work_title">"Title : "</string>
+    <string name="ids_workinf_tr_edit_quit_msg">Save changes?</string>
+    <string name="ids_works_desc">Summary</string>
+    <string name="ids_works_info_pending_success">You have requested an approval.</string>
+    <string name="ids_works_min_count_err">Remaing episodes are less than %d. Please purchase by episodes.</string>
+    <string name="ids_works_recomend_list">Recommendations from readers</string>
+    <string name="ids_works_total_buy_form" formatted="false">Purchase work ( %d episodes, %d%% discount, %d -> %dcoin)</string>
+    <string name="ids_works_total_buy_title_form">Purchase %s</string>
+    <string name="ids_works_total_help_form">"Purchase All Episodes can only buy %d episodes.
+(Already purchased episodes and free episodes are excluded)"</string>
+    <string name="ids_writer">Author</string>
+    <string name="ids_writer_orgnm">Publisher</string>
+    <string name="ids_writer_other_lis">Works by this author</string>
+    <string name="ids_yes">Yes</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="cast_invalid_stream_duration_text">--:--</string>
+    <string name="cast_invalid_stream_position_text">--:--</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="create_fcm_push">CREATE TABLE IF NOT EXISTS fcm_push( email_id text NOT NULL ,type text NOT NULL ,title text NOT NULL ,desc text NOT NULL ,image text ,works_no text ,works_title text ,writer_orgnm text ,writer_engnm text ,thumb_img_url text ,regDate DATETIME NOT NULL );</string>
+    <string name="create_search_keyword">CREATE TABLE IF NOT EXISTS search_keyword( keyword NOT NULL PRIMARY KEY ,reg_dt DATETIME );</string>
+    <string name="create_user_tr_info">CREATE TABLE IF NOT EXISTS user_tr_info( email_id text NOT NULL PRIMARY KEY ,tr_lang_code text NOT NULL ,tr_lang_remember text NOT NULL ,tr_lang_nm text NOT NULL );</string>
+    <string name="create_user_tr_works_info_skip">CREATE TABLE IF NOT EXISTS user_tr_works_info_skip( works_id text NOT NULL PRIMARY KEY ,email_id text NOT NULL ,isSkip text NOT NULL );</string>
+    <string name="create_works">CREATE TABLE IF NOT EXISTS works( _id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT ,nid text ,works_no text ,works_title text ,writer_label text ,writer_value text ,genre_label text ,genre_value text ,serially_status_label text ,serially_status_value text ,serially_day_label text ,serially_day_value text ,user_age_label text ,user_age_value text ,grade text ,org_yn_label text ,org_yn_value text ,policy_share_yn_label text ,policy_share_yn_value text ,policy_limited_yn_label text ,policy_limited_yn_value text ,policy_free_yn_label text ,policy_free_yn_value text ,isnew text ,pop_score text ,isup text ,thumb_img_url text ,writer_orgnm text ,writer_engnm text ,original_check_yn text ,works_reg_dt DATETIME ,last_ep_reg_dt DATETIME ,limited_free_st_dt DATETIME ,limited_free_ed_dt DATETIME ,free_st_dt DATETIME ,free_ed_dt DATETIME ,isnew_dt text ,isup_dt text );</string>
+    <string name="create_works_read">CREATE TABLE IF NOT EXISTS works_read( pg_key text NOT NULL primary key ,email_id text NOT NULL ,works_no text NOT NULL ,ep_id text NOT NULL ,ep_no text NOT NULL ,scroll_pos text ,ep_origin_id text ,ep_origin_yn text ,regDate timestamp NOT NULL );</string>
+    <string name="create_works_tr_data">CREATE TABLE IF NOT EXISTS works_tr_data( email_id text NOT NULL ,works_no text NOT NULL ,ep_origin_id text NOT NULL ,ep_id text NOT NULL ,ep_no text NOT NULL ,tr_lang ,isServerSaved ,transinfo ,regDate timestamp NOT NULL );</string>
+    <string name="default_web_client_id">197521628200-nlmsm23683ubfpgojrjhq49l4og9o0sk.apps.googleusercontent.com</string>
+    <string name="delete_all_search_keyword">delete from search_keyword</string>
+    <string name="delete_keyword_search_keyword">delete from search_keyword where keyword=#keyword#</string>
+    <string name="delete_works">delete from works</string>
+    <string name="delete_works_tr_data">delete from works_tr_data where email_id = #email_id# and works_no = #works_no# and ep_origin_id = #ep_origin_id#;</string>
+    <string name="drop_fcm_push">DROP TABLE IF EXISTS fcm_push;</string>
+    <string name="drop_search_keyword">DROP TABLE IF EXISTS search_keyword;</string>
+    <string name="drop_user_tr_info">DROP TABLE IF EXISTS user_tr_info;</string>
+    <string name="drop_user_tr_works_info_skip">DROP TABLE IF EXISTS user_tr_works_info_skip;</string>
+    <string name="drop_works">DROP TABLE IF EXISTS works;</string>
+    <string name="drop_works_read">DROP TABLE IF EXISTS works_read;</string>
+    <string name="drop_works_tr_data">DROP TABLE IF EXISTS works_tr_data;</string>
+    <string name="firebase_database_url">https://torycomics.firebaseio.com</string>
+    <string name="gcm_defaultSenderId">197521628200</string>
+    <string name="google_api_key">AIzaSyAGSYwgbIAZ0cx5BNr1DbqakfOq8GLQnHI</string>
+    <string name="google_app_id">1:197521628200:android:f2eb5da53f3cb6ef</string>
+    <string name="google_crash_reporting_api_key">AIzaSyAGSYwgbIAZ0cx5BNr1DbqakfOq8GLQnHI</string>
+    <string name="google_storage_bucket">torycomics.appspot.com</string>
+    <string name="insert_fcm_push">"insert into fcm_push( email_id ,type ,title ,desc ,image ,works_no ,works_title ,writer_orgnm ,writer_engnm ,thumb_img_url ,regDate ) values( #email_id# ,#type# ,#title# ,#desc# ,#image# ,#works_no# ,#works_title# ,#writer_orgnm# ,#writer_engnm# ,#thumb_img_url# , datetime('now') );"</string>
+    <string name="insert_search_keyword">"insert or replace into search_keyword( keyword ,reg_dt ) values( #keyword# ,datetime('now') );"</string>
+    <string name="insert_user_tr_info">insert or replace into user_tr_info( email_id ,tr_lang_code ,tr_lang_remember ,tr_lang_nm ) values( #email_id# ,#tr_lang_code# ,#tr_lang_remember# ,#tr_lang_nm# );</string>
+    <string name="insert_user_tr_works_info_skip">insert or replace into user_tr_works_info_skip( email_id ,works_id ,isSkip ) values( #email_id# ,#works_id# ,#isSkip# );</string>
+    <string name="insert_works">Insert into works( nid ,works_no ,works_title ,writer_label ,writer_value ,genre_label ,genre_value ,serially_status_label ,serially_status_value ,serially_day_label ,serially_day_value ,user_age_label ,user_age_value ,grade ,org_yn_label ,org_yn_value ,policy_share_yn_label ,policy_share_yn_value ,policy_limited_yn_label ,policy_limited_yn_value ,policy_free_yn_label ,policy_free_yn_value ,isnew ,pop_score ,isup ,thumb_img_url ,writer_orgnm ,writer_engnm ,original_check_yn ,works_reg_dt ,last_ep_reg_dt ,limited_free_st_dt ,limited_free_ed_dt ,free_st_dt ,free_ed_dt ,isnew_dt ,isup_dt ) VALUES( #nid# ,#works_no# ,#works_title# ,#writer_label# ,#writer_value# ,#genre_label# ,#genre_value# ,#serially_status_label# ,#serially_status_value# ,#serially_day_label# ,#serially_day_value# ,#user_age_label# ,#user_age_value# ,#grade# ,#org_yn_label# ,#org_yn_value# ,#policy_share_yn_label# ,#policy_share_yn_value# ,#policy_limited_yn_label# ,#policy_limited_yn_value# ,#policy_free_yn_label# ,#policy_free_yn_value# ,#isnew# ,#pop_score# ,#isup# ,#thumb_img_url# ,#writer_orgnm# ,#writer_engnm# ,#original_check_yn# ,#works_reg_dt# ,#last_ep_reg_dt# ,#limited_free_st_dt# ,#limited_free_ed_dt# ,#free_st_dt# ,#free_ed_dt# ,#isnew_dt# ,#isup_dt# );</string>
+    <string name="insert_works_read">"insert or replace into works_read( pg_key ,email_id ,works_no ,ep_id ,ep_no ,scroll_pos ,ep_origin_id ,ep_origin_yn ,regDate ) values( #pg_key# ,#email_id# ,#works_no# ,#ep_id# ,#ep_no# ,#scroll_pos# ,#ep_origin_id# ,#ep_origin_yn# , datetime('now') );"</string>
+    <string name="insert_works_tr_data">"INSERT INTO works_tr_data( email_id ,works_no ,ep_origin_id ,ep_id ,ep_no ,tr_lang ,isServerSaved ,transinfo ,regDate ) VALUES( #email_id# ,#works_no# ,#ep_origin_id# ,#ep_id# ,#ep_no# ,#tr_lang# ,#isServerSaved# ,#transinfo# ,datetime('now') );"</string>
+    <string name="policy_free">"select * from works where policy_free_yn_value = 'Y' AND free_st_dt &lt;= datetime('now') AND free_ed_dt >= datetime('now') order by cast(pop_score as float) DESC ,works_reg_dt DESC ,works_title ASC"</string>
+    <string name="policy_free_new">"select * from works where policy_free_yn_value = 'Y' AND free_st_dt &lt;= datetime('now') AND free_ed_dt >= datetime('now') order by isnew DESC ,works_reg_dt DESC ,cast(pop_score as float) DESC ,works_title ASC"</string>
+    <string name="policy_free_title">"select * from works where policy_free_yn_value = 'Y' AND free_st_dt &lt;= datetime('now') AND free_ed_dt >= datetime('now') order by works_title ASC ,cast(pop_score as float) DESC ,works_reg_dt DESC"</string>
+    <string name="policy_free_update">"select * from works where policy_free_yn_value = 'Y' AND free_st_dt &lt;= datetime('now') AND free_ed_dt >= datetime('now') order by isup DESC ,last_ep_reg_dt DESC ,cast(pop_score as float) DESC ,works_title ASC"</string>
+    <string name="select_fcm_push">"select rowid as '_id' ,email_id ,type ,title ,desc ,image ,works_no ,works_title ,writer_orgnm ,writer_engnm ,thumb_img_url ,regDate from fcm_push where email_id = #email_id# order by regDate desc"</string>
+    <string name="select_genre_sort_pop_sorce">"select * from works where serially_status_value = 'finish' and genre_value like #genre_value# order by cast(pop_score as float) DESC ,works_reg_dt DESC ,works_title ASC"</string>
+    <string name="select_genre_sort_pop_sorce_all">"select * from works where serially_status_value = 'finish' order by cast(pop_score as float) DESC ,works_reg_dt DESC ,works_title ASC"</string>
+    <string name="select_genre_sort_pop_sorce_all_new">"select * from works where serially_status_value = 'finish' order by isnew DESC ,works_reg_dt DESC ,cast(pop_score as float) DESC ,works_title ASC"</string>
+    <string name="select_genre_sort_pop_sorce_all_title">"select * from works where serially_status_value = 'finish' order by works_title ASC ,cast(pop_score as float) DESC ,works_reg_dt DESC"</string>
+    <string name="select_genre_sort_pop_sorce_all_update">"select * from works where serially_status_value = 'finish' order by isup DESC ,last_ep_reg_dt DESC ,cast(pop_score as float) DESC ,works_title ASC"</string>
+    <string name="select_genre_sort_pop_sorce_new">"select * from works where serially_status_value = 'finish' and genre_value like #genre_value# order by isnew DESC ,works_reg_dt DESC ,cast(pop_score as float) DESC ,works_title ASC"</string>
+    <string name="select_genre_sort_pop_sorce_title">"select * from works where serially_status_value = 'finish' and genre_value like #genre_value# order by works_title ASC ,cast(pop_score as float) DESC ,works_reg_dt DESC"</string>
+    <string name="select_genre_sort_pop_sorce_update">"select * from works where serially_status_value = 'finish' and genre_value like #genre_value# order by isup DESC ,last_ep_reg_dt DESC ,cast(pop_score as float) DESC ,works_title ASC"</string>
+    <string name="select_policy_limited">"select * from works where policy_limited_yn_value = 'Y' AND limited_free_st_dt &lt;= datetime('now') AND limited_free_ed_dt >= datetime('now') order by cast(pop_score as float) DESC ,works_reg_dt DESC ,works_title ASC"</string>
+    <string name="select_policy_limited_new">"select * from works where policy_limited_yn_value = 'Y' AND limited_free_st_dt &lt;= datetime('now') AND limited_free_ed_dt >= datetime('now') order by isnew DESC ,works_reg_dt DESC ,cast(pop_score as float) DESC ,works_title ASC"</string>
+    <string name="select_policy_limited_title">"select * from works where policy_limited_yn_value = 'Y' AND limited_free_st_dt &lt;= datetime('now') AND limited_free_ed_dt >= datetime('now') order by works_title ASC ,cast(pop_score as float) DESC ,works_reg_dt DESC"</string>
+    <string name="select_policy_limited_update">"select * from works where policy_limited_yn_value = 'Y' AND limited_free_st_dt &lt;= datetime('now') AND limited_free_ed_dt >= datetime('now') order by isup DESC ,last_ep_reg_dt DESC ,cast(pop_score as float) DESC ,works_title ASC"</string>
+    <string name="select_policy_share">"select * from works where policy_share_yn_value = 'Y' order by cast(pop_score as float) DESC ,works_reg_dt DESC ,works_title ASC"</string>
+    <string name="select_policy_share_new">"select * from works where policy_share_yn_value = 'Y' order by isnew DESC ,works_reg_dt DESC ,cast(pop_score as float) DESC ,works_title ASC"</string>
+    <string name="select_policy_share_title">"select * from works where policy_share_yn_value = 'Y' order by works_title ASC ,cast(pop_score as float) DESC ,works_reg_dt DESC"</string>
+    <string name="select_policy_share_update">"select * from works where policy_share_yn_value = 'Y' order by isup DESC ,last_ep_reg_dt DESC ,cast(pop_score as float) DESC ,works_title ASC"</string>
+    <string name="select_search_keyword">"select rowid as '_id' ,keyword ,reg_dt from search_keyword where keyword like #keyword# order by reg_dt desc limit 5"</string>
+    <string name="select_serially_day_sort_new">"select * from works where (serially_status_value = 'publish' or serially_status_value = 'stop') and serially_day_value like #serially_day_value# order by isnew DESC ,works_reg_dt DESC ,cast(pop_score as float) DESC ,works_title ASC"</string>
+    <string name="select_serially_day_sort_new_all">"select * from works where serially_status_value = 'publish' or serially_status_value = 'stop' order by isnew DESC ,works_reg_dt DESC ,cast(pop_score as float) DESC ,works_title ASC"</string>
+    <string name="select_serially_day_sort_pop_sorce">"select * from works where (serially_status_value = 'publish' or serially_status_value = 'stop') and serially_day_value like #serially_day_value# order by cast(pop_score as float) DESC ,works_reg_dt DESC ,works_title ASC"</string>
+    <string name="select_serially_day_sort_pop_sorce_all">"select * from works where serially_status_value = 'publish' or serially_status_value = 'stop' order by cast(pop_score as float) DESC ,works_reg_dt DESC ,works_title ASC"</string>
+    <string name="select_serially_day_sort_title">"select * from works where (serially_status_value = 'publish' or serially_status_value = 'stop') and serially_day_value like #serially_day_value# order by works_title ASC ,cast(pop_score as float) DESC ,works_reg_dt DESC"</string>
+    <string name="select_serially_day_sort_title_all">"select * from works where serially_status_value = 'publish' or serially_status_value = 'stop' order by works_title ASC ,cast(pop_score as float) DESC ,works_reg_dt DESC"</string>
+    <string name="select_serially_day_sort_update">"select * from works where (serially_status_value = 'publish' or serially_status_value = 'stop') and serially_day_value like #serially_day_value# order by isup DESC ,last_ep_reg_dt DESC ,cast(pop_score as float) DESC ,works_title ASC"</string>
+    <string name="select_serially_day_sort_update_all">"select * from works where serially_status_value = 'publish' or serially_status_value = 'stop' order by isup DESC ,last_ep_reg_dt DESC ,cast(pop_score as float) DESC ,works_title ASC"</string>
+    <string name="select_user_tr_info">select * from user_tr_info where email_id = #email_id#</string>
+    <string name="select_user_tr_works_info_skip">select * from user_tr_works_info_skip where works_id = #works_id# and email_id = #email_id#</string>
+    <string name="select_works_ep_is_read">select count(*) from works_read where works_no = #works_no# and ep_no = #ep_no# and email_id = #email_id#</string>
+    <string name="select_works_read_bookmark">select email_id ,works_no ,ep_id ,ep_no ,scroll_pos ,ep_origin_id ,ep_origin_yn from works_read where works_no = #works_no# and email_id = #email_id# order by regDate desc limit 1</string>
+    <string name="select_works_reclist">select email_id ,works_no ,regDate from works_read where email_id = #email_id# group by works_no order by regDate desc</string>
+    <string name="select_works_review_check_count">select count(*) from works_read where works_no = #works_no# and email_id = #email_id# and ep_no between #start# and #end# order by regDate desc</string>
+    <string name="select_works_tr_data">select * from works_tr_data where email_id = #email_id# and works_no = #works_no# and ep_origin_id = #ep_origin_id#</string>
+    <string name="select_works_tr_data_count">select count(*) from works_tr_data where email_id = #email_id# and works_no = #works_no# and ep_origin_id = #ep_origin_id#</string>
+    <string name="tagmanager_preview_dialog_button">Continue</string>
+    <string name="tagmanager_preview_dialog_message">Preview mode updated.</string>
+    <string name="tagmanager_preview_dialog_title">Preview</string>
+    <string name="writer_is_oder_genre">SELECT * FROM works where genre_value like #genre_value# order by cast(pop_score as float) DESC limit 10</string>
+    <string name="writer_is_oder_works">SELECT * FROM works where writer_label = #writer_label# order by cast(pop_score as float) DESC</string>
+</resources>

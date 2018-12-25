@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="accounts_identity_signed_in">Signed in as %s</string>
+    <string name="action_disabled_content_description">Action disabled</string>
+    <string name="active_recording_content_description">This meeting is being recorded</string>
+    <string name="activity_label_conference">Your meeting</string>
+    <string name="activity_label_greenroom">Ready to join</string>
+    <string name="activity_label_join_by_url">Use a meeting code</string>
+    <string name="ad_hoc_meeting_content_description">{title} left at {time}</string>
+    <string name="add_account_button_text">Add account</string>
+    <string name="add_button_text">Add</string>
+    <string name="add_room_prompt_text">"Already in a conference room? Add the room that you're in to join the meeting there."</string>
+    <string name="add_room_toolbar_text">Add your room</string>
+    <string name="admit">ADMIT</string>
+    <string name="alias_hint_text">Enter a temporary meeting nickname</string>
+    <string name="alias_not_allowed_error_text">"Your account doesn't let you use meeting nicknames"</string>
+    <string name="alias_or_meeting_code_invalid_character_error_text">"You can't use that character here"</string>
+    <string name="app_name">Meet</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="as_account_item">Switch to %1$s</string>
+    <string name="as_account_item_default">Switch account</string>
+    <string name="as_account_list">Account list</string>
+    <string name="as_add_account">Add account</string>
+    <string name="as_hide_account_list">Hide accounts</string>
+    <string name="as_manage_accounts">Manage accounts</string>
+    <string name="as_selected_account">Signed in to %1$s</string>
+    <string name="as_show_account_list">Show accounts</string>
+    <string name="as_sign_in">Sign in</string>
+    <string name="ask_permission_button_text">Got it</string>
+    <string name="ask_permission_text">"To make video calls on {app_name}, allow access to your device's video camera and microphone"</string>
+    <string name="ask_permission_title">Get started</string>
+    <string name="ask_to_join_meeting">Ask to join</string>
+    <string name="asking_to_join_meeting">Asking to join…</string>
+    <string name="attending">Attending ({number_of_participants})</string>
+    <string name="avatar_content_description">Profile Photo</string>
+    <string name="avatar_content_description_clickable">Profile Photo, tap to open profile</string>
+    <string name="avatar_content_description_with_name">"%s's profile photo"</string>
+    <string name="avatar_content_description_with_name_clickable">"%s's profile photo, tap to open profile"</string>
+    <string name="avatar_image_content_description">Avatars of invited people.</string>
+    <string name="back_button">Back</string>
+    <string name="backend_changed_message">Restart the app for changes to be applied</string>
+    <string name="backends_preference_category">Backends</string>
+    <string name="booked_text">(Booked)</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="calendar_event_content_description">{has_location, select, true {{title} at {time}. The location is {location}} other {{title} at {time}. The event has no location.}}</string>
+    <string name="call_ended_abnormally">Call ended abnormally: code {END_CAUSE}.</string>
+    <string name="camera_blocked_content_description">Camera blocked</string>
+    <string name="camera_permissions_denied_dialog_text">Allow {app_name} access to your camera in Settings</string>
+    <string name="camera_permissions_denied_dialog_title">Camera permissions denied</string>
+    <string name="cancel">Cancel</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="chat_compose_hint">Send a message to everyone</string>
+    <string name="chat_compose_send_limit_hint">"You can't type any more here"</string>
+    <string name="chat_failed_message_delete">Delete</string>
+    <string name="chat_failed_message_resend">Resend</string>
+    <string name="chat_list_content_description">Chat messages</string>
+    <string name="chat_local_sender_name">You</string>
+    <string name="chat_message_send_failed_status">Failed to send. Tap to resend or delete.</string>
+    <string name="chat_messages_recorded">Messages are also recorded</string>
+    <string name="chat_send_button_content_description">Send message</string>
+    <string name="chat_tab">{unread_message_count, plural, =0 {CHAT} =1 {CHAT (1)} other {CHAT (#)}}</string>
+    <string name="chat_tab_content_description">{unread_message_count, plural, =0 {CHAT} =1 {CHAT, 1 new message} other {CHAT, # new messages}}</string>
+    <string name="chat_time_label_minutes">{minutes, plural, =1 {1 min} other {# mins}}</string>
+    <string name="chat_time_label_now">Now</string>
+    <string name="chat_unknown_sender_name">Unknown sender</string>
+    <string name="choose_account_title">Choose account</string>
+    <string name="clear_button_content_description">Clear search</string>
+    <string name="clear_text">Clear Text</string>
+    <string name="clipboard_detected_link">You copied a meeting link. Join this meeting?</string>
+    <string name="close_dialog">Close</string>
+    <string name="close_invite_dialog_content_description">Close dialog</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Get Google Play services</string>
+    <string name="common_google_play_services_install_text_phone">"%1$s won't run without Google Play services, which are missing from your phone."</string>
+    <string name="common_google_play_services_install_text_tablet">"%1$s won't run without Google Play services, which are missing from your tablet."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. If the problem persists, please contact the developer for assistance.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s relies on Google Play services, which is not supported by your device. Contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_updating_title">Google Play services are updating</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="confidential_body">This dogfood version of %1$s is internal only and may contain features not yet released publicly.</string>
+    <string name="confidential_title">CONFIDENTIAL</string>
+    <string name="create_new_meeting_content_description">Create new meeting</string>
+    <string name="create_new_meeting_loading_screen_content_description">Creating meeting</string>
+    <string name="debug_preference_title">Debug</string>
+    <string name="deny_entry">DENY ENTRY</string>
+    <string name="description">Description</string>
+    <string name="details_tab">DETAILS</string>
+    <string name="developer_preference_category">Developer settings</string>
+    <string name="dial_in_numbers_error_text">"Can't show phone numbers"</string>
+    <string name="dial_in_numbers_title">Dial-in numbers</string>
+    <string name="dialog_close">Cancel</string>
+    <string name="disable_video_content_description">Turn off camera</string>
+    <string name="display_dial_in_number_for_other_meeting">"You'll leave the meeting you're in so you can see the phone numbers for your new meeting"</string>
+    <string name="display_dial_in_number_for_other_meeting_button">View numbers</string>
+    <string name="drawer_closed">Drawer closed</string>
+    <string name="drawer_opened">Drawer opened</string>
+    <string name="ejected_notification_text">Someone has removed you from the meeting</string>
+    <string name="enable_video_content_description">Turn on camera</string>
+    <string name="error_fetching_calendar_events">Error fetching calendar events</string>
+    <string name="event_list_content_description">"{day, select, previous_meetings {Previous meetings.} Today {Today's events.} Tomorrow {Tomorrow's events.} other {The events happening on {day}}}"</string>
+    <string name="expand_action_bar_content_description">Actions for {DISPLAY_NAME}</string>
+    <string name="failed_join">Failed to join meeting.</string>
+    <string name="failed_join_full_meeting">Failed to join. Meeting is full.</string>
+    <string name="failed_join_meeting_not_found">Failed to join. Meeting not found.</string>
+    <string name="failed_to_create_new_meeting_toast">Failed to create new meeting.</string>
+    <string name="failed_to_find_meeting_toast">No such meeting</string>
+    <string name="filmstrip_local_participant_name_content_description">You</string>
+    <string name="filmstrip_pin_content_description_action_hint">Pin to the main screen</string>
+    <string name="filmstrip_state_content_description_muted">Muted</string>
+    <string name="filmstrip_state_content_description_pinned">Pinned</string>
+    <string name="filmstrip_state_content_description_presenting">Presenting</string>
+    <string name="filmstrip_unpin_content_description_action_hint">Unpin from the main screen</string>
+    <string name="flinging_loading_screen_content_description">Looking for the meeting</string>
+    <string name="general_error_text">Something went wrong. Try again later.</string>
+    <string name="greenroom_meeting_title_content_description">Meeting title: {MEETING_TITLE}</string>
+    <string name="greenroom_participants_in_call">{NUMBER_OF_PARTICIPANTS, plural, offset:2 =0 {You are the first one here.} =1 {&lt;b>In call:&lt;/b> {PARTICIPANT_NAME}} =2 {&lt;b>In call:&lt;/b> {FIRST_PARTICIPANT} and {SECOND_PARTICIPANT}} other {&lt;b>In call:&lt;/b> {FIRST_PARTICIPANT}, {SECOND_PARTICIPANT} and # more.}}</string>
+    <string name="greenroom_recording_notification">This meeting is being recorded</string>
+    <string name="greenroom_unknown_caller">Unknown caller</string>
+    <string name="help">Help</string>
+    <string name="hide_action_bar_content_description">Hide actions for {DISPLAY_NAME}</string>
+    <string name="home_menu_settings">Settings</string>
+    <string name="in_call_in_other_app">"You can't join a video call while you're on a phone call"</string>
+    <string name="initializing_recording_content_description">Recording will start soon</string>
+    <string name="input_source_button_content_description_hint">Show more info</string>
+    <string name="internal_only_text">Internal only</string>
+    <string name="invalid_account_toast_text">Account not found: %s</string>
+    <string name="invited_people_content_description">Invited people</string>
+    <string name="invited_tab">INVITED</string>
+    <string name="join_another_meeting_dialog">"You'll leave the meeting you're in so you can join your new meeting"</string>
+    <string name="join_button_content_description">Join the meeting.</string>
+    <string name="join_meeting">Join</string>
+    <string name="join_meeting_button_content_description">Join the {title} meeting.</string>
+    <string name="join_meeting_by_phone">Join by phone</string>
+    <string name="join_meeting_dialog_string">Join</string>
+    <string name="join_meeting_with_code">Use a meeting code</string>
+    <string name="join_meeting_with_code_edit_text_hint">Meeting code or link</string>
+    <string name="join_recorded_meeting_dialog_header">This meeting is being recorded</string>
+    <string name="join_recorded_meeting_dialog_join">JOIN NOW</string>
+    <string name="join_recorded_meeting_dialog_leave">LEAVE</string>
+    <string name="join_the_same_meeting">"You're already in this meeting"</string>
+    <string name="joined">Joined</string>
+    <string name="joining_as">Joining as</string>
+    <string name="joining_info">Joining info</string>
+    <string name="joining_meeting">Joining meeting…</string>
+    <string name="joining_meeting_loading_screen_content_description">Joining meeting</string>
+    <string name="joining_meeting_snackbar_text">Trying to join the meeting in {room_name}…</string>
+    <string name="knocking_denied_text">Someone in the meeting denied your request to join</string>
+    <string name="landscape_overlay_description">"{MEETING_TIME_STRING}  •  {NUMBER_OF_PARTICIPANTS_STRING}"</string>
+    <string name="learn_more_preference_text">Learn more</string>
+    <string name="leave_meeting">Leave the meeting</string>
+    <string name="left_at_text">Left at {time}</string>
+    <string name="licenses">Open source licenses</string>
+    <string name="lobby_sub_text">"You'll join the meeting when someone lets you in"</string>
+    <string name="local_participant_display_name">{DISPLAY_NAME} (You)</string>
+    <string name="location">Location</string>
+    <string name="login_impl_failed_loading_device_accounts">Failed to retrieve device accounts.</string>
+    <string name="login_pending">Signing in…</string>
+    <string name="maybe">Maybe ({number_of_participants})</string>
+    <string name="meeting_pin">{PIN}#</string>
+    <string name="meetings_backend_preference">Meetings</string>
+    <string name="mesi_backend_preference">Media signalling</string>
+    <string name="microphone_blocked_content_description">Microphone blocked</string>
+    <string name="microphone_off_popup">Microphone off</string>
+    <string name="microphone_on_popup">Microphone on</string>
+    <string name="microphone_permissions_denied_dialog_text">Allow {app_name} access to your microphone in Settings</string>
+    <string name="microphone_permissions_denied_dialog_title">Microphone permissions denied</string>
+    <string name="more_numbers">More numbers</string>
+    <string name="more_phone_numbers">More phone numbers</string>
+    <string name="more_rooms_text">More rooms</string>
+    <string name="mute_action">Mute</string>
+    <string name="mute_due_to_large_meeting">Your microphone is off due to the size of the meeting</string>
+    <string name="mute_microphone_content_description">Turn off microphone</string>
+    <string name="mute_participant_content_description">Mute audio from {DISPLAY_NAME}</string>
+    <string name="muted_notification_text">{PARTICIPANT_NAME} turned off your microphone</string>
+    <string name="nearby_rooms">Nearby rooms</string>
+    <string name="next_button">Next</string>
+    <string name="no_additional_phone_numbers">No additional phone numbers</string>
+    <string name="no_caller_info">No caller info</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="no_internet_connection_dialog">You have no internet connection</string>
+    <string name="no_matching_rooms_text">No rooms match your search</string>
+    <string name="no_scheduled_meetings">Video meetings scheduled in Google Calendar show up here</string>
+    <string name="not_attending">Not attending ({number_of_participants})</string>
+    <string name="not_responded">Not Responded ({number_of_participants})</string>
+    <string name="notification_content">Choose option below to join the meeting</string>
+    <string name="notification_title">{event_title} is starting soon</string>
+    <string name="ok">OK</string>
+    <string name="okay_got_it">Got it</string>
+    <string name="ongoing_meeting_content_description">{app_name} meeting ongoing</string>
+    <string name="ongoing_meeting_content_text">Tap to return to the meeting</string>
+    <string name="open_navigation_drawer_content_description">Open navigation drawer</string>
+    <string name="or_dial">Or dial:</string>
+    <string name="overflow_menu_content_description">More options</string>
+    <string name="overlay_people_indicator">People ({NUMBER_OF_PARTICIPANTS})</string>
+    <string name="participant_count">({number_of_participants})</string>
+    <string name="participant_count_content_description">{number_of_participants, plural, =1 {No one else is in this meeting} other {# people in this meeting}}</string>
+    <string name="participant_joined_notification_text">{PARTICIPANT_NAME} joined</string>
+    <string name="participant_left_notification_text">{PARTICIPANT_NAME} left the meeting</string>
+    <string name="password_toggle_content_description">Toggle password visibility</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="people_panel_list_separator">Also in the meeting ({NUMBER_OF_PARTICIPANTS})</string>
+    <string name="people_tab_label">PEOPLE ({NUMBER_OF_PARTICIPANTS})</string>
+    <string name="permissions_denied_dialog_button_text">OPEN SETTINGS</string>
+    <string name="pin">PIN:</string>
+    <string name="pin_action">Pin</string>
+    <string name="pinnable_participant_element_content_description_prefix">Pin {DISPLAY_NAME} as the main speaker</string>
+    <string name="popupmenu_announce">{menu_items, plural, =1 {Showing 1 item} other {Showing # items}}</string>
+    <string name="preference_content_description">Preference</string>
+    <string name="preferences_license_title">Open source licenses</string>
+    <string name="presentation_announce_text">{DISPLAY_NAME} is presenting</string>
+    <string name="presentation_stopped_announce_content_description">{DISPLAY_NAME} stopped presenting</string>
+    <string name="previous_meetings">Previous meetings</string>
+    <string name="primes_marker">PrImEs</string>
+    <string name="primes_version">171372998</string>
+    <string name="recording_initiated">This meeting is being recorded</string>
+    <string name="recording_initiated_by_participant">{PARTICIPANT_NAME} has started recording</string>
+    <string name="recording_notification_text">REC</string>
+    <string name="recording_stopped">Recording stopped</string>
+    <string name="recording_stopped_by_participant">{PARTICIPANT_NAME} has stopped recording</string>
+    <string name="refresh_event_list">Refresh event list</string>
+    <string name="region_code_indicator">({REGION_CODE})</string>
+    <string name="rejoin_meeting">Rejoin</string>
+    <string name="rejoin_meeting_button_content_description">Rejoin the {title} meeting.</string>
+    <string name="remote_knocker_denied">{PARTICIPANT_NAME} was not allowed to join this call</string>
+    <string name="remote_knocker_notification_text">Someone named {PARTICIPANT_NAME} (outside {ORGANIZATION_NAME}) wants to join this meeting</string>
+    <string name="remove_action">Remove</string>
+    <string name="remove_participant_content_description">Remove {DISPLAY_NAME} from the meeting</string>
+    <string name="report_a_problem">Report a problem</string>
+    <string name="require_select_account_toast">Selecting an account is required</string>
+    <string name="room_search_edit_text_hint">Enter room name</string>
+    <string name="rooms_that_match_text">Rooms that match</string>
+    <string name="send_feedback">Send feedback</string>
+    <string name="separator_text_content_description">{day, select, previous_meetings {{number_of_events, plural, =0 {You have no previous meetings.} =1 {You have one previous meeting.} other {You have # previous meetings.}}} Today {{number_of_events, plural, =0 {You have no more events today.} =1 {You have one more event today.} other {You have # more events today.}}} Tomorrow {{number_of_events, plural, =0 {You have no events tomorrow.} =1 {You have one event tomorrow.} other {You have # events tomorrow.}}} other {{number_of_events, plural, =0 {You have no events on {day}.} =1 {You have one event on {day}.} other {You have # events on {day}.}}}}</string>
+    <string name="settings_menu_bluetooth">Enable Bluetooth detection</string>
+    <string name="settings_menu_diagnostics">Send more diagnostic info</string>
+    <string name="settings_menu_diagnostics_description">Google can use this to make this product better</string>
+    <string name="settings_menu_diagnostics_disabled_description">Your administrator controls this setting</string>
+    <string name="settings_menu_general_label">General</string>
+    <string name="settings_menu_proximity_label">Meeting room proximity detection</string>
+    <string name="settings_menu_ultrasound">Enable ultrasound detection</string>
+    <string name="settings_name">Settings</string>
+    <string name="share">Share</string>
+    <string name="share_dialog_content_description">Share dialog</string>
+    <string name="share_meeting_details_text">"Meeting URL: {meeting_link}
+{has_dial_in_info, select, true {Phone: {meeting_phone_number} PIN: {meeting_pin}
+} other {}}{has_dial_in_url, select, true {More numbers: {meeting_dial_in_url} } other {}}"</string>
+    <string name="share_meeting_text_subject_line">{has_calendar_event, select, true {{app_name} invite: {meeting_title} @ {meeting_time}} other {{app_name} invite}}</string>
+    <string name="share_meetings_details">Share meeting details with:</string>
+    <string name="share_notification_description_text">Share this info with people you want in the meeting</string>
+    <string name="signup_error_network">"Couldn't connect to the server."</string>
+    <string name="signup_irrecoverable_error">"Couldn't log in the selected account. Please check your account password and try again."</string>
+    <string name="signup_retry">Try again</string>
+    <string name="signup_title_irrecoverable_error">Login error</string>
+    <string name="signup_title_no_connection">No connection</string>
+    <string name="single_event_activity_description">Meeting details</string>
+    <string name="skip_button">Skip</string>
+    <string name="suggested_rooms_text">Suggested rooms</string>
+    <string name="swipe_up_to_see_your_meetings">Swipe up to see your meetings</string>
+    <string name="switch_account_button_content_description">Switch account button</string>
+    <string name="switch_camera">Switch camera</string>
+    <string name="switch_text_off">Off</string>
+    <string name="switch_text_on">On</string>
+    <string name="switch_user_account_text">(Switch)</string>
+    <string name="tap_to_dial">Tap to dial number and pin</string>
+    <string name="tiktok_account_accounts_add">Add Account</string>
+    <string name="tiktok_account_accounts_adding">Adding Account…</string>
+    <string name="tiktok_account_accounts_choose">Choose account</string>
+    <string name="tiktok_account_accounts_error">Error loading accounts. Tap to retry.</string>
+    <string name="tiktok_account_accounts_more">Show more…</string>
+    <string name="tiktok_account_accounts_pseudonymous">Use without Google account</string>
+    <string name="timeout_joining_meeting_toast">Timed out trying to join a meeting.</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="try_again_later">Try again later</string>
+    <string name="unable_to_create_meetings_button">Got it</string>
+    <string name="unable_to_create_meetings_text">"Your account only lets you use {app_name} to join meetings you've been invited to. To create your own meetings, you have to use a G Suite account that's enabled for {app_name}."</string>
+    <string name="unable_to_create_meetings_title">Welcome to {app_name}</string>
+    <string name="unmute_microphone_content_description">Turn on microphone</string>
+    <string name="unpin_action">Unpin</string>
+    <string name="unpinnable_participant_element_content_description">Unpin {DISPLAY_NAME} as the main speaker</string>
+    <string name="version_check_force_upgrade">To continue using {app_name}, upgrade to the latest version</string>
+    <string name="version_check_force_upgrade_title">Upgrade required</string>
+    <string name="version_check_no_thanks">No thanks</string>
+    <string name="version_check_suggest_upgrade">A newer version of {app_name} is available. Upgrade now to get the best experience.</string>
+    <string name="version_check_upgrade">Upgrade now</string>
+    <string name="version_code">Version {VERSION_NUMBER}</string>
+    <string name="video_disabled_content_description">Camera is turned off</string>
+    <string name="video_enabled_content_description">Camera is turned on</string>
+    <string name="your_meetings">Your meetings</string>
+    <item type="string" name="APKTOOL_DUMMY_0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_10">false</item>
+    <item type="string" name="APKTOOL_DUMMY_11">false</item>
+    <item type="string" name="APKTOOL_DUMMY_12">false</item>
+    <item type="string" name="APKTOOL_DUMMY_16">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_27">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_46">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_51">false</item>
+    <item type="string" name="APKTOOL_DUMMY_65">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_84">false</item>
+    <item type="string" name="APKTOOL_DUMMY_85">false</item>
+    <item type="string" name="APKTOOL_DUMMY_86">false</item>
+    <item type="string" name="APKTOOL_DUMMY_87">false</item>
+    <item type="string" name="APKTOOL_DUMMY_88">false</item>
+    <item type="string" name="APKTOOL_DUMMY_8a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_95">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_9f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_a0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_b2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_b4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_b6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_b7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_c0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_d9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_dd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_de">false</item>
+    <item type="string" name="APKTOOL_DUMMY_e1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_e3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_e5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_e7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_e8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_e9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_ea">false</item>
+    <item type="string" name="APKTOOL_DUMMY_eb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_fc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_ff">false</item>
+    <item type="string" name="APKTOOL_DUMMY_108">false</item>
+    <item type="string" name="APKTOOL_DUMMY_10b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_10c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_110">false</item>
+    <item type="string" name="APKTOOL_DUMMY_11e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_124">false</item>
+    <item type="string" name="APKTOOL_DUMMY_125">false</item>
+    <item type="string" name="APKTOOL_DUMMY_126">false</item>
+    <item type="string" name="APKTOOL_DUMMY_128">false</item>
+    <item type="string" name="APKTOOL_DUMMY_129">false</item>
+    <item type="string" name="APKTOOL_DUMMY_12b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_12c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_12e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_139">false</item>
+    <item type="string" name="APKTOOL_DUMMY_140">false</item>
+    <item type="string" name="APKTOOL_DUMMY_143">false</item>
+    <item type="string" name="APKTOOL_DUMMY_146">false</item>
+    <item type="string" name="APKTOOL_DUMMY_147">false</item>
+    <item type="string" name="APKTOOL_DUMMY_14a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_14b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_14c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_154">false</item>
+    <item type="string" name="APKTOOL_DUMMY_15a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_166">false</item>
+    <item type="string" name="APKTOOL_DUMMY_167">false</item>
+    <item type="string" name="APKTOOL_DUMMY_168">false</item>
+    <item type="string" name="APKTOOL_DUMMY_16f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_170">false</item>
+    <item type="string" name="APKTOOL_DUMMY_172">false</item>
+    <item type="string" name="APKTOOL_DUMMY_173">false</item>
+    <item type="string" name="APKTOOL_DUMMY_17e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_17f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_180">false</item>
+    <item type="string" name="APKTOOL_DUMMY_181">false</item>
+    <item type="string" name="APKTOOL_DUMMY_182">false</item>
+    <item type="string" name="APKTOOL_DUMMY_183">false</item>
+    <item type="string" name="APKTOOL_DUMMY_184">false</item>
+    <item type="string" name="APKTOOL_DUMMY_186">false</item>
+    <item type="string" name="APKTOOL_DUMMY_18d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_18e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_193">false</item>
+</resources>

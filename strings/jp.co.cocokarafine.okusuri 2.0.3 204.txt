@@ -1,0 +1,1379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="search_menu_title">Search</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="wallet_buy_button_place_holder">Buy with Google</string>
+    <string name="CheerApp_msg">ぜひ、アプリを応援してください！</string>
+    <string name="ExportMsg">ファイルをエクスポートする出力先フォルダ名を指定してください。</string>
+    <string name="ExportOutputFolderName">フォルダ名</string>
+    <string name="ExportOutputText">出力先</string>
+    <string name="ExportResultEndMsg">エクスポート処理が完了しました。</string>
+    <string name="ExportResultEndWrmMsg">"エクスポート処理が完了しました。
+一部のデータは省略されました。"</string>
+    <string name="ExprotComp">暗号化</string>
+    <string name="ExprotCompMsg">他社お薬手帳アプリでは、暗号化したファイルをインポートできない場合がございます。その場合には、暗号化せずエクスポートしたファイルを使用してください。</string>
+    <string name="ExprotNoCompMsg">"＜ご注意＞
+「暗号化せずに出力」を選択された場合、お薬情報は、端末内の「Download」フォルダに保存されますが、データ移行性確保の観点からパスワード等の暗号化処理されていない状態で保存されます。このため、意図せずにお薬情報が不正なアプリ等に読み取られ、情報が漏えいする恐れがあります。エクスポートしたお薬情報をご利用した後は、ファイルマネージャアプリなどを使用して、速やかに該当ファイルを削除する事をおすすめします。"</string>
+    <string name="ExprotNoCompNG">戻る</string>
+    <string name="ExprotNoCompOK">暗号化せず出力</string>
+    <string name="ExprotPass1">(1回目)</string>
+    <string name="ExprotPass2">(2回目)</string>
+    <string name="ExprotPassFormat">※パスワードは、6文字以上20文字以下で指定してください。</string>
+    <string name="ExprotPassWord">パスワード</string>
+    <string name="ExprotPassWord2">"パスワード
+（再入力）"</string>
+    <string name="ImportCautionMsg">＜ご注意＞&lt;br>お薬情報のインポートに使用したファイルはパスワード等の暗号化処理されていない状態で保存されている場合があります。そのため、お薬情報をインポートした後は、端末内の「Download」フォルダに保存されている該当ファイルはファイルマネージャアプリなどを使用して、速やかに削除する事をおすすめします。&lt;br>削除しない場合、&lt;font color=\"#cc2200\">意図せずにお薬情報が不正なアプリ等に読み取られ、情報が漏えいする恐れがあります。&lt;/font></string>
+    <string name="ImportMsg">インポートを実行するファイルを選択してください。</string>
+    <string name="ImportMsg2">&lt;/font>&lt;font color=\"#cc2200\">※zipファイルを指定した場合は、暗号化時に指定したパスワードを指定してください。&lt;br>※txtとzipを混在して指定することはできません。&lt;/font></string>
+    <string name="ImportPassWord">パスワード</string>
+    <string name="ImportResultEndMsg">インポート処理が完了しました。</string>
+    <string name="SharExplanation_banner">お薬情報を見せるとは？</string>
+    <string name="SharExplanation_msg2">"本サービスを利用するにはｄアカウントが必要です。
+
+インターネット上のサーバーに預けられたお薬情報を、ネットワークを介して医師、薬剤師などの医療従事者に見せることが出来ます。
+
+＜共有する情報＞
+　・利用者情報
+　・お薬情報（調剤情報）
+　・服薬チェック情報
+　・体調メモ
+
+＜操作手順＞
+　①「医療従事者に見せる」ボタン押下
+　②データお預け実行
+　③見せる対象の利用者を選択
+　④ワンタイムパスワードの発行
+　⑤発行したワンタイムパスワードを医療従事者に伝える
+
+＜ご注意事項＞
+　・本機能を利用する際には、直近の情報を医療従事者と共有するために、データお預かり操作を実行し、サーバーに登録されているお薬情報を最新化する必要があります。"</string>
+    <string name="Shar_DataSyncRequest_msg1">"お薬手帳アプリに記録したデータをインターネットのサーバーを介して医療従事者に共有することができます。
+共有情報を公開するには、データお預かりをする必要があります。"</string>
+    <string name="Shar_DataSyncRequest_msg2">現在のお薬手帳登録内容のお預かりを実行します。</string>
+    <string name="Shar_DataSyncRequest_msg3">お薬データお預かり設定を有効にすると便利です。</string>
+    <string name="Shar_OneTimePassRequest_Link">おくすり手帳情報を確認する</string>
+    <string name="Shar_OneTimePassRequest_banner">情報を公開する利用者を選択してください。</string>
+    <string name="Shar_OneTimePassRequest_msg2">共有情報を公開するには、利用者が医療従事者へ公開する情報のアクセス許可となるワンタイムコードを取得する必要があります。</string>
+    <string name="Shar_OneTimePassRequest_msg3">ワンタイムコードを発行しますか？</string>
+    <string name="Shar_OneTimePass_banner">ワンタイムコード</string>
+    <string name="Shar_OneTimePass_msg1">"ワンタイムコードを発行しました。
+医療機関の関係者に見せてください。"</string>
+    <string name="Shar_OneTimePass_msg2">画面下部に表示されているワンタイムコードを医療従事者に見せてください。</string>
+    <string name="Shar_OneTimePass_msg3">※ワンタイムコードは一定時間のみ有効なアクセスキーです。一定時間経過後は、医療関係者からのあなたのお薬手帳データ参照も不可となります。</string>
+    <string name="Share_OneTimePassRequest_UserTitle">@string/user_title</string>
+    <string name="StoreAbountAlartMsg1">"ご利用には「docomoID」が必要です。
+"</string>
+    <string name="StoreAbountAlartMsg2">"データ移行にはパケット通信料がかかります。
+"</string>
+    <string name="StoreAbountAlartMsgSymbol">・</string>
+    <string name="StoreAbountAlartTitle">"＜ご注意事項＞
+"</string>
+    <string name="StoreAbountMsg">"旧お預かりサービスにてお薬情報などをインターネットのサーバーにお預けされていた方は、本機能にて現状のアプリデータを移行することが可能です。
+
+「お薬データお預かり設定画面」にて「移行」ボタンを押し、実施ください。
+
+"</string>
+    <string name="StoreExplanation_banner">データお預け自動設定機能とは？</string>
+    <string name="StoreMigrationMsg">旧お預かりデータの受取が完了しました。</string>
+    <string name="UserNameTitle">さん</string>
+    <string name="UserRelatingExplanation">利用者紐付け機能とは？</string>
+    <string name="UserRelating_Button_Cancel">キャンセル</string>
+    <string name="UserRelating_Button_OK">実行</string>
+    <string name="UserRelating_Title1">利用者(アプリ)</string>
+    <string name="UserRelating_Title2">薬剤師共有用利用者</string>
+    <string name="UserRelating_msg">"データお預けで使用するｄアカウントには、すでにお預かりしているデータが存在します。
+薬剤師共有時にアプリケーション毎に存在するデータを関連付けするには、アプリケーション毎の利用者を薬剤師共有用利用者へ紐付けを行う必要があります。"</string>
+    <string name="UserRelating_msg2">"アプリ上の利用者と薬剤師共有用利用者の関連付けを変更することができます。
+表示されている利用者名をタップしてください。"</string>
+    <string name="UserRelating_msg3">上記の設定でデータお預けを実行しますか？</string>
+    <string name="UserRelating_newEntry">新規登録</string>
+    <string name="UserRename_Dlmsg">薬剤師共有用利用者名を入力してください</string>
+    <string name="UserRename_msg">"アプリ上の利用者が紐付いている薬剤師共有利用者の利用者名を変更することができます。
+表示されている利用者名をタップしてください。"</string>
+    <string name="UserRename_title">薬剤師共有用利用者名を入力してください</string>
+    <string name="WarningEnormousVolData_msg1">"本アプリを利用する際にパケット通信が発生します。
+パケット定額サービスの対象通信でない場合、パケット通信料が高額になる場合がありますのでご注意ください。"</string>
+    <string name="action_settings">Settings</string>
+    <string name="address_search">住所検索</string>
+    <string name="alarm_set_message">設定した時刻にアラームを鳴らし、飲み忘れをお知らせするメッセージを通知します。</string>
+    <string name="alarm_text_content">服薬スケジューラへ</string>
+    <string name="alarm_text_remain_title">もうすぐ切れるおくすりがあります。</string>
+    <string name="alarm_text_ticker">おくすりの飲み忘れがあります</string>
+    <string name="alarm_text_title">%1$s:おくすり飲み忘れがあります。</string>
+    <string name="assent_msg">許諾する</string>
+    <string name="blood_a">A型</string>
+    <string name="blood_ab">AB型</string>
+    <string name="blood_b">B型</string>
+    <string name="blood_o">O型</string>
+    <string name="btnNegative">次回から表示しない</string>
+    <string name="btnNeutral">また今度応援する</string>
+    <string name="btnPositive">応援する</string>
+    <string name="btnSendPrescription">処方箋を送る</string>
+    <string name="bullet_point">・</string>
+    <string name="checkbox_title">症状</string>
+    <string name="chermist_history">履歴</string>
+    <string name="chermist_search">検索</string>
+    <string name="chk_amt_message">服薬量を入力してください</string>
+    <string name="chk_amt_unit">単位：</string>
+    <string name="chk_set_alarm">飲み忘れ防止アラーム</string>
+    <string name="chk_set_days">服薬日数</string>
+    <string name="chk_set_days_unit">%1$d日分</string>
+    <string name="chk_set_empty">未設定</string>
+    <string name="chk_set_quantity">　　1回量</string>
+    <string name="chk_set_span">服薬間隔</string>
+    <string name="chk_set_start_date">服薬開始日</string>
+    <string name="chk_set_start_time">"服薬開始
+タイミング"</string>
+    <string name="chk_set_usage">　　用法</string>
+    <string name="chk_set_usagequantity">用法・1回量</string>
+    <string name="chk_set_week_msg">曜日を選択してください</string>
+    <string name="close">閉じる</string>
+    <string name="confirm_delete_message">削除します。よろしいですか？</string>
+    <string name="constipation">便秘</string>
+    <string name="date_format">yyyy年M月d日</string>
+    <string name="diarrhea">下痢</string>
+    <string name="dispensing_memo_text">調剤メモ</string>
+    <string name="error_chemis_name">薬剤師名を入力してください</string>
+    <string name="error_chemist_contact1">連絡先1を入力してください</string>
+    <string name="error_chemist_date_err">担当開始日は、担当終了日よりも前でなければなりません</string>
+    <string name="error_chemist_start">担当開始日を入力してください</string>
+    <string name="error_chk_set_days">服薬日数を設定してください</string>
+    <string name="error_chk_set_dose">用法を設定してください</string>
+    <string name="error_chk_set_quantity">1回量を設定してください</string>
+    <string name="error_chk_set_timing">服用のタイミングを選択してください</string>
+    <string name="error_chk_set_type">用法の入力方法を選択してください</string>
+    <string name="error_chk_span_day">間隔指定を設定してください</string>
+    <string name="error_chk_span_week">曜日指定を設定してください</string>
+    <string name="error_csv_duplicate">"既に読み取り済みのおくすり明細です。
+(10002005)"</string>
+    <string name="error_csv_duplicate_imp">"既に読み取り済みのおくすり明細です。
+(6100300)"</string>
+    <string name="error_csv_is_not_jahis">"サポート対象外のQRコードです。
+(%x)"</string>
+    <string name="error_csv_jahis_version">"未対応のフォーマットが読み込まれました。
+(%s)
+サポートまでの間、手入力にてお願いいたします。"</string>
+    <string name="error_csv_parse">"おくすり情報が読み取れませんでした
+以下のエラーコードを薬局にお伝えください。
+(%x)"</string>
+    <string name="error_d_id_err">別のdアカウントでログインしました。新しいdアカウントを使用しますか？</string>
+    <string name="error_d_id_err2">別のdアカウントでログインしたため、保存できません。編集を行ったdアカウントでログインしてください。</string>
+    <string name="error_duplex_remote">利用者紐付けのエントリが重複しています。紐付けを確認ください。</string>
+    <string name="error_empty_birthday">生年月日を入力してください</string>
+    <string name="error_empty_data">内容を入力してください</string>
+    <string name="error_empty_drugname">薬剤名を入力してください</string>
+    <string name="error_empty_gender">性別を入力してください</string>
+    <string name="error_empty_history">入力履歴がある場合は、履歴リストが表示され、リストからの選択入力が可能です。</string>
+    <string name="error_empty_memo">手帳メモを入力してください</string>
+    <string name="error_empty_mustneed">必須項目で未入力の項目があります</string>
+    <string name="error_empty_phrm">お薬は登録されていません</string>
+    <string name="error_empty_user">利用者が登録されていません。</string>
+    <string name="error_export">エクスポート処理に失敗しました</string>
+    <string name="error_export_inp">半角英数字で指定してください</string>
+    <string name="error_export_noname">ファイルをエクスポートする出力先フォルダを指定してください</string>
+    <string name="error_exportdir">出力先は既に存在しています。新しい名前を指定してください。</string>
+    <string name="error_exportpassformat">パスワードの形式が不正です。6文字以上20文字以下で指定してください。</string>
+    <string name="error_exportpassisempty">パスワードを入力してください</string>
+    <string name="error_exportpassunmatch">パスワードが一致していません。同じパスワードを指定してください。</string>
+    <string name="error_half">全角で入力してください</string>
+    <string name="error_hospital_name">病院名を入力してください</string>
+    <string name="error_import">インポート処理に失敗しました</string>
+    <string name="error_import2">"インポート処理に失敗しました
+(6100500)"</string>
+    <string name="error_import_noPass">zipファイルを指定するときは、パスワードを指定してください。</string>
+    <string name="error_import_noZipFormat">zipファイルを指定するときは、 1ファイルで指定してください</string>
+    <string name="error_import_noselect">インポートするファイルをチェックしてください</string>
+    <string name="error_import_zip">zipファイルの復号処理に失敗しました。パスワードを見直してください</string>
+    <string name="error_importnofile">"インポートするファイルが見つかりません。
+下記フォルダにインポート対象ファイルを格納してください。
+
+"</string>
+    <string name="error_jan_jsondata">バーコードの読込みに失敗しました。</string>
+    <string name="error_jan_nodata">該当する医薬品情報が見つかりませんでした</string>
+    <string name="error_jan_other">バーコードの読込みに失敗しました。</string>
+    <string name="error_jan_parmission">カメラを利用できません。カメラの利用を許可してください。</string>
+    <string name="error_kana">カタカナを入力してください</string>
+    <string name="error_logdoseone">屯服薬を選択してください。</string>
+    <string name="error_lspf_busy">只今お預かり処理を行っております。しばらくお待ちになってから、やり直してください</string>
+    <string name="error_lspf_network">"サーバーとの通信に失敗しました。再度、操作をやり直してください。尚、サーバーメンテナンスや通信圏外等の理由でつながらないことがありますので、通信失敗が続く場合は、しばらく時間をおくか、電波状態の良いところで操作をやり直してください。
+通信圏外でアプリを利用する場合は、「お薬データお預かり設定」よりお薬データお預かり設定を無効にしてください。
+(5100100)"</string>
+    <string name="error_lspf_server">"サーバーとの通信に失敗しました。再度、操作をやり直してください。尚、サーバーメンテナンスや通信圏外等の理由でつながらないことがありますので、通信失敗が続く場合は、しばらく時間をおくか、電波状態の良いところで操作をやり直してください。
+通信圏外でアプリを利用する場合は、「お薬データお預かり設定」よりお薬データお預かり設定を無効にしてください。
+(5300100)"</string>
+    <string name="error_max_over">全角%1$d文字以内で入力してください。</string>
+    <string name="error_no_cloud">設定から、「お薬データお預かり設定」を有効にしてください。</string>
+    <string name="error_no_user">お薬情報を見せる機能を利用するためには、利用者登録が必要です。</string>
+    <string name="error_none_otheruser">複数のお薬手帳アプリにて同一ｄアカウントによりデータお預けがされている場合に有効な機能です。</string>
+    <string name="error_nonexistent_postalcode">"該当住所がありません。
+郵便番号を再確認してください。"</string>
+    <string name="error_oct_date_err">服用開始日は、服用終了日よりも前でなければなりません</string>
+    <string name="error_oct_start">服用開始日を入力してください</string>
+    <string name="error_onetimepass_noremote">"選択された利用者のデータがサーバーへお預けされていません。データお預けを実施してください。
+端末上のデータお預けを行うには「ＴＯＰメニュー」の「データお預かり」ボタン押下→「ｄアカウント利用」タブ内の「データお預かり画面」の「預ける」ボタン押下
+
+※手動にてデータお預けを行うにはお預かり設定を「手動」へ設定してください。"</string>
+    <string name="error_phrm_name">薬局名を入力してください</string>
+    <string name="error_qr">QRコード処理に失敗しました</string>
+    <string name="error_qr_generate">QR生成処理に失敗しました</string>
+    <string name="error_read_timeout">おくすり情報の読み取りがタイムアウトしました。</string>
+    <string name="error_remotename">薬剤師共有用利用者名を入力してください</string>
+    <string name="error_same_alarm_time">既に同じアラーム時刻が設定されています</string>
+    <string name="error_same_username">既に登録済みの利用者名です。利用者名を変更してください</string>
+    <string name="error_save">保存処理に失敗しました</string>
+    <string name="error_start_app">アプリが起動できませんでした。</string>
+    <string name="error_start_browser">ブラウザが起動できませんでした。</string>
+    <string name="error_system_exitapp">"お薬手帳アプリを設定メニューのタスクマネージャから終了し、再度アプリを起動してください。
+タスクマネージャからのアプリ終了方法については、お使いの端末の取扱説明書をご確認ください。"</string>
+    <string name="error_system_message">アプリケーションでエラーが発生しました</string>
+    <string name="error_userId">利用者IDの取得に失敗しました</string>
+    <string name="fever">発熱</string>
+    <string name="formatJsonDate">yyyy-MM-dd hh:mm:ss.SSS</string>
+    <string name="formatMsgDate">yyyy/M/d HH:mm</string>
+    <string name="ga_cd3">%1$d代</string>
+    <string name="ga_etc">その他</string>
+    <string name="ga_nouser">利用者未登録</string>
+    <string name="headache">頭痛</string>
+    <string name="heartbeat">動悸</string>
+    <string name="heartburn">胸焼け</string>
+    <string name="hint_headline"><b>服薬スケジューラとは？</b></string>
+    <string name="how_to_use_hint_title">使い方ヒント</string>
+    <string name="keyEntry">keyEntry</string>
+    <string name="keyHolder">keyHolder</string>
+    <string name="kg_unit">kg</string>
+    <string name="log_dose_all">すべてにチェック</string>
+    <string name="log_dose_memo">←ボタンから今日の体調を記録しましょう</string>
+    <string name="log_dose_once">屯服</string>
+    <string name="log_dose_once_select_msg">服用した屯服薬を選んでください。</string>
+    <string name="log_dose_once_time">服薬時間</string>
+    <string name="log_memo_hint">体調の変化などを入力してください(500文字以内)</string>
+    <string name="low_back_pain">腰痛</string>
+    <string name="lsb_cloud_off">お薬データお預かり設定を無効にします</string>
+    <string name="lsb_clud_msg1">お薬データお預かり設定が有効となりました</string>
+    <string name="lspf_autosave_selectNo">手動</string>
+    <string name="lspf_autosave_selectYes">自動</string>
+    <string name="lspf_info1">お薬データお預かり設定</string>
+    <string name="lspf_info2">利用者紐付け設定</string>
+    <string name="lspf_info3">旧お預かりデータ受取</string>
+    <string name="lspf_msg1">お薬データお預かり設定を有効にすることで、サーバーにデータがお預けされ、本アプリの機能が全て有効となります。</string>
+    <string name="lspf_msg2">以下の機能はお薬データお預かり設定を有効にすることでご利用いただけます。</string>
+    <string name="lspf_msg3">以前の「%1$s」でサーバーに預けているお薬データを、新しいアプリ（本アプリ）で受け取ります。</string>
+    <string name="lspf_msg4">※受け取り操作を行うと、サーバー上のお薬データは、受け取った旧お預かりデータに上書きされます。上書きされたサーバー上のデータを元に戻すことはできません。</string>
+    <string name="lspf_progress">%1$d%%</string>
+    <string name="lspf_restore_err">サーバーとの通信に失敗しました。通信環境の良い場所で再度実行してください。</string>
+    <string name="lspf_title1">お薬データお預かり設定</string>
+    <string name="lspf_title2">旧お預かりデータ受取</string>
+    <string name="malaise">倦怠感</string>
+    <string name="medicine_check_appry_all"><u>すべて服用</u></string>
+    <string name="medicine_check_delete_dialog_msg">頓服薬を服薬チェックから削除します。よろしいですか？</string>
+    <string name="medicine_check_notexsit_text">服用するおくすりはありません</string>
+    <string name="medicine_check_took">おくすりを服用しました！</string>
+    <string name="medicine_check_top_bold"><b>服薬チェック</b></string>
+    <string name="medicine_check_top_title">服薬チェック</string>
+    <string name="medicine_log_dose_once">屯服薬</string>
+    <string name="medicine_log_memo_bold"><b>体調メモ</b></string>
+    <string name="medicine_log_memo_title">体調メモ</string>
+    <string name="medicine_notregister_user">利用者：未登録</string>
+    <string name="medicine_notregister_user_dialog">利用者登録をしてください。</string>
+    <string name="medicine_scheduler_hint_sentence_1">"●服薬チェックで飲み忘れ防止
+お薬を登録すると、カレンダーにお薬マークが表示されます。開くとチェックリストが出るので、日々の服用記録が可能です。"</string>
+    <string name="medicine_scheduler_hint_sentence_2">"※登録したおくすりの「飲み忘れ防止アラーム」をONにしている場合に有効です。
+"</string>
+    <string name="medicine_scheduler_hint_sentence_3">"●体調メモで日々の体調管理
+その日の体調を簡単に記録できます。記録したらカレンダーにメモマークが表示されます。"</string>
+    <string name="medicine_scheduler_title">服薬スケジューラ</string>
+    <string name="medicine_scheduler_today_exsit_plan">%1$s月%2$s日(%3$s) 服用するお薬があります</string>
+    <string name="medicine_scheduler_today_notexist_plan">%1$s月%2$s日(%3$s) 服用するお薬はありません</string>
+    <string name="medis_barcode_help_dialog_button_ok">はい</string>
+    <string name="medis_barcode_help_dialog_message">バーコードを中心線に合わせて、ゆっくりとスマートフォンを遠ざけてください。</string>
+    <string name="medis_barcode_title">バーコード読込み</string>
+    <string name="medis_dialog_searching">検索中・・・</string>
+    <string name="medis_err_message_json_err">JSONデータの作成に失敗しました</string>
+    <string name="medis_err_message_no_camera_permission">カメラへのアクセス権限がOFFになっております</string>
+    <string name="medis_err_message_no_hit">該当する薬が見つかりません</string>
+    <string name="medis_err_message_other">その他のエラーが発生しました</string>
+    <string name="medis_search_bar_hint">検索</string>
+    <string name="medis_search_not_item_comments">候補がありません。</string>
+    <string name="medis_search_title">おくすり検索</string>
+    <string name="medis_tab_barcode">バーコード</string>
+    <string name="medis_tab_search">検索</string>
+    <string name="medis_txt_json_data">"【JSONデータ】
+"</string>
+    <string name="medis_txt_no_json_data">"【JSONデータ】
+なし"</string>
+    <string name="medis_txt_result_code">"【Resultコード】
+"</string>
+    <string name="memo_title">メモ</string>
+    <string name="menu_about">アプリについて</string>
+    <string name="menu_alarm_set">飲み忘れアラーム</string>
+    <string name="menu_camera">写真を撮る</string>
+    <string name="menu_cancel">解除</string>
+    <string name="menu_delete">削除</string>
+    <string name="menu_edit">編集</string>
+    <string name="menu_etc">その他</string>
+    <string name="menu_execute">実行</string>
+    <string name="menu_export">薬剤情報エクスポート</string>
+    <string name="menu_help">ヘルプ</string>
+    <string name="menu_import">薬剤情報インポート</string>
+    <string name="menu_license">ライセンス</string>
+    <string name="menu_log_dose">服薬スケジューラ</string>
+    <string name="menu_logo">お薬手帳</string>
+    <string name="menu_lspf">お薬データお預かり設定</string>
+    <string name="menu_manual">取り扱い説明書</string>
+    <string name="menu_notice">お知らせ</string>
+    <string name="menu_phrm_add">おくすりを登録する</string>
+    <string name="menu_phrm_list">おくすり一覧</string>
+    <string name="menu_pickup">写真を選択</string>
+    <string name="menu_quest">アンケート</string>
+    <string name="menu_rcpt_send">処方箋画像送信</string>
+    <string name="menu_save">保存</string>
+    <string name="menu_serhosp">病院検索</string>
+    <string name="menu_serphar">薬局検索</string>
+    <string name="menu_setting">設定</string>
+    <string name="menu_sharing">お薬情報を見せる</string>
+    <string name="menu_terms">利用規約</string>
+    <string name="menu_top">トップ</string>
+    <string name="menu_tutorial">チュートリアル</string>
+    <string name="menu_user_list">利用者の管理</string>
+    <string name="message_photo_error_dialog">"画像を保存せずに終了します。
+よろしいですか？"</string>
+    <string name="month_format">yyyy年M月</string>
+    <string name="msg_LogOut">ｄアカウントのログアウト処理を実施しますか?</string>
+    <string name="msg_LogOutNo">キャンセル</string>
+    <string name="msg_LogOutYes">ＯＫ</string>
+    <string name="msg_update_do">アップデート</string>
+    <string name="msg_update_no">アップデートしない</string>
+    <string name="msg_update_txt">"最新のアプリケーションが存在します。
+アップデートするボタンを押して、アプリを最新の状態にしてください。"</string>
+    <string name="msg_update_txt2">"最新のアプリケーションが存在します。
+アップデートするボタンを押して、アプリを最新の状態にしてください。"</string>
+    <string name="msg_update_yes">アップデートする</string>
+    <string name="name">名前</string>
+    <string name="nausea">吐き気</string>
+    <string name="no">なし</string>
+    <string name="none_specified">日付未設定</string>
+    <string name="note_symbol">※</string>
+    <string name="notebook_memo_date">日付</string>
+    <string name="notebook_memo_link">手帳メモ></string>
+    <string name="notebook_memo_message">手帳メモを入力してください。</string>
+    <string name="notebook_memo_note">手帳メモ</string>
+    <string name="otc_dose_end">服用終了日</string>
+    <string name="otc_dose_start">服用開始日</string>
+    <string name="other_familiar_chemist">かかりつけ薬剤師</string>
+    <string name="other_fchemist_admin_end">担当終了日</string>
+    <string name="other_fchemist_admin_start">担当開始日</string>
+    <string name="other_fchemist_contact">連絡先</string>
+    <string name="other_fchemist_name">薬剤師氏名</string>
+    <string name="other_fchemist_phamacy">勤務先薬局名称</string>
+    <string name="other_ptn_note">患者特記内容</string>
+    <string name="other_rcpt_caution">注意事項</string>
+    <string name="other_rcpt_info">医療機関等提供情報</string>
+    <string name="other_rcpt_note">備考情報</string>
+    <string name="other_rcpt_ptn_info">患者等記入情報</string>
+    <string name="phrm_add_chkset">"おくすり情報を登録しました。
+
+読み取ったおくすりにはアラーム設定情報が設定され..いません。
+続けて設定しますか?"</string>
+    <string name="phrm_add_chkset_alert">"おくすり情報を登録しました。
+
+本画面では、以下が設定できます。
+・病名
+・飲み忘れ防止アラーム"</string>
+    <string name="phrm_add_chkset_multi">"おくすり情報を登録しました。
+
+読み取ったおくすりにはアラーム設定情報が設定されていないものがありますので、アラーム設定情報を設定ください。"</string>
+    <string name="phrm_add_chkset_no">設定しない</string>
+    <string name="phrm_add_chkset_yes">設定する</string>
+    <string name="phrm_delete_message">"おくすり情報を削除するとアラーム設定情報も削除されます。
+一度削除すると元に戻すことはできません。
+
+おくすり情報を削除しますか？"</string>
+    <string name="phrm_item_add">おくすりを追加</string>
+    <string name="phrm_item_alert">服薬注意</string>
+    <string name="phrm_item_appendix">お薬補足</string>
+    <string name="phrm_item_check">アラーム設定</string>
+    <string name="phrm_item_check_edit">アラーム設定</string>
+    <string name="phrm_item_check_empty">&lt;font color=#cc2200>未設定&lt;/font></string>
+    <string name="phrm_item_check_empty_once">&lt;font color=#ababab>未設定&lt;/font></string>
+    <string name="phrm_item_cnsl">診療科</string>
+    <string name="phrm_item_cnsldctor">診療科・処方医師</string>
+    <string name="phrm_item_combination">飲み合わせ情報</string>
+    <string name="phrm_item_combination_value_delimiter">"
+・"</string>
+    <string name="phrm_item_combination_value_prefix">"お薬との飲み合わせが悪い飲食物
+・"</string>
+    <string name="phrm_item_date">調剤等年月日</string>
+    <string name="phrm_item_delete">おくすり%1$dを削除</string>
+    <string name="phrm_item_doctor">処方医師</string>
+    <string name="phrm_item_drug">薬剤</string>
+    <string name="phrm_item_drug_query">%1$s くすりのしおり</string>
+    <string name="phrm_item_druggist">薬剤師</string>
+    <string name="phrm_item_drugstore">薬局</string>
+    <string name="phrm_item_form">剤型</string>
+    <string name="phrm_item_form_Internal_use">内服</string>
+    <string name="phrm_item_form_external">外用</string>
+    <string name="phrm_item_form_hot_water">湯</string>
+    <string name="phrm_item_form_infiltration">浸煎</string>
+    <string name="phrm_item_form_injection">注射</string>
+    <string name="phrm_item_form_internal_droplet">内滴</string>
+    <string name="phrm_item_form_material">材料</string>
+    <string name="phrm_item_form_other">その他</string>
+    <string name="phrm_item_form_potions">屯服</string>
+    <string name="phrm_item_header">医療機関</string>
+    <string name="phrm_item_hospital">病院</string>
+    <string name="phrm_item_index">(薬剤%1$d)</string>
+    <string name="phrm_item_mixed">【混合薬】</string>
+    <string name="phrm_item_otc">●市販薬の場合</string>
+    <string name="phrm_item_phrm">おくすり%1$d</string>
+    <string name="phrm_item_phrm_otc">おくすり</string>
+    <string name="phrm_item_prescription">●処方薬の場合</string>
+    <string name="phrm_item_quantity">調剤量</string>
+    <string name="phrm_item_remain">薬残量</string>
+    <string name="phrm_item_remain2">"薬残量
+(内服・屯服)"</string>
+    <string name="phrm_item_rsptinfo_num">(%1$d件)</string>
+    <string name="phrm_item_rsptinfo_value">(%1$s)%2$s</string>
+    <string name="phrm_item_usage">用法</string>
+    <string name="phrm_list_combination">飲み合わせに注意が必要な飲食物があります。（#num#薬剤）</string>
+    <string name="phrm_list_date">調剤等年月日：</string>
+    <string name="phrm_list_depart">診療科：</string>
+    <string name="phrm_list_detail">詳細情報></string>
+    <string name="phrm_list_dose_caution">注意事項</string>
+    <string name="phrm_list_dose_end">・服用終了日:</string>
+    <string name="phrm_list_dose_start">・服用開始日:</string>
+    <string name="phrm_list_drugstore">薬局名：</string>
+    <string name="phrm_list_hospital">病院名：</string>
+    <string name="phrm_list_item">・</string>
+    <string name="phrm_list_medicine">■</string>
+    <string name="phrm_list_no_name">未定義</string>
+    <string name="phrm_list_phone">TEL</string>
+    <string name="phrm_list_remain">残り%1$d回分</string>
+    <string name="phrm_list_rsptinfo">医療機関等提供情報</string>
+    <string name="phrm_list_usage_1">【調剤量:</string>
+    <string name="phrm_list_usage_2">【用法　:</string>
+    <string name="phrm_list_usage_end">】</string>
+    <string name="primary_save">完了</string>
+    <string name="profile_image">"プロフィール
+画像"</string>
+    <string name="profile_text_success">"%sさんの登録が 
+ 完了しました。"</string>
+    <string name="profile_text_success_2">"※利用者の編集、追加をする場合は 
+ 「設定」から行ってください。"</string>
+    <string name="rcpt_info_message">医療機関提供情報を入力してください。</string>
+    <string name="rcpt_info_type">提供情報種別</string>
+    <string name="rcpt_info_value">内容</string>
+    <string name="rcpt_ptn_info_date">入力年月日</string>
+    <string name="rcpt_ptn_info_message">患者等記入情報を入力してください。</string>
+    <string name="rcpt_ptn_info_value">内容</string>
+    <string name="register_basic_info_title">❶ 基本情報</string>
+    <string name="register_detail_info_title">❷ 詳細情報</string>
+    <string name="register_emergency_contact_title">緊急連絡先</string>
+    <string name="register_family_care_title">かかりつけ</string>
+    <string name="register_name_mei_hint">名</string>
+    <string name="register_name_sei_hint">姓</string>
+    <string name="register_namekana_mei_hint">メイ</string>
+    <string name="register_namekana_sei_hint">セイ</string>
+    <string name="register_other_info">その他情報の入力</string>
+    <string name="register_phone_note">※ハイフンなしで入力できます</string>
+    <string name="register_postal_code_note">"※ハイフンなしで入力できます
+※7桁の半角数字で入力してください"</string>
+    <string name="register_special_info_title">❸ 特記事項</string>
+    <string name="register_user_change_avatar">変更</string>
+    <string name="register_user_title">利用者の登録</string>
+    <string name="reselect">再選択</string>
+    <string name="retake">再撮影</string>
+    <string name="scaNextScanMsg">"%1$d/%2$dまで読み取りました。
+次のQRコードを読み取ってください。"</string>
+    <string name="scan_qr_duplicate">"すでに読取済みの
+QRコードです"</string>
+    <string name="scan_qr_help">"QRコードを読み取り枠線いっぱいに表示し、
+ゆっくりとスマートフォンを遠ざけてください。"</string>
+    <string name="scan_qr_missmatch">"QRコードの組み合わせが
+正しくありません"</string>
+    <string name="scan_qr_read">%1$d/%2$dを読み取りました</string>
+    <string name="screen_Indicate">処方せん画像送信（送信完了）</string>
+    <string name="screen_IndicateNg">処方せん画像送信（送信失敗）</string>
+    <string name="screen_PatientInfo">処方せん画像送信（情報入力）</string>
+    <string name="screen_Photo">処方せん画像送信（撮影_1）</string>
+    <string name="screen_PhotoConfirm">処方せん画像送信（撮影_2）</string>
+    <string name="screen_PushMsg">PUSH通知画面</string>
+    <string name="screen_SelNowPos">薬局選択画面(現在位置)</string>
+    <string name="screen_SelStore">処方せん画像送信（薬局選択_1）</string>
+    <string name="screen_SelStoreHistory">送信履歴</string>
+    <string name="screen_SelStoreMap">処方せん画像送信（薬局選択_2）</string>
+    <string name="screen_SelStoreWeb">処方せん画像送信（住所選択）</string>
+    <string name="screen_SendConfirm">処方せん画像送信（送信内容の確認）</string>
+    <string name="screen_ShowImage">画像表示画面</string>
+    <string name="screen_UserSelect">ユーザ選択画面</string>
+    <string name="screen_about">アプリについて</string>
+    <string name="screen_alarm_set">服薬タイム設定</string>
+    <string name="screen_chk_amt">おくすり登録 手入力（用法/その他）</string>
+    <string name="screen_chk_set">服薬間隔</string>
+    <string name="screen_chk_set_week">服薬間隔（曜日設定）</string>
+    <string name="screen_export">薬剤情報エクスポート</string>
+    <string name="screen_export_result">エクスポート結果</string>
+    <string name="screen_falp">FeliCa読取画面</string>
+    <string name="screen_import">薬剤情報インポート</string>
+    <string name="screen_import_result">インポート結果</string>
+    <string name="screen_license">ライセンス</string>
+    <string name="screen_log_dose">服薬チェック画面</string>
+    <string name="screen_log_dose_once">服薬チェック（登録なし）_屯服あり</string>
+    <string name="screen_log_memo">お薬メモ入力画面</string>
+    <string name="screen_lspf">お薬データお預かり設定</string>
+    <string name="screen_lspf_about">旧お預かりデータ受取とは画面</string>
+    <string name="screen_lspf_migration">旧お預かりデータ受取画面</string>
+    <string name="screen_lspf_web">データ操作要求画面</string>
+    <string name="screen_manual">使い方(取扱説明書)画面</string>
+    <string name="screen_notebook_memo_edit">手帳メモ_入力</string>
+    <string name="screen_notebook_memo_list">手帳メモ</string>
+    <string name="screen_notice">お知らせ（詳細）</string>
+    <string name="screen_notice_list">薬局からの連絡</string>
+    <string name="screen_others">その他画面</string>
+    <string name="screen_patient_menu">処方箋画像送信メニュー画面</string>
+    <string name="screen_pharmacy_search">薬局検索画面</string>
+    <string name="screen_phrm_add">おくすり登録（処方薬/市販薬選択）</string>
+    <string name="screen_phrm_edit">薬剤情報登録画面</string>
+    <string name="screen_phrm_list">おくすり一覧</string>
+    <string name="screen_phrm_notice_list">薬局からの連絡</string>
+    <string name="screen_phrm_qr">QRコード生成</string>
+    <string name="screen_phrm_view">薬剤情報詳細画面</string>
+    <string name="screen_prescription_drug_search">おくすり検索</string>
+    <string name="screen_quest">アンケート</string>
+    <string name="screen_scan_qr">おくすり登録 処方薬 QRコード入力</string>
+    <string name="screen_setting">設定画面</string>
+    <string name="screen_shar_datasync_req">お預かり要求画面</string>
+    <string name="screen_shar_explanation">薬剤師共有画面</string>
+    <string name="screen_shar_onetimepass_comp">ワンタイムコード</string>
+    <string name="screen_shar_onetimepass_req">薬剤師に見せるワンタイムコード発行画面</string>
+    <string name="screen_shar_reference">おくすり手帳情報</string>
+    <string name="screen_store_explanation">データお預かり画面（説明）</string>
+    <string name="screen_store_settingcomp">データお預かり自動設定完了画面</string>
+    <string name="screen_system_error">システムエラー画面</string>
+    <string name="screen_terms">利用規約</string>
+    <string name="screen_top">メニュー(Top)画面</string>
+    <string name="screen_tutorial">チュートリアル画面</string>
+    <string name="screen_user_chemist">かかりつけ薬剤師の管理</string>
+    <string name="screen_user_edit">利用者情報登録・確認画面</string>
+    <string name="screen_user_hospital">かかりつけ病院の管理</string>
+    <string name="screen_user_id">利用者ID画面</string>
+    <string name="screen_user_list">利用者の管理</string>
+    <string name="screen_user_note">特記事項追加画面</string>
+    <string name="screen_user_primary">かかりつけ薬局の登録</string>
+    <string name="screen_user_primary_care_pha_info">かかりつけ薬局情報</string>
+    <string name="screen_user_primary_care_pha_sear">かかりつけ薬局検索</string>
+    <string name="screen_user_primary_search">かかりつけ薬局の管理</string>
+    <string name="screen_user_select">利用者選択画面</string>
+    <string name="screen_userrelating_edit">利用者紐付け編集</string>
+    <string name="screen_userrelating_explanation">利用者紐付け設定とは？</string>
+    <string name="screen_userrelating_rename">薬剤師共有用利用者名編集画面</string>
+    <string name="screen_userrelating_set">利用者紐付画面</string>
+    <string name="screen_version_up">最新アプリ誘導画面</string>
+    <string name="searchDragMsg">"薬剤名に「くすりのしおり」のキーワードを追加してGoogle検索を行います。
+「くすりのしおり®」とは、くすりの適正使用協議会が運営する、病院で処方される薬の情報です。"</string>
+    <string name="ser_hosp_url">http://health.goo.ne.jp/hospital</string>
+    <string name="setting_item_alarm_set">@string/menu_alarm_set</string>
+    <string name="setting_item_export">@string/menu_export</string>
+    <string name="setting_item_import">@string/menu_import</string>
+    <string name="setting_item_lspf">@string/menu_lspf</string>
+    <string name="shutter">撮影</string>
+    <string name="span_day_unit">%1$d日おき</string>
+    <string name="textAnnotationURL">http://www.rad-ar.or.jp/siori/about/index.html</string>
+    <string name="text_bottom_menu_calendar">スケジューラ</string>
+    <string name="text_bottom_menu_notification">処方せん送信</string>
+    <string name="text_bottom_menu_setting">設定</string>
+    <string name="text_bottom_menu_top">Top</string>
+    <string name="text_has_data">あり</string>
+    <string name="text_item_dose">1日量</string>
+    <string name="text_item_dose_all">全量</string>
+    <string name="text_item_dose_once">1回量</string>
+    <string name="text_item_dose_oneday">(1日量)</string>
+    <string name="text_no_data">なし</string>
+    <string name="text_otc_drug">市販薬</string>
+    <string name="text_receipt">処方薬</string>
+    <string name="text_terms_header">以下の規約をご確認、同意の上ご利用ください</string>
+    <string name="time_after_noon">昼〜夕</string>
+    <string name="time_before_noon">朝〜昼</string>
+    <string name="time_evening">夕</string>
+    <string name="time_morning">朝</string>
+    <string name="time_night">夕〜寝</string>
+    <string name="time_noon">昼</string>
+    <string name="time_sleep">就寝</string>
+    <string name="time_wakeup">起床</string>
+    <string name="title_about">アプリについて</string>
+    <string name="title_alarm_set">アラーム設定</string>
+    <string name="title_chk_set">アラーム設定</string>
+    <string name="title_chk_span">服薬間隔</string>
+    <string name="title_chk_span_week">曜日指定</string>
+    <string name="title_days_use">服薬日数は何日分ですか？</string>
+    <string name="title_export">@string/menu_export</string>
+    <string name="title_export_result">エクスポート結果</string>
+    <string name="title_falp">かざして読み込む</string>
+    <string name="title_import">@string/menu_import</string>
+    <string name="title_import_result">インポート結果</string>
+    <string name="title_input_address">住所を入力してください</string>
+    <string name="title_input_cnsl">診療科名を入力してください</string>
+    <string name="title_input_days">服薬日数を入力してください</string>
+    <string name="title_input_dctr_name">処方医師名を入力してください</string>
+    <string name="title_input_drug_name">薬剤名を入力してください</string>
+    <string name="title_input_drug_quantity">%1$sを入力してください</string>
+    <string name="title_input_dstr_name">"病院名の入力文字数が長すぎます。
+"</string>
+    <string name="title_input_emg_addr">緊急連絡先住所を入力してください</string>
+    <string name="title_input_emg_name">緊急連絡先氏名を入力してください</string>
+    <string name="title_input_emg_phone">緊急連絡先電話番号を入力してください</string>
+    <string name="title_input_emg_post">緊急連絡先郵便番号を入力してください</string>
+    <string name="title_input_fchemist_memo">連絡先メモを入力してください</string>
+    <string name="title_input_fchemist_type">連絡先区分を入力してください</string>
+    <string name="title_input_notebook_memo">メモの入力文字数が長すぎます。</string>
+    <string name="title_input_phone">電話番号を入力してください</string>
+    <string name="title_input_phrm_name">"薬局名の入力文字数が長すぎます。
+"</string>
+    <string name="title_input_phst_name">"薬剤師名の入力文字数が長すぎます。
+"</string>
+    <string name="title_input_post">郵便番号を入力してください</string>
+    <string name="title_input_quantity">数量を入力してください</string>
+    <string name="title_input_rcpt_info">医療機関等提供情報を入力してください</string>
+    <string name="title_input_rcptptn_info">患者等記入情報を入力してください</string>
+    <string name="title_input_usage">用法を入力してください</string>
+    <string name="title_input_usage_appendix">お薬補足を入力してください</string>
+    <string name="title_input_usage_caution">服薬注意を入力してください</string>
+    <string name="title_input_usage_quantity">調剤量を入力してください</string>
+    <string name="title_input_username_mei">利用者名を入力してください</string>
+    <string name="title_input_username_mei_kana">利用者名カナを入力してください</string>
+    <string name="title_input_username_sei">利用者姓を入力してください</string>
+    <string name="title_input_username_sei_kana">利用者姓カナを入力してください</string>
+    <string name="title_input_weight">体重を入力してください</string>
+    <string name="title_license">ライセンス</string>
+    <string name="title_log_dose">服薬スケジューラ</string>
+    <string name="title_log_dose_once">屯服薬選択</string>
+    <string name="title_log_memo">体調メモ</string>
+    <string name="title_lspf">@string/menu_lspf</string>
+    <string name="title_lspf_about">旧お預かりデータ受取とは？</string>
+    <string name="title_lspf_migration">旧お預かりデータ受取</string>
+    <string name="title_lspf_web">ログインせず続行</string>
+    <string name="title_manual">取り扱い説明書</string>
+    <string name="title_medicine_photo">おくすり画像撮影</string>
+    <string name="title_medicine_photoConfirm">おくすり画像確認</string>
+    <string name="title_note_allergy">アレルギー歴を入力してください</string>
+    <string name="title_note_anamnesis">既往歴を入力してください</string>
+    <string name="title_note_other">その他特記事項を入力してください</string>
+    <string name="title_note_primary_care">かかりつけの医療機関名を入力してください</string>
+    <string name="title_note_side_effect">副作用歴を入力してください</string>
+    <string name="title_notebook_memo">手帳メモ</string>
+    <string name="title_notice">お知らせ</string>
+    <string name="title_notice_list">薬局からの連絡</string>
+    <string name="title_others">その他</string>
+    <string name="title_patient_menu">処方箋画像送信</string>
+    <string name="title_pharmacy_search">薬局検索</string>
+    <string name="title_phrm">登録したおくすり</string>
+    <string name="title_phrm_add">おくすりの登録</string>
+    <string name="title_phrm_list">おくすり一覧</string>
+    <string name="title_phrm_other">その他情報</string>
+    <string name="title_phrm_qr">QRコード生成</string>
+    <string name="title_prescription_drug_search">おくすり検索</string>
+    <string name="title_quest">アンケート</string>
+    <string name="title_scan_qr">QRコードを読み取ってください</string>
+    <string name="title_setting">@string/menu_setting</string>
+    <string name="title_shar_datasync_req">"薬剤師共有用
+ワンタイムパスワード取得"</string>
+    <string name="title_shar_explanation">お薬情報を見せる</string>
+    <string name="title_shar_onetimepass_comp">ワンタイムコードの発行</string>
+    <string name="title_shar_onetimepass_req">ワンタイムコードの発行</string>
+    <string name="title_shar_reference">共有データ確認</string>
+    <string name="title_store_explanation">薬剤師共有</string>
+    <string name="title_store_settingcomp">データお預かりサービス自動設定</string>
+    <string name="title_system_error">システムエラー</string>
+    <string name="title_terms">ご利用にあたって</string>
+    <string name="title_tutorial" />
+    <string name="title_user_chemist">かかりつけ薬剤師</string>
+    <string name="title_user_edit">利用者詳細</string>
+    <string name="title_user_hospital">かかりつけ医</string>
+    <string name="title_user_icon">アイコン選択</string>
+    <string name="title_user_id">利用者ID</string>
+    <string name="title_user_list">利用者の管理</string>
+    <string name="title_user_photo">プロフィール画像（撮影）</string>
+    <string name="title_user_photoConfirm">確認</string>
+    <string name="title_user_primary">かかりつけ薬局</string>
+    <string name="title_user_primary_care_pha_info">かかりつけ薬局検索</string>
+    <string name="title_user_primary_care_pha_sear">かかりつけ薬局検索</string>
+    <string name="title_user_primarysearch">かかりつけ薬局検索</string>
+    <string name="title_user_select">利用者一覧</string>
+    <string name="title_userrelating_edit">利用者紐付け編集</string>
+    <string name="title_userrelating_explanation">利用者紐付け設定とは？</string>
+    <string name="title_userrelating_rename">薬剤師共有用利用者名編集</string>
+    <string name="title_userrelating_set">利用者紐付け設定</string>
+    <string name="title_version_up">アプリのアップデート</string>
+    <string name="top_button_register_user">登録する</string>
+    <string name="top_button_switch_user">利用者切替</string>
+    <string name="top_user_add_lspf">登録したおくすりを見る</string>
+    <string name="top_user_add_share">おくすり手帳を見せる</string>
+    <string name="top_user_empty">利用者を登録してください</string>
+    <string name="tutorial_msg">　次回以降、表示しない。</string>
+    <string name="txtBack">戻る</string>
+    <string name="txtCancel">キャンセル</string>
+    <string name="txtCommunication">通信中</string>
+    <string name="txtConfirm">確認</string>
+    <string name="txtDateOfBirth">生年月日</string>
+    <string name="txtDateOfReceipt">お受け取り希望日</string>
+    <string name="txtErrCamera">カメラ処理に失敗しました。アプリを再起動してください</string>
+    <string name="txtErrCameraSecurity">カメラを利用できません。カメラの利用を許可してください。</string>
+    <string name="txtErrConnect">"サーバーとの通信に失敗しました。再度、操作をやり直してください。尚、サーバーメンテナンスや通信圏外等の理由でつながらないことがありますので、通信失敗が続く場合は、しばらく時間をおくか、電波状態の良いところで操作をやり直してください。
+通信圏外でアプリを利用する場合は、「お薬データお預かり設定」よりお薬データお預かり設定を無効にしてください。
+(5100100)"</string>
+    <string name="txtErrDBNotFund">登録されている利用者がいません</string>
+    <string name="txtErrDateOdBirth">生年月日を入力してください</string>
+    <string name="txtErrLocation">現在地の取得に失敗しました</string>
+    <string name="txtErrLogon">認証が切れました。ｄアカウントでログインしなおしてください。</string>
+    <string name="txtErrMemo">入力文字数が長過ぎます。50文字以内で入力してください</string>
+    <string name="txtErrMemoryOverSend">メモリ不足が発生しました。撮影枚数を減らすなどして再度実してください</string>
+    <string name="txtErrReboot">メモリ不足が発生しました。アプリを終了させ再起動してください</string>
+    <string name="txtErrSendCountOver">1日の処方せん画像送信は5回までです</string>
+    <string name="txtErrTelNumber1">電話番号1を入力してください</string>
+    <string name="txtErrUser">名前を入力してください</string>
+    <string name="txtGender">性別</string>
+    <string name="txtGenericChoice">ジェネリック医薬品への変更</string>
+    <string name="txtGenericInfo"><u>ジェネリック医薬品について</u></string>
+    <string name="txtGenericInfoData">"ジェネリック医薬品（後発医薬品）とは、先発医薬品と同じ有効成分と成分量で、投与経路・効能・効果・用法・用量が原則的に同一です。
+先発医薬品の独占的販売期間が終了した後に発売され、先発医薬品に比べて低価格です。
+"</string>
+    <string name="txtGenericNote">ジェネリック医薬品に変更可能な場合は変更してもよろしいですか？</string>
+    <string name="txtGenericTitle">ジェネリック医薬品について</string>
+    <string name="txtHP">くすりのしおりとは？</string>
+    <string name="txtImage">処方箋データ</string>
+    <string name="txtImageExp">Image</string>
+    <string name="txtInputInfo">&lt;font color=\"#3f3f3f\">※処方箋に記載されている患者様の&lt;/font>&lt;font color=\"#cc2200\">氏名、性別&lt;/font>&lt;font color=\"#3f3f3f\">および&lt;/font>&lt;font color=\"#cc2200\">生年月日&lt;/font>&lt;font color=\"#3f3f3f\">を入力してください。&lt;br>※「リスト」ボタンをタップすることで、登録された利用者から選択することができます。&lt;/font></string>
+    <string name="txtLimitInfo">&lt;u>※処方せん原本は&lt;font color=\"#ff0000\">発行日付を含めて4日以内&lt;/font>に薬局へご持参ください。指定日の該当薬局の営業時間をご確認ください。 &lt;/u></string>
+    <string name="txtMan">男性</string>
+    <string name="txtMarketURL">market://details?id=</string>
+    <string name="txtMemo">薬剤師に伝えたいこと等</string>
+    <string name="txtMemoHint">記載例）副作用を起こした薬の名前と症状、アレルギーの原因となる食べ物や薬、お子様の体重　※50文字まで入力できます。</string>
+    <string name="txtMemoInfo">※絵文字不可</string>
+    <string name="txtName">お名前</string>
+    <string name="txtNameHint">"フルネームで
+入力してください"</string>
+    <string name="txtNameTitle">様</string>
+    <string name="txtNesssary">(必須)</string>
+    <string name="txtNext">次へ</string>
+    <string name="txtNg">不可</string>
+    <string name="txtNo">いいえ</string>
+    <string name="txtNone">（なし）</string>
+    <string name="txtOK">可</string>
+    <string name="txtOk">OK</string>
+    <string name="txtOption">(任意)</string>
+    <string name="txtPatientInfo">患者さま情報</string>
+    <string name="txtPhoteConfirm">撮影画像を確認してください。</string>
+    <string name="txtPhoteNext">次を撮影</string>
+    <string name="txtPhotoEnd">撮影完了</string>
+    <string name="txtPhotoImgTitle">送信する処方せん</string>
+    <string name="txtPhotoInfo">1枚ずつ処方箋全体を撮影してください</string>
+    <string name="txtPhotoInfo2">カメラのピントを合わせて、はっきりと撮影してください。</string>
+    <string name="txtPhotoInfo_2">撮影した画像を確認してください</string>
+    <string name="txtPhotoNumbern">（n枚目）</string>
+    <string name="txtPhotoRetry">撮り直し</string>
+    <string name="txtPhotoShute">撮影</string>
+    <string name="txtPhotoTitle">1枚ずつピントを合わせて処方せん全体を撮影してください(※10枚まで)</string>
+    <string name="txtProcessing">処理中</string>
+    <string name="txtPushMsgtitle">お薬手帳</string>
+    <string name="txtSel">選択</string>
+    <string name="txtSelUser">送信する処方箋の利用者名を選択してください。</string>
+    <string name="txtSeletcCluodOn">"お預かりしているデータ(%1$s)と端末上のデータが非同期状態です。
+端末上のデータを預けるか、サーバー上のデータを受け取り、同期状態としてください。"</string>
+    <string name="txtSeletcLocal">預ける</string>
+    <string name="txtSeletcRemote">受け取る</string>
+    <string name="txtSelnowpossubtitle2">処方箋を送信する薬局を選択してください。</string>
+    <string name="txtSend">送信する</string>
+    <string name="txtSendCancel">中止する</string>
+    <string name="txtSendConfirm">送信内容の確認</string>
+    <string name="txtSendConfirmInfo">上記内容を送信します。よろしいですか？</string>
+    <string name="txtSendNG">送信に失敗しました</string>
+    <string name="txtSendOK">受付が完了しました</string>
+    <string name="txtSending">処方せん送信中</string>
+    <string name="txtSeparator1">患者様情報</string>
+    <string name="txtSeparator2">その他情報</string>
+    <string name="txtSeparator3">お受け取り薬局</string>
+    <string name="txtSleStorAddrPrefectures">都道府県から選ぶ</string>
+    <string name="txtSleStoreAddrMunicipaltySub">住所から選ぶ</string>
+    <string name="txtSrach">OK</string>
+    <string name="txtStopConfirm">"中止すると入力された内容がすべて破棄されます。
+本当に中止しますか？"</string>
+    <string name="txtStoreAccess">主な交通機関</string>
+    <string name="txtStoreAccess_c">主な交通機関　</string>
+    <string name="txtStoreAddr">住所</string>
+    <string name="txtStoreBuissTime">営業時間</string>
+    <string name="txtStoreBuissTime_c">営業時間　</string>
+    <string name="txtStoreCard">クレジットカードでのお支払い</string>
+    <string name="txtStoreCard_c">クレジットカードでのお支払い　</string>
+    <string name="txtStoreCard_c2">"クレジットカード
+でのお支払い　"</string>
+    <string name="txtStoreCard_c3">　</string>
+    <string name="txtStoreHoliday">定休日</string>
+    <string name="txtStoreHoliday_c">定休日　</string>
+    <string name="txtStoreInfo">お受け取り薬局情報</string>
+    <string name="txtStoreNothing">現在地周辺で利用可能な店舗がありません</string>
+    <string name="txtStoreParking">駐車場</string>
+    <string name="txtStoreParking_c">駐車場　</string>
+    <string name="txtStoreTel">TEL/FAX</string>
+    <string name="txtStoreTel_c">TEL/FAX　</string>
+    <string name="txtTelephoneNone">（なし）</string>
+    <string name="txtTelephoneNumber1">電話番号1</string>
+    <string name="txtTelephoneNumber2">電話番号2</string>
+    <string name="txtTopPage">Topメニューへ</string>
+    <string name="txtUserSelect">ユーザ選択</string>
+    <string name="txtWhose">どなたの処方箋ですか？</string>
+    <string name="txtWoman">女性</string>
+    <string name="txtYes">はい</string>
+    <string name="txtassentNo">同意しない</string>
+    <string name="txtassentYes">同意する</string>
+    <string name="txtlist">リスト</string>
+    <string name="txtselNowPos">現在位置から選ぶ</string>
+    <string name="txtselStore">現在の選択店舗</string>
+    <string name="txtselStoreAddress">住所から選ぶ</string>
+    <string name="txtselStoreHistory">履歴から選ぶ</string>
+    <string name="txtselStoreSubtitle">薬局選択</string>
+    <string name="txtselStoreTitle">お受け取り薬局を履歴から選択</string>
+    <string name="txtselnowpos">現在位置から選ぶ</string>
+    <string name="txtselstorehistory">履歴から選ぶ</string>
+    <string name="txtselstoreinfo">薬局の詳細</string>
+    <string name="user_address">住所</string>
+    <string name="user_basic">基本・詳細情報</string>
+    <string name="user_birthday">生年月日</string>
+    <string name="user_birthday_format">yyyy年M月d日</string>
+    <string name="user_blood">血液型</string>
+    <string name="user_delete_message">"選択された方のこれまでの記録がすべて削除されます。
+一度削除すると元に戻すことができません。
+
+利用者を削除しますか?"</string>
+    <string name="user_detail">詳細</string>
+    <string name="user_edit">編集</string>
+    <string name="user_emergency">緊急連絡先</string>
+    <string name="user_emg_addr">住所</string>
+    <string name="user_emg_name">氏名</string>
+    <string name="user_emg_phone">電話番号</string>
+    <string name="user_emg_post">郵便番号</string>
+    <string name="user_familiar_history">履歴</string>
+    <string name="user_familiar_search">検索</string>
+    <string name="user_famiria_chenist">かかりつけ薬剤師</string>
+    <string name="user_famiria_hospital">かかりつけ病院</string>
+    <string name="user_famiria_primary">かかりつけ薬局</string>
+    <string name="user_fchemist_contact">連絡先%1$d</string>
+    <string name="user_fchemist_contact_div">:</string>
+    <string name="user_fchemist_contact_memo">連絡先メモ</string>
+    <string name="user_fchemist_delete_message">"かかりつけ薬剤師情報を削除しますか？
+（削除情報は履歴情報として管理します。）"</string>
+    <string name="user_fchemist_end">担当終了日</string>
+    <string name="user_fchemist_start">担当開始日</string>
+    <string name="user_icon_change">アイコン変更</string>
+    <string name="user_icon_external">画像読み込み</string>
+    <string name="user_id">利用者ID</string>
+    <string name="user_list_add">利用者の新規追加</string>
+    <string name="user_list_add_new">追加する</string>
+    <string name="user_name">利用者</string>
+    <string name="user_name_mei">利用者名</string>
+    <string name="user_name_mei_kana">利用者名カナ</string>
+    <string name="user_name_sei">利用者姓</string>
+    <string name="user_name_sei_kana">利用者姓カナ</string>
+    <string name="user_note">特記事項</string>
+    <string name="user_note_add">新しく追加</string>
+    <string name="user_note_add_item">追加</string>
+    <string name="user_note_allergy">アレルギー歴</string>
+    <string name="user_note_anamnesis">既往歴</string>
+    <string name="user_note_other">その他</string>
+    <string name="user_note_primary_care">かかりつけ医</string>
+    <string name="user_note_side_effect">副作用歴</string>
+    <string name="user_note_text">%1$d件</string>
+    <string name="user_phone">電話番号</string>
+    <string name="user_post">郵便番号</string>
+    <string name="user_primary_chemist_explain">"&lt;かかりつけ薬剤師とは>
+薬剤師との同意が必要で、服用薬を一元的・継続的に管理し指導いたします。"</string>
+    <string name="user_primary_chenist">薬剤師名</string>
+    <string name="user_primary_chenist_message">かかりつけ薬剤師の情報を入力してください</string>
+    <string name="user_primary_hospital">病院名</string>
+    <string name="user_primary_hospital_message">かかりつけ病院の情報を入力してください</string>
+    <string name="user_primary_pha">薬局名</string>
+    <string name="user_primary_pharmacist">薬局名</string>
+    <string name="user_primary_pharmacist_message">かかりつけ薬局の情報を入力してください</string>
+    <string name="user_profile_title">プロフィール画像</string>
+    <string name="user_sex">性別</string>
+    <string name="user_text_no_id">"利用者IDが表示できません。「設定」メニューの 
+「お預かり設定」を、有効にしてください。"</string>
+    <string name="user_title">%s\u0009さん</string>
+    <string name="user_weight">体重</string>
+    <string name="warningEnormousVolData_msg2">今後、この操作時に確認メッセージを表示しない。</string>
+    <string name="yes">あり</string>
+    <string name="File_Provider">jp.co.cocokarafine.okusuri</string>
+    <string name="OK">OK</string>
+    <string name="Shar_OneTimePass_web_link">おくすり手帳情報</string>
+    <string name="Share_comment">ご注意</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="about_appendix" />
+    <string name="about_copyright" />
+    <string name="about_message">"本アプリは、AndroidおよびiPhoneスマートフォンで使える電子お薬手帳アプリです。
+お薬の効能や用法用量などをいつでも容易に確認できる上、飲み忘れ防止のためのアラーム設定や、日々の体調の記録、簡単なメモ書きを行うことができます。
+
+本アプリは、ドコモと東京大学の共同研究※の知見が活かされています。
+
+※東京大学大学院 医学系研究科 健康空間情報学講座において実施"</string>
+    <string name="alarm_info" formatted="false">&lt;b>%s&lt;/b> の &lt;b>%s&lt;/b> から%s</string>
+    <string name="app_dispname">ココカラファインお薬手帳</string>
+    <string name="app_name">お薬手帳</string>
+    <string name="app_old_name">ココカラファインお薬手帳</string>
+    <string name="app_provider">cocokara fine Inc.</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="application_name">アプリケーション名</string>
+    <string name="assentVersionCode">203</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="camera_position">7</string>
+    <string name="cancel">キャンセル</string>
+    <string name="caution_hint">例）他の薬を併用する際は、ご相談してください。</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="chemist_confirm_delete_message">"かかりつけ薬剤師情報を削除しますか？
+(削除情報は履歴情報として管理します。）"</string>
+    <string name="chk_set_end_date">服薬終了日</string>
+    <string name="chk_set_onetime">1回</string>
+    <string name="choice_invalid">手動</string>
+    <string name="choice_valid">自動</string>
+    <string name="choose_gallery">画像から選ぶ</string>
+    <string name="cnsl_default">内科</string>
+    <string name="coco_app_launch">公式アプリ</string>
+    <string name="contact_type_home">自宅</string>
+    <string name="contact_type_mobile">携帯</string>
+    <string name="contact_type_other">その他</string>
+    <string name="contact_type_work">勤務先</string>
+    <string name="database_class">com.nttdocomo.medical.database.MedicineDatabase</string>
+    <string name="database_name">MedicineNoteBookDB.db</string>
+    <string name="date_alarm_format">yyyy/M/dd</string>
+    <string name="date_format_history">yyyy年M月d日 (EE) HH:mm</string>
+    <string name="default_web_client_id">39366680362-tkjd11mjeph9o2jfu0rb03h1vnb56m3b.apps.googleusercontent.com</string>
+    <string name="delete_input_note_info">入力した情報が削除されます。よろしいですか？</string>
+    <string name="detail_dialog_prescription_1">処方せん送信とは？</string>
+    <string name="detail_dialog_prescription_2">病院でもらった処方せんをスマホで撮影して、薬局に送信すると、調剤してくれる便利な機能です。準備ができたらお知らせが届くので安心です。</string>
+    <string name="detail_dialog_prescription_3">※対応している薬局でご利用可能です。</string>
+    <string name="disease_name">病名/症状</string>
+    <string name="dispensing_date">調剤日</string>
+    <string name="doctor">医師</string>
+    <string name="drug_edit"><u>編集</u></string>
+    <string name="error_address_over_length">住所の入力文字数が長すぎます。全角%d文字以内で入力してください。</string>
+    <string name="error_caution_over_length">"注意事項の入力文字数が長すぎます。
+全角%d文字以内で入力してください。"</string>
+    <string name="error_contact_memo_over_length">"連絡先メモの入力文字数が長すぎます。
+全角%d文字以内で入力してください。"</string>
+    <string name="error_contact_num_over_length">連絡先は13桁以内で入力してください</string>
+    <string name="error_content_delete">Content deleted!</string>
+    <string name="error_disease_name_over_length">"病名/症状の入力文字数が長すぎます。
+全角%d文字以内で入力してください。"</string>
+    <string name="error_doctor_name_over_length">"医師名の入力文字数が長すぎます。
+全角%d文字以内で入力してください。"</string>
+    <string name="error_drug_name_over_length">"お薬名の入力文字数が長すぎます。
+全角%d文字以内で入力してください。"</string>
+    <string name="error_emg_name_over_length">"氏名の入力文字数が長すぎます。
+全角%d文字以内で入力してください。"</string>
+    <string name="error_empty_drug_despensing_amount">調剤量を入力してください</string>
+    <string name="error_empty_drug_dose">1日量を入力してください</string>
+    <string name="error_empty_drug_dose_allday">全量を入力してください</string>
+    <string name="error_empty_drug_dose_once">1回量を入力してください</string>
+    <string name="error_empty_drug_usage">用法を入力してください</string>
+    <string name="error_empty_drugname_new">お薬名を入力してください</string>
+    <string name="error_empty_medicine_name">お薬名を入力してください</string>
+    <string name="error_empty_name">名前の項目をすべて入力してください</string>
+    <string name="error_hospital_name_over_length">"病院名の入力文字数が長すぎます。
+全角%d文字以内で入力してください。"</string>
+    <string name="error_max_record">10以上のレコードを入力しないでください</string>
+    <string name="error_medical_institution_over_length">"医療機関コメントの入力文字数が長すぎます。
+全角%d文字以内で入力してください。"</string>
+    <string name="error_name_over_length_first_name">利用者名の入力文字数が長すぎます。全角%d文字以内で入力してください。</string>
+    <string name="error_name_over_length_first_name_kana">利用者名カナの入力文字数が長すぎます。全角%d文字以内で入力してください。</string>
+    <string name="error_name_over_length_last_name">利用者姓の入力文字数が長すぎます。全角%d文字以内で入力してください。</string>
+    <string name="error_name_over_length_last_name_kana">利用者姓カナの入力文字数が長すぎます。全角%d文字以内で入力してください。</string>
+    <string name="error_note_allergy_over_length">"アレルギー歴の入力文字数が長すぎます。
+全角%d文字以内で入力してください。"</string>
+    <string name="error_note_anamnesis_over_length">"既往歴の入力文字数が長すぎます。
+全角%d文字以内で入力してください。"</string>
+    <string name="error_note_other_over_length">"その他の入力文字数が長すぎます。
+全角%d文字以内で入力してください。"</string>
+    <string name="error_note_over_length">"備考の入力文字数が長すぎます。
+全角%d文字以内で入力してください。"</string>
+    <string name="error_note_side_effect_over_length">"副作用の入力文字数が長すぎます。
+全角%d文字以内で入力してください。"</string>
+    <string name="error_notebook_memo_over_length">"メモの入力文字数が長すぎます。
+全角%d文字以内で入力してください。"</string>
+    <string name="error_patient_comment_over_length">"患者コメントの入力文字数が長すぎます。
+全角%d文字以内で入力してください。"</string>
+    <string name="error_pharmacist_name_over_length">"薬剤師名の入力文字数が長すぎます。
+全角%d文字以内で入力してください。"</string>
+    <string name="error_pharmacy_name_over_length">"薬局名の入力文字数が長すぎます。
+全角%d文字以内で入力してください。"</string>
+    <string name="error_phone_num_over_length">電話番号は13桁以内で入力してください</string>
+    <string name="error_postcode_empty">郵便番号を入力してください</string>
+    <string name="error_postcode_over_length">郵便番号は7桁以内で入力してください</string>
+    <string name="error_usage_note_length">"手入力の入力文字数が長すぎます。
+全角%d文字以内で入力してください。"</string>
+    <string name="error_user_weight_over_length">"体重の入力範囲を超えています。
+整数3桁、小数3桁以内で入力してください。"</string>
+    <string name="export_user_empty">利用者が登録されておらず、エクスポートできるお薬情報がありません。</string>
+    <string name="falp_app_id" />
+    <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
+    <string name="finish">終了</string>
+    <string name="firebase_database_url">https://cocokarafineokusuri.firebaseio.com</string>
+    <string name="ga_trackingId">UA-76710329-1</string>
+    <string name="gallery_position">8</string>
+    <string name="gcm_defaultSenderId">39366680362</string>
+    <string name="google_api_key">AIzaSyBcxNPP-5IN5-NCBuKe9puDiy-PsezmW0o</string>
+    <string name="google_app_id">1:39366680362:android:d7dc95f285273411</string>
+    <string name="google_crash_reporting_api_key">AIzaSyBcxNPP-5IN5-NCBuKe9puDiy-PsezmW0o</string>
+    <string name="google_storage_bucket">cocokarafineokusuri.appspot.com</string>
+    <string name="help_url" />
+    <string name="history">履歴</string>
+    <string name="hos_confirm_delete_message">かかりつけ病院情報を削除します。よろしいですか？</string>
+    <string name="icon_badge_over_ten">10+</string>
+    <string name="import_user_empty">利用者が登録されておらず、インポートできるお薬情報がありません。</string>
+    <string name="invalid">未設定</string>
+    <string name="item_empty">－</string>
+    <string name="item_notice_pharmacy">薬局からのお知らせ</string>
+    <string name="item_send_history">送信履歴を見る</string>
+    <string name="item_send_prescription">処方せんを送る</string>
+    <string name="lbs_help_getscreen">/app/api/v1/helpsite/getlistscreen</string>
+    <string name="lsb_allupdate">/app/api/v1/medicine/allupdate</string>
+    <string name="lsb_authrequest">/app/api/v1/common/authrequest</string>
+    <string name="lsb_authresponse">/app/api/v1/common/authresponse</string>
+    <string name="lsb_base_url">https://www.okusurinote.jp</string>
+    <string name="lsb_getdata">/app/api/v1/medicine/getdata</string>
+    <string name="lsb_getdataexistence">/app/api/v1/application/getdataexistence</string>
+    <string name="lsb_getid">/app/api/v1/user/getid</string>
+    <string name="lsb_getmanual">/app/api/v1/application/getmanual</string>
+    <string name="lsb_getonetimecode">/app/api/v1/pharmacist/getonetimecode</string>
+    <string name="lsb_getversion">/app/api/v1/application/getversion</string>
+    <string name="lsb_migration">/app/api/v1/lspf/migration</string>
+    <string name="lsb_notice_checkdetail">/app/api/v1/notice/checkdetail</string>
+    <string name="lsb_notice_getdetail">/app/api/v1/notice/getdetail</string>
+    <string name="lsb_notice_getscreen">/app/api/v1/notice/getscreen</string>
+    <string name="lsb_notice_push_count">/app/api/v1/notice/push/count</string>
+    <string name="lsb_pharmacist_getscreen">/app/api/v1/pharmacist/getscreen</string>
+    <string name="lsb_prescription">/app/api/v1/prescription/put</string>
+    <string name="lsb_prescription_list">/app/api/v1/prescriptionpush/getscreen</string>
+    <string name="lsb_questionnaire_getscreen">/app/api/v1/questionnaire/getscreen</string>
+    <string name="lsb_register">/app/api/v1/device/register</string>
+    <string name="lsb_reset">/app/api/v1/common/reset</string>
+    <string name="lsb_store_checkpresence">/app/api/v1/store/checkpresence</string>
+    <string name="lsb_store_getdetailscreen">/app/api/v1/store/getdetailscreen</string>
+    <string name="lsb_store_getsearchscreen">/app/api/v1/store/getsearchscreen</string>
+    <string name="lsb_store_search">/app/api/v1/store/search</string>
+    <string name="lsb_tos_getscreen">/app/api/v1/tos/getscreen</string>
+    <string name="lsb_update">/app/api/v1/medicine/update</string>
+    <string name="lspfId" />
+    <string name="lspf_cookie_nodata">=</string>
+    <string name="lspf_cookie_url">.smt.docomo.ne.jp</string>
+    <string name="lspf_cookie_val1">spsp</string>
+    <string name="lspf_cookie_val2">g_smt_spsp2</string>
+    <string name="lspf_custom_url">https://notebook.medicine.nttdocomo.com</string>
+    <string name="lspf_recv_req">https://service.smt.docomo.ne.jp/mdc/ReceiveRequest/</string>
+    <string name="manual_html_url">https://www.okusurinote.jp/app/api/v1/n/management/getappmanual?manualId=12</string>
+    <string name="medical_institution">医療機関コメント</string>
+    <string name="medical_institution_detail">"医療機関
+コメント"</string>
+    <string name="medicine_add_more">おくすりを追加する</string>
+    <string name="medicine_alarm_note_title">アラームを確認後、完了してください</string>
+    <string name="medicine_dispensing_note_title">調剤日等を入力してください</string>
+    <string name="medicine_info_note_title">お薬の詳細情報を入力してください</string>
+    <string name="medicine_institution_hint">例）嚥下困難が見られるため、錠剤は粉砕して投与する。</string>
+    <string name="memo_confirm_delete_message">手帳メモを削除します。よろしいですか？</string>
+    <string name="memo_date">日付</string>
+    <string name="memo_note">メモ</string>
+    <string name="menu_app_info">アプリケーション情報</string>
+    <string name="menu_excution">実行</string>
+    <string name="message_error_dialog">"入力された内容がすべて破棄されます。
+よろしいですか？"</string>
+    <string name="month_format_v2">M月</string>
+    <string name="msg_alarm_finish">"入力された内容がすべて破棄されます。
+よろしいですか？"</string>
+    <string name="msg_alarm_not_on">"アラームは設定されていません
+服薬スケジューラにも表示されません"</string>
+    <string name="msg_bulk_mode_scanned">連続モード：バーコードスキャンして保存</string>
+    <string name="msg_choice_time_use">選択してください</string>
+    <string name="msg_input_emoji_error">絵文字は入力できません</string>
+    <string name="msg_intent_failed">指定されたアプリケーションを起動できませんでした。バーコードの内容が無効である可能性があります。</string>
+    <string name="msg_medicine_add_more">別のお薬を登録する場合はこちら</string>
+    <string name="msg_medicine_finished">お薬の登録が完了しました。</string>
+    <string name="msg_medicine_once">屯服薬の場合は、アラーム設定ができません</string>
+    <string name="msg_share_script_change">一緒に処方された【%s】についても同様に情報が更新されますが、よろしいでしょうか？</string>
+    <string name="name_send_hint">フルネームで入力してください</string>
+    <string name="note_alarm_info">"※アラームの時刻は「設定」から変更できます
+※アラームの設定をすると、服薬スケジュールにも反映されます。"</string>
+    <string name="notes">備考</string>
+    <string name="notes_hint">例）正しい飲み方は薬袋等をご覧ください。</string>
+    <string name="notice_list_screen_title">薬局からのお知らせ</string>
+    <string name="oct_medicine_image">撮影</string>
+    <string name="oct_medicine_name_title">お薬名</string>
+    <string name="off">OFF</string>
+    <string name="on">ON</string>
+    <string name="otc_jan">バーコード読込</string>
+    <string name="otc_nodisp_url">http://yakuji-nippo.com/ntt_docomo/otc_photo</string>
+    <string name="over_line_warning">"%sの行数が多すぎます。
+10行以内で入力してください。"</string>
+    <string name="over_max_character_title">"%sの入力文字数が長すぎます。
+1行につき"</string>
+    <string name="password_toggle_content_description">Toggle password visibility</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="patient_comment">患者コメント</string>
+    <string name="patient_comment_hint">例）飲み始めてから、昼に眠たくなるようになった。</string>
+    <string name="patient_info_note">※ハイフンなしで入力できます</string>
+    <string name="patient_info_title">患者様情報を入力してください</string>
+    <string name="pharmacy_confirm_delete_message">かかりつけ薬局情報を削除します。よろしいですか？</string>
+    <string name="phrm_add_otc">市販薬の登録</string>
+    <string name="phrm_add_qrcode">QRコードで登録</string>
+    <string name="phrm_add_screen_title">おくすり登録</string>
+    <string name="phrm_add_self">手入力で登録</string>
+    <string name="phrm_qrcode_screen_title">QRコード読み込み</string>
+    <string name="please_enter">を入力してください</string>
+    <string name="please_enter_format">%sを入力してください</string>
+    <string name="please_select">を選択してください</string>
+    <string name="preferences_actions_title">バーコード発見時</string>
+    <string name="preferences_bulk_mode_summary">多くのバーコード連続してスキャンし、保存する</string>
+    <string name="preferences_bulk_mode_title">連続モードでのスキャン</string>
+    <string name="preferences_copy_to_clipboard_title">クリップボードにコピーする</string>
+    <string name="preferences_custom_product_search_summary" formatted="false">Use %s as a placeholder for the product ID, and %f for format</string>
+    <string name="preferences_custom_product_search_title">カスタム商品サーチ URL</string>
+    <string name="preferences_decode_1D_title">1Dバーコードを読み取る</string>
+    <string name="preferences_decode_Data_Matrix_title">データマトリックスコードを読み取る</string>
+    <string name="preferences_decode_QR_title">QRコードを読み取る</string>
+    <string name="preferences_front_light_summary">可能な場合、フロントライトを有効にする</string>
+    <string name="preferences_front_light_title">フロントライト</string>
+    <string name="preferences_general_title">一般設定</string>
+    <string name="preferences_name">設定</string>
+    <string name="preferences_play_beep_title">通知音</string>
+    <string name="preferences_remember_duplicates_summary">履歴に、同じバーコードを複数記録する</string>
+    <string name="preferences_remember_duplicates_title">重複する履歴の記録</string>
+    <string name="preferences_result_title">検索結果の設定</string>
+    <string name="preferences_reverse_image_summary">フロントカメラのみを持つデバイスで有効にする</string>
+    <string name="preferences_reverse_image_title">カメラ画像の反転</string>
+    <string name="preferences_scanning_title">バーコードスキャン時</string>
+    <string name="preferences_supplemental_summary">バーコード内容についての詳細情報を取得してみてください</string>
+    <string name="preferences_supplemental_title">取得の詳細情報をもっと見る</string>
+    <string name="preferences_vibrate_title">バイブ</string>
+    <string name="profile_image_dialog_title">プロフィール画像</string>
+    <string name="provider">提供者</string>
+    <string name="ptn_note_allergy">アレルギー歴</string>
+    <string name="ptn_note_anamnesis">既往歴</string>
+    <string name="ptn_note_effect">副作用歴</string>
+    <string name="ptn_note_other">その他</string>
+    <string name="qr_capture_value_is_space">「未定義」</string>
+    <string name="qr_create"><u>QRコード生成</u></string>
+    <string name="qrcode_memo_title">お薬メモ</string>
+    <string name="qrcode_result_screen">読み取り結果</string>
+    <string name="rcpt_offer_type_enter">入院中の薬剤情報</string>
+    <string name="rcpt_offer_type_leave">退院後の薬剤情報</string>
+    <string name="rcpt_offer_type_other">その他</string>
+    <string name="register_user_basic_note_title">お名前等を入力してください</string>
+    <string name="register_user_detail_note_title">生年月日等を入力してください</string>
+    <string name="register_user_note_note_title">特記事項を入力してください</string>
+    <string name="remarks">注意事項</string>
+    <string name="screen_DialogChooseAvatar">プロフィール画像（選択）</string>
+    <string name="screen_DialogDrugIconChoice">おくすり画像（選択）</string>
+    <string name="screen_DialogDrugUsage">おくすり登録（用法）</string>
+    <string name="screen_DialogProfile">トップ(利用者切替)</string>
+    <string name="screen_DialogSharePass">おくすり手帳を見せる_使い方ヒント</string>
+    <string name="screen_PatientInfoGeneric">ジェネリック医薬品について</string>
+    <string name="screen_SchedulerHint">スケジューラ_使い方ヒント</string>
+    <string name="screen_SelStoreDetailWeb">処方せん画像送信（薬局選択_3）</string>
+    <string name="screen_SendAbout">処方せん送信_使い方ヒント</string>
+    <string name="screen_barcode_result_activity">おくすり登録 市販薬 手入力（バーコード読込み）</string>
+    <string name="screen_edit_user_basic">利用者の編集（基本・詳細情報）</string>
+    <string name="screen_edit_user_emmergency_contact">利用者の編集（緊急連絡先）</string>
+    <string name="screen_edit_user_note">利用者の編集（特記事項）</string>
+    <string name="screen_edit_user_primary_care">利用者の編集（かかりつけ）</string>
+    <string name="screen_fragment_prescription">処方せん画像送信</string>
+    <string name="screen_fragment_scheduler">スケジューラ（登録）</string>
+    <string name="screen_fragment_setting">設定</string>
+    <string name="screen_fragment_top">トップ</string>
+    <string name="screen_input_from_history">履歴から入力</string>
+    <string name="screen_list_drug_history">履歴から入力</string>
+    <string name="screen_medicine_alarm">おくすり登録 処方薬 手入力 (アラーム)</string>
+    <string name="screen_medicine_alarm_create_more">おくすり登録_処方薬_手入力(アラーム追加)</string>
+    <string name="screen_medicine_check">服薬チェック</string>
+    <string name="screen_medicine_detail">おくすり登録</string>
+    <string name="screen_medicine_details_otc">おくすり詳細_市販薬</string>
+    <string name="screen_medicine_details_qr">おくすり登録（読み取り結果）</string>
+    <string name="screen_medicine_details_rtc">おくすりの詳細</string>
+    <string name="screen_medicine_dispensing">おくすり登録 処方薬 手入力(調剤日)</string>
+    <string name="screen_medicine_edit">おくすりの編集</string>
+    <string name="screen_medicine_edit_alarm">アラーム設定の編集</string>
+    <string name="screen_medicine_edit_dispensing">調剤日等の編集</string>
+    <string name="screen_medicine_edit_doctor">診療科/医師の編集</string>
+    <string name="screen_medicine_information">おくすり登録 処方薬 手入力(お薬情報)</string>
+    <string name="screen_medicine_information_create_more">おくすり登録（おくすり2つ目以降/おくすり登録）</string>
+    <string name="screen_medicine_otc_add">おくすり登録 市販薬 手入力</string>
+    <string name="screen_medicine_otc_edit">市販薬 編集</string>
+    <string name="screen_medicine_photo">おくすり登録 処方薬 手入力(お薬情報/ 撮影)</string>
+    <string name="screen_medicine_photo_confirm">おくすり登録 処方薬 手入力 ( お薬情報/ 撮影確認)</string>
+    <string name="screen_medicine_register_finish">おくすり登録（登録完了）</string>
+    <string name="screen_user_chemist_register">かかりつけ薬剤師の登録</string>
+    <string name="screen_user_details">利用者の詳細</string>
+    <string name="screen_user_hospital_register">かかりつけ病院の登録</string>
+    <string name="screen_user_register_finish">利用者の登録（登録完了）</string>
+    <string name="search_database_name">MedicineDatabase.db</string>
+    <string name="sel_store_maps">地図から選ぶ</string>
+    <string name="sel_store_title">薬局を選択してください</string>
+    <string name="select_medicine_add_doctor">追加するおくすりの診療科/医師を選択してください。</string>
+    <string name="selstore_history_empty">送信履歴はありません</string>
+    <string name="selstore_history_title">送信履歴</string>
+    <string name="send_fail_title">"送信に失敗しました
+(処方せん画像は薬局に届いていません)"</string>
+    <string name="send_success_title">受付が完了しました</string>
+    <string name="sender_name_lable">送信者:</string>
+    <string name="ser_phar_url">https://www.cocokarafine.co.jp/searchstore/CSsStoreTop.jsp</string>
+    <string name="setting_item_alarm_description">アラームの時間設定を一括管理</string>
+    <string name="setting_item_alarm_title">アラーム時刻設定</string>
+    <string name="setting_item_user_list_description">利用者の追加・削除・編集</string>
+    <string name="setting_notify_description">お知らせとアンケートの一覧</string>
+    <string name="shoot_camera">撮影する</string>
+    <string name="span_day">指定間隔（日おき）</string>
+    <string name="span_every">毎日</string>
+    <string name="span_friday">金</string>
+    <string name="span_monday">月</string>
+    <string name="span_saturday">土</string>
+    <string name="span_sunday">日</string>
+    <string name="span_thursday">木</string>
+    <string name="span_tuesday">火</string>
+    <string name="span_wednesday">水</string>
+    <string name="span_week">曜日指定</string>
+    <string name="step_alarm">❸ アラーム</string>
+    <string name="step_alarm_2">❷ アラーム</string>
+    <string name="step_dispensing_date">❶ 調剤日等</string>
+    <string name="step_info">❷ お薬詳細</string>
+    <string name="step_info_2">❶ お薬詳細</string>
+    <string name="step_patient_title">❷ 患者</string>
+    <string name="step_pharmacy_title">❶ 薬局</string>
+    <string name="step_send_title">❹ 送信</string>
+    <string name="step_shooting_title">❸ 撮影</string>
+    <string name="store_name_lable">送信先:</string>
+    <string name="temp_database_name">tempMedicineNoteBookDB.db</string>
+    <string name="text_combination_alert">お薬との飲み合わせが悪い飲食物</string>
+    <string name="text_disease_none">※病名/症状は未登録</string>
+    <string name="text_dote_line">・</string>
+    <string name="text_drug_gallery">画像から選ぶ</string>
+    <string name="text_drug_name">お薬名</string>
+    <string name="text_drug_usege_title">その他用法</string>
+    <string name="text_item_dose_dispensing_amount">調剤量</string>
+    <string name="text_item_dose_dispensing_amount_him">日分</string>
+    <string name="text_item_dose_him">錠</string>
+    <string name="text_item_medication_interval_default">毎日</string>
+    <string name="text_item_usege_manual">手入力</string>
+    <string name="text_medicine_image">おくすり画像</string>
+    <string name="text_medicine_memo">お薬メモ</string>
+    <string name="text_medicine_memo_show">メモの入力</string>
+    <string name="text_message_dialog_share_onetime_pass_1">おくすり手帳を見せるとは？</string>
+    <string name="text_message_dialog_share_onetime_pass_2">病院や薬局など、医療機関の関係者にあなたのお薬情報を見せる場合に使用します。ワンタイムコードが発行されますので、画面を見せてください。</string>
+    <string name="text_message_dialog_share_onetime_pass_3">※対応している医療機関でご利用になれます。</string>
+    <string name="text_note_symbol">"(&lt;font color='#D0021B'>※&lt;/font>は必須)"</string>
+    <string name="text_phrm_counter_drugs">処方薬</string>
+    <string name="text_phrm_prescription_drugs">処方薬</string>
+    <string name="text_san">さん</string>
+    <string name="text_script_memo">用法メモ</string>
+    <string name="text_sel_web_detail">以下の薬局でよろしいですか？</string>
+    <string name="text_send">送信</string>
+    <string name="text_title_medicine">おくすり%d</string>
+    <string name="text_title_medicine_input">履歴から入力</string>
+    <string name="text_title_phrm_details">おくすり詳細</string>
+    <string name="text_title_phrm_edit">おくすり編集</string>
+    <string name="text_user_not_register">未登録</string>
+    <string name="title_alarm">アラームを確認後、完了してください</string>
+    <string name="title_alarm_info">アラーム通知</string>
+    <string name="title_alarm_time">薬の服用始めはいつですか？</string>
+    <string name="title_confirm_after_sending">●送信後のご確認はこちら</string>
+    <string name="title_dialog_prescription">使い方ヒント</string>
+    <string name="title_input_memo_send">"薬剤師に伝えたいこと等の入力文字数が長過ぎます。
+全角%d文字以内で入力してください。"</string>
+    <string name="title_input_name_send">"お名前の入力文字数が長すぎます。
+全角%d文字以内で入力してください。"</string>
+    <string name="title_input_oct_name">"お薬名の入力文字数が長すぎます。
+"</string>
+    <string name="title_medicine_finished">おくすり登録完了</string>
+    <string name="title_register_finish">利用者の登録完了</string>
+    <string name="title_send_pharmacy">●薬局への送信はこちら</string>
+    <string name="title_time_use">服用のタイミングは？（用法）</string>
+    <string name="title_username">利用者：</string>
+    <string name="top_text_switch_user">利用者切替</string>
+    <string name="txtComplete">完了</string>
+    <string name="txtFrom">から</string>
+    <string name="txtNameTitleFormat">%s様</string>
+    <string name="txtSendNGText">いつもココカラファインお薬手帳をご利用いただき、誠にありがとうございます。&lt;br>&lt;br>処方せんデータを受付できませんでした。&lt;br>&lt;br>大変お手数ですが、再度ご送信をお願いいたします。&lt;br>&lt;br>受付の失敗が繰り返される場合は、送信先の薬局にお問い合わせください。</string>
+    <string name="txtSendOKText">いつもココカラファインお薬手帳をご利用いただき、誠にありがとうございます。&lt;br>&lt;br>処方せんデータを受付しました。&lt;br>&lt;br>お薬の用意ができましたら再度連絡いたしますので、お待ちください。</string>
+    <string name="txtSenderID">39366680362</string>
+    <string name="txtpolicyAssentTitle" />
+    <string name="user_care_text">%d件</string>
+    <string name="user_detail_label_drugstote">薬局名：</string>
+    <string name="user_detail_label_hospital_name">病院名：</string>
+    <string name="user_detail_label_phone">電話番号：</string>
+    <string name="user_detail_label_primary_chenist">薬剤師名：</string>
+    <string name="user_detail_label_primary_contact_1">連絡先1：</string>
+    <string name="user_detail_label_primary_pharmacist">薬局名：</string>
+    <string name="user_family_care_not_data">未登録(0件)</string>
+    <string name="user_family_care_text">件</string>
+    <string name="user_icon_default">avatar_default</string>
+    <string name="user_icon_default_database">00</string>
+    <string name="user_icon_gallery">gallery</string>
+    <string name="user_list_empty">"&lt;font color='#323232'>&lt;big>利用者の登録はありません&lt;/big>&lt;/font> &lt;font color='#727272'>&lt;br>&lt;br>※Top画面から登録してください&lt;/font>"</string>
+    <string name="user_name_formmat">利用者：%sさん</string>
+    <string name="user_name_title">%sさん</string>
+    <string name="user_note_expand">かかりつけ、緊急連絡先の入力</string>
+    <string name="user_relating_content">"利用者情報の紐付けを行うことで、複数のdアカウント対応お薬手帳アプリ（以下、対応アプリ）から登録したお薬情報を、サーバー上で同一利用者のお薬情報として紐付け、まとめて管理することが出来ます。
+
+ そのため、「薬剤師に見せる」機能を利用して、薬剤師等の医療従事者にお薬情報を共有するときに、それぞれのお薬手帳アプリを操作することなく、一つのお薬手帳アプリの操作でまとめて情報共有することが可能となります。"</string>
+    <string name="user_relating_note_content1">本機能をご利用いただくには、dアカウントが必要です。</string>
+    <string name="user_relating_note_content2">本機能をご利用いただくには、同一dアカウントにて、対応アプリを利用している必要があります。</string>
+    <string name="user_relating_note_symble">・</string>
+    <string name="user_relating_note_title">ご注意事項</string>
+    <string name="user_sex_female">女性</string>
+    <string name="user_sex_male">男性</string>
+    <string name="user_weight_unit">kg</string>
+    <string name="version">バージョン</string>
+</resources>

@@ -1,0 +1,908 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="cast_ad_label">Ad</string>
+    <string name="cast_casting_to_device">Casting to %1$s</string>
+    <string name="cast_closed_captions">Closed captions</string>
+    <string name="cast_closed_captions_unavailable">Closed captions unavailable</string>
+    <string name="cast_disconnect">Disconnect</string>
+    <string name="cast_expanded_controller_ad_image_description">Image displayed while the cast receiver is playing an ad</string>
+    <string name="cast_expanded_controller_ad_in_progress">Ad in progress…</string>
+    <string name="cast_expanded_controller_background_image">Album art</string>
+    <string name="cast_expanded_controller_live_stream_indicator">Live stream</string>
+    <string name="cast_expanded_controller_loading">Loading…</string>
+    <string name="cast_expanded_controller_skip_ad_label">Skip</string>
+    <string name="cast_forward">Forward</string>
+    <string name="cast_forward_10">Forward ten seconds</string>
+    <string name="cast_forward_30">Forward thirty seconds</string>
+    <string name="cast_intro_overlay_button_text">@android:string/ok</string>
+    <string name="cast_mute">Mute</string>
+    <string name="cast_notification_connected_message">Connected to %1$s</string>
+    <string name="cast_notification_connecting_message">Connecting to %1$s</string>
+    <string name="cast_notification_disconnect">Disconnect</string>
+    <string name="cast_pause">Pause</string>
+    <string name="cast_play">Play</string>
+    <string name="cast_rewind">Rewind</string>
+    <string name="cast_rewind_10">Rewind ten seconds</string>
+    <string name="cast_rewind_30">Rewind thirty seconds</string>
+    <string name="cast_seek_bar">Playback seek control</string>
+    <string name="cast_skip_next">Skip to next item</string>
+    <string name="cast_skip_prev">Skip to previous item</string>
+    <string name="cast_stop">Stop</string>
+    <string name="cast_stop_live_stream">Stop live stream</string>
+    <string name="cast_tracks_chooser_dialog_audio">Audio</string>
+    <string name="cast_tracks_chooser_dialog_cancel">Cancel</string>
+    <string name="cast_tracks_chooser_dialog_closed_captions">Closed Captions</string>
+    <string name="cast_tracks_chooser_dialog_default_track_name">Track %1$d</string>
+    <string name="cast_tracks_chooser_dialog_none">None</string>
+    <string name="cast_tracks_chooser_dialog_ok">OK</string>
+    <string name="cast_tracks_chooser_dialog_subtitles">Subtitles</string>
+    <string name="cast_unmute">Unmute</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="messenger_send_button_text">Send</string>
+    <string name="mr_button_content_description">Cast button</string>
+    <string name="mr_cast_button_connected">Cast button. Connected</string>
+    <string name="mr_cast_button_connecting">Cast button. Connecting</string>
+    <string name="mr_cast_button_disconnected">Cast button. Disconnected</string>
+    <string name="mr_chooser_searching">Finding devices</string>
+    <string name="mr_chooser_title">Cast to</string>
+    <string name="mr_controller_album_art">Album art</string>
+    <string name="mr_controller_casting_screen">Casting screen</string>
+    <string name="mr_controller_close_description">Close</string>
+    <string name="mr_controller_collapse_group">Collapse</string>
+    <string name="mr_controller_disconnect">Disconnect</string>
+    <string name="mr_controller_expand_group">Expand</string>
+    <string name="mr_controller_no_info_available">No info available</string>
+    <string name="mr_controller_no_media_selected">No media selected</string>
+    <string name="mr_controller_pause">Pause</string>
+    <string name="mr_controller_play">Play</string>
+    <string name="mr_controller_stop">Stop casting</string>
+    <string name="mr_controller_volume_slider">Volume slider</string>
+    <string name="mr_system_route_name">System</string>
+    <string name="mr_user_route_category_name">Devices</string>
+    <string name="place_autocomplete_clear_button">Clear search</string>
+    <string name="place_autocomplete_search_hint">Search</string>
+    <string name="s1">Save image</string>
+    <string name="s2">Allow Ad to store image in Picture gallery?</string>
+    <string name="s3">Accept</string>
+    <string name="s4">Decline</string>
+    <string name="s5">Create calendar event</string>
+    <string name="s6">Allow Ad to create a calendar event?</string>
+    <string name="search_menu_title">Search</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="wallet_buy_button_place_holder">Buy with Google</string>
+    <string name="about_title">關於178叫計程車</string>
+    <string name="add">新增</string>
+    <string name="add_address">新增地址</string>
+    <string name="addr_desc">地點說明</string>
+    <string name="addr_memo">備註: 預設上車地點可以不用設定 .若要設定, 請設定完所有上車地點後(最多五筆),再按資料送出</string>
+    <string name="addr_name">地點名稱</string>
+    <string name="all_other_user_dial">"一般用戶
+撥打電話"</string>
+    <string name="alley">弄</string>
+    <string name="appType" />
+    <string name="app_id">178</string>
+    <string name="app_name">178叫計程車</string>
+    <string name="ataxi">優良衛星</string>
+    <string name="b002_login_fail">登入失敗，請稍候再試。若會員忘記密碼請用會員手機撥02-4499003按1設新密碼。若您尚未成為會員，請用手機撥02-4499003按1，加入會員並設新密碼。</string>
+    <string name="back">返回</string>
+    <string name="back_home">回首頁</string>
+    <string name="benifit_title">使用說明、影片、圖片</string>
+    <string name="benter_correct_phone">請輸入手機門號</string>
+    <string name="birth_ym">出生年月</string>
+    <string name="cacel_dial">取消播號</string>
+    <string name="cancel">取消</string>
+    <string name="card_add">新增信用卡</string>
+    <string name="card_androidpay_edit_info">如果要新增或修改Android Pay信用卡、帳單地址..等資料，請使用Android Pay應用程式進行相關操作。</string>
+    <string name="card_cancel_scan">取消掃描信用卡！</string>
+    <string name="card_cardnum_sub_title">卡        號:</string>
+    <string name="card_enter_card_exp">請輸入信用卡有效期限!</string>
+    <string name="card_enter_card_num">請輸入信用卡號碼!</string>
+    <string name="card_enter_corp_card_exp">請輸入企業卡有效期限!</string>
+    <string name="card_enter_corp_card_num">請輸入企業卡號碼!</string>
+    <string name="card_exp_date">有效期限</string>
+    <string name="card_exp_date_sub_title">有效期限:</string>
+    <string name="card_fun_editcard">信用卡新增與編輯</string>
+    <string name="card_fun_mpay">使用178支付</string>
+    <string name="card_fun_qrrec">信用卡刷卡紀錄</string>
+    <string name="card_is_del_card">是否要刪除此信用卡?</string>
+    <string name="card_mapy_happygo_cer_currency">元</string>
+    <string name="card_mapy_popup_title">178支付交易結果</string>
+    <string name="card_memo_sub_title">註        記:</string>
+    <string name="card_mpay_amt">金額</string>
+    <string name="card_mpay_cancel_album">取消從相簿選擇！</string>
+    <string name="card_mpay_cancel_camera">取消照相！</string>
+    <string name="card_mpay_cancel_deal">取消178支付後，如需再用，請重新掃QR碼。</string>
+    <string name="card_mpay_cancel_wait">取消等待輸入金額後，如需再用，請重新掃QR碼。</string>
+    <string name="card_mpay_cannot_chg_iknow">知道了</string>
+    <string name="card_mpay_cannot_chg_prompt">本趟已有『叫車兼支付』，請直接請司機按9輸入金額，就可完成支付。</string>
+    <string name="card_mpay_card">信用卡</string>
+    <string name="card_mpay_card_title">178支付與信用卡管理</string>
+    <string name="card_mpay_cardbonus">信用卡+紅利點</string>
+    <string name="card_mpay_cfm_scanned">請確認司機已掃描過QR碼</string>
+    <string name="card_mpay_change_other_car">其他對象(付款對象不在上述列表中)</string>
+    <string name="card_mpay_chg_n_prompt">不更改</string>
+    <string name="card_mpay_chg_prompt">本趟已有『叫車兼支付』，如需更改付款方式，請點『更改』。</string>
+    <string name="card_mpay_chg_prompt_dialog">"使用178支付，
+請點選下列一筆叫車。"</string>
+    <string name="card_mpay_chg_y_prompt">更改</string>
+    <string name="card_mpay_confirm">請確認後，按『下一步』，感謝您！</string>
+    <string name="card_mpay_dial">撥通客服</string>
+    <string name="card_mpay_driver_no">司機編號</string>
+    <string name="card_mpay_edit">修改</string>
+    <string name="card_mpay_err">無法連接認證主機！</string>
+    <string name="card_mpay_genqr">QRCode產生中</string>
+    <string name="card_mpay_genqr_err">信用卡QRCode產生失敗!</string>
+    <string name="card_mpay_genqr_info">將下方QR碼，給司機掃碼付車資。QR碼只含交易序號，沒有信用卡資料，非常安全，請安心使用。不必掏錢、不必找零、不必掏卡片，安全、迅速、方便。</string>
+    <string name="card_mpay_happygo_cer">HappyGo最高可抵金額</string>
+    <string name="card_mpay_happygo_entry_again">司機重新輸入</string>
+    <string name="card_mpay_happygo_failed">HappyGo認證失敗</string>
+    <string name="card_mpay_happygo_retry">，請司機重新輸入可抵金額，其餘付現金</string>
+    <string name="card_mpay_happygo_to_cer">驗證</string>
+    <string name="card_mpay_happygo_uncer">請先取得HappyGo認證</string>
+    <string name="card_mpay_has_scanned">你的QR碼已被用過，如有新的交易，請再產生一組！</string>
+    <string name="card_mpay_help">使用疑問幫助</string>
+    <string name="card_mpay_input_mvpn">請輸入椅背或右側窗標示司機MVPN代碼五碼</string>
+    <string name="card_mpay_input_mvpn_prompt_post">』，後四碼為司機隊編。</string>
+    <string name="card_mpay_input_mvpn_prompt_pre">第一碼區域碼『</string>
+    <string name="card_mpay_method_choose_one">付費方法二擇一</string>
+    <string name="card_mpay_mvpn_btn">方法一:填司機代碼五碼支付</string>
+    <string name="card_mpay_mvpn_empty">請輸入MVPN代碼五碼！</string>
+    <string name="card_mpay_mvpn_help">區域碼查詢</string>
+    <string name="card_mpay_needcard">本項需有信用卡才能掃QR碼</string>
+    <string name="card_mpay_noinfo">查無信用卡資訊！</string>
+    <string name="card_mpay_not_scanned">司機尚未掃碼授權上傳, 請給司機掃描</string>
+    <string name="card_mpay_oncar_err">您已經使用APP叫車並選擇信用卡付款！</string>
+    <string name="card_mpay_pay">付費</string>
+    <string name="card_mpay_qrcode_err">QRcode格式錯誤！</string>
+    <string name="card_mpay_refuse">處理司機不能刷卡或收電子簽單</string>
+    <string name="card_mpay_refuse_desc">發生司機貨車機不能刷卡或使用電子簽單，請依下列步驟處理，謝謝。</string>
+    <string name="card_mpay_refuse_noalbum">無法開啟此裝置內的圖庫瀏覽器！</string>
+    <string name="card_mpay_refuse_nocamera">無法使用此裝置內的相機！</string>
+    <string name="card_mpay_refuse_nocrop">你的裝置不支援裁切功能！</string>
+    <string name="card_mpay_refuse_sign_desc">如果發生司機不能收紙本簽單，請依下兩步驟處理。</string>
+    <string name="card_mpay_refuse_sign_step1">第一步:先將簽單填好所有資料，拍照簽單後上傳客服</string>
+    <string name="card_mpay_refuse_sign_step1_act1">相機拍照</string>
+    <string name="card_mpay_refuse_sign_step1_act2">相片選取</string>
+    <string name="card_mpay_refuse_sign_step2">第二步:在撥面付費電話給客服代收</string>
+    <string name="card_mpay_refuse_sign_step2_act1">馬上撥號</string>
+    <string name="card_mpay_refuse_sign_title">直接請客服收紙本簽單</string>
+    <string name="card_mpay_refuse_step1">第一步:先撥080免付費電話給客服代收</string>
+    <string name="card_mpay_refuse_step1_act">馬上撥號</string>
+    <string name="card_mpay_refuse_step2">第二步:點[直接支付給客服]</string>
+    <string name="card_mpay_refuse_step2_act">直接支付給客服</string>
+    <string name="card_mpay_refuse_title">直接對客服支付</string>
+    <string name="card_mpay_refuse_upload_select_plz">請選擇要上傳的簽單</string>
+    <string name="card_mpay_scan_title_text_size">3</string>
+    <string name="card_mpay_scanqr_btn">方法二:掃司機QR碼支付</string>
+    <string name="card_mpay_sel">選用</string>
+    <string name="card_mpay_shop_no">對象</string>
+    <string name="card_mpay_title">178支付</string>
+    <string name="card_mpay_trans">下一步</string>
+    <string name="card_mpay_trans_no">交易代號</string>
+    <string name="card_mpay_transaction">信用卡交易中...</string>
+    <string name="card_mpay_wait">查詢授權是否成功</string>
+    <string name="card_mpaydesc_help">178支付幫助</string>
+    <string name="card_needcard">您尚未設定信用卡，需要立即設定？</string>
+    <string name="card_pass_sub_title">密        碼:</string>
+    <string name="card_query_title">新增與編輯信用卡資料</string>
+    <string name="card_recp_nodata">查無資料!</string>
+    <string name="card_recp_title">查詢電子收據</string>
+    <string name="card_scan">掃描</string>
+    <string name="card_setting_title">信用卡設定</string>
+    <string name="card_signing_coupon_title">信用卡、簽單、酬賓券</string>
+    <string name="card_type_ae">American Express</string>
+    <string name="card_type_business_card">企業卡</string>
+    <string name="card_type_normal_card">VISA/MasterCard/JCB</string>
+    <string name="card_type_sub_title">選擇支付卡別:</string>
+    <string name="card_verify_card_exp">請確認信用卡有效期限是否正確!</string>
+    <string name="card_verify_card_failed">信用卡驗證失敗!</string>
+    <string name="card_verify_card_num">請確認所輸入的信用卡卡號是否正確!</string>
+    <string name="card_verify_card_pass">請輸入密碼!</string>
+    <string name="center_lst_cleardata">清 除</string>
+    <string name="center_lst_next">下一筆</string>
+    <string name="center_lst_note">請輸入預設上車地點</string>
+    <string name="center_lst_title">設定中心常用上車地</string>
+    <string name="center_lst_update">更新資料</string>
+    <string name="center_lst_validate">正在查詢地址座標中</string>
+    <string name="choose_a_city">選擇 城市</string>
+    <string name="choose_a_distinct">選擇 鄉/鎮/區</string>
+    <string name="city">縣/市</string>
+    <string name="close">關閉</string>
+    <string name="confirm">完成</string>
+    <string name="coupon">獲取優惠</string>
+    <string name="coupon_enable_err">網路發生錯誤,請稍後再試!</string>
+    <string name="coupon_enable_num_empty">您尚未輸入酬賓券號或掃描酬賓券QR碼！</string>
+    <string name="coupon_enable_num_wrg">請輸入正確的酬賓券號！</string>
+    <string name="coupon_enabling">啟用中</string>
+    <string name="coupon_enalbe_title">酬賓券開通</string>
+    <string name="coupon_enter_cell">手機</string>
+    <string name="coupon_enter_couponno">酬賓券號:</string>
+    <string name="coupon_enter_no">使用說明</string>
+    <string name="coupon_enter_plz_couponno">請輸入酬賓券號</string>
+    <string name="coupon_mgr_enable">開通</string>
+    <string name="coupon_mgr_qry">酬賓券可用查詢</string>
+    <string name="coupon_mgr_rec_qry">酬賓券已用記錄</string>
+    <string name="coupon_mgr_title">酬賓券管理</string>
+    <string name="coupon_plz_select">請選擇酬賓券</string>
+    <string name="coupon_qry_title">可用酬賓券查詢</string>
+    <string name="coupon_rescan">重新掃描</string>
+    <string name="coupon_scan_cancel">取消</string>
+    <string name="coupon_scan_ok">確認</string>
+    <string name="coupon_scan_ok_go">開啟網址</string>
+    <string name="coupon_scan_ok_open">要開啟此網址嗎?</string>
+    <string name="coupon_scan_ok_open_inner">內部瀏覽器</string>
+    <string name="coupon_scan_ok_open_others">外部瀏覽器</string>
+    <string name="coupon_scan_result">掃描結果:</string>
+    <string name="coupon_scan_title">QR掃描器</string>
+    <string name="coupon_usage_rec">使用記錄查詢</string>
+    <string name="del_address">刪除地址</string>
+    <string name="dial_note">注意</string>
+    <string name="disp_confirm_addr_failed">此地址無效</string>
+    <string name="disp_confirm_aproximately">最近車約</string>
+    <string name="disp_confirm_back">不取消了</string>
+    <string name="disp_confirm_book_more">多叫一輛</string>
+    <string name="disp_confirm_book_more_info">"已有訂車成功了，
+您可點[看車位置]。
+如您要再多叫一輛車，
+請點[多叫一輛]。"</string>
+    <string name="disp_confirm_break_note">"
+說明："</string>
+    <string name="disp_confirm_busy_check">對不起，您指定車隊，目前附近比較忙碌，請『切換到其他車隊，重新按馬上叫車』，謝謝。</string>
+    <string name="disp_confirm_caceling_booking">正在取消派車</string>
+    <string name="disp_confirm_calltaxi">馬上叫車</string>
+    <string name="disp_confirm_cancel">取消叫車</string>
+    <string name="disp_confirm_cancel_anyway">確認取消車輛</string>
+    <string name="disp_confirm_cancel_other">其他:</string>
+    <string name="disp_confirm_cancel_title">取消叫車原因</string>
+    <string name="disp_confirm_card_coupon">本券需搭配信用卡使用，請選大都會車隊、信用卡及車資抵用券叫車</string>
+    <string name="disp_confirm_cartype">車隊</string>
+    <string name="disp_confirm_cash_coupon">本券需搭配現金使用，請選貴賓車隊、現金及酬賓券叫車</string>
+    <string name="disp_confirm_chg_vip_then_use_coupon_plz">請切換到[貴賓乘車]在使用酬賓券叫車。</string>
+    <string name="disp_confirm_class_name">資費</string>
+    <string name="disp_confirm_cond">優惠</string>
+    <string name="disp_confirm_continue_disp">繼續派車</string>
+    <string name="disp_confirm_coupon">酬賓券</string>
+    <string name="disp_confirm_coupon_plz_select">您有酬賓券,請選用</string>
+    <string name="disp_confirm_dest">設定目的地，有助迅速派到車輛</string>
+    <string name="disp_confirm_dest_empty">目的地不得為空！</string>
+    <string name="disp_confirm_dest_hit">填寫目的地，預估車資</string>
+    <string name="disp_confirm_disptching">連線派車中</string>
+    <string name="disp_confirm_driver_msg_desc">特別需求、請點選</string>
+    <string name="disp_confirm_driver_msg_desc_subtitle">包車、送貨、搬家、無障礙計程車等特殊需求，請撥打55178與專人聯絡叫車。</string>
+    <string name="disp_confirm_driver_msg_title">特別需求</string>
+    <string name="disp_confirm_driver_spec_msg_desc">輸入上車地說明或點選</string>
+    <string name="disp_confirm_drivermsg">+地址說明及特別需求</string>
+    <string name="disp_confirm_drivermsg_addr">上車地點   </string>
+    <string name="disp_confirm_edaddr">上車地</string>
+    <string name="disp_confirm_edit">選用</string>
+    <string name="disp_confirm_go_register">前往註冊</string>
+    <string name="disp_confirm_gps_failed">暫時無法取得地址座標，請稍候再試</string>
+    <string name="disp_confirm_later">稍後再說</string>
+    <string name="disp_confirm_more_b">請選擇車隊</string>
+    <string name="disp_confirm_more_c">請選擇優惠項目</string>
+    <string name="disp_confirm_more_p">請選擇付款方式</string>
+    <string name="disp_confirm_msg_send">訊息已送出</string>
+    <string name="disp_confirm_needcard">您尚未設定信用卡，需要立即設定？</string>
+    <string name="disp_confirm_no_bonus">請注意，此卡片不能使用紅利，請洽發卡行</string>
+    <string name="disp_confirm_no_voice_device">無語音辨識裝置！</string>
+    <string name="disp_confirm_nocard">本項需有信用卡才能叫車</string>
+    <string name="disp_confirm_nocoupon">無酬賓券</string>
+    <string name="disp_confirm_note">"說
+明"</string>
+    <string name="disp_confirm_notuse_card_bonus">關紅利</string>
+    <string name="disp_confirm_pay">付費</string>
+    <string name="disp_confirm_picup_addr">上車地址：</string>
+    <string name="disp_confirm_register_plz">請您先註冊門號才能叫車，確保司機能與您會面。</string>
+    <string name="disp_confirm_ride_loc_title">修改上車地</string>
+    <string name="disp_confirm_sdkversion">由於Android版本低於4.1，因安全性考量不支援信用卡叫車。</string>
+    <string name="disp_confirm_sign_costid">單位部門</string>
+    <string name="disp_confirm_sign_fare_fixed">固定議價</string>
+    <string name="disp_confirm_sign_fare_unfixed">跳表車資</string>
+    <string name="disp_confirm_sign_faretype">車資方式</string>
+    <string name="disp_confirm_sign_fasre_fixed_memo">固定議價</string>
+    <string name="disp_confirm_sign_memo">事由註記</string>
+    <string name="disp_confirm_tip">+調度費</string>
+    <string name="disp_confirm_tip_noplus">調度費</string>
+    <string name="disp_confirm_title">叫車條件確認</string>
+    <string name="disp_confirm_todo_lst">"
+點擊交代事項，增加成功率！"</string>
+    <string name="disp_confirm_use_card_bonus">用紅利</string>
+    <string name="disp_confirm_verifying_booking">正在確認派車</string>
+    <string name="disp_confirm_viewtaxi">看車位置</string>
+    <string name="disp_confirm_voice">開始語音辨識，請說話......</string>
+    <string name="disp_estimated_note">(參考用，依車表為準)</string>
+    <string name="disp_popup_bonus_info">搭乘計程車不用錢，銀行信用卡紅利抵100%車資。</string>
+    <string name="disp_popup_nouse_card_bonus">關閉使用紅利，不使用紅利抵車資。</string>
+    <string name="disp_popup_title_cartype">選擇車隊</string>
+    <string name="disp_popup_title_condition">選擇優惠</string>
+    <string name="disp_popup_title_pay">選擇付費</string>
+    <string name="disp_popup_use_card_bonus">用紅利，優先用紅利點抵車資，不足才用信用卡。</string>
+    <string name="disp_reserve_cancel">取 消</string>
+    <string name="disp_reserve_confirm">確認地址</string>
+    <string name="disp_reserve_dest">輸入目的地</string>
+    <string name="disp_reserve_disp_wait">"請稍候...
+預約叫車需司機確認行程表，搜車時間筆馬上叫車長，請諒察。"</string>
+    <string name="disp_reserve_fare">預估車資</string>
+    <string name="disp_reserve_input_valid_addr_plz">"
+請輸入有效的地址
+"</string>
+    <string name="disp_reserve_input_valid_loc_plz">"
+請選擇有效的地標
+"</string>
+    <string name="disp_reserve_less_than300">300元以下短途，不提供預約!</string>
+    <string name="disp_reserve_loc">車站/機場/地標</string>
+    <string name="disp_reserve_map">地圖定址</string>
+    <string name="disp_reserve_more_than_thirty_min">預約時間必須大於目前時間30分鐘以上!</string>
+    <string name="disp_reserve_move_map_to_getcar_pt">請移動地圖, 讓圖標尖端對準上車地點</string>
+    <string name="disp_reserve_need_time">預約必須填寫上下車地及時間</string>
+    <string name="disp_reserve_no_dest">您尚未填寫或點選目的地！</string>
+    <string name="disp_reserve_no_time">您尚未選擇預約時間！</string>
+    <string name="disp_reserve_title">設定目的地</string>
+    <string name="disp_ride_loc_search_content">請輸入地標名稱</string>
+    <string name="disp_ride_loc_search_title">附近地標搜尋</string>
+    <string name="edit">編輯</string>
+    <string name="edit_address">編輯內容</string>
+    <string name="email">電子郵件</string>
+    <string name="empty_image_description" />
+    <string name="empty_phone">台灣手機輸入10 碼門號，海外手機請輸入帶國碼門號，oversea handset，please enter 「country code + handsetnumber 」。</string>
+    <string name="enter_addr_desc">例如:巷口等,靠近xx便利商店</string>
+    <string name="enter_fm_name">姓</string>
+    <string name="enter_name">名</string>
+    <string name="enter_phone_number">請輸入手機號碼</string>
+    <string name="fareasttone_mvpn_dial">"遠傳MVPN
+撥打電話"</string>
+    <string name="fm_name">姓</string>
+    <string name="fm_name_and_name">姓        名</string>
+    <string name="fun_tab_dispatch">叫車畫面</string>
+    <string name="fun_tab_indispatch">等車來</string>
+    <string name="fun_tab_oncar">車上活動</string>
+    <string name="fun_tab_other">好康主頁</string>
+    <string name="fun_tab_record">評分司機</string>
+    <string name="giveup">放棄</string>
+    <string name="gmail">Gmail</string>
+    <string name="gmap_frame_additional_booking">您叫車了請等車來，多叫一輛車請按進派車鍵！</string>
+    <string name="gmap_frame_addr_qrying">地址: [查詢中...]，如超過2秒，請檢查行動網路！</string>
+    <string name="gmap_frame_aproximately">最近車約</string>
+    <string name="gmap_frame_aproximately_min">分</string>
+    <string name="gmap_frame_book_additional_car">如需再叫一輛車，請輸入您的手機號碼，請注意叫車沒搭會影響您使用APP叫車的權益。</string>
+    <string name="gmap_frame_book_additional_car_note">如需再叫一輛車，請按下一步！</string>
+    <string name="gmap_frame_cancel">取消</string>
+    <string name="gmap_frame_confirm">確定</string>
+    <string name="gmap_frame_coordinate">圖標尖端座標:</string>
+    <string name="gmap_frame_drag_map">請拖拉地圖, 確認上車地後，按下[下一步]進入叫車頁</string>
+    <string name="gmap_frame_enlarge_scale">圖太密無法定位，請兩指放大地圖！</string>
+    <string name="gmap_frame_googlemap_failed">若移動地圖定無法顯示地址，可能是Google地圖無法地位！您可選擇常用地址、訂車紀錄...方式叫車！</string>
+    <string name="gmap_frame_landmark_failed">定位失敗，請重新定位再使用地標叫車！</string>
+    <string name="gmap_frame_landmark_within_post">公尺內使用！</string>
+    <string name="gmap_frame_landmark_within_pre">請於所在地</string>
+    <string name="gmap_frame_leaving178">是否要離開[178叫計程車]?</string>
+    <string name="gmap_frame_leftmenu_update_plz">左側選單已更新，請至Google Play更新程式。</string>
+    <string name="gmap_frame_loc_failed">定位不成，請用訂車紀錄或輸入地址叫車！</string>
+    <string name="gmap_frame_loc_failedover_distance_limit_post">公尺，不提供車輛分佈，但您可叫車！</string>
+    <string name="gmap_frame_loc_failedover_distance_limit_pre">上車位置超過手機</string>
+    <string name="gmap_frame_map_moving">車輛是移動的，請定址按進派車叫車。</string>
+    <string name="gmap_frame_map_suspended">車輛分佈暫不提供，但您仍可叫車。</string>
+    <string name="gmap_frame_mpay_dialog_footer_go_dispatch">進入叫車頁面</string>
+    <string name="gmap_frame_mpay_dialog_footer_go_oncar">前往車上活動</string>
+    <string name="gmap_frame_mpay_dialog_footer_go_pay">使用178Pay</string>
+    <string name="gmap_frame_mpay_offcar_dialog_desc">"178Pay是更改付款方式時使用，例如路邊招車或現金叫車上車後，要更改成信用卡或企業電子簽單付款。
+
+如您尚未叫車，可於[叫車頁面]內的[付費]欄位，選擇信用卡，並選用ApplePay、AndroidPay、信用卡或電子簽單付款來支付車資。"</string>
+    <string name="gmap_frame_mpay_oncar_dialog_desc">"178Pay是更改付款方式時使用，例如現金改成信用卡。
+
+如您叫車時，已經選定信用卡或企業電子簽單，就直接使用ApplePay、AndroidPay、信用卡或電子簽單付款，不用再使用178Pay。
+
+請於上車後，到車上活動內察看付款方式。"</string>
+    <string name="gmap_frame_mpay_refuse">司機不能收紙本簽單</string>
+    <string name="gmap_frame_net_chk">請檢查網路連線是否正常</string>
+    <string name="gmap_frame_no">號</string>
+    <string name="gmap_frame_open_gps">我們需要取用你的gps位置，才能進行地圖定位派車，請打開。</string>
+    <string name="gmap_frame_pay">178Pay</string>
+    <string name="gmap_frame_phone_num_correct">請確認您所輸入的手機號碼是否正確！</string>
+    <string name="gmaploc_3m">★司機已等3分鐘，請速上車。★</string>
+    <string name="gmaploc_5m">★司機等超過五分鐘，已離開。如需要用車請再叫一次。★</string>
+    <string name="gmaploc_arrived">★車輛已到達，請上車。★</string>
+    <string name="gmaploc_back">不取消了</string>
+    <string name="gmaploc_calldriver_btn">撥通司機</string>
+    <string name="gmaploc_callservice_btn">撥通客服</string>
+    <string name="gmaploc_cancel">確認取消車輛</string>
+    <string name="gmaploc_cancel_call">取消叫車</string>
+    <string name="gmaploc_cancel_disp">正在取消派車</string>
+    <string name="gmaploc_canceldisp_btn">取消叫車</string>
+    <string name="gmaploc_confirm_disp">正在確認派車</string>
+    <string name="gmaploc_exit_map_view">您確定要離開此畫面嗎？如果您還要持續監看車輛位置，就請按取消鍵。</string>
+    <string name="gmaploc_help">幫助</string>
+    <string name="gmaploc_oncar">★乘客已上車。★</string>
+    <string name="gmaploc_p">車輛位置</string>
+    <string name="gmaploc_sharepath_btn">分享行程</string>
+    <string name="google_map_v2_key">AIzaSyCeCvbng7NI3MjedwyOV_10SWMkha0xJrU</string>
+    <string name="google_place_key">AIzaSyAhHY1Go5dQBenXSDNQHz5zX6yU3Vx8fyI</string>
+    <string name="history_cancle">取 消</string>
+    <string name="history_common_set">設定常用</string>
+    <string name="history_del_rec">刪除紀錄</string>
+    <string name="history_lst_title">評價司機</string>
+    <string name="history_memo">事由備忘</string>
+    <string name="history_save">儲 存</string>
+    <string name="history_send">送 出</string>
+    <string name="history_send_alerdy">評分或意見已經送出</string>
+    <string name="history_tab1">"司機
+評比"</string>
+    <string name="history_tab1_carno">車輛編號:</string>
+    <string name="history_tab1_comment">評分司機及意見留言，鼓勵好司機，減少不及格司機，創造乘客與司機雙贏。(最高5分)</string>
+    <string name="history_tab1_hint">留言建議</string>
+    <string name="history_tab1_place">上車地點:</string>
+    <string name="history_tab1_time">搭車時間:</string>
+    <string name="history_tab2">"設為常
+用地址"</string>
+    <string name="history_tab2_placeInfo">地點說明:</string>
+    <string name="history_tab3">"編輯搭
+車記錄"</string>
+    <string name="history_tab3_call_condition">叫車條件:</string>
+    <string name="history_tab3_fare">搭車金額:</string>
+    <string name="history_tab3_memo">備註:</string>
+    <string name="history_tab3_off_place">下車地點:</string>
+    <string name="history_track_memo">軌跡與備忘</string>
+    <string name="history_track_memo_hit">僅提供個人記事，可重複編輯，有備註內容將不隨系統上傳。</string>
+    <string name="history_track_memo_left_title">搭乘紀錄軌跡評分</string>
+    <string name="history_track_memo_subtitle">事由與現金支付備忘</string>
+    <string name="history_track_memo_title">軌跡與編輯搭車備忘紀錄</string>
+    <string name="iknow">知道了</string>
+    <string name="invalid_phone">請輸入正確的會員編號</string>
+    <string name="lane">巷</string>
+    <string name="loc_lst_abort">放 棄</string>
+    <string name="loc_lst_add">加 入</string>
+    <string name="loc_lst_add_lst">設為常用地址</string>
+    <string name="loc_lst_added_data">已設定資料</string>
+    <string name="loc_lst_cancel">取消</string>
+    <string name="loc_lst_data_selected">叫車紀錄選取</string>
+    <string name="loc_lst_def_getcar_pos">自訂上車地點</string>
+    <string name="loc_lst_def_getcar_pos_del">刪除所選自訂上車地點</string>
+    <string name="loc_lst_del">請勾選要刪除的地點</string>
+    <string name="loc_lst_del_btn">刪除</string>
+    <string name="loc_lst_del_cancel_btn">取消</string>
+    <string name="loc_lst_del_title">刪除常用叫車地址</string>
+    <string name="loc_lst_edit">已設定資料</string>
+    <string name="loc_lst_edit_addr">地址</string>
+    <string name="loc_lst_edit_desc">地點說明</string>
+    <string name="loc_lst_edit_name">地點名稱</string>
+    <string name="loc_lst_edit_no">門牌</string>
+    <string name="loc_lst_enter_dest">請輸目的地</string>
+    <string name="loc_lst_input">手動輸入</string>
+    <string name="loc_lst_m_add">手動輸入</string>
+    <string name="loc_lst_not_valid">"
+此地址無效
+"</string>
+    <string name="loc_lst_p">上車地點   </string>
+    <string name="loc_lst_pi">地點說明:</string>
+    <string name="loc_lst_prepare_edit">常用地址叫車編輯</string>
+    <string name="loc_lst_rec">叫車紀錄選取</string>
+    <string name="loc_lst_t">搭車時間   </string>
+    <string name="loc_lst_title">新增常用上車</string>
+    <string name="locator">airport|amusement_park|aquarium|art_gallery|atm|bakery|bank|bar|beauty_salon|bicycle_store|book_store|bowling_alley|bus_station|cafe|car_dealer|car_rental|car_repair|car_wash|cemetery|church|city_hall|clothing_store|convenience_store|courthouse|dentist|department_store|doctor|electrician|electronics_store|embassy|establishment|finance|fire_station|florist|food|funeral_home|furniture_store|gas_station|general_contractor|grocery_or_supermarket|gym|hair_care|hardware_store|health|hindu_temple|home_goods_store|hospital|insurance_agency|jewelry_store|laundry|lawyer|library|liquor_store|local_government_office|locksmith|lodging|meal_delivery|meal_takeaway|mosque|movie_rental|movie_theater|moving_company|museum|night_club|painter|park|parking|pet_store|pharmacy|physiotherapist|place_of_worship|plumber|police|post_office|real_estate_agency|restaurant|roofing_contractor|rv_park|school|shoe_store|shopping_mall|spa|stadium|storage|store|subway_station|synagogue|taxi_stand|train_station|travel_agency|university|veterinary_care|zoo</string>
+    <string name="locator_add">定位地址</string>
+    <string name="locator_limit">[附近地標]查詢額度已超過，請用回地圖或輸入地址叫車！</string>
+    <string name="locator_number">門牌號碼</string>
+    <string name="login_agree_to_terms">註冊方法二選一，並同意服務條款。</string>
+    <string name="login_back">上一步</string>
+    <string name="login_cancel">取消</string>
+    <string name="login_cancelloging">取消登入</string>
+    <string name="login_continue">繼續</string>
+    <string name="login_dial_reg">請撥號註冊 手機門號:</string>
+    <string name="login_dial_reg_dialog">撥號註冊</string>
+    <string name="login_entry_test_pwd_login_btn">重新登入</string>
+    <string name="login_entry_test_pwd_plz">密碼錯誤，請輸入密碼。</string>
+    <string name="login_failed">目前無法登入</string>
+    <string name="login_first_no_binding_prompt">"您手機可能在飛航模式、或沒SIM卡、或超出服務區，如您已修改本機通訊設定，可按『重試』。
+
+如需其他手機認證，請按『繼續』。"</string>
+    <string name="login_first_no_sim">本裝置內可能沒有SIM 卡或通訊，請於下列門號欄位，輸入您身邊可撥號的的手機門號, 再按『下一步』。</string>
+    <string name="login_first_sim">"請於下列門號欄位, 輸入您手機門號, 再按『下一步』。
+
+如下方欄位已有舊門號, 請檢視是否正確,再按『下一步』。
+
+如本裝置沒有SIM 卡門號或不能撥號, 請輸入您身邊可撥號的的手機門號, 再按『下一步』。"</string>
+    <string name="login_help">幫助</string>
+    <string name="login_help_btn">幫助</string>
+    <string name="login_loging">登入連線中....</string>
+    <string name="login_manual_signon">電話撥號註冊 最快速</string>
+    <string name="login_member">會員登入</string>
+    <string name="login_new_member">"請問您手機可以傳送簡訊嗎?
+
+若可以，請按『單鍵自動註冊』送認證碼簡訊註冊，最簡便。
+
+如不能傳簡訊或要快速完成註冊，請選『快速手動註冊』鍵。
+
+如有疑問，請點『幫助』鍵協助。"</string>
+    <string name="login_news">最新消息</string>
+    <string name="login_next">下一步</string>
+    <string name="login_no_reg">您尚未註冊過『178叫車』APP，請先進行註冊！</string>
+    <string name="login_old_member">"舊會員請按『舊會員登入』直接登入看看。
+
+如不能登入，再重新註冊。若您手機可以傳送簡訊，建議選『單鍵自動註冊』送認證碼註冊最簡便。如不能傳簡訊或要快速完成註冊，請選『快速手動註冊』鍵。
+
+如有疑問，請點『幫助』鍵協助。"</string>
+    <string name="login_old_member_login">舊會員登入</string>
+    <string name="login_onebtn_signon">一鍵簡訊註冊 最方便</string>
+    <string name="login_others">其他</string>
+    <string name="login_ph_num">手機門號</string>
+    <string name="login_prompt_new_sim">您的手機SIM卡門號有更改，需重新註冊。</string>
+    <string name="login_prompt_no_sim">"本裝置可能沒有SIM 卡(例如無SIM 卡的平板)或在飛航模式，無法撥號認證。
+
+請您現在用另外一支電話(門號需與前一步輸入會員門號一樣)，撥打02-4499-989 進行門號認證，語音會告知您結果，接通2 秒鐘就可掛機。通過後再按『完成』就可自動登入。
+
+如您用國外手機門號，請撥+886-2-4499-989。"</string>
+    <string name="login_prompt_phone">"
+請按『撥號註冊』鍵自動撥打02-4499-989 進行快速門號認證，語音會告知您結果，2 秒鐘就可掛機。撥號時請打開免持聽筒。通過後，點開APP 就可自動登入。
+
+如本機不能撥號，請您現在用另外一支電話(門號需與前一步輸入會員門號一樣)，撥打02-4499-989 進行門號認證。如有疑問，請點『幫助』鍵協助。
+"</string>
+    <string name="login_reg_later">稍後註冊</string>
+    <string name="login_retry">重試</string>
+    <string name="login_server_err">已發送註冊資訊</string>
+    <string name="login_service_terms">服務條款</string>
+    <string name="login_sms_cancel">取消</string>
+    <string name="login_sms_confirm">確認</string>
+    <string name="login_sms_help">"新會員請按『單鍵自動註冊』傳送認證密碼簡訊進行手機門號認證。
+
+如要快速完成註冊請按『快速手動註冊』。
+
+裝置內如無SIM 卡門號，或有SIM 卡但不能傳簡訊或撥電話也請按『快速手動註冊』鍵。
+
+如有疑問，請點『幫助』鍵協助。"</string>
+    <string name="login_sms_mid">+886984401716</string>
+    <string name="login_sms_post">"
+內容：
+"</string>
+    <string name="login_sms_pre">"為了認證您手機，防止他人誤用你的門號，需要您傳送下列資訊。
+收件人："</string>
+    <string name="login_sms_prompt">等待中心驗證您的門號與裝置配對。如未成功您可改用『手動註冊』。</string>
+    <string name="login_upgrade_no_sim">"舊會員請按『舊會員登入』直接登入看看。
+如需重新註冊，請按『快速手動註冊』"</string>
+    <string name="mail">E - mail</string>
+    <string name="main_a_minute">我一分鐘內上車</string>
+    <string name="main_arrived">我在上車地了</string>
+    <string name="main_carid">車輛編號:</string>
+    <string name="main_chk_connection">"
+目前無法取得資料，請檢查您的行動網路連線！
+"</string>
+    <string name="main_cond_failed">"
+目前無法取得專戶號碼資料
+"</string>
+    <string name="main_cond_ok">"
+已設定您的專戶號碼
+"</string>
+    <string name="main_dispatch_plus_coupon">加酬賓券</string>
+    <string name="main_estimated_post">分鐘左右到達</string>
+    <string name="main_estimated_pre">預計</string>
+    <string name="main_fleet">車隊:</string>
+    <string name="main_no_vacant_taxi">"
+目前附近沒有空車，
+請稍候再試
+"</string>
+    <string name="main_personal_update_failed">"
+暫時無法更新資料 ，請稍候再試
+"</string>
+    <string name="main_ridecep_taxi_arrived">車輛已到達，請上車。</string>
+    <string name="main_roger_that">收到了</string>
+    <string name="main_taxi_wait3m">司機已等3分鐘，請速上車。</string>
+    <string name="main_taxi_wait5m">司機等超過五分鐘，已離開。如需要用車請再叫一次。</string>
+    <string name="main_three_minute">我三分鐘內上車</string>
+    <string name="manual_title">幫助</string>
+    <string name="memid">會員編號</string>
+    <string name="mtaxi">大都會衛星</string>
+    <string name="no">否</string>
+    <string name="no_resp">中心無回應,請稍候再試</string>
+    <string name="note">提示訊息</string>
+    <string name="number">號</string>
+    <string name="oncar">車上活動</string>
+    <string name="oncar_android_pay_confirm_title">本次付款</string>
+    <string name="oncar_android_pay_desc">Android Pay</string>
+    <string name="oncar_android_pay_title">本次付款</string>
+    <string name="oncar_androidpay_call">撥通客服</string>
+    <string name="oncar_androidpay_cash">更改付款方式</string>
+    <string name="oncar_androidpay_chgcard">重試Android Pay或換卡</string>
+    <string name="oncar_androidpay_confirm_pay">確認付款</string>
+    <string name="oncar_androidpay_default_result">"CARNO
+交易金額:AMT
+付款方式:Android Pay
+交易狀態:付款成功
+其他說明:"</string>
+    <string name="oncar_androidpay_err_msg">授權失敗，請您洽發卡銀行了解原因，或您可改選其他卡片重試，或更改付款方式。</string>
+    <string name="oncar_androidpay_fun_failed">改用其他支付方式</string>
+    <string name="oncar_androidpay_fun_failed_desc">請確認Android Pay內有設定信用卡!</string>
+    <string name="oncar_androidpay_later">請通知司機於車機上，按9輸入金額</string>
+    <string name="oncar_androidpay_result">Android Pay交易結果</string>
+    <string name="oncar_androidpay_waiting">付款授權中，請稍後......</string>
+    <string name="oncar_cancel_epay">已取消電子支付</string>
+    <string name="oncar_cancel_epay_desc">你已取消電子支付，如要更改支付方式，請於到達時按下178支付按鍵重新選擇支付方式。</string>
+    <string name="oncar_chg_card">變更信用卡</string>
+    <string name="oncar_chg_confirm">您要改變叫車時指定的付款方式嗎?</string>
+    <string name="oncar_chg_method">要改變</string>
+    <string name="oncar_chg_method_desc">"改變叫車時指定付款方式，司機就不能直接輸入金額。更改後，您需要經由178Pay另外啟動司機輸入金額。
+您確定要更改叫車時指定的付款方式嗎?"</string>
+    <string name="oncar_driver_refuse_epay">司機不能刷卡或收電子簽單處理</string>
+    <string name="oncar_fare">金額：</string>
+    <string name="oncar_link_title">詳細付款、軌跡、分享</string>
+    <string name="oncar_mpay">使用178支付</string>
+    <string name="oncar_no_activity">尚無上車紀錄</string>
+    <string name="oncar_pay_cardno">信用卡卡號:</string>
+    <string name="oncar_pay_cash_coupon">付費方式:現金+酬賓券</string>
+    <string name="oncar_pay_coupon">酬賓券:</string>
+    <string name="oncar_pay_desc">如對金額有疑問，請按[撥通客服]</string>
+    <string name="oncar_pay_empty_mpay">使用178支付</string>
+    <string name="oncar_pay_fare">車資金額:</string>
+    <string name="oncar_pay_inform_driver_card_plz">請通知司機待會使用信用卡。</string>
+    <string name="oncar_pay_inform_driver_coupon_plz">到達終點時請提醒司機有使用酬賓券。</string>
+    <string name="oncar_pay_inform_driver_easycard_plz">請通知司機待會使用悠遊卡</string>
+    <string name="oncar_pay_inform_driver_esigning_plz">請通知司機待會使用電子簽單</string>
+    <string name="oncar_pay_input_plz">車資金額:請司機輸入</string>
+    <string name="oncar_pay_mpay">更改支付方式</string>
+    <string name="oncar_pay_signing">簽單號:</string>
+    <string name="oncar_pay_title">付款結果:</string>
+    <string name="oncar_paymethod">付款方式</string>
+    <string name="oncar_paymethod_prefix">付費方式:</string>
+    <string name="oncar_paymethod_signing">付款方式:電子簽單</string>
+    <string name="oncar_prepay_title">付款方式</string>
+    <string name="oncar_public_key">BPHJC+26xNpc8zirwPdJrVzqsnxDZvWQ5b/e/P/VMB1mNhHMkjD3JxuXO7c9OrujST4xDd3ChNTWwPiceNHuft8=</string>
+    <string name="oncar_rely">分享軌跡</string>
+    <string name="oncar_rely_share">查看軌跡</string>
+    <string name="oncar_track">行車軌跡</string>
+    <string name="oncar_use_case">改用現金</string>
+    <string name="oncarsvc_title">車上活動</string>
+    <string name="others_menu_msg">您已經叫到車，看車位置請在底部切到『等車來』畫面！</string>
+    <string name="others_menu_style">0</string>
+    <string name="pickteam_first_no_binding_prompt">"您手機可能在飛航模式、或沒SIM卡、或超出服務區，如您已修改本機通訊設定，可按『重試』。
+
+如需其他手機認證，請按『繼續』"</string>
+    <string name="pickteam_prompt_new_sim">您的手機SIM卡門號有更改</string>
+    <string name="plus_sign">+</string>
+    <string name="push_msg_title">推播訊息查閱</string>
+    <string name="pws">密        碼</string>
+    <string name="pws_confirm">密碼確認</string>
+    <string name="query">查詢</string>
+    <string name="querying">查詢中</string>
+    <string name="road">路/街地址</string>
+    <string name="save">儲存</string>
+    <string name="section">段</string>
+    <string name="sender_id">1069100571614</string>
+    <string name="sender_prefix">gcm</string>
+    <string name="service_email">csd@mtaix.com.tw</string>
+    <string name="service_googleplay">https://play.google.com/store/apps/details?id=com.tmc.GetTaxi</string>
+    <string name="set_mem_chg_ph">改手機號</string>
+    <string name="set_mem_confirm">確 認</string>
+    <string name="set_mem_data_title">設定會員資料</string>
+    <string name="set_mem_info">設定E-mail及相關資料，可收到優惠通知</string>
+    <string name="set_mem_rege_info">更改手機號碼須重新認證登入會員，按了要修改後，會帶你重新註冊一次，謝謝您的使用。</string>
+    <string name="set_mem_rege_info_n">不修改</string>
+    <string name="set_mem_rege_info_y">要修改</string>
+    <string name="set_mem_upde">更新會員資料中</string>
+    <string name="setting_entra_qa_cancel">取 消</string>
+    <string name="setting_entra_qa_empty_plz">您尚未題寫任何意見！</string>
+    <string name="setting_entra_qa_optoin">留言建議</string>
+    <string name="setting_entra_qa_send">送 出</string>
+    <string name="setting_entry_member_center_add">中心常用上車地設定</string>
+    <string name="setting_entry_member_data">會員資料設定</string>
+    <string name="setting_entry_member_disp">班點車輛</string>
+    <string name="setting_entry_member_loc_add">本地常用上車地設定</string>
+    <string name="setting_entry_push_data">推播訊息查閱</string>
+    <string name="setting_entry_qa">問題反映與意見</string>
+    <string name="setting_entry_qa_title">無關司機的意見，例如App或車隊之建議，請於本處留言，我會盡快於您聯絡。</string>
+    <string name="setting_entry_share">專戶號碼設定</string>
+    <string name="setting_memu_ataxi">優良衛星551788叫車</string>
+    <string name="setting_memu_mtaxi">大都會衛星55178叫車</string>
+    <string name="setting_memu_viptaxi">貴賓計程車551789叫車</string>
+    <string name="setting_menu_call_and_book_taxi">聯絡客服及電話叫車</string>
+    <string name="setting_menu_customer_service">撥通客服專員</string>
+    <string name="share_this_app_subject">大都會衛星/優良計程車/婦安折扣車隊 叫車程式</string>
+    <string name="share_this_app_text">"推薦使用這個程式來叫計程車。
+
+好處: 免打電話, 免電話費, 免等服務人員, 叫車10秒搞定。
+
+
+
+ Android用戶請由 http://market.android.com/details?id=com.tmc.GetTaxi 下載 
+
+
+
+ iPhone用戶請由 http://itunes.apple.com/tw/app/id411798297?mt=8 下載
+
+
+
+"</string>
+    <string name="share_this_app_title">推薦親友</string>
+    <string name="signing_boarding_title">上車地點：</string>
+    <string name="signing_carno_title">車輛編號：</string>
+    <string name="signing_corp_name_title">公司名稱：</string>
+    <string name="signing_cost_id_title">成本中心：</string>
+    <string name="signing_d_title">可用簽單細項</string>
+    <string name="signing_date_title">乘車日期：</string>
+    <string name="signing_dep_id_title">部門代號：</string>
+    <string name="signing_fare1_title">車        資：</string>
+    <string name="signing_fare2_title">(含過路費)：</string>
+    <string name="signing_getoff_title">下車地點：</string>
+    <string name="signing_memo_title">事由註記：</string>
+    <string name="signing_mgr_cnt_title">可用簽單管理</string>
+    <string name="signing_mgr_d_title">可用簽細項</string>
+    <string name="signing_mgr_qr_d">查詢可用簽單細項</string>
+    <string name="signing_mgr_qy_cnt_title">可用簽單數:</string>
+    <string name="signing_mgr_qy_corp_id">公司代號</string>
+    <string name="signing_mgr_qy_corpname_title">公司名稱</string>
+    <string name="signing_mgr_qy_dept_id">部門代號</string>
+    <string name="signing_mgr_qy_signingno">簽單單號</string>
+    <string name="signing_mgr_title">簽單管理</string>
+    <string name="signing_nego_plz">請選擇議價行程</string>
+    <string name="signing_no_rec">查無已用簽單記錄！</string>
+    <string name="signing_not_selected">您尚未選擇簽單</string>
+    <string name="signing_plz_select">請選擇簽單</string>
+    <string name="signing_plz_select_first">先請選擇簽單</string>
+    <string name="signing_rec_update">事由註記更新</string>
+    <string name="signing_rest">電子簽單可用查詢</string>
+    <string name="signing_signing_no_title">簽單單號：</string>
+    <string name="signing_signingno">簽單號</string>
+    <string name="signing_unavailable">您沒有簽單可選用</string>
+    <string name="signing_used">電子簽單已用記錄</string>
+    <string name="sliding_standard_menu1">獲取優惠</string>
+    <string name="sliding_standard_menu2">會員、訊息及問題反應</string>
+    <string name="sliding_standard_menu3">電話叫車與聯絡客服</string>
+    <string name="sliding_title">其他功能</string>
+    <string name="sms">簡訊</string>
+    <string name="taxi_p">看車輛位置</string>
+    <string name="taxi_p_estimated_post">分鐘到達</string>
+    <string name="taxi_p_estimated_pre">約</string>
+    <string name="taxi_p_f">前往:</string>
+    <string name="taxi_p_p">地點:</string>
+    <string name="temp_unable_to_provide_service">暫時無法提供服務, 請稍候再試</string>
+    <string name="title">稱        呼</string>
+    <string name="title_main_setting">會員、訊息及問題反應</string>
+    <string name="tmc_locale">tw</string>
+    <string name="top_booking_address">叫車服務</string>
+    <string name="top_cancel">取 消</string>
+    <string name="top_clear">清除資料</string>
+    <string name="top_confirm">確 認</string>
+    <string name="top_frequent_address">常用地址叫車</string>
+    <string name="top_history_address">訂車記錄叫車</string>
+    <string name="top_manual_enter_address">編輯上車地址</string>
+    <string name="top_pls_enter_address">輸入地址叫車</string>
+    <string name="top_point_of_interest">附近地標叫車</string>
+    <string name="turn_off_light">關閉照明</string>
+    <string name="turn_on_light">開啟照明</string>
+    <string name="update">更新</string>
+    <string name="verify">確認</string>
+    <string name="verify_space">確 認</string>
+    <string name="verifycancel">確認取消</string>
+    <string name="verifynotcancel">不取消</string>
+    <string name="viptxi">貴賓計程車</string>
+    <string name="wait_taxi_3min">★司機已等3分鐘，請速上車。★</string>
+    <string name="wait_taxi_arrived">★車輛已到達，請上車。★</string>
+    <string name="wait_taxi_caceling_booking">正在取消派車</string>
+    <string name="wait_taxi_not_booking_record">尚無叫車紀錄</string>
+    <string name="wait_taxi_title">未上車資料</string>
+    <string name="wait_taxi_verifying_booking">正在確認派車</string>
+    <string name="waittaxi_title">未上車資料</string>
+    <string name="wating">請稍等....</string>
+    <string name="yes">是</string>
+    <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_loading">Loading...</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_loginview_log_in_button">Log in</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="appTypeNew">178</string>
+    <string name="card_mpay_page_title">好康主頁</string>
+    <string name="cast_invalid_stream_duration_text">--:--</string>
+    <string name="cast_invalid_stream_position_text">--:--</string>
+    <string name="com.crashlytics.android.build_id">c47785a1-d8c0-4354-a326-1ff6759e7bc1</string>
+    <string name="com_facebook_like_button_liked">Liked</string>
+    <string name="com_facebook_like_button_not_liked">Like</string>
+    <string name="com_facebook_loginview_log_in_button_long">Log in with Facebook</string>
+    <string name="com_facebook_send_button_text">Send</string>
+    <string name="com_facebook_share_button_text">Share</string>
+    <string name="com_facebook_tooltip_default">"New! You're in control - choose what info you want to share with apps."</string>
+    <string name="coupon_enable_ok">酬賓券開通成功</string>
+    <string name="coupon_mgr_recomm_title">推薦碼開通</string>
+    <string name="default_web_client_id">186138904398-88ld6d1fnimdqir9qb954jfc7f3r8ecv.apps.googleusercontent.com</string>
+    <string name="disp_confirm_card_date_chg">變更有效期限</string>
+    <string name="disp_confirm_card_expired">信用卡有效期限已到期，請更換信用卡或繼續叫車。注意!因資訊安全未儲存完整卡號，請刪除後重新輸入</string>
+    <string name="disp_confirm_card_will_expired">信用卡有效期限快到期，是否要更換信用卡或繼續叫車。注意!因資訊安全未儲存完整卡號，請刪除後重新輸入</string>
+    <string name="disp_confirm_register1_plz">請您先註冊門號，才能使用完整功能。</string>
+    <string name="facebook_app_id">236006129755254</string>
+    <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
+    <string name="firebase_database_url">https://com-tmc-gettaxi.firebaseio.com</string>
+    <string name="gcm_defaultSenderId">186138904398</string>
+    <string name="gmap_frame_book_additional_car_info">"
+如需再叫一輛車，請點選下一步並輸入您的手機號碼，請注意叫車沒搭會影響您使用APP叫車的權益。
+"</string>
+    <string name="gmap_frame_qmark">  ?  </string>
+    <string name="gmap_frame_qmark_info">"
+1.請拖拉地圖確認上方地址，或點[筆]進入修改，按下下一步進入叫車頁。
+2.也可使用常用地址、訂車紀錄、附近地標和輸入地址來叫車。
+"</string>
+    <string name="gmap_frame_qmark_title">指定上車地址方法</string>
+    <string name="gmap_frame_unable_to_locate">此地查無地址，請移動地圖或選輸入地址。</string>
+    <string name="google_api_key">AIzaSyBywX80ic50mAEO3JJETlH5W4wPyjse8oo</string>
+    <string name="google_app_id">1:186138904398:android:e1f0acb6305d6f92</string>
+    <string name="google_crash_reporting_api_key">AIzaSyBywX80ic50mAEO3JJETlH5W4wPyjse8oo</string>
+    <string name="google_storage_bucket">com-tmc-gettaxi.appspot.com</string>
+    <string name="next">下一步</string>
+    <string name="oncar_fare_target">對象：</string>
+    <string name="other_share_newuser_medhod1_desc">如您有收到推薦連結，點入推薦連結後會出現『未下載者，先下載叫車APP』及『已下載者，開通酬賓券』的畫面，請點入『開通酬賓券』按鍵，就會自動幫您填入推薦碼。</string>
+    <string name="other_share_newuser_medhod1_title">提示訊息</string>
+    <string name="other_share_newuser_method1">輸入朋友給我的推薦碼</string>
+    <string name="other_share_newuser_method2">點推薦連結自動開通推薦碼</string>
+    <string name="other_share_olduser_copy_method1">複製推薦碼</string>
+    <string name="other_share_olduser_direct_method2">直接推薦</string>
+    <string name="other_share_olduser_medhod1_desc">複製推薦碼之後，您可透過LINE, SMS, Email,FB 或電話口頭分享你的推薦碼，讓您享受貴賓禮遇。</string>
+    <string name="other_share_olduser_medhod1_title">把我的推薦碼@@COUPON@@告訴朋友</string>
+    <string name="other_share_olduser_method1">把我的推薦碼@@COUPON@@告訴朋友</string>
+    <string name="other_share_olduser_method2">傳送推薦連結給我朋友</string>
+    <string name="other_share_olduser_method3">查詢可被推薦的朋友</string>
+    <string name="other_share_title">好康主頁</string>
+    <string name="setting_invite">繼續介紹親友使用</string>
+    <string name="setting_invite_ok_five">介紹人五：</string>
+    <string name="setting_invite_ok_four">介紹人四：</string>
+    <string name="setting_invite_ok_one">介紹人一：</string>
+    <string name="setting_invite_ok_three">介紹人三：</string>
+    <string name="setting_invite_ok_two">介紹人二：</string>
+    <string name="setting_qry_invite_ok">查詢介紹成功親友</string>
+    <string name="share">分享親友</string>
+    <string name="tagmanager_preview_dialog_button">Continue</string>
+    <string name="tagmanager_preview_dialog_message">Preview mode updated.</string>
+    <string name="tagmanager_preview_dialog_title">Preview</string>
+    <string name="temp_unable_to_provide_service_reading">資料讀取中，請稍後再試</string>
+    <string name="track_temp_unable_to_provide_service">您已叫車成功，但軌跡服務暫時無法提供服務, 請稍候再試</string>
+    <string name="upload_failed">檔案上傳失敗</string>
+    <string name="validate_info">設定完成</string>
+    <string name="validate_info_invalidate_addr">此地址無效</string>
+    <string name="validate_info_latlng_empty">暫時無法取得地址座標，請稍候再試</string>
+</resources>

@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">e動郵局</string>
+    <string name="dist">test</string>
+    <string name="loading">讀取資料中</string>
+    <string name="confirm">確定</string>
+    <string name="cancel">取消</string>
+    <string name="store_picture_title">Save image</string>
+    <string name="store_picture_message">Allow Ad to store image in Picture gallery?</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+    <string name="create_calendar_title">Create calendar event</string>
+    <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
+    <string name="auth_google_play_services_client_google_display_name">Google</string>
+    <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
+    <string name="cast_notification_connecting_message">Connecting to %1$s</string>
+    <string name="cast_notification_connected_message">Connected to %1$s</string>
+    <string name="cast_notification_disconnect">Disconnect</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_notification_needs_update_title">An application requires an update for Google Play services.</string>
+    <string name="common_android_wear_notification_needs_update_text">%1$s requires an update to the Android Wear app.</string>
+    <string name="common_google_play_services_needs_enabling_title">An application requires Google Play services to be enabled.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Requested by %1$s</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_install_text_phone">"%1$s won't run without Google Play services, which are missing from your phone."</string>
+    <string name="common_google_play_services_install_text_tablet">"%1$s won't run without Google Play services, which are missing from your tablet."</string>
+    <string name="common_google_play_services_install_button">Get Google Play services</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_button">Enable Google Play services</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_android_wear_update_title">Update Android Wear</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_android_wear_update_text">"%1$s won't run unless you update the Android Wear app."</string>
+    <string name="common_google_play_services_updating_title">Google Play services are updating</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_network_error_title">Network Error</string>
+    <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
+    <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
+    <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
+    <string name="common_google_play_services_unknown_issue">Unknown issue with Google Play services.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string name="common_google_play_services_unsupported_text">%1$s relies on Google Play services, which is not supported by your device. Contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_google_play_services_api_unavailable_text">%1$s requires one or more Google Play services that are not currently available. Please contact the developer for assistance.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Sign in failed</string>
+    <string name="common_google_play_services_sign_in_failed_text">Error signing in the specified account. Please choose a different account.</string>
+    <string name="wallet_buy_button_place_holder">Buy with Google</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">e動郵局</string>
+    <string name="version">版本:1.0</string>
+    <string name="antivirus_software_reminder_message">※提醒您：為保障您的交易安全，請於行動裝置上安裝最新版防毒軟體。</string>
+    <string name="root_find_msg">請注意!經檢測您的行動設備已遭開啟最高權限(root/JB)，有發生危害之風險疑慮，建議您立即檢查設備權限。</string>
+    <string name="phone_service_line">客服專線：0800700365</string>
+    <string name="mobile_service_line">"&lt;font color='blue'>&lt;u>手機付費服務專線：(04)23542030&lt;/u>&lt;/font>"</string>
+    <string name="how_register">"&lt;font color='blue'>&lt;u>如何申請網路帳號？&lt;/u>&lt;/font>"</string>
+    <string name="mobile_service_text">您要撥電話至本公司手機付費服務專線嗎？(04)23542030</string>
+    <string name="mobile_service">0423542030</string>
+    <string name="tab_home">首頁</string>
+    <string name="tab_epost">e動郵局</string>
+    <string name="tab_finance">牌價資訊</string>
+    <string name="tab_philately">集郵專區</string>
+    <string name="tab_mail_inquiry">郵件查詢</string>
+    <string name="tab_insurance_loan">壽險與房貸</string>
+    <string name="tab_customer_service">客戶服務</string>
+    <string name="tab_more">更多功能</string>
+    <string name="gcm_defaultSenderId">306747083544</string>
+    <string name="title">首頁</string>
+    <string name="back">返回</string>
+    <string name="agree">同意</string>
+    <string name="disagree">不同意</string>
+    <string name="inquiry">查詢</string>
+    <string name="delete">刪除</string>
+    <string name="login">登入</string>
+    <string name="logout">登出</string>
+    <string name="update">變更</string>
+    <string name="finish">完成</string>
+    <string name="apply">申請</string>
+    <string name="do_not_remind">不要再提醒</string>
+    <string name="exec">確定執行</string>
+    <string name="transfer">確定轉帳</string>
+    <string name="navbar_check">交易執行</string>
+    <string name="navbar_confirm">交易確認</string>
+    <string name="navbar_result">交易結果</string>
+    <string name="navbar_query_result">查詢結果</string>
+    <string name="payment">確定繳納</string>
+    <string name="logout_normal">"您已成功登出！
+感謝您使用中華郵政e動郵局！"</string>
+    <string name="logout_exception">很抱歉！目前無法處理您的指令。為了維護您的權益與交易安全起見，系統已經自動登出。如果您需要再次使用，請您重新登入中華郵政e動郵局。</string>
+    <string name="logout_timeout">為維護您的權益，系統因閒置時間過久，已自動登出。如您需再次使用，請重新登入中華郵政e動郵局。</string>
+    <string name="navbar_inquiry_result">查詢結果</string>
+    <string name="navbar_notice">注意事項</string>
+    <string name="message">訊息</string>
+    <string name="prompt_message">提示訊息</string>
+    <string name="error_message">錯誤訊息</string>
+    <string name="load_another_20_count">載入另二十筆</string>
+    <string name="no_data_inquiry">查無資料</string>
+    <string name="online_setting">線上設定</string>
+    <string name="locale_setting">臨櫃設定</string>
+    <string name="ssl_bind_err">"您使用的連線加密(SSL)異常，基於安全考量不提供相關功能，請確認您的連線環境及e動郵局APP下載來源安全。
+ 如網路為正常連線仍出現此訊息，可能係您使用的Wi-Fi網路設定代理伺服器(Proxy)導致，請改用行動網路或取消Wi-Fi網路代理伺服器(Proxy)相關設定後再試，說明如下：
+ 1.進入裝置「設定」功能選擇「Wi-Fi」設定。
+ 2.請將您的裝置連接上無線網路，並長按該連線後，選擇「修改網路」。
+ 3.點擊「顯示進階選項」，將「代理伺服器(Proxy)設定」調整為「無」。"</string>
+    <string name="btn_edit">編輯</string>
+    <string name="btn_delete">終止</string>
+    <string name="btn_modify">修改</string>
+    <string name="btn_return_account_trans_inquiry">繼續儲金帳戶交易明細查詢</string>
+    <string name="btn_return_account_inquiry">回帳戶查詢</string>
+    <string name="btn_email_account">EMail收款帳戶</string>
+    <string name="btn_continue_transfer_now">繼續立即轉帳</string>
+    <string name="btn_return_transfer">回轉帳交易</string>
+    <string name="btn_transfer_scheduled_cancel">預約轉帳解除</string>
+    <string name="btn_transfer_scheduled_confirm_cancel">確定解除</string>
+    <string name="btn_continue_iBox_payments">繼續ｉ郵箱繳費</string>
+    <string name="btn_continue_payment">繼續繳費服務</string>
+    <string name="btn_return_ePost_homepage">回e動郵局首頁</string>
+    <string name="btn_copy_text">複製文字</string>
+    <string name="navbar_account_inquiry">帳戶查詢</string>
+    <string name="navbar_login">登入</string>
+    <string name="navbar_login_webAccount_id_title">網路帳號</string>
+    <string name="navbar_login_webAccount_id_title_14">(局帳號14位)</string>
+    <string name="navbar_first_time_login">首次登入變更</string>
+    <string name="navbar_change_usercode_pwd">密碼、代號變更</string>
+    <string name="navbar_first_time_login_finish">首次登入變更完成</string>
+    <string name="navbar_change_usercode_pwd_finish">密碼、代號變更完成</string>
+    <string name="navbar_certificate_pwd_input">憑證密碼</string>
+    <string name="navbar_account_overview">我的帳戶總覽</string>
+    <string name="navbar_account_transaction_inquiry">儲金帳戶交易明細查詢</string>
+    <string name="navbar_visa_debit_card_inquiry">VISA金融卡對帳單查詢</string>
+    <string name="navbar_transfer">轉帳交易</string>
+    <string name="navbar_transfer_now">立即轉帳</string>
+    <string name="navbar_frequency_used_account_maintenance">常用轉入帳號設定</string>
+    <string name="navbar_frequency_used_account_add">新增常用轉入帳號</string>
+    <string name="navbar_frequency_used_account_edit">修改常用轉入帳號</string>
+    <string name="navbar_transfer_contract">預約轉帳約定事項</string>
+    <string name="navbar_transfer_scheduled_once">單次預約轉帳</string>
+    <string name="navbar_transfer_scheduled">定期預約轉帳</string>
+    <string name="navbar_transfer_scheduled_query_del">預約轉帳查詢/解除</string>
+    <string name="navbar_qrcode_scan">QR Code掃描</string>
+    <string name="navbar_no_card_atm">ATM無卡提款服務</string>
+    <string name="navbar_no_card_atm_reservation">預約無卡提款序號</string>
+    <string name="navbar_continue_no_card_atm_reservation">繼續預約無卡提款服務</string>
+    <string name="navbar_continue_cancel_no_card_atm_reservation">繼續取消預約無卡提款序號</string>
+    <string name="navbar_no_card_atm_cancel">取消預約無卡提款序號</string>
+    <string name="navbar_iBox_payments">ｉ郵箱繳費</string>
+    <string name="navbar_insurance_inquiry">壽險保單查詢</string>
+    <string name="navbar_insurance">壽險保單</string>
+    <string name="navbar_policy_info">保單基本資料</string>
+    <string name="navbar_insurance_service_branch">保單服務局所</string>
+    <string name="navbar_policy_dividend">保單紅利</string>
+    <string name="navbar_survival_annuity_record">生存保險金</string>
+    <string name="navbar_premiums_record">保費紀錄</string>
+    <string name="navbar_premiums_record_detail">保費記錄明細</string>
+    <string name="navbar_policy_loan_status">保費墊繳現況</string>
+    <string name="navbar_policy_arrears_status">欠繳保費(含停效)</string>
+    <string name="navbar_insurance_notice_status">通知單申請交寄現況</string>
+    <string name="navbar_policy_loan_record">保單借款現況</string>
+    <string name="navbar_policy_loan_record_detail">保單借款現況明細</string>
+    <string name="navbar_policy_borrowing_limit">可借款限額</string>
+    <string name="navbar_housing_loans_inquiry">壽險房貸查詢</string>
+    <string name="navbar_housing_loans_rate_inquiry">借款人房貸利率</string>
+    <string name="navbar_housing_loans_pay_amount_inquiry">借款人房貸繳款金額</string>
+    <string name="navbar_payments">繳費(稅)服務</string>
+    <string name="navbar_post_collection_bill">郵局代收款</string>
+    <string name="navbar_normal_payment_bill">一般繳費</string>
+    <string name="navbar_electric_bill">台電電費</string>
+    <string name="navbar_labor_insurance_bill">勞工保險費</string>
+    <string name="navbar_labor_insurance_notice">勞工保險費注意事項</string>
+    <string name="navbar_national_pension_bill">國民年金保費</string>
+    <string name="navbar_national_pension_notice">國民年金保費注意事項</string>
+    <string name="navbar_labor_pension_bill">勞工退休金</string>
+    <string name="navbar_labor_pension_notice">勞工退休金注意事項</string>
+    <string name="navbar_national_health_insurance_bill">健保費</string>
+    <string name="navbar_national_health_insurance_notice">健保費注意事項</string>
+    <string name="navbar_tax_bill">繳稅</string>
+    <string name="navbar_tuition_bill">學雜費</string>
+    <string name="navbar_employment_stabilization_fee_bill">就業安定費</string>
+    <string name="navbar_network_payment_bill">網路事後付款</string>
+    <string name="navbar_account_management">帳戶基本資料管理</string>
+    <string name="navbar_reconciliation_update">對帳方式查詢/變更</string>
+    <string name="navbar_reconciliation_update_result">對帳方式變更完成</string>
+    <string name="navbar_contact_info_inquiry_update">通訊地址或電話查詢/變更</string>
+    <string name="navbar_contact_info_update">通訊地址或電話變更</string>
+    <string name="navbar_contact_info_update_result">變更完成</string>
+    <string name="navbar_email_inquiry">電子信箱查詢</string>
+    <string name="navbar_pin_update">網路密碼變更</string>
+    <string name="navbar_pin_update_finish">網路密碼變更完成</string>
+    <string name="navbar_usercode_update">使用者代號變更</string>
+    <string name="navbar_usercode_update_finish">使用者代號變更完成</string>
+    <string name="navbar_deposit">綜合儲金</string>
+    <string name="navbar_time_deposit_query_update">綜合儲金定期查詢/變更/解約</string>
+    <string name="navbar_time_deposit_query">綜合儲金定期查詢</string>
+    <string name="navbar_time_deposit_detail">存簿及定期帳戶明細</string>
+    <string name="navbar_time_deposit_update">變更到期續存別</string>
+    <string name="navbar_time_deposit_cancel">未到期定存中途解約</string>
+    <string name="navbar_new_time_deposit">綜合儲金存簿轉定期</string>
+    <string name="navbar_certificate_zone">憑證作業專區</string>
+    <string name="navbar_certificate_apply">憑證申請</string>
+    <string name="navbar_certificate_pwd_setup">新憑證密碼設定</string>
+    <string name="navbar_certificate_pwd_setup_finish">新憑證密碼設定完成</string>
+    <string name="navbar_certificate_info">憑證資訊</string>
+    <string name="navbar_certificate_pwd_change">憑證密碼變更</string>
+    <string name="navbar_certificate_pwd_change_finish">憑證密碼變更完成</string>
+    <string name="navbar_certificate_update">憑證更新(展期)</string>
+    <string name="navbar_certificate_update_finish">憑證更新(展期)完成</string>
+    <string name="navbar_certificate_delete">憑證終止</string>
+    <string name="navbar_certificate_delete_finish">憑證終止完成</string>
+    <string name="navbar_loss_reporting_service">掛失服務</string>
+    <string name="navbar_loss_reporting_service_cardandsave">金融卡、儲金簿掛失</string>
+    <string name="navbar_loss_reporting_service_time">定期存單掛失</string>
+    <string name="navbar_loss_reporting_service_confirm">掛失確認</string>
+    <string name="navbar_loss_reporting_service_finish">掛失完成</string>
+    <string name="login_desp_2">如須使用「非約定轉帳」、「繳費（稅）」、「ｉ郵箱繳費」及「無卡提款」交易，請先臨櫃申辦「e動郵局憑證」。</string>
+    <string name="transfer_amount_limit_error_message">每筆轉帳不得超過50,000元。</string>
+    <string name="navbar_apply_device_binding">申請設備綁定密碼</string>
+    <string name="login_proguard_alarm">"&lt;font color='red'>提醒您！設備綁定「郵保鑣」APP僅支援Windows Phone8.1、Android 4.4或iOS 7.0以上作業系統，因您目前設備的作業系統版本為：%1$s，若您須使用設備綁定作為驗證方式，請您先升級作業系統，或將「郵保鑣」APP安裝於其他可支援的行動設備，以免無法使用。&lt;/font>"</string>
+    <string name="login_proguard_apply_device">申請設備綁定</string>
+    <string name="login_proguard_apply_cert">續用憑證</string>
+    <string name="navbar_passbook_balance_inquiry">存簿可用結餘查詢</string>
+    <string name="navbar_passbook_deposits_inquiry">存簿及定期帳戶查詢</string>
+    <string name="navbar_passbook_deposits_inquiry_detail">存簿及定期帳戶明細</string>
+    <string name="navbar_passbook_intrabank_predesignated_account_maintain">局內轉帳約定帳戶維護</string>
+    <string name="navbar_passbook_intrabank_account_maintain">局內約定帳戶維護</string>
+    <string name="navbar_passbook_predesignated_account_update">修改轉帳約定帳戶</string>
+    <string name="navbar_passbook_interbank_predesignated_account_maintain">跨行轉帳約定帳戶維護</string>
+    <string name="navbar_passbook_interbank_account_maintain">跨行約定帳戶維護</string>
+    <string name="navbar_passbook_interbank_predesignated_account_update">修改轉帳約定帳戶</string>
+    <string name="navbar_passbook_nonregister_query">未登摺查詢</string>
+    <string name="navbar_passbook_nonregister_detail">未登摺明細</string>
+    <string name="navbar_passbook_register_query">已登摺查詢</string>
+    <string name="navbar_passbook_register_detail">已登摺明細</string>
+    <string name="navbar_passbook_today_transaction_query">本日交易查詢</string>
+    <string name="navbar_passbook_today_transaction_detail">本日交易明細</string>
+    <string name="navbar_passbook_six_months_transaction_query">六個月內交易查詢</string>
+    <string name="navbar_passbook_six_months_transaction_overview">六個月內交易摘要</string>
+    <string name="navbar_passbook_six_months_transaction_detail">六個月內交易明細</string>
+    <string name="navbar_passbook_summary_transaction_query">彙總登摺交易查詢</string>
+    <string name="navbar_passbook_summary_transaction_overview">彙總登摺交易摘要</string>
+    <string name="navbar_passbook_summary_transaction_detail">彙總登摺交易明細</string>
+    <string name="navbar_passbook_to_passbook">存簿轉入郵局存簿</string>
+    <string name="navbar_passbook_to_giro">存簿轉入郵局劃撥</string>
+    <string name="navbar_passbook_to_interbank">存簿轉入其他銀行</string>
+    <string name="navbar_email_payee">EMail收款帳戶</string>
+    <string name="navbar_transfer_scheduled_once_passbook_to_passbook">預約轉入郵局存簿</string>
+    <string name="navbar_transfer_scheduled_once_passbook_to_giro">預約轉入郵局劃撥</string>
+    <string name="navbar_transfer_scheduled_once_passbook_to_interbank">預約轉入其他銀行</string>
+    <string name="navbar_transfer_scheduled_passbook_to_passbook">定期轉入郵局存簿</string>
+    <string name="navbar_transfer_scheduled_passbook_to_giro">定期轉入郵局劃撥</string>
+    <string name="navbar_transfer_scheduled_passbook_to_interbank">定期轉入其他銀行</string>
+    <string name="navbar_passbook_transfer_once_query_del">局內單次轉帳查詢/解除</string>
+    <string name="navbar_passbook_transfer_once_summary">預約局內轉帳摘要</string>
+    <string name="navbar_passbook_transfer_once_detail">預約局內轉帳明細</string>
+    <string name="navbar_passbook_interbank_transfer_once_query_del">跨行單次轉帳查詢/解除</string>
+    <string name="navbar_passbook_interbank_transfer_once_summary">預約跨行轉帳摘要</string>
+    <string name="navbar_passbook_interbank_transfer_once_detail">預約跨行轉帳明細</string>
+    <string name="navbar_passbook_transfer_scheduled_query_del">局內定期轉帳查詢/解除</string>
+    <string name="navbar_passbook_transfer_scheduled_summary">局內定期轉帳摘要</string>
+    <string name="navbar_passbook_transfer_scheduled_detail">局內定期轉帳明細</string>
+    <string name="navbar_passbook_interbank_transfer_scheduled_query_del">跨行定期轉帳查詢/解除</string>
+    <string name="navbar_passbook_interbank_transfer_scheduled_summary">跨行定期轉帳摘要</string>
+    <string name="navbar_passbook_interbank_transfer_scheduled_detail">跨行定期轉帳明細</string>
+    <string name="navbar_transfer_scheduled_history">歷次轉帳結果查詢</string>
+    <string name="text_iBox_payments_qrcode_scan_information">"掃描ｉ郵箱機台上的QR Code後，
+進行下一步執行交易！"</string>
+    <string name="text_back_iBox_payments_input">返回手動輸入銷帳編號</string>
+    <string name="text_transfer_out_account">轉出帳號</string>
+    <string name="text_deduct_account">扣款帳號</string>
+    <string name="text_cancel_account_number">銷帳編號</string>
+    <string name="text_input_cancel_account_number">請輸入銷帳編號(21碼)</string>
+    <string name="text_input_fail_cancel_account_number">您的銷帳編號輸入錯誤，請重新輸入！</string>
+    <string name="text_bank_code">銀行代碼</string>
+    <string name="text_post_code">700</string>
+    <string name="text_bank_name">銀行名稱</string>
+    <string name="text_post_name">中華郵政股份有限公司</string>
+    <string name="text_transfer_in_account">轉入帳號</string>
+    <string name="text_transfer_amount">轉帳金額</string>
+    <string name="text_input_exceed_transfer_amount">轉帳金額不可超過30000，請重新輸入！</string>
+    <string name="text_transfer_date">轉帳日期</string>
+    <string name="text_transaction_date">交易日期</string>
+    <string name="text_transaction_amount">交易金額</string>
+    <string name="text_transaction_finish">交易完成</string>
+    <string name="text_transaction_serial_number">交易序號</string>
+    <string name="text_payment_category">繳款類別</string>
+    <string name="text_fee">手續費</string>
+    <string name="text_available_balance">可用餘額</string>
+    <string name="text_input_insufficient_captcha">圖形驗證碼長度不符合，請重新輸入。</string>
+    <string name="text_input_insufficient_sms_pwd">簡訊密碼長度不符合，請重新輸入。</string>
+    <string name="navbar_giro_balance_inquiry">劃撥結餘查詢</string>
+    <string name="navbar_time_deposits_certificate_inquiry">定期存單查詢</string>
+    <string name="navbar_time_deposits_certificate_result">定期存單明細</string>
+    <string name="navbar_giro_predesignated_account_maintain">轉帳約定帳戶維護</string>
+    <string name="navbar_giro_predesignated_account_update">修改轉帳約定帳戶</string>
+    <string name="navbar_giro_list_query">劃撥收支詳情單查詢</string>
+    <string name="navbar_giro_list_summary">劃撥收支詳情單摘要</string>
+    <string name="navbar_giro_list_detail">劃撥收支詳情單明細</string>
+    <string name="navbar_giro_check_list_query">支票兌付明細查詢</string>
+    <string name="navbar_giro_check_list_detail">支票兌付明細</string>
+    <string name="navbar_giro_single_check_query">單筆支票查詢</string>
+    <string name="navbar_giro_single_check_detail">單筆支票查詢明細</string>
+    <string name="navbar_collection_list_query">託收票據詳情查詢</string>
+    <string name="navbar_giro_collection_list_bill_detail">票據號碼明細</string>
+    <string name="navbar_giro_collection_list_overview">到期日查詢摘要</string>
+    <string name="navbar_giro_collection_list_enddate_detail">到期日明細</string>
+    <string name="navbar_giro_trans_list_query">交易明細查詢</string>
+    <string name="navbar_giro_trans_list_overview">交易明細摘要</string>
+    <string name="navbar_giro_trans_list_detail">交易明細</string>
+    <string name="navbar_giro_to_giro">劃撥轉入郵局劃撥</string>
+    <string name="navbar_giro_to_passbook">劃撥轉入郵局存簿</string>
+    <string name="navbar_transfer_scheduled_once_giro_to_giro">預約轉入郵局劃撥</string>
+    <string name="navbar_transfer_scheduled_once_giro_to_passbook">預約轉入郵局存簿</string>
+    <string name="navbar_giro_transfer_once_query_del">劃撥單次轉帳查詢/解除</string>
+    <string name="navbar_giro_transfer_once_summary">劃撥預約轉帳摘要</string>
+    <string name="navbar_giro_transfer_once_detail">劃撥預約轉帳明細</string>
+    <string name="post_700">700-中華郵政</string>
+    <string name="reservation_length_over">序號位數錯誤</string>
+    <string name="nocard_reservation_note">"請注意：
+ 1、預約提款金額以千元為單位且不得大於帳戶可用餘額；ATM無卡提款成功與否以取款當時帳戶可用餘額為準。
+ 2、單筆(日)提領最高限額為新臺幣3萬元，跨行提款單筆最高限額為新臺幣2萬元。
+ 3、單日合併累計ATM無卡提款金額與實體金融卡提款金額，最高限額新臺幣15萬元。
+ 4、本公司每日凌晨1時至1時30分主機進行系統維護作業，暫停連線交易服務，不便之處，敬請見諒。"</string>
+    <string name="nocard_cancel_note">"注意事項：
+ 1、無卡提款序號輸入長度須為8位數字。
+ 2、使用時效內之無卡提款序號，方可執行取消作業。
+ 3、未取消或未使用之無卡提款序號如已逾有效使用期限，該筆序號將自動失效。
+ 4、如欲取消多筆無卡提款序號者，須逐筆執行取消作業。"</string>
+    <string name="result_note"><Data> 溫馨提醒：&lt;br> 1、無卡提款序號有效時間為15分鐘。&lt;br> &lt;font color=#ff0000>&lt;b>2、本公司另發送簡訊至您留存於本公司主檔之手機門號，於ATM無卡提款時，請依簡訊內容依序輸入「金融機構」、「無卡提款序號」、「提款金額」及您設定的「無卡提款密碼」。&lt;br>&lt;/b>&lt;/font> 3、無卡提款序號有效截止時間如在本公司每日凌晨1時至1時30分例行主機系統維護作業時間內，則無法進行無卡提款交易。 </Data></string>
+    <string name="nocard_reservation_id_alarm">請注意：您預約的無卡提款序號有效截止時間為%s。本公司每日凌晨1時至1時30分主機系統進行例行維護作業，該時段您將無法於ATM進行無卡提款交易</string>
+    <string name="navbar_deposit_rate">牌告利率</string>
+    <string name="navbar_savings_deposits_rate">活期存款利率</string>
+    <string name="navbar_time_deposit_rate">定期存款利率</string>
+    <string name="navbar_history_deposit_rate">歷史利率查詢</string>
+    <string name="navbar_exchang_rate">牌告匯率</string>
+    <string name="navbar_remittance_fee">各項儲匯費率</string>
+    <string name="navbar_taiwan_remittance_fee">國內匯兌資費</string>
+    <string name="navbar_exchange_business_fee">外匯業務資費</string>
+    <string name="navbar_international_and_mainland_china_remittance_fee">國際匯兌</string>
+    <string name="navbar_foreign_currency_and_mainland_china_cash_fee">外幣/人民幣現鈔</string>
+    <string name="navbar_traveler_check_fee">美金旅行支票</string>
+    <string name="navbar_atm_fee">自動櫃員機資費及限額</string>
+    <string name="navbar_web_post_fee">網路(e動)郵局資費及限額</string>
+    <string name="navbar_voice_transfer_fee">語音轉帳資費及限額</string>
+    <string name="navbar_counter_service_fee">各項儲匯臨櫃服務工本費</string>
+    <string name="navbar_postal_remittance_fee">郵政劃撥儲金手續費</string>
+    <string name="navbar_postage_fee">各項郵資費率</string>
+    <string name="navbar_taiwan_mail_fee">國內函件資費</string>
+    <string name="navbar_international_mail_fee">國際函件資費</string>
+    <string name="navbar_mainland_china_mail_fee">大陸函件資費</string>
+    <string name="navbar_taiwan_parcels_fee">國內包裏資費</string>
+    <string name="navbar_taiwan_express_fee">國內快捷資費</string>
+    <string name="navbar_international_parcels_fee">國際包裏常用資費</string>
+    <string name="navbar_international_air_parcels_fee">國際航空包裹常用資費表</string>
+    <string name="navbar_international_surface_airlifted_parcels_fee">國際陸空包裹常用資費表</string>
+    <string name="navbar_international_surface_parcels_fee">國際水陸包裹常用資費表</string>
+    <string name="navbar_international_express_fee">國際快捷郵件簡明資費</string>
+    <string name="navbar_mainland_china_parcels_and_express_fee">大陸包裏/快捷資費</string>
+    <string name="navbar_mainland_china_parcels_fee">大陸包裏資費</string>
+    <string name="navbar_mainland_china_express_fee">大陸快捷資費</string>
+    <string name="navbar_cross_straits_express_fee">兩岸郵政速遞資費</string>
+    <string name="navbar_concise_various_postal_fee">各類郵件簡明資費表</string>
+    <string name="navbar_cross_straits_shipping_express_fee">兩岸郵政速遞海運資費</string>
+    <string name="navbar_cross_straits_airlifted_express_fee">兩岸郵政速遞空運資費</string>
+    <string name="text_time_deposit_rate_description_title">大額存款金額：</string>
+    <string name="text_time_deposit_rate_description_content">"105年3月17日-500萬元(含)以上
+099年3月01日-1000萬元(含)以上"</string>
+    <string name="navbar_philately">集郵專區</string>
+    <string name="navbar_personal_stamp">個人化郵票</string>
+    <string name="navbar_order_measures">訂購辦法</string>
+    <string name="navbar_order_price">訂製價格</string>
+    <string name="navbar_philately_info">集郵資訊</string>
+    <string name="navbar_postal_museum">郵政博物館</string>
+    <string name="navbar_temporary_post">臨時郵局一覽表</string>
+    <string name="navbar_new_postmark">新刻紀念、風景郵戳</string>
+    <string name="navbar_order_stamp_remittance_account">訂購票品劃撥帳號</string>
+    <string name="navbar_new_stamp_notice">郵票發行計畫</string>
+    <string name="navbar_new_stamp_introduction">新郵介紹</string>
+    <string name="navbar_philately_mall">集郵電子商城</string>
+    <string name="navbar_express_limit">國內快捷郵遞時效表</string>
+    <string name="navbar_normal_mail_limit">國內普通郵件(含包裹)郵遞時效表</string>
+    <string name="navbar_promopt_delivery_mail_limit">國內限時郵件郵遞時效表</string>
+    <string name="navbar_international_post_website">國際、大陸郵件查詢單位</string>
+    <string name="navbar_international_express_unit">國際快捷查詢單位</string>
+    <string name="navbar_international_registered_unit">國際掛號查詢單位</string>
+    <string name="navbar_international_parcels_unit">國際包裏查詢單位</string>
+    <string name="navbar_mainland_china_express_unit">大陸快捷查詢單位</string>
+    <string name="navbar_mainland_china_registered_unit">大陸掛號查詢單位</string>
+    <string name="navbar_mainland_china_parcels_unit">大陸包裏查詢單位</string>
+    <string name="navbar_other_country_website">其他國家查詢網站</string>
+    <string name="navbar_international_express_website">國際快捷查詢網站</string>
+    <string name="navbar_international_registered_website">國際掛號函件查詢網站</string>
+    <string name="navbar_international_parcels_website">國際包裏查詢網站</string>
+    <string name="navbar_mainland_china_website">大陸地區查詢網站</string>
+    <string name="navbar_ems">大陸快捷郵件</string>
+    <string name="navbar_mainland_china_post">大陸掛號及包裹</string>
+    <string name="navbar_mail_pendant_number_inquiry">信箱掛件數量查詢</string>
+    <string name="navbar_mail_pendant_number_result">信箱掛件數量查詢結果</string>
+    <string name="navbar_mail_pendant_number_detail">信箱掛件查詢明細</string>
+    <string name="navbar_health_people">健康好郵人</string>
+    <string name="navbar_health_people_bmi_adults">BMI(成年人)</string>
+    <string name="navbar_health_people_bmi_calculation">BMI計算功能</string>
+    <string name="navbar_health_people_bmi_history">歷史記錄</string>
+    <string name="navbar_health_people_bmi_history_edit">編輯歷史記錄</string>
+    <string name="navbar_health_people_lookup_perfect_weight">理想體重查詢</string>
+    <string name="navbar_health_people_calorie_calculation">卡路里計算</string>
+    <string name="navbar_health_people_yoga_teaching">瑜珈教學</string>
+    <string name="navbar_health_people_yoga">舒活伸展操示範</string>
+    <string name="navbar_health_people_home_yoga_demo">居家瑜珈示範</string>
+    <string name="navbar_health_people_home_yoga">居家瑜珈演釋</string>
+    <string name="navbar_health_people_advanced_yoga">進階拜日式</string>
+    <string name="navbar_health_people_taijiquan_teaching">太極拳教學</string>
+    <string name="navbar_health_people_taijiquan_sport">太極拳教學</string>
+    <string name="text_height">身高</string>
+    <string name="text_height_symbol">身高:</string>
+    <string name="text_input_height">請輸入身高</string>
+    <string name="text_select_height">請選擇身高</string>
+    <string name="text_height_unit">公分(cm)</string>
+    <string name="text_weight">體重</string>
+    <string name="text_weight_symbol">體重:</string>
+    <string name="text_input_weight">請輸入體重</string>
+    <string name="text_weight_unit">公斤(kg)</string>
+    <string name="text_weight_ch_unit">公斤</string>
+    <string name="text_sex">性別</string>
+    <string name="text_select_sex">請選擇性別</string>
+    <string name="text_age">年齡</string>
+    <string name="text_input_age">請輸入年齡</string>
+    <string name="text_age_unit">歲(age)</string>
+    <string name="text_action_category">活動類別</string>
+    <string name="text_select_action_category">請選擇活動類別</string>
+    <string name="text_calorie_unit">大卡</string>
+    <string name="text_bmi_result">BMI結果</string>
+    <string name="text_bmi_calculation">BMI計算</string>
+    <string name="text_show_chart">圖表顯示</string>
+    <string name="text_calorie_calculation_result">計算結果</string>
+    <string name="text_zero">0</string>
+    <string name="text_bmi_store">記錄留存</string>
+    <string name="text_heavy_fat">重度肥胖</string>
+    <string name="text_heavy_fat_range">35 ↑</string>
+    <string name="text_heavy_fat_min_range_number">35</string>
+    <string name="text_middle_fat">中度肥胖</string>
+    <string name="text_middle_fat_range">30 - 35</string>
+    <string name="text_middle_fat_min_range_number">30</string>
+    <string name="text_light_fat">輕度肥胖</string>
+    <string name="text_light_fat_range">24 - 30</string>
+    <string name="text_light_fat_min_range_number">24</string>
+    <string name="text_normal">正常體重</string>
+    <string name="text_normal_range">18.5 - 24</string>
+    <string name="text_normal_min_range_number">18.5</string>
+    <string name="text_thin">偏瘦</string>
+    <string name="text_thin_range">18.5 ↓</string>
+    <string name="text_reminder_message">提醒訊息</string>
+    <string name="text_bmi_calculation_warning">請輸入身高及體重</string>
+    <string name="text_bmi_store_warning">沒有記錄可留存</string>
+    <string name="text_bmi_store_success">您的記錄已留存</string>
+    <string name="text_bmi_store_error">您的記錄已超過5筆，請至歷史記錄/刪除後，方可記錄留存</string>
+    <string name="text_bmi_single_chart_warning">沒有圖表可顯示</string>
+    <string name="text_lookup_perfect_weight_warning">請選擇身高</string>
+    <string name="text_calorie_calculation_warning">各欄位為必填，請選擇或輸入</string>
+    <string name="navbar_book_resrvtion">預約專區</string>
+    <string name="navbar_reservation_open_account">預約開戶</string>
+    <string name="navbar_reservation_change_seal">預約更換印鑑</string>
+    <string name="navbar_reservation_deposit_miss">預約儲金簿掛失補副</string>
+    <string name="navbar_reservation_deposit_miss_seal">預約儲金簿掛失補副及更換印鑑</string>
+    <string name="navbar_resrvtion_inquire">預約查詢</string>
+    <string name="navbar_reservation_cancel">取消預約</string>
+    <string name="navbar_reservation_inherit">預約存款繼承</string>
+    <string name="navbar_insurance_policy_progress">保單核發進度查詢</string>
+    <string name="navbar_insurance_policy_progress_result">查詢結果</string>
+    <string name="navbar_housing_loan_rate_calculation">房貸利息試算</string>
+    <string name="navbar_housing_loan_rate_calculation_result">試算結果</string>
+    <string name="navbar_housing_loan_kind">各項房貸商品利率查詢</string>
+    <string name="navbar_insurance_policy_rate">保單費率查詢</string>
+    <string name="navbar_insurance_policy_loans_fee_calculation">保單借款利息試算</string>
+    <string name="navbar_insurance_policy_loans_fee_calculation_result">保單借款利息試算結果</string>
+    <string name="navbar_insurance_appointment">預約投保</string>
+    <string name="navbar_news_and_promotions">消息活動</string>
+    <string name="navbar_finanical_management">理財專區</string>
+    <string name="navbar_news">最新消息</string>
+    <string name="navbar_postal_news">郵政消息</string>
+    <string name="navbar_post_news">郵務消息</string>
+    <string name="navbar_banking_news">儲匯消息</string>
+    <string name="navbar_life_insurance_news">壽險消息</string>
+    <string name="navbar_philately_news">集郵活動快訊</string>
+    <string name="navbar_system_news">系統消息</string>
+    <string name="navbar_detail_news">消息內容</string>
+    <string name="navbar_promotions">優惠活動</string>
+    <string name="navbar_VISA_promotions_stores">郵政VISA金融卡優惠商店</string>
+    <string name="navbar_detail_promotions">活動內容</string>
+    <string name="navbar_locations">服務據點</string>
+    <string name="navbar_fund_sales_location">基金銷售局</string>
+    <string name="navbar_international_remittances_location">國際匯兌經辦局</string>
+    <string name="navbar_traveler_check_bussiness_location">外幣旅支經辦局</string>
+    <string name="navbar_housing_loan_bussiness_location">房貸經辦局</string>
+    <string name="navbar_housing_loan_receiving_location">房貸受理局</string>
+    <string name="navbar_post_location">各地郵局</string>
+    <string name="navbar_night_post_location">平常日延時營業郵局</string>
+    <string name="navbar_provide_saturday_service_post_location">週六提供服務郵局</string>
+    <string name="navbar_provide_sunday_service_post_location">週日提供服務郵局</string>
+    <string name="navbar_nearest_to_me">離我最近</string>
+    <string name="navbar_regional_location">分區據點</string>
+    <string name="navbar_region">指定分區</string>
+    <string name="navbar_atm_location">各地郵局ATM</string>
+    <string name="navbar_self_post_location">自助郵局據點</string>
+    <string name="navbar_mailbox_location">信筒(箱)設置地點查詢</string>
+    <string name="navbar_mailbox_location_result">信筒(箱)查詢結果</string>
+    <string name="navbar_mailbox_location_inquiry">設置地點查詢</string>
+    <string name="navbar_sales_center_loaction">郵政好鄰居生活館及銷售中心</string>
+    <string name="navbar_philately_service_center">集郵服務中心</string>
+    <string name="navbar_delivery_post">投遞郵局</string>
+    <string name="navbar_life_info">生活資訊</string>
+    <string name="navbar_zipcode_inquiry">3+2郵遞區號查詢</string>
+    <string name="navbar_zipcode_inquiry_result">3+2郵遞區號查詢結果</string>
+    <string name="navbar_address_translation">中文地址英譯</string>
+    <string name="navbar_address_translation_result">中文地址英譯查詢結果</string>
+    <string name="text_address_translation_copy_already">英譯地址文字已複製</string>
+    <string name="navbar_invoice_etax">統一發票兌獎資訊</string>
+    <string name="navbar_internal_express_delivery_area_inquiry">國內快捷投遞區域查詢</string>
+    <string name="navbar_prompt_mail_delivery_area_inquiry">限時郵件投遞區域查詢</string>
+    <string name="navbar_no_address_delivery_area_inquiry">不按址投遞區域查詢</string>
+    <string name="text_delivery_area_inquiry_result">投遞區域查詢結果</string>
+    <string name="text_no_prompt_mail_delivery_area">非限時郵件投遞區域</string>
+    <string name="text_address_delivery_area">非不按址投遞區域</string>
+    <string name="url_insurance_appointment">http://www.post.gov.tw/post/internet/Insurance_Appointment/index.jsp</string>
+    <string name="url_insurance_appointment_test">http://10.10.28.202/post/internet/Insurance_Appointment/index.jsp</string>
+    <string name="url_payment_declare">%1$s/webpost/doc/epay.htm</string>
+    <string name="url_taiwan_remittance_fee">%1$s/post/APP/b_saving/index.jsp?ID=190308&amp;vkey=A946EBFA-25E1-4BC6-AF6F-0F6A76D8486C</string>
+    <string name="url_international_and_mainland_china_remittance_fee">%1$s/post/APP/b_saving/index.jsp?ID=190309&amp;vkey=A946EBFA-25E1-4BC6-AF6F-0F6A76D8486C</string>
+    <string name="url_foreign_currency_and_mainland_china_cash_fee">%1$s/post/APP/b_saving/index.jsp?ID=1903092&amp;vkey=A946EBFA-25E1-4BC6-AF6F-0F6A76D8486C</string>
+    <string name="url_traveler_check_fee">%1$s/post/APP/b_saving/index.jsp?ID=1903093&amp;vkey=A946EBFA-25E1-4BC6-AF6F-0F6A76D8486C</string>
+    <string name="url_atm_fee">%1$s/post/APP/b_saving/index.jsp?ID=19031001&amp;vkey=A946EBFA-25E1-4BC6-AF6F-0F6A76D8486C</string>
+    <string name="url_web_post_fee">%1$s/post/APP/b_saving/index.jsp?ID=19031003&amp;vkey=A946EBFA-25E1-4BC6-AF6F-0F6A76D8486C</string>
+    <string name="url_voice_transfer_fee">%1$s/post/APP/b_saving/index.jsp?ID=19031004&amp;vkey=A946EBFA-25E1-4BC6-AF6F-0F6A76D8486C</string>
+    <string name="url_counter_service_fee">%1$s/post/APP/b_saving/index.jsp?ID=190311&amp;vkey=A946EBFA-25E1-4BC6-AF6F-0F6A76D8486C</string>
+    <string name="url_postal_remittance_fee">%1$s/post/APP/c_insurance/index.jsp?ID=1103539946737&amp;vkey=A946EBFA-25E1-4BC6-AF6F-0F6A76D8486C</string>
+    <string name="url_taiwan_mail_fee">%1$s/post/APP/a_mail/index.jsp?ID=12102&amp;vkey=A946EBFA-25E1-4BC6-AF6F-0F6A76D8486C</string>
+    <string name="url_international_mail_fee">%1$s/post/APP/a_mail/index.jsp?ID=12202&amp;vkey=A946EBFA-25E1-4BC6-AF6F-0F6A76D8486C</string>
+    <string name="url_mainland_china_mail_fee">%1$s/post/APP/a_mail/index.jsp?ID=12302&amp;vkey=A946EBFA-25E1-4BC6-AF6F-0F6A76D8486C</string>
+    <string name="url_taiwan_parcels_fee">%1$s/post/APP/a_mail/index.jsp?ID=13102&amp;vkey=A946EBFA-25E1-4BC6-AF6F-0F6A76D8486C</string>
+    <string name="url_taiwan_express_fee">%1$s/post/APP/a_mail/index.jsp?ID=111003&amp;vkey=A946EBFA-25E1-4BC6-AF6F-0F6A76D8486C</string>
+    <string name="url_international_air_parcels_fee">%1$s/post/APP/a_mail/index.jsp?ID=13202&amp;vkey=A946EBFA-25E1-4BC6-AF6F-0F6A76D8486C</string>
+    <string name="url_international_surface_airlifted_parcels_fee">%1$s/post/APP/a_mail/index.jsp?ID=13203&amp;vkey=A946EBFA-25E1-4BC6-AF6F-0F6A76D8486C</string>
+    <string name="url_international_surface_parcels_fee">%1$s/post/APP/a_mail/index.jsp?ID=13204&amp;vkey=A946EBFA-25E1-4BC6-AF6F-0F6A76D8486C</string>
+    <string name="url_international_express_fee">%1$s/post/APP/a_mail/index.jsp?ID=1306826737632&amp;vkey=A946EBFA-25E1-4BC6-AF6F-0F6A76D8486C</string>
+    <string name="url_mainland_china_parcels_fee">%1$s/post/APP/a_mail/index.jsp?ID=1230517614447&amp;vkey=A946EBFA-25E1-4BC6-AF6F-0F6A76D8486C</string>
+    <string name="url_mainland_china_express_fee">%1$s/post/APP/a_mail/index.jsp?ID=1230516151642&amp;vkey=A946EBFA-25E1-4BC6-AF6F-0F6A76D8486C</string>
+    <string name="url_cross_straits_shipping_express_fee">%1$s/post/APP/a_mail/index.jsp?ID=1347348298281&amp;vkey=A946EBFA-25E1-4BC6-AF6F-0F6A76D8486C</string>
+    <string name="url_cross_straits_airlifted_express_fee">%1$s/post/APP/a_mail/index.jsp?ID=13473482982812&amp;vkey=A946EBFA-25E1-4BC6-AF6F-0F6A76D8486C</string>
+    <string name="url_philately_mall">https://stamp.post.gov.tw/post/stamp_mall/index.jsp</string>
+    <string name="url_philately_mall_test">https://teststamp.post.gov.tw/post/stamp_mall/index.jsp</string>
+    <string name="url_postal_museum">http://museum.post.gov.tw/post/Postal_Museum/Post_MuseumApp/index.jsp</string>
+    <string name="url_postal_museum_test">http://10.10.28.146/post/Postal_Museum/Post_MuseumApp/index.jsp</string>
+    <string name="url_order_measures">%1$s/post/APP/n_stamp/index.jsp?ID=150301&amp;vkey=A946EBFA-25E1-4BC6-AF6F-0F6A76D8486C</string>
+    <string name="url_order_price">%1$s/post/APP/n_stamp/index.jsp?ID=1186964429003&amp;vkey=A946EBFA-25E1-4BC6-AF6F-0F6A76D8486C</string>
+    <string name="url_temporary_post">%1$s/post/APP/i_location/index.jsp?ID=150404&amp;vkey=A946EBFA-25E1-4BC6-AF6F-0F6A76D8486C</string>
+    <string name="url_new_postmark">%1$s/post/APP/n_stamp/index.jsp?ID=150410&amp;vkey=A946EBFA-25E1-4BC6-AF6F-0F6A76D8486C</string>
+    <string name="url_order_stamp_remittance_account">%1$s/post/APP/n_stamp/index.jsp?ID=150408&amp;vkey=A946EBFA-25E1-4BC6-AF6F-0F6A76D8486C</string>
+    <string name="url_new_stamp_notice">%1$s/post/APP/n_stamp/index.jsp?ID=15021&amp;vkey=A946EBFA-25E1-4BC6-AF6F-0F6A76D8486C</string>
+    <string name="url_new_stamp_introduction">%1$s/post/APP/n_stamp/index.jsp?ID=15022&amp;vkey=A946EBFA-25E1-4BC6-AF6F-0F6A76D8486C</string>
+    <string name="url_post_unit">http://www.post.gov.tw/post/internet/SearchZone/index.jsp?ID=1310</string>
+    <string name="url_post_unit_test">http://10.10.28.202/post/internet/SearchZone/index.jsp?ID=1310</string>
+    <string name="url_express_limit">%1$s/post/APP/a_mail/index.jsp?ID=111005&amp;vkey=A946EBFA-25E1-4BC6-AF6F-0F6A76D8486C</string>
+    <string name="url_normal_mail_limit">%1$s/post/APP/a_mail/index.jsp?ID=1330077434791&amp;vkey=A946EBFA-25E1-4BC6-AF6F-0F6A76D8486C</string>
+    <string name="url_promopt_delivery_mail_limit">%1$s/post/APP/a_mail/index.jsp?ID=1330077460301&amp;vkey=A946EBFA-25E1-4BC6-AF6F-0F6A76D8486C</string>
+    <string name="url_international_express_unit">%1$s/webpost/CSController?cmd=POS4004_4</string>
+    <string name="url_international_registered_unit">%1$s/webpost/CSController?cmd=POS4008_3</string>
+    <string name="url_international_parcels_unit">%1$s/webpost/CSController?cmd=POS4006_3</string>
+    <string name="url_mainland_china_express_unit">%1$s/webpost/CSController?cmd=POS4010_1</string>
+    <string name="url_mainland_china_registered_unit">%1$s/webpost/CSController?cmd=POS4012_1</string>
+    <string name="url_mainland_china_parcels_unit">%1$s/webpost/CSController?cmd=POS4011_1</string>
+    <string name="url_international_express_website">%1$s/webpost/CSController?cmd=POS4004_1</string>
+    <string name="url_international_registered_website">%1$s/webpost/CSController?cmd=POS4008_1</string>
+    <string name="url_international_parcels_website">%1$s/webpost/CSController?cmd=POS4006_1</string>
+    <string name="url_ems">http://www.ems.com.cn/</string>
+    <string name="url_mainland_china_post">http://intmail.183.com.cn/item/trace/itemTraceAction.do?action=Enter</string>
+    <string name="url_Post_All">http://www.post.gov.tw/post/internet/I_location/index_all.jsp</string>
+    <string name="url_policy_progress_inquiry">%1$s/webpost/CSController?cmd=POS3003_2&amp;POLICY_NO=%2$s&amp;INSURED_OCUP_CODE1=%3$s</string>
+    <string name="url_housing_loan_kind">%1$s/webpost/CSController?cmd=POS1005_1</string>
+    <string name="url_insurance_policy_rate">%1$s/webpost/CSController?cmd=POS3001_1</string>
+    <string name="url_navbar_invoice_etax">http://invoice.etax.nat.gov.tw</string>
+    <string name="url_detail_news">http://www.post.gov.tw/post/internet/post_news/post_news_dtl.jsp?ID=601&amp;vkey=A946EBFA-25E1-4BC6-AF6F-0F6A76D8486C&amp;news_no=%1$s&amp;search_type=%2$s&amp;vSeq=%3$s</string>
+    <string name="url_philately_service_center">%1$s/post/APP/n_stamp/index.jsp?ID=1271052964527&amp;vkey=A946EBFA-25E1-4BC6-AF6F-0F6A76D8486C</string>
+    <string name="url_delivery_post">http://www.post.gov.tw/post/internet/SearchZone/index.jsp?ID=1310</string>
+    <string name="url_health_people_youtube_test">https://www.youtube.com/watch?v=f64LaEH6SKM</string>
+    <string name="url_navbar_financail">http://www.post.gov.tw/post/internet/Finances/</string>
+    <string name="navbar_health_people_office_yoga_url">https://youtu.be/4xK9N4Ocv0s</string>
+    <string name="navbar_health_people_home_yoga_demo_url">https://youtu.be/DJAtop05YiM</string>
+    <string name="note_login_certificate_no_install">"&lt;font color='red'>提醒您：您尚未安裝e動郵局憑證，請登入後進行下載。&lt;/font>"</string>
+    <string name="note_login_certificate_install">"&lt;font color='red'>提醒您：您目前已安裝 e動郵局憑證。若您因行動裝置更換、遺失、毀損、&lt;b>移除e動郵局APP&lt;/b>、憑證逾期、密碼錯誤達5次以上者，您須親攜國民身分證、儲金簿及原留印鑑至任一郵局（非通儲戶請至立帳局），或使用郵政金融卡及讀卡機至本公司「網路ATM」辦理「補發」憑證。&lt;/font>"</string>
+    <string name="note_login_certificate_delete">"&lt;font color='red'>提醒您：您的e動郵局憑證因憑證密碼連續輸入錯誤5次，或移除e動郵局APP、憑證逾期、行動裝置更換、遺失或毀損等原因，已被刪除。您須親攜國民身分證、儲金簿及原留印鑑至任一郵局(非通儲戶請至立帳局)，或使用郵政金融卡及讀卡機至本公司「網路ATM」辦理「補發」憑證。&lt;/font>"</string>
+    <string name="note_change_password_and_usercode">"※網路密碼及使用者代號請設定6-16位英數字：
+ 1、請勿將國民身分證號碼(統一證號)、統一編號或帳號資料設定為網路密碼及使用者代號。
+ 2、網路密碼及使用者代號內使用英文字母時，大小寫視為不同。
+ 3、請勿使用6-16個完全相同字，如8個'1'、8個'A'或其他容易猜測之密碼，以保護資料安全。
+ 4、請勿使用英數字以外之字元，如 &amp; % ? ‧‧‧等。
+ 5、網路密碼請勿與使用者代號相同。"</string>
+    <string name="note_ceritificate_apply">"&lt;font color='red'>提醒您：此密碼為您至本局營業單位申請憑證時，由櫃員交付給您。若密碼連續輸入錯誤5次，則密碼失效，若未拿到此密碼通知書，或密碼通知書不清楚，請洽辦理憑證的營業單位或使用郵政金融卡及讀卡機至本公司「網路ATM」辦理「補發」憑證。&lt;/font>"</string>
+    <string name="note_ceritificate_pwd_setup">"&lt;font color='red'>提醒您：憑證保護密碼需為6~16位英數字(區分大小寫)，請務必牢記此密碼，日後若忘記此密碼，您須親攜國民身分證、儲金簿及原留印鑑至任一郵局(非通儲戶請至立帳局)，或使用郵政金融卡及讀卡機至本公司「網路ATM」辦理「補發」憑證。&lt;/font>"</string>
+    <string name="note_ceritificate_pwd_input">"&lt;font color='red'>提醒您：此密碼為您自行設定，若忘記密碼或密碼輸入錯誤5次，您須親攜國民身分證、儲金簿及原留印鑑至任一郵局(非通儲戶請至立帳局)，或使用郵政金融卡及讀卡機至本公司「網路ATM」辦理「補發」憑證。&lt;/font>"</string>
+    <string name="note_ceritificate_sn_setting">"&lt;font color='red'>請先輸入1次憑證密碼以完成設定，日後登入時即可免輸入憑證密碼。&lt;br>提醒您：此密碼為您自行設定，若忘記密碼或密碼輸入錯誤5次，您須親攜國民身分證、儲金簿及原留印鑑至任一郵局（非通儲戶請至立帳局），或使用郵政金融卡及讀卡機至本公司「網路ATM」辦理「補發」憑證，免收任何費用，惟辦理憑證「終止」後再次申請者，應酌收服務費新台幣100元。若您已取得新的憑證下載密碼，重新安裝e動郵局APP刪除舊憑證後即可登入下載新憑證。&lt;/font>"</string>
+    <string name="note_ceritificate_finish_page">"&lt;font color='red'>提醒您：憑證下載安裝後，無法由行動設備匯出備份或複製，若您因行動裝置更換、遺失、毀損、&lt;b>移除e動郵局APP&lt;/b>、憑證逾期或憑證密碼連續輸入錯誤5次者，您須親攜國民身分證、儲金簿及原留印鑑至任一郵局（非通儲戶請至立帳局），或使用郵政金融卡及讀卡機至本公司「網路ATM」辦理「補發」憑證。&lt;/font>"</string>
+    <string name="note_ceritificate_finish_page_for_delete">"&lt;font color='red'>提醒您：憑證下載安裝後，無法由行動設備匯出備份或複製，若您因行動裝置更換、遺失、毀損、&lt;b>移除e動郵局APP&lt;/b>、憑證逾期或憑證密碼連續輸入錯誤5次者，您須親攜國民身分證、儲金簿及原留印鑑至任一郵局（非通儲戶請至立帳局），或使用郵政金融卡及讀卡機至本公司「網路ATM」辦理「補發」憑證。&lt;/font>"</string>
+    <string name="note_process_finish">您的變更已於%1$s完成，&lt;br>日後請使用%2$s。</string>
+    <string name="note_auto_logout">"請按完成，系統將&lt;font color='black'>自動登出&lt;/font>。&lt;br>%1$s，您必須重新登入。"</string>
+    <string name="note_passbook_balance_inquiry">本公司每日凌晨0時至1時30分為例行主機系統維護作業（1時至1時20分進行批次整檔作業，暫停全部連線交易服務），並視情形提前或延後維護作業時間，正確之未登摺資料，請於1時30分之後進行查詢，不便之處，敬請見諒。</string>
+    <string name="note_passbook_predesignated_account_maintain">"說明：
+ 1.編輯按鈕：
+ (1)臨櫃設定帳戶：提供儲戶自行編輯、修改約定帳戶之「常用電子信箱」。
+ (2)線上設定帳戶：提供儲戶自行編輯、修改約定帳戶之「戶名/別名」及「常用電子信箱」。
+ 2.終止按鈕：提供儲戶於網路自行終止上開約定帳戶，終止後之約定帳戶如須回復，須親至郵局申請或於網路郵局線上重新設定，請參閱網路郵局首頁「常見問題」「業務篇」說明。"</string>
+    <string name="note_giro_predesignated_account_maintain">"說明：
+ 1.編輯按鈕：提供儲戶自行編輯、修改上開約定帳戶之常用電子信箱。
+ 2.終止按鈕：提供儲戶於網路自行終止上開約定帳戶，終止後之約定帳戶如須回復，須親至郵局申請。"</string>
+    <string name="note_passbook_interbank_predesignated_account_maintain">"說明：
+ 1.編輯按鈕：提供儲戶自行編輯、修改上開約定帳戶之「別名」、常用「電子信箱」。
+ 2.終止按鈕：提供儲戶於網路自行終止上開約定帳戶，終止後之約定帳戶如須回復，須親至郵局申請或於網路郵局線上重新設定，請參閱網路郵局首頁「常見問題」「業務篇」說明。"</string>
+    <string name="note_passbook_nonregister_query">"說明：&lt;br>1.您帳戶內目前未登的筆數為&lt;font color='black'>%1$d&lt;/font>筆，本功能僅為您顯示前180筆未登摺資料。&lt;br>2.存簿交易累計滿100筆仍未補登者，將自動彙整為1筆存簿登摺交易。&lt;br>3. 本公司每日凌晨0時至1時30分為例行主機系統維護作業（1時至1時20分進行批次整檔作業，暫停全部連線交易服務），並視情形提前或延後維護作業時間，正確之未登摺資料，請於1時30分之後進行查詢，不便之處，敬請見諒。"</string>
+    <string name="note_passbook_register_query">"說明：&lt;br>
+1.僅提供10筆已登摺資料。&lt;br>
+2.查詢6個月內交易，請點選「交易明細查詢」>「6個月內交易」。&lt;br>
+3.逾6個月以上之歷史交易資料如確有需要，請攜帶國民身分證，儲金簿及原留印鑑洽郵局窗口申請，每件收工本費100元。"</string>
+    <string name="note_passbook_today_transaction_query">"說明：
+ 1.本公司每日凌晨0時至1時30分為例行主機系統維護作業(1時至1時20分進行批次整檔作業，暫停全部連線交易服務)，正確之資料，請於1時30分之後查詢，不便之處，敬請見諒。"</string>
+    <string name="note_passbook_six_months_transaction_query">"說明：
+ 1.本查詢含本日交易;查詢彙總登摺明細，請點選「交易明細查詢」>「彙總登摺交易」。
+ 2.逾6個月以上之歷史交易資料如確有需要，請攜帶國民身分證，儲金簿及原留印鑑洽郵局窗口申請，每件收工本費100元。"</string>
+    <string name="note_passbook_summary_transaction_query">"說明：
+ 1.本功能僅提供最近5筆彙總登摺交易明細查詢。
+ 2.逾5筆以上之彙總登摺交易資料如確有需要，請攜帶儲金簿及印鑑洽郵局窗口申請。"</string>
+    <string name="note_giro_list_query">"請輸入&lt;font color='black'>%1$s&lt;/font>至&lt;font color='black'>%2$s&lt;/font>內產生的詳情單編號"</string>
+    <string name="note_giro_check_list_query">"注意事項：
+ 1.您指定的起、訖支票需為同一支票本內的支票號碼。
+ 2.若您僅查詢單筆支票兌付明細，「支票號碼（迄）欄免輸入」。"</string>
+    <string name="note_giro_collection_list_query">"注意事項：
+ 1.本功能僅提供已託收但未入帳及３個月內已入帳之託收票據詳情資料查詢。"</string>
+    <string name="note_giro_trans_list_query">說明：本交易限查本月與上月交易明細(不能查詢本日交易)，每次最多顯示200筆，如筆數超過，請縮小查詢範圍。</string>
+    <string name="note_visa_debit_card_inquiry">"說明：
+ 1.僅限查詢當月及最近3個月份之對帳單資料。
+ 2.如欲查詢逾3個月以上之對帳單，請攜帶國民身分證，原留印鑑及儲金簿至任一郵局（非通儲戶至立帳局）辦理，按申請補印「月份數」計收手續費，每個「月份」新台幣100元。"</string>
+    <string name="note_visa_result">"說明：
+ 如「卡號末四碼」欄位有「H」註記，表示該筆消費為HCE消費。"</string>
+    <string name="note_transfer_popup">"提醒您，請勿離開本交易畫面！請於&lt;font color='red'>%1$s&lt;/font>秒內至已綁定之行動設備&lt;font color='red'>點選「郵保鑣」推播訊息&lt;/font>開啟「郵保鑣」APP進行交易確認，當您於「郵保鑣」APP完成交易確認後，將於本畫面顯示交易結果，&lt;font color='red'>如您未收到推播訊息，請登入「郵保鑣」待確認交易查詢&lt;/font>。"</string>
+    <string name="note_transfer_check">注意：跨行轉帳手續費每筆12元。</string>
+    <string name="note_transfer_now">本公司每日凌晨0時至1時30分為例行主機系統維護作業（1時至1時20分進行批次整檔作業，暫停全部連線交易服務），並視情形提前或延後維護作業時間，正確之未登摺資料，請於1時30分之後進行查詢，不便之處，敬請見諒。</string>
+    <string name="note_transfer_now_description">"說明：
+ 一、「儲金簿備註文字」提供您於儲金簿上印錄該筆轉帳之備註文字，最多可輸入５個中文字。
+ 二、如您未於本欄位輸入任何文字，則您的儲金簿該筆轉帳將印錄「轉入帳號」戶名;如您於本欄位輸入文字，則您的儲金簿該筆轉帳將印錄您自行輸入之文字，不再印錄「轉入帳號」戶名。"</string>
+    <string name="note_transfer_now_interbank_description">"說明：
+ 一、「儲金簿備註文字」提供您於儲金簿上印錄該筆轉帳之備註文字，最多可輸入５個中文字。
+ 二、如您未於本欄位輸入任何文字，則您的儲金簿該筆轉帳將印錄「轉入銀行」帳號;如您於本欄位輸入文字，則您的儲金簿該筆轉帳將印錄您自行輸入之文字，不再印錄「轉入銀行」帳號。"</string>
+    <string name="note_passbook_frequency_used_account_maintenance">"說明：
+本功能不提供約定轉帳帳戶維護，如需新增約定帳戶，請親至郵局(非通儲戶至立帳局)辦理。"</string>
+    <string name="note_giro_frequency_used_account_maintenance">"說明：
+本功能不提供約定轉帳帳戶維護，如需新增約定帳戶，請親至立帳郵局或票交局辦理。"</string>
+    <string name="note_passbook_frequency_used_account_add">"說明：
+1.本功能不提供約定轉帳帳戶新增，如需新增約定帳戶，請親至郵局(非通儲戶至立帳局)辦理。
+2.多筆電子信箱請以『;』區隔"</string>
+    <string name="note_giro_frequency_used_account_add">"說明：
+1.本功能不提供約定轉帳帳戶新增，如需新增約定帳戶，請親至立帳郵局或票交局辦理。
+2.多筆電子信箱請以『;』區隔"</string>
+    <string name="note_transfer_scheduled_once_contract">"一、申請人預約轉帳，應於預約轉帳日前一日備足款項，轉帳當日遇存款不足或遭圈存、扣押，致預約之轉帳交易無法完成時，轉帳交易即自動取消，除已設定Email信箱者，本公司不另行通知。申請人如欲終止預約轉帳交易時，應於預約轉帳日前一日晚上十二時(以本系統之記錄為準)前辦理。
+ 二、如因不可抗力事由或其他原因(包括但不限於斷電、斷線、電信壅塞、網路傳輸干擾、跨行轉帳之受款銀行及財金公司系統問題、本公司電腦系統維護或故障或第三人破壞、因疑似不法帳戶遭暫停電子化交易等)，致使預約轉帳遲延完成或無法完成，本公司不負任何賠償責任。
+ 三、當日轉出帳戶如有多筆預約轉帳交易，轉帳之先後由本系統任意選取，如某筆轉帳交易之金額於執行時與當日之其他已轉帳金額(含局內及跨行)合計金額逾100萬元，該筆轉帳交易不予執行，視為轉帳失敗。如預約之轉帳日為曆法上所無之日期時，以該月之末日為轉帳日。
+ 四、轉出帳戶申請帳戶止付、終止網路郵局帳號，本公司將自動終止未到期之全部預約轉帳(含定期定額轉帳)，如終止網路郵局約定轉帳帳號，該約定帳號之未到期預約轉帳亦同時終止。
+ 五、同一種類之預約轉帳於同一轉帳日轉帳至同一受款帳戶僅得預約一筆。
+ 六、轉入帳戶為銀行帳戶者，其款項入帳時點由各受款銀行決定，申請人如對入帳時點有疑問，請洽各受款銀行。"</string>
+    <string name="note_passbook_transfer_scheduled_once">"說明：
+ 1.預約轉帳須先申請約定轉入帳號。
+ 2.申辦約定轉入帳號請攜帶儲金簿、原留印鑑及國民身分證親至任一郵局(非通儲戶至立帳郵局)辦理。"</string>
+    <string name="note_giro_transfer_scheduled_once">"說明：
+ 1.預約轉帳功能限已約定之轉入帳號。
+ 2.申辦約定轉入帳號請攜帶收支詳情單、原留印鑑及國民身分證親至立帳局或票交局辦理。"</string>
+    <string name="note_passbook_transfer_scheduled_contract">"一、申請人預約轉帳，應於預約轉帳日前一日備足款項，轉帳當日遇存款不足或遭圈存、扣押，致預約之轉帳交易無法完成時，轉帳交易即自動取消，除已設定Email信箱者，本公司不另行通知。申請人如欲終止預約轉帳交易時，請登入網路郵局>帳戶查詢>預約轉帳【查詢、解除】辦理。
+ 二、如因不可抗力事由或其他原因（包括但不限於斷電、斷線、電信壅塞、網路傳輸干擾、跨行轉帳之受款銀行及財金公司系統問題、本公司電腦系統維護或故障或第三人破壞、因疑似不法帳戶遭暫停電子化交易等），致使預約轉帳遲延完成或無法完成，本公司不負任何賠償責任。
+ 三、當日轉出帳戶如有多筆預約轉帳交易，轉帳之先後由本系統任意選取，如某筆轉帳交易之金額於執行時與當日之其他已轉帳金額(含局內及跨行)合計逾下列限制，該筆轉帳交易不予執行，視為轉帳失敗。如預約之轉帳日為曆法上所無之日期時，以該月之末日為轉帳日。
+ (一)「臨櫃設定約定轉入帳戶」轉帳每筆最高限額為新臺幣100萬元，每日最高限額（含跨行、非跨行）為新臺幣100萬元。
+ (二)「線上設定約定轉入帳戶」轉帳每筆最高限額為新臺幣5萬元，每日最高限額（含跨行、非跨行）為新臺幣10萬元，每月最高限額（含跨行、非跨行）為新臺幣20萬元。
+ 四、轉出帳戶申請帳戶止付、終止網路郵局帳號，本公司將自動終止未到期之全部預約轉帳(含定期定額轉帳)，如終止網路郵局約定轉帳帳號，該約定帳號之未到期預約轉帳亦同時終止。
+ 五、同一種類之預約轉帳於同一轉帳日轉帳至同一受款帳戶僅得預約一筆，預約日期最長為３個年度。
+ 六、轉入帳戶為銀行帳戶者，其款項入帳時點由各受款銀行決定，申請人如對入帳時點有疑問，請洽各受款銀行。
+ 七、線上設定之約定轉入帳戶，一律於生效日後次日始可申請「預約轉帳」或「預約定期定額轉帳」服務。"</string>
+    <string name="note_giro_transfer_scheduled_contract">"一、申請人預約轉帳，應於預約轉帳日前一日備足款項，轉帳當日遇存款不足或遭圈存、扣押，致預約之轉帳交易無法完成時，轉帳交易即自動取消，除已設定Email信箱者，本公司不另行通知。申請人如欲終止預約轉帳交易時，請登入網路郵局>帳戶查詢>預約轉帳【查詢、解除】辦理。
+ 二、如因不可抗力事由或其他原因（包括但不限於斷電、斷線、電信壅塞、網路傳輸干擾、跨行轉帳之受款銀行及財金公司系統問題、本公司電腦系統維護或故障或第三人破壞、因疑似不法帳戶遭暫停電子化交易等），致使預約轉帳遲延完成或無法完成，本公司不負任何賠償責任。
+ 三、當日轉出帳戶如有多筆預約轉帳交易，轉帳之先後由本系統任意選取，如某筆轉帳交易之金額於執行時與當日之其他已轉帳金額(含局內及跨行)合計金額逾100萬元，該筆轉帳交易不予執行，視為轉帳失敗。如預約之轉帳日為曆法上所無之日期時，以該月之末日為轉帳日。
+ 四、轉出帳戶申請帳戶止付、終止網路郵局帳號，本公司將自動終止未到期之全部預約轉帳(含定期定額轉帳)，如終止網路郵局約定轉帳帳號，該約定帳號之未到期預約轉帳亦同時終止。
+ 五、同一種類之預約轉帳於同一轉帳日轉帳至同一受款帳戶僅得預約一筆，預約日期最長為３個年度。
+ 六、轉入帳戶為銀行帳戶者，其款項入帳時點由各受款銀行決定，申請人如對入帳時點有疑問，請洽各受款銀行。"</string>
+    <string name="note_transfer_scheduled">"注意事項：
+ 1.定期轉帳起迄日不得為本日。
+ 2.每月轉帳日為每月固定日期。
+ 3.預約轉帳資料之查詢，於轉帳交易日後僅保留六個月。"</string>
+    <string name="note_transfer_scheduled_confirm">注意事項：您的電子信箱若有變更請臨櫃辦理。</string>
+    <string name="note_transfer_scheduled_update">注意事項：預約轉帳資料之查詢，於轉帳交易日後僅保留6個月。</string>
+    <string name="note_transfer_scheduled_update_detail">注意事項：轉帳結果如為待處理，是因系統未收到銀行明確的回應訊息，本公司將於營業日以人工處理，如有疑問請於營業日電洽(02)23931261分機3353。</string>
+    <string name="note_post_collection_bill">"注意事項：
+ 1.本交易不提供收據，交易紀錄將顯示於存簿(或收支詳情單)，如繳款單收據聯需蓋章證明者，請至郵局窗口繳納，勿使用本交易繳納。
+ 2.為方便收款帳戶聯繫，您的電話將隨本交易提供收款帳戶。您如同意請按確定鍵，進行下一步驟；如不同意，請取消本交易。"</string>
+    <string name="note_post_collection_bill_check">"網路繳款(劃撥帳號)之「寄款人代號」輸入原則如下：
+ (一)請輸入繳款單上金融單位專用之條碼資料，例如：「帳單號碼」、「寄款人代號」、「客戶編號」、「銷帳編號」、「銷帳代號」、「繳款編號」等，請勿輸入便利商店區之條碼資料。
+ (二)條碼資料如有英文字，請依其大小寫輸入，如有”＊”、”－”等符號免輸入，此繳費功能無須事先申請。"</string>
+    <string name="note_normal_payment_bill">"注意事項：
+ 1.轉入行為其他銀行者，將自您的帳戶扣收跨行手續費；轉入行亦為郵局者，將依收款帳戶與本公司之約定，由收款帳戶或繳費者負擔手續費5元。
+ 2.繳交信用卡或電信費用等，請改「郵局代收款」繳費，繳費者無需負擔手續費。"</string>
+    <string name="note_barcode_payments_notice">"一、&lt;font color='red'>本交易不提供收據&lt;/font>，交易紀錄將顯示於存簿，如繳款單收據聯需蓋章證明者，請至郵局窗口繳納，勿使用本交易繳納，謝謝。&lt;br>二、為方便對帳聯繫須留聯絡電話，您如同意請按確定鍵進行下一步驟，如不同意請取消本交易。&lt;br>三、本交易一經確定，即將款項撥進收款帳戶內，無法沖退，請確實核對各項資料後再按「確定繳納」鍵。"</string>
+    <string name="note_pin_update">"網路密碼請設定6-16位英數字：
+ 1.請注意！「舊網路密碼」如連續輸入錯誤5次以上，將強制將您登出e動郵局。
+ 2.請勿將國民身分證號碼(統一證號)、統一編號或帳號資料設定為網路密碼。
+ 3.網路密碼內使用英文字母時，大小寫視為不同。
+ 4.請勿使用6-16個完全相同字，如8個'1'、8個'A'或其他容易猜測之密碼，以保護資料安全。
+ 5.請勿使用英數字以外之字元，如＆％？..等。
+ 6.網路密碼請勿與使用者代號相同。"</string>
+    <string name="note_usercode_update">"使用者代號請設定6-16位英數字：
+ 1.請注意！「舊使用者代號」如連續輸入錯誤5次以上，將強制將您登出e動郵局。
+ 2.請勿將國民身分證號碼(統一證號)、統一編號或帳號資料設定為使用者代號。
+ 3.使用者代號內使用英文字母時，大小寫視為不同。
+ 4.請勿使用6-16個完全相同字，如8個'1'、8個'A'或其他容易猜測之密碼，以保護資料安全。
+ 5.請勿使用英數字以外之字元，如＆％？..等。
+ 6.網路密碼請勿與使用者代號相同。"</string>
+    <string name="note_passbook_deposits_inquiry_detail">"※『存單利率』欄位所顯示之利率為定期存款開戶時或轉存時之利率，如欲查詢目前最新利率，請點選『&lt;font color='blue'>定期存款利率&lt;/font>』查詢。"</string>
+    <string name="note_time_deposit_update">"注意事項：
+網路郵局(含e動郵局，以下同)執行變更綜合儲金定期存款到期續存別，限本帳戶臨櫃及網路郵局開立之綜合儲金定期存款(網路郵局限自然人帳戶)。"</string>
+    <string name="note_time_deposit_cancel_notice">"一、中途解約，利息按存款當時郵局牌告與實存期間（含不足月之零星日期）相當期限之定期存款適用利率，以單利八折計給。凡未存滿１個月解約者，不予計息。&lt;br>
+二、網路郵局(含e動郵局，以下同)執行之綜合儲金定期存款中途解約範圍，含臨櫃及網路郵局開立之綜合儲金　定期存款（網路郵局限自然人帳戶）。&lt;br>
+三、中途解約作業完成後，直接存入存簿儲金帳戶內。&lt;br>
+四、綜合儲金定期存款已質借者，不得於網路郵局辦理中途解約，如需解約，請至立帳郵局辦理。"</string>
+    <string name="note_time_deposit_cancel_notice_agree">本人已瞭解貴公司中途解約計息方式且無異議。確認解約本筆綜合儲金定期存款。(確認請勾選)</string>
+    <string name="note_time_deposit_cancel">"注意事項：&lt;br>
+◎中途解約，利息按存款當時郵局牌告與實存期間（含不足月之零星日數）相當期限之定期存款適用利率，以單利八折計給。凡未存滿1個月解約者，不予計息。&lt;br>
+◎網路郵局(含e動郵局，以下同)執行之綜合儲金定期存款中途解約範圍，含臨櫃及網路郵局開立之綜合儲金定期存款（網路郵局限自然人帳戶）。&lt;br>
+◎綜合儲金定期存款已質借者，不得於網路郵局辦理中途解約，如需解約，請至立帳郵局辦理。&lt;br>
+註1：利息金額達20,000元(含)以上者，由本公司於給付利息中扣取補充保費金額。&lt;br>
+◎查詢定期存款之利息，將隨存儲期間或利率調整有所增減，故『利息』僅供參考。&lt;br>
+◎本交易暫不提供分期付息預估代扣補充保費金額。"</string>
+    <string name="note_amount">每筆最低存款金額為1萬元，單筆及每日/每月合併累加存款金額不得逾500萬元(網路郵局與e動郵局存款金額併計)</string>
+    <string name="note_new_time_deposit">"注意事項：
+ 1.儲金種類為整存整付、分期付息。
+ 2.利率別選擇\"機動\"者，利率隨存儲期間牌告利率調整。
+ 3.存款期限：整存整付為1、3、6、9月期、1、2、3年期及指定到期日整存整付(至少1個月以上，不逾3年)。
+分期付息為3、6、9月期及1、2、3年期。
+ 4.到期續存別可於網路郵局(含e動郵局，以下同)變更或至立帳局臨櫃辦理。
+ 5.指定到期日整存整付有零星日數(非整月)者，不得辦理自動續存及變更到期續存別;分期付息不得辦理本息續存。
+ 6.未到期之綜合儲金定期存款可於網路郵局(限自然人帳戶且未質借者)或至立帳局臨櫃辦理中途解約。
+ 7.※自105年9月20日起，轉存本金之單筆金額及每日/每月合併累加存款金額不得逾新臺幣500萬元(網路郵局與e動郵局轉存本金金額併計)。
+ 8.本金續存：到期本金不限次數自動轉期續存，利息轉存本人存簿儲金帳戶。
+ 9.本息續存：到期本息不限次數自動轉期續存。
+ 10.不續存：到期本金、利息轉存本人存簿儲金帳戶。"</string>
+    <string name="note_certificate_pwd_change">"提醒您：
+憑證保護密碼需為6~16位英數字(區分大小寫)，請務必牢記此密碼，日後若忘記此密碼，您須親攜國民身分證、儲金簿及原留印鑑至任一郵局(非通儲戶請至立帳局)，或使用郵政金融卡及讀卡機至本公司「網路ATM」辦理「補發」憑證。"</string>
+    <string name="note_certificate_delete">"&lt;font color='red'>提醒您：&lt;br>憑證廢止後，日後若需再使用憑證，您須親攜國民身分證、儲金簿及原留印鑑至任一郵局(非通儲戶請至立帳局)重新申請。&lt;/font>"</string>
+    <string name="note_savings_desposits_rate">"注意事項：
+ 1.本表資料僅供參考，實際利率以當日各郵局營業廳牌告利率為準。
+ 2.存簿儲金及媒體轉帳薪資存款免扣一切稅捐。
+ 3.以上利息半年結息一次。"</string>
+    <string name="note_time_desposits_rate" formatted="false">"注意事項：
+ 1.本表資料僅供參考，實際利率以當日各郵局營業廳牌告利率為準。
+ 2.儲戶以定期儲金存單向立帳局申請質押借款，計息方式如下：
+ (1)存單採固定利率者，按質押存單之存款利率加年息1%計算。
+ (2)存單採機動利率者，按借款當時質押存單相同期別存款機動利率另加年息1%計算，遇利率調整時，借款利率隨之變動。
+ 3.自105年3月17日起實施定期儲金大額存款利率牌告作業，適用存款金額為500萬元(含)以上。"</string>
+    <string name="note_exchang_rate">注意事項：本匯率謹供參考，實際匯率以櫃檯即時匯率行情為準。</string>
+    <string name="note_taiwan_mail_detail">"附註：
+ 1.郵件最新處理結果,係送達後由全國各地郵局回傳主機,與實際投遞情形有所落差。
+ 2.大宗掛號郵件號碼可能重號,掛號以交寄日期為準。
+ 3.畫面資料僅供收、寄件人查詢，不作其他證明之用，實際情形仍以正式投遞資料所載為準，如有疑義，請逕電洽本公司各處理單位（點選處理單位可查看聯絡資訊）。
+ 4.欲查詢郵件簽收人等投遞記錄，請自交寄之日起6個月內，攜帶原執據至附近郵局填單免費查詢，辦理時限10天；申請以傳真查詢者，除快捷郵件免費外，每件收取傳真費10元，辦理時限3天。"</string>
+    <string name="note_taiwan_mail">"附註：
+ 1.郵件最新處理結果,係送達後由全國各地郵局回傳主機,與實際投遞情形有所落差。
+ 2.大宗掛號郵件號碼可能重號,掛號以交寄日期為準。
+ 3.若要查詢郵件詳細資料,請直接按｢查詢明細｣。
+ 4.欲查詢郵件簽收人等投遞記錄，請自交寄之日起6個月內，攜帶原執據至附近郵局填單免費查詢，辦理時限10天；申請以傳真查詢者，除快捷郵件免費外，每件收取傳真費10元，辦理時限3天。"</string>
+    <string name="note_international_express">說明：&lt;br> 1.本系統僅提供最近六個月內之相關資訊查詢。&lt;br> 2.據德國郵政表示：郵件經其妥投或轉送當地海關查驗時，其網頁均顯示為｢Delivered｣，請參閱&lt;a href=\"https://www.dhl.de/en.html\">德國&lt;/a>網頁。&lt;br> 3.若超過&lt;a href=\"http://www.post.gov.tw/post/internet/Postal/index.jsp?ID=2010215\">預計到達時間&lt;/a>仍無郵件寄達資訊，請於交寄之次日起三個月內持原執據至&lt;a href=\"http://www.post.gov.tw/post/internet/I_location/default.jsp?ID=19\">原收寄郵局&lt;/a>辦理書面查詢。&lt;br> 4.寄往科威特國際快捷郵件，該國不提供查詢服務。&lt;br> 5.基於飛航安全考量，即日起停止提供各類進出口國際郵件航班資訊。</string>
+    <string name="note_international_registered">說明：&lt;br> 1.本系統僅提供最近六個月內出口掛號郵件〈水陸除外〉之交寄、封發資訊及進口掛號郵件投遞資訊查詢。&lt;br> 2.目前尚無法普遍提供出口掛號郵件網路投遞資訊查詢，如逾&lt;a href=\"http://www.post.gov.tw/post/internet/Postal/index.jsp?ID=2020206\">預計到達時間&lt;/a>仍未收到，請備妥相關執據(郵件編號及收、寄件人詳細資料)，自交寄之次日起六個月內逕洽&lt;a href=\"http://www.post.gov.tw/post/internet/I_location/default.jsp?ID=19\">原收寄郵局&lt;/a>辦理書面查詢。&lt;br> 3.基於飛航安全考量，即日起停止提供各類進出口國際郵件航班資訊。</string>
+    <string name="note_international_parcels">說明：&lt;br> 1.本系統僅提供最近六個月內之相關資訊查詢。&lt;br> 2.除進口國際包裹外，亦將陸續開放出口國際航空包裹查詢。&lt;br> 3.若超過&lt;a href=\"http://www.post.gov.tw/post/internet/Postal/index.jsp?ID=2030208\">預計到達時間&lt;/a>仍無郵件寄達資訊，請於交寄之次日起六個月內持原執據至&lt;a href=\"http://www.post.gov.tw/post/internet/I_location/default.jsp?ID=19\">原收寄郵局&lt;/a>辦理書面查詢。&lt;br> 4.基於飛航安全考量，即日起停止提供各類進出口國際郵件航班資訊。</string>
+    <string name="note_mainland_china_express">"說明：
+ 1.欲查詢大陸快捷郵件在大陸地區之詳細郵遞資訊，請上中國郵政速遞物流公司網站http://www.ems.com.cn查詢。
+ 2.本系統僅提供最近六個月內之相關資訊查詢。
+ 3.若超過預計到達時間仍無郵件寄達資訊，請於交寄之次日起三個月內，持原執據至原收寄郵局辦理書面查詢。"</string>
+    <string name="note_mainland_china_registered">"說明：
+ 1.本系統僅提供最近六個月內出口掛號郵件〈水陸除外〉之交寄、封發資訊及進口掛號郵件投遞資訊查詢。
+ 2.掛號郵件因目前與大陸地區尚未互換相關資料，進口(大陸寄來)、出口(寄往大陸)掛號郵件於大陸地區之交寄、投遞資訊，請上中國郵政集團公司網站查詢。"</string>
+    <string name="note_mainland_china_parcels">"說明：
+ 1.本系統僅提供最近六個月內進口包裹郵件(水陸除外)之投遞資訊及出口包裹郵件交寄、封發資訊查詢。
+ 2.包裹郵件因目前與大陸地區尚未互換相關資料，進口(大陸寄來)、出口(寄往大陸)包裹郵件於大陸地區之交寄、投遞資訊，請上中國郵政集團公司網站查詢。"</string>
+    <string name="note_branch_detail">注意事項：若您想要進一步了解詳請，請與【&lt;a href=\"http://www.post.gov.tw/post/internet/I_location/default.jsp?ID=19\">原交寄郵局&lt;/a>】或【&lt;a href=\"http://www.post.gov.tw/post/internet/SearchZone/index.jsp?ID=1310\">投遞郵局&lt;/a>】聯絡。</string>
+    <string name="note_mailbox_inquiry">"注意事項：
+ 1.普通信筒(箱)週休二日及例假日停止收攬作業。
+ 2.限時信筒(箱)3日(含)以上連續假期之第2日起停止收攬作業。
+ 3.民眾於上述假期中如果有緊急用郵需要，請至各地主要郵局以國內快捷交寄。
+ 4.一般信筒(箱)郵件投入口寬約21.4公分，高約6公分，過大郵件請至郵局窗口交寄。"</string>
+    <string name="note_apply_device_binding_result">交易完成，提醒您！記得下載本公司「郵保鑣」APP，並請於24小時內輸入「設備綁定密碼」（6位數字），註冊完成後，請您重新登入「e動郵局」，即可使用「郵保鑣」APP進行交易認證。</string>
+    <string name="alert_input_data">請輸入資料！</string>
+    <string name="alert_input_error">請選擇或輸入各欄位資料!</string>
+    <string name="alert_has_home_certificate">"親愛的儲戶您好：
+如您須使用「非約定轉帳」、「繳費(稅)」、「ｉ郵箱繳費」及「無卡提款」交易，請申請「設備綁定服務」。
+如您已申請「設備綁定服務」，請您先於「郵保鑣」APP憑「設備綁定密碼」完成設定綁定後，以使用本交易。"</string>
+    <string name="alert_book_all_none_certificate">"親愛的儲戶您好：
+本交易需先申請「e動郵局憑證」才能使用，請攜帶國民身分證、儲金簿及原留印鑑至任一郵局(非通儲戶請至立帳局)辦理。
+ 若您已有申請「e動郵局憑證」，惟行動裝置更換、移除e動郵局APP、憑證逾期或憑證密碼錯誤5次以上者，可使用郵政金融卡及讀卡機至本公司「網路ATM」辦理「補發」憑證，若已申請請等候1小時完成憑證下載後，以使用本交易。"</string>
+    <string name="alert_no_post_shield_certificate">憑證到期後不再提供展期功能，如您須繼續使用「非約定轉帳」、「繳費(稅)」、「ｉ郵箱繳費」及「無卡提款」交易，請申請「設備綁定服務」。</string>
+    <string name="alert_appropriate_all_none_certificate">"親愛的儲戶您好：
+本交易需先申請「e動郵局憑證」才能使用，請攜帶國民身分證、儲金簿及原留印鑑至任一郵局(非通儲戶請至立帳局)辦理；如以劃撥帳號申請憑證，請攜帶國民身分證、原留印鑑及最近之收支詳情單至付款局或票據交換局辦理。
+若您已有申請「e動郵局憑證」，惟行動裝置更換、移除e動郵局APP、憑證逾期或憑證密碼錯誤5次以上者，可使用郵政金融卡及讀卡機至本公司「網路ATM」辦理「補發」憑證，若已申請請等候1小時完成憑證下載後，以使用本交易。"</string>
+    <string name="alert_must_apply_certificate">"親愛的客戶您好：
+本交易需先申請「e動郵局憑證」才能使用，請攜帶國民身分證、儲金簿及原留印鑑至任一郵局(非通儲戶請至立帳局)辦理。
+ 若您已有申請「e動郵局憑證」，惟行動裝置更換、移除e動郵局APP、憑證逾期或憑證密碼錯誤5次以上者，可使用郵政金融卡及讀卡機至本公司「網路ATM」辦理「補發」憑證，若已申請請等候1小時完成憑證下載後，以使用本交易。"</string>
+    <string name="alert_must_apply_certificate_2">"親愛的客戶您好：
+ 本交易需先申請「設備綁定服務」，請攜帶國民身分證、儲金簿及原留印鑑至任一郵局(非通儲戶請至立帳局)，或使用郵政金融卡於網路ATM申請本服務。
+如您已申請「設備綁定服務」，請您先於「郵保鑣」APP憑「設備綁定密碼」完成設備綁定後，以使用本交易。"</string>
+    <string name="alert_certificate_password">請輸入憑證密碼</string>
+    <string name="alert_certificate_password_different">憑證密碼與確認憑證密碼不同，請重新輸入。</string>
+    <string name="alert_certificate_password_same">憑證密碼輸入不得為連續號碼，請重新輸入。</string>
+    <string name="alert_certificate_password_change_different">新憑證密碼與確認新憑證密碼不同，請重新輸入。</string>
+    <string name="alert_certificate_password_num_eng">憑證密碼設定6-16位英數字，請重新輸入。</string>
+    <string name="alert_web_password_different">新網路密碼與確認新網路密碼不同，請重新輸入。</string>
+    <string name="alert_web_password_same">網路密碼輸入不得為連續號碼，請重新輸入。</string>
+    <string name="alert_web_password_num_eng">網路密碼請設定6-16位英數字，請重新輸入。</string>
+    <string name="alert_web_user_code_different">新使用者代號與確認新使用者代號不同，請重新輸入。</string>
+    <string name="alert_web_user_code_same">使用者代號輸入不得為連續號碼，請重新輸入。</string>
+    <string name="alert_web_user_code_num_eng">使用者代號請設定6-16位英數字，請重新輸入。</string>
+    <string name="alert_web_password_and_user_code_same">新網路密碼與新使用者代號輸入不得為相同，請重新輸入。</string>
+    <string name="alert_check_agree">請勾選同意本文件之內容!</string>
+    <string name="alert_push_error_msg">很抱歉，目前無法處理您的指令，若有任何問題，請洽本行客服中心4058-0088，手機請撥02-4058-0088。</string>
+    <string name="alert_no_camera_msg">您的設備不支援QR Code掃描功能，請手動輸入銷帳編號！</string>
+    <string name="alert_apply_device_binding_type1">"親愛的客戶您好：
+ 本交易新增「設備綁定服務」，您可輸入「原憑證密碼」（6-16位英數字組合）申請「設備綁定密碼」，嗣後使用本功能免再輸入「憑證保護密碼」及「簡訊密碼」，請點選「申請」鍵將進入設備綁定設定畫面，點選「取消」或「不要再提醒」鍵將進入功能畫面，事後如您要申請設備綁定，亦可於選單點選「申請設備綁定密碼」進行申請。"</string>
+    <string name="alert_apply_device_binding_type1_2">"親愛的客戶您好：
+本交易需先申請「設備綁定服務」，請攜帶國民身分證、儲金簿及原留印鑑至任一郵局(非通儲戶請至立帳局)，或使用郵政金融卡於網路ATM申請本服務。
+如您已申請「設備綁定服務」，請您先於「郵保鑣」APP憑「設備綁定密碼」完成設備綁定後，以使用本交易。"</string>
+    <string name="alert_apply_device_binding_type2">"親愛的客戶您好：
+ 本交易需先申請「設備綁定服務」，請攜帶國民身分證、儲金簿及原留印鑑至任一郵局(非通儲戶請至立帳局)，或使用郵政金融卡於網路ATM申請本服務。
+ 如您已申請「設備綁定服務」，請您先於「郵保鑣」APP憑「設備綁定密碼」完成設備綁定後，以使用本交易。"</string>
+    <string name="alert_apply_device_binding_type3">"親愛的客戶您好：
+ 本交易需先申請「e動郵局憑證」才能使用，請攜帶國民身分證、儲金簿及原留印鑑至任一郵局(非通儲戶請至立帳局)辦理。若您已有申請「e動郵局憑證」，惟行動裝置更換、移除e動郵局APP、憑證逾期或憑證密碼錯誤5次以上者，可使用郵政金融卡及讀卡機至本公司「網路ATM」辦理「補發」憑證，若已申請請等候1小時完成憑證下載後，以使用本交易。"</string>
+    <string name="alert_apply_device_binding_type3_1">"親愛的客戶您好：
+ 本交易新增「設備綁定服務」，您可輸入「原憑證密碼」（6-16位英數字組合）申請「設備綁定密碼」，嗣後使用本功能免再輸入「憑證密碼」及「簡訊密碼」。
+ 請點選「申請」鍵將進入設備綁定設定畫面，點選「取消」或「不要再提醒」鍵將進入功能畫面，事後如您要申請設備綁定，亦可於選單點選「申請設備綁定密碼」進行申請。"</string>
+    <string name="alert_apply_device_binding_type3_1_sdk_16">"親愛的客戶您好：&lt;br />
+本交易新增「設備綁定服務」，您可輸入「原憑證密碼」（6-16位英數字組合）申請「設備綁定密碼」，嗣後使用本功能免再輸入「憑證密碼」及「簡訊密碼」。&lt;br />
+請點選「申請」鍵將進入設備綁定設定畫面，點選「取消」或「不要再提醒」鍵將進入功能畫面，事後如您要申請設備綁定，亦可於選單點選「申請設備綁定密碼」進行申請。&lt;br />
+&lt;font color='red'>提醒您！設備綁定「郵保鑣」APP於Android僅支援4.4以上作業系統，因您目前使用設備的作業系統版本為：%1$s，若您須使用設備綁定作為驗證方式，請您先升級作業系統，或將「郵保鑣」APP安裝於其他可支援的行動設備，以免無法使用。&lt;/font>"</string>
+    <string name="alert_apply_device_binding_type3_1_sdk_4_1_2">"親愛的客戶您好:&lt;br />
+您可憑e動憑證申請「設備綁定密碼」，輸入「原憑證密碼」（6-16位英數字組合）申請「設備綁定密碼」並完成「郵保鑣」APP設備綁定後，嗣後執行非約定轉帳、繳費(稅)、預約無卡提款序號及i郵箱繳費等交易時，免再輸入「憑證密碼」及「簡訊密碼」。
+
+請點選「申請」鍵進入申請畫面，若暫時不要申請可點選「取消」鍵離開此頁。事後如您要申請設備綁定，亦可於選單點選「申請設備綁定密碼」進行申請。&lt;br />
+&lt;font color='red'>提醒您！設備綁定「郵保鑣」APP於Android僅支援4.4以上作業系統，因您目前使用設備的作業系統版本為：%1$s，若您須使用設備綁定作為驗證方式，請您先升級作業系統，或將「郵保鑣」APP安裝於其他可支援的行動設備，以免無法使用。&lt;/font>"</string>
+    <string name="alert_apply_device_binding_type3_1_sdk_16_2">"&lt;font color='red'>請備妥Windows Phone8.1、Android 4.4或iOS 7.0以上的行動設備，點選確認申請設備綁定密碼並完成「郵保鑣」APP設備綁定後，e動憑證即失效，須改以設備綁定方式交易。&lt;/font>"</string>
+    <string name="alert_apply_device_binding_type1_3">"親愛的客戶您好:
+ 您可憑e動憑證申請「設備綁定密碼」，輸入「原憑證密碼」（6-16位英數字組合）申請「設備綁定密碼」並完成「郵保鑣」APP設備綁定後，嗣後執行非約定轉帳、繳費(稅)、預約無卡提款序號及i郵箱繳費等交易時，免再輸入「憑證密碼」及「簡訊密碼」。
+ 請點選「申請」鍵進入申請畫面，若暫時不要申請可點選「取消」鍵離開此頁。事後如您要申請設備綁定，亦可於選單點選「申請設備綁定密碼」進行申請。"</string>
+    <string name="alert_apply_device_binding_type1_3_sdk_16">"親愛的客戶您好:
+ 您可憑e動憑證申請「設備綁定密碼」，輸入「原憑證密碼」（6-16位英數字組合）申請「設備綁定密碼」並完成「郵保鑣」APP設備綁定後，嗣後執行非約定轉帳、繳費(稅)、預約無卡提款序號及i郵箱繳費等交易時，免再輸入「憑證密碼」及「簡訊密碼」。
+ 請點選「申請」鍵進入申請畫面，若暫時不要申請可點選「取消」鍵離開此頁。事後如您要申請設備綁定，亦可於選單點選「申請設備綁定密碼」進行申請。
+ 提醒您！設備綁定「郵保鑣」APP於Android僅支援4.4以上作業系統，因您目前使用設備的作業系統版本為：%s，若您須使用設備綁定作為驗證方式，請您先升級作業系統，或將「郵保鑣」APP安裝於其他可支援的行動設備，以免無法使用。"</string>
+    <string name="alert_apply_device_binding_certificate_update">憑證即將到期，請申請「設備綁定服務」，以繼續使用「非約定轉帳」、「繳費(稅)」、「ｉ郵箱繳費」及「無卡提款」交易。</string>
+    <string name="description">Description</string>
+    <string name="default_location_point_latitude">25.032233</string>
+    <string name="default_location_point_longitude">121.527195</string>
+    <string name="api_key">08byJ7oa1UXeUaUyOkqavFPaanfdOQtVzbRCibw</string>
+    <string name="button_custom_product_search">自定義搜尋</string>
+    <string name="button_share_by_email">透過電子郵件分享</string>
+    <string name="button_share_by_sms">透過簡訊分享</string>
+    <string name="button_web_search">網頁搜尋</string>
+    <string name="msg_default_mms_subject">你好</string>
+    <string name="msg_error">錯誤</string>
+    <string name="msg_intent_failed">抱歉，無法打開所需軟體，條碼內容可能不符規格。</string>
+    <string name="msg_invalid_value">輸入值無效</string>
+    <string name="preferences_actions_title">找到條碼時…</string>
+    <string name="preferences_auto_focus_title">使用自動對焦</string>
+    <string name="preferences_auto_open_web_title">自動打開網頁</string>
+    <string name="preferences_bulk_mode_summary">連續掃描並儲存多個條碼</string>
+    <string name="preferences_bulk_mode_title">大量掃描模式</string>
+    <string name="preferences_copy_to_clipboard_title">複製到剪貼簿</string>
+    <string name="preferences_custom_product_search_summary">替換：％s=內容，％f=格式，％t=類型</string>
+    <string name="preferences_custom_product_search_title">自訂搜尋網址</string>
+    <string name="preferences_decode_1D_industrial_title">一維工業條碼</string>
+    <string name="preferences_decode_1D_product_title">一維產品條碼</string>
+    <string name="preferences_decode_Aztec_title">Aztec 條碼</string>
+    <string name="preferences_decode_Data_Matrix_title">Data Matrix 條碼</string>
+    <string name="preferences_decode_PDF417_title">PDF417 條碼（β）</string>
+    <string name="preferences_decode_QR_title">QR Code</string>
+    <string name="preferences_device_bug_workarounds_title">迴避設備問題</string>
+    <string name="preferences_disable_barcode_scene_mode_title">取消條碼場景模式</string>
+    <string name="preferences_disable_continuous_focus_summary">只使用標準對焦模式</string>
+    <string name="preferences_disable_continuous_focus_title">取消連續對焦</string>
+    <string name="preferences_disable_exposure_title">取消曝光</string>
+    <string name="preferences_disable_metering_title">取消測光</string>
+    <string name="preferences_front_light_auto">自動</string>
+    <string name="preferences_front_light_off">關</string>
+    <string name="preferences_front_light_on">開</string>
+    <string name="preferences_front_light_summary">改善在低光源的環境下掃描的成功率，但有可能造成過度曝光的現象</string>
+    <string name="preferences_front_light_title">使用前光源</string>
+    <string name="preferences_general_title">一般設定</string>
+    <string name="preferences_history_summary">存儲在歷史的掃描</string>
+    <string name="preferences_history_title">加入歷史</string>
+    <string name="preferences_invert_scan_summary">掃描黑底白字的條碼（某些設備上無法使用）</string>
+    <string name="preferences_invert_scan_title">黑底白字掃描</string>
+    <string name="preferences_orientation_title">沒有自動旋轉</string>
+    <string name="preferences_play_beep_title">嗶一聲</string>
+    <string name="preferences_remember_duplicates_summary">在記錄中重複儲存相同的條碼</string>
+    <string name="preferences_remember_duplicates_title">記錄重複的條碼</string>
+    <string name="preferences_result_title">結果設定</string>
+    <string name="preferences_scanning_title">當掃描條碼時，解碼…</string>
+    <string name="preferences_search_country">搜尋國家</string>
+    <string name="preferences_supplemental_summary">嘗試透過條碼搜尋更多的資訊</string>
+    <string name="preferences_supplemental_title">搜尋更多資訊</string>
+    <string name="preferences_vibrate_title">震動</string>
+    <string name="result_text">找到文字</string>
+</resources>

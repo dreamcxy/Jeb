@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="common_android_wear_notification_needs_update_text">An application requires an update to the Android Wear app.</string>
+    <string name="common_android_wear_update_text">"This app won't run unless you update the Android Wear app."</string>
+    <string name="common_android_wear_update_title">Update Android Wear</string>
+    <string name="common_google_play_services_enable_button">Enable Google Play services</string>
+    <string name="common_google_play_services_enable_text">"This app won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Requested by %1$s</string>
+    <string name="common_google_play_services_install_button">Get Google Play services</string>
+    <string name="common_google_play_services_install_text_phone">"This app won't run without Google Play services, which are missing from your phone."</string>
+    <string name="common_google_play_services_install_text_tablet">"This app won't run without Google Play services, which are missing from your tablet."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
+    <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
+    <string name="common_google_play_services_needs_enabling_title">An application requires Google Play services to be enabled.</string>
+    <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
+    <string name="common_google_play_services_network_error_title">Network Error</string>
+    <string name="common_google_play_services_notification_needs_installation_title">An application requires installation of Google Play services.</string>
+    <string name="common_google_play_services_notification_needs_update_title">An application requires an update for Google Play services.</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_sign_in_failed_text">Error signing in the specified account. Please choose a different account.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Sign in failed</string>
+    <string name="common_google_play_services_unknown_issue">Unknown issue with Google Play services.</string>
+    <string name="common_google_play_services_unsupported_text">Google Play services, which some of your applications rely on, is not supported by your device. Please contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"This app won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="commono_google_play_services_api_unavailable_text">This app requires one or more Google Play services that are not currently available. Please contact the developer for assistance.</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="IDS_IDLE_MBODY_UNABLE_TO_USE_PS">Unable to use %s</string>
+    <string name="IDS_IDLE_POP_UNABLE_TO_OPEN_PS_TAP_SETTINGS_GO_TO_APPLICATION_INFO_PERMISSIONS_THEN_ALLOW_MSG">Unable to open %s. Tap SETTINGS, go to Application info > Permissions, then allow the following permissions and try again:</string>
+    <string name="IDS_IDLE_SBODY_TO_USE_PS_TAP_SETTINGS_GO_TO_APPLICATION_INFO_PERMISSIONS_THEN_ALLOW_THE_FOLLOWING_PERMISSIONS_C">To use %s, tap SETTINGS, go to Application info > Permissions, then allow the following permissions:</string>
+    <string name="MIDS_GH_TPOP_UNABLE_TO_USE_P1SS_CHECK_NOTIFICATION_PANEL_TO_ALLOW_THESE_PERMISSIONS_C_P2SS">Unable to use %1$s. Check notification panel to allow these permissions: %2$s.</string>
+    <string name="MIDS_GH_TPOP_UNABLE_TO_USE_P1SS_CHECK_NOTIFICATION_PANEL_TO_ALLOW_THIS_PERMISSION_C_P2SS">Unable to use %1$s. Check notification panel to allow this permission: %2$s.</string>
+    <string name="MIDS_GC_BODY_AFTER_YOU_DOWNLOAD_AND_INSTALL_GAMES_THEY_WILL_BE_SHOWN_HERE">After you download and install games, they will be shown here.</string>
+    <string name="MIDS_GC_BODY_AFTER_YOU_DOWNLOAD_GAMES_THEY_WILL_BE_SHOWN_HERE">After you download games, they will be shown here.</string>
+    <string name="MIDS_GC_BODY_AFTER_YOU_RECORD_VIDEOS_THEY_WILL_BE_SHOWN_HERE">After you record videos, they will be shown here.</string>
+    <string name="MIDS_GC_BODY_ALL">All</string>
+    <string name="MIDS_GC_BODY_ALL_OF_YOUR_INSTALLED_GAMES_WILL_BE_SHOWN_HERE_SELECT_THE_GAME_YOU_WANT_TO_RECORD">All of your installed games will be shown here. Select the game you want to record.</string>
+    <string name="MIDS_GC_BODY_CANNOT_FIND_YOUR_INSTALLED_GAME_Q">Cannot find your installed game?</string>
+    <string name="MIDS_GC_BODY_CHECKING_FOR_UPDATES_ING">Checking for updates...</string>
+    <string name="MIDS_GC_BODY_CREATE_YOUR_OWN_GAMEPLAY_VIDEOS_AND_SHARE_THEM_WITH_YOUR_FRIENDS_ABB">Create your own gameplay videos and share them with your friends.</string>
+    <string name="MIDS_GC_BODY_CURRENT_VERSION_C">Current version:</string>
+    <string name="MIDS_GC_BODY_FAVOURITES">Favourites</string>
+    <string name="MIDS_GC_BODY_INSTALLED_GAMES">Installed games</string>
+    <string name="MIDS_GC_BODY_I_HAVE_READ_AND_AGREE_TO_THE_TERMS_AND_CONDITIONS_ABOVE">I have read and agree to the Terms and Conditions above.</string>
+    <string name="MIDS_GC_BODY_LARGE">Large</string>
+    <string name="MIDS_GC_BODY_LATEST_VERSION_C">Latest version:</string>
+    <string name="MIDS_GC_BODY_OPEN_SOURCE_LICENSE">Open source license</string>
+    <string name="MIDS_GC_BODY_PROTECT_YOUR_PERSONAL_INFO_AND_PASSWORD_WHEN_YOU_ARE_RECORDING_A_VIDEO">Protect your personal info and password when you are recording a video.</string>
+    <string name="MIDS_GC_BODY_PROTECT_YOUR_PERSONAL_INFO_AND_PASSWORD_WHEN_YOU_UPLOAD_VIDEOS">Protect your personal info and password when you upload videos.</string>
+    <string name="MIDS_GC_BODY_RECORD_YOUR_GAMES_BY_TAPPING_THE_RECORD_BUTTON_AND_THEN_WATCH_YOUR_VIDEOS_IN_EACH_GAME_FOLDER">Record your games by tapping the record button and then watch your videos in each game folder.</string>
+    <string name="MIDS_GC_BODY_SAVED_ABB">Saved</string>
+    <string name="MIDS_GC_BODY_SAVING_ING">Saving...</string>
+    <string name="MIDS_GC_BODY_SAVING_ING_ABB">Saving...</string>
+    <string name="MIDS_GC_BODY_SELECT_THE_GAME_YOU_WANT_TO_REGISTER_IN_MY_GAMES_YOU_CAN_START_RECORDING_AFTER_REGISTRATION_IS_COMPLETE">Select the game you want to register in My games. You can start recording after registration is complete.</string>
+    <string name="MIDS_GC_BODY_SMALL">Small</string>
+    <string name="MIDS_GC_BODY_TAP_AND_HOLD_THE_RECORD_BUTTON_TO_MOVE_IT_HERE">Tap and hold the record button to move it here.</string>
+    <string name="MIDS_GC_BODY_TERMS_AND_CONDITIONS">Terms and Conditions</string>
+    <string name="MIDS_GC_BODY_THIS_DEVICE_IS_NOT_SUPPORTED_SERVICE_FOR_THIS_DEVICE_WILL_BE_AVAILABLE_SOON">This device is not supported. Service for this device will be available soon.</string>
+    <string name="MIDS_GC_BODY_THIS_IS_THE_LATEST_VERSION">This is the latest version.</string>
+    <string name="MIDS_GC_BODY_TIP">Tip</string>
+    <string name="MIDS_GC_BODY_VIEW_A_LIST_OF_SUPPORTED_DEVICES">View a list of supported devices.</string>
+    <string name="MIDS_GC_BODY_YOUR_RECORDING_HAS_BEEN_SAVED_CHECK_IT_OUT_IN_GAMECAST">Your recording has been saved. Check it out in GameCast.</string>
+    <string name="MIDS_GC_BODY_YOUR_RECORDING_HAS_BEEN_SAVED_CHECK_IT_OUT_IN_GAME_RECORDERPLUS">Your recording has been saved. Check it out in Game Recorder+.</string>
+    <string name="MIDS_GC_BODY_YOU_CAN_RECORD_THESE_GAMES_WHEN_THEY_ARE_REGISTERED">You can record these games when they are registered.</string>
+    <string name="MIDS_GC_BODY_YOU_CAN_START_RECORDING_WHEN_YOU_DOWNLOAD_AND_PLAY_A_GAME">You can start recording when you download and play a game.</string>
+    <string name="MIDS_GC_BUTTON2_ABB__LOCK_RECORDING">Lock recording</string>
+    <string name="MIDS_GC_BUTTON2_ABB__RECORDING_SETTINGS_ABB2">Recording settings</string>
+    <string name="MIDS_GC_BUTTON2_ABB__UNLOCK_RECORDING">Unlock recording</string>
+    <string name="MIDS_GC_BUTTON_ALWAYS_ABB">Always</string>
+    <string name="MIDS_GC_BUTTON_CANCEL_ABB4">Cancel</string>
+    <string name="MIDS_GC_BUTTON_CLOSE_ABB">Close</string>
+    <string name="MIDS_GC_BUTTON_DELETE_ABB">Delete</string>
+    <string name="MIDS_GC_BUTTON_DELETE_ABB3">Delete</string>
+    <string name="MIDS_GC_BUTTON_DISCARD_ABB">Discard</string>
+    <string name="MIDS_GC_BUTTON_DOWNLOAD_GAMES_ABB">Download games</string>
+    <string name="MIDS_GC_BUTTON_GAME_AUDIO_ABB">Game audio</string>
+    <string name="MIDS_GC_BUTTON_GO_TO_GALAXY_APPS">Go to Galaxy Apps</string>
+    <string name="MIDS_GC_BUTTON_GO_TO_GOOGLE_PLAY_STORE">Go to Google Play Store</string>
+    <string name="MIDS_GC_BUTTON_GO_TO_RECORDED_VIDEOS_ABB">Go to recorded videos</string>
+    <string name="MIDS_GC_BUTTON_JUST_ONCE_ABB">Just once</string>
+    <string name="MIDS_GC_BUTTON_MORE_ABB">More</string>
+    <string name="MIDS_GC_BUTTON_NEXT">Next</string>
+    <string name="MIDS_GC_BUTTON_OFF_ABB">Off</string>
+    <string name="MIDS_GC_BUTTON_OK">OK</string>
+    <string name="MIDS_GC_BUTTON_ON_ABB">On</string>
+    <string name="MIDS_GC_BUTTON_REGISTER_ABB">Register</string>
+    <string name="MIDS_GC_BUTTON_SAVE">Save</string>
+    <string name="MIDS_GC_BUTTON_SAVE_ABB">Save</string>
+    <string name="MIDS_GC_BUTTON_SETTINGS">Settings</string>
+    <string name="MIDS_GC_BUTTON_SHARE">Share</string>
+    <string name="MIDS_GC_BUTTON_START_ABB">Start</string>
+    <string name="MIDS_GC_BUTTON_UPDATE_ABB">Update</string>
+    <string name="MIDS_GC_BUTTON_UPLOAD">Upload</string>
+    <string name="MIDS_GC_HEADER_AUDIO_SETTINGS_ABB">Audio settings</string>
+    <string name="MIDS_GC_HEADER_BITRATE">Bitrate</string>
+    <string name="MIDS_GC_HEADER_CREATE_YOUTUBE_CHANNEL">Create YouTube channel</string>
+    <string name="MIDS_GC_HEADER_DELETE">Delete</string>
+    <string name="MIDS_GC_HEADER_DELETE_VIDEO_ABB">Delete video</string>
+    <string name="MIDS_GC_HEADER_DESCRIPTION_ABB">Description</string>
+    <string name="MIDS_GC_HEADER_DEVICE_NOT_SUPPORTED_ABB">Device not supported</string>
+    <string name="MIDS_GC_HEADER_DOWNLOAD_GAMES_ABB">Download games</string>
+    <string name="MIDS_GC_HEADER_GENERAL_SETTINGS_ABB">General settings</string>
+    <string name="MIDS_GC_HEADER_INSTALLED_APPS_ABB">Installed apps</string>
+    <string name="MIDS_GC_HEADER_MY_GAMES">My games</string>
+    <string name="MIDS_GC_HEADER_PROFILE_SOURCE_ABB">Profile source</string>
+    <string name="MIDS_GC_HEADER_RECORDING_SETTINGS">Recording settings</string>
+    <string name="MIDS_GC_HEADER_RECORDING_SETTINGS_ABB">Recording settings</string>
+    <string name="MIDS_GC_HEADER_REGISTER">Register</string>
+    <string name="MIDS_GC_HEADER_REGISTRATION_FAILED_ABB">Registration failed</string>
+    <string name="MIDS_GC_HEADER_RESOLUTION">Resolution</string>
+    <string name="MIDS_GC_HEADER_SAVE_AS">Save as</string>
+    <string name="MIDS_GC_HEADER_SAVE_TO_GALLERY_ABB">Save to Gallery</string>
+    <string name="MIDS_GC_HEADER_SAVE_VIDEO">Save video</string>
+    <string name="MIDS_GC_HEADER_SELECT_ACCOUNT_ABB">Select account</string>
+    <string name="MIDS_GC_HEADER_SETTINGS">Settings</string>
+    <string name="MIDS_GC_HEADER_SET_PROFILE_IMAGE_ABB">Set profile image</string>
+    <string name="MIDS_GC_HEADER_SHARE_SETTINGS_ABB">Share settings</string>
+    <string name="MIDS_GC_HEADER_SIGN_OUT">Sign out</string>
+    <string name="MIDS_GC_HEADER_TITLE_HREQUIRED_ABB">Title (required)</string>
+    <string name="MIDS_GC_HEADER_UPDATE_GAMECAST_ABB">Update GameCast</string>
+    <string name="MIDS_GC_HEADER_UPDATE_GAME_RECORDERPLUS_ABB">Update Game Recorder+</string>
+    <string name="MIDS_GC_HEADER_UPLOAD_TO_YOUTUBE_ABB">Upload to YouTube</string>
+    <string name="MIDS_GC_HEADER_UPLOAD_VIA_MOBILE_NETWORKS_ABB">Upload via mobile networks</string>
+    <string name="MIDS_GC_HEADER_VIDEO_SETTINGS">Video settings</string>
+    <string name="MIDS_GC_MBODY_AUDIO_SETTINGS">Audio settings</string>
+    <string name="MIDS_GC_MBODY_BITRATE">Bitrate</string>
+    <string name="MIDS_GC_MBODY_COLOUR_COMPATIBILITY">Colour compatibility</string>
+    <string name="MIDS_GC_MBODY_GAME_BOOST">Game boost</string>
+    <string name="MIDS_GC_MBODY_QUICK_RECORD">Quick record</string>
+    <string name="MIDS_GC_MBODY_RECORDING_RESOLUTION">Recording resolution</string>
+    <string name="MIDS_GC_MBODY_RECORD_TOUCH_INTERACTION">Record touch interaction</string>
+    <string name="MIDS_GC_MBODY_RESOLUTION">Resolution</string>
+    <string name="MIDS_GC_MBODY_USE_MOBILE_DATA">Use Mobile data</string>
+    <string name="MIDS_GC_MBODY_YOUTUBE_ACCOUNT">YouTube account</string>
+    <string name="MIDS_GC_NPBODY_CAPTURE_YOUR_GREATEST_GAMING_MOMENTS_E_ABB">Capture your greatest gaming moments!</string>
+    <string name="MIDS_GC_NPBODY_ENTER_DESCRIPTION">Enter description</string>
+    <string name="MIDS_GC_NPBODY_ENTER_TITLE">Enter title</string>
+    <string name="MIDS_GC_NPBODY_TAP_HERE_TO_START_RECORDING_YOUR_GAME_ABB">Tap here to start recording your game</string>
+    <string name="MIDS_GC_NPBODY_TAP_THE_RECORD_BUTTON_TO_START_AND_FINISH_YOUR_RECORDING_OR_TAP_AND_HOLD_THE_BUTTON_TO_MOVE_IT">Tap the record button to start and finish your recording or tap and hold the button to move it</string>
+    <string name="MIDS_GC_OPT_ADD_ACCOUNT">Add account</string>
+    <string name="MIDS_GC_OPT_AUTO">Auto</string>
+    <string name="MIDS_GC_OPT_DETAILS">Details</string>
+    <string name="MIDS_GC_OPT_EDIT">Edit</string>
+    <string name="MIDS_GC_OPT_FRONT_CAMERA">Front camera</string>
+    <string name="MIDS_GC_OPT_GAME_AUDIO_ABB">Game audio</string>
+    <string name="MIDS_GC_OPT_IMAGE">Image</string>
+    <string name="MIDS_GC_OPT_MICROPHONE">Microphone</string>
+    <string name="MIDS_GC_OPT_MUTE">Mute</string>
+    <string name="MIDS_GC_OPT_REMOVE">Remove</string>
+    <string name="MIDS_GC_OPT_RENAME">Rename</string>
+    <string name="MIDS_GC_OPT_SAVE_TO_GALLERY">Save to Gallery</string>
+    <string name="MIDS_GC_OPT_SELECT_FROM_GALLERY_ABB">Select from Gallery</string>
+    <string name="MIDS_GC_OPT_SELECT_VIDEOS">Select videos</string>
+    <string name="MIDS_GC_OPT_SETTINGS">Settings</string>
+    <string name="MIDS_GC_OPT_TAKE_PICTURE2">Take picture</string>
+    <string name="MIDS_GC_OPT_TRIM">Trim</string>
+    <string name="MIDS_GC_OPT_VIEW_BY_DATE">View by date</string>
+    <string name="MIDS_GC_OPT_VIEW_BY_GAME">View by game</string>
+    <string name="MIDS_GC_POP_A_NEW_VERSION_IS_AVAILABLE_GAMECAST_MUST_BE_UPDATED_TO_CONTINUE">A new version is available. GameCast must be updated to continue.</string>
+    <string name="MIDS_GC_POP_A_NEW_VERSION_IS_AVAILABLE_GAME_RECORDERPLUS_MUST_BE_UPDATED_TO_CONTINUE">A new version is available. Game Recorder+ must be updated to continue.</string>
+    <string name="MIDS_GC_POP_DATE_C">Date:</string>
+    <string name="MIDS_GC_POP_FILE_PATH_C">File path:</string>
+    <string name="MIDS_GC_POP_FILE_SIZE_C">File size:</string>
+    <string name="MIDS_GC_POP_LENGTH_C">Length:</string>
+    <string name="MIDS_GC_POP_PD_VIDEOS_HAVE_BEEN_SELECTED">%d videos have been selected.</string>
+    <string name="MIDS_GC_POP_PD_VIDEOS_WILL_BE_DELETED">%d videos will be deleted.</string>
+    <string name="MIDS_GC_POP_REGISTERING_ING">Registering...</string>
+    <string name="MIDS_GC_POP_RESOLUTION_C">Resolution:</string>
+    <string name="MIDS_GC_POP_THE_SELECTED_GAME_APP_CANNOT_BE_REGISTERED_DUE_TO_A_POLICY_VIOLATION">The selected game app cannot be registered due to a policy violation.</string>
+    <string name="MIDS_GC_POP_THE_SELECTED_VIDEO_WILL_BE_DELETED">The selected video will be deleted.</string>
+    <string name="MIDS_GC_POP_THIS_SERVICE_IS_ONLY_SUPPORTED_ON_SAMSUNG_DEVICES">This service is only supported on Samsung devices.</string>
+    <string name="MIDS_GC_POP_THIS_VIDEO_HAS_NOT_BEEN_SAVED_SAVE_YOUR_CHANGES_OR_DISCARD_THEM_Q">This video has not been saved. Save your changes or discard them?</string>
+    <string name="MIDS_GC_POP_THIS_VIDEO_WILL_BE_DELETED">This video will be deleted.</string>
+    <string name="MIDS_GC_POP_TITLE_C">Title:</string>
+    <string name="MIDS_GC_POP_UNABLE_TO_REGISTER_THE_SELECTED_APP_AN_UNKNOWN_ERROR_HAS_OCCURRED">Unable to register the selected app. An unknown error has occurred.</string>
+    <string name="MIDS_GC_POP_USING_MOBILE_NETWORKS_MAY_INCUR_ADDITIONAL_CHARGES_DEPENDING_ON_YOUR_PAYMENT_PLAN_MSG">Using mobile networks may incur additional charges depending on your payment plan. Tap OK to continue.</string>
+    <string name="MIDS_GC_POP_YOU_CANNOT_REGISTER_GAME_APPS_DOWNLOADED_FROM_UNKNOWN_SOURCES">You cannot register game apps downloaded from unknown sources.</string>
+    <string name="MIDS_GC_POP_YOU_CAN_ONLY_REGISTER_GAME_APPS_DOWNLOADED_FROM_THE_GAMES_CATEGORY">You can only register game apps downloaded from the Games category.</string>
+    <string name="MIDS_GC_POP_YOU_CAN_TURN_ON_MOBILE_DATA_IN_SETTINGS">You can turn on Mobile data in Settings.</string>
+    <string name="MIDS_GC_POP_YOU_DO_NOT_HAVE_A_YOUTUBE_CHANNEL_YOU_CAN_UPLOAD_YOUR_VIDEO_AFTER_CREATING_A_CHANNEL_ON_YOUTUBE">You do not have a YouTube channel. You can upload your video after creating a channel on YouTube.</string>
+    <string name="MIDS_GC_POP_YOU_WILL_NOT_BE_ABLE_TO_UPLOAD_VIDEOS_TO_YOUTUBE_AFTER_YOU_SIGN_OUT_TAP_OK_TO_SIGN_OUT">You will not be able to upload videos to YouTube after you sign out. Tap OK to sign out.</string>
+    <string name="MIDS_GC_SBODY_ADJUST_THE_RATE_DEPENDING_ON_THE_RESOLUTION">Adjust the rate depending on the resolution.</string>
+    <string name="MIDS_GC_SBODY_CHECK_IT_OUT_IN_GAMECAST">Check it out in GameCast.</string>
+    <string name="MIDS_GC_SBODY_CHECK_IT_OUT_IN_GAME_RECORDERPLUS">Check it out in Game Recorder+.</string>
+    <string name="MIDS_GC_SBODY_CHECK_THEM_OUT_IN_GAMECAST">Check them out in GameCast.</string>
+    <string name="MIDS_GC_SBODY_CHECK_THEM_OUT_IN_GAME_RECORDERPLUS">Check them out in Game Recorder+.</string>
+    <string name="MIDS_GC_SBODY_ENABLE_COLOUR_COMPATIBILITY_ONLY_WHEN_A_BLUE_SCREEN_IS_RECORDED">Enable Colour compatibility only when a blue screen is recorded.</string>
+    <string name="MIDS_GC_SBODY_ESTIMATED_RATE_C_PS_MB_MIN">Estimated rate: %s MB/min</string>
+    <string name="MIDS_GC_SBODY_FAILED_TO_UPLOAD_YOUR_VIDEO">Failed to upload your video.</string>
+    <string name="MIDS_GC_SBODY_FRONT_CAMERA">Front camera</string>
+    <string name="MIDS_GC_SBODY_MICROPHONE">Microphone</string>
+    <string name="MIDS_GC_SBODY_MUTE_ALL_AUDIO_WHILE_RECORDING">Mute all audio while recording.</string>
+    <string name="MIDS_GC_SBODY_OPTIMISE_COLOUR_COMPATIBILITY_TO_PREVENT_A_BLUE_SCREEN_FROM_BEING_RECORDED">Optimise Colour compatibility to prevent a blue screen from being recorded.</string>
+    <string name="MIDS_GC_SBODY_OPTIMISE_MEMORY_AUTOMATICALLY_WHEN_STARTING_A_GAME">Optimise memory automatically when starting a game.</string>
+    <string name="MIDS_GC_SBODY_OPTIMISE_MEMORY_ONLY_WHEN_STARTING_A_GAME_VIA_GAMECAST">Optimise memory only when starting a game via GameCast.</string>
+    <string name="MIDS_GC_SBODY_OPTIMISE_MEMORY_ONLY_WHEN_STARTING_A_GAME_VIA_GAME_RECORDERPLUS">Optimise memory only when starting a game via Game Recorder+.</string>
+    <string name="MIDS_GC_SBODY_RECORDS_A_GAME_WITHOUT_RECORDING_TOUCH_INTERACTION">Records a game without recording touch interaction.</string>
+    <string name="MIDS_GC_SBODY_RECORDS_TOUCH_INTERACTION_WHEN_RECORDING_A_GAME">Records touch interaction when recording a game.</string>
+    <string name="MIDS_GC_SBODY_RECORD_AUDIO_FROM_THE_GAME">Record audio from the game.</string>
+    <string name="MIDS_GC_SBODY_RECORD_EXTERNAL_AUDIO_USING_THE_MICROPHONE">Record external audio using the microphone.</string>
+    <string name="MIDS_GC_SBODY_SHOW_A_PROFILE_IMAGE_WHILE_RECORDING">Show a profile image while recording.</string>
+    <string name="MIDS_GC_SBODY_SHOW_THE_RECORD_BUTTON_AUTOMATICALLY_WHILE_PLAYING_A_GAME">Show the record button automatically while playing a game.</string>
+    <string name="MIDS_GC_SBODY_SHOW_THE_RECORD_BUTTON_ONLY_WHILE_PLAYING_A_GAME_VIA_GAMECAST">Show the record button only while playing a game via GameCast.</string>
+    <string name="MIDS_GC_SBODY_SHOW_THE_RECORD_BUTTON_ONLY_WHILE_PLAYING_A_GAME_VIA_GAME_RECORDERPLUS">Show the record button only while playing a game via Game Recorder+.</string>
+    <string name="MIDS_GC_SBODY_SIGN_IN">Sign in</string>
+    <string name="MIDS_GC_SBODY_SIGN_IN_TO_UPLOAD_VIDEOS_TO_YOUTUBE">Sign in to upload videos to YouTube.</string>
+    <string name="MIDS_GC_SBODY_SIGN_OUT">Sign out</string>
+    <string name="MIDS_GC_SBODY_USE_THE_FRONT_CAMERA_TO_RECORD_YOUR_PROFILE">Use the front camera to record your profile.</string>
+    <string name="MIDS_GC_SBODY_USE_WI_FI_AND_MOBILE_NETWORKS_TO_UPLOAD_VIDEOS_TO_YOUTUBE">Use Wi-Fi and mobile networks to upload videos to YouTube.</string>
+    <string name="MIDS_GC_SBODY_USE_WI_FI_TO_UPLOAD_VIDEOS_TO_YOUTUBE">Use Wi-Fi to upload videos to YouTube.</string>
+    <string name="MIDS_GC_SBODY_YOUR_VIDEO_HAS_BEEN_UPLOADED">Your video has been uploaded.</string>
+    <string name="MIDS_GC_TMBODY_FAQ">FAQ</string>
+    <string name="MIDS_GC_TMBODY_PD_VIDEOS_SAVED">%d videos saved</string>
+    <string name="MIDS_GC_TMBODY_PROFILE_IMAGE_SIZE">Profile image size</string>
+    <string name="MIDS_GC_TMBODY_PROFILE_SOURCE">Profile source</string>
+    <string name="MIDS_GC_TMBODY_PROFILE_VIDEO_SIZE">Profile video size</string>
+    <string name="MIDS_GC_TMBODY_QNA">Q&amp;A</string>
+    <string name="MIDS_GC_TMBODY_UPLOADING_VIDEO_ING">Uploading video...</string>
+    <string name="MIDS_GC_TMBODY_VERSION_INFO">Version info</string>
+    <string name="MIDS_GC_TMBODY_VIDEO_SAVED">Video saved</string>
+    <string name="MIDS_GC_TPOP_ALLOW_SCREEN_CAPTURE_PERMISSION_TO_BEGIN_RECORDING">Allow screen capture permission to begin recording.</string>
+    <string name="MIDS_GC_TPOP_CHECK_NETWORK_CONNECTION_AND_TRY_AGAIN">Check network connection and try again.</string>
+    <string name="MIDS_GC_TPOP_FILE_NAME_ALREADY_IN_USE">File name already in use.</string>
+    <string name="MIDS_GC_TPOP_GAME_REGISTERED_YOU_CAN_RECORD_NOW">Game registered. You can record now.</string>
+    <string name="MIDS_GC_TPOP_MAXIMUM_NUMBER_OF_CHARACTERS_HPD_EXCEEDED">Maximum number of characters (%d) exceeded.</string>
+    <string name="MIDS_GC_TPOP_NOT_ENOUGH_DEVICE_MEMORY_TO_RECORD">Not enough device memory to record.</string>
+    <string name="MIDS_GC_TPOP_NOT_ENOUGH_DEVICE_MEMORY_TO_SAVE_VIDEO">Not enough device memory to save video.</string>
+    <string name="MIDS_GC_TPOP_NO_GAME_AUDIO_RECORDED_VOLUME_MUTED">No game audio recorded. Volume muted.</string>
+    <string name="MIDS_GC_TPOP_P1SD_P2SS_MEMORY_CLEARED">%1$d %2$s memory cleared.</string>
+    <string name="MIDS_GC_TPOP_RECORDING_STOPPED_DEVICE_ERROR_OCCURRED_RECORDED_VIDEO_NOT_SAVED">Recording stopped. Device error occurred. Recorded video not saved.</string>
+    <string name="MIDS_GC_TPOP_RECORDING_STOPPED_DUE_TO_LOW_BATTERY_RECORDING_SAVED_AUTOMATICALLY">Recording stopped due to low battery. Recording saved automatically.</string>
+    <string name="MIDS_GC_TPOP_RECORDING_STOPPED_DUE_TO_NOT_ENOUGH_DEVICE_MEMORY_RECORDING_SAVED_AUTOMATICALLY">Recording stopped due to not enough device memory. Recording saved automatically.</string>
+    <string name="MIDS_GC_TPOP_RECORDING_STOPPED_MAXIMUM_RECORDING_TIME_HPD_MINUTES_REACHED_RECORDED_VIDEO_SAVED_AUTOMATICALLY">Recording stopped. Maximum recording time (%d minutes) reached. Recorded video saved automatically.</string>
+    <string name="MIDS_GC_TPOP_RECORDING_STOPPED_WITHIN_1_SECOND_RECORDED_VIDEO_NOT_SAVED">Recording stopped within 1 second. Recorded video not saved.</string>
+    <string name="MIDS_GC_TPOP_UNABLE_TO_PLAY_VIDEO_DURING_CALLS">Unable to play video during calls.</string>
+    <string name="MIDS_GC_TPOP_UNABLE_TO_RECORD_CAMERA_IN_USE">Unable to record. Camera in use.</string>
+    <string name="MIDS_GC_TPOP_UNABLE_TO_RECORD_GAME_AUDIO_IF_VOLUME_MUTED">Unable to record game audio if volume muted.</string>
+    <string name="MIDS_GC_TPOP_UNABLE_TO_RECORD_LOW_BATTERY">Unable to record. Low battery.</string>
+    <string name="MIDS_GC_TPOP_UNABLE_TO_RECORD_MICROPHONE_IN_USE">Unable to record. Microphone in use.</string>
+    <string name="MIDS_GC_TPOP_UNABLE_TO_RECORD_VOICE_IF_GAME_VOLUME_TOO_HIGH">Unable to record voice if game volume too high.</string>
+    <string name="MIDS_GC_TPOP_UNABLE_TO_USE_DURING_CALLS">Unable to use during calls.</string>
+    <string name="MIDS_GC_TPOP_UPLOADING_ING">Uploading...</string>
+    <string name="MIDS_GC_TPOP_VIDEO_SAVED">Video saved.</string>
+    <string name="EOS_FILE_LINK_AFTER">file:///android_asset/html/01_After_English.htm</string>
+    <string name="EOS_FILE_LINK_BEFORE">file:///android_asset/html/01_Before_English.htm</string>
+    <string name="accept">Accept</string>
+    <string name="accessibility_pause_video">Pause video</string>
+    <string name="accessibility_play_video">Play video</string>
+    <string name="accessibility_reload_video">Reload video</string>
+    <string name="accessibility_time_bar">Video player time bar</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">"Game
+Recorder+"</string>
+    <string name="badge_new">badge_new</string>
+    <string name="count">count</string>
+    <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
+    <string name="create_calendar_title">Create calendar event</string>
+    <string name="decline">Decline</string>
+    <string name="dialog_btn_confirm">dialog_btn_confirm</string>
+    <string name="dialog_msg_network_error">네트워크를 연결할 수 없습니다.</string>
+    <string name="dialog_msg_server_error">서버에 연결할 수 없습니다.</string>
+    <string name="dialog_msg_server_error_01">서버 점검 중 입니다.</string>
+    <string name="dialog_title_network_error">네트워크 오류</string>
+    <string name="dialog_title_server_error">서버 접속 오류</string>
+    <string name="done">done</string>
+    <string name="gamelist_new">NEW</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="home_recording_guide_content">home_recording_guide_content</string>
+    <string name="home_recording_guide_title">home_recording_guide_title</string>
+    <string name="home_recording_guide_toggle_button_title">home_recording_guide_toggle_button_title</string>
+    <string name="intro_message" />
+    <string name="jdeferred">jdeferred</string>
+    <string name="msg_retry_app">msg_retry_app</string>
+    <string name="mss_game_recorder_plus">Game Recorder+</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="no">no</string>
+    <string name="oobe_galaxy_apps_uri">samsungapps://ProductDetail/com.sec.game.gamecast.global</string>
+    <string name="oobe_google_play_uri">market://details?id=com.sec.game.gamecast.global</string>
+    <string name="popup_audiosource_gamesound_content">Recording game audio from speaker without microphone.</string>
+    <string name="popup_bitrate_content1Mbps">1 Mbps</string>
+    <string name="popup_bitrate_content1_5Mbps">1.5 Mbps</string>
+    <string name="popup_bitrate_content2Mbps">2 Mbps</string>
+    <string name="popup_bitrate_content3Mbps">3 Mbps</string>
+    <string name="popup_bitrate_content4Mbps">4 Mbps</string>
+    <string name="popup_bitrate_content5Mbps">5 Mbps</string>
+    <string name="popup_bitrate_content6Mbps">6 Mbps</string>
+    <string name="popup_recording_resolution_content1080">1080p (1920 X 1080)</string>
+    <string name="popup_recording_resolution_content360">360p (640 X 360)</string>
+    <string name="popup_recording_resolution_content480">480p (854 X 480)</string>
+    <string name="popup_recording_resolution_content540">540p (960 X 540)</string>
+    <string name="popup_recording_resolution_content720">720p (1280 X 720)</string>
+    <string name="popup_registergame_content_unknown_error">Unknown Error (%d)</string>
+    <string name="record_ing">record_ing</string>
+    <string name="record_time">00:00</string>
+    <string name="record_title">REC</string>
+    <string name="recorded_video">recorded_video</string>
+    <string name="registergameactivity_unknown_error">Unknown Error</string>
+    <string name="registergamelist_sample_sentence">THIS IS A SAMPLE SENTENCE</string>
+    <string name="setting_3g_lte_rightfix">(3G/LTE)</string>
+    <string name="setting_recording_bitrate_1Mbps">1 Mbps</string>
+    <string name="setting_recording_bitrate_1_5Mbps">1.5 Mbps</string>
+    <string name="setting_recording_bitrate_2Mbps">2 Mbps</string>
+    <string name="setting_recording_bitrate_3Mbps">3 Mbps</string>
+    <string name="setting_recording_bitrate_4Mbps">4 Mbps</string>
+    <string name="setting_recording_bitrate_5Mbps">5 Mbps</string>
+    <string name="setting_recording_bitrate_6Mbps">6 Mbps</string>
+    <string name="setting_recording_resolution_1080p">1080p</string>
+    <string name="setting_recording_resolution_360p">360p</string>
+    <string name="setting_recording_resolution_480p">480p</string>
+    <string name="setting_recording_resolution_540p">540p</string>
+    <string name="setting_recording_resolution_720p">720p</string>
+    <string name="setting_resolution_rightfix">(16:9)</string>
+    <string name="store_picture_message">Allow Ad to store image in Picture gallery?</string>
+    <string name="store_picture_title">Save image</string>
+    <string name="title_activity_intro">Intro</string>
+    <string name="title_activity_request_permission">RequestPermissionActivity</string>
+    <string name="title_activity_request_permission_base">RequestPermissionsBaseActivity</string>
+    <string name="title_activity_terms_and_condition">TermsAndConditionActivity</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="tnc_cn">"Game Recorder+ 服务条款
+
+使用 GAME RECORDER+ 服务之前，请仔细阅读以下服务条款。
+
+您必须同意这些条款才能获得使用 Game Recorder+ 应用程序的许可。 使用本应用程序即视为您接受相关条款。 接受本服务条款即视为您接受与 Samsung Electronics Co. Ltd.（以下简称“三星”）签署的法律合同中的条款。
+
+Game Recorder+ 是一款便于用户在智能手机上使用的游戏视频录制程序。 为了提供愉快的游戏体验和灵敏的录制体验，并确保最佳视频质量，Game Recorder+ 提供了内存优化功能，这将释放保留的系统资源及/或关闭用户未使用的后台应用程序。 但这不会删除智能手机存储空间内安装的任何应用程序或数据，用户还可以在 Game Recorder+ 的用户设置中选择启用/禁用此功能。
+
+如果您不同意本协议的条款，请勿使用本应用程序，并立即将其从您的设备删除。
+
+
+协议条款
+
+
+1. 确认
+
+1.1. 本协议的条款适用于 Game Recorder+ 应用程序（以下简称“应用程序”）或通过本应用程序可访问的任何服务（以下简称“服务”），包括本应用程序的任何更新或补充，但在其随附单独条款时，则以单独条款为准。
+
+1.2. 三星可能会随时更改这些条款，但会向您发送有关更改细节的通知，或在您更新本应用程序时通知您更改信息。 新条款可能会在屏幕上显示，您可能需要阅读并接受新条款才能继续使用本服务。
+
+1.3. 有关本应用程序的更新可能会经常通过应用程序商店发布。 出现更新时，您可能需要下载或流式安装最新版应用程序并接受任何新条款才能使用本服务。
+
+1.4. 本应用程序可能可信其他独立第三方网站（第三方站点）的链接。 第三方站点不受我们的控制，三星对其内容或其隐私政策（如有）不承担任何责任亦不表示认同。 如果您与任何第三方站点有任何交互，包括通过其购买和使用任何产品或服务，您需要自行负责判断。
+
+1.5. 如果您已满 13 岁但不足 18 岁，您应陈述您已与您的父母或法定监护人阅读了这些条款和条件，并且您和您的父母或监护人理解这些条款和条件。 如果您是父母或监护人，并允许未达到 18 岁之人士（统称“未成年人”）使用本应用程序，则您同意：(i) 对该未成年人使用本应用程序的情况进行监督；(ii) 对该未成年人因使用本应用程序（包括通过互联网向第三方传输内容或从第三方接收内容）所导致的所有相关风险负责；(iii) 承担因该未成年人使用本应用程序而引起的责任；(iv) 确保该未成年人提交的所有信息的准确性和真实性；以及 (v) 承担与未成年人访问和使用本应用程序有关的责任并遵守本协议。
+
+2. 许可的授予和应用程序的使用
+
+2.1 三星保留本应用程序和书面材料（“文档”）的版权、所有权和拥有权，无论原始和其他副本存在于何种形式或采用何种介质。
+
+2.2. 三星（作为许可人）向您（作为被许可人）授予非排他性权利，以供您在兼容设备上安装本应用程序，并根据本许可中包含的条款使用本应用程序。
+
+2.3. 除非本协议中明确声明或任何当地法律许可，您同意：
+ (a) 不复制本应用程序或文档，但如果在正常使用本应用程序时需要复制或出于备份或操作安全性之目的而有需要时除外；
+ (b) 不出租、租赁、再许可、出借、翻译、合并、改编、更改或修改本应用程序或文档；
+ (c) 不更改或修改本应用程序的全部或部分，也不允许本应用程序或其任何部分与任何其他程序整合或并入任何其他程序；
+ (d) 不会基于本应用程序的全部或任何部分反汇编、反编译、反向工程或创建衍生作品，亦不会尝试做任何此类事情，但在为了实现应用程序与其他软件程序的互操作性时必须进行此类行为除外，并且，您在此类活动中获取的信息将：
+  i. 仅用于实现本应用程序与其他软件程序的互操作性的目的；
+  ii. 未经三星事先书面同意，不会不必要地披露或传达给任何第三方；以及
+  iii. 不得用于创建与本应用程序非常类似的任何软件；
+ (e) 安全保存本应用程序的所有副本，并使本应用程序所有副本的数目和位置记录保持准确和最新；
+ (f) 在您制作的本应用程序的副本上（无论采用什么介质，无论是全部还是部分副本）都随附我们的版权声明；
+ (g) 未经三星事先书面同意，不会以任何形式向任何人士提供全部或部分本应用程序（包括对象和源代码）；
+ (h) 遵守与本应用程序或任何服务使用或支持的技术有关的所有技术管制或出口法律和条例；
+ (i) 不以任何非法方式、不出于任何非法目的或通过任何与本协议不一致的方式使用本应用程序，也不会对本应用程序、任何服务或任何操作系统实施欺诈性或恶意行为，如黑客入侵或插入恶意代码（包括病毒或有害数据）；
+ (j) 在使用本应用程序或任何服务时，不会侵犯其知识产权或任何第三方的知识产权（即使此类使用未经本协议许可时亦如此）；
+ (k) 在使用本应用程序或任何服务时，不得传输具有诽谤、攻击或以其他方式引起反感的任何材料；
+ (l) 在使用本应用程序或任何服务时所采取的方式不会损害、禁用、超载、破坏或影响我们的系统、安全或干扰其他用户；以及
+ (m) 不通过任何服务或我们的系统收集或获取任何信息或数据，亦不尝试对运行任何服务的服务器的进出传输信息进行解密。
+ （统称“许可限制”）。
+
+2.4. 使用本应用程序可能要求您的设备能够访问或连接移动网络或互联网（可能产生费用）以及某些软件，并且可能经常需要进行更新或升级。 由于本应用程序的使用与硬件、软件和互联网访问都有关，您能否使用本应用程序可能会受到这类系统需求的适用性和性能的影响。 您知晓并同意，这些系统要求可能会经常变化，您应自行负责满足这些要求。 您还知晓，本应用程序并非在所有国家/地区或所有设备上均可使用，并且本应用程序可能会受到您的网络或互联网供应商的限制。
+
+2.5. 您用于本应用程序的三星软件可能会经常自动下载和安装更新。 您同意此类下载和安装更新属您使用本应用程序的一部分。 尽管这类更新是为改进本应用程序服务而推出，但在某些情况下，部分功能可能会停止。 三星并无义务对本服务提供任何更新、升级、增强功能、修改、修订或增加功能。
+
+2.6. 您同意三星可以修改或停止（全部或部分）本应用程序或其功能，无论是否先通知您。 三星保留自行决定改动、修改、增加或删除部分本服务条款的权利，无论是否事先通知。 每当我们修订本服务条款时，我们都会修改服务条款最下面的“更新日期”。 在本服务条款改动之后，如果您以任何方式访问或使用本应用程序，您将被视为无条件赞成和同意该改动。
+
+
+3. 使用第三方许可的材料
+
+本应用程序显示的或通过其访问的任何内容的或其中的知识产权属各自内容所有人。 此类内容可能受版权或其他知识产权法和条约的保护，并且可能受提供此类内容的第三方的使用条款的制约。 您使用本应用程序录制的相关游戏的内容所有人可能禁止会此类录制行为，并且可能导致暂停相关游戏的录制功能。  除非本协议另有规定，(i) 本协议并未向您授予使用此类内容的任何权利，亦不会保证此类内容将持续向您提供，及 (ii) 您不应出于商业目的或以非法方式使用通过本应用程序可访问的任何视频、照片、图像、图形、艺术品、音频或类似资产（“数字材料”），亦不得以其他方式将此类数字材料用于本应用程序原定使用范围之外。
+
+4. 免责声明
+
+本应用程序及随附的文档（包括使用说明）“按原样”提供，不含任何类型的保证。 此外，就本应用程序或文档的使用或使用效果而言，三星不对准确性、精确性、可靠性、是否最新或其他方面提供任何保证、担保或做出任何陈述。 有关本应用程序的效果和性能的所有风险由您自行承担。 如果本应用程序或文档有瑕疵，您（而不是三星、三星经销商、分销商、代理或员工）应承担所需全部服务、维修或纠正有关的所有费用。
+
+三星概不承担任何明示或默示的保证，包括但不限于适销性、适合特定用途和非侵权的暗示保证。 三星不保证本应用程序不会受到干扰或无错。 三星、三星经销商、分销商、代理或员工的口头或书面信息或建议不构成保证或以任何方式扩大此保证的范围，并且您不得相信任何此类信息或建议。
+
+因使用或无法使用本应用程序或服务而造成的任何直接、间接、结果性或连带损害（包括对商业利润损失、业务中断、数据丢失、商业信息丢失或其他金钱损失的赔偿），即使三星已被告知此类损害的可能性，三星或其子公司、代理或员工概不承担任何责任。
+
+无论出于何种目的使用本应用程序，您同意自行承担所有责任。 对因您出于非法目的或违反本协议而使用本应用程序所导致的任何索赔、诉讼、赔偿金、费用和支出，您亦同意对三星进行赔偿并使三星免受损害。
+
+5. 终止
+
+本协议终止后，您应销毁本应用程序和文档及其所有副本，并从您的设备中移除和删除本应用程序。
+
+在以下情况下，三星可通过向您发出书面通知的方式立即终止本协议：
+ (a) 如果您严重或持续违反本协议，并在收到要求您采取补救措施的通知后的 14 天内仍未采取补救措施（如果可以补救的话）；
+ (b) 如果您违反任何许可限制或第 4 条中规定的可以接受的使用限制；及
+ (c) 如果根据第 2.6 条的规定终止了本应用程序。
+
+因任何原因终止后：
+ (a) 根据本协议授予您的所有权利将停止；
+ (b) 您必须立即停止本协议授权的所有活动，包括您对任何服务的使用；
+ (c) 您必须立即从所有设备中删除或移除本应用程序，并应立即销毁当时拥有、监管或控制的本应用程序和文档的所有副本，并向三星证明您已采取此类行动；
+
+6. 完整协议；可分割性
+
+本协议是您与三星之间就本应用程序所达成的完整协议，并取代以前或同期对本协议中涉及本应用程序或任何其他内容所做的所有书面或口头通信、提议和陈述。 本协议应遵守您的居住地所属司法管辖区的法律的约束，并应据其解释，无须考虑法律条款的冲突（不包括可指示应用其他司法管辖区法律的法律条款的冲突）。 双方之间因本协议引起或与其有关的任何冲突、争议或索赔（包括协议的存在、有效性或终止）应交由您所在司法管辖区的非排他性法院进行审理。 任何一方均可通过具有司法管辖区的任何法院强制执行其或其子公司的知识产权，包括但不限于衡平法救济。 本协议不适用《联合国国际货物销售合同公约》(“CISG”)，特此明确声明。 倘若发现本协议任何条款或部分无法执行，本协议的其他条款将继续具有完整效力。
+
+如果本协议的任何条款或规定被裁定为无效或不可执行，有关裁决将不影响本协议其余条款和规定的强制执行效力。 本协议的其余规定应继续有效，并应按照其条款进行解释。 本协议中所包含的标题仅供参考，不影响本协议的含义或解释。"</string>
+    <string name="tnc_de">"Game Recorder+ – Nutzungsbedingungen
+
+LESEN SIE DIE VORLIEGENDEN NUTZUNGSBEDINGUNGEN VOR DER VERWENDUNG DER GAME RECORDER+-DIENSTE SORGFÄLTIG DURCH.
+
+Sie dürfen die Game Recorder+-Anwendung nur nutzen, wenn Sie die vorliegenden Bedingungen akzeptieren. Durch Ihre Nutzung der Anwendung erklären Sie sich mit den Bedingungen einverstanden. Dieses Einverständnis begründet einen rechtsverbindlichen Vertrag zwischen Ihnen und Samsung Electronics Co. Ltd. (“SAMSUNG”).
+
+Game Recorder+ ist eine Aufzeichnungsanwendung für Spielevideos, die für eine einfache Handhabung auf Smartphones ausgelegt ist. Game Recorder+ bietet eine Speicheroptimierungsfunktion, die ein angenehmes Spielerlebnis, eine jederzeit gut reagierende Aufzeichnungsoption und bestmögliche Videoqualität sicherstellen soll. Dazu gibt die Optimierungsfunktion reservierte Systemressourcen frei und/oder schließt im Hintergrund ausgeführte Anwendungen, die vom Benutzer nicht verwendet werden. Dabei werden keine Anwendungen oder Daten aus dem Speicher des Smartphones gelöscht, und Anwender können diese Funktion in den Benutzereinstellungen von Game Recorder+ nach Belieben aktivieren/deaktivieren.
+
+WENN SIE DEN BESTIMMUNGEN DES VORLIEGENDEN VERTRAGS NICHT ZUSTIMMEN MÖCHTEN, DÜRFEN SIE DIE ANWENDUNG NICHT NUTZEN UND MÜSSEN SIE UMGEHEND VON IHREM GERÄT LÖSCHEN.
+
+
+VERTRAGSINHALT
+
+
+1. Bestätigung
+
+1.1. Die Bestimmungen des vorliegenden Vertrags beziehen sich auf die Anwendung Game Recorder+ (“Anwendung”), die Dienste, auf die über die Anwendung zugegriffen wird (“Dienste”), sowie Aktualisierungen oder Ergänzungen der Anwendung, zu denen keine separaten und somit vorrangigen Bedingungen vorliegen.
+
+1.2. Samsung ist berechtigt, die vorliegenden Nutzungsbedingungen jederzeit zu ändern, entweder per Zusendung einer Benachrichtigung an Sie oder per Mitteilung über Veränderungen, wenn Sie die Anwendung aktualisieren. Wenn neue Nutzungsbedingungen auf dem Bildschirm angezeigt werden, müssen Sie sie lesen und akzeptieren, um die Dienste weiterhin nutzen können.
+
+1.3. Gelegentlich können Aktualisierungen der Anwendung über die App Stores eingeführt werden. Abhängig von der Aktualisierung können Sie die Dienste nicht nutzen, bis Sie die aktuelle Version der Anwendung heruntergeladen oder per Streaming empfangen und die neuen Nutzungsbedingungen akzeptiert haben.
+
+1.4. Die Anwendung kann Links zu Websites von Drittanbietern enthalten (Drittanbieter-Websites). Samsung hat keinen Einfluss auf Drittanbieter-Websites, haftet nicht für deren Inhalte oder Datenschutzregelungen (soweit vorhanden) und gibt keine diesbezüglichen Empfehlungen. Ihre Interaktionen mit Drittanbieter-Websites, einschließlich des Erwerbs und der Nutzung von Produkten oder Diensten, die über diese Websites erhältlich sind, unterliegen allein Ihrem Ermessen.
+
+1.5. Wenn Sie 13 Jahre oder älter, aber unter 18 Jahren sind, erklären Sie, dass Sie die vorliegenden Geschäftsbedingungen gemeinsam mit einem Elternteil oder Erziehungsberechtigten gelesen haben und dass Sie und Ihr Elternteil oder Erziehungsberechtigter die vorliegenden Geschäftsbedingungen verstehen und akzeptieren. Wenn Sie als Elternteil oder Erziehungsberechtigter einer Person, die unter 18 Jahre alt ist (“Minderjähriger”), die Nutzung der Anwendung gestatten, erklären Sie sich damit einverstanden, (i) den Minderjährigen bei der Nutzung der Anwendung zu beaufsichtigen, (ii) alle Risiken im Zusammenhang mit der Nutzung der Anwendung durch den Minderjährigen zu übernehmen, darunter für die Übertragung von Inhalten an Dritte bzw. von Dritten über das Internet, (iii) die Haftung für die Nutzung der Anwendung durch den Minderjährigen zu übernehmen, (iv) die Fehlerfreiheit und Richtigkeit aller von dem Minderjährigen übermittelten Informationen zu gewährleisten und (v) die Verantwortung für den Zugriff auf und die Nutzung der Anwendung durch den Minderjährigen zu übernehmen und diese Nutzungsbedingungen einzuhalten.
+
+2. LIZENZGEWÄHRUNG und NUTZUNG DER ANWENDUNG
+
+2.1 Samsung behält alle Immaterialgüter-, Besitz- und Eigentumsrechte bezüglich der Anwendung und des zugehörigen Schriftmaterials (“Dokumentation”), wobei unerheblich ist, in welcher Form bzw. auf welchen Medien das Original und weitere Exemplare vorliegen.
+
+2.2. Samsung als Lizenzgeber räumt Ihnen als Lizenznehmer ein nicht ausschließliches Recht ein, die Anwendung auf einem kompatiblen Gerät zu installieren und anschließend den Bedingungen der vorliegenden Lizenz entsprechend zu nutzen.
+
+2.3. Soweit im vorliegenden Vertrag nicht ausdrücklich anderweitig angegeben oder nach geltendem Recht gestattet, verpflichten Sie sich:
+ (a) die Anwendung oder Dokumentation nicht zu kopieren, es sei denn, ein solcher Kopiervorgang ist Bestandteil der normalen Nutzung der Anwendung oder erfolgt zur Erstellung einer Sicherungskopie bzw. zur Gewährleistung der Betriebssicherheit;
+ (b) die Anwendung oder Dokumentation nicht zu vermieten, zu verleasen, in Unterlizenz zu vergeben, zu verleihen, zu übersetzen, zusammenzuführen, anzupassen, abzuändern oder zu modifizieren;
+ (c) die Anwendung als Ganzes oder in Auszügen nicht zu ändern oder zu modifizieren, mit anderen Programmen zu kombinieren oder in andere Programme zu integrieren;
+ (d) die Anwendung als Ganzes oder in Auszügen nicht zu disassemblieren, zu dekompilieren, zurückzuentwickeln oder abgeleitete Werke zu erstellen. Auch ein entsprechender Versuch ist untersagt. Ausgenommen von dieser Regelung sind Fälle, in denen diese Vorgehensweisen nicht untersagt werden können, da sie zum Betrieb der Anwendung im Verbund mit einem anderen Software-Programm erforderlich sind, sofern die Informationen, die Sie im Rahmen derartiger Aktivitäten erlangten:
+  i. ausschließlich zum Herbeiführen der Kompatibilität der Anwendung mit einem anderen Software-Programm genutzt werden;
+  ii. nicht ohne vorherige schriftliche Genehmigung seitens Samsung Dritten gegenüber offengelegt oder an diese weitergegeben werden;
+  iii. nicht zum Erstellen von Software verwendet werden, die im Wesentlichen mit der Anwendung übereinstimmt;
+ (e) alle Exemplare der Anwendung sicher zu verwahren und genaue und aktuelle Aufzeichnungen zu Anzahl und Orten aller Exemplare der Anwendung zu führen;
+ (f) unseren Copyright-Vermerk in alle Kopien oder Auszüge der Anwendung zu integrieren, unabhängig vom Medium;
+ (g) die Anwendung weder als Ganzes noch in Auszügen (einschließlich Objekt- und Quellcode) ohne vorherige schriftliche Genehmigung seitens Samsung für Dritte zugänglich zu machen;
+ (h) alle Ausfuhrbeschränkungen einzuhalten, die für die in der Anwendung oder einem Dienst verwendete oder dadurch unterstützte Technologie gelten;
+ (i) die Anwendung oder Dienste nicht auf rechtswidrige Weise oder für rechtswidrige Zwecke oder anderweitig auf eine nicht mit den Nutzungsbedingungen zu vereinbare Art und Weise zu verwenden oder betrügerisch oder böswillig zu handeln, z. B. durch das Hacken der Software oder das Einfügen von schädlichem Code wie Viren oder sonstigen schädlichen Daten in die Anwendung, die Dienste oder ein Betriebssystem;
+ (j) im Zusammenhang mit Ihrer Nutzung der Anwendung oder eines Dienstes keine Immaterialgüterrechte oder sonstigen Rechte Dritter zu verletzen (dies gilt nicht für die Nutzung spezifischer Rechte in spezifischem Umfang, wie in diesem Vertrag unter Lizenz gestattet);
+ (k) im Rahmen Ihrer Nutzung der Anwendung oder der Dienste Material zu übertragen, das verleumderisch, beleidigend oder auf sonstige Art anstößig ist;
+ (l) die Anwendung oder die Dienste nicht auf eine Weise zu nutzen, die unsere Systeme oder Sicherheitseinrichtungen schädigen, deaktivieren, überlasten, beeinträchtigen oder anderweitig gefährden oder andere Benutzer beeinträchtigen könnte;
+ (m) keine Informationen oder Daten aus einem Dienst oder unsere Systemen zu erfassen oder zu sammeln oder Übertragungen zu oder von den Servern, die Dienste ausführen, zu entschlüsseln
+ (zusammenfassend die “Lizenzbeschränkungen”).
+
+2.4. Für die Nutzung der Anwendung benötigen Ihre Geräte u. U. eine Verbindung zu einem Mobilfunknetzt oder dem Internet (möglicherweise gebührenpflichtig) sowie bestimmte Software, die von Zeit zu Zeit Updates oder Upgrades erfordert. Die Hardware, Software und der Internetzugriff, die für die Nutzung der Anwendung erforderlich sind, können sich auf die Leistung der Anwendung auswirken. Sie nehmen zur Kenntnis, dass Sie selbst für die Erfüllung der Systemanforderungen verantwortlich sind, die sich von Zeit zu Zeit ändern können. Sie nehmen ferner zur Kenntnis, dass die Anwendung nicht in allen Ländern oder auf allen Geräten verfügbar ist und seitens Ihres Netzwerk- oder Internetanbieters auferlegten Einschränkungen unterliegen kann.
+
+2.5. Für die Samsung Software, die Sie für die Anwendung verwenden, werden gegebenenfalls von Zeit zu Zeit automatisch Updates heruntergeladen und installiert. Sie erklären sich mit dem Download und der Installation von Updates im Rahmen Ihrer Nutzung der Anwendung einverstanden. Updates dienen der Verbesserung des Anwendungsdienstes, doch manche Funktionen werden unter bestimmten Umständen eingestellt. Samsung ist nicht verpflichtet, Updates, Upgrades, Erweiterungen, Modifikationen, Verbesserungen oder Ergänzungen des Dienstes zur Verfügung zu stellen.
+
+2.6. Sie erkennen an, dass Samsung die Gesamtheit oder Teile der Anwendung oder zugehörigen Funktionen ohne Verpflichtung zur Benachrichtigung an Sie modifizieren oder einstellen kann. Samsung behält sich das Recht vor, die vorliegenden Nutzungsbedingungen nach eigenem Ermessen und ohne Verpflichtung zur Benachrichtigung an Sie abzuändern, anzupassen, zu ergänzen oder zu entfernen. Bei einer Änderung der Nutzungsbedingungen passen wir das Datum der letzten Aktualisierung am Ende der Nutzungsbedingungen entsprechend an. Wenn Sie die Anwendung nach Änderung der Nutzungsbedingungen nutzen oder auf sie zugreifen, gilt dies als vorbehaltlose Annahme der Änderungen.
+
+
+3. NUTZUNG VON DURCH DRITTE LIZENZIERTE MATERIALIEN
+
+Immaterialgüterrechte an Inhalten, die von der Anwendung angezeigt werden bzw. auf die über die Anwendung zugegriffen wird, sind Eigentum der jeweiligen Inhaber. Solche Inhalte sind möglicherweise durch Copyright oder sonstige Immaterialgüterrechte und entsprechende internationale Verträge geschützt, sodass bezüglich dieser Inhalte Nutzungsbedingungen Dritter gelten können. Wenn die Inhaltseigentümer keine Aufzeichnung ihrer Spiele über die Anwendung zulassen, wird die Aufzeichnungsfunktion für diese Spiele deaktiviert. Soweit im vorliegenden Vertrag nicht anderweitig festgelegt, (i) räumt der vorliegende Vertrag Ihnen keine Rechte an derartigen Inhalten ein und gewährleistet nicht, dass derartige Inhalte für Sie verfügbar bleiben, und (ii) ist Ihnen die kommerzielle oder illegale Nutzung von Videos, Fotos, Bilder, Grafiken, Illustrationen, Tonmedien oder ähnliche Materialien (“Digitalmaterial”), auf die über die Anwendung zugegriffen wird, sowie jegliche im vorliegenden Vertrag nicht vorgesehene anderweitige Verwendung des Digitalmaterials untersagt.
+
+4. GARANTIEAUSSCHLUSS
+
+DIE ANWENDUNG UND ZUGEHÖRIGE DOKUMENTATION (EINSCHLIESSLICH DER NUTZUNGSANLEITUNG) WERDEN OHNE MÄNGELGEWÄHR UND OHNE GARANTIE BEREITGESTELLT. DARÜBER HINAUS GIBT SAMSUNG KEINE GARANTIEN ODER ZUSAGEN BEZÜGLICH DER NUTZUNG DER ANWENDUNG ODER DOKUMENTATION ODER DER NUTZUNGSERGEBNISSE HINSICHTLICH FEHLERFREIHEIT, GENAUIGKEIT, ZUVERLÄSSIGKEIT, AKTUELLEM STAND ODER SONSTIGER ASPEKTE. SIE TRAGEN DAS GESAMTE RISIKO HINSICHTLICH DER ERGEBNISSE ODER LEISTUNG DER ANWENDUNG. FALLS DIE ANWENDUNG ODER DOKUMENTATION MÄNGEL AUFWEISEN, TRAGEN SIE UND NICHT SAMSUNG, SEINE TOCHTERGESELLSCHAFTEN, VERTRETER ODER MITARBEITER DIE GESAMTEN KOSTEN FÜR WARTUNGSARBEITEN, REPARATUREN ODER KORREKTUREN.
+
+SAMSUNG SCHLIESST JEGLICHE SONSTIGEN AUSDRÜCKLICHEN ODER STILLSCHWEIGENDEN GARANTIEN AUS, AUCH BEZÜGLICH DER MARKTGÄNGIGKEIT, DER EIGNUNG FÜR BESTIMMTE ZWECKE UND DER NICHTVERLETZUNG DER RECHTE DRITTER. SAMSUNG GARANTIERT NICHT, DASS DIE ANWENDUNG UNTERBRECHUNGS- ODER FEHERLFREI FUNKTIONIERT. MÜNDLICHE ODER SCHRIFTLICHE EMPFEHLUNGEN ODER INFORMATIONEN SEITENS SAMSUNG ODER SEINER HÄNDLER, VERTRIEBSPARTNER, VERTRETER ODER MITARBEITER STELLEN KEINE GARANTIE ODER ERWEITERUNG EINER BESTEHENDEN GARANTIE DAR. SIE SIND NICHT BERECHTIGT, SICH AUF DERARTIGE EMPFEHLUNGEN ODER INFORMATIONEN ZU BERUFEN.
+
+UNTER KEINEN UMSTÄNDEN HAFTEN SAMSUNG UND TOCHTERGESELLSCHAFTEN, VERTRETER ODER MITARBEITER FÜR UNMITTELBARE ODER MITTELBARE SCHÄDEN, FOLGESCHÄDEN ODER NEBEN- UND FOLGEKOSTEN (EINSCHLIESSLICH SCHADENERSATZ FÜR GEWINN- ODER GESCHÄFTSAUSFÄLLE, DATENVERLUST, GESCHÄFTSDATENVERLUST ODER SONSTIGE FINANZIELLE VERLUSTE), DIE AUS DER NUTZUNG ODER DER NICHT MÖGLICHEN NUTZUNG DER ANWENDUNG ODER DIENSTE ENTSTEHEN, SELBST WENN SAMSUNG AUF DIE MÖGLICHKEIT DERARTIGER SCHÄDEN HINGEWIESEN WURDE.
+
+Sie verpflichten sich, die alleinige und vollständige Verantwortung für Ihre Nutzung der Anwendung zu tragen, unabhängig vom Nutzungszweck. Sie verpflichten sich darüber hinaus, Samsung gegenüber allen Ansprüchen, Verfahren, Ersatzforderungen, Kosten und Unkosten schadlos zu halten, die auf Ihre Nutzung der Anwendung für illegale Zwecke oder unter Verstoß gegen den vorliegenden Vertrag zurückzuführen sind.
+
+5. KÜNDIGUNG
+
+Bei Kündigung des vorliegenden Vertrags sind Sie verpflichtet, alle Exemplare der Anwendung und Dokumentation zu vernichten und die Anwendung von Ihrem Gerät zu entfernen bzw. zu löschen.
+
+Samsung ist berechtigt, diesen Vertrag bei Vorliegen der nachstehenden Sachverhalte fristlos schriftlich zu kündigen:
+ (a) Sie haben gegen materielle Pflichten aus dem vorliegenden Vertrag oder wiederholt gegen sonstige Vertragspflichten verstoßen und auch 14 Tage nach entsprechender schriftlicher Aufforderung keine Abhilfe geschaffen (sofern möglich).
+ (b) Sie haben gegen die Lizenzbeschränkungen oder die Nutzungsbeschränkungen gemäß Abschnitt 4 verstoßen.
+ (c) Samsung stellt die Anwendung entsprechend Abschnitt 2.6 ein.
+
+Im Falle der Kündigung gilt, unabhängig vom Kündigungsgrund, Folgendes:
+ (a) Alle Ihnen aus dem vorliegenden Vertrag erwachsenden Rechte verfallen.
+ (b) Sie sind verpflichtet, alle nach dem vorliegenden Vertrag gestatteten Aktivitäten einzustellen, einschließlich Ihrer Nutzung der Dienste.
+ (c) Sie müssen die Anwendung umgehend von allen Geräten löschen oder entfernen sowie umgehend alle Exemplare der Anwendung und der Dokumentation vernichten, die zu diesem Zeitpunkt Ihrer Kontrolle unterliegen bzw. sich in Ihrem Besitz befinden, und uns die Löschung bzw. Vernichtung bestätigen.
+
+6. GESAMTER VERTRAG; SALVATORISCHE KLAUSEL
+
+Dieser Vertrag stellt den gesamten Vertrag zwischen Ihnen und Samsung hinsichtlich der Anwendung dar und tritt an die Stelle aller früheren oder gleichzeitigen mündlichen oder schriftlichen Mitteilungen, Angebote und Zusicherungen in Bezug auf die Anwendung oder andere Gegenstände des vorliegenden Vertrags. Dieser Vertrag unterliegt dem Recht des Landes, in dem Sie Ihren Wohnsitz haben, unter Ausschluss des Kollisionsrechts (mit Ausnahme der Bestimmungen zur Gesetzeskollision, die möglicherweise die Anwendung der Gesetze eines anderen Landes erforderlich machen). Sämtliche Streitigkeiten, Unstimmigkeiten oder Forderungen aus oder im Zusammenhang mit dem vorliegenden Vertrag (einschließlich dessen Bestehen, Gültigkeit oder Kündigung) unterliegen der nicht ausschließlichen Rechtsprechung der Gerichte des Landes, in dem Sie Ihren Wohnsitz haben. Jede der Parteien ist berechtigt, ihre Immaterialgüterrechte bzw. die Immaterialgüterrechte ihrer Tochterunternehmen bei jedem zuständigen Gericht geltend zu machen, insbesondere billigkeitsrechtliche Ansprüche. Die Anwendung des Übereinkommens der Vereinten Nationen über Vertrage über den internationalen Warenkauf (“CISG”) wird hiermit ausdrücklich ausgeschlossen. Falls eine Bestimmung ganz oder teilweise für nicht durchsetzbar befunden wird, bleibt die Gültigkeit der anderen Bestimmungen dieses Vertrags kontinuierlich und vollständig bestehen.
+
+Sollte eine Bestimmung des vorliegenden Vertrags sich als nichtig oder nicht durchsetzbar herausstellen, bleiben Gültigkeit und Durchsetzbarkeit der übrigen Bestimmungen dieses Vertrags davon unberührt. Die übrigen Bestimmungen dieses Vertrags bleiben in Kraft und werden den Vertragsbedingungen entsprechend ausgelegt. Überschriften in diesem Vertrag dienen lediglich der Übersichtlichkeit und haben keinen Einfluss auf die Bedeutung oder Auslegung des Vertrags."</string>
+    <string name="tnc_es">"Condiciones de servicio de Game Recorder+
+
+LEA ATENTAMENTE ESTAS CONDICIONES DE SERVICIO ANTES DE UTILIZAR LOS SERVICIOS DE GAME RECORDER+.
+
+El permiso de uso de la aplicación Game Recorder+ depende de la aceptación de las condiciones. El uso de la aplicación por su parte estará sujeto a la aceptación de las condiciones. La aceptación le vincula jurídicamente a las condiciones mediante un contrato de cumplimiento legal con Samsung Electronics Co. Ltd. (en adelante, “SAMSUNG”).
+
+Game Recorder+ es una función de grabación de videojuegos que los usuarios pueden usar fácilmente en sus smartphones. A fin de garantizar una experiencia de juego y de grabación grata y activa, así como un vídeo resultante de la mejor calidad, Game Recorder+ incluye una función de optimización de memoria que liberará los recursos del sistema reservados y cerrará las aplicaciones en segundo plano que no se estén utilizando. Esta acción no eliminará las aplicaciones ni los datos instalados en el espacio de almacenamiento del smartphone; además, los usuarios podrán elegir activar o desactivar esta función en los ajustes de usuario de Game Recorder+.
+
+SI NO ESTÁ DE ACUERDO CON ESTAS CONDICIONES, NO UTILICE ESTA APLICACIÓN Y ELIMÍNELA DE INMEDIATO DE SU DISPOSITIVO.
+
+
+CONDICIONES DEL ACUERDO
+
+
+1. Aceptación
+
+1.1. Las condiciones de este Acuerdo afectan a la aplicación Game Recorder+ (en adelante, la “APLICACIÓN”) o a cualquier servicio accesible a través de la APLICACIÓN (los “Servicios”), incluidos cualquier actualización o suplemento de la APLICACIÓN, a menos que cuenten con condiciones independientes, en cuyo caso, se aplicarán dichas condiciones específicas.
+
+1.2. SAMSUNG puede cambiar estas condiciones en cualquier momento mediante el envío de una notificación con los detalles del cambio o un aviso en el momento en que actualice la APLICACIÓN. Es posible que las nuevas condiciones se muestren en pantalla, y que deba leerlas y aceptarlas para poder continuar utilizando los Servicios.
+
+1.3. Periódicamente, podrían publicarse actualizaciones de la APLICACIÓN en las tiendas de aplicaciones. En función de la actualización, es posible que no pueda utilizar los Servicios hasta que haya descargado o reproducido la versión más reciente de la APLICACIÓN y aceptado las nuevas condiciones.
+
+1.4. La APLICACIÓN puede contener enlaces a sitios web de terceros independientes (Sitios de terceros). Los Sitios de terceros no se encuentran bajo nuestro control, por lo que no somos responsables de estos ni tampoco respaldamos su contenido ni sus políticas de privacidad, si las hubiera. La interacción con los Sitios de terceros, incluida la adquisición y el uso de los productos o servicios que pongan a su disposición, quedará a su propio juicio y será únicamente su responsabilidad.
+
+1.5. Si tiene entre 13 y 18 años, declara que ha revisado estos términos y condiciones con uno de sus padres o con su tutor legal y que tanto usted como estos comprenden y aceptan los términos y condiciones. Si usted es un padre o tutor que da permiso a una persona menor de 18 años (“Menor”) para que utilice la APLICACIÓN, acepta: (i) supervisar el uso que hace el Menor de la APLICACIÓN; (ii) asumir todos los riesgos asociados al uso por parte del Menor de la APLICACIÓN, incluida la transmisión de contenidos de o a terceros a través de Internet; (iii) asumir toda responsabilidad derivada del uso por parte del Menor de la APLICACIÓN; (iv) garantizar la precisión y veracidad de toda la información enviada por el Menor; y (v) asumir la responsabilidad y el cumplimiento de este Acuerdo para el acceso y el uso de la APLICACIÓN por parte del Menor.
+
+2. CONCESIÓN DE LICENCIA y USO DE LA APLICACIÓN
+
+2.1 SAMSUNG conserva el copyright, el título y la propiedad de la APLICACIÓN y los materiales escritos (“Documentación”) independientemente del formato o el medio en el que se encuentre el original y las demás copias.
+
+2.2. SAMSUNG, en calidad de licenciante, le concede a usted, el licenciatario, el derecho no exclusivo a instalar la APLICACIÓN en un dispositivo compatible y utilizar la APLICACIÓN de acuerdo con las condiciones establecidas en esta licencia.
+
+2.3. A menos que se especifique lo contrario en este Acuerdo o que la legislación vigente no lo permita, usted acepta:
+ (a) no copiar la APLICACIÓN ni la Documentación excepto cuando dicha copia se deba al uso normal de la APLICACIÓN, se trate de copias de seguridad o se deba garantizar la seguridad operativa;
+ (b) no alquilar, arrendar, sublicenciar, prestar, traducir, fusionar, adaptar, variar o modificar la APLICACIÓN ni la Documentación;
+ (c) no realizar alteraciones ni de parte ni de la totalidad de la APLICACIÓN, ni permitir que la APLICACIÓN o cualquier parte de la misma se combine con otros programas o se integre en estos;
+ (d) no desensamblar, descompilar, aplicar ingeniería inversa o crear obras derivadas basadas en la totalidad o en parte de la APLICACIÓN ni intentarlo, excepto en la medida en que tales acciones no puedan prohibirse por ser esenciales para conseguir la interoperabilidad de la APLICACIÓN con otro programa de software, siempre y cuando la información que obtenga durante tales actividades:
+  i. se utilice con el único fin de conseguir la interoperabilidad de la APLICACIÓN con otro programa de software;
+  ii. no se divulgue ni comunique a terceros innecesariamente sin consentimiento previo por escrito; y
+  iii. no se emplee para crear ningún software que sea considerablemente similar a la APLICACIÓN;
+ (e) conservar copias de la APLICACIÓN en un lugar seguro y mantener un registro preciso y actualizado del número y la ubicación de todas las copias de esta;
+ (f) incluir nuestro aviso de copyright en todas las copias, totales o parciales, que realice de la APLICACIÓN independientemente del medio;
+ (g) no proporcionar ni poner a disposición de ningún tercero la APLICACIÓN, en su totalidad o en parte (incluido el código objeto y el código fuente), e independientemente de la forma, sin nuestro consentimiento previo por escrito;
+ (h) cumplir con las leyes de exportación y las regulaciones tecnológicas aplicables a la tecnología utilizada en la APLICACIÓN o en cualquier Servicio, o la tecnología compatible con esta.
+ (i) no utilizar la APLICACIÓN ni ningún Servicio de forma ilegal o con algún propósito ilegal, ni de ninguna manera que contradiga este Acuerdo; o sea fraudulenta o malintencionada, por ejemplo, acceder sin autorización o introducir código malicioso, como virus o datos dañinos en la APLICACIÓN, o cualquier Servicio o sistema operativo;
+ (j) no infringir nuestros derechos de propiedad intelectual ni los de terceros en relación con el uso de la APLICACIÓN o cualquier Servicio, en la medida en que este Acuerdo no lo autorice;
+ (k) no transmitir ningún material difamatorio, ofensivo o censurable en relación con el uso de APLICACIÓN o cualquier Servicio;
+ (l) no emplear la APLICACIÓN ni ningún Servicio de forma que pueda dañar, inhabilitar, sobrecargar, deteriorar o comprometer nuestros sistemas y nuestra seguridad, o interferir con otros usuarios; y
+ (m) no recopilar ni recabar información o datos de cualquier Servicio o de nuestros sistemas, ni intentar descifrar transmisión alguna de los servidores en los que se ejecutan los Servicios
+ (en su conjunto, las “Restricciones de licencia”).
+
+2.4. El uso de la APLICACIÓN podría requerir que el dispositivo tenga acceso o conexión mediante red móvil o a través de Internet (sujeto a posibles cargos adicionales) y un software determinado; ocasionalmente también podría requerir la obtención de suplementos o actualizaciones. Debido a que el uso de la APLICACIÓN implica el uso de hardware, software y acceso a Internet, la capacidad de utilizar la APLICACIÓN puede verse afectada por la idoneidad y el rendimiento de estos requisitos del sistema. Usted reconoce y acepta que dichos requisitos del sistema, que podrían modificarse cada cierto tiempo, son su responsabilidad exclusiva. Usted también reconoce que la APLICACIÓN no estará disponible en todos los países o para todos los dispositivos, y que puede estar sujeta a las restricciones impuestas por el proveedor de red o de Internet.
+
+2.5. Es posible que el software de Samsung que utiliza la APLICACIÓN descargue e instale actualizaciones automáticamente de manera ocasional. Usted acepta dicha descarga e instalación de actualizaciones como parte de su uso de la APLICACIÓN. Si bien esas actualizaciones introducen mejoras en la APLICACIÓN, en determinadas circunstancias se podrían interrumpir algunas funciones. Pese a ello, Samsung no tiene la obligación de facilitar actualizaciones, mejoras, modificaciones, revisiones ni adiciones al Servicio.
+
+2.6. Usted acepta que Samsung pueda modificar o interrumpir la APLICACIÓN o sus funciones, de forma total o parcial, con o sin previo aviso. Samsung se reserva el derecho de cambiar, modificar, añadir o eliminar partes de estas Condiciones de servicio, según su criterio exclusivo, con o sin aviso previo. Cuando se modifiquen estas Condiciones de servicio, modificaremos también la fecha de “última actualización” situada en la parte inferior de estas. Si accede a la APLICACIÓN o la utiliza de cualquier manera después de que se hayan modificado estas Condiciones de servicio, se considerará que acepta de forma incondicional dichos cambios.
+
+
+3. USO DE MATERIALES CON LICENCIA OTORGADA POR TERCEROS
+
+Los derechos de propiedad intelectual de cualquier contenido mostrado en la APLICACIÓN, o al que se acceda a través de esta, pertenecen al propietario del contenido en cuestión. Tal contenido puede encontrarse protegido por copyright u otras leyes y tratados de propiedad intelectual, y estar sujeto a las condiciones de uso de sus proveedores. Los propietarios del contenido de los juegos que grabe utilizando la APLICACIÓN pueden prohibir dicha grabación, lo que podría conllevar la suspensión de la función de grabación para los juegos afectados. A menos que se especifique lo contrario en el presente documento, (i) este Acuerdo no le concede ningún derecho a utilizar tal contenido ni garantiza que el contenido en cuestión continúe a su disposición; (ii) no utilizará ningún vídeo, fotografía, imagen, gráfico, diseño, audio ni activos similares (en adelante, los “Materiales digitales”) al que haya accedido a través de la APLICACIÓN con fines comerciales o ilegales, ni tampoco utilizará los Materiales digitales en un contexto distinto al de su propósito como parte de la APLICACIÓN.
+
+4. EXENCIÓN DE GARANTÍA
+
+ESTA APLICACIÓN Y LA DOCUMENTACIÓN QUE LA ACOMPAÑA (INCLUIDAS LAS INSTRUCCIONES DE USO) SE PROPORCIONAN “TAL CUAL” SIN GARANTÍA DE NINGÚN TIPO. SAMSUNG TAMPOCO CONCEDE NI OFRECE GARANTÍA ALGUNA CON RESPECTO AL USO, O LOS RESULTADOS DEL USO, DE LA APLICACIÓN O LA DOCUMENTACIÓN EN LO REFERENTE A LA CORRECCIÓN, LA PRECISIÓN, LA FIABILIDAD, LA VIGENCIA U OTROS. USTED ASUME TODOS LOS RIESGOS DERIVADOS DE LOS RESULTADOS Y DEL RENDIMIENTO DE LA APLICACIÓN. SI LA APLICACIÓN O LA DOCUMENTACIÓN FUERAN DEFECTUOSAS, USTED Y NO SAMSUNG NI SUS FILIALES, AGENTES O EMPLEADOS, ASUMIRÁ EL COSTE TOTAL DE SERVICIO, REPARACIÓN O CORRECCIÓN.
+
+SAMSUNG QUEDA EXENTO DE TODA GARANTÍA, YA SEA EXPLÍCITA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS IMPLÍCITAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN FIN DETERMINADO Y NO INFRACCIÓN. SAMSUNG NO OFRECE GARANTÍAS DE QUE LA APLICACIÓN VAYA A FUNCIONAR DE FORMA ININTERRUMPIDA O SIN ERRORES. NINGUNA INFORMACIÓN O CONSEJO ORAL O POR ESCRITO OFRECIDO POR SAMSUNG, SUS DISTRIBUIDORES, AGENTES O EMPLEADOS CONSTITUIRÁ UNA GARANTÍA NI AUMENTARÁ EL ALCANCE DE ESTA GARANTÍA, POR LO QUE NO PUEDE CONFIAR EN DICHA INFORMACIÓN O CONSEJO.
+
+EN NINGÚN CASO SAMSUNG O SUS AFILIADOS, AGENTES O EMPLEADOS SERÁN RESPONSABLES DE NINGÚN DAÑO DIRECTO, INDIRECTO, CONSECUENTE O INCIDENTAL (INCLUIDOS LOS DAÑOS POR PÉRDIDAS COMERCIALES, INTERRUPCIÓN DEL NEGOCIO U OTRAS PÉRDIDAS ECONÓMICAS) DERIVADO DEL USO O LA IMPOSIBILIDAD DE USO DE LA APLICACIÓN O EL SERVICIO, AUN CUANDO SE HAYA INFORMADO A SAMSUNG DE LA POSIBILIDAD DE TALES DAÑOS.
+
+Acepta asumir usted solo toda la responsabilidad por el uso de la APLICACIÓN, independientemente del fin. También acuerda indemnizar y mantener indemne a SAMSUNG ante cualquier reclamación, proceso judicial, daño, coste y gasto derivado de su uso de la APLICACIÓN con fines ilegales o en incumplimiento de este Acuerdo.
+
+5. RESCISIÓN
+
+Tras la terminación de este Acuerdo, deberá destruir la APLICACIÓN y la Documentación junto con todas las copias de esta, además de eliminar la APLICACIÓN de su dispositivo.
+
+SAMSUNG podría rescindir este Acuerdo inmediatamente enviándole una notificación por escrito:
+ (a) por incumplimiento material o persistente de este Acuerdo por su parte, si no lo soluciona (en caso de poderse solucionar) en un periodo de 14 días desde la recepción del aviso por escrito que le inste a hacerlo;
+ (b) si incumple cualquiera de las Restricciones de la licencia o de los usos aceptables establecidos en la cláusula 4; y
+ (c) en caso de que interrumpa la distribución de la APLICACIÓN de conformidad con la cláusula 2.6.
+
+Tras la rescisión, independientemente del motivo:
+ (a) todos los derechos que le hayan sido otorgados por este Acuerdo cesarán;
+ (b) deberá finalizar inmediatamente todas las actividades autorizadas por el presente Acuerdo, incluido el uso de cualquiera de los Servicios;
+ (c) tendrá que borrar o eliminar la APLICACIÓN de todos los Dispositivos y destruir de forma inmediata todas las copias de la APLICACIÓN y la Documentación en su poder, custodia o control, y certificar ante nosotros que lo ha hecho;
+
+6. ACUERDO COMPLETO; DIVISIBILIDAD
+
+El presente Acuerdo constituye la totalidad del contrato entre el usuario y SAMSUNG en relación con la APLICACIÓN y sustituye todas las comunicaciones, propuestas y declaraciones orales o escritas anteriores o simultáneas con respecto a la APLICACIÓN o a cualquier otro asunto estipulado en este Acuerdo. Este Acuerdo se regirá y será interpretado de conformidad con las leyes de la jurisdicción del lugar en el que resida, independientemente de sus conflictos de disposiciones legales (excepto en casos de conflicto entre las disposiciones legales que pudieran requerir la aplicación de leyes de otras jurisdicciones). Todas las disputas, controversias o reclamaciones entre las partes que surjan de o tengan relación con este Acuerdo (incluida su existencia, validez o terminación) estarán sujetas a la jurisdicción no exclusiva de los tribunales con jurisdicción en su lugar de residencia. Cada una de las partes puede ejecutar sus derechos de propiedad intelectual o los de sus afiliados en los tribunales de la jurisdicción competente, incluida la compensación equitativa. Queda excluida expresamente cualquier aplicación de la Convención de las Naciones Unidas sobre los Contratos de Compraventa Internacional de Mercaderías (“CISG”) por el presente documento. Si cualquier disposición o parte de ella resulta no ser aplicable, las demás disposiciones del presente Acuerdo seguirán siendo completamente válidas.
+
+Si alguna cláusula o condición de este Acuerdo se declarara nula o inexigible por alguna autoridad judicial o administrativa, dicha determinación no afectará a la validez y aplicabilidad del resto de cláusulas y condiciones del presente Acuerdo. Las demás disposiciones de este Acuerdo seguirán en vigor y se interpretarán de acuerdo con las condiciones. Los títulos de este Acuerdo solo se incluyen a título de referencia y no afectarán al significado o la interpretación del contenido del mismo."</string>
+    <string name="tnc_fr">"Conditions d'utilisation de Game Recorder+
+
+VEUILLEZ LIRE ATTENTIVEMENT LES PRÉSENTES CONDITIONS D'UTILISATION AVANT D'UTILISER LES SERVICES GAME RECORDER+.
+
+Pour pouvoir utiliser l'application Game Recorder+, vous devez accepter les présentes conditions d'utilisation. Le fait d'utiliser l'application vaut pour acceptation des présentes conditions d'utilisation. L'acceptation vous lie dans un contrat légal exécutoire avec Samsung Electronics Co. Ltd (ci-après nommé “SAMSUNG”)
+
+Game Recorder+ est un utilitaire d'enregistrement de jeux vidéo que les utilisateurs peuvent facilement utiliser sur leurs smartphones. Afin d'offrir une expérience de jeu agréable, un enregistrement réactif et d'assurer la meilleure qualité vidéo possible, Game Recorder+ fournit une fonction d'optimisation de la mémoire qui permet de libérer les ressources système réservées et/ou de fermer des applications d'arrière-plan que les utilisateurs n'utilisent pas. Aucune application ni aucune donnée installée dans l'espace de stockage du téléphone n'est supprimée. Les utilisateurs peuvent choisir d'activer ou de désactiver cette fonction dans les paramètres utilisateur de Game Recorder+.
+
+SI VOUS N'ACCEPTEZ PAS LES CONDITIONS DE CE CONTRAT, N'UTILISEZ PAS CETTE APPLICATION ET RETIREZ-LA RAPIDEMENT DE VOTRE APPAREIL.
+
+
+TERMES CONVENUS
+
+
+1. Engagement
+
+1.1. Les termes du présent Contrat concernent l'application Game Recorder+ (ci-après nommée l'“APPLICATION”) ou n'importe quel service accessible par l'intermédiaire de l'APPLICATION (Services), y compris les éventuels mises à jour ou compléments à l'APPLICATION, sauf s'ils possèdent des conditions spécifiques, auquel cas ces conditions spécifiques s'appliquent.
+
+1.2. SAMSUNG peut modifier ces conditions à tout moment en vous envoyant une notification indiquant les détails de la modification ou en vous notifiant d'un changement lorsque vous mettez à jour l'APPLICATION. Les nouvelles conditions peuvent être affichées à l'écran et vous pouvez être tenu de les lire et de les accepter pour continuer votre utilisation des Services
+
+1.3. Parfois, les mises à jour de l'APPLICATION peuvent être émises par l'intermédiaire de l'App stores. Pour certaines mises à jour, vous ne pourrez pas utiliser les Services tant que vous n'aurez pas téléchargé ou accédé à la dernière version de l'APPLICATION et accepté les nouveaux termes.
+
+1.4. L'APPLICATION peut contenir des liens vers d'autres sites tiers indépendants (Sites de tiers). Les Sites de tiers ne sont pas sous notre contrôle, et nous ne sommes pas responsables et ne cautionnons pas leur contenu ou leurs politiques de confidentialité (le cas échéant). Vous devrez vous faire votre propre opinion concernant votre interaction avec les Sites de tiers, y compris en ce qui concerne l'achat et l'utilisation de produits ou de services accessibles à travers eux.
+
+1.5. Si vous avez entre 13 et 18 ans, vous reconnaissez avoir lu les présentes Conditions avec l'un de vos parents ou un représentant légal et confirmez que vous et votre parent ou représentant légal comprenez et acceptez de vous conformer aux présentes conditions. Si vous êtes un parent ou représentant légal permettant à une personne de moins de 18 ans (le “mineur”) d'utiliser l'APPLICATION, vous acceptez de : (i) superviser l'utilisation de l'APPLICATION par le mineur ; (ii) assumer tous les risques associés à l'utilisation de l'APPLICATION par le mineur, y compris la transmission du contenu en provenance et à destination de tiers via Internet ; (iii) assumer toute responsabilité découlant de l'utilisation de l'APPLICATION par le mineur ; (iv) veiller à l'exactitude et à la véracité de toutes les informations soumises par le mineur ; et (v) assumer la responsabilité, ainsi qu'être lié par le présent Contrat, pour l'accès à l'APPLICATION et son utilisation par le mineur.
+
+2. OCTROI DE LA LICENCE et UTILISATION DE L'APPLICATION
+
+2.1 SAMSUNG conserve le droit d'auteur, le titre et la propriété de l'APPLICATION et des documents écrits (“la Documentation”) indépendamment de la forme ou du support dans ou sur lequel l'original et les autres copies peuvent exister.
+
+2.2. SAMSUNG, en tant que concédant de licence, vous accorde à vous, le concessionnaire, le droit non exclusif d'installer l'APPLICATION sur un appareil compatible et d'utiliser l'APPLICATION conformément aux conditions figurant dans cette licence.
+
+2.3. Sauf dans les cas expressément définis dans le présent Contrat ou dans le cadre du respect de toute loi locale, vous acceptez :
+ (a) de ne pas copier l'APPLICATION ou la Documentation, sauf dans les cas où la copie est due à un usage normal de l'APPLICATION, ou lorsqu'elle est nécessaire à des fins de sauvegarde ou de sécurité opérationnelle ;
+ (b) de ne pas louer, accorder sous licence, prêter, traduire, fusionner, adapter, faire varier ou modifier l'APPLICATION ou la Documentation ;
+ (c) de ne pas altérer ni modifier tout ou partie de l'APPLICATION, de ne pas permettre que tout ou partie de l'APPLICATION soit combiné avec, ou incorporé dans, tout autre programme ;
+ (d) de ne pas désassembler, décompiler, effectuer d'ingénierie à rebours ni créer des œuvres dérivées en tout ou partie de l'APPLICATION ni tenter de procéder ainsi, sauf si de telles actions ne peuvent être interdites parce qu'elles sont essentielles à la réalisation de l'interopérabilité de l'APPLICATION avec un autre logiciel, et à condition que les informations obtenues par vous au cours de ces activités :
+  i. soient utilisées uniquement afin de parvenir à l'interopérabilité de l'APPLICATION avec un autre logiciel,
+  ii. ne soient pas inutilement divulguées ou communiquées à toute tierce partie sans notre consentement écrit préalable,
+  iii. ne soient pas utilisées pour créer un logiciel qui est substantiellement similaire à l'APPLICATION ;
+ (e) de conserver toutes les copies de l'APPLICATION de manière sécurisée et de maintenir un suivi précis et à jour du nombre d'exemplaires et de l'emplacement de l'APPLICATION ;
+ (f) d'inclure notre avis de droit d'auteur sur toutes les copies, entières ou partielles, que vous faites de l'APPLICATION sur n'importe quel support ;
+ (g) de ne pas fournir ni rendre disponible tout ou partie de l'APPLICATION (y compris l'objet et le code source), sous quelque forme que ce soit, à quelque personne que ce soit, sans notre consentement écrit préalable ;
+ (h) de se conformer à l'ensemble des lois et réglementations en matière de contrôle de la technologie ou de l'exportation qui s'appliquent à la technologie utilisée ou prise en charge par l'APPLICATION ou n'importe quel Service ;
+ (i) de ne pas utiliser l'APPLICATION ou n'importe quel Service de manière illégale, à des fins illégales, ou de toute autre manière incompatible avec les dispositions du présent Contrat, ou agir frauduleusement ou de manière malveillante, par exemple en piratant ou en insérant du code malveillant, y compris des virus, ou des données nuisibles, dans l'APPLICATION, tout service ou tout système d'exploitation ;
+ (j) de ne pas enfreindre nos droits de propriété intellectuelle ni ceux d'une tierce partie par votre utilisation de l'APPLICATION ou de tout Service (dans la mesure où une telle utilisation n'est pas autorisée par le présent Contrat) ;
+ (k) de ne pas transmettre tout matériel diffamatoire, offensant ou autrement répréhensible en lien avec votre utilisation de l'APPLICATION ou de tout Service ;
+ (l) de ne pas utiliser l'APPLICATION ou tout Service d'une manière qui pourrait endommager, désactiver, surcharger, entraver ou compromettre nos systèmes ou notre sécurité ou interférer avec d'autres utilisateurs ; et
+ (m) de ne pas collecter ni récolter des informations ou données de n'importe quel Service ou de nos systèmes, ni tenter de déchiffrer n'importe quelle transmission vers ou à partir de serveurs exécutant n'importe quel Service.
+ (ensemble “Restrictions de licence”).
+
+2.4. L'utilisation de l'APPLICATION peut nécessiter des appareils dotés d'un accès ou d'une connexion via un réseau mobile ou Internet (des frais peuvent être appliqués) et certains logiciels. Elle peut également nécessiter l'obtention de mises à jour ou de mises à niveau de manière occasionnelle. Comme l'utilisation de l'APPLICATION nécessite du matériel, des logiciels et un accès Internet, votre aptitude à utiliser l'APPLICATION peut être affectée par l'adéquation et les performances de ces exigences système. Vous reconnaissez et acceptez que ces exigences système, qui peuvent être modifiées de manière occasionnelle, relèvent de votre seule responsabilité. Vous reconnaissez également que l'APPLICATION n'est pas disponible dans tous les pays ou sur tous les appareils, et que l'APPLICATION peut être soumise à des restrictions imposées par votre réseau ou votre fournisseur d'accès Internet.
+
+2.5. Le logiciel Samsung que vous utilisez pour l'APPLICATION peut télécharger et installer automatiquement des mises à jour de manière occasionnelle. Vous acceptez le téléchargement et l'installation de telles mises à jour dans le cadre de votre utilisation de l'APPLICATION. Bien que ces mises à jour apportent des améliorations à l'APPLICATION, certaines circonstances peuvent nous amener à interrompre certaines fonctions. Samsung n'est pas dans l'obligation de fournir des mises à jour, mises à niveau, améliorations, modifications, révisions ou ajouts au Service.
+
+2.6. Vous acceptez que Samsung modifie ou interrompe l'APPLICATION ou ses fonctions, en partie ou dans son intégralité, avec ou sans notification préalable. Samsung se réserve le droit de changer, modifier, ajouter ou supprimer des portions de ces Conditions d'utilisation à sa seule discrétion avec ou sans avis préalable. Lorsque nous modifions ces Conditions d'utilisation, nous mettons à jour la date de dernière mise à jour située en bas des présentes Conditions d'utilisation. Si vous accédez à l'APPLICATION ou utilisez celle-ci de n'importe quelle façon après que des modifications ont été apportées aux présentes Conditions d'utilisation, vous comprenez et acceptez inconditionnellement ces modifications.
+
+
+3. UTILISATION DE MATÉRIAUX SOUS LICENCE PAR DES TIERS
+
+Les droits de propriété intellectuelle dans et vers tout contenu affiché par ou accessible via l'APPLICATION appartiennent à leur propriétaire respectif. Ces contenus peuvent être protégés par des droits d'auteur ou d'autres lois et traités de propriété intellectuelle, et peuvent être soumis aux conditions d'utilisation du tiers qui fournit ce contenu. Les propriétaires du contenu des jeux concernés que vous enregistrez à l'aide de l'APPLICATION peuvent interdire de tels enregistrements, ce qui peut entraîner la suspension de la fonction d'enregistrement pour les jeux concernés. Sauf disposition contraire du présent Contrat, (i) le présent Contrat ne vous accorde aucun droit d'utilisation d'un tel contenu, et ne garantit pas que le contenu continuera d'être disponible pour vous et (ii) vous ne devez pas utiliser commercialement ou illégalement des vidéos, des photographies, des images, des représentations graphiques, des illustrations, du contenu audio ou des éléments similaires (“Matériaux numériques”) auxquels vous avez accédé via l'APPLICATION, ni utiliser les Matériaux numériques en dehors du contexte de leur utilisation prévue dans le cadre de l'APPLICATION.
+
+4. EXCLUSION DE GARANTIE
+
+CETTE APPLICATION ET LA DOCUMENTATION QUI L'ACCOMPAGNE (Y COMPRIS LES INSTRUCTIONS D'UTILISATION) SONT FOURNIES “EN L'ÉTAT” SANS GARANTIE D'AUCUNE SORTE. DE PLUS, SAMSUNG NE GARANTIT NI NE FORMULE AUCUNE DÉCLARATION CONCERNANT L'UTILISATION, OU LES RÉSULTATS DE L'UTILISATION, DE L'APPLICATION OU DE LA DOCUMENTATION EN TERMES D'EXACTITUDE, DE PRÉCISION, DE FIABILITÉ, DE MISE À JOUR OU AUTRE. VOUS ASSUMEZ SEUL LE RISQUE TOUT ENTIER CONCERNANT LES RÉSULTATS ET LA PERFORMANCE DE L'APPLICATION. SI L'APPLICATION OU LA DOCUMENTATION EST DÉFECTUEUSE, VOUS, ET NON SAMSUNG NI SES FILIALES, AGENTS OU EMPLOYÉS, ASSUMEZ LA TOTALITÉ DES COÛTS DE TOUS LES SERVICES, RÉPARATIONS OU CORRECTIONS NÉCESSAIRES.
+
+SAMSUNG DÉCLINE TOUTE AUTRE GARANTIE, EXPRESSE OU TACITE, Y COMPRIS, MAIS SANS S'Y LIMITER, LES GARANTIES TACITES DE QUALITÉ MARCHANDE, D'ADÉQUATION À UN USAGE PARTICULIER ET D'ABSENCE DE CONTREFAÇON. SAMSUNG NE GARANTIT PAS QUE L'APPLICATION SERA ININTERROMPUE NI EXEMPTE D'ERREURS. AUCUNE RECOMMANDATION OU INFORMATION, ORALE OU ÉCRITE, FOURNIE PAR SAMSUNG, SES REVENDEURS, DISTRIBUTEURS, AGENTS OU EMPLOYÉS, NE SAURAIT CONSTITUER UNE GARANTIE NI ÉTENDRE LA PORTÉE DE CETTE GARANTIE DE QUELQUE FAÇON QUE CE SOIT. VOUS NE POUVEZ PAS VOUS FIER À DE TELS CONSEILS OU INFORMATIONS.
+
+EN AUCUN CAS SAMSUNG OU SES FILIALES, AGENTS OU EMPLOYÉS, NE PEUVENT ÊTRE TENUS RESPONSABLES DES DOMMAGES DIRECTS, INDIRECTS, CONSÉCUTIFS OU ACCIDENTELS (Y COMPRIS LES DOMMAGES DE PERTE DE BÉNÉFICES, D'INTERRUPTION D'ACTIVITÉ, DE PERTE DE DONNÉES, DE PERTE D'INFORMATIONS COMMERCIALES OU TOUTE AUTRE PERTE PÉCUNIAIRE) DÉCOULANT DE L'UTILISATION OU DE L'INCAPACITÉ À UTILISER CETTE APPLICATION OU CE SERVICE MÊME SI SAMSUNG A ÉTÉ AVISÉ DE L'ÉVENTUALITÉ DE TELS DOMMAGES.
+
+Vous vous engagez à assumer l'entière, complète et unique responsabilité de l'utilisation de l'APPLICATION quel qu'en soit le but. Par ailleurs, vous acceptez d'indemniser et de protéger SAMSUNG contre tout dommage, réclamation, poursuite, frais et dépense résultant de votre utilisation de l'APPLICATION à des fins illégales ou en cas de violation du présent Contrat.
+
+5. RÉSILIATION
+
+À la résiliation de ce Contrat, vous devez détruire l'APPLICATION et la Documentation et toutes leurs copies, et retirer et supprimer l'APPLICATION de votre appareil.
+
+SAMSUNG peut résilier le présent Contrat immédiatement par avis écrit vous étant adressé :
+ (a) si vous commettez une violation substantielle ou persistante du présent Contrat que vous ne pouvez pas corriger (si rectifiable) dans les 14 jours après que le service de notification écrite vous a demandé de le faire ;
+ (b) si vous violez l'une des Restrictions de licence ou les restrictions d'utilisation acceptables énoncées à l'article 4 ; et
+ (c) dans le cas où l'APPLICATION est interrompue conformément à la clause 2.6.
+
+En cas de résiliation pour une raison quelconque :
+ (a) l'ensemble des droits qui vous sont accordés au titre du présent Contrat sont résiliés ;
+ (b) vous devez immédiatement cesser toutes les activités autorisées par le présent Contrat, y compris votre utilisation des Services ;
+ (c) vous devez immédiatement supprimer ou retirer l'APPLICATION de tous les appareils, et immédiatement détruire toutes les copies de l'APPLICATION et des Documents en votre possession, sous votre garde ou contrôle et nous certifier que vous l'avez fait ;
+
+6. ACCORD INTÉGRAL ; AUTONOMIE DES DISPOSITIONS
+
+Le présent Contrat constitue l'intégralité de l'accord entre vous et SAMSUNG concernant l'APPLICATION et prévaut sur l'ensemble des communications, propositions et représentations antérieures ou actuelles, orales comme écrites, relatives à l'APPLICATION ou à tout autre élément couvert par le présent Contrat. Le présent Contrat doit être régi par et interprété conformément à la loi de votre juridiction de résidence, sans considération des dispositions en matière de conflits des lois (à l'exclusion des conflits de lois pouvant entraîner l'application de la législation d'une autre juridiction). L'ensemble des conflits, débats ou revendications entre les parties émanant de ou en relation avec le présent Contrat (y compris son existence, sa validité ou sa résiliation) doit être soumis à la compétence non exclusive des tribunaux de votre juridiction de résidence. Chaque partie peut faire valoir ses droits de propriété intellectuelle ou ceux de ses associés dans n'importe quel tribunal compétent, y compris, mais sans s'y limiter, dans le but d'une compensation équitable. L'application de la réglementation de la Convention des Nations Unies sur la vente internationale de marchandises est expressément exclue. Si une disposition de l'entente se révèle inapplicable, en tout ou partie, les autres clauses du présent Contrat resteront pleinement en vigueur.
+
+Si une disposition du présent Contrat est jugée nulle ou inapplicable, ledit jugement n'aura aucun effet sur la validité ou l'applicabilité des autres dispositions de ce Contrat. Ces dernières demeureront en vigueur et conserveront leur signification d'origine. Les titres contenus dans le présent Contrat sont fournis à des fins de référence uniquement et n'affectent pas la signification ni l'interprétation du présent Contrat."</string>
+    <string name="tnc_gb">"Game Recorder+ Terms of Service
+
+PLEASE READ THESE TERMS OF SERVICE CAREFULLY BEFORE USING THE GAME RECORDER+ SERVICES.
+
+Permission to use the Game Recorder+ application is conditional upon your agreeing to the terms. Use of the application by you will be deemed to be acceptance of the terms. Acceptance will bind you to the terms in a legally enforceable contract with Samsung Electronics Co. Ltd.(hereinafter “SAMSUNG”)
+
+Game Recorder+ is a game video recording utility that users can easily use on their smartphones. In order to offer a pleasant game playing experience, to present a responsive recording experience, and to ensure the best video quality results, Game Recorder+ provides a memory optimising feature, which will release reserved system resources and/or close background applications users don't use. This will not delete any applications or data installed in the smartphone's storage space, and users can choose to enable/disable this feature in user settings on Game Recorder+.
+
+IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT, PLEASE DO NOT USE THIS APPLICATION AND PROMPTLY REMOVE IT FROM YOUR DEVICE.
+
+
+AGREED TERMS
+
+
+1. Acknowledgement
+
+1.1. The terms of this Agreement apply to the Game Recorder+ application(hereinafter the “APPLICATION”) or any of the services accessible through the APPLICATION (Services), including any updates or supplements to the APPLICATION, unless they come with separate terms, in which case those terms apply.
+
+1.2. SAMSUNG may change these terms at any time by sending you a notification with details of the change, or notifying you of a change when you update the APPLICATION. The new terms may be displayed on-screen and you may be required to read and accept these terms to continue your use of the Services
+
+1.3. From time to time, updates to the APPLICATION may be issued through the App stores. Depending on the update, you may not be able to use the Services until you have downloaded or streamed the latest version of the APPLICATION and accepted any new terms.
+
+1.4. The APPLICATION may contain links to other independent third-party websites (Third-party Sites). Third-party Sites are not under our control, and we are not responsible for and do not endorse their content or their privacy policies (if any). You will need to make your own independent judgement regarding your interaction with any Third-party Sites, including the purchase and use of any products or services accessible through these sites.
+
+1.5. If you are 13 or older but under the age of 18, you represent that you have reviewed these terms and conditions with your parent or legal guardian and that you and your parent or guardian understand and consent to these terms and conditions. If you are a parent or guardian permitting a person under the age of 18 (“Minor”) to use the APPLICATION, you agree to: (i) supervise the Minor's use of the APPLICATION; (ii) assume all risks associated with the Minor’s use of the APPLICATION, including the transmission of content to and from third parties via the Internet; (iii) assume any liability resulting from the Minor’s use of the APPLICATION; (iv) ensure the accuracy and truthfulness of all information submitted by the Minor; and (v) assume responsibility and be bound by this Agreement with regard to the Minor’s access and use of the APPLICATION.
+
+2. GRANT OF LICENCE and USE OF THE APPLICATION
+
+2.1 SAMSUNG retains the copyright, title and ownership of the APPLICATION and the written materials (“Documentation”) regardless of the form or media in or on which the original and other copies may exist.
+
+2.2. SAMSUNG, as licensor, grants to you, the licensee, a non-exclusive right to install the APPLICATION on a compatible device and use the APPLICATION in accordance with the terms contained in this licence.
+
+2.3. Except as expressly set out in this Agreement or as permitted by any local law, you agree:
+ (a) not to copy the APPLICATION or Documentation, except where such copying is incidental to normal use of the APPLICATION, or where it is necessary for the purpose of back-up or operational security;
+ (b) not to rent, lease, sub-license, loan, translate, merge, adapt, vary or modify the APPLICATION or Documentation;
+ (c) not to make alterations to, or modifications of, the whole or any part of the APPLICATION, or permit the APPLICATION or any part of it to be combined with, or become incorporated in, any other programs;
+ (d) not to disassemble, decompile, reverse-engineer or create derivative works based on the whole or any part of the APPLICATION or attempt to do any such thing, except to the extent that such actions cannot be prohibited because they are essential for the purpose of achieving inter-operability of the APPLICATION with another software program, and provided that the information obtained by you during such activities:
+  i. is used only for the purpose of achieving inter-operability of the APPLICATION with another software program;
+  ii. is not unnecessarily disclosed or communicated without our prior written consent to any third party; and
+  iii. is not used to create any software that is substantially similar to the APPLICATION;
+ (e) to keep all copies of the APPLICATION secure and to maintain accurate and up-to-date records of the number and locations of all copies of the APPLICATION;
+ (f) to include our copyright notice on all entire and partial copies you make of the APPLICATION on any medium;
+ (g) not to provide or otherwise make available the APPLICATION in whole or in part (including object and source code), in any form to any person without prior written consent from us;
+ (h) to comply with all technology control or export laws and regulations that apply to the technology used or supported by the APPLICATION or any Service.
+ (i) not use the APPLICATION or any Service in any unlawful manner, for any unlawful purpose, or in any manner inconsistent with this Agreement, or act fraudulently or maliciously, for example, by hacking into or inserting malicious code, including viruses, or harmful data, into the APPLICATION, any Service or any operating system;
+ (j) not infringe our intellectual property rights or those of any third party in relation to your use of the APPLICATION or any Service (to the extent that such use is not licensed by this Agreement);
+ (k) not transmit any material that is defamatory, offensive or otherwise objectionable in relation to your use of the APPLICATION or any Service;
+ (l) not use the APPLICATION or any Service in a way that could damage, disable, overburden, impair or compromise our systems or security or interfere with other users; and
+ (m) not collect or harvest any information or data from any Service or our systems or attempt to decipher any transmissions to or from the servers running any Service.
+ (together “Licence Restrictions”).
+
+2.4. Use of the APPLICATION may require your device to have access or connection via mobile network or Internet (fees may apply) and certain software, and may require you to obtain updates or upgrades from time to time. Because use of the APPLICATION involves hardware, software and Internet access, your ability to use the APPLICATION may be affected by the suitability and performance of such system requirements. You acknowledge and agree that such system requirements, which may be changed from time to time, are your responsibility. You also acknowledge that the APPLICATION will not be available in all countries or on all devices, and the APPLICATION may be subject to restrictions imposed by your network or Internet provider.
+
+2.5. Samsung’s software that you utilise for the APPLICATION may automatically download and install updates from time to time. You agree to such downloading and installation of updates as part of your use of the APPLICATION. While such updates are for enhancements of the APPLICATION service, in some circumstances some features may be discontinued. Samsung is under no obligation to provide any updates, upgrades, enhancements, modifications, revisions or additions to the Service.
+
+2.6. You agree that Samsung may modify or discontinue the APPLICATION or its features, in whole or in part, with or without notice to you. Samsung reserves the right to change, modify, add, or remove portions of these TOS in its sole discretion with or without prior notice. When we amend these TOS, we will revise the “last updated” date located at the bottom of these TOS. If you access or use the APPLICATION in any way after these TOS have been changed, you will be deemed to have unconditionally consented and agreed to such changes.
+
+
+3. USE OF MATERIALS LICENSED BY THIRD PARTIES
+
+Intellectual property rights in and to any content displayed by or accessed through the APPLICATION belong to the respective content owner. Such content may be protected by copyright or other intellectual property laws and treaties, and may be subject to terms of use of the third party providing such content. Content owners of the relevant games which you record using the APPLICATION may prohibit such recording, and it may result in suspension of the recording feature for the relevant games. Except as otherwise provided in this Agreement, (i) this Agreement does not grant you any rights to use such content nor does it guarantee that such content will continue to be available to you and (ii) you shall not use commercially or illegally any videos, photographs, images, graphics, artwork, audio or similar assets (“Digital Materials”) accessed through the APPLICATION, or otherwise use the Digital Materials outside the context of its intended use as part of the APPLICATION.
+
+4. DISCLAIMER OF WARRANTY
+
+THIS APPLICATION AND ACCOMPANYING DOCUMENTATION (INCLUDING INSTRUCTIONS FOR USE) ARE PROVIDED “AS IS” WITHOUT WARRANTY OF ANY KIND. FURTHER, SAMSUNG DOES NOT WARRANT, GUARANTEE, OR MAKE ANY REPRESENTATIONS REGARDING THE USE, OR THE RESULTS OF USE, OF THE APPLICATION OR DOCUMENTATION IN TERMS OF CORRECTNESS, ACCURACY, RELIABILITY, CURRENTNESS, OR OTHERWISE. THE ENTIRE RISK AS TO THE RESULTS AND PERFORMANCE OF THE APPLICATION IS ASSUMED BY YOU. IF THE APPLICATION OR DOCUMENTATION IS DEFECTIVE, YOU, AND NOT SAMSUNG OR ITS AFFILIATES, AGENTS, OR EMPLOYEES, ASSUME THE ENTIRE COST OF ALL NECESSARY SERVICE, REPAIR OR CORRECTION.
+
+SAMSUNG DISCLAIMS ALL OTHER WARRANTIES, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. SAMSUNG DOES NOT WARRANT THAT THE APPLICATION WILL BE UNINTERRUPTED OR ERROR-FREE. NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY SAMSUNG, ITS DEALERS, DISTRIBUTORS, AGENTS OR EMPLOYEES SHALL CREATE A WARRANTY OR IN ANY WAY INCREASE THE SCOPE OF THIS WARRANTY AND YOU MAY NOT RELY ON ANY SUCH INFORMATION OR ADVICE.
+
+IN NO EVENT SHALL SAMSUNG OR ITS AFFILIATES, AGENTS, OR EMPLOYEES BE LIABLE FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL OR INCIDENTAL DAMAGES (INCLUDING DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF DATA, LOSS OF BUSINESS INFORMATION, OR OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OR INABILITY TO USE SUCH APPLICATION OR SERVICE EVEN IF SAMSUNG HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+You agree to bear the full, complete and sole responsibility for using the APPLICATION for any purpose. You also agree to indemnify and hold SAMSUNG harmless from any claims, proceedings, damages, costs and expenses resulting from your use of the APPLICATION for any illegal purpose or in breach of this Agreement.
+
+5. TERMINATION
+
+Upon termination of this Agreement, you should destroy the APPLICATION and the Documentation and all the copies thereof and remove and delete the APPLICATION from your device.
+
+SAMSUNG may terminate this Agreement immediately by written notice to you:
+ (a) if you commit a material or persistent breach of this Agreement which you fail to remedy (if remediable) within 14 days after the service of written notice requiring you to do so;
+ (b) if you breach any of the Licence Restrictions or the acceptable use restrictions set out in clause 4; and
+ (c) in the event that it discontinues the APPLICATION pursuant to clause 2.6.
+
+On termination for any reason:
+ (a) all rights granted to you under this Agreement shall cease;
+ (b) you must immediately cease all activities authorised by this Agreement, including your use of any Services;
+ (c) you must immediately delete or remove the APPLICATION from all Devices, and immediately destroy all copies of the APPLICATION and Documents then in your possession, custody or control and certify to us that you have done so;
+
+6. ENTIRE AGREEMENT; SEVERABILITY
+
+This Agreement constitutes the entire agreement between you and SAMSUNG relating to the APPLICATION and supersedes all prior or contemporaneous oral or written communications, proposals and representations with respect to the APPLICATION or any other subject matter covered by this Agreement. This Agreement shall be governed by and construed in accordance with the laws of the jurisdiction where you are a resident, without regard to its conflict of law provisions (excluding conflict of law provisions which may direct the application of another jurisdiction’s laws). All disputes, controversies or claims between the parties arising out of or in connection with this Agreement (including its existence, validity or termination) shall be subject to the non-exclusive jurisdiction of the courts of the jurisdiction where you are a resident. Each party may enforce its or its affiliates’ intellectual property rights in any court of competent jurisdiction, including but not limited to equitable relief. The application of the United Nations Convention on Contracts for International Sale of Goods (“CISG”) is hereby expressly excluded. Should any provision or a part of it be found not to be enforceable, the other provisions of this Agreement are continuously and completely valid.
+
+If any term or provision of this Agreement is held to be void or unenforceable, such determination shall not affect the validity of enforceability of the remaining terms and provisions of this Agreement. The remaining provisions of this Agreement shall remain in effect and shall be construed in accordance with its terms. The headings contained in this Agreement are for reference purposes only and shall not affect the meaning or interpretation of this Agreement."</string>
+    <string name="tnc_it">"Termini di servizio di Game Recorder+
+
+SI PREGA DI LEGGERE ATTENTAMENTE I SEGUENTI TERMINI DI SERVIZIO PRIMA DI UTILIZZARE I SERVIZI GAME RECORDER+.
+
+L’autorizzazione a utilizzare l’applicazione Game Recorder+ è subordinata all’accettazione dei presenti termini. L’utilizzo dell’applicazione da parte dell’utente implica l’accettazione dei presenti termini. Tale accettazione vincolerà l’utente in un contratto applicabile legalmente con Samsung Electronics Co. Ltd. (di seguito “SAMSUNG”)
+
+Game Recorder+ è un’utilità per la registrazione video nei giochi che è possibile utilizzare in modo semplice negli smartphone. Al fine di offrire un’esperienza di gioco piacevole, assicurare una registrazione tempestiva e garantire la migliore qualità video, Game Recorder+ fornisce una funzionalità di ottimizzazione della memoria che rilascerà risorse di sistema riservate e/o chiuderà le applicazioni in background non utilizzate. Tale procedura non eliminerà le applicazioni o i dati installati nello spazio di archiviazione dello smartphone. Inoltre l’utente può scegliere di attivare/disattivare questa funzionalità dalle impostazioni utente di Game Recorder+.
+
+SI PREGA DI NON UTILIZZARE QUESTA APPLICAZIONE E DI RIMUOVERLA IMMEDIATAMENTE DAL PROPRIO DISPOSITIVO SE NON SI ACCETTANO I TERMINI DEL PRESENTE CONTRATTO.
+
+
+TERMINI CONCORDATI
+
+
+1. Accettazione
+
+1.1. I termini del presente Contratto si applicano a Game Recorder+ (di seguito “APPLICAZIONE”) o a eventuali servizi accessibili tramite l’APPLICAZIONE (Servizi), compresi eventuali aggiornamenti o integrazioni dell’APPLICAZIONE, purché non dotati di termini separati, nel qual caso si applicheranno questi ultimi.
+
+1.2. SAMSUNG potrà modificare i presenti termini in qualsiasi momento inviando all’utente una notifica contenente i dettagli della modifica oppure informando l’utente durante l’aggiornamento dell’APPLICAZIONE. È possibile che i nuovi termini vengano visualizzati sullo schermo e all’utente venga richiesto di leggerli e accettarli per continuare a utilizzare i Servizi.
+
+1.3. Periodicamente possono essere rilasciati aggiornamenti dell’APPLICAZIONE tramite gli App Store di Samsung. In base all’aggiornamento, è possibile che l’utente debba scaricare e installare la versione più recente dell’APPLICAZIONE e accettarne eventuali nuovi termini prima di poter utilizzare i Servizi.
+
+1.4. L’APPLICAZIONE potrebbe contenere collegamenti a siti Web di terzi (Siti di terzi). Questi siti non sono controllati da Samsung e quest’ultima non si assume alcuna responsabilità e non ne approva i contenuti o le relative informative sulla privacy (se disponibili). In caso di interazione con siti di terzi, ad esempio per l’acquisto e l’utilizzo di eventuali prodotti o servizi accessibili tramite i medesimi siti, sarà l’utente con autonomia di giudizio a decidere.
+
+1.5. Se ha 13 anni o più, ma meno di 18 anni, l’utente dichiara di aver letto i presenti Termini e Condizioni con un genitore o tutore legale e di averli compresi e accettati, insieme al genitore o tutore legale. Il genitore o tutore legale di una persona di età inferiore a 18 anni (“Minore”) che utilizza l’APPLICAZIONE accetta di: (i) supervisionare l’utilizzo dell’APPLICAZIONE da parte del Minore; (ii) assumersi i rischi associati all’utilizzo dell’APPLICAZIONE da parte del Minore, compresa la trasmissione di contenuto verso e da terzi tramite Internet; (iii) assumersi qualsiasi responsabilità derivante dall’utilizzo dell’APPLICAZIONE da parte del Minore; (iv) garantire l’accuratezza e la veridicità delle informazioni fornite dal Minore; e (v) assumersi la responsabilità ed essere vincolato dal presente Contratto in relazione all’accesso e all’utilizzo dell’APPLICAZIONE da parte del Minore.
+
+2. CONCESSIONE DELLA LICENZA e UTILIZZO DELL’APPLICAZIONE
+
+2.1 SAMSUNG mantiene il copyright, il titolo e la proprietà dell’APPLICAZIONE e i materiali scritti (“Documentazione”), indipendentemente dalla forma o dal supporto in cui si trovino l’originale e le copie.
+
+2.2. SAMSUNG, in quanto concessore di licenza, concede al licenziatario un diritto non esclusivo a installare l’APPLICAZIONE su un dispositivo compatibile e utilizzare l’APPLICAZIONE in conformità ai termini contenuti nella presente licenza.
+
+2.3. Ad eccezione di quanto espressamente stabilito nel presente Contratto o di quanto consentito dalle normative locali, l’utente accetta:
+ (a) di non copiare l’APPLICAZIONE o la Documentazione salvo nel caso in cui tale copia sia incidentale rispetto al normale utilizzo dell’APPLICAZIONE o nel caso in cui sia necessario ai fini di backup o sicurezza operativa;
+ (b) di non affittare, concedere in leasing, concedere in sublicenza, prestare, tradurre, raggruppare, adattare, variare o modificare l’APPLICAZIONE o la Documentazione;
+ (c) di non apportare alterazioni o modifiche all’intera APPLICAZIONE o a una sua parte oppure di permettere che l’APPLICAZIONE o eventuali sue parti vengano combinate con o integrate in altri programmi;
+ (d) di non disassemblare, decompilare, decodificare o creare opere derivate basate sull’APPLICAZIONE, in tutto o in parte, fatto salvo nel caso tali attività siano essenziali per scopi atti a ottenere l’interoperabilità dell’APPLICAZIONE stessa con un altro programma software, purché le informazioni ottenute dall’utente durante tali attività soddisfino le seguenti condizioni:
+  i. Vengano utilizzate solo allo scopo di ottenere l’interoperabilità dell’APPLICAZIONE con un altro programma software;
+  ii. Non vengano inutilmente divulgate o comunicate senza il previo consenso scritto di Samsung nei confronti di terzi e;
+  iii. Non vengano utilizzate per creare software sostanzialmente simile all’APPLICAZIONE;
+ (e) di conservare in modo sicuro tutte le copie dell’APPLICAZIONE e di mantenere una documentazione precisa e aggiornata sul numero e sulle collocazioni di tutte le copie dell’APPLICAZIONE;
+ (f) di includere la nota sul copyright nell’APPLICAZIONE intera o in copie parziali della medesima salvate su qualsiasi supporto;
+ (g) di non fornire o rendere disponibile in altro modo l’APPLICAZIONE, per intero o in parte (compresi il codice oggetto e il codice sorgente), in qualsiasi forma a terzi senza il previo consenso scritto di Samsung;
+ (h) di rispettare tutte le leggi e normative in merito a esportazione e controllo della tecnologia, che si applicano alla tecnologia utilizzata o supportata dall’APPLICAZIONE o da qualsiasi Servizio.
+ (i) di non utilizzare l’APPLICAZIONE o un qualsiasi servizio in modo illecito e per finalità illecite o in modo non conforme al presente Contratto, oppure di agire in modo fraudolento o doloso, ad esempio tramite un’azione di pirateria informatica o l’inserimento di codice dannoso, compresi virus o dati dannosi nell’APPLICAZIONE, in qualsiasi Servizio o sistema operativo;
+ (j) di non violare i diritti di proprietà intellettuale di Samsung o di terzi in relazione all’utilizzo dell’APPLICAZIONE o di qualsiasi Servizio da parte dell’utente (nella misura in cui tale utilizzo non sia concesso in licenza dal presente Contratto);
+ (k) di non trasmettere materiale diffamatorio, offensivo o altrimenti sgradevole in relazione all’utilizzo dell’APPLICAZIONE o di qualsiasi Servizio da parte dell’utente;
+ (l) di non utilizzare l’APPLICAZIONE o qualsiasi Servizio in un modo che potrebbe danneggiare, disabilitare, sovraccaricare, compromettere i sistemi o la sicurezza di Samsung oppure interferire con altri utenti e;
+ (m) di non raccogliere, raggruppare informazioni o dati da qualsiasi Servizio o dai sistemi Samsung oppure di non tentare di decifrare le trasmissioni verso o dai server su cui è in esecuzione qualsiasi Servizio.
+ (complessivamente “Limitazioni della licenza”).
+
+2.4. Per l’utilizzo dell’APPLICAZIONE potrebbe essere necessario che il dispositivo dell’utente disponga dell’accesso o di una connessione tramite rete mobile o Internet (eventualmente a pagamento) e di un determinato software, il quale a sua volta potrebbe esigere aggiornamenti o upgrade periodici. Poiché l’utilizzo dell’APPLICAZIONE comporta la disponibilità di hardware, software e dell’accesso a Internet, la fruibilità dell’APPLICAZIONE potrebbe risentire dell’idoneità e delle prestazioni di tali requisiti di sistema. L’utente riconosce e accetta che tali requisiti di sistema, che possono essere modificati di tanto in tanto, sono di sua esclusiva responsabilità. L’utente riconosce, inoltre, che l’APPLICAZIONE non è disponibile in tutti i Paesi né su tutti i dispositivi e che l’APPLICAZIONE stessa potrebbe essere soggetta a limitazioni imposte dal fornitore di servizi di rete o di servizi Internet.
+
+2.5. Il software di Samsung utilizzato per l’APPLICAZIONE periodicamente può scaricare e installare automaticamente aggiornamenti. L’utente accetta che tali aggiornamenti vengano scaricati e installati per utilizzare l’APPLICAZIONE. Sebbene tali aggiornamenti abbiano lo scopo di ottimizzare l’APPLICAZIONE, in talune circostanze alcune funzioni potrebbero non essere disponibili. Tuttavia, Samsung non ha alcun obbligo di fornire aggiornamenti, miglioramenti, modifiche, revisioni o aggiunte al Servizio.
+
+2.6. L’utente accetta che Samsung modifichi o sospenda l’APPLICAZIONE o le sue funzioni, per intero o in parte, con o senza preavviso. Samsung si riserva il diritto di cambiare, modificare, aggiungere o rimuovere parti di questi Termini di servizio a sua esclusiva discrezione con o senza preavviso. Ad ogni modifica dei Termini di servizio, Samsung rivede la data dell’ultimo aggiornamento riportata in basso. L’accesso o l’utilizzo dell’APPLICAZIONE da parte dell’utente, in qualsiasi modo, dopo la modifica dei Termini di servizio implica l’accettazione e l’approvazione incondizionata di tali modifiche.
+
+
+3. UTILIZZO DI MATERIALI CONCESSI IN LICENZA DA TERZI
+
+I diritti di proprietà intellettuale relativi a qualsiasi contenuto visualizzato da o acquisito tramite l’APPLICAZIONE appartengono ai rispettivi proprietari. Tale contenuto potrebbe essere protetto da copyright o da altre leggi e trattati sulla proprietà intellettuale e potrebbe altresì essere soggetto alle condizioni per l’utilizzo dei terzi che forniscono tale contenuto. I proprietari del contenuto dei giochi, che viene registrato durante l’utilizzo dell’APPLICAZIONE, potrebbero proibire tale operazione con la conseguente sospensione della funzionalità di registrazione nei giochi stessi. Ad eccezione di quanto espressamente stabilito, (i) il presente Contratto non concede alcun diritto a utilizzare tale contenuto né garantisce che tale contenuto continuerà a essere disponibile per l’utente; (ii) l’utente non dovrà utilizzare video, fotografie, immagini, grafica, audio o risorse simili (“Materiali digitali”) acquisiti dall’APPLICAZIONE o utilizzare i Materiali digitali al di fuori del contesto a cui sono destinati nell’ambito dell’APPLICAZIONE.
+
+4. ESCLUSIONI DI GARANZIA
+
+QUESTA APPLICAZIONE E LA DOCUMENTAZIONE ACCLUSA (COMPRESE LE ISTRUZIONI DI UTILIZZO) VENGONO FORNITE “COSÌ COME SONO” SENZA GARANZIA DI ALCUN TIPO. INOLTRE, SAMSUNG NON GARANTISCE O FORNISCE ALCUNA DICHIARAZIONE IN MERITO ALL’UTILIZZO O ALLE CONSEGUENZE DELL’UTILIZZO DELL’APPLICAZIONE O DELLA DOCUMENTAZIONE IN TERMINI DI CORRETTEZZA, PRECISIONE, AFFIDABILITÀ, AGGIORNAMENTO O ALTRO. L’UTENTE SI ASSUME L’INTERO RISCHIO RELATIVO ALLE CONSEGUENZE E ALLE PRESTAZIONI DELL’APPLICAZIONE. QUALORA L’APPLICAZIONE O LA DOCUMENTAZIONE FOSSERO DIFETTOSE, L’UTENTE SI ASSUMERÀ L’INTERO ONERE DI TUTTE LE ATTIVITÀ DI ASSISTENZA, RIPARAZIONE O CORREZIONE E NON SAMSUNG, LE SUE CONSOCIATE, I SUOI AGENTI O DIPENDENTI.
+
+SAMSUNG ESCLUDE TUTTE LE ALTRE GARANZIE, ESPLICITE O IMPLICITE, COMPRESE, IN VIA ESEMPLIFICATIVA, LA GARANZIA IMPLICITA DI COMMERCIABILITÀ, DI IDONEITÀ PER UN FINE PARTICOLARE E DI NON VIOLAZIONE DI DIRITTI ALTRUI. SAMSUNG NON GARANTISCE CHE L’APPLICAZIONE FUNZIONERÀ IN MODO ININTERROTTO O CHE NON SARÀ SOGGETTA A ERRORI. NESSUN CONSIGLIO O INFORMAZIONE, VERBALE O SCRITTA, FORNITA DA SAMSUNG, I SUOI RIVENDITORI, DISTRIBUTORI, AGENTI O DIPENDENTI CREERÀ I PRESUPPOSTI PER UNA GARANZIA O IN ALCUN MODO ESTENDERÀ LA PORTATA DELLA PRESENTE GARANZIA E L’UTENTE NON POTRÀ FARE AFFIDAMENTO SU TALI INFORMAZIONI O CONSIGLI.
+
+NELLA MISURA MASSIMA CONSENTITA DALLA LEGGE, IN NESSUN CASO SAMSUNG O I RELATIVI AFFILIATI, AGENTI O DIPENDENTI SARANNO RESPONSABILI PER EVENTUALI DANNI DIRETTI, INDIRETTI, CONSEQUENZIALI O INCIDENTALI (INCLUSI I DANNI PER PERDITA DI PROFITTI COMMERCIALI, INTERRUZIONE DI ATTIVITÀ COMMERCIALE, PERDITA DI DATI, PERDITA DI INFORMAZIONI COMMERCIALI O ALTRA PERDITA PECUNIARIA) CONNESSI ALL’UTILIZZO O ALL’INCAPACITÀ A UTILIZZARE TALE APPLICAZIONE O SERVIZIO, ANCHE QUALORA SAMSUNG SIA INFORMATA DELLA POSSIBILITÀ DI TALI DANNI.
+
+L’utente si assume la completa, totale ed esclusiva responsabilità in merito all’utilizzo dell’APPLICAZIONE per qualsiasi finalità. L’utente accetta inoltre di indennizzare e difendere SAMSUNG nel caso di eventuali reclami, procedimenti, danni, costi e spese derivanti dall’utilizzo dell’APPLICAZIONE per qualsiasi finalità illecita o violazione del presente Contratto.
+
+5. RISOLUZIONE
+
+Al momento della risoluzione del presente Contratto, l’utente deve distruggere l’APPLICAZIONE, la relativa Documentazione e tutte le copie della medesima, nonché rimuovere ed eliminare l’APPLICAZIONE dal proprio dispositivo.
+
+SAMSUNG potrà risolvere il presente Contratto immediatamente a mezzo notifica scritta inviata all’utente:
+ (a) se l’utente commette una violazione materiale o permanente del presente Contratto a cui non ponga rimedio (se possibile) entro 14 giorni dalla notifica scritta della misura correttiva;
+ (b) se l’utente viola le Limitazioni della licenza o le limitazioni di utilizzo accettabili illustrate alla clausola 4 e;
+ (c) nel caso venga interrotta l’APPLICAZIONE in conformità alla clausola 2.6.
+
+In caso di risoluzione per qualsiasi motivo:
+ (a) tutti i diritti concessi all’utente in base al presente Contratto cesseranno;
+ (b) l’utente dovrà immediatamente interrompere tutte le attività autorizzate dal presente Contratto, compreso l’utilizzo di qualsiasi Servizio;
+ (c) l’utente dovrà immediatamente eliminare o rimuovere l’APPLICAZIONE da tutti i dispositivi e immediatamente distruggere tutte le copie dell’APPLICAZIONE e relativa documentazione in proprio possesso, sotto la propria custodia o sotto il suo controllo e di certificare a Samsung di aver agito in tal senso;
+
+6. INTERO CONTRATTO; VALIDITÀ DELLE DISPOSIZIONI CONTRATTUALI
+
+Il presente Contratto costituisce l’intero accordo stipulato tra l’utente e SAMSUNG in relazione all’APPLICAZIONE e sostituisce tutte le comunicazioni, proposte e dichiarazioni precedenti o concomitanti, verbali o scritte, riguardanti l’APPLICAZIONE e qualsiasi altro argomento trattato dal presente Contratto. Il presente Contratto è regolato e dovrà essere interpretato in conformità alle leggi della giurisdizione in cui risiede l’utente, indipendentemente da conflitti di legge (a esclusione delle norme relative ai conflitti di legge che potrebbero imporre l’applicazione delle leggi di un’altra giurisdizione). Ogni disputa, controversia, o rivendicazione sorta tra le parti, che sia derivante o connessa al presente Contratto (inclusa la sua esistenza, validità o risoluzione) sarà soggetta alla giurisdizione non esclusiva dei tribunali della giurisdizione in cui l’utente risiede. Ciascuna delle due parti potrà far valere i diritti di proprietà intellettuale, propri o di suoi affiliati, in qualunque tribunale di competente giurisdizione, incluso, in via non limitativa, l’equo risarcimento. È espressamente esclusa l’applicazione della Convenzione delle Nazioni Unite sulla vendita internazionale di beni (“CISG”). Qualora una qualunque sua disposizione o parte di esso dovesse risultare inapplicabile, le altre disposizioni del presente Contratto continueranno ad essere pienamente valide.
+
+Se uno dei termini o disposizioni del presente Contratto viene ritenuto non valido o non applicabile, tale dichiarazione non influirà sulla validità dell’applicabilità dei rimanenti termini e disposizioni del Contratto stesso. Le rimanenti disposizioni del Contratto resteranno valide e saranno interpretate in conformità ai Termini corrispondenti. I titoli contenuti nel presente Contratto hanno solo valore di riferimento e non influenzano il significato e l’interpretazione del presente Contratto."</string>
+    <string name="tnc_us">"Game Recorder+ Terms of Service
+
+PLEASE READ THESE TERMS OF SERVICE CAREFULLY BEFORE USING THE GAME RECORDER+ SERVICES.
+
+Permission to use the Game Recorder+ application is conditional upon your agreeing to the terms. Use of the application by you will be deemed to be acceptance of the terms. Acceptance will bind you to the terms in a legally enforceable contract with Samsung Electronics Co. Ltd.(hereinafter the SAMSUNG)
+
+Game Recorder+ is a game video recording utility that users can easily use on their smartphones.  In order to offer a pleasant game play, to present responsive recording experience, and to ensure the best video quality results, Game Recorder+ provides a memory optimizing feature, which will release reserved system resources and/or close background applications users don't use. This will not delete any applications or data that are installed on the smartphone's storage space, and users can choose to enable/disable this feature in user settings on Game Recorder+.
+
+IF YOU DO NOT AGREE TO THE TERMS OF THIS AGREEMENT, PLEASE DO NOT USE THIS APPLICATION AND PROMPTLY REMOVE IT FROM YOUR DEVICE.
+
+
+AGREED TERMS
+
+
+1. Acknowledgement
+
+1.1. The terms of this Agreement apply to the Game Recorder+ application(hereinafter the APPLICATION)  or any of the services accessible through the APPLICATION (Services), including any updates or supplements to the APPLICATION, unless they come with separate terms, in which case those terms apply.
+
+1.2. SAMSUNG may change these terms at any time by sending you a notification with details of the change or notifying you of a change when you update the APPLICATION. The new terms may be displayed on-screen and you may be required to read and accept them to continue your use of the Services
+
+1.3. From time to time updates to the APPLICATION may be issued through the App stores. Depending on the update, you may not be able to use the Services until you have downloaded or streamed the latest version of the APPLICATION and accepted any new terms.
+
+1.4. The APPLICATION may contain links to other independent third-party websites (Third-party Sites). Third-party Sites are not under our control, and we are not responsible for and do not endorse their content or their privacy policies (if any). You will need to make your own independent judgement regarding your interaction with any Third-party Sites, including the purchase and use of any products or services accessible through them.
+
+1.5. If you are 13 or older but under the age of 18, you represent that you have reviewed these terms and conditions with your parent or legal guardian and that you and your parent or guardian understand and consent to these terms and conditions. If you are a parent or guardian permitting a person under the age of 18 (Minor) to use the APPLICATION, you agree to: (i) supervise the Minor's use of the APPLICATION; (ii) assume all risks associated with the Minor’s use of the APPLICATION, including the transmission of content to and from third parties via the Internet; (iii) assume any liability resulting from the Minor’s use of the APPLICATION; (iv) ensure the accuracy and truthfulness of all information submitted by the Minor; and (v) assume responsibility and are bound by this Agreement for the Minor’s access and use of the APPLICATION.
+
+2. GRANT OF LICENSE and USE OF THE APPLICATION
+
+2.1 SAMSUNG retains the copyright, title and ownership of the APPLICATION and the written materials (Documentation) regardless of the form or media in or on which the original and other copies may exist.
+
+2.2. SAMSUNG, as licensor, grants to you, the licensee, a non-exclusive right to install the APPLICATION on a compatible device and use the APPLICATION in accordance with the terms contained in this license.
+
+2.3. Except as expressly set out in this Agreement or as permitted by any local law, you agree:
+ (a) not to copy the APPLICATION or Documentation except where such copying is incidental to normal use of the APPLICATION, or where it is necessary for the purpose of back-up or operational security;
+ (b) not to rent, lease, sub-license, loan, translate, merge, adapt, vary or modify the APPLICATION or Documentation;
+ (c) not to make alterations to, or modifications of, the whole or any part of the APPLICATION, or permit the APPLICATION or any part of it to be combined with, or become incorporated in, any other programs;
+ (d) not to disassemble, decompile, reverse-engineer or create derivative works based on the whole or any part of the APPLICATION or attempt to do any such thing except to the extent that such actions cannot be prohibited because they are essential for the purpose of achieving inter-operability of the APPLICATION with another software program, and provided that the information obtained by you during such activities:
+  i. is used only for the purpose of achieving inter-operability of the APPLICATION with another software program;
+  ii. is not unnecessarily disclosed or communicated without our prior written consent to any third party; and
+  iii. is not used to create any software that is substantially similar to the APPLICATION;
+ (e) to keep all copies of the APPLICATION secure and to maintain accurate and up-to-date records of the number and locations of all copies of the APPLICATION;
+ (f) to include our copyright notice on all entire and partial copies you make of the APPLICATION on any medium;
+ (g) not to provide or otherwise make available the APPLICATION in whole or in part (including object and source code), in any form to any person without prior written consent from us;
+ (h) to comply with all technology control or export laws and regulations that apply to the technology used or supported by the APPLICATION or any Service.
+ (i) not use the APPLICATION or any Service in any unlawful manner, for any unlawful purpose, or in any manner inconsistent with this Agreement, or act fraudulently or maliciously, for example, by hacking into or inserting malicious code, including viruses, or harmful data, into the APPLICATION, any Service or any operating system;
+ (j) not infringe our intellectual property rights or those of any third party in relation to your use of the APPLICATION or any Service (to the extent that such use is not licensed by this Agreement);
+ (k) not transmit any material that is defamatory, offensive or otherwise objectionable in relation to your use of the APPLICATION or any Service;
+ (l) not use the APPLICATION or any Service in a way that could damage, disable, overburden, impair or compromise our systems or security or interfere with other users; and
+ (m) not collect or harvest any information or data from any Service or our systems or attempt to decipher any transmissions to or from the servers running any Service.
+ (together “License Restrictions”).
+
+2.4. Use of the APPLICATION may require your devices to have access or connection via mobile network or Internet (fees may apply), and certain software, and may require obtaining updates or upgrades from time to time. Because use of the APPLICATION involves hardware, software, and Internet access, your ability to use the APPLICATION may be affected by the suitability and performance of such system requirements. You acknowledge and agree that such system requirements, which may be changed from time to time, are your responsibility. You also acknowledge that the APPLICATION will not be available in all countries or on all devices, and the APPLICATION may be subject to restrictions imposed by your network or internet provider.
+
+2.5. Samsung’s software that you utilize for the APPLICATION may automatically download and install updates from time to time. You agree to such downloading and installation of updates as part of your use of the APPLICATION. While such updates are for enhancements of the APPLICATION service, in some circumstances some features may be discontinued. Samsung is under no obligation to provide any updates, upgrades, enhancements, modifications, revisions or additions to the Service.
+
+2.6. You agree that Samsung may modify or discontinue the APPLICATION or its features, in whole or in part, with or without notice to you. Samsung reserves the right to change, modify, add, or remove portions of these TOS in its sole discretion with or without prior notice. When we amend these TOS, we will revise the “last updated” date located at the bottom of these TOS. If you access or use the APPLICATION in any way after these TOS have been changed, you will be deemed to have unconditionally consented and agreed to such changes.
+
+
+3. USE OF MATERIALS LICENSED BY THIRD PARTIES
+
+Intellectual property rights in and to any content displayed by or accessed through the APPLICATION belong to the respective content owner. Such content may be protected by copyright or other intellectual property laws and treaties, and may be subject to terms of use of the third party providing such content. Such content owners of the relevant games which you record by using the APPLICATION may prohibit such recording, and it may result in suspension of the recording feature for the relevant games. Except as otherwise provided in this Agreement, (i) this Agreement does not grant you any rights to use such content nor does it guarantee that such content will continue to be available to you and (ii) you shall not use commercially or illegally any videos, photographs, images, graphics, artwork, audio or similar assets (“Digital Materials”) accessed through the APPLICATION, or otherwise use the Digital Materials outside the context of its intended use as part of the APPLICATION.
+
+4. DISCLAIMER OF WARRANTY
+
+THIS APPLICATION AND ACCOMPANYING DOCUMENTATAION (INCLUDING INSTRUCTIONS FOR USE) ARE PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND. FURTHER, SAMSUNG DOES NOT WARRANT, GUARANTEE, OR MAKE ANY REPRESENTATIONS REGARDING THE USE, OR THE RESULTS OF USE, OF THE APPLICATION OR DOCUMENTATION IN TERMS OF CORRECTNESS, ACCURACY, RELIABILITY, CURRENTNESS, OR OTHERWISE. THE ENTIRE RISK AS TO THE RESULTS AND PERFORMANCE OF THE APPLICATION IS ASSUMED BY YOU. IF THE APPLICATION OR DOCUMENTATION IS DEFECTIVE, YOU, AND NOT SAMSUNG OR ITS AFFILIATES, AGENTS, OR EMPLOYEES, ASSUME THE ENTIRE COST OF ALL NECESSARY SERVICE, REPAIR OR CORRECTION.
+
+SAMSUNG DISCLAIMS ALL OTHER WARRANTIES, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. SAMSUNG DOES NOT WARRANT THAT THE APPLICATION WILL BE UNINTERRUPTED OR ERROR-FREE. NO ORAL OR WRITTEN INFORMATION OR ADVICE GIVEN BY SAMSUNG, ITS DEALERS, DISTRIBUTORS, AGENTS OR EMPLOYEES SHALL CREATE A WARRANTY OR IN ANY WAY INCREASE THE SCOPE OF THIS WARRANTY AND YOU MAY NOT RELY ON ANY SUCH INFORMATION OR ADVICE.
+
+IN NO EVENT SHALL SAMSUNG OR ITS AFFILIATES, AGENTS, OR EMPLOYEES BE LIABLE FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL OR INCIDENTAL DAMAGES (INCLUDING DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF DATA, LOSS OF BUSINESS INFORMATION, OR OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OR INABILITY TO USE SUCH APPLICATION OR SERVICE EVEN IF SAMSUNG HAS BEEN ADVISED OF THE POSSBILITY OF SUCH DAMAGES.
+
+You agree to bear the full, complete, and sole responsibility for using the APPLICATION of any purpose. You also agree to indemnify and hold SAMSUNG harmless from any claims, proceedings, damages, costs, and expenses resulting from your use of the APPLICATION for any illegal purpose or in breach of this Agreement.
+
+5. TERMINATION
+
+Upon termination of this Agreement, you should destroy the APPLICATION and the Documentation and all the copies thereof and remove and delete the APPLICATION from your device.
+
+SAMSUNG may terminate this Agreement immediately by written notice to you:
+ (a) if you commit a material or persistent breach of this Agreement which you fail to remedy (if remediable) within 14 days after the service of written notice requiring you to do so;
+ (b) if you breach any of the License Restrictions or the acceptable use restrictions set out at clause 4; and
+ (c) in the event that it discontinues the APPLICATION pursuant to clause 2.6.
+
+On termination for any reason:
+ (a) all rights granted to you under this Agreement shall cease;
+ (b) you must immediately cease all activities authorized by this Agreement, including your use of any Services;
+ (c) you must immediately delete or remove the APPLICATION from all Devices, and immediately destroy all copies of the APPLICATION and Documents then in your possession, custody or control and certify to us that you have done so;
+
+6. ENTIRE AGREEMENT; SEVERABILITY
+
+This Agreement constitutes the entire agreement between you and SAMSUNG relating to the APPLICATION and supersedes all prior or contemporaneous oral or written communications, proposals and representations with respect to the APPLICATION or any other subject matter covered by this Agreement. This Agreement shall be governed by and construed in accordance with the laws of the jurisdiction where you are a resident, without regard to its conflict of law provisions (excluding conflict of laws provisions which may direct the application of another jurisdiction’s laws). All disputes, controversies or claims between the parties arising out of or in connection with this Agreement (including its existence, validity or termination) shall be subject to the non-exclusive jurisdiction of the courts of the jurisdiction where you are a resident. Each party may enforce its or its affiliates’ intellectual property rights in any court of competent jurisdiction, including but not limited to equitable relief. The application of the United Nations Convention on Contracts for International Sale of Goods (“CISG”) is hereby expressly excluded. Should any provision or a part of it be found not to be enforceable, the other provisions of this Agreement are continuously and completely valid.
+
+If any term or provision of this Agreement is held to be void or unenforceable, such determination shall not affect the validity of enforceability of the remaining terms and provisions of this Agreement. The remaining provisions of this Agreement shall remain in effect and shall be construed in accordance with its terms. The headings contained in this Agreement are for reference purposes only and shall not affect the meaning or interpretation of this Agreement."</string>
+    <string name="toast_record_fail">녹화를 시작 할 수 없습니다.</string>
+    <string name="toast_record_fail_not_enought_time">녹화가 취소 되었습니다.</string>
+    <string name="toast_record_save_fail">죄송합니다. 녹화 영상을 저장 할 수 없습니다.</string>
+    <string name="toast_record_time_limit">최대 녹화 시간인 60분을 초과하여 녹화가 중단 됩니다. 녹화 영상은 자동저장 됩니다.</string>
+    <string name="yes">yes</string>
+    <string name="zero">zero</string>
+</resources>

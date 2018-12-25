@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="day_picker_description">Month grid of days</string>
+    <string name="deleted_key">%1$s deleted</string>
+    <string name="done_label">Done</string>
+    <string name="hour_picker_description">Hours circular slider</string>
+    <string name="item_is_selected">%1$s selected</string>
+    <string name="minute_picker_description">Minutes circular slider</string>
+    <string name="select_day">Select month and day</string>
+    <string name="select_hours">Select hours</string>
+    <string name="select_minutes">Select minutes</string>
+    <string name="select_year">Select year</string>
+    <string name="year_picker_description">Year list</string>
+    <string name="retry">Retry</string>
+    <string name="undo">Undo</string>
+    <string name="about_btn_contact">Contact us!</string>
+    <string name="about_btn_googleplus">Parking Now on Google+</string>
+    <string name="about_btn_licenses">Licenses</string>
+    <string name="about_btn_rate">Rate us on the Play Store!</string>
+    <string name="about_btn_termsofuse">Terms of Use</string>
+    <string name="about_copyright">Copyright © 2013-%1$tY by Jan Schoppenhorst All rights reserved.</string>
+    <string name="about_email_title">Contact via email</string>
+    <string name="about_title">About Parking Now</string>
+    <string name="about_version_unknown">Unable to determine version</string>
+    <string name="action_about">About</string>
+    <string name="action_ar">AR View</string>
+    <string name="action_delete_current_location_message">This will delete your current parking location. Are you sure?</string>
+    <string name="action_delete_current_location_title">Delete current location?</string>
+    <string name="action_delete_location_description">Deletes this parking location from the history</string>
+    <string name="action_delete_location_message">Do you really want to delete this location?</string>
+    <string name="action_delete_location_title">Delete location?</string>
+    <string name="action_dismiss_location_description">Dismiss the current parking location</string>
+    <string name="action_dismiss_location_message">Do you really want to stop tracking the current parking position?</string>
+    <string name="action_help">Help</string>
+    <string name="action_map_new_pos_reset_message">Discard your current parking location and use this one?</string>
+    <string name="action_map_new_pos_set_message">Use this as the new parking location?</string>
+    <string name="action_park_end_time_description">Lets you set the parking end time</string>
+    <string name="action_park_end_time_done_label">Set time limit</string>
+    <string name="action_park_end_time_set">Set Time Limit</string>
+    <string name="action_park_end_time_unset">Unset Time Limit</string>
+    <string name="action_park_end_time_unset_message">Really remove time limit?</string>
+    <string name="action_route">Directions</string>
+    <string name="action_route_description">Navigates you back to your vehicle</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_share_description">Share the current parking location</string>
+    <string name="action_share_msg_title">Parking Now</string>
+    <string name="action_share_noactivity_toast">Sorry, no app installed I can share with…</string>
+    <string name="action_share_time_ends_at">Parking time ends %1$tA at %1$tH:%1$tM</string>
+    <string name="action_shop">Addons</string>
+    <string name="action_shop_description">View all available Parking Now addons</string>
+    <string name="action_show_parkinglocations">Show locations</string>
+    <string name="action_use_current_pos_description">Set your current position as the new parking position</string>
+    <string name="actionbar_drawer_subtitle">Visited places</string>
+    <string name="activity_settings_title">Settings</string>
+    <string name="activity_shop_title">Addons</string>
+    <string name="app_detection_disabled_airplanemode">@string/widget_disabled_airplanemode</string>
+    <string name="app_detection_disabled_byuser">@string/widget_disabled_byuser</string>
+    <string name="app_detection_disabled_nogps">@string/widget_disabled_nogps</string>
+    <string name="app_detection_disabled_nohighaccuracy">@string/widget_disabled_nohighaccuracy</string>
+    <string name="app_parking_departed">You have left the parking position</string>
+    <string name="app_parking_no_info">No parking information available</string>
+    <string name="app_parking_no_info_hint">Long click on the map will set a parking position</string>
+    <string name="ar_atparkposition">You are at the parking location!</string>
+    <string name="ar_location_parking_departed_toast">You have left the parking position!</string>
+    <string name="ar_location_parking_new_toast">A new parking location has been detected!</string>
+    <string name="ar_location_searching_message">Waiting for GPS signal </string>
+    <string name="ar_sensor_accuracy_crap">Abnormal direction readings detected. Please calibrate your sensor!</string>
+    <string name="ar_sensor_gps_disabled_toast">GPS is disabled!</string>
+    <string name="ar_sensor_gps_enabled_toast">GPS is enabled!</string>
+    <string name="ar_sensor_gps_status_outofservice">The GPS is out of service!</string>
+    <string name="card_park_time_ended">Parking time exceeded</string>
+    <string name="card_park_time_remaining">Parking ends in</string>
+    <string name="card_parking_since">Parking since</string>
+    <string name="card_shopping_remaining">Return in</string>
+    <string name="card_time_to_car">Time to car</string>
+    <string name="dashclock_description">Get information about your remaining parking time and location.</string>
+    <string name="dashclock_status_expired">Expired</string>
+    <string name="dashclock_status_parked">Parked</string>
+    <string name="dashclock_status_return">Return</string>
+    <string name="dashclock_termsofuse_body">Press to read and accept Terms of Use</string>
+    <string name="dashclock_termsofuse_status">Terms of Use</string>
+    <string name="dashclock_termsofuse_title">Terms of Use need to be accepted</string>
+    <string name="days_and_hours">%1$s and %2$s</string>
+    <string name="delete">Delete</string>
+    <string name="dev_log_clear">Clear log</string>
+    <string name="dev_log_open">See log</string>
+    <string name="drawer_close">Closes the location history menu</string>
+    <string name="drawer_open">Opens the location history menu</string>
+    <string name="drawer_toast_hibernate_on">Hibernate mode is still active</string>
+    <string name="greeting_btn_ok">"Let's go"</string>
+    <string name="greeting_text">"A few tips before you start …
+ 
+Since this is the first time you open Parking Now there might be no detected parking position yet. If you do not want to wait for the first automatic detection, you can enter a parking position manually. For this do either a long press on the map where you want the new parking position to be located or use the plus button to use your current position. It is as simple as that.
+ 
+Parking Now comes with a widget which can be placed on the homescreen or the lockscreen of your device. It shows you all the relevant information without having to enter the app. We strongly recommend to use it.
+ 
+More features are available as addons. For example sharing positions using NFC, an augmented reality view or viewing your parking status and time on Roman Nurik's DashClock Widget. You can access them via the Addons item in the menu.
+ 
+And now have fun with Parking Now …"</string>
+    <string name="greeting_title">Welcome to Parking Now</string>
+    <string name="help_path_html">help-en.html</string>
+    <string name="help_title">Help</string>
+    <string name="hours_and_minutes">%1$s and %2$s</string>
+    <string name="licenses_title">Licenses</string>
+    <string name="map_marker_title">Parked at %s</string>
+    <string name="map_type_hybrid">Hybrid</string>
+    <string name="map_type_normal">Normal</string>
+    <string name="map_type_satellite">Satellite</string>
+    <string name="map_type_terrain">Terrain</string>
+    <string name="menu_development">Development</string>
+    <string name="menu_map_layers">Layers</string>
+    <string name="playservices.dialog.cancelled.toast">Google Play Services must installed/updated.</string>
+    <string name="pref_log_level_summary">Enable more detailed error information when reporting a bug</string>
+    <string name="pref_log_level_title">Bug reporting</string>
+    <string name="pref_maptype_satellite_summary">Use satellite imagery for the map background</string>
+    <string name="pref_maptype_satellite_title">Satellite map</string>
+    <string name="pref_metric_summary">Display distances in metric (meter) units.</string>
+    <string name="pref_metric_title">Metric Units</string>
+    <string name="pref_nfc_summary_beamdisabled">Sending your location to another device is disabled. You can however receive locations from another device. Click to activate Android Beam</string>
+    <string name="pref_nfc_summary_enabled">Location sharing via NFC is enabled</string>
+    <string name="pref_nfc_summary_nfcdisabled">Location sharing via NFC is disabled!</string>
+    <string name="pref_nfc_summary_unsupported">The device does not support NFC!</string>
+    <string name="pref_nfc_title">NFC location sharing</string>
+    <string name="pref_notification_head_back_play_sound_summary">Play a sound when it is time to head back to your parking position</string>
+    <string name="pref_notification_head_back_play_sound_title">Play notification sound</string>
+    <string name="pref_parking_detection_enabled_summary">Check to set Parking Now into hibernate mode. In this mode all parking related functions will be disabled and Parking Now will require only minimal resources!</string>
+    <string name="pref_parking_detection_enabled_title">Hibernate</string>
+    <string name="pref_parking_detection_enabled_toast_disabled">Parking detection has been disabled</string>
+    <string name="pref_parking_detection_enabled_toast_enabled">Parking detection has been enabled</string>
+    <string name="route_retrieval_error_toast">Unable to get walking distance</string>
+    <string name="shop_already_purchased">You already own it</string>
+    <string name="shop_error_purchase">Unexpected error while purchasing: %s</string>
+    <string name="shop_error_unexpected">Unexpected error while setting up in app billing: %s</string>
+    <string name="shop_loading">Loading items…</string>
+    <string name="shop_loading_error">Unable to query the Google Play Store status. Please check your connection!</string>
+    <string name="shop_premium">Premium</string>
+    <string name="shop_purchased">Purchased</string>
+    <string name="shop_query_inventory_error_text">Encountered a problem while retrieving your list of extensions. Please check your connection or retry later.</string>
+    <string name="shop_query_inventory_error_title">Play Store error</string>
+    <string name="shop_thankyou">Thank you for buying the %s extension</string>
+    <string name="sku_ar_description">View your parking position and distance to it where it belongs - in your field of view! With this addon Parking Now will let you use augmented reality to overlay parking position and distance to it on a real world view.</string>
+    <string name="sku_ar_needsunlock_toast">Augmented reality extension needs to be unlocked first</string>
+    <string name="sku_ar_title">Augmented Reality</string>
+    <string name="sku_category_extension">Extension</string>
+    <string name="sku_category_premium">Premium</string>
+    <string name="sku_dashclock_description">View your parking status and remaining leisure time on the famous DashClock Widget.</string>
+    <string name="sku_dashclock_title">Dash Clock</string>
+    <string name="sku_premium_description">Makes Parking Now premium. Includes all current and future extensions.</string>
+    <string name="sku_premium_title">Premium</string>
+    <string name="sku_share_description">"Let's you share your parking location and parking meter time limit with your friends by holding your phones together (Using NFC and Android Beam).
+You can also share via Google+, Facebook, e-mail, WhatsApp, SMS, etc. The shared link can be read by Parking Now, Google Maps and other navigation apps.
+All Parking Now versions are able to receive parking locations and do not require this extension if they do not want to send them."</string>
+    <string name="sku_share_needsunlock_toast">Share extension needs to be unlocked first</string>
+    <string name="sku_share_title">Share</string>
+    <string name="timefencing_notification_action_navigate">Navigate</string>
+    <string name="timefencing_notification_head_back_message">Return by %s</string>
+    <string name="timefencing_notification_head_back_title">Parking ends %s</string>
+    <string name="timefencing_notification_too_late_message">Parking time ended %s!</string>
+    <string name="timefencing_notification_too_late_title">Parking Alarm</string>
+    <string name="title_address">Address</string>
+    <string name="title_distance">Distance</string>
+    <string name="undo_deleted">Deleted</string>
+    <string name="undo_moved">Relocated</string>
+    <string name="widget_disabled_airplanemode">Press to exit airplane mode</string>
+    <string name="widget_disabled_byuser">Press to enable Parking Now</string>
+    <string name="widget_disabled_nogps">Press to activate GPS</string>
+    <string name="widget_disabled_nohighaccuracy">Press to activate high accuracy location mode</string>
+    <string name="widget_disabled_terms_of_use_required">Press to read and accept Terms of Use</string>
+    <string name="widget_on_foot">"On foot "</string>
+    <string name="widget_on_foot_to">" to"</string>
+    <string name="widget_parking_departed">You have left the parking position</string>
+    <string name="widget_parking_no_info">No parking information available</string>
+    <string name="widget_parking_past_time_limit">%s past time limit</string>
+    <string name="widget_parking_return">Return</string>
+    <string name="widget_parking_return_toolate">Return, %s too late</string>
+    <string name="widget_parking_since">"Time parked "</string>
+    <string name="widget_parking_until">%s remaining</string>
+    <string name="widget_shopping">Return in %s</string>
+    <string name="day_of_week_label_typeface">sans-serif</string>
+    <string name="about_anagog">Powered by Anagog</string>
+    <string name="about_version">Parking Now %s</string>
+    <string name="actionbar_drawer_title">@string/app_name</string>
+    <item type="string" name="ampm_circle_radius_multiplier">0.19</item>
+    <string name="app_name">Parking Now</string>
+    <item type="string" name="circle_radius_multiplier">0.82</item>
+    <item type="string" name="circle_radius_multiplier_24HourMode">0.85</item>
+    <string name="dashclock_label">@string/app_name</string>
+    <string name="days_hours">%1$s %2$s</string>
+    <string name="distance_kilometers_1">%.1f km</string>
+    <string name="distance_kilometers_10">%.0f km</string>
+    <string name="distance_meters">%.0f m</string>
+    <string name="distance_miles_0">%.3f mi</string>
+    <string name="distance_miles_1">%.1f mi</string>
+    <string name="distance_miles_10">%.0f mi</string>
+    <string name="ga_trackingId">UA-45104658-1</string>
+    <string name="gcm_defaultSenderId">710690150447</string>
+    <string name="google_api_key">AIzaSyBQrnxpcj2smydVECC23BNxwq8w5YWGexE</string>
+    <string name="google_app_id">1:710690150447:android:25f60780a48755dd</string>
+    <string name="google_crash_reporting_api_key">AIzaSyBQrnxpcj2smydVECC23BNxwq8w5YWGexE</string>
+    <string name="greeting_path_html">greeting-en.html</string>
+    <string name="hours_minutes">%1$2d:%2$02d</string>
+    <string name="key_pref_distance_metric_units">pref_distance_metric_units</string>
+    <string name="key_pref_log_level">pref_log_level</string>
+    <string name="key_pref_maptype_use_satellite">pref_maptype_use_satellite</string>
+    <string name="key_pref_notification_head_back_play_sound">pref_notification_head_back_play_sound</string>
+    <item type="string" name="numbers_radius_multiplier_inner">0.6</item>
+    <item type="string" name="numbers_radius_multiplier_normal">0.81</item>
+    <item type="string" name="numbers_radius_multiplier_outer">0.83</item>
+    <string name="radial_numbers_typeface">sans-serif</string>
+    <string name="sans_serif">sans-serif</string>
+    <item type="string" name="selection_radius_multiplier">0.16</item>
+    <string name="terms_of_use_version">0.0.1</string>
+    <item type="string" name="text_size_multiplier_inner">0.14</item>
+    <item type="string" name="text_size_multiplier_normal">0.17</item>
+    <item type="string" name="text_size_multiplier_outer">0.11</item>
+    <string name="time_placeholder">--</string>
+    <string name="time_separator">:</string>
+    <string name="tos_accept">Accept</string>
+    <string name="tos_decline">Decline</string>
+    <string name="tos_title">Terms of Use</string>
+</resources>

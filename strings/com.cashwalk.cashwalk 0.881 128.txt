@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter the code shown above.</string>
+    <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView login requires INTERNET permission</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_like_button_liked">Liked</string>
+    <string name="com_facebook_like_button_not_liked">Like</string>
+    <string name="com_facebook_loading">Loading…</string>
+    <string name="com_facebook_loginview_cancel_action">Cancel</string>
+    <string name="com_facebook_loginview_log_in_button">Log in</string>
+    <string name="com_facebook_loginview_log_in_button_continue">Continue with Facebook</string>
+    <string name="com_facebook_loginview_log_in_button_long">Log in with Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Log out</string>
+    <string name="com_facebook_loginview_log_out_button">Log out</string>
+    <string name="com_facebook_loginview_logged_in_as">Logged in as: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
+    <string name="com_facebook_send_button_text">Send</string>
+    <string name="com_facebook_share_button_text">Share</string>
+    <string name="com_facebook_smart_device_instructions">To connect your account, open the Facebook app on your mobile device and check for notifications.</string>
+    <string name="com_facebook_smart_device_instructions_or">- OR -</string>
+    <string name="com_facebook_smart_login_confirmation_cancel">Not you?</string>
+    <string name="com_facebook_smart_login_confirmation_continue_as">Continue as %1$s</string>
+    <string name="com_facebook_smart_login_confirmation_title">Confirm Login</string>
+    <string name="com_facebook_tooltip_default">"You're in control - choose what info you want to share with apps."</string>
+    <string name="common_google_play_services_enable_button">Enable</string>
+    <string name="common_google_play_services_enable_text">"%1$s won't work unless you enable Google Play services."</string>
+    <string name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
+    <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
+    <string name="common_google_play_services_update_button">Update</string>
+    <string name="common_google_play_services_update_text">"%1$s won't run unless you update Google Play services."</string>
+    <string name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text">"%1$s won't run without Google Play services, which are currently updating."</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="exo_controls_fastforward_description">Fast forward</string>
+    <string name="exo_controls_next_description">Next track</string>
+    <string name="exo_controls_pause_description">Pause</string>
+    <string name="exo_controls_play_description">Play</string>
+    <string name="exo_controls_previous_description">Previous track</string>
+    <string name="exo_controls_rewind_description">Rewind</string>
+    <string name="exo_controls_stop_description">Stop</string>
+    <string name="messenger_send_button_text">Send</string>
+    <string name="s1">Save image</string>
+    <string name="s2">Allow Ad to store image in Picture gallery?</string>
+    <string name="s3">Accept</string>
+    <string name="s4">Decline</string>
+    <string name="s5">Create calendar event</string>
+    <string name="s6">Allow Ad to create a calendar event?</string>
+    <string name="search_menu_title">Search</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="pull_to_refresh_pull_label">Pull to refresh…</string>
+    <string name="pull_to_refresh_refreshing_label">Loading…</string>
+    <string name="pull_to_refresh_release_label">Release to refresh…</string>
+    <string name="pull_to_refresh_from_bottom_pull_label">@string/pull_to_refresh_pull_label</string>
+    <string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string>
+    <string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string>
+    <string name="ef_camera">CAMERA</string>
+    <string name="ef_done">DONE</string>
+    <string name="ef_error_create_image_file">Failed to create image file</string>
+    <string name="ef_error_no_camera">No camera found</string>
+    <string name="ef_error_null_cursor">Oops, something went wrong!</string>
+    <string name="ef_ltitle_permission_denied">Permission denied</string>
+    <string name="ef_msg_empty_images">No images found</string>
+    <string name="ef_msg_limit_images">Image selection limit</string>
+    <string name="ef_msg_no_camera_permission">Please grant camera permission to capture image</string>
+    <string name="ef_msg_no_write_external_permission">Please grant storage permission to select images</string>
+    <string name="ef_ok">OK</string>
+    <string name="ef_permission_write_external_rationale">Allow access external storage to select images</string>
+    <string name="ef_selected">%d selected</string>
+    <string name="ef_selected_with_limit">%1$d/%2$d selected</string>
+    <string name="ef_title_folder">Folder</string>
+    <string name="ef_title_select_image">Tap to select images</string>
+    <string name="com_kakao_account_cancel">Cancel</string>
+    <string name="com_kakao_account_cancel_tts">Cancel, Button</string>
+    <string name="com_kakao_alert_appKey">need to declare com.kakao.sdk.AppKey in your AndroidManifest.xml</string>
+    <string name="com_kakao_alert_install_kakaotalk">There is no installed KakaoTalk version higher than 4.2.0</string>
+    <string name="com_kakao_cancel_button">Cancel</string>
+    <string name="com_kakao_confirm_logout">Are you sure to log out from this app?</string>
+    <string name="com_kakao_confirm_unlink">Are you sure to unlink from this app?</string>
+    <string name="com_kakao_kakaostory_account">with KakaoStory</string>
+    <string name="com_kakao_kakaostory_account_tts">with KakaoStory, Button</string>
+    <string name="com_kakao_kakaotalk_account">with KakaoTalk</string>
+    <string name="com_kakao_kakaotalk_account_tts">with KakaoTalk, Button</string>
+    <string name="com_kakao_login_button">Log in with KakaoAccount</string>
+    <string name="com_kakao_login_button_tts">Log in with KakaoAccount, Button</string>
+    <string name="com_kakao_logout_button">Log out</string>
+    <string name="com_kakao_ok_button">OK</string>
+    <string name="com_kakao_other_kakaoaccount">with another KakaoAccount</string>
+    <string name="com_kakao_other_kakaoaccount_tts">with another KakaoAccount, Button</string>
+    <string name="com_kakao_profile_userId">Kakao User ID</string>
+    <string name="com_kakao_tokeninfo_button">Token Info</string>
+    <string name="com_kakao_unlink_button">Unlink</string>
+    <string name="ucrop_label_edit_photo">Edit Photo</string>
+    <string name="ucrop_label_original">Original</string>
+    <string name="ucrop_menu_crop">Crop</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="accept">동의하기</string>
+    <string name="accept_all">모두 동의하기</string>
+    <string name="action_exit">한 번 더 누르시면 종료됩니다.</string>
+    <string name="ad_go_review">리뷰 쓰기</string>
+    <string name="admob_app_exit_banner_ad_id">ca-app-pub-1843376102797932/1355245207</string>
+    <string name="admob_banner_ad_id">ca-app-pub-1843376102797932/9410584804</string>
+    <string name="admob_bottom_banner_ad_id">ca-app-pub-1843376102797932/1944442807</string>
+    <string name="admob_main_bottom_banner_ad_id">ca-app-pub-1843376102797932/4280114570</string>
+    <string name="admob_native_ad_id">ca-app-pub-1843376102797932/8264829609</string>
+    <string name="admob_webview_bottom_banner_ad_id">ca-app-pub-1843376102797932/2985036002</string>
+    <string name="all_day">하루종일</string>
+    <string name="allday">누적</string>
+    <string name="app_copywriter">특허출원번호 10-2017-0082610</string>
+    <string name="app_exit">종료</string>
+    <string name="app_name">캐시워크</string>
+    <string name="app_setting">앱 설정</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="auth_sms_edit_phone_number"><u>전화번호 수정하기</u></string>
+    <string name="auth_sms_info_msg_join">"* 추천인 코드를 입력하시려면 카카오톡이나 페이스북으로 가입해주세요.
+* 그냥사용해보기로 회원가입을 하시는 경우 추천코드를 입력하실 수 없습니다."</string>
+    <string name="auth_sms_info_msg_shop">"* 그냥사용해보기로 사용중이신 경우 휴대폰 번호 인증이 필요합니다.
+* 최초 1회만 인증하시면 계속 편하게 쇼핑을 이용하실 수 있습니다."</string>
+    <string name="auth_sms_recive_countdown">인증번호가 %1$s 이내에 도착합니다.</string>
+    <string name="auth_sms_remind_check"><u>"%1$s 로
+인증번호를 보내드립니다.
+전송받은 인증번호를 입력하셔야 회원가입이 가능합니다."</u></string>
+    <string name="auth_sms_send">전화번호 인증을 위해서 SMS 를 전송합니다. SMS 전송 요금이 청구될 수도 있습니다. 동의하시겠습니까?</string>
+    <string name="auth_sms_title">본인인증</string>
+    <string name="average">일평균</string>
+    <string name="band">밴드</string>
+    <string name="band_connection_check_progress_msg">블루투스 연결을 확인중입니다.</string>
+    <string name="band_how_to_use_title">사용법</string>
+    <string name="band_noti_dialog_disable">거부하기</string>
+    <string name="band_noti_dialog_enable">활성화하기</string>
+    <string name="band_noti_dialog_msg">캐시워치에서 알림을 확인하려면, 알림접근 권한을 활성화 해야 합니다.</string>
+    <string name="band_noti_dialog_title">알림 권한 설정</string>
+    <string name="band_permission_bt_name">블루투스</string>
+    <string name="band_permission_bt_sub">캐시워치와 앱을 연결</string>
+    <string name="band_permission_call_name">주소록</string>
+    <string name="band_permission_call_sub">캐시워치에 발신자 표시</string>
+    <string name="band_permission_camera_name">카메라</string>
+    <string name="band_permission_camera_sub">사진촬영 및 동영상 녹화</string>
+    <string name="band_permission_caution">※ 허용하지 않으시더라도 캐시워치를 이용하실 수 있으나, 일부 서비스의 이용이 제한될 수 있습니다. 거부 후 설정에서 다시 허용 할 수 있습니다.</string>
+    <string name="band_permission_caution_walk">※ 허용하지 않으시더라도 캐시워크를 이용하실 수 있으나, 일부 서비스의 이용이 제한될 수 있습니다. 거부 후 설정에서 다시 허용 할 수 있습니다.</string>
+    <string name="band_permission_push_name">알림접근권한</string>
+    <string name="band_permission_push_sub">기타어플 푸시 메시지 수신</string>
+    <string name="band_permission_select">(선택)</string>
+    <string name="band_permission_select_req">(필수)</string>
+    <string name="band_permission_sms_name">문자</string>
+    <string name="band_permission_sms_sub">캐시워치로 문자 수신</string>
+    <string name="band_permission_title">"편리한 이용을 위해
+다음 권한의 허용이 필요합니다."</string>
+    <string name="band_require_connect_confirm">살펴보기</string>
+    <string name="band_require_connect_des">매일 2만걸음까지 추가적립과 다양한 기능까지!</string>
+    <string name="band_require_connect_link">http://storefarm.naver.com/cashwear/products/2194720738</string>
+    <string name="band_require_connect_title">캐시워치 연결이 필요합니다.</string>
+    <string name="band_search_dialog_already_auth">현재 캐시워치 기기가 다른 계정에 등록 되어있는 상태입니다. 2만걸음 적립은 최소 24시간 이후 재연동을 한 뒤에 가능합니다.</string>
+    <string name="band_send_notification_setting_call">전화 알림</string>
+    <string name="band_send_notification_setting_face">페이스북 알림</string>
+    <string name="band_send_notification_setting_kakao">카카오톡 알림</string>
+    <string name="band_send_notification_setting_kakao_description">카카오톡 설정 > 알림 > 알림센터에 메시지 표시에서 “알림 켠 채팅방만” 을 선택해주셔야 카카오톡 알림을 정상적으로 받으실 수 있습니다.</string>
+    <string name="band_send_notification_setting_msg">메시지 알림</string>
+    <string name="band_send_notification_setting_other_plus">앱 알림 추가하기</string>
+    <string name="band_send_notification_setting_other_title">앱 알림 선택</string>
+    <string name="band_send_notification_setting_title">알림설정</string>
+    <string name="band_setting_alarm_schedule">알람 및 스케줄</string>
+    <string name="band_setting_basic">기본설정</string>
+    <string name="band_setting_basic_firmware">펌웨어 업데이트</string>
+    <string name="band_setting_basic_lock">화면 잠금 해제</string>
+    <string name="band_setting_basic_vibrate">진동 설정</string>
+    <string name="band_setting_data_type">표시형식</string>
+    <string name="band_setting_data_type_date">날짜형식</string>
+    <string name="band_setting_data_type_meter">측정단위</string>
+    <string name="band_setting_data_type_temp">온도형식</string>
+    <string name="band_setting_data_type_time">시간형식</string>
+    <string name="band_setting_firmware_click_here">"1. 핸드폰과 기기를 가까이 유지해주세요.
+2. 완료될때까지 화면을 종료하지 마세요.
+3. 정상적으로 업데이트를 할 수 없다면
+여기를 누르세요"</string>
+    <string name="band_setting_firmware_failed_description">"최신버전 업데이트를 실패하였습니다.
+재시도를 해보세요."</string>
+    <string name="band_setting_firmware_failed_error_1">1. 캐시워치 기기의 배터리 상태를 확인 후 재시도를 해주세요.</string>
+    <string name="band_setting_firmware_failed_error_2">2. 스마트폰의 인터넷 연결이 양호한지 확인 후 재시도를 해주세요.</string>
+    <string name="band_setting_firmware_failed_error_3">3. 계속 문제가 발생한다면, 블루투스 연결을 완전히 해제 한 후 재시도를 해주세요.</string>
+    <string name="band_setting_firmware_failed_error_4">* 문제가 해결되지 않는다면 [문의하기] 메뉴를 통해 문의를 해주세요.</string>
+    <string name="band_setting_firmware_failed_progress_title">업데이트 실패</string>
+    <string name="band_setting_firmware_failed_solution_title">업데이트 문제 해결</string>
+    <string name="band_setting_firmware_progress">펌웨어 정보를 확인하고 있습니다.</string>
+    <string name="band_setting_firmware_ready">펌웨어 업데이트를 준비합니다.</string>
+    <string name="band_setting_firmware_recent_btn_title">최신버전 사용중</string>
+    <string name="band_setting_firmware_recent_description">"현재 최신버전을 사용하고 있습니다.
+마지막 업데이트 : %1$s"</string>
+    <string name="band_setting_firmware_recent_progress_title">최신버전</string>
+    <string name="band_setting_firmware_require_btn_title">업데이트 시작</string>
+    <string name="band_setting_firmware_require_description">"최신버전 업데이트가 필요합니다.
+업데이트는 5~30분 정도가 소요됩니다."</string>
+    <string name="band_setting_firmware_require_progress_title">업데이트 필요</string>
+    <string name="band_setting_firmware_start_btn_title">업데이트 중…</string>
+    <string name="band_setting_firmware_start_description">"업데이트는 5~30분 정도가 소요됩니다.
+잠시만 기다려주세요…"</string>
+    <string name="band_setting_firmware_start_progress_title">업데이트 중..</string>
+    <string name="band_setting_firmware_success_description">축하합니다! 최신버전 업데이트를 성공하였습니다.</string>
+    <string name="band_setting_firmware_success_progress_title">업데이트 성공</string>
+    <string name="band_setting_firmware_title">펌웨어업데이트</string>
+    <string name="band_setting_move">움직임 설정</string>
+    <string name="band_setting_move_activity">운동 설정</string>
+    <string name="band_setting_move_auto_heart">자동 심박 기록</string>
+    <string name="band_setting_move_auto_sleep">자동 수면 추적</string>
+    <string name="band_setting_move_movement">움직임 알림</string>
+    <string name="band_setting_movement_description">‘움직임 알림’이란? 30분간 움직이지 않을때 알려주어 운동하기를 권장하는 기능입니다.</string>
+    <string name="band_setting_movement_lunch">점심시간 방해금지</string>
+    <string name="band_setting_movement_lunch_time">12:00 – 14:00 알림 해제</string>
+    <string name="band_setting_movement_repeat">반복</string>
+    <string name="band_setting_movement_term">기간설정</string>
+    <string name="band_setting_movement_title">움직임 알림</string>
+    <string name="band_setting_schedule">스케줄관리</string>
+    <string name="band_setting_sport_add">운동을 추가하세요</string>
+    <string name="band_setting_sport_add_four">4개의 스포츠를 기기에 추가할 수 있습니다</string>
+    <string name="band_setting_sport_title">운동설정</string>
+    <string name="band_setting_title">설정</string>
+    <string name="band_setting_unlock_description_01">밴드를 연결하여 화면 잠금 해제 사용</string>
+    <string name="band_setting_unlock_description_02">캐시워치와 스마트폰의 블루투스 연결을 유지하십시오</string>
+    <string name="band_setting_unlock_go_to_setup">설정으로 이동</string>
+    <string name="band_setting_unlock_how_to">설정방법</string>
+    <string name="band_setting_unlock_how_to_description">"1. [설정] > [보안]으로 이동
+2. 설정화면 잠금해제
+3. 스마트 잠금을 탭하여 밴드로 휴대전화 잠금해제"</string>
+    <string name="band_setting_unlock_title">화면잠금해제</string>
+    <string name="band_setting_vibrate_get_call">전화수신</string>
+    <string name="band_setting_vibrate_get_call_description">(사용자의 전화수신 알림 기능)</string>
+    <string name="band_setting_vibrate_get_msg">메시지알림</string>
+    <string name="band_setting_vibrate_get_msg_description">(사용자 문자 알림 기능)</string>
+    <string name="band_setting_vibrate_mode">진동모드</string>
+    <string name="band_setting_vibrate_movement">움직임알림</string>
+    <string name="band_setting_vibrate_movement_description">(일정시간 움직이지 않으면 알림 기능)</string>
+    <string name="band_setting_vibrate_repeat">반복</string>
+    <string name="band_setting_vibrate_sub_title">"사용자에 맞게 캐시워치의 진동모드와
+반복 횟수를 조정할 수 있습니다."</string>
+    <string name="band_setting_vibrate_title">진동설정</string>
+    <string name="birthday">생일</string>
+    <string name="bottom_sheet_behavior">android.support.design.widget.BottomSheetBehavior</string>
+    <string name="burn">소모</string>
+    <string name="calendar">Calendar</string>
+    <string name="cancel">취소</string>
+    <string name="cash_10000">보물상자는 하루에 100캐시 까지만 적립됩니다.</string>
+    <string name="cash_20000">보물상자는 하루에 200캐시 까지만 적립됩니다.</string>
+    <string name="cash_history">캐시적립내역</string>
+    <string name="cash_history_accumulate_cash">적립캐시</string>
+    <string name="cash_history_accumulate_cash_desc">(걸음, 바로적립하기, 친구초대)</string>
+    <string name="cash_history_accumulate_title">적립내역</string>
+    <string name="cash_history_extinction_msg">*받은 캐시를 1년 이내에 사용하지 않을 경우 자동 소멸됩니다*.</string>
+    <string name="cash_history_not">조회내역이 없습니다</string>
+    <string name="cash_history_total_title">보유 캐시</string>
+    <string name="cash_history_used_title">소비내역</string>
+    <string name="cash_now">현재캐시</string>
+    <string name="cash_now_acc">현재누적</string>
+    <string name="cash_remain">남는캐시</string>
+    <string name="cash_today_max_reward_point">더이상 적립하실 수 없습니다.</string>
+    <string name="cashband_alarm">알람</string>
+    <string name="cashband_alarm_commit">알람을 등록했습니다.</string>
+    <string name="cashband_alarm_data_err">알람 정보를 불러오는데 실패했습니다.</string>
+    <string name="cashband_alarm_day_err">최소 1개 이상의 날짜를 선택해주세요.</string>
+    <string name="cashband_alarm_delete">알람을 삭제했습니다.</string>
+    <string name="cashband_alarm_delete_popup">정말 알람을 삭제할까요?</string>
+    <string name="cashband_alarm_schedule_title">알람 및 스케줄</string>
+    <string name="cashband_alarm_title">알람 등록</string>
+    <string name="cashband_alarm_txt_max_item">최대 6개까지 등록 가능합니다.</string>
+    <string name="cashband_alarm_txt_not_connected">캐시워치와 연결되어야 사용 가능합니다.</string>
+    <string name="cashband_as_delete">삭제하기</string>
+    <string name="cashband_as_save">등록하기</string>
+    <string name="cashband_camera_connect_failed">캐시워치 연결에 실패하였습니다. 원격 촬영이 불가능합니다.</string>
+    <string name="cashband_chart_data_empty">측정된 데이터가 없습니다</string>
+    <string name="cashband_error_device_connect_insecurity">디바이스와의 연결이 불안정합니다.</string>
+    <string name="cashband_error_device_not_found">등록된 디바이스가 존재하지 않습니다. 캐시워치 연결 버튼을 눌러 디바이스를 선택해주세요</string>
+    <string name="cashband_error_pairing_device_failed">등록된 디바이스가 존재하지 않습니다. 캐시워치 연결 버튼을 눌러 디바이스를 선택해주세요</string>
+    <string name="cashband_error_require_connection">캐시워치가 연결되어 있지 않습니다. 연결을 확인해주세요.</string>
+    <string name="cashband_menu_text_bpm">%1$d bpm</string>
+    <string name="cashband_menu_text_marks">%1$d marks</string>
+    <string name="cashband_menu_text_marks_sub">수면 %1$s</string>
+    <string name="cashband_menu_text_step">%1$d 걸음</string>
+    <string name="cashband_menu_text_step_sub">%1$s / %2$d kcal</string>
+    <string name="cashband_menu_title_band_connect">연결됨</string>
+    <string name="cashband_menu_title_band_connect_time">동기화시간 : %1$s</string>
+    <string name="cashband_menu_title_band_disconnect">연결끊어짐</string>
+    <string name="cashband_menu_title_band_loading">캐시워치 연결중…</string>
+    <string name="cashband_menu_title_band_name">캐시워치 연결안됨</string>
+    <string name="cashband_menu_title_guide">사용법</string>
+    <string name="cashband_menu_title_heartrate">심박수</string>
+    <string name="cashband_menu_title_instagram">인스타그램</string>
+    <string name="cashband_menu_title_notify">알림설정</string>
+    <string name="cashband_menu_title_question">문의하기</string>
+    <string name="cashband_menu_title_setting">캐시워치 설정</string>
+    <string name="cashband_menu_title_sleep">수면시간</string>
+    <string name="cashband_menu_title_step">걸음수</string>
+    <string name="cashband_progress_connect_device">디바이스와 연결중입니다.</string>
+    <string name="cashband_progress_find_device">디바이스를 검색중입니다.</string>
+    <string name="cashband_progress_message">데이터를 호출중입니다.</string>
+    <string name="cashband_schedule">스케줄</string>
+    <string name="cashband_schedule_commit">스케줄을 등록했습니다.</string>
+    <string name="cashband_schedule_delete">스케줄을 삭제했습니다.</string>
+    <string name="cashband_schedule_delete_popup">정말 스케줄을 삭제할까요?</string>
+    <string name="cashband_schedule_require_title">스케줄 제목을 입력해주세요.</string>
+    <string name="cashband_schedule_title">스케줄 등록</string>
+    <string name="cashband_schedule_title_limit">제목은 16글자까지 가능합니다.</string>
+    <string name="cashband_schedule_txt_all_max_item">스케줄은 32개까지 등록 가능합니다.</string>
+    <string name="cashband_schedule_txt_max_item">하루 최대 4개까지 등록 가능합니다.</string>
+    <string name="cashband_schedule_txt_select_date_max_item">해당 날짜 등록 개수가 초과되었습니다.</string>
+    <string name="cashband_schedule_txt_title_limit">%1$d/16</string>
+    <string name="cashband_title">디바이스</string>
+    <string name="cashwalk_permission_info">"캐시워크를 사용하기 위해 아래와 같은 권한이 필요로 합니다.
+
+통화/전화 권한: 사용자의 네트워크 상태와 고유아이디 생성을 위해 사용됩니다
+
+파일접근 권한: 걸음수,프로필사진을 저장하기 위해 필요합니다.
+"</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="check_network">캐시적립을 위해 인터넷 연결을 확인해주세요</string>
+    <string name="close">닫기</string>
+    <string name="coinbox_help_msg">혹시 보석상자가 안나오셔서 불편하신가요?</string>
+    <string name="coinbox_lockscreen_help_msg">잠금화면을 해제한뒤 문의가 가능합니다. 캐시워크앱 - 설정 - 불편사항 신고를 통해 문의해주세요.</string>
+    <string name="com.crashlytics.android.build_id">2e554b8d-0f54-4d87-9db2-275328e15169</string>
+    <string name="com_kakao_profile_nickname">Nickname</string>
+    <string name="comment">댓글</string>
+    <string name="comment_count">댓글 %s개</string>
+    <string name="confirm">확인</string>
+    <string name="core_com_kakao_sdk_loading">Loading…</string>
+    <string name="crop">사진 자르기</string>
+    <string name="cs">고객센터</string>
+    <string name="cs_btn">네</string>
+    <string name="daum">다음</string>
+    <string name="day">일</string>
+    <string name="default_web_client_id">660556707704-rpgliqcv4g94u9u3hog14380ve80ernv.apps.googleusercontent.com</string>
+    <string name="define_FloatingActionButton" />
+    <string name="distance">거리</string>
+    <string name="ef_image_directory">Camera</string>
+    <string name="error_black_list">해당 계정은 부정사용으로 의심되는 활동으로 인해 사용정지된 상태입니다. 부정사용에 해당되지 않는 경우 cs@cashwalk.io 로 문의 남겨주시기 바랍니다.</string>
+    <string name="error_exp_token">로그아웃 되었습니다. 재로그인 해주세요.</string>
+    <string name="error_loding_agin">다시시도</string>
+    <string name="error_loding_msg">"죄송합니다.
+일시적으로 접속이 지연되고 있습니다 다시 시도해주세요.
+인터넷 연결상태를 확인해주세요.
+문제가 지속되면 고객센터로 문의해주세요."</string>
+    <string name="error_network">네트워크 상태가 불안정합니다. 잠시후 다시 시도해주세요.</string>
+    <string name="error_story_black_list">해당 계정은 신고 누적으로 인하여 글쓰기가 제한된 상태입니다. 관련 문의는 cs@cashwalk.io 로 남겨주시기 바랍니다.</string>
+    <string name="error_try_again">일시적인 오류가 발생하였습니다. 문제가 지속되면 고객센터로 문의해주세요.</string>
+    <string name="error_try_again_uncaught">오류가 발생하였습니다. 앱을 완전히 종료하고 다시 실행해주세요.</string>
+    <string name="error_unity_ad">아직 광고가 준비되지 않았습니다. 다시 시도해주세요!</string>
+    <string name="etc">기타</string>
+    <string name="event_instagram_btn">인스타그램 바로가기</string>
+    <string name="event_instagram_info">캐시워크에서 받은 상품 인증샷을 #캐시워크인증 해시태그를 붙여 인스타그램에 올리시면 매주 한 분을 추첨하여 VIPS 식사권을 펑펑 쏩니다!</string>
+    <string name="event_instagram_not_install">인스타그램을 설치해주세요.</string>
+    <string name="event_instagram_title">캐시워크 인스타그램 특별 이벤트!</string>
+    <string name="expire">유효기한</string>
+    <string name="facebook">페이스북</string>
+    <string name="facebook_app_id">225679834519054</string>
+    <string name="facebook_login">페이스북으로 로그인</string>
+    <string name="fb_ad_exit_banner_center">225679834519054_348218825598487</string>
+    <string name="fb_ad_lockreen_banner_bottom">225679834519054_348204282266608</string>
+    <string name="fb_ad_webview_banner_bottom">225679834519054_348212578932445</string>
+    <string name="fb_login_protocol_scheme">fb225679834519054</string>
+    <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
+    <string name="feedback">"불편
+신고"</string>
+    <string name="female">여자</string>
+    <string name="finish_tutorial">사용방법 그만보기</string>
+    <string name="firebase_database_url">https://cashwalk-971ff.firebaseio.com</string>
+    <string name="folder">폴더</string>
+    <string name="fri">금</string>
+    <string name="friend">친구</string>
+    <string name="friend_add_done_msg">친구요청 되었습니다.</string>
+    <string name="friend_add_error_205">이미 요청한 친구입니다.</string>
+    <string name="friend_add_title">친구추가</string>
+    <string name="friend_cancel_done_request_alert_msg">친구요청을 취소하였습니다.</string>
+    <string name="friend_cancel_request_alert_msg">친구요청을 취소할까요?</string>
+    <string name="friend_code_search_hint">친구이름, 추천코드 검색하기</string>
+    <string name="friend_connect_contacts">"연락처
+연결하기"</string>
+    <string name="friend_connect_facebook">"페이스북
+연결하기"</string>
+    <string name="friend_connect_info">"페이스북/연락처를 연결해서
+캐시워크를 사용중인 사람을 확인하고
+친구로 추가해보세요."</string>
+    <string name="friend_connect_info2">"친구를 찾기 위해 휴대폰에 저장된 연락처를 캐시워크에 업로드합니다.
+이기능은 설정에서 끌 수있으며 캐시워크에 공유한 연락처 정보를
+관리 또는 삭제 할 수 있습니다."</string>
+    <string name="friend_contacts_disable_sync">연락처 동기화 해제</string>
+    <string name="friend_contacts_uploade_msg">%1$s님의 소중한 친구를 찾는 중입니다. 잠시만 기다려주세요. 연락처가 많으신 경우에는 시간이 몇십 초 정도 걸릴 수도 있습니다.</string>
+    <string name="friend_delete_alert_msg">정말로 친구를 삭제할까요?</string>
+    <string name="friend_delete_done_msg">친구를 삭제하였습니다.</string>
+    <string name="friend_delete_error_204_alert_msg">이미 탈퇴한 사용자입니다.</string>
+    <string name="friend_delete_error_229_alert_msg">친구요청은 최대 50명까지 가능합니다. 내친구 목록에서 친구를 정리한 후 다시 추가하실 수 있습니다.</string>
+    <string name="friend_disable_sync">동기화를 해제하시면 친구추천을 받을 수 없습니다. 해제 하시겠습니까?</string>
+    <string name="friend_disable_sync_done">동기화가 해제되었습니다.</string>
+    <string name="friend_facebook_disable_sync">페이스북 동기화 해제</string>
+    <string name="friend_name_search_hint">친구이름 검색하기</string>
+    <string name="friend_not_my_friend">"%1$s님, 아직 친구가 없으시네요.
+추천친구를 추가하여 서로의 걸음수와
+랭킹을 공유해보세요."</string>
+    <string name="friend_not_recommend_friend">아직 추천드릴 친구가 없습니다.</string>
+    <string name="friend_not_request">"친구요청이 없습니다.
+추천친구를 추가하여 서로의 걸음수와
+랭킹을 공유해보세요."</string>
+    <string name="friend_only_code_search_hint">추천코드 검색하기</string>
+    <string name="friend_recommend_add_connect1">"페이스북을 연결하면 더 많은 친구를
+찾을 수 있습니다."</string>
+    <string name="friend_recommend_add_connect2">"연락처를 추가하면 더 많은 친구를
+찾을 수 있습니다."</string>
+    <string name="friend_request_delete_alert_msg">친구요청을 삭제할까요?</string>
+    <string name="friend_request_delete_done_msg">친구요청을 삭제하였습니다.</string>
+    <string name="friend_request_done_msg">친구요청을 수락하였습니다.</string>
+    <string name="friend_save_data_info">걸음수, 칼로리, 거리, 시간만 공유하고 있습니다.</string>
+    <string name="friend_search_not_keyword">검색어를 입력해주세요.</string>
+    <string name="friend_title">친구</string>
+    <string name="friend_title_myfriend">내친구</string>
+    <string name="friend_title_recommend">추천친구</string>
+    <string name="friend_title_request">친구요청</string>
+    <string name="gallery">내 갤러리</string>
+    <string name="game_buy_heart_info">%1$s 개의 하트를 %2$s 캐시로 구입할까요?</string>
+    <string name="game_done_reward">캐시지급완료</string>
+    <string name="game_empty_rank">아직 도전자가 없습니다.</string>
+    <string name="game_end_season">시즌종료</string>
+    <string name="game_error">오류가 발생했어요. 잠시 후 다시 시도해주세요.</string>
+    <string name="game_exit">게임을 종료할까요?</string>
+    <string name="game_exit_msg">게임을 그만할까요?</string>
+    <string name="game_exit_yes">예</string>
+    <string name="game_get_reward">캐시보상받기</string>
+    <string name="game_get_reward_btn">보상확인</string>
+    <string name="game_get_reward_done">캐시지급완료</string>
+    <string name="game_kakao_open_chat">오픈채팅</string>
+    <string name="game_list_title">%1$s 게임 전체랭킹</string>
+    <string name="game_main_sub_title">"1등하면
+100,000캐시!"</string>
+    <string name="game_manual_title">게임설명</string>
+    <string name="game_no_cash">캐시가 부족해요.</string>
+    <string name="game_no_heart">하트가 부족해요. 하트를 충전할까요?</string>
+    <string name="game_not_found_user">사용자 정보를 찾을 수 없어요. 로그인을 확인해주세요.</string>
+    <string name="game_not_rank">안타깝게도 순위에 들지 못했어요</string>
+    <string name="game_not_reward">안타깝게도 순위에 들지 못했어요</string>
+    <string name="game_rank_no">순위</string>
+    <string name="game_rank_reward">보상</string>
+    <string name="game_rank_score">이름/점수</string>
+    <string name="game_rank_share">내 랭킹을 자랑하기</string>
+    <string name="game_rank_title">게임랭킹</string>
+    <string name="game_shop_buy_done">하트를 구매하였습니다.</string>
+    <string name="game_shop_buy_heart">%2$s캐시로 [%1$s 하트]를 구매하시겠어요?</string>
+    <string name="game_shop_title">하트충전</string>
+    <string name="game_total_rank_title">전체랭킹</string>
+    <string name="gathered">적립 완료</string>
+    <string name="gcm_defaultSenderId">660556707704</string>
+    <string name="gender">성별</string>
+    <string name="go">바로가기</string>
+    <string name="google">구글</string>
+    <string name="google_api_key">AIzaSyCkSFSzJpTiXcGU8NByHyovg7twZBquVJQ</string>
+    <string name="google_app_id">1:660556707704:android:cde766786027db96</string>
+    <string name="google_crash_reporting_api_key">AIzaSyCkSFSzJpTiXcGU8NByHyovg7twZBquVJQ</string>
+    <string name="google_storage_bucket">cashwalk-971ff.appspot.com</string>
+    <string name="health">건강</string>
+    <string name="heartrate_cashband_avg">평균 심박수</string>
+    <string name="heartrate_cashband_description">"18세 이상 성인의 정상 안정 시
+심박수는 60 - 100 bpm 입니다."</string>
+    <string name="heartrate_cashband_high">최고 심박수</string>
+    <string name="heartrate_cashband_low">최저 심박수</string>
+    <string name="heartrate_cashband_title">심박수</string>
+    <string name="heartrate_record_cashband_title">심박수기록</string>
+    <string name="hour">시간</string>
+    <string name="hours_active">활동시간</string>
+    <string name="image_select_error">사진을 가져올 수 없습니다. 기본 사진앱을 사용해주세요.</string>
+    <string name="invite">친구 초대하기</string>
+    <string name="invite_code_title">내 추천코드</string>
+    <string name="justgo">그냥 바로 사용해보기</string>
+    <string name="justgo_login_msg">"'그냥사용해보기'로 가입시
+추천인은 입력하실 수 없습니다."</string>
+    <string name="justgo_select_login">다른 방법으로 로그인 하기</string>
+    <string name="kakao">카카오톡</string>
+    <string name="kakao_app_key">2f38a974fd2323df01b77bebe4bd7149</string>
+    <string name="kakao_scheme">kakao2f38a974fd2323df01b77bebe4bd7149</string>
+    <string name="kakaolink_host">kakaolink</string>
+    <string name="kcal">kcal</string>
+    <string name="kcal_title">칼로리</string>
+    <string name="km">km</string>
+    <string name="level">레벨1</string>
+    <string name="library_FloatingActionButton_author">Oleksandr Melnykov</string>
+    <string name="library_FloatingActionButton_authorWebsite">https://github.com/makovkastar/FloatingActionButton</string>
+    <string name="library_FloatingActionButton_isOpenSource">true</string>
+    <string name="library_FloatingActionButton_libraryDescription">Android Google+ like floating action button which reacts on the list view scrolling events. Becomes visible when the list view is scrolled up and invisible when scrolled down.</string>
+    <string name="library_FloatingActionButton_libraryName">FloatingActionButton</string>
+    <string name="library_FloatingActionButton_libraryVersion">1.0.0</string>
+    <string name="library_FloatingActionButton_libraryWebsite">https://github.com/makovkastar/FloatingActionButton</string>
+    <string name="library_FloatingActionButton_licenseId">mit</string>
+    <string name="library_FloatingActionButton_repositoryLink">https://github.com/makovkastar/FloatingActionButton</string>
+    <string name="like_comment_count">좋아요 %1$s개  댓글 %2$s개</string>
+    <string name="like_count">좋아요 %s개</string>
+    <string name="loading">잠시만 기다리세요</string>
+    <string name="lockscreen_app">자주 쓰는 앱을 선택하세요</string>
+    <string name="lockscreen_app_delete">%s 앱을 즐겨찾기에서 삭제하시겠어요?</string>
+    <string name="lockscreen_app_deleted">%s 앱을 즐겨찾기에서 삭제했습니다.</string>
+    <string name="lockscreen_change_bg">배경 사진 바꾸기</string>
+    <string name="lockscreen_change_coach">코치 사진 바꾸기</string>
+    <string name="lockscreen_content_cash_desc">여기를 눌러서 다양한 혜택을 누리세요.</string>
+    <string name="lockscreen_content_schedule">%s님의 일정을 연결해보세요.</string>
+    <string name="lockscreen_dismiss">잠금화면을 해제해주세요</string>
+    <string name="lockscreen_goal">하루 만보 걷기</string>
+    <string name="lockscreen_lotto_event_free">무료 뽑기찬스 도착!</string>
+    <string name="lockscreen_lotto_event_free_msg">지금 바로 긁어볼까요?</string>
+    <string name="lockscreen_lotto_event_no_msg">찬스 버리기</string>
+    <string name="lockscreen_lotto_event_ok">긁어보기</string>
+    <string name="lockscreen_lotto_event_use_cash">%1$s캐시가 차감되는 뽑기입니다.</string>
+    <string name="lockscreen_lotto_event_use_cash_alert">"%1$s캐시를 사용합니다!
+당첨 확률이 2배로 증가된 뽑기에 도전하시겠어요?"</string>
+    <string name="lockscreen_lotto_event_use_cash_free">무료로 긁어보실 수 있습니다!</string>
+    <string name="lockscreen_lotto_event_user_name">%1$s님을 위한</string>
+    <string name="lockscreen_lotto_event_x2">당첨확률 2배 이벤트 도착!</string>
+    <string name="lockscreen_lotto_event_x2_msg">지금 긁어볼까요?</string>
+    <string name="lockscreen_news_economy">경제</string>
+    <string name="lockscreen_news_ent">연예</string>
+    <string name="lockscreen_news_global">세계</string>
+    <string name="lockscreen_news_it">IT</string>
+    <string name="lockscreen_news_life">생활</string>
+    <string name="lockscreen_news_politics">정치</string>
+    <string name="lockscreen_news_society">사회</string>
+    <string name="lockscreen_news_total">종합</string>
+    <string name="lockscreen_news_tv">TV</string>
+    <string name="lockscreen_off">잠금화면 사용하기</string>
+    <string name="lockscreen_off_1">1시간 동안 끄기</string>
+    <string name="lockscreen_off_4">4시간 동안 끄기</string>
+    <string name="lockscreen_off_8">8시간 동안 끄기</string>
+    <string name="lockscreen_off_all">폰 다시 켤때까지 끄기</string>
+    <string name="lockscreen_off_confirm_desc">잠금화면을 꺼놓은 동안에는 캐시를 적립받을 수 없습니다. 그래도 해제하시겠습니까?</string>
+    <string name="lockscreen_off_confirm_title">잠금화면 잠시 끄기</string>
+    <string name="lockscreen_off_day">오늘 하루 끄기</string>
+    <string name="lockscreen_point">%s 캐시 적립 완료</string>
+    <string name="lockscreen_tutorial_click">"메시지를 누르면
+다음으로 넘어갑니다"</string>
+    <string name="lockscreen_tutorial_feature1">이번엔 제 얼굴을 한 번 눌러보실래요?</string>
+    <string name="lockscreen_tutorial_feature2">"+ 버튼을 눌러서
+자주 쓰는 앱을 등록할수 있어요."</string>
+    <string name="lockscreen_tutorial_feature3">"화면을 왼쪽 끝까지 밀면
+카메라를 바로 사용하실 수도 있어요."</string>
+    <string name="lockscreen_tutorial_feature4">화면을 아래로 밀면지금까지 적립된 캐시를 확인하실 수도 있어요.</string>
+    <string name="lockscreen_tutorial_feature5">"오른쪽 위의 버튼을 누르면
+사진을 바꿀 수도 있어요."</string>
+    <string name="lockscreen_tutorial_fighting">%s님 화이팅!</string>
+    <string name="lockscreen_tutorial_goodbye">"자! 그럼 이제부터 저와 함께
+돈버는 걷기 생활을 시작해 볼까요?"</string>
+    <string name="lockscreen_tutorial_hello1">안녕하세요! 저는 %s님의 걷기코치 워크맨입니다.</string>
+    <string name="lockscreen_tutorial_hello2">"지금부터 캐시워크 사용방법을
+간단하게 소개드릴께요."</string>
+    <string name="lockscreen_tutorial_hello3">"캐시워크는 걸을수록 돈이 쌓이는
+돈버는 만보기 입니다."</string>
+    <string name="lockscreen_tutorial_walk1">그럼 지금 같이 10걸음을 걸어 볼까요? (혹시 걷기 힘든 상태라면 핸드폰을 계속 흔들어 보세요)</string>
+    <string name="lockscreen_tutorial_walk2">잘 하셨어요! 10걸음을 걸어서 보석상자를 얻었네요. 보석상자를 한 번 눌러볼까요?</string>
+    <string name="lockscreen_tutorial_walk3">"캐시가 적립되었습니다!
+이렇게 모은 캐시는 다양한 제휴점에서 현금처럼 사용할 수 있어요."</string>
+    <string name="lockscreen_unlock">밀어서 잠금해제</string>
+    <string name="lockscreen_wallpaper_please">배경 사진을 선택해주세요.</string>
+    <string name="lockscreen_weahter">오늘의 날씨</string>
+    <string name="lockscreen_weahter_desc">여기를 눌러서 오늘의 날씨를 확인해보세요.</string>
+    <string name="lockscreen_web_loading">"유용한 정보를
+가져오는 중입니다."</string>
+    <string name="login">로그인</string>
+    <string name="login_already_member">이미 회원이신가요?</string>
+    <string name="lotto">뽑기</string>
+    <string name="lotto_ad_open_point">%1$s캐시로 당첨 확인하기</string>
+    <string name="lotto_ad_open_video">동영상 보고 열어보기</string>
+    <string name="lotto_apply">%s명 응모</string>
+    <string name="lotto_confirm" formatted="false">%s 캐시를 사용하여 %s를 바로 확인해보세요.</string>
+    <string name="lotto_coupon_go">선물 확인하러 쿠폰함 가기</string>
+    <string name="lotto_event_go">이벤트 자세히 보기</string>
+    <string name="lotto_hello">"안녕하세요!
+%s님."</string>
+    <string name="lotto_info">"지금 %s님의 캐시로
+바로 당첨 가능한 상품들을 확인해보세요."</string>
+    <string name="lotto_now">지금 바로 참여할 수 있는 상품 (%s)</string>
+    <string name="lotto_result_fail">꽝! 아쉽지만 다음 기회에...</string>
+    <string name="lotto_scratch">바로 확인하기</string>
+    <string name="lotto_scratch_info">"여기를 문질러서 동전 모양이 3개 이상 나오면
+\"%s\" 선물을 바로 가져가실 수 있어요!"</string>
+    <string name="lotto_scratch_info_wait">잠시만 기다려주세요...</string>
+    <string name="lotto_winner">%s님이 당첨되셨습니다!</string>
+    <string name="lotto_winner_title">당첨내역</string>
+    <string name="m">m</string>
+    <string name="main_cashwatch">캐시워치</string>
+    <string name="main_cashwatch_desc">"다양한 기능에
+매일 추가캐시 적립까지!"</string>
+    <string name="main_coupon">내 쿠폰함</string>
+    <string name="main_coupon_desc">"내가 받은 쿠폰을
+확인해 보아요."</string>
+    <string name="main_coupon_empty">쿠폰함이 비어 있어요.</string>
+    <string name="main_coupon_empty_desc">"캐시로 상점에서 상품을 구입하거나
+뽑기를 해보세요."</string>
+    <string name="main_coupon_expired">기간만료</string>
+    <string name="main_coupon_go">쿠폰함 가기</string>
+    <string name="main_coupon_review">"캐시워크에 만족하셨나요?
+"</string>
+    <string name="main_coupon_review_go">평점 남기고 좋은일 생기기</string>
+    <string name="main_coupon_success">결제성공</string>
+    <string name="main_coupon_success_desc">"결제하신 제품의 쿠폰을
+쿠폰함에 넣어드렸습니다."</string>
+    <string name="main_coupon_unused">미사용 쿠폰</string>
+    <string name="main_coupon_use">사용하기</string>
+    <string name="main_coupon_used">사용 완료</string>
+    <string name="main_coupon_used_desc">이미 사용한 쿠폰입니다. 지금 바로 이벤트에 참여해보세요!</string>
+    <string name="main_game">게임</string>
+    <string name="main_lotto">뽑기</string>
+    <string name="main_lotto_info">"피자치킨
+받아가자!"</string>
+    <string name="main_none_login_cancel">닫기</string>
+    <string name="main_none_login_msg">"모든 기능을 이용하시려면 카카오톡 혹은 페이스북 로그인이 필요합니다.
+물론 현재 적립된 캐시는 그대로 유지됩니다 :)"</string>
+    <string name="main_none_login_ok">로그인</string>
+    <string name="main_none_login_title">그냥 사용해보기로 사용중입니다!</string>
+    <string name="main_point">무료 캐시적립</string>
+    <string name="main_point_charged">%s 캐시가 적립되었어요!</string>
+    <string name="main_point_desc">"캐시를 지금 바로
+적립해보세요."</string>
+    <string name="main_rank_desc">"친구들의
+걷기 순위는?"</string>
+    <string name="main_review_please">"좋은 평점 하나만 남겨주시면
+더 좋은 일들이 생길거예요!"</string>
+    <string name="main_stat_desc">"나는 지난주
+얼마나 걸었나?"</string>
+    <string name="main_stepbet_desc">"천명과 함께 걷고
+10만 캐시 받자!"</string>
+    <string name="main_store">쇼핑</string>
+    <string name="main_store_desc">"캐시로
+질러볼까요?"</string>
+    <string name="main_viral">친구와 함께걷기</string>
+    <string name="main_viral_desc">"친구에게 소문내고
+%1$s 캐시 받자!"</string>
+    <string name="male">남자</string>
+    <string name="min">분</string>
+    <string name="mon">월</string>
+    <string name="month">월</string>
+    <string name="monthly">월간</string>
+    <string name="move">이동</string>
+    <string name="my_profile">내 정보</string>
+    <string name="myfeed_badge">배지</string>
+    <string name="myfeed_edit_profile">프로필 편집</string>
+    <string name="myfeed_friend_count">%1$s명</string>
+    <string name="myfeed_title">마이페이지</string>
+    <string name="mystep">내 걸음</string>
+    <string name="naver">네이버</string>
+    <string name="news">뉴스</string>
+    <string name="next">다음</string>
+    <string name="nickname">이름</string>
+    <string name="nim">님</string>
+    <string name="no">아니오</string>
+    <string name="not_free_info_msg">"무료기회를 모두 사용하셨습니다!
+%1$s캐시를 이용하여 복권을 긁어볼까요?"</string>
+    <string name="not_free_info_ok">당첨 확인하기</string>
+    <string name="noti_add_friend">%1$s님이 회원님을 친구로 추가하였습니다.</string>
+    <string name="noti_add_friend_no_nickname">새로운 친구가 있습니다!</string>
+    <string name="noti_friend_accept">축하합니다! %1$s님과 친구가 되었습니다!</string>
+    <string name="noti_raffle_win_timeline">%1$s님이 %2$s에 당첨되었습니다.</string>
+    <string name="noti_raffle_win_timeline_empty">친구가 뽑기에 당첨되었습니다.</string>
+    <string name="noti_stepbet_start">%s님이 참가신청하신 걷기왕 대회가 시작되었습니다!</string>
+    <string name="noti_stepbet_timeline" formatted="false">%s님의 새 글 \"%s\"</string>
+    <string name="noti_stepbet_timeline_comment" formatted="false">%s님의 새 댓글 \"%s\"</string>
+    <string name="noti_stepbet_timeline_like" formatted="false">%s님이 %s님의 글을 좋아합니다.</string>
+    <string name="notice">공지사항</string>
+    <string name="now">현재</string>
+    <string name="offerwall">캐시 바로적립받기</string>
+    <string name="offerwall_video">동영상보고 복권긁기</string>
+    <string name="password_toggle_content_description">Toggle password visibility</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="people">명</string>
+    <string name="photo_select">사진 선택</string>
+    <string name="point">캐시</string>
+    <string name="point_center_ad_tnk_total_point">지금 바로 %1$s캐시를 적립할 수 있습니다.</string>
+    <string name="previous">Go to previous</string>
+    <string name="price">가격</string>
+    <string name="profile_image">프로필 사진</string>
+    <string name="profile_info">프로필 정보</string>
+    <string name="profile_settings">내 프로필</string>
+    <string name="punchline">돈버는 만보기</string>
+    <string name="purchase">구매하기</string>
+    <string name="purchase_close">이용 가능시간이 아닙니다.</string>
+    <string name="rank">랭킹</string>
+    <string name="rank_unit">위</string>
+    <string name="replay_tutorial">사용방법 다시보기</string>
+    <string name="report">신고하기</string>
+    <string name="report_alert_msg">"허위 신고의 경우 서비스 이용제한과 같은 불이익을 받으실 수 있습니다.
+
+신고 하시겠습니까?"</string>
+    <string name="report_cancel">취소하기</string>
+    <string name="report_desc1">부적절한홍보게시물</string>
+    <string name="report_desc2">음란성 또는 청소년에게 부적함한 내용</string>
+    <string name="report_desc3">특정인 대상의 비방/욕설</string>
+    <string name="report_done">신고되었습니다.</string>
+    <string name="report_msg">"신고하기 전에 잠깐!
+게시물로 인해 개인(단체)이 명예훼손 피해를
+입었거나 저작권을 침해 당한 경우에는
+cashwalkapp@gmail.com를 통해 신고해 주시기 바랍니다."</string>
+    <string name="rewarded_app_install_msg">지금 시청하신 광고의 앱을 설치하시면 무료 뽑기를 긁으실 수 있습니다.</string>
+    <string name="rewarded_cash">"%1$s
+캐시"</string>
+    <string name="rewarded_cash_btn">"동영상%1$s 보고
+%2$s캐시받기"</string>
+    <string name="rewarded_count_down_min">"%1$s 후
+적립가능"</string>
+    <string name="rewarded_count_down_sec">"%1$s초 후
+적립가능"</string>
+    <string name="rewarded_title">광고 시청하고 최대 %1$s캐시받기</string>
+    <string name="rewarded_today_end">일 준비된 광고가 모두 소진되었습니다. 24시간 이후 동영상 시청가능합니다.</string>
+    <string name="rewarded_tomorrow">"내일
+적립가능"</string>
+    <string name="sat">토</string>
+    <string name="schedule">일정</string>
+    <string name="search_cashband_connect_ready">"1. 캐시워치를 가까이 위치해주세요
+2. 화면이 나올때까지 기다려주세요
+3. 화면에 캐시워치가 나오지 않으면
+충전 후 다시 찾아주세요"</string>
+    <string name="search_cashband_connect_success">"%1$s에
+연결되었습니다."</string>
+    <string name="search_cashband_disconnect">연결해제</string>
+    <string name="search_cashband_empty">연동 가능한 기기를 찾지 못하였습니다.</string>
+    <string name="search_cashband_end">검색을 완료하였습니다.</string>
+    <string name="search_cashband_rescan">다시찾기</string>
+    <string name="search_cashband_searching">주변기기를 찾고 있는 중입니다.</string>
+    <string name="search_cashband_title">캐시워치</string>
+    <string name="select">선택</string>
+    <string name="send_feedback">불편사항 신고하기</string>
+    <string name="setting_faq">자주하는질문</string>
+    <string name="settings_app_version">최신버전 사용중입니다.</string>
+    <string name="settings_app_version_update">업데이트가 필요합니다!</string>
+    <string name="settings_category_app">앱 정보</string>
+    <string name="settings_category_cs">고객지원</string>
+    <string name="settings_category_lockscreen">잠금화면 관리</string>
+    <string name="settings_category_profile">개인 정보</string>
+    <string name="settings_lockscreen_coach">코치 사진 보기</string>
+    <string name="settings_lockscreen_news">뉴스 보기</string>
+    <string name="settings_lockscreen_profile_height">키</string>
+    <string name="settings_lockscreen_profile_logout">로그아웃</string>
+    <string name="settings_lockscreen_profile_profile">이름 및 사진</string>
+    <string name="settings_lockscreen_profile_quit">탈퇴하기</string>
+    <string name="settings_lockscreen_profile_quit_agree">모든 정보 삭제에 동의합니다.</string>
+    <string name="settings_lockscreen_profile_quit_check">모든 정보 삭제에 동의해주세요.</string>
+    <string name="settings_lockscreen_profile_quit_completed">캐시워크 탈퇴가 완료되었습니다. 이용해주셔서 감사합니다.</string>
+    <string name="settings_lockscreen_profile_quit_description">탈퇴버튼을 누르는 순간부터 지금까지 적립하신 모든 캐시 및 개인정보가 즉시 삭제되며 절대로 복구할 수 없습니다.</string>
+    <string name="settings_lockscreen_profile_quit_title">탈퇴 전 꼭 확인해주세요!</string>
+    <string name="settings_lockscreen_profile_weight">몸무게</string>
+    <string name="settings_lockscreen_sound">효과음</string>
+    <string name="settings_lockscreen_vibration">진동</string>
+    <string name="settings_lockscreen_weather">날씨 보기</string>
+    <string name="settings_logout">로그아웃</string>
+    <string name="settings_logout_done">로그아웃 되었습니다.</string>
+    <string name="settings_logout_title">"로그아웃을 하시면 미수확 보물상자는 사라집니다.
+로그아웃 하시겠습니까?"</string>
+    <string name="share">공유</string>
+    <string name="share_chart">내걸음 공유하기</string>
+    <string name="share_chart_msg">내 걸음을 지인과 친구에게 자랑해보세요!</string>
+    <string name="share_game">기록 공유하기</string>
+    <string name="share_game_msg">결과를 지인과 친구에게 자랑해보세요!</string>
+    <string name="share_install_band">밴드를 설치해주세요.</string>
+    <string name="share_install_kakao">카카오톡을 설치해주세요.</string>
+    <string name="share_rank">순위 공유하기</string>
+    <string name="share_rank_msg">랭킹 순위를 지인과 친구에게 자랑해보세요!</string>
+    <string name="share_where">어디로 공유할까요?</string>
+    <string name="shop_not_auth_sms_msg">그냥사용해보기로 사용중이신 경우 휴대폰 번호 인증이 필요합니다. 최초 1회만 인증하시면 계속 편하게 쇼핑을 이용하실 수 있습니다.</string>
+    <string name="shop_purchase_close_time">쇼핑은 평일 오전 10시 ~ 오후 7시까지(주말 및 공휴일 제외) 이용가능합니다. 상품을 둘러보시는건 언제든지 가능합니다.</string>
+    <string name="shop_purchase_short">캐시가 부족합니다</string>
+    <string name="shop_purchase_short_desc">친구초대 혹은 바로적립을 이용해서 부족한 금액을 채워보세요.</string>
+    <string name="shop_purchase_time_delay">구매 %1$s시간 후에 사용할 수 있는 상품입니다. 구매하시겠습니까?</string>
+    <string name="signup">회원가입</string>
+    <string name="signup_gender_desc">"%s님,
+성별과 생일을 입력해주세요."</string>
+    <string name="signup_gender_input">성별과 생일을 입력해주세요.</string>
+    <string name="signup_gender_title">성별, 생일 설정하기</string>
+    <string name="signup_invite_desc">"%1$s님께,
+추천하신 분의 추천코드를 입력해주세요
+100캐시 바로 지급해드립니다."</string>
+    <string name="signup_invite_duplicate">이미 초대를 받으셨습니다.</string>
+    <string name="signup_invite_error">초대코드를 확인후 다시 시도해주세요.</string>
+    <string name="signup_invite_input_title">추천인 코드</string>
+    <string name="signup_invite_not_found_error">존재하지 않는 초대코드입니다.</string>
+    <string name="signup_invite_title">추천인 입력하기</string>
+    <string name="signup_please">"회원가입을 하셔야 캐시가 적립됩니다.
+여기를 눌러서 회원가입을 해주세요."</string>
+    <string name="signup_profile_desc">"안녕하세요 %s님!
+프로필 사진과 이름을 입력해주세요."</string>
+    <string name="signup_profile_input">프로필을 입력해주세요.</string>
+    <string name="signup_profile_input_edit">이름을 입력해주세요</string>
+    <string name="signup_profile_input_picture">사진을 입력해주세요</string>
+    <string name="signup_profile_title">프로필 설정하기</string>
+    <string name="signup_tall_input_edit">키를 입력해주세요</string>
+    <string name="signup_tos_please">이용약관에 모두 동의하셔야 회원가입을 진행하실 수 있습니다.</string>
+    <string name="signup_tos_view">전문보기</string>
+    <string name="signup_weight_desc">"%s님,
+정확한 운동량 측정을 위해 키와 몸무게를 입력해주세요."</string>
+    <string name="signup_weight_input">키와 몸무게를 입력해주세요.</string>
+    <string name="signup_weight_input_edit">몸무게를 입력해주세요</string>
+    <string name="signup_weight_title">키, 몸무게 설정하기</string>
+    <string name="skip">건너뛰기</string>
+    <string name="sleep_cashband_all_time">총 수면시간</string>
+    <string name="sleep_cashband_deep">깊은수면</string>
+    <string name="sleep_cashband_end_sleep">취침</string>
+    <string name="sleep_cashband_light">얕은수면</string>
+    <string name="sleep_cashband_start_sleep">기상</string>
+    <string name="sleep_cashband_title">수면</string>
+    <string name="sleep_deep_description">의식이 전혀 없으며, 깨워도 일어나지 않은 깊은수면상태에 빠진 시간</string>
+    <string name="sleep_light_description">약간의 뒤척임을 감지, 잠들기 직전, 깨어나기 직전의 아주 짧은 시간</string>
+    <string name="sleep_record_cashband_title">수면기록</string>
+    <string name="sms">문자</string>
+    <string name="step">걸음</string>
+    <string name="step_total">누적걸음</string>
+    <string name="stepbet">걷기왕</string>
+    <string name="stepbet_friend_rank">친구 랭킹</string>
+    <string name="stepbet_intro_desc">선착순 최대 1,000명까지 참가 가능합니다.</string>
+    <string name="stepbet_intro_participate">참가하기</string>
+    <string name="stepbet_intro_participated">참가신청 완료!</string>
+    <string name="stepbet_intro_people">현재 참가 인원</string>
+    <string name="stepbet_intro_prize">총 상금</string>
+    <string name="stepbet_intro_title">"새로운 걷기왕 대회가
+개최되었습니다."</string>
+    <string name="stepbet_location_add">위치추가</string>
+    <string name="stepbet_photo_add">사진추가</string>
+    <string name="stepbet_rank">현재 랭킹</string>
+    <string name="stepbet_rank_100">순위권 밖</string>
+    <string name="stepbet_rank_preperation">랭킹준비중</string>
+    <string name="stepbet_rank_preperation_desc">정확한 순위 집계를 위해 자정부터 새벽 1시 까지는 순위가 표시되지 않습니다.</string>
+    <string name="stepbet_rank_unit">%s위</string>
+    <string name="stepbet_remain">남은시간</string>
+    <string name="stepbet_stat_dropout">%s님은 아쉽게도 탈락하셨습니다.</string>
+    <string name="stepbet_stat_dropout_continue">%s캐시를 사용해서 다시 시도해 보시겠습니까?</string>
+    <string name="stepbet_stat_dropout_out">"그만
+하기"</string>
+    <string name="stepbet_stat_dropout_retry">"다시
+도전"</string>
+    <string name="stepbet_stat_steps_mine">나의 현재 걸음</string>
+    <string name="stepbet_stat_steps_others">다른 참여자의 평균 걸음</string>
+    <string name="stepbet_story_add_error">%s님의 이야기를 공유하는데 실패했습니다. 인터넷 연결 상태를 확인해주세요.</string>
+    <string name="stepbet_story_add_loading">%s님의 이야기를 공유하는 중입니다.</string>
+    <string name="stepbet_story_add_success">%s님의 이야기를 공유했습니다.</string>
+    <string name="stepbet_story_comment_add_error">댓글을 다는데 실패했습니다. 인터넷 연결 상태를 확인해주세요.</string>
+    <string name="stepbet_story_comment_add_success">댓글을 달았습니다.</string>
+    <string name="stepbet_story_hint">지금 무슨 생각을 하시나요?</string>
+    <string name="stepbet_tab_stat">현황</string>
+    <string name="stepbet_tab_timeline">이야기</string>
+    <string name="stepbet_timeline_empty">"이번주 걷기왕의
+첫 이야기를 만들어볼까요?"</string>
+    <string name="stepbet_timeline_warning">음란한 사진이나 욕설을 올리는 즉시 계정과 캐시가 삭제되며, 해당 기기에서는 영원히 캐시워크 사용이 불가능해지니 주의해주세요.</string>
+    <string name="stepbet_title">%s님의 오늘 걸음 수</string>
+    <string name="steps_n">%s 걸음</string>
+    <string name="submit">작성완료</string>
+    <string name="sun">일</string>
+    <string name="tab_community">이야기</string>
+    <string name="tab_home">홈</string>
+    <string name="tab_mypage">마이페이지</string>
+    <string name="tab_rank">랭킹</string>
+    <string name="tab_setting">설정</string>
+    <string name="tab_shop">쇼핑</string>
+    <string name="tab_stat">통계</string>
+    <string name="tab_timeline">타임라인</string>
+    <string name="tall">키</string>
+    <string name="temp_high">최고</string>
+    <string name="temp_low">최저</string>
+    <string name="thr">목</string>
+    <string name="ticker_0">오늘도 같이 걸어볼까요? 화이팅!</string>
+    <string name="ticker_0_morning">굿모닝! 오늘도 힘차게 걸어볼까요?</string>
+    <string name="time_day_ago">일전</string>
+    <string name="time_hour_ago">시간전</string>
+    <string name="time_min_ago">분전</string>
+    <string name="time_month_ago">달전</string>
+    <string name="time_right_before">방금전</string>
+    <string name="time_sec_ago">초전</string>
+    <string name="time_year_ago">년전</string>
+    <string name="timeline_tab_everyone">모두의 활동</string>
+    <string name="timeline_tab_mine">나의 활동</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="today">오늘</string>
+    <string name="tomorrow">내일</string>
+    <string name="total">총</string>
+    <string name="total_rank">전체 랭킹</string>
+    <string name="try_again">다시시도</string>
+    <string name="tue">화</string>
+    <string name="twitter">트위터</string>
+    <string name="ucrop_error_input_data_is_absent">Both input and output Uri must be specified</string>
+    <string name="ucrop_mutate_exception_hint">Therefore, override color resource (ucrop_color_toolbar_widget) in your app to make it work on pre-L devices</string>
+    <string name="until">까지</string>
+    <string name="update_btn">업데이트</string>
+    <string name="update_cash_old_client">최신버전으로 업데이트 하셔야 포인트 적립이 가능합니다.</string>
+    <string name="update_info">최신버전으로 업데이트 하셔야 사용가능합니다.</string>
+    <string name="update_info2">"중요한 업데이트가 있습니다!
+업데이트 후 이용해주세요!"</string>
+    <string name="update_version">최신버전으로 업데이트</string>
+    <string name="url">링크복사</string>
+    <string name="used">사용완료</string>
+    <string name="user">사용자</string>
+    <string name="v7_preference_off">OFF</string>
+    <string name="v7_preference_on">ON</string>
+    <string name="video_ad_error">금일 준비된 광고가 모두 소진되었습니다.</string>
+    <string name="viral_copy_done">초대 메시지가 복사되었습니다.</string>
+    <string name="viral_copy_done_facebook">초대 메시지가 복사되었습니다. 페이스북에 붙여넣기 해주세요.</string>
+    <string name="viral_copy_mycode_done">추천코드가 복사되었습니다.</string>
+    <string name="viral_event_description_1">"친구 1명 가입할때마다
+%1$s캐시 지급"</string>
+    <string name="viral_event_description_2">"친구 10명 가입할때마다
+%1$s캐시 지급"</string>
+    <string name="viral_event_title1">"혜택
+1"</string>
+    <string name="viral_event_title2">"혜택
+2"</string>
+    <string name="viral_infomation_msg">"- 친구가 가입할때마다 나에게 %1$s캐시 자동지급됩니다.
+- 친구초대는 최대 100명까지 가능합니다. (1인당 %2$s캐시)
+- 아직 가입하지 않은 친구에게만 초대할 수 있습니다.
+- 본 이벤트는사전 예고 없이 조기종료되거나 취소될 수 있습니다."</string>
+    <string name="viral_invite_btn">지금 %1$s캐시 받기</string>
+    <string name="viral_invite_msg">"안녕하세요. 걷기만해도 돈을 버는 신기한 만보기 캐시워크를 소개합니다.
+
+지금 설치하시고 추천코드를 입력하시면 바로 %1$s캐시를 받으실 수 있어요.
+
+적립받은 캐시를 다양한 제휴점에서 현금처럼 사용해보세요.
+
+제 추천코드는 [%2$s] 입니다."</string>
+    <string name="viral_invite_status_1">%1$s명 / 최대100명</string>
+    <string name="viral_invite_status_2">%1$s명 달성! </string>
+    <string name="viral_invite_status_3">%1$s명</string>
+    <string name="viral_invite_status_4"> </string>
+    <string name="viral_invite_status_5">더 초대 가능!</string>
+    <string name="viral_invite_sub_status">%1$s명만 더 초대하면 보너스 %2$s캐시!</string>
+    <string name="viral_invite_sub_status2">%1$s명만 초대하면 보너스 %2$s캐시!</string>
+    <string name="viral_push" formatted="false">%s님이 친구초대로 가입하여 %s캐시가 적립되었습니다.</string>
+    <string name="viral_push_no_nickname">친구초대로 친구가 가입하여 %s캐시가 적립되었습니다.</string>
+    <string name="viral_tip_msg">"- 친구가 나의 초대코드로 가입할 때마다 %1$s캐시 자동지급됩니다.
+- 친구 초대는 최대 100명까지만 가능합니다. (1인당 %2$s캐시)
+- 공유하신 URL을 통해가입하신 분만 측정가능합니다.
+- 신규가입자만 측정됩니다.
+- 본 이벤트는 사전 예고 없이 조기종료되거나 취소될 수 있습니다."</string>
+    <string name="viral_tip_one_msg">페이스북으로 널리 공유한다.</string>
+    <string name="viral_tip_three_msg">블로그에 URL포스팅한다.</string>
+    <string name="viral_tip_two_msg">밴드로 많이 공유한다.</string>
+    <string name="weather">날씨</string>
+    <string name="wed">수</string>
+    <string name="week">주</string>
+    <string name="weekly">주간</string>
+    <string name="weight">몸무게</string>
+    <string name="won">원</string>
+    <string name="write">글 쓰기</string>
+</resources>

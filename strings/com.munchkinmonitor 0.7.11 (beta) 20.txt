@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Munchkin Monitor</string>
+    <string name="use_device_as">Use device as</string>
+    <string name="pair_2_devices">Pair Devices</string>
+    <string name="txt_device_name">Device name</string>
+    <string name="device_name_blank">Invalid device name</string>
+    <string name="txt_primary">This is Device 1</string>
+    <string name="txt_secondary">This is Device 2</string>
+    <string name="txt_bs">Munchkin Station</string>
+    <string name="txt_ps">Parent Station</string>
+    <string name="txt_bs_run">Munchkin Station Started</string>
+    <string name="txt_ps_run">Parent Station Started</string>
+    <string name="put_code_into">Enter code into Device 2</string>
+    <string name="put_code_from">Enter code from Device 1</string>
+    <string name="txt_ps_req_confirm">Confirm Pair Request</string>
+    <string name="txt_wait_confirm">Waiting for Pair Request confirm</string>
+    <string name="txt_ps_req_denied">Pair request Denied!</string>
+    <string name="txt_ps_req">Pair request from: \"%s\"</string>
+    <string name="txt_ps_req_timeout">"Pair request timed out. Please try again.
+You must install the app on another device and start pair mode."</string>
+    <string name="dont_show_again">Do not show again</string>
+    <string name="exit_confirm">Stop and Exit?</string>
+    <string name="modify_hint">Hint: Press and hold to modify</string>
+    <string name="talk_hint">Press and hold to speak</string>
+    <string name="listen_hint">Press and hold to listen</string>
+    <string name="audio_stream_hint">Audio streaming</string>
+    <string name="txt_event_log">Event Log</string>
+    <string name="txt_settings">Settings</string>
+    <string name="txt_start">Start</string>
+    <string name="txt_stop">Stop</string>
+    <string name="state_asleep">Baby Asleep</string>
+    <string name="state_pre_cry">Baby Noisy!</string>
+    <string name="state_crying">Baby Crying!</string>
+    <string name="txt_pls_wait">Please Wait</string>
+    <string name="txt_no_data">Waiting for Munchkin Station</string>
+    <string name="txt_bs_timeout">Munchkin Station Timeout!</string>
+    <string name="txt_bs_unavail">Munchkin Station is not connected!</string>
+    <string name="txt_batt_low">Munchkin Station Battery Low!</string>
+    <string name="txt_connect">Connect</string>
+    <string name="txt_connected">Connected</string>
+    <string name="txt_connecting">Connecting</string>
+    <string name="txt_disconnected">Disconnected</string>
+    <string name="txt_last_update">Last update:</string>
+    <string name="txt_ok">OK</string>
+    <string name="txt_cancel">Cancel</string>
+    <string name="txt_update">Update</string>
+    <string name="txt_about">About</string>
+    <string name="txt_stats">Data Usage</string>
+    <string name="txt_allow">Allow</string>
+    <string name="txt_deny">Deny</string>
+    <string name="txt_share">Share</string>
+    <string name="txt_send">Send</string>
+    <string name="txt_scan">Scan</string>
+    <string name="txt_modify">Modify</string>
+    <string name="txt_del">Delete</string>
+    <string name="txt_help">Help</string>
+    <string name="txt_clear">Clear</string>
+    <string name="txt_filter">Filter</string>
+    <string name="txt_disclaimer">Disclaimer</string>
+    <string name="txt_notice">Notice</string>
+    <string name="txt_general">General</string>
+    <string name="txt_sensitivity">Sensitivity</string>
+    <string name="txt_notification">Notification</string>
+    <string name="txt_notif_freq">Notification repeat</string>
+    <string name="txt_vibrate">Vibrate</string>
+    <string name="txt_sound">Sound</string>
+    <string name="txt_pic_xfer">Picture Transferred</string>
+    <string name="txt_live_video">Live Video</string>
+    <string name="txt_error">Error</string>
+    <string name="txt_error_network">Network Error</string>
+    <string name="txt_error_camera">Camera Error</string>
+    <string name="txt_error_internal">Internal Error</string>
+    <string name="txt_check_logs">Check system logs</string>
+    <string name="error_camera_open">Error opening camera :(</string>
+    <string name="error_write">Error saving file :(</string>
+    <string name="error_storage">Error accessing internal storage :(</string>
+    <string name="error_no_cloud">"Error connecting to cloud :(
+Re-trying.."</string>
+    <string name="error_no_network">"Error connecting to cloud,
+please enable WiFi or mobile data."</string>
+    <string name="error_camera_screen_off">Error opening camera, Munchkin Station screen is off!</string>
+    <string name="error_camera_start">Error starting camera preview :(</string>
+    <string name="error_camera_params">Error setting camera parameters :(</string>
+    <string name="error_mic">Audio capture failed!</string>
+    <string name="error_logcat">System logs capture failed :(</string>
+    <string name="debug_notice">Please, use these tools only as directed by the developers!</string>
+    <string name="share_logs">Share System Logs</string>
+    <string name="c_test_run">Run Connection Test</string>
+    <string name="c_test_run2">Run Audio Loopback Test</string>
+    <string name="c_test_note">Please be patient..test will run for a few minutes.</string>
+    <string name="rate_quality">How was the monitoring quality?</string>
+    <string name="rate_app_title">Thank you for using Munchkin Monitor!</string>
+    <string name="rate_app_body">Would you like to rate the app and check for updates on the Play Store?</string>
+    <string name="error_invlid_pspcode">"Invalid code. Please enter the code exactly as it appears on the Munchkin Station.
+Example: \"0123\""</string>
+    <string name="error_version_mismatch">App version mismatch, please ensure you have the latest version of the app installed on both Parent and Munchkin Stations.</string>
+    <string name="error_expired">This version of the app is no longer supported, please update via Play Store.</string>
+    <string name="main_hint">To use the app you must download and install it on two different devices. One device will act as the \"Munchkin Station\" and stay with the baby, while the other acts as a \"Parent Station\" and stays with you.</string>
+    <string name="bs_help">"- The app will continue to run until you press the Stop button. 
+- Ensure the device has good network connectivity, and sufficient battery. 
+- Adjust the position of the camera to ensure you have a good view of your baby. Hint: Try including a clock in the camera frame."</string>
+    <string name="ps_help">"- The app will continue to run until you press the Stop button. 
+- Tap the Camera icon to get a picture from the Munchkin Station camera."</string>
+    <string name="disclaimer">"Thank you for downloading Munchkin Monitor! Before using the app, please review the following: 
+- While we have done our best to ensure the app always works as intended, technology can and will fail. It is the responsibility of the user to always be within quick reach of (and regularly personally check on) the baby being monitored. 
+- The app transfers images and noise information over our servers. All information is completely anonymous, and encryption is used to prevent eavesdropping. Data is not retained or stored outside the app. 
+
+By using the app you indicate your acceptance of the following disclaimer: 
+This app, all related components, programs and written material (\"software\") is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY OR LIABILITY; without even the implied warranty of merchantability or fitness for a particular purpose. The software is provided AS IS, the entire risk as to the quality and performance of the software is with the user. Should the software prove defective, and/or should any damages arise the developer(s), or anyone else, shall not be held responsible. USE AT YOUR OWN RISK."</string>
+    <string name="beta_notice">"The app is currently in \"Beta\", which means we are still working on improving it. 
+
+This beta version of the app will expire at a later date. You will be notified when the date gets closer. 
+
+Please send your feedback and feature wishes to feedback@munchkin-monitor.com or by visiting http://munchkin-monitor.com"</string>
+    <string name="expiry_note">This beta version of the app is going to expire soon! Please get the latest update from the Play Store.</string>
+    <string name="expired_note">This beta version of the app has expired! Please get the latest update from the Play Store.</string>
+    <string name="opt_autodim">Auto Dim</string>
+    <string name="opt_autodim_sum">Automatically dim screen after a while.</string>
+    <string name="opt_wakelock">Keep Phone Awake</string>
+    <string name="opt_wakelock_sum">Necessary for most phones to keep WiFi connection active, and take pictures.</string>
+    <string name="opt_password">Password</string>
+    <string name="opt_password_bs">Set Password for Parent Stations</string>
+    <string name="opt_password_ps">Enter Password</string>
+    <string name="opt_mic_sensitivity">Microphone Sensitivity</string>
+    <string name="opt_cry_delay">Crying if noisy for</string>
+    <string name="opt_sleep_delay">Asleep if quiet for</string>
+    <string name="opt_audio_auto">Auto Listen on Noise</string>
+    <string name="opt_audio_tic">Audio Tic</string>
+    <string name="opt_audio_tic_sum">Chime when Munchkin Station sends status</string>
+    <string name="opt_wifi_video">Live video over WiFi</string>
+    <string name="opt_save_batt_sum">Disable to save battery.</string>
+</resources>
